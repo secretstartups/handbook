@@ -15,7 +15,7 @@ GitLab will from time-to-time bring in the expertise of External Consultants to 
 
 ## Consultant Orientation
 
-- The Orientation Issue for External Consultants can be found in the [Lifecycle Management Project](https://gitlab.com/gitlab-com/contingent-workers/lifecycle) - this issue should only be created by a **Vendor Manager** i.e. the individual responsible for initiating the consulting relationship, once a [Vendor Contract Request](https://gitlab.com/gitlab-com/Finance-Division/finance/-/blob/master/.gitlab/issue_templates/general_vendor_contract_request.md) has been created an moved through the approval process.
+- The Orientation Issue for External Consultants can be found in the [Lifecycle Management Project](https://gitlab.com/gitlab-com/contingent-workers/lifecycle) - this issue should only be created by a **Vendor Manager** i.e. the individual responsible for initiating the consulting relationship, once a [Vendor Contract Request](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) has been created an moved through the approval process.
 
 Once this process is complete the External Consultant will be added to ContractWorks and not BambooHR which is strictly for GitLab Team Members.
 

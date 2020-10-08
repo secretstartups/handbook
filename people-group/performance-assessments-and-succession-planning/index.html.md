@@ -18,17 +18,6 @@ To ensure we remain efficient, we built a [Performance/Potential Assessment Tool
 
 # The Performance/Potential Matrix
 
-## Performance/Potential Matrix (Leadership)
-
-| | | | |
-|-----------------|---------------|---------------|----------------|
-| **Exceeding** | Good current performance but with risk of inability to grow leadership capabilities, expertise and future focus as required by the business; focus is on developing leadership capability with emphasis on | Strong business performance and strong day to day management of the business/function; management style is focused on today’s challenges; focus is on developing leadership capability with emphasis on innovation | Exceptional performance coupled with strong leadership capability to drive innovative growth of business; focus is on leveraging against critical needs of business |
-| **Performing** | Solid business performance today but with risk of falling behind due to lack of leadership capability | Solid management and performance for today’s business challenges; potential to maximize contribution in current business model; focus on development of leadership capabilities and maintaining required expertise | Solid Performance with high potential to make significant contributions to the business; positioned to excel by leveraging leadership capabilities in challenging assignments |
-| **Developing** | Below average performance and inconsistent leadership behaviors; operating from previous business models despite feedback focus is on performance management | Average to below average performance with limited capacity to increase performance through management and leadership capabilities; focus is on evaluating fit in the role; development is on improving performance | High Potential leader who is underperforming due to newness of role, business strategy or management team: focus is on enhancing contribution and leveraging leadership capabilities |
-| Performance ↑ Potential → | **Low Potential** | **Medium Potential**| **High Potential**|
-
-## Performance/Potential Matrix (Individual Contributor)
-
 | | | | |
 |-----------------|---------------|---------------|----------------|
 | **Exceeding** | Seasoned professional capable of expanded role, but maybe be experiencing problems that requires coaching and mentoring. | Does extremely well at current job with potential to do more; give stretch assignments to help prepare for next level. | Consistently performs well in a variety of assignments. Big picture thinker, aligns to our values, problem solver and self motivated. Focus on delegating to them or providing development opportunities |
@@ -41,7 +30,7 @@ It is commonly used in succession planning as a method of evaluation an organiza
 It is regularly considered a catalyst for robust dialogue and is considered more accurate than one person's opinion.
 The performance/potential matrix can be a diagnostic tool for development.
 
-### Performance/Potential High Level
+### Performance/Potential Overview
 
 Below are examples for Managers to consider when compiling their criteria set, some of which speak to productivity and others to potential giving a balanced sense of where the team member should be placed in the matrix:
 
@@ -141,11 +130,40 @@ Performance against competencies should be weighted at 40%.
 
 ## What is "Potential"?
 
-Potential refers to the ability and desire of a team member to successfully assume increasingly broad or complex responsibilities and scale with the company, as compared to peers and the roles and responsibilities outlined in their respective job family. 
+While performance is focused on the past and present, potential is focused on the future. Because of the nature of the future-focus associated with potential, it is more difficult to measure than performance, and inherently more qualitative than quantitative. A key element in determining potential is the manager and leadership observation and experience working with team members.  Managers can guage team member potential against the expectations in their current role or their potential to take on different roles across GitLab. 
 
-This could include a move up to the next level, and/or a lateral move. 
+Potential refers to the ability and desire of a team member to successfully assume increasingly more broad or complex responsibilities and learn new skills, as compared to peers and the roles' responsibilities outlined in their respective job family. This could include the potential to move up to the next level in their job family, and/or a lateral move. 
 
-_We will elaborate on the criteria to assess potential in our next iteration by 2020-10-12._
+Potential *can change* over time as team members develop new interests, as new opportunities for growth arise, and as team members continue to broaden their knowledge, skills, and abilities. 
+
+### Low
+
+Low potential generally refers to a team member who is working at full potential against the roles and responsibilities outlined in their job family. There could be a variety of reasons for this, including:
+
+* Lack of motivation to learn new skills or take on new projects
+* Motivated to do what is needed in current job, not in what is required in a higher level
+* Not expressing interest or demonstrating desire to move up or laterally 
+
+
+Please note that low potential *does not* equate to low performance, but has more to do with the team member's readiness and promotability for future opportunities. 
+
+### Medium
+
+Medium potential generally refers to a team member who is growing in their current role and demonstrating interest in advancing (up or laterally) and they exhibit knowledge, skills, and abilities that indicate this. Team members with medium potential generally:
+
+* Show interest in areas outside of their immediate scope occasionally
+* Are comfortable in their current role
+* Are a stable counterpart for other team members (especially for peers and more junior team members)
+* Learn and apply new skills when the job calls for it; apply lessons learned to enhance success
+
+### High
+
+High potential generally indicates that a team members will be ready for promotion within the next year (or when an opportunity arises). High potential team members:
+
+* Frequently seek involvement in stretch project/projects outside of their scope
+* Invest in their development; seeks feedback to improve and applies that feedback on the job 
+* Demonstrates ability to learn new skills
+* Actively pursues in creased opportunities to influence decisions and inspire others
 
 ## Calibration Session Guidelines
 
@@ -194,23 +212,45 @@ There is an overview of recommended actions to take after the calibration sessio
 
 Our e-group completes Performance/Potential Matrix quarterly for all their direct reports. The rest of GitLab does this twice annually, ideally in Q2 and Q4. In Q2, the exercise would ideally take place after the [360 annual feedback review](/handbook/people-group/360-feedback/), and in Q4 the exercise would ideally take place in November prior to the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). 
 
+#### Eligibility
+
+Anyone hired on or before October 31st is eligible to participate in the Q4 Performance/Potential matrix annual review. However, if the team member being assessed has been with GitLab for a period of 3 months or less, it is likely that these team members will fall into `Developing` for performance and should not expect a compensation adjustment, although they are still eligible to be reviewed.
+
+This is because team members generally need several months to get adjusted to their role and responsibilities, and we ideally would have hired the team member at their accurate market rate. 
+
+While there are exceptions, this is the general rule of thumb. 
+
 ### Initial Launch Timeline
 
 GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the exericse is as follows:
 
+*September*
 * 2020-09-30: Review and iterate based on feedback provided in the [issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/965)
 * 2020-09-30 (or prior): Update [compensation calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/) in preparation for October training
+
+*October*
 * 2020-10-07: Handbook fully updated with first iteration of Performance definitions
-* 2020-10-12: Meaning of "potential" defined
-* 2020-10-14: Determine training plan and rollout with L&D
+* 2020-10-14: Meaning of "potential" defined and in handbook
 * 2020-10-16: Communication to the whole organization
-* 2020-10-19: Kick off AMA's/manager training 
-* 2020-10-21: First version of the Performance/Potential matrix tool ready
-* 2020-10-30: Manager training completed
-* 2020-11-01: Kick off formal assessment period
-* 2020-11: Performance/potential matrix is completed company wide
-* 2020-11-30: Performance rating finalized for all team members and approved through the e-group level
-* 2020-12: Communication Guidance to be determined and updated below.
+* 2020-10-21: Performance Factors Training Session for Managers (2 sessions 8:30am PST and 5pm PST)
+* 2020-10-28: AMA Performance Factors (2 sessions 8am PST and 5pm PST)
+* 2020-10-29: Performance Factors Office Hours (2 sessions 8am PST and 5pm PST)
+
+*November*
+* 2020-11-02: First version of the Performance/Potential matrix tool ready
+* 2020-11-02: Kick off formal assessment period
+* 2020-11-04: Performance Factors Training for all team members (2 sessions 8:30am PST and 5pm pST)
+* 2020-11-30 Performance/potential matrix is completed company wide
+
+*December*
+* 2020-12-04: Performance rating finalized for all team members and approved through the e-group level
+* 2020-12: Performance axis results communicated with team members
+
+*January*
+* 2020-01: Manager review will open in Compaas for managers to advise on dollar amounts for increase (guided by Performance Factor results)
+
+*February*
+* 2020-02: Annual compensation review changes are effective February 1, 2021
 
 ### Matrix Assessment Timeline 
 
@@ -219,12 +259,49 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 1. Managers complete a Performance/Potential Matrix for their respective teams
 1. Live session takes place for calibration 
 1. Executive Review (leadership meets to review the matrix results, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results).
-1. TBD Communication timeline and best practices.  
+1. Performance axis results communited with team members. 
 1. Retrospace takes place with leadership to determine next steps and iterate. 
 
 ## Communication 
 
-In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. For this first iteration, we are in the process of determining what will be communicated with feedback from GitLab managers and team members. We will update this handbook page with more information on the communication plan soon. 
+In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback resulting from calibration sessions to be communicated with team members, but refrain from communicating box-specific placement. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
+
+We hope to increase the scope of our communication as we iterate on the the Performance/Potential Matrix process further and continue to define criteria and receive feedback after the first iteration in Q4 FY`21. 
+
+### Do Communicate
+Managers are *encouraged* to communicate the following directly with each individual on their team:
+
+1. Discussion points from calibration sessions 
+1. "Performance" axis results (AKA: The [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) as this impacts compensation. _Please refrain from communicating Performance axis final placement until apprvoed through the e-group level._
+
+We recommend communicating the points above directly with team members because:
+
+* This information should not come as a surprise to team members (as career development conversations and feedback should be ongoing)
+* It provides an opportunity to receive input/feedback from team members
+* It serves as a platform that can feed into a development plan
+
+##### Communicating Matrix Feedback
+
+Below are a few recommendations for managers when communicating themes from the calbiration discussion:
+
+* Discuss areas the team member is doing well
+* Discuss areas that need improvement
+* Provide examples
+* Provide recommendations for future development
+* Prepare the communication in advance
+
+### Do Not Communicate
+Managers are *discouraged from communicating* the following:
+
+1. Box placement in the matrix
+1. "Potential" axis results 
+
+We discourage communicating the points above directly with team members because:
+
+* We want to move away from the "box" and focus on actionable items and development (the box is simply a manager tool to help think through the process).
+* To stay iterative, we wanted to rollout the first iteration of the talent assessment this year. As a result, we have prioritized the development of Performance axis guidelines and criteria (as it will impact compensation during the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review)), and the Potential axis criteria is still being developed. We want to make sure our guidelines and defining criteria are clear before communicating Potential. 
+* To allow an opportunity to receive feedback on the Performance/Potential matrix process to determine whether this is the talent assessment tool we will use moving forward. 
+
 
 ## Succession Planning
 
@@ -239,6 +316,20 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 | Ready Now | Someone who could be promoted into the role today  |   |
 | 1-2 Years | Someone who could be trained and elevated into the role in 1-2 years  |   |
 | 3-5 Years | Someone who could be trained and elevated into the role in 3-5 years  |   |
+
+## Resources
+
+| Resource | Purpose |
+| ------ | ------ |
+| [Performance/Potential Training Slides](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44) | All managers/leaders should review this content prior to beginning the Performance/Potential matrix assessment process. |
+| [Performance/Potential Team Template](https://docs.google.com/presentation/d/123fS20lqXt-bhDEqwMCyL2K1BAcgVCEd61pQW6FmfRw/edit) | This slide deck provides a template for the assessment for teams that choose to do the exercise prior to the completion of the [assessment tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/). |
+| [Values competencies](/handbook/competencies/#values-competencies) | Values competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
+|[Remote work competencies](/handbook/competencies/#remote-work-competencies) | Remote work competenices form an important part of the Performance Factor evaluation and are important to review prior to beginning the assessment period. |
+| [Functional competencies](/handbook/competencies/#functional-competencies) | Functional competenices (for groups that have them developmed) can also influence the Performance Factor and should be reviewed prior to the assessment period. |
+| [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) | It is important to me mindful of unconscious bias always, and especially during talent reviews and assessments. It is highly recommended that you review the handook page and watch the training. |
+| [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) handbook page | This page is the SSOT to review the Performance Factor's impact on compensation. |
+
+
 
 
 
