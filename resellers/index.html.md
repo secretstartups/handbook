@@ -543,7 +543,8 @@ An order is not complete without a signed agreement.
 
 #### Marketing Resources
 
-GitLab marketing resources can be found on the [GitLab Partner Portal](partners.gitlab.com) as well as in the GitLab Handbook.  VIsit the portal or select the links below to the corresponding resources and instructions for usage.  
+GitLab marketing resources can be found on the [GitLab Partner Portal](https://partners.gitlab.com) as well as in the GitLab Handbook.  VIsit the portal or select the links below to the corresponding resources and instructions for usage.  
+
 
 
 ##### GitLab Branding Usage
