@@ -135,7 +135,7 @@ If you are willing to act as a mentor for the program, you should do a few
 things:
 
 1. Discuss your desire to be a mentor with your own manager.
-1. Decide what product areas of focus you'd like the intern to focus on (SAST,DAST,etc)
+1. Decide what product areas of focus you'd like the intern to focus on (SAST, DAST, etc)
   and that you'd feel comfortable coaching. This is important in case an intern
   is interested in an area you are unfamiliar or uncomfortable with.
 1. Add your availability and name to the chart above.
