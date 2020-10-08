@@ -154,7 +154,7 @@ Effective January 1, 2021, GitLab will be transitioning from UHC to Cigna as the
 
 In Network:
 
-| Plan Details               | Cigna - HSA  | Cigna EPO (PPO $0)** | Cigna PPO 500***       |
+| Plan Details               | [Cigna - HSA](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing)  | [Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing) | [Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)       |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
 | OOP Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -228,7 +228,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details               | HMO 20 NorCal       | HMO 20 SoCal    | HMO 20 CO     | HMO 20 HI       |
+| Plan Details               | [HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)       | [HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)    | [HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing)     | [HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)       |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
@@ -311,7 +311,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details                         | [DPPO](https://drive.google.com/open?id=1qkqT5khP4RV5W-r0WGex9SQqzPFoOYw-)       |  
+| Plan Details                         | [DPPO](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing)       |  
 |--------------------------------------|:----------:|
 | Deductible                           | $50 / $150 |
 | Maximum Benefit                      | $2,000     |
@@ -382,7 +382,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details                      | [Vision](https://drive.google.com/open?id=1grzcuDd0CiuDQthZ2SAGyOYUEQJro1yB)       |  
+| Plan Details                      | [Vision](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing)       |  
 |-----------------------------------|:------------:|
 | Frequency of Services             | 12 / 12 / 12 |
 | Copay Exam                        | $20          |  
