@@ -158,7 +158,7 @@ By being comfortable using ZD Explore, a primary source, we can make sure that w
 ### What happens if metrics aren't where they should be?
 Each week in the [Support Leadership Meetings](#support-leadership-meeting) we'll review the key metrics.
 
-If any of the follow floors are met, managers should form a group to analyze the cause and suggest actions to correct the trend.
+If the the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
 
 1. Combined First Reply Time (L&R, GitLab SM and GitLab SaaS) at or below 93%
 1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
@@ -173,6 +173,11 @@ The purpose of the group will be unique to each situation that triggers it, but 
 - document _how_ they analyzed their hypothesis and include it in the section below
 
 These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html). 
+
+### Forming a Group
+1. Identify 2-3 Managers who will take part in the workgroup
+1. Open an issue using the [Metrics Workgroup Template](https://gitlab.com/gitlab-com/support/metrics/-/issues/new?issuable_template=Metrics%20Workgroup)
+1. Determine hypothesis, gather data and propose temporary or permanent process changes as a result.
 
 #### FRT is below target
 ##### Common causes for FRT below target
