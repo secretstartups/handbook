@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Fulfillment Backend Team
+title: Fulfillment Purchase Backend Team
 ---
 
 ## On this page
@@ -119,7 +119,7 @@ When a `feature` or `Deliverable` proposal issue moves into `workflow::planning 
 
 #### Tests
 
-The CustomersDot has different types of tests running:
+The Subscriptions App has different types of tests running:
 
 1. Linting and [rubocop](https://github.com/rubocop-hq/rubocop) jobs
 1. Unit tests (specs, these could be of many types, such as controller specs)
@@ -133,9 +133,9 @@ Any test failure is notified to #g_fulfillment_status including a link to the pi
 
 ### Deployment
 
-#### CustomersDot
+#### Subscriptions App
 
-We use CD (Continuous Deployment) for the [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+We use CD (Continuous Deployment) for the [Subscriptions App](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
 
 ```mermaid
 graph TD;
@@ -162,7 +162,7 @@ In most cases an MR should follow the standard process of review, maintainer rev
 
 1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
 1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
-1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+1. When there are no project maintainers available ([Subscriptions App](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
 
 In these cases please ensure:
 
