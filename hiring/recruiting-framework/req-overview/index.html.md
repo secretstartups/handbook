@@ -33,7 +33,7 @@ The Recruiting Manager/Lead will create the vacancy in Greenhouse following the 
 ### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
 The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the recruiter, sourcer, CES, hiring team, and hiring manager. Recruiters and Sourcers should come prepared for the kick-off session with insights and should act as a talent advisor.
 
-The Recruiter will schedule the kick-off session and must open a [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) ahead of the kick-off session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES on the kick-off session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. 
+The Recruiter will schedule the kick-off session and must open a [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) ahead of the kick-off session so the Recruiter, Sourcer, and Hiring Manager can contribute to it ahead of time. A link to the [**REQ Kick-off Issue**](https://gitlab.com/gl-recruiting/req-intake/issues/new) should be included in the invite.  The Recruiter should include the Hiring Manager, Sourcer, and CES team on the kick-off session invite.  Everyone involved in hiring for the REQ should be tagged into the issue so everyone understands the requirments, process, and individual accountabilities. 
 
 During the kick-off session all participants should agree on the **Sourcing Priority** (P0, P1, P2). Every role should receive sourcing support based on the [Recruiting Alingmnent](/handbook/hiring/recruiting-alignment/).
 
@@ -146,7 +146,7 @@ If at any time during the interview process a candidate is declined due to compe
 
 #### Team Interview
 
-*  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will request availability from the applicant using Greenhouse templates while cc’ing the CES, who will [schedule team interviews](/handbook/hiring/recruiting-framework/coordinator/#schedule-team-interviews).
+*  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will ping `@ces` in the Greenhouse profile with specific communication on what interview(s) need to be scheduled. The CES team will then [schedule team interviews](/handbook/hiring/recruiting-framework/coordinator/#schedule-team-interviews).
 * The number of team interviews and order will vary from vacacny to vacancy. An example of what a Team Interview may look like is:
   * Round 1: 50 minute interview with Hiring Manager
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
@@ -160,13 +160,13 @@ If at any time during the interview process a candidate is declined due to compe
 
 ### **Step 7: References and Background Check**
 
-Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter or CES will reach out to the candidate to request their references contact details and inform them a backgound check is being issued, using the Greenhouse email template. The CES will [initiate the background check](/handbook/hiring/recruiting-framework/coordinator/#initiate-background-check). 
+Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will tag `@ces` in the Greenhouse profile to reach out to the candidate to request their references contact details and inform them a backgound check is being issued, using [Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide). The CES will [initiate the background check](/handbook/hiring/recruiting-framework/coordinator/#initiate-background-check). 
 
 ### **Step 8: Justification (Engineering Only)**
 
 ### **Step 9: Offer Approval**
 
-Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval.
+Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval. Please note, with the use of Guide, candidates will be made aware when they are moved into Offer stage so move stages with caution.
 
 ### **Step 10: Req Retro Issue**
 
@@ -197,4 +197,4 @@ After the verbal offer is made the recruiter can send an email to the candidate 
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.* 
 
 ### **Step 11: Contract**
-Once a verbal offer is made to a candidate, the Recruiter will notify CES to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. The candidate will receive the contract once the appropriate internal signature is provided. Once a candidate signs a contract, the CES will provide further information on next steps.
+Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
