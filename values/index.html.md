@@ -319,7 +319,7 @@ Agree in writing on measurable goals. Within the company we use [public OKRs](/c
 
 ##### Growth mindset
 {:.no_toc}
-You don't always get results and this will result in criticism from yourself and/or others. We believe our talents can be developed through hard work, good strategies, learning opportunities, and input from others. It is in our DNA as a company and individuals to look for opportunity, to stay humble, and to never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). Also, we strive to foster a culture of curiosity and continuous learning where our team members are given countless opportunities to grow themselves and their careers.
+You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers.
 
 ##### Global optimization
 {:.no_toc}
