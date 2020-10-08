@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Recruiting Process - Candidate Experience Specialist Tasks"
+title: "Candidate Experience Specialist Responsibilities"
 ---
 
 ## On this page
@@ -9,26 +9,79 @@ title: "Recruiting Process - Candidate Experience Specialist Tasks"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Recruiting Process Framework - Candidate Experience Specialist Tasks
+## Candidate Experience Specialist Responsibilities
 {: #framework-coord}
 
-### Schedule first interview
+The CES team operates off of a queue style system with differing levels of priorities based on the request.  The CES team utilizes [GitLab Service Desk](/product/service-desk/) to track all incoming requests to the CES team.
 
-Once a candidate has provided their availability in Greenhouse, the Candidate Experience Specialist will utilize the internal [hiring processes repository](https://gitlab.com/gitlab-com/people-ops/hiring-processes) to determine scheduling needs. If the repo is outdated or you are unsure of the interview process, reach out to the recruiter.
 
-### Schedule team interviews
+### Best Practices
 
-Once a candidate has provided their availability in Greenhouse for the next step in the interview process, the Candidate Experience Specialist will utilize the internal [hiring processes repository](https://gitlab.com/gitlab-com/people-ops/hiring-processes) and schedule all interviews in accordance with the interview plan. The candidate is moved to the next step in the interview plan by a yes or strong yes scorecard.  When scheduling multiple interviews, in the confirmation email screen, click on each calendar invite and edit the text to read: "Interview with (insert name of interviewer) at GitLab".   
-The Candidate Experience Specialist should be sure to inform the candidate that each subsequent interview is contingent on the success of the prior interview.
+- The CES team focuses their attention on incoming requests in the following order: CES Service Desk, individual emails, `@ces` slack pings, and lastly slack direct messages. 
+- You can find the priority list based on the type of request below:
+   - 0 - Contracts
+   - 1 - Reference & Background checks
+   - 2 - Candidate emails
+   - 3 - Reschedules
+   - 4 - Schedule Interviews
+- The CES team now utilizes a new program called [Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide) to enhance the candidate experience and create a more transparent view into the recruiting processes. One of the features of the Guide is that each Greenhouse stage has a corresponding template that is automatically updated meaning that if a candidate is moved to References or Offer they will see that they are in that stage. Due to this feature, the team needs to be very conscious of when they are moving candidates inbetween stages. 
 
-Any candidates who receive a no or definitely not scorecard should be discussed with the Recruiter and the Hiring Manager before declining.
+#### How the CES Team will run the Service Desk
+
+1. Under this [CES Service Desk Project](https://gitlab.com/gl-recruiting/ces-service-desk) set up the proper notifications
+   - Click on the bell icon on the top right next to Star and Clone
+   - Go to Custom Settings
+   - Check "New issue"
+   - Closeout the window
+1. On the left-side menu bar click Issues
+   - This is where all our incoming CES emails will create an issue. You'll get an alert when someone sends an email to the CES email alias. Any "emails" that need to be addressed will be an open issue listed within this project.
+1. Each CES will begin their workday by triaging issues within the Service Desk based on the [identified priority list](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#best-practices) by adding the appropriate label to the issue and then will begin working on Level 0 priority requests and so on.
+   1. Click on the new Issue
+   1. Assign it to yourself on the right-side toolbar
+   1. Read the Issue message
+   1. Respond to the "email" by adding comments to the issue (be sure to enter comments as you would an email to the candidate)
+   1. If this one comment address the entire message and the Application Tracking System (ATS) is the tool needed, add a comment and close the issue
+
+### Req Creation
+
+- The CES team needs to be notified once a req is approved for recruiting 
+- The Recruiter will open a req kick off issue template 
+   - A kick off isssue is required for all roles which includes evergreen positions
+   - The kick off issue will be the SSOT for documentation regarding all CES tasks required to open a new req
+- Internal only roles need to have "Current Team Members Only" on the req name  
+   - CES will then know to not add the role to the static site and the rest of the conpany will know that we do not accept referrals for it
+- Every kick off call will have the entire CES team invited and the team will have a rotation on which specialist will attend
+
+### Screening
+
+- Once a candidate is moved into the Screening stage, the Sourcer is to send the GSIS
+- When scheduling a candidate for a screening call with a recruiter, the calendly link is to be used. We will no longer use the "Request Availability" option for screening calls as this creates unnecessary manual work  
+   - If the candidate is sourced, the sourcer should send the calendly
+   - If it's an agency candidate or a referral where the recruiter may see the candidate first, the recruiter should send their calendly link
+
+### Team Interviews
+
+- When a candidate is ready to team interview interviews scheduled, the recruiter will ping `@ces` in the Greenhouse profile with next steps
+   - If there are shorter timelines for roles as defined by the hiring team, CES needs to be made aware of those timelines for when interviews need to be scheduled. We will default to scheduling interviews at a minimum of [48 hours](https://about.gitlab.com/handbook/hiring/interviewing/#moving-candidates-through-the-process) out to leave time for interviewer prep.
+   - Reminder: When tagging `@ces` in Greenhouse, do not tag anyone other than the team in the same ping as it will add those users to the service desk project.
+- The CES will request availability via Greenhouse
+   - CES will set a reminder to follow up regarding availability if not received within the next 48 hours 
+   - CES will then set another reminder to follow up 24 hours after the initial 48 hour email 
+   - After the 3rd email to candidate with no response, the CES will make the Recruiter aware of the no response 
+   - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
+- After availability is received, CES will schedule interviews based on the interview plans in Greenhouse   
+   - CES will be using the Zoom integration with Greenhouse for interviews
+- CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)
+- CES will not automatically schedule next interviews based off of scorecards 
+   - The Recruiter or Hiring Manager will need to tag `@ces` in Greenhouse with communication about specific next steps
+   - Any candidates who receive a no or definitely not scorecard should be discussed with the Recruiter and the Hiring Manager before declining.
 
 #### Executive Interview Scheduling
 
 For Directors and above with Executive Business Admins:
 
    1. Prior to candidates moving to the Executive interview stage the Candidate Experience Specialist (CES) ensures the candidate's profile contains a resume/cv,  contact phone number and feedback from prior interviews.
-   1. The CES then moves the candidate to Executive Stage in Greenhouse (if applicable).
+   1. The CES then moves the candidate to Executive Stage in Greenhouse (if applicable)
    1. The CES requests availability from the candidate.
    1. Once the availability is back from the candidate the CES will ping [the appropriate Executive Business Admin (EBA)](/handbook/eba/#executive-business-administrator-team) in the Greenhouse notes section and will include any relevant details such as internal, timezone or high priority.
    1. The EBA will schedule the interview using a unique zoom link, generated by the EBA, and will send out the interview confirmation email to the candidate with a cc to the candidate's CES.
@@ -73,17 +126,8 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 **How to send out a Guide to a candidate for the first time via Greenhouse**
 
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
-1. Select which Guide template you would like to use from the drop-down menu in the “Guide” box
-1. Please make sure the Application Review, Qualified and Justification stages are hidden by selecting the 'eye' next to those stages and making sure there is a line through it
-1. On the Team Interview stage in the Guide, you will need to do three things
-	1. Select the ‘pencil’ icon next to each interview and copy/paste the zoom link into the Remote Instructions box
-	1. While in that same edit window, update the numbers in front of the interview to reflect which interview it is in the stage (example: If you scheduled the first interview while there are 5 interviews within the Team Interview stage, the number in front of the scheduled interview should be 1 of 5, so on and so forth).  
-	1. If the interview name is something odd or has the names of all the interviewers that were possible, you will need to update the name of the interview to be just the interviewer who is scheduled. If you know what the interview will be about, feel free to put those details into the Description box. 
-1. Select Share
-1. The ‘To’ field should automatically populate with the candidate’s email address. 
-1. Select ‘Default Template’ from the Email Template options
-1. Remove the cc’d email addresses
-1. Press Send
+1. Select Preview and Send and ensure the correct Email Template is being used in the dropdown.  
+1. Select Send
 1. To make the chrome extension go away, click on the icon in the upper right corner again
 1. After the Guide is sent, in Greenhouse, select the dropdown where you go to request availability, confirmation, etc. and select the ‘Confirmation Sent’
 
@@ -91,39 +135,21 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 
 1. If you had to make a change to an interview, whether that is a cancel or reschedule and need to let the candidate know that there have been changes, you will need to resend the Guide.
 1. While in the candidate’s greenhouse profile, click on the Guide extension
-1. All of your previous manual updates should still be in the guide so there won’t be any need to re-do the manual steps
-1. Select ‘Share again’
-1. Select ‘Interview Changes Template’
+1. Select ‘Resend’
+1. Select the appropriate email template in the dropdown (e.g. New Interviewer, Shadow Added, Updated Interview Confirmation)
 1. Press ‘Send’
 
-#### Interview Reschedule Requests and Other Communication to the CES Email
+### Reference Checks/Background Checks
 
-The CES team utilizes [GitLab Service Desk](/product/service-desk/) to track incoming emails to the CES email alias.
+GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) with employment verifications.
 
-1. Under this [CES Service Desk Project](https://gitlab.com/gl-recruiting/ces-service-desk) set up the proper notifications
-   - Click on the bell icon on the top right next to Star and Clone
-   - Go to Custom Settings
-   - Check "New issue"
-   - Closeout the window
-1. On the left-side menu bar click Issues
-   - This is where all our incoming CES emails will create an issue. You'll get an alert when someone sends an email to the CES email alias. Any "emails" that need to be addressed will be an open issue listed within this project.
-1. Click on the new Issue
-1. Assign it to yourself on the right-side toolbar
-1. Read the Issue message
-1. Add the appropriate label
-1. Respond to the "email" by adding comments to the issue (be sure to enter comments as you would an email to the candidate)
-   - The response might be as simple as Dear x, thank you for giving the team a heads up on the change of your schedule. I've canceled your interview and we will reach out to reschedule after taking a look at schedules.
-1. If this one comment address the entire message and the Application Tracking System (ATS) is the tool needed, add a comment and close the issue
-   - If the one comment does not address the entire message then only select comment.
-1. Navigate to the ATS, if you are unable to reschedule or reset-up yourself tag the appropriate CES in the applicable greenhouse profile notes and copy the issue link in the comment (i.e. @Jane please reschedule with John per https:xxxxx)
-
-There may be situations where the CES email is used to thank the team or to send a follow-up note. In those cases, we would copy the text of the issue to forward to the appropriate parties through a greenhouse profile at mention.
-
-### Initiate and Review background checks
-
-Once notified by the recruiter, the Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. The Candidate Experience Specialist will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR if hired.
-
-Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication. Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner. 
+- Once a candidate is moved to the reference check and background check stage, the recruiter should ping `@ces` to kick off the process
+   - The CES team will default to kicking off both unless specified otherwise to only collect references
+- CES will send the References and Background Check email via Guide
+- CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email once received from the candidate 
+- The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. CES will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
+- Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
+- Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
 
 For additional information on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
 
@@ -144,6 +170,7 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Check off that you agree to your obligations as a user.
 1. Under "Disclosure and Authorization Options", select the first option to have Sterling send the candidate a disclosure form.
 1. Click "Generate Ticket".
+1. Make a note in the Greenhouse profile that the Background Check has been started
 
 #### Initiating a Background Check through Sterling Talent Solutions
 
@@ -155,6 +182,7 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Check off that you agree to your obligations as a user.
 1. Enter the candidate's name and personal email address.
 1. Select the first option to have Sterling send the candidate a disclosure form, and click "Generate Ticket".
+1. Make a note in the Greenhouse profile that the Background Check has been started
 
 **Non-US Candidates Only**
 
@@ -167,6 +195,7 @@ For additional information on reviewing Background checks see [this page](/handb
 1. If you are submitting a background check for a candidate located in Japan, you will select "GlobeX" instead of "Criminal-International". Then select "Japan" and click "Add"
 1. Make sure the criminal check with country of the candidate is included in the "Search" box.
 1. Finally, scroll to the bottom of the page and click "Send"
+1. Make a note in the Greenhouse profile that the Background Check has been started
 
 ### Speaking with TMRG members in the hiring process
 
@@ -193,7 +222,9 @@ These calls don’t require you to submit a scorecard in Greenhouse. If a candid
 
 [See Candidate Experience Specialist Contract Processes section of the handbook](/handbook/hiring/recruiting-framework/ces-contract-processes)
 
-One person from the recruiting team (typically the [Candidate Experience Specialists](/job-families/people-ops/candidate-experience/)) will prepare the contract. While the Candidate Experience Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1 business day. If the contract is time-sensitive, ping the CES team on the candidate's Greenhouse profile and provide context for the rush. If the Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter via Greenhouse and will provide context.
+The [Candidate Experience Specialists](/job-families/people-ops/candidate-experience/)) will prepare the contract. While the Candidate Experience Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1 business day. If the contract is time-sensitive, please provide context for the rush. If the Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter via Greenhouse and will provide context.
+
+Recruiters should make themselves familiar with the basic knowledge of the contract processes that can be found on the [CES Contract Processes](https://about.gitlab.com/handbook/hiring/recruiting-framework/ces-contract-processes/#framework-coord) page and the [Contracts and International Expansion](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#employee-contractor-agreements) page.
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
@@ -206,8 +237,8 @@ One person from the recruiting team (typically the [Candidate Experience Special
       - Has the Entity been selected based on the New Hire's location?
    1. [Generate the contract within Greenhouse](/handbook/hiring/recruiting-framework/ces-contract-processes) using a template based on the details found in the offer package.
    1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background check information page).
-   2. The Signatory will be either the Recruiting Manager, VP of Recruiting, or the Chief People Officer. This can be determinted by the Candidate Expereince Specialist sending a message to the Contracts to Sign channel in Slack.
-   3. The entity will be selected based on the new hire's location.
+   1. The Signatory will be either the Recruiting Manager, VP of Recruiting, Chief People Officer, or the CES for PEOs. This can be determinted by the Candidate Expereince Specialist sending a message to the Contracts to Sign channel in Slack.
+   1. The entity will be selected based on the new hire's location.
    1. Ensure that, if the contract was created outside of Greenhouse, the contract has been reviewed and approved by the Senior Director of Legal Affairs or a Total Rewards Analyst.
    1. [Stage the contract in DocuSign from within Greenhouse](/handbook/hiring/recruiting-framework/ces-contract-processes), which emails the contract to the signing parties, with the recruiter, recruiting manager, and the hiring manager cc'd. It will be sent to the designated signatory as previously determined in Offer Details.
    1. When the contract is signed by all parties, the Candidate Experience Specialist will verify that the start date in Greenhouse is correct.
@@ -219,16 +250,15 @@ One person from the recruiting team (typically the [Candidate Experience Special
    1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
    1. Once the new hire's profile in BambooHR is generated, The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
-   1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a Cc to the recruiter, IT Ops and hiring manager.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
+   1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops and the hiring manager.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) are included with this email.
-   1. The recruiter will unpublish the vacancy in Greenhouse for the internal job board and disposition any remaining candidates if necessary. Once complete, the recruiter will ping the Candidate Experience Specialist to close the role or close the role themselves.
-   1. The recruiter should create a MR on the [Careers page](/jobs/careers/) to remove the vacancy from the list. The CES should audit that this step was complete.
+   1. The CES should create a MR on the [Careers page](/jobs/careers/) to remove the vacancy from the list from the [req retro issue](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-10-req-retro-issue). 
    1. Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist can notify the People Experience team in the private Slack channel `people-exp_ces`. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date. However the GitLab Onboarding Tracker should reflect the actual onboarding date. 
 
-It is **important** that the Candidate Experience Specialist CES notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
+It is **important** that the Candidate Experience Specialist notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
 
-### Mid-Point Check-In Follow-up
+### Mid-Point Check-In Follow up
 
 The Candidate Experience Specialist will set up a delay send email using the "GitLab Helpful Links - Checking In" email template in GreenHouse. The delay should be set up for halfway between the contract being signed and the start date.
    1. Navigate to the Candidate's profile in GreenHouse.

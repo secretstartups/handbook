@@ -65,7 +65,6 @@ In Greenhouse: Configure (the gear on the top right) - Email Templates - My Temp
 
 After creating the email template you can send to the references. Because there is not a bcc option you should send individual emails to each reference. From the Candidate's profile: Tools (bottom right on the page view) - Email the Team - Choose a template (drop-down) - (select the name of the template you created) - **Uncheck "Add a link to the candidate's profile"** - Send Email.
 
-Please partner with your Recruiter or CES if you need assistance.
 
 #### Why Should Hiring Managers Check References
 

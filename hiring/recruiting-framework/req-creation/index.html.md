@@ -38,6 +38,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Once you've selected a requisition to copy, the first screen will ask for **Basic Job Info**.
 
 1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including *Specialty*, if applicable. These two fields should almost always be the same, but if you have questions, please reach out to the Compensation & Benefits Team.
+   - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
 
 1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer vacancy, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to the Compensation & Benefits team.
 
@@ -162,6 +163,8 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 Details about the Kick-off Session are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session).
 
+The recruiter must open up a [req kick-off issue](https://gitlab.com/gl-recruiting/req-intake/-/issues/new) for every req once it is approved for recruiting.
+
 #### Publishing the Job
 
 The [Candidate Experience Specialist](/job-families/people-ops/candidate-experience/) who is the coordinator for that vacancy should follow the below steps once they receive notice from the recruiter to post the new vacancy.
@@ -176,7 +179,6 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
     - Hiring Manager Interview
     - Team Interview
     - Technical Interview
-    - Executive Interview
     - Justification
     - Reference Check
     - Background Check
@@ -184,23 +186,15 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
 1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
 
-1. Confirm each interviewer has a personal Zoom link.
-
-1. Confirm each interviewer is listed on the [Zoom Cheat Sheet](https://docs.google.com/spreadsheets/d/1D8praKd3Vc1gMTTUzONAGkqNKxyYHd3_nzqsq2OYjeA/edit?usp=sharing).
-
 1. Confirm each interviewer has completed an [Interview Training Issue](https://gitlab.com/gitlab-com/people-ops/Training/issues/new).
 
 1. The CES may choose to send the following email to each member of the interview team:
 
-   Subject: Interview Training Issue, Zoom Personal Room and Google Office Hours
+   Subject: Interview Training Issue and Google Office Hours
 
-   Body: xxx, in order to have you scheduled for interviews I needed to create a zoom personal "room" for you. Please note this link can be joined by anyone at any time if they already have the link so it's a good idea to turn on the [waiting room function](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room?mobile_site=true#PMI). You can even customize the waiting room message with a GitLab logo and custom text! These steps are done in a web browser, not the app.
+   Body: Can you please make sure you have your office hours set up in your calendar? This will help me schedule the interview right the first time and save you and the candidate time and frustration. You can learn how [here](https://support.google.com/calendar/answer/7638168?hl=en).
 
-   Your personal zoom link: https://gitlab.zoom.us/my/gitlab.
-
-   Also can you please make sure you have your office hours set up in your calendar? This will help me schedule the interview right the first time and save you and the candidate time and frustration. You can learn how [here](https://support.google.com/calendar/answer/7638168?hl=en).
-
-   And one final thing, if this is your first time conducting interviews on behalf of GitLab I will need to create an interview training issue for you. Please let me know if that is the case. 
+   Also, if this is your first time conducting interviews on behalf of GitLab I will need to create an interview training issue for you. Please let me know if that is the case. 
 
    As always, If you have any questions let me know!
    Thanks, xxx
@@ -222,7 +216,7 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
       - Executive
       - Recruiter
       - Sourcer
-      - Candidate Experience Specialist
+      - Candidate Experience Specialist Team 
       - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
       - Manager, Sourcing
    - Offer Fully Approved:
@@ -240,7 +234,6 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
         -  Offer
    - New Scorecards:
       - Recruiter
-      - Candidate Experience Specialist
 
 1. Create or update the `Job Post` under `Job Setup`, which will hold the vacancy description and application questions. Next to the name of the vacancy, click the pencil icon to edit the job post.
    - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
