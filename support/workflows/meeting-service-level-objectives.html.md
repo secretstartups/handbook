@@ -35,11 +35,11 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
 1. If you are FRT Hawk, you are responsible for:
     1. Helping facilitate first replies within SLA times for *new* tickets from 9am - 5pm in your time zone
        - **Note:** if you are a US Citizen and have access to the Federal instance, this should also be a part of your rotation.
-    2. Triaging tickets to make sure they have:
+    2. [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
+      * The correct ticket form (such as GitLab.com, if they're asking for GitLab.com support). Take special notice of tickets with form `Other Request`. This is usually because the ticket was created by email. **Change the form to the most appropriate form type and then fill in additional metadata where possible**.
       * An associated organization
       * [The correct priority](/handbook/support/workflows/setting_ticket_priority.html#setting-ticket-priority)
-      * The correct ticket form (such as GitLab.com, if they're asking for GitLab.com support). Take special notice of tickets with form `Other Request`. This is usually because the ticket was created by email. **Change the form to the most appropriate form type and then fill in additional metadata where possible**.
-      * The correct **Self-managed Problem Type** selected
+      * The correct **Problem Type** selected
 2. [Keep an eye on the FRTH View in ZenDesk](https://gitlab.zendesk.com/agent/filters/360038124359)
 3. Ask your Support team mates for help if volume is high, or you are stumped.
 4. You should expect to see new and different things that you are not an expert in. Where possible, take the time to dive deep and try and understand the problem.
