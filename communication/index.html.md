@@ -241,10 +241,11 @@ When doing this, create and link to a [single source of truth](/company/culture/
 ### Not Public
 {:.no_toc}
 
+## Not Public Externally, Available Internally
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
 
 However it is [most important to focus on results](/handbook/values/#hierarchy).
-So most things are **public** unless there is a reason not to. The following items are not public by default:
+So most things are **public**, available interally but not externally, unless there is a reason not to. The following items are not public by default:
 
 1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
@@ -259,31 +260,29 @@ So most things are **public** unless there is a reason not to. The following ite
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
 1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
-1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including applications, background check reports, reference checks, compensation, termination (voluntary and involuntary) details, demographic information, and home address. Whistleblower identity is confidential. People Group policies and processes are public, internally and externally. As examples, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) are public.
-1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between team members and managers.
-1. Partnerships with other companies are not public since the partners are frequently not comfortable with that.
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 1. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers.  If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
 1. Competitive sales and marketing campaign planning is confidential since we want the minimize the time the competition has to respond to it.
 1. [Sales battlecards](https://blog.pandadoc.com/the-basics-of-battle-cards/) are not public since we want to minimize the time the competition has to respond to it. Our [feature comparisons](/devops-tools/) are public.
-1. Plans for reorganizations are not public and on a need-to-know basis within the organization. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team members informed whenever possible.
 1. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context.  The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) will be public.
 1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
 
-Information that defaults to not public and to limited access:
+## Not Public Externally, Available with Limited Access internally
 
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team-member, customer, or user.
-1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
-1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 1. Customer lists and other customer information are not public since many customers are not comfortable with that and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, and/or number of users, the issue should be made confidential. Avoid putting customer information in an issue by describing them instead of naming them and by linking to their Salesforce account.
 1. Plans for reorganizations. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team members informed whenever possible.
 1. Planned pricing changes. Much like reorganizations, plans around pricing changes are subject to shift manage time before being finalized. Thus, pricing changes are limited access while in development. Team members will be consulted before any pricing changes are rolled out.
 1. Legal discussions are restricted to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
 1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
+1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
 1. GitLab's Risk Register, is maintained by the [Risk & Field Security Team](/handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
+1. Acquisition offers for us are not public since informing people of an acqusition that might not happen can be very disruptive
+1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private. 
+
 
 ## Effective Communication Competency
 
