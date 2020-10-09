@@ -16,7 +16,7 @@ GitLab Channel Partners are the primary audience for this Handbook page.
 The GitLab Partner Program is a new kind of program.  It’s open to everyone and like our overall company culture, everyone can contribute.  Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
 
 
-The GitLab Partner Program enables partners and potential partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform, and their value-added GitLab and DevOps services.  
+The GitLab Partner Program enables partners and potential partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.  
 
 ### GitLab Value for Partners
 
@@ -41,12 +41,12 @@ Whether you are working with new customers, customer transitions from open-sourc
 
 #### Plan, Build and Grow Your GitLab Practice
 
-Collaborate with GitLab to build a well-planned, go-to-market approach to success. With co-marketing, co-selling and service delivery,  we provide the tools to successfully grow your customer base and increase profits.  
+Collaborate with GitLab to build a well-planned, go-to-market approach to success. With co-marketing, co-selling and service delivery, we provide the tools to successfully grow your customer base and increase profits.  
 
 
 #### Deliver Valuable Deployment and Integration Services
 
-GitLab offers a wide range of meaningful enablement and support programs – including training and certifications.  Help customers get started on their journey with GitLab by offering deployment and integration services.  Utilize your GitLab skills to expand your business with companies of all sizes, industries and geographies.  
+GitLab offers a wide range of meaningful enablement and support programs – including training and certifications. Help customers get started on their journey with GitLab by offering deployment and integration services. Utilize your GitLab skills to expand your business with companies of all sizes, industries and geographies.  
 
 
 #### Develop Specialized, In-Depth Expertise
@@ -61,13 +61,13 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
 
 
 *   Training and Enablement
-    *   Sales training and enablement, ensuring that our partners are as well trained and equipped as our own sales teams.
+    *   Sales training and enablement, ensuring that our partners are as well-trained and equipped as our own sales teams
     *   Technical services, training and enablement designed to help you drive customer usage and adoption
-    *   GitLab Badging, Accreditation & Certification.
-*   Global expansion of our channel team to support the growth of your GitLab success.
-*   Improved ease of doing business, via a new partner portal with online resources and tools.
-*   Marketing resources and marketing development funds for lead creation.
-*   Support for our partners throughout the entire customer journey.
+    *   GitLab Badging, Accreditation & Certification
+*   Global expansion of our channel team to support the growth of your GitLab success
+*   Improved ease of doing business, via a new partner portal with online resources and tools
+*   Marketing resources and marketing development funds for lead creation
+*   Support for our partners throughout the entire customer journey
 
 
 ### Partner Program Tracks
@@ -158,7 +158,7 @@ In this section, we cover:
 
 The GitLab Partner Program consists of three tracks that support the different ways our partners go to market:
 
-1. **Open** - OResellers, integrators and other sales and services partners join the program in the Open track.  Open is for all Partners in DevOps space, or ItaaS and other adjacent spaces that are committed to investing in their DevOps practice buildout. Also the Open track is for Partners seeking to develop customers or just want to learn about Gitlab and participate in the Gitlab partner community.  GitLab Open Partners may or may not be transacting partners, and can earn products discounts or referral fees. We provide:
+1. **Open** - Resellers, integrators and other sales and services partners join the program in the Open track.  Open is for all Partners in DevOps space, or ItaaS and other adjacent spaces that are committed to investing in their DevOps practice buildout. Also the Open track is for Partners seeking to develop customers or just want to learn about Gitlab and participate in the Gitlab partner community.  GitLab Open Partners may or may not be transacting partners, and can earn products discounts or referral fees. We provide:
   *   Broad Sales and Services Enablement
   *   Discounts and Referral Fees
   *   GitLab Badges
@@ -255,7 +255,7 @@ GitLab employees can access the discount table [here.](https://gitlab.my.salesfo
 #### Definitions and Qualifications
 
 
-*   **PIO Discount – **You can earn the largest available product discount with a **Partner Initiated Opportunity** . It can be a new opportunity to our sales team or one that was significantly impacted by the partner, early in the sales cycle.  It can be for a new or existing customer.  True ups and add-on licenses at renewal can also qualify for PIO discounts. The partner is expected to assist the GitLab Sales team in closing the sale.  
+*   **PIO Discount** - You can earn the largest available product discount with a **Partner Initiated Opportunity**. It can be a new opportunity to our sales team or one that was significantly impacted by the partner, early in the sales cycle.  It can be for a new or existing customer.  True ups and add-on licenses at renewal can also qualify for PIO discounts. The partner is expected to assist the GitLab Sales team in closing the sale.  
 This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for PIO discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. PIO is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 *   **Partner Assist Opportunity** is a discount earned for a GitLab-sourced opportunity where the partner assists our sales team in closing the deal. This may include demonstrating GitLab software, organizing executive meetings, delivery of services, etc. This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for Partner Assist discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
@@ -310,7 +310,7 @@ discount rate.
 
 To learn how to enter a deal registration, vist the [Deal Registration Instructions](/handbook/resellers/#deal-registration-instructions) section below.
 
-###NFR Program/Policy 
+### NFR Program/Policy 
 
 
 The GitLab NFR (Not-for-Resale) Program offers qualified GitLab partners access to our solutions at no cost to our partners. The NFR program provides partners with an opportunity to develop greater expertise on the GitLab platform. We encourage all GitLab Partners to participate in the program and set up GitLab solutions. Consider using your environment to create integrations with GitLab Alliance solution partners.  This way your staff can fully understand the benefits and features of the GitLab products and be better prepared to demonstrate the products to customers.
@@ -324,32 +324,32 @@ The GitLab NFR (Not-for-Resale) Program offers qualified GitLab partners access 
     *   Open partners can request up to 10 licenses  
 *   Please allow 2 business days for processing your request. 
 
-    **NFR Program Eligibility **
+**NFR Program Eligibility**
 
 
-    To be eligible for the NFR program, partners must:
+To be eligible for the NFR program, partners must:
 
 *   be Open or Select partners in good standing
 *   have at least one employee that has completed the Solution Architect Certification or Professional Services Engineer Certification training, lab and exam (with a passing score).
 
-    **NFR Renewals **
+**NFR Renewals**
 
 
-    GitLab NFR licenses expire after a 12 month subscription period, unless they are add-on licenses, in which case they expire with the partner’s oldest NFR licenses.  For partners in good standing, the subscription will be automatically renewed.
+GitLab NFR licenses expire after a 12 month subscription period, unless they are add-on licenses, in which case they expire with the partner’s oldest NFR licenses.  For partners in good standing, the subscription will be automatically renewed.
 
 
-    **Support **
+**Support**
 
 
-    [Support ](https://about.gitlab.com/support/)will be provided by the GitLab support team. GitLab Solution Architects may also be available to help partners build out training, testing and demo labs.
+[Support](https://about.gitlab.com/support) will be provided by the GitLab support team. GitLab Solution Architects may also be available to help partners build out training, testing and demo labs.
 
 
-    **NFR Program Terms and Conditions: **
+**NFR Program Terms and Conditions:**
 
 1. NFR software and services may be used solely and exclusively by the partner for the following purposes: 
-    1. Internal employee training
-    2. Integration testing with related devops products and platforms, and 
-    3. Partner led product demonstrations to prospective customers.
+    *  Internal employee training
+    *  Integration testing with related devops products and platforms, and 
+    *  Partner led product demonstrations to prospective customers.
 2. Partner in-house production use for customer engagements or internal development efforts requires purchased GitLab licenses which are available to partners at a discount.  Use of the NFR licenses in a customer environment, including for managed services is strictly prohibited. GitLab channel partners in compliance with the GitLab partner program are eligible for the NFR program, but they must have at least one employee that has completed the Solution Architect Certification or Professional Services Engineer Certification training, lab and exam (with a passing score).
 3. Select partners may request up to 25 licenses and Open partners up to 10 licenses without additional approval.
 4. All software purchase under the NFR Program are subject to the terms and conditions of the GitLab end user license agreement at [https://about.gitlab.com/terms/](https://about.gitlab.com/terms/) 
