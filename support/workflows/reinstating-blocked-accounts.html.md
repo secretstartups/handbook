@@ -16,6 +16,15 @@ This workflow is to determine when an account blocked due to violation of our [T
 
 All blocked accounts should have an admin note with a link to a relevant issue. If an account is blocked, but there is no admin note, please ping the abuse team via Slack.
 
+## Process
+
+1. Check if the account is blocked and check the admin notes.
+1. If there is an admin note, move ticket to Security with an internal note with admin account link and block reason.
+1. If there is *no* admin note, in Slack (usually in #support_gitlab-com), ping the Trust and Safety team to verify it can be unblocked.
+    - If unblocked, use the `Account::Blocked Accounts::Account Reinstated- Success` macro to notify the user the account has been unblocked.
+
+The rest of this page is for reference when required.
+
 ## NOTE;
 
 1. All decisions about account reinstantion are final and there is no process for appeals.
@@ -41,8 +50,8 @@ All blocked accounts should have an admin note with a link to a relevant issue. 
 
 ### Workflow to Reinstate Account
 
-1. Support engineer, check the admin notes related to the reason for account blocking.
-1. Reach out to the security team on the #security channel in slack to review the account to determine if the account qualifies to have the block to be removed and what corrective measures should be taken by the user to resolve the issues on the account if necessary.
+1. Check the admin notes related to the reason for account blocking.
+1. Security team will review the account to determine if the account qualifies to have the block to be removed and what corrective measures should be taken by the user to resolve the issues on the account if necessary.
 1. The Security Team will remove the block from the account and restore any projects on the account. All projects will remain private and could be made public again by the user.
 1. Once the Security Team has removed the block and restored the projects, add an admin note to the account detailing that the account has been ublocked.
-1. Notify the user that the restrictions on their account has been removed using Account::Blocked Accounts::Account Reinstated- Success macro.
+1. Notify the user that the restrictions on their account has been removed using `Account::Blocked Accounts::Account Reinstated- Success` macro.
