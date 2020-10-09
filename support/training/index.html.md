@@ -44,41 +44,40 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Working-On-Tickets.md) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 
-### Support Engineer Area of Focus Pathway
+## Support Engineer Area of Focus Pathway
 
-When you have completed the basic modules, decide with your manager about your [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+When you have completed the basic modules, work with your manager to decide you initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
-1. If you choose GitLab Product Support, move on to the [Gitlab.com SaaS Support Basics pathway](#gitlabcom-saas-support-learning-pathway), then complete the [Self Managed Support Basics pathway](#self-managed-support-learning-pathway).
-1. If you choose Licensing & Renewals, move on to the [License and Renewals pathway](#license-and-renewals-learning-pathway).
+## Gitlab Product Support 
 
-#### GitLab.com SaaS Support Learning Pathway
+### Learning Paths 
+### GitLab.com SaaS 
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-Basics.md) | 2 Weeks | Understand the basics to answer GitLab.com (SaaS) product related tickets |
 | [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-CMOC.md) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 
-When this pathway is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/handbook/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
+By the end of this module you'll be ready to [join the appropriate On-Call rotations](/handbook/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
 
-#### Self-managed Support Learning Pathway
+### Self-managed Support
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [Self Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Self-Managed-Basics.md) | 2 Weeks | Understand the basics to answer Self Managed product related tickets |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
-When this pathway is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
+By the end of this module you'll be ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
 
-
-#### License and Renewals Learning Pathway
+## License and Renewals Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 
-When this pathway is complete, let your manager know.
+---
 
-### Support Manager Onboarding Pathway
+## Support Manager Onboarding Pathway
 
 Your primary Support Manager Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
 
