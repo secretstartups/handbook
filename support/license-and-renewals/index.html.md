@@ -1,0 +1,36 @@
+---
+layout: handbook-page-toc
+title: License & Renewals
+---
+
+## Introduction
+
+When customers purchase or renew a license (self-managed) or subscription
+(GitLab.com), they sometimes run into problems applying or making use of their
+purchase. License & Renewals (L&R) comprises efforts to resolve these problems.
+
+L&R work generally involves collaborating with customers and other GitLab teams,
+as well as checking internal GitLab systems and data validation.
+
+In July 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
+for L&R work to be handled by Support for the foreseeable future. The reasons
+are:
+
+1. Sales should not have access to generate [paid](https://gitlab.com/gitlab-com/internal-audit/internal-audit/-/issues/210)
+   or [trial](https://gitlab.com/gitlab-com/internal-audit/internal-audit/-/issues/212)
+   licenses for SOX compliance purposes.
+1. [Business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
+   mean that the [Fulfillment product section](https://about.gitlab.com/handbook/product/product-categories/#fulfillment-section)
+   will not have sufficient capacity to address and resolve major pain points
+   within the next 12 months.
+1. The effort to stand up an entirely new team would be considerable; Support
+   was already doing this work and was in a position to quickly scale up to meet
+   customer needs.
+
+Support is currently figuring out how best to meet customer needs around L&R
+while not creating a separate team to do the work. The support engineering
+managers currently actively involved are:
+
+* Shaun McCann (Overall DRI)
+* Ronnie Alfaro
+* Wei-Meng Lee
