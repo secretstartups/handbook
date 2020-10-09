@@ -490,7 +490,7 @@ Here are several strategies for breaking features down into tiny changes that ca
 
 ### Workflow steps
 As part of design and discovery, you likely created a minimal user journey that contains sequential steps a user is going to take to “use” the feature you are building. Each of these should be separated. You can further by asking yourself these questions:
-* Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI or API)? This is a great starting point before adding UI components that achieve the same thing.
+* Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI,  API or .csv download of data)? This is a great starting point before adding UI components that achieve the same thing.
 * Will there be different UI paths to perform the same task? Identify which are the most useful and which are the easiest to implement. Weight both factors when determining which to start with, and build from there.
 
 ### User operations 
