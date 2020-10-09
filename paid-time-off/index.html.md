@@ -25,6 +25,8 @@ Another great example of taking time off is a GitLab team member taking a day to
 
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
+Paid time off is in addition to any [official public holidays](#a-gitlab-team-members-guide-to-time-off) that apply to the country where you live. When accounting for such holidays in [PTO Ninja](#pto-ninja), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
+
 ## A GitLab team member's Guide to Time Off
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way.
@@ -37,19 +39,19 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
     * If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-group/people-policy-directory/#job-abandonment).
     * It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off per year.
 1. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
+1. In addition, we encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
+    1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
+    1. Select your country of residence
+    1. Change the dropdown from 'All holidays and national observances' to 'Official holidays'
 1. Not taking vacation is viewed as a weakness and people shouldn't boast about it. It is viewed as a lack of humility about your role, not fostering collaboration in training others in your job, and not being able to document and explain your work. You are doing the company a disservice by being a single point of failure. The company must be able to go for long periods without you. We don't want to lose you permanently by you burning yourself out by not taking regular vacations.
 1. Working hours are flexible. You are invited to company-wide calls such as group conversations and the [take a break call](/handbook/communication/#take-a-break-call) if you are available, but they aren't mandatory and you shouldn't attend if they are during your time off. We encourage you to read the [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/general) Slack channel on your return to catch up on the announcements made while you were on your time off.
 1. You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
 1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
-1. Gitlab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.  
-1. We encourage all team members to take time off for holidays they observe. GitLab embraces asynchronous communications, so calls can be recorded and watched later. No one should ever be expected to attend calls on days they are not working or on official public holidays. For a listing of official holidays by country, follow these steps:
-    1. Go to the [timeanddate.com site](https://www.timeanddate.com/holidays/)
-    1. Select your country of residence
-    1. Change the dropdown from 'All holidays and national observances' to 'Official holidays'
+1. Gitlab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
 1. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
 
-![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
+   ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
 
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
@@ -141,11 +143,11 @@ Team members may request an unpaid leave of absence by working with their manage
 
 ![picture-of-other-OOO-types](/handbook/paid-time-off/other_OOO_types.png)
 
-These other types of OOO categories, should be used when you'll be away from your desk for one or two hours during your work-day. They are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your Gsuite calendar automatically and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. 
+These other types of OOO categories, should be used when you'll be away from your desk for one or two hours during your work-day. They are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your Gsuite calendar automatically and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too.
 
-A few examples of when you can use this, is for family time, a workout, when you are running errands, home-schooling, a customer visit, mandatory Civilian Service, or something similar which does not count as PTO. These categories are used for when you plan to complete your full working day but may need to step away at some point in your day or are otherwise occupied at an event that counts for a working day. 
+A few examples of when you can use this, is for family time, a workout, when you are running errands, home-schooling, a customer visit, mandatory Civilian Service, or something similar which does not count as PTO. These categories are used for when you plan to complete your full working day but may need to step away at some point in your day or are otherwise occupied at an event that counts for a working day.
 
-If you need to take a half day or full day to do things listed in these categories, then please select PTO and not one of these catagories. 
+If you need to take a half day or full day to do things listed in these categories, then please select PTO and not one of these catagories.
 
 ### PTO Ninja
 
@@ -233,7 +235,7 @@ If as a manager you are notified that your direct report has been incapacitated 
 
 ### Instructions for People Ops and Total Rewards to Update PTO Ninja Events
 
-If a OOO event is in progress: 
+If a OOO event is in progress:
 
 1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Specialist: Select the team member's name and find the OOO event in their history.
@@ -242,7 +244,7 @@ If a OOO event is in progress:
 
 If a OOO event has completed and synced to BambooHR:
 
-1. Total Rewards: Delete the relevant PTO entry from the team member's BambooHR Time Off tab. People Operations Specialists must contact Total Rewards to ask for their support here. 
+1. Total Rewards: Delete the relevant PTO entry from the team member's BambooHR Time Off tab. People Operations Specialists must contact Total Rewards to ask for their support here.
 1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Specialist: Select the team member's name and find the OOO event in their history.
 1. People Specialist: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
