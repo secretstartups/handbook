@@ -24,19 +24,12 @@ title: Support Engineer Responsibilities
 
 We currently have two main areas of focus for Support Engineers:
 
-1. GitLab.com - helping gitlab.com customers
-1. Self-Managed - helping self-managed customers
-
-We also have one area of focus that is more specific:
-
+1. GitLab - helping customers who encounter product-related problems in SaaS (gitlab.com) or self-managed installations
 1. License and Renewals - helping customers with License and Renewals problems
-     - Currently there are about four Support Engineers who are focused primarily on this area. These Support Engineers help both .com and self-managed customers.
 
 During onboarding your initial area of focus will be made clear.
 
-When reading this page keep in mind your current area of focus. This will help you locate the correct workflows and roles.
-
-**Note:** We hire [Support Engineers who have a 'Solutions' background, an 'Application' background, or both](https://about.gitlab.com/job-families/engineering/support-engineer/#support-engineering-areas-of-focus). Internally everyone is a 'Support Engineer'. In 2020, we are expanding our internal areas of focus from the two main ones above. This helps solve customer problems more effectively, because you can focus on a narrower range of problem types. For some areas of focus, you have the opportunity to gain expertise in supporting both .com and self-managed customers (*e.g.,* 'License and Renewals'). Support Engineers rotate in and out of areas of focus every few months if desired. Details of this proposal will be available for discussion in an issue during 2020-05.
+When reading this page, keep in mind your current area of focus. This will help you locate the correct workflows and roles.
 
 ## 1. Solve Support tickets (Daily)
 
