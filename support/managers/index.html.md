@@ -206,7 +206,15 @@ Monitor:
 1. Verify that FRT recovers after the holiday period.
 
 #### SSAT is below target
+##### Specific actions when FRT is below target
+If SSAT is below target, the [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback.html) should be aware and
+actively looking for trends. During weeks where we're below target, they should report on any identified trends.
+
 ##### Common causes for SSAT below target
+1. A Support process isn't well received by customers
+1. A specific class of tickets generates low SSAT
+1. A specific engineer has low ratings
+
 #### NRT is below target
 ##### Common causes for NRT below target
 
