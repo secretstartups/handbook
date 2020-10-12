@@ -36,7 +36,7 @@ The request may look something like:
 
 When a request is received through Zendesk as a ticket, do the following:
 
-1. Apply the [**Account::GDPR Article 15 - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro and mark the ticket as solved.
+1. Apply the [**Account::GDPR Article 15 - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360043149613) macro and mark the ticket as solved.
 
 This macro will simply advise the user as follows and close the ticket:This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
 
