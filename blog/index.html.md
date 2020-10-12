@@ -30,6 +30,7 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 If you'd like to write about something for the GitLab blog, please use the guide below to decide which process to follow:
 
 ### 📣 If you want to share news/an update or are seeking feedback 
+{: #if-you-want-to-share-newsan-update-or-are-seeking-feedback}
 
 If your proposed blog post includes any of the following:
 
@@ -48,6 +49,7 @@ If your proposed blog post includes any of the following:
 Please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) for instructions on submitting a request via an `announcement` issue template in the [Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues). This is to ensure we have an opportunity to identify the best channel to share your news before starting work on a blog post draft.
 
 ### 📝 If you want to write about something else
+{: #if-you-want-to-write-about-something-else}
 
 If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
 
