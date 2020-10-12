@@ -71,4 +71,11 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 ### Manitoba: 
 [Safe Work Manitoba](https://www.safemanitoba.com/Page%20Related%20Documents/resources/BR_EveryonesResponsibilityLong_15SWMB.pdf)
 
+## Europe
 
+[European Agency for Safety and Health at Work](https://osha.europa.eu/en)
+
+### Netherlands
+[European Agency for Safety and Health at Work - Netherlands](https://osha.europa.eu/en/about-eu-osha/national-focal-points/netherlands)
+[OSH - Netherlands](https://www.arboineuropa.nl/en/arbo-in-the-netherlands/)
+[Health and Safety at Work - Netherlands](https://business.gov.nl/regulation/health-safety-work/)
