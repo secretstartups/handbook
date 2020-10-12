@@ -16,37 +16,45 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
 # Sales Kick Off 2021
-SKO 2021 is scheduled to take place during the week of Feb 8-12, 2021 in Denver, CO USA. More details coming soon!
+SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021. More details coming soon!
 
 ## High-level SKO 2021 Agenda 
-*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO
-*  Mon, 2021-02-08: Travel day plus evening Welcome Reception
-*  Tue, 2021-02-09: Keynote Q&As, speakers, and evening Awards Dinner
-*  Wed, 2021-02-10: Interactive role-based training breakouts
-*  Thu, 2021-02-11: Regional QBRs
-*  Fri, 2021-02-12: Travel day to return home
+Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. Below is a high-level agenda: 
+
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
+*  Mon, 2021-02-08: Keynotes, Q&As
+*  Tue, 2021-02-09: Keynotes, Q&As
+*  Wed, 2021-02-10: Awards ceremony, role-based breakout sessions, Partner Summit
+*  Thu, 2021-02-11: Role-based breakout sessions
+*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
 All subject to change. 
 
 ## SKO 2021 FAQ 
 **Q: What are the dates and location?**
 
-A: Sales Kick Off (SKO) will take place from 08-Feb through 12-Feb, 2021 in Denver, CO. The event will be held at the [Sheraton Downtown Denver](https://www.marriott.com/hotels/travel/dends-sheraton-denver-downtown-hotel/). 
+A: Sales Kick Off (SKO) will take place virtually from 08-Feb through 12-Feb, 2021. 
 
-**Q: How are we planning for this event in light of COVID-19?** 
+**Q: Why are we having a virtual event versus an in-person SKO?**
 
-We are planning an in-person event with a hybrid solution – in-person and livestream for team members who are not able to or are not comfortable traveling for the event. We are actively monitoring the COVID-19 crisis and consulting with our security vendor leading up to the event with the health and safety of our team members as our top priority. The SKO planning team is working toward a deadline of mid-November for a final decision on a hybrid event. If it is deemed unsafe to gather in-person for this event, we will default to a fully-virtual SKO. You will not be asked to book travel until this decision has been made. 
+A: The health and safety of our team is our absolute top priority. Sales leadership closely monitored the global health and travel impacts of COVID-19, and, after a lot of careful consideration, made the decision to shift our  2021 SKO to a fully virtual event. We are confident that this is the best and safest decision for the team. 
 
-**Q: When and how should I book travel?**
+**Q: Will we still have an in-person Sales event in 2021?** 
 
-A: Please do not book travel at this time. Once registration is launched, you will be contacted by our travel vendor via email to book your travel. 
+A: Due to the unpredictable nature of the COVID-19 pandemic, there are currently no plans for an in-person Sales event in 2021. Sales leadership is actively monitoring the COVID-19 crisis and consulting with our security vendor with the health and safety of our team members as our top priority. Sales leadership will update the team in 2021 should this decision change. 
 
-**Q: Do I need to get a visa letter now?**
+**Q: What platform(s) are we using for the virtual event?**
 
-A: We are actively working with People Ops to determine the appropriate process and timing for visas and will update this FAQ as well as the #sko-denver-2021 Slack channel when we know more. 
+A: Please stay tuned for more information on our virtual event platform! 
+
+**Q: When and how should I register?**
+
+A: The SKO core team will reach out with more information and update this page with registration details once they are available.  
 
 **Q: What is the agenda?**
 
 A: Please see the section above for a high-level agenda. We will post the final agenda in the event app at a later date. 
+
+Note that we have modified our Virtual SKO agenda so that all content is delivered in half-days. This is to avoid fatigue and respect the fact that team members will have additional committments and responsibilities since they will be at home. 
 
 **Q: Will there be any pre-work?**
 
@@ -54,27 +62,29 @@ A: In support of GitLab’s all-remote culture, there will be pre-work that all 
 
 **Q: What will I be expected to participate in?**
 
-A: SKO is a rare opportunity for our team to get together and prepare for the year ahead. As such, the agenda is purposely crafted with numerous activities to learn, network, and celebrate together, and we kindly ask and expect that every SKO attendee participates in all that SKO has to offer. 
+A: SKO is a rare opportunity for our team to come together (even virtually) and prepare for the year ahead. As such, the agenda is purposely crafted with numerous activities to learn, network, and celebrate together, and we kindly ask and expect that every SKO attendee participates in all that SKO has to offer. 
 
-Based on feedback from SKO 2020, the planning team is building out more break time to allow team members to catch up on work and recharge. 
+**Q: How will we make SKO 2021 exciting even though it's virtual?**
+
+A: The SKO core team is hard at work planning a fun and engaging virtual event. Everything from the virtual platform to the agenda to the event theme is being carefully crafted to ensure that our team feels connected and energized at Virtual SKO 2021.
+
+**Q: Will we still have an Awards Dinner and networking time?**
+
+A: Rather than an Awards Dinner, we will host an Awards Ceremony on Wednesday. The SKO core team is planning fun and creative ways to ensure 2021 Sales Awards winners are celebrated. We have also built networking time into the agenda each day to give team members time to connect across the organization and with partners.
 
 **Q: How will we include partners in SKO 2021?**
 
-A: We will host a Partner Summit in tandem with SKO. Partners will be invited to participate in our Day 1 keynotes on Tuesday, and they will have their own Partner Summit-specific sessions on Wednesday. Partners will be available to meet and greet with GitLab team members in the Partner Pavillion on Tuesday and Wednesday nights prior to dinner. 
-
-**Q: Are guests welcome?**
-
-A: Unlike Contribute, guests are not permitted to participate in SKO activities, as we want to keep the focus on learning, networking, and planning for the year ahead. For this reason, we do not recommend including guests between 09-Feb to 11-Feb, 2021. Guests are welcome to join before or after SKO.
+A: We will host a Partner Summit in tandem with SKO. Partners will be invited to participate in our Day 1 keynotes on Tuesday, and they will have their own Partner Summit-specific sessions on Wednesday. Partners will be available to virtually meet and greet with GitLab team members in the virtual Partner Booths each day of SKO after the half-day keynotes or breakout sessions have concluded.
 
 **Q: Where can I ask questions related to SKO?**
 
-A: Please Slack #sko-denver-2021 or you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Libby Schulze, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry as soon as possible. 
+A: Please Slack #sko-virtual-2021 or you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Emily Kyle, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry as soon as possible. 
 
 We are actively planning this event and will update this FAQ as more information becomes available. 
 
 Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/)
 
-
+----
 
 # Sales Kick Off 2020
 In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kick Off. This page includes slide decks, videos, and pictures from the event.
