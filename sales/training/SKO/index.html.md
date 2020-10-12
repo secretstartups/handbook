@@ -56,6 +56,10 @@ A: Please see the section above for a high-level agenda. We will post the final 
 
 Note that we have modified our Virtual SKO agenda so that all content is delivered in half-days. This is to avoid fatigue and respect the fact that team members will have additional committments and responsibilities since they will be at home. 
 
+**Q: How are we accommodating different timezones?**
+
+A: We will have live and interactive sessions for all timezones. 
+
 **Q: Will there be any pre-work?**
 
 A: In support of GitLab’s all-remote culture, there will be pre-work that all SKO participants will be asked to complete to make the best use of our time together in person. Details will be shared in early Q4. 
