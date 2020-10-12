@@ -135,7 +135,7 @@ During an incident, the CMOC will:
 
 1. Be the voice of GitLab during an incident by updating our end-users, internal parties, and executive-level managers through updates to our [status page](https://status.gitlab.com/) hosted by Status.io.
 1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
-1. Notify GitLab Community Advocates via Slack using the `@advocates` handle at the start of an incident.
+1. Notify the GitLab Social Team via Slack using the `@social` handle at the start of an incident, if necessary.
 
 ##### How to engage the CMOC?
 
