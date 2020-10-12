@@ -562,14 +562,14 @@ Part of embracing diversity is a willingness to embrace often uncomfortable conv
 
 We believe that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
 
-#### Understanding the impact of micro-aggressions
+#### Understanding the impact of microaggressions
 {:.no_toc}
 
-Micro-aggressions are much more than simply rude or insensitive comments. They have the capacity to wear people down like slowly chipping away at a persons sense of belonging/safety/inclusion over time. What is a micro-aggression? 
+Microaggressions are much more than merely rude or insensitive comments. They can wear people down by slowly chipping away their sense of belonging/safety/inclusion over time. What is a microaggression?
 
 > "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
 
-At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a micro-aggression and be mindful of their potential impact. 
+At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
 
 ##### Reach across company departments
 {:.no_toc}
