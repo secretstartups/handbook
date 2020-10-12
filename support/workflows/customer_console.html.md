@@ -20,7 +20,7 @@ The scope of what's outlined in this workflow is for frequently used functions w
 
 ## Using the support console
 
-After logging into the CustomersDot server, enter the command:
+After logging into the Subscriptions App (customers portal) server, enter the command:
 
 ```
 $ support_console
@@ -188,7 +188,7 @@ irb(main):421:0> find_namespace('test')
 
 ## Plan Methods
 
-### **change_plan**
+### change_trial
 
 This function will change the plan for a customer with an active or expired **trial** and output the namespace information after completing the change.
 
@@ -203,7 +203,7 @@ This function will change the plan for a customer with an active or expired **tr
 #### Sample
 
 ```ruby
-irb(main):001:0> change_plan('example','silver','2020-05-25')
+irb(main):001:0> change_trial('example','silver','2020-05-25')
 {"id"=>0000000,
  "name"=>"example",
  "path"=>"example",
@@ -224,7 +224,8 @@ irb(main):001:0> change_plan('example','silver','2020-05-25')
 
 ### update_gitlab_plan
 
-Change the plan of a namespace on GitLab.com **directly**, bypassing CustomersDot completely.
+Change the plan of a namespace on GitLab.com **directly**, bypassing Subscriptions App completely.
+This includes potentially extending the expiry date.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
@@ -291,7 +292,7 @@ irb(main):021:0> force_attr("A-S00000000")
 
 ### fix_expired_subscription
 
-This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already.
+This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already. Similar to `unlink_sub`.
 
 Note: Now that [customers#1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) is fixed and [customers#1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174) should be fixed soon. This function shouldn't be required.
 
@@ -327,9 +328,28 @@ irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
 => {:success=>true}
 ```
 
+### unlink_sub
+
+This function sets the group ID and name to `nil` to the order and downgrades the group to Free.
+This is typically done if there are issues associating a different subscription but the existing subscription should show for user.
+Similar to `fix_expired_subscription`.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:subscription_name` | *Yes* | Subscription name in the order to update |
+
+#### Sample
+
+```ruby
+irb(main):021:0> unlink_sub("A-S00000000")
+=> {:success=>true}
+```
+
 ### unlink_customer
 
-Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
+Completely unlink a GitLab.com account from a Subscriptions App account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
 
 **Warning**: Unlinking means the .com groups will no longer show. This is typically only used when an admin accidentally links their account to a customers.
 
@@ -388,7 +408,23 @@ irb(main):021:0> send_eula("A-S00000000")
 
 ## GitLab.com Group methods
 
-These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in CustomersDot.
+These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the Subscriptions App.
+
+### billable_members
+
+Provides a list of billable members for a given namespace. This is using the [members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group).
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:group_path` | *Yes* | Path of namespace |
+
+#### Sample
+
+```ruby
+irb(main):021:0> send_eula("A-S00000000")
+=> (sample output not copied here as it is very long)
 
 ### showGroups2FAStatus
 
@@ -415,7 +451,7 @@ irb(main):180:0>  showGroups2FAStatus 'some_user'
 
 ### fix_dotcom_seats
 
-In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated CustomersDot order.
+In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated Subscriptions App order.
 
 #### Parameters
 
@@ -430,9 +466,9 @@ irb(main):180:0>  fix_dotcom_seats 'some_namespace'
 => {:success=>true}
 ```
 
-### update_group
+### update_group_mins
 
-Update a groups shared runner minutes
+Update a group's shared runner minutes.
 
 #### Parameters
 
