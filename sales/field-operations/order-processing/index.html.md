@@ -579,10 +579,14 @@ According to [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1Qb
 
 ### Reassign Quote Approvals 
 
-If you are a quote approver and will be out of office for any duration of time, you will need to notify Deal Desk to reroute any quote approvals. 
+If you are a quote approver and will be out of office for any duration of time, you will need to notify Deal Desk and set up rerouting of any quote approvals. 
 
 1. In Salesforce, navigate to your Profile feed. At the top right of your screen click Your Name > My Profile. 
 1. Tag Sales-Support in chatter to notify the Deal Desk team that you will be out of office and need quote approvals to be rerouted during your absence. Please tag the individual to whom quotes should be rerouted, along with the dates that you will be out of office. 
+1. From your personal settings in SFDC, enter Approver Settings in the Quick Find box, then select Approver Settings. No results? Enter Personal Information in the Quick Find box, then select Personal Information.
+     1.  Assign your Deligated Approver (the individual to whom your quotes sould be rerouted) 
+     1.  Verify with your Deligated Approver that they have set their Receive Approval Request Emails settings to If I am an approver or Deligated Approver
+     1.  [SFDC Approver Settings Article](https://help.salesforce.com/articleView?id=approvals_change_approval_user_pref.htm&type=5)      
 
 
 ### Quote Metrics
