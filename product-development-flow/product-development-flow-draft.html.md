@@ -398,7 +398,7 @@ This phase begins after work has been broken down, and prioritized in Phase 1. T
 
 When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
 
-*Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#Build-phase-1:-Plan) for refinement and rescheduling for completion.*
+*Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
 
 #### Outcomes and Activities
 
