@@ -89,15 +89,32 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Project Management
 
-## Issue Templates
+### Turnaround Time and SLAs
+⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue. **
+- Tip: Submit issues with full "Submitter Details" complete
+- Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
+**Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc.
+
+The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
+
+**The due date applied when the issue is submitted is not final.** The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline to assist your project planning, however if details are not provided in the issue 5 business days prior by requestor, the issue timeline will be at risk and likely to be pushed out.
+  - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
+  - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
+  - The triage manager and assignee are the ONLY individuals allowed to adjust due dates upon triage.
+  - 🙏 Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
+
+### Issue Templates
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
+Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).
+
+#### Request Issue Templates
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
 - [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup)
 - [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation)
 - [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
-- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - only for general email requests
+- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests*
 - [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
 - [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 - [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
@@ -109,14 +126,14 @@ We ask that teams request work using the following issue templates in the campai
 #### Campaign Team Issue Templates
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
+- [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
-- [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-webcast-drurun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
-- [campaigns-](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-)
+- [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
+- [campaigns-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched)
+- [campaigns-webcast-live-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-live-host)
+- [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep)
 
 ### Campaigns Team Intake Process
 
@@ -131,25 +148,22 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
 - **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
 #### Intake process daily/weekly steps
-
-1. Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
-    - are all details in the `Submitter Checklist` sufficiently complete in order to begin work? (if yes, request moves to "ready-to-build" status)
-    - does the request align to an OKR? (if yes, prioritize)
-    - does the request align to overall marketing goals? (if no, consider realistic timeline given priorities)
-1. At the start of this process, we will test the process of accepting work:
-    - upon add of "ready-to-build" status, the `volunteer` label will be applied, alerting the team
-    - ideally the honor system will be met, with volunteer issues being picked up equally and spread across timezones - totals will be reviewed in milestone retro :heart:
-    - if an issue is not picked up within 48 hours, team manager will assess team milestones and bandwidth to assign
+Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
+* Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
+  - if yes, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
+  - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
+* Does the request align to FY21-22 segment marketing plan?
+ - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
 #### Project management automation
 
-Rules will now apply the "volunteer" label when an issue has been moved to the status of "ready-to-build" (campaign managers will subscribe to this label at the start of the triage process)
+To be built out
 
 #### Shortcut issue comments for project management
 
@@ -158,7 +172,7 @@ Rules will now apply the "volunteer" label when an issue has been moved to the s
 ```
 /label ~"mktg-status::wip" 
 /assign @
-/milestone %mktg:
+/milestone %Mktg:
 ```
 
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
