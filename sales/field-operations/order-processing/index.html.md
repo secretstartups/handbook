@@ -583,10 +583,12 @@ If you are a quote approver and will be out of office for any duration of time, 
 
 1. In Salesforce, navigate to your Profile feed. At the top right of your screen click Your Name > My Profile. 
 1. Tag Sales-Support in chatter to notify the Deal Desk team that you will be out of office and need quote approvals to be rerouted during your absence. Please tag the individual to whom quotes should be rerouted, along with the dates that you will be out of office. 
-1. From your personal settings in SFDC, enter Approver Settings in the Quick Find box, then select Approver Settings. No results? Enter Personal Information in the Quick Find box, then select Personal Information.
-     1.  Assign your Deligated Approver (the individual to whom your quotes sould be rerouted) 
-     1.  Verify with your Deligated Approver that they have set their Receive Approval Request Emails settings to If I am an approver or Deligated Approver
-     1.  [SFDC Approver Settings Article](https://help.salesforce.com/articleView?id=approvals_change_approval_user_pref.htm&type=5)      
+1. Navigate to your personal settings in SFDC. At the top right corner of your screen, Click on your name. In the drop down, click "My Settings". 
+1. Enter Approver Settings in the Quick Find box, then select Approver Settings. No results? Enter Personal Information in the Quick Find box, then select Personal Information. 
+     1.  Assign your Deligated Approver (the individual to whom your quotes sould be rerouted). 
+     1.  Verify with your Deligated Approver that they have set their [SFDC Approval Settings](https://help.salesforce.com/articleView?id=approvals_change_approval_user_pref.htm&type=5) to "If I am an approver" or "Deligated Approver". 
+
+Note: If you are a Deligated Approver and are not recieving approval emails, contact sales-support for assitance.     
 
 
 ### Quote Metrics
