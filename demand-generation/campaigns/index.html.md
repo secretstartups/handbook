@@ -156,15 +156,32 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Project Management
 
-## Issue Templates
+### Turnaround Time and SLAs
+⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
+- Tip: Submit issues with full "Submitter Details" complete
+- Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
+**Copy must be 100% final in order to be triaged.** This includes final edits for copy, grammar, sentence structure and readability, as well as review by relevant stakeholders (such as managers, product mktg, content mktg, sales, etc.
+
+The issue requester is responsible for ensuring that appropriate `mktg-status` labels are applied to the issue (issue templates have the tags built in to assist).
+
+**The due date applied when the issue is submitted is not final.** The [workback calculator](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029) is a guideline to assist your project planning, however if details are not provided in the issue 5 business days prior by requestor, the issue timeline will be at risk and likely to be pushed out.
+  - If an issue due date is prior to the SLA (based on date "submitter details" were complete), the due date will be changed to meet the SLA timeline (5 BD from date of final details submitted)
+  - For example, if the issue is submitted 0ct 1, with a due date of Oct 15, BUT details are not submitted until Oct 14, THEN the issue due date will be moved to Oct 21 by the triage manager.
+  - The triage manager and assignee are the ONLY individuals allowed to adjust due dates upon triage.
+  - 🙏 Please **do not** ask Campaign Managers to complete work in a shorter timeline as this is disruptive to their milestone, and their priority is to plan, implement, and optimize top-funnel campaigns and tactics. They will manage their milestones appropriately and pull in work as bandwidth allows, and based on the SLA.
+
+### Issue Templates
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
+Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).
+
+#### Request Issue Templates
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
 - [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup)
 - [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation)
 - [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
-- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - only for general email requests
+- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests*
 - [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
 - [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 - [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
@@ -177,12 +194,14 @@ We ask that teams request work using the following issue templates in the campai
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
+- [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
 - [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
 - [campaigns-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched)
 - [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep)
+- [campaigns-webcast-live-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-live-host)
 
 #### Fundamental principles of issue requests
 
@@ -207,25 +226,22 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
 - **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
 #### Intake process daily/weekly steps
-
-1. Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
-    - are all details in the `Submitter Checklist` sufficiently complete in order to begin work? (if yes, request moves to "ready-to-build" status)
-    - does the request align to an OKR? (if yes, prioritize)
-    - does the request align to overall marketing goals? (if no, consider realistic timeline given priorities)
-1. At the start of this process, we will test the process of accepting work:
-    - upon add of "ready-to-build" status, the `volunteer` label will be applied, alerting the team
-    - ideally the honor system will be met, with volunteer issues being picked up equally and spread across timezones - totals will be reviewed in milestone retro :heart:
-    - if an issue is not picked up within 48 hours, team manager will assess team milestones and bandwidth to assign
+Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
+* Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
+  - if yes, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
+  - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
+* Does the request align to FY21-22 segment marketing plan?
+ - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
 #### Project management automation
 
-Rules will now apply the "volunteer" label when an issue has been moved to the status of "ready-to-build" (campaign managers will subscribe to this label at the start of the triage process)
+To be built out
 
 #### Shortcut issue comments for project management
 
@@ -234,7 +250,7 @@ Rules will now apply the "volunteer" label when an issue has been moved to the s
 ```
 /label ~"mktg-status::wip" 
 /assign @
-/milestone %mktg:
+/milestone %Mktg:
 ```
 
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
@@ -326,53 +342,95 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 ## Integrated campaigns reporting
 
-Marketing Programs uses Sisense dashboards to report on integrated campaigns performance, specifically:
+Demand Generation uses Sisense dashboards to report on integrated campaigns performance, specifically:
 
-1. [Demand Gen (Prev Integrated Campaigns) Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/Demand-Gen-(Prev-Integrated-Campaigns)-Overview-Dashboard):
+1. [Demand Gen Overview Dashboard](https://app.periscopedata.com/app/gitlab/631669/WIP:-Agnes-Oetama-IC-Dashboard): 
 This dashboard provides quick insights on campaign performance and monitors the impacts of campaign optimizations on various funnel metrics over the life of the campaign.
-1. [Integrated Campaigns Table Summary](https://app.periscopedata.com/app/gitlab/665451/Demand-Gen-(Prev-Integrated-Campaigns)-Table-Summary): This dashboard measures and compares the performance of integrated campaigns and channels within each campaign.
+2. [Demand Gen Table Summary](https://app.periscopedata.com/app/gitlab/665451/WIP:-Agnes-IC-Campaign-Table-Summary): This dashboard measures and compares the performance of integrated campaigns and channels within each campaign.
 
 The Integrated Campaigns dashboards use [Bizible touchpoints](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-touchpoints) to track Inquiries, MQLs, and SDR Accepted metrics. We use the [Linear Bizible Attribution touchpoints model](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#linear-attribution) to track Opportunities, Total IACV$, SAO, Pipeline IACV$, Won Deals count, and Won IACV $.
 
-These dashboards were created by @aoetama and she is in the process of building out additional functionalities outlined in [this epic](https://gitlab.com/groups/gitlab-com/-/epics/629).
+These dashboards were created by @aoetama and she is in the process of building out additional functionalities outlined in [this epic](https://gitlab.com/groups/gitlab-com/-/epics/629). 
 
 ### Key Metrics tracked on the Integrated campaign dashboards
 
 - **Inquiries**: Form fills on the campaign landing page + form fills tagged with the campaign utms anywhere on our marketing site.
-- **MQL**: Campaign inquiries that have MQL'ed (MQL date is not blank).
+- **MQL**: Campaign inquiries that have MQL'ed (MQL date  is not blank).
 - **SDR Accepted**: Number of campaign inquiries worked by the SDRs.
 - **New Inquiries**: Number of new emails created from campaign inquiries.
-- **New MQL**: Number of new emails generated by campaign inquiries that have MQL'ed (MQL date is not blank).
+- **New MQL**: Number of new emails generated by campaign inquiries that have MQL'ed (MQL date  is not blank).
 - **New SDR Accepted**: Number of new emails generated by campaign inquiries worked by the SDRs.
-- **[Linear] Opps Created**: Opportunities (All stages) attributed to campaign inquiries using the linear model.
-- **[Linear] Total IACV $**: IACV $ value of opportunities (all stages) attributed to campaign inquiries using the linear model.
+- **[Linear] Opps Created**: Opportunities (All stages) attributed to  campaign inquiries using the linear model.
+- **[Linear] Total IACV $**: IACV $ value of opportunities (all stages)  attributed to  campaign inquiries using the linear model.
 - **[Linear] SAO**: Sales Accepted opportunities (Stage 1+) attributed to campaign inquiries using the linear model.
 - **[Linear] Pipeline IACV $**: IACV$ value of Sales Accepted opportunities (Stage 1+) attributed to campaign inquiries using the linear model.
-- **[Linear] Won Deals**: Closed won opportunities attributed to campaign inquiries using the linear model.
+- **[Linear] Won Deals**: Closed won opportunities attributed to campaign inquiries  using the linear model.
 - **[Linear] Won IACV$**: IACV$ value of Closed won opportunities attributed to campaign inquiries using the linear model.
+- **Total Cost (Excl PMG's commission)**: Total spend for the campaign(s) excluding our Ad agency's (PMG) commission.
+- **Cost/Inquiry (Excl PMG's commission)**: Total spend for the campaign(s) excluding our Ad agency's (PMG) commission / Number of Inquiries from the campaign(s).
+- **Cost/MQL (Excl PMG's commission)**: Total spend for the campaign(s) excluding our Ad agency's (PMG) commission / Number of MQLs from the campaign(s).
+- **Cost/SAO (EXcl PMG's commission)**: Total spend for the campaign(s) excluding our Ad agency's (PMG) commission /  Number of [Linear] SAOs from the campaign(s).
 - **Inquiry to MQL Conversion Rate**: Number of MQLs from the campaign(s)/Number of Inquiries from the campaign(s).
 - **MQL to [Linear] SAO Conversion Rate**: Number of [Linear] SAOs from the campaign(s)/Number of MQLs from the campaign(s).
 - **[Linear] SAO to [Linear] Closed Won Conversion Rate**: Number of [Linear] Won Deals from the campaign(s) / [Linear] SAOs from the campaign(s).
+- **Avg Inquiry to MQL Velocity (Days)**: Number of days between first campaign inquiry to MQL date. 
+- **Avg MQL to SAO Velocity (Days)**: Number of days between campaign respondent MQL date and resulting first order opportunity sales accepted date .
+- **Avg SAO to Won Velocity (Days)**: Average number of days between campaign first order opportunity sales accepted date and first order opportunity closed-won date.
+
 
 ### 💡 Questions that the Integrated Campaign dashboards attempt to answer
-
 #### Overall (WIP to deliver all)
-
-- What is the pipe-to-spend for our integrated campaigns? How much pipeline are our integrated campaigns generating?
-- What is the pipe-to-spend for our tactics (i.e. webcasts, gated content,etc.)? How much pipeline are our different tactics generating?
-- Which channels (i.e. paid ads, social, organic) are contributing to the highest quantity AND quality leads?
-- Which sources (i.e. webcast, content) are contributing to the highest quantity AND quality leads?
-- Which mix of channels and source deliver the optimal pipe-to-spend? Which mix delivers the highest quantity AND quality leads?
+* What is the pipe-to-spend for our integrated campaigns? How much pipeline are our integrated campaigns generating?
+* What is the pipe-to-spend for our tactics (i.e. webcasts, gated content,etc.)? How much pipeline are our different tactics generating?
+* Which channels (i.e. paid ads, social, organice) are contributing to the highest quantity AND quality leads?
+* Which sources (i.e. webcast, content) are contributing to the highest quantity AND quality leads?
+* Which mix of channels and source deliver the optimal pipe-to-spend? Which mix delivers the highest quantity AND quality leads?
 
 #### By Campaign
+* What is the pipe-to-spend for X campaign?
+* How much pipeline has X campaign generated?
+* What is the funnel movement for leads in X campaign? (Raw > Inquiry > MQL > Accepted > Qualifying > Qualified)
+* Which mix of channel and source is delivering the highest quantity AND quality leads?
+* Which channels are driving the most/least leads in X campaign?
+* Which channels are driving the most/least qualified leads in X campaign? (i.e. moving to Accepted vs. Unqualified)
+* How many leads from X campaign are being generated for each sales segment?
+* How many leads from X campaign are being generated for each sales region?
+* What is the breakdown of segment and region for X campaign?
+* What are the most common disqualification criteria for leads in X campaign? (analyze Unqualified Reason)
 
-- What is the pipe-to-spend for X campaign?
-- How much pipeline has X campaign generated?
-- What is the funnel movement for leads in X campaign? (Raw > Inquiry > MQL > Accepted > Qualifying > Qualified)
-- Which mix of channel and source is delivering the highest quantity AND quality leads?
-- Which channels are driving the most/least leads in X campaign?
-- Which channels are driving the most/least qualified leads in X campaign? (i.e. moving to Accepted vs. Unqualified)
-- How many leads from X campaign are being generated for each sales segment?
-- How many leads from X campaign are being generated for each sales region?
-- What is the breakdown of segment and region for X campaign?
-- What are the most common disqualification criteria for leads in X campaign? (analyze Unqualified Reason)
+#### Drilling down into the dashboards
+
+One of the dashboard functionalities that will be built out is the ability to drill into SFDC records that make up each chart/table.  
+
+In the interim, here are example SFDC reports mirroring the Sisense dashboards which can be used when needing to deep dive into SFDC record details.
+
+`Please do not overwrite the example reports. Instead, clone and tweak the filters accordingly to the desired campaign landing page and utms.`
+
+- **[Campaign Inquiries by channel path](https://gitlab.my.salesforce.com/00O4M000004aNan):** Using the VC&C campaign as an example, this report tells you which channels (Paid Search, Display, Organic Search, Paid Social) sub channels (Paid Search.AdWords,Organic Search.Bing,Organic Search.Google, Paid Social.Facebook,Paid Social.LinkedIn) drove inquries to your campaign.
+- **[Campaign Inquiries by offer](https://gitlab.my.salesforce.com/00O4M000004aSST):** Using the VC&C campaign as an example, this report tells you the offers (form submit landing page url) that drove inquries to your campaign.
+
+
+## Offer-Specific Dashboards
+
+SFDC reports and dashboards to track program performance real-time. Data from the below SFDC reports/dashboards along with anecdotal feedback gathered during program retros will be used as guidelines for developing and growing various marketing campaigns.
+
+The SFDC report/dashboard is currently grouped by program types so MPMs can easily compare and identify top performing and under performing programs within the areas that they are responsible for.
+
+### Key Metrics tracked on ALL virtual events dashboards
+
+*Note: Virtual Events include Webcast, Live Demos and Virtual Sponsorship*
+
+* **Total Registration :** The number of people that registered for the virtual event regardless whether they attend or not.
+* **Total Attendance:** The number of people that attended the LIVE virtual event (exclude people who watched the on-demand version).
+* **Attendance Rate:** % of people that attended the LIVE virtual event out of the total registered (i.e: Total Attendance / Total Registration).
+* **Net New Names:** The number of net new names added to our marketing database driven by the virtual event. Because a net new person record may be inserted into our CRM (SFDC) as a lead or a contact object therefore, we need to add `Total net new leads` and `Total net new contacts` to get the overall total net new names.
+* **Influenced Pipe:** Total New and Add-on business pipeline IACV$ influenced by people who attended the LIVE virtual event. The webcast and live demo dashboards currently use SFDC out of the box `Campaigns with Influenced opportunities` report type because Bizible was implemented in June'18 and therefore the attribution report did not capture data prior to this. We plan to migrate webcast and live demo influenced pipe reports to Bizible attribution report in the next dashboard iteration so they align with overall marketing reporting.
+
+#### Virtual Events Reporting
+
+The [Webcast Dashboard](https://gitlab.my.salesforce.com/01Z6100000079e6) tracks all webcasts hosted on GitLab's internal webcast platform. It is organized into 3 columns. The left and middle columns tracks 2 different webcast series (Release Radar vs. CI/CD webcast series). The right column tracks various one-off webcasts since Jan'18.
+
+The [Live Demo Dashboard](https://gitlab.my.salesforce.com/01Z6100000079f4) is organized into 2 columns. The left column tracks the bi-weekly Enterprise Edition product demos (1 hour duration). The bi-weekly Enterprise Edition product demos ran between Q1'18 - Q2'18.
+The right column tracks the weekly high level product demo + Q&A session (30 minutes duration). The weekly high level product demo + Q&A session was launched in Q4'18 and currently running through the end of Feb 2019.
+
+The [Virtual Sponsorship Dashboard](https://gitlab.my.salesforce.com/01Z61000000UD44) focuses on events that are hosted by a 3rd party where GitLab has purchased a virtual booth or sponsorship.
