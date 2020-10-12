@@ -91,7 +91,7 @@ In the relevant Slack channel:
 
 Please use this step if there are no issues created to capture the failure. If there is already an issue please skip this step.
 
-1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template. For failures in Subscription Portal tests, open an issue in [Subscription Portal](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues) project.
+1. Create an issue for the test or system failure (if retrying the job does not resolve the latter) in [https://gitlab.com/gitlab-org/gitlab/issues](https://gitlab.com/gitlab-org/gitlab/issues) using the [QA failure](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=QA%20Failure) template. For failures in CustomersDot tests, open an issue in [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues) project.
    * Inform the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) about the failure.
    * For system failures, it may make sense to open an issue in a different project such as [Omnibus GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/issues), [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/issues), or [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner/issues).
    *  For staging environment-related failures, you can post a question in [`#infrastructure-lounge`](https://gitlab.slack.com/archives/CB3LSMEJV), or open an issue in the [infrastructure project](https://gitlab.com/gitlab-com/gl-infra/infrastructure)
@@ -151,15 +151,15 @@ You can now run the test against this Docker instance. E.g.:
 CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
-##### Run the tests against Subscription Portal staging environment
+##### Run the tests against CustomersDot staging environment
 
-To run Subscription Portal E2E tests locally against staging environment, you will need to clone [Subscription Portal](https://gitlab.com/gitlab-org/customers-gitlab-com) project, switch to `qa` directory, and then run
+To run CustomersDot E2E tests locally against staging environment, you will need to clone [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) project, switch to `qa` directory, and then run
 
 ```plaintext
 STAGING=1 CP_ADMIN_TOKEN=<TOKEN> GL_ADMIN_TOKEN=<TOKEN> bundle exec rspec spec/ui/purchase/purchase_plan_spec.rb
 ```
 
-**Note - Token value can be found in Engineering Vault**
+**Note** - Token value can be found in GitLab-QA Vault. For details on running tests locally with more options, please refer to [CustomersDot README doc](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/README.md)
 
 ##### Tips for running tests locally
 - Use the environment variable `QA_DEBUG=true` to enable logging output including page actions and Git commands.
