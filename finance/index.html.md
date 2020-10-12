@@ -38,7 +38,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Link to form CA-590](https://drive.google.com/a/gitlab.com/file/d/0BzE3Rq8kSQ6Tcmp3a19xcFBZOWs/view?usp=sharing){:.btn .btn-purple-inv}
 
-## Correspondence 
+## Correspondence
 
 - Please use the `#finance` chat channel in Slack for questions that don't seem appropriate for the issue tracker or internal email correspondence.
 
@@ -99,7 +99,7 @@ Vendor invoices are to be sent to gitlab@supplierinvoices.com and payroll@gitlab
 template](https://docs.google.com/spreadsheets/d/1sRA2uCpFblOleyVIslqM4YwbW27GkU5DTgwMLhgR_Iw/edit?usp=sharing) can be found in Google Docs by the name of "Invoice Template".
 
 Non-US contractors not from Hungary, Italy, Japan, New Zealand, Nigeria, South Africa, Switzerland, and Ukraine will get pay their monthly wages and expenses through iiPay.  Here is the process:
- - enter bank information in BambooHR under Bank Information tab.  Note - new contractor should enter their bank information within 3 business days from their start date. 
+ - enter bank information in BambooHR under Bank Information tab.  Note - new contractor should enter their bank information within 3 business days from their start date.
  - enter VAT number if it is available
  - submit monthly salary/bonus/commission invoice in BambooHR under Contractor Invoice tab (select the currency based on contract agreement) by the 8th of each month
  - submit expenses through Expensify by the 8th of each month
@@ -113,7 +113,7 @@ vendors/contractors, thanks to "Shifted VAT". To make use of this shifted VAT:
 
 * The vendor/contractor writes the phrase "VAT shifted to recipient according to
 article 44 and 196 of the European VAT Directive" on the invoice along with the
-VAT-number of GitLab BV (NL853740343B01).
+VAT-number of GitLab IT BV (NL860316828B01).
 * On the vendor's VAT return the revenue from GitLab BV goes to the rubric "Revenue within the EU". It goes without saying that vendors are responsible for their own correct and timely filings.
 * GitLab BV files the VAT on the VAT return, and is generally able to deduct this VAT all as part of the same return.
 
@@ -126,7 +126,7 @@ VAT-number of GitLab BV (NL853740343B01).
 
 ### How spend is allocated to departments
 
-Budgets are aligned to departments, and budgets follow the owner who requested the spend. When determining who should request the spend, consider the owner of the outcome. 
+Budgets are aligned to departments, and budgets follow the owner who requested the spend. When determining who should request the spend, consider the owner of the outcome.
 
 For example, work to enable a sales partner that will not be incorporated into the product would go to Sales. Work that will be part of the product and supported by engineering, should be charged to the Engineering budget.
 
@@ -140,4 +140,4 @@ For example, work to enable a sales partner that will not be incorporated into t
 | Sales - Commercial Sales, Field Ops, Customer Success | Frederick Kurniadi and Yi Sun |
 | Professional Services | Frederick Kurniadi and Sid Malik |
 | Marketing | Christine Machado and Cristal McClure |
-| G & A | Christine Machado and Cristal McClure | 
+| G & A | Christine Machado and Cristal McClure |
