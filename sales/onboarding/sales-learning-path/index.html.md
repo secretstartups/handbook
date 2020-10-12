@@ -139,7 +139,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Technical Account Managers (Material, - Handbook - 15 minutes)**
    - GitLab's Technical Account Managers serve as trusted advisors to GitLab's customers. This section outlines to TAM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
    - Read the [TAM Handbook](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam)
-   - Read about [Customer Health Scores in the Handbook](/handbook/customer-success/tam/health-scores/#customer-health-scores)
+   - Read about [Customer Health Scores in the Handbook](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/)
    - Read about [Success Plans in the Handbook](/handbook/customer-success/tam/success-plans/)
    - Read about [Executive Business Reviews in the Handbook](/handbook/customer-success/tam/ebr/)
 *  **Professional Services Engineers (Material - Handbook - 10 minutes)**
