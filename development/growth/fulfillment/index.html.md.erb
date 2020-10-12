@@ -174,7 +174,7 @@ splines = "spline";
 node[ shape  =  "Mrecord" , fontsize  =  "10" , fontname  =  "ArialMT" , margin  =  "0.07,0.05" , penwidth  =  "1.0"];
 edge[ fontname  =  "ArialMT" , fontsize  =  "7" , dir  =  "both" , arrowsize  =  "0.9" , penwidth  =  "1.0" , labelangle  =  "32" , labeldistance  =  "1.8"];
 rankdir = "TB";
-label = "CustomersDot domain model\n\n";
+label = "CustomersDot domain model pt 1\n\n";
 m_Admin [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
   <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Admin</font></td></tr>
 </table>
@@ -257,67 +257,6 @@ m_EulaRequest [label = <{<table border="0" align="center" cellspacing="0.5" cell
   <tr><td align="left" width="130" port="subscription_id"><font color="Navy">subscription_id</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
   <tr><td align="left" width="130" port="subscription_name"><font color="Navy">subscription_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
   <tr><td align="left" width="130" port="token">token <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-</table>
-}>];
-"m_Feature::FlipperFeature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperFeature</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-</table>
-}>];
-"m_Feature::FlipperGate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperGate</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-</table>
-}>];
-"m_Flipper::Adapters::ActiveRecord::Feature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Feature</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-</table>
-}>];
-"m_Flipper::Adapters::ActiveRecord::Gate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Gate</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-</table>
-}>];
-m_InstanceReview [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">InstanceReview</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="address">address <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-  <tr><td align="left" width="130" port="company">company <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="email"><font color="Sienna">email</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="external_pipelines_count"><font color="Sienna">external_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="first_name">first_name <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-  <tr><td align="left" width="130" port="groups_count"><font color="Sienna">groups_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="internal_pipelines_count"><font color="Sienna">internal_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="issues_count"><font color="Sienna">issues_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="labels_count"><font color="Sienna">labels_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="last_name"><font color="Sienna">last_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-  <tr><td align="left" width="130" port="merge_requests_count"><font color="Sienna">merge_requests_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="milestones_count"><font color="Sienna">milestones_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="notes_count"><font color="Sienna">notes_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="phone">phone <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
-  <tr><td align="left" width="130" port="projects_count"><font color="Sienna">projects_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="snippets_count"><font color="Sienna">snippets_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
-  <tr><td align="left" width="130" port="users_count"><font color="Sienna">users_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
-  <tr><td align="left" width="130" port="version"><font color="Sienna">version</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
 </table>
 }>];
 m_InstanceReviewSetting [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
@@ -415,19 +354,6 @@ m_SelfManagedInstance [label = <{<table border="0" align="center" cellspacing="0
   <tr><td align="left" width="130" port="instance_identifier">instance_identifier <font face="Arial ItalicMT" color="grey60">string (36) ∗ U</font></td></tr>
 </table>
 }>];
-m_TrialHistory [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
-  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">TrialHistory</font></td></tr>
-</table>
-|
-<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
-  <tr><td align="left" width="130" port="expired_on">expired_on <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
-  <tr><td align="left" width="130" port="gl_namespace_id"><font color="DarkOrange">gl_namespace_id</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
-  <tr><td align="left" width="130" port="glm_content">glm_content <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
-  <tr><td align="left" width="130" port="glm_source">glm_source <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
-  <tr><td align="left" width="130" port="start_date">start_date <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
-  <tr><td align="left" width="130" port="trial_entity">trial_entity <font face="Arial ItalicMT" color="grey60">string (100)</font></td></tr>
-</table>
-}>];
 m_ZuoraUserWithHost [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
   <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">ZuoraUserWithHost</font></td></tr>
 </table>
@@ -453,6 +379,99 @@ m_ZuoraUserWithHost [label = <{<table border="0" align="center" cellspacing="0.5
   m_SelfManagedInstance -> m_InstanceSubscription [arrowhead = "normal", arrowtail = "none", weight = "1"];
   m_Order -> m_LicenseSeatLink [arrowhead = "normal", arrowtail = "none", weight = "2"];
   m_Order -> m_Reconciliation [arrowhead = "normal", arrowtail = "none", weight = "2"];
+}
+```
+
+```plantuml
+digraph PaymentApp {
+rankdir = "TB";
+ranksep = "0.5";
+nodesep = "0.4";
+pad = "0.4,0.4";
+margin = "0,0";
+concentrate = "true";
+labelloc = "t";
+fontsize = "13";
+fontname = "Arial BoldMT";
+splines = "spline";
+node[ shape  =  "Mrecord" , fontsize  =  "10" , fontname  =  "ArialMT" , margin  =  "0.07,0.05" , penwidth  =  "1.0"];
+edge[ fontname  =  "ArialMT" , fontsize  =  "7" , dir  =  "both" , arrowsize  =  "0.9" , penwidth  =  "1.0" , labelangle  =  "32" , labeldistance  =  "1.8"];
+rankdir = "TB";
+label = "CustomersDot domain model pt 2\n\n";
+"m_Feature::FlipperFeature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperFeature</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+"m_Feature::FlipperGate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperGate</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+"m_Flipper::Adapters::ActiveRecord::Feature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Feature</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+"m_Flipper::Adapters::ActiveRecord::Gate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Gate</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_InstanceReview [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">InstanceReview</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="address">address <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="company">company <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="email"><font color="Sienna">email</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="external_pipelines_count"><font color="Sienna">external_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="first_name">first_name <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="groups_count"><font color="Sienna">groups_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="internal_pipelines_count"><font color="Sienna">internal_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="issues_count"><font color="Sienna">issues_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="labels_count"><font color="Sienna">labels_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="last_name"><font color="Sienna">last_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="merge_requests_count"><font color="Sienna">merge_requests_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="milestones_count"><font color="Sienna">milestones_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="notes_count"><font color="Sienna">notes_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="phone">phone <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="projects_count"><font color="Sienna">projects_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="snippets_count"><font color="Sienna">snippets_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="users_count"><font color="Sienna">users_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="version"><font color="Sienna">version</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_TrialHistory [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">TrialHistory</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="expired_on">expired_on <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
+  <tr><td align="left" width="130" port="gl_namespace_id"><font color="DarkOrange">gl_namespace_id</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="glm_content">glm_content <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
+  <tr><td align="left" width="130" port="glm_source">glm_source <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
+  <tr><td align="left" width="130" port="start_date">start_date <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="trial_entity">trial_entity <font face="Arial ItalicMT" color="grey60">string (100)</font></td></tr>
+</table>
+}>];
 }
 ```
 
