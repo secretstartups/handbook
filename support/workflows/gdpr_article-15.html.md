@@ -56,5 +56,5 @@ When a request is received in this manner, do the following:
 
 **Macros**
 
-* [Account::GDPR Article 15 - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693)
+* [Account::GDPR Article 15 - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360043149613)
 
