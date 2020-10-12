@@ -17,7 +17,7 @@ The Quality team currently works cross-functionally and our task ownership spans
   * [Gitlab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
   * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
   * [GitLab](https://gitlab.com/gitlab-org/gitlab/)
-  * [GitLab Subscriptions App](https://gitlab.com/gitlab-org/customers-gitlab-com)
+  * [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
   * **Quality Group**
     * [Quality team tasks](https://gitlab.com/gitlab-org/quality/team-tasks/)
     * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
@@ -48,7 +48,7 @@ For general information, please see the [engineering workflow page](/handbook/en
   * After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
 * [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
   * Engineers who authored and reviewed at least 10 merged MRs should be given Maintainer access.
-* [GitLab Subscriptions App (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
+* [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
   * Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
   * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
     * Authored and reviewed 5 MRs related to improvements to the framework.  
