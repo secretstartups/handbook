@@ -12,6 +12,122 @@ title: "Channel Operations"
 
 # Welcome to the Channel Operations page
 
+## Standard Channel Reporting Links
+
+**[Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXTJ)**
+
+*Use the Global Channel Dashboard to view Pipeline Creation, Open Pipeline, and Bookings reports grouped by Partner, Segment, or Region. Other reports within the Global Channel Dashboard include Deal Path, Engagement, Deal Type, Top Channel Deals by IACV, and Deals Registered through the Partner Portal.*
+
+
+**Reports by Territory**
+
+<table>
+  <tr>
+   <td><strong>AMER</strong>
+   </td>
+   <td><strong>APAC</strong>
+   </td>
+   <td><strong>EMEA</strong>
+   </td>
+   <td><strong>PUB-SEC</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjJ">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjO">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjT">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjY">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjd">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRji">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjn">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjs">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRif">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRik">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRip">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiu">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiz">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj4">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj9">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjE">Deal Path Pipe & Book - Current & Next Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjx">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk2">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk7">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjt">Direct vs. Channel Book & Pipe - Current Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aS13">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhh">Open PIO Pipeline by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiB">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiG">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiL">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiQ">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiV">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRia">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhS">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhI">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhX ">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhc">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkW">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkb">PIO New Logos - Current Fiscal Quarter</a>  
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkg">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>   
+   </td>
+  </tr>
+</table>
+
+
+*All required team reporting is included above. In the event you need a special report, please open an issue and tag Channel Ops.*
+
+
 ## Managing Channel Opportunities
 
 ### Policy and Process
