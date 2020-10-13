@@ -85,7 +85,7 @@ title: "FAQ from prospects"
 
   Documentation:
 
-  Log system: https://docs.gitlab.com/ee/logs/logs.html
+  Log system: https://docs.gitlab.com/ee/administration/logs.html
 
   Audit Events: https://docs.gitlab.com/ee/administration/audit_events.html
 

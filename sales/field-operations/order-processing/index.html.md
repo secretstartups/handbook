@@ -691,6 +691,8 @@ A Direct Deal is a deal between GitLab and the Customer. There are no Distributo
 
 For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk. 
 
+** Some customers will require a Signed Order Form as well as a PO for Invoicing purposes. Please reach out to Billing Ops to determine if the Account requires a PO to book the order. 
+
 <details>
 <summary markdown="span"><b>GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM</b></summary>
 
