@@ -23,7 +23,7 @@ graph TD
     A -->|Yes| B{Is the ticket tied to an org?}
     A -->|No| G[Ensure correct form]
     B -->|Yes| D{Does the ticket have an SLA?}
-    B -->|No| E[Find the organizaton and associate it: Needs Org Workflow]
+    B -->|No| E[Find the organizaton and associate it: Needs Org Workflow] --> B
     D -->|Yes| C
     D -->|No| F[Analyse why: use resources in this page] --> C
 ```
