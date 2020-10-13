@@ -153,7 +153,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Click `This looks good, NEXT` at the right. 
 
-1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, CES, PBP and the Manager, Sourcing so everyone knows when the job has been approved. You should also at mention the same people in an approval note.
+1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, PBP and the Manager, Sourcing so everyone knows when the job has been approved. You should also at mention the same people in an approval note.
 
 1. Scroll to the bottom of the page and click `Request Approval`.
 
@@ -227,7 +227,6 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
       - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
    - Stage Transitions:
       - Recruiter (all stages)
-      - Candidate Experience Specialist (all stages)
       - Hiring Manager:
         -  Reference and Background Check
         -  Justification
