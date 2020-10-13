@@ -15,8 +15,6 @@ twitter_creator: '@gitlab'
 # Campaigns Team Overview
 {:.no_toc}
 
-##
-
 ## Goals
 
 ### Demand Generation Key Metrics
@@ -75,7 +73,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 - **Onboarding**: create smooth and effective onboarding experience for new team members to ramp quickly and take on responsibilities on the team
 - **Transition of Responsibilities**: plan for and organize efficient handoff to new team members and between team members when prioritization changes occur
 
-**Agnes Oetama** _Sr. Marketing Campaigns Manager_
+**Agnes Oetama** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Large Segment, *North America***
   - Plan, organize, implement, and optimize top-funnel campaigns for large segment in North America
@@ -84,7 +82,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 - Sisense demand generation attribution reporting (working closely with Marketing Ops)
 - Support North America field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
 
-**Jenny Tiemann** _Sr. Marketing Campaigns Manager_
+**Jenny Tiemann** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Large Segment, *PubSec, APAC, and LATAM***
   - Plan, organize, implement, and optimize top-funnel campaigns for large segment in PubSec, APAC, and LATAM 
@@ -92,7 +90,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large PubSec, APAC, and LATAM campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
 - Support PubSec, APAC, and LATAM field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
 
-**Zac Badgley** _Sr. Marketing Campaigns Manager_
+**Zac Badgley** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
   - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
@@ -100,7 +98,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
 - Support email marketing initiatives with the Campaign Manager focused on email marketing
 
-**Nout Boctor-Smith** _Sr. Marketing Campaigns Manager_
+**Nout Boctor-Smith** _Sr. Marketing Campaign Manager_
 
 -  **Lifecycle email marketing strategy**
   - Continuous Email Communicaiton: establish automated strategic email nutures in Marketo to 
@@ -112,8 +110,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - [CMO Q3 FY21 KR - Email Nurture PLAN for Free .com Users (Dunk)](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1512)
 - Collaborate with Commercial (Mid-Market and Small) Campaign Managers on segment strategy
 
-
-**Eirini Panagiotopoulou** _Sr. Marketing Campaigns Manager_
+**Eirini Panagiotopoulou** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Large Segment, *EMEA***
   - Plan, organize, implement, and optimize top-funnel campaigns for large segment in EMEA
@@ -121,7 +118,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel Large EMEA campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
 - Support EMEA field marketing requests (focused on mid- and bottom-funnel tactics), primarily related to Marketo, SFDC, and Pathfactory
 
-**Indre Kryzeviciene** _Marketing Campaigns Manager_
+**Indre Kryzeviciene** _Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
   - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
@@ -234,7 +231,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 #### Intake process daily/weekly steps
 Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
 * Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
-  - if yes, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
+  - if yes, check that due date is at least 5 business days from date submitter details provided, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
   - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
 * Does the request align to FY21-22 segment marketing plan?
  - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
