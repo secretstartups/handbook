@@ -162,16 +162,9 @@ The potential value of all users that could purchase our product within existing
 ### Customer Acquisition Cost (CAC)
 
 Given our land and expand model, we need to attribute our sales and marketing expense toward both our acquiring new customers and growing new customers.
-We refer to CAC as just the portion of our sales and marketing expense related to new customer acquisition.
 We allocate sales expense by using number of active customers because the number of active customers operationally drives where sales spends time. It also doesn't underweight sales time spent on first order which tends to be smaller than growth.
 We divide our customer base into cohorts by the quarter when they had their first active subscription. We then weight sales expense to each cohort by the number of active customers in that cohort.
 Our marketing expense is allocated between first order business and connected new business based on IACV because those are the key [KPIs](/handbook/ceo/kpis/) we use to evaluate marketing. Marketing expense includes the cost of free users of gitlab.com.
-
-Therefore `CAC = Allocated Sales & Marketing Expense/Number of First Order Acquired`
-
-where
-
-`Allocated Sales and Marketing Expense = Sales Expense * First Order Customers / Total Active Customers + Marketing Expense * First Order IACV / (First Order IACV + Connected New IACV)`
 
 ### Customer Acquisition Cost (CAC) Ratio
 
