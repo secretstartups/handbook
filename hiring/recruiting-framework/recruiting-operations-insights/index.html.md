@@ -98,6 +98,35 @@ TBA
        1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
 * **Referral Submissions**
     * [See how to process Referral Submissions in the handbook.](/handbook/hiring/referral-operations/#transferring-referral-submissions-to-greenhouse)
+* **Troubleshooting Platform Errors and Issues**
+    * If and when you encounter an error/issue with Greenhouse that you're unable to solve for, you can take one of two actions.
+        1. Chat with their *Support Team* via their **Get Help** tool in the bottom-left corner of a page or...
+        1. Submit a ticket to their *Support Team* via the same **Get Help** tool.
+            * Alternatively, you can email `support@greenhouse.io`.
+        * You'll have the option to choose one of the two aforementioned options.
+
+</details>
+
+<details>
+  <summary markdown='span'>
+  LinkedIn
+  </summary>
+
+* **Seat Management**
+   * To provision a LinkedIn seat requested via an Issue, please do the following:
+       1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
+       1. Hover over your profile picture, then select `Manage user` from the menu.
+       1. Click `Assign seat`, select the `Seat type`, enter the Team Member's email, then click `Add`.
+  * To park (i.e. deactivate) a seat, please do the following:
+       1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
+       1. Hover over your profile picture, then select `Manage user` from the menu. 
+       1. Search for the Team Member in the `Search for seat holders by name` search bar.
+       1. Click `Edit`, then `Park seat` to deactivate the seat.
+           * If the Team Member is a member of the *Recruiting-* or *Sourcing Team*, please use the `Reassign seat` option and assign their seat to their Manager.
+* **Troubleshooting Platform Errors and Issues**
+    * If and when you encounter an error/issue with LinkedIn that you're unable to solve for, you can take one of two actions.
+        1. Email GitLab's *Customer Success Manager* or...
+        1. Submit a ticket via email by emailing `lcshelp@linkedin.com`.           
 
 </details>
 
