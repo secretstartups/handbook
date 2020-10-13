@@ -196,3 +196,8 @@ Approximate times for the live sessions to ensure timezone coverate include: 10:
 
 After the 20 day challenge has been completed, it is suggested to have a live retrospective where participants can come and share any feedback about the program. The time(s) this is scheduled for can be the same as the live learning sessions were during the challenge. 
 
+For the pilot Manager Challenge program, the Learning & Development team held a [retrospective session](https://docs.google.com/document/d/1ecuYFRA2oMqpXbGeaK-VIB8AeX98dJJ2-W-wcYUzaXg/edit?userstoinvite=nadia%40gitlab.com&ts=5f7eb88b) to discuss with participants how we can iterate and improve the program moving forward.
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_ohUbaRFFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</figure>
