@@ -244,6 +244,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 
 *December*
 * 2020-12-04: Performance rating finalized for all team members and approved through the e-group level
+* 2020-12-04: Communication training and guidance shared with managers
 * 2020-12: Performance axis results communicated with team members
 
 *January*
