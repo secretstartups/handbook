@@ -24,7 +24,7 @@ graph TD
     A -->|No| G[Ensure correct form]
     B -->|Yes| D{Does the ticket have an SLA?}
     B -->|No| E[Find the organizaton and associate it: Needs Org Workflow] --> B
-    D -->|Yes| C
+    D -->|Yes| C[Done]
     D -->|No| F[Analyse why: use resources in this page] --> C
 ```
 
