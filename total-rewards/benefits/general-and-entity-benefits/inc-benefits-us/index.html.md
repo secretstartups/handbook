@@ -192,6 +192,38 @@ Infertility services will be included in both the PPO 500 plan and HSA plan. Thi
 
 All plans through Cigna will include full WPATH transgender benefit coverage. More details on this will be made available shortly.
 
+#### Cigna Provider Search 
+
+1 Visit www.cigna.com
+1 Select “Find a Doctor, Dentist or Facility”
+1 Select how you’re covered: “Employer or School”
+1 Enter the search locale and determine how you would like to search for Providers
+1 “Continue as Guest” if you’re not a Cigna member yet
+1 Reconfirm the search locale and press “Continue”
+1 Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
+1 Use the search filters to manipulate the contracted provider data
+
+IMPORTANT NOTE:
+As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
+Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
+*balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
+
+#### Cigna Provider Search - Utah 
+
+1 Visit www.cigna.com
+1 Select “Find a Doctor, Dentist or Facility”
+1 Select how you’re covered: “Employer or School”
+1 Enter the search locale and determine how you would like to search for Providers
+1 “Continue as Guest” if you’re not a Cigna member yet
+1 Reconfirm the search locale and press “Continue”
+1 Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
+1 The Provider Search directory will generate a list of Cigna contracted providers
+
+IMPORTANT NOTE:
+As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
+Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
+*balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
+
 ### Kaiser Medical Plans
 
 #### Kaiser 2020 Calendar Year Plans
