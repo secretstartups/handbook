@@ -72,7 +72,7 @@ author_twitter: Twitter username or gitlab # ex: johndoe
 categories: unfiltered
 image_title: '/images/blogimages/gitlab-values-cover.png'
 description: "Short description for the blog post"
-tags: tag1, tag2, tag3 # Please add some relevant tags from the blog handbook: https://about.gitlab.com/handbook/marketing/blog/#tags
+tags: tag1, tag2, tag3 # Please add some relevant tags from the blog handbook: https://about.gitlab.com/handbook/marketing/blog/#tags. Please only use tags from this list (do not create new ones).
 ---
 ```
 
@@ -116,6 +116,7 @@ When you are completely finished, assign your MR to another team member for revi
 
 - You might find this [editorial review checklist](/handbook/marketing/growth-marketing/content/editorial-team/#editorial-review-checklist) helpful
 - Please ensure the `unfiltered` category has been entered in the post frontmatter
+- Please ensure the [disclaimer](#link-to-disclaimer) has been included at the top of the blog post
 - Remove the line `featured: yes` from the frontmatter if present
 - Please check [the review app for the blog post](/handbook/marketing/blog/#previewing-your-blog-post) to ensure there are no formatting problems (e.g. links not working, images not rendering)
 
