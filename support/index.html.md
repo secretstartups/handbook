@@ -546,6 +546,7 @@ sb s # GitLab.com queues
 - [Support Hiring](/handbook/support/managers/hiring.html)
 - [Support Channels](/handbook/support/channels)
 - [On-Call](/handbook/on-call/)
+- [License & Renewals](/handbook/support/license-and-renewals)
 - [Support Ops](/handbook/support/support-ops)
 - [Advanced Topics](/handbook/support/advanced-topics)
 

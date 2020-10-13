@@ -56,6 +56,7 @@ For reviews with a "satisfaction::bad" rating, follow this process.
 | `~feedback::process-confusing-customer` | Customer found support process confusing or unclear |
 | `~feedback::process-engineer-not-followed` | Support Engineer did not follow documented support process |
 | `~feedback::process-does-not-exist` | Problem does not have an existing Support process |
+| `~feedback::process-sfdc` | Problem caused by Zendesk-Salesforce integration (includes delays due to needs-org, incorrect contact info/matching in SFDC, unable to validate subscription) |
 | `~feedback::soft-skills` | Support Engineer responses unhelpful or customer expectations mishandled |
 | `~feedback::technical-skills-engineer` | Support Engineer lacks skills or permissions to troubleshoot or resolve problem |
 | `~feedback::technical-skills-customer` | Customer lacks skills or permissions to troubleshoot or resolve problem |

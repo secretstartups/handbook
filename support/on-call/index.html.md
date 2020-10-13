@@ -206,6 +206,7 @@ Support Managers also have an on-call rotation. During their rotation, the manag
 
 - to act as an escalation point for missed customer emergency pages
 - find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
+- to triage and investigate tickets that are escalated in `#support_managers` to the end of understanding the scope of what is being asked for
 - to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket
 - to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
 - to act as a notification point for security incidents
@@ -213,6 +214,7 @@ Support Managers also have an on-call rotation. During their rotation, the manag
 - to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
     1. asking a specific manager to cover, and then if necessary,
     1. posting a request in `#support_managers` for any manager to volunteer to cover if their specific request goes unanswered.
+
 
 ### Seeing which manager is on-call
 
