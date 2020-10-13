@@ -27,9 +27,9 @@ Licensing
 Transactions
 - Make doing business with GitLab  efficient, easy, and a terrific user experience
 
-**Deliver telemetry data that improves our product**
+**Deliver product analytics data that improves our product**
 
-The [Telemetry](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/) Group is responsible for:
+The [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) Group is responsible for:
 
 Collection
 - Collect information from GitLab.com and self-managed instances to improve our product
@@ -49,7 +49,7 @@ We focus on validating ideas with data across the following four Groups:
 - Get users off to a successful start
 - Increase users completing key actions
 
-[Conversion Group](/handbook/engineering/development/growth/acquisition-conversion-be-telemetry/)
+[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
 - Encourage cross-stage usage
 - Increase Stage Monthly Active Users
 
@@ -71,9 +71,9 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 | Group name                                                | Group label                   |
 | ----------                                                | -----------                   |
 | [Fulfillment](fulfillment/)                               | `~"section::fulfillment"`     |
-| [Product Analytics](acquisition-conversion-be-telemetry/) | `~"group::product analytics"` |
+| [Product Analytics](conversion-product-analytics/)        | `~"group::product analytics"` |
 | [Acquisition](acquisition/)                               | `~"group::acquisition"`       |
-| [Conversion](acquisition-conversion-be-telemetry/)        | `~"group::conversion"`        |
+| [Conversion](conversion-product-analytics/)               | `~"group::conversion"`        |
 | [Expansion](expansion/)                                   | `~"group::expansion"`         |
 | [Retention](retention/)                                   | `~"group::retention"`         |
 
@@ -83,7 +83,7 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 The following people are permanent members of the Growth sub-department:
 
 <%=
-departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Fulfillment', 'Telemetry', 'Static Site Editor']
+departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Fulfillment', 'Product Analytics', 'Static Site Editor']
 department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
@@ -231,7 +231,7 @@ To help our team be [efficient](/handbook/values/#efficiency), we explicitly def
 
 #### Issue Creation
 
-We aim to create issues in the same project as where the future merge request will live. For example, if an experiment is being run in the [GitLab Subscriptions App](https://customers.gitlab.com), both the issue and MR should be created in the [Subscriptions app](https://gitlab.com/gitlab-org/customers-gitlab-com) project.
+We aim to create issues in the same project as where the future merge request will live. For example, if an experiment is being run in the [GitLab CustomersDot](https://customers.gitlab.com), both the issue and MR should be created in the [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) project.
 
 We emphasize creating the issue in the right project to avoid having to close and move issues later in the development process. If the location of the future merge request cannot be determined, we will create the issue in our catch-all [growth team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/issues).
 
@@ -343,7 +343,7 @@ This issue is used to clean up an experiment after an experiment has been comple
 
 ## Growth Engineering Weekly
 
-Every week, engineers in the Growth sub-department meet to discuss topics related to growth engineering. Discussion topics include how to track experiments, A/B testing, changes in customers application, changes in gitlab application, etc. Growth Engineers are encouraged to bring discussion topics to the meeting and to them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
+Every week, engineers in the Growth sub-department meet to discuss topics related to growth engineering. Discussion topics include how to track experiments, A/B testing, changes in CustomersDot, changes in gitlab application, etc. Growth Engineers are encouraged to bring discussion topics to the meeting and to them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
 
 To get the most time zone coverage, these meetings alternate fortnightly between:
 * Wednesdays 3:00PM UTC for US/EMEA
@@ -379,4 +379,4 @@ On occasion we put together a virtual team day to help take a break and particip
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
 [Growth Performance Indicators]: /handbook/engineering/development/growth/performance-indicators/
 [Fulfillment issues board]: https://gitlab.com/gitlab-org/fulfillment/issues
-[Product Analytics issues board]: https://gitlab.com/gitlab-org/telemetry/issues
+[Product Analytics issues board]: https://gitlab.com/gitlab-org/product-analytics/-/issues

@@ -1,0 +1,75 @@
+---
+layout: handbook-page-toc
+title: Fulfillment Sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Welcome to the Fulfillment section Page
+
+### Who are we and what do we work on?
+
+The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the Subscriptions App and the License App.
+
+
+We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Analytics group](/handbook/product/product-categories/#product-analytics-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
+
+**Groups**
+
+***Provision***
+Usage and licenses, licenses can come from purchasing, order forms, discounts, education program, trials, partners. Systems: LicenseDot, GitLab. Integration: Salesforce.
+
+***Purchase***
+Subscription management, payments, and trials. Systems: CustomersDot, GitLab. Integrations: Zuora, Stripe, Salesforce, Marketo.
+
+**Want to know more about us?**
+
+* [Product Vision](https://about.gitlab.com/direction/fulfillment/)
+* [Fulfillment section](/handbook/product/product-categories/#fulfillment-group)
+* Engineering Teams
+     * Purchase
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
+          * [Backend](/handbook/engineering/development/fulfillment/be-purchase/)
+     * Provision
+          * [Backend](/handbook/engineering/development/fulfillment/be-provision/)
+
+
+## What are we working on?
+* [Milestone 13.5](https://gitlab.com/groups/gitlab-org/-/boards/1828610?milestone_title=13.5&label_name[]=group%3A%3Afulfillment) _up next_
+* [Milestone 13.4](https://gitlab.com/groups/gitlab-org/-/boards/1775156?milestone_title=13.4&label_name[]=group%3A%3Afulfillment) _in progress_
+* [Milestone 13.3](https://gitlab.com/groups/gitlab-org/-/boards/1686971?milestone_title=13.3&label_name[]=group%3A%3Afulfillment)  _Complete_
+
+
+## Improving the purchase, renewal, and licensing flows.
+
+The Fulfillment team is currently working on an initiative to improve our sales efficiency, with improvements identified by the [Commercial & Licensing Working Group](https://about.gitlab.com/company/team/structure/working-groups/commercial-licensing/).
+
+We're following the [Engineering Demo Process](https://about.gitlab.com/handbook/engineering/#engineering-demo-process)  in order to show regular improvements as we iterate on issues in this area.
+
+Our [Scorecard](https://docs.google.com/spreadsheets/d/1DVUSg6ow5eT9UcG56KwF5uu0MIWf2jo_21XyDxgUOuo/edit#gid=0) (internal only) breaks down the different steps in these flows and links to videos where we step through the process and discuss the issues that aim to improve them.
+
+We are tracking progress with [this epic](https://gitlab.com/groups/gitlab-org/-/epics/4455) and [this dahsboard](https://app.periscopedata.com/app/gitlab/750638/Fulfillment-Purchase-Flow-Improvements).
+
+<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841538, embed: 'v2') %>">
+<embed width="<%= 99 %>%" height="250" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841334, embed: 'v2') %>">
+<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841378, embed: 'v2') %>">
+
+## Software architecture
+
+We follow the [GitLab architecture guide and practices](https://about.gitlab.com/handbook/engineering/architecture/) and discuss architecture matters in #g_fulfillment_architecture on Slack.
+
+The Subcriptions App provides APIs which allow the purchase experience to happen within GitLab itself.
+
+![Subscriptions App Diagram](subscriptions_architecture.png)
+
+## How to get help
+
+* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
+* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
+* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
+* To raise awareness or request elevated priority of an issue, mention [@amandarueda](https://gitlab.com/amandarueda) in the issue and provide relevant information.

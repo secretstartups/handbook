@@ -9,9 +9,9 @@ title: Secure Sub-Department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The secure engineering sub-department is responsible for most of the [secure stage](/handbook/product/product-categories/#secure-stage) of the product.  (One portion of the secure stage (threat insights) is a responsibility of the [Threat Management](/handbook/engineering/development/threat-management/) engineering sub-department).
+The secure engineering sub-department is responsible for most of the [secure stage](/handbook/product/product-categories/#secure-stage) of the product. (One portion of the secure stage (threat insights) is a responsibility of the [Threat Management](/handbook/engineering/development/threat-management/) engineering sub-department).
 
-```mermaid
+``` mermaid
 erDiagram
     Secure-Stage ||--|{ Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups : contains
     Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups }|--|| Secure-Department : reports-to
@@ -20,7 +20,6 @@ erDiagram
     Container-Security-Group ||--|| Threat-Management-Department : reports-to
     Secure-Stage ||--|| Threat-Insights-Group  : contains
 ```
-
 
 ## Vision
 
@@ -32,9 +31,8 @@ For more details about the vision for this area of the product, see the [Secure 
 
 ## Mission
 
-### Do no harm
-We will never knowingly compromise the security posture of your application.
 ### Be a good global citizen
+
 We will give back to the Open Source community
 We will provide Responsible Disclosure
 We will share our knowledge and findings at public speaking events
@@ -46,12 +44,15 @@ The Secure team works on GitLab's [Secure stage].
 ## Team Members
 
 The following people are permanent members of the Secure Sub-Department:
+
 <%=  direct_team(role_regexp: /(Director|Distinguished).*[,&] Secure/, manager_role: 'Director of Engineering, Secure') %>
 
 ### [Composition Analysis](composition-analysis)
+
 <%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Composition Analysis') %>
 
 ### [Static Analysis](static-analysis/)
+
 <%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Static Analysis') %>
 
 ### [Dynamic Analysis](dynamic-analysis)
@@ -61,9 +62,11 @@ The following people are permanent members of the Secure Sub-Department:
 <%=  direct_team(role_regexp: /Engineer(.*)Secure:Fuzz Testing/, manager_slug: 'sethberger') %>
 
 ### [Frontend Team](fe-secure)
+
 <%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
 
 ### [Vulnerability Research](vulnerability-research/)
+
 <%= direct_team(role_regexp: /Vulnerability Research/, manager_role: 'Manager, Vulnerability Research Engineering') %>
 
 ## Stable Counterparts
@@ -111,7 +114,6 @@ Dependency Scanning is relying mostly on the Gemnasium engine.
 It's very common to build the final image on top of an existing one, which must be checked like every other portion of the application.
 For that, Container Scanning is relying on [klar](https://github.com/optiopay/klar) and [clair server](https://github.com/quay/clair).
 
-
 ##### License Compliance
 
 [License Compliance](https://docs.gitlab.com/ee/user/application_security/license_compliance/) helps with the licenses introduced by third-party libraries in the application.
@@ -128,9 +130,10 @@ capabilities and effectiveness of the
 
 If you are submitting an issue about a Secure Stage feature, use `~devops::secure` and one of the following group labels to get the issue in front of the most appropriate team members.
 
-| Label                            | Use                                                                          |
-|----------------------------------|------------------------------------------------------------------------------|
-| `~devops::secure`                | All issues related to the Secure Stage                                       |
+| Label | Use |
+| ----- | --- |
+| `~devops::secure` | All issues related to the Secure Stage |
+
 <% data.categories\
     .filter{|k, v| v.stage == 'secure' && v.label }\
     .values\
@@ -143,20 +146,19 @@ Additional labels should be added according to the [Workflow Labels Documentatio
 
 #### Delineate Secure and Threat Management
 
-It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious.  It is documented on a dedicated [delineation page](../threat-management/delineate-secure-threat-management.html).
+It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious. It is documented on a dedicated [delineation page](../threat-management/delineate-secure-threat-management.html).
 
 #### Skills
 
 Because we have a wide range of domains to cover, it requires a lot of different expertises and skills:
 
-
-| Technology skills | Areas of interest                             |
-|-------------------|-----------------------------------------------|
-| Ruby on Rails     | Backend development                           |
-| Go                | SAST, Dependency Scanning, Container Scanning |
-| Python            | DAST                                          |
-| SQL (PostgreSQL)  | Dependency Scanning / all                     |
-| Docker            | Container Scanning / all                      |
+| Technology skills | Areas of interest |
+| ----------------- | ----------------- |
+| Ruby on Rails | Backend development |
+| Go | SAST, Dependency Scanning, Container Scanning |
+| Python | DAST |
+| SQL (PostgreSQL) | Dependency Scanning / all |
+| Docker | Container Scanning / all |
 
 Our team also must have a good sense of security, with at least basic skills in [application security](https://en.wikipedia.org/wiki/Application_security).
 
@@ -171,11 +173,12 @@ See [Secure Release Process](release_process.html).
 Our [release scripts](https://gitlab.com/gitlab-org/security-products/release) project also defines our [QA process](https://gitlab.com/gitlab-org/security-products/release/blob/master/docs/qa_process.md).
 
 #### Error Monitoring
+
 500 errors on gitlab.com are reported to Sentry. Below are some quick links to pull up Sentry errors related to Secure.
 
-* StoreSecurityReports Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+StoreSecurityReportsWorker&statsPeriod=14d
-* SyncSecurityReportsToReportApprovalRules Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+SyncSecurityReportsToReportApprovalRulesWorker&statsPeriod=14d
-* Vulnerabilities - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+vulnerabilities&statsPeriod=14d
+- StoreSecurityReports Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+StoreSecurityReportsWorker&statsPeriod=14d
+- SyncSecurityReportsToReportApprovalRules Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+SyncSecurityReportsToReportApprovalRulesWorker&statsPeriod=14d
+- Vulnerabilities - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+vulnerabilities&statsPeriod=14d
 
 #### Brainstorming sessions
 
@@ -192,10 +195,11 @@ When possible, time should be reserved for a list of actions to be taken from th
 
 Brainstorming Sessions Doc (Internal): https://docs.google.com/document/d/179JL5RzbgSIz2XZewbYn79cuX7_vUtte_TcoLwUUC5o/edit#
 
-*Examples of previous brainstorming topics:*
- - [Reduce false positives in Security reports](https://gitlab.com/gitlab-org/gitlab/issues/33934)
- - How to manage occurrence uniqueness identification in the common report format? (CompareKey)
- - [One file with syntax errors should not stop SAST and similar kind of jobs from running](https://gitlab.com/gitlab-org/gitlab/issues/7102)
+_Examples of previous brainstorming topics:_
+
+- [Reduce false positives in Security reports](https://gitlab.com/gitlab-org/gitlab/issues/33934)
+- How to manage occurrence uniqueness identification in the common report format? (CompareKey)
+- [One file with syntax errors should not stop SAST and similar kind of jobs from running](https://gitlab.com/gitlab-org/gitlab/issues/7102)
 
 #### Product Documentation
 
@@ -205,7 +209,7 @@ To update the documentation, the following process should be followed:
 
 1. When an issue has been identified as needing documentation, add the `~Documentation` label, outline in the description of the issue what documentation is needed, and assign a Backend Engineer and Technical Writer(TW) to the issue (find the appropriate TW by searching the [product categories](/handbook/product/product-categories/)).
 1. If the task is documentation only, apply a `~Px` label.
-1. For documentation around features or bugs, a backend engineer should write the documentation and work with the technical writer for editing. If the documentation only needs styling cleanup, clarification, or reorganization, this work should be lead by the Technical Writer with support from a BE as necessary.  The availability of a technical writer should in no way hold up work on the documentation.
+1. For documentation around features or bugs, a backend engineer should write the documentation and work with the technical writer for editing. If the documentation only needs styling cleanup, clarification, or reorganization, this work should be lead by the Technical Writer with support from a BE as necessary. The availability of a technical writer should in no way hold up work on the documentation.
 [Further information on the documentation process](https://docs.gitlab.com/ee/development/documentation/feature-change-workflow.html).
 
 #### Async Daily Standups
@@ -218,23 +222,24 @@ For that, we rely on the [geekbot](https://geekbot.io/) slack plugin to automate
 
 - Use the "`description in backquote` + `[link to issue](#)`" format when mentioning issues in your standup report.
 - Prepend CI status icons to the answer lines for `What did you do since yesterday?` to denote the current state:
-  - ![Accomplished](img/ci-success.svg "Task accomplished") for successfully accomplished tasks (`:ci_passing:` emoji)
-  - ![Overdue](img/ci-failed.svg "Task overdue") for tasks that were due on some period of time but were not accomplished (`:ci_failing:` emoji)
-  - ![In progress](img/ci-running.svg "Task in progress") for tasks currently in progress (`:ci_running:` emoji)
-  - ![Paused](img/ci-pending.svg "Task paused") for paused or postponed tasks (`:ci_pending:` emoji)
-  - any other `:ci_...` icon you find applicable
+    - ![Accomplished](img/ci-success.svg) for successfully accomplished tasks (`:ci_passing:` emoji)
+    - ![Overdue](img/ci-failed.svg) for tasks that were due on some period of time but were not accomplished (`:ci_failing:` emoji)
+    - ![In progress](img/ci-running.svg) for tasks currently in progress (`:ci_running:` emoji)
+    - ![Paused](img/ci-pending.svg) for paused or postponed tasks (`:ci_pending:` emoji)
+    - any other `:ci_...` icon you find applicable
 
 **Example:**
 
 What did you do since yesterday?
 
-- ![Accomplished](img/ci-success.svg "Task accomplished") Accomplished the `Spotbugs java analyzer compareKey is not unique` [https://gitlab.com/gitlab-org/gitlab-ee/issues/10860](https://gitlab.com/gitlab-org/gitlab-ee/issues/10860)
-- ![In progress](img/ci-running.svg "Task in progress") Still working on `Allow guests to create an issue from a vulnerability` [https://gitlab.com/gitlab-org/gitlab-ee/issues/7813](https://gitlab.com/gitlab-org/gitlab-ee/issues/7813)
-- ![Overdue](img/ci-failed.svg "Task overdue") Catch-up on all emails and threads after the vacation
+- ![Accomplished](img/ci-success.svg) Accomplished the `Spotbugs java analyzer compareKey is not unique` [https://gitlab.com/gitlab-org/gitlab-ee/issues/10860](https://gitlab.com/gitlab-org/gitlab-ee/issues/10860)
+- ![In progress](img/ci-running.svg) Still working on `Allow guests to create an issue from a vulnerability` [https://gitlab.com/gitlab-org/gitlab-ee/issues/7813](https://gitlab.com/gitlab-org/gitlab-ee/issues/7813)
+- ![Overdue](img/ci-failed.svg) Catch-up on all emails and threads after the vacation
 
 **Slack Channels:**
 
 As our teams focus on different areas, we have Geekbot configured to broadcast to separate channels in addition to our common one at [#s_secure-standup].
+
 1. Composition Analysis: [#g_secure-composition-analysis-standup]
 1. Static Analysis: [#g_secure-static-analysis-standup]
 1. Dynamic Analysis: [#g_secure-dynamic-analysis-standup]
@@ -247,8 +252,7 @@ They give a good overview of the decision process, which is often a discussion w
 
 ### Calendar
 
-We welcome team members to join meetings that are on our shared calendar. The [Secure Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9tZDBhbzM2Z3B2bDV2MWY0MTI4ZXJobmo2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) is available to all logged in GitLab team members. 
-
+We welcome team members to join meetings that are on our shared calendar. The [Secure Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9tZDBhbzM2Z3B2bDV2MWY0MTI4ZXJobmo2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) is available to all logged in GitLab team members.
 
 #### Technical onboarding
 
@@ -290,11 +294,11 @@ a minimal featureset is required:
 
 ##### Underlying tool
 
- - [ ] Has [permissive software license](/handbook/engineering/open-source/#acceptable-licenses)
- - [ ] Headless execution (CLI tool)
- - [ ] Bundle-able dependencies to be packaged as a Docker image, to be executed using GitLab Runner's [Linux or Windows Docker executor](https://docs.gitlab.com/runner/executors/README.html#docker-executor)
- - [ ] Compatible projects can be detected based on filenames or extensions
- - [ ] Offline execution (no Internet access) or can be configured to use custom proxies and/or CA certificates
+- [ ] Has [permissive software license](/handbook/engineering/open-source/#acceptable-licenses)
+- [ ] Headless execution (CLI tool)
+- [ ] Bundle-able dependencies to be packaged as a Docker image, to be executed using GitLab Runner's [Linux or Windows Docker executor](https://docs.gitlab.com/runner/executors/README.html#docker-executor)
+- [ ] Compatible projects can be detected based on filenames or extensions
+- [ ] Offline execution (no Internet access) or can be configured to use custom proxies and/or CA certificates
 
 ##### Minimal vulnerability data
 
@@ -318,7 +322,7 @@ The outcome of this research can be found in our [Technical Documentation](./tec
 
 The Secure Team conducts a department wide retrospective on the 24th of each month. You can see previous topics within our past [Secure team retrospectives] issues.
 
-Each month an engineering manager from one of our teams acts as the [DRI](/handbook/people-group/directly-responsible-individuals/) for the retrospective.  This individual schedules sessions and captures our focus outcomes to acheive in the next milestone.
+Each month an engineering manager from one of our teams acts as the [DRI](/handbook/people-group/directly-responsible-individuals/) for the retrospective. This individual schedules sessions and captures our focus outcomes to acheive in the next milestone.
 
 ### Rotation
 
@@ -329,19 +333,17 @@ Each month an engineering manager from one of our teams acts as the [DRI](/handb
 
 **Retro handoff process**
 
-To provide a soft handoff betwen milestones we rely on the current retro DRI to take a few steps.  On the 1st of the month:
+To provide a soft handoff betwen milestones we rely on the current retro DRI to take a few steps. On the 1st of the month:
 
- 1. Confirm who is leading the next retrospective.
- 1. Reschedule/create our EMEA and APAC retro sync sessions if necessary.
- 1. Ensure previous retro focus outcomes have associated issues and DRIs.
-
+1. Confirm who is leading the next retrospective.
+1. Reschedule/create our EMEA and APAC retro sync sessions if necessary.
+1. Ensure previous retro focus outcomes have associated issues and DRIs.
 
 ## Common Links
 
- * [Secure team board]
- * [#s_secure] in Slack
- * [Secure and Defend Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
-
+- [Secure team board]
+- [#s_secure] in Slack
+- [Secure and Defend Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
 
 [Secure team board]: https://gitlab.com/groups/gitlab-org/-/boards/588843?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure
 [Secure team retrospectives]: https://gitlab.com/gl-retrospectives/secure/-/issues?scope=all&utf8=%E2%9C%93&state=all
