@@ -30,17 +30,13 @@ graph TD
 
 ## Applying the Correct Form
 
-A ticket should have the correct form applied to it to help route it to the right set of individuals who can assist with that request. We currently use the [below forms in Zendesk](/handbook/support/workflows/zendesk-overview.html#ticket-forms).
+A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
 
-|Form|Purpose|
-|--|--|
-|Self-Managed||
-|GItLab Community Edition (CE)||
-|GitLab.com Account||
-|GitLab.com||
-|License Renewals and Upgrades||
-|Security|Abuse/terms of use or code of conduct violations/blocked account reinstatement|
-|Accounts Receivable / Refunds||
+Most of the forms are self-explanatory, but here are some extra considerations:
+
+- GitLab.com Account: user account issue only, all others go to GitLab.com
+- Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
+- Accounts Receivable: refunds, VAT and invoices.
 
 ## Needs Org Workflow
 
