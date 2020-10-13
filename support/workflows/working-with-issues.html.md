@@ -113,11 +113,11 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product  | Escalation Types                 | Escalation Point                                        | Assignment      |
 |------------------|--------------------------------|-----------------------------------------------------------|------------------
-| GitLab           | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab/issues/new           |
-| GitHost.io       | Bug reports, Feature proposals | https://gitlab.com/gitlab-com/githost/issues/new          | Maintainer of GitHost.io
-| Omnibus GitLab   | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new   | Omnibus GitLab specialist
-| GitLab Runner    | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab-runner/new  | GitLab CI specialist
-| GitLab Workhorse | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new | Maintainer of gitlab-workhorse
+| GitLab           | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/issues/new>           |
+| GitHost.io       | Bug reports, Feature proposals | <https://gitlab.com/gitlab-com/githost/issues/new>          | Maintainer of GitHost.io
+| Omnibus GitLab   | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new>   | Omnibus GitLab specialist
+| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/new>  | GitLab CI specialist
+| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new> | Maintainer of gitlab-workhorse
 
 **See the [GitLab team page](/company/team/) for assignments**
 
@@ -125,9 +125,9 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
-| GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | https://gitlab.com/gitlab-com/infrastructure/issues/new | Production Lead/Senior Production Engineer
-| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/internal-requests/issues/new | Use `~"GitLab.com Console Escalation"` label |
-| GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | https://gitlab.com/gitlab-com/support/support-team-meta/issues/new        | Support Team Lead/Senior Support Engineer
+| GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | <https://gitlab.com/gitlab-com/infrastructure/issues/new> | Production Lead/Senior Production Engineer
+| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | <https://gitlab.com/gitlab-com/support/internal-requests/issues/new> | Use `~"GitLab.com Console Escalation"` label |
+| GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](/company/team/) for assignments**
 
