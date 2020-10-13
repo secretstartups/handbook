@@ -36,7 +36,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
     1. Helping facilitate first replies within SLA times for *new* tickets from 9am - 5pm in your time zone
        - **Note:** if you are a US Citizen and have access to the Federal instance, this should also be a part of your rotation.
     2. [Triaging tickets](/handbook/support/workflows/ticket_triage.html) to make sure they have:
-      * The correct ticket form (such as GitLab.com, if they're asking for GitLab.com support). Take special notice of tickets with form `Other Request`. This is usually because the ticket was created by email. **Change the form to the most appropriate form type and then fill in additional metadata where possible**.
+      * The correct ticket form (such as GitLab.com, if they're asking for GitLab.com support). Take special notice of tickets with form `Other Request`. This is usually because the ticket was created by email. **Note that a form change results in an auto-reply for tickets that don't have an org associated yet. Hence, it is recommended to first associate the user with an appropriate org and then change the form to the most relevant form type and fill in additional metadata where possible**.
       * An associated organization
       * [The correct priority](/handbook/support/workflows/setting_ticket_priority.html#setting-ticket-priority)
       * The correct **Problem Type** selected
