@@ -161,7 +161,7 @@ In Network:
 | Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
 | Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
 | Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
-| Emergency Room             | 20%                    | $100 per visit     | $100 per visit +10%   |
+| Emergency Room             | 20%                    | $100 per visit     | $100 per visit    |
 | Hospital Inpatient         | 20%                    | $250 per admission | 10%               |
 | Hospital Outpatient        | 20%                    | 0%                 | 10%               |
 | Generic                    | $10                    | $10                | $10               |
@@ -194,32 +194,34 @@ All plans through Cigna will include full WPATH transgender benefit coverage. Mo
 
 #### Cigna Provider Search 
 
-1 Visit www.cigna.com
-1 Select “Find a Doctor, Dentist or Facility”
-1 Select how you’re covered: “Employer or School”
-1 Enter the search locale and determine how you would like to search for Providers
-1 “Continue as Guest” if you’re not a Cigna member yet
-1 Reconfirm the search locale and press “Continue”
-1 Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
-1 Use the search filters to manipulate the contracted provider data
+1. Visit www.cigna.com
+1. Select “Find a Doctor, Dentist or Facility”
+1. Select how you’re covered: “Employer or School”
+1. Enter the search locale and determine how you would like to search for Providers
+1. “Continue as Guest” if you’re not a Cigna member yet
+1. Reconfirm the search locale and press “Continue”
+1. Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
+1. Use the search filters to manipulate the contracted provider data
 
 IMPORTANT NOTE:
+
 As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
 Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
 *balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
 
-#### Cigna Provider Search - Utah 
+##### Cigna Provider Search - Utah 
 
-1 Visit www.cigna.com
-1 Select “Find a Doctor, Dentist or Facility”
-1 Select how you’re covered: “Employer or School”
-1 Enter the search locale and determine how you would like to search for Providers
-1 “Continue as Guest” if you’re not a Cigna member yet
-1 Reconfirm the search locale and press “Continue”
-1 Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
-1 The Provider Search directory will generate a list of Cigna contracted providers
+1. Visit www.cigna.com
+1. Select “Find a Doctor, Dentist or Facility”
+1. Select how you’re covered: “Employer or School”
+1. Enter the search locale and determine how you would like to search for Providers
+1. “Continue as Guest” if you’re not a Cigna member yet
+1. Reconfirm the search locale and press “Continue”
+1. Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
+1. The Provider Search directory will generate a list of Cigna contracted providers
 
 IMPORTANT NOTE:
+
 As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
 Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
 *balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
@@ -265,15 +267,15 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
 | OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
 | PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
-| Emergency Room             | $50                  | $50             | $250            | $100            |
+| Emergency Room             | $100                 | $100            | $250            | $100            |
 | Urgent Care                | $20                  | $20             | $50             | $15             |
 | Hospital Inpatient         | $250/admit           | $250/admit      | $300/admit      | 10%             |
 | Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
 | **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | N/A              |
-| Brand - Preferred          | $35                  | $35             | $30             | N/A             |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | N/A             |
-| Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | N/A             |
+| Generic                    | $10                  | $10             | $10             | See SBC (tier 1), $3 (tier 1a), $15 (tier 1b)             |
+| Brand - Preferred          | $35                  | $35             | $30             | $50             |
+| Brand - Non-Preferred      | $35                  | $35             | $50             | $50             |
+| Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | $200            |
 
 **Team Member Costs:**
 
