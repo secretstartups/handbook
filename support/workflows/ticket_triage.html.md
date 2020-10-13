@@ -26,6 +26,7 @@ graph TD
     B -->|No| E[Find the organizaton and associate it: Needs Org Workflow] --> B
     D -->|Yes| C[Done]
     D -->|No| F[Analyse why: use resources in this page] --> C
+    G -->H[Check if it falls under `Other Requests`]
 ```
 
 ## Applying the Correct Form
