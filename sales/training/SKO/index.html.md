@@ -40,7 +40,7 @@ A: The health and safety of our team is our absolute top priority. Sales leaders
 
 **Q: Will we still have an in-person Sales event in 2021?** 
 
-A: Due to the unpredictable nature of the COVID-19 pandemic, there are currently no plans for an in-person Sales event in 2021. Sales leadership is actively monitoring the COVID-19 crisis and consulting with our security vendor with the health and safety of our team members as our top priority. Sales leadership will update the team in 2021 should this decision change. 
+A: We hope to! Sales leadership is looking into opportunities to get the team together in person either by region or with the entire team in 2H CY21. This is contingent on the status of the COVID-19 pandemic, and we will make all decisions with the health and safety of our team members as our top priority.
 
 **Q: What platform(s) are we using for the virtual event?**
 
@@ -48,17 +48,11 @@ A: Please stay tuned for more information on our virtual event platform!
 
 **Q: When and how should I register?**
 
-A: The SKO core team will reach out with more information and update this page with registration details once they are available.  
-
-**Q: What is the agenda?**
-
-A: Please see the section above for a high-level agenda. We will post the final agenda in the event app at a later date. 
-
-Note that we have modified our Virtual SKO agenda so that all content is delivered in half-days. This is to avoid fatigue and respect the fact that team members will have additional committments and responsibilities since they will be at home. 
+A: The SKO core team will reach out via email with registration links and update this page with registration details once they are available.  
 
 **Q: How are we accommodating different timezones?**
 
-A: We will have live and interactive sessions for all timezones. 
+A: We will have live and interactive sessions for all timezones. All sessions will be recorded and available for team members on-demand after the event.
 
 **Q: Will there be any pre-work?**
 
@@ -82,7 +76,7 @@ A: We will host a Partner Summit in tandem with SKO. Partners will be invited to
 
 **Q: Where can I ask questions related to SKO?**
 
-A: Please Slack #sko-virtual-2021 or you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Emily Kyle, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry as soon as possible. 
+A: Please Slack #sko-virtual-2021 or you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Emily Kyle, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry within 24 hours. 
 
 We are actively planning this event and will update this FAQ as more information becomes available. 
 
