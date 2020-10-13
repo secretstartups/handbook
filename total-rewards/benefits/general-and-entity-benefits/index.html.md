@@ -153,6 +153,7 @@ Note: The above process is not required if the course is being offered to you at
 Examples of English Language Courses:
  * [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities. Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development
  * English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
+ * Example
  * Please add any recommendations to this list.
 
 #### Tuition Reimbursement for Your 4th Trimester
