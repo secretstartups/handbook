@@ -42,7 +42,7 @@ If you do not enroll in a plan within your benefits election period, you will au
 
 GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [notice](https://docs.google.com/document/d/1qFK-MnErpOSTXli4G_c0ze-UeAU4szAx-GMoNnizQ_4/edit?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D.
 
-## Qualifying Life Events
+### Qualifying Life Events
 
 Due to IRS guidelines, you cannot make changes to your health insurance benefits outside of GitLab's annual open enrollment period unless you experience a [Qualifying Life Event](https://employee-resources.lumity.com/help/qualifying-life-event).
 
