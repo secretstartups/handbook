@@ -141,7 +141,20 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
     1. **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared and break the asset consumption tracking via [listening campaign](#listening-campaigns).
     1. If a URL slug needs to be modified, please open an issue, assign to `@sdaily`.
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is _not secure_, it _will not_ show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
-1. If you need to replace an asset source but keep the same link, you can do so from the content library. Select the asset from the content library, then from the preview pane on the left under `Source URL`, click the pencil/edit icon, then either paste the new URL for the asset or upload the new file.
+
+
+**Replacing or updating the verson of an asset after initial upload:**
+
+If you need to replace an asset source but keep the same link, you can do so from the content library.
+* Select the asset from the content library
+* On the right side, in the preview pane, scroll until you see `Source URL`
+* When you hover over `Source URL` a pencil appears to the right
+* Click the pencil/edit icon
+* In the popup that appears, choose `File Upload` or `Wesite URL` as relevant
+* Choose the updated version from your computer (or paste the new URL in)
+* Click upload
+* QA that the new version appears in "Preview" mode
+* If used in a track, QA that the correct version appears in the track preview
 
 ### Bulk upload
 
