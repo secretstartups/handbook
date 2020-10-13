@@ -71,7 +71,7 @@ In Zendesk:
 
 ### Namespace is not available
 
-1. Apply **"GitLab.com::Name Squatting Policy::Failed Namespace Request** macro and mark ticket as **Solved**.
+1. Apply **GitLab.com::Name Squatting Policy::Failed Namespace Request** macro and mark ticket as **Solved**.
 
 ### FAQs
 
