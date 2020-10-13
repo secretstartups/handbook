@@ -21,7 +21,7 @@ This page aims to walk you through some basic checks and items to tick off when 
 graph TD
     A{Is it a Support Ticket?}
     A -->|Yes| B{Is the ticket tied to an org?}
-    A -->|No| C[Done]
+    A -->|No| G[Ensure correct form]
     B -->|Yes| D{Does the ticket have an SLA?}
     B -->|No| E[Find the organizaton and associate it: Needs Org Workflow]
     D -->|Yes| C
