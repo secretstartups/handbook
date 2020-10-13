@@ -80,6 +80,11 @@ If you will be out of office on the day of your Group Conversation, or need a pe
 - Please update the Alternate Host line in the Group Conversation Agenda document.
 - Please notify any of the People Experience Associates in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
+If your Group Conversation falls on a day where you feel that a large percentage of the company may be OOO (for example, a Public Holiday observed by a number of countries). In such instances:
+- In the #group-conversations channel, ask channel members if they agree that a Group Conversation should not occur on a particular date.
+- If there is consensus, look at the Group Conversation [Schedule & DRI](/handbook/people-group/group-conversations/#schedule--dri). Find the next open slot and check on the GitLab Team Meetings calendar to be certain there is no meeting schedule on that day at the GC time (8am PT).
+- Ping the People Experience team (`@people-exp`) in Slack in your thread and ask them to move your regularly scheduled GC to the open slot you have found. This will be a one-time move and all other instances of your GC will stay as scheduled.
+
 All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom (in the People Operations Zoom account) prior to this rule, please update the GC event in Zoom and in the GitLab Team Meetings calendar.
   - Log into the People Operations Zoom account, go to Meetings, find the relevant Group Conversation, then click Edit this Meeting, click the Require meeting password checkbox, Save.
   - Update the GitLab Team Meetings calendar event with the new longer URL which adds ?pwd= and then 20 random letters and numbers.  
