@@ -26,7 +26,7 @@ Below are some of the top processes to be performed by TAM Managers on a recurri
 For TAM Managers, here is a short checklist to assist in the review:
 
 - [Account assignment:](#account-assignment) Accounts have been reviewed and are assigned or are in review
-- [Customer Onboarding:](#onboarding-object-review) Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
+- [Customer Onboarding:](#customer-onboarding-review) Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
 - [Success Plans:](#success-plan-review) Customers have a Success Plan, it is being communicated with the customer, and the TAM is using it as the guiding document
 - [Triage and Health:](#triage-and-health-review) Health for all TAM-assigned accounts have been updated within the last month, and any accounts in Triage are being evaluated
 - [Renewal Review:](#renewal-review) Upcoming customer renewals have been reviewed — the TAM has updated customer health and communicated with the SAL and SA for the upcoming renewal
