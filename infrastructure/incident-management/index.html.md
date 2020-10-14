@@ -178,22 +178,19 @@ If you are a GitLab team member and would like to report a possible incident rel
 
 #### Report an Incident via Slack
 
-Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts (detailed description and screenshot below). This will open an incident issue and notify the engineer on-call (EOC).  You do not need to decide if the problem is an incident.  We have triage steps below to make sure we respond appropriately.  Reporting high severity bugs via this process is the preferred path so that we can make sure we engage the appropriate engineering teams as needed.
+Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archives/C101F3796) channel in GitLab's Slack and follow the prompts. This will open an incident issue. If you suspect the issue is an emergency, tick the "Page the engineer on-call" box - not the incident manager or communications manager boxes. You do not need to decide if the problem is an incident, and should err on the side of paging the engineer on-call if you are not sure. We have triage steps below to make sure we respond appropriately.  Reporting high severity bugs via this process is the preferred path so that we can make sure we engage the appropriate engineering teams as needed.
 
 ![Incident Declaration Slack window](incident-declare-slack.png)<br/>*Incident Declaration Slack window*
 
-| Field | Field Instructions |
-|---|---|
-| Title | This is the title of the incident issue, place a brief description of what you are witnessing on GitLab.com. |
-| Detailed Description | Add any additional details here to assist the EOC responding to the incident. |
+| Field    | Description                                                                                                                                                                 |
+| ---      | ---                                                                                                                                                                         |
+| Title    | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD                                                         |
 | Severity | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
-| Tasks | You can safely ignore the first two options, if you'd like to ensure that the incident manager on-call (IMOC) and/or the communication manager on-call (CMOC) is notified via a page to their mobile device, select one or both of those options. Note: the engineer on-call (EOC) is notified via this workflow. |
-
+| Tasks    | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging if there is significant disruption to the site.                   |
 
 #### Report an Incident via Email
 
 Email [gitlab-production-eoc@gitlab.pagerduty.com](mailto:gitlab-production-eoc@gitlab.pagerduty.com). This will immediately page the Engineer On Call.
-
 
 ### Definition of Outage vs Degraded vs Disruption
 
@@ -343,7 +340,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~group::*` | Any development group(s) related to this incident |
 
 ### Workflow Diagram
- 
+
 ```mermaid
 graph TD
   A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
