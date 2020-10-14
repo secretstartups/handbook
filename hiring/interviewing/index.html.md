@@ -81,6 +81,14 @@ If you are a [current team member and are interested in applying](/handbook/peop
 
 </details>
 
+#### Guidelines For Internal Applicants
+
+There are situations in which multiple internal applicants apply for the same role. Please remain professional during the interview process, and refrain from discussing interview questions/anything pertaining to the process until it is over. 
+
+#### Reminders For Recruitment
+
+Please ensure that internal applicants have appropriate Greenhouse visiblity permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
+
 ### Adjustments to our Interview Process
 
 We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing 'interviews@gitlab.com' about the need for adjustments at any point in the interview process. 
