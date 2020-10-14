@@ -12,7 +12,6 @@ title: Secure, Composition Analysis
 ## Composition Analysis
 
 The Composition Analysis group at GitLab is charged with developing solutions which perform
-[Container Scanning]((/direction/secure/composition-analysis/container-scanning/)),
 [Dependency Scanning](((/direction/secure/composition-analysis/dependency-scanning/))),
 and [License Compliance](((/direction/secure/composition-analysis/license-compliance/))).
 See [the exhaustive list of projects](#projects) the group maintains.
@@ -105,10 +104,6 @@ Additional notes:
 
 - [gemnasium-db](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-db) is maintained by [the Vulnerability Research group](/handbook/engineering/development/secure/vulnerability-research/).
 - [npm-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/npm-audit) is not yet part of our public offering and maintained by [the Vulnerability Research group](/handbook/engineering/development/secure/vulnerability-research/).
-
-### Container Scanning
-
-- [Klar analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/klar)
 
 ### License Compliance
 
