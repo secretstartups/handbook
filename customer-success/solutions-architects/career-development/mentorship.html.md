@@ -29,9 +29,7 @@ Note that mentorship might include discussion related to career progression, but
 
 **How do I sign up?**
 
-Three options: Send a Slack note to `@samp`, drop in the `#samp` channel and state your intention there, or discuss with your manager.
-
-<!-- Note these Slack channels and such don't exist yet -->
+Two options: Join the `#samp` channel and state your intention there, or discuss with your manager.
 
 **Can I be both a mentor and a mentee?**
 
