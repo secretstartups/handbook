@@ -32,6 +32,8 @@ title: "Recruiting Alignment"
 | Infrastructure   | Matt Allen  | Chris Cruz |
 | Product Management  | Matt Allen | Chris Cruz |
 
+The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
+
 ## Recruiting Operations and Talent Branding Alignment
 
 | Platform                    | Responsibility        | DRI     |
