@@ -245,7 +245,7 @@ When doing this, create and link to a [single source of truth](/company/culture/
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
 
 However it is [most important to focus on results](/handbook/values/#hierarchy).
-So most things are **public**, available interally but not externally, unless there is a reason not to. The following items are not public by default:
+Some things are **internal**, available internally but not externally. The following items are internal:
 
 1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
