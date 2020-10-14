@@ -43,3 +43,17 @@ Check out recordings of previous Learning Speaker Series calls!
 
 ## Hosting a Learning Speaker Series call
 
+The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
+
+
+1. Coordinate with people operations team to schedule a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 time to best accommodate for multiple time zones.
+1. Choose a content topic for the call. 
+1. Collaborate with exec team and mid-level people leaders to gauge interest and availability for inclusion in the monthly call. Be mindful to include diverse voices from across the GitLab team.
+1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
+1. Open a feedback issue for questions and comments to be shared asynchronously.
+1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
+
+
+### Text for CEO share in #company-fyi channel
+
+
