@@ -32,6 +32,7 @@ much bigger scale.
 1. We allow people to experiment and innovate while being efficient and using their time wisely.
 1. We have a process that makes it possible to allocate resources and hold people accountable.
 1. We have a process that ensures we can get things done.
+1. We identify security weaknesses early and prevent them.
 
 ### GitLab Architecture Evolution Workflow
 
@@ -49,6 +50,11 @@ TL;DR:
 1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
 1. The blueprint describes long-term vision and a few first iterations in simple words,
 1. When the blueprint merge request is clear enough, the author assigns an Engineering Leader to review it,
+1. The blueprint merge request is additionally reviewed and approved by a Security Expert, for the need and 
+priority to have an [Application Review](/handbook/engineering/security/application-security/appsec-reviews.html) 
+performed with the [AppSec stable counterpart](/handbook/engineering/security/application-security/stable-counterparts.html).
+An AppSec review issue would be created at that point by the Security Expert to allow better planning by the 
+AppSec team if necessary.
 1. The blueprint gets approved once the merge request is merged by the Engineering Leader,
 1. The author adds a link to the blueprint located on docs.gitlab.com to an active
    [architecture roadmap document](/handbook/engineering/architecture/#roadmap),
@@ -140,6 +146,19 @@ Architecture Evolution Coach might be very useful.
 Sometimes there is an Architecture Evolution Coach available who is also a
 Domain Expert in a particular area. In that case there is no need to involve
 another person.
+
+#### Role of the Security Expert
+
+The Security Expert is an engineer, usually an Individual Contributor, who is part
+of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) 
+sub-department, and can evaluate the impact of the blueprint on our security posture 
+and perimeter. It is important to assess and identify risk as early as possible, as 
+workarounds to security design issues can lead to a lot of expensive changes.  
+The Security Expert evaluates edge-cases and prevents later corrective actions. 
+They can also specify some limits (example: list of allowed protocols) without 
+modifying the design of the blueprint itself.  
+`@gitlab-com/gl-security/appsec` is the primary group for @'mentioning the 
+Application Security team, who will assign the right DRI to the blueprint.
 
 ### Proposing changes
 
