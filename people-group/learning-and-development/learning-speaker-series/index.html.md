@@ -11,12 +11,12 @@ title: Learning & Development
 
 ## Learning Speaker Series Overview
 
-At GitLab, the Learning and Development team hosts a monthly Learning Speaker Series call, open to all team members. These calls serve to provide space where senior executives and mid-level people leaders can share relevant topics to engage and teach team members lessons learned from their own careers and answer relevant L&D related questions.
+At GitLab, the Learning and Development (L&D) team hosts a monthly Learning Speaker Series call, open to all team members. The series is intended to showcase all of the L&D initatives taking place at GitLab. In addition, the calls serve to provide a space where senior executives and mid-level people leaders can share relevant topics to engage and teach team members lessons learned from their own careers and answer relevant L&D related questions. We also hope to use this forum for external speakers to teach topics on relevant skills for team members. 
 
 ### Goals
 1. Spur a culture of curiosity and continuous learning by highlighting all the great initiatives we have taking place in learning & development.
-1. Highlight all of the great initiatives underway within Learning & Development
-1. Provide a forum where team members can hear from established leaders on how they've managed their career and lessons learned to share. 
+1. Increase engagement and improve team member satisfaction and productivity by advancing understanding of available L&D resources
+1. Provide a forum where team members can hear from established leaders on how they've managed their career and lessons learned to share with the wider community. 
 
 Additional background information on this initiaitve is available in the [Monthly Continuous Learning Call issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/96) 
 
@@ -24,6 +24,7 @@ Additional background information on this initiaitve is available in the [Monthl
 
 This list of topics can be used as a starting point for brainstorming content and connecting with individuals to feature during Learning Speaker Series calls. This is not an exhasutive list - please add new ideas to this list as they come up in each monthly call!
 
+- L&D Initiatives 
 - Leading Teams
 - Managing Remote Teams
 - Managing Underperformance
@@ -31,14 +32,13 @@ This list of topics can be used as a starting point for brainstorming content an
 - Coaching
 - Leadership Best Practices
 - Developing Emotional Intelligence
-- High Performing Teams
+- Developing High Performing Teams
 - Managing Conflict
 
 
 ## Past Learning Speaker Series calls
 
 Check out recordings of previous Learning Speaker Series calls!
-
 
 
 ## Hosting a Learning Speaker Series call
