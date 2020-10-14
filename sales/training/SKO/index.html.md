@@ -29,6 +29,16 @@ Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the 
 *  Fri, 2021-02-12: Role-based breakout sessions, regional team building
 All subject to change. 
 
+## SKO 2021 Tickets 
+You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please try to register before Dec 15. You can edit your pass after registering up until Jan 31. At this point, registration changes will be locked for planning purposes.
+
+We will be validating all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event.
+
+**Ticket Types:**
+- Sales - for all in the Sales org
+- Other - for team members outside of the Sales org
+- Guest - for guest speakers
+
 ## SKO 2021 FAQ 
 **Q: What are the dates and location?**
 
@@ -61,6 +71,10 @@ A: In support of GitLab’s all-remote culture, there will be pre-work that all 
 **Q: What will I be expected to participate in?**
 
 A: SKO is a rare opportunity for our team to come together (even virtually) and prepare for the year ahead. As such, the agenda is purposely crafted with numerous activities to learn, network, and celebrate together, and we kindly ask and expect that every SKO attendee participates in all that SKO has to offer. 
+
+**Q: I just got hired – how do I attend SKO?**
+
+A: All new hires after Oct 21 will have 2 weeks from their start date to register and book travel. This info will be included in all new hire welcome packets if they are expected to attend.
 
 **Q: How will we make SKO 2021 exciting even though it's virtual?**
 
