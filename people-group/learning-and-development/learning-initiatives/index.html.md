@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Learning & Development
+title: Learning Initiatives
 ---
 
 ## On this page
@@ -9,16 +9,40 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Learning Speaker Series Overview
+## Monthly Continuous Learning Call Overview
 
-At GitLab, the Learning and Development (L&D) team hosts a monthly Learning Speaker Series call, open to all team members. The series is intended to showcase all of the L&D initatives taking place at GitLab. In addition, the calls serve to provide a space where senior executives and mid-level people leaders can share relevant topics to engage and teach team members lessons learned from their own careers and answer relevant L&D related questions. We also hope to use this forum for external speakers to teach topics on relevant skills for team members. 
+At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab.
 
 ### Goals
 1. Spur a culture of curiosity and continuous learning by highlighting all the great initiatives we have taking place in learning & development.
 1. Increase engagement and improve team member satisfaction and productivity by advancing understanding of available L&D resources
-1. Provide a forum where team members can hear from established leaders on how they've managed their career and lessons learned to share with the wider community. 
 
 Additional background information on this initiaitve is available in the [Monthly Continuous Learning Call issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/96) 
+
+## Past Monthly Continuous Learning Call
+
+Check out recordings of previous Learning Speaker Series calls!
+
+
+## Hosting a Monthly Continuous Learning Call
+
+The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
+
+
+1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 time to best accommodate for multiple time zones.
+1. Choose a content topic for the call. 
+1. Collaborate with exec team and mid-level people leaders to gauge interest and availability for inclusion in the monthly call. Be mindful to include diverse voices from across the GitLab team.
+1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
+1. Open a feedback issue for questions and comments to be shared asynchronously.
+1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
+
+
+## Learning Speaker Series Overview
+
+In addition to the Monthly Continuous Learning Call, the L&D team hosts a monthly Learning Speaker Series call, open to all team members. The calls serve to provide a space where senior executives and mid-level people leaders can share relevant topics to engage and teach team members lessons learned from their own careers and answer relevant L&D related questions. We also hope to use this forum for external speakers to teach topics on relevant skills for team members. 
+
+### Goals 
+1. Provide a forum where team members can hear from established leaders on how they've managed their career and lessons learned to share with the wider community. 
 
 ### Examples of Call Topics
 
@@ -43,7 +67,7 @@ Check out recordings of previous Learning Speaker Series calls!
 
 ## Hosting a Learning Speaker Series call
 
-The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
+The following process outlines steps for the L&D team to take when planning and implementing the calls.
 
 
 1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 time to best accommodate for multiple time zones.
@@ -55,5 +79,4 @@ The following process outlines steps for the L&D team to take each month when pl
 
 
 ### Text for CEO share in #company-fyi channel
-
 
