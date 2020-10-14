@@ -8,3 +8,10 @@ title: Learning & Development
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Learning Speaker Series Overview
+
+## Goals
+
+## Hosting a Learning Speaker Series call
+
