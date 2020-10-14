@@ -8,15 +8,17 @@ title: Support Team Handbook
 
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
-If you are a customer or advocating for a customer who needs technical assistance, please take a look at the dedicated [Support Page](/support) which describes the best way to get the help you need and lists GitLab's paid service offerings.
+| Your Role | Your Need | Where You Should Look |
+| --------- | --------- | --------------------- |
+| A customer, or advocating for a customer | Need technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings. |
+| GitLab team-member | Need technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
+| New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
 
-If you are a GitLab team-member looking for some help, please see the [Internal Support for GitLab Team Members page](internal-support).
+Know someone who might be a great fit for our team? Please refer them to the job-family descriptions below.
 
-If you are a new Support Team member looking to get started, please take a look at the [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and the [onboarding section](#onboarding).
-
-Know someone who might be a great fit for our team? Please refer them to the job descriptions below.
-
-- [Support Engineer job description](/job-families/engineering/support-engineer).
+- [Support Engineering Job Family](https://about.gitlab.com/job-families/engineering/support-engineer/overview/)
+- [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
+- [Support Operations Job Family](https://about.gitlab.com/job-families/engineering/support-operations-specialist/)
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
