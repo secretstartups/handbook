@@ -30,7 +30,7 @@ As part of the initial enrollment, please use the following [enrollment guide](h
 
 ### Tax Implications of Medical Plans
 
-The health insurance allowance is treated like any other income or allowance under Revenue Commissioners rules. Your normal tax rate including other statutory deductions will apply.
+The health insurance allowance is treated like any other income or allowance under Revenue Commissioners rules. Your normal tax rate including other statutory deductions will apply. You will be liable for Benefit in kind on your health insurance premium, for more information please read [here](https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/health-and-age/medical-insurance-premiums/index.aspx). 
 
 ## Pension
 
