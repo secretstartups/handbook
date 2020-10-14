@@ -46,7 +46,7 @@ A: Sales Kick Off (SKO) will take place virtually from 08-Feb through 12-Feb, 20
 
 **Q: Why are we having a virtual event versus an in-person SKO?**
 
-A: The health and safety of our team is our absolute top priority. Sales leadership closely monitored the global health and travel impacts of COVID-19, and, after a lot of careful consideration, made the decision to shift our  2021 SKO to a fully virtual event. We are confident that this is the best and safest decision for the team. 
+A: The health and safety of our team is our top priority and a remote event allows us to keep planning with confidence while there is still uncertaintly about when and how to host large in-person events.
 
 **Q: Will we still have an in-person Sales event in 2021?** 
 
