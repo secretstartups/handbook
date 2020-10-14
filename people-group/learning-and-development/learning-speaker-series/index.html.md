@@ -20,6 +20,20 @@ At GitLab, the Learning and Development team hosts a monthly Learning Speaker Se
 
 Additional background information on this initiaitve is available in the [Monthly Continuous Learning Call issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/96) 
 
+### Examples of Call Topics
+
+This list of topics can be used as a starting point for brainstorming content and connecting with individuals to feature during Learning Speaker Series calls. This is not an exhasutive list - please add new ideas to this list as they come up in each monthly call!
+
+- Leading Teams
+- Managing Remote Teams
+- Managing Underperformance
+- Crucial Conversations
+- Coaching
+- Leadership Best Practices
+- Developing Emotional Intelligence
+- High Performing Teams
+- Managing Conflict
+
 
 ## Past Learning Speaker Series calls
 
