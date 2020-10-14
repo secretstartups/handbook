@@ -32,6 +32,7 @@ title: "Technical Account Management Handbook"
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
    - [Developer & Productivity Metrics](/handbook/customer-success/tam/metrics/)
+   - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Playbooks](/handbook/customer-success/playbooks/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
