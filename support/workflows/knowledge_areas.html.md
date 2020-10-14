@@ -33,7 +33,7 @@ Topics are in alphabetical order with team members grouped by region.
 | Technology | Region | Team Member |
 | ---------- | ------ | ----------- |
 | Docker | AMER | Harish<br>Cody West<br>Caleb W.<br>Davin<br>Lewis |
-|  | APAC | Julian<br>Priyan<br>Athar |
+|  | APAC | Julian<br>Priyan<br>Athar<br>Nilanka |
 |  | EMEA | Catalin<br>Rehab<br>Alin |
 | ElasticSearch | AMER | Blair<br>Michael Lussier<br>JasonC<br>Caleb C |
 |  | APAC | AlexS |
@@ -47,7 +47,7 @@ Topics are in alphabetical order with team members grouped by region.
 |  | EMEA | Rehab<br>VladB |
 | Linux | AMER | Greg<br>Keven<br>Gabe<br>Cody West<br>James Lopes<br>Will<br>Davin<br>Lewis<br>Tom H<br>Duncan<br>Mario Mora<br>Caleb C. |
 |  | EMEA | Ben<br>David Wainaina<br>Catalin<br>Rehab<br>Alin<br>VladB<br>Łukasz |
-|  | APAC | Mike<br>Priyan<br>Athar<br>AlexS |
+|  | APAC | Mike<br>Priyan<br>Athar<br>AlexS<br>Nilanka |
 | Omnibus | AMER | Aric<br>Diana<br>Greg<br>Harish<br>John<br>Nathan<br>Gabe<br>Cody West<br>Keven<br>Davin<br>JasonY<br>Lewis<br>Brie<br>Phil |
 |  | APAC | AlexS<br>Anton<br>Weimeng<br>Mike<br>Priyan<br>Athar<br>Emily |
 |  | EMEA | Catalin<br>Segolene<br>Rehab<br>Alin<br>VladB<br>Joseph<br>Aakif |
@@ -170,7 +170,7 @@ This section is ordered by stage and group according to the [product categories 
 | ----- | ------ | ----------- |
 | CI | EMEA | DeAndre<br>Ronald<br>Silvester<br>David Wainaina<br>Shem<br>VladB<br>Joseph |
 |  | AMER | Cynthia<br>Harish<br>Cody West<br>Cleveland<br>Gabe<br>Caleb W.<br>Phil<br>Brie |
-|  | APAC | Alex Tanayno<br>Athar<br>Arihant<br>Priyan<br>Anton<br>Sameer<br>Sara |
+|  | APAC | Alex Tanayno<br>Athar<br>Arihant<br>Priyan<br>Anton<br>Sameer<br>Sara<br>Nilanka |
 | Jenkins Integration | AMER | Aric<br>Sara |
 
 ##### Runner
