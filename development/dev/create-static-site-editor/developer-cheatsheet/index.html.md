@@ -43,7 +43,11 @@ See https://gitlab.com/gitlab-org/gitlab/tree/master/qa#how-can-i-use-it for mor
 - `brew cask <install|reinstall> chromedriver`
 - `bundle exec bin/qa Test::Instance::All http://0.0.0.0:3000 -- qa/specs/features/ee/browser_ui/1_manage/project/project_templates_spec.rb`
 
-To run the QA specs in RubyMine, use a custom rspec runner configuration, and set the `qa/bin/rubymine` script as the custom RSpec runner script:
+To run the QA specs in RubyMine, use a custom rspec runner configuration (right click on the arrow next to the example in the gutter), and set the `qa/bin/rubymine` script as the custom RSpec runner script, and the working directory as `qa`.
+
+See more detailed instructions for this process here: https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/end_to_end_test_configuration.md#starting-tests-using-the-rubymine-gutter
+
+Here are a couple of screenshots showing the gutter option and configuration:
 
 [<img src="/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-1.png"/>](/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-1.png)
 
