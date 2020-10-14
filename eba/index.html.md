@@ -18,7 +18,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
 * Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO) 
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
-* Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO), Stella Treas (CoS) and limited support to Finance Leadership: Paul Machle, Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
+* Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO), Stella Treas (CoS) and Finance Leadership: Paul Machle, Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Dave Gilbert (VP of Recruiting), and Carol Teskey (Senior Director, People Success)
 * Katie Gammon (EBA) supporting David Hong (VP of Field Operations), David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales), Brandon Jung (VP of Alliances), and Michelle Hodges (VP of Worldwide Channels)
 * Kristie Thomas (EBA) supporting Scott Williamson (EVP of Product),Eric Johnson (EVP Engineering), and Johnathan Hunt (VP of Security)
