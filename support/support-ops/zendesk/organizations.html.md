@@ -58,6 +58,11 @@ plan tags on newly created tickets. As an example:
 > To ensure they get the proper support (and the ticket routes properly), we
 > need to manually apply the starter tag on the organization.
 
+Support engineers can [request tags and notes be added to the org](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request).
+
+Once a ticket comes in, it may show in multiple views. The non-applicable tag
+needs to be removed so that it only shows in a single queue.
+
 ## Organization Permissions
 
 By default, organizations are setup so that the users within it can only see and
