@@ -29,6 +29,14 @@ Our mission is to provide resources to enable our team members to enhance succes
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx12cYLIHGZluHlc7fqO9hYu9UqCc22vy8kx1p_ZGZnvAoDTm5UbI8ptlPdTuJDZKGdd7fIb_F3oUp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+## Handbook First Training Content
+
+All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not seperated from the handbook to the L&D team. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## GitLab Learning & Development Principles
 
 1. **Meaningful and relevant content.** We deliver learning solutions that drive the development and growth of team members throughout their life cycle at GitLab.

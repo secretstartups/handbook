@@ -107,6 +107,7 @@ A recording of the second of two sessions can be found here:
 - Read: [What Google Learned from it's Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - Read: [How To Build An Environment Of Psychological Safety](https://trainingindustry.com/articles/compliance/how-to-build-an-environment-of-psychological-safety/)
 - Read: [How Psychological Safety Actually Works](https://www.forbes.com/sites/shanesnow/2020/05/04/how-psychological-safety-actually-works/#c5be718f864c)
+- Read: [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) 
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
 

@@ -20,10 +20,10 @@ To ensure we remain efficient, we built a [Performance/Potential Assessment Tool
 
 | | | | |
 |-----------------|---------------|---------------|----------------|
-| **Exceeding** | Seasoned professional capable of expanded role, but maybe be experiencing problems that requires coaching and mentoring. | Does extremely well at current job with potential to do more; give stretch assignments to help prepare for next level. | Consistently performs well in a variety of assignments. Big picture thinker, aligns to our values, problem solver and self motivated. Focus on delegating to them or providing development opportunities |
-| **Performing** | With coaching, could progress within same level; focus on stretch goals for this team member. | May be considered for job enlargement at the same level but may need coaching in several areas, including people management. | Current role may still provide opportunity for growth/ development; Strong tactically. Focus on helping them improve strategic thinking.  |
-| **Developing** | May be a candidate for reassignment, reclassification to a lower level or exit the organization.  | Effective performer, but may have reached career potential; coach team member on becoming more innovative and focus on lateral thinking. | Experienced high performer but reached limit in career potential. Still a valueable team member. Focus on encouraging development of communications and delegation skils. |
-| Performance ↑ Potential → <b> | **Low Potential** | **Medium Potential**| **High Potential**|
+| **Exceeding** | Team member is performing well in their current job but needs to continue development in current role, or may have valuable technical skills but has not exhibited leadership potential. Team member has not demonstrated willingness to take on significantly greater scope and responsibility in the next 12 months. | Team member performs well in their current job, makes valuable contributions and consistently demonstrates competencies required. May be ready to take on greater scope and responsibility in the next 12 months | Team member is developing faster than the demands of their current position and/or division. Team member has been given additional assignments and has demonstrated high-level commitment/achieved significant results. Team member is ready to broaden their skill set and take on significantly greater scope and responsibility |
+| **Performing** | Team member is currently meeting expectations of their role. Team member is not prepared to absorb additional scope or complexity in the next 12-24 months. | Team member is currently meeting expectations but may not be willing or able to advance; may not be ready to absorb additional scope or complexity in  the next 12-24 months. | Team member is contributing as expected and is meeting performance expectations. Team member may be ready to take on greater technical and/or leadership responsibility in  the next 12-24 months. |
+| **Developing** | Team member is not meeting performance expectations and there is still more to learn in the current position. There are questions about their ability  to succeed in the current role long-term. | Team member has not been in the position long enough to adequately demonstrate their technical abilities, or may have lost pace with changes in the organization. | Team member is not meeting the requirements in their current role. It is possible that team member could be more successful in the current role with more  direction or in another role or department that more appropriately suits their skill set. |
+| Performance ↑ Potential →  | **Low Potential** | **Medium Potential** | **High Potential** |
 
 This matrix is an individual assessment tool that evaluates both a team members current contribution to the organization and their potential level of contribution.
 It is commonly used in succession planning as a method of evaluation an organization's talent pool, identifying potential leaders, and identifying any gaps or risks.
@@ -244,6 +244,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 
 *December*
 * 2020-12-04: Performance rating finalized for all team members and approved through the e-group level
+* 2020-12-04: Communication training and guidance shared with managers
 * 2020-12: Performance axis results communicated with team members
 
 *January*
