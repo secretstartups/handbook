@@ -34,7 +34,7 @@ Our mission is to provide resources to enable our team members to enhance succes
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to building handbook first learning content. One of L&D's primary responsibilities is to ensure that material lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not seperated from the handbook. 
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/NazZuhuTdzs" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## GitLab Learning & Development Principles
