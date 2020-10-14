@@ -20,7 +20,7 @@ The scope of what's outlined in this workflow is for frequently used functions w
 
 ## Using the support console
 
-After logging into the Subscriptions App (customers portal) server, enter the command:
+After logging into the CustomersDot server, enter the command:
 
 ```
 $ support_console
@@ -224,7 +224,7 @@ irb(main):001:0> change_trial('example','silver','2020-05-25')
 
 ### update_gitlab_plan
 
-Change the plan of a namespace on GitLab.com **directly**, bypassing Subscriptions App completely.
+Change the plan of a namespace on GitLab.com **directly**, bypassing CustomersDot completely.
 This includes potentially extending the expiry date.
 
 | Name | Required | Details |
@@ -349,7 +349,7 @@ irb(main):021:0> unlink_sub("A-S00000000")
 
 ### unlink_customer
 
-Completely unlink a GitLab.com account from a Subscriptions App account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
+Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
 
 **Warning**: Unlinking means the .com groups will no longer show. This is typically only used when an admin accidentally links their account to a customers.
 
@@ -408,7 +408,7 @@ irb(main):021:0> send_eula("A-S00000000")
 
 ## GitLab.com Group methods
 
-These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the Subscriptions App.
+These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the CustomersDot.
 
 ### billable_members
 
@@ -451,7 +451,7 @@ irb(main):180:0>  showGroups2FAStatus 'some_user'
 
 ### fix_dotcom_seats
 
-In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated Subscriptions App order.
+In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated CustomersDot order.
 
 #### Parameters
 
