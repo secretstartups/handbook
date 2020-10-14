@@ -11,7 +11,7 @@ title: Learning Initiatives
 
 ## Monthly Continuous Learning Call Overview
 
-At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab.
+At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions.
 
 ### Goals
 1. Spur a culture of curiosity and continuous learning by highlighting all the great initiatives we have taking place in learning & development.
