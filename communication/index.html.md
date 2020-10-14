@@ -242,7 +242,7 @@ When doing this, create and link to a [single source of truth](/company/culture/
 {:.no_toc}
 
 ## Not Public Externally, Available Internally
-We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
+We make things public by default because [transparency is one of our values](/handbook/values/#transparency). Unless something is on the list below it we should always make it available externally.
 
 However it is [most important to focus on results](/handbook/values/#hierarchy).
 Some things are **internal**, available internally but not externally. The following items are internal:
