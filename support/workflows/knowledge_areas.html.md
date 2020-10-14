@@ -33,10 +33,11 @@ Topics are in alphabetical order with team members grouped by region.
 | Technology | Region | Team Member |
 | ---------- | ------ | ----------- |
 | Docker | AMER | Harish<br>Cody West<br>Caleb W.<br>Davin<br>Lewis |
-|  | APAC | Julian<br>Priyan<br>Athar |
-|  | EMEA | Catalin<br>Rehab<br>Alin |
+|  | APAC | Julian<br>Priyan<br>Athar<br>Nilanka |
+|  | EMEA | Catalin<br>Rehab<br>Alin<br>VladS |
 | ElasticSearch | AMER | Blair<br>Michael Lussier<br>JasonC<br>Caleb C |
 |  | APAC | AlexS |
+|  | EMEA | VladS |
 | Git LFS | AMER | Diana<br>Will<br>Lewis |
 |  | EMEA | Ben |
 | HA | AMER | Aric<br>James<br>JasonC<br>Gabe<br>Lewis |
@@ -44,13 +45,13 @@ Topics are in alphabetical order with team members grouped by region.
 |  | EMEA | Catalin |
 | Kubernetes | AMER | Harish<br>JasonC<br>Michael Lussier<br>Thiago<br>Caleb W.<br>JasonY<br>Lewis |
 |  | APAC | Alex Tanayno<br>Julian<br>Arihant<br>Priyan |
-|  | EMEA | Rehab<br>VladB |
+|  | EMEA | Rehab<br>VladB<br>Julius |
 | Linux | AMER | Greg<br>Keven<br>Gabe<br>Cody West<br>James Lopes<br>Will<br>Davin<br>Lewis<br>Tom H<br>Duncan<br>Mario Mora<br>Caleb C. |
 |  | EMEA | Ben<br>David Wainaina<br>Catalin<br>Rehab<br>Alin<br>VladB<br>Łukasz |
-|  | APAC | Mike<br>Priyan<br>Athar<br>AlexS |
+|  | APAC | Mike<br>Priyan<br>Athar<br>AlexS<br>Nilanka |
 | Omnibus | AMER | Aric<br>Diana<br>Greg<br>Harish<br>John<br>Nathan<br>Gabe<br>Cody West<br>Keven<br>Davin<br>JasonY<br>Lewis<br>Brie<br>Phil |
 |  | APAC | AlexS<br>Anton<br>Weimeng<br>Mike<br>Priyan<br>Athar<br>Emily |
-|  | EMEA | Catalin<br>Segolene<br>Rehab<br>Alin<br>VladB<br>Joseph<br>Aakif |
+|  | EMEA | Catalin<br>Segolene<br>Rehab<br>Alin<br>VladB<br>Joseph<br>Aakif<br>Julius |
 | Performance | AMER | Will<br>Cody West |
 |  | EMEA | Catalin<br>Alin |
 | Maven | AMER | Thiago |
@@ -64,17 +65,17 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 | Technology | Region | Team Member |
 | ---------- | ------ | ----------- |
 | Ruby/Rails | AMER | Davin<br>JasonY<br>Lewis<br>Sara |
-|  | EMEA | Ronald<br>Catalin |
+|  | EMEA | Ronald<br>Catalin<br>Julius |
 |  | APAC | Wei-Meng Lee<br>Arihant<br>Priyan<br>Anton<br>Athar |
 | GO | APAC | Athar |
-|  | EMEA | Catalin |
+|  | EMEA | Catalin<br>VladS<br>Julius |
 |  | AMER |  |
 | JavaScript | APAC | Wei-Meng Lee<br>Arihant<br>Anton<br>Athar |
-|  | EMEA | Ronald<br>Catalin<br>Alin |
+|  | EMEA | Ronald<br>Catalin<br>Alin<br>Julius |
 |  | AMER | Davin<br>Phil<br>Sara |
 | Vue.js | APAC | Wei-Meng Lee<br>Athar |
 |  | AMER | Sara |
-|  | EMEA | Catalin |
+|  | EMEA | Catalin<br>Julius |
 | Ansible | AMER | JasonY |
 |  | EMEA | Shem |
 |  | APAC | Wei-Meng Lee<br>Julian<br>Mike<br>Priyan<br>AlexS<br>Athar |
@@ -86,7 +87,9 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |  | EMEA | Catalin<br>Alin<br>Muhamed<br>VladB<br>Łukasz |
 |  | AMER | Lewis |
 | Java | AMER | Thiago |
+|  | EMEA | Julius |
 | PHP | APAC | Anton |
+| Terraform | EMEA | VladS |
 
 ### Product Stages
 
@@ -139,6 +142,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
 | Code Owners | AMER | Tristan<br>Will |
+|  | EMEA | VladS |
 | Repository Mirroring | AMER | Tristan |
 |  | EMEA | VladB |
 
@@ -170,7 +174,7 @@ This section is ordered by stage and group according to the [product categories 
 | ----- | ------ | ----------- |
 | CI | EMEA | DeAndre<br>Ronald<br>Silvester<br>David Wainaina<br>Shem<br>VladB<br>Joseph |
 |  | AMER | Cynthia<br>Harish<br>Cody West<br>Cleveland<br>Gabe<br>Caleb W.<br>Phil<br>Brie |
-|  | APAC | Alex Tanayno<br>Athar<br>Arihant<br>Priyan<br>Anton<br>Sameer<br>Sara |
+|  | APAC | Alex Tanayno<br>Athar<br>Arihant<br>Priyan<br>Anton<br>Sameer<br>Sara<br>Nilanka |
 | Jenkins Integration | AMER | Aric<br>Sara |
 
 ##### Runner
@@ -181,7 +185,7 @@ This section is ordered by stage and group according to the [product categories 
 |  | EMEA | Ronald<br>Silvester |
 |  | AMER | Davin<br>Phil<br>Sara |
 | Kubernetes Executor | AMER | Phil |
-|  | EMEA |  |
+|  | EMEA | Julius |
 |  | APAC |  |
 | Windows | AMER |  |
 |  | EMEA |  |
@@ -206,7 +210,7 @@ This section is ordered by stage and group according to the [product categories 
 |  | EMEA |  |
 |  | APAC |  |
 | Helm Chart Registry | AMER |  |
-|  | EMEA |  |
+|  | EMEA | Julius |
 |  | APAC |  |
 | Dependency Proxy | AMER |  |
 |  | EMEA |  |
@@ -283,7 +287,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
 | Cloud Native / Chart | AMER | JasonY |
-|  | EMEA |  |
+|  | EMEA | Julius |
 |  | APAC | Priyan |
 
 ##### Geo
@@ -301,7 +305,7 @@ This section is ordered by stage and group according to the [product categories 
 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
-| PostgreSQL | EMEA | Ben |
+| PostgreSQL | EMEA | Ben<br> Julius |
 |  | AMER | Sara |
 |  | APAC | Mike |
 | Database Migrations | EMEA | Rehab |

@@ -294,7 +294,7 @@ When using Slack to work with others or communicate internally regarding a suppo
 
 ### Understanding SLAs
 
-Our SLA workflow relies on end-users who submit tickets belonging to an organization and that organization having a GitLab Plan. Organization information is automatically added to Zendesk via a Salesforce Integration. We sync all records with Account Type equal to `Customer` from Salesforce to Zendesk. The information we get from Salesforce includes but is not limited to: Account Owner, Technical Account Manager, GitLab Plan and Salesforce ID. Organizations should never be created manually in Zendesk as that can cause our sync to be ineffective.  If you think an Account in Salesforce doesn't have an equivalent Organization in Zendesk, please let the Support Operations Specialist know so a manual sync can be run.
+Our SLA workflow relies on end-users who submit tickets belonging to an organization and that organization having a GitLab Plan. Organization information is automatically added to Zendesk via a Salesforce Integration. We sync all records with Account Type equal to `Customer` from Salesforce to Zendesk. The information we get from Salesforce includes but is not limited to: Account Owner, Technical Account Manager, GitLab Plan and Salesforce ID. Organizations should never be created manually in Zendesk as that can cause our sync to be ineffective.  If you think an Account in Salesforce doesn't have an equivalent Organization in Zendesk, please let the [Support Operations Specialist](/handbook/support/support-ops/#introduction-to-support-operations-team-support-ops) know so a manual sync can be run.
 
 SLAs are set as Business Rules within Zendesk. For more information, please refer to the specific [Zendesk](/handbook/support/workflows/zendesk_admin.html) page.
 
@@ -324,7 +324,7 @@ days by the automation
 [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393).
 
 If a user's reply is the last one in the ticket, do not set it to the On-hold status silently due to the same reasons as stated above in the
-[Zendesk SLAs and Breach Alerts](#zendesk-slas-and-breach-alerts)). Instead reply to the ticket while also changing the status.
+[Understanding SLAs](#understanding-slas). Instead reply to the ticket while also changing the status.
 
 ### Merging Tickets
 
@@ -343,7 +343,7 @@ We ask users to send us logs and other files that are crucial in helping us solv
 * Support Managers
 * Administrators
 
-You can check which role you are assigned to in your Zendesk user profile. If you are not in any of those groups, please reach out to `@support-operations` or `@supportmanagers` in Slack.
+You can check which role you are assigned to in your Zendesk user profile. If you are not in any of those groups, please reach out to `@support_operations` or `@support-managers` in Slack.
 
 To delete text or attachments from a ticket:
 

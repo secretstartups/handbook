@@ -120,7 +120,7 @@ Checkout the relevant topics in our [L&R internal wiki](https://gitlab.com/gitla
 ### Where do licensing questions go?
 
 - For generalized license related questions, you can ask via the `#questions` channel in slack.
-- For issues relating to the product that handles licensing, redirect them to `#g_fulfillment` channel in slack.
+- For issues relating to the product that handles licensing, redirect them to `#s_fulfillment` channel in slack.
 - If the question pertains to a specific customer issue and the circumstances are such that you do not want to ask the customer to [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293), you can [open an internal issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `License Issue` template for assistance.
 
 ### What is the SLA for an L&R ticket?
