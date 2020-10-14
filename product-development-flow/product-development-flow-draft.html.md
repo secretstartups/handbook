@@ -56,6 +56,14 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
 
+## Stakeholders 
+
+Throughout this workflow you'll see reference to "Stakeholders" and you may be wondering, who does that include? In this context, a stakeholder is someone that is outside of the direct team who meets one or more of the following: 
+- Is directly or indirectly impacted 
+- Has the ability to stop, delay, or cancel 
+
+Examples of stakeholders include leadership, Sales, Customer Support, and Customer Success but you may have stakeholders in any area of GitLab depending on your focus area and the specific issue. You may also have stakeholders outside of GitLab for scenarios where a feature is being developed for a specific customer or set of customers. 
+
 ## Workflow Summary
 <kbd class="required">Required 🔎</kbd>
 
@@ -84,6 +92,8 @@ No. Although the phases below appear to be independent and linear, they're not. 
 It's not [efficient](/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
 
 * When transitioning an issue out to a new workflow stage, the department named in the "Who Transitions Out" column is responsible for updating the issue description.
+
+
 
 ## Validation track
 
