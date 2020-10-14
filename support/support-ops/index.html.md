@@ -16,6 +16,12 @@ Further details and responsibilities are explained [here](#responsibilities).
 You can locate us in GitLab issues or via the `#support_operations` channel
 in slack.
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Mission:
  
 To help the Technical Support Team spontaneously and make their day to day

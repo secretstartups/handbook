@@ -9,6 +9,12 @@ Organizations are simply a collection of users in Zendesk (much like groups).
 We use them to also store metadata (synced from Salesforce), which is used to
 determine such things as SLA, ARR, etc.
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Organization Fields
 
 | Field Named | API Name | Data Type | Possible Values |

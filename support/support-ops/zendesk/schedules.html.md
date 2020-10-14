@@ -9,6 +9,12 @@ Schedules arein Zendesk are like schedules in most other things: windows of
 time. We use these to determine business hours and various regional working
 hours.
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## GitLab Schedules
 
 ### [Business Hours](https://gitlab.zendesk.com/agent/admin/schedules/91387)

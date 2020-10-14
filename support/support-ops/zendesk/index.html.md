@@ -14,6 +14,12 @@ Pages to read for more information:
 * [Tickets](tickets.html)
 * [Users](users.html)
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Macros
 
 Instead of managing these via Zendesk itself, we instead us the
