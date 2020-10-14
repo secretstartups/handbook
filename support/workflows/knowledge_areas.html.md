@@ -34,9 +34,10 @@ Topics are in alphabetical order with team members grouped by region.
 | ---------- | ------ | ----------- |
 | Docker | AMER | Harish<br>Cody West<br>Caleb W.<br>Davin<br>Lewis |
 |  | APAC | Julian<br>Priyan<br>Athar<br>Nilanka |
-|  | EMEA | Catalin<br>Rehab<br>Alin |
+|  | EMEA | Catalin<br>Rehab<br>Alin<br>VladS |
 | ElasticSearch | AMER | Blair<br>Michael Lussier<br>JasonC<br>Caleb C |
 |  | APAC | AlexS |
+|  | EMEA | VladS |
 | Git LFS | AMER | Diana<br>Will<br>Lewis |
 |  | EMEA | Ben |
 | HA | AMER | Aric<br>James<br>JasonC<br>Gabe<br>Lewis |
@@ -67,7 +68,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |  | EMEA | Ronald<br>Catalin |
 |  | APAC | Wei-Meng Lee<br>Arihant<br>Priyan<br>Anton<br>Athar |
 | GO | APAC | Athar |
-|  | EMEA | Catalin |
+|  | EMEA | Catalin<br>VladS |
 |  | AMER |  |
 | JavaScript | APAC | Wei-Meng Lee<br>Arihant<br>Anton<br>Athar |
 |  | EMEA | Ronald<br>Catalin<br>Alin |
@@ -87,6 +88,7 @@ If you need help with scripting for fixes, internal tools, or any other reason.
 |  | AMER | Lewis |
 | Java | AMER | Thiago |
 | PHP | APAC | Anton |
+| Terraform | EMEA | VladS |
 
 ### Product Stages
 
@@ -139,6 +141,7 @@ This section is ordered by stage and group according to the [product categories 
 | Topic | Region | Team Member |
 | ----- | ------ | ----------- |
 | Code Owners | AMER | Tristan<br>Will |
+|  | EMEA | VladS |
 | Repository Mirroring | AMER | Tristan |
 |  | EMEA | VladB |
 
