@@ -36,6 +36,7 @@ A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/su
 Most of the forms are self-explanatory, but here are some extra considerations:
 
 - GitLab.com Account: user account issue only, all others go to GitLab.com
+    - **Note:** If possible, set the problem type as many include [trigger automation](/handbook/support/workflows/zendesk-triggers.html).
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
 
