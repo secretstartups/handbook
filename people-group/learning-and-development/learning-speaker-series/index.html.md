@@ -46,7 +46,7 @@ Check out recordings of previous Learning Speaker Series calls!
 The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
 
 
-1. Coordinate with people operations team to schedule a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 time to best accommodate for multiple time zones.
+1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 time to best accommodate for multiple time zones.
 1. Choose a content topic for the call. 
 1. Collaborate with exec team and mid-level people leaders to gauge interest and availability for inclusion in the monthly call. Be mindful to include diverse voices from across the GitLab team.
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
