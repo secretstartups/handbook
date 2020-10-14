@@ -27,7 +27,7 @@ The following members of other functional teams are our stable counterparts:
 
 ## How we work
 
-Prior to the start of each milestone, the Product Manager prepares a planning issue which describes the objectives of the milestone. The Engineering Manager provides a weekly update on the team progress toward the milestone objectives. This should include the weight closed relative to the weight of the entire milestone. This update is added as a comment to the milestone planning issue prior to the weekly team meeting. In case the Engineering Manager is unavailable to provide the weekly update, an alternate team member will be assigned via the #g_fulfillment Slack channel.
+Prior to the start of each milestone, the Product Manager prepares a planning issue which describes the objectives of the milestone. The Engineering Manager provides a weekly update on the team progress toward the milestone objectives. This should include the weight closed relative to the weight of the entire milestone. This update is added as a comment to the milestone planning issue prior to the weekly team meeting. In case the Engineering Manager is unavailable to provide the weekly update, an alternate team member will be assigned via the #s_fulfillment Slack channel.
 
 The team meets once per week (see team calendar). This is the opportunity for the Fulfillment Frontend team to discuss topics related to our work. The objective of the meeting is to synchronously clarify any topics outstanding from the previous week or may affect our work in the upcoming week. This meeting also serves to fill-in context that maybe missing from purely written communication. Communicating highlights from this meeting to the greater team helps with any cross-team missing information.
 
@@ -44,9 +44,9 @@ The Engineering Manager will assign issues to be weighted ahead of the weekly me
 
 When possible, larger issues should be broken into multiple MRs, and if not feature complete, merged behind a feature flag. Technical discussion should happen in the MR, while questions for the Product and Design teams should be addressed in the associated issue.
 
-Frontend maintainers of the [GitLab](https://about.gitlab.com/handbook/engineering/projects/#gitlab) project can also merge Frontend MRs for the Subscriptions App and License app projects.
+Frontend maintainers of the [GitLab](https://about.gitlab.com/handbook/engineering/projects/#gitlab) project can also merge Frontend MRs for the CustomersDot and License app projects.
 
-For the [Subscriptions App](https://gitlab.com/gitlab-org/customers-gitlab-com) MRs should be branched from and merged into the staging branch.
+For the [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) MRs should be branched from and merged into the staging branch.
 
 ### Picking something to work on
 
@@ -76,7 +76,7 @@ These are:
 
 ### Feature Releases
 
-New features for the [Subscriptions App](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
+New features for the [CustomersDot](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
 
 Complex features can be released using the [percent rollout strategy](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html#percent-rollout-logged-in-users) at the discretion of Engineer, Engineering Manager, or Product Manager responsible for the issue. When using a percent rollout, the initial issue should be closed when the rollout begins, and a new issue should be created to track the progress of the rollout.
 
@@ -87,6 +87,6 @@ A follow-up issue must be created after features are released which will allow f
  * [Team meeting agenda](https://docs.google.com/document/d/1_vHdMi5aBdO6aM3pzT7-pt6Cv1K3hsaSQ0LV0y4cNLI/)
  * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Afulfillment)
  * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment/issues)
- * [Slack channel #g_fulfillment](https://gitlab.slack.com/app_redirect?channel=g_fulfillment)
- * [Slack channel #g_fulfillment_architecture](https://gitlab.slack.com/app_redirect?channel=g_fulfillment_architecture)
- * [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com) 
+ * [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
+ * [Slack channel #s_fulfillment_architecture](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_architecture)
+ * [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
