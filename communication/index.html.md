@@ -269,7 +269,9 @@ Some things are **internal**, available internally but not externally. The follo
 1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
 
-## Not Public Externally, Available with Limited Access internally
+## Limited Access
+
+The items below are not shared with all team members. Limited access is a more severe restriction than sharing internally.
 
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team-member, customer, or user.
