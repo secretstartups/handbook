@@ -44,9 +44,9 @@ The Engineering Manager will assign issues to be weighted ahead of the weekly me
 
 When possible, larger issues should be broken into multiple MRs, and if not feature complete, merged behind a feature flag. Technical discussion should happen in the MR, while questions for the Product and Design teams should be addressed in the associated issue.
 
-Frontend maintainers of the [GitLab](https://about.gitlab.com/handbook/engineering/projects/#gitlab) project can also merge Frontend MRs for the Subscriptions App and License app projects.
+Frontend maintainers of the [GitLab](https://about.gitlab.com/handbook/engineering/projects/#gitlab) project can also merge Frontend MRs for the CustomersDot and License app projects.
 
-For the [Subscriptions App](https://gitlab.com/gitlab-org/customers-gitlab-com) MRs should be branched from and merged into the staging branch.
+For the [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) MRs should be branched from and merged into the staging branch.
 
 ### Picking something to work on
 
@@ -76,7 +76,7 @@ These are:
 
 ### Feature Releases
 
-New features for the [Subscriptions App](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
+New features for the [CustomersDot](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
 
 Complex features can be released using the [percent rollout strategy](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html#percent-rollout-logged-in-users) at the discretion of Engineer, Engineering Manager, or Product Manager responsible for the issue. When using a percent rollout, the initial issue should be closed when the rollout begins, and a new issue should be created to track the progress of the rollout.
 

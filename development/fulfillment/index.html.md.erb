@@ -14,7 +14,7 @@ title: Fulfillment Sub-department
 
 ### Who are we and what do we work on?
 
-The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the Subscriptions App and the License App.
+The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the CustomersDot and the License App.
 
 
 We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Analytics group](/handbook/product/product-categories/#product-analytics-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
@@ -65,7 +65,7 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 
 The Subcriptions App provides APIs which allow the purchase experience to happen within GitLab itself.
 
-![Subscriptions App Diagram](subscriptions_architecture.png)
+![CustomersDot Diagram](subscriptions_architecture.png)
 
 ### Database structure of CustomersDot and LicenseDot
 
@@ -579,7 +579,7 @@ When a `feature` or `Deliverable` proposal issue moves into `workflow::planning 
 
 #### Tests
 
-The Subscriptions App has different types of tests running:
+The CustomersDot has different types of tests running:
 
 1. Linting and [rubocop](https://github.com/rubocop-hq/rubocop) jobs
 1. Unit tests (specs, these could be of many types, such as controller specs)
@@ -593,9 +593,9 @@ Any test failure is notified to #s_fulfillment_status including a link to the pi
 
 ### Deployment
 
-#### Subscriptions App
+#### CustomersDot
 
-We use CD (Continuous Deployment) for the [Subscriptions App](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+We use CD (Continuous Deployment) for [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
 
 ```mermaid
 graph TD;
@@ -622,7 +622,7 @@ In most cases an MR should follow the standard process of review, maintainer rev
 
 1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
 1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
-1. When there are no project maintainers available ([Subscriptions App](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
 
 In these cases please ensure:
 
