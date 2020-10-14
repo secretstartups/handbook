@@ -183,6 +183,12 @@ For Recruiting Ops:
 1. When the revised contract is uploaded by the CES, verify if the core fields on the offer remain the same. If it remains the same, bypass offer approvals and inform the CES once completed.
 1. Once the CES team marks the candidate as hired in Greenhouse, close the duplicated opening and save changes.
 
+### How to Keep Candidates Informed of Any Delays in the Contract Process 
+
+Occasionally, there can be delays between the candidate receiving the Statement of Work and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not recieved their full contract from our PEO informed of any delays.
+
+The Candidate Experience Specialist who initiated the contract process is expected to update the candidate every two business days until the contract is sent. A simple message that explains the delay is all that is neccessary. As a Candidate Experience Specialist, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.       
+
 ## Amended Contracts
 
 Contract amendments or modifications are processed by the Candidate Experience Specialist if the team member has not started or by the People Operations Specialist if they have.
