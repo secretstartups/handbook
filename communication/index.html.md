@@ -238,13 +238,15 @@ Employ multimodal communication to broadcast important decisions. To reach our d
 
 When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, issue, or Google Doc. The email or Slack message should not be the source of truth.
 
-### Not Public
-{:.no_toc}
+## Not Public
 
-## Not Public Externally, Available Internally
-We make things public by default because [transparency is one of our values](/handbook/values/#transparency). Unless something is on the list below it we should always make it available externally.
+We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
+Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
+The items that are not public are detailed in the sections below together with an explanation why they aren't public.
+If something isn't listed in the sections below we should make it available externally.
 
-However it is [most important to focus on results](/handbook/values/#hierarchy).
+### Internal
+
 Some things are **internal**, available internally but not externally. The following items are internal:
 
 1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
@@ -256,7 +258,6 @@ Some things are **internal**, available internally but not externally. The follo
    1. the Sales pipeline (but the Marketing pipeline can be public);
    1. net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.); and,
    1. forward-looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going-public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the [S1](https://en.wikipedia.org/wiki/Form_S-1) becomes public, 21 days before going public.
-
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
 1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
@@ -271,7 +272,7 @@ Some things are **internal**, available internally but not externally. The follo
 
 ## Limited Access
 
-The items below are not shared with all team members. Limited access is a more severe restriction than sharing internally.
+The items below are not shared with all team members. Limited access is a more severe restriction than [internal](#internal).
 
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team-member, customer, or user.
