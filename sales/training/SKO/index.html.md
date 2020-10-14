@@ -50,7 +50,7 @@ A: The health and safety of our team is our absolute top priority. Sales leaders
 
 **Q: Will we still have an in-person Sales event in 2021?** 
 
-A: We hope to! Sales leadership is looking into opportunities to get the team together in person either by region or with the entire team in 2H CY21. This is contingent on the status of the COVID-19 pandemic, and we will make all decisions with the health and safety of our team members as our top priority.
+A: We hope to! Sales leadership is looking into opportunities to get the team together in person either by region or with the entire team in 2H FY21. This is contingent on the status of the COVID-19 pandemic, and we will make all decisions with the health and safety of our team members as our top priority.
 
 **Q: What platform(s) are we using for the virtual event?**
 
