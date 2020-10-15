@@ -61,7 +61,6 @@ To create a Success Plan, the TAM will perform the following activities, detaile
 - Review [account onboarding](/handbook/customer-success/tam/onboarding/) and [account engagement](/handbook/customer-success/tam/engagement/) for additional information that is useful to collecting information and developing a relationship
 
 ### Step 2: Identify Business Objectives for the ROI Success Plan
-
 The objectives should be written from the customer’s perspective and be measurable goals that they drive. For example, an Objective could be “Reduce Cycle Time from X to Y” rather than “Adopt Manage stage” (which is a more internally-oriented phrasing).
 
 You should know how the customer will track the benefits of purchasing GitLab, how the customer will measure success, and how the customer is currently measuring these objectives and if they have those metrics available. If these details are currenly unknown, add some [relevant discovery questions](/handbook/customer-success/tam/success-plans/questions-techniques/) to your agenda for your next [cadence call](/handbook/customer-success/tam/cadence-calls/), below are some examples:
@@ -119,7 +118,9 @@ For each business objective, review with the customer:
 
 ### Step 4: Documenting the Success Plan
 
-To create a success plan in Gainsight, perform the following steps:
+**Note:** When a TAM is assigned to an account, a draft ROI Success Plan will be automatically created with a due date 365 days from the day it is created.
+
+To create an additional success plan in Gainsight, perform the following steps:
 
 1. From the Gainsight NXT home page, navigate to the customer's page
 1. From the menu on the left-hand side of the screen, choose "Success Plan"
