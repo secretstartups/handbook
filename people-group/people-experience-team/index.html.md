@@ -60,9 +60,8 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / New Hire Swag Email
-- BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility
-- Code of Conduct audit and HelloSign audit
+- Probation Periods / Gift Requests / Anniversary Period 
+- BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
 
@@ -86,7 +85,7 @@ The following factors will also be taken into consideration:
 
 - We always try and split evenly and fairly. 
 
-### Audits 
+### Audits & Quarterly Rotations
 
 There are certain tasks that need to be completed by all the different departments and team members and we as the People Experience Team need to ensure to remain compliant in line with these tasks. Herewith a breakdown of the important compliance and team tasks:  
 
@@ -121,6 +120,8 @@ This will be the responsibility of the People Experience Associate that is assig
 
 - Code of Conduct Audit
 
+The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct in BambooHR. 
+
     - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
     - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
@@ -131,6 +132,10 @@ This will be the responsibility of the People Experience Associate that is assig
     - In the correct Slack channel `hellosign-review`, the Associate will cross reference the current team members in that channel vs the report from HelloSign (add any missing team members to the Channel).
     - Announce in the channel that an audit is being completed and ask team member to update the spreadsheet confirming their usage. 
     - Create an access request to remove any non active team members as well as removing them from HelloSign. 
+
+- Anniversary Gift Stock Audit
+
+The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. If the stock is low, we will proceed with placing an order for new stock to the warehouse. 
 
 ### Pulling of BambooHR Onboarding Data
 
@@ -176,8 +181,6 @@ In some instances, we may be contacted by certain Governmental institutions aski
 
 The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Handbook](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#important-steps-during-the-probation-period). If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
-
- 
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
@@ -191,18 +194,9 @@ In the same survey, new team members are able to provide a score and feedback on
 
 ### Anniversary Period Gift Queries
 
-*Current Process*
-
-Team members celebrating their first, third and fifth anniversaries with GitLab would have received an email from the People Experience Team asking them to complete their information in order to have their item shipped. Due to production and shipping delays, many team members celebrating their anniversaries prior to June 2020 are still waiting for their gifts and are instructed to complete the `First Anniversary Gifts` [form](https://docs.google.com/forms/d/e/1FAIpQLScgBaNWmqEA5Tx2jZlffiDIeOfn7fvyyy7oF7cXQrSq9saYvQ/viewform). Once we receive a request on the form:
-
-1. Check to see whether the team members are listed on the current `Orders Backordered Datasheet` in Google Drive.
-    - If the team member's name is not included on there, we can take this as confirmation that an order was never received for the team member. The team member can then either proceed with ordering the existing Tanuki socks in the Swag store or wait for the new socks to be designed and produced. 
-    - If the team member's name is on the backlog to be shipped out, this should be shipped out soon, but may have some delays with reaching the team members due to the pandemic. 
-1. Advise the team member how they should proceed based on the above (either place order for Tanuki socks, wait for new design, or advise their shipment will arrive soon).  
-
 *New Process*
 
-With the new sock design being released soon for first year celebrants, the process will be different to the current process and will be updated soon! 
+Will be updated soon :) 
 
 ### Gift Requests
 
@@ -254,9 +248,10 @@ That's it, you have successfully scheduled the meeting! Now just remember to let
 
 ### HelloSign
 
-As the DRI for HelloSign, when a team member needs to have access to sign documents for the company, an access request needs to be created and assigned to the People Experience Team for provisioning. 
+As the DRI for HelloSign, when a team member needs to have access to sign documents for the company, an access request needs to be created and assigned to the People Experience Team for provisioning. Please ensure to first ask the team member whether they will be signing more than 5 documents per month before allocating a seat with HelloSign. 
 
-#### Process once Access Request is received:
+- If no, then suggest the free version of HelloSign which allows the team members to signup and send up to 5 documents per month. 
+- If yes, proceed with sending the team member an invitation to HelloSign as per the steps below: 
 
 1. Log into [HelloSign](https://app.hellosign.com/home/) using your personal account information
 1. Select `Team` on the left hand-side of the page
