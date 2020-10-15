@@ -235,7 +235,7 @@ The schedule with directly responsible individuals (DRI) is as follows through t
 | Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
 | Three  | Wed  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
-| Three  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
+| Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
 | Four  | Tue  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
@@ -269,7 +269,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
 | Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
-| Three  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
+| Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
@@ -289,7 +289,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Seven  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
-| Seven  | Thur  | [Finance](/handbook/finance/)  | Paul Machle  |
+| Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | Available |   |
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
