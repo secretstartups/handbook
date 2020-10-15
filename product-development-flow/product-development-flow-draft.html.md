@@ -57,6 +57,44 @@ Because this page needs to be concise and consistent, please ensure to follow th
 No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
 
 ## Workflow Summary
+
+```mermaid
+  graph LR;
+  subgraph Validation
+    validationbacklog(Validation Backlog) --> problemvalidation(Problem Validation)
+    problemvalidation --> design(Design)
+    design --> solutionvalidation(Solution Validation)
+  end
+
+  subgraph Build
+    plan(Plan) --> developtest(Develop and Test)
+    developtest --> launch(Launch)
+    launch --> improve(Improve)
+  end
+
+  solutionvalidation --> plan
+
+  solutionvalidation .- review(Review)
+  review .-> plan
+    
+  click Validation "#validation-track"
+  click validationbacklog "#validation-phase-1-validation-backlog"
+  click problemvalidation "#validation-phase-2-problem-validation"
+  click design "#validation-phase-3-design"
+  click solutionvalidation "#validation-phase-4-solution-validation"
+  
+  click review "#review-track-optional"
+
+  click Build "/handbook/source/handbook/product-development-flow/product-development-flow-draft.html#build-track"
+  click plan "#build-phase-1-plan"
+  click developtest "#build-phase-2-develop-test"
+  click launch "#build-phase-3-launch"
+  click improve "#build-phase-4-improve"
+
+  classDef optional stroke-dasharray: 5 5;
+  class review optional
+```
+
 <kbd class="required">Required 🔎</kbd>
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
