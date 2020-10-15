@@ -224,7 +224,7 @@ There are some recordings where it is not clear whether they should be Private o
 
 The below instructions apply to either livestreams to YouTube or recorded videos that are uploaded to YouTube soon afterwards.
 
-1. The moderator asks the host "NAME OF PERSON, can I initiate the countdown for this public/private tream?" and waits for confirmation. The moderator counts down from three ("I'll start the countdown for this public/private stream/recording in 3, 2, 1"), and nothing else is said by the moderator beyond this point so that so it is not accidentally recorded. Click `Live to YouTube` and start the livestream. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
+1. The moderator asks the host "NAME OF PERSON, can I initiate the countdown for this public/private stream?" and waits for confirmation. The moderator counts down from three ("I'll start the countdown for this public/private stream/recording in 3, 2, 1"), and nothing else is said by the moderator beyond this point so that so it is not accidentally recorded. Click `Live to YouTube` and start the livestream. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
 1. The host should do an introduction stating who they are, what their role is, and what the meeting is about, e.g. "I am Jane Doe, the VP of Widget Production, and today's Group Conversation is about the molding phase of widget production."
 1. Please note that if the recording starts a 'this meeting is being recorded' message the host should talk over that because otherwise the recorded video will needed editing to prevent an awkward pause.
 
