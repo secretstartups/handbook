@@ -176,6 +176,10 @@ Every month, the Learning and Development team hosts a monthly continuous learni
 
 GitLab will be launching a quarterly L&D newsletter to highlight all of the professional and career development opportunities in the organization. 
 
+### Take Time Out To Learn Campaign
+
+Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+
 ### Certifications
 
 We provide our team members with certifications to demonstrate their knowledge on specific topics. We have [outlined](/handbook/people-group/learning-and-development/certifications/) our current certifications as well as planned and upcoming certifications for the year.
@@ -257,6 +261,9 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 4. **Andragogy:** Recognize that adults learn differently than children. Design learning experiences with the assumption that your participants will come to the table with their own set of life experiences and motivations. Adults tend to direct their own learning, tend to learn better by doing, and will want to apply their learning to concrete situations as soon as possible. 
 
+### 70-20-10 Model for Learning and Development
+
+The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 
 ## Learning Management Systems
 
