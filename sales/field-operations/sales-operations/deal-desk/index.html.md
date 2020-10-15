@@ -13,7 +13,7 @@ title: "Deal Desk"
 
 ## **Welcome to The Deal Desk Handbook** 
 
-The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support.
+The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support. 
 
 ### Key Focus Areas
     
