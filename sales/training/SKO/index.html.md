@@ -70,7 +70,7 @@ A: In support of GitLab’s all-remote culture, there will be pre-work that all 
 
 **Q: What will I be expected to participate in?**
 
-A: SKO is a rare opportunity for our team to come together (even virtually) and prepare for the year ahead. As such, the agenda is purposely crafted with numerous activities to learn, network, and celebrate together, and we kindly ask and expect that every SKO attendee participates in all that SKO has to offer. 
+A: SKO is a great opportunity for our team to come together to both celebrate our results and collaborate for a strong start in the new year. As such, the agenda is purposely crafted with numerous activities to learn, network and celebrate together. We expect that every SKO to treat it as a “work trip” and block your calendar to ensure you fully participate in every part of the event.
 
 **Q: I just got hired – how do I attend SKO?**
 
