@@ -21,18 +21,7 @@ The Core Infra teams owns:
 * [Secrets management](/handbook/engineering/infrastructure/production/architecture/#secrets-management) 
 * Helping with Growth Stage assets like customers, license, and version.
 
-
-Core Infra is:
-
-| Person | Role |
-| ------ | ------ |
-|[David Smith](/company/team/#dawsmith)|[Engineering Manager, Reliability](/job-families/engineering/engineering-management-infrastructure/#engineering-manager-reliability)|
-|[Alex Hanselka](/company/team/#ahanselka)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
-|[Devin Sylva](/company/team/#devin)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
-|[Craig Barrett](/company/team/#craig)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
-|[Cameron S McFarland](/company/team/#cmcfarland)|[Senior Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
-|[Hendrik Meyer](/company/team/#T4cC0re)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
-|[Graeme Gillies](/company/team/#ggillies)|[Site Reliability Engineer](/job-families/engineering/site-reliability-engineer/)|
+<%= partial "handbook/engineering/infrastructure/team/reliability/core-infra/_core_infra_team.html" %>
 
 ## Tenets
 Our guiding principles center around implementing [boring solutions](https://about.gitlab.com/handbook/values/#boring-solutions) to infrastructure problems. We work to simplify interfaces and build robust workflows for other engineers within GitLab who utilize our platform to provide support for and deliver new features to the gitlab.com SaaS product. Over time this continues to expand to include additional/related applications, sites, and systems.
