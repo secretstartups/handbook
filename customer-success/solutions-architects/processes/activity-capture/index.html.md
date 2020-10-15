@@ -60,12 +60,15 @@ When anyone logs an activity, Troops.ai will provide the update in a team Slack 
 
 All troops activity updates channels are of the format `#troops-activities-<region or segment name>`:
 
-- `#troops-activities-apj`
-- `#troops-activities-commercial`
-- `#troops-activities-east`
-- `#troops-activities-emea`
-- `#troops-activities-pubsec`
-- `#troops-activities-west`
+- `#troops-activities-apj-cs`
+- `#troops-activities-channels-and-alliances-sa`
+- `#troops-activities-commercial-sa`
+- `#troops-activities-east-sa`
+- `#troops-activities-emea-sa`
+- `#troops-activities-pubsec-sa`
+- `#troops-activities-west-sa`
+
+*Tip:*  You can create a dedicated slack section for all of your troops related channels.  This will allow you easy access to updates for cross-team collaboration.  
 
 ### SA Specific Opportunity Fields
 
@@ -124,10 +127,13 @@ If a contact you'd like to associate your activity updates with does not yet exi
 - [Create a Contact](https://www.youtube.com/watch?v=OzNH927Y7wM&feature=youtu.be)
 - [Updating Tech Eval Dates and Status](https://www.youtube.com/watch?v=ifRYJhHzyzo&feature=youtu.be)
 
-### Feedback Process
+### Feedback and Questions Process
 
-In order to provide feedback on our activity capture process, tools, or reports, please create an issue in the Customer Success, [Solutions Architecture Activity Capture project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-activity-capture/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) using the `Feedback` template.
+* In order to provide feedback on our activity capture process, tools, or reports, please create an issue in the Customer Success, [Solutions Architecture Activity Capture project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-activity-capture/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) using the `Feedback` template.
+* `#troops-users` slack channel - Discuss and ask questions related to Troops.ai and SA activity capture
+* `#troops-gitlab` slack channel - Discuss and ask questions related to Troops.ai with the Troops account team covering GitLab
 
 ### Frequently Asked Questions
 
-Coming Soon
+* Question:  Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
+* Answer:  It is not required to automatically log your calls via the Salesforce Google calendar plugin and we aren't currently planning to analyze that information.  
