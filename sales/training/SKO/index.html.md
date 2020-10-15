@@ -78,7 +78,7 @@ A: All new hires after Oct 21 will have 2 weeks from their start date to registe
 
 **Q: How will we make SKO 2021 exciting even though it's virtual?**
 
-A: The SKO core team is hard at work planning a fun and engaging virtual event. Everything from the virtual platform to the agenda to the event theme is being carefully crafted to ensure that our team feels connected and energized at Virtual SKO 2021.
+A: The SKO core team is preparing an engaging virtual event. Everything from the virtual platform to the agenda to the event theme is being carefully curated to ensure that our team feels connected and energized while participating in SKO. 
 
 **Q: Will we still have an Awards Dinner and networking time?**
 
