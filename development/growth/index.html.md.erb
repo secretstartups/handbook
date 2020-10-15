@@ -105,14 +105,14 @@ The following people are permanent members of groups that belong to the Growth s
 ### Retention
 <%= department_team(base_department: "Retention Team") %>
 
-### Fulfillment Backend
-<%= department_team(base_department: "Growth:Fulfillment BE Team") %>
+### Fulfillment Provision Backend
+<%= department_team(base_department: "Fulfillment Provision Team") %>
 
-### Fulfillment Frontend
-<%= department_team(base_department: "Growth:Fulfillment FE Team") %>
+### Fulfillment Purchase Backend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Frontend]) %>
 
-### Fulfillment System Integrity
-<%= department_team(base_department: "Fulfillment SI Team") %>
+### Fulfillment Purchase Frontend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Backend]) %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
