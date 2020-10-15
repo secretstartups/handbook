@@ -261,6 +261,22 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 4. **Andragogy:** Recognize that adults learn differently than children. Design learning experiences with the assumption that your participants will come to the table with their own set of life experiences and motivations. Adults tend to direct their own learning, tend to learn better by doing, and will want to apply their learning to concrete situations as soon as possible. 
 
+### Developing Learning Objectives
+
+If you are developing training, add learning objectives to the beginning of the content to state a clear outcome of the training. A clear learning objective states what the learner will be able to do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
+
+**Steps to creating learning objectives:** 
+1. Identify the level of knowledge necessary to achieve the objective of the training. Use [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) to assist with writing effective learning objectives. 
+2. Select an [action verb](https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf). 
+3. Create your very own objective
+4. Check your objective. Make sure it includes these four pieces: audience, behavior, condition, and degree of mastery
+5. Repeat these steps for each objective
+
+**Sample learning objectives:** 
+- By the end of the session, team members will be able to accurately describe the steps take to address underperformance
+- Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
+- After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
+
 ### 70-20-10 Model for Learning and Development
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
