@@ -157,11 +157,24 @@ Examples of English Language Courses:
  * Please add any recommendations to this list.
 
 #### Tuition Reimbursement for Your 4th Trimester
-Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) transition back to work.
+
+Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development.
 
 If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program. If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD.
 
-To apply for this program, please send a completed [Tuition Reimbursement Application Form](https://docs.google.com/document/d/18Q-Y8fg1WIf3TtiqlOaKWWOFbtBVpE3-UnVPXyMVDAg/edit) to Total Rewards at least 60 days before the birth/adoption.
+To apply for this program, please send a completed [Your 4th Trimester Form](https://docs.google.com/document/d/18Q-Y8fg1WIf3TtiqlOaKWWOFbtBVpE3-UnVPXyMVDAg/edit) to Total Rewards at least 60 days before the birth/adoption. If the team member does not apply before the 60 days (for any reason), please reach out to Total Rewards and we can talk through different options. Your 4th Trimester is open to tailoring the coaching timing to each team member as needed. 
+
+##### Administration of Your 4th Trimester 
+
+1. Once a completed form has been sent to Total Rewards, the team will process for final approval.
+1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
+1. Total Rewards will send an introductary email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
+
+**Monthly Reporting:**
+GitLab will provide Your 4th Trimester with a report monthly of any team members with an upcoming parental leave: expected leave date, expected return to work date, date of birthing event, country, whether the person has already opted in, and maternity or paternity leave. The purpose of this monthly report is to ensure Your 4th Trimester can plan accordingly to the volume of coaching for GitLab team members. 
+
+**Billing:**
+Your 4th Trimester will bill GitLab for this benefit quarterly with 50% at intake and 50% at the completion of the coaching program per participant. If there are more than 5 participants in a quarter, there will be a discount on the bill. If there are any tax implications for the GitLab team member, Total Rewards will work with payroll to ensure this is reported compliantly. 
 
 ### GitLab Contribute
 Every nine months or so GitLab team members gather at an exciting new location to [stay connected](/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/), at what we like to call [GitLab Contribute](/company/culture/contribute). It is important to spend time face to face to get to know your team and, if possible, meet everyone who has also bought into the company vision. There are fun activities planned by our GitLab Contribute Experts, work time, and presentations from different Departments to make this an experience that you are unlikely to forget! Attendance is optional, but encouraged. For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
