@@ -356,27 +356,27 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
-| Europe South | Europe South | **SMB-EMEA-Southern Europe** | Ross Mawhinney | EMEA Commercial - SMB^ |
+| Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
 | MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
 | Nordics | Nordics | **SMB-EMEA-Nordics-East** | Tim Guibert | EMEA Commercial - SMB^ |
 | Nordics | Nordics | **SMB-EMEA-Nordics-West** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Birmingham** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Cardiff** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Gibraltar** | Ross Mawhinney | EMEA Commercial - SMB^ |
-| UKI | IE | **SMB-EMEA-UKI-Ireland** | Ross Mawhinney | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-Gibraltar** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Ross Mawhinney | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Ross Mawhinney | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Ross Mawhinney | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London WC** | Ross Mawhinney | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Manchester** | Ross Mawhinney | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |
 
 ^ `SDR` = `EMEA Commercial - SMB`: Round robin group consisting of Wiam Aissaoui, Alexander Demblin, Dorde Sumenkovic and Daniel Phelan
