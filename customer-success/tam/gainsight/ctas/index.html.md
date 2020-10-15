@@ -37,7 +37,6 @@ There are 5 "types" of CTAs, which will have different corresponding playbooks, 
 * Expansion
 * Lifecycle
   * Commercial Onboarding Email Series
-  * Create Success Plan
   * Customer Offboarding
   * [Executive Business Review (EBR)](/handbook/customer-success/tam/ebr/#how-to-prepare-an-ebr)
   * [New Customer Onboarding](/handbook/customer-success/tam/onboarding/)
