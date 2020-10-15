@@ -28,7 +28,7 @@ Advise the customer that it is best for them to subscribe to the created issue f
 
 ### Feature Proposals
 
-For feature proposals, guide the customer on how to create the issues in either the [Community Edition](https://gitlab.com/gitlab-org/gitlab-ce/issues) or [Enterprise Edition](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers. If it is not a bug, it is preferable that the customer create the issue themselves - this is especially true in cases where the app/feature is working as intended.
+For feature proposals, guide the customer on how to create the issues in [GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab/issues). If it is not a bug, it is preferable that the customer create the issue themselves - this is especially true in cases where the app/feature is working as intended.
 
 ### Refunds
 
