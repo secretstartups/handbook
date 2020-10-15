@@ -30,7 +30,7 @@ registry.gitlab.com/gitlab-org/omnibus-gitlab/gitlab-ee:41b42271ff37bf79066ef308
 ```
 
 Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines)
- with a `RELEASE` variable and use the copied string as its value. Run the pipeline against the branch that
+ with a `RELEASE` variable and use the copied string as its value. Also, add the `CI_MERGE_REQUEST_IID` variable which corresponds to the Merge Request ID with the changes in GitLab QA. Run the pipeline against the branch that
  has your changes.
 
 ## Determine the version, revision, branch and package deployed in GitLab environments:
