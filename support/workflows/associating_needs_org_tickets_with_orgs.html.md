@@ -46,6 +46,78 @@ This workflow applies if:
 
 ![ZD prompts for an org to be created](/images/handbook/support/zendesk_needs_org-create.png)
 
+### Trials and Prospects
+
+There are two types of users/organizations that have not yet purchased a GitLab subscription/license:
+
+* **Trial** = user or organization that has taken out a trial, typically using
+  the free trial form.
+* **Prospect** = organization trialing GitLab that is sales assisted, also often
+  referred to as a POC (proof of concept).
+
+How to define if a ticket is from a prospect or a trial? A long term solution is still in progress. 
+At the moment, the process is mostly manual: check the form content,
+check the ticket content, it can refer to POC or prospect, check if there were any sales representantives' posts in one 
+of the Support Slack channels. In the last case, please add an internal note on the ticket. Hints mentioned below should help
+you to identify prospects or trials correctly.
+
+#### Identifying trials
+
+While SFDC syncs organizations nightly to Zendesk, it does not include trial licenses
+because no organization account is created in SFDC for trials, only a lead. So
+organizations on a trial will not be shown in Zendesk.
+
+To check if a customer is on a trial: in SFDC (see search instructions below),
+the `Initial Source` will likely say `Trial` (check that initial date is within
+the standard trial period).
+
+For GitLab.com, in the [CustomersDot](https://customers.gitlab.com/admin),
+trials are marked with an expiration date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
+If needed, also check the
+[internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
+for manual plan changes.
+
+For self-managed, you can double-check for a license in the
+[license app](http://license.gitlab.com).
+You should be able to access it with your `dev.gitlab.org` account.
+
+**Trial** users do not get support as mentioned at [Free trial page](https://about.gitlab.com/free-trial/).
+If you find a ticket from the organization using trial, add `trial` tag to it.
+Once tagged, the ticket from trial 
+will move to the view `Free/Self-Provisioned Trial Support` and will not get SLA.
+
+**Note:** due to the type of subscription/license they receive, trial users often identify themselves as
+Ultimate or Gold customers. This form field does not need to be updated as SLA is tied to the Zendesk org.
+
+#### Identifying prospects
+
+**Prospects** will get SLA if the conditions listed in [Trials and Prospect Support](https://about.gitlab.com/handbook/support/internal-support/#trials-and-prospect-support) are met: if an organization in SFDC has `Manual Support Upgrade` checked. In this case, an org with 
+the type `Prospect` or `Prospect - CE User` will be synced to Zendesk, it will be possible to associate a user with this org,
+and their ticket will then get SLA.
+
+Such organization will get SLA because it will have `priority_prospect` tag.
+By default, such tickets will be shown both in SM and GitLab.com views. To make it visible
+only in the appropriate view, add either `prospect_saas` or `prospect_sm` tag to a ticket.
+
+If the steps described in [Trials and Prospect Support](https://about.gitlab.com/handbook/support/internal-support/#trials-and-prospect-support)
+were not done, a prospect organization will not be propagated from SFDC to Zendesk, and the prospect will not get SLA. 
+In this case, assign `prospect` tag to this ticket. It will be moved to the view `Free/Self-Provisioned Trial Support` without SLA.
+
+**Note:** there can be duplicate orgs or orgs incorrectly marked as prospects. If you see that the org is a prospect but other evidence shows that this is a valid customer, follow the workflow [Organization is incorrectly marked as a Prospect in SFDC](#organization-is-incorrectly-marked-as-a-prospect-in-sfdc).
+
+##### Organization is incorrectly marked as a Prospect in SFDC
+
+In SFDC, you may notice an organization has the Type set to `Prospect` but associated with a non Expired support level,
+and the account in the CustomersDot shows that the org has a valid self-managed license or a GitLab.com subscription. 
+In this case, it you may need to update the org in SFDC:
+
+- Check if `Subscriptions` section in SFDC contains information about a valid subscription and is not empty.
+- Check if account in the CustomersDot contains information about the purchased subscription.
+- Double click `Prospect` type, change it to `Customer` and click `Save`.
+- After that, notify `@Sales-Support` by following the steps similar to the ones in [this section](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) to tag them.
+- **IMPORTANT**: if you are not sure about the changes, ask `Sales-Support` to do it.
+- As soon as the org has a valid `Customer` type, it will be propagated to Zendesk.
+
 ### Marking Free Users for GitLab.com
 
 For GitLab.com, if a user cannot be identified as a customer, nor a
@@ -75,59 +147,6 @@ domain. Therefore, search by e-mail is more reliable.
 **Note:** in some cases you will need to search by e-mail and by domain. For example, 
 if the e-mail has previously been associated with a trial account it will still be visible 
 in SFDC but this might not be the same account that is used by the organization.
-
-#### Trials and Prospects
-
-Note: Due to the type of subscription/license they receive, trial users often
-identify themselves as Ultimate or Gold customers. This form field does *not*
-need to be updated as SLA is tied to the ZD org.
-
-When applicable, tickets should have one of the following tag (not both):
-
-* **Trial** = user or organization that has taken out a trial, typically using
-  the free trial form.
-* **Prospect** = organization trialing GitLab that is sales assisted, also often
-  referred to as a POC (proof of concept).
-
-A long term solution is still being worked on, but in the short term, prospects
-are supposed to email Support using the email address provided to them or use
-the appropriate form field, which will automatically add the `prospect` tag.
-
-Otherwise, prospects are identified manually either through form content, ticket
-content, or the sales rep posts about it in one of the Support Slack channels.
-In the last case, please *add* an internal note on the ticket.
-
-You can manually add the appropriate tag to the ticket. To do it, start typing tag name in `Tags` field, add the tag and Submit the ticket to add the needed tag.
-
-Once tagged, the ticket will move to the appropriate queue, and for prospects,
-with appropriate SLA. However, [trials do not receive support](/support/)
-(wording included in our "free user" macro), and prospect SLA is for guidance
-only.
-
-##### Other ways to identify trials and prospects when necessary
-
-While SFDC syncs organizations nightly to ZD, it does not include trial licenses
-because no organization account is created in SFDC, only a lead. So
-organizations on a trial will not show in ZD, and this workflow _does not_ apply
-and we should _not_ manually create these organizations.
-
-To check if a customer is on a trial: In SFDC (see search instructions below),
-the `Initial Source` will likely say `Trial` (check that initial date is within
-the standard trial period).
-
-For prospects, there will likely be an organization account with `Account Type`
-`Prospect`. However, the presence of an org with type prospect does *not* mean
-they receive pre-sales support.
-
-For self-managed, you can double-check for a license in the
-[license app](http://license.gitlab.com).
-You should be able to access it with your `dev.gitlab.org` account.
-
-For GitLab.com, in the CustomersDot, trials are marked with an expiration
-date under the **Trials** column in the `GitLab Groups` Tab next to a namespace.
-If needed, also check the
-[internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
-for manual plan changes.
 
 ### Finding the existing organization in Zendesk
 
@@ -388,16 +407,3 @@ If you're sure that the ticket is related to **Self-managed**, but you see it in
 > only changed the tags so that it is not listed in the wrong queue. Please verify
 > if the user is a paying Self-managed customer and add the necessary tags so that the
 > correct SLA policy is applied to the ticket.
-
-### Organization is incorrectly marked as a Prospect in SFDC
-
-In SFDC, you may notice an organization has the Type set to `Prospect` but associated with a non Expired support level,
-and the account in the CustomersDot shows that the org has a valid self-managed license or a GitLab.com subscription. 
-In this case, it you may need to update the org in SFDC:
-
-- Check if `Subscriptions` section in SFDC contains information about a valid subscription and is not empty.
-- Check if account in the CustomersDot contains information about the purchased subscription.
-- Double click `Prospect` type, change it to `Customer` and click `Save`.
-- After that, notify `@Sales-Support` by following the steps similar to the ones in [this section](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) to tag them.
-- **IMPORTANT**: if you are not sure about the changes, ask `Sales-Support` to do it on their own.
-- As soon as the org has a valid `Customer` type, it will be propagated to Zendesk.
