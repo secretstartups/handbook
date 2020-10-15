@@ -187,7 +187,7 @@ For Recruiting Ops:
 
 Occasionally, there can be delays between the candidate receiving the Statement of Work and the official contract from a PEO. This delay can result in a nervous wait for the candidate. We must keep anyone who has not recieved their full contract from our PEO informed of any delays.
 
-The Candidate Experience Specialist who initiated the contract process is expected to follow up with the PEO every 24-48 hours until the contract is sent and share the reason behiond the delay in Greenhouse `notes`. The Recruiter is expected to keep the candidate updated on the progeress of their contract every 24-48 hours until the candidate recieves their contract. A simple message that explains the delay is all that is neccessary. As a Candidate Experience Specialist or Recruiter, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.       
+The Candidate Experience Specialist who initiated the contract process is expected to follow up with the PEO every 24-48 hours until the contract is sent and share the reason behiond the delay in Greenhouse `notes`. The Recruiter is expected to keep the candidate updated on the progress of their contract every 24-48 hours until the candidate recieves their contract. A simple message that explains the delay is all that is neccessary. As a Candidate Experience Specialist or Recruiter, you're encouraged to utilize the Greenhouse reminder feature to manage these updates and log the email in Greenhouse.       
 
 ## Amended Contracts
 
