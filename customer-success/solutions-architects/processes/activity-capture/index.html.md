@@ -122,7 +122,9 @@ If a contact you'd like to associate your activity updates with does not yet exi
 
 ### Training Resources
 
-- Troops.ai all-hands recording - coming soon
+- Troops.ai all-hands recordings
+    - [SA All-Hands Call for Troops.ai kickoff (EMEA Friendly)](https://youtu.be/OMD-cjaTYuE)
+    - [SA All-Hands Call for Troops.ai kickoff (APJ Friendly)](https://youtu.be/7R0qy8t5d10)
 - [Log an Activity](https://www.youtube.com/watch?v=zRxUJSjujUk&feature=youtu.be)
 - [Create a Contact](https://www.youtube.com/watch?v=OzNH927Y7wM&feature=youtu.be)
 - [Updating Tech Eval Dates and Status](https://www.youtube.com/watch?v=ifRYJhHzyzo&feature=youtu.be)
