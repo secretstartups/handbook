@@ -189,9 +189,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 | Up to date issues and epics | - review issue discussions and update relevant info in the description <br> - keep related metadata (labels, etc) up to date <br> - actively respond to stakeholder comments <br> - transfer discussion notes, and external information to the issue (as links or discussion/description details) | Product Manager |
 | Prioritized backlog | - regular review of issue prioritization (issue board ordering, milestone assignment) <br> - align prioritized backlog to category direction and category maturity state | Product Manager |
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Up to date issues and epics** - At GitLab, issues are the single source of truth for any change to the product. Issues are created in response to a [sensing mechanism](/handbook/product/product-processes/#sensing-mechanisms). Consider using the _Problem Validation_ issue template for new features. If an issue already exists, keep its description and metadata up to date based on inputs both in the issue (comment threads) and external to the issue (including synchronous discussions and research output).
 
@@ -225,9 +223,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 | Thorough understanding of the problem  | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md)<br>- Complete an [Opportunity Canvas](#opportunity-canvas)<br>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study<br>- Schedule a review of the opportunity canvas for feedback<br>| Product Manager |
 | Communicate the problem clearly and effectively | - Ensure your issue is up to date with the latest understanding of the problem. <br> - Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br> - Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Update issue/epic description** - a well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases.
 
@@ -261,8 +257,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
 
 
-#### Required Outcomes 
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes 
 
 - **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. <br> 
 - **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> 
@@ -294,8 +289,7 @@ To start the Solution Validation phase, the Product Designer or Product Manager 
 | High confidence in the proposed solution | - Interview customers. <br> - Interview the issue originator. <br> - Perform usability testing. <br> - Perform the [Solution Validation Process](/handbook/engineering/ux/ux-research/#solution-validation-1). | Product Designer |
 | Solution validation documentation | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br> - Update the opportunity canvas with the insights. <br> - Update issue or epic description to contain the findings.| Product Designer |
 
-#### Required Outcomes
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **High confidence in the proposed solution** - activities have been performed which demonstrate the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution.
 
@@ -362,8 +356,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ### Build phase 1: Plan
 
-#### Labels
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Labels
 
 | Label 	| Usage 	|
 |-	|-	|
@@ -397,8 +390,7 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 | QE Review 	| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - SET 	|
 | Prioritized Milestone | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone | - Product Manager and Engineering Manager |
 
-#### Required Outcomes
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. Through this phase Product Managers, Engineering, and Product Design likely refine issues into something that can be delivered within a single milestone. Consider opening follow on issues to track work that is de-prioritized, or promote existing issues to Epics and open implementation issues for the upcoming milestone. Understanding the relative size (weight) of an issue in this phase also informs capacity and prioritization discussions allowing the team to plan the right amount of work for a milestone. 
 
@@ -408,8 +400,7 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 
 ### Build phase 2: Develop & Test
 
-#### Labels
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Labels
 
 | Labels 	| Usage 	|
 |-	|-	|
@@ -445,9 +436,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 | Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
 | Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
@@ -455,7 +444,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 ### Build phase 3: Launch
 
-Label: `workflow::production`
+Label: `workflow::production` (The production label is recommended but not required at this phase because issues may have valid reason to close with differing labels)
 
 Issue Status: `Closed`
 
@@ -482,9 +471,7 @@ When the change becomes available in production, the issue is closed by the deve
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
 | Experiment results and follow-up issue is created | For experiments, we should create a follow-up issue that will be where results of the test and next-steps are tracked | Product Manager | 
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
 
@@ -515,8 +502,7 @@ After launch, the Product Manager and Product Designer should pay close attentio
 | Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
 | Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
 
-#### Required Outcomes 
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes 
 
 - **Understand Qualitative Feedback** - In order to know how to improve something, it is important to undrestand the qualitative feedback that we're hearing from users and team members.  <br>
 - **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  <br> 
