@@ -5,32 +5,34 @@ title: "Recruiting Alignment"
 
 ## Search Team Alignment by Department
 
-| Department                    | Recruiter       |  Coordinator | Sourcer     |
-|--------------------------|-----------------|-----------------|-----------------|
-| Executive          | Rich Kahn   | Kalene Godoy | Chriz Cruz |
-| Enterprise Sales, NA | Marcus Carter | Corinne Sapolu |  Susan Hill |
-| Enterprise Sales, EMEA | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
-| Enterprise Sales, APAC | Debbie Harris |  Corinne Sapolu  |  Kanwal Matharu |
-| Commercial Sales,	Global | Marcus Carter|  Corinne Sapolu| Susan Hill  | 
-| Channel Sales, NA | Steph Sarff | Kalene Godoy |  J.D. Alex |
-| Channel Sales, EMEA | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
-| Channel Sales, APAC | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
-| Field Operations,	NA | Steph Sarff |  Kalene Godoy | J.D. Alex | 
-| Field Operations,	EMEA | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
-| Field Operations,	APAC | Debbie Harris | Corinne Sapolu |  Kanwal Matharu |
-| Customer Success, NA | Steph Sarff |  Kalene Godoy | J.D. Alex | 
-| Customer Success, EMEA | Debbie Harris  | Corinne Sapolu | Kanwal Matharu |
-| Customer Success, APAC | Debbie Harris  | Corinne Sapolu | Kanwal Matharu |
-| Marketing, Global | Steph Sarff   | Kalene Godoy | J.D. Alex |
-| G&A | Maria Gore | Ashley Jones | Loredana Iluca |
-| Development | Rupert Douglas | Kalene Godoy  | Zsuzsanna Kovacs |
-| Quality | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs |
-| UX  | Rupert Douglas   | Kalene Godoy  | Zsuzsanna Kovacs  |
-| Support (EMEA) | Rupert Douglas  | Kalene Godoy  |  Joanna Michniewicz |
-| Support (AMER & APAC) | Cyndi Walsh  | Ashley Jones  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
-| Security | Cyndi Walsh  | Ashley Jones  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Corinne Sapulo | Chris Cruz |
-| Product Management  | Matt Allen   | Corinne Sapulo | Chris Cruz |
+| Department                    | Recruiter       | Sourcer     |
+|--------------------------|-----------------|-----------------|
+| Executive          | Rich Kahn   | Chriz Cruz |
+| Enterprise Sales, NA | Marcus Carter |  Susan Hill |
+| Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
+| Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
+| Commercial Sales,	Global | Marcus Carter | Susan Hill  | 
+| Channel Sales, NA | Steph Sarff |  J.D. Alex |
+| Channel Sales, EMEA | Debbie Harris |  Kanwal Matharu |
+| Channel Sales, APAC | Debbie Harris |  Kanwal Matharu |
+| Field Operations,	NA | Steph Sarff | J.D. Alex | 
+| Field Operations,	EMEA | Debbie Harris   Kanwal Matharu |
+| Field Operations,	APAC | Debbie Harris |  Kanwal Matharu |
+| Customer Success, NA | Steph Sarff | J.D. Alex | 
+| Customer Success, EMEA | Debbie Harris  | Kanwal Matharu |
+| Customer Success, APAC | Debbie Harris  | Kanwal Matharu |
+| Marketing, Global | Steph Sarff   | J.D. Alex |
+| G&A | Maria Gore | Loredana Iluca |
+| Development | Rupert Douglas | Zsuzsanna Kovacs |
+| Quality | Rupert Douglas   | Zsuzsanna Kovacs |
+| UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
+| Support (EMEA) | Rupert Douglas  |  Joanna Michniewicz |
+| Support (AMER & APAC) | Cyndi Walsh  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
+| Security | Cyndi Walsh  |  Zsuzsanna Kovacs |
+| Infrastructure   | Matt Allen  | Chris Cruz |
+| Product Management  | Matt Allen | Chris Cruz |
+
+The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
 
 ## Recruiting Operations and Talent Branding Alignment
 
