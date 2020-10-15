@@ -617,56 +617,6 @@ If the total value of the opportunity has not changed:
 *  The Opportunity Close Date for the Amended SOW should be manually updated to match the original Closed-Won opportunity.
 
 
-<details>
-<summary markdown="span"><b>Deal Desk Only - Manually Consolidated Order Form Forma<b></summary>
-
-
-#### Deal Desk Only - Manually Consolidated Order Form Format
-
-Deal Desk will manually consolidate an Order Form for complex deals, including: Ramp Deals, Multi-Year Ramps with Annual Terms, Add-On + Early Renewal, or Contract Resets. Quote Format should be as follows: 
-
-Date format on all quotes should match the entity format. EMEA quote dates are generated DD-MM-YYYY, NAMER quote dates are generated as MM-DD-YYYY. 
-
-#### Order Form Format for Add-ons to multi-year Subscriptions
-
-Where annual payments were approved for multi-year subscriptions, the add-ons to these orders will be created for the whole duration of the subscription and should indicate the full payment, 
-e.g.: 
-1. 2020-07-01 - 2021-01-31 - 5700 USD (pro-rated)
-1. 2021-01-31 - 2022-01-31 - 11400 USD (full)
-1. 2022-01-31 - 2023-01-31 - 11400 USD (full)
-
-#### Contract Reset Order Form Format
-
-**Product Information Section**
-
-* **Cancelled Product Line - Contract Reset** [Full SKU - Year ] 
-
-* **Quantity** - [Total Quantity of Users cancelled] 
-
-* **List Price** - [BLANK] 
-
-* **Discount** - [BLANK] 
-
-* **Effective Price** - [BLANK] 
-
-* **Total Price**- [($XX,XXX.XX)] - Total Price reflects the subtotal of the product (less VAT/Tax) and should be in parenthesis
-
-
-
-**Quote Charge Summary Section**
-
-* **Credit:** [($xxxx.xx)]- This should be Subtotal on the Credit from the Contract Reset quote object. This number should be in parenthesis
-
-* **Credit VAT/TAX:** [($xxxx.xx)] - This is the VAT/TAX amount on the Contract Reset quote object. This number should be in parenthesis 
-
-* **Subtotal:** [$xxxx.xx] - New Subscription Product Line Total Price - Contract Reset **Subtotal** 
-
-* **VAT/Tax:** [($xxxx.xx)] New Subscription Product Tax - Contract Reset VAT/Tax 
-
-* **Total:** [($xxxx.xx)] Subtotal + VAT/Tax 
-
-
-</details>
 
 
 #### Quote Entity Information
