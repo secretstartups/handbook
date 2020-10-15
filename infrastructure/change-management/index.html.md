@@ -207,7 +207,7 @@ Weekends:
 
 No specific restriction about times. If the change risks are high or requires downtime, please schedule it at the least impactful time for our customers (like Sunday 1am UTC, for example)
 
-Please consider the time slots on the calendar Production, to add change requests for Criticalities 1 and 2. The other criticalities please add directly to the calendar.
+Please consider the above time slots when posting criticalities 1 and 2 to the Production calendar, for all other criticalities, please add them directly to the calendar.
 
 ## Change Execution
 
