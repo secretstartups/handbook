@@ -147,10 +147,10 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 
 If you need to replace an asset source but keep the same link, you can do so from the content library.
 * Select the asset from the content library
-* On the right side, in the preview pane, scroll until you see `Source URL`
+* On the right side, in the preview panel, scroll until you see `Source URL`
 * When you hover over `Source URL` a pencil appears to the right
 * Click the pencil/edit icon
-* In the popup that appears, choose `File Upload` or `Wesite URL` as relevant
+* In the popup that appears, choose `File Upload` or `Website URL` as relevant
 * Choose the updated version from your computer (or paste the new URL in)
 * Click upload
 * QA that the new version appears in "Preview" mode
