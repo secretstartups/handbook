@@ -73,12 +73,21 @@ The [Product Development Flow](/handbook/product-development-flow/) guideline ex
 
 ### `workflow::In dev`
 
-- Engineers apply this label when starting to work on an issue. If the issue involves multiple Merge Requests, it stays in this queue untill they are all created and in review.
+- Engineers apply this label when starting to work on an issue. If the issue involves multiple Merge Requests, it stays in this queue until they are all created and in review.
 
 ### `workflow::In review`
 
 - Merge Requests are being reviewed by reviewers and maintainers.
-- If the issue involves multiple Merge Requests, it stays in this queue untill they are all merged.
+- If the issue involves multiple Merge Requests, it stays in this queue until they are all merged.
+
+#### What if reviewers are slow to respond?
+
+We are located all around the world and lean on asynchronous communication to provide feedback, especially in Merge Requests. However, this can cause reviews to be delayed or take longer than one might expect. This can become especially true as we get closer to GitLab's monthly feature freeze and release gates.
+
+We should expect high-quality reviews, and it takes time to provide meaningful feedback. While it may be painful or frustrating to wait, this is often the best and most efficient strategy. However, it may be helpful to do the following if a reviewer takes more than 1-2 business days to respond.
+
+- Ping the reviewer in the Merge Request and on Slack (if the reviewer is a GitLab team member).
+- Consider reassigning the Merge Request to a different person if the original reviewer continues to be unresponsive.
 
 ### `workflow::verification`
 
