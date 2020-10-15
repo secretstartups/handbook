@@ -43,6 +43,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Service-Skills.md) | 1 Day | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Working-On-Tickets.md) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
+| [GitLab Intermediate Topics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Intermediate-Topics.md) | undetermined | Work with your manager to evaluate whether to continue with these topics |
 
 ### Support Engineer Area of Focus Pathway
 
