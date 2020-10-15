@@ -25,7 +25,7 @@ or creating a new issue in the [Acquisition Workflow] board.
 ## How we work
 
 * We're data savvy
-* In accordance with our [GitLab values]
+* In accordance with our [GitLab values](/handbook/values/)
 * Transparently: nearly everything is public
 * We get a chance to work on the things we want to work on
 * Everyone can contribute; no silos
@@ -63,24 +63,32 @@ The Growth UX team has a [handbook page](/handbook/engineering/ux/stage-group-ux
 
 ## Team Members
 
-The following people are permanent members of the Acquisition Group:
+The following people are permanent members of the Growth:Acquisition team:
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention', role_regexp: /(Growth:Acquisition)/) %>
 
-## Stable Counterparts
+### Group members
 
-We work closely with our colleagues in the [Conversion](/handbook/engineering/development/growth/conversion-product-analytics/), [Expansion](/handbook/engineering/development/growth/expansion/), [Retention](/handbook/engineering/development/growth/retention/), [Fulfillment](/handbook/engineering/development/growth/fulfillment/)
-and [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) groups.
-
-The following members of other functional teams are our stable counterparts:
+We work directly with the following people in the Growth:Acquisition group:
 
 <%=
 other_manager_roles = ['Director of Engineering, Growth']
 direct_managers_role = 'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention'
-roles_regexp = /[,&] (Growth)/
+roles_regexp = /Acquisition/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
 %>
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Conversion](/handbook/engineering/development/growth/conversion-product-analytics/)
+* [Expansion](/handbook/engineering/development/growth/expansion/)
+* [Retention](/handbook/engineering/development/growth/retention/)
+* [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
 
 ## Acquisition Links
 * `#g_acquisition` in [Slack](https://gitlab.slack.com/archives/g_acquisition) (GitLab internal)
