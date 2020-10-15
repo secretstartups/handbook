@@ -90,7 +90,7 @@ A: We will host a Partner Summit in tandem with SKO. Partners will be invited to
 
 **Q: Where can I ask questions related to SKO?**
 
-A: Please Slack #sko-virtual-2021 or you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Emily Kyle, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry within 24 hours. 
+A: If your question is not covered in the FAQ, please feel free to post in the [feedback issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/535). Alternatively, you can visit the public slack channel #sko-virtual-2021 and ask your question there. If your question is not-public, you can email sales-events at gitlab dot com with questions. Members of the core SKO planning team, including Emily Kyle, David Somers and Monica Jacob are actively monitoring this email and will respond to your inquiry within 24 hours. 
 
 We are actively planning this event and will update this FAQ as more information becomes available. 
 
