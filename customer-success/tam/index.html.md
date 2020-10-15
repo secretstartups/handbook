@@ -15,6 +15,7 @@ title: "Technical Account Management Handbook"
 ### TAM responsibilities
 
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
+- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
@@ -42,6 +43,8 @@ title: "Technical Account Management Handbook"
 ### TAM managers
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
+- [TAM Promotion Template](https://docs.google.com/document/d/1Hg16QVYB2qm0gUGR6H_NPz0cd8OGEuvi3GyDtOsEagY/edit?usp=sharing) (Gitlab Internal)
+
 
 - - -
 
