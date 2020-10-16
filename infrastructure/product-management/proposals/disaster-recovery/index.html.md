@@ -25,11 +25,11 @@ The main goal of this effort is to build on our single-region resiliency with ad
 We identify the following failure scenarios based on portion of infrastructure affected:
 
 1. Regional outage
-  - Entire GCP region goes down
+    - Entire GCP region goes down
 1. Zonal outage
-  - Availability zone goes down
+    - Availability zone goes down
 1. Within-Zone outage
-  - Ex: Gitaly Node Failures
+    - Ex: Gitaly Node Failures
 
 This doc mainly focuses on addressing scenario #1 since we don’t currently have any protection against a GCP regional outage, but have some durability against zonal failures. To better improve our durability against zonal outages, we are planning to roll out HA solutions like Gitaly Cluster and move to [zonal cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1175), but those details out of scope for this doc. RTO and RPO targets proposed later in this document, however, should apply to all scenarios above. While some of the capabilities we build to address scenario #1 may be used in situations #2 and #3, those use cases are not the primary focus of this effort. Individual repo and project restores for specific customers are also out of scope for this document. 
 
@@ -61,7 +61,7 @@ With this option we maintain a fully-operational copy of the environment in a se
 
 ### Warm Standby
 With this option, we run a few necessary services in the secondary region to handle data replication (which would happen at regular intervals), but don’t spin up resources for other primary services until a disaster strikes.
-**Pros:** Not as expensive as #1 since we only run enough services in the separate region to handle data replication
+**Pros:** Not as expensive as 1 since we only run enough services in the separate region to handle data replication
 **Cons:** Worse RTO and RPOs than 1 since some infra will still need to be spun up on-demand and data is replicated at an interval rather than immediately.
 
 ### Cold Standby
