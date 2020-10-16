@@ -750,6 +750,31 @@ Opportunities for subscriptions will use the following guidelines:
     - [Original Opportunity Name] - REFUND
     - Example: Acme, Inc- 50 Upgrade to Premium + Renewal 01/17 - REFUND
 
+##### Subscription Cancellation Policy
+
+Customer subscriptions will be moved to cancelled no more than 30 days after the subscription term end date, and the related Renewal Opportunity will be moved to Closed Lost.
+
+##### Opportunity Requirements for Return Customers
+
+- **Customers Returning within 180 Days of Renewal Date**:
+    - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
+        - A new renewal opportunity should be created, and Closed Won with the correct booking values.
+        - A second new renewal opportunity should be created, and Closed Lost, where Amount, ACV, Renewal Amount, and Renewal ACV represent the inverse of the same values on the original Closed Lost opportunity.
+        - Example:
+           
+            | **Opportunity** | **Stage** | **iACV** | **Renewal ACV** | **ACV** | **Net iACV (not on opp)** |
+            | --- | --- | --- | --- | --- | --- |
+            | New Business 2020| Closed Won | 100 | 0 | 100 | 100 |
+            | Renewal 2021| Closed Won | 0 | 100 | 100 | 0 |
+            | Renewal 2022 | Closed Lost | 0 | 100 | 100 | -100 |
+            | Renewal 2022 | Closed Won | 0 | 100 | 100 | 0 |
+            | Renewal 2022 | Closed Lost (Debook) | 0 | -100 | -100 | 100 |
+
+- **Customers Returning More Than 180 Days After Renewal Date**:
+    - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
+        - In this scenario, the original Closed Lost opportunity will not be reversed.
+
+
 ## Opportunity Types
 
 There are three things that can be new or existing:
