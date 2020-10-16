@@ -44,7 +44,15 @@ Usage Discovery Questions:
 
 ## Create
 
+If there is no data currently being recorded for your customer in version.gitlab.com, you can ask whether they are:
+
 - Using GitLab for git repo storage and code review (MR's).
+
+Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+
+- Using Merge Requests as part of the development lifecycle. (counts.merge_requests)
+- Increase in projects with repositories with continous growth over 3 months (counts.projects_with_repositories_enabled)
+- Increase in source control pushes/commits with continuous growth over 3 months (counts.source_code_pushes)
 
 Usage Discovery Questions:
 
@@ -53,9 +61,17 @@ Usage Discovery Questions:
 
 ## Verify
 
-- Have made instance level shared Runner(s) available.
+If there is no data currently being recorded for your customer in version.gitlab.com, you can ask whether they have:
+
+- Made instance level shared Runner(s) available.
 - More than 25% of teams or projects are using GitLab CI/CD.
 - When 75+% of pipelines are using GitLab CI/CD.
+
+Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+
+- Made instance level shared Runner(s) available. (gitlab_shared_runners_enabled)
+- Using Continuous Integration (CI) with continuous growth over 3 months (ci_internal_pipelines)
+- Using CI Runners to build pipelines (counts.ci_builds)
 
 Usage Discovery Questions:
 
@@ -74,7 +90,19 @@ Usage Discovery Questions:
 
 ## Secure
 
-- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning).
+If there is no data currently being recorded for your customer in version.gitlab.com, you can ask whether they have:
+
+- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continous growth over 3 months
+
+Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
+
+- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continous growth over 3 months
+* SAST jobs (counts.sast_jobs)  
+* DAST jobs (counts.dast_jobs) 
+* Dependency scanning jobs (counts.dependency_scanning_jobs) 
+* Licence management jobs (counts.license_management_jobs)  
+* Secret detection jobs (counts.secret_detection_jobs)
+* Container scanning jobs - counts.container_scanning_jobs
 
 Usage Discovery Questions:
 
