@@ -688,6 +688,7 @@ trade names, markings or notices affixed to or contained in the GitLab Products 
 
 </details>
 
+
 ##### Submitting a Deal Registration
 
 
