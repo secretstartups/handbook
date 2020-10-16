@@ -23,6 +23,7 @@ These workflows outline the steps for working on a ticket that would require act
 When a customer wants a refund and their purchase is [eligible for a refund](/terms/) (within the 45 day refund period).
 >**Note:** *There may be special circumstances where we may be able to request a refund 
 outside of the eligibility window - if you believe a case qualifies for this, CC a manager for approval.*
+
 1. Determine the reason that they're cancelling and requesting a refund. 
 1. Make sure that there aren't any other types of queries that would need the Support team's attention
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to process the refund. They will reply to the customer once done.
@@ -51,6 +52,7 @@ When a customer wishes to cancel their subscription and they are not interested 
 
 When a customer wants to change the contact for current and future purchases
 >**Note:** *Billing doesn't have a vetting process, so we need to vet the customer as far as possible before passing the request*
+
 1. Verify that they are associated with the account / authorised to make the request, by checking the following:
    - if they are a contact in SFDC
    - if their domain name matches the company/previous contact
