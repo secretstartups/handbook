@@ -56,7 +56,7 @@ In the future me might have a single organization for forks. That will allow us 
 Libraries with the following licenses are acceptable for use:
 
 - [MIT License](https://choosealicense.com/licenses/mit/) (the MIT Expat License specifically): The MIT License requires that the license itself is included with all copies of the source. It is a permissive (non-copyleft) license as defined by the Open Source Initiative.
-- [GNU Lesser General Public License (GNU LGPL)](https://choosealicense.com/licenses/lgpl-3.0/) (version 2, version 3): GPL constraints regarding modification and redistribution under the same license are not required of projects using an LGPL library, only upon modification of the LGPL-licensed library itself.
+
 - [Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/): A permissive license that also provides an express grant of patent rights from contributors to users.
 - [Ruby 1.8 License](https://github.com/ruby/ruby/blob/ruby_1_8_6/COPYING): Dual-licensed under either itself or the GPLv2, defer to the Ruby License itself. Acceptable because of point 3b: "You may distribute the software in object code or binary form, provided that you do at least ONE of the following: b) accompany the distribution with the machine-readable source of the software."
 - [Ruby 1.9 License](https://www.ruby-lang.org/en/about/license.txt): Dual-licensed under either itself or the BSD 2-Clause License, defer to BSD 2-Clause.
@@ -76,6 +76,7 @@ Libraries with the following licenses require legal approval for use:
 - [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/): AGPL-licensed libraries cannot be linked to from non-GPL projects.
 - [Open Software License (OSL)](https://opensource.org/licenses/OSL-3.0): is a copyleft license. In addition, the FSF [recommend against its use](https://www.gnu.org/licenses/license-list.en.html#OSL).
 - [WTFPL](http://wtfpl.net): is a public domain dedication [rejected by the OSI (3.2)](https://opensource.org/minutes20090304). Also has a strong language which is not in accordance with our diversity policy.
+- [GNU Lesser General Public License (GNU LGPL)](https://choosealicense.com/licenses/lgpl-3.0/) (version 2, version 3): GPL constraints regarding modification and redistribution under the same license are not required of projects using an LGPL library, only upon modification of the LGPL-licensed library itself.
 
 ### Requesting Approval for Licenses or any other Intellectual Property
 
