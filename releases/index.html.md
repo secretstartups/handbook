@@ -161,7 +161,9 @@ on GitLab.com at the time the release manager decides to finalise the release.
 This can be as early as 5 work days or as late as 1 day before the 22nd.
 This fluctuation comes from a possibility of 22nd being at or right after the weekend
 or instability on GitLab.com in the run-up to the 22nd.
-The release manager preparing the final release will post an announcement in [#releases], [#development](https://gitlab.slack.com/archives/C02PF508L) and [#g_delivery](https://gitlab.slack.com/archives/CCFV016SV)
+The release manager preparing the final release will post an announcement in
+[#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
+[#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW)
 with a link to the final branch.
 
 As mentioned earlier, if it is absolutely necessary to include a certain feature/fix
