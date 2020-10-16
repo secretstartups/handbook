@@ -105,14 +105,14 @@ The following people are permanent members of groups that belong to the Growth s
 ### Retention
 <%= department_team(base_department: "Retention Team") %>
 
-### Fulfillment Backend
-<%= department_team(base_department: "Growth:Fulfillment BE Team") %>
+### Fulfillment Provision Backend
+<%= department_team(base_department: "Fulfillment Provision Team") %>
 
-### Fulfillment Frontend
-<%= department_team(base_department: "Growth:Fulfillment FE Team") %>
+### Fulfillment Purchase Backend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Frontend]) %>
 
-### Fulfillment System Integrity
-<%= department_team(base_department: "Fulfillment SI Team") %>
+### Fulfillment Purchase Frontend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Backend]) %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
@@ -152,7 +152,7 @@ other_manager_roles = [
   'Engineering Manager, Fulfillment',
   'Backend Engineering Manager, Growth:Conversion and Product Analytics, Product Manager (Acting), Product Analytics',
   'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention',
-  'Backend Engineering Manager, Fulfillment'
+  'Backend Engineering Manager, Fulfillment:Provision'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
