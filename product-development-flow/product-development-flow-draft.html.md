@@ -150,7 +150,7 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 |----------------|------------------------------------------------|
 | DRI:           | - Product Manager                              |
 | Collaborators: | - Product Designer <br> - Engineering Manager  |
-| Informed:      | - Customers <br> - Internal stakeholders - TBD |
+| Informed:      | - Customers <br> - Technical Account Manager <br> Product Marketing Manager <br> Other [stakeholders](#stakeholders) as appropriate |
 
 #### Description
 
