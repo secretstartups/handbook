@@ -329,6 +329,41 @@ One of the most unique and interesting aspects of Compliance Next is the ability
 
 ### Compliance Processing Steps for L&D Team
 
+#### Checking Compliance for Offboarded Team Members
+
+The L&D team is tagged in all offboarding issues for GitLab team members. When tagged in an offboarding issue, follow these steps to check completion/license status of appropriate anti-harassment courses.
+
+It is important this step is completed for each offboarding issue, as GitLab pays per license in our WILL learning platform. This compliance check insures that GitLab is aware of, and making use of, all paid licenses.
+
+1. Navigate to the offboarding issue. Copy the users email.
+1. Collect Start Date: Linked to the offboarding issue is a merge request to remove the team members from relevant pages. Review the MR change log to check the start date of the team member. This start date will indicate which WILL learning course the team member would have completed.
+1. Collect Location Information: On the same MR, make note of the team member's location.
+1. Collect Management Information: On the offboarding issue, check for the individuals title at GitLab and determine if they werew a manager of people. If you cannot tell from the offboarding issue, check their Slack profile or refer to the GitLab Org Chart.
+1. Open the WILL learning platform.
+1. Based on the team member's location, management level, and start date, navigate to the WILL learning course they would have been invited to take. For example, team members who manage people, joined GitLab in 2019, and live outside of the USA would have been invited to take the `2019 Anti-Harassment Training for Supervisors` course. Click the `MANAGE` button to enter the course.
+1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL learning license. Please note - if the user does not appear in the first WILL learning course you try, attempt to look for the user in other approriate courses. Note that at this time, there is no function in the WILL learning platform to search all courses at once.
+
+     1. If a search for the user's email address returns a `Finished` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning course finished, no license to revoke`
+     1. If a search for the user's email address returns a `In Progress` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning in progress, cannot revoke license`
+     1. If a search for the user's email address returns a no results, follow the next steps to revoke the license.
+
+1. Revoke License: The following steps should be taken if you cannot find record of the course status for the offboarding team member.
+
+     1. Within the appripriate WILL learning course, click `Invite Participants`
+     1. Under the `pending invitations` section, click `view all`
+     1. Seach the page using the team member's email address
+     1. If the user's name appears in the `pending invitations section`, click the `revoke` link to remove their access to the license.
+     1. On the offboarding issue, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning course not started, license revoked`
+
+1. When you have completed this process, be sure to shut notifications off on the offboarding issue to avoid inbox noise.
+
+
+
+
+#### Supporting New Managers of People at GitLab
+
+#### Supporting Transitioning team members to Managers of People
+
 
 
 </details>
