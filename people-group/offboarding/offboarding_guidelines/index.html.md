@@ -19,7 +19,7 @@ The offboarding process kicks off once a Slack Workflow has been submitted by a 
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.  
 
-In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled to take place on a Friday will see issues being created at 12:00pm PT at which point de-provisioning will commence.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
+In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled to take place on a Friday will see issues being created at 12:00pm PT at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time we encourage team members to consider either the preceding Thursday or the following Monday as an alternative.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
 
 ### Creating the Offboarding Issue
 
