@@ -194,6 +194,8 @@ Please consider the timezone UTC as the standard for all the changes.
 
 The following table has the original schedule for changes based on the criticality level of the component :
 
+Weekdays:
+
 |                  |  10 PM - 6 AM  |  6 AM - 2 PM |  2 PM - 10 PM   |
 | ---------------- | -------------- | ------------ | --------------- |
 |  Criticality 1   |    ALLOWED     |  NOT ALLOWED |  NOT ALLOWED    |
@@ -201,7 +203,11 @@ The following table has the original schedule for changes based on the criticali
 |  Criticality 3   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
 |  Criticality 4   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
 
-Please consider the time slots on the calendar Production, to add change requests to Criticality 1 and 2. The other criticalities please add direct to the calendar.
+Weekends:
+
+No specific restriction about times. If the change risks are high or requires downtime, please schedule it at the least impactful time for our customers (like Sunday 1am UTC, for example)
+
+Please consider the above time slots when posting criticalities 1 and 2 to the Production calendar, for all other criticalities, please add them directly to the calendar.
 
 ## Change Execution
 

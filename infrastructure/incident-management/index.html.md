@@ -15,7 +15,7 @@ If you're a GitLab team member and are looking to alert Reliability Engineering 
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](#who-is-the-current-eoc) section.
 {: .alert .alert-info}
 
-If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call) section.
+If you're a GitLab team member looking for the status of a recent incident, please see the incident [board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?&label_name[]=incident). For detailed information about incident status changes, please see the [Incident Workflow](#incident-workflow) section.
 {: .alert .alert-info}
 
 ## Incident Management
@@ -33,7 +33,7 @@ resolution. To that end, incident management provides:
 1. a **root-cause analysis** (RCA),
 1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
-When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication.  There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication.  There should be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel.  We prefer to keep status updates and main comments in a thread from that issue announcment.  This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
+When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
 
 
 ### Ownership
