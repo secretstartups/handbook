@@ -117,6 +117,12 @@ The agenda for the meeting is:
 1. Bugs list
 1. Technical debt items arising
 
+In Release Management we use three labels to indicate product priorities: 
+
+- `Release::P1`, which is the current milestone's top focus and will often have a `~Deliverable` label as well. 
+- `Release::P2`, is the next milestone's top focus and will be assigned a `~Release::P1` in the following milestone.
+- `Release::P3`, are future priorities that can be escalated into a sooner milestone. 
+
 #### Build
 
 We use the [Build boards](#build-board) to look at _cicd::active_ issues in the current milestone labeled with _group::release management_.
