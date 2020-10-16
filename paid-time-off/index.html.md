@@ -141,13 +141,12 @@ Team members may request an unpaid leave of absence by working with their manage
 
 ### Communicating Other Status Using PTO Ninja
 
-![picture-of-other-OOO-types](/handbook/paid-time-off/other_OOO_types.png)
+Other OOO options include;
+- Mandatory Civilian Services 
+- Family and Friends Day 
 
-These other types of OOO categories, should be used when you'll be away from your desk for one or two hours during your work-day. They are self-approved and do not count as PTO. You can choose them for an hour or more and they will be added to your Gsuite calendar automatically and Slack status at the time your OOO is effective. This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too.
+These other types of OOO categories, are to be used on Family and Friends day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
-A few examples of when you can use this, is for family time, a workout, when you are running errands, home-schooling, a customer visit, mandatory Civilian Service, or something similar which does not count as PTO. These categories are used for when you plan to complete your full working day but may need to step away at some point in your day or are otherwise occupied at an event that counts for a working day.
-
-If you need to take a half day or full day to do things listed in these categories, then please select PTO and not one of these catagories.
 
 ### PTO Ninja
 
@@ -171,7 +170,7 @@ Please be aware that new team members' PTO Ninja accounts are activated and sync
 * The **Vacation** OOO type in PTO Ninja syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
 * The **Out Sick** OOO type in PTO Ninja syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
 * The **Parental Leave** OOO type in PTO Ninja syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
-* The **Public Holiday**, **Bereavement**, **Customer Visit**, **Conference**, **Mandatory Civilian Service**, **Family Time**, **Self Care**, **Workout**, **Away from Screen**, **Homeschooling** and **Family & Friends Day** OOO types in PTO Ninja do not sync to BambooHR.
+* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family & Friends Day** OOO types in PTO Ninja do not sync to BambooHR.
 
 #### Additional Features
 
