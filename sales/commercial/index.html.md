@@ -259,7 +259,7 @@ Support will take the lead on all incoming requests in the queue and only forwar
 
 #### Licensing/Subscription Management
 
-> Note: if you need access to a system, [open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request)
+> Note: if you need access to a system, [open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 
 License Key Management for On-Premise Trials & Subscriptions
 
