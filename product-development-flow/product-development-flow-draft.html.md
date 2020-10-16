@@ -62,7 +62,9 @@ Throughout this workflow you'll see reference to "Stakeholders" and you may be w
 - Is directly or indirectly impacted 
 - Has the ability to stop, delay, or cancel 
 
-Examples of stakeholders include leadership, Sales, Customer Support, and Customer Success but you may have stakeholders in any area of GitLab depending on your focus area and the specific issue. You may also have stakeholders outside of GitLab for scenarios where a feature is being developed for a specific customer or set of customers. 
+Examples of stakeholders include Leadership, Sales, Marketing, Customer Support, and Customer Success but you may have stakeholders in any area of GitLab depending on your focus area and the specific issue. You may also have stakeholders outside of GitLab for scenarios where a feature is being developed for a specific customer or set of customers. 
+
+It is recommended to involve your stakeholders throughout the product development flow, utilizing their input for initial ideas of problems to focus on,  problem validation, solution validation, and feedback once an initial solution has been developed. 
 
 ## Workflow Summary
 <kbd class="required">Required 🔎</kbd>
