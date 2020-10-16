@@ -66,7 +66,7 @@ All full-time GitLab team members are eligible for disability cover in the amoun
 
 ## Bike to Work/Tax Saver Commuter Scheme
 
-GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at (TODO register for the link). Team members will need to register and account to enter the GitLab specific online portal. 
+GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at (TODO register for the link). Team members will need to register and account to enter the GitLab specific online portal. Here is a link to TravelHub's [FAQs](https://support.hubex.ie/hc/en-ie/articles/360044040031) about these programs.  
 
 **Bike Applications:**
 
