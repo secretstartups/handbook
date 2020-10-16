@@ -30,22 +30,6 @@ It is commonly used in succession planning as a method of evaluation an organiza
 It is regularly considered a catalyst for robust dialogue (through a calibration process) and is considered more accurate than one person's opinion.
 The performance/potential matrix can be a diagnostic tool for career development.
 
-### Performance/Potential Overview
-
-Below are examples for Managers to consider when compiling their criteria set, some of which speak to productivity and others to potential giving a balanced sense of where the team member should be placed in the matrix:
-
-| Criteria | Points for Consideration |
-| --- | --- | 
-| **Output Delivery** | Is the team member consistently able to produce adequate results within the predefined scope of their role - consider this in parallel with applicable Job Family. |
-| **Solution Centricity** | Is the team member able identify solutions and achieve results in an innovative way, is there an awareness of over-arching company strategies and are they contributing in some way to the achievement of them. |
-| **Core Value Alignment** | Does the team member consistently demonstrate the core [GitLab Values](https://about.gitlab.com/handbook/values/), always operating within the best interests of the company and those who work in it. |
-| **Self-Directed Career Mobility** | is the team member able to learn and adapt quickly - applying the knowledge gained to overcoming challenging situations and achiving the desired results. |
-| **Leadership Competencies** | Does the team member exhibit the [competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) required to become a Manager / Leader within GitLab and if so do they require further development in these areas. |
-| **Promotion Readiness** | Is the team member ready to move into a more senior role within GitLab - if not what would you consider the time frame for development to be. |
-| **Team Dynamics** | Does the team member collaborate well with other team members, peers, and stable counterparts? Are they someone people are happy to work with? Data sources for this information can be a variety of things, ranging from 360 feedback, observations in team meetings, 1:1 conversation/feedback, etc.|
-
-We elaborate on these points below when breaking providing a more in depth overview of performance measurement criteria and potential measurement criteria. 
-
 ## What is "Performance"?
 
 Performance is broken into three areas: Developing, Performing, and Exceeding.
