@@ -11,25 +11,15 @@ title: Learning & Development Newsletter
 
 ## Overview
 
-Welcome to the Learning & Development (L&D) Newsletter page! The L&D Team is launching a quarterly newsletter in FY21-Q4 that recaps important learning related information from the previous quarter and highlights important information for the upcoming quarter. The main goal of this communication is to **help team members prioritize learning** and have a [growth mindset](/handbook/values/#growth-mindset). 
+This page covers the process our Learning and Development (L&D) team follows for creating the quarterly L&D Newsletter! 
 
-## Target Audience
-
-This newsletter has content that is relevant for all GitLab team members. 
-
-## Past Newsletters
-
-| **Edition** | **Date Released** | **Highlights** |
-| ------ | ------ | ------ |
-| [FY21-Q4](link) | TBA | TBA |
-| [FY22-Q1](link) | TBA | TBA |
-
+To see currently availble editions of our L&D Newsletter, see our [Learning Culture]() page. 
 
 ## Newsletter Process 
 
 The newsletter is live **on the first Wednesday of each Quarter.**  
 
-We build the newsletter in an issue in the [Learning & Development project](https://gitlab.com/gitlab-com/people-group/learning-and-development). The process for the issue includes: 
+We build the newsletter in an issue in the [Learning & Development Newsletter project](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter). The process for the issue includes: 
 - The issue for the upcoming newsletter is opened at least three weeks before the publish date. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
 - Once the outline is complete, L&D team drafts the newsletter in a WIP MR. 
