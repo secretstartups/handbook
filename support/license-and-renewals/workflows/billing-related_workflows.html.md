@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Billing-related Workflows
-category: License and subscription
+category: General
 ---
 
 ## On this page
@@ -21,10 +21,14 @@ These workflows outline the steps for working on a ticket that would require act
 ### Refunds:
 
 When a customer wants a refund and their purchase is [eligible for a refund](/terms/) (within the 45 day refund period).
->**Note:** *There may be special circumstances where we may be able to request a refund 
+>**Note:** *There may be special circumstances where we may be able to request a refund
 outside of the eligibility window - if you believe a case qualifies for this, CC a manager for approval.*
+<<<<<<< HEAD
 
 1. Determine the reason that they're cancelling and requesting a refund. 
+=======
+1. Determine the reason that they're cancelling and requesting a refund.
+>>>>>>> 990de9bb3d0... Update categories
 1. Make sure that there aren't any other types of queries that would need the Support team's attention
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to process the refund. They will reply to the customer once done.
 
@@ -35,7 +39,7 @@ Note: we cannot do partial refunds, so when a refund is requested, the whole sub
 ### Renewal reversal:
 
 When a customer has accidentally renewed twice or mistakenly
-1. Determine the reason that the renewal has to be reversed 
+1. Determine the reason that the renewal has to be reversed
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR, they will reverse the renewal so that the subscription is in the same state as before the renewal and refund the renewal if applicable
 
 ----
@@ -85,8 +89,8 @@ When a customer wishes to modify their invoice for tax or administration purpose
 
 ### Zuora entity change
 
-When billing processes an [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity), billing creates a second Zuora account for the customer, with a different entity than the original. 
+When billing processes an [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity), billing creates a second Zuora account for the customer, with a different entity than the original.
 
-When an entity change happens at renewal, it can impact how licenses are generated. If you are troubleshooting a license issue, check Zuora to see if there are 2 accounts with different entities to confirm if an entity change took place. 
+When an entity change happens at renewal, it can impact how licenses are generated. If you are troubleshooting a license issue, check Zuora to see if there are 2 accounts with different entities to confirm if an entity change took place.
 
 The issue that we will see more often is the renewal license not generated with previous users or trueups. In the event of the license being impacted by the entity change, we can assist with a manual license.

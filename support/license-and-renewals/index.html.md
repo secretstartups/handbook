@@ -34,3 +34,8 @@ managers currently actively involved are:
 * Shaun McCann (Overall DRI)
 * Ronnie Alfaro
 * Wei-Meng Lee
+
+## Workflows
+
+* [License & renewals workflows](workflows/index.html)
+* [Internal policies and procedures wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home)

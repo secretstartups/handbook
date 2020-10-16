@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Working with Sales
-category: License and subscription
+category: General
 ---
 
 ## On this page

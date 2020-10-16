@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Customer Console
-category: License and subscription
+category: CustomersDot
 ---
 
 ## On this page

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: License and Renewal Queue Workflow
-category: License and subscription
+category: Working L&R requests
 ---
 
 ## On this page
@@ -58,58 +58,9 @@ When we look at the product [Growth](/handbook/product/product-categories/#growt
 - All our documented L&R workflows can be found [in this section](https://about.gitlab.com/handbook/support/workflows/#License%20and%20subscription)
 - As you work through the queue and on issues, if you spot something in the [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment) that would makes things better for customers and Support, please don’t forget to label it with `Support Priority` - this helps the product team in prioritising for the next milestone.
 
-### Servicing Internal Requests
-
-Follow the same [General Workflow](/handbook/support/workflows/internal_requests.html#general-workflow) as dotcom for servicing L&R internal requests.
-
-#### L&R Internal Requests Hawk
-
-There is a internal requests hawk role which rotates on a weekly basis which
-serves as a temporary measure to make sure internal requests tagged with
-the following labels receive the appropriate attention from Support:
-
-* `Associate Subscription Console Escalation::Customers` - Workflow to be documented
-* `Billable Members` - Workflow instructions on template
-* `Console Escalation::Customers` - Workflow to be documented
-* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/workflows/assets/troubleshooting_eulas.html)
-* `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html)
-* `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
-* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html#transactions)
-* `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
-
-When on this role, prioritize working on internal request issues over Zendesk tickets.
-The general workflow guide is:
-
-1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR).
-1. Pick an issue to work on/response to and assign this to yourself.
-1. Repeat step 1 and 2 until there are no longer any unassigned issues.
-1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee if follow up action needs to be taken.
-
-You will continue to be responsible for any issues assigned to yourself even
-after you're off the role, so be mindful about working sustainably. If you need
-to, ask for others to help with unassigned issues -- the expectation is that
-GitLab Support as a team should be responding timely to internal requests, not
-you personally as the L&R Internal Requests Hawk.
-
-You'll only be expected to work your usual work hours while doing this role. There
-is a [PagerDuty schedule](https://gitlab.pagerduty.com/schedules#PQ6DB1G) set up
-solely to facilitate tracking/swapping of shifts. It is in no way an indication of
-actual hours of work.
-
-
 #### [GitLab.com Billable Members List](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md)
 
 Use the [rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl#rollcall) and obtain a list of members for the group. If the script doesn’t work, or shows discrepancies, involve someone with console escalation access by applying the `Console escalation::GitLab.com` label in the issue.
-
-#### Trial Extensions
-
-##### [Plan Change Request Workflow](/handbook/support/workflows/trial_extensions.html#plan-change-request)
-##### [Extend Gitlab.com Trials Workflow](/handbook/support/workflows/trial_extensions.html#extending-gitlabcom-trials)
-##### [Extend Self-Managed Trials Workflow](/handbook/support/workflows/trial_extensions.html#extending-gitlab-self-managed-trials)
-
-#### Send/Resend EULAs
-
-Follow the [Troubleshooting EULAs](/handbook/support/workflows/assets/troubleshooting_eulas.html) workflow to action EULA related internal requests.
 
 #### Assistance with License & SaaS Subscription Issues
 
@@ -122,10 +73,6 @@ Checkout the relevant topics in our [L&R internal wiki](https://gitlab.com/gitla
 - For generalized license related questions, you can ask via the `#questions` channel in slack.
 - For issues relating to the product that handles licensing, redirect them to `#s_fulfillment` channel in slack.
 - If the question pertains to a specific customer issue and the circumstances are such that you do not want to ask the customer to [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293), you can [open an internal issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `License Issue` template for assistance.
-
-### What is the SLA for an L&R ticket?
-
-Currently, the SLA for L&R tickets is 24 business hours.
 
 ### How/when do I escalate an L&R ticket?
 

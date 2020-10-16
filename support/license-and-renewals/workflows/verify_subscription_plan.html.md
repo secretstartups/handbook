@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab.com Subscriptions
-category: License and subscription
+category: Legacy pages
 ---
 
 ## On this page
@@ -64,9 +64,6 @@ To process an upgrade:
 1. In SalesForce, locate their account and find the *Account Owner*
 1. Reply to the upgrade request ticket in ZD (or create a new one) and CC the
    account owner.
-
-### Refunding an account
-Please see the [handling refund requests workflow](https://about.gitlab.com/handbook/support/workflows/billing-related_workflows.html#refunds)
 
 ### Refunds processed as % of orders
 
