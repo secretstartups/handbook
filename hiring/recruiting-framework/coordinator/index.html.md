@@ -71,7 +71,8 @@ The CES team operates off of a queue style system with differing levels of prior
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse   
    - CES will be using the Zoom integration with Greenhouse for interviews
-- CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)
+- CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)+
+   - 
 - CES will not automatically schedule next interviews based off of scorecards 
    - The Recruiter or Hiring Manager will need to tag `@ces` in Greenhouse with communication about specific next steps
    - Any candidates who receive a no or definitely not scorecard should be discussed with the Recruiter and the Hiring Manager before declining.
@@ -113,6 +114,27 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 1. Press configure
 1. The requisition will automatically be added to the stage templates
 
+**Setting up a new requisition to Guide Templates**
+
+1. Hide all stages that are not candidate facing (Application Review, Justification, any Assessments the team doesn't want visible, etc.)
+   - Navigate to the `^` on the right hand side of the stage
+   - Check the `Hide this stage for candidates`
+1. Use the `^` on `Trigger Team Interview Stage` to view all of the interview titles 
+   - Edit any Interview Titles to be externally facing (delete multiple names, extra verbiage, etc.)
+1. If there is a `Technical Interview` or `Demo`, update the Interview Details with any necessary information for the technical interview or demo. 
+   - Hover cursor to the right of the Interview Title and `Edit` will appear
+   - Click `Edit` and add the necessary details for the Demo or Technical Interview to the `Description` box.
+      - If the specific insructions are sent by the interviewer/hiring team, note that and a timeframe (if known) in this field.
+      - Example: The instructions for your Technical interview for the Backend Engineering, Verify position will be sent to you at least 72 hours before your scheduled interview. 
+   - Click `Save` to save the information on the template
+1. Add an Email Action to all stages that are visible to the candidate
+   - Click the `Add an Email Action to` blue + sign
+   - Select the correct template used for that stage or most of the communication for that stage
+      -i.e for Reference and Background Stage, select the `Reference and Background Check` template
+1. Select the correct Base Stage Template is selected for each Stage
+   - Navigate to the `^` on the right hand side of the stage
+   - Select the cooresponding template under `Base Stage Template`
+
 **Preparing interviewers on Guide website**
 
 1. Login on guide.resource.io
@@ -127,6 +149,14 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
 1. Select Preview and Send and ensure the correct Email Template is being used in the dropdown.  
+1. Select Send
+1. To make the chrome extension go away, click on the icon in the upper right corner again
+1. After the Guide is sent, in Greenhouse, select the dropdown where you go to request availability, confirmation, etc. and select the ‘Confirmation Sent’
+
+**How to send out a Guide to a candidate for a Demo or Technical Interview via Greenhouse**
+
+1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
+1. Select Preview and Send and ensure the Email template used is `Interview Confirmation- Demo or Technical Interview`
 1. Select Send
 1. To make the chrome extension go away, click on the icon in the upper right corner again
 1. After the Guide is sent, in Greenhouse, select the dropdown where you go to request availability, confirmation, etc. and select the ‘Confirmation Sent’
