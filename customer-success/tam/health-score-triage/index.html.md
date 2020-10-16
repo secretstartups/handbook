@@ -111,7 +111,7 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | - Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days <br>- Red: > 60 days | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days | 10% |
 | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information <br>- Red: No Success Plan | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
