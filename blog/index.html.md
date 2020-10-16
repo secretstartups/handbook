@@ -120,7 +120,7 @@ If your pitch isn't accepted, no problem! The Editorial team will suggest that y
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to @rebecca. She will assign a member of the Editorial team to review the post.
 
-Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @vsilverthorne or @skassabian for review.
+Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @rebecca or @skassabian for review.
 {: .alert .alert-info .note}
 
 Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/growth-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
@@ -141,13 +141,13 @@ If you have already followed those directions in the [PR handbook](/handbook/mar
 1. **If you need assistance with drafting the post or creating the MR, please make this clear in your issue and we will confirm if this is possible within your timeframe.**
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Be sure to check the review app for your blog post or preview it locally to ensure images, headlines, etc. are formatted correctly before handing over.
-1. When your MR is ready for review, please assign it and the corresponding issue to @rebecca (or @vsilverthorne or @skassabian if Rebecca is OOO) a _minimum_ of two working days ahead of when you expect to publish. **Please submit your MR earlier if you can**.
+1. When your MR is ready for review, please assign it and the corresponding issue to @rebecca (or @skassabian if Rebecca is OOO) a _minimum_ of two working days ahead of when you expect to publish. **Please submit your MR earlier if you can**.
 1. When you've assigned your MR and issue to a reviewer, please change the due date on the issue to reflect the publishing date.
 1. Your reviewer may leave comments for you to address, in which case they will assign the MR back to you. When you have resolved all outstanding discussions, assign the MR back to the reviewer for final review and merging.
 
 #### Who to assign your MR to – urgent posts
 
-Please assign first to @rebecca. If she is OOO, assign to @vsilverthorne/@skassabian. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/product-categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
+Please assign first to @rebecca. If she is OOO, assign to @skassabian. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/product-categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
 
 Continuous delivery mindset: With time-sensitive posts, don't wait to publish a post if you have enough information to go live. It's OK to publish a headline and paragraph to get the news out in a timely matter and add more details later (e.g. add more graphics, charts, etc.). We don't want to miss out on a news cycle because we're waiting for an image or supplementary information.
 {: .alert .alert-info}
