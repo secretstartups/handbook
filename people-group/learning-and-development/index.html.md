@@ -344,7 +344,8 @@ It is important this step is completed for each offboarding issue, as GitLab pay
 1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL learning license. Please note - if the user does not appear in the first WILL learning course you try, attempt to look for the user in other approriate courses. Note that at this time, there is no function in the WILL learning platform to search all courses at once.
 
      1. If a search for the user's email address returns a `Finished` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning course finished, no license to revoke`
-     1. If a search for the user's email address returns a `In Progress` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning in progress, cannot revoke license`
+     1. If a search for the user's email address returns a `In Progress` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning in progress, cannot revoke license`. Email our WILL learning rep to request a refund of the license.
+      1. If a search for the user's email address returns a `Not Started` status, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning in progress, cannot revoke license`. Email our WILL learning rep to request a refund of the license.
      1. If a search for the user's email address returns a no results, follow the next steps to revoke the license.
 
 1. Revoke License: The following steps should be taken if you cannot find record of the course status for the offboarding team member.
@@ -356,7 +357,6 @@ It is important this step is completed for each offboarding issue, as GitLab pay
      1. On the offboarding issue, check the de-provisioned box on the offboarding issue, and comment on the issue `WILL learning course not started, license revoked`
 
 1. When you have completed this process, be sure to shut notifications off on the offboarding issue to avoid inbox noise.
-
 
 
 
