@@ -11,7 +11,7 @@ title: Learning Initiatives
 
 ## Learning Initiatives Introduction
 
-The Learning & Development team is rolling out learning programs to enable a [culture of curiosity and continual learning](/handbook/values/#growth-mindset/). The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics. 
+The Learning & Development team is rolling out learning programs to enable a [culture of curiosity and continual learning](/handbook/values/#growth-mindset). The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics. 
 
 ## Monthly Continuous Learning Call Overview
 
