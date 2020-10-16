@@ -19,15 +19,15 @@ It's currently still a very basic tool that tries to replace the previous/curren
 The tool is in active development and is currently only available for those asked to trial the tool. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
 {: .alert .alert-info}
 
-To use it, you can sign up with a GitLab email address - note: this needs to be your email address that is also known on BambooHR. This is needed as we need to fetch some data from BambooHR.
+#### Current Sign Up Process
+- To use the tool, you can sign up with a GitLab email address via [this link](https://gitlab-people-engineering-assessment-tool.35.231.0.140.nip.io/). _Note: The email address you sign up with needs to be your email address that is known in BambooHR. This is needed as we fetch data from BambooHR._
+- Once you've signed up, you will receive an email to confirm your account. When you confirm, your email address will be automatically linked with your BambooHR ID (that we later will use to fetch data from BambooHR).
 
-Once you've signed up, you will receive an email to confirm. When you do this, it will link your email address with your BambooHR ID (that we then later on will use to fetch data from BambooHR itself).
+_Note: There's [an open issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/-/issues/20) to look into using Okta as the authentication method._
 
-There's [an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/-/issues/20) to look into using Okta as the authentication method.
+### Data Used From BambooHR
 
-### Data used from BambooHR
-
-The tool uses BambooHR as the single source of truth for all the team members data. It has read-only access to the following fields:
+The tool uses BambooHR as the single source of truth for all the team members data. It has `read-only` access to the following fields:
 
 - Name
 - Email
@@ -35,45 +35,107 @@ The tool uses BambooHR as the single source of truth for all the team members da
 - Department
 - Job Title
 - Region (Americas, EMEA or JAPAC)
-- Supervisor
-- Status
+- Manager
+- Employment Status
 - Date of Birth
 - Entity
 - GitLab username
 - Gender
 
-It has write access to the following fields:
+It has `write` access to the following fields:
 - Performance factor
 - Potential factor
 
-The access level for the API token is approved by the Total Rewards Team, if more access is needed an Access Request needs to be created.
+The access level for the API token is approved by the Total Rewards Team. If additional access is needed, an Access Request needs to be created.
 
-The tool does not display the gender or date of birth with an individual it is used in an aggregated way to show statistisc about
-tendencies with the assessments. 
+The tool does not display gender or birth dates for individuals, but rather uses this information as aggregate data for reporting. 
 
 We follow our [confidentiality rules](https://about.gitlab.com/handbook/people-group/engineering/#confidentiality) for this project and mirror it to a private project on ops.gitlab.net.
 
-### How to use the tool
+### How To Use The Tool
 
-#### Individual Contributor
+#### Individual Contributors
 
-As an individual contributor, you don't need to do anything. Your manager will be asked to use the tool and make their assessments.
+As an individual contributor, you are not required to sign up for or use the tool. Your manager will be asked to use the tool to make their recommendations and assess. 
 
-#### As a People Manager
+#### People Managers
 
-It is recommended you first read up on [what 9 box assessments at GitLab are](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/).
+Before creating an account, it is recommended that you read up on [what Performance/Potential Assessments at GitLab are](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/).
 
-Once you're ready, you need to create an account (see "Creating an Account" section) and can start doing the assessments.
-When you save the assessments, they will be visible for your manager (and their manager and so on).
+Once you're familiar with the process, you need to create an account (see "Creating an Account" section) to begin assessments.
 
-Note: that for directors and up, there is an extra option to **confirm** the assessments. This is a way to say that the assessment
-has been _approved_. In a future iteration, we could decide to send the box to BambooHR (like we do for compa level).
+**Please note that you will not be able to begin assessments until your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) initiates the assessment round for your department.**
 
-#### As a People Business Partner
+##### Steps For Managers When Assessing Team Members 
+
+1. Click "Assess your team members within [TEAM]"
+1. Click `Open Box View`. This will take you to the Performance/Potential axis view for your team members. 
+1. If you are managing other managers, you can check and uncheck the filter for `Direct Reports Only` to view your direct reports only. 
+1. On the left side, you will see an overview of all the team members who directly or indirectly report to you.
+1. You can filter your view for `Division`, `Department`, `Roles`, and `Team`. By clicking the "x" next to the filter you can "unfilter" and revert back to the full overview. 
+1. The colors indicate the location of the team members. We use this to create awareness pertaining to potential [unconscious bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) with regards to locations and regions.
+1. After familiarizing with the tool, you're ready to assess your team members and place them in the appropriate box. (Example: Developing performing with High potential would be aligned with the bottom right box, or box 6).  
+1. When hovering over the box numbers you can view the definition, actions, and meaning for each box. This is aligned with the training material provided in [this slide deck](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44). 
+1. If you prefer to review team members in a table view, you can click the button in the top left that reads `table view mode`.
+1. By clicking `assess` behind the team members' name, you will be asked to `Assess Potential` from a drop down menu and `Assess Performance` from a drop down menu. 
+1. After completing the assessment of all team members in box view mode or table view mode, click `save changes`.
+1. Finally, you can start preparing for the [callibration meeting](/handbook/people-group/performance-assessments-and-succession-planning/#calibration-session) to discuss the assessments of your team members and calibrate.  
+
+Note: For Director level and up, there is an extra option to **confirm** the assessments. This is a way to communicate that the assessment
+has been _approved_.
+
+#### People Business Partners
 
 If you have any direct reports, you will also be able to use the tool to assess your team members. However, you will also have access
-to assess all the team members that are within your PBP responsibilities. Currently we decided that you have full access to also
-assess these team members - instead of just giving read access to this data.
+to assess all the team members that are within your People Business Partner (PBP) client group. 
+
+##### Steps For PBPs To Initiate Assessment Periods
+
+1. Log in to the tool via [this link](https://gitlab-people-engineering-assessment-tool.35.231.0.140.nip.io/) 
+1. Click `Start a new round` in the top right corner
+1. Select the Department you want to start the Assessment round for from the drop down menu
+1. Enter the start and end date of the Assessment round. The handbook provides a period [ranging between 4-6 weeks](/handbook/people-group/performance-assessments-and-succession-planning/#matrix-assessment-timeline) for the full assessment process. 
+1. Determine if you want to `Enable Succession planning`. This function will give you and your managers the opportunity to add `Emergency contact` status as well as `Promotion readiness`. General recommendation is to enable [succession planning](/handbook/people-group/performance-assessments-and-succession-planning/#succession-planning), as it is not possible to turn this feature on after the assessment period has started. 
+1. Determine the `Cut off date`. _Note: This is only needed if you want to exclude team members with a hire date after the determined cut off date. For example, to exclude team members hired after October 31st in the review cycle for Q4, October 31st would be the "cut off date".
+1. Click `Create Assessment Round` when all details are filled in. 
+
+The review round for the department has now been created and managers can sign in within the tool and perform their assessments. 
+
+
+#### Workflow Process For The Tool
+
+```mermaid
+graph TD
+    A[2020-10-15 - PBP signs up with the tool]:::PBP -->B[2020-11-01 - PBP kicks off the Assessment period for the department aligned with steps above]
+    B:::PBP --> C[2020-11-01 - PBP determines start and end data of the assessment]
+    C:::PBP --> D[2020-11-01 - Managers sign up with the tool]
+    D:::CLIENT --> E[2020-11-01 - Managers would only be able to see their teams]
+    E:::CLIENT --> F{2020-11-XX - Assessment period starts}
+    F:::POPS -->|PBP| G[Sets up the calibration meetings]
+    F:::CLIENT -->|Managers| H[Start the assessment for their team members]
+    G:::PBP --> I[Calibration meeting takes place]
+    H:::CLIENT --> I[Calibration meeting takes place]
+    I:::TR --> J[2020-11-29 - Data is extracted into aggregated overview for analysis] 
+    J:::PBP --> K[2020-11-30 - PBP discusses with managers/leadership]
+    K:::CLIENT --> L[2020-11-30 - Performance/Potential reviews are finalised]
+    L:::CLIENT --> M[2020-11-30 - E-Group member/Senior Leadership signs off on the assessments]
+    M:::PBP --> N[2020-11-30 - Approval is obtained via tool or sheets]
+    N:::PBP --> O[2020-12-01 - PBP clicks send to BambooHR]
+    O:::PBP --> P[2020-12-01 - End of Tool cycle]
+
+
+classDef PBP fill:#D8BFD8, stroke: #333
+classDef CLIENT fill:#FFF8DC, stroke: #333
+classDef TR fill:#B0E0E6, stroke: #333
+classDef POPS fill:#90EE90, stroke: #333
+classDef EGROUP fill:#FFE4E1, stroke: #333
+
+
+    Q[BambooHR sync] --> R[Visibility in BHR is set to managers only]
+    R --> S[Managers have time to discuss final assessment with team members]
+    S --> T[Due date for discussions pass]
+    T --> U[Visibility is turned on example on January 2]
+```
 
 ### Feedback and/or Bugs
 
