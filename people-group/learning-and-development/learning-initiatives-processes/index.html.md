@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Learning Initiatives
+title: Learning Initiatives Processes
 ---
 
 ## On this page
