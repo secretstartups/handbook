@@ -96,15 +96,8 @@ TAMs update TAM Sentiment in determining overall account health. The guidelines 
 
 - **TAM Sentiment**: Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
 
-To update a customer's TAM Sentiment:
-
-1. Update it directly from the customer list on your dashboard (scroll to the right if you don't see them), OR
-2. Update it from the account's scorecard, OR
-3. Update it while logging an activity/timeline event (call, etc.)
-
-If you would like to add a note corresponding to the health score (recommended), go to the account's scorecard and click on the TAM or Sentiment. Then click the plus button, choose "Update" or "Call", then input your notes and log.
-
-Please note that if you update a health score from logging an activity (such as in the above example), the change will not be reflected for the account until the following day. If you change it directly from your dashboard or the account's scorecard, it will update immediately.
+The TAM Sentiment score will be updated each time you [log a Timeline activity](handbook/customer-success/tam/gainsight/timeline/) and select a value from the TAM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the TAM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. 
+**Note:** The rule that sets the scorecard value runs every 2 hours
 
 You will receive CTAs automatically to update health scores if they are out of date (monthly for Enterprise accounts and quarterly for Commercial).
 
@@ -116,23 +109,23 @@ Health score criteria is either manually or automatically applied to determine t
 
 ##### Enterprise 
 
-| Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
+| Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | <ul><li>Green: <= 30 days</li> <li>Yellow: > 30 days and <= 60 days</li> <li>Red: > 60 days</li></ul> | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | <ul><li>Green: Active Success Plan with 1+ objective and Strategy/Highlights </li><li> Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information </li><li> Red: No Success Plan</li></ul> | 10% |
-| Support Issues | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | <ul><li>Green: 1-5 tickets/month</li> <li>Yellow: 5-15 tickets/month</li> <li>Red: \>15 tickets/month</li></ul> | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual | TAM manually determines red/yellow/green | 75% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | - Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days <br>- Red: > 60 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information <br>- Red: No Success Plan | 10% |
+| Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
 
 
 
 ##### Commercial
 
-| Category                                                     | Description                                                  | Method    | Calculation                                                  | Weighting |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | Mid-Market >=50k ARR:<ul><li>Green: <= 30 days</li> <li>Yellow: > 30 days and <= 60 days</li> <li>Red: > 60 days</li> <br/> Mid-Market <50k and >=20k ARR: <ul><li>Green: <= 90 days</li> <li>Yellow: > 90 days and <= 120 days</li> <li>Red: > 120 days</li> | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | <ul><li>Green: Active Success Plan with 1+ objective and Strategy/Highlights </li><li> Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information </li><li> Red: No Success Plan</li></ul> | 10% |
-| Support Issues | Assess the health of our support interactions.<br />Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | <ul><li>Green: 1-5 tickets/month</li> <li>Yellow: 5-15 tickets/month</li> <li>Red: \>15 tickets/month</li></ul> | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual | TAM manually determines red/yellow/green | 75% |
+| Category | Description | Method | Calculation | Weighting |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | Mid-Market >=50k ARR:<br>- Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days<br>- Red: > 60 days<br><br>Mid-Market <50k and >=20k ARR:<br>- Green: <= 90 days<br>- Yellow: > 90 days and <= 120 days<br>- Red: > 120 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights<br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information<br>- Red: No Success Plan | 10% |
+| Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
 
 
 #### Triage CTA
