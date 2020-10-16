@@ -66,7 +66,26 @@ All full-time GitLab team members are eligible for disability cover in the amoun
 
 ## Bike to Work/Tax Saver Commuter Scheme
 
-We are working through the administrative details of supporting bike to work/tax saver commuter scheme. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167).
+GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at (TODO register for the link). Team members will need to register and account to enter the GitLab specific online portal. 
+
+**Bike Applications:**
+
+1. Once your account is created, select a Bike to Work Ltd partner shop. 
+1. Pick the new bike and accessories if required. 
+1. Upload the quote received from the bike ship to the TravelHub portal to have the order approved. 
+1. The Total Rewards team will review to approve the application. 
+1. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike using a Salary Sacrifice Agreement. 
+
+**Ticket Applications:**
+
+1. Once your account is created, select a Travel Operator. 
+1. Select either a monthly or yearly ticket. 
+1. Submit the travel ticket to the TravelHub portal to have the order approved. 
+1. The Total Rewards team will review to approve the application. 
+1. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the ticket using a Salary Sacrifice Agreement. 
+1. Note: There is a 4% (plus VAT) booking fee for annual tickets and a 10 EUR (VAT inclusive) booking fee for monthly tickets paid for by the team member by being added to the price of the ticket. 
+
+Once the total rewards team has approved the bike or ticket application, an invoice is generated. Once payment as been received, TravelHub emails the team member a voucher to use in the bike shop or tickets are dispatched in to the team member. 
 
 ## GitLab Ireland LTD Leave Policy
 
