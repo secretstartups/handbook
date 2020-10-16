@@ -359,11 +359,26 @@ It is important this step is completed for each offboarding issue, as GitLab pay
 1. When you have completed this process, be sure to shut notifications off on the offboarding issue to avoid inbox noise.
 
 
-
 #### Supporting New Managers of People at GitLab
+
+When new team members join the GitLab team as managers of people, the L&D team helps remind the user to take the assigned WILL learning anti-harassment course.
+
+1. The employment bot will open a new issue for team members who are joining as managers of people
+1. Comment on this issue and tag the new manager with a friendly reminder to take their anit-harassment WILL learning course.
+1. You can use the steps in the `Checking Compliance for Offboarded Team Members` section to determine if the new manager has completed the course.
+1. If the user has already completed the course, consider posting a friendly thanks on their issue.
+1. Unfollow the employment issue to avoid future inbox noise.
 
 #### Supporting Transitioning team members to Managers of People
 
+When current team members transition to roles and are managers of people, the L&D team assigns a new anti-harassment course in WILL learning for the team member to complete.
+
+1. The employment bot will open a new issue for team members who are transitioning to managers of people
+1. Locate the user's location using their Slack or GitLab profile.
+1. In WILL learning, navigate to the approripate training for supervisors based on their geographical area.
+1. In the course, click `Invite Participants` and copy the sharable link.
+1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL learning.`
+1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in the past. If they did not complete the course, follow steps to revoke their license.
 
 
 </details>
