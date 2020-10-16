@@ -577,7 +577,7 @@ following files:
 1. If a category changes, you need to replace it in all posts. Here's a one-liner command you can run:
 
     ```sh
-    find .sites/marketing/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
+    find . sites/marketing/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
     ```
 
     where `old` is the old category and `new` is the new one.
