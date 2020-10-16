@@ -316,19 +316,20 @@ The full company tech stack list with definitions can be found on the [Business 
   Sales Operations Case Management
 </summary>
 
-What:
+**What:**
 Salesforce case management system to enable the transfer of certain cases (created from chatter requests) from the Deal Desk group to the Sales Ops group to take action and respond to the original chatter request.
    - As of 2020-09-21, this will include all cases pertaining to account ownership/ROE and account segmentation, except for any cases that touch closed opportunities. 
 
-Where:
+**Where:**
 - [Deal Desk Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004O4ni)
 - [Sales Ops Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004tewG)
-How:
+
+**How:**
 1. All Sales Support chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
 1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
 1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
 
-Notes on Case Behavior:
+**Notes on Case Behavior:**
 1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.
 1. When case ownership is updated to a Sales Ops team member, the case will remain visible in the Sales Ops queue until closed.
 1. Changing the “Status” field to “In Progress” shows that someone is currently working on the case. 
@@ -337,7 +338,7 @@ Notes on Case Behavior:
    - Note: Check the “Suppress auto case reply” button in the same motion, before saving, to prevent automated chatter posts. If you do not check this box, and you change the status to “In Progress,” upon saving the case, Salesforce will create a chatter reply from your account, tagging the original requester, noting that you are working on the case. Similarly, when you close the case, Salesforce will chatter the requester to note that the work is complete.
 Click the “Related Chatter Object” link to view the original request. 
 
-General Notes:
+**General Notes:**
 1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
 1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
 
@@ -345,8 +346,16 @@ General Notes:
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
 </summary>
 
-**These scenarios will expand as identified**
-
+**Scenarios (these will grow)**
+1.  Request to own an Account currently owned by the Sales Admin user:
+   - Check for duplicates, accurate segement and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - If territory or segement needs to be udpated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
+   - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
+   - Check for duplicates, accurate segement and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - If territory or segement needs to be udpated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 
 
 </details>
