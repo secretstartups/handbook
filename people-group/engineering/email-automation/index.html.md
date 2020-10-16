@@ -11,7 +11,7 @@ People Operations team sends out several emails for different reasons. When poss
 
 ### Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/email_templates/onboarding_email.md) that is send to our team members on the day before their employment. The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/email_templates/onboarding_email.md) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
 
