@@ -51,6 +51,10 @@ Projects are organized by the integration type:
 1. Repo (GitLab repository files)
 1. Documents (PDF files)
 
+## How Smartling Works
+
+Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the integration type and know what type of document format you are translating.
+
 ## Jobs
 
 Each job should only be translating to one language pair. For instance, if you have a whitepaper that you would like to translate to French and German, you would create two separate jobs: one for the German version and one for the French version.
