@@ -118,7 +118,7 @@ or clone [license-app][license-app] and generate your own licenses.
 [License-app][license-app] and [license.gitlab.com][license-app-hosted]
 are only available for GitLab employees. 
 
-- Individual GitLab employees can request access with the [single person access request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request).
+- Individual GitLab employees can request access with the [single person access request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
 - GitLab managers can request access for multiple employees with the [bulk access request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Bulk%20Access%20Request).
 
 For information on what access to request, and for detailed steps and guidance for
