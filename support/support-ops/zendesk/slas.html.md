@@ -16,6 +16,12 @@ From Zendesk:
 Keep in mind only 1 SLA policy can be in place for a ticket. As such, it will
 use the top most SLA based on the list of our SLAs (see below).
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Current SLA Policies
 
 ### Emergency SLA

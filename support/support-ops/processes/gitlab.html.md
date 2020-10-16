@@ -5,6 +5,12 @@ title: Support Operations GitLab Processes
 
 # GitLab Processes
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Time Tracking
 
 Support-Ops utilizes 

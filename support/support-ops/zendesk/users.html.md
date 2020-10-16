@@ -7,6 +7,12 @@ title: Zendesk Users
 
 Zendesk users are the people within Zendesk.
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Groups
 
 * [Finance/Billing](https://gitlab.zendesk.com/groups/360003910679)

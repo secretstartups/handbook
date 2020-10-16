@@ -139,8 +139,13 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
     1. Add a reply on the original ticket, letting the user know that you've split their ticket. (You could also add an internal note with a link to the new ticket you created if that seems helpful.)
 1. **Can I reassign a ticket to someone else?** There are some situations in which you should look to reassign a ticket:
    1. If you'll be absent, see the FAQ above about reassigning tickets when you'll be absent.
-   1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. But if pairing is not reasonable, go ahead and reassign the ticket after discussing it with the other support engineer.  Be sure to send a message to the user informing them that you’ve asked another support engineer with relevant expertise to take over the ticket, and that you’ve reviewed the ticket with that engineer.
-   1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take over some of your tickets. Be sure you discuss each ticket before reassigning it so that the other support engineers don't have to start from scratch. Then inform the user that you’ve asked another support engineer to take over the ticket due to time constraints.
+   1. If you've determined that specific expertise outside your own is required to resolve the ticket, your first choice should be to pair with an expert so that you can get the ticket resolved and learn in the process. If pairing is not reasonable, then:
+      1. ask the expert to review the ticket
+      1. get agreement from them to take assignment
+      1. add an internal note to the ticket that you have their agreement
+      1. add a public message to the ticket informing the user that you’ve asked another support engineer with relevant expertise to take the ticket, and that you’ve reviewed the ticket with that engineer
+      1. assign the ticket to the expert
+   1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take some of your tickets. Be sure you discuss each ticket before reassigning it to gain agreement and so that the other support engineers don't have to start from scratch. Then add an internal note stating the reassignment agreement **and** add a public meessage informing the user that you’ve asked another support engineer to take the ticket due to your time constraints.
 
 ## Working on Tickets Flowchart
 

@@ -449,6 +449,7 @@ Artifacts of approval can include:
    - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
+- [License & Renewals Workflows](/handbook/support/license-and-renewals/workflows)
 
 ### Slack Emoji Reaction Workflows
 

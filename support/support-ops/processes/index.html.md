@@ -8,6 +8,12 @@ title: Support Operations Processes
 For a general overview of the day to day processes, see the
 [Support Operations Responsibility Checklist](responsibility_checklist.html).
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## GitLab
 
 For GitLab specific processes, see [GitLab Processes](gitlab.html).

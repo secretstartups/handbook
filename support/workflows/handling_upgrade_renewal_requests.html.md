@@ -12,7 +12,7 @@ category: License and subscription
 
 ##### Overview
 
-Use this workflow when there's a query about upgrading or renewing a GitLab 
+Use this workflow when there's a query about upgrading or renewing a GitLab
 license or GitLab.com subscription.
 
 

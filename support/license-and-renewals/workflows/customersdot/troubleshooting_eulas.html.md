@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: Troubleshooting EULAs
-category: License and subscription
+category: CustomersDot
 ---
 
 ### On this page
@@ -25,7 +25,7 @@ There are 2 ways to accept a EULA:
 *In most cases, the EULA is sent to the `Sold to Contact` listed on a quote object. If the EULA is sent to someone who is not listed there, it is likely that there is a previous contact listed in Zuora and the information has not been updated yet.*
 
 1. To change the EULA recipient, browse to https://customers.gitlab.com/admin/eula_request and search for the domain.
-1. Once you have found the relevant EULA, select the pencil icon on the right. Edit the email address to the appropriate email and select the `Save button`. 
+1. Once you have found the relevant EULA, select the pencil icon on the right. Edit the email address to the appropriate email and select the `Save button`.
 1. Once saved, select the double arrow icon to **resend EULA**. Note that if you change the email, but do not resend then the new recipient will not receive the EULA.
    - If the resend fails with a 500 error, please see the [Troubleshoot: When we try to resend the EULA, it fails](#troubleshoot-when-we-try-to-resend-the-eula-it-fails) section of this page.
 
@@ -33,7 +33,7 @@ There are 2 ways to accept a EULA:
 
 ## Troubleshoot: The EULA was not sent
 
-You have searched for the domain in the CustomersDot: https://customers.gitlab.com/admin/eula_request and seen that no EULA was sent. 
+You have searched for the domain in the CustomersDot: https://customers.gitlab.com/admin/eula_request and seen that no EULA was sent.
 
 1. Use [this spreadsheet](https://docs.google.com/spreadsheets/d/1jLGVpI_sqWxlt5SlD7oqRHxZ_rxstMmFzZMkpouTzlg/edit#gid=839505067) to make sure this purchase should have had a EULA. If the spreadsheet indicates that no EULA should have been sent, then we know that a EULA is not required and the customer should have access to the product they purchased. Please note this with the requestor and ask how they would like to proceed.
 1. If yes, check whether the opportunity was marked for a EULA to be sent in Salesforce:
@@ -47,16 +47,16 @@ If you have checked that a EULA should be sent for this subscription, open an is
 If an issue already exists for this EULA problem, create a comment with the below pasted and completed:
 
 > **SE Assistance Needed? YES**
-> 
-> - **CustomersDot link**: 
+>
+> - **CustomersDot link**:
 > - **Customer ID**: `XXXX`
-> - **Subscription**: 
+> - **Subscription**:
 > - **Access Token (if generated)**:
-> 
+>
 > Please manually generate the EULA from the console.
-> 
+>
 > Snippet from Ruben:
-> 
+>
 > ```
 > z_subscription = Z::Subscription.find_by_name(<subscription_name>)
 > # In case we have the Subscription ID we can use:
