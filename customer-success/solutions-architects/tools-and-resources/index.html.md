@@ -86,7 +86,29 @@ Solutions Architects have a big role in responding to RFIs and RFPs where there 
 
 But more importantly, be sure that there is a product fit. If what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative. Also identify the strategic impact if the requirements do not seem to match GitLab functionality.  If GitLab fits only a piece of the RFx, collaborate with the Strategic Account Leader and/or Inside Sales Representative to understand who the other players in the response might be.   
 
-### Responding to RFIs
+### Process of responding to RFx
+
+Generally, RFx's have a fixed timeline.  GitLab issues can assist in this process as everything needed to manage a task is available.  The best place to create the issue is in the Account project, if one exists, or in a central project where such activites are created and tracked.  Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue.  Your outline should include the following things:
+1. Any customer’s instructions regarding organization
+2. A rational organization of information that will answer all of the questions and requirements
+3. Easy to follow structure for the proposal document
+4. Compliance with all requirements
+5. Links to appropriate Account or Opportunity in Salesforce
+
+Typically a SAL or ISR will be involved in the process and should be assigned to the issue along with yourself.  Lay out the tasks and assign owners so that every team member's duties are clear.  And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer.  This provides a small buffer in case of last minute adjustments or approvals that may be needed.
+
+### Responding to RFxs
+
+After the issue is created, create a Google Docs document and start filling in the details.  You may use a general [Public Sector template](https://docs.google.com/document/d/12uLyZ-lc9sswULq7XqpwOUtk_eiK2wgWhi-TIvT1mQs/template/preview) as a starting point.  Make sure you insert the link to the working document into the issue.
+
+In the event that the RFx requires:
+- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/engineering/security/security-assurance/field-security) handbook.
+- A legal review, please follow the process described in [Collaborating with GitLab legal](/handbook/legal/#2-sales-guide-collaborating-with-gitlab-legal) handbook page.
+- A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
+
+Each of these processes will likely require the creation of issues.  Be sure to link these issues to the main response issue for tracking purposes.
+
+### Specifics about RFIs
 
 RFIs are generally issued to shape procurement. In some situations, they are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
 
@@ -120,4 +142,6 @@ The customer may ask for a description of the CI process or other complex proces
 - If specific requirements are expected to be answered by the response, add notations to the requirement number being met within the text of the response: Example, "GitLab's SAST scanner will analyze your source code for known vulnerabilities (Req 1.a.1)"
 - Use customer terminology wherever possible
 - Include relevant customer use cases whenever possible
+
+
 ## Hands On Workshop
