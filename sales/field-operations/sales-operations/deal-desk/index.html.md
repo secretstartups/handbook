@@ -180,54 +180,7 @@ You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1Z
 
 **Please note that Flat Renewal Support has been decommissioned due to sever under utilization and inefficiencies in the process. To create a Flat Renewal quote, please review the Quote Configuration Guide below.
 
-### Duplicate Opportunity Management - Web Direct Purchase vs. Sales Accepted Opportunity
 
-To ensure SDRs receive proper credit for purchases made via the web portal, but which relate to active sales accepted opportunities, Deal Desk will follow the below processes:
-
-##### If the Opportunity Close Date is in the current month:
-
-*  Open both the web direct and sales accepted opportunities.
-*  Copy the following fields from the web direct opportunity to the sales accepted opportunity:
-    * A. Close Date
-    * B. Start Date
-    * C. End Date
-    * D. Opportunity Term
-    * E. Amount
-    * F. Renewal Amount
-    * G. Renewal ACV
-    * H. Web Portal Purchase = Yes
-    * I. Invoice Date
-    * J. Invoice Status
-    * K. Invoice Entity
-    * L. Invoice Number
-*  On the sales accepted opportunity, ensure the above fields are updated, and save. Change stage to Closed Won, save. Ensure Close Date reflects Close Date on web direct opportunity.
-*  On the web direct opportunity, change the stage to Duplicate. Delete Sales Accepted Date and Sales Qualified Date. Enter name of sales accepted opportunity in the Duplicate Opportunity field. Save.
-
-##### If the Opportunity Close Date is in a previous month:
-
-*  Open both the web direct and sales accepted opportunities.
-*  Clone the web direct opportunity.
-    * On the cloned web direct, change the close date to today. 
-    * Change the opportunity name to add "Internal Refund" to the title.
-    * Change the amount (and renewal amount/renewal acv) to the negative value. 
-    * Ensure stage is Closed Won.
-    * The "Refund Opp Source" field should read "From Finance"
-    * Save, and (1) ensure the negative values saved as negative, as these should be perfect opposites of the numbers on the web direct opportunity. 
-    * (2) Ensure the owner of the cloned web direct opportunity is the same owner as the original web direct opportunity.
-*  Copy the following fields from the original web direct opportunity to the sales accepted opportunity:
-    * A. Close Date (should be the same date as the cloned web direct opportunity)
-    * B. Start Date
-    * C. End Date
-    * D. Opportunity Term
-    * E. Amount
-    * F. Renewal Amount
-    * G. Renewal ACV
-    * H. Web Portal Purchase = Yes
-    * I. Invoice Date
-    * J. Invoice Status
-    * K. Invoice Entity
-    * L. Invoice Number
-* On the sales accepted opportunity, ensure the above fields are updated, and save. Change stage to Closed Won, save. Ensure Close Date reflects Close Date on cloned web direct opportunity (today's date).
 
 ### Opportunity Categorization
 
