@@ -79,7 +79,7 @@ Libraries with the following licenses require legal approval for use:
 
 ### Requesting Approval for Licenses or any other Intellectual Property
 
-Libraries that are not already approved and listed on the [Acceptable Licenses](#acceptable-licenses) list or that may be listed on the [Unacceptable Licenses](#unacceptable-licenses) list may be submitted to the legal team for review and use on a case-by-case basis. Please email `legal@gitlab.com` with the details of how the software will be used, whether or not it will be modified, and how it will be distributed (if at all). After a decision has been made, the original requestor is responsible for updating this document, if applicable. Not all approvals will be approved for universal use and may continue to remain on the Unacceptable License list.
+Libraries that are not already approved and listed on the [Acceptable Licenses](#acceptable-licenses) list or that may be listed on the [Unacceptable Licenses](#unacceptable-licenses) list may be submitted to the legal team for review and use on a case-by-case basis. Please contact Legal by following the [instructions](https://about.gitlab.com/handbook/legal/#5-other-legal-requests) in the Legal Handbook to request review. Include the details of how the software will be used, whether or not it will be modified, and how it will be distributed (if at all). After a decision has been made, the original requestor is responsible for updating this document, if applicable. Not all approvals will be approved for universal use and may continue to remain on the Unacceptable License list.
 
 All inquiries relating to patents should be directed to the Legal team.
 
