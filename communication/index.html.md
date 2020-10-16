@@ -397,7 +397,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 ## Social Call
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.  
 
-These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  The call topics are based on three of the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood however team members do not need to be part of these channels to join in.
+These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood which team members need not be a part of to join in.
 
 Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.  
 
