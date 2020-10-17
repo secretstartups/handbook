@@ -158,7 +158,7 @@ By being comfortable using ZD Explore, a primary source, we can make sure that w
 ### What happens if metrics aren't where they should be?
 Each week in the [Support Leadership Meetings](#support-leadership-meeting) we'll review the key metrics.
 
-If the the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
+If the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
 
 1. Combined First Reply Time (L&R, GitLab SM and GitLab SaaS) at or below 93%
 1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
@@ -170,7 +170,7 @@ The purpose of the group will be unique to each situation that triggers it, but 
 - form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
 - gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
 - build a set of recommendations based on the data for how we can achieve consistent results
-- document _how_ they analyzed their hypothesis and include it in the section below
+- document _how_ they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
 
 These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html). 
 
