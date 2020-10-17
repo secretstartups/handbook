@@ -13,7 +13,7 @@ or system error.
 
 Self-managed licenses are managed in the [license app](https://license.gitlab.com).
 In order to sign-in, you will need an account on `dev.gitlab.org`. If you don't
-have one, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request)
+have one, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 and refer that your role entitles you to access with
 [this link](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_customer_support/role_support_engineer.md).
 
