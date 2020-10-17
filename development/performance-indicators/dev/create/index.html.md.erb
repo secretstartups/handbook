@@ -226,34 +226,3 @@ title: "Create stage Performance Indicators"
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
-
-### Gitter group
-
-#### Gitter group development indicators
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Gitter"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
-
-#### Gitter group quality indicators
-
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "team_group", value: ["gitter"]}]}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
-
-#### Gitter group UX indicators
-
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "team_group", value: ["gitter"]}]}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
