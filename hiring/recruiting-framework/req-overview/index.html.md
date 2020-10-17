@@ -162,6 +162,8 @@ If at any time during the interview process a candidate is declined due to compe
 
 Once a Hiring Manager has determined they want to move forward with a candidate, the Recruiter will tag `@ces` in the Greenhouse profile to reach out to the candidate to request their references contact details and inform them a backgound check is being issued, using [Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide). The CES will [initiate the background check](/handbook/hiring/recruiting-framework/coordinator/#initiate-background-check). 
 
+If the candidate declines GitLab's offer, or the offer is extended to another candidate and we do not move forward with a candidate that we started background check and references on, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
+
 ### **Step 8: Justification (Engineering Only)**
 
 ### **Step 9: Offer Approval**
@@ -195,6 +197,8 @@ The Recruiter will email the candidate and ask if they want to book a zoom call 
 After the verbal offer is made the recruiter can send an email to the candidate with all the information covered in the zoom call. 
 
 *A verbal offer can **only** be communicated once the offer has been fully approved in Greenhouse.  Ahead of the official approval, the Recruiter may choose to have a conversation regarding what a potential compensation package may look like, however, the Recruiter must be clear that they are not extending a formal verbal offer as the offer has yet to be approved.* 
+
+If the candidate declines GitLab's offer, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
 ### **Step 11: Contract**
 Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
