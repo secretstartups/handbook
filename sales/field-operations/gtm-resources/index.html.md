@@ -163,28 +163,11 @@ Admins have the ability to override the `Number of Employees` and bypass this hi
 
 ##### Sales Segment and Hierarchy Review Process
 
-In order to address issues when it is believed that the `Total Employee` count is incorrect the Sales Ops team on a Yearly schedule (Fiscal Q4) will review accounts where individuals think that the segment is incorrect as well as any account that has had their number of employees changed (according to our data sources).
-Reviews for updates to the `Total Employee` count field that do not result in a change of segment will not be reviewed.
+In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
 
-For an individual to submit an account for review as it relates to the number of employees at the account they must fill out the following two fields on an accounts:
+Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
-- `[User Input] Employee Count` - This is a number field that you think the number of employees should be
-- `[User Input] Employee Source` - This is a URL field that links to where the above information was found
-
-For an individual to submit an account for review as it relates to the hierarchy and final address of the account they must fill out the following four fields on an account:
-
-- `Account Zip - Manual - User` - This is a text field to be populated with Global Account HQ's Zip
-- `Account State - Manual - User` - This is a text field to be populated with Global Account HQ's State
-- `Account Country - Manual - User` - This is a text field to be populated with Global Account HQ's Country
-- `Account Address - Manual Source - User` - This is a URL field that links to where the above information was found
-
-Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company.
-As a rule LinkedIn is not accepted as a valid source.
-During the Sales Ops review period it is at the discretion of the Sales Ops team to have the `Total Employee` count updated or to have it remain the same.
-
-If the number of employees, according to our sources based on our hierarchy as described in [Segmentation](#segmentation) has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
-
-While the review process occurs over the course of Q4 the results of the process will not be put into place or enforced until the begining of Q1 (or as announced by the Sales Ops team).
+If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
 
 ##### Region/Vertical
 
