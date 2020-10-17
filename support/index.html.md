@@ -451,9 +451,24 @@ Artifacts of approval can include:
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 - [License & Renewals Workflows](/handbook/support/license-and-renewals/workflows)
 
-### Slack Emoji Reaction Workflows
+### Slack Workflows
 
-Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users by reacting to their message with a specific emoji. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+
+#### Issue Notification
+
+Some workflows are meant to notify the team of new issues created in the relevant project.
+In these cases, a [project webhook](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) passes information to [Zapier](https://zapier.com/app/zaps/folder/210292),
+which then sends the information to a Slack workflow.
+
+- `#support_gitlab-com`
+    - CMOC [Gitlab Project](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/), [Zap](https://zapier.com/app/zap/100087156), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/cmoc_handover.slackworkflow)
+- `#support_licensing-subscription`
+    - L&R related internal requests [Gitlab Project](https://gitlab.com/gitlab-com/support/internal-requests/), [Zap](https://zapier.com/app/zap/98925072), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_internal_requests.slackworkflow)
+
+#### Emoji Reaction
+
+Providing information by reacting to a message with a specific emoji.
 
 - `#support_managers`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
