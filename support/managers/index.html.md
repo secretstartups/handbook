@@ -175,48 +175,9 @@ The purpose of the group will be unique to each situation that triggers it, but 
 These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html). 
 
 ### Forming a Group
-1. Identify 2-3 Managers who will take part in the workgroup
-1. Open an issue using the [Metrics Workgroup Template](https://gitlab.com/gitlab-com/support/metrics/-/issues/new?issuable_template=Metrics%20Workgroup)
+1. A manager opens an issue using the [Metrics Workgroup Template](https://gitlab.com/gitlab-com/support/metrics/-/issues/new?issuable_template=Metrics%20Workgroup)
+1. Identify 2-3 Managers/ICs who will take part in the workgroup by asking for volunteers in a leadership meeting.
 1. Determine hypothesis, gather data and propose temporary or permanent process changes as a result.
-
-#### FRT is below target
-##### Common causes for FRT below target
-1. Staff availability
-   - PTO -> Look at [GitLab Support - Time Off](https://drive.google.com/drive/u/0/search?q=Gitlab%20Support%20-%20Time%20off)
-   - Position in the world -> Look at [TBD Dashboard](#link-to-dashboard)
-
-##### Specific actions when FRT is below target
-
-If the problem is:
-
-###### Regional handover is causing tickets to be missed 
-
-Actions:
-1. Have engineers spend the last portion of their day sending out replies on New Tickets. Monitor the drop in NRT.
-
-Monitor:
-1. Drop in NRT over the next period.
-
-###### PTO is causing problems with engineer availability
-
-Actions:
-1. Ensure that you're planning for major holidays and organizing coverage before the holiday. 
-
-Monitor: 
-1. Verify that FRT recovers after the holiday period.
-
-#### SSAT is below target
-##### Specific actions when FRT is below target
-If SSAT is below target, the [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback.html) should be aware and
-actively looking for trends. During weeks where we're below target, they should report on any identified trends.
-
-##### Common causes for SSAT below target
-1. A Support process isn't well received by customers
-1. A specific class of tickets generates low SSAT
-1. A specific engineer has low ratings
-
-#### NRT is below target
-##### Common causes for NRT below target
 
 ## Support Engineering Manager READMEs
 
