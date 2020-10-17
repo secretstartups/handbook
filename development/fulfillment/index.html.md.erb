@@ -1,0 +1,677 @@
+---
+layout: handbook-page-toc
+title: Fulfillment Sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+## Welcome to the Fulfillment section Page
+
+### Who are we and what do we work on?
+
+The Fulfillment team is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the CustomersDot and the License App.
+
+
+We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Analytics group](/handbook/product/product-categories/#product-analytics-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
+
+**Groups**
+
+***Provision***
+Usage and licenses, licenses can come from purchasing, order forms, discounts, education program, trials, partners. Systems: LicenseDot, GitLab. Integration: Salesforce.
+
+***Purchase***
+Subscription management, payments, and trials. Systems: CustomersDot, GitLab. Integrations: Zuora, Stripe, Salesforce, Marketo.
+
+**Want to know more about us?**
+
+* [Product Vision](https://about.gitlab.com/direction/fulfillment/)
+* [Fulfillment section](/handbook/product/product-categories/#fulfillment-group)
+* Engineering Teams
+     * Purchase
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
+          * [Backend](/handbook/engineering/development/fulfillment/be-purchase/)
+     * Provision
+          * [Backend](/handbook/engineering/development/fulfillment/be-provision/)
+
+
+## What are we working on?
+* [Milestone 13.5](https://gitlab.com/groups/gitlab-org/-/boards/1828610?milestone_title=13.5&label_name[]=group%3A%3Afulfillment) _up next_
+* [Milestone 13.4](https://gitlab.com/groups/gitlab-org/-/boards/1775156?milestone_title=13.4&label_name[]=group%3A%3Afulfillment) _in progress_
+* [Milestone 13.3](https://gitlab.com/groups/gitlab-org/-/boards/1686971?milestone_title=13.3&label_name[]=group%3A%3Afulfillment)  _Complete_
+
+
+## Improving the purchase, renewal, and licensing flows.
+
+The Fulfillment team is currently working on an initiative to improve our sales efficiency, with improvements identified by the [Commercial & Licensing Working Group](https://about.gitlab.com/company/team/structure/working-groups/commercial-licensing/).
+
+We're following the [Engineering Demo Process](https://about.gitlab.com/handbook/engineering/#engineering-demo-process)  in order to show regular improvements as we iterate on issues in this area.
+
+Our [Scorecard](https://docs.google.com/spreadsheets/d/1DVUSg6ow5eT9UcG56KwF5uu0MIWf2jo_21XyDxgUOuo/edit#gid=0) (internal only) breaks down the different steps in these flows and links to videos where we step through the process and discuss the issues that aim to improve them.
+
+We are tracking progress with [this epic](https://gitlab.com/groups/gitlab-org/-/epics/4455) and [this dahsboard](https://app.periscopedata.com/app/gitlab/750638/Fulfillment-Purchase-Flow-Improvements).
+
+<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841538, embed: 'v2') %>">
+<embed width="<%= 99 %>%" height="250" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841334, embed: 'v2') %>">
+<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841378, embed: 'v2') %>">
+
+## Software architecture
+
+We follow the [GitLab architecture guide and practices](https://about.gitlab.com/handbook/engineering/architecture/) and discuss architecture matters in #s_fulfillment_architecture on Slack.
+
+CustomersDot provides APIs which allow the purchase experience to happen within GitLab itself.
+
+![CustomersDot Diagram](subscriptions_architecture.png)
+
+### Database structure of CustomersDot and LicenseDot
+
+```plantuml
+legend
+    |Color| Systems with the column |
+    |<#Navy>| LicenseDot, CustomersDot, and Zuora |
+    |<#CornflowerBlue>| LicenseDot and CustomersDot |
+    |<#Green>| CustomersDot and Zuora |
+    |<#Purple>| LicenseDot and Zuora |
+    |<#DarkOrange>| CustomersDot and GitLab.com |
+    |<#Sienna>| CustomersDot and GitLab (SM) |
+endlegend
+```
+
+```plantuml
+digraph LicenseApp {
+rankdir = "LR";
+ranksep = "0.5";
+nodesep = "0.4";
+pad = "0.4,0.4";
+margin = "0,0";
+concentrate = "true";
+labelloc = "t";
+fontsize = "13";
+fontname = "Arial BoldMT";
+splines = "spline";
+node[ shape  =  "Mrecord" , fontsize  =  "10" , fontname  =  "ArialMT" , margin  =  "0.07,0.05" , penwidth  =  "1.0"];
+edge[ fontname  =  "ArialMT" , fontsize  =  "7" , dir  =  "both" , arrowsize  =  "0.9" , penwidth  =  "1.0" , labelangle  =  "32" , labeldistance  =  "1.8"];
+rankdir = "TB";
+label = "LicenseDot domain model\n\n";
+m_AddOn [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">AddOn</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="code">code <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="name">name <font face="Arial ItalicMT" color="grey60">string ∗ U</font></td></tr>
+</table>
+}>];
+m_GrantedAddOn [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">GrantedAddOn</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="quantity">quantity <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+</table>
+}>];
+m_License [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">License</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="company"><font color="Navy">company</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="email"><font color="Navy">email</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="expires_at"><font color="Navy">expires_at</font> <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
+  <tr><td align="left" width="130" port="license_file">license_file <font face="Arial ItalicMT" color="grey60">text ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="name"><font color="Navy">name</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="notes">notes <font face="Arial ItalicMT" color="grey60">text</font></td></tr>
+  <tr><td align="left" width="130" port="plan_code"><font color="Navy">plan_code</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="plan_name"><font color="Navy">plan_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="previous_users_count"><font color="Purple">previous_users_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="recurly_subscription_id">recurly_subscription_id <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="starts_at"><font color="Navy">starts_at</font> <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="trial">trial <font face="Arial ItalicMT" color="grey60">boolean</font></td></tr>
+  <tr><td align="left" width="130" port="trueup_from"><font color="Purple">trueup_from</font> <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="trueup_quantity"><font color="Purple">trueup_quantity</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="trueup_to"><font color="Purple">trueup_to</font> <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="users_count"><font color="Navy">users_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_subscription_id"><font color="Navy">zuora_subscription_id</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_User [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">User</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="authentication_token">authentication_token <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_at">current_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_ip">current_sign_in_ip <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="email">email <font face="Arial ItalicMT" color="grey60">string ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="encrypted_password">encrypted_password <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="failed_attempts">failed_attempts <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_at">last_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_ip">last_sign_in_ip <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="locked_at">locked_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="provider">provider <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="remember_created_at">remember_created_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_sent_at">reset_password_sent_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_token">reset_password_token <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="sign_in_count">sign_in_count <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="uid">uid <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="unlock_token">unlock_token <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+  m_License -> m_GrantedAddOn [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_AddOn -> m_GrantedAddOn [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_License -> m_AddOn [style = "dotted", arrowhead = "normal", arrowtail = "none", weight = "1", constraint = "false"];
+  m_User -> m_License [arrowhead = "normal", arrowtail = "none", weight = "1"];
+}
+```
+
+```plantuml
+digraph PaymentApp {
+rankdir = "LR";
+ranksep = "0.5";
+nodesep = "0.4";
+pad = "0.4,0.4";
+margin = "0,0";
+concentrate = "true";
+labelloc = "t";
+fontsize = "13";
+fontname = "Arial BoldMT";
+splines = "spline";
+node[ shape  =  "Mrecord" , fontsize  =  "10" , fontname  =  "ArialMT" , margin  =  "0.07,0.05" , penwidth  =  "1.0"];
+edge[ fontname  =  "ArialMT" , fontsize  =  "7" , dir  =  "both" , arrowsize  =  "0.9" , penwidth  =  "1.0" , labelangle  =  "32" , labeldistance  =  "1.8"];
+rankdir = "TB";
+label = "CustomersDot domain model pt 1\n\n";
+m_Admin [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Admin</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="authentication_token">authentication_token <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_at">current_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_ip">current_sign_in_ip <font face="Arial ItalicMT" color="grey60">inet</font></td></tr>
+  <tr><td align="left" width="130" port="email">email <font face="Arial ItalicMT" color="grey60">string ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="encrypted_password">encrypted_password <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_at">last_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_ip">last_sign_in_ip <font face="Arial ItalicMT" color="grey60">inet</font></td></tr>
+  <tr><td align="left" width="130" port="manage_admin">manage_admin <font face="Arial ItalicMT" color="grey60">boolean ∗</font></td></tr>
+  <tr><td align="left" width="130" port="provider">provider <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="remember_created_at">remember_created_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_sent_at">reset_password_sent_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_token">reset_password_token <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="sign_in_count">sign_in_count <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="uid">uid <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+</table>
+}>];
+m_Customer [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Customer</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="access_token">access_token <font face="Arial ItalicMT" color="grey60">string (70)</font></td></tr>
+  <tr><td align="left" width="130" port="address_1"><font color="Green">address_1</font> <font face="Arial ItalicMT" color="grey60">string (255)</font></td></tr>
+  <tr><td align="left" width="130" port="address_2"><font color="Green">address_2</font> <font face="Arial ItalicMT" color="grey60">string (255)</font></td></tr>
+  <tr><td align="left" width="130" port="authentication_token">authentication_token <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="billable">billable <font face="Arial ItalicMT" color="grey60">boolean</font></td></tr>
+  <tr><td align="left" width="130" port="city"><font color="Green">city</font> <font face="Arial ItalicMT" color="grey60">string (150) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="company"><font color="Navy">company</font> <font face="Arial ItalicMT" color="grey60">string (255) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="company_size">company_size <font face="Arial ItalicMT" color="grey60">string (20)</font></td></tr>
+  <tr><td align="left" width="130" port="confirmation_sent_at">confirmation_sent_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="confirmation_token">confirmation_token <font face="Arial ItalicMT" color="grey60">string (25)</font></td></tr>
+  <tr><td align="left" width="130" port="confirmed_at">confirmed_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="country"><font color="Green">country</font> <font face="Arial ItalicMT" color="grey60">string (70) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_at">current_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="current_sign_in_ip">current_sign_in_ip <font face="Arial ItalicMT" color="grey60">inet</font></td></tr>
+  <tr><td align="left" width="130" port="email"><font color="Navy">email</font> <font face="Arial ItalicMT" color="grey60">string (90) ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="encrypted_password">encrypted_password <font face="Arial ItalicMT" color="grey60">string (90) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="first_name"><font color="Navy">first_name</font> <font face="Arial ItalicMT" color="grey60">string (200) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="last_name"><font color="Navy">last_name</font> <font face="Arial ItalicMT" color="grey60">string (200) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_at">last_sign_in_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="last_sign_in_ip">last_sign_in_ip <font face="Arial ItalicMT" color="grey60">inet</font></td></tr>
+  <tr><td align="left" width="130" port="login_activated">login_activated <font face="Arial ItalicMT" color="grey60">boolean ∗</font></td></tr>
+  <tr><td align="left" width="130" port="phone_number">phone_number <font face="Arial ItalicMT" color="grey60">string (40)</font></td></tr>
+  <tr><td align="left" width="130" port="provider">provider <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="remember_created_at">remember_created_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_sent_at">reset_password_sent_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reset_password_token">reset_password_token <font face="Arial ItalicMT" color="grey60">string (70)</font></td></tr>
+  <tr><td align="left" width="130" port="salesforce_account_id">salesforce_account_id <font face="Arial ItalicMT" color="grey60">string (30)</font></td></tr>
+  <tr><td align="left" width="130" port="sign_in_count">sign_in_count <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="state"><font color="Green">state</font> <font face="Arial ItalicMT" color="grey60">string (100)</font></td></tr>
+  <tr><td align="left" width="130" port="uid">uid <font face="Arial ItalicMT" color="grey60">string (10)</font></td></tr>
+  <tr><td align="left" width="130" port="unconfirmed_email">unconfirmed_email <font face="Arial ItalicMT" color="grey60">string (90)</font></td></tr>
+  <tr><td align="left" width="130" port="vat_code"><font color="Green">vat_codes</font> <font face="Arial ItalicMT" color="grey60">string (100)</font></td></tr>
+  <tr><td align="left" width="130" port="zip_code"><font color="Green">zip_code</font> <font face="Arial ItalicMT" color="grey60">string (35) ∗</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_account_id"><font color="Green">zuora_account_id</font> <font face="Arial ItalicMT" color="grey60">string (50)</font></td></tr>
+</table>
+}>];
+m_Eula [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Eula</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="content">content <font face="Arial ItalicMT" color="grey60">text ∗</font></td></tr>
+  <tr><td align="left" width="130" port="name">name <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+m_EulaRequest [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">EulaRequest</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="accepted_at">accepted_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="email">email <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="eula_type">eula_type <font face="Arial ItalicMT" color="grey60">integer (2)</font></td></tr>
+  <tr><td align="left" width="130" port="subscription_id"><font color="Navy">subscription_id</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="subscription_name"><font color="Navy">subscription_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="token">token <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+m_InstanceReviewSetting [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">InstanceReviewSetting</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="users_count_threshold">users_count_threshold <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+</table>
+}>];
+m_InstanceSubscription [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">InstanceSubscription</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="activated_at">activated_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="activation_code">activation_code <font face="Arial ItalicMT" color="grey60">string (30) U</font></td></tr>
+  <tr><td align="left" width="130" port="subscription_name"><font color="Navy">subscription_name</font> <font face="Arial ItalicMT" color="grey60">string (255) ∗ U</font></td></tr>
+</table>
+}>];
+m_LicenseSeatLink [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">LicenseSeatLink</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="active_user_count"><font color="Sienna">active_user_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="license_starts_on"><font color="Navy">license_starts_on</font> <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="license_user_count"><font color="Navy">license_user_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="max_historical_user_count"><font color="Sienna">max_historical_user_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="report_date"><font color="Sienna">report_date</font> <font face="Arial ItalicMT" color="grey60">date ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_subscription_id"><font color="Navy">zuora_subscription_id</font> <font face="Arial ItalicMT" color="grey60">string (64)</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_subscription_name"><font color="Navy">zuora_subscription_name</font> <font face="Arial ItalicMT" color="grey60">string (255) ∗</font></td></tr>
+</table>
+}>];
+m_Order [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Order</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="amendment_type"><font color="Green">amendment_type</font> <font face="Arial ItalicMT" color="grey60">string (32)</font></td></tr>
+  <tr><td align="left" width="130" port="end_date"><font color="Green">end_date</font> <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
+  <tr><td align="left" width="130" port="gl_namespace_id"><font color="DarkOrange">gl_namespace_id</font> <font face="Arial ItalicMT" color="grey60">string (16)</font></td></tr>
+  <tr><td align="left" width="130" port="gl_namespace_name"><font color="DarkOrange">gl_namespace_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="increased_billing_rate_notified_at">increased_billing_rate_notified_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="last_extra_ci_minutes_sync_at">last_extra_ci_minutes_sync_at <font face="Arial ItalicMT" color="grey60">datetime ∗</font></td></tr>
+  <tr><td align="left" width="130" port="product_rate_plan_id"><font color="Green">product_rate_plan_id</font> <font face="Arial ItalicMT" color="grey60">string (64)</font></td></tr>
+  <tr><td align="left" width="130" port="quantity"><font color="Navy">quantity</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="start_date"><font color="Navy">start_date</font> <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
+  <tr><td align="left" width="130" port="subscription_id"><font color="Navy">subscription_id</font> <font face="Arial ItalicMT" color="grey60">string (64)</font></td></tr>
+  <tr><td align="left" width="130" port="subscription_name"><font color="Navy">subscription_name</font> <font face="Arial ItalicMT" color="grey60">string (255)</font></td></tr>
+  <tr><td align="left" width="130" port="trial">trial <font face="Arial ItalicMT" color="grey60">boolean</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_account_id"><font color="Green">zuora_account_id</font> <font face="Arial ItalicMT" color="grey60">string (64)</font></td></tr>
+</table>
+}>];
+"m_PaperTrail::Version" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">PaperTrail::Version</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="event">event <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="item_type">item_type <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="object">object <font face="Arial ItalicMT" color="grey60">text</font></td></tr>
+  <tr><td align="left" width="130" port="object_changes">object_changes <font face="Arial ItalicMT" color="grey60">text</font></td></tr>
+  <tr><td align="left" width="130" port="transaction_id">transaction_id <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="whodunnit">whodunnit <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+"m_PaperTrail::VersionAssociation" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">PaperTrail::VersionAssociation</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="foreign_key_id">foreign_key_id <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="foreign_key_name">foreign_key_name <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="foreign_type">foreign_type <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_Reconciliation [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Reconciliation</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="error_message">error_message <font face="Arial ItalicMT" color="grey60">text</font></td></tr>
+  <tr><td align="left" width="130" port="reconcile_at">reconcile_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="reconcile_done_at">reconcile_done_at <font face="Arial ItalicMT" color="grey60">datetime</font></td></tr>
+  <tr><td align="left" width="130" port="user_count"><font color="Sienna">user_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+</table>
+}>];
+m_SelfManagedInstance [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">SelfManagedInstance</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="authentication_token">authentication_token <font face="Arial ItalicMT" color="grey60">string (30) ∗ U</font></td></tr>
+  <tr><td align="left" width="130" port="instance_identifier">instance_identifier <font face="Arial ItalicMT" color="grey60">string (36) ∗ U</font></td></tr>
+</table>
+}>];
+m_ZuoraUserWithHost [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">ZuoraUserWithHost</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="host">host <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="zuora_user_id"><font color="Green">zuora_user_id</font>zuora_user_id <font face="Arial ItalicMT" color="grey60">string ∗ U</font></td></tr>
+</table>
+}>];
+  "m_PaperTrail::Version" -> "m_PaperTrail::VersionAssociation" [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Admin -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_Customer -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_Eula -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_EulaRequest -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_InstanceReviewSetting -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_Order -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_ZuoraUserWithHost -> "m_PaperTrail::Version" [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_Eula -> m_EulaRequest [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Customer -> m_EulaRequest [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Customer -> m_InstanceSubscription [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Customer -> m_Order [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Customer -> m_SelfManagedInstance [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_SelfManagedInstance -> m_InstanceSubscription [arrowhead = "normal", arrowtail = "none", weight = "1"];
+  m_Order -> m_LicenseSeatLink [arrowhead = "normal", arrowtail = "none", weight = "2"];
+  m_Order -> m_Reconciliation [arrowhead = "normal", arrowtail = "none", weight = "2"];
+}
+```
+
+```plantuml
+digraph PaymentApp {
+rankdir = "TB";
+ranksep = "0.5";
+nodesep = "0.4";
+pad = "0.4,0.4";
+margin = "0,0";
+concentrate = "true";
+labelloc = "t";
+fontsize = "13";
+fontname = "Arial BoldMT";
+splines = "spline";
+node[ shape  =  "Mrecord" , fontsize  =  "10" , fontname  =  "ArialMT" , margin  =  "0.07,0.05" , penwidth  =  "1.0"];
+edge[ fontname  =  "ArialMT" , fontsize  =  "7" , dir  =  "both" , arrowsize  =  "0.9" , penwidth  =  "1.0" , labelangle  =  "32" , labeldistance  =  "1.8"];
+rankdir = "TB";
+label = "CustomersDot domain model pt 2\n\n";
+"m_Feature::FlipperFeature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperFeature</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+"m_Feature::FlipperGate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Feature::FlipperGate</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+"m_Flipper::Adapters::ActiveRecord::Feature" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Feature</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+</table>
+}>];
+"m_Flipper::Adapters::ActiveRecord::Gate" [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">Flipper::Adapters::ActiveRecord::Gate</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="feature_key">feature_key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="key">key <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="value">value <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_InstanceReview [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">InstanceReview</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="address">address <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="company">company <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="email"><font color="Sienna">email</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="external_pipelines_count"><font color="Sienna">external_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="first_name">first_name <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="groups_count"><font color="Sienna">groups_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="internal_pipelines_count"><font color="Sienna">internal_pipelines_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="issues_count"><font color="Sienna">issues_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="labels_count"><font color="Sienna">labels_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="last_name"><font color="Sienna">last_name</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="merge_requests_count"><font color="Sienna">merge_requests_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="milestones_count"><font color="Sienna">milestones_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="notes_count"><font color="Sienna">notes_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="phone">phone <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+  <tr><td align="left" width="130" port="projects_count"><font color="Sienna">projects_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="snippets_count"><font color="Sienna">snippets_count</font> <font face="Arial ItalicMT" color="grey60">integer</font></td></tr>
+  <tr><td align="left" width="130" port="users_count"><font color="Sienna">users_count</font> <font face="Arial ItalicMT" color="grey60">integer ∗</font></td></tr>
+  <tr><td align="left" width="130" port="version"><font color="Sienna">version</font> <font face="Arial ItalicMT" color="grey60">string</font></td></tr>
+</table>
+}>];
+m_TrialHistory [label = <{<table border="0" align="center" cellspacing="0.5" cellpadding="0" width="134">
+  <tr><td align="center" valign="bottom" width="130"><font face="Arial BoldMT" point-size="11">TrialHistory</font></td></tr>
+</table>
+|
+<table border="0" align="left" cellspacing="2" cellpadding="0" width="134">
+  <tr><td align="left" width="130" port="expired_on">expired_on <font face="Arial ItalicMT" color="grey60">date</font></td></tr>
+  <tr><td align="left" width="130" port="gl_namespace_id"><font color="DarkOrange">gl_namespace_id</font> <font face="Arial ItalicMT" color="grey60">string ∗</font></td></tr>
+  <tr><td align="left" width="130" port="glm_content">glm_content <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
+  <tr><td align="left" width="130" port="glm_source">glm_source <font face="Arial ItalicMT" color="grey60">string (1000)</font></td></tr>
+  <tr><td align="left" width="130" port="start_date">start_date <font face="Arial ItalicMT" color="grey60">date ∗</font></td></tr>
+  <tr><td align="left" width="130" port="trial_entity">trial_entity <font face="Arial ItalicMT" color="grey60">string (100)</font></td></tr>
+</table>
+}>];
+}
+```
+
+### Zuora
+
+Zuora is used as the source of record for many important business objects like Subscriptions, Invoices and more.  You can find more information on the Zuora Object Model in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship).
+
+## How we work
+
+* In accordance with our [GitLab values](/handbook/values/)
+* Transparently: nearly everything is public, we record/livestream meetings whenever possible
+* We get a chance to work on the things we want to work on
+* Everyone can contribute; no silos
+
+### Development workflow
+
+```mermaid
+graph TD;
+    A(Planning and prioritization) -->|Estimation | B[Ready for development];
+    B --> C[In dev];
+    C --> D[In review];
+    D --> E(Verification);
+    E --> F(Closed fa:fa-check-circle);
+```
+
+### Planning
+
+We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
+Release scope for an upcoming release should be finalized by the `1st`.
+
+On or around the `26th`: Product meets with Engineering Managers for a preliminary issue review. Issues are tagged with a milestone and are estimated initially.
+
+
+#### Historical capacity
+
+<%= partial("handbook/engineering/development/fulfillment/historical_capacity", locals: { chart_id: 7362278 }) %>
+
+### Picking something to work on
+
+Engineers can find and open [the milestone board for Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/)
+and begin working first on those with the `deliverable` label.
+
+It's possible for engineers to pick any of the remaining issues for the milestone once the deliverables are done. If the engineer has no preference, they can choose the next available issue from the top.
+
+The following table will be used as a guideline for scheduling work within the milestone:
+
+| Type        | % of Milestone | Description                                                                                |
+|-------------|----------------|-------------|------------------------------------------------------------------------------|
+| Deliverable | 40%            | business priorities (compliance, IACV, efficiency initiatives)                             |
+| Bug         | 16%            | non-critical bug fixes                                                                     |
+| Tech debt   | 10%            |                                                                                            |
+| Features    | 14%            | non-critical                                                                               |
+| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
+
+An issue will have at least 4 stages, and they should be moved accordingly using the [Fulfillment workflow board](https://gitlab.com/groups/gitlab-org/-/boards/1072626)
+
+These are:
+
+* Ready for development
+* In dev
+* In Review
+* Verification
+
+### Weekly async issue updates
+
+Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
+
+```
+<!---
+Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
+- ~"workflow::In dev"
+- ~"workflow::In review"
+- ~"workflow::verification"
+- ~"workflow::blocked"
+-->
+### Async issue update
+1. Please provide a quick summary of the current status (one sentence).
+1. When do you predict this feature to be ready for maintainer review?
+1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
+```
+
+We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
+
+### Quality
+
+#### Quad-planning workflow
+
+When a `feature` or `Deliverable` proposal issue moves into `workflow::planning breakdown`, [SETs](/handbook/engineering/quality/#stable-counterparts) owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
+1. PM applies the label `quad-planning::ready` when the feature is reviewed by the team and is ready to be implemented.
+1. SET is the DRI for the `Availability and Testing` section, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
+1. SET determines what regressions will need to be run, this is made clear in the above section.
+1. SET applies the label `quad-planning::complete-action` if they have are recommendations (e.g. running regression job, writing additional tests, etc.).
+1. SET applies the label `quad-planning::complete-no-action` if there is no additional actions needed.
+
+[Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
+
+#### Tests
+
+The CustomersDot has different types of tests running:
+
+1. Linting and [rubocop](https://github.com/rubocop-hq/rubocop) jobs
+1. Unit tests (specs, these could be of many types, such as controller specs)
+1. Integration tests (specs, mocking external calls)
+1. Frontend tests
+1. E2E integration tests (TBD)
+
+We also have a flag `VCR` that mocks external calls to Zuora by default. We have a [daily pipeline](https://gitlab.com/gitlab-org/customers-gitlab-com/pipeline_schedules) that runs at 9AM UTC with the flag set so the API calls hit the Zuora sandbox and we are notified of any failure (due to potential API changes).
+
+Any test failure is notified to #s_fulfillment_status including a link to the pipeline. Pipeline failures will prevent deployments to staging and production.
+
+### Deployment
+
+#### CustomersDot
+
+We use CD (Continuous Deployment) for [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
+
+```mermaid
+graph TD;
+    A(Merged) --> |Green tests| B(Staging);
+    B --> C[E2E Test on Staging in 40 minutes];
+    C --> D[Verification]
+    D --> E(Auto deploy to production in 2 hours);
+```
+
+If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.
+
+For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
+
+
+#### License app
+
+We use an [automatic deployment to staging, but manual deployment to production](https://docs.gitlab.com/ee/topics/autodevops/#deployment-strategy) for the license app.
+
+Maintainers of the application need to trigger a manual action on the `master` branch in order to deploy to production.
+
+#### Escalation Process
+
+In most cases an MR should follow the standard process of review, maintainer review, merge, and deployment as outlined above. When production is broken:
+
+1. First determine whether the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response) process can be followed. This will depend on availability and how critical the situation is.
+1. The three hour wait between Staging and Production auto deploy can be bypassed with a manual deployment by a Maintainer.
+1. When there are no project maintainers available ([CustomersDot](/handbook/engineering/projects/#customers-app), [license app](/handbook/engineering/projects/#license-app)) an additional GitLab Team Member with Maintainer access can be asked to assist.
+
+In these cases please ensure:
+
+1. There is an issue describing the reasons for the escalation, as per the [Rapid Engineering Response](/handbook/engineering/workflow/#rapid-engineering-response). Consider '@'mentioning the relevant [Growth/Fulfillment teams](https://gitlab.com/gitlab-org/growth).
+1. The change is announced on the [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) channel.
+
+#### Feature freeze
+
+The feature freeze for Fulfillment occurs at the same time as the rest of the company, normally around the 18th.
+
+| App | Feature freeze (*) | Milestone ends |
+| ---      |  ------  |----------|
+| GitLab.com   | ~18th-22nd   | Same as the freeze |
+| Customers/License   | ~18th-22nd   | Same as the freeze |
+
+(*) feature freeze may vary according to the [auto-deploy document](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/deploy/auto-deploy.md).
+
+Any issues not merged on the current milestone post feature freeze, will need to be moved to the next one (priority may also change for those).
+
+### Measuring Engineering Throughput
+
+One of our main engineering metrics is [throughput](/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](/handbook/values/#iteration). Read more about [why we adoped this model](/handbook/engineering/management/throughput/#why-we-adopted-this-model).
+
+We aim for 12 MRs per engineer per month which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559055/WIP:-Backend-Growth:Fulfillment-Development-Metrics).
+
+We also have a general [quality dashboard](https://quality-dashboard.gitlap.com/groups/gitlab-org/sections/group::fulfillment) for the whole Fulfillment team.
+
+### Meetings (Sync)
+
+We optionally join the Growth sync meetings on Wednesdays. See the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
+
+We hold optional synchronous social meetings weeekly, every Wednesday at 03:30pm UTC. In these meetings we chat about anything outside work.
+
+### Retrospectives
+
+After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/handbook/engineering/management/team-retrospectives/). You can find current and past retrospectives for Fulfillment in [https://gitlab.com/gl-retrospectives/fulfillment/issues/](https://gitlab.com/gl-retrospectives/fulfillment/issues/).
+
+## How to get help
+
+* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
+* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
+* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
+* To raise awareness or request elevated priority of an issue, mention [@amandarueda](https://gitlab.com/amandarueda) in the issue and provide relevant information.
+
+## Common links
+
+ * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Afulfillment)
+ * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment-meta/issues)
+ * [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
+ * [Daily standup channel #s_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_daily)
+ * [Team calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_7199q584haas4tgeuk9qnd48nc%40group.calendar.google.com)
+ * [Fulfillment technical debt status](https://app.periscopedata.com/app/gitlab/618368/Growth-technical-debt-status)

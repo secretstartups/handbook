@@ -74,24 +74,32 @@ The Growth UX team has a [handbook page](/handbook/engineering/ux/stage-group-ux
 
 ## Team Members
 
-The following people are permanent members of the Retention Group:
+The following people are permanent members of the Growth:Retention team:
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention', role_regexp: /(Growth:Retention)/) %>
 
-## Stable Counterparts
+### Group members
 
-We work closely with our colleagues in the [Expansion](/handbook/engineering/development/growth/expansion/), [Fulfillment](/handbook/engineering/development/growth/fulfillment/)
-and [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) groups.
-
-The following members of other functional teams are our stable counterparts:
+We work directly with the following people in the Growth:Retention group:
 
 <%=
 other_manager_roles = ['Director of Engineering, Growth']
 direct_managers_role = 'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention'
-roles_regexp = /[,&] (Growth)/
+roles_regexp = /Retention/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
 %>
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Acquisition](/handbook/engineering/development/growth/acquisition/)
+* [Conversion](/handbook/engineering/development/growth/conversion-product-analytics/)
+* [Expansion](/handbook/engineering/development/growth/expansion/)
+* [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
 
 ## Retention Links
 * `#g_retention` in [Slack](https://gitlab.slack.com/archives/g_retention) (GitLab internal)

@@ -105,14 +105,14 @@ The following people are permanent members of groups that belong to the Growth s
 ### Retention
 <%= department_team(base_department: "Retention Team") %>
 
-### Fulfillment Backend
-<%= department_team(base_department: "Growth:Fulfillment BE Team") %>
+### Fulfillment Provision Backend
+<%= department_team(base_department: "Fulfillment Provision Team") %>
 
-### Fulfillment Frontend
-<%= department_team(base_department: "Growth:Fulfillment FE Team") %>
+### Fulfillment Purchase Backend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Frontend]) %>
 
-### Fulfillment System Integrity
-<%= department_team(base_department: "Fulfillment SI Team") %>
+### Fulfillment Purchase Frontend
+<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Backend]) %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
@@ -152,7 +152,7 @@ other_manager_roles = [
   'Engineering Manager, Fulfillment',
   'Backend Engineering Manager, Growth:Conversion and Product Analytics, Product Manager (Acting), Product Analytics',
   'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention',
-  'Backend Engineering Manager, Fulfillment'
+  'Backend Engineering Manager, Fulfillment:Provision'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
@@ -231,7 +231,7 @@ To help our team be [efficient](/handbook/values/#efficiency), we explicitly def
 
 #### Issue Creation
 
-We aim to create issues in the same project as where the future merge request will live. For example, if an experiment is being run in the [GitLab Subscriptions App](https://customers.gitlab.com), both the issue and MR should be created in the [Subscriptions app](https://gitlab.com/gitlab-org/customers-gitlab-com) project.
+We aim to create issues in the same project as where the future merge request will live. For example, if an experiment is being run in the [GitLab CustomersDot](https://customers.gitlab.com), both the issue and MR should be created in the [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) project.
 
 We emphasize creating the issue in the right project to avoid having to close and move issues later in the development process. If the location of the future merge request cannot be determined, we will create the issue in our catch-all [growth team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/issues).
 
@@ -343,7 +343,7 @@ This issue is used to clean up an experiment after an experiment has been comple
 
 ## Growth Engineering Weekly
 
-Every week, engineers in the Growth sub-department meet to discuss topics related to growth engineering. Discussion topics include how to track experiments, A/B testing, changes in customers application, changes in gitlab application, etc. Growth Engineers are encouraged to bring discussion topics to the meeting and to them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
+Every week, engineers in the Growth sub-department meet to discuss topics related to growth engineering. Discussion topics include how to track experiments, A/B testing, changes in CustomersDot, changes in gitlab application, etc. Growth Engineers are encouraged to bring discussion topics to the meeting and to them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
 
 To get the most time zone coverage, these meetings alternate fortnightly between:
 * Wednesdays 3:00PM UTC for US/EMEA
@@ -379,4 +379,4 @@ On occasion we put together a virtual team day to help take a break and particip
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
 [Growth Performance Indicators]: /handbook/engineering/development/growth/performance-indicators/
 [Fulfillment issues board]: https://gitlab.com/gitlab-org/fulfillment/issues
-[Product Analytics issues board]: https://gitlab.com/gitlab-org/telemetry/-/issues
+[Product Analytics issues board]: https://gitlab.com/gitlab-org/product-analytics/-/issues
