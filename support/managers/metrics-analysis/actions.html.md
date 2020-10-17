@@ -28,19 +28,19 @@ Additionally it includes specific actions that might be used to shore lagging me
 
 ### Hypothesis 1 for SSAT
 
-##### Past Analysis
+#### Past Analysis
 {:.no_toc}
 
-##### Shaping Actions
+#### Shaping Actions
 {:.no_toc}
 
 ## NRT is below target
 ### Hypothesis 1 for NRT
 
-##### Past Analysis
+#### Past Analysis
 {:.no_toc}
 
-##### Shaping Actions
+#### Shaping Actions
 {:.no_toc}
 
 
