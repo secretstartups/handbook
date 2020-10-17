@@ -2218,6 +2218,12 @@ We track our product performance via our [Product Performance Indicator pages](/
     1. Stage level - SMAU, Paid SMAU, Other PI
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
+1. Determine the right [collection framework](/direction/product-analytics/#collection-framework) to utilize. Some guidance for considering collection frameworks:
+  * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
+   * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
+   * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javasciprt) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
+   * **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts. 
+   * **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Instrument the metric. This is typically done by leveraging usage ping to track unique user counts. There are a number of technical options outlined here.
 1. Dashboard the metric. This is done by creating a Sisense dashboard. Avoid cumulative views and instead focus on month-over-month growth. Instructions for creating dashboards are here.
 1. Set a growth target, and embed in the tracking dashboard. Growth targets should be ambitious but achievable.
