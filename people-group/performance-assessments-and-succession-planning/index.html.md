@@ -308,6 +308,7 @@ This change will impact both team members and managers.
 * **When should I expect these changes to occur?** 
     * We are launching the talent review process at the beginning of November. Calibration discussions will happen throughout the month. The program will be approved by early December. The Annual Compensation Review program will kick off in January. For a more detailed timeline, please review the [initial launch timeline](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#initial-launch-timeline) above.
 
+We will continue to add additional questions and answers as the program progresses. 
 ## Succession Planning
 
 The succession planning process starts with leaders doing a [performance/potential matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) of each of their direct reports.
