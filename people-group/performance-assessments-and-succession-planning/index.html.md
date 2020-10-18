@@ -150,7 +150,7 @@ High potential generally indicates that a team members will be ready for promoti
 
 ## Calibration Session Guidelines
 
-The portion of the Performance/Potential matrix that often entails the most significant time commitment is the live calbiration session of team members with leadership. The calibration session is very valuable to ensure consistency across the Job Family and level, raise any questions, and provide cross-departmental and/or cross-divisional feedback on team members to capture the assessment of different managers as opposed to the opinion of the direct manager exclusively. 
+The portion of the Performance/Potential matrix that often entails the most significant time commitment is the live calibration session of team members with leadership. The calibration session is very valuable to ensure consistency across the Job Family and level, raise any questions, and provide cross-departmental and/or cross-divisional feedback on team members to capture the assessment of different managers as opposed to the opinion of the direct manager exclusively. 
 
 ### Pre Work
 
