@@ -167,11 +167,13 @@ In Network:
 | Generic                    | $10                    | $10                | $10               |
 | Brand - Preferred          | $30                    | $30                | $30               |
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
+| Rx Plan^                   | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) |
 
 ** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an OOPM of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans. 
 
 *** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
 
+^ The linked Prescription Drug List is subject to change. When making a change mid-year, Cigna states that they will send out the following communication to impacted members: centralized notification 60 days prior, 2 letters before the change, and 1 letter after the change.
 
 **Team Member Costs:**
 
