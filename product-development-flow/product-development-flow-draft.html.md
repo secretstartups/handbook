@@ -236,14 +236,14 @@ If the problem is nuanced, then it will likely take longer to validate with user
 | Role |Function|
 |---|---|
 | DRI | - Product Designer |
-| Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
+| Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Technical Writer|
 | Informed | TBD |
 
 #### Description
 
 After understanding and validating the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. 
 
-The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Tech Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
+The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -274,7 +274,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | ---           | ---                          |
 | DRI           | - Product Designer             |
 | Collaborators | - Product Manager <br>- Engineering |
-| Informed      |  - Technical Writing <br>- Quality |
+| Informed      |  - Technical Writer <br>- Quality |
 
 #### Description
 
@@ -370,7 +370,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role                                                           | Function                                                                |
 |----------------------------------------------------------------|-------------------------------------------------------------------------|
 | DRI                                                            | - Product Manager                                                       |
-| Collaborators                                                  | - Engineering Manager, Product Designer, SETs                           |
+| Collaborators                                                  | - Engineering Manager, Product Designer, SETs, Engineers                |
 | Informed                                                       | - PMM, TAM                                                              |
 
 #### Description
@@ -405,7 +405,6 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 | Labels 	| Usage 	|
 |-	|-	|
 | `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
-| `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
 | `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
 | `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
 | `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
@@ -417,7 +416,7 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 |------------------------------------------------------------|-----------------------------------------------------------------|
 | DRI                                                        | - Assigned engineer                                             |
 | Collaborators                                              | - Product Manager <br> - Quality Engineering <br> - Technical Writer |
-| Informed                                                   | - Product Marketing <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
+| Informed                                                   | - Product Marketing <br> - Engineering Manager <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
 
 #### Description
 
@@ -438,7 +437,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 #### <kbd class="required">Required 🔎</kbd> Outcomes
 
-**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
+**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). The EM will work with Engineers periodically to ensure appropriate status information is visible to stakeholders. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
 **Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
 
@@ -504,7 +503,7 @@ After launch, the Product Manager and Product Designer should pay close attentio
 
 #### <kbd class="required">Required 🔎</kbd> Outcomes 
 
-- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to undrestand the qualitative feedback that we're hearing from users and team members.  <br>
+- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members.  <br>
 - **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  <br> 
 - **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information.  
 
