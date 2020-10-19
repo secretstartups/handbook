@@ -51,10 +51,12 @@ The video below shows you how to add your GitLab Certificate to your LinkedIn Pr
   <iframe src="https://www.youtube.com/embed/_u9DImCd2OM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+### LinkedIn with a PDF
+
 If you recieved a PDF of your certificate and you have a Google account, you can follow these instructions to upload your certificate to your LinkedIn Profile. 
 
 <figure class="video_container">
-  <iframe src="add url" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/NiyTxh-5ljM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Missed Certificate 
