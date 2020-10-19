@@ -340,66 +340,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * Whitesource
 
 
-### Defend
-
-#### Insider Threat
-
-* [A10Networks](https://www.a10networks.com/)
-* [Absolute](https://www.absolute.com/)
-* [AnhLab](https://global.ahnlab.com/)
-* [Akamai](https://www.akamai.com/)
-* [Alterlogic](https://www.alertlogic.com/solutions/threat-detection-response)
-* [AT&T Cybersecurity/Alienvault](https://cybersecurity.att.com/)
-* [Anomali](https://www.anomali.com/)
-* [Anity](https://www.antiy.net/)
-* [Armor](https://www.armor.com/)
-* [Arxan](https://www.arxan.com/)
-* [Avira](https://www.avira.com/)
-* [Awake](https://awakesecurity.com/product/)
-* [Azure Security Centre](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro)
-* [Bitdefender](https://www.bitdefender.com/)
-* [Bitglass](https://www.bitglass.com/)
-* [Bitsight](https://www.bitsight.com/)
-* [Blueliv](https://www.blueliv.com/)
-* [Braintrace](https://braintrace.com/)
-* [Bwise](https://www.bwise.com/solutions/cyber-security/information-security-management)
-* [Carbon Black](https://www.carbonblack.com/products/vmware-carbon-black-cloud/)
-* [Cato](https://www.catonetworks.com/)
-* [Centrify](https://www.centrify.com/privileged-access-management/privilege-threat-analytics/)
-* [Check Point Threat Intelligence](https://www.checkpoint.com/products-solutions/threat-intelligence/)
-* [Cipher](https://cipher.com/mdr-managed-detection-and-response/)
-* [Cisco Stealthwatch](https://www.cisco.com/c/en/us/products/security/stealthwatch-cloud/index.html)
-* [Claroty](https://www.claroty.com/)
-* [Clearswift](https://www.clearswift.com/solutions/web-security)
-* [Code42](https://www.code42.com/)
-* [Comodo](https://www.comodo.com/)
-* [Crowdstrike](https://www.crowdstrike.com/)
-* [Cyberinc](https://cyberinc.com/isla/)
-* [Cyberreason](https://www.cybereason.com/deep-threat-intelligence)
-* [Cylance](https://www.cylance.com/)
-* [Cyren](https://www.cyren.com/products/threat-indepth)
-* [Darktrace](https://www.darktrace.com/en/)
-* [Digital Defense](https://www.digitaldefense.com/solution-overview/)
-* [Digital Guardian](https://digitalguardian.com/)
-* [ePLus](https://www.eplus.com/solutions/security/security-outcomes/secure-mission-critical-data)
-* [ESET](https://www.eset.com/int/business/services/threat-intelligence/)
-* [Exabeam](https://www.exabeam.com/)
-* [F5](https://www.f5.com/solutions/application-security/)
-* [FireEye](https://www.fireeye.com/)
-* [Forcepoint](https://www.forcepoint.com/)
-* [GoSecure](https://www.gosecure.net/)
-* [HP Sure Click](https://www8.hp.com/us/en/solutions/sure-click-enterprise.html)
-* [Imperva](https://www.imperva.com/) 
-* [Logrythm](https://logrhythm.com/)  
-* [McAfee](https://www.mcafee.com/enterprise/en-gb/home.html)
-* [NetScout](https://www.netscout.com/arbor-ddos)
-* [Palo Alto Networks](https://www.paloaltonetworks.com/)
-* [Rapid7](https://www.rapid7.com)
-* [Sonotype](https://www.sonatype.com/nexus-intelligence)
-* [Splunk](https://www.splunk.com/) 
-* [Symantec](https://securitycloud.symantec.com/cc/#/landing) 
-*
-
+### Protect
 
 #### Container Security
 
@@ -414,7 +355,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * [Barracuda Networks](https://www.barracuda.com/products/webapplicationfirewall)
 * [Capsulate Protect](https://capsule8.com/resource/capsule8-protect-product-overview/)
 * [Check Point Container Security](https://www.checkpoint.com/solutions/container-security/)
-* [Citrix Web App Firewall](/handbook/product/product-categories/#defend-stage)
+* [Citrix Web App Firewall](/handbook/product/product-categories/#protect-stage)
 * [Cloudflare](https://www.cloudflare.com/waf/)
 * [CloudPassage Container Secure](https://pages.cloudpassage.com/rs/857-FXQ-213/images/Container-Secure-data-sheet_03082018-1.pdf?_ga=2.80309470.834074949.1589860053-306212359.1589860053)
 * [Comodo](https://www.comodo.com/)

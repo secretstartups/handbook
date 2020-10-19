@@ -352,7 +352,7 @@ Chun Du (Director of Engineering, Enablement)
 
 
 
-## Defend
+## Protect
 
 # Frontend Engineering
 
@@ -572,7 +572,7 @@ Our solution plays well with others, works for teams of any size and composition
 **Leadership Team:**
 Gerardo Lopez-Fernandez, Director of Engineering - Infrastructure
 David Smith, Engineering Manager - Reliability Engineering, CI/CD and Enablement
-Anthony Sandoval, Engineering Manager - Reliability Engineering, Secure and Defend
+Anthony Sandoval, Engineering Manager - Reliability Engineering, Secure and Protect
 Jose Finotto, Engineering Manager - Reliability Engineering, Dev and Ops
 **Useful links:**
 [Infrastructure handbook](/handbook/engineering/infrastructure/team/)
