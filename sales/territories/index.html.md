@@ -181,7 +181,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe Central | Europe Central | **Large-EMEA-CH/AUS** | Thomas Bosshard | Peter Kunkli |
 | Europe Central | Germany | **Large-EMEA-Germany** | Rene Hoferichter | Gábor Zaparkanszky |
 | Europe East | Europe East | **Large-EMEA-Eastern Europe** | Vadim Rusin | Arianna Bellino |
-| Europe South | Europe South | **Large-EMEA-France** | Aleksandar Bosnic | Magali Bressan |
+| Europe South | Europe South | **Large-EMEA-France** | Anthony Seguillon | Magali Bressan |
 | Europe South | Europe South | **Large-EMEA-Italy** | Vadim Rusin | Arianna Bellino |
 | Europe South | Europe South | **Large-EMEA-Portugal** | Vadim Rusin | Camilo Villanueva |
 | Europe South | Europe South | **Large-EMEA-Spain** | Vadim Rusin | Camilo Villanueva |
