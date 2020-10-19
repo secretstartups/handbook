@@ -286,7 +286,33 @@ We discourage communicating the points above directly with team members because:
 * To stay iterative, we wanted to rollout the first iteration of the talent assessment this year. As a result, we have prioritized the development of Performance axis guidelines and criteria (as it will impact compensation during the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review)), and the Potential axis criteria is still being developed. We want to make sure our guidelines and defining criteria are clear before communicating Potential. 
 * To allow an opportunity to receive feedback on the Performance/Potential matrix process to determine whether this is the talent assessment tool we will use moving forward. 
 
+### Performance / Potential Review FAQs
+* **How is this different from what we did in the past?** <br>
+    * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
+    * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review - managers go through a process to assess someone’s knowledge, skills and abilities also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
 
+* **Why does this matter to me?** <br> 
+This change will impact both team members and managers. 
+    * Team Members’ performance will be assessed (developing, performing, or exceeding) as well as potential. Team Members should be prepared to have a conversation with their manager about their performance in December. <br>
+    * Managers will need to assess their team member’s performance (developing, performing or exceeding). They will also need to attend a calibration meeting in which team member’s ratings are discussed and evaluated for consistency across the team. Once the program closes, managers will be responsible for communicating performance to team members and in some organizations, potential will be communicated to team members as well. <br>
+
+* **How does this impact the teams I lead?** 
+    * As a manager, you will be required to assess your direct team member’s performance and potential. You will also be required to participate in calibration discussions in which ratings are reviewed to ensure consistency and minimize bias. After the program is approved, you will be responsible for communicating the performance axis with your team member. In some organizations, potential will be communicated as well. <br>
+
+* **Who I can reach out to in supporting me with rolling this out with my team?**  
+    * You can reach out to your manager or your [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) to assist you with this process. <br>
+
+* **How will this impact the way I work at GitLab?** 
+    * This will not impact the way that you work at GitLab. Performance is measured by your job description responsibilities and competencies (remote work, values and if applicable department specific competencies). Both of these things have been in place for a while so this should not impact what you focus on or how you work. <br>
+
+* **When should I expect these changes to occur?** 
+    * We are launching the talent review process at the beginning of November. Calibration discussions will happen throughout the month. The program will be approved by early December. The Annual Compensation Review program will kick off in January. For a more detailed timeline, please review the [initial launch timeline](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#initial-launch-timeline) above. <br>
+
+* **As a manager, am I required to assess both performance and potential for the first iteration? (FY'21 Q4)?** 
+    * For the reasons stated above in the [communication dos and don'ts](/handbook/people-group/performance-assessments-and-succession-planning/#do-communicate) section, we recommend that groups assess both performance and potential. However, all that is required in FY'21 Q4 is the assessment of performance, as this will impact compensation. There should be assessment consistency within each department at GitLab. Please confirm with your manager or People Business Partner whether your group will be assessing both performance and potential, or just performance for this iteration.
+
+
+We will continue to add additional questions and answers as the program progresses. 
 ## Succession Planning
 
 The succession planning process starts with leaders doing a [performance/potential matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) of each of their direct reports.
@@ -296,10 +322,10 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 | Person    | Jane Doe | John Doe |
 |-----------|---|---|
 | Role      | Job Title  | Job Title  |
-| Emergency | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave |   |
-| Ready Now | Someone who could be promoted into the role today  |   |
-| 1-2 Years | Someone who could be trained and elevated into the role in 1-2 years  |   |
-| 3-5 Years | Someone who could be trained and elevated into the role in 3-5 years  |   |
+| Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave |   |
+| Ready Now (RN) | Someone who could be promoted into the role today  |   |
+| Ready in less than 1 year (R1) | Someone who could be trained and elevated into the role in less than 1 year  |   |
+| Ready in 1 year or more (R1+) | Someone who could be trained and elevated into the role in 1 year or more  |   |
 
 ## Resources
 
