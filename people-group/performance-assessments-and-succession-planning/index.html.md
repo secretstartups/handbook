@@ -318,10 +318,10 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 | Person    | Jane Doe | John Doe |
 |-----------|---|---|
 | Role      | Job Title  | Job Title  |
-| Emergency | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave |   |
-| Ready Now | Someone who could be promoted into the role today  |   |
-| 1-2 Years | Someone who could be trained and elevated into the role in 1-2 years  |   |
-| 3-5 Years | Someone who could be trained and elevated into the role in 3-5 years  |   |
+| Emergency (ER) | Someone who could take over this role if the current person were affected by a [lottery factor](/handbook/total-rewards/compensation/#competitive-rate) or had to take emergency leave |   |
+| Ready Now (RN) | Someone who could be promoted into the role today  |   |
+| Ready in less than 1 year (R1) | Someone who could be trained and elevated into the role in less than 1 year  |   |
+| Ready in 1 year or more (R1+) | Someone who could be trained and elevated into the role in 1 year or more  |   |
 
 ## Resources
 
