@@ -306,7 +306,11 @@ This change will impact both team members and managers.
     * This will not impact the way that you work at GitLab. Performance is measured by your job description responsibilities and competencies (remote work, values and if applicable department specific competencies). Both of these things have been in place for a while so this should not impact what you focus on or how you work. <br>
 
 * **When should I expect these changes to occur?** 
-    * We are launching the talent review process at the beginning of November. Calibration discussions will happen throughout the month. The program will be approved by early December. The Annual Compensation Review program will kick off in January. For a more detailed timeline, please review the [initial launch timeline](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#initial-launch-timeline) above.
+    * We are launching the talent review process at the beginning of November. Calibration discussions will happen throughout the month. The program will be approved by early December. The Annual Compensation Review program will kick off in January. For a more detailed timeline, please review the [initial launch timeline](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#initial-launch-timeline) above. <br>
+
+* **As a manager, am I required to assess both performance and potential for the first iteration? (FY'21 Q4)?** 
+    * For the reasons stated above in the [communication dos and don'ts](/handbook/people-group/performance-assessments-and-succession-planning/#do-communicate) section, we recommend that groups assess both performance and potential. However, all that is required in FY'21 Q4 is the assessment of performance, as this will impact compensation. There should be assessment consistency within each department at GitLab. Please confirm with your manager or People Business Partner whether your group will be assessing both performance and potential, or just performance for this iteration.
+
 
 We will continue to add additional questions and answers as the program progresses. 
 ## Succession Planning
