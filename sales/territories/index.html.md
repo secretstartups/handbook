@@ -118,31 +118,31 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 #### Public Sector
 
-| Sub-Region | **Territory Name** | Strategic Account Leader | Inside Sales Rep |
-| ---------- | -------------- | ------------------------ | ---------------- |
-| Public Sector | **Federal - Civilian-2** | Susannah Reed | Christine Saah |
-| Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan |
-| Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston |
-| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah |
-| Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston |
-| Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw |
-| Public Sector | **State and Local (SLED West)** | Dave Lewis | Victor Brew |
-| Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew |
-| Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw |
-| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper |
-| Public Sector | **Federal - DoD-Air Force-2** | Dan Foley | Craig Pepper |
-| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper |
-| Public Sector | **Federal - DoD-Navy-1** | Jon Scadden | Patrick Gerhold |
-| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold |
-| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Peg Sheridan |
-| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Peg Sheridan |
-| Public Sector | **Federal - DoD-Agencies** | Scott McKee | Peg Sheridan |
-| Public Sector | **Federal - NSG-1** | Marc Kriz | Joe Fenter |
-| Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter |
-| Public Sector | **Federal - NSG-3** | Ian Moore | Christine Saah |
-| Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan |
-| Public Sector | **Federal - NSG-5** | John McLean | Bill Duncan |
-| Public Sector | **Federal - NSG-6** | Garry Judy | Christine Saah |
+| Sub-Region | **Territory Name** | Strategic Account Leader | Inside Sales Rep | SDR
+| ---------- | -------------- | ------------------------ | ---------------- | ---------------- |
+| Public Sector | **Federal - Civilian-2** | Susannah Reed | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan | Evan Mathis |
+| Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston | Evan Mathis |
+| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston | Evan Mathis |
+| Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
+| Public Sector | **State and Local (SLED West)** | Dave Lewis | Victor Brew | Evan Mathis |
+| Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
+| Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
+| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-2** | Dan Foley | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Navy-1** | Jon Scadden | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Peg Sheridan | Josh Downey |
+| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Peg Sheridan | Josh Downey |
+| Public Sector | **Federal - DoD-Agencies** | Scott McKee | Peg Sheridan | Josh Downey |
+| Public Sector | **Federal - NSG-1** | Marc Kriz | Joe Fenter | Josh Downey |
+| Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey |
+| Public Sector | **Federal - NSG-3** | Ian Moore | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis |
+| Public Sector | **Federal - NSG-5** | John McLean | Bill Duncan | Evan Mathis |
+| Public Sector | **Federal - NSG-6** | Garry Judy | Christine Saah | Evan Mathis |
 
 #### APAC
 
@@ -203,28 +203,28 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | LATAM | **MM-AMER-EAST-LATAM** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Todd Lauver | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-DC** | Todd Lauver | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-GA** | Daniel Parry | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-FL** | Daniel Parry | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-VA** | Todd Lauver | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-Toronto** | Daniel Parry | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-ON** | Steve Xu | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-QB** | Todd Lauver | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-MI** | Daniel Parry | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-WI** | Daniel Parry | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-Northeast** | Todd Lauver | Kelsey Claflin |
-| NA East | US East | **MM-AMER-EAST-NYPa** | Steve Xu | Phillip Knorr |
-| NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | Evan Mathis |
-| NA East | US East | **MM-AMER-EAST-TriState** | Steve Xu | Kelsey Claflin |
-| NA East | US East | **MM-AMER-EAST-TriState-CTNJ** | Todd Lauver | Kelsey Claflin |
-| NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | Ariah Curtis |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-DC** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-GA** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-FL** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-VA** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral-Toronto** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral-ON** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral-QB** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral-MI** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral-WI** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-Northeast** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NYPa** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-TriState** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-TriState-CTNJ** | Todd Lauver | MM SDR |
+| NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
 | NA West | US West | **MM-AMER-WEST-NorCal** | Rashad Bartholomew | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SV** | Laura Shand. | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-PacWest** | Rashad Bartholomew | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-SF** | Laura Shand | Ariah Curtis |
+| NA West | US West | **MM-AMER-WEST-SF** | Laura Shand | MM SDR |
 | NA West | US West | **MM-AMER-WEST-SoCal/AZ/HI** | Douglas Robbin | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-Southwest-KS** | Laura Shand | Josh Weatherford |
 | NA West | US West | **MM-AMER-WEST-Southwest-MO** | Douglas Robbin | Josh Weatherford |
@@ -234,7 +234,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | US West | **MM-AMER-WEST-Southwest-TX** | Laura Shand | Josh Weatherford |
 | NA West | US West | **MM-AMER-Named 1** | Chris Chiappe | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-Named 2** | TBD-Multiple Owners* | Josh Weatherford |
-| NA East | US East | **MM-AMER-Named 3** | Alyssa Belardi | Gee Lee |
+| NA East | US East | **MM-AMER-Named 3** | Alyssa Belardi | MM SDR |
 | NA East | US East | **MM-AMER-Named 4** | Sharif Bennett | Shakarra McGuire |
 
 #### APAC
@@ -332,7 +332,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | US West | **SMB-AMER-Washington** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West  | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
 
-^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Jenny Chapman and Jada Rogers
+^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Phillip Knorr and Kelsey Steyn 
 
 #### APAC
 
