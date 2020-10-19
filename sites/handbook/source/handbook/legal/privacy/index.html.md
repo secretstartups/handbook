@@ -11,6 +11,9 @@ title: "GitLab Privacy"
 
 Much of the conversation about privacy references the GDPR, but this is only part of GitLab's dedication to user and team member privacy. The GDPR applies only to processing data of European Union subjects. However, GitLab treats all its users and team members the same, using the same standards for respecting privacy regardless of where the individual is located. This page is intended to help GitLab team members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our team members and users.
 
+## Privacy Training
+Team members are required to to complete an annual training course covering general privacy practices worldwide. The goal of the course is to ensure team members understand how to handle personal data not only to ensure GitLab is compliant with legal and regulatory obligations but also to maintain the trust our customers have placed in us. The Slack channel #compliance-training is available for questions and concerns.
+
 ## Privacy Glossary
 
 **Privacy by Design.** Privacy by Design is a concept predating the GDPR that focuses on intentionally designing a product that addresses privacy concerns of the individual. Under the GDPR ([Art. 25 GDPR](https://gdpr-info.eu/art-25-gdpr/)), data controllers have an obligation to consider appropriate technical and organizational measures when making product design decisions, such as determining the means of processing Personal Data. "Such measures could consist, inter alia, of minimising the processing of personal data, pseudonymising personal data as soon as possible, transparency with regard to the functions and processing of personal data, enabling the data subject to monitor the data processing, enabling the controller to create and improve security features." ([GDPR Recital 78](https://gdpr-info.eu/recitals/no-78/))
