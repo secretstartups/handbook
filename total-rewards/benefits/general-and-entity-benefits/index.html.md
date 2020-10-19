@@ -25,7 +25,7 @@ For the avoidance of doubt, the benefits listed below in the General Benefits se
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
-- [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd) 
+- [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd)
 - [Remote (South Africa, Mexico and Hungary)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
 - [Safeguard (Ireland, Hungary, Spain, Italy, France, Brazil, South Africa and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
@@ -236,7 +236,7 @@ I'm planning to take Parental Leave, what should I do before my leave starts?
 * Firstly, celebrate as this is an exciting time! Congratulations to you and your family! Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). You must initiate your Parental Leave at least 30 days before the leave starts.
 
 How do I initiate my Parental Leave?
-* Submit your time off by selecting the Parental Leave category in PTO Ninja at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
+* Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
 
 Will I get a confirmation that Total Rewards received my Parental Leave request?
 * Yes, Total Rewards will send you an e-mail within 48 hours confirming that they've been notified of your Parental Leave dates.
@@ -254,7 +254,7 @@ When does my Parental Leave coverage begin if I don't meet the initial requireme
 * GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
 
 Can I change the dates of my Parental Leave?
-* Absolutely, you can edit your Parental Leave dates via PTO Ninja. Total Rewards will receive a notification everytime you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
+* Absolutely, you can edit your Parental Leave dates via PTO by Roots. Total Rewards will receive a notification everytime you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
 * Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to Total Rewards.
 
 Is the 16-week balance per birth or adoption event?
@@ -265,7 +265,7 @@ I haven't been at GitLab for 6 months, can I go on Paid Time Off to spend time w
 
 What support is available after I return from Parental Leave?
 * This [handbook page](/handbook/paid-time-off/#returning-to-work-after-parental-leave) has resources for team members returning to work after parental leave.
-* You may [return to work at 50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Please note, if you wish to use your Parental Leave on a part-time basis, you may arrange this via PTO Ninja (for instance, taking 2 days of Parental Leave out of 5 weeks for a certain period of time). If you have used up your Parental Leave balance of 16 weeks and you wish to return to work on a part-time capacity, discuss your options with your manager first.
+* You may [return to work at 50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Please note, if you wish to use your Parental Leave on a part-time basis, you may arrange this via PTO by Roots (for instance, taking 2 days of Parental Leave out of 5 weeks for a certain period of time). If you have used up your Parental Leave balance of 16 weeks and you wish to return to work on a part-time capacity, discuss your options with your manager first.
 
 Is there anything else that I need to know to initiate my Parental Leave?
 * Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your country's leave policy:
@@ -280,7 +280,7 @@ Is there anything else that I need to know to initiate my Parental Leave?
     * [GitLab PTY Australia Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-parental-leave-administrative-details)
 
 **Process for Total Rewards Analysts**
-  * PTO Ninja will notify Total Rewards of any upcoming parental leave.
+  * PTO by Roots will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify the team member that the parental leave request was received by sending the confirmation e-mail (Only send this e-mail if the team member is starting their parental leave. Team members who are splitting their leave or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
@@ -289,4 +289,4 @@ Is there anything else that I need to know to initiate my Parental Leave?
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
   * 1 day before the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Confirm the team member's return by sending the return to work e-mail to the team member and manager. If the team member or manager doesn't reply at least 1 business day after the End of Parental Leave Date, follow up again or ping the manager to confirm the team member has returned from leave.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
-  * If the dates in PTO Ninja change, update the payroll changes file and the BambooHR status accordingly.
+  * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.

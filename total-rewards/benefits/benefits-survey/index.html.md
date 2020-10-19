@@ -38,15 +38,15 @@ Thank you again for playing a part in our efforts to continually improve total r
   * [India](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india/): Complete
   * [Czech Republic](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/174): Complete
   * To be added based on country list from the Country Conversion Team.
-* New Entity Benefits Review  
+* New Entity Benefits Review
   * [Ireland](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/167): Pending implementation, plan design complete.
 * Existing Entity Benefits Review
   * Netherlands: Implement a Pension Plan. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/179)
   * Canada Pension Plan
-  * Belgium Benefits  
+  * Belgium Benefits
   * UK Benefits
   * Germany entity specific benefits
-  * Review US 401k plan match  
+  * Review US 401k plan match
 * Review Paid Medical Leave Plan for 16 weeks
 * Review Coaching Program for Parental Leave. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/130)
 * Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
@@ -265,7 +265,7 @@ By demographic:
 1. I believe our benefits package is one of the top reasons people apply to work at GitLab.
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
-    |------------------------|------------|------------|------------|        
+    |------------------------|------------|------------|------------|
     | Male	                 | 2.87       | 3.04       |  5.87%     |
     | Female                 | 2.81       | 3.16       | 12.40%     |
     | Individual Contributor | 2.96       | 3.18       |  7.38%     |
@@ -591,7 +591,7 @@ By demographic:
       * Family first/family time.
       * Addressing burn out/taking time to rest.
       * Example from peers.
-      * PTO Ninja reminders.
+      * PTO by Roots reminders.
       * Friends and Family Day specifically.
 
 1. I participated in the Simple Habit free trial and would like to see this benefit offered permanently (survey respondents were instructed to select one).
@@ -949,14 +949,14 @@ By demographic:
 | Discovery                  | 113   | 26%              |
 | Optum                      | 47    | 11%              |
 | WageWorks                  | 44    | 10%              |
-| No Preference              | 17    | 4%               |  
+| No Preference              | 17    | 4%               |
 | No Response                | 151   | 35%              |
 | Other (Expanded on below.) | 53    | 12%              |
 
 * Summary of Other responses:
      * Don't utilize this benefit.
      * Not informed enough on the choices to respond.
-     * Option not listed above.  
+     * Option not listed above.
 
 13. If GitLab were to convert you to a team member employed through an entity, what benefits would you expect to receive/are offered by most employers in your country? (select all that apply)
 

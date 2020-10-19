@@ -34,7 +34,7 @@ The Australian Taxation Office (ATO) states the following:
 Payments due dates can be found on the [ATO website](https://www.ato.gov.au/business/super-for-employers/paying-super-contributions/when-to-pay-super/).
 
 ### Superannuation Salary Sacrifice
-Team members in Australia have the option to make concessional super contributions by sacrificing some of their pre-tax pay and arrange to have it paid into their superfund instead. The combined total of GitLab and salary sacrificed contributions [must not be more than $25,000](https://moneysmart.gov.au/grow-your-super/super-contributions) per financial year. 
+Team members in Australia have the option to make concessional super contributions by sacrificing some of their pre-tax pay and arrange to have it paid into their superfund instead. The combined total of GitLab and salary sacrificed contributions [must not be more than $25,000](https://moneysmart.gov.au/grow-your-super/super-contributions) per financial year.
 
 *Salary Sacrifice FAQ*
 
@@ -50,9 +50,9 @@ Team members in Australia have the option to make concessional super contributio
 GitLab does not plan to offer life insurance at this time as Australians can access [government payments and services](https://www.humanservices.gov.au/individuals/subjects/payments-people-living-illness-injury-or-disability) if they get ill, injured or have a disability. Most Australians who choose to have life insurance take out cover from their super fund.
 
 ### GitLab PTY Australia Annual, Sick and Carer's Leave
-Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. This balance won't have a cap to align with GitLab's unlimited PTO policy. 
+Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. This balance won't have a cap to align with GitLab's unlimited PTO policy.
 
-Selecting the `Out Sick` option in PTO Ninja will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
 
 ### GitLab PTY Australia Parental Leave Administrative Details
@@ -105,7 +105,7 @@ New Zealand team members are eligible for a one time reimbursement of up to $750
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.
 
 ### Pension
-GitLab's KiwiSaver contributions will be 3% on top of base salary. Team members will automatically be enrolled in the KiwiSaver scheme but may elect to opt out within the first 56 days of employment. GitLab will deduct a participating team member's contributions from their before-tax pay at the team member's chosen contribution rate (3%, 4%, 6%, 8% or 10%). If a team member does not choose a contribution rate, the default rate of 3% will be used to calculate deductions. 
+GitLab's KiwiSaver contributions will be 3% on top of base salary. Team members will automatically be enrolled in the KiwiSaver scheme but may elect to opt out within the first 56 days of employment. GitLab will deduct a participating team member's contributions from their before-tax pay at the team member's chosen contribution rate (3%, 4%, 6%, 8% or 10%). If a team member does not choose a contribution rate, the default rate of 3% will be used to calculate deductions.
 
 ### Life Insurance
 GitLab does not plan at this time to offer Life Insurance benefits because New Zealanders can access [government payments and services](https://www.workandincome.govt.nz/providers/health-and-disability-practitioners/health-and-disability-related-benefits.html) to help if they get ill, injured or have a disability.
