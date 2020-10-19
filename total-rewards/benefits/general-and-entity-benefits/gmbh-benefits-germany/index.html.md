@@ -29,7 +29,7 @@ GitLab does not plan to offer Life Insurance Benefits because team members can a
 
 ## GitLab GmbH Germany Leave Policy
 
-To apply for a parental leave, please send a letter to People Ops confirming the dates. People Ops will file the letter in BambooHR and forward to our German payroll provider to process.
+To initiate your Parental Leave, submit the dates in PTO Ninja under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
 
 **Maternity Protection**
 Maternity protection is explained in the Maternity Protection Act (Mutterschutzgesetz). Generally, 6 weeks before the estimated date of birth and 8 weeks after the date of birth the pregnant employee is released from work. This period can differ in case of special circumstances (twins, preterm birth). The employee will receive full payment of her salaries from the employer. The employer receives a refund of these amounts through an application process with the state.
@@ -39,7 +39,6 @@ An employee is entitled to parental leave until the child turns three. The emplo
 
 Parental allowance is a state benefit for parents who would like to look after the child themselves after the birth, and therefore are not in full-time work or are not working at all. If mothers and fathers share the parental allowance, they receive parental allowance for a maximum of 14 months. Each parent can draw a minimum of two and a maximum of twelve months' parental allowance. Lone parents are entitled to the full 14 months' parental allowance.
 
-For more information on Parental Leave in Germany please see the following [pamphlet](https://drive.google.com/file/d/1NFv1Y7ZpqMgAyW-Y4eyq_Ci5mMvqFRTt/view?usp=sharing) from our entity contacts at RPI.
 
 ## Sick Time During COVID-19
 
