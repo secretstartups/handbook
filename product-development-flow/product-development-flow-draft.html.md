@@ -215,7 +215,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 |---|---|
 | DRI | - Product Designer |
 | Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
-| Informed | TBD |
+| Informed | [Stakeholders](#stakeholders) |
 
 #### Description
 
@@ -477,7 +477,7 @@ Label: n/a
 |---|---|
 | DRI | - Product Manager |
 | Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
-| Informed | - Engineering Team <br> - Leadership - TBD <br> - Other relevant stakeholders - TBD |
+| Informed | - Engineering Team <br> - Leadership<br> - [Stakeholders](#stakeholders) |
 
 #### Description 
 
