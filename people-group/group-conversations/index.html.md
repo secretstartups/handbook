@@ -230,7 +230,7 @@ The schedule with directly responsible individuals (DRI) is as follows through t
 | Two  | Mon  | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
 | Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
 | Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
-| Two  | Thur | [Secure & Defend Section](/handbook/product/product-categories/#secure--defend-section)  | David DeSanto  |
+| Two  | Thur | [Secure & Protect Section](/handbook/product/product-categories/#secure--protect-section)  | David DeSanto  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
