@@ -172,7 +172,7 @@ Once references are completed or as they are in progress, the Recruiter will mov
 
 ### **Step 10: Req Retro Issue**
 
-When a candidate is moved to the Offer stage in Greenhouse the CES is notified via the Greenhouse notification configuration. At that time the CES should create the [Req Retro Issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.  
+Once a candidate has signed their offer document, at that time the CES that sent the contract should create the [Req Retro Issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.  
 
 ### **Step 11: Verbal Offer**
 
