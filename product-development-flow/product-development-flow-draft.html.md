@@ -181,7 +181,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 |---|---|
 | DRI: | - Product Manager |
 | Collaborators: | - UX Researcher |
-| Informed: | - Product Designer <br> - Engineering Team <br>- Stakeholders - TBD <br>- Leadership - TBD |
+| Informed: | - Product Designer <br> - Engineering Team <br>- Other [stakeholders](#stakeholders) as appropriate |
 
 
 #### Description
