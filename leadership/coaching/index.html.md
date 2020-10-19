@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Leadership"
+title: "Coaching"
 ---
 
 ## On this page
@@ -9,19 +9,19 @@ title: "Leadership"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##### Coaching at GitLab
+## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
 [one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/people-group/leadership-toolkit/career-development-conversations/), [leading teams](/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
 
-##### Selecting a coach
+## Selecting a coach
 
 There are various ways to find a coach at GitLab:
 * [Modern Health](/handbook/total-rewards/benefits/modern-health/), our Employee Assistance Program provides professional coaching to support development areas on the feedback you receive. 
 * Consider a senior to you in your larger team or someone outside of your team that has inspired you on the specific areas you are working and developing on. 
 * Your current Manager can be a coach that steers you towards future goals. Please ensure that your Manager can take you on in a coaching capacity. However, coaching can also be a type of interaction you have with your Manager during 1:1 discussions. 
 
-##### How coaches coach
+## How coaches coach
 
 Coaches help team members by focusing their attention on the future while recognizing their unique strengths and areas for development. A coach is there to help the coachee tap into their potential and to reflect and learn by identifying desired outcomes to achieve future goals. 
 
@@ -34,7 +34,7 @@ Key attributes of a coach include some of the following:
 *  Fully focusing on the coachee.
 *  Asking questions and listening deeply while offering support.
 
-###### Different hats for different conversations
+### Different hats for different conversations
 
 When we think about coaching as a mode of conversation, you may also be thinking about all the other modes of conversation you might use as a [leader](/handbook/leadership/) in multiple types of roles. You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](/handbook/engineering/career-development/mentoring/) or [a buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Whatever it is, you can flex your leadership style and adopt different approaches to engage in meaningful conversations. You can think of this as wearing "different hats."
 
@@ -49,7 +49,7 @@ You may wear multiple hats in any given day:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadK6g9lEwLV8nP9GWPrgcF7sRHxycOuLwlZQm_h05D_FJpC3T9JzGUB7FmZY0UyW-ii4IfP0groBd/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-#### GROW Model
+## GROW Model
 
 The GROW Model is a four-step method for holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future-focused discussions. 
 
@@ -65,7 +65,7 @@ The GROW Model is a four-step method for holding coaching conversations with a c
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyDezAdhbc9k5YOQmkUxCxkroz-yR6dpX1CoevIULZM10DcYLy_hBo3yQGlHPUgzPrAxZmNzR7Qjwj/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-#### Essential coaching skills
+## Essential coaching skills
 
 Effective coaches use a defined set of skills to enable coaching coversations. Those skills include: 
 
@@ -201,7 +201,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
   
 </details>
 
-#### Attributes of a coachee
+## Attributes of a coachee
 
 As a coach uses their core coaching skills, a coachee can access their own set of skills and activities to get the most out of the coaching conversation through the following: 
 
@@ -211,7 +211,7 @@ As a coach uses their core coaching skills, a coachee can access their own set o
 *  **Learn**: Coaching conversations revolve around learning by discovering new perspectives by coming to a new understanding or realization. 
 *  **Transform**: Change is a core attribute of coaching. Sometimes the transformation may be small when a coachee has increased clarity on appropriate action to move forward. At times the transformation may be more profound, as a coachee can shift their mindset in a way that there's no going back.
 
-#### Trust and Coaching
+## Trust and Coaching
 
 Building trust is an important ingredient in coaching and team dynamics. Trust lies at the heart of a functioning and cohesive team. There are five dysfunctions of a team [according to Patrick Lencioni](https://www.youtube.com/watch?v=GCxct4CR-To) that can break down trust throughout the team: 
 
@@ -225,7 +225,7 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwmhv3MIUV4065TeQ4N1Lz4xhjROQRTaTW2XNa5qH4k-mq4GNLgRYhi2fr2hjZslZ7V8JBipbvuaBv/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-#### The Trust Equation
+### The Trust Equation
 
 **[The Trust Equation&trade;](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation#:~:text=The%20Trust%20Equation%20uses%20four,%2C%20Intimacy%20and%20Self%2DOrientation.&text=The%20Trust%20Quotient%20is%20a,trustworthiness%20against%20the%20four%20variables.)** is a concept to help increase trustworthiness with your team. The more trust you have with team members, the easier it will be to have coaching conversations. 
 
@@ -242,7 +242,7 @@ The trust equation has one variable in the denominator (self-orientation) and th
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7oRKaXPc3-pqXJEU5SHdlBJlHw00HO4oOcfmH5z0Iq0ojz-lQ1HoudBSeUoHlQNQfUZf_4UoCyObR/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-##### Neuroscience of Trust
+### Neuroscience of Trust
 
 Studies have shown that building trust has an impact on the brain. The neuroscience shows that recognition has the largest effect on trust when it occurs after a [goal has been met](https://hbr.org/2017/01/the-neuroscience-of-trust). The neuroscience of trust can help team members and managers in the following ways: 
 - Important for being empathetic, relating to others needs
@@ -265,7 +265,7 @@ Studies have shown that building trust has an impact on the brain. The neuroscie
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxZWO97gkIShmnZ-Ue7C9tbHVMT9BcuUx643pcGKrV29EQiXnpZ6yzTIZIuCUscwhTsT5ZoR6Gn-ZL/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-##### The Return on Trust
+### The Return on Trust
 
 Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://talentorganizationblog.accenture.com/financialservices/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics#:~:text=People%20at%20high%2Dtrust%20companies,106%25%20more%20energy%20at%20work): 
 - 106% more energy at work
@@ -277,7 +277,7 @@ Compared with people at low-trust companies, people at high trust companies repo
 - 74% less stress
 - 40% more energy at work
 
-#### Planning for action
+## Planning for action
 
 The planning for the action phase is about enabling the coachee to make a plan with action steps that support their goals. 
 
@@ -291,7 +291,7 @@ The planning for the action phase is about enabling the coachee to make a plan w
 
 When you are planning for action while wearing your coaching hat, you are not evaluating or judging or driving your agenda. The coachee should ultimately decide the action steps, committing to their path forward. As a coach, you are curious and non-judgemental while living up to [GitLab values](/handbook/values/). 
 
-##### Sample planning for action questions: 
+### Sample planning for action questions: 
 
 *  What might be three next steps that you can take in order to....?
 *  What are you going to do? When are going to do it? How will you know?
@@ -301,7 +301,7 @@ When you are planning for action while wearing your coaching hat, you are not ev
 *  I challenge you to...What do you think?
 *  In what way do you want me to follow up with you? 
 
-#### Ending the coaching conversation
+## Ending the coaching conversation
 
 When a coaching session is completed, it is essential to review the goal of the conversation with the outcome by asking: 
 
@@ -314,7 +314,7 @@ The coach might also want to end the conversation with a few statements about wh
 *  What I admire you for is...
 *  What you have helped me realize, learn, or reminded me about is...
 
-#### Additional coaching skills
+## Additional coaching skills
 
 * Offering a big picture perspective
 * Use of metaphors
@@ -324,7 +324,7 @@ The coach might also want to end the conversation with a few statements about wh
 * Challenging
 * Identifying underlying limiting beliefs, assumptions, and mindset
 
-#### Coaching Manager Competency
+## Coaching Manager Competency
 
 In an all-remote organization, coaching is a critical skill for managers to develop and improve upon as they progress in their careers. Coaching helps to facilitate the career development of team members through regular coaching conversations. Coaching helps team members change behavior, improve performance, and sustain commitment through encouragement, support, collaborative problem-solving, goal setting, and [feedback](/handbook/people-group/guidance-on-feedback/). 
 
@@ -337,7 +337,7 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
 - Delivers effective strategies for dealing with cases of [underperformance](/handbook/underperformance/) and instills that in other leaders across the organization
 
-#### Live Learning Session 
+## Live Learning Session 
 
 During Week 2 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering [Building Trust](/handbook/people-group/learning-and-development/building-trust/) and [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/). The [slide deck](https://docs.google.com/presentation/d/1PT8x7lUR0-X-M_H7n_tvYKsC1HRtKTiMy0BtmtPcO4Q/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1eHhOfgqllzAiGOf6gI98wegaxm5-8eLnZ8Qpq7KOLaY/edit?usp=sharing) follow along with the session. 
 
@@ -347,7 +347,7 @@ A recording of the first of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jvjBgC3Bi2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-#### Additional coaching resources
+## Additional coaching resources
 
 * [The Leader as Coach - Harvard Business Review Article](https://hbr.org/2019/11/the-leader-as-coach)
 * [What Can Coaches Do for You? - Harvard Business Review Article](https://hbr.org/2009/01/what-can-coaches-do-for-you)
