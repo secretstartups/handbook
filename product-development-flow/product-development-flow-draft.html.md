@@ -253,7 +253,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | ---           | ---                          |
 | DRI           | - Product Designer             |
 | Collaborators | - Product Manager <br>- Engineering |
-| Informed      |  - Technical Writing <br>- Quality |
+| Informed      |  - Technical Writing <br>- Quality <br> - Other [stakeholders](#stakeholders) as appropriate |
 
 #### Description
 
