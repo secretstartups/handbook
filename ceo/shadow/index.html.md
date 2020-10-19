@@ -913,4 +913,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-09-07 | 2020-09-18 | [Shawn Winters](https://gitlab.com/ShawnWinters) | Acceleration SDR |  |
 | 2020-09-07 | 2020-09-24 | [Chris Baus](https://gitlab.com/chris_baus) | Engineering Manager, Fulfillment |  |
 | 2020-09-21 | 2020-10-02 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) | Distinguished Engineer, Secure & Defend | [Take Aways](https://youtu.be/kG-RhvHAeo4), [Retrospective](https://youtu.be/Gv_EQLEgCwU) |  |
-| 2020-09-28 | 2020-10-05 | [Madeline Hennessy](https://gitlab.com/mhennessy) | Area Sales Manager, SMB - US East | |
+| 2020-09-28 | 2020-10-05 | [Madeline Hennessy](https://gitlab.com/mhennessy) | Area Sales Manager, SMB - US East | [Takeaways & Suggestion](https://www.youtube.com/watch?v=khqnlj6iB9I&feature=youtu.be) |
