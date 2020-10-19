@@ -22,8 +22,6 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Amy Waller, Senior - Campaign business partner
 - [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
 - Jameson Burton, Associate
-- Robert Kohnke - Reporting
-- Viki Juhász - Reporting 
 
 ## Who is my business partner?
 
