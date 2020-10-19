@@ -1,7 +1,55 @@
 ---
 layout: markdown_page
-title: "Architecture Evolution at GitLab"
+title: "Workflow"
 ---
+
+The Architecture workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally. 
+
+## TL;DR.
+
+1. Most, if not all, work begins with an issue or epic in a project (which we will generally refer to as a **domain issue**). These are everyday issues created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution.
+1. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Workflow.
+
+### Invoking the Architecture Workflow
+
+1. Invoking the Architecture Workflow entails opening an **architecture issue** (project TBD), which tracks progress of the workflow itself.
+   1. Add a sensible title and a link to the domain issue.
+   1. Assign this issue to an Architecture Evolution Coach (TBD: where is the list of AECs?)
+   1. Mention appropriate Domain Experts so that AEC has awareness
+   1. Mention relevant Product Management DRI if applicable
+1. The AEC will help with scoping, placement in the roadmap, and organizational reach
+   1. Evaluating and updating roadmaps as necessary
+   1. Engaging Functional Experts (Security, QA and Infrastructure) as necessary
+   1. Engaging with the appropriate Engineeering Leader who will make priority and resource allocation decisions
+   1. Engage Product Management if no PM DRI was initially identified
+1. The outcome of architecture issue an Architecture Blueprint and possible roadmap updates
+   1. Entains a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corrsponding discussion
+   1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
+   1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
+   1. Once merged, a link to the blueprint is added to the Architecture Roadmap
+
+
+
+At this point, problem scope (domain and organizational) is known and documented. From this point on, we're focused on execution.
+
+1. Three (3) [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) are assigned and collaborate together to get the work done,
+1. A [Working Group](/company/team/structure/working-groups/) can be formed if deemed necessary by DRIs
+1. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled,
+1. Teams schedule their work based on their interpretation of the strategy described in the document,
+1. DRIs described in the blueprint are the decision makers for the approach taken,
+1. After the initial iterations, work can be concluded or expanded, the blueprint gets updated.
+
+
+
+----
+
+Temporary note: below is original, which will be edited as we flesh out the TL;DR section above.
+
+
+
+
+
+
 
 ## GitLab Architecture
 
@@ -38,33 +86,7 @@ much bigger scale.
 
 TL;DR:
 
-1. Anyone can open an issue with a change proposal and label it with `~"Architecture decision"`,
-1. The author collaborates with their manager to understand better the scope of the change,
-1. Based on the scope of the proposal, the author and their manager collaborate together to find an
-   Engineering Leader who will be a decision maker that will either approve or reject the proposal,
-1. The author and their manager find an Architecture Evolution Coach on the [team page](/company/team/),
-   someone who works on the level close to the Engineering Leader who is going to be the decision maker,
-1. Optionally the author and their manager collaborate to find a Domain Expert if help from one would be useful,
-1. The author collaborates with the architecture evolution coach and a domain expert to create a
-   blueprint merge request adding files to `doc/architecture/blueprints` directory in GitLab project,
-1. In the RFC-like style they get more people involved into the discussion to collect more feedback,
-1. The blueprint describes long-term vision and a few first iterations in simple words,
-1. When the blueprint merge request is clear enough, the author assigns an Engineering Leader to review it,
-1. The blueprint merge request is additionally reviewed and approved by a Security Expert, for the need and 
-priority to have an [Application Review](/handbook/engineering/security/application-security/appsec-reviews.html) 
-performed with the [AppSec stable counterpart](/handbook/engineering/security/application-security/stable-counterparts.html).
-An AppSec review issue would be created at that point by the Security Expert to allow better planning by the 
-AppSec team if necessary.
-1. The blueprint gets approved once the merge request is merged by the Engineering Leader,
-1. The author adds a link to the blueprint located on docs.gitlab.com to an active
-   [architecture roadmap document](/handbook/engineering/architecture/#roadmap),
-1. 3 [Directly Responsible Individuals
-   (DRIs)](/handbook/people-group/directly-responsible-individuals/) get assigned and collaborate together to get the work done,
-1. A [Working Group](/company/team/structure/working-groups/) can be formed if needed, but is not required,
-1. DRIs propagate the blueprint across sub-departments and ensure that work gets scheduled,
-1. Teams schedule their work based on their interpretation of the strategy described in the document,
-1. DRIs described in the blueprint are the decision makers for the approach taken,
-1. After the initial iterations, work can be concluded or expanded, the blueprint gets updated.
+1. 
 
 ### Finding people that will amplify your influence
 
@@ -109,7 +131,19 @@ carry on the vision and coordinate work required to get it done.
 All these people are here to amplify the influence of the author of the
 proposal in an environment that fosters creativity and knowledge sharing.
 
-### Role of an Architecture Evolution Coach
+
+
+## Roles
+
+There are three role types asociated with the workflow:
+
+1. DRIs (Directory Responsible Individuals)
+2. DEEs (Domain Expert Engineers)
+3. FEEs (Functional Expert Engineers)
+
+### DRIs
+
+### The Architecture Evolution Coach
 
 Architecture Evolution Coach is an expertise assigned to team members, visible
 on their profiles on [the team page](/company/team/).
