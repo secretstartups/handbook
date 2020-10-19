@@ -72,3 +72,61 @@ In practice, this means that we
 * Planning: 
   * we have a [team radar](https://docs.google.com/drawings/d/1ohzs3lFCEGTDTg-cO0HNKvVHz1MCSIT54yAj4rr8gMc/edit).
   * The radar is not a roadmap, it is meant to be a guide of themes we are working on now and that we think we will be working on soon.
+
+### Labels
+
+The Core-Infra team routinely uses the following set of labels:
+
+1. The team label, `team::Core-Infra`.
+1. Priority labels  `Core-Infra::P1` through `Core-Infra::P4`.
+1. Scoped `workflow-infra` labels.
+1. Scoped `Service` labels.
+
+The `team::Core-Infra` label is used in order to allow for easier filtering of
+issues applicable to the team that have group level labels applied.
+
+<a name="priority-labels">The priority labels</a> allow us to track the issues correctly and raise/lower priority of work based on both external and internal factors.
+
+This means that the highest priority is given to working on issues that improve
+Gitlab.com SLO's either immediately and directly, or by unblocking other issues
+to achieve the same.
+
+#### Workflow labels
+
+The Core-Infra team leverages scoped workflow labels to track different stages of work.
+They show the progression of work for each issue and allow us to remove blockers or change
+focus more easily.
+
+The standard progression of workflow is from top to bottom in the table below:
+
+| State Label | Description |
+| ----------- | ----------- |
+| `workflow-infra::Triage` | Problem is identified and effort is needed to determine the correct action or work required. |
+| `workflow-infra::Proposal` | Proposal is created and put forward for discussion and review. <br/>SRE looks for clarification and writes up a rough high-level execution plan if required. SRE highlights what they will check and along with soak/review time and developers can confirm. <br/>If there are no further questions or blockers, the issue can be moved into "Ready". |
+| `workflow-infra::Ready` | Proposal is complete and the issue is waiting to be picked up for work. |
+| `workflow-infra::In Progress` | Issue is assigned and work has started. <br/>While in progress, the issue should be updated to include steps for verification that will be followed at a later stage.|
+| `workflow-infra::Under Review` | Issue has an MR in review. |
+| `workflow-infra::Verify` | MR was merged and we are waiting to see the impact of the change to confirm that the initial problem is resolved. |
+| `workflow-infra::Done` | Issue is updated with the latest graphs and measurements, this label is applied and issue can be closed. |
+
+There are three other workflow labels of importance:
+
+| State Label | Description |
+| ----------- | ----------- |
+| `workflow-infra::Cancelled` | Work in the issue is being abandoned due to external factors or decision to not resolve the issue. After applying this label, issue will be closed. |
+| `workflow-infra::Stalled` | Work is not abandoned but other work has higher priority. After applying this label, team Engineering Manager is mentioned in the issue to either change the priority or find more help. |
+| `workflow-infra::Blocked` | Work is blocked due external dependencies or other external factors. Where possible, a [blocking issue](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) should also be set. After applying this label, issue will be regularly triaged by the team until the label can be removed. |
+
+
+#### Priority labels
+
+The Core-Infra team uses priority labels as a means to indicate order under which work is next to be picked up. Priorities are roughly defined as:
+
+| Priority level  | Definition |
+| --------------- | ---------- |
+| `Core-Infra::P1` | Issue is blocking other team-members, or blocking other work.  As soon as possible after completing ongoing task unless directly communicated otherwise. |
+| `Core-Infra::P2` | Issue has a large impact, or will create additional work. |
+| `Core-Infra::P3` | Issue should be completed once other urgent work is done. |
+| `Core-Infra::P4` | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. |
+
+

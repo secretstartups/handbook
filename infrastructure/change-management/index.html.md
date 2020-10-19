@@ -194,6 +194,8 @@ Please consider the timezone UTC as the standard for all the changes.
 
 The following table has the original schedule for changes based on the criticality level of the component :
 
+Weekdays:
+
 |                  |  10 PM - 6 AM  |  6 AM - 2 PM |  2 PM - 10 PM   |
 | ---------------- | -------------- | ------------ | --------------- |
 |  Criticality 1   |    ALLOWED     |  NOT ALLOWED |  NOT ALLOWED    |
@@ -201,7 +203,11 @@ The following table has the original schedule for changes based on the criticali
 |  Criticality 3   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
 |  Criticality 4   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
 
-Please consider the time slots on the calendar Production, to add change requests to Criticality 1 and 2. The other criticalities please add direct to the calendar.
+Weekends:
+
+No specific restriction about times. If the change risks are high or requires downtime, please schedule it at the least impactful time for our customers (like Sunday 1am UTC, for example)
+
+Please consider the above time slots when posting criticalities 1 and 2 to the Production calendar, for all other criticalities, please add them directly to the calendar.
 
 ## Change Execution
 
@@ -274,14 +280,19 @@ From time to time we will need to run a production change that requires downtime
 As a reference, we should communicate 5-6 weeks before the change, for a C1 that does not carry a significant architecture change. Longer preparation time is adviced if the change involves a large migration or a significant architecture change.
 
 Steps:
-* Create a Google doc with the change communication message draft. Have it reviewed by mgmt and relevant people.
+* Create a Google doc with the change communication message draft. Have it reviewed by an SRE Manager and those involved with the change.
 * Create an issue for the official company communication about the change.
     * Example: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1993
-    * Set it to CONFIDENTIAL until the day we publish it in status.io, when we will set it to VISIBLE.
+    * Set Confidentiality to `Confidential` until the day we publish it in status.io, when we will set it to `Not Confidential`.
+    * Obtain approval for the overall plan and expected impact from:
+      * Director of SRE, Infrastructure
+      * VP of Infrastructure
+      * VP of Support
 * 1 month before the change at least (if possible):
     * Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
         * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml).
         * They might propose that we communicate in the customer's channel about the specifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
+    * Share information and a link to the Issue in `#whats-happening-at-gitlab` slack channel
 * Shortly after that, the Communication Issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
 [The company official way to communicate downtime to customers is via status.io].
 * From this point, when the upcoming change is already public, we should:
