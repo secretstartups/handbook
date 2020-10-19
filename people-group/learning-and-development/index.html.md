@@ -356,7 +356,7 @@ It is important this step is completed for each offboarding issue, as GitLab pay
 
      1. Within the appripriate WILL Learning course, click `Invite Participants`
      1. Under the `Pending Invitations` section, click `View All`
-     1. Seach the page using the team member's email address
+     1. Search the page using the team member's email address
      1. If the user's name appears in the `Pending Invitations` section, click the `revoke` link to remove their access to the license
      1. On the offboarding issue, check the de-provisioned box and comment on the issue `WILL Learning course not started, license revoked`
 
