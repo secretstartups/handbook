@@ -50,7 +50,7 @@ Displays statistics and other related information on container security enabled 
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/waf-enablement-demo/-/threat_monitoring)
 * Product Manager: Sam White
-* Primary Development Group: [Defend:Container Security](/handbook/product/product-categories/#container-security-group)
+* Primary Development Group: [Protect:Container Security](/handbook/product/product-categories/#container-security-group)
 * Engineering sub-department: Threat Management
 
 
