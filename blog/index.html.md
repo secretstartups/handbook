@@ -460,7 +460,7 @@ title: "This is the post title"
 author: Firstname Lastname # if name includes special characters use double quotes "First Last"
 author_gitlab: GitLab.com username # ex: johndoe
 author_twitter: Twitter username or gitlab # ex: johndoe
-categories: company
+categories: news # please choose one category from list below
 image_title: '/images/blogimages/post-cover-image.jpg'
 description: "Short description for the blog post"
 tags: tag1, tag2, tag3
@@ -557,7 +557,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `open source` – stories from or about our community, users, or the wider open source community
 - `culture` – posts about remote work, working together, or GitLab culture
 - `insights` – industry, data, newsjacking, developer survey, etc.
-- `company` – company announcements, news, or events
+- `news` – company or product announcements, news, or events
 - `security` - security-related posts
 - `unfiltered` – posts on [GitLab Unfiltered](/handbook/marketing/blog/unfiltered/)
 - `releases` - release posts, security and patch releases, operational product updates or announcements of changes affecting users. If you need to communicate something important to users (i.e. not a tutorial, feature post, technical deep dive, etc.), please use the `releases` category, as some users subscribe to this category for important updates and may not visit the rest of the blog. Posts in the `releases` category need to be in the `sites/marketing/source/releases/posts` directory, not `sites/marketing/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
