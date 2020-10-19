@@ -121,7 +121,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - Rev.com
-- [RushTranslate](/handbook/marketing/marketing-operations/rushtranslate)
 - Screaming Frog
 - SEMrush
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
