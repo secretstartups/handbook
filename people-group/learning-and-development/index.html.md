@@ -331,6 +331,60 @@ One of the most unique and interesting aspects of Compliance Next is the ability
 
 If you have any questions or need further help please ping people ops in the `#peopleops` channel in slack.
 
+### Compliance Processing Steps for L&D Team
+
+#### Checking Compliance for Offboarded Team Members
+
+When tagged in an offboarding issue, follow these steps to check completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
+
+It is important this step is completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check insures that GitLab is aware of, and making use of, all paid licenses.
+
+1. Navigate to the offboarding issue. Copy the user's email address.
+1. Collect Start Date: Linked to the offboarding issue is a merge request to remove the team member from relevant pages. Review the MR change log to check the start date of the team member. This start date will indicate which WILL Learning course the team member would have completed.
+1. Collect Location Information: On the same MR, make note of the team member's location.
+1. Collect Management Information: On the offboarding issue, check for the individuals title at GitLab and determine if they were a manager of people. If you cannot tell from the offboarding issue, check their Slack profile or refer to the GitLab Org Chart.
+1. Open the WILL Learning platform.
+1. Based on the team member's location, management level, and start date, navigate to the WILL Learning course they would have been invited to take. For example, a team member who manages people, joined GitLab in 2019, and lives outside of the USA would have been invited to take the `2019 Anti-Harassment Training for Supervisors` course. Click the `MANAGE` button to enter the course.
+1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL Learning license - either `Finished`, `In Progress`, or `Not Started`. Please note - if the user does not appear in the first WILL Learning course you check, attempt to look for the user in other approriate courses. Note that at this time, there is no function in the WILL Learning platform to search all courses at once.
+
+     1. If a search for the user's email address returns a `Finished` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning course finished, no license to revoke`
+     1. If a search for the user's email address returns an `In Progress` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account reresentative to request a refund of the license.
+     1. If a search for the user's email address returns a `Not Started` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account reresentative to request a refund of the license.
+     1. If a search for the user's email address returns a no results, follow the next steps to revoke the license.
+
+1. Revoke License: The following steps should be taken if you cannot find record of the course status for the offboarding team member.
+
+     1. Within the appripriate WILL Learning course, click `Invite Participants`
+     1. Under the `Pending Invitations` section, click `View All`
+     1. Search the page using the team member's email address
+     1. If the user's name appears in the `Pending Invitations` section, click the `revoke` link to remove their access to the license
+     1. On the offboarding issue, check the de-provisioned box and comment on the issue `WILL Learning course not started, license revoked`
+
+1. When you have completed this process, be sure to shut off notifications on the offboarding issue to avoid inbox noise.
+
+
+#### Supporting New Managers of People at GitLab
+
+When new team members join the GitLab team as managers of people, the L&D team reminds them to take the assigned WILL Learning anti-harassment course.
+
+1. The employment bot will open a new issue for team members who are joining as managers of people
+1. Comment on this issue and tag the new manager with a friendly reminder to take their anti-harassment WILL Learning course.
+1. You can use the steps in the `Checking Compliance for Offboarded Team Members` section to determine if the new manager has completed the course
+1. If the user has already completed the course, consider posting a friendly thanks on their employment issue.
+1. Unfollow the employment issue to avoid future inbox noise.
+
+#### Supporting Transitioning team members to Managers of People
+
+When current team members transition to roles and become managers of people, the L&D team assigns a new anti-harassment course in WILL Learning for the team member to complete.
+
+1. The employment bot will open a new issue for team members who are transitioning to managers of people
+1. Find the user's location using their Slack or GitLab profile
+1. In WILL Learning, navigate to the approripate training for supervisors based on this geographical area.
+1. In the course, click `Invite Participants` and copy the sharable link
+1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
+1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow steps to revoke their license.
+
+
 ## Performance Indicators
 
 ### Engagement Survey Growth and Development Score > X%
