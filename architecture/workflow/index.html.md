@@ -7,10 +7,12 @@ The Architecture workflow is intended to provide a channel for influence amplica
 
 ## TL;DR.
 
+#### Do I need to invoke the Architecture Workflow?
+
 1. Most, if not all, work begins with an issue or epic in a project (which we will generally refer to as a **domain issue**). These are everyday issues created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution.
 1. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Workflow.
 
-### Invoking the Architecture Workflow
+#### Invoking the Architecture Workflow
 
 1. Invoking the Architecture Workflow entails opening an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title and a link to the domain issue.
@@ -28,7 +30,7 @@ The Architecture workflow is intended to provide a channel for influence amplica
    1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
    1. Once merged, a link to the blueprint is added to the Architecture Roadmap
 
-
+#### Executing on the outcomes of the Architecture Workflow
 
 At this point, problem scope (domain and organizational) is known and documented. From this point on, we're focused on execution.
 
