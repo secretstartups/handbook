@@ -88,7 +88,7 @@ As discussed in the Target Customer section, we believe that giving free custome
 We're tracking the infrastructe cost impact of this proposal [here](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11591).
 
 ## Roadmap
-We recommend rolling out Disaster Recovery capabilities in an iterative manner and propose the following timeframe for delivering these capabilities:
+We recommend rolling out a Disaster Recovery solution in an iterative manner and propose the following timeframe for delivering these capabilities:
 
 **Phase 1 (By end of Q4 FY21):**
 - Complete Geo failover on a staging/test environment and overall gap analysis of Geo to meet our requirements.
