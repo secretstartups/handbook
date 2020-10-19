@@ -67,6 +67,44 @@ Examples of stakeholders include Leadership, Sales, Marketing, Customer Support,
 It is recommended to involve your stakeholders throughout the product development flow, utilizing their input for initial ideas of problems to focus on,  problem validation, solution validation, and feedback once an initial solution has been developed. 
 
 ## Workflow Summary
+
+```mermaid
+  graph LR;
+  subgraph Validation
+    validationbacklog(Validation Backlog) --> problemvalidation(Problem Validation)
+    problemvalidation --> design(Design)
+    design --> solutionvalidation(Solution Validation)
+  end
+
+  subgraph Build
+    plan(Plan) --> developtest(Develop and Test)
+    developtest --> launch(Launch)
+    launch --> improve(Improve)
+  end
+
+  solutionvalidation --> plan
+
+  solutionvalidation .- review(Review)
+  review .-> plan
+    
+  click Validation "#validation-track"
+  click validationbacklog "#validation-phase-1-validation-backlog"
+  click problemvalidation "#validation-phase-2-problem-validation"
+  click design "#validation-phase-3-design"
+  click solutionvalidation "#validation-phase-4-solution-validation"
+  
+  click review "#review-track-optional"
+
+  click Build "/handbook/source/handbook/product-development-flow/product-development-flow-draft.html#build-track"
+  click plan "#build-phase-1-plan"
+  click developtest "#build-phase-2-develop-test"
+  click launch "#build-phase-3-launch"
+  click improve "#build-phase-4-improve"
+
+  classDef optional stroke-dasharray: 5 5;
+  class review optional
+```
+
 <kbd class="required">Required 🔎</kbd>
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
@@ -163,9 +201,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 | Up to date issues and epics | - review issue discussions and update relevant info in the description <br> - keep related metadata (labels, etc) up to date <br> - actively respond to stakeholder comments <br> - transfer discussion notes, and external information to the issue (as links or discussion/description details) | Product Manager |
 | Prioritized backlog | - regular review of issue prioritization (issue board ordering, milestone assignment) <br> - align prioritized backlog to category direction and category maturity state | Product Manager |
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Up to date issues and epics** - At GitLab, issues are the single source of truth for any change to the product. Issues are created in response to a [sensing mechanism](/handbook/product/product-processes/#sensing-mechanisms). Consider using the _Problem Validation_ issue template for new features. If an issue already exists, keep its description and metadata up to date based on inputs both in the issue (comment threads) and external to the issue (including synchronous discussions and research output).
 
@@ -199,9 +235,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 | Thorough understanding of the problem  | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md)<br>- Complete an [Opportunity Canvas](#opportunity-canvas)<br>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study<br>- Schedule a review of the opportunity canvas for feedback<br>| Product Manager |
 | Communicate the problem clearly and effectively | - Ensure your issue is up to date with the latest understanding of the problem. <br> - Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br> - Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Update issue/epic description** - a well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases.
 
@@ -221,7 +255,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 
 After understanding and validating the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. 
 
-The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Tech Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
+The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -235,8 +269,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously | Product Manager | 
 
 
-#### Required Outcomes 
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes 
 
 - **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. <br> 
 - **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> 
@@ -268,8 +301,7 @@ To start the Solution Validation phase, the Product Designer or Product Manager 
 | High confidence in the proposed solution | - Interview customers. <br> - Interview the issue originator. <br> - Perform usability testing. <br> - Perform the [Solution Validation Process](/handbook/engineering/ux/ux-research/#solution-validation-1). | Product Designer |
 | Solution validation documentation | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br> - Update the opportunity canvas with the insights. <br> - Update issue or epic description to contain the findings.| Product Designer |
 
-#### Required Outcomes
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **High confidence in the proposed solution** - activities have been performed which demonstrate the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution.
 
@@ -336,8 +368,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ### Build phase 1: Plan
 
-#### Labels
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Labels
 
 | Label 	| Usage 	|
 |-	|-	|
@@ -351,7 +382,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role                                                           | Function                                                                |
 |----------------------------------------------------------------|-------------------------------------------------------------------------|
 | DRI                                                            | - Product Manager                                                       |
-| Collaborators                                                  | - Engineering Manager, Product Designer, SETs                           |
+| Collaborators                                                  | - Engineering Manager, Product Designer, SETs, Engineers                |
 | Informed                                                       | - PMM, TAM                                                              |
 
 #### Description
@@ -371,8 +402,7 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 | QE Review 	| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - SET 	|
 | Prioritized Milestone | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone | - Product Manager and Engineering Manager |
 
-#### Required Outcomes
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. Through this phase Product Managers, Engineering, and Product Design likely refine issues into something that can be delivered within a single milestone. Consider opening follow on issues to track work that is de-prioritized, or promote existing issues to Epics and open implementation issues for the upcoming milestone. Understanding the relative size (weight) of an issue in this phase also informs capacity and prioritization discussions allowing the team to plan the right amount of work for a milestone. 
 
@@ -382,13 +412,11 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 
 ### Build phase 2: Develop & Test
 
-#### Labels
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Labels
 
 | Labels 	| Usage 	|
 |-	|-	|
 | `workflow::In dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
-| `workflow::ready for review` 	| Applied by the engineer indicating an issue (and/or MR) is ready for review from a maintainer. 	|
 | `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
 | `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
 | `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
@@ -400,7 +428,7 @@ Once work has passed the `workflow::planning breakdown` step either the `workflo
 |------------------------------------------------------------|-----------------------------------------------------------------|
 | DRI                                                        | - Assigned engineer                                             |
 | Collaborators                                              | - Product Manager <br> - Quality Engineering <br> - Technical Writer |
-| Informed                                                   | - Product Marketing <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
+| Informed                                                   | - Product Marketing <br> - Engineering Manager <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
 
 #### Description
 
@@ -419,17 +447,15 @@ When an issue is in development Quality Engineering will follow the [quad planni
 | Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
 | Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
 
-#### Required Outcomes
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
-<kbd class="required">Required 🔎</kbd>
-
-**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). It is also the EM's responsibility to keep all relevant stakeholders up to date on the status of an issue. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
+**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). The EM will work with Engineers periodically to ensure appropriate status information is visible to stakeholders. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
 
 **Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
 
 ### Build phase 3: Launch
 
-Label: `workflow::production`
+Label: `workflow::production` (The production label is recommended but not required at this phase because issues may have valid reason to close with differing labels)
 
 Issue Status: `Closed`
 
@@ -437,7 +463,7 @@ Issue Status: `Closed`
 
 | Role |Function|
 |---|---|
-| DRI | **Development** - Close issue once it is available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it is warranted <br> **Product Manager** Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/) if they decide it is applicable <br> ***Product Manager** Consider alerting relevant stakeholders in appropriate Slack channels. |
+| DRI | **Development** - Close issue once it is available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it is warranted <br> **Product Manager** Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it is applicable <br> ***Product Manager** Consider alerting relevant stakeholders in appropriate Slack channels. |
 | Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production.  (Primary verification is, of course, performed prior to production whenever possible.) |
 | Informed | Stakeholders for the change (including customers, open-source users, and GitLab team members) will be informed about the feature via the change in the status of the issue and/or the release post.  GitLab team members may also be informed via posts in relevant Slack channels.  |
 
@@ -456,9 +482,7 @@ When the change becomes available in production, the issue is closed by the deve
 | GitLab validates if the feature is meeting GitLab's own needs | **Required** : A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks usage of the feature by GitLab.  If so, the product manager coordinates this process. | TBD | 
 | Experiment results and follow-up issue is created | For experiments, we should create a follow-up issue that will be where results of the test and next-steps are tracked | Product Manager | 
 
-#### Required Outcomes
-
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes
 
 **Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
 
@@ -489,10 +513,9 @@ After launch, the Product Manager and Product Designer should pay close attentio
 | Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
 | Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
 
-#### Required Outcomes 
-<kbd class="required">Required 🔎</kbd>
+#### <kbd class="required">Required 🔎</kbd> Outcomes 
 
-- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to undrestand the qualitative feedback that we're hearing from users and team members.  <br>
+- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members.  <br>
 - **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  <br> 
 - **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information.  
 
