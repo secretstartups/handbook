@@ -22,15 +22,15 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
-| Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
+| Oct 22 | No sessions during last two weeks of a quarter                           | N/A             |                                   
 | Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
 
 ## Past Sessions
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-|  2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
+| 2020-10-15 | **[Proof Points & Analyst Resources Update](https://youtu.be/B0-Y4SNVfXU)**  | Private      |
+| 2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
 | 2020-10-01 | **[Leveraging the GitLab/VMware Alliance](https://youtu.be/unpgyIR9yH0)**      | Private
 | 2020-09-24 | **[Q3 FY21 Competitive Update](https://youtu.be/fOeLdLwAgOI)**                 | Private |
 | 2020-09-10 | **[Accelerating Your Pipeline with AWS](https://youtu.be/iPDPtOUuNls)**            | Private |
