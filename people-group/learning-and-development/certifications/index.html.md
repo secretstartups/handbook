@@ -33,7 +33,6 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 
 In FY21 we plan to roll out the additional certification(s) listed below. 
 
-* GitLab Tool Training 201 (for non-technical roles)
 * GitLab Tool Training 301 (for non-technical roles)
 
 ## Knowledge Assessments 
@@ -147,7 +146,6 @@ If someone will have to take more than one knowledge assessment to recieve a cer
    1. In the body, with your cursor on a blank link at the very bottom of the text box, you will also need to go to the “insert field button on the right. Select “Create Presentation from Template in Google Slides” - select “Export Links Application/pdf” 
    1. From Name: GitLab Learning & Development 
    1. Reply to: learning@gitlab.com
-   1. Cc: learning@gitlab.com 
    1. Select Test & Review 
    1. Check your Email inbox for the test certificate 
 
@@ -163,7 +161,9 @@ If someone will have to take more than one knowledge assessment to recieve a cer
 Anyone can test their knowledge on {insert cert name here}. To obtain a certificate, you will need to complete this [{name of quiz} quiz](insert link to quiz) and earn at least an 80%. Once the quiz has been passed, you will receive an email with your certificate that you can share on your personal LinkedIn or Twitter pages. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 ``` 
 
-### Step 5: Add to SheetLoad
+## How to Add to the L&D Sisense Dashboard
+
+### Step 1: Add to SheetLoad
 
 1. Open the [SheetLoad Certificates](https://drive.google.com/drive/u/0/search?q=sheetload.values_certificate) sheet in Google Drive. If you do not have access, ask the Data Team for help in the #data Channel in Slack.
 1. Create a new tab in the sheet that is the name of certificate in all lowercase, with no spaces and no punctuation, e.g. "values_certificate".
@@ -180,7 +180,7 @@ Anyone can test their knowledge on {insert cert name here}. To obtain a certific
 
 If you are updating this section, please refer to the [SheetLoad](/handbook/business-ops/data-team/platform/#using-sheetload) portion of the handbook and assign the MR to a member of the Data Team for review.
 
-### Step 6: Add to dbt
+### Step 2: Add to dbt
 
 This can be done in the same MR as Step 5 or as a separate MR. 
 
