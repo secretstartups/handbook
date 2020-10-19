@@ -4,4 +4,4 @@ title: "Channel Partner Training, Certifications and Enablement"
 ---
 ## Subheading
 
-Here is your first paragraph replace this text.
+Overview of available training, certifications and enablement activities.
