@@ -31,6 +31,12 @@ Smartling is our localization platform that is used to translate pages on our we
 
 See more details on [Smartling's help article](https://help.smartling.com/hc/en-us/articles/115003066573-User-Permissions) regarding user permissions. 
 
+## Using Smartling 
+
+We currently support French, German, and Japanese languages in Smartling. We are working on adding support for Russian, Italian, and Spanish at an additional cost per language pair. 
+
+Any assets being translated into the supported language pairs will be support by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. 
+
 ## Notifications
 
 [Enable email notifications](https://help.smartling.com/hc/en-us/articles/115003487053-Change-Notification-Settings) to help stay on top of content changes during the translation workflow process. Notification settings can be customized on a per project basis.
