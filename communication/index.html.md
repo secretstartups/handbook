@@ -164,7 +164,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
 1. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
 1. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use issues or public chat channels (like #questions) instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
-1. If someone sends you a handbook link they are proud that we have the answer documented, they don't mean that you should have found that yourself or that this is the complete answer, feel free to ask for clarification. 
+1. If someone sends you a handbook link they are proud that we have the answer documented, they don't mean that you should have found that yourself or that this is the complete answer, feel free to ask for clarification.
 1. If the answer to a question isn't documented please immediately make a merge request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A merge request is the best way to say thanks for help.
 1. If you mention something (a merge request, issue, commit, webpage, comment, etc.) please include a link to it.
 1. All company data should be **shareable** by default. Don't use a local text file but rather leave comments on an issue.
@@ -284,7 +284,7 @@ The items below are not shared with all team members. Limited access is a more s
 1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
 1. GitLab's Risk Register, is maintained by the [Risk & Field Security Team](/handbook/engineering/security/security-assurance/field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
 1. Acquisition offers for us are not public since informing people of an acqusition that might not happen can be very disruptive
-1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private. 
+1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 
 
 ## Effective Communication Competency
@@ -395,11 +395,11 @@ a reasonable option to discuss with either your manager or CEO, then you can rea
 out to any of the other [C-level GitLab team members](/company/team/org-chart/) or our board member Bruce Armstrong.
 
 ## Social Call
-At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.  
+At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
 
 These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood which team members need not be a part of to join in.
 
-Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.  
+Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.
 
 The use of a document also serves to ensure that everyone gets a chance to contribute to the conversation.
 
@@ -413,7 +413,7 @@ Social call attendance is not mandatory however the sessions do serve as a great
 | **EMEA/AMER** | Tuesday and Thursday | 06:00AM PT |
 | **AMER/APAC** | Tuesday and Thursday | 15:00PM PT |
 
-All social calls are in the Team Meetings Calendar - the sessions are titled GitLab Social Call: Multi-Topic and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.  
+All social calls are in the Team Meetings Calendar - the sessions are titled GitLab Social Call: Multi-Topic and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.
 
 Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking.  Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
 
@@ -485,17 +485,17 @@ and posted to our [Unfiltered YouTube channel](https://www.youtube.com/channel/U
 
 ### Focus Fridays
 
-The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:  
+The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week.  Guidance for Focus Fridays includes:
 - Cancel or move any standing meetings occurring on Fridays
 - Customer/prospect/partner/external meetings are exceptions
 - Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
-- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work 
+- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
 
-You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. 
+You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
 Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-01-08.
- 
+
 ### Common Meeting Problems
 
 Meetings are incredibly expensive since they require synchronous time.
@@ -515,7 +515,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 
 1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar. Please see [Communicating your time off](/handbook/paid-time-off#communicating-your-time-off) for more.
 1. Set your working hours in your Google Calendar settings.
-1. Utilize [PTO Ninja](/handbook/paid-time-off/#pto-ninja) to keep other GitLab team members aware of your planned time away within Slack.
+1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
 
 ## Video Calls
 
@@ -858,10 +858,10 @@ This aligns with how we work since everything at GitLab is [public by default](/
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become **urgent** feel free to ping people via chat referencing the subject of the email.
 1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to PII (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from BambooHR data, with approval.
-1. Where appropriate, consider using professional salutations including Hi or Hello and avoid colloquial expressions such as Hey, Oh, or Sup. Sometimes only the person's name is suitable. The level of formality should often mirror the formality from previous messages when communicating with internal team members as well as external persons. 
+1. Where appropriate, consider using professional salutations including Hi or Hello and avoid colloquial expressions such as Hey, Oh, or Sup. Sometimes only the person's name is suitable. The level of formality should often mirror the formality from previous messages when communicating with internal team members as well as external persons.
 1. Try to always use a person's name when starting or responding to a message, especially if there are multiple persons cc'd, so that the adressee knows you are addressing them.
 1. Make sure all relevant letters and words that need capitalization are capitalized, such as the start of sentences or the word "I".
-1. Proofread your messages so that sentences are punctuated correctly, typos are fixed, and grammar is corrected. Consider using the really helpful [Grammarly](https://app.grammarly.com/) tool - this tool is great for both native English speakers and for those who use English as an additional language. 
+1. Proofread your messages so that sentences are punctuated correctly, typos are fixed, and grammar is corrected. Consider using the really helpful [Grammarly](https://app.grammarly.com/) tool - this tool is great for both native English speakers and for those who use English as an additional language.
 1. All messages and replies are signed with a professional send-off (ex. Best regards), your name, and your signature block.
 
 ## Slack
@@ -1150,9 +1150,9 @@ The recommended defaults when sharing a document for GitLab internal purposes is
 
 ## Zoom
 
-GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc. 
+GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx and MS Teams. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. It is not efficient for GitLab to use multiple video conferencing tools, however we encourage the use of the most popular ones among our customers and partners when needed. E.g.; Zoom, WebEx, MS Teams, Skype, etc.
 
-To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access. 
+To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.
 
 ### Usage guidelines
 
