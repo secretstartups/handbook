@@ -15,22 +15,22 @@ The **Health** group at GitLab is responsible for building tools that enable Dev
 ## Peformance Indicators
 The Health Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we simply want to understand if our product is helping to address some of our customer’s needs. With that in mind, our initial [Product Performance Indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#monitorhealth---other---count-of-projects-where-incidents-are-being-created) is to **increase the total count of incidents within GitLab**. This NSM will inform us if we are on the right path to provide meaningful incident response tools.
 
-We expect to track the journey of users through the following funnel: 
+We expect to track the journey of users through the following funnel:
 
 ```mermaid
 classDiagram
   Acquisition --|> Activation
-	Acquisition: Are users aware of the product or feature set?    
-	Acquisition: Measurement (Total count of Incident Management docs page views) 
+	Acquisition: Are users aware of the product or feature set?
+	Acquisition: Measurement (Total count of Incident Management docs page views)
   Activation --|> Retention
 	Activation: Are users applying the feature?
-	Activation: Measurement (Count of Projects with Alerts) 				
+	Activation: Measurement (Count of Projects with Alerts)
   Retention --|> Revenue
 	Retention: Are users applying the feature over time?
-	Retention: Measurement (Count of projects where Incidents are being created) 
+	Retention: Measurement (Count of projects where Incidents are being created)
   Revenue --|> Referral
 	Revenue: Are users paying for the features?
-	Revenue: Measurement (Total count of projects leveraging paid features (Runbooks, Status Page, etc)) 
+	Revenue: Measurement (Total count of projects leveraging paid features (Runbooks, Status Page, etc))
   Referral --|> Acquistion
 	Referral: Are users encouraging others to use the feature?
 	Referral: Measurement (In App referrals for setting up alert and incident management in other projects)
@@ -40,7 +40,7 @@ classDiagram
 Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Health-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Health categories.
 <embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 9813568, dashboard: 737489, embed: 'v2') %>">
 
-This chart looks for the Snowplow categories the Health team has created. Currently, the Health team has added `Alert Management` and `Error Tracking`. 
+This chart looks for the Snowplow categories the Health team has created. Currently, the Health team has added `Alert Management` and `Error Tracking`.
 If any additional categories get added, please amend this page and edit the Sisense chart accordingly.
 
 ## Communication
@@ -110,7 +110,7 @@ When an engineer is ready to refine an issue, the engineer should:
    1. Change the workflow label to `workflow::ready for development`
    1. Add the label `refined`
    1. Change the milestone of the issue to `%backlog`
-   1. Unassign themselves 
+   1. Unassign themselves
 
 ## Development Processes
 
@@ -273,4 +273,4 @@ The Health team uses labels for issue tracking and to organize issue boards.  Ma
 In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
 
 ## Monitor Stage PTO
-Just like the rest of the company, we use [PTO Ninja](/handbook/paid-time-off/#pto-ninja) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/ninja whosout` command in the `#g_monitor_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
+Just like the rest of the company, we use [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-roots whosout` command in the `#g_monitor_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.
