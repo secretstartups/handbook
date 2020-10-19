@@ -145,10 +145,13 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 1. If there is no LinkedIn profile on the GitLab Team Page bio, reach out via Slack to the interviewer to get their LinkedIn 
 1. Follow the above steps for all the interviewers on the hiring team - doing this will prevent more manual work on a per candidate basis 
 
-**How to send out a Guide to a candidate for the first time via Greenhouse**
+**How to send out a Guide to a candidate via Greenhouse**
 
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
 1. Select Preview and Send and ensure the correct Email Template is being used in the dropdown.  
+   - First time candidate is receiving Guide - `Interview Confirmation - First Time - Single Interview`
+   - One interview scheduled and candidate already recieved Guide link - `Interview Confirmation - Single Interview`
+   - Multiple interviews scheduled - `Multi-Interview Confirmation`
 1. Select Send
 1. To make the chrome extension go away, click on the icon in the upper right corner again
 1. After the Guide is sent, in Greenhouse, select the dropdown where you go to request availability, confirmation, etc. and select the ‘Confirmation Sent’
