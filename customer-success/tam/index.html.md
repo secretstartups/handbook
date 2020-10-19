@@ -42,6 +42,7 @@ title: "Technical Account Management Handbook"
 ### TAM managers
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
+- [TAM Manager QBR Template](https://docs.google.com/presentation/d/1P7Cao5xgILSSrpEGy7Sh09djilnbbIK91IuTs-Xq7mY/edit?usp=sharing) (Gitlab Internal)
 - [TAM Promotion Template](https://docs.google.com/document/d/1Hg16QVYB2qm0gUGR6H_NPz0cd8OGEuvi3GyDtOsEagY/edit?usp=sharing) (Gitlab Internal)
 
 
