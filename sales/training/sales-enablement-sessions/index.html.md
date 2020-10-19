@@ -63,7 +63,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/product-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
-| 2020-01-13 | **[FY21 Product Outlook - Secure and Defend](https://youtu.be/jbuvqD2Ge3M)** | Public |
+| 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
 | 2020-01-09 | **[Reference Edge training session](https://youtu.be/8Le_Ovglnq8)** | Private |
 | 2019-12-19 | **[Microsoft Competitive Update](https://youtu.be/C_Lb5jkIcmA)** | Private |
 | 2019-12-12 | **[FY21 Product Outlook - CI/CD Section](https://youtu.be/I_H7zGZitRM)** | Public |
