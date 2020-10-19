@@ -137,13 +137,9 @@ In an all-remote organization, we want each team member to be a [manager of one]
 
 ### Coaching
 
-#### Introduction to coaching
-
-On this page, we are going to review the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
-
 ##### What is coaching?
 
-Coaching is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight. 
+[Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight. 
 
 
 ## No matrix organization

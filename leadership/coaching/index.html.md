@@ -9,6 +9,10 @@ title: "Coaching"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Introduction to coaching
+
+On this page, we are going to review the GitLab coaching framework and approach for people leaders and direct reports to apply during coaching conversations with their team. Use this page as a guide to starting and executing a coaching conversation. 
+
 ## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
