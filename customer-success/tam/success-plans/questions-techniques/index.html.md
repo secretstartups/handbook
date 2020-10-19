@@ -119,7 +119,7 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
 - **Monitor**
   - How are you monitoring the stability and performance of your GitLab instance?
   - What do you use to monitor your deployed applications?
-- **Defend**
+- **Protect**
   - How do you manage HTTP traffic to your deployed application?
   - What do you use to block malicious traffic before it reaches your application?
 

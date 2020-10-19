@@ -149,7 +149,7 @@ Usage Discovery Questions:
 1. How are you monitoring the stability and perfromance of your GitLab instance?
 1. What do you use to monitor your deployed applications?
 
-## Defend
+## Protect
 
 - Using the [Web Application Firewall](https://docs.gitlab.com/ee/user/clusters/applications.html#web-application-firewall-modsecurity) within GitLab.
 
