@@ -368,7 +368,7 @@ It is important this step is completed for each offboarding issue, as GitLab pay
 When new team members join the GitLab team as managers of people, the L&D team reminds them to take the assigned WILL Learning anti-harassment course.
 
 1. The employment bot will open a new issue for team members who are joining as managers of people
-1. Comment on this issue and tag the new manager with a friendly reminder to take their anit-harassment WILL Learning course.
+1. Comment on this issue and tag the new manager with a friendly reminder to take their anti-harassment WILL Learning course.
 1. You can use the steps in the `Checking Compliance for Offboarded Team Members` section to determine if the new manager has completed the course
 1. If the user has already completed the course, consider posting a friendly thanks on their employment issue.
 1. Unfollow the employment issue to avoid future inbox noise.
