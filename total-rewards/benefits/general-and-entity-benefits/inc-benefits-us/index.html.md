@@ -581,7 +581,17 @@ If you want extra protection for yourself and your eligible dependents, you have
    * $5,000 Increments up to the lesser of $250,000 or 100% of team member election for spouses and domestic partners
    * $10,000 of coverage available for children
 
-Certain coverage increases must be approved by the insurance carrier. For more information on completing an Evidence of Insurability, please reference the [EOI flier](https://drive.google.com/drive/u/0/folders/1xUo17QFevsWJ71aAd36ibuUakXaTzasJ)
+#### 2021 Cigna Supplemental Life/AD&D 
+
+Team members who wish to elect additional life insurance above what is provided by GitLab through the Basic Life Insurance or elect life insurance for their dependents in 2021, can elect [Voluntary Life Insurance](https://drive.google.com/file/d/1yY1tFJTuj1wCMlorUvnfcgWwZUuP279r/view?usp=sharing) through Cigna.
+
+##### Evidence of Insurability
+
+If you elect greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process. 
+
+Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field. 
+
+Once complete, please send the form to `total-rewards@ domain` and `support@lumity.com`. Lumity and the Total Rewards team will then help fill in any missing information, if applicable, and Lumity will forward to the carrier for review. Lumity will confirm receipt of the EOI with the carrier, track its status, and reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
 
 ### Commuter Benefits
 
