@@ -38,6 +38,7 @@ During the onboarding process, a People Experience Associate will complete the f
 Per the current [Referral Submission Process](/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit their referrals via Issues. When a new Issue appears, please do the following:
 
 1. Assign the Issue to yourself (upper right corner).
+1. Check to make sure the Issue is marked as `Confidential`.
 1. Open Greenhouse and click `+` > `Add a Referral`.
 1. Reference the Issue to see what should be entered in the following fields:
     * **Job**
