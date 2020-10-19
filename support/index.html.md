@@ -411,7 +411,7 @@ If you're on the Support Team and have something you'd like to surface, or would
 | UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng & Greg Myers    | weekly team meeting |
 | Production | .com Infrastructure | Dave Smith          | Lyle Kozloff        | Vlad Stoianovici           | every 2 weeks |
 | Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | TBD                        | N/A |
-| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | TBD                        | N/A |
+| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | Brie Carranza              | N/A |
 | Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
 | Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
 | Finance    | Budget              | Chase Wright        | Tom Cooney          | N/A                        | 1x Qtr on budget + once per month |
