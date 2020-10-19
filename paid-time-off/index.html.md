@@ -25,7 +25,7 @@ Another great example of taking time off is a GitLab team member taking a day to
 
 If you are taking Parental Leave, please see our [Parental Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
-Paid time off is in addition to any [official public holidays](#a-gitlab-team-members-guide-to-time-off) that apply to the country where you live. When accounting for such holidays in [PTO Ninja](#pto-ninja), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
+Paid time off is in addition to any [official public holidays](#a-gitlab-team-members-guide-to-time-off) that apply to the country where you live. When accounting for such holidays in [PTO by Roots](#pto-by-roots), do specify a "Public Holidays" event. This helps us to ensure that all of our Team Members are meeting at least the [Statutory Vacation Requirements](#statutory-vacation-requirements).
 
 ## A GitLab team member's Guide to Time Off
 
@@ -35,7 +35,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
     * You do not need to ask permission to take time off unless you want to have more than 25 consecutive calendar days off. The 25-day no ask limit is per vacation, not per year. You can have multiple no ask vacations per year that add up to more than 25 days in total; there is no limit to this.
     * If your planned leave exceeds the 25 calendars days (including weekends and holidays), please make sure to reach out to your Manager, People Business Partner and the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) for a special request.
     * What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity.  We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
-    * When taking time off make sure your manager is aware of your absence. Informing your manager can be done by using [PTO Ninja](#pto-ninja), as it will create an event and notify your manager for you.  Giving your manager and team members a heads up early helps them prioritize work and meet business goals and deadlines.
+    * When taking time off make sure your manager is aware of your absence. Informing your manager can be done by using [PTO by Roots](#pto-by-roots), as it will create an event and notify your manager for you.  Giving your manager and team members a heads up early helps them prioritize work and meet business goals and deadlines.
     * If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-group/people-policy-directory/#job-abandonment).
     * It can be helpful to take longer breaks to re-energize. If this is helpful to you, we strongly recommend taking at least two consecutive weeks of time off per year.
 1. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
@@ -56,13 +56,13 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
 1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
-1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-ninja-events). Events can only be changed after the PTO Ninja event has completed itself.
+1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
 
 ### Communicating Your Time Off
 
 Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.
-1. You should add the time off using [PTO Ninja](#pto-ninja) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
-    * PTO Ninja will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.
+1. You should add the time off using [PTO by Roots](#pto-by-roots) to Slack. Please use the following syntax which uses the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date notation in order to avoid confusion: `OOO from YYYY-MM-DD to YYYY-MM-DD, please contact XXX for assistance`.
+    * PTO by Roots will automatically add this time to BambooHR and as a busy event on your Google Calendar. Your manager will also receive a free event on their calendar.
 1. Add an out of office automated response including the dates you plan to be away in your automated response.
 1. Consider using [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
 1. If you plan to be out of the office for more than 48 hours, update your GitLab.com status with your out of office dates by clicking on your profile picture and selecting "Edit Status." For Example: 'OOO Back on 2018-06-28.' Don't forget to change it back upon your return, and be aware that this information is publicly accessible.
@@ -94,7 +94,7 @@ In keeping with our [values](/handbook/values) of freedom, efficiency, transpare
 
 If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s).
 
-You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO Ninja](/handbook/paid-time-off/#pto-ninja) via Slack. Once entered in PTO Ninja, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
+You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
 
 If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
@@ -139,67 +139,67 @@ Team members may request an unpaid leave of absence by working with their manage
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
 * Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay.
 
-### Communicating Other Status Using PTO Ninja
+### Communicating Other Status Using PTO by Roots
 
 Other OOO options include;
-- Mandatory Civilian Services 
-- Family and Friends Day 
+- Mandatory Civilian Services
+- Family and Friends Day
 
 These other types of OOO categories, are to be used on Family and Friends day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
 
-### PTO Ninja
+### PTO by Roots
 
-[PTO Ninja](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO Ninja will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO Ninja also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
+[PTO by Roots](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
-[PTO Ninja Training Video](https://drive.google.com/file/d/1t-rRHvWxo9IguvtHuacR0pAlK3nHWS4H/view?usp=sharing)
+[PTO by Roots Training Video](https://drive.google.com/file/d/1t-rRHvWxo9IguvtHuacR0pAlK3nHWS4H/view?usp=sharing)
 
-Please be aware that new team members' PTO Ninja accounts are activated and synched automatically once a day, so if you try to access PTO Ninja on your first day and receive an error message, please attempt to access PTO Ninja on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
+Please be aware that new team members' PTO by Roots accounts are activated and synched automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 
 #### Slack Commands
-* `/ninja ooo` Create an OOO event.
-* `/ninja me` View your OOO dashboard to edit, add or remove OOO events.
-* `/ninja whosout` See upcoming OOO for everyone in the channel where this command is used.
-* `/ninja @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
-* `/ninja feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
-* `/ninja help` A top-level look at PTO Ninja items that you may need help with, and how to receive help.
-* `/ninja settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+* `/pto-roots ooo` Create an OOO event.
+* `/pto-roots me` View your OOO dashboard to edit, add or remove OOO events.
+* `/pto-roots whosout` See upcoming OOO for everyone in the channel where this command is used.
+* `/pto-roots @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
+* `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
+* `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
+* `/pto-roots settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
 
-#### PTO Ninja / BambooHR Time Off Sync
+#### PTO by Roots / BambooHR Time Off Sync
 
-* The **Vacation** OOO type in PTO Ninja syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
-* The **Out Sick** OOO type in PTO Ninja syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
-* The **Parental Leave** OOO type in PTO Ninja syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
-* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family & Friends Day** OOO types in PTO Ninja do not sync to BambooHR.
+* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
+* The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
+* The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
+* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family & Friends Day** OOO types in PTO by Roots do not sync to BambooHR.
 
 #### Additional Features
 
 ##### Google Calendar Sync
 
-PTO Ninja allows you to sync time off requests with your Google Calendar.
+PTO by Roots allows you to sync time off requests with your Google Calendar.
 
 ##### Automatic Status + Do Not Disturb Updates
 
-PTO Ninja can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
+PTO by Roots can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
 
 ##### Roles and Task Handoffs
 
-PTO Ninja provides an experience that allows you to set roles and tasks for co-workers while
+PTO by Roots provides an experience that allows you to set roles and tasks for co-workers while
 you’re away. Accepted roles then become a part of a Slack away message that appears as
 co-workers try to tag you in discussions while you’re OOO.
 
 ##### Bulk Add holidays
 
-You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO Ninja in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
+You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Roots in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
-* Type `/ninja me` in Slack
+* Type `/pto-roots me` in Slack
 * Choose `Holidays` from the `Upcoming OOO` dropdown menu
 * Choose the desired year
 * Click on `Bulk Add By Region`
 
 ##### Monthly reminder to consider taking PTO
 
-We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. PTO Ninja allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/company/culture/all-remote/mental-health/).
+We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. PTO by Roots allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/company/culture/all-remote/mental-health/).
 
 The reminder will read as follows.
 
@@ -207,22 +207,22 @@ The reminder will read as follows.
 
 To subscribe or unsubscribe, follow the below instructions and [see an associated screenshot](/images/handbook/people-group/gitlab-slack-pto-ninja-reminder.jpg).
 
-* Visit `Apps` in the menu bar within Slack, and search for or select PTO Ninja
+* Visit `Apps` in the menu bar within Slack, and search for or select PTO by Roots
 * Select `Profile` from the dropdown
 * Beneath your name and profile, you'll see a line that says "Send me a monthly reminder about taking time off." Click the **Subscribe** button to trigger the notification, which will begin on the first *working* day (e.g. not a weekend or a public holiday) in the month following your subscription.
-* To unsubscribe, revisit PTO Ninja within Slack Apps and click the button that says **Unsubscribe**.
+* To unsubscribe, revisit PTO by Roots within Slack Apps and click the button that says **Unsubscribe**.
 
 ##### Checking "Who's Out?"
 
 Considering GitLab has a [no ask](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) time off policy, it can be helpful to know who else on your team is out of office prior to requesting time. In order to see who is out of your team, follow the steps below:
 
-* Go to the PTO Ninja application in Slack
+* Go to the PTO by Roots application in Slack
 * In the `Home` section, select `Who's Out?` from the dropdown list
 * Click `new search` to view who is out by `#channel`, `@usergroup`, or `@username`
 
-#### Requesting and documenting new PTO Ninja features
+#### Requesting and documenting new PTO by Roots features
 
-You can request a new PTO Ninja feature by using the aforementioned `/ninja feedback` command in Slack. If you receive feedback from the PTO Ninja team, or a new feature is implemented, please document the discussion in [this GitLab issue](https://gitlab.com/gitlab-com/people-group/General/issues/285). You can also create an issue in the [People Group general project](https://gitlab.com/gitlab-com/people-group/General) and ping CEO Kevin Corliss `@pto-ninja` and CTO Doug Franklin `@doug17` for review.
+You can request a new PTO by Roots feature by using the aforementioned `/pto-roots feedback` command in Slack. If you receive feedback from the PTO by Roots team, or a new feature is implemented, please document the discussion in [this GitLab issue](https://gitlab.com/gitlab-com/people-group/General/issues/285). You can also create an issue in the [People Group general project](https://gitlab.com/gitlab-com/people-group/General) and ping CEO Kevin Corliss `@pto-ninja` and CTO Doug Franklin `@doug17` for review.
 
 ### Management’s Role in Paid Time Off
 
@@ -230,13 +230,13 @@ Managers have a duty of care towards their direct reports in managing their well
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
 
-If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO Ninja and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to People Ops at `peopleops @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Ops team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to People Ops at `peopleops @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Ops team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
 
-### Instructions for People Ops and Total Rewards to Update PTO Ninja Events
+### Instructions for People Ops and Total Rewards to Update PTO by Roots Events
 
 If a OOO event is in progress:
 
-1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Specialist: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Specialist: Select the team member's name and find the OOO event in their history.
 1. People Specialist: Edit said entry.
 1. Total Rewards: No tasks are needed in BambooHR.
@@ -244,13 +244,13 @@ If a OOO event is in progress:
 If a OOO event has completed and synced to BambooHR:
 
 1. Total Rewards: Delete the relevant PTO entry from the team member's BambooHR Time Off tab. People Operations Specialists must contact Total Rewards to ask for their support here.
-1. People Specialist: In the PTO Ninja app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
+1. People Specialist: In the PTO by Roots app in Slack, in the Home tab, select the `override` option in Admin Tools and type the name of the team member you need to perform the override for.
 1. People Specialist: Select the team member's name and find the OOO event in their history.
 1. People Specialist: Delete said entry using the `[...]` overflow menu on the righthand side of the screen.
 1. People Specialist: Add a new OOO event(s) by clicking the +Add Event button.
 1. People Specialist: Monitor BambooHR for the next 24 hours to ensure that the corrected event synced successfully.
 
-To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO Ninja events have to be deleted for the new correct event to be saved to BambooHR.
+To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO by Roots events have to be deleted for the new correct event to be saved to BambooHR.
 
 ### Recognizing Burnout
 
@@ -352,7 +352,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
 
 1. Each June, People Ops will need to review the BV (Netherlands) Accrual for all employees and remove any carry over from the previous calendar year that was not used.
 1. In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days.
-1. PTO Ninja will automatically add any time off taken for sick and vacation accruals.
+1. PTO by Roots will automatically add any time off taken for sick and vacation accruals.
 
 _Note: In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days._
 
