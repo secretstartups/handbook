@@ -154,7 +154,7 @@ The portion of the Performance/Potential matrix that often entails the most sign
 
 ### Pre Work
 
-It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration sesison is as efficient and productive as possible. Pre work includes:
+It is **absolutely essential** that managers complete the required pre-work to ensure that the live calibration session is as efficient and productive as possible. Pre work includes:
 
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies 
