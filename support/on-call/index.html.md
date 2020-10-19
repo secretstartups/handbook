@@ -209,7 +209,7 @@ Support Managers also have an on-call rotation. During their rotation, the manag
 - to triage and investigate tickets that are escalated in `#support_managers` to the end of understanding the scope of what is being asked for
 - to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket
 - to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
-- to act as a notification point for [security incidents](https://about.gitlab.com/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact)
+- to act as a notification point for [security incidents](/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact)
 - to coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests
 - to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
     1. asking a specific manager to cover, and then if necessary,
