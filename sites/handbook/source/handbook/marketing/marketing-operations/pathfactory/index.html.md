@@ -244,7 +244,6 @@ Before creating a new content track, decide what type of content track (target v
 1. Set the appearance for the track. If you require a new appearance, create an issue in the Marketing Operations project and assign `@sdaily`.
 1. Set the language for the track.
 1. Leave `Links & Sharing` set to default.
-1. **Important**: Ensure that the following code snippets are included in the `External Code` field: `Bizible Form Submit`, `Blind form submit- met threshold`, and `PathFactory <> Bizible Script`. This ensures that UTMs pass through the PathFactory experience to Bizible to properly attribute campaign activity.
 1. Leave `External ID` set to default.
 1. Turn on the `Cookie Consent` before providing the approved content track link for live use.
 
