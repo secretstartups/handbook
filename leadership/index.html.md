@@ -135,6 +135,13 @@ In an all-remote organization, we want each team member to be a [manager of one]
 *  Strengthens team relationships using empathy and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
 *  Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
 
+### Coaching
+
+##### What is coaching?
+
+[Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight. 
+
+
 ## No matrix organization
 
 1. We believe everyone deserves to report to exactly one person that knows and understands what you do day to day. [The benefit of having a technically competent manager is easily the largest positive influence on a typical worker’s level of job satisfaction.](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) We have a simple functional hierarchy, everyone has one manager that is experienced in their subject matter. Matrix organizations or [dotted lines](https://www.global-integration.com/glossary/dotted-line-reporting/) are too hard to get right.
