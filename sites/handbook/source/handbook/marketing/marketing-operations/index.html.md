@@ -610,6 +610,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update the description
 - Update `Start Date` to the date of launch
 - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+- Update `Status` to `In Progress` or the approriate selection
 - Update `Budgeted Cost` if you have the data available
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
