@@ -208,6 +208,10 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/business-ops/resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
+### Critical Salesforce reports to follow and bookmark
+- [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+- [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
@@ -235,19 +239,20 @@ Support will take the lead on all incoming requests in the queue and only forwar
 - There is an IACV affecting event from a **customer** -OR-
 - There is a credit or other request which requires sales manager approval
 
-### Salesforce Hygiene & Activity
+### Salesforce Pipeline Activity
 
 #### Opportunity Management in Salesforce
 
 - Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information
-- Every SMB AE has an inidividual view for opportunity management: Access this view under the Opportunities tab in saleforce and use the drop down to find your view "SMB_name_ Active Opptys".
-- Once in the view follow the below steps for opportunity management;
-
+- You should direct yourself every day to your Next Steps to know how to priotize and organize your day. Recommendations on how to work through your next steps for the day:
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
-1. If a potential future opportunity that require action greater than 30 days out create an event with detailed notes on your agenda or action items
-1. Once stages Discovery - Awaiting Signature are updated, begin working on Pending Acceptance. Prioritize with the same criteria as above, rinse and repeat
+1. If a potential future opportunity that requires action is greater than 30 days out create an event with detailed notes on your agenda or action items
+1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Prioritize with the same criteria as above, rinse and repeat
+
+#### Pipeline Generation
+- You should be in weekly communication with your direct management about the health of your pipeline. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month, quarter. Here are recommended SFDC reports for pipeline generating activity: [AMER SMB EAST](https://docs.google.com/document/d/1p6LGGwrvDsczx4TyC65BlAa0XJB5_zFNGHmB65oIdJk/edit), [AMER SMB WEST](https://docs.google.com/document/d/18FirvFQpijxBve6ESOUpNUEZY3ejebG10_inL9lB3Oo/edit) 
 
 #### Web Direct Oppty Management in Salesforce
 
