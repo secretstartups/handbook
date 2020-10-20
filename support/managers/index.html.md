@@ -156,7 +156,7 @@ Additionally, Sisense data is a secondary source so it can contain errors.
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
 
 ### What happens if metrics aren't where they should be?
-Each week in the [Support Leadership Meetings](#support-leadership-meeting) we'll review the key metrics.
+Each week in the [Support Leadership Meetings](#support-leadership-meetings) we'll review the key metrics.
 
 If the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
 
