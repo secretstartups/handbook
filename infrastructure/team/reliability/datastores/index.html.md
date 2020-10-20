@@ -23,7 +23,7 @@ PostgreSQL Databases we look after in Gitlab:
 Other components we look after as part of the Database ecosystem in Gitlab:
 - Patroni templates.
 - Consul (running on the Database clusters)
-- PG Bouncer.
+- PG Bouncer connection pooler.
 
 
 Main Gitaly components we look after, in production and staging:
