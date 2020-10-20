@@ -51,7 +51,7 @@ TL;DR:
 1. The blueprint describes long-term vision and a few first iterations in simple words,
 1. When the blueprint merge request is clear enough, the author assigns an Engineering Leader to review it,
 1. The blueprint merge request is additionally reviewed and approved by a Security Expert, for the need and 
-priority to have an [Application Review](/handbook/engineering/security/application-security/appsec-reviews.html) 
+priority to have an [Application Security Review](/handbook/engineering/security/application-security/appsec-reviews.html) 
 performed with the [AppSec stable counterpart](/handbook/engineering/security/application-security/stable-counterparts.html).
 An AppSec review issue would be created at that point by the Security Expert to allow better planning by the 
 AppSec team if necessary.
