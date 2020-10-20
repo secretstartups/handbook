@@ -11,7 +11,25 @@ title: "Datastores Team"
 
 ## Who We Are
 
-The Datastores team owns our persistent storage platforms, with PostgreSQL on gitlab.com being the top priority.
+The Datastores team owns our persistent storage platforms, namely our PostgreSQL databases (our main priority) and our Gitaly backend service.
+
+PostgreSQL Databases we look after in Gitlab:
+- Staging cluster.
+- Production cluster.
+- Archive and Delayed production replicas.
+- Cloud SQL cluster in ops.gitlab.net
+- Prefect Cloud SQL databases, staging and production clusters.
+
+Other components we look after as part of the Database ecosystem in Gitlab:
+- Patroni templates.
+- Consul (running on the Database clusters)
+- PG Bouncer connection pooler.
+
+
+Main Gitaly components we look after, in production and staging:
+- Repo File servers
+- Praefect (Gitaly Cluster)
+- Gitaly Rails App and nodes
 
 Datastores is:
 
