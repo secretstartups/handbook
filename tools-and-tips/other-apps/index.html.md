@@ -252,7 +252,7 @@ Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242)
 
 GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform for internal and external communications. Some of our customers and partners have different preferred tools and to facilitate the communication with those parties, GitLab provides licenses for WebEx. This service is only provided to team members that have a business need to host meetings and where Zoom is not accepted. 
 
-- To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request) and provide a justification for access.  
+- To request access to those tools, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and provide a justification for access.  
 - Consider installing their [native app](https://www.webex.com/downloads.html). Team members have reported issues when trying to use WebEx in Safari, so we recommend using other browsers such as Google Chrome when hosting or joining meetings.
 - Before attending a Webex meeting you can test to ensure your Webex is setup correctly by joining a [test meeting](https://www.webex.com/test-meeting.html).
 - The in-browser plugin the screen sharing sometimes doesn't work.
