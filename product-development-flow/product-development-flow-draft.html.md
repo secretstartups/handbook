@@ -391,8 +391,9 @@ This phase prepares features so they are ready to be built by engineering. Follo
 
 By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency. 
 
-Once work has passed the `workflow::planning breakdown` step either the `workflow::scheduling` label is applied if the issue is not yet ready to be pulled into a milestone OR the `workflow::ready for development` label, along with a milestone is applied. Engineering Managers will apply `Deliverable` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). This is also the point at which Quad Planning is triggered signaling Quality Engineering to review the upcoming issue.
+Once work has passed the `workflow::planning breakdown` step the `workflow::ready for development` label, along with an upcoming milestone is applied to the issue. If an issue has been broken down, but not yet ready to pull into a milestone apply the `workflow::scheduling` label. To ensure quality engineering has ample time to contribute to new features [Quad Planning](/handbook/engineering/quality/quad-planning/) is triggered automatically when an issue is in `workflow::ready for development` and a milestone is applied. 
 
+Finally, Engineering Managers will apply `Deliverable` label to issues with a milestone and marked `workflow::ready for development` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). 
 
 #### Outcomes and Activities
 
