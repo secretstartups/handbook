@@ -7,25 +7,20 @@ As engineers at GitLab, we lead the evolution of software, constantly working to
 
 With growth, however, comes complexity, and an organic approach to our work sometimes requires help to ensure we are mpst effective. Help may be in the form of highligting priorities, ensuring alignment across teams, and validating our technical approaches. Engineering technical leaders take on the task of helping engineers by enabling them when they feel they need help navigating the organization across team and departamental boundaries, all while ensuring we cover our basis across functional areas. In order to do so, we have a process to helps us make architectural changes a success. The Architecture workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally. 
 
-## TL;DR.
+As an Engineer, you and your manager determine whether to invoke the Architecture workflow. Most (if not all) work begins with an issue or epic in a project as part of you regular workflow (which we will generally refer to as a **domain issue**). These are everyday issues and epics created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Workflow.
 
-As an Engineer, you and your manager whether to invoke the Architecture workflow.
 
-#### Do I need to invoke the Architecture Workflow?
 
-1. Most, if not all, work begins with an issue or epic in a project (which we will generally refer to as a **domain issue**). These are everyday issues created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution.
-1. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Workflow.
+## Workflow (TL;DR)
 
-#### Invoking the Architecture Workflow
-
-1. Invoking the Architecture Workflow entails opening an **architecture issue** (project TBD), which tracks progress of the workflow itself.
+1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title and a link to the domain issue.
    1. Assign this issue to an Architecture Evolution Coach (TBD: where is the list of AECs?)
    1. Mention appropriate Domain Experts so that AEC has awareness
    1. Mention relevant Product Management DRI if applicable
-1. The AEC will help with scoping, placement in the roadmap, and organizational reach
+1. The AEC will help with scoping, placement in the roadmap, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
-   1. Engaging Functional Experts (Security, QA and Infrastructure) as necessary
+   1. Engaging Functional Experts (Security, QA and Infrastructure)
    1. Engaging with the appropriate Engineeering Leader who will make priority and resource allocation decisions
    1. Engage Product Management if no PM DRI was initially identified
 1. The outcome of architecture issue an Architecture Blueprint and possible roadmap updates
@@ -34,9 +29,11 @@ As an Engineer, you and your manager whether to invoke the Architecture workflow
    1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
    1. Once merged, a link to the blueprint is added to the Architecture Roadmap
 
-#### Executing on the outcomes of the Architecture Workflow
 
-At this point, problem scope (domain and organizational) is known and documented. From this point on, we're focused on execution.
+
+## Execution
+
+At this point, problem scope (domain and organizational) is known and documented. From this point on, we're focused on execution, which is outside the scope of the Architecture Workflow. At this stage, DRIs take full control and drive towards results:
 
 1. Three (3) [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) are assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if deemed necessary by DRIs
@@ -47,101 +44,50 @@ At this point, problem scope (domain and organizational) is known and documented
 
 
 
-----
-
-Temporary note: below is original, which will be edited as we flesh out the TL;DR section above.
 
 
+## The Long Story
 
+### Departmental Aligment
 
+We embrace **collaboration**, so anyone can contribute. And yet, there is a marked difference between an *organic* collaboration environment and an *organized* one. When organizations are small, it is relatively straight forward to find alignment across the organization; add roles and some pointers, and there is seemingly organization in chaos.
 
+### Organizational Amplification
 
+We embrace **transparency**, so information is widely available. As an organization grows, however, the fully distributed, free flow of information demands that individuals devote large amounts of time to the consumption, processing, filtering, and transformation of an ever growing body of information. In larger groups, the availability of information does not guarantee that the right stakeholders will consume it, let alone act on it.
 
-## GitLab Architecture
+How do we then, ensure that the *right* information reaches the *right* stakeholders? It may be difficult for an engineer and/or their manager to propagate a given piece of information, and to turn it into a priority. Hierarchical escalation adds significant latency, especially across departments, so we need a more focused way to a) behave like a single entity (Engineering) and to b) prodive focus and alignment with compteting pieces of information at the rightr time, in the right order, and with the right destinations.
 
-Software professionals have come up with a lot of great metaphors about what
-software actually is. Some people believe that software is like a castle that
-needs constant maintenance, others think about software as a garden that needs
-care and careful cultivation.
-
-At GitLab we believe that software might be more complex than that, and that
-software is more [similar to
-life](https://en.wikipedia.org/wiki/Entropy_and_life) itself.
-
-Because of that it needs to adapt and evolve, usually through iteration.
-
-### Evolutionary Architecture
-
-As software products grow, become more complex, and get more widely used,
-things that were working well on a small scale, might not be sufficient on a
-much bigger scale.
-
-1. We allow engineers to lead the evolution of the software.
-1. We have a process that helps us make architectural changes a success.
-1. We have a way to determine what work is important and what is not.
-1. We constantly work on finding a balance between reactive work, preventive work, and innovation.
-1. We know how to leverage knowledge of people that know most about GitLab.
-1. We empower people to work on things that prevent a variety of problems from happening.
-1. We empower people to work on things that are a leverage and make everyone else more productive.
-1. We allow people to experiment and innovate while being efficient and using their time wisely.
-1. We have a process that makes it possible to allocate resources and hold people accountable.
-1. We have a process that ensures we can get things done.
-1. We identify security weaknesses early and prevent them.
-
-### GitLab Architecture Evolution Workflow
-
-TL;DR:
-
-1. 
+The Architecture Workflow is intended to help Engineers with those goals to ensure that ideas do not stay hidden or worse, ignored. It is also intended to ensure that we are aligned and ordered department-wide, so that we can solve complex problems, especially those that are sitting right below the product surgace area, deep into the machinery that powers the application. These areas include cross-team collaboration, when a single problem requires a myriad of teams in order to solve it. This alignment requires long-term vision
 
 ### Finding people that will amplify your influence
 
 ![influence](/handbook/engineering/architecture/workflow/influence.png)
 
-The author of a proposal and their Engineering Manager collaborate together to
-find people that will be amplifiers of their influence:
+For any given proposal, there are three people involved:
 
-* An Engineering Leader (for example - a Director of Engineering)
-* An Architecture Evolution Coach (for example - a Distinguished Engineer)
-* A Domain Expert (for example - a Senior Backend Engineer)
+* An Engineering Leader (e.g., a Director of Engineering), who is a decision-maker for a given proposal in terms of staffing and deliverables
+* A Domain Expert (e.g., a Senior Backend Engineer), who lends their expertise on a given domain to solve a problem
+* An Architecture Evolution Coach (e.g., a Distinguished Engineer), who is shepperding, filtering and proposals across their organization
 
-During the process of working on the proposal, the author will collaborate with
-an Architecture Evolution Coach and, optionally, a Domain Expert to create a
-blueprint of the change. The blueprint merge request will be then either approved or
-rejected by an Engineering Leader.
+During the process of working on the proposal, the author will collaborate with an Architecture Evolution Coach and, optionally, a Domain Expert to create a blueprint of the change. The blueprint merge request will be then either approved or rejected by an Engineering Leader.
 
-In order to choose the right people, the author and their manager first need to
-understand what is the scope of their proposal, what departments and teams will
-need to help to get the work done and how important it is for the organization.
+In order to choose the right people, the author and their manager first need to understand what is the scope of their proposal, what departments and teams will need to help to get the work done and how important it is for the organization.
 
-The first step is to find an Engineering Leader that will be responsible for
-approving the proposal and adding the blueprint to the architecture roadmap.
-The Engineering Leader needs to be someone who works on [an appropriate level
-in the organization](/company/team/org-chart/) to carry on the vision described
-in the proposal. For example, changes that involve only one team can be
-approved by an Engineering Manager, multiple teams within a one section - a
-Director of Engineering, but changes that span more than one department might
-require approval from a Executive VP or CEO.
+The first step is to find an Engineering Leader that will be responsible for approving the proposal and adding the blueprint to the architecture roadmap. The Engineering Leader needs to be someone who works on [an appropriate level in the organization](/company/team/org-chart/) to carry on the vision described
+in the proposal. For example, changes that involve only one team can be approved by an Engineering Manager, multiple teams within a one section - a Director of Engineering, but changes that span more than one department might require approval from a Executive VP.
 
-Understanding who is the decision maker will make it easier to find an
-Architecture Evolution Coach because the best Architecture Evolution Coach will
-be someone who works on the level that is closest to the level of the
-Engineering Leader who is the decision maker (see the diagram above).
+Understanding who is the decision maker will make it easier to find an Architecture Evolution Coach because the best Architecture Evolution Coach will be someone who works on the level that is closest to the level of the Engineering Leader who is the decision maker (see the diagram above).
 
-Domain Expert is someone who knows most about the topic and this person can
-work on any level in the organization, it even can be the author themself.
+A Domain Expert is someone who knows most about the topic and this person can work on any level in the organization (it can even be the author themself). Functional Experts get involved to ensure we have input and functional domain expertise (from, for instance, Infrastructure, Security or QA).
 
-Once the blueprint of the proposal gets approved, DRIs will be assigned to
-carry on the vision and coordinate work required to get it done.
-
-All these people are here to amplify the influence of the author of the
-proposal in an environment that fosters creativity and knowledge sharing.
+Once the blueprint of the proposal gets approved, DRIs will be assigned to carry on the vision and coordinate work required to get it done. All these people are here to amplify the influence of the author of the proposal in an environment that fosters creativity and knowledge sharing.
 
 
 
 ## Roles
 
-There are three role types asociated with the workflow:
+There are three role types asociated with the Architecture Workflow:
 
 1. DRIs (Directory Responsible Individuals)
 2. DEEs (Domain Expert Engineers)
@@ -151,43 +97,23 @@ There are three role types asociated with the workflow:
 
 ### The Architecture Evolution Coach
 
-Architecture Evolution Coach is an expertise assigned to team members, visible
-on their profiles on [the team page](/company/team/).
+Architecture Evolution Coach is an expertise assigned to team members, visible on their profiles on [the team page](/company/team/). All Engineering Fellows and Distinguished Engineers are Architecture Evolution Coaches by default.
 
-All Engineering Fellows and Distinguished Engineers are Architecture Evolution
-Coaches by default.
+The purpose of involving a coach in the process of creating a blueprint is to allow people that know most about GitLab to share their knowledge and perspective on introducing complex architectural changes. This makes it easier to avoid the cost of working on the wrong thing, iterating improperly and fosters knowledge sharing.
 
-The purpose of involving a coach in the process of creating a blueprint is to
-allow people that know most about GitLab to share their knowledge and
-perspective on introducing complex architectural changes. This makes it easier
-to avoid the cost of working on the wrong thing, iterating improperly and
-fosters knowledge sharing.
+### Domain Experts
 
-### Role of a Domain Expert
+[Domain Experts](https://docs.gitlab.com/ee/development/code_review.html#domain-experts) are engineers  with a deep understand of one or more particular areas. Domain Experts:
 
-[Domain Expert Engineer](
-https://docs.gitlab.com/ee/development/code_review.html#domain-experts) is an
-engineering role at GitLab held by team members that are engineers with a deep
-experience in a particular area.
+1. Help to ensure conceptual integrity of the features and changes their groups / stages / sections are working on
+1. Help to collaborate with EMs and PMs and other Engineers to ensure the quality of work done in their area of interest
+1. Help to help to plan and draft necessary architectural and conceptual changes that will become a leverage in their area of interest
 
-1. Domain Experts help to ensure conceptual integrity of the features and
-   changes their groups / stages / sections are working on,
-1. Domain Experts help to collaborate with EMs and PMs and other Engineers to
-   ensure the quality of work done in their area of interest,
-1. Domain Experts help to help to plan and draft necessary architectural and
-   conceptual changes that will become a leverage in their area of interest.
+A Domain Expert is an engineer, usually an Individual Contributor, who knows most about a codebase and a domain in the area of proposed changes, but might still lack the deep understanding of the process behind introducing complex architectural changes, hence the collaboration between a Domain Expert and an Architecture Evolution Coach might be very useful.
 
-A Domain Expert is an engineer, usually an Individual Contributor, who knows
-most about a codebase and a domain in the area of proposed changes, but might
-still lack the deep understanding of the process behind introducing complex
-architectural changes, hence the collaboration between a Domain Expert and an
-Architecture Evolution Coach might be very useful.
+Sometimes there is an Architecture Evolution Coach available who is also a Domain Expert in a particular area. In that case there is no need to involve another person.
 
-Sometimes there is an Architecture Evolution Coach available who is also a
-Domain Expert in a particular area. In that case there is no need to involve
-another person.
-
-#### Role of the Security Expert
+#### Functional Experts
 
 The Security Expert is an engineer, usually an Individual Contributor, who is part
 of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) 
