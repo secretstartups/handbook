@@ -442,6 +442,8 @@ For **Surveys run through SimplyDirect**, follow the instructions documented in 
 
 For **Workshops**, follow the directions in the [Workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up).
 
+For **Alyce Direct Mail**, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-alyce-direct-mail-campaigns)
+
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
@@ -464,7 +466,6 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
-- **Name the program using the campaign tag**
 
 ##### Step 2: Sync to Salesforce
 
@@ -593,6 +594,26 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 1. If existing leads are not being pulled into the program, it is likely the `SurveyName` field is capturing the wrong name.
 1. If net-new leads are not being pulled into the program, it is likely the `Person Source` SurveyName was not updated correctly.
 
+#### Steps to Setup Alyce Direct Mail Campaigns
+
+##### Step 1: Create the Salesforce campaign
+- This is done by cloning the [Alyce - Template](https://gitlab.my.salesforce.com/7014M000001dl5P).
+- Update Campaign name to `YYYY_MM_NameofCampaign`
+- NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
+
+##### Step 2: Update the Salesforce campaign
+- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
+- Change the `Campaign Owner` to your name
+- Change type to `Direct Mail`
+- Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+- Update the event epic
+- Update the description
+- Update `Start Date` to the date of launch
+- Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+- Update `Budgeted Cost` if you have the data available
+- Update `Region` and `Subregion` if you have the data available
+- Click Save
+
 
 ## Campaigns
 
@@ -676,7 +697,7 @@ This is when a package or piece of mail is sent out.
 | Physical gift invitation sent | Alyce physical gift invitation sent|  |
 | Gift invitation delivered | Alyce physical gift invitation delivered|  |
 | Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
-| Gift accepted | Alyce gift accepted by the recipient|  |
+| Gift accepted | Alyce gift accepted by the recipient| Yes |
 | Gift expired | Alyce gift expired|  |
 | Gift declined | Alyce gift declined by the recipient|  |
 | Gift disabled | Alyce gift disabled or deleted|  |
