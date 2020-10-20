@@ -29,7 +29,7 @@ GitLab does not plan to offer Life Insurance Benefits because team members can a
 
 ## GitLab GmbH Germany Leave Policy
 
-To initiate your Parental Leave, submit the dates in PTO Ninja under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
+To initiate your Parental Leave, submit the dates in PTO by Roots under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 **Maternity Protection**
 Maternity protection is explained in the Maternity Protection Act (Mutterschutzgesetz). Generally, 6 weeks before the estimated date of birth and 8 weeks after the date of birth the pregnant employee is released from work. This period can differ in case of special circumstances (twins, preterm birth). The employee will receive full payment of her salaries from the employer. The employer receives a refund of these amounts through an application process with the state.
