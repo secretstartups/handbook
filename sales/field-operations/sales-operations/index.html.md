@@ -356,6 +356,11 @@ Click the “Related Chatter Object” link to view the original request.
    - Check for duplicates, accurate segement and territory data, accurate reflection of hierarchy.
    - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
    - If territory or segement needs to be udpated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to reassign an account owned by the Imparnter Integration user:
+   -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
+   -  Chatter the Channel Manager to assist and validate the move.
+
 
 
 </details>
