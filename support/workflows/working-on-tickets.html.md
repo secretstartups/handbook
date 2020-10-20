@@ -45,28 +45,28 @@ assigned when the first reply is made.
   <tr>
     <td rowspan="3">Self-Managed</td>
     <td>AMER</td>
-    <td>[SM Need Assignee: AMER+All Region](https://gitlab.zendesk.com/agent/admin/views/360038123559)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038123559">SM Need Assignee: AMER+All Region</a></td>
   </tr>
   <tr>
     <td>APAC</td>
-    <td>[SM Need Assignee: APAC+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102880)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102880">SM Need Assignee: APAC+All Region</td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td>[SM Need Assignee: EMEA+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102260)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</td>
   </tr>
   <tr>
     <td rowspan="3">GitLab.com</td>
     <td>AMER</td>
-    <td>[.com Need Assignee: AMER+All Region](https://gitlab.zendesk.com/agent/admin/views/360038122359)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</td>
   </tr>
   <tr>
     <td>APAC</td>
-    <td>[.com Need Assignee: APAC+All Region](https://gitlab.zendesk.com/agent/admin/views/360038122399)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122399">.com Need Assignee: APAC+All Region</td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td>[.com Need Assignee: EMEA+All Region](https://gitlab.zendesk.com/agent/admin/views/360038102160)</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</td>
   </tr>
 </table>
 
@@ -103,6 +103,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
 1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period).
+1. After 1 on-hold period or a week, generally, an issue should be created in the appropriate tracker especially if there is discussion with the development team.
 
 ### FAQ About Working on Tickets workflow
 
