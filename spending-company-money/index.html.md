@@ -82,8 +82,8 @@ Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.
 ## Internet/Mobile Subscription
 
  * For team members outside the Netherlands: follow normal expense report process. 
- * For team members in the Netherlands : fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at people-exp@gitlab.com . The People Experience team will then send it to the payroll provider in the Nehterlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
- 1. VPN service subscription. Please read [Why We Don't Have a Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
+ * For team members in the Netherlands : fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at people-exp@gitlab.com . The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
+ 1. VPN service subscription. Please read [Why We Don't Have a Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information, and check out our [Personal VPN](/handbook/tools-and-tips/personal-vpn/) page regarding usage at GitLab.
  1. Mobile subscription, we commonly pay for that if you are a salesperson or executive, or if your position requires participation in an on call rotation. If your device cost is part of your monthly plan please do not include the device on the expense reimbursement. 
  1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
  1. Skype/Google Hangouts calling credit (uncommon, since we mostly use Zoom)
