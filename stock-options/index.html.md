@@ -59,7 +59,7 @@ on exercising later). Please read the Stock Option section of the [Tax Team](/ha
 
 Standard Option Grants are broken out by level for each division. If you have any questions on what grant should be offered to a new hire, please reach out to the Compensation and Benefits team by email to total-rewards@@gitlab.
 
-| Engineering                 | G&A                                | Marketing                      | Sales                                            | Product/Alliances      | [Option Grant](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/equity_calculator.yml) |
+| Engineering                 | G&A                                | Marketing                      | Sales                                            | Product/Alliances      | [Option Grant](https://ops.gitlab.net/gitlab-people-engineering/compensation-calculator/-/blob/master/data/equity_calculator.yml) |
 | ----------------------------|------------------------------------|--------------------------------|--------------------------------------------------|------------------------| ------------:|
 | Fellow / VP                 | VP                                 | VP                             | VP                                               | VP                     | 30,000 |
 | Senior Director             | Senior Director                    | Senior Director                | Senior Director                                  | Senior Director        | 25,000 |
@@ -96,9 +96,9 @@ to review and approval by the Board of Directors prior to being awarded. CEO dir
 
 * Before the board meeting, the Total Rewards team will notify the People Business Partners and divisional Executive of upcoming grants.
 * Once approved, the Total Rewards team  will notify the manager, PBP, and all indirect management that the team member's grant has been approved.
-* Team members are notified directly via Carta. If you have not received notification about your refresh grant within 30 days after the quarterly board meeting, please reach out to Total Rewards. 
+* Team members are notified directly via Carta. If you have not received notification about your refresh grant within 30 days after the quarterly board meeting, please reach out to Total Rewards.
 
-**Important Note: If a team member is currently on a [PEP](/handbook/underperformance/#performance-enablement-plan-pep), [PIP](/handbook/underperformance/#performance-improvement-plan-pip), or a similar formal performance improvement plan, this could result in a delay of the refresh grant until the next Board Meeting.** 
+**Important Note: If a team member is currently on a [PEP](/handbook/underperformance/#performance-enablement-plan-pep), [PIP](/handbook/underperformance/#performance-improvement-plan-pip), or a similar formal performance improvement plan, this could result in a delay of the refresh grant until the next Board Meeting.**
 
 ## Vesting
 
@@ -215,7 +215,7 @@ There are two methods to exercise your shares:
    - Log into your Carta account
    - On Portfolio Details, click the "Holdings" option
    - On the option grant list, click the arrow down icon on right side of the screen and select the "View" option
-   - A modal will open. On the left side menu, click "Documents and notes" 
+   - A modal will open. On the left side menu, click "Documents and notes"
    - Download the "Form of Exercise Agreement" file
    - Complete the form, sign, and return as PDF to `stockadmin@gitlab.com`
    - Send payment in US dollars by wire transfer. You will be provided the wire transfer info.
@@ -399,7 +399,7 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
 
 ## Procedures for Adding Team Members Department/Cost Center in Carta
 
-1. Once the new awards have been loaded and approved, the team members’ department needs to be added manually to Carta.  Note: This is only being done for team members, not Investors.  
+1. Once the new awards have been loaded and approved, the team members’ department needs to be added manually to Carta.  Note: This is only being done for team members, not Investors.
 1. The headcount report is downloaded from Bamboo for all team members.
 1. In Carta, choose “Stakeholders - All Stakeholders”
 1. Sort on the “Cost Center” to move those with an empty field to the top of the group
@@ -431,11 +431,11 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
 
 ## Procedures for Processing a Manual Exercise
 
-1. After the company has received the signed exercise agreement and the payment from the team member, the Stock Plan Administrator will compare the form and calculate the exercise costs to ensure the funds received are accurate.  
-2. The Stock Plan Administrator will request a screenshot of the payment received and save it to the “Equity Cash Receipts - Temporary” folder.  
-3. The exercise form will be sent to the CFO via HelloSign with request for signature.  Once signed, the exercise form and cash receipt will be downloaded to the “Equity - Option Exercise Agreements” folder.  
-4. Once the documents are ready to load, the Stock Plan Administrator will process the exercise in Carta.  
-5. The signed exercise form will then be uploaded to the team members Carta account for record keeping.   
+1. After the company has received the signed exercise agreement and the payment from the team member, the Stock Plan Administrator will compare the form and calculate the exercise costs to ensure the funds received are accurate.
+2. The Stock Plan Administrator will request a screenshot of the payment received and save it to the “Equity Cash Receipts - Temporary” folder.
+3. The exercise form will be sent to the CFO via HelloSign with request for signature.  Once signed, the exercise form and cash receipt will be downloaded to the “Equity - Option Exercise Agreements” folder.
+4. Once the documents are ready to load, the Stock Plan Administrator will process the exercise in Carta.
+5. The signed exercise form will then be uploaded to the team members Carta account for record keeping.
 6. Navigate to the appropriate option grant in Carta and select 'Exercise options' in the drop-down menu.
 7. Fill out all pertinent details about the exercise date and the number of options to be exercised. Then click 'Next: review certificate details.'
 8. The newly issued certificate now shows up under the common certificate section of the cap table.
