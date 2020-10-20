@@ -178,7 +178,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
 | 2020-10-19 | 2020-10-23 | [Edmond Chan](https://gitlab.com/edmondchan) - Sr. Solutions Architect | [Michael LeBeau](https://gitlab.com/mlebeau) - Strategic Content Lead |
 | 2020-10-26 | 2020-10-30 | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR | [Edmond Chan](https://gitlab.com/edmondchan) - Sr. Solutions Architect |
 | 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR |
