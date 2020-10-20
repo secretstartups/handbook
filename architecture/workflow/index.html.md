@@ -3,9 +3,13 @@ layout: markdown_page
 title: "Workflow"
 ---
 
-The Architecture workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally. 
+As engineers at GitLab, we lead the evolution of software, constantly working to find the right balance between reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowing people to work on things that prevent a variety of problems from happening and that leverage and make everyone else more productive. Experimenting and innovating are core to how we work, and we focus on collaboration, results and iteration to achieve our goals.
+
+With growth, however, comes complexity, and an organic approach to our work sometimes requires help to ensure we are mpst effective. Help may be in the form of highligting priorities, ensuring alignment across teams, and validating our technical approaches. Engineering technical leaders take on the task of helping engineers by enabling them when they feel they need help navigating the organization across team and departamental boundaries, all while ensuring we cover our basis across functional areas. In order to do so, we have a process to helps us make architectural changes a success. The Architecture workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally. 
 
 ## TL;DR.
+
+As an Engineer, you and your manager whether to invoke the Architecture workflow.
 
 #### Do I need to invoke the Architecture Workflow?
 
