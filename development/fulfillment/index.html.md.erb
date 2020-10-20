@@ -67,7 +67,7 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 ### System Definitions
 
 * CustomersDot allows Customers to acquire GitLab subscriptions, upgrade subscriptions by adding more seats and add/edit payment records.  Our customers see the front end of this system as the Customer Portal at https://customers.gitlab.com/ and at https://GitLab.com/.
-* LicenseDot manages license creation via API or manually in the UX and sends licenses to customers via email.  The Front end for managing this system is at https://license.gitlab.com/.
+* LicenseDot manages license creation via API or manually in the UX and communicates with CustomersDot to send licenses via email. The Front end for managing this system is at https://license.gitlab.com/.
 * [Zuora](https://www.zuora.com/) is our subscription management and billing system, primarily managed by our Finance team. It is the single source of truth for SKUs aand it generates invoices for customers.  More information on the Zuora Object Model is in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship).
 
 ![CustomersDot Diagram](subscriptions_architecture.png)
