@@ -10,42 +10,56 @@ title: Commercial SA Engagement Model 2.0
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-**"Wherever possible, let's bring synchronicty" back to our sales and customer-facing team members and relationships**
+## Commercial Solutions Architecture Engagement Model
 
-Anytime we choose to use text-based communication, we do miss a chance to make a connection with someone - which can be critical to our personal and in this business relationships. While asynchronous communication is critical to the world and is the life-blood of our culture it can sometimes hamper our ability to clearly communicate whereas a conversation allows us to establish a relationship with the other person, a connection - to perhaps more clearly communicate.
+Wherever possible, let's bring synchronicity back to our sales and customer-facing team members and relationships.
 
-The Commercial SA Engagement Model is intended further foster collaboration and influence even great iteration amongst and our customers. That being said going forward we'd like to engage in the following manner:
+Anytime we use text-based communication, we might miss a chance to connect with someone - which can be critical to our personal and business relationships. While asynchronous communication is important, it can sometimes hamper our ability to clearly communicate. In contrast, a conversation allows us to establish a relationship with the other person and perhaps communicate clearer.
 
-All Solutions Architect (b.k.a SA) requests are submitted via [Americas](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/1006966#) and EMEA,(link coming) triage boards and with all our SA notes and activities being logged within the active opportunities with Salesforce via Troops.ai.
+The Commercial SA Engagement Model intends to foster collaboration and influence and even greater iteration amongst ourselves and customers.
 
-**<u>Deal qualification is simply any deal that is piped at $10k and higher for consideration of Solutions Architect assignment.</u>**
+#### SA Engagement Considerations
 
-All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and required 7 methods applied) when the SA is requested and compelling events clearly defined or the issue (i.e. triage request) should have a clear statement indicating why that information isn’t available (yet) and how we can help obtain as the desired outcome.
+- All Solutions Architect (b.k.a SA) requests are submitted via [Americas](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/1006966#) and [EMEA](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/boards/1371455)  triage boards
+- SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
+- Deal qualification is simply any deal that **is piped at $10k and higher** for consideration of Solutions Architect assignment.
+- All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7))
+- Compelling events are clearly defined or the issue (i.e. triage request) has a clear statement indicating why that information isn’t available yet and how the SA can help obtain it.
 
-<u>**Meeting Expectations**</u>
+#### Meeting Expectations
 
-All meetings should be planned and have a desired outcomes (always ask, why do I want to meet? And communicate that to your SA partner) - agenda of attendees should be provided in advance; <u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
+- All meetings should be planned with clear desired outcomes available to the SA
+  - Why does the prospect want to meet with us?
+  - What are our meeting objectives/goals?
+  - Agenda and list of attendees should be provided in advance; <u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
+  - SA activities include:
+    - Discovery calls
+    - Demonstrations
+    - Proof-of-Value engagements (b.k.a POVs) 
+      - POV's  should  be positioned we're engagements are $25k or higher
+      - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm Gitlab as their best path forward.
 
-Activities performed could be and aren't limit to things like, discovery calls, demonstrations, and Proof-of-Value engagements (b.k.a POVs) - though POV's  should  be positioned we're engagements are $25k or higher.
+*Please Note: Exceptions can and should be made via the issue commenting, mentioning both the ASM (aka Area Sales Manager as well as the Commercial SA Leader). Also, note, that any customers/prospects looking to conduct Production and Pre-production level POVs/evals should be provided a paid engagement option.*
 
-**Pro tip:** All POV/evaluation scope should be negotiated and vetted so we understand “why” (i.e. let’s not rush to answer let’s validate our customers needs and understand what they’re asking as this will help in providing a solution and establishing success criteria to evaluate and confirm Gitlab is this best partner for them).
+***Coming soon/TBD*** - Live SA office hours and Public Webinar Demonstrations!
 
-*Please Note: Exceptions can and should be made via the issue commenting, mentioning both the ASM (aka Area Sales Manager as well as the Commercial SA Leader). Also too, note, that any customers looking to conduct Production and Pre-production level POVs/evals should be provided a paid engagement option.*
+#### Opportunities below 10K
 
-We understand that we do work with <u>new and existing customers</u> - so if there’s an ask that is a non-traditional "presales" activity that needs to be considered to ensure your customer's success; please raise it to the Commercial SA Leader along with your Area Sales Manager (b.k.a ASM).
+In the spirit of supporting the sales floor and deals below 10k we’d like to continue to use Slack along with offering same day SLA’s for initial response and validation of the ask with mutually agreed upon delivery on formal answers to the question posed.
 
-***Coming soon/TBD*** - One to many synchronous sessions (internally and externally), live SA office hours and Public Webinar Demonstrations!
+*Please Note: If an exception needs to be made please copy both the ASM and Commercial SA Leader should a response be needed quicker though we can’t guarantee that this will be fulfilled.*
 
-<u>**Asynchronous**</u>
+#### Other Considerations
 
-In the spirit of supporting the sales floor and deals below 10k we’d like to continue to use our current methods of Slack and with same day SLA’s for initial response and validation of the ask with mutually agreed upon delivery on formal answers to the question posed.
+##### Team meetings 
 
-*Please Note: If an exception needs to be made please copy both the ASM and Commercial Sales Leader should be needed quicker though we can’t guarantee that this will be fulfilled.*
+- We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - we expect that unless we’re being asked to participate in a critical customer call that our folks attend our meetings. 
+- Try to be respectufl of our scheduled 1:1's meetings, though they can be more easily rescheduled in favor of customer engagement.
 
-<u>**Thing to always consider...**</u>
+##### Focus Fridays 
 
-**Team meetings:** We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - our expectation is that unless we’re being asked to participate in a critical customer call that our folks attend our meetings. 1:1's with Commercial SA leaders can be more easily moved and will be but our team meetings allow us to meet together and cover organization topics.
+-  [“Focus Fridays”](https://about.gitlab.com/handbook/communication/#focus-fridays) is a critical program for our Solutions Architects to focus, develop, and grow - but we have and always will be customer first so please make it clear as described above how we can help.
 
-**Focus Fridays:** We’ll also be continuing to preserve our “Focus Fridays” as this is a critical program for our Solutions Architects to focus, develop, and grow.
+##### Meeting Follow up/Research 
 
-**Meeting Follow up/Research:** Solutions Architects need time to provide follow up information in as near real-time as possible, that said they’re encouraged to minimize “back-to-back” meeting scheduling - let’s be collaborative.
+- Solutions Architects need time to provide follow up with information in as near real-time as possible. We aim to minimize scheduling “back-to-back” meetings as this can compromise our ability to provide our best possible response for the customers/prospects we're supporting.
