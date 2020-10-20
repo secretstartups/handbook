@@ -36,7 +36,7 @@ This addresses critical and high escalations for Enterprise customers. This can 
 
 ## Responsibilities
 
-### Critical and High Level Issues
+### Critical and High Level Escalations
 
 - TAMs are responsible for managing the account engagement (not ticket), including:
   - Management of internal team and customer meetings for follow-up activities. Note: To ensure the TAM does not slow resolution of issues, the TAM doesn't need to be in all meetings (e.g., technical troubleshooting with customer and support/development).
@@ -50,7 +50,7 @@ This addresses critical and high escalations for Enterprise customers. This can 
   - Managing the 24x7 incident resolution and escalation process (i.e., Support Engineering, SRE, Development)
   - Supporting executive and customer calls (as needed)
 
-### Medium and Low Level Issues
+### Medium and Low Level Escalations
 
 - Support Engineering is responsible for managing Low and Medium level escalations, leveraging other teams (e.g., Technical Account Managers (TAMs), Engineering) as needed.
 - If a TAM is assigned, Support Engineering should inform the TAM of the escalation.
@@ -66,7 +66,13 @@ This addresses critical and high escalations for Enterprise customers. This can 
   - This section does not need to be updated daily but should be updated when there are changes to the status of the overall engagement (e.g., top-level issue status, milestones, etc.).
   - Milestones should include key customer and GitLab milestones.
 
-## Communication Process
+## How to start an Escalation
+
+It's expected that most escalations stem from emergency tickets to support, but it's possible that a customer could get escalated outside of that context. When an escalation is started, a TAM or a Support Engineering Manager may take these steps to create the doc and the channel depending on whom is initiating the escalation:
+- An Escalation Doc using the [Escalation Tracker Template](https://docs.google.com/document/d/1DFW9WDigDZTRQlArqvyaLl_GcYi5lwsxKKKtcjB49s0/edit#) will be created if it is a Critical or High Escalation
+- A temporary slack room for internal use will be created that will be used for the duration of the escalation. This should be noted in the escalation doc
+
+## Communicating that a customer is in an escalated state
 
 - When a customer escalation is defined, the escalation document should be posted into the `#escalated_customers` channel by the escalation owner (i.e., Support for Low/Medium severity, TAM for high/critical severity escalations). The posting to this channel should occur:
   1. when the escalation is identified and created
@@ -76,6 +82,10 @@ This addresses critical and high escalations for Enterprise customers. This can 
   - Initiation of escalations
   - The detailed tracking and interactions for the escalation
 - The initiation of an escalation and detailed tracking will continue to take place in the account or support channels.
+
+## Support Engineering's role in Escalations
+
+See the [Support Engineering Guide to Escalations]() for more specific information on how support manages customers in an escalated state.
 
 ## Related Links
 
