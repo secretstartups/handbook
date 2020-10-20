@@ -132,7 +132,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 *  Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
 *  Establishes goals for their team while seeking input from leadership
 *  Skilled at having difficult conversations with team members and leadership
-*  Strengthens team relationships using empathy and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
+*  Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
 *  Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
 
 ### Coaching
