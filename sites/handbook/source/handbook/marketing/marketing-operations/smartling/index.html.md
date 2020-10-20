@@ -13,15 +13,40 @@ title: "Smartling"
 
 Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral. The [global content team](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) is primarily responsible for our [localization](https://about.gitlab.com/handbook/marketing/localization/) initiatives and translations. 
 
-## Help & Training
+## Training & Support
 
-- [Smartling Status](https://status.smartling.com/)
-- [Help Center](https://help.smartling.com/hc/en-us)
-- [Admin Training](https://drive.google.com/file/d/1YnAKI8_BLZt7c_kGpjsjS5q0FcBmHyc5/view?usp=sharing)
-- [Using Smartling](https://help.smartling.com/hc/en-us/categories/115000321934)
-- [Release Notes](https://help.smartling.com/hc/en-us/articles/115004279934)
-- [Localization Terminology](https://help.smartling.com/hc/en-us/articles/115004194054-Localization-Terminology-)
-- [Supported File Types](https://help.smartling.com/hc/en-us/articles/360007998893-Supported-File-Types)
+## Support
+
+- Technical assistance: Slack (`#mktgops`), `@sdaily`, `support@smartling.com` 
+  - This will create a ticket for the Support Team (teams in NY and Dublin, Ireland).
+- Translation assistance: `translation@smartling.com`
+  - This will go to the Language Services Team who manages the translations
+
+### Quick Links
+
+1. [Smartling Status](https://status.smartling.com/)
+1. [Help Center](https://help.smartling.com/hc/en-us)
+1. [Release Notes](https://help.smartling.com/hc/en-us/articles/115004279934)
+
+### Training 
+
+**Videos**
+
+1. [Admin Training](https://drive.google.com/file/d/1YnAKI8_BLZt7c_kGpjsjS5q0FcBmHyc5/view?usp=sharing)
+1. [Project Manager/Requester Training (Documents Project)](https://drive.google.com/file/d/1rEUaDcv3gKuESEw6DQ2w7MJ2KkQhHKSy/view?usp=sharing)
+
+**Help Articles**
+
+1. [Using Smartling](https://help.smartling.com/hc/en-us/categories/115000321934)
+1. [The Requester User Guide](https://help.smartling.com/hc/en-us/articles/115003136973-The-Requester-User-Guide)
+1. [Request Translation](https://help.smartling.com/hc/en-us/articles/115003074493)
+1. [Download Translated Files](https://help.smartling.com/hc/en-us/articles/115003192274)
+1. [Manage Jobs In Progress](https://help.smartling.com/hc/en-us/articles/360055897494)
+1. [Jobs Dashboard](https://help.smartling.com/hc/en-us/articles/115003143774-Jobs-Dashboard-for-Account-Owners-Project-Managers)
+1. [Respond to Issues](https://help.smartling.com/hc/en-us/articles/115004480513)
+1. [Supported File Types](https://help.smartling.com/hc/en-us/articles/360007998893-Supported-File-Types)
+1. [Localization Terminology](https://help.smartling.com/hc/en-us/articles/115004194054-Localization-Terminology-)
+1. [Standard and rush delivery turnaround times for translation jobs](https://drive.google.com/file/d/1LE1tkqoS3fRanIs5D0eq11zwisGfDOV5/view?usp=sharing)
 
 ## Roles
 
@@ -38,6 +63,7 @@ We currently support French, German, and Japanese languages in Smartling. We are
 Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. 
 
 ### Field Marketing use of Smartling
+
 For information on how Field Marketing uses translations, please head to [that page](/handbook/marketing/revenue-marketing/field-marketing/#fmm-localization-process).
 
 ## Notifications
