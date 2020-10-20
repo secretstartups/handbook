@@ -40,6 +40,10 @@ Anyone can create or edit a job family, in general it is the responsibility of t
 
 There are two templates on this page. The first template is appropriate when the job family has 1 or 2 job titles and more levels (i.e. junior, intermediate, senior, manager, director) or specialties; [for example](/job-families/engineering/backend-engineer/). There can be many levels for each of the titles. The second template is appropriate when there are many different job titles within the same family; [for example](/job-families/people-ops/total-rewards/). 
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/8cUTvSwUqVc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Job Family Template 1
 
 After pasting this template search for *{add* to quickly navigate to areas of input.
@@ -208,7 +212,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 * The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting. 
 
-### Creating a New Job Family from Scratch
+## Creating a New Job Family from Scratch
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/x3q2KVFwMUY" frameborder="0" allowfullscreen="true"> </iframe>
@@ -234,7 +238,7 @@ Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB
 1. Check: Delete source branch when merge request is accepted.
 1. Click the Submit merge request button at the bottom
 
-### Creating an Overview page
+## Creating an Overview page
 
 In cases where a job family is quite large you may decide to create an overview page of the job family. This helps when we are actively sourcing for external candidates on a role. [Here](/job-families/people-ops/recruiting-operations-insights/overview/) is an example of a job family overview page. 
 
@@ -246,6 +250,101 @@ In cases where a job family is quite large you may decide to create an overview 
 * The opening statement about the job family should be copied from the job family page to the overview page. Because not all job families have overview pages you should not remove it from one or the other.
 * The overview page should follow the typical naming convention by adding a sub folder `overview`
 
+### Format
+For every overview page we created, the page has the URL `/job-families/department/title/overview/` and should be
+created starting from the template. There's only a few additions you should do with the template.
+
+### New Job Family Overview creation
+1. Create the page in `/job-families/[department]/[name-of-job-family]/overview, being sure to use only lower case in naming your directory if it doesn't already exist, and add it to the correct department subdirectory.
+1. The file type should be `index.html.haml`.
+1. Copy the template and add it to your new file
+1. Update all the places that need updates:
+ - replace {Job Title} with the job titile
+ - replace {Job Family introduction} with a paragraph giving more information about the job itself.
+ - if there's a video for this job family, switch out the youtube `ID_FOR_VIDEO` with the relevant ID
+ - if there's no video, remove the entire snippet that adds the video
+ - for every role within the job family, you need a `card`.
+
+### Template for New Job Family Overview
+```html
+---
+layout: default
+title: GitLab's Guide to the {Job Title} Job Family
+extra_css:
+  - job-family.css
+---
+
+.content-container.job-family
+  .wrapper.container{ role: "main" }
+    .row
+      .col-md-12
+        %h2.job-family-title.text-center {Job Title} at GitLab
+        .job-family-blurb GitLab is building an open source, single application for the entire software development lifecycle—from project planning and source code management to CI/CD, monitoring, and security.
+
+    .row
+      .col-md-12
+        .job-family-blurb
+          :markdown
+            {Job Family introduction}
+
+    %hr.solid
+
+    .row // this part is optional, you can add a video or remove if it isn't needed for this role
+      .col-md-12
+        %figure.video_container
+          %iframe{:src => "https://www.youtube.com/embed/ID_FOR_VIDEO"}
+
+    .row.job-family-card-group
+      .card.job-family-card
+        .card-body.job-family-card-body
+          %h4.card-title.job-family-title {First role in this job - For example Junior Engineer}
+          %p.card-text
+            %ul.job-family-list
+              %li
+                %a{ href: LINK TO GET TO KNOW THE ROLE } Get to know the role
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE/#requirements" } Requirements
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#performance-indicators" } Performance Indicators
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#hiring-process" } Hiring Process
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE?comparatio=Compa+Ratio+range&level=name+of+level+for+this+role" } Compensation
+
+      .card.job-family-card
+        .card-body.job-family-card-body
+          %h4.card-title.job-family-title {First role in this job - For example Senior Engineer}
+          %p.card-text
+            %ul.job-family-list
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#senior-support-engineer" } Get to know the role
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#requirements" } Requirements
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#performance-indicators" } Performance Indicators
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#hiring-process" } Hiring Process
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE?comparatio=Compa+Ratio+range&level=name+of+level+for+this+role" } Compensation
+
+      .card.job-family-card
+        .card-body.job-family-card-body
+          %h4.card-title.job-family-title {First role in this job - For example Staff Engineer}
+          %p.card-text
+            %ul.job-family-list
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#staff-support-engineer" } Get to know the role
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#requirements" } Requirements
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#performance-indicators" } Performance Indicators
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE#hiring-process" } Hiring Process
+              %li
+                %a{ href: "/job-families/DEPARTMENT/JOB-TITLE?comparatio=Compa+Ratio+range&level=name+of+level+for+this+role" } Compensation
+
+```
+
 ## Updating a URL and Redirect
 
 This video will walk you through how to change a Job Family URL as well as set up a redirect for the old URL. 
@@ -254,7 +353,7 @@ This video will walk you through how to change a Job Family URL as well as set u
   <iframe src="https://www.youtube.com/embed/MRzgOzlbsPQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-### Failed Pipeline
+## Failed Pipeline
 
 We have a CI job that checks job families for hard requirements:
 
@@ -266,7 +365,7 @@ We have a CI job that checks job families for hard requirements:
 * Hiring Process
 * Inclusive Language Check
 
-#### Inclusive Language Check
+### Inclusive Language Check
 We use an open source [Ruby gem](https://gitlab.com/lienvdsteen/linter) to perform a inclusive language check on all job families.
 
 <figure class='video_container'>
@@ -296,7 +395,7 @@ The following results lead to failure of the pipeline:
       - fix the text to be more inclusive, commit your changes and the pipeline will run again
       - if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check. If you request your job family to be added to the skip level you will need to paste a screenshot of the inclusiveness check in the MR as this will be asked for prior to merging. 
 
-### Why Job Families Have Performance Indicators
+## Why Job Families Have Performance Indicators
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/9EJkgBRUSDA" frameborder="0" allowfullscreen="true"> </iframe>
