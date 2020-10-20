@@ -147,7 +147,7 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ### Use of Issues
 
-The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to.
+The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Operations issues in the following format.
 
@@ -684,7 +684,7 @@ This is when a package or piece of mail is sent out.
 
 #### Executive Roundtables
 
-This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer.
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [R]ead More](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _offline_ channel.
 
@@ -820,7 +820,7 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 
 #### Sponsored Webcast
 
-This is webcast hosted on an external partner/vendor platform. The status of Attended On-demand accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. The difference will be accounted for in the program scoring.
+This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel
 
@@ -845,20 +845,6 @@ A survey that we or a 3rd party sends out. Tracks respondents and new leads we r
 | Filled-out Survey | Filled out survey and opted-in to be contacted by GitLab | Yes |
 | Follow Up Requested | Filled out survey and requested to be contacted by sales | Yes |
 
-#### Vendor Arranged Meetings
-
-Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab.
-
-**Bizible:** This is tracked as an _offline_ Bizible channel.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Registered | Registered for the event |  |
-| No Show | Registered, but did not attend the event |  |
-| Attended | Attended the Event | Yes |
-| Follow Up Requested | Had conversation with speaker or requested additional details to be sent post event | Yes |
-
 #### Trial
 
 Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence.
@@ -870,9 +856,23 @@ Track cohort of Trials for each product line (Self-hosted or SaaS) to see their 
 | No Action | default starting position for all records |  |
 | Target List | success, attended scheduled meeting | Yes |
 
+#### Vendor Arranged Meetings
+
+Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts. This does not organize meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
+
+**Bizible:** This is tracked as an _offline_ Bizible channel.
+
+| Member Status | Definition | Success |
+| ------------- | ---------- | ------- |
+| No Action | default starting position for all records |  |
+| Registered | Registered for the event |  |
+| No Show | Registered, but did not attend the event |  |
+| Attended | Attended the Event | Yes |
+| Follow Up Requested | Had conversation with speaker or requested additional details to be sent post event | Yes |
+
 #### Virtual Sponsorship
 
-A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. This name will be changing to `Virtual Conference`.
+Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _offline_ Bizible channel.
 
