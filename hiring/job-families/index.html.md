@@ -117,7 +117,7 @@ The {add the role name} is a [grade #](/handbook/total-rewards/compensation/comp
 {add brief description of the career ladder}
 
 ## Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 *{add a bulleted list of the hiring process steps here}
@@ -130,7 +130,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 * List levels in ascending order. Start w/ junior/associate and end with the highest level.
 * List any overarching responsibilities or requirements that are applicable for the entire job family before listing the levels.
 * Do not repeat the junior requirement list for more senior levels:
-   * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "extends the {name of lower job level} responsibilities."  
+   * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "Extends the {name of lower job level} responsibilities" or "Extends the {name of lower job level} requirements."  
 * Specialities may be relevant for some but not all levels. Clarify which specialties each level pertains to. If there are no specialties remove the section.
 * [Segment](/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
 * If performance indicators are the same for all the levels on the job family do not list them under the levels section, rather list them at the end of the entire job family. Remove either the performance indicator section in the level section or at the end of the template. 
@@ -154,15 +154,15 @@ title: {add text of job family name}
 ## Role
 {add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page).}.
 
+### Job Grade
+The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 ### Responsibilities
 * {add a bulleted list]
 
 ### Requirements
 * Ability to use GitLab
 * {add a bulleted list}
-
-### Job Grade
-The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
 * {add 3-5 PIs that this role will be the DRI for, they should link to the data}
@@ -171,7 +171,7 @@ The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensa
 {add a brief description of the career ladder here}
 
 ### Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. 
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 * {add a bulleted list of the hiring process steps here}
@@ -181,15 +181,15 @@ Additional details about our process can be found on our [hiring page](/handbook
 ## Role
 {add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page).}.
 
+### Job Grade
+The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 ### Responsibilities
 * {add a bulleted list}
 
 ### Requirements
 * Ability to use GitLab
 * {add a bulleted list}
-
-### Job Grade
-The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Performance Indicators
 * {add 3-5 PIs that this role will be the DRI for, they should link to the data}
@@ -198,7 +198,7 @@ The {add role name} is a [grade #](/handbook/total-rewards/compensation/compensa
 {add a brief description of the career ladder}
 
 ### Hiring Process
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * {add a bulleted list of the hiring process steps here}
 
