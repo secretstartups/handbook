@@ -20,7 +20,7 @@ PostgreSQL Databases we look after in Gitlab:
 - Cloud SQL cluster in ops.gitlab.net
 - Prefect Cloud SQL databases, staging and production clusters.
 
-Other components we look after as part of the Database ecosystem in Gitlabb:
+Other components we look after as part of the Database ecosystem in Gitlab:
 - Patroni templates.
 - Consul (running on the Database clusters)
 - PG Bouncer.
