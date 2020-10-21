@@ -509,7 +509,7 @@ This section outlines the various Accounts Payable activities at GitLab. GitLab 
   Enter all the information shown [here](https://docs.google.com/document/d/1WNyiIfAK9ait9lQX2LhJrmew1Fh5W72sU1yDTQqULZg/edit). This information comes either from the Invoice, or the vendor themselves(the AP specialist contacts them directly)
 
   The tax form must be directly submitted by the vendor. This portion cannot be uploaded by the AP specialist.
-Once the vendor is onboarded, they become [Payable](](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit)), and this allows the AP team to start processing that vendor’s invoices.
+Once the vendor is onboarded, they become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit), and this allows the AP team to start processing that vendor’s invoices.
 
 **Invoice Processing**
 
