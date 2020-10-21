@@ -66,7 +66,7 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 
 ### Internal Opportunities to expand exposure
 
-There are various internal opportunites to expand a team member's exposure to various parts of the organization.  These include:
+There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
 
 - Participation in a [Team Member Resource Group (TMRG)](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
 - Work on a [Working Group (WG)](https://about.gitlab.com/company/team/structure/working-groups/)
