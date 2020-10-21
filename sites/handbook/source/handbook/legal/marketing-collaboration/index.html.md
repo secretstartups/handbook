@@ -52,9 +52,9 @@ Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/mar
 ### Using Third-party Trademarks
 Any use of third-party trademarks should be covered by a Trademark Use Agreement. Various Marketing teams manage these agreements, requesting help from Legal team contract managers only when terms need to be negotiated. If you would like to use a 3rd party logo, please work with the appropriate Marketing team to ensure there is a trademark use agreement in place or to request such an agreement. 
 
-- [Channel Marketing](https://about.gitlab.com/handbook/marketing/product-marketing/analyst-relations/channel-marketing/#how-to-ask-for-workassistance-from-channel-marketing) 
-- [Partner Marketing](https://about.gitlab.com/handbook/marketing/product-marketing/partner-marketing/#how-to-engage-partner-marketing) 
-- [Customer Reference Marketing](https://about.gitlab.com/handbook/marketing/product-marketing/customer-reference-program)
+- [Channel Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#how-to-ask-for-workassistance-from-channel-marketing) 
+- [Partner Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/#how-to-engage-partner-marketing) 
+- [Customer Reference Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/customer-reference-program)
 
 ## Contests and Sweepstakes
 
