@@ -484,7 +484,7 @@ Providing information by reacting to a message with a specific emoji.
 
 ### Support Fixes
 
-When working on merge requests for code or for documentation, apply the
+When working on merge requests (on the gitlab-org group) for code or for documentation, apply the
 `Support Team Contributions` label so that we can track product contributions by support team
 members. An issue is created in the `support-team-meta` issue tracker at the
 end of each week with a list of support fixes merged in the past week. View the
