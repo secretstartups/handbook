@@ -170,13 +170,7 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 The L&D team host and organize multiple [learning initiatives(/handbook/people-group/learning-and-development/learning-initiatives/)] to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
-### Quarterly Learning & Development Newsletter
-
-GitLab will be launching a quarterly L&D newsletter to highlight all of the professional and career development opportunities in the organization. 
-
-### Take Time Out To Learn Campaign
-
-Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+## Additional Learning Opportunities
 
 ### Certifications
 
@@ -188,9 +182,9 @@ Everyone's career development is different, but we have [outlined](/handbook/peo
 
 ### Developing Emotional Intelligence
 
-Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness. We have [outlined](/handbook/people-group/learning-and-development/emotional-intelligence/) the definition of emotional intelligence, how to understand your own EQ, how to develop your EQ in a [remote setting](/company/culture/all-remote/guide/), and building an inclusive environment with EQ. 
+Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness. We have [outlined](/handbook/leadership/emotional-intelligence/) the definition of emotional intelligence, how to understand your own EQ, how to develop your EQ in a [remote setting](/company/culture/all-remote/guide/), and building an inclusive environment with EQ. 
 
-Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
+Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/leadership/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
 
 ### Language Courses
 
