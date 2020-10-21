@@ -168,9 +168,7 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-### Monthly Continuous Learning Call 
-
-Every month, the Learning and Development team hosts a monthly continuous learning call. During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. We use these calls to callout professional development opportunities, cross-department enablement activities, teach team members what L&D does at GitLab, and answer any questions team members have. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab. 
+The L&D team host and organize multiple [learning initiatives(/handbook/people-group/learning-and-development/learning-initiatives/)] to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
 ### Quarterly Learning & Development Newsletter
 
