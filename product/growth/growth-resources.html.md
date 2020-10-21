@@ -39,7 +39,7 @@ Alternatively, you can see this information on [this Sisense report](https://app
 
 It's important to note that ultimately the Customer Portal admin will have the most accurate and up-to-date view of this information. 
 
-## Communicating Seats Owed / Helping Customers Find Information - GitLab.com 
+## Communicating Number of Seats Owed / Helping Customers Find Information - GitLab.com 
 Sometimes customers can get confused as to what they owe because they have both a personal subscription and a group subscription. To make it easy for them to find the correct group billing information, you can send them a link with a URL in this format: 
 
 `https://gitlab.com/groups/[group-path-name]/-/billings`
