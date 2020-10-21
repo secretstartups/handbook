@@ -17,19 +17,21 @@ PostgreSQL Databases we look after in Gitlab:
 - Staging cluster.
 - Production cluster.
 - Archive and Delayed production replicas.
-- Cloud SQL cluster in ops.gitlab.net
+- Cloud SQL cluster in ops.gitlab.net.
 - Prefect Cloud SQL databases, staging and production clusters.
 
-Other components we look after as part of the Database ecosystem in Gitlab:
+Other components we take care of, as part of the Database ecosystem in Gitlab:
 - Patroni templates.
-- Consul (running on the Database clusters)
+- Consul (running on the Database clusters).
 - PG Bouncer connection pooler.
 
 
-Main Gitaly components we look after, in production and staging:
-- Repo File servers
-- Praefect (Gitaly Cluster)
-- Gitaly Rails App and nodes
+Main Gitaly components we work on:
+- Repo File servers.
+- Praefect - as part of our [Gitaly Cluster architecture](https://docs.gitlab.com/ee/administration/gitaly/praefect.html).
+- Gitaly Rails App and nodes.
+
+<br></br>
 
 Datastores is:
 
@@ -50,4 +52,10 @@ Datastores is:
 
 ## Tenets
 
-*WIP*
+- Data integrity and consistency are our top priority - GitLab.com depends very much on that.
+- Automation as a way to run things with no manual intervention in production. All of our production changes are run via code.
+- Reliability of our datastores, also top priority. As part of the Reliability group we endeavour to run GitLab.com with 99.95% (or higher) availability - our Datastores availability should enable that goal.
+- We don’t want to fix things twice: If anything is broken, take your time to find a permanent (code based) solution, test it and roll it to production.
+- Growth mindset: we believe that our abilities can grow with effort and persistence. Goals are opportunities to grow. the purpose of what you do every day is to improve.
+- Obsession about avoiding service incidents, and fast-mitigation if they do happen.
+
