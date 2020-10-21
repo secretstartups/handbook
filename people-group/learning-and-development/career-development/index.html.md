@@ -15,7 +15,7 @@ It is the lifelong process of managing learning, work, leisure and transitions i
 
 ### Roles and Responsibilities
 
-Employee Owned
+Team Member Owned
  - Take charge of your own development and career
  - Close the skill gap for current and future positions
  - Seize development and stretch opportunities
@@ -63,6 +63,17 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 - [Individual Growth Plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 - [Tips for Creating Effective Growth Plans](https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit)
 - [Career Development Worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2)
+
+### Internal Opportunities to expand exposure
+
+There are various internal opportunities to expand a team member's exposure to multiple parts of the organization.  These include:
+
+- Participation in a [Team Member Resource Group (TMRG)](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
+- Work on a [Working Group (WG)](https://about.gitlab.com/company/team/structure/working-groups/)
+- Do an [apprenticeship](https://about.gitlab.com/handbook/engineering/career-development/#apprenticeship-for-learning) on another team
+- Writing for the [GitLab Blog](https://about.gitlab.com/handbook/marketing/blog/unfiltered/)
+- Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
+- When appropriate and possible, attending some of the staff meetings of the team members manager's manager
 
 ### Yearly Career Development Conversation Acknowledgements
 
