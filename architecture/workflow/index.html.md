@@ -14,11 +14,13 @@ As an Engineer, you and your manager determine whether to invoke the Architectur
 1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title and a link to the domain issue.
    1. Assign this issue to an Architecture Evolution Coach (AEC) --(TBD: where is the list of AECs?)
-   1. Mention appropriate Domain Experts so that AEC has awareness
+1. Open a **blueprint merge request** (project), which will generate the blueprint. 
+   1. Mention appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure)
    1. Mention relevant Product Management DRI if applicable
+   1. Post on `#architecture`
 1. The AEC will help with scoping, placement in the roadmap, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
-   1. Engaging Functional Experts (Security, QA and Infrastructure)
+   1. Engaging Functional Experts 
    1. Engaging with the appropriate Engineeering Leader who will make priority and resource allocation decisions
    1. Engage Product Management if no PM DRI was initially identified
 1. The **outcome** of architecture issue an **Architecture Blueprint** and possible roadmap updates
