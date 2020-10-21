@@ -119,7 +119,7 @@ The process is comprised of four key stages:
     1. What we reimplement in GitLab
     1. What we discard/EOL
     1. What is critical for user migration
-    1. Target [product tiers](/handbook/marketing/product-marketing/tiers/) in GitLab
+    1. Target [product tiers](/handbook/marketing/strategic-marketing/tiers/) in GitLab
     1. Barriers for implementation
     1. Deal Milestones:
         1. We aim to set 3 milestones at 2, 4 and 6 months from joining GitLab, to provide a concise set of goals which should cover the bulk of our product interest in the target company
