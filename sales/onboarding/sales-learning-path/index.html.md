@@ -70,8 +70,8 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Personas & Pain Points (Material - Video / Handbook - 20 Minutes)**
    - Introducing Personas and Pain Points. David Dulany, Sales Development Consultant, reviews the concepts of Personas and Pain Points and why they are important in setting the context for your messaging.
    - [You Tube - Introducing Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU)
-   - [Handbook - Roles & Personas](/handbook/marketing/product-marketing/roles-personas/)
-   - [Buyer Personas](/handbook/marketing/product-marketing/roles-personas/buyer-persona/)
+   - [Handbook - Roles & Personas](/handbook/marketing/strategic-marketing/roles-personas/)
+   - [Buyer Personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 *  **VP of App Dev (Material - Video - 10 Minutes)**
    - Watch Product Marketing Manager William Chia talk about the VP of App Dev persona.
    - [YouTube - VP App Dev](https://www.youtube.com/watch?v=58qDalA5o6Q)
@@ -90,7 +90,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
-   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/product-marketing/roles-personas/buyer-persona/)
+   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 
 ### 4. Our Portfolio
 *  **GitLab Pitch Deck (Material - Video - 15 Minutes)**
@@ -101,7 +101,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate. GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity. Check out this [reference guide](https://about.gitlab.com/product/) to learn more about what is included in each of the different stages of GitLab.
 *  **GitLab Feature Comparison and Tiers (Material - Handbook - 30 Minutes)**
    - Check out the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) chart to learn what's included in each package
-   - Review the [GitLab Tiers](/handbook/marketing/product-marketing/tiers/) in the Handbook
+   - Review the [GitLab Tiers](/handbook/marketing/strategic-marketing/tiers/) in the Handbook
    - Spend some time checking out the [Why Premium/Silver?](https://about.gitlab.com/pricing/premium/) and [Why Ultimate/Gold?](https://about.gitlab.com/pricing/ultimate/) pages.
 * **Ten Reasons Not to Start with Starter**
    - In the [video](https://youtu.be/Np8MyDorw5U) Haydn Mackay (GitLab Sales Director, Americas Enterprise West) highlights the top capabilities not available in GitLab Starter that help organizations deliver better products faster, increase operational efficiencies, and reduce security and compliance risk.
@@ -111,10 +111,10 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - Take a moment to complete this short knowledge check [quiz](https://docs.google.com/forms/d/e/1FAIpQLScahosIQoghrijLvRacseegt65O3SBycTIubvzJsaFn5wp2RQ/viewform)
 *  **Use Cases (Material - Handbook - 10 Minutes)**
    - A [customer use case](/handbook/use-cases/) is: A customer problem or initiative that needs a solution and attracts budget. Defined In customer terms: Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic) These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
-   - [Use Case Driven GTM](/handbook/marketing/product-marketing/usecase-gtm/)
-   - [Version Control and Collaboration Use Case](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/)
-   - [CI Use Case](/handbook/marketing/product-marketing/usecase-gtm/ci/)
-   - [Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)  
+   - [Use Case Driven GTM](/handbook/marketing/strategic-marketing/usecase-gtm/)
+   - [Version Control and Collaboration Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/)
+   - [CI Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+   - [Simplify DevOps](/handbook/marketing/strategic-marketing/usecase-gtm/simplify-devops/)  
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
    - Security is one of the biggest differentiators to Ultimate. In this course, you will learn detailed information about GitLab security capabilities with a click through demo.
    -Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
@@ -198,7 +198,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**
    - Talk with 3 tenured GitLab sales professionals (individual contributors or people managers) and ask them for their tips and tricks on successfully beating the competition. Please take notes from your calls and briefly summarize one or two things you learned from each conversation in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdCwvGRS_-fV9J57KGYIjkXNEUHDigKoPXss-kf9r3Zjozo9w/viewform?usp=sf_link) to submit the assignment.
 * **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**
-Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/product-marketing/competitive/) and [DevOps Tools Landscape.](https://about.gitlab.com/devops-tools/)
+Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/strategic-marketing/competitive/) and [DevOps Tools Landscape.](https://about.gitlab.com/devops-tools/)
 
 ### 9. Tools to Get Your Job Done
 *  **Using GitLab: The Basics (Material - Handbook - 45 minutes)**
@@ -210,7 +210,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **GitLab Tech Stack Details (Material - Handbook - 10 Minutes)**
    - Take a look to understand all the [tools that GitLab uses](/handbook/business-ops/tech-stack/) to keep the business running smoothly.
 *  **ACTIVITY: You've Got Issues! (Assignment - 20 Minutes - 10 Points - Pre Work)**
-   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/product-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
+   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/strategic-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
 *  **ACTIVITY: Practice Searching Issues and Filtering Labels (Assignment - 10 minutes - 10 points)**
    - Practice [searching issues and filtering using labels](https://gitlab.com/gitlab-org/gitlab-foss/-/labels)
 *  **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
@@ -283,7 +283,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -It is essential that you understand the Kubernetes (k8s) fundamentals. Based on your existing Kubernetes experience you should either take the first course "Kubernetes for the Absolute Beginner" (6 hours) or "Learn DevOps: the Complete Kubernetes Course" (13 hours).
 *  **Resources (Optional Material)
    -Bookmark these [AWS and CI references](https://docs.google.com/document/d/1bB7vlefsD_jwVgRxwaGuc8-AmR5sMyGSssS_alkNxuc/edit)
-   -Bookmark these [Marketing Demos](/handbook/marketing/product-marketing/demo/)
+   -Bookmark these [Marketing Demos](/handbook/marketing/strategic-marketing/demo/)
 
 
 ### 13. Integrations (SA, TAM, and PSE Only)
