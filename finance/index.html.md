@@ -140,4 +140,4 @@ For example, work to enable a sales partner that will not be incorporated into t
 | Sales - Commercial Sales, Field Ops, Customer Success | Frederick Kurniadi and Yi Sun |
 | Professional Services | Frederick Kurniadi and Sid Malik |
 | Marketing | Christine Machado and Cristal McClure |
-| G & A | Christine Machado and Cristal McClure |
+| G & A | Christine Machado and Ellen Boyd |
