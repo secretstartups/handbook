@@ -70,8 +70,7 @@ assigned when the first reply is made.
   </tr>
 </table>
 
-*NOTE: For more information about views, see the
-[Views section of our Zendesk Overview page](/handbook/support/workflows/zendesk-overview.html#views).*
+*NOTE*: For more information about views, see the [Views section of our Zendesk Overview page](/handbook/support/workflows/zendesk-overview.html#views).
 
 #### The Full Workflow
 1. Start your work at the top of your own view
