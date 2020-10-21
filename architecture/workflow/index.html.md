@@ -1,21 +1,19 @@
 ---
 layout: markdown_page
-title: "Workflow"
+title: "Evolution Workflow"
 ---
 
-As engineers at GitLab, we lead the evolution of software, constantly working to find the right balance between reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowing people to work on things that prevent a variety of problems from happening and that leverage and make everyone else more productive. Experimenting and innovating are core to how we work, and we focus on collaboration, results and iteration to achieve our goals.
+As engineers at GitLab, we lead the **evolution** of software, constantly working to find the right balance between reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowing people to work on things that prevent a variety of problems from happening and that make everyone more productive. Experimenting and innovating are core to how we work, and **we focus on collaboration, results and iteration** to achieve our goals.
 
-With growth, however, comes complexity, and an organic approach to our work sometimes requires help to ensure we are mpst effective. Help may be in the form of highligting priorities, ensuring alignment across teams, and validating our technical approaches. Engineering technical leaders take on the task of helping engineers by enabling them when they feel they need help navigating the organization across team and departamental boundaries, all while ensuring we cover our basis across functional areas. In order to do so, we have a process to helps us make architectural changes a success. The Architecture workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally. 
+With growth, however, comes complexity. An organic approach to our work sometimes requires help to ensure we are most effective. Help may be in the form of highligting priorities to key decision makers, ensuring organizational alignment across teams and departments, and validating our technical approaches. **Engineering technical leaders take on the task of helping engineers through these challenges** by enabling them when they feel they need help navigating the organization across team and departamental boundaries, all while ensuring we cover our basis across functional areas. In order to do so, we have a process to helps us make architectural changes a success. The Architecture Evolution workflow is intended to provide a channel for influence amplication to drive the solution of complex problems both technically and organizationally.
 
-As an Engineer, you and your manager determine whether to invoke the Architecture workflow. Most (if not all) work begins with an issue or epic in a project as part of you regular workflow (which we will generally refer to as a **domain issue**). These are everyday issues and epics created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Workflow.
+## Workflow: TL;DR
 
-
-
-## Workflow (TL;DR)
+As an Engineer, you and your manager determine whether to invoke the Architecture Evolution workflow. Most (if not all) work begins with an issue or epic in a project as part of you regular workflow (which we will generally refer to as a **domain issue**). These are everyday issues and epics created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Evolution workflow.
 
 1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title and a link to the domain issue.
-   1. Assign this issue to an Architecture Evolution Coach (TBD: where is the list of AECs?)
+   1. Assign this issue to an Architecture Evolution Coach (AEC) --(TBD: where is the list of AECs?)
    1. Mention appropriate Domain Experts so that AEC has awareness
    1. Mention relevant Product Management DRI if applicable
 1. The AEC will help with scoping, placement in the roadmap, and organizational amplification by:
@@ -23,7 +21,7 @@ As an Engineer, you and your manager determine whether to invoke the Architectur
    1. Engaging Functional Experts (Security, QA and Infrastructure)
    1. Engaging with the appropriate Engineeering Leader who will make priority and resource allocation decisions
    1. Engage Product Management if no PM DRI was initially identified
-1. The outcome of architecture issue an Architecture Blueprint and possible roadmap updates
+1. The **outcome** of architecture issue an **Architecture Blueprint** and possible roadmap updates
    1. Entains a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corrsponding discussion
    1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
    1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
@@ -31,9 +29,9 @@ As an Engineer, you and your manager determine whether to invoke the Architectur
 
 
 
-## Execution
+### Execution
 
-At this point, problem scope (domain and organizational) is known and documented. From this point on, we're focused on execution, which is outside the scope of the Architecture Workflow. At this stage, DRIs take full control and drive towards results:
+At this point, problem scope (domain and organizational) is known and documented, as are stakeholders. From this point on, we're focused on execution, which is outside the scope of the Architecture Evolution Workflow. At this stage, DRIs take full control and drive towards results:
 
 1. Three (3) [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) are assigned and collaborate together to get the work done,
 1. A [Working Group](/company/team/structure/working-groups/) can be formed if deemed necessary by DRIs
@@ -44,21 +42,11 @@ At this point, problem scope (domain and organizational) is known and documented
 
 
 
+## Workflow: The Detailed View
 
+### Outcomes
 
-## The Long Story
-
-### Departmental Aligment
-
-We embrace **collaboration**, so anyone can contribute. And yet, there is a marked difference between an *organic* collaboration environment and an *organized* one. When organizations are small, it is relatively straight forward to find alignment across the organization; add roles and some pointers, and there is seemingly organization in chaos.
-
-### Organizational Amplification
-
-We embrace **transparency**, so information is widely available. As an organization grows, however, the fully distributed, free flow of information demands that individuals devote large amounts of time to the consumption, processing, filtering, and transformation of an ever growing body of information. In larger groups, the availability of information does not guarantee that the right stakeholders will consume it, let alone act on it.
-
-How do we then, ensure that the *right* information reaches the *right* stakeholders? It may be difficult for an engineer and/or their manager to propagate a given piece of information, and to turn it into a priority. Hierarchical escalation adds significant latency, especially across departments, so we need a more focused way to a) behave like a single entity (Engineering) and to b) prodive focus and alignment with compteting pieces of information at the rightr time, in the right order, and with the right destinations.
-
-The Architecture Workflow is intended to help Engineers with those goals to ensure that ideas do not stay hidden or worse, ignored. It is also intended to ensure that we are aligned and ordered department-wide, so that we can solve complex problems, especially those that are sitting right below the product surgace area, deep into the machinery that powers the application. These areas include cross-team collaboration, when a single problem requires a myriad of teams in order to solve it. This alignment requires long-term vision
+The primary outcome of the workflow is a **blueprint** published on `docs.gitlab.com`.
 
 ### Finding people that will amplify your influence
 
@@ -83,25 +71,23 @@ A Domain Expert is someone who knows most about the topic and this person can wo
 
 Once the blueprint of the proposal gets approved, DRIs will be assigned to carry on the vision and coordinate work required to get it done. All these people are here to amplify the influence of the author of the proposal in an environment that fosters creativity and knowledge sharing.
 
+### Roles
 
-
-## Roles
-
-There are three role types asociated with the Architecture Workflow:
+There are three role types asociated with the Architecture Workflow and the generation of a blueprint:
 
 1. DRIs (Directory Responsible Individuals)
 2. DEEs (Domain Expert Engineers)
 3. FEEs (Functional Expert Engineers)
 
-### DRIs
+#### DRIs
 
-### The Architecture Evolution Coach
+##### The Architecture Evolution Coach
 
 Architecture Evolution Coach is an expertise assigned to team members, visible on their profiles on [the team page](/company/team/). All Engineering Fellows and Distinguished Engineers are Architecture Evolution Coaches by default.
 
 The purpose of involving a coach in the process of creating a blueprint is to allow people that know most about GitLab to share their knowledge and perspective on introducing complex architectural changes. This makes it easier to avoid the cost of working on the wrong thing, iterating improperly and fosters knowledge sharing.
 
-### Domain Experts
+#### Domain Experts
 
 [Domain Experts](https://docs.gitlab.com/ee/development/code_review.html#domain-experts) are engineers  with a deep understand of one or more particular areas. Domain Experts:
 
@@ -115,58 +101,50 @@ Sometimes there is an Architecture Evolution Coach available who is also a Domai
 
 #### Functional Experts
 
-The Security Expert is an engineer, usually an Individual Contributor, who is part
-of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) 
-sub-department, and can evaluate the impact of the blueprint on our security posture 
-and perimeter. It is important to assess and identify risk as early as possible, as 
-workarounds to security design issues can lead to a lot of expensive changes.  
-The Security Expert evaluates edge-cases and prevents later corrective actions. 
-They can also specify some limits (example: list of allowed protocols) without 
-modifying the design of the blueprint itself.  
-`@gitlab-com/gl-security/appsec` is the primary group for @'mentioning the 
-Application Security team, who will assign the right DRI to the blueprint.
+Functional Experts are engineers with deep knowledge across specific functional areas, which include Security, QA, and Infrastructure. You should always involve these functional experts during the generation of blueprint so that we generate awareness early in the cycle and so that they can provide appropriate input into the blueprint.
+
+##### Security
+
+The Security Expert is an engineer, usually an Individual Contributor, who is part of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) sub-department, and can evaluate the impact of the blueprint on our security posture and perimeter. It is important to assess and identify risk as early as possible, as 
+workarounds to security design issues can lead to a lot of expensive changes. The Security Expert evaluates edge-cases and prevents later corrective actions. They can also specify some boundaries (example: list of allowed protocols) without modifying the design of the blueprint itself.
+
+@-mention `@gitlab-com/gl-security/appsec` so that a specific Security Functional Expert DRI is assigned to the blueprint.
+
+##### Quality Assurance
+
+The QA expert is...
+
+@-mention `@gitlab-com/gl-qa` so that a specific QA Functional Expert DRI is assigned to the blueprint.
+
+##### Infrastructure
+
+The Infrastructure Expert is an engineer from Infrastructure's Reliability sub-department and can evaluate the impact of the blueprint on our reliability and availability posture. It is important to identify reliability aspects associated with the blueprint early, as workarounds to address availability, scalability and performance issues can be expensive, and directly affects GitLab.com's availability.
+
+@-mention `@gitlab-com/gl-infrastructure` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
 
 ### Proposing changes
 
-Anyone can open an issue about a change they believe we should work on.
+Anyone can propose a change they believe we should work on.It can be a complex backstage improvement, an architectural change, a
+productivity improvement, or an efficiency improvement. In general, it is any work that is too complex for a single individual contributor to handle.
 
-It can be a complex backstage improvement, an architectural change, a
-productivity improvement, or an efficiency improvement. It can be anything else
-that is too complex for a single individual contributor to handle.
-
-Although we usually prefer [starting with a merge
-requests](/handbook/communication/#everything-starts-with-a-merge-request), in
-case of complex changes like that, a merge request might not be something that
+Although we usually prefer [starting with a merge requests](/handbook/communication/#everything-starts-with-a-merge-request), in case of complex changes like that, a merge request might not be something that
 is actionable, so we usually start with an issue.
 
-It is advised to post a link to the issue in the
-[#architecture](https://gitlab.slack.com/archives/CJ4DB7517) Slack channel.
+For additional visibility, post a link to the issue in the [#architecture](https://gitlab.slack.com/archives/CJ4DB7517) Slack channel.
 
-Then author of the issue loops an Architecture Evolution Coach and a Domain
-Expert then collaborate together to create a blueprint merge request with the
-proposal.
+Then author of the issue loops an Architecture Evolution Coach and a Domain Expert then collaborate together to create a blueprint merge request with the proposal.
 
-Collaboration between the coaches and a person who had an idea ensures that
-only proposals that that are achievable get described in a blueprint merge
-request. This makes it also easier to avoid the cost of iterating on the
-product architecture improperly and fosters knowledge sharing.
+Collaboration between the coaches and a person who had an idea ensures that only proposals that that are achievable get described in a blueprint merge request. This makes it also easier to avoid the cost of iterating on the product architecture improperly and fosters knowledge sharing.
 
 ### Blueprint merge request
 
-A blueprint merge request is a description of [Why, How and
-What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been
-proposed in the issue.
+A blueprint merge request is a description of [Why, How and What](https://en.wikipedia.org/wiki/Start_With_Why) of the change that has been proposed in the issue.
 
 * Why - what is the motive and purpose, what is the problem are we trying to solve
 * How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
-Blueprints will be mostly written by engineers, but their content should not be
-too technical. The audience is Product Team Members, Engineering Leaders and
-Wider Community. A blueprint should describe a vision in an easy to understand
-way - it is advised to use only simple diagrams and to avoid overloading the
-content with technical terms and details. Technical details will go into
-subsequent epics and issues associated with a blueprint.
+Blueprints will be mostly written by engineers, but their content should not be deeply technical. The audience are Product Team Members, Engineering Leaders and the wider community. A blueprint should describe a clear vision that is easy to understand: use simple diagrams, and avoid tecnical jargon overload. Technical details will be fleshed out in subsequent epics and issues associated with a blueprint once we enter the execution phase.
 
 A blueprint merge request gets created and made visible as a result of
 collaboration between an Architecture Evolution Coach, a Domain Expert and a
