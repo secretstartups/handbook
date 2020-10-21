@@ -20,7 +20,7 @@ The tool is in active development and is currently only available for those aske
 {: .alert .alert-info}
 
 #### Current Sign Up Process
-- To use the tool, you can sign up with a GitLab email address via [this link](https://gitlab-people-engineering-assessment-tool.35.231.0.140.nip.io/). _Note: The email address you sign up with needs to be your email address that is known in BambooHR. This is needed as we fetch data from BambooHR._
+- To use the tool, you can sign up with a GitLab email address via [this link](https://assessment.gitlab.net/users/sign_in). _Note: The email address you sign up with needs to be your email address that is known in BambooHR. This is needed as we fetch data from BambooHR._
 - Once you've signed up, you will receive an email to confirm your account. When you confirm, your email address will be automatically linked with your BambooHR ID (that we later will use to fetch data from BambooHR).
 
 _Note: There's [an open issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/-/issues/20) to look into using Okta as the authentication method._
@@ -50,7 +50,7 @@ The access level for the API token is approved by the Total Rewards Team. If add
 
 The tool does not display gender or birth dates for individuals, but rather uses this information as aggregate data for reporting. 
 
-We follow our [confidentiality rules](https://about.gitlab.com/handbook/people-group/engineering/#confidentiality) for this project and mirror it to a private project on ops.gitlab.net.
+We follow our [confidentiality rules](/handbook/people-group/engineering/#confidentiality) for this project and mirror it to a private project on ops.gitlab.net.
 
 ### How To Use The Tool
 
@@ -60,7 +60,7 @@ As an individual contributor, you are not required to sign up for or use the too
 
 #### People Managers
 
-Before creating an account, it is recommended that you read up on [what Performance/Potential Assessments at GitLab are](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/).
+Before creating an account, it is recommended that you read up on [what Performance/Potential Assessments at GitLab are](/handbook/people-group/performance-assessments-and-succession-planning/).
 
 Once you're familiar with the process, you need to create an account (see "Creating an Account" section) to begin assessments.
 
@@ -71,13 +71,15 @@ Once you're familiar with the process, you need to create an account (see "Creat
 1. Click "Assess your team members within [TEAM]"
 1. Click `Open Box View`. This will take you to the Performance/Potential axis view for your team members. 
 1. If you are managing other managers, you can check and uncheck the filter for `Direct Reports Only` to view your direct reports only. 
-1. On the left side, you will see an overview of all the team members who directly or indirectly report to you.
+1. On the left side, you will see an overview of all the team members who directly or indirectly report to you. This view is in alphabetical order. 
+1. The view is divided in `Eligible team members`, `New hires (started in the last 90 days)` and `Excluded from the Assessment Round`. Team members that are Excluded from the Assessment round have a start date before the threshold as set by the People Business Partner. For example of November 1st as stated [in the handbook](/handbook/people-group/performance-assessments-and-succession-planning/#eligibility). 
 1. You can filter your view for `Division`, `Department`, `Roles`, and `Team`. By clicking the "x" next to the filter you can "unfilter" and revert back to the full overview. 
-1. The colors indicate the location of the team members. We use this to create awareness pertaining to potential [unconscious bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) with regards to locations and regions.
-1. After familiarizing with the tool, you're ready to assess your team members and place them in the appropriate box. (Example: Developing performing with High potential would be aligned with the bottom right box, or box 6).  
-1. When hovering over the box numbers you can view the definition, actions, and meaning for each box. This is aligned with the training material provided in [this slide deck](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44). 
+1. The colors indicate the location of the team members. We use this to create awareness pertaining to potential [unconscious bias](/company/culture/inclusion/unconscious-bias/) with regards to locations and regions.
+1. After familiarizing with the tool, you're ready to assess your team members and place them in the appropriate box. (Example: Developing with High potential would be aligned with the bottom right box, or box 6).  
+1. When hovering over the box numbers you can view the definition, actions, and meaning for each box. This is aligned with the training material provided in [this slide deck](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44) and in our [Performance/Potential handbook page](handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). 
 1. If you prefer to review team members in a table view, you can click the button in the top left that reads `table view mode`.
 1. By clicking `assess` behind the team members' name, you will be asked to `Assess Potential` from a drop down menu and `Assess Performance` from a drop down menu. 
+1. If Succession planning is enabled for this round, you can click the `+` behind the team members' name and indicate when they would be ready for promotion/filling the next level role. Options are: `Now`, `Within 12 months or less` or `After 12 months or more`. Also if someone has been the `Emergency contact`  while the next level leader has been away you can indicate that by checking the box. 
 1. After completing the assessment of all team members in box view mode or table view mode, click `save changes`.
 1. Finally, you can start preparing for the [callibration meeting](/handbook/people-group/performance-assessments-and-succession-planning/#calibration-session) to discuss the assessments of your team members and calibrate.  
 
@@ -91,13 +93,23 @@ to assess all the team members that are within your People Business Partner (PBP
 
 ##### Steps For PBPs To Initiate Assessment Periods
 
-1. Log in to the tool via [this link](https://gitlab-people-engineering-assessment-tool.35.231.0.140.nip.io/) 
+1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
 1. Click `Start a new round` in the top right corner
 1. Select the Department you want to start the Assessment round for from the drop down menu
 1. Enter the start and end date of the Assessment round. The handbook provides a period [ranging between 4-6 weeks](/handbook/people-group/performance-assessments-and-succession-planning/#matrix-assessment-timeline) for the full assessment process. 
 1. Determine if you want to `Enable Succession planning`. This function will give you and your managers the opportunity to add `Emergency contact` status as well as `Promotion readiness`. General recommendation is to enable [succession planning](/handbook/people-group/performance-assessments-and-succession-planning/#succession-planning), as it is not possible to turn this feature on after the assessment period has started. 
 1. Determine the `Cut off date`. _Note: This is only needed if you want to exclude team members with a hire date after the determined cut off date. For example, to exclude team members hired after October 31st in the review cycle for Q4, October 31st would be the "cut off date".
 1. Click `Create Assessment Round` when all details are filled in. 
+
+##### Steps For PBPs to Review during and after assessment
+1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
+1. Click `Dashboard` in the top right corner. 
+1. Click `Overview` for any of the departments you would want to be reviewing
+1. You will be taken to an overview for that department with bar charts - indicating how many team members are assessed at each level for Potential, Performance and for both. 
+1. You can check the boxes behind `Aggregated Data:` to `Show male vs non-male` , `Use Percentages` and/or `Show Regions`. 
+1. In the [Performance/Potential handbook page](/handbook/people-group/performance-assessments-and-succession-planning/#what-is-performance) there are guidelines on distribution for team members overall. 
+1. Note: Team mmebers who are not places in a box would not count towards the total %. 
+1. This functionality already works before assessments have been confirmed and before the calibration sessions. Therefore it can be helpful to review before going into the [live calibration sessions](/handbook/people-group/performance-assessments-and-succession-planning/#calibration-session). 
 
 The review round for the department has now been created and managers can sign in within the tool and perform their assessments. 
 
