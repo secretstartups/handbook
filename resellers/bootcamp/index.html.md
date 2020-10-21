@@ -48,7 +48,7 @@ If you're brand new to GitLab, we recommend watching this video to get familiar 
 **Now go to your imported Labs project, find the issue called *Lab 0* and assign it to yourself. It contains all steps needed to set up the environment for the future labs. Execute all tasks in the issue.**
 
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage, review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/agile/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage, review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/agile/).
 
 ### Code Management & Version Control
 
@@ -59,7 +59,7 @@ If you are interested in market positioning, typical pain points and the way Git
 
 **Now go to your project and find issue *Lab 1: Merge Request Approvals* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/).
 
 
 ### Continuous Integration & AutoDevOps
@@ -70,7 +70,7 @@ If you are interested in market positioning, typical pain points and the way Git
 [Presentation Slide Deck](https://drive.google.com/file/d/1rGiDua7LXNTR0sx5kpyK7tCRe9eJZp9O/view?usp=sharing)
 **Now go to your project and find issue *Lab 2: AutoDevOps* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/).
 
 ### Custom CI Piplelines
 
@@ -89,7 +89,7 @@ If you are interested in market positioning, typical pain points and the way Git
 [Presentation Slide Deck](https://drive.google.com/file/d/1jxbK-wCKmfX1fIIcvy2hY3ycr18-BHGT/view?usp=sharing)
 **Now go to your project and find issue *Lab 4: GitOps* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/gitops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/).
 
 ### DevSecOps
 
@@ -99,7 +99,7 @@ If you are interested in market positioning, typical pain points and the way Git
 [Presentation Slide Deck](https://drive.google.com/file/d/1Q8axZ7774CZ0RDLLQ_UuAmVWiqDnWd1t/view?usp=sharing)
 **Now go to your project and find issue *Lab 5: Application Security* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/devsecops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/).
 
 ### Value Stream Management
 
@@ -109,7 +109,7 @@ If you are interested in market positioning, typical pain points and the way Git
 [Presentation Slide Deck](https://drive.google.com/file/d/1ZQ5Q0KOQ6pJHEN5_7V3BTOPc61ihkM8A/view?usp=sharing)
 **Now go to your project and find issue *Lab 6: Measuring and Managing Value Streams* and complete the tasks contained there**.
 
-If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/).
+If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/simplify-devops/).
 
 ## Implementing GitLab
 
