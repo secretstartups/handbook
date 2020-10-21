@@ -463,7 +463,7 @@ Since GitLab is an open core project, we'll always create much more value then w
 These straightforward ways are not possible for the following reasons:
 
 1. Scope: charging more for adoption would hurt the adoption of GitLab for the whole lifecycle. In January 2018, version control is 10 times more popular than the next feature (CI). We need the features to spread organically, so people can create more value with GitLab. People are much more willing to pay when they are already using a part of the lifecycle.
-1. Size: many other software companies limit the maximum amount of users in certain [tiers](/handbook/marketing/product-marketing/tiers/). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises). We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger then the limit.
+1. Size: many other software companies limit the maximum amount of users in certain [tiers](/handbook/marketing/strategic-marketing/tiers/). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises). We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger then the limit.
 
 So we're left with charging for features.
 We can't charge for each feature separately, since that is unwieldy for the customer.
@@ -480,7 +480,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 ## Buyer-Based-Open-Core
 
 We make feature tiering decisions based on: **"Who cares most about the feature"**.  
-Our [four tiers](#four-tiers) are differentiated based on [the buyer persona](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
+Our [four tiers](#four-tiers) are differentiated based on [the buyer persona](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
