@@ -15,12 +15,16 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 
 # System Definitions
 
-## CustomersDot 
-Allows Customers to acquire GitLab subscriptions, upgrade subscriptions by adding more seats and add/edit payment records.  Our customers see the front end of this system as the Customer Portal at [https://customers.gitlab.com/](https://customers.gitlab.com/) and at [https://gitLab.com/](https://gitLab.com/).
+## CustomersDot
+Allows customers to acquire GitLab subscriptions, upgrade subscriptions by adding more seats and add/edit payment records. Our customers see the front end of this system as the Customer Portal at [https://customers.gitlab.com/](https://customers.gitlab.com/) and at [https://gitLab.com/](https://gitLab.com/).
 ## LicenseDot
 Manages license creation via API or manually in the UX and communicates with CustomersDot to send licenses via email. The Front end for managing this system is at [https://license.gitlab.com/](https://license.gitlab.com/).
 ## Zuora
 [Zuora](https://www.zuora.com/) is our subscription management and billing system, primarily managed by our Finance team. It is the single source of truth for SKUs and it generates invoices for customers. More information on the Zuora Object Model is in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship).
+## Stripe
+[Stripe](https://stripe.com/) is our payment gateway. It processes payments and communicates with CustomersDot indirectly via Zuora.
+## GitLab
+[GitLab](https://gitLab.com/) is our complete DevOps platform, delivered as a single application. Acts as a frontend of and communicates with CustomersDot via an API.
 
 # Application diagrams
 
