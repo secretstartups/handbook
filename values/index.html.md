@@ -495,7 +495,7 @@ We value constant improvement by iterating quickly, month after month. If a task
 
 ##### Light weight and big brakes
 {:.no_toc}
-Fast cars have big motors, but European-style race cars also have two other attributes to get around the track quickly: they are light weight, and they have powerful brakes. The latter is important because you can spend more time at your top speed on the straight away if you can brake later into the corner. So groups at GitLab should be no larger than they need to be successful, with a 1-person group being the most efficient. And they should be willing to stop their current direction without delay to pursue new direction (for example re-organize, or change prioritization).
+American-style msucle cars have big motors and go fast in a straight line, but the startup road is always curvy. In contrast, European-style sports cars have two additional attributes to go fast: they are light weight, and they have powerful brakes. The latter is important because you can spend more time at your top speed on a straight away if you can brake later into the corner. So groups at GitLab should be no larger than they need to be successful, with a 1-person group being the most efficient. And they should be willing to stop their current direction without delay to pursue new direction (for example re-organize, or change prioritization).
 
 ##### Efficiency Competency
 {:#efficiency-competency .no_toc}
