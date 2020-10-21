@@ -122,7 +122,7 @@ Potential *can change* over time as team members develop new interests, as new o
 
 ### Low
 
-Low potential generally refers to a team member who is working at full potential against the roles and responsibilities outlined in their Job Family. There could be a variety of reasons for this, including:
+Low potential generally refers to a team member who is not working at full potential against the roles and responsibilities outlined in their Job Family. There could be a variety of reasons for this, including:
 
 * Lack of motivation to learn new skills or take on new projects
 * Motivated to do what is needed in current job, not in what is required in a higher level
