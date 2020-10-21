@@ -9,29 +9,30 @@ With growth, however, comes complexity. An organic approach to our work sometime
 
 ## Workflow: TL;DR
 
-As an Engineer, you and your manager determine whether to invoke the Architecture Evolution workflow. Most (if not all) work begins with an issue or epic in a project as part of you regular workflow (which we will generally refer to as a **domain issue**). These are everyday issues and epics created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Evolution workflow.
+**As an engineer, you and your manager determine whether to invoke the Architecture Evolution workflow**. When in doubt, **do not hesitate to reach out to an Architecture Evolution Coach**. Most (if not all) work begins with an issue or epic in a project as part of you regular workflow (which we will generally refer to as a **domain issue**). These are everyday issues and epics created in their relevant projects. Engineers and Managers use a domain issue to scope problems and possibly outline a solution. If the domain issue turns out to be complex (in terms of the problem domain or organizational involvement required to solve the problem), Engineers and Managers may decide to invoke the Architecture Evolution workflow.
 
+1. Determine with your manager whether to invoke the workflow.
 1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
-   1. Add a sensible title and a link to the domain issue.
+   1. Add a sensible title and a link to the domain issue in the description.
    1. Assign this issue to an Architecture Evolution Coach (AEC) --(TBD: where is the list of AECs?)
-1. Open a **blueprint merge request** (project), which will generate the blueprint. 
+1. Open a **blueprint merge request** (project) for the blueprint. 
+   1. Add a sensible title and a link to the architecture issue in the description.
    1. Mention appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure)
    1. Mention relevant Product Management DRI if applicable
    1. Post on `#architecture`
-1. The AEC will help with scoping, placement in the roadmap, and organizational amplification by:
+1. The AEC will help with scoping, roadmap placement, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
-   1. Engaging Functional Experts 
-   1. Engaging with the appropriate Engineeering Leader who will make priority and resource allocation decisions
+   1. Engaging with the appropriate Engineeering Management Leader who will make priority and resource allocation decisions
    1. Engage Product Management if no PM DRI was initially identified
 1. The **outcome** of architecture issue an **Architecture Blueprint** and possible roadmap updates
-   1. Entains a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corrsponding discussion
+   1. Entains a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corresponding discussion
    1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
    1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
    1. Once merged, a link to the blueprint is added to the Architecture Roadmap
 
 
 
-### Execution
+### Getting thing done: Execution
 
 At this point, problem scope (domain and organizational) is known and documented, as are stakeholders. From this point on, we're focused on execution, which is outside the scope of the Architecture Evolution Workflow. At this stage, DRIs take full control and drive towards results:
 
@@ -83,11 +84,19 @@ There are three role types asociated with the Architecture Workflow and the gene
 
 #### DRIs
 
+##### The Author
+
+As the original author of a proposal, you are the primary DRI for it.
+
 ##### The Architecture Evolution Coach
 
 Architecture Evolution Coach is an expertise assigned to team members, visible on their profiles on [the team page](/company/team/). All Engineering Fellows and Distinguished Engineers are Architecture Evolution Coaches by default.
 
 The purpose of involving a coach in the process of creating a blueprint is to allow people that know most about GitLab to share their knowledge and perspective on introducing complex architectural changes. This makes it easier to avoid the cost of working on the wrong thing, iterating improperly and fosters knowledge sharing.
+
+##### The Engineering Management Leader
+
+The AEC will help you identify the right Engineering Management Leader to evaluate the proposal. Managers are key decision-makers, and, ultimately, will determine how to include your proposal in the stream of work that is always in-flght. This entails prioritizing and allocating people to execute the work at the appropriate time.
 
 #### Domain Experts
 
@@ -122,7 +131,7 @@ The QA expert is...
 
 The Infrastructure Expert is an engineer from Infrastructure's Reliability sub-department and can evaluate the impact of the blueprint on our reliability and availability posture. It is important to identify reliability aspects associated with the blueprint early, as workarounds to address availability, scalability and performance issues can be expensive, and directly affects GitLab.com's availability.
 
-@-mention `@gitlab-com/gl-infrastructure` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
+@-mention `@gitlab-com/gl-infrastructure/mstaff` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
 
 ### Proposing changes
 
@@ -156,11 +165,7 @@ blueprint.
 It describes the goal of the change and usually a 1-year forecast of how to
 make it happen.
 
-Blueprints are supposed to be created in
-[`doc/architecture/blueprints`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
-directory in GitLab Rails project. Eventually these are going to be published
-on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints)
-too.
+Blueprints are supposed to be created in [`doc/architecture/blueprints`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints) directory in GitLab Rails project. Eventually these are going to be published on [GitLab Architecture Docs](https://docs.gitlab.com/architecture/blueprints) too.
 
 ### Describing iterations
 
@@ -205,9 +210,7 @@ Handbook.
 
 ### Finding DRIs
 
-Once the blueprint is approved, the Engineering Leader who approved the proposal
-collaborates with people involved to find Directly Responsible Individuals who
-will be decision makers from now on and will be responsible for the progress.
+Once the blueprint is approved, the Engineering Management Leader who approved the proposal collaborates with people involved to find DRIs who will be responsible for delivery of results and decisions makes from now on.
 
 The blueprint needs three people that will become DRIs:
 
@@ -230,10 +233,7 @@ the work.
 
 ### Getting things done
 
-DRIs can decide to form a [Working
-Group](/company/team/structure/working-groups/) to better structure the efforts
-related to the architecture change. Key considerations in deciding to form a Working Group are
-the size, complexity, and organizational impact of the change.
+DRIs can decide to form a [Working Group](/company/team/structure/working-groups/) to structure the efforts related to the architecture change. Key considerations in deciding to form a Working Group are the size, complexity, and organizational impact of the change.
 
 The concept of a Working Groups can be an extension of the Architecture
 Evolution Workflow, but if it is not applicable in a particular case, a
