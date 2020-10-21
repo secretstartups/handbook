@@ -75,4 +75,4 @@ Note: access to CustomersDot staging as an admin will require an Access Request.
 1. [Licensing and Subscription Faq](https://about.gitlab.com/pricing/licensing-faq/) _(user facing)_
 2. [Subscription Setup and Management](https://docs.gitlab.com/ee/subscriptions/) _(user facing)_
 3. [CustomersDot Admin Docs](/handbook/internal-docs/customers-admin/) _(internal audience)_
-4. [Sales Enablement Reference: GitLab.com Subscriptions](/handbook/marketing/product-marketing/enablement/dotcom-subscriptions/) _(internal audience)_
+4. [Sales Enablement Reference: GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/) _(internal audience)_
