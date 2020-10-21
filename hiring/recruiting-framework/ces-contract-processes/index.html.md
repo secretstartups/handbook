@@ -193,7 +193,7 @@ The Candidate Experience Specialist who initiated the contract process is expect
 
 Contract amendments or modifications are processed by the Candidate Experience Specialist if the team member has not started or by the People Operations Specialist if they have.
 
-1. Amendments prior to starting with GitLab:
+### Amendments prior to starting with GitLab:
 
 If an amendment needs to be made and the previous contract was never active, the Candidate Experience Specialist should:
 
@@ -203,7 +203,38 @@ If an amendment needs to be made and the previous contract was never active, the
 
 _Note: It is essential that People Operations Specialists are informed of all changes, as various fields must be updated in BambooHR._
 
-2. Amendments after starting with GitLab:
+### Amendments to contracts for new hires with planned relocations
+
+1. Candidate Experience Specialist will ensure that there is verbiage clearly stating the terms of the compensation changes for relocation after the new hire’s start date and ensure that the Total Rewards team has approved both compensations.
+1. If you are unsure about the Total Rewards approval, CES will ping the Total Rewards team in the Approval Notes.
+    - Navigate to the bottom of the candidate’s GH profile
+    - See “Approval Notes”
+    - Click “Leave a Note” 
+    - Tag Brittany Rohde in a note to confirm that both compensation values have been approved
+    - Tag the Recruiter as CC
+1. Once Total Rewards has confirmed both have been reviewed and approved, generate the appropriate contract
+1. Download the Word version of the contract and upload into Google Drive for editing
+    - Navigate to Google Drive
+    - Click “New” in the upper corner of the left toolbar
+    - Select “File Upload”
+    - Select the contract
+1. Add lines at the top of the document for categories to include Compensation for the relocation
+    - Example for relocation from ID to CA:
+        - CA Compensation: $ USD
+        - ID Compensation: $ USD
+1. Update Section 10 Location verbiage:
+    - Original
+        - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID. If your permanent legal residence changes from that location you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
+    - Updated
+        - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID and you've disclosed a planned move to San Francisco, CA on or around January 1st, 2021. If your permanent legal residence changes from those locations you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
+1. Delete out all tokens from the document 
+1. Save and download the contract as a PDF
+1. Upload in GH by selecting “Upload Replacement”
+1. Stage contract as normal
+1. Add tokens back in after changing signing order
+1. Send
+
+### Amendments after starting with GitLab:
 
 A contractor requests a modification to their contract due to a name change/company incorporation (Example: The individual recently incorporated a company, and would like to invoice GitLab through their company versus individually)
 
@@ -215,7 +246,6 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 
 * The People Operations Specialist should stage the contract in HelloSign to be signed by both the team member and the Director of People Operations.
 * Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
-
 
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn). 
