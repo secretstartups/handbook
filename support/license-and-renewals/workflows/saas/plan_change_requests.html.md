@@ -33,7 +33,7 @@ graph TD;
   C-->J[No];
   J-->K[Apply Status::Blocked and Inform Submitter];
   C-->D[Yes];
-  D-->E[Adjust Namespace via CustomersDot];
+  D-->E[Adjust Namespace via Customers Portal];
   E-->F[Did it Work?];
   F-->G[Yes];
   G-->H[Note Issue and Close];
