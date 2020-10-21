@@ -90,7 +90,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The CES will update the interview plan after the Kick-off Session.
 
-1. Every vacancy should have an `Application Review` stage. Typically no edits are needed on this stage.
+1. Every vacancy should have an `Review` stage. This is also known as Application Review by the Greenhouse Milestone.
 
 1. Some vacancies have an `Assessment` as the second stage in the process.
    - If your vacancy requires an assessment but there is no assessment stage already added, scroll to the bottom of the page and click `Add a Stage`.
@@ -126,7 +126,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Some teams prefer to have the hiring manager stage broken out separate from `Team Interview` stage and in that case, a stage labeled `Hiring Manager Interview` should be added. To add a new interview in a stage, hover over the stage and click `Add Interview`, then you can copy over an interview from another job or create a new one. You can also move the interviews around within the stage and change the interview names. `Executive Interview` are included in this stage. Depending on the level of the role the executive interviews may be conducted at the end or at any point in the team interview stage. You can customize as needed, including selecting attributes, adding custom questions, setting the interview length and selecting a default interviewer.
 
-1. The next stage is `Reference Check`, with at least three sections; a former manager and two former peers. These can be customized as needed. For executive-level roles, it is suggested you include the following; two former managers, two former peers, two former direct reports, and back-channel. The [background check](/handbook/people-group/people-policy-directory/#background-checks) is performed during the Reference Check stage.
+1. The next stage is `Background Check & References`, with at least three sections; a former manager and two former peers. These can be customized as needed. For executive-level roles, it is suggested you include the following; two former managers, two former peers, two former direct reports, and back-channel. The [background check](/handbook/people-group/people-policy-directory/#background-checks) is performed during the this stage.
 
 1. There is an optional `Justification` section used by the R&D division. This section should include three questions:
    - In what specific way(s) does this candidate make the team better?
@@ -172,16 +172,14 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 1. Go to the vacancy and under `Job Setup`, review the configurations the Recruiting Manager has made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 
 1. The interview plan, scorecard(s), hiring team should be updated from the Intake Call notes. Each req is different on which stages are included and the order of those stages, however ensure each stage is labeled correctly for reporting purposes:
-    - Application Review
-    - Qualified
+    - Review
     - Screening
     - Assessment
     - Hiring Manager Interview
     - Team Interview
     - Technical Interview
     - Justification
-    - Reference Check
-    - Background Check
+    - Background Check & References
     - Offer
 
 1. Confirm each person in the hiring process has appropriate access and upgrade if necessary in [Greenhouse](/handbook/hiring/greenhouse/#access-levels-and-permissions).
