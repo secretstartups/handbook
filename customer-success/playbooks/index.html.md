@@ -47,10 +47,10 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Stage Adoption: Manage    | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Plan      | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Create    | **Yes** | Manual | Success Plan | Stage Adoption | [Source Code Management (SCM) / Create Stage](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/) |
-| Stage Adoption: Verify    | - | Manual | Success Plan | Stage Adoption | [Continous Integration / Verify](/handbook/marketing/product-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
+| Stage Adoption: Create    | **Yes** | Manual | Success Plan | Stage Adoption | [Source Code Management (SCM) / Create Stage](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/) |
+| Stage Adoption: Verify    | - | Manual | Success Plan | Stage Adoption | [Continous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
 | Stage Adoption: Package   | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Secure    | - | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/product-marketing/usecase-gtm/devsecops/) |
+| Stage Adoption: Secure    | - | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) |
 | Stage Adoption: Release   | - | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |
 | Stage Adoption: Configure | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Monitor   | - | Manual | Success Plan | Stage Adoption | |

@@ -44,7 +44,7 @@ During each greenfield (new customer) sale, customers will move from the presale
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales realtionships for support, guidance, advocacy and growth
-2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/product-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
+2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
 3. Validate customer access to [GitLab Support](https://about.gitlab.com/handbook/support/)
 4. Help the customer choose their level of TAM engagement after procurement
 5. Ensure the customer understands available [GitLab Professional Services and Enablement](https://about.gitlab.com/services/catalog/) options
