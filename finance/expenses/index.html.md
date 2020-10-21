@@ -204,7 +204,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 *  GitLab payroll send the expense approval to Safeguard after the team member's manager approved the report
 *  Team members send the original receipts to Safeguard
 
-##### Global Upside
+##### Global Upside & Remote.com
 
 * Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and the Accounts Payable team by the 8th of the month to include in the current month payment.
 
@@ -219,7 +219,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 * Expense reports for GitLab BV (Belgium and Netherlands), GmbH (Germany), PTY Ltd (Australia and New Zealand) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
 * Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and AP will final approve the report within 5 business days after the approval from their manager.
 
-##### Hungary, Nigeria, South Africa
+##### Nigeria
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
