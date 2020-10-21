@@ -81,9 +81,3 @@ Common issues include the following when the UI and API methods are not working:
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request.
 
 Any request requiring disk access requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
-
-## Soft-Deleted Project
-
-See the [Project deletion workflow](hard_delete_project.html) for information on when this template is used.
-
-Engineers with GitLab.com console access will attempt to delete the project.
