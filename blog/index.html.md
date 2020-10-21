@@ -182,7 +182,7 @@ In exceptional circumstances, we can prepare a confidential MR in a private repo
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
 
-**If you are a partner or industry-adjacent third party who wants to write for our blog, please contact the [Partner Marketing](/handbook/marketing/product-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same.**
+**If you are a partner or industry-adjacent third party who wants to write for our blog, please contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same.**
 
 Blog posts concerning third parties or partners, whether they are to be published on the GitLab blog or externally, should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
 
@@ -202,7 +202,7 @@ You can see a [live example of a guest author bio here](/blog/2020/01/27/kubecon
 
 ### Disclosure process for posts concerning third parties
 
-When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](/handbook/marketing/product-marketing/#partner-marketing) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
+When proposing or requesting a blog post on a topic that concerns one of GitLab's business partners, it may be appropriate to seek feedback from the partner before publishing. If you are planning a blog post that discusses a partner in depth and you're not sure if it's appropriate to seek partner feedback, please ping a member of the [Partner Marketing](/handbook/marketing/strategic-marketing/#partner-marketing) team on your issue for their input. If they think the feedback process is necessary, please follow the steps below.
 
 **1. Connect with Alliances**
 
@@ -1176,7 +1176,7 @@ You may find this video walkthrough helpful for creating your blog post MR from 
 
 ### Creating a post from the command line
 
-You will need to be set up to edit the website locally in order to create your post this way. Please see [GitLab 102](/handbook/marketing/product-marketing/getting-started/102/) for instructions. If you're already set up:
+You will need to be set up to edit the website locally in order to create your post this way. Please see [GitLab 102](/handbook/marketing/strategic-marketing/getting-started/102/) for instructions. If you're already set up:
 
 - Run `git checkout master`
 - Run `git pull` to ensure your version of master is up to date with GitLab.com
