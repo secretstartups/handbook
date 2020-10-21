@@ -243,7 +243,7 @@ The schedule with directly responsible individuals (DRI) is as follows through t
 | Four  | Thur  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
-| Five  | Wed  | [Strategic Marketing](/handbook/marketing/product-marketing/)  | Ashish Kuthiala  |
+| Five  | Wed  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
 | Five  | Thur  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Six  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
@@ -277,7 +277,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Four  | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
-| Five  | Tue  | [Strategic Marketing](/handbook/marketing/product-marketing/)  | Ashish Kuthiala  |
+| Five  | Tue  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
 | Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
 | Five  | Thur  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
