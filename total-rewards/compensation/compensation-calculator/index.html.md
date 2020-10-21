@@ -247,7 +247,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
-| CEO   | CEO             |                                 |   
+| CEO   | CEO             |                                 |
 | 14    | EVP/CXO         |                                 |
 | 12    | VP              |                                 |
 | 11    | Senior Director |	                                |
@@ -265,6 +265,6 @@ Contract Factor distinguishes between employee (1) or contractor (1.17). A contr
 
 ## Compa Ratio
 
-Compa Ratio is a term used internally in the Total Rewards team to evaluate [Pay Equality](/handbook/people-group/people-success-performance-indicators/#pay-equality).   
+Compa Ratio is a term used internally in the Total Rewards team to evaluate [Pay Equality](/handbook/people-group/people-success-performance-indicators/#pay-equality).
 
 The Compa Ratio where within the range spread a team member falls in the calculator. Specifically, the GitLab compensation calculator has a 40% spread (+/- 20% from the median). It is common to see [range spreads up to 50%](https://www.erieri.com/blog/post/common-compensation-terms-formulas).
