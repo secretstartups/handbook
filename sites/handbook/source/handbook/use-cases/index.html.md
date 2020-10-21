@@ -21,7 +21,7 @@ A customer use case is:
 
 ## Specific Use Cases
 
-#### [1. Version Control and Collaboration (VC&C)](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration)
+#### [1. Version Control and Collaboration (VC&C)](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
 **Create, manage and protect my intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
 I need a better way to manage changes to documents, software, images, large web sites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
   
@@ -32,7 +32,7 @@ I need a better way to manage changes to documents, software, images, large web 
    1. *Deliver Better Products Faster:* Streamline reviews and collaboration around code changes.
    1. *Reduce Security and Compliance Risk:* Easier compliance through approvals of code changes.
 
-#### [2. Continuous Integration (CI)](/handbook/marketing/product-marketing/usecase-gtm/ci/)
+#### [2. Continuous Integration (CI)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
 **Increase the quality of my code while decreasing time to delivery** - Continuous Integration (**CI**)
 I need to automate the build and testing processes to consistently integrate code and continuously test. I want to run the unit and integration tests, measure performance and automate manual QA processes. I may use GitLab SCM or another. (Examples in GitLab include Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality).
 
@@ -43,7 +43,7 @@ I need to automate the build and testing processes to consistently integrate cod
    1. *Deliver Better Products Faster:* Automation to speed the process.
    1. *Reduce Security and Compliance Risk:* test my code automatically and early to reduce risks
 
-#### [3. Continuous Delivery (CD)](/handbook/marketing/product-marketing/usecase-gtm/cd/)
+#### [3. Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/)
 **Want to speed up my build and release process and empower my developers to automatically deploy code** - (CI/**CD**)
 I want to automate the build, test and packaging, configuration and deployment of applications to a target environment. (Examples in GitLab include: Pipeline, CI Runner, Jobs, Scheduled Jobs, Testing, Security Scanning (SAST), and Code Quality. CI Runner, Container Repository, Deploy Boards, Canary Deploys, Partial Deploys, Manual Deploys, Environments.)  
 
@@ -54,7 +54,7 @@ I want to automate the build, test and packaging, configuration and deployment o
    1. *Deliver Better Products Faster:* Automatically deploy and test application with early feedback.
    1. *Reduce Security and Compliance Risk:* Enforce common controls and scan for vulnerabilities at the point of code change.
 
-#### [4. DevSecOps (Shift Left Security)](/handbook/marketing/product-marketing/usecase-gtm/devsecops/)
+#### [4. DevSecOps (Shift Left Security)](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)
 **Test for application security vulnerabilities early in my app dev lifecycle** - (Shift-left security or **DevSecOps**)
 I need to identify vulnerabilities during development with actionable information to empower dev to remediate vulnerabilities earlier in the life cycle. (In GitLab, SAST, DAST, Dependency Scanning, and Container Scanning.)
 
@@ -65,7 +65,7 @@ I need to identify vulnerabilities during development with actionable informatio
    1. *Deliver Better Products Faster:* Ability to start testing early in dev process to eliminate vulnerabilities at the source
    1. *Reduce Security and Compliance Risk:* Fix vulnerabilities with actionable feedback to the developer at point of code change. Auto remediate when possible.
 
-#### [5. Agile Management](/handbook/marketing/product-marketing/usecase-gtm/agile/)
+#### [5. Agile Management](/handbook/marketing/strategic-marketing/usecase-gtm/agile/)
 **Need a better way to manage projects, programs, and portfolios using Agile methodology** - (**Agile** Management)
 I need a better way of planning, initiating, monitoring, controlling, closing, and measuring the value created by Agile teams and projects. (Examples in GitLab include Roadmaps, Epics, Issues, Issue Boards, Issue Weights, Labels, Milestones, and burndown charts.)  
 
@@ -76,7 +76,7 @@ I need a better way of planning, initiating, monitoring, controlling, closing, a
    1. *Deliver Better Products Faster:* Ability to work in parallel and collaborate. Single source of truth between dev, sec and the business.
    1. *Reduce Security and Compliance Risk:* Single source of truth between dev and sec.
 
-#### [6. GitOps](/handbook/marketing/product-marketing/usecase-gtm/gitops/)
+#### [6. GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/)
 **Want to automatically provision, administer and maintain infrastructure as code** - (CI/CD Infrastructure-as-code or **GitOps**)
 I manually stage and test environments for infrastructure making it hard to track and error-prone. I want to stage all components and test them to be sure it works to automate my release pipelines, provide consistency, reduce cost, and  eliminate errors. I may frequently leverage integration with Terraform, Kubernetes, Ansible, OpenStack and others.
 
@@ -87,7 +87,7 @@ I manually stage and test environments for infrastructure making it hard to trac
    1. *Deliver Better Products Faster:* developer self-service, reusable CI/CD templates.
    1. *Reduce Security and Compliance Risk:* Enforces common controls
 
-#### [7. Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)
+#### [7. Simplify DevOps](/handbook/marketing/strategic-marketing/usecase-gtm/simplify-devops/)
 **Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (Simplify **DevOps**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
@@ -98,7 +98,7 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
    1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
 
-#### [8. Cloud Native](/handbook/marketing/product-marketing/usecase-gtm/cloud-native/)
+#### [8. Cloud Native](/handbook/marketing/strategic-marketing/usecase-gtm/cloud-native/)
 **Want to use more modern, cloud-native approaches to application development** (**cloud native**)
 I want to use things like containers, K8s, and/or serverless for new development or containerize legacy applications. Help me lift and shift to cloud. Minimize my learning curve to set up, maintain and use clusters.
 
