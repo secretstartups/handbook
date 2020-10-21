@@ -25,6 +25,6 @@ twitter_creator: "@gitlab"
 
 - [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
 - [Digital Marketing](/handbook/marketing/revenue-marketing/digital-marketing-programs/)
-- [Partner and Channel Marketing](/handbook/marketing/product-marketing/partner-marketing/)
+- [Partner and Channel Marketing](/handbook/marketing/strategic-marketing/partner-marketing/)
 
 [See team members in org chart](https://about.gitlab.com/company/team/org-chart/)
