@@ -82,13 +82,13 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 ### Introduction
 
-`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available. The SF benchmark used in each position is available in the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) in this [website's repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/).
+`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available. The SF benchmark used in each position is available in the [`job_families.yml` file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/job_families.yml) in this [website's repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/).
 
 ### Benchmark Evaluation
 
 ### Benchmark Types
 
-Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml), the Total Rewards team will add an entry for each type listed within the job family. For example:
+Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/job_families.yml), the Total Rewards team will add an entry for each type listed within the job family. For example:
 
 ```yml
   ic_ttc:
@@ -122,7 +122,7 @@ To analyze benchmarks:
 1. Generate a formula to look up the proper survey data from both Radford and Comptryx at the 50th and 75th percentile.
 1. Propose an updated benchmark taking the maximum of the 50th percentile median or the current benchmark.
 1. Evaluate the percent change.
-1. Generate a merge request to update the benchmark on the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) and assign to the executive of the group for approval.
+1. Generate a merge request to update the benchmark on the [`job_families.yml` file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/job_families.yml) and assign to the executive of the group for approval.
 1. Evaluate any impact to the current team if this benchmark change is done outside of annual compensation review.
 
 #### New Benchmark
@@ -173,7 +173,7 @@ All current job codes can be found by the Total Rewards team in the "Job Codes" 
 
 ### Introduction
 
-Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The location factors are stored in the [data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml) on GitLab. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
+Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The location factors are stored in the [data file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) on GitLab. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
 
 ### Geographical Areas
 
@@ -221,11 +221,11 @@ Level Factor is currently defined as:
 * Director: 1.0 x director_ttc
 * Senior Director: 1.0 x seniordirector_ttc
 
-Not all levels of each job follow this same nomenclature. A summary of the naming of levels per role can be found in [role_levels.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/role_levels.yml).
+Not all levels of each job follow this same nomenclature. A summary of the naming of levels per role can be found in [role_levels.yml](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/role_levels.yml).
 
 ### GitLab Job Grades
 
-GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, you can see the grade for each [role level](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/role_levels.yml) and the [stock options](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/equity_calculator.yml) in their respective yml file. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
+GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, you can see the grade for each [role level](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/role_levels.yml) and the [stock options](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/equity_calculator.yml) in their respective yml file. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
 **Professional/Technology**:
 
@@ -249,7 +249,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
-| CEO   | CEO             |                                 |   
+| CEO   | CEO             |                                 |
 | 14    | EVP/CXO         |                                 |
 | 12    | VP              |                                 |
 | 11    | Senior Director |	                                |
@@ -263,10 +263,10 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 ## Contract Factor
 
-Contract Factor distinguishes between employee (1) or contractor (1.17), which can be found on the [`contract_factors.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/contract_factors.yml). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
+Contract Factor distinguishes between employee (1) or contractor (1.17), which can be found on the [`contract_factors.yml` file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/contract_factors.yml). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
 
 ## Compa Ratio
 
-Compa Ratio is a term used internally in the Total Rewards team to evaluate [Pay Equality](/handbook/people-group/people-success-performance-indicators/#pay-equality).   
+Compa Ratio is a term used internally in the Total Rewards team to evaluate [Pay Equality](/handbook/people-group/people-success-performance-indicators/#pay-equality).
 
 The Compa Ratio where within the range spread a team member falls in the calculator. Specifically, the GitLab compensation calculator has a 40% spread (+/- 20% from the median). It is common to see [range spreads up to 50%](https://www.erieri.com/blog/post/common-compensation-terms-formulas).
