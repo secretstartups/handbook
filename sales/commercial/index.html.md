@@ -158,6 +158,14 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
 1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
+## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
+
+#### SMB
+* An Opportunity Consult happens when the opportunity IACV threshold is $10K +
+* A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month. 
+#### Mid Market
+* An Opportunity Consult happens when the opportunity IACV threshold is $20K +
+* A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month. 
 
 ### Opportunity Next Steps Best Practices
 
