@@ -137,7 +137,7 @@ During an incident, the CMOC will:
 1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab Community Team via Slack using the `@community-team` handle at the start of an incident.
 
-##### How to engage the CMOC?
+##### How to engage the CMOC? (only during weekdays)
 
 If, during an incident, EOC or IMOC decide to engage CMOC, they should do that
 by paging the on-call person:
@@ -147,6 +147,8 @@ or
 schedule in PagerDuty. That can be done by navigating to [Incidents page in PagerDuty](https://gitlab.pagerduty.com/incidents),
 and then creating the new incident while picking **Incident Management - CMOC** as
 **Impacted Service**.
+
+Important to clarify that the CMOC covering hours does not include the weekends yet - it may come soon.
 
 ### Runbooks
 
