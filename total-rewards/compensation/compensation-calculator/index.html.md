@@ -18,7 +18,7 @@ On this page, we explain the different factors that make up our Compensation Cal
 As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles) outlined above and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values)) we developed a Compensation Calculator.
 The compensation of executives and anyone on a quota is not set with the calculator. We use a Compensation Calculator because it help us align compensation to our values:
 
-1. **Transparency** - The calculator is open to everyone, within and outside of GitLab. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
+1. **Transparency** - The calculator is open to GitLab team members and candidates in the pipeline. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
 1. **Efficient** - There’s no need to have multiple back-and-forth conversations between team members, managers, recruiters and the Total Rewards team. For hiring managers and recruiters, they simply use the Compensation Calculator for the roles they’re hiring for rather than having multiple approval levels and conversations. Similar with promotions and any other changes with locations, benchmarks, levels, team members and managers can discuss compensation according to the inputs on the Compensation Calculator rather than having negotiations.
 1. **Diversity, Inclusion & Belonging** - People with the same attributes should earn the same. The Compensation Calculator reduces unconscious bias or giving higher pay to individuals who can negotiate better. The Compensation Calculator allows us to take a data-driven approach to compensation where there's fairness across all teams, levels and countries.
 1. **Collaboration** - Allows for team members to review the Compensation Calculator and have the Total Rewards team iterate based on the data and feedback we get from the team.
@@ -39,7 +39,7 @@ The goals of the calculator are:
 
 ### Use the calculator
 
-The calculator is embedded in every [job family](/handbook/hiring/job-families/) page but we also have a [calculator that lets you select the job family](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
+The calculator is available to internal team members using the following [link](https://gitlab-people-engineering-compensation-calculator.35.196.91.102.nip.io/users/sign_in).
 
 ### The Compensation Calculator Formula
 
@@ -47,9 +47,7 @@ Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-
 
 The calculator will output the amount as `base + variable = total target cash (TTC)`
 
-Your options can be found on [stock options](/handbook/stock-options/).
-
-See the calculator in action on each job description, or at its [home page](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
+Your options can be found on [stock options](/handbook/stock-options/) and benefits can be found on relevant [entity specific benefits pages](/handbook/total-rewards/benefits/general-and-entity-benefits/).
 
 The compensation calculator is updated in January and July with the proper exchange rate, keeping compensation levels in line with local purchasing power.
 
@@ -82,13 +80,13 @@ Previously, our compensation calculator and processes (percentage changes from c
 
 ### Introduction
 
-`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available. The SF benchmark used in each position is available in the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) in this [website's repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/).
+`SF benchmark` is the team member compensation at a compa ratio of 1.0 at or above market for the role in San Francisco, which we [determine](#benchmark-evaluation-for-existing-roles) using various sources of survey data: Radford, Comptryx, AdvancedHR. We only use crowd sourced data (Paysa, Payscale, etc) when no survey data is available.
 
 ### Benchmark Evaluation
 
 ### Benchmark Types
 
-Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. In the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml), the Total Rewards team will add an entry for each type listed within the job family. For example:
+Benchmarks are determined based on the following types: Individual Contributor (IC), Manager, Director, Senior Director. The Total Rewards team will add an entry for each type listed within the job family. For example:
 
 ```yml
   ic_ttc:
@@ -122,7 +120,7 @@ To analyze benchmarks:
 1. Generate a formula to look up the proper survey data from both Radford and Comptryx at the 50th and 75th percentile.
 1. Propose an updated benchmark taking the maximum of the 50th percentile median or the current benchmark.
 1. Evaluate the percent change.
-1. Generate a merge request to update the benchmark on the [`job_families.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/job_families.yml) and assign to the executive of the group for approval.
+1. Generate a merge request to update the benchmark in the relevant data file and assign to the executive of the group for approval.
 1. Evaluate any impact to the current team if this benchmark change is done outside of annual compensation review.
 
 #### New Benchmark
@@ -173,7 +171,7 @@ All current job codes can be found by the Total Rewards team in the "Job Codes" 
 
 ### Introduction
 
-Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The location factors are stored in the [data file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml) on GitLab. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
+Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Numbeo, Comptryx, Radford, Robert Half, and Dice. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
 
 ### Geographical Areas
 
@@ -221,11 +219,11 @@ Level Factor is currently defined as:
 * Director: 1.0 x director_ttc
 * Senior Director: 1.0 x seniordirector_ttc
 
-Not all levels of each job follow this same nomenclature. A summary of the naming of levels per role can be found in [role_levels.yml](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/role_levels.yml).
+The nomenclature can be adjusted for each job family to ensure the appropriate level to select is clear.
 
 ### GitLab Job Grades
 
-GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, you can see the grade for each [role level](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/role_levels.yml) and the [stock options](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/equity_calculator.yml) in their respective yml file. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
+GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
 **Professional/Technology**:
 
@@ -263,7 +261,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 ## Contract Factor
 
-Contract Factor distinguishes between employee (1) or contractor (1.17), which can be found on the [`contract_factors.yml` file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/contract_factors.yml). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
+Contract Factor distinguishes between employee (1) or contractor (1.17). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
 
 ## Compa Ratio
 
