@@ -176,8 +176,11 @@ It is **absolutely essential** that managers complete the required pre-work to e
 The calibration session is one of the most important pieces of the Performance/Potential Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Guidelines to ensure efficiency during calibration sessions are:
 * It may not be needed to discuss every team member in detail. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention like the timeline and process for team members ready for promotion, how to improve performance for developing team members, etc.
 * Be conscious of time and consider setting a (reasonable) time limit per team member being discussed. 
-* **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
+* Review program guidelines and avoid leniency bias.
+* Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback, performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
 * Leaders should feel comfortable highlighting team members in other functions
+* **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
+
 
 ## Matrix Tool
 
