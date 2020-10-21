@@ -293,7 +293,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | Available |   |
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Eight | Wed  | Available  | Available  |
+| Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
