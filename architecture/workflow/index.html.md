@@ -58,7 +58,7 @@ The primary outcome of the workflow is a **blueprint** published on `docs.gitlab
 For any given proposal, there are three people involved:
 
 * An Engineering Leader (e.g., a Director of Engineering), who is a decision-maker for a given proposal in terms of staffing and deliverables
-* A Domain Expert (e.g., a Senior Backend Engineer), who lends their expertise on a given domain to solve a problem
+* Domain Experts (e.g., a Senior Backend Engineer), who lends their expertise on a given domain to solve a problem
 * An Architecture Evolution Coach (e.g., a Distinguished Engineer), who is shepperding, filtering and proposals across their organization
 
 During the process of working on the proposal, the author will collaborate with an Architecture Evolution Coach and, optionally, a Domain Expert to create a blueprint of the change. The blueprint merge request will be then either approved or rejected by an Engineering Leader.
