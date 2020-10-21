@@ -279,7 +279,7 @@ cc @jburton to create list upload issue and DMA request as required
     - Instruction everyone to book travel and lodging ASAP.
     - The planning sheet is used to track all details for travel, meeting setting, booth duty, speaker list, networking events, PR, etc.
 1. If the event needs a speaker, start an issue with the `Speaker Request` issue template.
-1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/product-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events.
+1. If a customer speaker is required for this event, assign the `Speaker Request` to your regional [Customer Reference lead](/handbook/marketing/strategic-marketing/customer-reference-program/#which-customer-reference-team-member-should-i-contact). The Customer Reference lead will work with the Event Managers and the Sales team in identifying and engaging with customers to speak at events.
 1. Landing Pages for Events (detailed instructions)
     - Corporate event landing pages are generated from the `events.yml` - Detailed instructions
     - The MPM will create an issue for content to be provided working with Alliances &/or Product Marketing team on copy.
@@ -318,7 +318,7 @@ cc @jburton to create list upload issue and DMA request as required
     1. Meetings are tracked on the master event spreadsheet.
 1. Demos, booth decks and documentation
     - Product Marketing helps make all displayed collateral at events.
-    - The [standard demos](/handbook/marketing/product-marketing/demo/) should be preloaded on the event iPads.
+    - The [standard demos](/handbook/marketing/strategic-marketing/demo/) should be preloaded on the event iPads.
     - If you need something specific for an event, start an issue in the Product Marketing project and assign to Dan Gordon at least **three weeks in advance**.
 1. Swag
     - Decide appropriate giveaway for the event and audience.
