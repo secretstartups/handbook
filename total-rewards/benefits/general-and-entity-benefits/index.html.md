@@ -160,14 +160,15 @@ Examples of English Language Courses:
 
 Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development.
 
-If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program. If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD. Please note, this benefit is considered taxable income in Australia. 
+If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program. If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD. Please note, this benefit may be considered as taxable income in some countries. 
 
 To apply for this program, please send a completed [Your 4th Trimester Form](https://docs.google.com/document/d/18Q-Y8fg1WIf3TtiqlOaKWWOFbtBVpE3-UnVPXyMVDAg/edit) to Total Rewards at least 60 days before the birth/adoption. If the team member does not apply before the 60 days (for any reason), please reach out to Total Rewards and we can talk through different options. Your 4th Trimester is open to tailoring the coaching timing to each team member as needed. 
 
 ##### Administration of Your 4th Trimester 
 
 1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
-1. When all signatures are complete, Total Rewards will file the form in BambooHR. If the team member lives in Australia, payroll will be notified for tax reporting purposes.
+1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
+1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia), notify payroll.
 1. Total Rewards will send an introductary email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
 **Monthly Reporting:**
