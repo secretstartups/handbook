@@ -14,7 +14,7 @@ With growth, however, comes complexity. An organic approach to our work sometime
 1. Determine with your manager whether to invoke the workflow.
 1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title and a link to the domain issue in the description.
-   1. Assign this issue to an Architecture Evolution Coach (AEC) --(TBD: where is the list of AECs?)
+   1. DRIs: assign this issue to yourself, your manager, and an Architecture Evolution Coach (AEC) --(TBD: where is the list of AECs?)
 1. Open a **blueprint merge request** (project) for the blueprint. 
    1. Add a sensible title and a link to the architecture issue in the description.
    1. Mention appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure)
