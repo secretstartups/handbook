@@ -151,6 +151,11 @@ Booking:
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Seek approval via chatter.
 1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
 
+### Known Quote Issues 
+
+#### Additional Line Items Displaying on the Quote
+* If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
+
 ## **Working with Legal**
 
 There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/). 
