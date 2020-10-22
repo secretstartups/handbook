@@ -140,7 +140,15 @@ Background checks will act as an additional mechanism of transparency and will h
 
 #### Review Criteria
 
-Once the background check is completed, Candidate Experience Specialists will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.
+Once the background check is completed, Candidate Experience Specialists will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, discrepencies with employment  or includes any criminal convictions the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a review process with legal, hiring manager, VP of department and VP of recruiting:
+
+- The PBP will gather the background information and make a recommendation on potential next steps to legal
+- Legal will review the information to ensure that the inaccuracies would not create a concern related to the job role
+- Legal will provide the PBP with a go or no go decision on whether we can move forward with the candidate
+- If the decision from legal is a no go the PBP will inform the recruiter and hiring manager of the decision
+- If the decision from legal is that the hiring process can continue the PBP will present the legal review and their recommendation to the hiring manager and VP of the department for review
+- The hiring manager and the department VP will make the final decision on whether to proceed with the hire 
+- The hiring manager will inform the PBP and recruiter of their decison of their final decision on whether to proceed with the hire
 
 #### US Citizens only: 
 
