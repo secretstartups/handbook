@@ -164,8 +164,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
-  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  eng:jfe-->eng:ife-->eng:sfe--Gated by<br/>opportunity-->eng:stf & eng:fem
+  eng:jbe-->eng:ibe-->eng:sbe--Gated by<br/>opportunity-->eng:stb & eng:bem;
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stb & eng:stf-->eng:dis-->eng:fel;
 
@@ -401,6 +401,8 @@ Before this level is re-opened we need to assess the following attributes:
 ## Senior Engineers
 
 Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
+
+The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position 
 
 Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/backend-engineer/#distinguished-backend-engineer) positions extend the Senior Engineer role.
 
