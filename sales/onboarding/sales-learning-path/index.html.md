@@ -157,7 +157,11 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - Enter the code: **rjs22en** and click Join.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [Lyearn](https://gitlab.lyearn.com/#/login) and complete the MEDDPPICC full eLearning course. **Please note: The welcome and enrollment emails will come from the following sender name and email address: “Command Center Admin” – fm-no-reply@lyearn.com. Please check your junk, spam and clutter folders if you did not receive these emails.
+   - Please sign in to [MEDDPPICC](https://classroom.google.com/c/MTIxMzIyMzc3ODA2?cjc=fi3gcwd) learning path and complete the MEDDPPICC full eLearning course. Instructions to join the class on your own:
+   - Go to classroom.google.com.
+   - On the top right of the Classes page, click + then > Join class.
+   - Enter the code: **fi3gcwd** and click Join.
+   - Time to complete is approximately 1.5 hours
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](/handbook/sales/command-of-the-message/#resources-core-content) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](/handbook/sales/command-of-the-message/#resources-core-content) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
