@@ -26,20 +26,10 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. [OKRs](/company/okrs/) for that function.
 
 ## Timing
+Meetings are scheduled monthly starting on the 10th day after month end.  
 
-Meetings are monthly starting on the 10th day after month end.
-The EBA to the CFO is the Scheduling DRI for the Monthly Key Meetings.
-
-## Scheduling
-
-Whereever possible, the goal is to have all Key Meetings in a large block of time.
-Having back-to-back Key Meetings has the following advantage:
-* EBAs can add 1 hour prep time the day before for executives to prep for all the meetings, allowing them to be more prepared than they would be with less prep time for each meeting, leading to more effective meetings
-* [Some evidence](https://blog.trello.com/why-context-switching-ruins-productivity) suggests it can take upwards of 20 minutes to re-engage after context switching
-
-This is preferred, not mandatory.
-The inability to consolidate Monthly Key Meetings *should never block its scheduling* but moving towards these is the goal.
-
+##Scheduling
+The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the DRI for the Sales Key Meeting.
 
 ## Invitees
 
@@ -47,11 +37,11 @@ Required invites are the CEO, the CFO, and the function head.
 Optional attendees are all other members of [the e-group](/company/team/structure/#e-group).
 The meetings are open to all team members who are interested.
 The meetings are also to be livestreamed to GitLab Unfiltered.
+
 Functions that have these meetings are:
 
-*  Corporate Development (Eliran Mesika - function DRI) 
 *  Engineering (Eric Johnson - function DRI) - does not include Support or Infrastructure
-*  Finance (Paul Machle - function DRI)
+*  Finance (Brian Robins - function DRI)
 *  Infrastructure (Steve Lloyd - function DRI)
 *  Marketing (Todd Barr - function DRI)
 *  People Group (Carol Teskey - function DRI)
@@ -76,11 +66,14 @@ Important notes:
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
 1. The functional owner is responsible for preparing the document 24 hours in advance of the meeting. The owner should update the meeting invite, send it to all guests so they know the materials are ready for review and, if possible, post the document in the #key-meetings channel.
 1. Key Meetings should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key meetings with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
-1. If public  or private streaming is unavailable, key meetings should be recorded to the cloud and uploaded to the GitLab Unfiltered [Key Meetings Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
+1. Should public or private streaming be unavailable, key meetings are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Meetings Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
 1. If the function DRI is not available to attend their key meeting then the function's leadership team is responsible for attending the meeting and providing updates.
 
 Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
+
+### Group Conversations and Key Meeting Metrics
+Function DRIs are expected to repurpose and leverage their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/people-group/group-conversations/#schedule--dri). 
 
 ### Recordings
 
