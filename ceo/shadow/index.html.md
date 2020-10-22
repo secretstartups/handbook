@@ -53,7 +53,12 @@ Other names considered:
 ### Reasons to participate
 
 <!-- blank line -->
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/Cg0LzET_NWo"></iframe></figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Cg0LzET_NWo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<!-- blank line -->
 
 ### What is it like?
 
@@ -64,16 +69,27 @@ Considering joining the program? Hear from past shadows about their experience:
 1. [GitLab CEO Shadow Update - May 30, 2019](https://www.youtube.com/embed/EfBMu9dTpno)
 
 <!-- blank line -->
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/EfBMu9dTpno"></iframe></figure>1. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/3hel57Sa2EY"></iframe></figure>1. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/TxivABJ16jE"></iframe></figure>1. [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM)
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/DGJCuMVp6FM"></iframe></figure>1. [Key Takeaways and Lessons Learned from a Remote GitLab CEO Shadow Rotation](https://youtu.be/4yhtYcOZn3w)
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/4yhtYcOZn3w"></iframe></figure>1. [AMA with the CEO Shadow Alumni on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/Yey83s3zGMM"></iframe></figure>
+
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/EfBMu9dTpno"></iframe></figure><!-- blank line -->
+1. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/3hel57Sa2EY"></iframe></figure><!-- blank line -->
+1. [AMA with the CEO Shadow Alumni on 2019-08-23](https://www.youtube.com/watch?v=TxivABJ16jE)
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/TxivABJ16jE"></iframe></figure><!-- blank line -->
+1. [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/DGJCuMVp6FM"></iframe></figure>
+1. [Key Takeaways and Lessons Learned from a Remote GitLab CEO Shadow Rotation](https://youtu.be/4yhtYcOZn3w)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/4yhtYcOZn3w"></iframe></figure>
+1. [AMA with the CEO Shadow Alumni on 2020-07-02](https://www.youtube.com/watch?v=Yey83s3zGMM)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/Yey83s3zGMM"></iframe></figure><!-- blank line -->
 
 ### Impact of the CEO Shadow Program
 
 This is feedback received from some Alumni shadows and their managers
+
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1FyJrtnLS76qq-Oi5wi3F7Gd5yJFQc-DyOSVTNZgxM63rJQUtYmWa_4mp5MjaGa_rut5o68fNdNep/embed?start=true&loop=false&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
@@ -81,7 +97,10 @@ This is feedback received from some Alumni shadows and their managers
 ### What is the feedback from the CEO?
 
 Hear what our CEO has to say about the CEO shadow program.
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/gJWMBI64sZk"></iframe></figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gJWMBI64sZk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Participating in the program
 
@@ -374,9 +393,14 @@ Meetings come in many different formats, as listed above. Your responsibilities 
 
 ##### Taking notes
 
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/DtRWvIzOnP4"></iframe></figure>Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, legal discussions in any meeting, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, legal discussions in any meeting, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information. It is critical that any legal discussions are not put in notes since notes are frequently not reviewed for errors but that status might not be clear to people outside the company.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
+
 Tips:
 
 1. It's helpful if shadow one takes notes as the first speaker is talking, then shadow two starts when the next speaker continues the conversation. Shadow one can pick up note taking again when the next speaker contributes. By alternating this way, the shadows are better able to keep up with all the participants in the conversation.
@@ -413,9 +437,7 @@ When introducing yourself in a meeting as the first shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
-1. The goal of the program is to give participants an overview of the functions at GitLab.*
-
-*For Valley meetings: The goal of the program is to give participants an introduction to Silicon Valley discussions.
+1. The goal of the program is to give participants an overview of the functions at GitLab.
 
 When introducing yourself in a meeting as the second shadow, say:
 
@@ -754,12 +776,18 @@ You can pick her up but she doesn't like it much and will jump out after about 3
 #### Paddle Pat technique with Eric Brinkman
 {:.no_toc}
 
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/vf-uEPweMUg"></iframe></figure>
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/vf-uEPweMUg" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<!-- blank line -->
 
 #### Paddle Pat & Rub technique with JJ Cordz
 {:.no_toc}
 
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/KLWQH0EDtcg"></iframe></figure>
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/KLWQH0EDtcg" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Mission Control FAQs
 
@@ -883,5 +911,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-08-31 | 2020-09-11 | [Francis Potter](https://gitlab.com/francispotter) | Sr. Solution Architect |  |
 | 2020-09-07 | 2020-09-18 | [Shawn Winters](https://gitlab.com/ShawnWinters) | Acceleration SDR |  |
 | 2020-09-07 | 2020-09-24 | [Chris Baus](https://gitlab.com/chris_baus) | Engineering Manager, Fulfillment |  |
-| 2020-09-21 | 2020-10-02 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) | Distinguished Engineer, Secure & Defend | [Take Aways](https://youtu.be/kG-RhvHAeo4), [Retrospective](https://youtu.be/Gv_EQLEgCwU) |
+| 2020-09-21 | 2020-10-02 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) | Distinguished Engineer, Secure & Defend | [Take Aways](https://youtu.be/kG-RhvHAeo4), [Retrospective](https://youtu.be/Gv_EQLEgCwU) |  |
 | 2020-09-28 | 2020-10-05 | [Madeline Hennessy](https://gitlab.com/mhennessy) | Area Sales Manager, SMB - US East | [Takeaways & Suggestion](https://www.youtube.com/watch?v=khqnlj6iB9I&feature=youtu.be) |
