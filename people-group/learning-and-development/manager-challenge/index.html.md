@@ -11,7 +11,9 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the Manager Challenge page. We are rolling out a pilot version of a 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." All details relating to the challenge can be found here on this page. The first iteration of the program will be a pilot to a subset of team members at GitLab. Once the pilot has concluded, we will roll out the program to the broader GitLab team!
+Welcome to the Manager Challenge page. We rolled out the first iteration of the 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." The Learning and Development Team is iterating on the program to thread it more components of our [Leadership Handbook page](/handbook/leadership/). L&D will be rolling out another iteration during the month of January 2021. If you are interested in participating, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). 
+
+All details relating to the program can be found on this page. The first iteration of the program was piloted to a subset of team members at GitLab. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -192,7 +194,7 @@ Each week of the challenge has one day of live learning sessions. Depending on t
 
 Approximate times for the live sessions to ensure timezone coverate include: 10:30am ET, 4pm ET, and 9:30pm ET. 
 
-**Retrospective Sessions**
+### Retrospective Sessions
 
 After the 20 day challenge has been completed, it is suggested to have a live retrospective where participants can come and share any feedback about the program. The time(s) this is scheduled for can be the same as the live learning sessions were during the challenge. 
 
