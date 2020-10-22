@@ -19,7 +19,7 @@ twitter_creator: '@gitlab'
 
 ### Demand Generation Key Metrics
 
-- **North Star Metric:** Outbound MQLs
+- **North Star Metric:** MQLs
 - **Efficiency Metric:** Cost per MQL
 - **Business Impact Metric:** CWA/Spend (closed-won attribution)
 - **Supporting/Activity Metrics:** SAOs, Attributed Pipeline, Emails Sent
@@ -190,6 +190,10 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 - [request-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-webcast-dryrun-sched)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
+
+#### Related issues for other teams
+* [Content Team write-copy]()
+
 
 #### Campaign Team Issue Templates
 
