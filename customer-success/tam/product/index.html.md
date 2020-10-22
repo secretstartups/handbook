@@ -77,7 +77,9 @@ Follow the [steps for logging and tracking customer feature requests](#gitlab-is
 
 #### Critical Priority Requests
 
-If a customer is unable to continue using GitLab without a specific feature, the TAM should begin the [triaging the account](/handbook/customer-success/tam/health-score-triage/). This should be very rare, but if it does occur set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. Please also refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
+**This should be rare, and used sparingly and agreed upon by Product and Engineering.**
+
+If a customer is unable to continue using GitLab without a specific feature, the TAM should begin the [triaging the account](/handbook/customer-success/tam/health-score-triage/). This should be rare, but if it does occur set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. Please also refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
 
 **Note:** you should still take the steps shown above to indicate customer interest, so that it's noted publicly. This is just an additional step to accelerate Product looking at and addressing the issue.
 
