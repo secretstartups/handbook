@@ -114,7 +114,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - [Use Case Driven GTM](/handbook/marketing/strategic-marketing/usecase-gtm/)
    - [Version Control and Collaboration Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/)
    - [CI Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
-   - [Simplify DevOps](/handbook/marketing/strategic-marketing/usecase-gtm/simplify-devops/)  
+   - [DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)  
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
    - Security is one of the biggest differentiators to Ultimate. In this course, you will learn detailed information about GitLab security capabilities with a click through demo.
    -Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
