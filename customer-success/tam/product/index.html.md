@@ -57,7 +57,12 @@ Customers that are assigned a Technical Account Manager typically have a [collab
 
 Generally, TAMs maintain a main issue that lists out all feature requests the customer is interested in with links to the public GitLab issue.
 
-Whenever a customer expresses interest in a feature request, the TAM should add it to the main issue list on the collaboration project as well as comment on the public issue expressing the customer's interest and use case. The main issue list should be maintained regularly by updating priority (elaborated on below) and milestones and marking issues as closed, so that it can act as a single source of truth on customer product needs and can be used for reviewing metrics of previously delivered feature requests.
+When a customer expresses interest in a feature, the TAM should capture that in two places:
+
+- As a [comment or issue in the main GitLab project](#gitlab-issues)
+- With an entry in the main feature tracking issue of the customer's collaboration project
+
+The feature tracking issue should be maintained regularly by updating priority (elaborated on below) and milestones as the single source of truth on customer product needs. It can also be used for reviewing metrics of previously delivered feature requests.
 
 If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer collaboration project about it and list that issue as a related issue on the main GitLab issue. This is another signal on the main product issue of customer interest, and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
 
