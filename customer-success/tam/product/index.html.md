@@ -65,7 +65,7 @@ If there is a lot of discussion with the customer about a specific feature reque
 
 #### High Priority Requests
 
-If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
+If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the [steps for logging and tracking customer feature requests](#gitlab-issues) by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the [Product Manager responsible for the part of GitLab the issue addresses](/handbook/product/product-categories/) and discuss it with them directly.
 
 #### Medium Priority Requests
 
