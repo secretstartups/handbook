@@ -69,7 +69,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/x1_b2iqKOfI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/product-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
+*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
 
 ### Manage Quiz 
 
@@ -86,7 +86,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 </figure>
 
 *  **Learn more**: 
-    *  Review the [No Tissues with Issues](/handbook/marketing/product-marketing/getting-started/101/) page
+    *  Review the [No Tissues with Issues](/handbook/marketing/strategic-marketing/getting-started/101/) page
     *  Watch this [How to set up GitLab groups and projects to run multiple Agile teams with microservices](https://www.youtube.com/watch?v=VR2r1TJCDew) video (Jan 2019, 15 minutes)
 
 
@@ -103,7 +103,8 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 #### What is the difference between the Jira integration in Starter and in Premium?
 
-*  **Short answer**: GitLab Jira development panel integration, in GitLab Premium and GitLab Ultimate SKUs, provide more robust options for integration points, integration links, integration set up, sync frequency, and user authentication.
+*  **Short answer**: GitLab Premium and GitLab Ultimate provides more robust options for integration points, integration links, integration set up, sync frequency, and user authentication.
+*  **Update**: The end of the video discusses the Jira Development Panel as a differentiator. The Jira Development Panel integration has since moved to Core as of 13.4.
 *  **Context video** (5 minutes, May 2020):
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/t0_52j2Zp2I" frameborder="0" allowfullscreen="true"> </iframe>
@@ -252,7 +253,7 @@ No questions at this time.
 No questions at this time.
 
 
-### Defend
+### Protect
 
 No questions at this time.
 

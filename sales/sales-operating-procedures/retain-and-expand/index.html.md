@@ -59,7 +59,7 @@ The objective is to support our customer's utilization of the GitLab solution to
 
 *   Have 80% of the licenses from the original purchases are activated?
 *   Is the customer successfully adopting the capabilities or stages from their original purchase intent?
-*   Will these be measured according to product telemetry (if available) or through agreement with the customer.
+*   Will these be measured according to product analytics (if available) or through agreement with the customer.
 
 As part of our customer journey, we highly value the customer's initial experience and measure time-to-value. This is done according to [Key Performance Indicators (KPIs)](/handbook/customer-success/vision/#measurement-and-kpis) Specifically, we will measure the time in calendar days from the initial transaction to:
 

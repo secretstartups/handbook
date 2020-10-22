@@ -157,3 +157,4 @@ Qualitative Success Metrics
 | [June 2020: 2020-07-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-07-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitLab Compete page, GitLab vs. BitBucket, Ecosystem Technology Partners |
 | [July 2020: 2020-08-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-08-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | Enablement resources, QBRs, Channel momentum |
 | [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |
+| [October 2020: 2020-10-08](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-10-08) | NEW ⚡️ GitLab Field Flash: October Edition ⚡️ | Q3 Cannonball Run, ROI Calculators, APAC Momentum, Public Competitive Resources |

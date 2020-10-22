@@ -399,7 +399,7 @@ Requests to override the TSP information can also be submitted in the Account Re
      * Sales Segment (i.e. max employee count of the account hierarchy)
      * Primary Account HQ Address (of top Parent Account in the hierarchy)
          * Inputs for both are formulated via our standardized account enrichment tools (in order):
-         * Manual Override > DataFox > DiscoverOrg > Ship-To > Bill-To
+         * Manual Override > DataFox > Zoominfo > Ship-To > Bill-To
     * LeadData then compares these TSP Input Values against our [SSoT Territory Mapping File](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=720021722) & automatically outputs an Approved Next Owner and Territory.
 2. **Account Assignment** (*Account Transfer Process*):
      * (Re)Assignment of an account to the correct owner

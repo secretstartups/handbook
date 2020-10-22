@@ -55,7 +55,7 @@ Below is a list of resources considered highly valuable for continuous learning 
 - [GitLab Unfiltered YouTube](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) A YouTube channel private to GitLab employees with video recordings and playlists on company meetings, enablement sessions and other topics. Access GitLab's [Sales Enablement playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX).
 - [Chorus Recordings](/handbook/business-ops/tech-stack/#chorus) Our team's history of call and demo recordings is a valuable training resource for new and existing sales team members.
 - [Sales & SDR Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/) Weekly training sessions covering popular product, market and sales training topics chosen by the sales and marketing team members.
-- [Product Study Guide](/handbook/marketing/product-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
+- [Product Study Guide](/handbook/marketing/strategic-marketing/tiers/) A study course for team members to understand the current full scope of capabilities offered in each tier of GitLab and reasons for tier upgrades.
 - [Sales Training](/handbook/sales/training/) page
 
 ### Events
@@ -259,7 +259,7 @@ Support will take the lead on all incoming requests in the queue and only forwar
 
 #### Licensing/Subscription Management
 
-> Note: if you need access to a system, [open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request)
+> Note: if you need access to a system, [open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 
 License Key Management for On-Premise Trials & Subscriptions
 
@@ -267,7 +267,7 @@ License Key Management for On-Premise Trials & Subscriptions
 
 GitLab.com Trials & Subscription Management
 
-- Access [the Subscriptions App](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
+- Access [the CustomersDot](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
 
 ### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
@@ -328,7 +328,7 @@ This section provides step by step clarity on how to follow the **ROE**.
 ### Process to follow:
 
 1. Check **Datafox** data - wholly wrong? Go to step 2
-1. Check **DiscoverOrg** data - wholly wrong? Go to step 3
+1. Check **Zoominfo** data - wholly wrong? Go to step 3
 1. Check **LinkedIn** Data - wholly wrong?
 1. Search for **3rd party resources** which provide SMB/MM segment prove (only needed when 1 of the above resources do not provide leading data to go with)
 1. Paste the source and the gaps all found that led you to it in Chatter on the `Account level` and **cc VP Commercial Sales** to review
@@ -388,8 +388,8 @@ Here are the past active topics for individual team members on COE alignment. Th
 
 - **Communication and Collaboration**
 Support on communication and tools to stay better connected as a remote Commercial Sales organization
-- **Subscriptions App**
-Improvements to our [Subscriptions App](https://customers.gitlab.com)
+- **CustomersDot**
+Improvements to our [CustomersDot](https://customers.gitlab.com)
 - **Customer Advisory Board**
 Capturing direct feedback for interaction and organizing customers selected
 - **Feedback Loop**

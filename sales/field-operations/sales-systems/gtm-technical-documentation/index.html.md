@@ -288,6 +288,20 @@ Code Unit:
 
 </details>
 
+## Linear Weighted iACV
+<details>
+  <summary markdown="span">Linear Weighted iACV</summary>
+
+**Business Process this supports:** [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution)
+
+**Overview:** Linear Weighted iACV is a measure at Gitlab that is used to measure the effectiveness of our marketing campaigns. Please refer to the excellent [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution) section in our handbook for additional details. 
+
+**Logic Locations:** [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
+Code Unit: 
+   * countBizibleTouchpointsCalculateLineariACV
+
+</details>
+
 ## Gainsight 
 - The Gainsight docuemntation has been migrated to it's own page. Please update any bookmarks for the Gainsight Go To Market Technical Documentation page to its new home:
    - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight)

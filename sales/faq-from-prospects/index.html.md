@@ -46,7 +46,7 @@ title: "FAQ from prospects"
 
   A: GitLab does support user groups which allow you to group projects into directories and give users access to several projects at once.
 
-  Documentation: https://docs.gitlab.com/ee/workflow/groups.html#gitlab-groups
+  Documentation: https://docs.gitlab.com/ee/user/group/index.html
 
 - Q: Does GitLab provide visibility levels for projects?
 
@@ -85,7 +85,7 @@ title: "FAQ from prospects"
 
   Documentation:
 
-  Log system: https://docs.gitlab.com/ee/logs/logs.html
+  Log system: https://docs.gitlab.com/ee/administration/logs.html
 
   Audit Events: https://docs.gitlab.com/ee/administration/audit_events.html
 

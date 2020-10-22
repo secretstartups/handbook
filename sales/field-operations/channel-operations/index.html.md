@@ -12,6 +12,122 @@ title: "Channel Operations"
 
 # Welcome to the Channel Operations page
 
+## Standard Channel Reporting Links
+
+**[Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXTJ)**
+
+*Use the Global Channel Dashboard to view Pipeline Creation, Open Pipeline, and Bookings reports grouped by Partner, Segment, or Region. Other reports within the Global Channel Dashboard include Deal Path, Engagement, Deal Type, Top Channel Deals by IACV, and Deals Registered through the Partner Portal.*
+
+
+**Reports by Territory**
+
+<table>
+  <tr>
+   <td><strong>AMER</strong>
+   </td>
+   <td><strong>APAC</strong>
+   </td>
+   <td><strong>EMEA</strong>
+   </td>
+   <td><strong>PUB-SEC</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjJ">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjO">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjT">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjY">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjd">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRji">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjn">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjs">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRif">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRik">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRip">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiu">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiz">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj4">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj9">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjE">Deal Path Pipe & Book - Current & Next Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjx">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk2">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk7">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjt">Direct vs. Channel Book & Pipe - Current Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aS13">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhh">Open PIO Pipeline by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiB">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiG">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiL">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiQ">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiV">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRia">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhS">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhI">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhX ">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhc">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkW">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkb">PIO New Logos - Current Fiscal Quarter</a>  
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkg">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>   
+   </td>
+  </tr>
+</table>
+
+
+*All required team reporting is included above. In the event you need a special report, please open an issue and tag Channel Ops.*
+
+
 ## Managing Channel Opportunities
 
 ### Policy and Process
@@ -207,6 +323,58 @@ _Why is this important?_
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify the partner by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab sales rep will typically initiate engagement with a reseller of the GitLab sales rep’s choosing.
+
+
+
+
+## Managing Special Cases
+
+### Creating MSP Opportunities
+
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer - the end user - is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. 
+
+When you have an MSP opportunity, the Sales Reps need to follow these ***additional*** steps:
+
+**Step 1:** The opportunity must be created using the MSP partner account, NOT the potential customer on whose behalf they are purchasing.
+
+**Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
+
+**Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
+DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
+DR-Deal type: “Resale”
+DR-Engagement: “PIO”
+
+**Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
+- Invoice owner: The MSP Partner (same as DR-Partner referenced above).
+- Special Terms and Notes: Name of the End-user Customer (the MSP owns the licenses on behalf of). 
+
+### Creating a Service-Attached Opportunity
+
+A Service-Attached opportunity is created to track when a partner offers their own professional services along with GitLab licenses. This is separate from the license sale and respective Salesforce opportunity. 
+
+To create the opportunity, the partner must register the deal on the [partner portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal). **The opportunity needs to be created for the service-attach opportunity alone.** The service-attached opportunity should never be a part of, or added on to the GitLab product sale opportunity. 
+
+For proper reporting, ensure that all the correct fields are used to notate that this is a partner service-attached opportunity.
+- DR - Partner: The partner account providing the services
+- DR - Partner Deal type: Services Attach
+- DR - Partner Engagement: N/A
+
+GitLab Sales needs to add the GitLab product sales opportunity as the parent opportunity to the service-attached opportunity.
+
+As the opportunity progresses, use the stages of the opportunity (0 - 7) until the agreement documentation is received that the customer is moving forward. Once the agreement for the Partner Services is completed (i.e. SOW, quote, order form), change the opportunity to **Stage: 10-Duplicate.**
+
+### Multiple-bid Process
+
+For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
+- The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
+- **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.** 
+- If the deal includes a distribution partner, that distributor receives their contracted margin. 
+
+For more informaiton on quoting or the Partner Program, please visit:
+
+[Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
+
+[Partner Program](https://about.gitlab.com/handbook/resellers/)
 
 
 
