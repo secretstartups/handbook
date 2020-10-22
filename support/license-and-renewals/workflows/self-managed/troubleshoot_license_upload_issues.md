@@ -13,7 +13,7 @@ A license key will error if any of the following 3 values are incorrect:
 | Key Field | Definition & source of truth |
 |------|-------|
 | Users count |   We identify the minimum amount via the active.users command: `sudo gitlab-rails runner 'p User.active.count'`  |
-| Previous users count |   We can try to assume based on licenses in our License App but this cannot be certain since multiple licenses may be generated for one period. Instead, the best identifier is the system itself. For this we request a screenshot of the user statistics panel from `Admin Area -> Overview -> Dashboard`. The Previous users count = `Users in License` in the widget on the top left. |
+| Previous users count |   We can try to assume based on licenses in our LicenseDot but this cannot be certain since multiple licenses may be generated for one period. Instead, the best identifier is the system itself. For this we request a screenshot of the user statistics panel from `Admin Area -> Overview -> Dashboard`. The Previous users count = `Users in License` in the widget on the top left. |
 | True-up count |   The best identifier for this value is to take Max Users - Previous users count. I recommend using the historical.max command: `sudo gitlab-rails runner 'p ::HistoricalData.max_historical_user_count'` for the Max count.  |
 
 Note that for Ultimate licenses, guest users are not counted in the licensed user count. Therefore, the `User.active.count` will be a greater number than the `Active Users` count displayed in the Admin UI dashboard. This can be confusing in a situation where the customer is downgrading from Ultimate or if they have an Ultimate trial, as they'll need a license for `User.active.count` rather than what's displayed for `Active Users`.

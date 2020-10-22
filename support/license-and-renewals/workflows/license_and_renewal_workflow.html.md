@@ -18,7 +18,7 @@ This page details how GitLab Support works the License and Renewals queue (L&R) 
 
 The L&R queue is for customer tickets and internal issues relating to licensing and subscription. This might include topics like:
 
-* Troubleshooting license application and subscription association issues
+* Troubleshooting LicenseDot and subscription association issues
 * Generalized license queries from a user
 * Assisting Sales/CS with requests related to licensing, subscriptions, CustomersDot capabilities, trials and EULA requests.
 

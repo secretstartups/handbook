@@ -11,7 +11,7 @@ category: GitLab Self-Managed licenses
 You will frequently need to generate a new license key due to either user error
 or system error.
 
-Self-managed licenses are managed in the [license app](https://license.gitlab.com).
+Self-managed licenses are managed in the [LicenseDot](https://license.gitlab.com).
 In order to sign-in, you will need an account on `dev.gitlab.org`. If you don't
 have one, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 and refer that your role entitles you to access with
@@ -19,7 +19,7 @@ and refer that your role entitles you to access with
 
 To re-issue a license:
 
-1. Log in to the [license app](https://license.gitlab.com).
+1. Log in to the [LicenseDot](https://license.gitlab.com).
 1. Identify the license by searching by customer or company name.
 1. Click the name on the license to view its details.
 1. In the **Edit license** section, choose _Duplicate license_.

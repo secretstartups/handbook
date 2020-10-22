@@ -78,7 +78,7 @@ If needed, also check the
 for manual plan changes.
 
 For self-managed, you can double-check for a license in the
-[license app](http://license.gitlab.com).
+[LicenseDot](http://license.gitlab.com).
 You should be able to access it with your `dev.gitlab.org` account.
 
 **Trial** users do not get support as mentioned at [Free trial page](https://about.gitlab.com/free-trial/).
@@ -328,7 +328,7 @@ using our generic `Support Admin` account.
 
 ### Fixing tags for tickets with `Expired` organization
 
-If data in the [license app](http://license.gitlab.com) and
+If data in the [LicenseDot](http://license.gitlab.com) and
 the [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom) shows
 that the customer has a valid license, you should update the ticket in Zendesk side.
 This part does not overlap with the steps from [Handling customers with expired licenses and updating info on SFDC side](handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side),
@@ -352,7 +352,7 @@ When you see the required tag in the dropdown list, select it.
 ### Example: full sequence of actions that should be done to fix incorrectly expired organization
 
 - A ticket comes to Zendesk and you spot that `GitLab Plan` is shown as [Expired](#handling-tickets-without-sla).
-- First, search for any info about this organization in [SFDC](#finding-the-existing-organization-in-sfdc-aka-salesforce), [license app](http://license.gitlab.com/) and [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom).
+- First, search for any info about this organization in [SFDC](#finding-the-existing-organization-in-sfdc-aka-salesforce), [LicenseDot](http://license.gitlab.com/) and [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom).
 - If you found that they have a valid license or subscription i.e. it is not expired, you are likely facing [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634).
 - Fix SFDC side first by following [the steps above](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side).
   Sales Support will usually reply to your message in SFDC, and you will be able to see it in the feed at the organization's page there.

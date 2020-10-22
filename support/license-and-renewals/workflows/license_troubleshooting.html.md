@@ -22,7 +22,7 @@ The list of common requests/issues below is reference for internal support engin
 | [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) |   Issue related to self-managed or GitLab.com functionality or backend processing  |
 | [Support Engineer Escalations](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) | CustomersDot issue which may be billing or bad data related    |
 | [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot    |
-| [License App](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |
+| [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |
 
 ## License Vs Subscription Explained
 

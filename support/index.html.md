@@ -607,7 +607,7 @@ sb s # GitLab.com queues
 - [Support Toolbox](https://gitlab.com/gitlab-com/support/toolbox) - Includes tools such as `json_stats` (analyze JSON logs), `strace_parser` (analyze `strace` output), `gitlabsos` (get all logs and other data from customers), etc.
 - [Dev Resources](https://gitlab.com/gitlab-com/dev-resources) - Create a test instance
 - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-- [License App](https://license.gitlab.com/) - Details of all licenses
+- [LicenseDot](https://license.gitlab.com/) - Details of all licenses
 - [CustomersDot admin](https://customers.gitlab.com/admins)
 - [GitLab Regressions](https://regressions.gitlab.io/)
 
