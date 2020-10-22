@@ -104,4 +104,4 @@ In order to develop your EQ, you need to understand your current baseline of how
 
 ## Related pages on emotional intelligence (EQ)
 
-*  [Understanding SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/)
+*  [Understanding SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/)
