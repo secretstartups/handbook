@@ -17,7 +17,7 @@ Gainsight is a tool for Technical Account Managers to manage the ongoing custome
 
 Gainsight will help across several different areas within Customer Success. Some highlights include:
 
-- Efficiency: consolidated account views (Book of Business, account), telemetry, Zendesk integration, notes, collab projects, and to-dos
+- Efficiency: consolidated account views (Book of Business, account), product analytics, Zendesk integration, notes, collab projects, and to-dos
 - Consistency: Establish customer lifecycle process, manage and track engagement
 - Visibility: health scores, risk, adoption, and data visuals
 - Automation: process, adoption, enablement for digital journey
@@ -111,7 +111,7 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 #### Referenceable Customers
 
-The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/product-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/product-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
+The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/strategic-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
 
 ### Sally the Slack bot
 

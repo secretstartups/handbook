@@ -45,7 +45,7 @@ Ensuring paying customers are successful in their onboarding in order to gain ad
 Collecting and making use of customer data and insights is key to customer success.  It’s important to do more with data and when necessary share back with customers, which in turn helps and encourages our customers to improve and drive adoption.
 
 ### Initiative: Performance
-Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/high_availability/README.html#reference-architecture), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
+Utilizing built-in monitoring instrumentation and [a scalable HA architecture](https://docs.gitlab.com/ee/administration/reference_architectures/index.html), The Customer Success team helps ensure implementations of GitLab are operating at peak performance as organization scale and adopt more features.
 
 ## Customer Success Groups
 ### Solutions Architects
@@ -138,7 +138,6 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 ### Customer Success resource links outside handbook
 
 * [Solutions Architects Onboarding Bootcamp](/handbook/customer-success/solutions-architects-onboarding-bootcamp/)
-* [HealthCheck](https://docs.google.com/document/d/1aHA3W2FsHUApnz2XVtJoyhpcGYy6bgOHoRi4ArXnF0o/edit) (Internal Only)
 * [Customer Reference Sheet](https://docs.google.com/a/gitlab.com/spreadsheets/d/1Off9pVkc2krT90TyOEevmr4ZtTEmutMj8dLgCnIbhRs/edit?usp=sharing)
 * [Sales Collateral](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk)
 * [GitLab University](https://docs.gitlab.com/ee/university/)
@@ -160,7 +159,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 * [Client Use Cases](/handbook/use-cases/)
 * [Proof of Value Guidelines](/handbook/sales/POV/)
 * [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
-* [Sales Demo](/handbook/marketing/product-marketing/demo/)
+* [Sales Demo](/handbook/marketing/strategic-marketing/demo/)
 * [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
 * [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/product-categories/#devops-stages)
 * [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)

@@ -19,7 +19,7 @@ Customer Onboarding is the [beginning phase of the customer lifecycle](/handbook
 
 [TAM-assigned accounts](https://about.gitlab.com/handbook/customer-success/tam/services/): When a customer signs at or reaches the TAM-assigned threshold, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight.
 
-[Onboarding Pilot](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/344#note_420892012): We are also piloting in Q4 of FY21 an onboarding experience for a cohort of customers in the Commercial book of business.  For these customers, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight
+[Onboarding Pilot](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/71): We are also piloting in Q4 of FY21 an onboarding experience for a cohort of customers in the Commercial book of business.  For these customers, a [Call To Action (CTA)](/handbook/customer-success/tam/gainsight/ctas) is triggered within Gainsight
 
 For both use cases above, a CTA is created for the TAM Manager if the TAM field is not populated. Once populated, an Onboarding CTA is kicked off for the TAM. The Onboarding CTA creates a Playbook with guided steps for the next several weeks.
 

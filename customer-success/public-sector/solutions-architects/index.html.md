@@ -44,7 +44,7 @@ During each greenfield (new customer) sale, customers will move from the presale
 
 The goals of this introduction are many:
 1. Smoothly transition the new customer to post-sales realtionships for support, guidance, advocacy and growth
-2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/product-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
+2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
 3. Validate customer access to [GitLab Support](https://about.gitlab.com/handbook/support/)
 4. Help the customer choose their level of TAM engagement after procurement
 5. Ensure the customer understands available [GitLab Professional Services and Enablement](https://about.gitlab.com/services/catalog/) options
@@ -61,7 +61,7 @@ Stage 3
 - By the end of stage 3, all [Stage Technology fields](/handbook/sales/understand-customer-gitlab-use/#stage-technology-tracking) on the Account record should be populated.
 
 Stage 4-5
-- Once the technical win is achieved, the GitLab [Success Management data sheet]((https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68)) (accessible by GitLab team members only) should be shared with the new customer.
+- Once the technical win is achieved, the GitLab [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) (accessible by GitLab team members only) should be shared with the new customer.
 - A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
 - When the call is complete, the SA should log an activity of type 'call' that includes 'success management introduction' in the title.
 

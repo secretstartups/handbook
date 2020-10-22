@@ -14,13 +14,14 @@ title: "Technical Account Management Handbook"
 
 ### TAM responsibilities
 
+- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
+- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
-- [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
 ### Customer journey
 
@@ -29,10 +30,11 @@ title: "Technical Account Management Handbook"
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
+   - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
+   - [Developer & Productivity Metrics](/handbook/customer-success/tam/metrics/)
+   - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Playbooks](/handbook/customer-success/playbooks/)
-- [Developer/Productivity Metrics](/handbook/customer-success/tam/metrics/)
-- [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Customer Health Assessment and Triage](/handbook/customer-success/tam/health-score-triage/)
@@ -40,6 +42,9 @@ title: "Technical Account Management Handbook"
 ### TAM managers
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
+- [TAM Manager QBR Template](https://docs.google.com/presentation/d/1P7Cao5xgILSSrpEGy7Sh09djilnbbIK91IuTs-Xq7mY/edit?usp=sharing) (Gitlab Internal)
+- [TAM Promotion Template](https://docs.google.com/document/d/1Hg16QVYB2qm0gUGR6H_NPz0cd8OGEuvi3GyDtOsEagY/edit?usp=sharing) (Gitlab Internal)
+
 
 - - -
 
@@ -63,7 +68,7 @@ Technical Account Managers help to bring GitLab to all aspects of your company, 
 
 #### Success
 
-Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, training and regular healthchecks.
+Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption and training.
 
 ## Responsibilities and Services
 
@@ -109,7 +114,7 @@ The `TAM Portfolio` Dashboard is used to help highlight and review each client, 
 
 - Regular [cadence calls](/handbook/customer-success/tam/cadence-calls)
 - Regular open issue reviews and issue escalations
-- Account [health checks](/handbook/customer-success/tam/health-score-triage/)
+- Account [health assessment](/handbook/customer-success/tam/health-score-triage/)
 - [Executive business reviews](/handbook/customer-success/tam/ebr)
 - Success strategy roadmaps - beginning with a 30/60/90 day success plan
 - To act as a key point of contact for guidance, advice and as a liaison between the customer and other GitLab teams

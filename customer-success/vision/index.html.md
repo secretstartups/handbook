@@ -46,10 +46,10 @@ Each customer deployment will go through the following lifecycle stages.
 1. 80% of the licenses from the original purchases are activated and
 2. the customer is successfully adopting the capabilities or stages from their original purchase intent.
 
-These will be measured according to product telemetry (if available) or through agreement with the customer.  
+These will be measured according to product analytics (if available) or through agreement with the customer.  
 We define the adoption of a stage using the criteria established in our [Stage Adoption](/handbook/customer-success/tam/stage-adoption/) page.
 
-**Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product telemetry (if available) or by collecting feedback from the customer on stages adopted.
+**Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product analytics (if available) or by collecting feedback from the customer on stages adopted.
 
 ## Measurement and KPIs
 
@@ -146,7 +146,7 @@ If you need help with determing the standard cost rate or if it is applicable to
 3. Integrate processes and operations for direct customer engagement processes such as:
     * **Marketing**: messaging alignment and consistency, journey integration with marketing stages (e.g., awareness), customer advocacy, advisory boards, collateral development, digital journey (i.e., tech touch, hybrid digital/TAM engagement)
     * **Sales**: account planning and strategy, POC, success planning, IACV, renewal forecasting and execution, training and enablement
-    * **Product / Engineering**: Product telemetry and data insights, UX journey map alignment, in-app adoption (e.g., product-led onboarding), application/stage/use case/feature adoption, "voice of customer" reporting, escalations and defect and enhancement requests
+    * **Product / Engineering**: Product analytics and data insights, UX journey map alignment, in-app adoption (e.g., product-led onboarding), application/stage/use case/feature adoption, "voice of customer" reporting, escalations and defect and enhancement requests
     * **Support**: Customer health, escalation processes
     * **Finance**: Financial metrics and targets (e.g., margins), budget and forecasting
     * **People Operations**: Job types, grades and families

@@ -31,14 +31,14 @@ Solutions Architects are occasionally called on at a moments notice to give a de
 - The [production monitoring for GitLab.com](https://gitlab.com/charts/gitlab/environments/190276/metrics) is useful for any discussion regarding custom and in-app monitoring
 - The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
 - The GitLab [Direction](/direction) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
-- Optional: [Integrations](/handbook/marketing/product-marketing/demo/integrations) may be loaded and ready to discuss by leveraging the standard demo environments
+- Optional: [Integrations](/handbook/marketing/strategic-marketing/demo/integrations) may be loaded and ready to discuss by leveraging the standard demo environments
 - Other Existing demo groups and projects are listed in the next section
 
 ## Existing Demonstrations
 
 There are a variety of locations for demo groups and projects today. We are in the process of reviewing and cataloging all existing materials as part of the [FY21 Q3 OKR - Establish a well-maintained demonstration repository](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/9).
 
-Today, demo groups and projects are split between several distinct locations.  We are in the process of building out a [Demo Catalog Project](https://gitlab.com/gitlab-com/customer-success/demo-catalog) to easily search for existing demos.  Please consider contributing to the demo catalog.  Instructions can be found within the project README.  While this is being built out, here are various locations whiere you will find demo groups and projects:
+Today, demo groups and projects are split between several distinct locations.  We are in the process of building out a [Demo Catalog Project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog) to easily search for existing demos.  Please consider contributing to the demo catalog.  Instructions can be found within the project README.  While this is being built out, here are various locations whiere you will find demo groups and projects:
 
 1. [GitLab Demo Portal Catalog Libraries](https://gitlabdemo.com/catalog/libraries) - provides demo scenarios with corresponding videos and project build out on the GitLab demo environment. Some demo projects also have wiki pages with additional resources, such as a link to a slide presentation, demo script, and objection handling.
 1. [GitLab.com](https://gitlab.com) - there are a variety of groups and projects with Content
