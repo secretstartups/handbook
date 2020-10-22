@@ -958,9 +958,9 @@ Customer logs in to CustomersDot and directly buys the product as per their requ
 
 * Step 3: Zuora pushes the customer information along with Zuora reference number to the [CustomersDot](https://docs.google.com/document/d/1iLiq3IegyaFZISDUAXcDVt87PzGS3zn8SKZrRvcJgYY/edit). 
 
-* Step 4: Upon successful receipt of Zuora reference number the CustomersDot will push the details to the license application . Details such as customer info, contact details and product details are automatically pushed into the [license app](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit).
+* Step 4: Upon successful receipt of Zuora reference number the CustomersDot will push the details to LicenseDot . Details such as customer info, contact details and product details are automatically pushed into the [LicenseDot](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit).
 
-* Step 5: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 5: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 **b. Sales team assisted sales:**
@@ -971,9 +971,9 @@ Sales team is involved in the sales process, SalesForce is used to create custom
 
 * Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details](https://docs.google.com/document/d/1Vauh36fizeaV7doPhftCGmpdMwZoUkn-p9xxMRTH-fM/edit) to CustomersDot. 
 
-* Step 3: Upon successful receipt of Zuora reference number the CustomersDot will push the [details to the license application](https://docs.google.com/document/d/1QDOfqrcuAteeLukTk0VGyeRzVXH66WjiYdx0psFQ2Cg/edit). Details such as customer info, contact details and product details are automatically pushed into the license application.
+* Step 3: Upon successful receipt of Zuora reference number the CustomersDot will push the [details to LicenseDot](https://docs.google.com/document/d/1QDOfqrcuAteeLukTk0VGyeRzVXH66WjiYdx0psFQ2Cg/edit). Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
 
-* Step 4: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 4: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 
@@ -991,9 +991,9 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 5: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer details to [CustomersDot](https://docs.google.com/document/d/1Se_JzQrg19USGdYiIjB3I-En1yyq1JOMrIXHNDrDEH0/edit). 
 
-* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the CustomersDot will push the details to the [license application](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into the license application.
+* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the CustomersDot will push the details to the [LicenseDot](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
 
-* Step 7: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 7: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 
