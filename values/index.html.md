@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: "GitLab Values"
 description: Learn more about how we live our values at GitLab
+canonical_path: "/handbook/values/"
 twitter_image: "/images/opengraph/Talent-Brand/hiring-day-in-the-life-darren.png"
 twitter_image_alt: "GitLab Team Member working from home office, happy to see baby join the video call."
 twitter_site: "@gitlab"
