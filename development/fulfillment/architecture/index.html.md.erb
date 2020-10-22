@@ -16,7 +16,7 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 # System Definitions
 
 ## CustomersDot
-Allows customers to acquire GitLab subscriptions, upgrade subscriptions by adding more seats and add/edit payment records. Our customers see the front end of this system as the Customer Portal at [https://customers.gitlab.com/](https://customers.gitlab.com/) and at [https://gitLab.com/](https://gitLab.com/).
+Allows customers to acquire GitLab subscriptions, upgrade subscriptions by adding more seats and add/edit payment records. Our customers see the front end of this system as the Customer Portal at [https://customers.gitlab.com/](https://customers.gitlab.com/).  Certain purchase flows have been migrated to [https://gitLab.com/](https://gitLab.com/) and utilise CustomersDot as an API.  This work will continue until the Customer Portal is able to be deprecated.
 ## LicenseDot
 Manages license creation via API or manually in the UX and communicates with CustomersDot to send licenses via email. The Front end for managing this system is at [https://license.gitlab.com/](https://license.gitlab.com/).
 ## Zuora
