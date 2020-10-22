@@ -28,7 +28,7 @@ You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/
 
 
 ### 3. Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 6 below](https://about.gitlab.com/handbook/legal/#6-other-legal-requests). 
+If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 5 below](https://about.gitlab.com/handbook/legal/#5-other-legal-requests). 
 
 ## Requesting Legal Services
  
@@ -44,7 +44,7 @@ If you have a request that involves confidential and/or sensitive information, i
 For more information on Attorney-Client Privilege, see the [General Topics and FAQs](https://about.gitlab.com/handbook/legal/#general-topics-and-faqs) below. 
 
 ### 3. Vendor, Partner, and other "To Pay" Contracts
-* If you are looking for a new vendor, need an NDA for a vendor or partner, or need review of a vendor or partner contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
+* If you are looking for a new vendor, need an NDA for a vendor , or need review of a vendor  contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
 * Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
 
 ### 4. Requests for Insurance Certificate
