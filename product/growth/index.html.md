@@ -195,7 +195,7 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 ### Feature Ownership
 
-The Fulfillment section is responsible for the maintenance and technical strategy of the CustomersDot application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
+The Fulfillment section is responsible for the maintenance and technical strategy of the CustomersDot application, LicenseDot, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
 
 Key areas of focus for the Fulfillment section are:
 
