@@ -104,6 +104,8 @@ A recording of the second of two sessions can be found here:
 
 We are rolling out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
 
+The challenge will be organized in an [Epic](). Each day will be a separate issue. 
+
 ### Program Overview 
 
 - 3 Daily Challenges (20 minutes)
