@@ -24,9 +24,9 @@ A customer use case is:
 #### [1. Version Control and Collaboration (VC&C)](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration)
 **Create, manage and protect my intellectual property (i.e. source code, design, images, etc)** - in simple terms [Version Control](https://about.gitlab.com/solutions/version-control/) and Collaboration (VC&C), but more inclusively, *product configuration management* or *product asset management*.
 I need a better way to manage changes to documents, software, images, large web sites, and other collections of code, configuration, and metadata among disparate teams. (Examples in GitLab include Git, branches, merge requests, code review, InnerSourcing, WebIDE, and files.)  
-  
+
    **Analyst Coverage**: IDC, to some extent, forecasts this market. No spot on, recent reports, though Gartner may be considering a future report.
-    
+
    **Value Drivers:**
    1. *Increase Operational Efficiencies:* Share and reuse code, prevent rework, and make reviews more efficient.
    1. *Deliver Better Products Faster:* Streamline reviews and collaboration around code changes.
@@ -87,8 +87,8 @@ I manually stage and test environments for infrastructure making it hard to trac
    1. *Deliver Better Products Faster:* developer self-service, reusable CI/CD templates.
    1. *Reduce Security and Compliance Risk:* Enforces common controls
 
-#### [7. Simplify DevOps](/handbook/marketing/strategic-marketing/usecase-gtm/simplify-devops/)
-**Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (Simplify **DevOps**)
+#### [7. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+**Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
    **Analyst Coverage**: TBD
