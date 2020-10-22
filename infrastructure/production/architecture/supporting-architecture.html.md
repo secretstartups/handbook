@@ -21,7 +21,7 @@ It's primary use is for building official Docker images and GitLab packages whic
 It is also used as an OAuth authentication service which allows users to to sign in to other services using their dev.gitlab.org account, such as:
 
   * Sentry
-  * License app
+  * LicenseDot
   * Version app
 
 <img src="/images/handbook/engineering/infrastructure/supporting-architecture/dev-oauth.png">
