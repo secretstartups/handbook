@@ -179,7 +179,7 @@ GitLab will obtain references and complete a criminal [background check](https:/
 - Once a candidate is moved to the reference check and background check stage, the recruiter should ping `@ces` to kick off the process
    - The CES team will default to kicking off both unless specified otherwise to only collect references
 - CES will send the References and Background Check email via Guide
-- CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email once received from the candidate 
+- CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email utilizing the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. CES will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
 - Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
