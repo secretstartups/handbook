@@ -59,7 +59,7 @@ Generally, TAMs maintain a main issue that lists out all feature requests the cu
 
 Whenever a customer expresses interest in a feature request, the TAM should add it to the main issue list on the collaboration project as well as comment on the public issue expressing the customer's interest and use case. The main issue list should be maintained regularly by updating priority (elaborated on below) and milestones and marking issues as closed, so that it can act as a single source of truth on customer product needs and can be used for reviewing metrics of previously delivered feature requests.
 
-If there is a lot of discussion with the customer about a specific feature request, a recommended practice would be to create an issue on the customer collaborative project about it and list that issue as a related issue on the main GitLab issue. This is another signal on the issue itself of the interest in the issue, and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
+If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer collaboration project about it and list that issue as a related issue on the main GitLab issue. This is another signal on the main product issue of customer interest, and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
 
 ### Priority of Feature Requests
 
