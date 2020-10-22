@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Anti-Harassment Policy"
+description: "Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our Anti-harassment policy."
+canonical_path: "/handbook/anti-harassment/"
 ---
 
 ## On this page
