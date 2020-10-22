@@ -62,7 +62,10 @@ In backup and recovery, there are two SLOs:
 | SLO           | Current level | Definition |
 | ------------- |:-------------:| -----:|
 | `DB-DR-TTR`  | 8 hours       | Maximum time to recovery from a full database backup in case of disaster|
-| `DB-DR-RETENTION`  | 7 days       | The number of days we keep backups for recovery purposes. |
+| `DB-DR-RETENTION-MULTIREGIONAL`  | 14 days       | The number of days we keep backups for recovery purposes in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS. |
+| `DB-DR-RETENTION-NEARLINE`  | From 15 to 40 days       | The number of days we keep backups for recovery purposes in [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class in GCS. |
+| `DB-DR-RETENTION-NEARLINE`  | From 40 to 120 days       | The number of days we keep backups for recovery purposes in [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS. |
+
 
 The backup strategy is to take a daily snapshot of the full database
 (basebackup) and store this in Google Cloud Storage. Additionally, we capture the

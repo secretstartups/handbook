@@ -228,10 +228,18 @@ For some incidents, we may figure out that the usage patterns that led to the is
 ### Summary of Backup Strategy
 
 - Backups of our databases are taken every 24 hours with continuous incremental data (at 60 sec intervals) streaming into a separate cloud service from the production fleet. These backups are encrypted.
-- Backups of our filesystems are taken via GCP snapshots every 4 hours.
-- Both database and filesystem backups are kept for 2 weeks on a rolling duration.
+- Our current backup policy is the following:
+  - For 14 days we keep the backups in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS.
+  - After 14 days our backup is moved to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class in GCS.
+  - After 40 days our backup is moved to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS.
+  - After 120 days our backups are deleted.
 
-For details see the runbooks, in particular regarding details on [GCP snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/uncategorized/gcp-snapshots.md) and [Database backups using WAL-E (encrypted)](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/patroni/using-wale-gpg.md)
+- Backups of our filesystems are taken via GCP snapshots every 4 hours.
+- Our current snapshot retention policy is 30 days.
+
+
+For details see the runbooks, particularly for [GCP snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/uncategorized/gcp-snapshots.md) and [Database backups using WAL-E/WAL-G (encrypted)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/postgresql-backups-wale-walg.md)
+
 ## Patching
 
 ### Policy
