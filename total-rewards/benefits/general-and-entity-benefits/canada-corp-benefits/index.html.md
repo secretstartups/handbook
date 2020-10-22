@@ -98,12 +98,6 @@ GitLab team members enrolled in Canada Life have the option of Akira Virtual Car
 * Non-Evidence Maximum: 5,600
 * Termination: Age 65
 
-## Employee and Family Assistance Program
-
-GitLab team members in Canada are enrolled in the [Employee and Family Assistance Program (EFAP)](https://drive.google.com/open?id=1d30c7T8dUa48ZR58H9-R84VRG2pChEGf). The EFAP is a confidential and voluntary support service that will provide you and your immediate family members access to counselling and information services for the following topics: wellbeing, stress and mental health concerns, relationships and family, workplace challenges, addiction, child and elder care resources, legal advice, financial guidance, nutrition, and physical health. 
-
-This service can be accessed 24/7 by calling 1-800-387-4765 or online through their [website](https://www.workhealthlife.com) or mobile app: My EAP. 
-
 ## PTO and Vacation Information
 
 GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements).
