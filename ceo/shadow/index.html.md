@@ -437,7 +437,10 @@ When introducing yourself in a meeting as the first shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
-1. The goal of the program is to give participants an overview of the functions at GitLab.
+1. The goal of the program is to give participants an overview of the functions at GitLab.*
+
+   *For Valley meetings: The goal of the program is to give participants an introduction to Silicon Valley discussions.
+
 
 When introducing yourself in a meeting as the second shadow, say:
 
