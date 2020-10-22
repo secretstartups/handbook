@@ -69,7 +69,7 @@ If a customer has [identified an issue that is high priority](/handbook/product/
 
 #### Medium Priority Requests
 
-Follow the above steps for logging and tracking customer feature requests. A general idea of medium priority is that the customer needs a particular feature within the next 6-12 months.
+Follow the [steps for logging and tracking customer feature requests](#gitlab-issues). An example of medium priority is that the customer needs the feature within the next 6-12 months.
 
 #### Low Priority Requests
 
