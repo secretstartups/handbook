@@ -100,6 +100,21 @@ A recording of the second of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+## One Week Challenge 
+
+We are rolling out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
+
+### Program Overview 
+
+- 3 Daily Challenges (20 minutes)
+- 1 Live Learning Sessions (1 hour)
+- 1 Weekly Self Evaluations and Reflections (10 minutes)
+- Certification Upon Completion
+
+### Program Outline 
+
+[add chart here]
+
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
