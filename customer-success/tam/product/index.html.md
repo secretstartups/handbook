@@ -89,4 +89,4 @@ Follow the same steps as for logging and tracking bugs as with feature requests,
 
 ### Escalating Product Issues 
 
-If you have followed the expected process of commenting on issues and have not gotten traction, confirm that all of the necessary information is included in the issue, including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.
+If you have followed the [process of commenting on issues](#gitlab-issues) and have not gotten traction, confirm that [all of the necessary information is included in the issue](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature), including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.
