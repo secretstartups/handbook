@@ -68,7 +68,7 @@ Set aside time each day to participate in the challenge (20 minutes) and live le
 
 ### Week 1
 
-During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/underperformance/). 
+During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/underperformance/). 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
@@ -81,7 +81,7 @@ During week one we will discuss **Getting to Know your Team & Managing Underperf
 
 ### Week 2
 
-During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/) and [Building Trust](/handbook/people-group/learning-and-development/building-trust) page
+During week two we will discuss **Trust and Coaching**. Information covered in week two can be found on the [Coaching](/handbook/leadership/coaching/) and [Building Trust](/handbook/people-group/learning-and-development/building-trust) page
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
@@ -94,7 +94,7 @@ During week two we will discuss **Trust and Coaching**. Information covered in w
 
 ### Week 3
 
-During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [Psychological Safety](/handbook/people-group/learning-and-development/emotional-intelligence/psychological-safety) and [Diversity, Inclusion, and Belonging](/company/culture/inclusion) page. 
+During week three we will discuss **Building and Inclusive/Belonging Environment**. Information covered in week three can be found on the [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/) and [Diversity, Inclusion, and Belonging](/company/culture/inclusion) page. 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
