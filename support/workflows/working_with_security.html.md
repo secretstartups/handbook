@@ -29,14 +29,14 @@ same caution as any other suspicious email:
 
 ### Identifying Issues for Transfer to Security
 
-* [blocked accounts with reason](reinstating-blocked-accounts.html)
-* Reports of phishing or malicious content, regardless of hosting source. Keywords:
-  * malware/malicious
-  * phish
-  * campaign
-* Sender claims to be a security related employee at a non-associated company.
-* DMCA Takedown requests
-* Security questionnaires or other requests for documentation.
+- blocked accounts. Do not transfer, see [relevant workflow](reinstating-blocked-accounts.html) instead.
+- Reports of phishing or malicious content, regardless of hosting source. Keywords:
+  - malware/malicious
+  - phish
+  - campaign
+- Sender claims to be a security related employee at a non-associated company.
+- DMCA Takedown requests
+- Security questionnaires or other requests for documentation.
 
 ### Identifying Issues for Transfer to Support
 
