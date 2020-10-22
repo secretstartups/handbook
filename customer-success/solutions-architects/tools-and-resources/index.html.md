@@ -108,6 +108,8 @@ In the event that the RFx requires:
 
 Each of these processes will likely require the creation of issues.  Be sure to link these issues to the main response issue for tracking purposes.
 
+`Recommendation:` The response documents should be placed in the appropriate Sales Account directory/folder in Google Drive.  Please include the link to that document in the [**catalog document**](https://docs.google.com/document/d/1BW9WIYWkg_KG2kZu31IJofavgu4vt5Ac_jcJ3xAtKrg/edit?usp=sharing) for others to be able to find easily and reuse. 
+
 ### Specifics about RFIs
 
 RFIs are generally issued to shape procurement. In some situations, RFIs are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
