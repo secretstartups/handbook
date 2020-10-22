@@ -45,18 +45,14 @@ substitutes for each other.
 Most career opportunities involve stepping into a position of informal or formal leadership. As such, the initiative
 of the individual is a necessary component, as well as a qualification. However, for the sake of inclusion we do ask that
 managers periodically bring up the possibilities for advancement so that individuals know the avenues available to them
-and receive encouragement to pursue them.  Managers and team members should strive to have a career development
+and receive encouragement to pursue them. Managers and team members should strive to have a career development
 conversation at least once a quarter.
 
 ### Opportunity
 
-GitLab is a fast-growing startup. As such, there is no shortage of opportunity for advancement along either the
-individual contributor or management tracks. We're fortunate that this is the easiest component. And internal
-promotions are generally our first option.
+There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.  
 
-Sometimes a position must become available on the management track before a promotion can occur. But at our
-rate of growth in 2017 and 2018, it is usually only a matter of 6 months or less before something opens up for a prepared candidate.
-
+These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.  
 
 ## Individual Contribution vs. Management
 
@@ -402,10 +398,9 @@ Before this level is re-opened we need to assess the following attributes:
 
 Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
 
-The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position 
+The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position. 
 
 Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/backend-engineer/#distinguished-backend-engineer) positions extend the Senior Engineer role.
-
 
 ## Promotion
 
