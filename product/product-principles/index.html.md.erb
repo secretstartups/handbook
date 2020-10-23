@@ -417,9 +417,9 @@ your audience to self-managed customers only:
 
 There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249), but we should always have a clear view on how we might bring the feature to GitLab.com and clearly document why we started with the instance-level in the issue.
 
-### No enforced workflows
+### Avoid enforced workflows but allow enterprise flexibility
 
-We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab-ee/issues/2059).
+We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/2059).
 
 Enforced workflows should be avoided in GitLab. For example, there are three issue
 states (`Open`, `In Progress` (as of 10.2), and `Closed`), and any issue should be
@@ -472,6 +472,8 @@ As an example, customers requested instance-wide enforcement through required CI
 <figure class="video_container">
  <iframe src="https://www.youtube.com/embed/QCfOQs8S4OQ" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
+
+While workflow enforcement should be avoided in most cases, there are organizations that rely on enforced workflows for a variety of reasons. These organizations have problems adapting existing workflows as they move to GitLab and as a result, we should consider allowing some enforcement at the group level in order to balanace team efficiency and organizational policy. Page 79 of [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) outlines "teams that reported no approval process or used peer review achieved higher software delivery performance." As we implement features to allow organizations to enforce workflows, we should do so at the group level and default them off. GitLab should be a product teams use to accelerate product development, but flexible enough to solve for requirements of all sizes of organizations.
 
 ### Prefer small primitives
 
