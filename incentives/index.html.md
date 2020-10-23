@@ -248,6 +248,7 @@ We encourage and support [diversity](/handbook/values) and [frugality](/handbook
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
 * In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000]((/handbook/total-rewards/compensation/#exchange-rates)) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65. 
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for any [NQR](/handbook/sales/commissions/#quotas-overview) new hire. This is a temporary referral add-on campaign that will be availabe from a hire date of 2020-11-01 until 2020-02-01. Hire date is defined as the date that the candidate was set to hired. 
 
 The following is an *example* of a cumulative Referral Bonus:
 * Hire a referred Strategic Account Leader: $500
