@@ -78,7 +78,7 @@ True-ups are conversations that often come to the table with customers during re
   - Reddit: https://www.reddit.com/r/gitlab/
 
 #### Renewals & Account Management (WIP)
-[Suggested Email templates for mid-term call along with renewal calls](https://docs.google.com/document/d/1qxq0VXu04nYPZd7e1R4AVWqy0edmXRodDLofnl2eSLA/edit)
+For suggested email templates for a mid-term call along with renewal calls, reference the latest in the **SMB Email Templates** shared document.
 #### Discount Approval Process (WIP)
 #### Forecasting (WIP)
 
