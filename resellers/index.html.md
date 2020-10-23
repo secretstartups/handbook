@@ -320,8 +320,8 @@ The GitLab NFR (Not-for-Resale) Program offers qualified GitLab partners access 
 *   The NFR software may only be used for internal training, integration testing and customer demonstrations. 
 *   The software may not be used in customer or potential customer environments, or for day-to-day operational use. 
 *   Partners will receive NFR Licenses at the Ultimate level for a 12 month period
-    *   Select partners can request up to 25 licenses 
-    *   Open partners can request up to 10 licenses  
+    *   Select partners can request a license for up to 25 users 
+    *   Open partners can request a license for up to 10 users
 *   Please allow 2 business days for processing your request. 
 
 **NFR Program Eligibility**
@@ -351,7 +351,7 @@ GitLab NFR licenses expire after a 12 month subscription period, unless they are
     *  Integration testing with related devops products and platforms, and 
     *  Partner led product demonstrations to prospective customers.
 2. Partner in-house production use for customer engagements or internal development efforts requires purchased GitLab licenses which are available to partners at a discount.  Use of the NFR licenses in a customer environment, including for managed services is strictly prohibited. GitLab channel partners in compliance with the GitLab partner program are eligible for the NFR program, but they must have at least one employee that has completed the Solution Architect Certification or Professional Services Engineer Certification training, lab and exam (with a passing score).
-3. Select partners may request up to 25 licenses and Open partners up to 10 licenses without additional approval.
+3. Select partners may request a license for up to 25 users and Open partners up to 10 users without additional approval.
 4. All software purchase under the NFR Program are subject to the terms and conditions of the GitLab end user license agreement at [https://about.gitlab.com/terms/](https://about.gitlab.com/terms/) 
 5. GitLab reserves the right to audit the use of NFR licenses to ensure they are in compliance with the NFR program, and reduce the number of licenses to a partner if they are not in compliance with the program.
 6. GitLab reserves the right to change or cancel the NFR Program at any time and for any or no reason.
