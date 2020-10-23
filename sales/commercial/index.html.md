@@ -157,7 +157,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
-1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
+1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) ([video](https://youtu.be/o5gm7_5321w))
 
 ### Opportunity Next Steps Best Practices
 
