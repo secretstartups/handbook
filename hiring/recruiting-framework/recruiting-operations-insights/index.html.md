@@ -467,6 +467,9 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
     * "I requested a *Hiring Manager* seat, but actually need a *Recruiter* seat (i.e. to source, message, and add prospective candidates to projects)."
         * Please follow-up in your `Access Request` Issue and a Recruiting Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
             * The typical turnaround time for such a request is 1 - 2 business days.
+    * "I have a *Recruiter* seat and am encountering an error when attempting to bulk send InMail."
+       * LinkedIn has limitations on how many InMails a user can send. Please refer to their [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181) for more information.
+      
 
 </details>
 
