@@ -28,14 +28,15 @@ We believe an excellent forecasting process enables us to deploy our resources e
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStHiw-vsSJXuWFkB-iZ37wZXI1GXdI1bQpTin5TfU6v1_PWMFgSjxuttzgCqUeucagCiLPjJAmOKkq/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
-## SSOT Dashboards
-The following dashboards provide a Single Source of Truth (SSOT) for Sales information, which is owned by Finance. Each dashboard provides either a monthly and quarterly trend view of the Sales & Marketing funnel including; 
+## Sales & Marketing Funnel SSOT Dashboards
+The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
 - IACV Pipeline Created
 - Average days to SAO and to Closed Won
-- Number and $ amount of Stage 1+ opportunities
-- Number and $ amount of Closed Won opportunities
+- $ & # of Stage 1+ opportunities
+- $ & # of Closed Won opportunities
 - ASP
 - Win rate
+
 Seperate dashboards have been created for each Sales Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
 [Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
 [Opportunities - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
