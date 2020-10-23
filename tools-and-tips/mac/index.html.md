@@ -26,7 +26,9 @@ On a macOS, there are a few screen shot key shortcuts that can be very helpful:
 * `command + shift + 4` - allows you to select an area on the screen to take a screen shot (it will create one image of your selected are)
 * `command + shift + 5` - brings up a tool that allows you to do all of these things as well as create a video (with audio) of all or part of your screen.
 
-In the case of `command + shift + 3` and `command + shift + 4`, if you also hold your control key (so, `command + shift + contol + 3`), your screen shot will be in your clipboard which means you can paste it with `command + v` in a lot of applications.
+In the case of `command + shift + 3` and `command + shift + 4`, if you also hold your control key (so, `command + shift + control + 3`), your screen shot will be in your clipboard. Alternatively you can quickly select the screenshot preview in the bottom right corner and press `command + c`.
+
+You can paste the screenshot from your clipboard into a lot of applications with `command + v`. GitLab supports pasting the screenshot into issue descriptions, comments and the Web IDE.
 
 If you have a screen shot in your clipboard, you can open the `Preview` and then create an image from the clipboard using the `File -> New from clipboard`.
 
