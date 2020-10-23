@@ -75,14 +75,13 @@ The process of contacting the candidates are as per the following scenarios:
 
 ## Upgrading your LinkedIn account
 
-We're eager to provide hiring managers and all hiring team members with a **LinkedIn Recruiter** seat.
-To upgrade your seat, please add your GitLab email to your LinkedIn profile, then submit an [Access Request Issue](https://gitlab.com/gl-recruiting/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Access Request` template within the [Recruiting Operations project](https://gitlab.com/gl-recruiting/operations).
-To integrate your LinkedIn account with Greenhouse, please refer to the [Enabling LinkedIn Recruiter System Connect](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect) section on the [Greenhouse](/handbook/hiring/greenhouse/) page.
+We're eager to provide hiring managers and all hiring team members with a **LinkedIn Recruiter** seat. To upgrade your seat, please add your GitLab email to your LinkedIn profile, then submit an [Access Request Issue](https://gitlab.com/gl-recruiting/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Access Request` template within the [Recruiting Operations project](https://gitlab.com/gl-recruiting/operations). To integrate your LinkedIn account with Greenhouse, please refer to the [Enabling LinkedIn Recruiter System Connect](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect) section on the [Greenhouse](/handbook/hiring/greenhouse/) page.
 
 You can request one of the following seats (we recommend requesting a **Recruiter** seat):
 
-* For **Hiring Manager:** You can collaborate with your recruiting and sourcing partners on LinkedIn 
-* For **Recruiter:** You can actively source candidates on LinkedIn, run the report to view the data
+* A **Hiring Manager** seat allows a user to collaborate on projects, where they can share- and review profiles and provide feedback on prospective candidates.
+* A **Recruiter** seat allows a user to create projects, search for prospective candidates, send InMails, and enable the integration with Greenhouse.
+    * If requesting a **Recruiter** seat with the intention of messaging prospective candidates, please familiarize yourself with LinkedIn's [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181).
 
 Based on LinkedIn's research, passive candidates are more likely to respond to direct outreach from the hiring team member than from a recruiting team. 
 That's why we're encouraging greater adoption and use of **LinkedIn Recruiter** company-wide. 
