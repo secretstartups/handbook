@@ -11,7 +11,7 @@ title: "GitLab Certified Trainer - Candidate Process"
 
 ## GitLab Certified Trainer - Candidate Process
 
-Professional Services now has a certification process for trainers to validate their readiness to deliver Education Services offerings. Here are the steps required to earn the certification for the course you want to deliver. 
+Professional Services now has a certification process for trainers to validate their readiness to deliver Education Services offerings. Here are the steps required to earn the certification for a given course. 
 
 
 **Step 1**: [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the `certified-trainer_candidate` issue template. If you are a partner or customer, contact your GitLab representative to gain access to the namespace or if you need assistance with creating the issue.
