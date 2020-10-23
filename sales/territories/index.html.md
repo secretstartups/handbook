@@ -188,7 +188,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe South | Europe South | **Large-EMEA-Spain** | Vadim Rusin | Camilo Villanueva |
 | Nordics | Nordics | **Large-EMEA-Nordics** | Annette Kristensen | Camilo Villanueva |
 | MEA | MEA | **Large-EMEA-MEA** | Phillip Smith | Camilo Villanueva |
-| UKI | UKI | **Large-EMEA-UKI A** | Anja Loether | Chris Loudon |
+| UKI | UKI | **Large-EMEA-UKI A** | Robbie Byrne | Chris Loudon |
 | UKI | UKI | **Large-EMEA-UKI B** | Justin Haley | Chris Loudon |
 | UKI | UKI | **Large-EMEA-UKI C** | Nick Lomas | Goran Bijelic |
 | UKI | UKI | **Large-EMEA-UKI D** | Simon Williams | Shay Fleming |
