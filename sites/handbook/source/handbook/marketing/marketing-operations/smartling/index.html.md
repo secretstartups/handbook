@@ -104,7 +104,7 @@ You can request a translation job either from the main `Jobs` tab in the top nav
 
 1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
 1. Click the `Request Translation` button in the top-right.
-1. Enter a name for the job.
+1. Enter a name for the job. Use the following naming convention: `[Title of asset] - [Campaign tag name] - [Team/individual DRI]`
 1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
 1. Upload the file to be translated.
 1. In the `Description`, paste the link of the epic or issue related to the translation job.
