@@ -244,15 +244,15 @@ Support will take the lead on all incoming requests in the queue and only forwar
 #### Opportunity Management in Salesforce
 
 - Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information
-- You should direct yourself every day to your Next Steps to know how to priotize and organize your day. Recommendations on how to work through your next steps for the day:
+- Direct yourself every day to your Next Steps to know how to prioritize and organize your day. Recommendations on how to work through your next steps for the day:
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
-1. If a potential future opportunity that requires action is greater than 30 days out create an event with detailed notes on your agenda or action items
-1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Prioritize with the same criteria as above, rinse and repeat
+1. If a potential future opportunity that requires an action is greater than 30 days out, create an event with detailed notes on your agenda or action items
+1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Continue to prioritize with the same criteria as above.
 
 #### Pipeline Generation
-- You should be in weekly communication with your direct management about the health of your pipeline. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month, quarter. Here are recommended SFDC reports for pipeline generating activity: [AMER SMB EAST](https://docs.google.com/document/d/1p6LGGwrvDsczx4TyC65BlAa0XJB5_zFNGHmB65oIdJk/edit), [AMER SMB WEST](https://docs.google.com/document/d/18FirvFQpijxBve6ESOUpNUEZY3ejebG10_inL9lB3Oo/edit) 
+- In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date. 
 
 #### Web Direct Oppty Management in Salesforce
 
