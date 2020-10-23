@@ -29,13 +29,24 @@ We believe an excellent forecasting process enables us to deploy our resources e
 </figure>
 
 ## SSOT Dashboards
-Some narrative for Alex's great linguistic skill
+The following dashboards provide a Single Source of Truth (SSOT) for Sales information, which is owned by Finance. Each dashboard provides either a monthly and quarterly trend view of the Sales & Marketing funnel including; 
+- IACV Pipeline Created
+- Average days to SAO and to Closed Won
+- Number and $ amount of Stage 1+ opportunities
+- Number and $ amount of Closed Won opportunities
+- ASP
+- Win rate
+Seperate dashboards have been created for each Sales Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
 [Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
-[Oppties - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
-other dashboard
-other dashboard...
-...
-...
+[Opportunities - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
+[Opportunities - First Order - Monthly view](https://gitlab.my.salesforce.com/01Z4M000000oXUR)
+[Opportunities - Large Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXZb)
+[Opportunities - Large Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXZg)
+[Opportunities - Mid-Market Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXd4)
+[Opportunities - Mid-Market Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXcu)
+[Opportunities - SMB Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXdT)
+[Opportunities - SMB Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXdd)
+
 
 ## Pipeline Velocity
 This file details how much Net IACV has been closed relative to the quarterly target and the pace it has been booked at throughout the quarter.  The current quarter performance is 
