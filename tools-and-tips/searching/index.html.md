@@ -93,7 +93,7 @@ Instructions for adding keyword searches in Chrome and Firefox can be found abov
 | Action | Keyword example | Keyword search URL |
 | --- | --- | --- |
 | Search GitLab handbook | hb | /handbook/#stq=%s |
-| Search GitLab docs | gd | https://docs.gitlab.com/search/?q=%s |
+| Search GitLab docs | gd | https://docs.gitlab.com/search/?query=%s |
 | Search GitLab issues | gi | https://gitlab.com/search?search=%s&group_id=9970&project_id=278964&scope=issues |
 | Search gitlab-org group | go | https://gitlab.com/search?search=%s&group_id=9970 |
 | Search gitlab-com group | gc | https://gitlab.com/search?search=%s&group_id=6543 |
