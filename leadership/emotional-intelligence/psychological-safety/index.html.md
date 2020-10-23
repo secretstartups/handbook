@@ -106,7 +106,7 @@ We are rolling out a One week challenge in November 2020. All details relating t
 
 The One Week Challenge is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
 
-The challenge will be organized in an Epic. Each day of the challenge will be in an issue with a specific task for each day. Participation will be tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
+The challenge will be organized in an Epic. Each day of the challenge will be an issue within the epic with a specific task for each day. Participation will be tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
 
 ### Program Overview 
 
@@ -123,7 +123,13 @@ The challenge will be organized in an Epic. Each day of the challenge will be in
 
 ### Program Outline 
 
-[add chart here]
+| Day | Challenge | Time | Format | Activity | Competency |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace) <br> Comment on the daily issue in response to: What can you do to increase psychological safety? Have you tried or experienced any of these things in the past? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
 
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
