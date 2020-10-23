@@ -28,6 +28,15 @@ We believe an excellent forecasting process enables us to deploy our resources e
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStHiw-vsSJXuWFkB-iZ37wZXI1GXdI1bQpTin5TfU6v1_PWMFgSjxuttzgCqUeucagCiLPjJAmOKkq/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
+## SSOT Dashboards
+Some narrative for Alex's great linguistic skill
+[Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
+[Oppties - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
+other dashboard
+other dashboard...
+...
+...
+
 ## Pipeline Velocity
 This file details how much Net IACV has been closed relative to the quarterly target and the pace it has been booked at throughout the quarter.  The current quarter performance is 
 compared to other historical quarters, to highlight whether the speed at which the net iACV has been closed is ahead or behind that of historical performance. 
