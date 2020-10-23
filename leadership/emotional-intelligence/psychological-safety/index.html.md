@@ -113,6 +113,12 @@ The challenge will be organized in an [Epic](). Each day will be a separate issu
 - 1 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
 
+### Learning Objectives 
+
+1. 
+1. 
+1. 
+
 ### Program Outline 
 
 [add chart here]
