@@ -19,6 +19,11 @@ A lead will sync from Marketo to SFDC in these scenarios:
 2. When they reach `MQL` status and reach 90 points
 3. TBD (Finding all sync points is a WIP)
 
+### Sandbox
+We do have a sandbox to work in for Marketo. The sandbox is used for training, creation of API links and overall testing before we move to production. There is not a way to `promote` a program from the sandbox to Prod, so building programs in the sandbox first is not always required. Guidelines for when to build in the sandbox is TBD, but for custom API and webhook integrations, it is highly recommended.
+
+If you'd like access to the sandbox, please fill out an [AR](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/).
+
 
 ### Forms   
 Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
