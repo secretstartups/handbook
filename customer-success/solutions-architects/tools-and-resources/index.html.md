@@ -46,7 +46,7 @@ Related macOS tips
 
 ## POV Resources
 
-The [POV Guidelines document](https://about.gitlab.com/handbook/sales/POV/) describes how to kick off a POV.  The Solutions Architect (SA) is the key actor in the process.  A POV is part product evaluation, part trust building exercise. This is a key moment in the sales cycle to establish deep conversations with the customer, and become the trusted advisor.  This is done by bringing your experience to the table.  In addition, it is very helpful to have some set exemplar projects that can be shared with customers to show different areas of the product.  List below is an evolving list of projects that have come in handy during POVs and may be a great starting point to offer customers.
+The [POV Guidelines document](https://about.gitlab.com/handbook/sales/POV/) describes how to kick off a POV.  The Solutions Architect (SA) is the key actor in the process.  A POV is part product evaluation, part trust building exercise. This is a key moment in the sales cycle to establish deep conversations with the customer, and become the trusted advisor.  This is done by bringing background and experience to the table.  In addition, it is very helpful to have some set exemplar projects that can be shared with customers to show different areas of the product.  List below is an evolving list of projects that have come in handy during POVs and may be a great starting point to offer customers.
 
 ### End-to-end Proof projects
 
@@ -77,18 +77,42 @@ No two presentations are the same and we often find ourselves mixing and matchin
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector. RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
 
-### Evaluating RFI and RFPs for response
+### Evaluating RFIs and RFPs for response
 
 Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding: `Make sure you answer the mail`. This has two connotations:
 
-1. Evaluate what is asked for and do your best to address it, and
+1. Evaluate what is asked for and make a best attempt to address it, and
 1. Answer the questions directly and provide context
 
 But more importantly, be sure that there is a product fit. If what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative. Also identify the strategic impact if the requirements do not seem to match GitLab functionality.  If GitLab fits only a piece of the RFx, collaborate with the Strategic Account Leader and/or Inside Sales Representative to understand who the other players in the response might be.   
 
-### Responding to RFIs
+### Process of responding to RFx
 
-RFIs are generally issued to shape procurement. In some situations, they are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
+Generally, RFx's have a fixed timeline.  GitLab issues can assist in this process as everything needed to manage a task is available.  The best place to create the issue is in the Account project, if one exists, or in a central project where such activites are created and tracked.  Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue.  The outline should include the following things:
+1. Any customer’s instructions regarding organization
+2. A rational organization of information that will answer all of the questions and requirements
+3. Easy to follow structure for the proposal document
+4. Compliance with all requirements
+5. Links to appropriate Account or Opportunity in Salesforce
+
+Typically a SAL or ISR will be involved in the process and should be assigned to the issue along with the SA.  Lay out the tasks and assign owners so that every team member's duties are clear.  And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer.  This provides a small buffer in case of last minute adjustments or approvals that may be needed.
+
+### Responding to RFxs
+
+After the issue is created, create a Google document and start filling in the details.  A general [Public Sector template](https://docs.google.com/document/d/12uLyZ-lc9sswULq7XqpwOUtk_eiK2wgWhi-TIvT1mQs/template/preview) (only available to GitLab team members) is available as a starting point.  Insert the link to the working document into the issue.
+
+In the event that the RFx requires:
+- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/engineering/security/security-assurance/field-security) handbook.
+- A legal review, please follow the process described in [Collaborating with GitLab legal](/handbook/legal/#2-sales-guide-collaborating-with-gitlab-legal) handbook page.
+- A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
+
+Each of these processes will likely require the creation of issues.  Be sure to link these issues to the main response issue for tracking purposes.
+
+`Recommendation:` The response documents should be placed in the appropriate Sales Account directory/folder in Google Drive.  Please include the link to that document in the [**catalog document**](https://docs.google.com/document/d/1BW9WIYWkg_KG2kZu31IJofavgu4vt5Ac_jcJ3xAtKrg/edit?usp=sharing) for others to be able to find easily and reuse. 
+
+### Specifics about RFIs
+
+RFIs are generally issued to shape procurement. In some situations, RFIs are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
 
 - Positioning and value of the product
 - Truth about capabilities
@@ -120,4 +144,6 @@ The customer may ask for a description of the CI process or other complex proces
 - If specific requirements are expected to be answered by the response, add notations to the requirement number being met within the text of the response: Example, "GitLab's SAST scanner will analyze your source code for known vulnerabilities (Req 1.a.1)"
 - Use customer terminology wherever possible
 - Include relevant customer use cases whenever possible
+
+
 ## Hands On Workshop
