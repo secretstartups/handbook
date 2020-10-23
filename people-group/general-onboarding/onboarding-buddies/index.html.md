@@ -39,11 +39,12 @@ Onboarding buddies are crucial to making the onboarding experience for a new Git
 
 ## Buddy Program
 
-In an effort to recognize buddies who go above and beyond to support new team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Experience team will evaluate the onboarding buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) filled out by new team members after their first 30 days at GitLab [^1]. All of the onboarding buddies from this form will be entered into a raffle at the end of the quarter. The People Experience team will randomly select 3 winners. [^2] All 3 winners will receive a $22 discount code to use in the GitLab swag store.
+In an effort to recognize buddies who go above and beyond to support new team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Experience team will evaluate the onboarding buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) filled out by new team members after their first 30 days at GitLab. To qualify,m the onboarding buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter. 
 
-[^1]: If the new team member does not complete the **Onboarding Survey**, the onboarding buddy will not be entered into the raffle. 
-[^2]: In case of a buddy being selected twice, a re-draw will take place. 
+The People Experience team will randomly select 3 winners. All 3 winners will receive a $22 discount code to use in the GitLab swag store.
 
+- If the new team member does not complete the **Onboarding Survey**, the onboarding buddy will not be entered into the raffle. 
+- In case of a buddy being selected twice, a re-draw will take place. 
 
 
 ## How Can I Become An Onboarding Buddy?
@@ -54,9 +55,9 @@ Buddy assignation is the new team member's manager's responsibility as outlined 
 
 That's all there is to it! Thanks for your help welcoming the newest GitLab team-member to the team and getting them on board. If you have questions that are not answered on this page, please [reach out to People Ops](/handbook/people-group/)!
 
-#### Procedures 
+## Procedures 
 
-##### Onboarding Buddies Procedures for People Experience
+### Onboarding Buddies Procedures for People Experience
 
 
 The onboarding buddy scores are stored within the the OSAT Survey [results](https://docs.google.com/spreadsheets/d/1sAaQntIaQAnj8Z1NY6WRyQGRIyIoKa_6TratKWtScdo/edit#gid=63110344). Rows 418-494 were utilized for the Q1 Winner results. 
