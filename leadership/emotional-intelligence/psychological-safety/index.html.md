@@ -104,13 +104,15 @@ A recording of the second of two sessions can be found here:
 
 We are rolling out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
 
-The challenge will be organized in an [Epic](). Each day will be a separate issue. 
+The One Week Challenge is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
+
+The challenge will be organized in an Epic. Each day of the challenge will be in an issue with a specific task for each day. Participation will be tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
 
 ### Program Overview 
 
 - 3 Daily Challenges (20 minutes)
 - 1 Live Learning Sessions (1 hour)
-- 1 Weekly Self Evaluations and Reflections (10 minutes)
+- 1 Weekly Self Reflection and Evaluation (10 minutes)
 - Certification Upon Completion
 
 ### Learning Objectives 
@@ -133,5 +135,6 @@ The challenge will be organized in an [Epic](). Each day will be a separate issu
 - Read: [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) 
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
+- Watch: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/folders/1RLXcBUM1IKx8KmgQSR-dPDwvkso6bVJL).
