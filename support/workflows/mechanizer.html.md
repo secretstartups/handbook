@@ -26,5 +26,5 @@ The below fields are mandatory and must be supplied for each submission:
 
 Optional fields:
 
-- **End Date**: The date at which the trial period will be extend through. If the desired trial length will be longer than 30 days, the `Manager Approval` field must also be submitted.  You do not need to fill out the issue [linked in this section](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Trial%20Extension).
+- **End Date**: The date at which the trial period will be extended through. If the desired trial length will be longer than 30 days, the `Manager Approval` field must also be submitted.
 - **Manager Approval**: The GitLab.com username (without a preceding @) of the sales manager who approved a trial extension of more than 30 days.
