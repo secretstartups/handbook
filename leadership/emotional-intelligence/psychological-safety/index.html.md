@@ -117,9 +117,9 @@ The challenge will be organized in an Epic. Each day of the challenge will be an
 
 ### Learning Objectives 
 
-1. 
-1. 
-1. 
+1. Define Psychological Safety
+1. Identify the importance of Psychological Safety
+1. Demonstrate how to increase Psychological Safety
 
 ### Program Outline 
 
