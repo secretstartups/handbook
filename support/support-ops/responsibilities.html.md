@@ -398,8 +398,7 @@ Once the ticket is updated, a trigger sends a webhook to slack which is configur
 {: #feed_zd-self-managed}
 
 The `#feed_zd-self-managed` channel is updated by a webhook that's triggered whenever a Self-Managed ticket is created or updated. The Zendesk trigger is called "Slack Support Live Feed (With Organization names)"
-The `#feed_zd-self-managed` channel does not display tickets addressed to GitLab.com or
-GitHost.io. 
+The `#feed_zd-self-managed` channel does not display tickets addressed to GitLab.com
 
 The `#feed_zd_gitlab-com` channel is updated by a webhook that's triggered whenever a GitLab.com ticket is created or updated. The Zendesk trigger is called "Slack Services Live Feed". This channel does not display EE tickets.
 

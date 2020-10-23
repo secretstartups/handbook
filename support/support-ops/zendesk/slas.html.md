@@ -65,20 +65,6 @@ use the top most SLA based on the list of our SLAs (see below).
 | Next reply time | 4h | 4h | 8h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### GitHost SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `GitLab Hosted (Githost.io)
-    * `Received at` is `support@githost.io`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
 ### Bronze SLA
 
 * Conditions:
