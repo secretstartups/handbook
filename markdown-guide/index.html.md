@@ -2134,10 +2134,9 @@ Renders:
 
 ## Markdown Editors
 
-Please use one of the following code editors to write in markdown, or another **code editor** of
-your preference.
+Please use the editors available on GitLab.com, one of the following code editors, or your preferred **code editor** to write in markdown.
 
-It is **not** recommend writing your document in a regular text editor, then copy-pasting to markdown,
+It is **not** recommended writing your document in a regular text editor like Google Docs, Microsoft Word, or macOS's Pages, then copy-pasting to markdown,
 as it most likely will bring some characters with a different encoding (non UTF-8), which will cause the
 markdown to not render correctly.
 
@@ -2146,10 +2145,17 @@ to your markdown file using **command+shift+V** on a Mac, or **control+shift+V**
 You might minimize the cause of trouble by pasting without format. But yet, is not guaranteed it
 is going to work, so double check your HTML output.
 
+_Editors Available on GitLab.com_
+
+- Web IDE
+- Static Site Editor
+- GitLab's raw code editor
+
 _Regular Code Editors_
 
 - [Sublime Text 3][sublime]
 - [Atom]
+- [VS Code](https://code.visualstudio.com/)
 
 _Markdown editors (type and preview simultaneously)_
 
