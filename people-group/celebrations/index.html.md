@@ -14,7 +14,7 @@ title: "Celebrations and Significant Life Events"
 ### GitLab Anniversary
 At GitLab we like to acknowledge and celebrate team member milestones and contributions.  This means that those celebrating their first, third, fifth and tenth hire-date anniversary will receive a token of acknowledgement.
 
-Along with this, all celebrants regardless of length of tenure will receive a mention a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
+Along with this, all celebrants regardless of length of tenure will receive a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
 #### Anniversary Gifts
 On the last day of the month of celebration, team members can anticipate an email with a unique link which will lead them to the GitLab Anniversary Gift ordering portal where they can make the relevant size and shipping selections (where applicable).
