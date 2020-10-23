@@ -209,7 +209,7 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/business-ops/resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
 ### Critical Salesforce reports to follow and bookmark
-- [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+- [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
 - [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
 
 #### New Business
