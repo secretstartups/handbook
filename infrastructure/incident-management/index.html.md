@@ -148,7 +148,7 @@ schedule in PagerDuty. That can be done by navigating to [Incidents page in Page
 and then creating the new incident while picking **Incident Management - CMOC** as
 **Impacted Service**.
 
-Important to clarify that the CMOC covering hours does not include the weekends yet - it may come soon.
+Important to clarify that the CMOC covering hours does not include the weekends. 24x7 coverage for CMOC is being worked in [support-team-meta#2822](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2822).
 
 ### Runbooks
 
