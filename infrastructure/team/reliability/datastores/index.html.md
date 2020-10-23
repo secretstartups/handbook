@@ -25,11 +25,10 @@ Other components we take care of, as part of the Database ecosystem in Gitlab:
 - Consul (running on the Database clusters).
 - PG Bouncer connection pooler.
 
-
-Main Gitaly components we work on:
-- Repo File servers.
+Gitaly components we maintain:
+- Repository File servers.
+- Gitaly App.
 - Praefect - as part of our [Gitaly Cluster architecture](https://docs.gitlab.com/ee/administration/gitaly/praefect.html).
-- Gitaly Rails App and nodes.
 
 <br></br>
 
