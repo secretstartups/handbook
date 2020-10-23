@@ -56,6 +56,6 @@ Datastores is:
 - Automation as a way to run things with no manual intervention in production. All of our production changes are run via code.
 - Reliability of our datastores, also top priority. As part of the Reliability group we endeavour to run GitLab.com with 99.95% (or higher) availability - our Datastores availability should enable that goal.
 - We don’t want to fix things twice: If anything is broken, take your time to find a permanent (code based) solution, test it and roll it to production.
-- Growth mindset: we believe that our abilities can grow with effort and persistence. Goals are opportunities to grow. the purpose of what you do every day is to improve.
+- Growth mindset: we believe that our abilities can grow with effort and persistence. Goals are opportunities to grow. The purpose of what you do every day is to improve.
 - Obsession about avoiding service incidents, and fast-mitigation if they do happen.
 
