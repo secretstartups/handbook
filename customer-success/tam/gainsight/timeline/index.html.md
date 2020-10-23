@@ -33,12 +33,14 @@ Related, there is the "Last Timeline Activity" which looks to any and all activi
 
 To log activities (calls, meetings, updates, etc.), you'll primarily follow these steps:
 
+Tip: When searching for external attendees, you can use "%%%" as your search pattern to list all contacts of an account. This is useful, if you do not remember all participants by name from your activity like cadence call or similar.
+
 1. Navigate to the customer
 1. Click Timeline at the top
 1. Hover over "+ Activity" and choose the appropriate activity type
 1. Input a subject
 1. Confirm the date and time (it will default to when you clicked "+ Activity") if applicable
-1. Add internal and external attendees (more details on that immediately below) if applicable
+1. Add internal and external attendees (more details on that immediately below) if applicable. 
 1. Choose the meeting type if applicable
 1. Check off if an executive sponsor attended if applicable
 1. Optionally update the TAM and Product sentiments to reflect [health score](/handbook/customer-success/tam/health-score-triage/)
