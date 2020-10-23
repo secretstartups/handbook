@@ -14,7 +14,7 @@ category: GitLab.com
 
 This workflow details how to use the various automated forms that utilize the [Mechanizer](https://gitlab.com/gitlab-com/support/toolbox/mechanizer) for GitLab.com account related tasks.  The forms may be found in [this gDrive folder](https://drive.google.com/drive/folders/1Ux_UKUbX7Y3rLu8L8OM_YVImnEkKF4vW) and you may need to be granted access before you can access them.
 
-## Trial Plan Change or Extension for GitLab.com
+### Trial Plan Change or Extension for GitLab.com
 
 This form can be found [here](https://docs.google.com/forms/d/1CTmzp2FoxBJNGZudF-kdP-OZeHcV2hvV45Q4Aoi7LQQ/) and facilitates changing the plan on an active trial as well as extending it.  Please note that in order for this form to work, the customer **MUST** have an active trial and support should always check [Salesforce](https://gitlab.my.salesforce.com/) before proceeding.  If the prospect has not yet initiated a trial themselves, please have them do so via the [customers portal](https://customers.gitlab.com/trials/new?gl_com=true).  Support cannot create a trial for a customer.
 
