@@ -35,7 +35,7 @@ If you need People Operations to complete an employment verification form, usual
 
 The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll vis private Slack channel.  
 
-The People Experience team will always verify that the information is appropriate to share and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
+The People Experience team will always verify and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
 
 ## Request for GitLab's phone number
 Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email total-rewards@gitlab and someone on the Total Rewards team will provide their phone number based on availability.
