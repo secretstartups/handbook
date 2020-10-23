@@ -49,24 +49,24 @@ assigned when the first reply is made.
   </tr>
   <tr>
     <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102880">SM Need Assignee: APAC+All Region</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102880">SM Need Assignee: APAC+All Region</a></td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</a></td>
   </tr>
   <tr>
     <td rowspan="3">GitLab.com</td>
     <td>AMER</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</a></td>
   </tr>
   <tr>
     <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122399">.com Need Assignee: APAC+All Region</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122399">.com Need Assignee: APAC+All Region</a></td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</td>
+    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</a></td>
   </tr>
 </table>
 
