@@ -38,15 +38,23 @@ The following Single Source of Truth (SSOT) dashboards provide a monthly and qua
 - Win rate
 
 Seperate dashboards have been created for each Sales Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
-[Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
-[Opportunities - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
-[Opportunities - First Order - Monthly view](https://gitlab.my.salesforce.com/01Z4M000000oXUR)
-[Opportunities - Large Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXZb)
-[Opportunities - Large Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXZg)
-[Opportunities - Mid-Market Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXd4)
-[Opportunities - Mid-Market Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXcu)
-[Opportunities - SMB Sales Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXdT)
-[Opportunities - SMB Sales Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXdd)
+[SFDC Dashboard - Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
+
+[SFDC Dashboard - Opportunities - First Order - Quarterly view](https://gitlab.my.salesforce.com/01Z4M000000oXZW)
+
+[SFDC Dashboard - Opportunities - First Order - Monthly view](https://gitlab.my.salesforce.com/01Z4M000000oXUR)
+
+[SFDC Dashboard - Opportunities - Large Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXZb)
+
+[SFDC Dashboard - Opportunities - Large Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXZg)
+
+[SFDC Dashboard - Opportunities - Mid-Market Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXd4)
+
+[SFDC Dashboard - Opportunities - Mid-Market Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXcu)
+
+[SFDC Dashboard - Opportunities - SMB Segment - Quarterly View](https://gitlab.my.salesforce.com/01Z4M000000oXdT)
+
+[SFDC Dashboard - Opportunities - SMB Segment - Monthly View](https://gitlab.my.salesforce.com/01Z4M000000oXdd)
 
 
 ## Pipeline Velocity
