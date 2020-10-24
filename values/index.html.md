@@ -552,14 +552,14 @@ Take initiative to operate [asynchronously](/company/culture/all-remote/asynchro
 
 This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
-#### Embracing uncomfortable ideas and conversations 
+##### Embracing uncomfortable ideas and conversations 
 {:.no_toc}
 
 Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
 
 We believe that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
 
-#### Understanding the impact of microaggressions
+##### Understanding the impact of microaggressions
 {:.no_toc}
 
 Microaggressions are much more than merely rude or insensitive comments. They can wear people down by slowly chipping away their sense of belonging/safety/inclusion over time. What is a microaggression?
@@ -731,7 +731,7 @@ However, if we take smaller steps and ship smaller, simpler features, we get fee
 {:.no_toc}
 Don’t wait. When you have something of value like a potential blog post or a small fix, implement it straight away. Right now, everything is fresh in your head and you have the motivation. Inspiration is perishable. Don’t wait until you have a better version. Don’t wait until you record a better video. Don’t wait for an event (like Contribute). Inventory that isn’t released is a liability since it has to be managed, becomes outdated, and you miss out on the feedback you would have received had you implemented it straight away.
 
-##### Set a Due Date
+##### Set a due date
 {:.no_toc}
 We always try to set a due date. If needed, we cut scope.
 If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
