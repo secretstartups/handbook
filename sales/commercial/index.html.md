@@ -211,6 +211,8 @@ SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLa
 ### Critical Salesforce reports to follow and bookmark
 - [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
 - [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+- [SMB APAC/EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000oWyL)
+- [SMB APAC/EMEA 1:1 Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKq)
 
 #### New Business
 
