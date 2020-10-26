@@ -235,7 +235,7 @@ For additional information on reviewing Background checks see [this page](/handb
 Once the CES team gets the background checks back, if there are criminal charges or any employment verification descrepencies - the CES team will escalate to the People Business Partners.
 
 1. Gather all details you can from the Sterling report 
-1. Post (making sure to tag the appropriate PBP) all details in the shared Slack channel with the PBP's `employment-criminal-escalations` with PDF version of the report
+1. Post (making sure to tag the [appropriate PBP](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)) all details in the shared Slack channel with the PBP's `employment-criminal-escalations` with PDF version of the report
    - Make sure to include candidates name, the job applied for, and who the hiring manager is
 1. The People Business Partners have their own criteria/process for providing their recommendation on how to proceed to the business 
 1. Once the PBP has come to a recommendation, they will share the details with that recommendation to the hiring manager
