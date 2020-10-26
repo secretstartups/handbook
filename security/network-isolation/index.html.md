@@ -33,6 +33,14 @@ While most routers implement guest networks as described, be aware that your rou
 
 Note that you will likely not be able to connect to shared resources in your home network such as file servers or shared printers.
 
+### Simple Isolation with Personal VPN
+
+A personal VPN (Virtual Private Network) can create an isolated network for a team member's computer that could be used for isolation if the Guest Network idea does not meet your needs. This has the added advantage of being mobile, in that if you take your computer to _any_ network (free Wi-Fi at a coffee shop, hotel network, technical conference with Wi-Fi access for attendees, etc) you can isolate it.
+
+For more information on a personal VPN, check out the [Personal VPN](/handbook/tools-and-tips/personal-vpn/) page.
+
+Similar to the guest network scenario above, when using a personal VPN you will not be able to access shared resources in your home like a printer.
+
 ### Advanced Isolation with DDWRT
 
 The instructions are specific to DDWRT, which is a popular custom router firmware. If you don't use DDWRT, you can use the provided steps as a template and consult your router's manual to obtain a similar configuration. However, if your home router does not support setting up an isolated network, consider buying a router that is [compatible with DDWRT](https://dd-wrt.com/support/router-database/)(ToDo: check which ones support Net Isolation) or a similar custom firmware. If you do, don't forget to expense the router (TBC, check if routers can be expensed). If you need recommendations for DDWRT routers, you can find many buyer guides online:
