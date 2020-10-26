@@ -121,6 +121,8 @@ The goal of the refinement process is to:
     *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
 1. Assign a [weight](#weights).
     * If the issue requires both frontend and backend work, it should be split and weighed independently.
+1. Determine if [a feature flag is needed](https://docs.gitlab.com/ee/development/feature_flags/process.html#when-to-use-feature-flags).
+    * If you think that we should use the feature flag for a given issue, add ~"feature flag" label and add in the description a section called **Feature Flag** with the proposed name.
 1. Encourage Community Contributions.
     *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
     * The `~"Good for 1st time contributors"` label is particularly helpful but note that you would
