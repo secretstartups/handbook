@@ -14,7 +14,7 @@ At the conclusion of each project, we will conduct a root cause analysis using t
 ## Scheduling a Root Cause Analysis
 
 1. Create an issue
-1. Use the [RCA](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md).  Changes to that template can be added as an MR to the Professional Services project.
+1. Use the [RCA](https://about.gitlab.com/handbook/engineering/root-cause-analysis/).  Changes to that template can be added as an MR to the Professional Services project.
 1. Ensure that the `Root Cause Analysis` label is applied to the issue
 1. Create a calendar event for the root cause analysis, including a link the issue and this page.
   - Include the SAL, TAM, PSEs, your manager and any other interested GitLab parties
@@ -38,7 +38,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
 1. All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 #### Discussion
-1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md).
+1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/RCA.md).
   - Identify key demographics for the engagement (customer contacts, GitLab team-members, dates, etc.)
   - Ensure to update links to the SOW for this engagement as well as the customer folder on Google Drive
   - Capture any remaining customer-facing action items and assign an owner
