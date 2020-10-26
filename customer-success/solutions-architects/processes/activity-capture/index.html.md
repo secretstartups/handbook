@@ -135,6 +135,13 @@ If a contact you'd like to associate your activity updates with does not yet exi
 * `#troops-users` slack channel - Discuss and ask questions related to Troops.ai and SA activity capture
 * `#troops-gitlab` slack channel - Discuss and ask questions related to Troops.ai with the Troops account team covering GitLab
 
+## Recording Email Activity with Salesforce
+
+Email communication with customers can be tracked in Salesforce within the account's activity history. There are two options to track this activity:
+
+1. bcc your "email to Salesforce address". Instructions to obtain this address are found this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
+2. Download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail)
+
 ### Frequently Asked Questions
 
 * Question:  Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
