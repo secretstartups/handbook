@@ -41,4 +41,4 @@ Since TAMs are assigned based on [certain criteria](/handbook/customer-success/t
 #### Resources:
 
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/#tam-alignment)
-- [Customer Success Escalations Process]((/handbook/customer-success/tam/escalations/index.html))
+- [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/index.html)
