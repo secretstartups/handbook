@@ -66,14 +66,14 @@ All full-time GitLab team members are eligible for disability cover in the amoun
 
 ## Bike to Work/Tax Saver Commuter Scheme
 
-GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at (TODO register for the link). Team members will need to register and account to enter the GitLab specific online portal. Here is a link to TravelHub's [FAQs](https://support.hubex.ie/hc/en-ie/articles/360044040031) about these programs.  
+GitLab uses TravelHub to assist with the administration of the bike to work/tax saver commuter scheme. The GitLab specific online portal can be found at (https://gitlab.travelhub.ie/). Team members will need to register and account to enter the GitLab specific online portal. Here is a link to TravelHub's [FAQs](https://support.hubex.ie/hc/en-ie/articles/360044040031) about these programs.  
 
 **Bike Applications:**
 
 1. Once your account is created, select a Bike to Work Ltd partner shop. 
 1. Pick the new bike and accessories if required. 
 1. Upload the quote received from the bike ship to the TravelHub portal to have the order approved. 
-1. The Total Rewards team will review to approve the application. 
+1. The Total Rewards team will receive an email with the request to login, review, and approve the application (credentials can be found in 1password). Please note that all payments should be made to TravelHub directly and not to the supplier chosen by staff. TravelHub will pay the supplier once the employee has received their Bike or Ticket. 
 1. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the bike using a Salary Sacrifice Agreement. 
 
 **Ticket Applications:**
@@ -81,7 +81,7 @@ GitLab uses TravelHub to assist with the administration of the bike to work/tax 
 1. Once your account is created, select a Travel Operator. 
 1. Select either a monthly or yearly ticket. 
 1. Submit the travel ticket to the TravelHub portal to have the order approved. 
-1. The Total Rewards team will review to approve the application. 
+1. The Total Rewards team will receive an email with the request to login, review, and approve the application (credentials can be found in 1password). 
 1. Total Rewards will notify payroll to reduce the team member's gross salary by the cost of the ticket using a Salary Sacrifice Agreement. 
 1. Note: There is a 4% (plus VAT) booking fee for annual tickets and a 10 EUR (VAT inclusive) booking fee for monthly tickets paid for by the team member by being added to the price of the ticket. 
 
