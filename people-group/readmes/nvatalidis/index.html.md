@@ -2,6 +2,7 @@
 layout: markdown_page
 title: "Nadia Vatalidis's README"
 job: "[Senior Manager, People Operations](https://about.gitlab.com/job-families/people-ops/people-operations/) "
+description: "This page is Nadia Vatalidis's readme and is intended to be helpful when interacting with her."
 ---
 
 ### My Job
