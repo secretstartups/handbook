@@ -20,7 +20,7 @@ Have your own practical Handbook editing tips? Drop a video below!
   <iframe src="https://www.youtube.com/embed/hQgS97M8abc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-**_Please note that the video mentions that you need to go to source/handbook to create a page which is not longer the case. The handbook is now located under [sites/handbook/source/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook)_**. 
+**_Please note that the video mentions that you need to go to source/handbook to create a page which is no longer the case. The handbook is located under [sites/handbook/source/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/handbook/source/handbook)_**. 
 
 This video covers:
 - Creating a new handbook page - @:37
