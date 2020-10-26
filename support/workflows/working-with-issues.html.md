@@ -51,13 +51,11 @@ Required:
 - [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/product-categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
   - On the [GitLab.com Support Forum](https://gitlab.com/gitlab-com/support-forum/), add `~support request`.
-- `~customer`, if appropriate `~customer+`: [see list](https://drive.google.com/drive/u/0/search?q=title:%20%22Customer%2B%20Accounts%22) (internal)
+- `~customer` (if a ZenDesk link is added, the bot with add this automatically if you forget)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
 For `~customer`+`~bug` labeled issues, a Severity estimate is required. If it is missing, please add them to attract PM attention to the issue:
 - [Severity](/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~severity::1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
-
-**Note:** The use of `~customer+` is under discussion and may change in the near future. Please refer to [sales #302](https://gitlab.com/gitlab-com/sales/issues/302).
 
 Optional, but highly recommended:
 
