@@ -29,14 +29,6 @@ If it is not possible to come to an agreement with the reporting copyright owner
 5. **Consent to service of process:** A statement that you will accept service of process from the person who provided the original notification or an agent of such person.
 6. **Signature:** An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
-## What information do we forward to the reported content owner? 
-
-If we receive a valid DMCA notice and proceed to disable access to the reported content, the reported content owner will receive a copy of the complaint, including the reporter’s full name, email, street address, and any other information included in the complaint. 
-
-If you are do not wish to share your contact information with the account owner, you may want to consider appointing an agent to submit your DMCA notice on your behalf. 
-
-The appointed agent will be required to submit the DMCA notice with valid contact information, and identify you as the content owner that they are representing. 
-
 # Other Disputes 
 
 Disputes regarding namespaces, ownership and trademarks are not governed by DMCA. These disputes must be resolved by the parties involved. GitLab will never act as arbitrators or intermediaries in these disputes and will not take any action without the appropriate legal orders.
