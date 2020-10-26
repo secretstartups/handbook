@@ -160,7 +160,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  subgraph Based on Merit & Company Need
+  subgraph Based on Merit &amp; Company Need
   eng:stf & eng:fem
   eng:stb & eng:bem;
   
@@ -182,7 +182,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   subgraph Merit Based
     sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
   end
-  subgraph Based on Merit & Company Need
+  subgraph Based on Merit &amp; Company Need
     sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
     sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
     sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
@@ -205,7 +205,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   end
 
-  subgraph Based on Merit & Company Need
+  subgraph Based on Merit &amp; Company Need
     qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
     qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
 
@@ -237,7 +237,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
   end
 
-  subgraph Based on Merit & Company Need
+  subgraph Based on Merit &amp; Company Need
     supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
     supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
 
@@ -264,7 +264,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
   end
 
-subgraph Based on Merit & Company Need
+subgraph Based on Merit &amp; Company Need
   eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
 
   eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
@@ -326,7 +326,7 @@ end
     eng:ia(Infrastructure Analyst)
   end
 
-subgraph Based on Merit & Company Need
+subgraph Based on Merit &amp; Company Need
   %% Backend Engineers
     eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
     eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
