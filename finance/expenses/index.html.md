@@ -15,7 +15,9 @@ Welcome to the Expenses page!  You should be able to find answers to most of you
 - **Chat channel**: `#expense-reporting-inquires`
 - **Email**: `ap@gitlab.com`
 
-GitLab utitilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
+GitLab utilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Note: Ensure to opt-out from news by logging in and navigating to `Settings > Preferences > Contact Preferences` and un-checking the box at `Relevant feature updates and Expensify news`.
+
+Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close).
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
