@@ -33,7 +33,7 @@ You can find more tools and tips in the following sub-pages:
 ##### STEP 1: Request your new username
 
 - Access the username you want to request via `https://gitlab.com/mary`.
-- Check its activity and projects to see if they are an inactive user [according to the name squatting policy](support/#name-squatting-policy).
+- Check its activity and projects to see if they are an inactive user [according to the name squatting policy](/handbook/support/workflows/namesquatting_policy.html).
 - If you're a team member, Complete the [current process for requesting a dormant username](/handbook/support/internal-support/).
 - There's no guarantee that the username will be available for you.
 
