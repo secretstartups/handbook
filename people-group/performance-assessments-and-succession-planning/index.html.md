@@ -166,7 +166,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Determine the appropriate box for each of your team members
 - Add notes for each of your team members to the agenda 
     - An example of notes could include:
-        - 2-3 strengths
+        - 2-3 strengths/accomplishments (and supporting examples)
         - 2-3 improvement areas
         - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
