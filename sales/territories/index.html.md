@@ -126,13 +126,13 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
 | Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
-| Public Sector | **State and Local (SLED West)** | Dave Lewis | Victor Brew | Evan Mathis |
+| Public Sector | **State and Local (SLED West)** | TBH | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
-| Public Sector | **Federal - DoD-Air Force-2** | Dan Foley | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
-| Public Sector | **Federal - DoD-Navy-1** | Jon Scadden | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Navy-1** | TBH | Patrick Gerhold | Josh Downey |
 | Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey |
 | Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Peg Sheridan | Josh Downey |
 | Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Peg Sheridan | Josh Downey |
@@ -141,7 +141,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey |
 | Public Sector | **Federal - NSG-3** | Ian Moore | Christine Saah | Evan Mathis |
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis |
-| Public Sector | **Federal - NSG-5** | John McLean | Bill Duncan | Evan Mathis |
+| Public Sector | **Federal - NSG-5** | Garry Judy | Bill Duncan | Evan Mathis |
 | Public Sector | **Federal - NSG-6** | Garry Judy | Christine Saah | Evan Mathis |
 
 #### APAC
