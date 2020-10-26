@@ -373,6 +373,14 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 - Tier 2 Accounts that I am working to grow and I speak with them at least once a month.
 - Tier 3 Accounts that I keep informed about GitLab and DevOps monthly.
 
+## Co Selling
+Co selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together to ensure the best client/prospect experience, along with jointly finding the highestp potential within that account. 
+Are Sales Managers have an expectaiton to be log a minimum of 5 co-selling call per rolling 7 days, although we are aiming to achieve closer to 10-12 calls over a rolling 7 days
+
+### Co Selling Roles
+* Pilot: consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon
+* Co- Pilot: This individual is responsible for raw notes in Salesforce time management, and digging into comments to identify areas where we should be findin additional information
+
 ## Center of Excellence
 
 The Center of Excellence (COE) in the Commercial Sales context refers to the team's research and development of a particular focus area to drive new initiatives and improvements across the organization.
