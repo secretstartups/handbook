@@ -137,12 +137,12 @@ If a contact you'd like to associate your activity updates with does not yet exi
 
 ## Recording Email Activity with Salesforce
 
-Email communication with customers can be tracked in Salesforce within the account's activity history. There are two options to track this activity:
+Email communication with customers can be recorded in Salesforce within the account's activity history. There are two options to track this activity:
 
-1. bcc your "email to Salesforce address". Instructions to obtain this address are found this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
-2. Download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails.
+1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
+2. Or, download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 * Question:  Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
 * Answer:  It is not required to automatically log your calls via the Salesforce Google calendar plugin and we aren't currently planning to analyze that information.  
