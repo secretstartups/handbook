@@ -39,7 +39,7 @@ The goals of the calculator are:
 
 ### Use the calculator
 
-The calculator is available to internal team members using the following [link](https://gitlab-people-engineering-compensation-calculator.35.196.91.102.nip.io/users/sign_in).
+The calculator is available to internal team members using the following [link](https://comp-calculator.gitlab.net/users/sign_in).
 
 ### The Compensation Calculator Formula
 
