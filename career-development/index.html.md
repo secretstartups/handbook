@@ -160,10 +160,17 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  eng:jfe-->eng:ife-->eng:sfe--Gated by<br/>opportunity-->eng:stf & eng:fem
-  eng:jbe-->eng:ibe-->eng:sbe--Gated by<br/>opportunity-->eng:stb & eng:bem;
+  subgraph Opportunity and Fit
+  eng:stf & eng:fem
+  eng:stb & eng:bem;
+  
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stb & eng:stf-->eng:dis-->eng:fel;
+  end
+  subgraph Merit Based
+  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem
+  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  end
 
 ```
 
@@ -171,10 +178,15 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
-  sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
-  sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
-  sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
+  
+  subgraph Merit Based
+    sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
+  end
+  subgraph Opportunity and Fit
+    sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
+    sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
+    sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
+  end
 
   click sec:se "/job-families/engineering/security-engineer/#intermediate-security-engineer";
   click sec:sse "/job-families/engineering/security-engineer/#senior-security-engineer";
@@ -187,17 +199,22 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
-  qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
-  qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
-  qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
+  subgraph Merit Based
+    qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
+    qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
+    qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity); 
+  end
 
-  qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
-  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
-  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+  subgraph Opportunity and Fit
+    qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
+    qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
 
-  qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
-  qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
+    qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
+    qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+
+    qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
+    qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering); 
+  end
 
   click qual:jset "/job-families/engineering/software-engineer-in-test#junior-software-engineer-in-test";
   click qual:iset "/job-families/engineering/software-engineer-in-test#intermediate-software-engineer-in-test";
@@ -215,13 +232,18 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
+  
+  subgraph Merit Based
+    supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
+  end
 
-  supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
-  supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
+  subgraph Oppportunity and Fit
+    supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
+    supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
 
-  supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
-  supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
+    supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
+    supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
+  end
 
   click supe:se "/job-families/engineering/support-engineer#support-engineer";
   click supe:sse "/job-families/engineering/support-engineer#senior-support-engineer";
@@ -235,8 +257,14 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
+  subgraph Merit Based
+    eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
+    eng:uxrc(UX Research Coordinator)-->eng:uxr(UX Researcher);
+    eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
+    eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
+  end
 
+subgraph Opportunity and Fit
   eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
 
   eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
@@ -244,22 +272,18 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   eng:spdm(Senior Product Design Manager)-->eng:dpd(Director of Product Design);
   eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
 
-  eng:uxrc(UX Research Coordinator)-->eng:uxr(UX Researcher);
-  eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
   eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
 
   eng:suxr(Senior UX Researcher)-->eng:muxr(Manager of UX Research);
   eng:muxr(Manager of UX Research)-->eng:smuxr(Senior Manager of UX Research);
   eng:smuxr(Senior Manager of UX Research)-->eng:duxr(Director of UX Research);
   eng:duxr(Director of UX Research)-->eng:vpux(VP of User Experience);
-
-  eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
-
+  
   eng:stw(Senior Technical Writer)-->eng:sttw(Staff Technical Writer);
-
   eng:stw(Senior Technical Writer)-->eng:mtw(Technical Writing Manager);
   eng:mtw(Technical Writing Manager)-->eng:stwm(Senior Technical Writing Manager);
   eng:stwm(Senior Technical Writing Manager)-->eng:dtw(Director of Technical Writing);
+end
 
   click eng:pd "/job-families/engineering/product-designer/";
   click eng:spd "/job-families/engineering/product-designer/";
@@ -288,35 +312,45 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 ```mermaid
   graph LR;
 
+  subgraph Merit Based
   %% Backend Engineers
-  eng:abe(Associate Backend Engineer)-->eng:be(Senior Backend Engineer);
-  eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
-  eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
-  eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
-  eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
-
+    eng:abe(Associate Backend Engineer)-->eng:be(Senior Backend Engineer);
+    eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
   %% Site Reliability Engineer
-  eng:asre(Associate Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
-  eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
-  eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
-  eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:asre(Associate Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
+    eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
+  %% Database Reliability Engineer track
+    eng:adbre(Associate Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
+    eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
+  %% Infrastructure Analyst
+    eng:ia(Infrastructure Analyst)
+  end
+
+subgraph Merit Based
+  %% Backend Engineers
+    eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
+    eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
+  
+  %% Site Reliability Engineer
+    eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
+    eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
 
   %% Database Reliability Engineer track
-  eng:adbre(Associate Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
-  eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
-  eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
-  eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
+    eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
 
-  %% Management
-  eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
-  eng:srsre(Senior Site Reliability Engineer)-->eng:em(Engineering Manager);
-  eng:srdbre(Senior Database Reliability Engineer)-->eng:em(Engineering Manager);
-  eng:em(Engineering Manager)-->eng:sem(Senior Engineering Manager);
-  eng:sem(Senior Engineering Manager)-->eng:di(Director of Infrastructure);
-  eng:di(Director of Infrastructure)-->eng:vpi(VP of Infrastructure);
+    %% Management
+    eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
+    eng:srsre(Senior Site Reliability Engineer)-->eng:em(Engineering Manager);
+    eng:srdbre(Senior Database Reliability Engineer)-->eng:em(Engineering Manager);
+    eng:em(Engineering Manager)-->eng:sem(Senior Engineering Manager);
+    eng:sem(Senior Engineering Manager)-->eng:di(Director of Infrastructure);
+    eng:di(Director of Infrastructure)-->eng:vpi(VP of Infrastructure);
 
-  %% Infrastructure Analyst
-  eng:ia(Infrastructure Analyst)-->eng:vpi(VP of Infrastructure);
+    %% Infrastructure Analyst
+    eng:ia(Infrastructure Analyst)-->eng:vpi(VP of Infrastructure);
+  end
 
   %% Backend engineer
   click eng:abe "/job-families/engineering/infrastructure/backend-engineer/";
