@@ -35,7 +35,7 @@ Check the most up to date information with regards to our [Annual Compensation R
 
 ### Scenarios (situations and reactions)
 
-**4 Situations:**
+**Situations:**
 
 1. **Receiving an increase:**  A team member is receiving an adjustment based on COLA AND/OR location factor AND/OR benchmark changes AND/OR Discretionary:
     * Sample Script:
