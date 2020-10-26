@@ -63,10 +63,10 @@ Currently available courses include the following:
 
 #### Continuous Integration (CI)
 
-- Access the learning path by going to [Google Classroom](https://classroom.google.com/) (internal only). At the top of that page, click the "+" icon and then enter Class code "4oy74tz" to join the class.
+- Access the [Continuous Integration Customer Use Case learning path](https://classroom.google.com/c/ODA3MDM2NDkzODFa?cjc=4oy74tz) in Google Classroom (internal only)
 - Just want to take the knowledge check quiz? [Click here](https://forms.gle/SYcjEptqKyfohUHx7). 
 
 #### DevSecOps
 
-- Access the learning path by going to [Google Classroom](https://classroom.google.com/) (internal only). At the top of that page, click the "+" icon and then enter Class code "TBD" to join the class.
-- Just want to take the knowledge check quiz? [Click here](TBD). 
+- Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
+- Just want to take the knowledge check quiz? [Click here](TBD) (coming soon).
