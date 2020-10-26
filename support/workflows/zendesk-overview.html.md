@@ -134,7 +134,6 @@ A ticket form is a set of predefined ticket fields for a specific support reques
 - License Renewals and Upgrades
 - Accounts Receivable/Refunds
 - Security Issue
-- GitLab Hosted (GitHost.io)
 - Other Request
 - GitLab Community Edition (CE) - *Agent only*
 
