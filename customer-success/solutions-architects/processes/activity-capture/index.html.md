@@ -140,7 +140,7 @@ If a contact you'd like to associate your activity updates with does not yet exi
 Email communication with customers can be tracked in Salesforce within the account's activity history. There are two options to track this activity:
 
 1. bcc your "email to Salesforce address". Instructions to obtain this address are found this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
-2. Download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail)
+2. Download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails.
 
 ### Frequently Asked Questions
 
