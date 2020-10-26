@@ -354,7 +354,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Arina Voytenko | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-North Germany** | Bastian van der Stel | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-South Germany** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
