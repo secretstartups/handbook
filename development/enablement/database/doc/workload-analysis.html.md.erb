@@ -56,7 +56,42 @@ Going forward and with %13.6, we are going to improve this feature by adding a [
 2. [Database bloat dashboard](https://dashboards.gitlab.net/d/000000224/postgresql-bloat?orgId=1&refresh=5m)
 3. [Index bloat study (2019)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/database/postgres/bloat/#index-analysis)
 
-### High frequency top-k query analysis based on pg_stat_statements
+### High resolution top-k query analysis based on pg_stat_statements
+
+In order to understand database workload in a good amount of detail, one can use tools like pgBadger to produce insightful reports. This analysis is based on the postgres log output and typically has two limitations:
+
+1. Only covers a part of the workload: Postgres is configured to only log slow queries (`log_min_duration_statement = 1s` on GitLab.com, so only >=1s runtime gets logged), faster queries are not part of the analysis but may contribute significantly to overall workload
+2. Aggregates across the full time span: Timings and other metrics are typically measured and aggregated across the full timespan of the given log. This allows to understand the average workload: For example, we know what the most time consuming query was across the observation time (potentially days). This works well for rather homogeneous workloads, but falls short with rather spiky workloads - effectively hiding less frequent, but impactful queries.
+
+As an example, let's consider an hourly cronjob that performs very expensive queries for a few minutes. It reads a lot of data from disk, invalidates most caches and causes high CPU. However, seeing those statistics aggregated across the whole day effectively hides this - not unlikely, other, more frequent queries dominate the statistics. What makes things worse here, those higher frequency queries are often less easily optimized.
+
+How do we look at database workload? Let's say, we are concerned with the primary database instance and its workload. We may want to understand in more detail which queries retrieves most records and which ones read the most data from disk (as an example).
+
+With `pg_stat_statements`, this information is readily available on a per-query basis for most queries ever executed on the database (there is a configurable threshold, currently we track `pg_stat_statements.max = 5,000` queries at most). This means the approach has much more detailed insight into the actual workload than a log-based approach, effectively addressing concern (1) from above.
+
+##### High resolution top-k approach
+
+This approach deals with concern (2): It provides a way to keep track of any queries that were considered "offending", even if only for a very short period of time (think 30 seconds).
+
+Let's introduce a couple things first and then outline how the analysis works.
+
+*Snapshot and snapshot frequency*: The approach is based on taking snapshots of `pg_stat_statements` at high frequency, e.g. at a snapshot interval of 30 seconds.
+
+*Time frame and differential*: The time between two consecutive snapshots provides opportunity to calculate the differential between those snapshots regarding available metrics. For example, we understand the number of rows a certain query returned overall during this time.
+
+*Offending query by a metric `x`*: A query is considered offending a particular metric `x` in a particular time frame, if it is among the top-k queries by `x`. As an example, we might look at the TOP10 queries by total duration during a certain time frame - those are considered offending.
+
+*Offending strike count for a query*: We keep track of the overall number of times a query shows up as offending and call this the *strike count*.
+
+###### Methodology
+
+The analysis performs a few steps:
+
+1. Gather snapshots of `pg_stat_statements` from a particular database host across an extended period of time with the desired frequency.
+2. For each time frame, calculate offending queries for each relevant metric and keep track of those offenses.
+3. For each relevant metric, provide a list of all queries that we offending (`strike count > 0`) during the total time.
+
+
 
 
 
