@@ -164,7 +164,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review our [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already. 
 - Review the [Performance/Potential Matrix Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit), which delves into definitions for each box. 
 - Determine the appropriate box for each of your team members
-- Add notes for each of your team members to the agenda 
+- Add notes for each of your team members to the agenda, at least 12 hours before the session 
     - An example of notes could include:
         - 2-3 strengths
         - 2-3 improvement areas
@@ -180,7 +180,6 @@ The calibration session is one of the most important pieces of the Performance/P
 * Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback, performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Please note that when reviewing 360 data for the Q4 talent assessment, it's important to take into account areas in which the team member has improved. Two quarters is a fairly significant amount of time and team members have (hopefully) take action on improvement areas during this period, which should be reflected in the assessment. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
 * Leaders should feel comfortable highlighting team members in other functions
 * **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
-
 
 ## Matrix Tool
 
