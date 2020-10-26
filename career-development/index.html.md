@@ -160,7 +160,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  subgraph Opportunity and Fit
+  subgraph Based on Merit & Company Need
   eng:stf & eng:fem
   eng:stb & eng:bem;
   
@@ -182,7 +182,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   subgraph Merit Based
     sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
   end
-  subgraph Opportunity and Fit
+  subgraph Based on Merit & Company Need
     sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
     sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
     sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
@@ -202,10 +202,10 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   subgraph Merit Based
     qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
     qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
-    qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity); 
+    qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   end
 
-  subgraph Opportunity and Fit
+  subgraph Based on Merit & Company Need
     qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
     qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
 
@@ -237,7 +237,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
   end
 
-  subgraph Oppportunity and Fit
+  subgraph Based on Merit & Company Need
     supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
     supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
 
@@ -264,7 +264,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
   end
 
-subgraph Opportunity and Fit
+subgraph Based on Merit & Company Need
   eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
 
   eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
@@ -326,7 +326,7 @@ end
     eng:ia(Infrastructure Analyst)
   end
 
-subgraph Merit Based
+subgraph Based on Merit & Company Need
   %% Backend Engineers
     eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
     eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
