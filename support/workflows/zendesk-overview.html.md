@@ -50,7 +50,7 @@ All apps can be found on the left-hand nav bar when you view a ticket. The apps 
 
 ## Organizations
 
-[Organizations](handbook/support/workflows/zendesk_organizations_and_users_overview.html) are collections of your users (both customers and Zendesk agents). Users can belong to multiple organizations, up to 300. Organizations help us keep track of what our customers are requesting. We can also enable users within an organization to see each other’s tickets.
+[Organizations](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) are collections of your users (both customers and Zendesk agents). Users can belong to multiple organizations, up to 300. Organizations help us keep track of what our customers are requesting. We can also enable users within an organization to see each other’s tickets.
 
 ## Macros
 
