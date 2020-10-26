@@ -493,9 +493,9 @@ Not every problem should lead to a new process to prevent them. Additional proce
 {:.no_toc}
 We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](/handbook/values/#iteration), cut the scope.
 
-##### Light weight and big brakes
+##### Embrace Change
 {:.no_toc}
-American-style msucle cars have big motors and go fast in a straight line, but the startup road is always curvy. In contrast, European-style sports cars have two additional attributes to go fast: they are light weight, and they have powerful brakes. The latter is important because you can spend more time at your top speed on a straight away if you can brake later into the corner. So groups at GitLab should be no larger than they need to be successful, with a 1-person group being the most efficient. And they should be willing to stop their current direction without delay to pursue new direction (for example re-organize, or change prioritization).
+Adoption of features, user requirements, and the competitive landscape change frequently and rapidly. The most successful companies adapt their roadmap and their organization quickly to keep pace. One of the things that makes the challenging is the impact on our team. People may need to change teams, subject matter, or even who manages them. This can rightly feel disruptive. If we coach ourselves to embrace the positive aspects of change, such as increased opportunity and new things to learn, we can move faster as a company and increase our odds of success.
 
 ##### Efficiency Competency
 {:#efficiency-competency .no_toc}
