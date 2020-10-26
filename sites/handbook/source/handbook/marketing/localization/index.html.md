@@ -66,7 +66,7 @@ Our current localization capabilities are limited due to resources and bandwidth
 | Vendor | Capabilities | Access |
 | ------ | ------ | ------ |
 | Rev | English language transcriptions, foreign language subtitles| Open an access request issue |
-| [Rush Translate](marketing/marketing-operations/rushtranslate/) | Text-based document translation | Contact Senior Manager, Global Content |
+| [Smartling](/handbook/marketing/marketing-operations/smartling) | Localization platform | Contact Senior Manager, Global Content |
 
 ### Translating content for campaigns 
 
