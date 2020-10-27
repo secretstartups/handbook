@@ -15,7 +15,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
-   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
+   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://youtu.be/-_CDU6NFw7U).
    - GitLab customers buy GitLab for 3 primary reasons: 1) Increase Operational Efficiencies, 2) Deliver Better Products Faster, and 3) Reduce Security and Compliance Risk. Check out the [GitLab Customer Deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) and [watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
 *  **Company Infomercial (Material - Video, 5 Minutes)**
    - Check out our [company infomercial](https://youtu.be/gzYTZhJlHoI)!
