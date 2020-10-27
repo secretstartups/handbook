@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab talent ambassador"
+description: "Keeping with our mission that everyone can contribute, we want all GitLab team members to feel encouraged and equipped to take part in helping us find great talent and act as ambassadors for the company and our talent brand."
 ---
 
 {::options parse_block_html="true" /}
