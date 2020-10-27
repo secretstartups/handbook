@@ -132,7 +132,7 @@ Health score criteria is either manually or automatically applied to determine t
 
 When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the triage CTA:
 
-- [Red](#red): Gainsight will automatically create a triage CTA on the account the next day.
+- [Red](#red): The TAM will create a triage CTA
 - [Yellow](#yellow): the TAM will determine whether the CTA should be created, based on the [severity of the risk](#yellow).
 
 To manually create the triage CTA, perform the following steps:
@@ -141,7 +141,7 @@ To manually create the triage CTA, perform the following steps:
 - Create a new CTA, and select "Risk" as the type.
 - Choose the triage playbook.
 
-Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red or Yellow` the next day.
+Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red` the next day if a Triage CTA and/or playbook has not yet been created.
 
 ### GitLab Account Triage Project
 
