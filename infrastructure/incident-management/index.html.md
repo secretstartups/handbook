@@ -189,6 +189,11 @@ Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archive
 | Tasks: page the on-call engineer | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging if there is significant disruption to the site.                   |
 | Tasks: page on-call managers     | You can page the incident and/or communications managers on-call.                                                                                                           |
 
+As well as opening a GitLab incident issue, a dedicated incident Slack channel
+will be opened. The "woodhouse" bot will post links to all of these resources in
+the main `#incident-management` channel. Please join the channel to discuss the
+incident with the on-call engineer.
+
 #### Report an Incident via Email
 
 Email [gitlab-production-eoc@gitlab.pagerduty.com](mailto:gitlab-production-eoc@gitlab.pagerduty.com). This will immediately page the Engineer On Call.
