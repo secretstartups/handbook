@@ -106,6 +106,16 @@ The process is comprised of four key stages:
         1. Data
         1. Trademarks
         1. Social media accounts
+    1. Security Reports/Documentation
+        1. External Security Reports 
+            - SOC 2 
+            - ISO 27001 Certification
+            - CAIQ
+            - External Penetration Testing Report
+        1. Internal Security Documentation
+            - Risk Management Program Documentation
+            - Risk Register and status of risks
+            - Resutls of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
     1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
     1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Dir. Engineering, together with the respective Dir. Product will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code.
@@ -114,6 +124,8 @@ The process is comprised of four key stages:
 1. Compensation review to identify any gaps and possible flags led by the HR Business Partner
 1. Optional interviews for the key technical employees - to increase the success rate of the deal post-Term Sheet, we recommend conducting interviews for the key technical employees identified before signing the Term Sheet. This will greatly reduce the likelihood of personnel gaps becoming a blocker during the Confirmatory Due Diligence stage. The interviews will include a technical interview and a manager interview as detailed in the Confirmatory Due Diligence stage below.
     1. The key technical employees are those identified as critical to the success of the acquisition, the proposed integration plan and the future of the team at GitLab post integration.
+1. An Application Security Review performed by GitLab's Application Security Team
+    1. Identifies application vulnerabilities that need to be considered by GitLab by applying a threat modeling approach to conduct the review
 1. Product integration strategy: the GitLab product and engineering acquisition champions will formalize the integration strategy with a focus on feature sets/functionalities:
     1. What we keep as-is
     1. What we reimplement in GitLab
@@ -199,6 +211,7 @@ An acquisition team will consist of the following GitLab functional team members
 1. HR Business Partner
 1. People Ops Business Partner
 1. Recruiting manager
+1. VP of Security
 
 To assign the product manager, after the product call or as soon as it's clear which product category the features will be implemented into, contact the category product director for the assignment.
 
@@ -208,12 +221,13 @@ To assign the engineering team member, contact the engineering manager of the re
 
 | Function                    | Role                                                                                                                                                               | Deliverables                                                                         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Corporate Development       | 1. Main POC for acquired team 1. Identify potential areas for integration 1. Create case for acquisition and customer transition story 1. Integration              | 1. Business case with deal structure                                                 |
-| Product                     | 1. Outline current product features to be implemented into GitLab 1. Outline potential future functionalities to be built into GitLab after the integration period | 1. Integration strategy                                                              |
+| Corporate Development       | 1. Main POC for acquired team <br>2. Identify potential areas for integration 1. Create case for acquisition and customer transition story <br>3. Integration              | 1. Business case with deal structure                                                 |
+| Product                     | 1. Outline current product features to be implemented into GitLab <br>2. Outline potential future functionalities to be built into GitLab after the integration period | 1. Integration strategy                                                              |
 | Engineering                 | 1. Technical diligence                                                                                                                                             | 1. Code quality review 1. Integration strategy validation - feasibility and timeline |
-| Finance                     | 1. Lead financial diligence 1. Validate business case and deal structure                                                                                           |                                                                                      |
-| Legal                       | 1. Review entity, assets and existing agreements 1. Evaluate sunset and customer transition path                                                                   | 1. Term Sheet 1. Acquisition agreement                                               |
-| People Ops Business Partner | 1. Lead the compensation review 1. Lead the interview process during the early and due diligence stages to completion                                              |                                                                                      |
+| Finance                     | 1. Lead financial diligence <br>2. Validate business case and deal structure                                                                                           |                                                                                      |
+| Legal                       | 1. Review entity, assets and existing agreements <br>2. Evaluate sunset and customer transition path                                                                   | 1. Term Sheet 1. Acquisition agreement                                               |
+| People Ops Business Partner | 1. Lead the compensation review <br>2. Lead the interview process during the early and due diligence stages to completion                                              |                                                                                      |
+|Security|1. Identify and summarize Security Risk Posture as part of Early Diligence <br>2. Perform Application Security review|1. Security Risk summary detailing the security risk impacts to GitLab|
 
 ## Acquisitions Are Confidential
 
