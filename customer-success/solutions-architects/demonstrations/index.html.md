@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Demonstrations
+description: "Solutions Architects are occasionally called on at a moments notice to give a demo or join a call to show a prospect or customer specific GitLab functionality"
 ---
 
 ## On this page
@@ -18,7 +19,7 @@ title: Demonstrations
 
 The [Demo Systems Handbook page](/handbook/customer-success/demo-systems) provides an overview of the demo system infrastructure used for demonstrating GitLab features, value propositions, and workflows.
 
-See the [Environments sub-page][/handbook/customer-success-demo-systems/environments] for specific details on how to access the environments for use in your demos.
+See the [Environments sub-page](/handbook/customer-success-demo-systems/environments) for specific details on how to access the environments for use in your demos.
 
 ## Demo Readiness
 
