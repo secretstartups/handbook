@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing Metrics"
+description: "We use Sisense to view and analyze our marketing metrics from multiple data sources."
 ---
 
 ## On this page
@@ -8,6 +9,10 @@ title: "Marketing Metrics"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Marketing Metrics
+
+We use Sisense to view and analyze our marketing metrics from multiple data sources. 
 
 ## Marketing Sisense Dashboards
 In [Sisense](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) there are mutlipe marketing metric dashboards. You can quickly find the current source of truth dashboards by referencing the `Marketing` topic within Sisense. There are 3 topics that marketing leverages:   
