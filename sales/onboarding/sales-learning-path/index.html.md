@@ -326,7 +326,6 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - [Using SalesForce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
    - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
    - [Customer Onboarding Custom Object Training Video](https://drive.google.com/file/d/1ZGezQKYmn0IyAIbh2ytz_GcCW2n431be/view)
-   - [SalesForce POV Slides](https://docs.google.com/presentation/d/1SBQ_FbCsPfycTxdtoracQTAh7WOpGPPAqptXfRiZdvc/edit#slide=id.g29a70c6c35_0_68)
 *  **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
    -The [Rubric for the call](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
