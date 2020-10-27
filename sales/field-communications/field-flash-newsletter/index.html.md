@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Flash Newsletter"
+description: "Field Flash is a monthly newsletter that recaps all important Sales/CS-related information from the month and highlights important upcoming information"
 ---
 
 ## On this page
