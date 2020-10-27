@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Requisitions and Vacancies"
+description: "Job families and vacancies are different things and can't be used interchangeably. Hopefully this information will help to clarify the differences."
 ---
 
 ## On this page
