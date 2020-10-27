@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Sales QBRs"
+description: "Overview of GitLab's Quarterly Business Review process"
 ---
 
 ## Quarterly Business Review (QBR) Overview

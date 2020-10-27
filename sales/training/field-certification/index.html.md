@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Certification Program"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a role based certification program that includes functional, soft skills, and technical training for field team members"
 ---
 
 ## Field Certification Program 

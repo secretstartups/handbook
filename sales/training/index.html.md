@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Training"
+description: "GitLab's sales learning framework and sales training resources"
 ---
 
 ## On this page

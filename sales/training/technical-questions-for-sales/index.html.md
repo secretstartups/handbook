@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Questions for Sales"
+description: "To improve sales efficiency, the GitLab Solution Architect team identified and answered some of the most common technical questions that GitLab sales team members should be able to answer"
 ---
 
 ## On this page
@@ -10,7 +11,7 @@ title: "Technical Questions for Sales"
 {:toc .hidden-md .hidden-lg}
 
 ## **Introduction**
-To improve sales efficiency and reduce the dependence of GitLab sales team members on Solution Architects (SAs), the SA team created the below table outlining some of the most common technical questions they believe GitLab sales team members should be able to answer. The following questions have been organized by [DevOps lifecycle stage](/stages-devops-lifecycle/).
+To improve sales efficiency and reduce the dependence of GitLab sales team members on Solution Architects (SAs), the SA team identified and answered the most common technical questions they believe GitLab sales team members should be able to answer. The following questions have been organized by [DevOps lifecycle stage](/stages-devops-lifecycle/).
 
 ### Manage
 
