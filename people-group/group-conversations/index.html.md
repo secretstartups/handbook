@@ -13,7 +13,7 @@ title: "Group Conversations"
 
 Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule). 
 
-The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule) as **Available**.
+The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -254,7 +254,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Thur | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Two  | Mon  | Available |   |
-| Two  | Wed  | Available |   |
+| Two  | Tues | Available |   |
 | Two  | Wed  | Available |   |
 | Two  | Thur | Available |   |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
