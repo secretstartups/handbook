@@ -38,9 +38,9 @@ Only audit once team members have started and added their birthdate under the pe
 * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by candidate experience specialist. 
 * If it is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on slack and ask for the date change confirmation to be uploaded.
 * Cost Center, Department & Division: Should be the same as the manager’s.
-* Payroll Type
+* [Payroll Type](https://about.gitlab.com/handbook/contracts/)
 * Compensation:
-* Fill out the onboarding calculator
+* Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1khOeUjkl6l6d_3TaLCo8qn_lnb3AbUq-1rspmNRLzcs/edit?ts=5d7edfee#gid=1910573508)
 * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
 * For Non-Sales, “On Target Earnings” should say “No”, no need to add date
 * Effective Date should be the hire date.
@@ -48,19 +48,19 @@ Only audit once team members have started and added their birthdate under the pe
 * Equity: Audit Shares field against contract or Greenhouse details.
 * Job Information: cross-check against contract. 
 * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
-* Job Codes: audit job title and job code against this list
+* Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1j7A0GmPffyICjBgKAY1RwcB2lx4Rx_uswFJA7Oc7KLM/edit#gid=1977487429)
 
 
 3. Audit Locality & Region
 * Personal tab > Audit Locality to match the city: 
 * Check if the locality is on Greenhouse (Candidate City + URL for compensation calculator). If not:
-* Check distance of city to locality on Google Maps. Distance should not be more than 1 hour and 45 minutes during rush hour (8AM). Change the time to 8:00AM
+* Check [distance of city to locality on Google Maps](https://www.google.com/maps/dir/Smyrna,+GA/Atlanta/@33.8222471,-84.5194938,12z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x88f50c3d75fa13e7:0x996104eec4f504a3!2m2!1d-84.5143761!2d33.8839926!1m5!1m1!1s0x88f5045d6993098d:0x66fede2f990b630b!2m2!1d-84.3879824!2d33.7489954!2m3!6e0!7e2!8j1571299200!3e0). Distance should not be more than 1 hour and 45 minutes during rush hour (8AM). Change the time to 8:00AM
 * Audit Region
 
 4. Sales Geo Differential
 * Personal tab > Sales Geo Differential
 * For non-sales : n/a Comp Calc
-* For sales: pick the region (it will be for any of the titles under the “Not In Comp Calc” section of the comp calculator OR the team member will have On Target Earnings)
+* For sales: pick the region (it will be for any of the titles under the “Not In Comp Calc” section of the [comp calculator](https://docs.google.com/spreadsheets/d/1NS_yTVXQ87UnXaLYvnOk9_4D91jg1pMFRpFy4fgpuSg/edit?ts=5d7ee2b2#gid=1417734479) OR the team member will have On Target Earnings)
 
 5. Payroll Change Report
 Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
@@ -80,7 +80,7 @@ Personal tab > make sure “National Identification Number Type” and “Nation
 * I-9 Field
 Personal tab > Once the SSN has been added, tick the I-9 Processed checkbox
 * Benefit Group
-Check team member’s state (under Personal tab) against the Benefit Group Cheat Sheet.
+Check team member’s state (under Personal tab) against the [Benefit Group Cheat Sheet](https://docs.google.com/spreadsheets/d/1QU2rsFrrKSRQIrzWu2eqylK0HrNvt9FUhc_S5VQAVJ4/edit?ts=5d922f86#gid=0).
 * Ready to Add to ADP
 Comment on the onboarding issue, tagging US payroll Specialist to add to ADP.
 * Update GitLab and Turn off Notifications
