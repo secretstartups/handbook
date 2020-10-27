@@ -125,7 +125,8 @@ There are three layers of content in a presentation:
 
 We try not to cancel a GC. 
 We prefer to have half-prepared GCs over delaying them, but occassionally there may be a last-minute cancellation. 
-If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the e-group to host an AMA.
+If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the E-Group to host an AMA. 
+Last-minute AMAs should be called Pop-up AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a last-minute GC cancellation.  
 
 #### Additional Consideration for Functional Presentations
 
