@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Cookiebot"
+description: "Cookiebot (owned by Cybot) is a cookie and online tracking consent solution we use to ensure compliance with GDPR, CCPA, and related cookie laws."
 ---
 
 ## On this page
