@@ -174,7 +174,7 @@ open an issue to the
 
 See: [Looking up customer account details in customer.gitlab.com](/handbook/support/workflows/looking_up_customer_account_details.html#within-customersgitlabcom)
 
-### Finding the existing license in [LicenseDot](http://license.gitlab.com) 
+### Finding the existing license in LicenseDot
 
 All self-managed licenses including trial ones should be available in [LicenseDot](http://license.gitlab.com) portal.
 You should be able to access it with your dev.gitlab.org account. If a customer provides you with their license ID,
