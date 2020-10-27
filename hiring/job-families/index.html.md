@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Job Families
+description: "Job families are organized by function at GitLab and we use them to inform candidates of roles and current team members to evaluate their performance."
 ---
 
 ## On this page
