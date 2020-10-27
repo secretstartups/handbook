@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketo"
+description: "Marketo is utilized as our marketing automation platform for email marketing, lead management, and revenue attribution."
 ---
 
 ## On this page
@@ -8,6 +9,10 @@ title: "Marketo"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+### About Marketo
+
+Marketo is utilized as our marketing automation platform for email marketing, lead management, and revenue attribution. 
 
 ### Marketo <> Salesforce.com Connection
 You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
