@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process - Acquisitions"
+description: "An outline of the recruiting process for the acquition hires."  
 ---
 
 ## On this page
