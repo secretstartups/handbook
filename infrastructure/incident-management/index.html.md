@@ -182,11 +182,12 @@ Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archive
 
 ![Incident Declaration Slack window](incident-declare-slack.png)<br/>*Incident Declaration Slack window*
 
-| Field    | Description                                                                                                                                                                 |
-| ---      | ---                                                                                                                                                                         |
-| Title    | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD                                                         |
-| Severity | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
-| Tasks    | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging.                   |
+| Field                            | Description                                                                                                                                                                 |
+| ---                              | ---                                                                                                                                                                         |
+| Title                            | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD                                                         |
+| Severity                         | If unsure about the severity to choose, but you are seeing a large amount of customer impact, please select S1. More details here: [Incident Severity](#incident-severity). |
+| Tasks: page the on-call engineer | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging if there is significant disruption to the site.                   |
+| Tasks: page on-call managers     | You can page the incident and/or communications managers on-call.                                                                                                           |
 
 #### Report an Incident via Email
 
