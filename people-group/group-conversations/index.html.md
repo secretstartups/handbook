@@ -11,9 +11,9 @@ title: "Group Conversations"
 
 ## Introduction
 
-Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). 
+Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule). 
 
-The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a GC. These are listed in the [Schedule Table](/handbook/people-group/group-conversations/#schedule) as 'available'.
+The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule) as **Available**.
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -218,8 +218,6 @@ Additional links which may be useful when preparing to moderate a call include:
 
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
-
-The schedule with directly responsible individuals (DRI) is as follows through the end of FY21 Q3:
 
 | Group Conversation | DRI |
 |---|---|
