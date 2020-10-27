@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sourcing"
-description: "Sourcing has proved itself to be a great channel for attracting the best talent."
+description: "Sourcing has proved itself to be a great channel for attracting the best talent, this page details how we source talent at GitLab."
 ---
 
 ## On this page
