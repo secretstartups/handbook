@@ -258,7 +258,7 @@ We hope to increase the scope of our communication as we iterate on the the Perf
 ### Do Communicate
 Managers are *encouraged* to communicate the following directly with each individual on their team:
 
-1. Discussion points from calibration sessions 
+1. Summarized feedback and themes from calibration sessions that is specific to that team member
 1. "Performance" axis results (AKA: The [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) as this impacts compensation. _Please refrain from communicating Performance axis final placement until apprvoed through the e-group level._
 
 We recommend communicating the points above directly with team members because:
