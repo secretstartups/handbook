@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process Framework for Creating REQs"
+description: "The Recruiting Process Framework for Creating REQs provides guidance on how to open a new requisition for the recruiting team."
 ---
 
 ## On this page
