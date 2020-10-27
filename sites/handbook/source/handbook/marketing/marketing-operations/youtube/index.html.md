@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "YouTube uses and access"
+description: "We use YouTube as our single source of truth for video content including live streaming group conversations, marketing videos, demos, and more."
 ---
 
 ## On this page
