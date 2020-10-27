@@ -105,6 +105,8 @@ Sometimes it can be tricky to identify a good issue for problem validation. The 
 - Understanding if a Job to be Done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
 - Targeting a new user or buyer persona
 
+When validating potential new features, in addition to seeking input from external customers, it's important to gather feedback from internal customers such as the [stable counterparts](handbook/leadership/#stable-counterparts) listed on the Product Categories page. Internal customers are a great resource to help quickly validate a problem and brainstorm possible solutions. Engaging internal customers early on in the product development flow ensures the feature solves a real problem, thereby increasing the likelihood of internal teams incorporating the feature within their own workflows as part of [Dogfooding](handbook/product/product-processes/#dogfood-everything), which leads to [better results for our customers](handbook/values/#customer-results). If this step is skipped, it may be more difficult to obtain useful feedback from internal customers after the feature has reached a certain maturity level.
+
 Some items will skip the problem validation phase. In these cases, the problem is well understood and has been validated in other ways. When skipping problem validation, ensure the issue description is clear with the rationale and sensing mechanisms used to skip the problem validation phase.
 
 To queue an item in your validation backlog:
