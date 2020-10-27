@@ -126,7 +126,6 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
 | Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
-| Public Sector | **State and Local (SLED West)** | TBH | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
