@@ -28,14 +28,16 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Prefers “appropriate length” conversations, so short meetings are okay on the calendar. If a topic only needs 10 mins, book 10 mins instead of 30, etc.
 * Schedule two 30 minute blocks a day for work time - title “DNB / workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily workflow is still achieved. 
 * Schedule one 60 minute block a day for for lunch - title “DNB / lunch”. This is time for a lunch break, follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily lunch break is still achieved.  
-* If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
-* All meeting requests should include an agenda or some sort of reference material
-* During Zoom meetings please do not post information or questions in the chat, add it to the meeting doc or in slack
-* Priority to candidate interviews, E-Group, GitLab BoD, Investor Relations and 1:1's
-* When in-person meetings are being requested, please check with the CFO prior to scheduling the meeting
-* For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
-* EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
-* A calendar key is available for viewing in the CFO's daily schedule
+* If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary.
+* Please do not @ Brian for scheduling questions or requests in Slack, please reach out his Sr. EBA.
+* Please do cc: @ Brian and his Sr. EBA with last minue scheduling changes in Slack.
+* All meeting requests should include an agenda or some sort of reference material.
+* During Zoom meetings please do not post information or questions in the chat, add it to the meeting doc or in slack.
+* Priority to candidate interviews, E-Group, GitLab BoD, Investor Relations and 1:1's.
+* When in-person meetings are being requested, please check with the CFO prior to scheduling the meeting.
+* For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP.
+* EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings.
+* A calendar key is available for viewing in the CFO's daily schedule.
 
 
 ## Scheduling for Stella Treas, Chief of Staff
