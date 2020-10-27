@@ -247,21 +247,4 @@ We understand you may have plans outside of your normal workspace while you're o
 
 [US Federal](/handbook/support/support-ops/processes/us-federal-zendesk.html) on-call support is provided 7 days a week between the hours of 1:00PM and 1:00AM UTC time.
 
-Currently, there are five Support Engineers working an on-call rotation consisting of 6 hour shifts, 7 days a week: one week on, two weeks off, one week on, one week off, alternating mornings and evenings.
-
-For example:
-
-| Week - Shift | Support Engineer |
-| ------------ | ---------------- |
-| 1 - AM | John |
-| 1 - PM | Nathan |
-| 2 - AM | Aric |
-| 2 - PM | Harish |
-| 3 - AM | Nathan |
-| 3 - PM | David |
-| 4 - AM | Harish |
-| 4 - PM | John |
-| 5 - AM | David |
-| 5 - PM | Aric |
-| 6 - AM | John |
-| 6 - PM | Nathan |
+There are six support engineers currently participating in the US federal on-call rotation. The current on-call schedule is split into two, 6 hour shifts, an AM and a PM shift. The AM shifts starts at 1:00PM UTC and runs until 7:00PM UTC. The PM shift starts at 7:00PM UTC and runs until 1:00AM UTC time. Support Engineers that are part of this schedule can expect to have two weeks off in between shifts, alternating between the AM and PM shifts. 
