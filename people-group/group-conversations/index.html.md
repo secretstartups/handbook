@@ -221,37 +221,26 @@ We usually do not have Group Conversations or Company calls between December 23r
 
 The schedule with directly responsible individuals (DRI) is as follows through the end of FY21 Q3:
 
-| Week | Day | Group Conversation | DRI |
-|---|---|---|---|
-| One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
-| One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
-| One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur | [Marketing](/handbook/marketing/)  | Todd Barr  |
-| One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
-| Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
-| Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
-| Two  | Thur | [Secure & Protect Section](/handbook/product/product-categories/#secure--protect-section)  | David DeSanto  |
-| Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
-| Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Three  | Wed  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
-| Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
-| Three | Fri | Do Not Schedule  | Do Not Schedule  |
-| Four  | Mon  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| Four  | Tue  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
-| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Four  | Thur  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
-| Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Five  | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
-| Five  | Wed  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
-| Five  | Thur  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Six  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
-| Six  | Tue  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
-| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
-| Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
-| Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
+| Group Conversation | DRI |
+|---|---|
+| [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
+| [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
+| [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
+| [Marketing](/handbook/marketing/)  | Todd Barr  |
+| [Support](/handbook/support/)  | Tom Cooney  |
+| [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| [Finance](/handbook/finance/)  | Brian Robins  |
+| [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
+| [General](/handbook/ceo/)  | Sid Sijbrandij   |
+| [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
+| [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| [Product](/handbook/product/)   | Scott Williamson  |
+| [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
+| [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
+| [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
+| [Meltano](/handbook/meltano/)  | Douwe Maan  |
+| [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
 
 In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations during this period. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. The schedule, with directly responsible individuals (DRI), is as follows starting FY21 Q4:
 
@@ -260,10 +249,10 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
 | One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
 | One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur | Available |  |
+| One  | Thur | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Product](/handbook/product/), [Growth Section](/handbook/product/product-categories/#growth-section), [Pricing](/handbook/ceo/pricing/)| Scott Williamson/Hila Qu/Xiaohe Li  |
-| Two  | Tue  | [Product Management](/handbook/product/gitlab-the-product)  | Anoop Dawar |
+| Two  | Mon  | Available |   |
+| Two  | Wed  | Available |   |
 | Two  | Wed  | Available |   |
 | Two  | Thur | Available |   |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
@@ -272,15 +261,15 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
-| Four  | Mon  | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
+| Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Four  | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Thur | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Five  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
+| Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
 | Five  | Tue  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
 | Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
-| Five  | Thur  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
+| Five  | Thur | [Meltano](/handbook/meltano/)  | Douwe Maan  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Six  | Mon  | [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
@@ -292,7 +281,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
-| Eight | Mon  | Available |   |
+| Eight | Mon  |  [Product](/handbook/product/) |Scott Williamson|
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
