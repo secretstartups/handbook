@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process - Hiring Manager Tasks"
+description: "This page is an overview of the processes the hiring manager is responsible for as a part of the requisition lifecycle." 
 ---
 
 ## On this page
