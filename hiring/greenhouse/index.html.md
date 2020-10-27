@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Greenhouse"
+description: "Greenhouse is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more."
 ---
 
 ## On this page
