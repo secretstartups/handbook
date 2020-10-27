@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Candidate Management Processes"
+description: "Provide guidance on managing candidates in Greenhouse."
 ---
 
 {::options parse_block_html="true" /}
