@@ -13,14 +13,6 @@ The GitLab Unfiltered blog is inspired by the spirit of [transparency](/handbook
 
 Any GitLab team member can publish to the GitLab Unfiltered blog, provided they follow the process below, the post is relevant to GitLab or your work at GitLab (i.e. don't treat it as your personal blog), is in keeping with our [values](/handbook/values), and would not cast GitLab in a negative light. If you're not sure if your topic is appropriate for GitLab Unfiltered, please share your issue or merge request in #content on Slack to get feedback. If any team member publishes a post that is unsuitable they may have their right to publish revoked.
 
-### Legal disclaimer
-
-DISCLAIMER: This blog is intended for user-generated content submitted by the GitLab team. The views and opinions represented in this blog are personal to the author of each respective blog post and do not represent the views or opinions of GitLab unless explicitly stated.
-All content provided on this blog is for informational purposes only. Neither GitLab nor any of the individual blog contributors ("Contributors") make any representations as to the accuracy or completeness of any information on this site. Neither GitLab nor any Contributors will be liable for any errors or omissions in this information or any losses, injuries, or damages from the display or use of this information.
-Comments are welcome, and in fact, encouraged. However, GitLab reserves the right to edit or delete any comments submitted to this blog without notice should GitLab determine them to i) be spam or questionable spam; ii) include profanity; iii) include language or concepts that could be deemed offensive, hate speech, credible threats, or direct attacks on an individual or group; or iv) are in any other way a violation of GitLab's Website Terms of Use. GitLab is not responsible for the content in comments.
-This policy is subject to change at any time.
-{: .alert .alert-info .note}
-
 ## Is my blog post right for Unfiltered?
 
 Corporate news, product announcements, or any post which requires promotion from official GitLab branded channels should be published on the main GitLab blog. The process for submitting these posts is outlined in the [blog handbook](/handbook/marketing/blog/#publishing-process).
@@ -46,6 +38,18 @@ D --> F[Unfiltered]
 - Product announcements: A breaking change, new integration, announcing a partnership
 
  If you're still not sure where your post should live, ask in #content on Slack!
+ 
+## Advantages of publishing on Unfiltered
+
+The main blog can be seen as more "official" whereas the Unfiltered blog is more like a peer-to-peer publishing platform.
+
+Unfiltered is not a consolation prize or the death knell for blog posts! Many Unfiltered posts get plenty of attention without being on the main blog or getting promotion on branded social channels. Some of these are then featured on the main blog, but some posts may be better suited for Unfiltered anyway, for example if the blog post topic is personal, not something that GitLab the company or product would talk about. In this case an Unfiltered post could come across as more authentic, as it hasn't gone through the official publishing process and therefore can be perceived as coming directly from the author, vs from GitLab itself.
+
+As mentioned above, you can publish to Unfiltered as often as you like, get your posts up much faster, and don't need to ensure that they align with our content strategy.
+
+You can learn more about how the Editorial team reviews blog post pitches and considers [where to publish different types of stories in the Editorial team handbook](/handbook/marketing/growth-marketing/content/editorial-team/#what-to-look-for).
+
+If you are interested in hearing about how Unfiltered posts perform, we share results of Unfiltered blog posts in the Growth Marketing Team Weekly Recap & Demo Day on every last Thursday of the month. The recording is shared after the call, or you can reach out in #growth-mktg if you'd like to join live.
 
 ## Process
 
@@ -127,3 +131,11 @@ Your reviewer may be able to merge your post, but if they don't have maintainer 
 ### Featured posts
 
 The Editorial and PR teams will [monitor Unfiltered for blog posts that we may choose to polish and feature on the main blog](/handbook/marketing/growth-marketing/content/editorial-team/#featuring-unfiltered-posts) or develop into contributed articles for other publications. If you publish an Unfiltered post that you think could be a good fit for either of these, feel free to share it in #content.
+
+### Legal disclaimer
+
+DISCLAIMER: This blog is intended for user-generated content submitted by the GitLab team. The views and opinions represented in this blog are personal to the author of each respective blog post and do not represent the views or opinions of GitLab unless explicitly stated.
+All content provided on this blog is for informational purposes only. Neither GitLab nor any of the individual blog contributors ("Contributors") make any representations as to the accuracy or completeness of any information on this site. Neither GitLab nor any Contributors will be liable for any errors or omissions in this information or any losses, injuries, or damages from the display or use of this information.
+Comments are welcome, and in fact, encouraged. However, GitLab reserves the right to edit or delete any comments submitted to this blog without notice should GitLab determine them to i) be spam or questionable spam; ii) include profanity; iii) include language or concepts that could be deemed offensive, hate speech, credible threats, or direct attacks on an individual or group; or iv) are in any other way a violation of GitLab's Website Terms of Use. GitLab is not responsible for the content in comments.
+This policy is subject to change at any time.
+{: .alert .alert-info .note}
