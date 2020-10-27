@@ -9,7 +9,7 @@ title: "Triage Operations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Any GitLab team-member can triage issues. Keeping the number of un-triaged issues low is essential for maintainability, and is our collective responsibility.
+Any GitLab team-member can triage issues. Keeping the number of [un-triaged issues](/handbook/engineering/quality/issue-triage/#triage-levels) low is essential for maintainability, and is our collective responsibility.
 
 We have implemented automation and tooling to handle this at scale and distribute the load to each team or group.
 

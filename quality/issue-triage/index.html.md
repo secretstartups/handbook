@@ -89,10 +89,6 @@ This indicates the expected timeline & urgency which is used to measure our SLO 
 | `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
 | `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
-### UX debt
-
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
-
 ### Availability
 
 Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`. For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
@@ -105,7 +101,6 @@ The presence of these severity labels modifies the standard severity labels(`~se
 
 If, when selecting a severity for an availability issue, the availabilty impact is unclear or meets aspects of more than one severity in the table (example: the issue only impacts 5% of our users, but no workaround is available), select the highest severity applicable to the issue.
 
-
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
 | -------- | ------------------- | ------------------------- | ------------------------ | ---------------- |
 | `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible | Within 8 hrs | Within 48 hrs | `~priority::1` |
@@ -116,7 +111,6 @@ If, when selecting a severity for an availability issue, the availabilty impact 
 (1) - Mitigation uses non-standard work processes, eg. hot-patching, critical code and configuration changes. Owned by Infrastructure department, leveraging available escalation processes (dev-escalation and similar)
 
 (2) - Resolution uses standard work processes, eg. code review. Scheduling is owned by the Product department, within the defined SLO targets.
-
 
 #### Availability prioritization
 
@@ -139,7 +133,7 @@ This run happens nightly and results are outputted to the [wiki on the GPT proje
 
 ### UX debt
 
-Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
+Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ## Triaging Issues
 
