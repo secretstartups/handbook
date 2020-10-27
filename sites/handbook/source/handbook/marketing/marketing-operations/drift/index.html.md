@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Drift"
+description: "Drift is a chat platform used by the Sales Development (SDR) organization to engage visitors on select webpages."
 ---
 
 ## On this page
