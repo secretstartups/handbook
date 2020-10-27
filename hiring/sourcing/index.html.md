@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sourcing"
+description: "Sourcing has proved itself to be a great channel for attracting the best talent."
 ---
 
 ## On this page
