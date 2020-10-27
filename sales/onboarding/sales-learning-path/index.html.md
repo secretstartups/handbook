@@ -152,13 +152,13 @@ title: "Sales & Customer Success Quick Start Learning Path"
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please complete the [Command of the Message](https://classroom.google.com/c/MTIxMzIxNzE2NjIw) learning path. Instructions to join the class on your own:
-   - Go to classroom.google.com.
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code: **rjs22en** and click Join.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please sign in to [MEDDPPICC](https://classroom.google.com/c/MTIxMzIyMzc3ODA2?cjc=fi3gcwd) learning path and complete the MEDDPPICC full eLearning course. Instructions to join the class on your own:
-   - Go to classroom.google.com.
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code: **fi3gcwd** and click Join.
    - Time to complete is approximately 1.5 hours
@@ -365,13 +365,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Outreach (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Please complete the Outreach learning path. Time to complete is approximately 1 Hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **rfo76ti** and click Join.
 *  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
    - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3pyea4i** and click Join.
 *  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
@@ -379,7 +379,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - The Clari assignment is only for Strategic Account Leaders, Mid-Market Account Executives, and SMB Customer Advocates. SAs, TAMs, SDRs, and ISRs may disregard and do not need to complete the course. Clari is a sales forecasting technology that helps salespeople drive more pipeline, accelerate revenue, and forecast accurately. Time to complete is approximately 1 hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3dfmc4w** and click Join.
 *  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
