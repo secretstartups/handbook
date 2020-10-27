@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process - Candidate Experience Specialist Contract Processes"
+description: "This page is an overview of the Candidate Experience Specialist Contract Processes when hiring globally." 
 ---
 
 ## On this page
