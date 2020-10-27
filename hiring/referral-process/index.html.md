@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Referral Process"
+description: "GitLab's Referral program is fairly straight-forward, there are several nuances to be mindful of. This is a review the program rules and eligibility."
 ---
 
 ## On this page
