@@ -126,14 +126,6 @@ The column for "verification" is where the owner of the Epic, or the PM will ens
 of the solution. This is also where we confirm if a release note is required for this issue, and assign the correct
 milestone.
 
-##### Issue Health Status
-
-We want to ensure issues move through [the development workflow](/handbook/engineering/development/enablement/geo/process.html#build) at an efficient pace. We use GitLab's [issue health status feature](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status) to indicate issues that may need more attention to continue progressing.
-
-For issues in `workflow::in dev`, an issue is considered `Needs Attention` if it has not had any MR activity for at least 1 week or if it has been in `workflow::in dev` for at least 2 weeks. An issue is considered `At Risk` if it has had no MR activity for at least 2 weeks or has been `workflow::in dev` for greater than 3 weeks.
-
-The EM updates the health status for in development issues every week before the scheduling call and, during the call, prioritize discussion on issues that are `Need Attention` or `At Risk`.
-
 #### Release and Post-Release
 
 For some issues, there are tasks that need to be performed by SRE's after the release is completed. Because these tasks
