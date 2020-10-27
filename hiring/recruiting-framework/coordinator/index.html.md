@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Candidate Experience Specialist Responsibilities"
+description: "This page is an overview of the processes, and systems that the Candidate Experience Team is responsible for." 
 ---
 
 ## On this page
