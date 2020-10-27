@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab President's Club"
+description: "President's Club is an incentive trip to celebrate the success of our top Field Sales Professionals and others in the organization who helped support the team throughout the year"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "SMB Account Executive"
+description: "SMB Account Executive guidelines to assist prospects through their evaluation and buying process of GitLab"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Sales"
+department: "The Commercial Sales department at GitLab focuses on delivering maximum value to SMB and Mid-Market customers throughout their entire journey with GitLab"
 ---
 
 ## On this page
@@ -12,7 +13,7 @@ title: "Commercial Sales"
 
 ## Welcome to the Commercial Sales Handbook
 
-The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers to deliver maximum value throughout the entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers throughout their entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
 
