@@ -1,9 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Customer Success Vision
-description: >-
-  Create a company-wide customer success approach, providing an engagement
-  framework for the Customer Success organization
+title: "Customer Success Vision"
+description: "Create a company-wide customer success approach, providing an engagement
+  framework for the Customer Success organization"
 ---
 
 ## On this page
