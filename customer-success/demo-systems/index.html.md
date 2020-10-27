@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems"
+description: "The GitLab Demo Systems provide infrastructure for the GitLab Customer Success, Marketing, Sales, and Training teams to demonstrate GitLab features, value propositions, and workflows in a variety of asynchronous and live capacities."
 ---
 
 ## On this page
