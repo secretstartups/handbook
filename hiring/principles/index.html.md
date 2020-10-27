@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Principles"
+description: "We've intentionally crafted our hiring and recruiting practices to align with the GitLab culture, and we've outlined the foundational ethos that drives our talent ethos."
 ---
 
 ## On this page
