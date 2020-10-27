@@ -16,7 +16,7 @@ title: "Hiring"
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Hiring Charts](/handbook/hiring/charts/)
 - [Interviewing](/handbook/hiring/interviewing/)
-- [Overview of Job Families](/handbook/hiring/overview-job-families/)
+- [Overview of Job Families](/handbook/hiring/job-families)
 - [Job Offers and Post-Interview Processes](/handbook/hiring/offers/)
 - [Preferred Companies to Recruit from](/handbook/hiring/preferred-companies/)
 - [Principles](/handbook/hiring/principles/)
