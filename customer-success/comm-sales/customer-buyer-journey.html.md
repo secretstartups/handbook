@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Sales Buyers Journey"
+description: "This page outlines the activity and flow for each step of a purchaser's typical journey when acquiring GitLab"
 ---
 
 # Commercial Sales Buyer's Journey
