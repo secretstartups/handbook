@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Offer Packages"
+description: "This page is an overview of the processes of offering a candidate and how to navigate each section."
 ---
 
 ## On this page
