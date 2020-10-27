@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Sarah Daily's README"
+description: "Personal README document for Sarah Daily, Senior Marketing Operations Manager at GitLab."
 ---
 
 # Sarah Daily's — README.md
