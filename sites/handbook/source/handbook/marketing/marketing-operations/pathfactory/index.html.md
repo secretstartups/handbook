@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: PathFactory
+title: "PathFactory"
+description: "PathFactory (PF) is leveraged as our content library & content distribution system."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
