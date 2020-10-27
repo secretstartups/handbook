@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sigstr"
+description: "Sigstr is a marketing tool used as an advertising channel inside the inbox."
 ---
 
 ## On this page
