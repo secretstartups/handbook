@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demystifying the Metrics Conversation"
+description: "Practical tips for sales reps to demystify the Metrics component of the Command of the Message customer conversation framework"
 ---
 
 ## On this page
@@ -10,7 +11,7 @@ title: "Demystifying the Metrics Conversation"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Many sales reps struggle with the Metrics portion of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation) One of the most common challenges is that many customers don't have good metrics, they aren't measuring, and they may not know what to measure. Check out the below video from Nico Ochoa (Strategic Account Leader, US West).
+Many sales reps find the Metrics component of the Command of the Message customer conversation framework to be a difficult one. To learn more, check out the Force Management blog, ["Why Sales Reps Struggle with Metrics in the Sales Conversation."](https://www.forcemanagement.com/blog/why-sales-reps-struggle-with-metrics-in-the-sales-conversation) One of the most common challenges is that many customers don't have good metrics, they aren't measuring, and they may not know what to measure. Check out the below video from Nico Ochoa (Strategic Account Leader, US West).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/wkhVEg2C11M" frameborder="0" allowfullscreen="true"> </iframe>
