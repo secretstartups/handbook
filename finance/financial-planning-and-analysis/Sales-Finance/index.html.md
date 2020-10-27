@@ -28,6 +28,17 @@ We believe an excellent forecasting process enables us to deploy our resources e
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStHiw-vsSJXuWFkB-iZ37wZXI1GXdI1bQpTin5TfU6v1_PWMFgSjxuttzgCqUeucagCiLPjJAmOKkq/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
+## Sales Variance Package
+[May'20 Deck](https://docs.google.com/presentation/d/10Dt_TdM8c6llZTEVkjbIxUCa5oA3Ghqbk76ec6rXK5A/edit?usp=sharing)
+
+[Jun'20 Deck](https://docs.google.com/presentation/d/16Wrcgbzzpz2fs3MdoYtugI2KwM93M6aZ22UUYCWklEI/edit?usp=sharing)
+
+[Jul'20 Deck](https://docs.google.com/presentation/d/1mDXoBdj8fOHfGLezTPJOPzgsi00raDDiuVJ3NkdUe38/edit?usp=sharing)
+
+[Aug'20 Deck](https://docs.google.com/presentation/d/1aFfCku5LhSgIkurWgDTauvBqMNaaGi_L9e8JkXXxMxo/edit?usp=sharing)
+
+[Sep'20 Deck](https://docs.google.com/presentation/d/1bevI8Qdu6bTLJ6arBUzKS8dOhK9d2SyfXAO9Z1n9fKk/edit?usp=sharing)
+
 ## Sales & Marketing Funnel SSOT Dashboards
 The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
 - IACV Pipeline Created
