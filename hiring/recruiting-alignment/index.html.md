@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Recruiting Alignment"
+description: "This page is an overview of the search team alignment and the recruiting platform directly responsible individual in recruiting operations and talent brand."
 ---
 
 ## Search Team Alignment by Department
@@ -34,7 +35,7 @@ title: "Recruiting Alignment"
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
 
-## Recruiting Operations and Talent Branding Alignment
+## Recruiting Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
 |--------------------------|-----------------|-----------------|
