@@ -104,7 +104,7 @@ Some merge requests that involve a big decision or change tend to collect a larg
 
 This MR is a Manager Mention MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
 ```
-Additionally, add the `~consolidated` label to the issue.  This will make future analytics on Manager Mention merge requests more easily identifiable.
+Additionally, add the `~"Manager Mention MR` label to the merge request.  This will make future analytics on Manager Mention merge requests more easily identifiable.
 
 Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
 
