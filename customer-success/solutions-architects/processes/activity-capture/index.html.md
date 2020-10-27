@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Solutions Architecture Activity Capture
+description: "Solutions Architects record all customer and prospect activity to promote transparency and collaboration"
 ---
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
