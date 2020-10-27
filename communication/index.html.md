@@ -428,7 +428,7 @@ _Using call attendance data along with feedback and suggestions provided by team
    *  Mindfulness Call 2: AMER/ EMEA: Wednesdays 9:30AM PT for 15 minutes
    *  Mindfulness Call 3: AMER/ EMEA: Thursdays  7:30AM PT for 15 minutes
 1. The call is a short time for GitLab team members to spend time together in a guided meditation of centering and refocusing. There is [evidence that meditating together has additional benefits over meditating alone](https://www.mindful.org/benefit-meditating-alone-together/).
-1. The call will be led by @mlebeau and @haileyrae to start, but we are looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit.
+1. The call will be led by either @mlebeau, @haileyrae or @scull to start, but we are looking for other volunteers, especially in other time zones, so that this can be offered multiple times in a week for all GitLab team members to benefit.
 1. The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
 1. No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
 
