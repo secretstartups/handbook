@@ -32,12 +32,14 @@ GitLab does not plan to offer Life Insurance Benefits because team members can a
 To initiate your Parental Leave, submit the dates in PTO by Roots under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 **Maternity Protection**
-Maternity protection is explained in the Maternity Protection Act (Mutterschutzgesetz). Generally, 6 weeks before the estimated date of birth and 8 weeks after the date of birth the pregnant employee is released from work. This period can differ in case of special circumstances (twins, preterm birth). The employee will receive full payment of her salaries from the employer. The employer receives a refund of these amounts through an application process with the state.
+The Maternity Protection (Mutterschutzgesetz) period is 6 weeks before the estimated date of birth and 8 weeks following the birth (or 12 weeks in case of multiple or premature birth). The team member will receive full payment during this period. GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please notify Total Rewards your health insurance carrier name and your insurance number.
 
 **Parental Leave**
-An employee is entitled to parental leave until the child turns three. The employee is not obliged to work during this period and no payment is due by the employer. Parental leave can be taken by the mother and father, individually or jointly.
+A team member is entitled to parental leave until the child turns three. Parental leave can be taken by the mother and father. 
 
-Parental allowance is a state benefit for parents who would like to look after the child themselves after the birth, and therefore are not in full-time work or are not working at all. If mothers and fathers share the parental allowance, they receive parental allowance for a maximum of 14 months. Each parent can draw a minimum of two and a maximum of twelve months' parental allowance. Lone parents are entitled to the full 14 months' parental allowance.
+For expecting mothers, they may take the Maternity Protection period followed by Parental Leave. GitLab will provide full Parental Lave pay (provided the team member meets the [eligibility criteria](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)) for up to 16 weeks of the total leave (including the Maternity Protection period). The team member may apply for state benefits for the remainder of their Parental Leave.
+
+For expecting fathers, team members will need to apply for a state benefit (Basiselterngeld, ElterngeldPlus or Partnerschaftsbonus). If a team member is [eligible for Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Parental Leave pay for up to 16 weeks of Parental Leave. Please notify Total Rewards which state benefit you are applying for and how much you will be receiving so that payroll can process the appropriate supplementary amount. Team members can find further information on parental leave benefits via the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.elterngeld-digital.de/ams/Elterngeld).
 
 
 ## Sick Time During COVID-19
