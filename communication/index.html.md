@@ -92,25 +92,25 @@ guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflo
 1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
 1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
-1. If the MR involved gets a lot of comments, you can turn it into a [Consolidated MR](/handbook/communication/index.html#scaling-merge-requests-through-consolidated-mrs).
+1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/index.html#scaling-merge-requests-through-manager-mention-mrs).
 1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
 
-### Scaling Merge Requests through "Consolidated MRs"
+### Scaling Merge Requests through "Manager Mention MRs" (formerly Consolidated MRs)
 
-Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scalable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Consolidated MRs" by clearly designating them as such at the beginning of the MR description with the following code block:
+Some merge requests that involve a big decision or change tend to collect a large amount of feedback. As GitLab grows in size, it is unrealistic for a single person to respond to potentially hundreds of comments. To remain efficient in these MRs and to make it scalable, it is important for the DRI to receive a clear signal of input that is shared on the merge request. Some MRs may be marked as "Manager Mention MRs" by clearly designating them as such at the beginning of the MR description with the following code block:
 
 ```
-## Consolidated MR
+## Manager Mention MR
 
-This MR is a Consolidated MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
+This MR is a Manager Mention MR.  Contributors should tag their manager when adding a comment.  If managers are tagged they should either respond to the question or summarize and tag their manager.
 ```
-Additionally, add the `~consolidated` label to the issue.  This will make future analytics on consolidated merge requests more easily identifiable.
+Additionally, add the `~consolidated` label to the issue.  This will make future analytics on Manager Mention merge requests more easily identifiable.
 
 Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
 
-MRs should not start out as a Consolidated MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI.
+MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI.
 
-When an MR is changed to be `consolidated`, the person making this change should add a comment stating this so that everyone tracking the MR can be informed.
+When an MR is changed to be `Manager Mention`, the person making this change should add a comment stating this so that everyone tracking the MR can be informed.
 
 ## Issues
 
