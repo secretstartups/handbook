@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Driven Recruiting"
+description: "Data Driven Recruiting is defined as focusing on fewer people that have more aptitude and connection to the company."
 ---
 
 ## On this page
