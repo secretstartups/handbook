@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process Framework for REQs"
+description: "The Recruiting Process Framework provides guidance on the recruiting process for the recruiting team, hiring manager, and hiring team to efficiently hire."
 ---
 
 ## On this page
