@@ -78,7 +78,7 @@ If needed, also check the
 for manual plan changes.
 
 For self-managed, you can double-check for a license in the [LicenseDot](http://license.gitlab.com) portal
-as described in [#finding-the-existing-organization-in-licensedot].
+as described in [Finding the existing license in LicenseDot](#finding-the-existing-organization-in-licensedot).
 
 **Trial** users do not get support as mentioned at [Free trial page](https://about.gitlab.com/free-trial/).
 If you find a ticket from the organization using trial, add `trial` tag to it.
