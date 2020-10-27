@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Renewal Process"
+description: "A key part of the customer relationship lifecycle is the renewal phase"
 ---
 
 ## On this page
