@@ -19,7 +19,7 @@ Define the process for how the TAM interacts with the systems and processes desi
 
 ## Establishing Customers in Support Systems
 
-During the onboarding process, the TAM will ensure that customers are correctly established in the support system.  GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-overview.html).   GitLab has [integrated the GitLab instance of Salesforce with Zendesk](handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk.  The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
+During the onboarding process, the TAM will ensure that customers are correctly established in the support system.  GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-overview.html).   GitLab has [integrated the GitLab instance of Salesforce with Zendesk](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk.  The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
 
 Though automation exists, the TAM must still ensure customers take additional steps to fully establish their personnel in Zendesk.   Specifically, the TAM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements.](/support/#gitlab-support-service-levels) 
 

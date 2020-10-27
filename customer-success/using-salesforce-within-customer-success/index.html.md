@@ -12,7 +12,7 @@ title: "Using Salesforce within Customer Success"
 - Using Salesforce within Customer Success *(Current)*
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Technical Account Manager Summary](/handbook/customer-success/tam/)
-- [Account Triage](/handbook/customer-success/tam/triage/)
+- [Account Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
 
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
