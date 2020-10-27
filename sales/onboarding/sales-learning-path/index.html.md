@@ -323,9 +323,8 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
    - [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
-   - [Using SalesForce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
+   - [Using Gainsight within Customer Success](/handbook/customer-success/tam/gainsight/)
    - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
-   - [Customer Onboarding Custom Object Training Video](https://drive.google.com/file/d/1ZGezQKYmn0IyAIbh2ytz_GcCW2n431be/view)
 *  **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
    -The [Rubric for the call](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
