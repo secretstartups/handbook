@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Zoominfo"
+description: "ZoomInfo is sales intelligence software that provides a database of business and professional contact information."
 ---
 
 ## On this page
@@ -8,6 +9,10 @@ title: "Zoominfo"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+### About ZoomInfo
+
+ZoomInfo is sales intelligence software that provides a database of business and professional contact information.
 
 ### Set Up
 Once you receive your login and enter the Zoominfo platform you will need to download the [Zoominfo ReachOut Chrome extension](https://chrome.google.com/webstore/detail/zoominfo-reachout/fofjcndophjadilglgimelemjkjblgpf). You can also find the link by navigating down to the bottom right of your homepage.
