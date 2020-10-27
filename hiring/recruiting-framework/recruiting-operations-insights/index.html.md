@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Process Framework - Recruiting Operations & Insights"
+description: "This page is an overview of the processes, reports, and systems that the Recruiting Operations & Insights Team is responsible for." 
 ---
 
 {::options parse_block_html="true" /}
