@@ -115,7 +115,7 @@ Employees of GitLab B.V. have further rights and responsibilities regarding sick
 
 #### Doctor's Note
 
-Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time.
+Please be aware that certain countries require a doctor's note or similar type of proper documentation for your sick time. To add a Doctor's note to BambooHR, please upload it to the employee uploads folder and let your manager know that you have added it. 
 
 ## Communicating Illness-Related Leave
 
