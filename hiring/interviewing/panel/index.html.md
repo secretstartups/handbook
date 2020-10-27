@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Panel Interviews"
+description: "When a candidate gets the opportunity to interview with more than one member of
+the hiring team at once, this is called a panel interview."
 ---
 
 ## On this page
