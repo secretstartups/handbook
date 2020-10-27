@@ -91,10 +91,33 @@ The analysis performs a few steps:
 2. For each time frame, calculate offending queries for each relevant metric and keep track of those offenses.
 3. For each relevant metric, provide a list of all queries that we offending (`strike count > 0`) during the total time.
 
+In this approach, we still see queries in the result even if they were only being considered offending during one time frame (e.g. 30 seconds).
 
+###### Exemplary implementation and results
 
+An proof of concept implementation is available in gitlab-org/database-team/highres-stat-statements.
 
+An example report can be found in this [sheet](https://docs.google.com/spreadsheets/d/15C8chcgqTGDsKxg22M06WQUwSH4herugRlSQ7Jj8LQU/edit#gid=1953020943) (GitLab internal link). This is based on snapshots taken off the GitLab.com primary during 32 minutes at a 30 seconds interval.
 
-pg_stat_statements and Marginalia
+###### pg_stat_statements and Marginalia
 
-pgBadger
+Marginalia is a Ruby gem that annotates database queries with their origin. For example, for sidekiq jobs and web requests, we would see similar SQL comments alongside each query:
+
+1. Sidekiq: `/*application:sidekiq,...,jid:...,job_class:AuthorizedProjectUpdate::UserRefreshWithLowUrgencyWorker*/`
+2. Web: ` /*application:web,controller:issues,action:related_branches,correlation_id:...*/`
+
+This information is retained in `pg_stat_statements`. We can use it to aggregate across sidekiq jobs, controllers or controller actions.
+
+Following the same methodology as above but aggregating based on the "endpoint" (a sidekiq job class or controller action), we can find offending endpoints in a similar fashion.
+
+This has also been implemented in gitlab-org/database-team/highres-stat-statements. An example report based on the same data as above can be found in this [sheet](https://docs.google.com/spreadsheets/d/1-NyzDUCXcUqL_LhFCpOgJkrmVbvlp9DlfUrPSLzUThU/edit?usp=sharing) (internal link).
+
+Worth to note that it looks like not all queries are being annotated by Marginalia sufficiently for this. There are some queries that only have `application:web`, but no further information. If we wanted to use this approach, we may want to make sure a good portion of queries has the right annotations.
+
+### Using pgBadger
+
+PgBadger can be used to generate aggregate reports based on log data. For GitLab.com, we can follow the [runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/pgbadger_report.md) explaining more details.
+
+As outlined above, this is based on log analysis and as such suffers from lack of detail (only slow queries are being logged). It is still useful to have this in the toolbelt and provides a good way to reason about slow queries.
+
+Example reports for the GitLab.com primary can be found [here](https://gitlab.com/gitlab-org/database-team/team-tasks/-/issues/92#note_436770927) (internal link).
