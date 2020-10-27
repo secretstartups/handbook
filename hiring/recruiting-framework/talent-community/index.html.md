@@ -1,10 +1,11 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Recruiting Process Framework for Talent Pools"
+description: "The Recruiting Process Framework for Talent Pools provides guidance on the talent pool process so the recruiting team can efficiently build a talent bench before we need it."
 ---
 ## Recruiting Process Framework for Talent Pools
 
-**Purpose**: The Recruiting Process Framework for Talent Pools provides guidance on the talent pool process so the recruiting team can efficiently build a talent bench before we need it
+**Purpose**: The Recruiting Process Framework for Talent Pools provides guidance on the talent pool process so the recruiting team can efficiently build a talent bench before we need it.
 
 ## Full Process
 
