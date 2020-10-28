@@ -70,4 +70,4 @@ Currently available courses include the following:
 #### DevSecOps
 
 - Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
-- Just want to take the knowledge check quiz? [Click here](TBD) (coming soon).
+- Just want to take the knowledge check quiz? [Click here](https://forms.gle/hkta3uDUpki52BGD8).
