@@ -5,4 +5,4 @@ title: "GitLab Legal Team READMEs"
 
 ## Legal Team READMEs
 
-- Add your README here!
+- [Rob Nalen (Director of Legal Operations & Contracts)](https://about.gitlab.com/handbook/legal/readmes/robnalen.index.html)
