@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Retain and Expand"
+description: "GitLab sales process to retain customers and expand GitLab's footprint and value to the customer"
 ---
 
 ## On this page

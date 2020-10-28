@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Operating Procedures"
+description: "GitLab sales process documentation"
 ---
 
 ## On this page

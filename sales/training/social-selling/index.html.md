@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Social Selling"
+description: "How to use social media to build your professional brand and grow your business"
 ---
 
 ## On this page

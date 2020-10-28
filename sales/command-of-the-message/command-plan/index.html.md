@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Command Plan"
+description: "The Command Plan is how GitLab has operationalized a customer value-driven sales methodology with strategic opportunity management into the opportunity management process"
 ---
 
 {::options parse_block_html="true" /}

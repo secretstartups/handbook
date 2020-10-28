@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Engage & Educate the Customer"
+description: "GitLab sales process for engaging and educating the customer"
 ---
 
 ## On this page

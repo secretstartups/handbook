@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales & Customer Success Quick Start Learning Path"
+description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ---
 
 ## On this page
@@ -15,7 +16,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
-   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
+   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://youtu.be/-_CDU6NFw7U).
    - GitLab customers buy GitLab for 3 primary reasons: 1) Increase Operational Efficiencies, 2) Deliver Better Products Faster, and 3) Reduce Security and Compliance Risk. Check out the [GitLab Customer Deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) and [watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
 *  **Company Infomercial (Material - Video, 5 Minutes)**
    - Check out our [company infomercial](https://youtu.be/gzYTZhJlHoI)!
@@ -152,13 +153,13 @@ title: "Sales & Customer Success Quick Start Learning Path"
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please complete the [Command of the Message](https://classroom.google.com/c/MTIxMzIxNzE2NjIw) learning path. Instructions to join the class on your own:
-   - Go to classroom.google.com.
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code: **rjs22en** and click Join.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please sign in to [MEDDPPICC](https://classroom.google.com/c/MTIxMzIyMzc3ODA2?cjc=fi3gcwd) learning path and complete the MEDDPPICC full eLearning course. Instructions to join the class on your own:
-   - Go to classroom.google.com.
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code: **fi3gcwd** and click Join.
    - Time to complete is approximately 1.5 hours
@@ -322,11 +323,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ### 15. TAMs Only: Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
-   - [Customer Onboarding and Gemstone Categorization](/handbook/customer-success/tam/gemstones/)
-   - [Using SalesForce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
-   - [Customer Onboarding Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skrQ)
-   - [Customer Onboarding Custom Object Training Video](https://drive.google.com/file/d/1ZGezQKYmn0IyAIbh2ytz_GcCW2n431be/view)
-   - [SalesForce POV Slides](https://docs.google.com/presentation/d/1SBQ_FbCsPfycTxdtoracQTAh7WOpGPPAqptXfRiZdvc/edit#slide=id.g29a70c6c35_0_68)
+   - [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
+   - [Using Gainsight within Customer Success](/handbook/customer-success/tam/gainsight/)
+   - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
 *  **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
    -The [Rubric for the call](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
@@ -367,13 +366,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Outreach (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Please complete the Outreach learning path. Time to complete is approximately 1 Hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **rfo76ti** and click Join.
 *  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
    - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3pyea4i** and click Join.
 *  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
@@ -381,7 +380,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - The Clari assignment is only for Strategic Account Leaders, Mid-Market Account Executives, and SMB Customer Advocates. SAs, TAMs, SDRs, and ISRs may disregard and do not need to complete the course. Clari is a sales forecasting technology that helps salespeople drive more pipeline, accelerate revenue, and forecast accurately. Time to complete is approximately 1 hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3dfmc4w** and click Join.
 *  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**

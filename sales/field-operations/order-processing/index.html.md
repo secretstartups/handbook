@@ -110,7 +110,7 @@ Please review the [Deal Desk Quote Configuration Guide](/handbook/sales/field-op
 
 ### Handling Open Source, Education, and Startup Applications
 
-GitLab provides free licenses to qualifying entities through the [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [application workflow by the Community Advocates](handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/). **Only community advocates** should handle these applications and opportunities because community advocates verify program requirements before issuing/renewing licenses and these opportunites are handlded differently since the opportunities are not paid (unless support is purchased).
+GitLab provides free licenses to qualifying entities through the [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [application workflow by the Community Advocates](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/). **Only community advocates** should handle these applications and opportunities because community advocates verify program requirements before issuing/renewing licenses and these opportunites are handlded differently since the opportunities are not paid (unless support is purchased).
 
 #### Inquiry and Application Process (Leads)
 1. If an existing lead is interested in applying to one of the programs, direct them to the appropriate application form: [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/)and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/) or direct them to send an email to education@gitlab.com, startups@gitlab.com, or opensource@gitlab.com with questions. Then reassign the lead to the Community Advocates queue in Salesforce. When reassigning, be sure to notify the team by clicking the "Send Notification to New Owner" checkbox. Note that the Community Advocates do not work through the Lead Queue and will not take any action on this reassignment unless they are chattered.
@@ -137,7 +137,7 @@ If your customer will need Evaluation (Eval) users, a SKU will need to be create
 
 In order to have the Eval users SKU created:
 > All new SKUs must be evaluated by the Fulfillment team so that they don't appear as `unknown` when they display in the portal as a product. The Fulfillment team needs at least 30 days in advance notice.
-> [Make sure to allow time for the engineers](/handbook/business-ops/business_systems/portal/#adding-new-skus) to plan work around new SKU creation.
+> Make sure to allow time for the engineers to plan work around new SKU creation.
 
 1. Submit your request via an issue in the Finance issue tracker.
 1. Submit to CFO, CRO and CEO for approval.

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Facilitate The Opportunity"
+description: "GitLab sales process for facilitating the opportunity"
 ---
 
 ## On this page

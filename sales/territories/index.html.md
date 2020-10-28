@@ -126,13 +126,12 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
 | Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
-| Public Sector | **State and Local (SLED West)** | Dave Lewis | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
-| Public Sector | **Federal - DoD-Air Force-2** | Dan Foley | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
-| Public Sector | **Federal - DoD-Navy-1** | Jon Scadden | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Navy-1** | TBH | Patrick Gerhold | Josh Downey |
 | Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey |
 | Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Peg Sheridan | Josh Downey |
 | Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Peg Sheridan | Josh Downey |
@@ -141,7 +140,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey |
 | Public Sector | **Federal - NSG-3** | Ian Moore | Christine Saah | Evan Mathis |
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis |
-| Public Sector | **Federal - NSG-5** | John McLean | Bill Duncan | Evan Mathis |
+| Public Sector | **Federal - NSG-5** | Garry Judy | Bill Duncan | Evan Mathis |
 | Public Sector | **Federal - NSG-6** | Garry Judy | Christine Saah | Evan Mathis |
 
 #### APAC
@@ -188,7 +187,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe South | Europe South | **Large-EMEA-Spain** | Vadim Rusin | Camilo Villanueva |
 | Nordics | Nordics | **Large-EMEA-Nordics** | Annette Kristensen | Camilo Villanueva |
 | MEA | MEA | **Large-EMEA-MEA** | Phillip Smith | Camilo Villanueva |
-| UKI | UKI | **Large-EMEA-UKI A** | Anja Loether | Chris Loudon |
+| UKI | UKI | **Large-EMEA-UKI A** | Robbie Byrne | Chris Loudon |
 | UKI | UKI | **Large-EMEA-UKI B** | Justin Haley | Chris Loudon |
 | UKI | UKI | **Large-EMEA-UKI C** | Nick Lomas | Goran Bijelic |
 | UKI | UKI | **Large-EMEA-UKI D** | Simon Williams | Shay Fleming |
@@ -354,7 +353,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Arina Voytenko | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-North Germany** | Bastian van der Stel | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-South Germany** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Communications"
+description: "The Field Communications team is responsible for creating effective, timely, and easily consumable communications with Sales and Customer Success audiences"
 ---
 
 ## On this page
