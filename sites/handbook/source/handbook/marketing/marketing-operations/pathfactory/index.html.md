@@ -682,13 +682,24 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |
-| PathFactory Experience Name | The PathFactory track name - [more details](#content-tracks) |
-| PathFactory Assets Viewed | Cumulative number of assets viewed. **This is not associated to time consumed! See Content Count for difference** |
 | PathFactory Asset Type | A tag to help categorize types of content (whitepaper, video, eBook, etc) |
-| PathFactory Funnel State | Each asset is tagged with stage of funnel most applicable to asset - Top of Funnel, Middle of Funnel or Bottom of Funnel |
-| PathFactory External ID | A non-unique ID that can be added to tracks &/or assets, which can be leveraged to organize content and configure it in Marketing Automation Platform (i.e Marketo) |
+| PathFactory Assets Viewed | Cumulative number of assets viewed. **This is not associated to time consumed! See Content Count for difference** |
+| PathFactory Content Count | Cumulative count of assets consumed. Example: if person consumes 2 whitepapers, 1 video and blog post for _minimum of 20 seconds each_ in a **single session** this field would show 4. |
+| PathFactory Content Engagement Threshold | The engagement threshold time setting (in seconds) of the content asset. |
+| PathFactory Content Journey | Shows users path through a PathFactory experience (next asset viewed from previous asset based on slug) |
+| PathFactory Content Language | The language of the content asset. |
+| PathFactory Content List | Cumulative list of each assets content id/slug for each asset consumed. |
+| PathFactory Content Slug | The custom slug of the content asset. |
+| PathFactory Content Source URL | The URL of the underlying source content of the content asset. |
+| PathFactory Content Title | The public title of the content asset. |
+| PathFactory Content URL | The current public URL of the asset being rendered in the content track. |
 | PathFactory Engagement Score | Each asset in content library can be assigned an engagement score; this score is passed from PF to SFDC and used to determine meaningful engagement with content. |
 | PathFactory Engagement Time | Cumulative time a person spends consuming assets in session. |
-| PathFactory Content Count | Cumulative count of assets consumed. Example: if person consumes 2 whitepapers, 1 video and blog post for _minimum of 20 seconds each_ in a **single session** this field would show 4. |
-| PathFactory Content List | Cumulative list of each assets content id/slug for each asset consumed. |
+| PathFactory Experience Name | The PathFactory track name - [more details](#content-tracks) |
+| PathFactory External ID | A non-unique ID that can be added to tracks &/or assets, which can be leveraged to organize content and configure it in Marketing Automation Platform (i.e Marketo) |
+| PathFactory Funnel State | Each asset is tagged with stage of funnel most applicable to asset - Top of Funnel, Middle of Funnel or Bottom of Funnel |
+| PathFactory Query String | |
+| PathFactory Query String Value | The value of a key in the query string. |
 | PathFactory Topic List | Assets are tagged by **topic**. This is manually set & aligns with the [tracking content](#tracking-content) list. |
+| PathFactory Track Custom URL | The custom URL of the content track. |
+| PathFactory Track ID | The automatically generated PathFactory ID of the content track. |
