@@ -387,13 +387,13 @@ While the [Internal Transition Issue](/handbook/people-group/promotions-transfer
 
 _NOTE: Though the Total Rewards and People Experience team may have visibility into promotions or transfers due to the administration of updating information as part of their roles, they should not communicate with the team member about their promotion/tranfer until an announcement has been made._--
 
-#### Realignment of Resources impacting multiple team members
+#### Realignment of team members impacting multiple teams
 
 Company priorities can change and occasionally some or all members of a team may be asked to transfer to high priority vacancies within other teams.
 
 In cases where multiple individuals are asked to transfer to high priority roles:
 
-1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the resources realignment.
+1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the team member realignment.
 1. Select a DRI to coordinate the overall realignment process. This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.
 1. Communicate the reassignment decision to effected team members. Emphasize this is not about poor performance, but rather a way to shift high value individuals to the highest priorities.
 1. Organize one or more Team Pitch Office Hours meeting where individuals considering transfers can learn about teams that are hiring. Hiring managers should attend the office hours to talk about what is interesting about their teams. [Team Pitch Office Hours video](https://www.youtube.com/watch?v=-MgiUA7sAHU&feature=youtu.be)
