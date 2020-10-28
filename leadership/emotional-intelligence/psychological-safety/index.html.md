@@ -100,6 +100,37 @@ A recording of the second of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+## One Week Challenge 
+
+We are rolling out a One week challenge in November 2020. All details relating to the challenge can be found here on this page.
+
+The [One Week Challenge](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
+
+Once the challenge launches, it will be organized in an Epic. Each day of the challenge will be an issue within the epic with specific tasks for each day. Participation will be tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
+
+### Program Overview 
+
+- 3 Daily Challenges (20 minutes)
+- 1 Live Learning Sessions (1 hour)
+- 1 Weekly Self Reflection and Evaluation (10 minutes)
+- Certification Upon Completion
+
+### Learning Objectives 
+
+1. Define Psychological Safety
+1. Identify the importance of Psychological Safety
+1. Demonstrate how to increase Psychological Safety
+
+### Program Outline 
+
+| Day | Challenge | Time | Format | Activity | Competency |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/people-group/learning-and-development/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace) <br> Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+
 ## Additional Resources 
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
@@ -110,5 +141,6 @@ A recording of the second of two sessions can be found here:
 - Read: [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) 
 - Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
+- Watch: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 
 The SSOT for the slides on this page can be found in [this folder](https://drive.google.com/drive/folders/1RLXcBUM1IKx8KmgQSR-dPDwvkso6bVJL).
