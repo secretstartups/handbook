@@ -61,6 +61,7 @@ Links from the Handbook should conform to a few general guidelines:
 * Link URLs should not specify default file names or extensions unless excluding them would result in redirection. Overly specific link URLs are more likely to break in response to future changes.
 * Same-site links should use root-relative URLs, not absolute URLs or document-relative URLs.
 * Same-_page_ URLs should just be fragment identifiers (e.g., `#link-guidelines`).
+* For SEO purposes, try to have links open in a new tab. You can do this by adding the `{:target="_blank"}` link attribute to the end of an inline link. Ex: `[Text to display](link){:target="_blank"}`
 
 See [Understanding Absolute and Relative URLs](#understanding-absolute-and-relative-urls) for more information about each type of URL.
 
