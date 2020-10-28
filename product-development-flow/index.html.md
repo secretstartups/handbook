@@ -35,16 +35,6 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
 
-## Stakeholders 
-
-Throughout this workflow you'll see reference to "Stakeholders" and you may be wondering, who does that include? In this context, a stakeholder is someone that is outside of the direct team who meets one or more of the following: 
-- Is directly or indirectly impacted 
-- Has the ability to stop, delay, or cancel 
-
-Examples of stakeholders include Leadership, Sales, Marketing, Customer Support, and Customer Success. You may have stakeholders in any area of GitLab depending on your focus area and the specific issue. Stakeholders are also present outside of GitLab, for example,  when a feature is being developed for a specific customer or set of customers. 
-
-It is recommended to involve your stakeholders throughout the product development flow, utilizing their input for initial ideas of problems to focus on,  problem validation, solution validation, and feedback once an initial solution has been developed. 
-
 ## Workflow Summary
 
 ```mermaid
@@ -167,7 +157,7 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 |----------------|------------------------------------------------|
 | DRI:           | - Product Manager                              |
 | Collaborators: | - Product Designer <br> - Engineering Manager  |
-| Informed:      | - Customers <br> - Technical Account Manager <br> Product Marketing Manager <br> Other [stakeholders](#stakeholders) as appropriate |
+| Informed:      | - Customers <br> - Technical Account Manager <br> Product Marketing Manager <br> Other [stakeholders](/handbook/product/product-processes/#stakeholder-management) as appropriate |
 
 #### Description
 
@@ -196,7 +186,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 |---|---|
 | DRI: | - Product Manager |
 | Collaborators: | - UX Researcher |
-| Informed: | - Product Designer <br> - Engineering Team <br>- Other [stakeholders](#stakeholders) as appropriate |
+| Informed: | - Product Designer <br> - Engineering Team <br>- Other stakeholders as appropriate |
 
 
 #### Description
@@ -228,7 +218,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 |---|---|
 | DRI | - Product Designer |
 | Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
-| Informed | [Stakeholders](#stakeholders) |
+| Informed | Stakeholders |
 
 #### Description
 
@@ -265,7 +255,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | ---           | ---                          |
 | DRI           | - Product Designer             |
 | Collaborators | - Product Manager <br>- Engineering |
-| Informed      |  - Technical Writing <br>- Quality <br> - Other [stakeholders](#stakeholders) as appropriate |
+| Informed      |  - Technical Writing <br>- Quality <br> - Other stakeholders as appropriate |
 
 #### Description
 
@@ -481,7 +471,7 @@ Label: n/a
 |---|---|
 | DRI | - Product Manager |
 | Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
-| Informed | - Engineering Team <br> - Leadership<br> - [Stakeholders](#stakeholders) |
+| Informed | - Engineering Team <br> - Leadership<br> - Stakeholders|
 
 #### Description 
 
