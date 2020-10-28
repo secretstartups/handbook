@@ -11,9 +11,9 @@ title: "Group Conversations"
 
 ## Introduction
 
-Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule). 
+Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). 
 
-The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
+The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -218,31 +218,6 @@ Additional links which may be useful when preparing to moderate a call include:
 
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
-
-| Group Conversation | DRI |
-|---|---|
-| [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
-| [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
-| [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| [Marketing](/handbook/marketing/)  | Todd Barr  |
-| [Support](/handbook/support/)  | Tom Cooney  |
-| [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
-| [Finance](/handbook/finance/)  | Brian Robins  |
-| [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| [General](/handbook/ceo/)  | Sid Sijbrandij   |
-| [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
-| [Product](/handbook/product/)   | Scott Williamson  |
-| [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
-| [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
-| [Meltano](/handbook/meltano/)  | Douwe Maan  |
-| [Alliances](/handbook/alliances/)  | Brandon Jung  |
-| [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
-| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
-| [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
- 
-## Schedule 
 
 In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations during this period. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. The schedule, with directly responsible individuals (DRI), is as follows starting FY21 Q4:
 
