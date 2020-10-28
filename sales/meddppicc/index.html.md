@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "MEDDPPICC"
+description: "MEDDPPICC is a proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations"
 ---
 
 {::options parse_block_html="true" /}

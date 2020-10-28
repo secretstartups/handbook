@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Product Certification for GitLab Field Team Members"
+description: "Training and certification program to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solutions based on customers’ or prospects’ expressed needs and/or challenges"
 ---
 
 {::options parse_block_html="true" /}

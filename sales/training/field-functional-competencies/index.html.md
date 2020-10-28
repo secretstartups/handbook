@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Functional Competencies"
+description: "GitLab field functional competencies provide a common language and consistent expectations for what good looks like for the GitLab field organization"
 ---
 
 # Field Functional Competencies  

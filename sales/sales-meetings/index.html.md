@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Meetings"
+description: "Overview of the primary meetings for the global GitLab field team"
 ---
 
 ## On this page

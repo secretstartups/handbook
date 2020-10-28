@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Enablement Sessions"
+description: "Continuous education webcast series for GitLab sales team members" 
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales & Customer Success Quick Start Learning Path"
+description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ---
 
 ## On this page

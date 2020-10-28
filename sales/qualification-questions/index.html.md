@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Sales Discovery and Qualification Questions"
+description: "An effective questioning strategy is critical to engaging customers in dialogue to truly understand their needs, build credibility and trust, and qualify the opportunity"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Communicating with the Field"
+description: "Guide to communicating with and within the GitLab Field team using both Slack and email"
 ---
 
 ## On this page
