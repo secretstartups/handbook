@@ -18,12 +18,12 @@ Internships are a great way for a GitLab team member to learn about being a Prod
 
 ## Planning the internship
 
-The [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/) at GitLab offers a ____ way to scope Product Internships for learning. While not mandatory, it is helpful to select one of the tracks to focus the internship on. Avilable tracks:
+The [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/) at GitLab offers a systematic way to scope Product Internships for learning. While not mandatory, it is helpful to select one of the tracks to focus on for the internship. Available tracks:
 
-- [Validation Track](https://about.gitlab.com/handbook/product-development-flow/#validation-track) - PM Intern will learn how to develop business cases for new ideas based on potential customer problems. This may also include the solution validation workflow where the PM Intern will collborate with UX to create designs for solutions to validated problems.
+- [Validation Track](https://about.gitlab.com/handbook/product-development-flow/#validation-track) - PM Intern will learn how to develop business cases for new ideas based on potential customer problems. This may also include the solution validation workflow where the PM Intern will collaborate with UX to create designs for solutions to validated problems.
 - [Build Track](https://about.gitlab.com/handbook/product-development-flow/#build-track) - PM Intern will learn how to break down issues and collaborate with engineering to turn UX designs into working software. 
 
-Selection of which track to pursue for the internship sould be based on the goals of the PM intern.
+Selection of which track to pursue for the internship should be based on the goals of the PM intern.
 
 ## Pre-internship tasks
 
