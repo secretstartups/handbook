@@ -44,7 +44,7 @@ GitLab will match up to 5% of annual base salary of the team member's contributi
 
 ### Enrollment
 
-To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in BambooHR under the "Benefits and ISO" folder for an audit trail.
+To enroll in the pension plan or to make changes to an existing contribution, please email `total-rewards@gitlab.com` with the desired percent contribution. Total Rewards will add Orca Financial `info@orca.ie` to the email thread. Orca will gather all relevant information from the team member to add to the pension plan. On the 7th of every month, Orca will send Payroll and Total Rewards a summary of any changes to the pension plan which Total Rewards will update in the appropriate payroll changes spreadsheet. Total Rewards will also file the original election email in BambooHR under the "Benefits and ISO" folder for an audit trail.
 
 After each pay cycle, Payroll will send Aviva (ccing Orca and Total Rewards) a spreadsheet with all contributions for Aviva to reconcile. 
 
