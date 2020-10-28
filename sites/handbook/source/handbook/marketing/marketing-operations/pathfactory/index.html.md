@@ -9,54 +9,9 @@ description: "PathFactory (PF) is leveraged as our content library & content dis
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Uses
-
-PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) and [Digital Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/) teams are primarily responsible for all the of the content within the PathFactory. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
-
-| **Team** | **Rules of Engagement** | **User Roles** |
-| ---- | ------------------- | ---------- |
-| Marketing Operations | Manage, quality assurance, user management, system integrations, training | Admin |
-| Marketing Program Managers | Add content, create and edit content tracks for use in campaigns | Author |
-| Content Marketing | Upload new content | Author |
-| Field Marketing | View content performance | Reporter |
-| Account Based Marketing | View content performance | Author |
-| Customer Reference Programs | Upload new case studies and customer content | Author |
-| Developer Evangelism | Upload new technical content for use in campaigns | Author |
-| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
-| All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
-
-## Access
-
-The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
-
-**User Roles**
-
-There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view the analtyics page within the tool.
-
-- `Admin` access is granted to Marketing Operations only.
-- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
-- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.
-
-## Training
-
-- [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires separate login)
-- [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
-- [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
-- [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
-- [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
-- [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
-
-## Issue templates
-
-**Marketing Operations**
-
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-
-**Digital Marketing**
-
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-
 ## What is PathFactory?
+
+PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ### PathFactory vs. Marketo
 
@@ -82,6 +37,51 @@ PathFactory is not a single source of truth (SSoT) for all GitLab content, but r
 **Digital Asset Management (DAM)** - Digital asset management (DAM) is a system that stores, shares and organizes digital assets in a central location.
 
 **PathFactory** - Content experience software used to allow buyers to binge-consume content, remove friction, and create more qualified leads, faster.
+
+## Access
+
+The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
+
+**User Roles**
+
+There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view analtyics within the tool.
+
+- `Admin` access is granted to Marketing Operations only.
+- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
+- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.
+
+### Rules of Engagement by Team
+
+| **Team** | **Rules of Engagement** | **User Roles** |
+| ---- | ------------------- | ---------- |
+| Marketing Operations | Manage, quality assurance, user management, system integrations, training | Admin |
+| Marketing Campaign Managers | Add content, create and edit content tracks for use in campaigns | Author |
+| Content Marketing | Upload new content, quality assurance | Author |
+| Field Marketing | View content performance | Reporter |
+| Account Based Marketing | Add content, create and edit content tracks for use in campaigns | Author |
+| Customer Reference Programs | Upload new case studies and customer content | Author |
+| Developer Evangelism | Upload new technical content | Author |
+| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
+| All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
+
+## Training
+
+- [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires separate login)
+- [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
+- [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
+- [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
+- [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
+- [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
+
+## Issue templates
+
+**Marketing Operations**
+
+- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
+
+**Digital Marketing**
+
+- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
 ## Changelog
 
