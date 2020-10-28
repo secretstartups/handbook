@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Support On-Call Guide
+description: "For customers that have Priority Support, the Support Engineering Team is on-call and available to assist with emergencies"
 ---
 
 ## On this page
