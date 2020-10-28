@@ -535,11 +535,11 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 
 {:.no_toc}
 
-1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections if gathered AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
+1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections, if gathered, AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
 1. Click the `Convert` button:
     - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#global-account-ownership))
     - Check the "Send Email to the Owner" box
-    - Lookup the correct `Account Name` - if unsure assign OPPORTUNITY to the "Parent" account
+    - Lookup the correct `Account Name` (remove company suffix to avoid duplicates) - if unsure assign OPPORTUNITY to the "Parent" account
     - Opportunity Name - using [Opportunity Naming Convention](#opportunity-naming-convention)
     - Click `CONVERT`
         - If CONTACT record exists, associate converted LEAD to existing CONTACT. _Do not create duplicate if possible_
