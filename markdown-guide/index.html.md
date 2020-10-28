@@ -221,7 +221,7 @@ or "read here." The link text should be meaningful even if taken out of context;
 
 ### Inline Links
 
-We'd rather use inline links, such as `[Text to display](link)`, as they are easier to maintain.
+We'd rather use inline links, such as `[Text to display](link)`, as they are easier to maintain. To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: `[Text to display](link){:target="_blank"}`
 
 ### Relative links
 
