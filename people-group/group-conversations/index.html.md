@@ -261,7 +261,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Eight | Thur | [Engineering ([Development](https://about.gitlab.com/handbook/engineering/development/), [UX](https://about.gitlab.com/handbook/engineering/ux/), [Quality](https://about.gitlab.com/handbook/engineering/quality), [Security](https://about.gitlab.com/handbook/engineering/security/))]   | Christopher Lefelhocz, Christie Lenneville, Mek Stittri, Johnathan Hunt  |
+| Eight | Thur | Engineering ([Development](https://about.gitlab.com/handbook/engineering/development/), [UX](https://about.gitlab.com/handbook/engineering/ux/), [Quality](https://about.gitlab.com/handbook/engineering/quality), [Security](https://about.gitlab.com/handbook/engineering/security/))   | Christopher Lefelhocz, Christie Lenneville, Mek Stittri, Johnathan Hunt  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation
