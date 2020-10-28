@@ -41,7 +41,7 @@ graph LR
     step_manager_compaas(Manager review<br/>in Compaas)
     step_exec_review_2(Executive review)
     step_manager_final(Manager informs<br/>direct reports of<br/>adjustment to<br/> compensation)
-    stop((New<br/>compensation<br/>effective 1<br/>Feb 2020))
+    stop((New<br/>compensation<br/>effective 1<br/>Feb 2021))
 
     start-->step_manager_review
     step_manager_review-->step_exec_review_1
@@ -54,6 +54,7 @@ graph LR
 
 ### Annual Compensation Review Timeline
 
+1. A member of the Total Rewards team will join the People Business Partner sync on a monthly basis at least one month before Annual Compensation Review begins. 
 1. Benchmarks and Location Factors
   * The Total Rewards team will review all benchmarks and location factors associated with the Compensation Calculator and propose revised inputs to the Compensation Group for approval/implementation.
 1. Performance Factors
@@ -69,6 +70,100 @@ graph LR
   * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance.
 1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Letters of adjustment are not necessary for annual compensation review changes.
+
+### Duties and Resposibilities
+
+The Total Rewards team and People Business Partners both play a vital role in ensuring the success of Annual Compensation Review. The Total Rewards team handles more of the "big picture" company-wide in the set up and administration of Annual Compensation Review while the People Business Partners take on more of the "details" related to their division.
+
+#### Total Rewards
+
+The Total Rewards team is responsible for setting up Annual Compensation Review, analytics, audits, and general communication. This includes (but is not limited to):
+* Ensuring all analyses (below) are created on time and all data inputs are reviewed and refreshed for the next FY. 
+* Setting up Compaas with eligible team members, managers, and approvers. Determining minimum recommended increases and loading these into Compaas. Providing Compaas with each team member's benchmark % increase, location factor % increase, and suggested increase parameters according to their performance factor.
+* Communicating timelines, what process is taking place, instructions, and deadlines to all relevant team members. 
+
+#### People Business Partners
+
+People Business Partners work with their teams to address any problems, help the Total Rewards team with communications, and help their team/executive review Compaas and any analyses that are created. This can include (but not limited to): 
+* Reviewing any concerns highlighted from the Total Rewards team during audits with their executive and determing with them the best course of action. 
+* Reviewing and editing communications to be sent out in order to reduce anticipated questions or confusion. They also assist with following up with team members where action is needed, for example, if a manager hasn't gone into Compaas yet and the deadline is approaching. 
+* Working with their teams to stay in budget.
+* Managing departmental review processes and timelines to meet the overall company timeline.
+
+### Analyses created for Annual Compensation Review
+
+#### Benchmarking Review
+
+Benchmarking review is an internal process completed by the Total Rewards team to determine any adjustments to role benchmarks for the next FY. 
+
+##### Process
+
+1. Create a copy of the `Benchmarking Analysis` sheet for the upcoming FY. 
+1. Ensure all job codes from the `Job Codes` sheet are in the `Benchmarking Analysis` and pull in updated Radford and Comptryx job codes. 
+1. Refresh the Radford and Comptryx survey tabs with the most recent data available. 
+1. Ensure the IC, Manager, Director, and Sales benchmark tabs have been updated with our currently used job codes. 
+1. Ensure formulas are in place for each row of the "Radford/Comptryx Job Codes" tab and that the median of the 50th and 75th are properly pulling into the benchmarks tabs. 
+1. Use the `Job Codes` sheet to refresh the current FY21 benchmarks. Compare our current benchmarks to the median of the 50th and 75th of the survey data (depending on the role) and make any recommendations based on market fluctuations. 
+1. Once the new benchmarks are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/job_families.yml).
+
+##### Timing
+
+The benchmark review is completed in November.
+
+#### Location Factor Review
+
+The location factor review is an internal process completed by the Total Rewards team to determinate any adjustments to location factors for the next FY. 
+
+##### Process
+
+1. Create a copy of the `Location Factor Review` sheet for the upcoming FY. 
+1. Ensure all location factors, including ones added throughout the year and ones marked for further review, have been added to the analysis. 
+1. Pull in refreshed data for all data sources: ERI, Robert Half, Numbeo Rent Index, Dice, Radford, and Comptryx. 
+   1. Check these resources for new matches to our location factors. 
+1. Using the refreshed data, compare the new data to our current location factor for fluctuations noting that we will not decrease a location factor.
+    1. "Everywhere else" data may need to be reduced to take out the inflated data from the separated out metro area.
+    1. "All" data that sees a significant increase may need to have the metro area separated. 
+    1. If the formula is overwritten, notate the reasoning why. 
+1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml). 
+
+##### Timing
+
+The location factor review is completed in November. It can be completed once the October ERI data refresh has been updated.
+
+#### Performance Factor Executive Audit
+
+The Total Rewards team will create this review for the executive of each division and their People Business Partner in order to audit and address any concerns with the performance factors submitted across their division. 
+
+##### Process
+
+TODO
+
+##### Timing
+
+All performance factors are to be submitted by November 30th. This can be finalized soon after all inputs are received. 
+
+##### People Business Partner Action Required
+
+The People Business Partner should familiarize themself with the output of this analysis and what has been flagged. They will review any issues that have been flagged with the leader of their division and advise Total Rewards of any changes. 
+
+#### Minimum Market Increase
+
+This will calculate the minimum amount necessary to ensure the team member is in range and will be loaded into Compaas as the minimum recommended increase from the Total Rewards team.
+
+##### Process
+
+1. Utilizing the `Comp Data Analysis and Modeling` sheet template, create a new report with all Annual Compensation Review eligible team members. 
+1. Overwrite their Location Factor and Benchmark with the updated inputs.
+1. Create a column that flags anyone with a compa ratio below 0.8 and another column that outputs how much they would need to be increased to fall into range. 
+1. Create a copy of this report for each division for People Business Partners to review and create a report for Compaas to upload using their template. 
+
+##### Timing
+
+Once all data inputs have been finalized, before Annual Compensation Review opens.
+
+##### People Business Partner Action Required
+
+Review and flag any concerns or possible data errors to the Total Rewards team. 
 
 ### Compensation Change Freeze
 
@@ -102,6 +197,10 @@ Managers will want to take into account any increases the team member received i
 Increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve.
 
 If a manager has a team member on their team who is red circled (paid over the top end of the compensation range), in order for the person to receive an increase, they will need to submit a compensation exception request with their People Business Partner to Total Rewards which will then be reviewed and approved by the Compensation Group. The Total Rewards team will notify the People Business Partners of the team members red-circled once the new ranges are set for proactive review.
+
+### Communicating Performance Factor
+
+Once all Performance Factors have been reviewed and approved and the Performance Factor Executive Audit has been complete, managers will be communicated to that they can share the final performance factor with their direct report. This will occur before Annual Compensation Review takes place intentionally so that way it is more focused on the growth and development of the team member rather than how this ties into compensation. 
 
 ### Manager Review
 
@@ -159,6 +258,28 @@ While some GitLab team-members may not receive an increase due to already being 
 * ![approver save and approve](/images/handbook/people-group/10_Compaas.png)
 1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
 * ![approver locked](/images/handbook/people-group/11_Compaas.png)
+
+##### Determining an Increase in Compaas
+
+When you review your team member's card in Compaas, you will see the recommended % increase for [performance factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review), the % increase in [benchmark](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark) (if applicable), and the % increase in [location factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#location-factor) (if applicable). These should be reviewed and used to develop a holistic increase. The recommendation is not to add these together to determine the increase, but use them as a factor in developing what the increase should be. If in doubt please discuss with your manager and/or People Business Partner to ensure a consistent allocation of the budget. 
+
+###### Examples
+
+Person A has the following characteristics:
+* Has been at GitLab for 6 months.
+* Rated "Performing" during Performance Factor Review: 3-7%
+* Location Factor: 5% increase 
+* Benchmark: 0% increase
+
+As Person A's manager, since they haven't been here for very long, I may have been considering giving them a 3-4% increase based on their performance factor. Taking their location factor increase into account, I may increase this to 4-5%. 
+
+Person B has the following characteristics: 
+* Has been at GitLab over 2 years.
+* Rated "Exceeding" during Performance Factor Review: 6-10%
+* Location Factor: 5%
+* Benchmark: 5%
+
+As Person B's manager, Person B is one of my top performers and I want to compensate them adequately for this. Based on the increases for their location factor and benchmark and their high performance, I may recommend a 12% increase and include a justification for indirect managers to review and approve my recommendation for an increase above 10%. 
 
 #### Iterations to Compaas
 
