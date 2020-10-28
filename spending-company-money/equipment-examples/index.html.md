@@ -26,7 +26,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
   * Kensington UH4000 4 Port USB Hub 3.0 - [US](https://www.amazon.com/Kensington-UH4000-Port-USB-3-0/dp/B00O9RPP28/)
   * YXwin USB C Hub 6-in-1 Adapter including Ethernet - [UK](https://www.amazon.co.uk/YXwin-Adapter-Delivery-1000mbps-Ethernet/dp/B07PSM6RQS/)
   * HyperDrive 4 in 1 USB C Adapter - [India](https://www.amazon.in/HyperDrive-Thunderbolt-Macbook-MacBook-Devices/dp/B01M7O0WF4/)
-  * UGREEN USB-C Hub 9-in-1 - [US](https://www.amazon.com/UGREEN-Multiport-Ethernet-Charging-Compatible/dp/B076HN81GS/), [ethernet-to-usb driver](https://www.asix.com.tw/products.php?op=pItemdetail&PItemID=131;71;112&PLine=71)
+  * Anker PowerExpand+ 7-in-1 - [US](https://www.amazon.com/Anker-Upgraded-Delivery-Pixelbook-A83460A2/dp/B07ZVKTP53/)
 
 #### USB Docks
   * CalDigit TS3 Plus (**Will require Manager Approval to expense due to cost**) - [US](http://shop.caldigit.com/us/index.php?route=product/product&product_id=170), [UK](http://shop.caldigit.com/uk/index.php?route=product/product&product_id=174)
