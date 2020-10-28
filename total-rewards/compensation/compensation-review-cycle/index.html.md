@@ -13,6 +13,12 @@ title: Compensation Review Cycle
 
 On this page, we explain how we review our Compensation Calculator and carry out the Compensation Review Cycle.
 
+## Contact Total Rewards
+If you have any feedback or questions about the compensation review cycle, please contact Total Rewards:
+ - Email: total-rewards@gitlab.com
+ - Slack: #total-rewards
+ - Open an [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/issues)
+
 ## Compensation Review Cycle
 
 GitLab goes through 2 compensation reviews:

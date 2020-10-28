@@ -21,6 +21,12 @@ description: Find answers to your questions about GitLab's benefits.
 
 On this page, you can find information about the principles that guide GitLab's benefit strategies and decisions.
 
+## Contact Total Rewards
+For any questions relating to benefits, please reach out to Total Rewards:
+ - Email: total-rewards@gitlab.com
+ - Slack: #total-rewards
+ - Open an [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/issues)
+
 ## Guiding Principles
 
 These principles will guide our benefit strategies and decisions.
