@@ -2011,7 +2011,13 @@ Mentioning the people in the body of the issue will trigger the notification mec
 chosen by the people who are mentioned - therefore there is no need to notify
 people in another channel after the issue has been created (Slack, email).
 
-GitLab product issues will often have one of the two [type labels](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#type-labels) `~bug` or `~feature`. Features can be further clarified as `~feature::addition` or `~feature::maintenance`. The rough guidance here being that additions are new features vs. maintenance is follow-on work to existing features. There are also other higher precedence labels, as documented by [Engineering throughput](/handbook/engineering/management/throughput/#implementation).
+GitLab product issues will often have one of the two [type labels](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#type-labels) `~bug` or `~feature`. Features can be further clarified as:
+
+- `~feature::addition` refers to an entirely new workflow that gives users new capabilities
+- `~feature::enhancement` refers to user-facing improvements to an existing workflow (for example, [making it easier to remove labels from issues](https://gitlab.com/gitlab-org/gitlab/-/issues/216881) or [adding the ability to insert a YouTube video using Static Site Editor](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/44102))
+- `~feature::maintenance` refers to non-user-facing changes to an existing workflow (for example, [updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22) or [recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322))
+
+There are also other higher precedence labels, as documented by [Engineering throughput](/handbook/engineering/management/throughput/#implementation).
 
 When considering whether an issue is [a missing feature or a bug](/handbook/product/product-processes/#issues), refer to the [definition of an MVC](/handbook/values/#minimal-viable-change-mvc) and [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) for general guidance that works well in most cases. If in doubt - think from our customer's perspective - not our internal one - focus on whether it is valuable for our customers and should be prioritized. In the long run it won't matter whether we called it a bug or a feature -what would matter is if we focused on the right things to deliver to our users. Remember that bug fixes can be fast and iterative. See an example where the Package team found, researched, designed, implemented, and merged a small fix in 24 hours, while also planning a longer-term fix to follow.
 
