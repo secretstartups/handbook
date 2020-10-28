@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Diagnose Errors on GitLab.com
+description: This guide provides resources for diagnosing HTTP 5XX errors on GitLab.com. 
 category: GitLab.com
 ---
 

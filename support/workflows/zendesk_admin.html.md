@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Admin
 category: Zendesk
+description: To add or remove "full" agents from our Zendesk account, contact Zendesk support through the email address contained in the Support vault on 1Password titled "Zendesk Account Manager".
 ---
 
 ## On this page
