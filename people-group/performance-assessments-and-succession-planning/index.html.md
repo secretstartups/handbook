@@ -141,7 +141,7 @@ Medium potential generally refers to a team member who is growing in their curre
 
 ### High
 
-High potential generally indicates that a team members will be ready for promotion within the next year (or when an opportunity arises). High potential team members:
+High potential generally indicates that a team member will be ready for promotion within the next year (or when an opportunity arises). High potential team members:
 
 * Frequently seek involvement in stretch project/projects outside of their scope
 * Invest in their development; seeks feedback to improve and applies that feedback on the job 
