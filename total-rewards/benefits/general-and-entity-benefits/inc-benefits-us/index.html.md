@@ -590,7 +590,7 @@ Team members who wish to elect additional life insurance above what is provided 
 
 If you elect greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process. 
 
-Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field. 
+Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field and for security, you may also leave the Social Security Number field blank. 
 
 Once complete, please send the form to `total-rewards@ domain` and `support@lumity.com`. Lumity and the Total Rewards team will then help fill in any missing information, if applicable, and Lumity will forward to the carrier for review. Lumity will confirm receipt of the EOI with the carrier, track its status, and reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
 
