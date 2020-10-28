@@ -29,7 +29,7 @@ Note: PeopleOps is not responsible for creating or maintaining the templates, ea
 is responsible for creating the templates for their roles. This is also explained in the
 [README](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/README.md) of the project.
 
-Here's a video with the People Ops Engineer going over the AR automation. They discuss
+Here's a video with the People Group Engineer going over the AR automation. They discuss
 how it works and how a template can be added.
 
 <figure class='video_container'>
