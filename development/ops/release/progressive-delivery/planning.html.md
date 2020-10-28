@@ -43,11 +43,14 @@ We use the following boards are used to monitor this process
 ### Process in detail
 
 #### Plan
-
-We use the [Planning Boards](#planning-boards) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label (_group::release management_ or _group::progressive delivery_).
-
-The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
-
+ 
+The Product Manager (PM) creates a quarterly epic in order to plan the next 3 milestones.
+* [FY22 Q1 Progressive Delivery Goals](https://gitlab.com/groups/gitlab-org/-/epics/4696)
+* [FY21 Q4 Progressive Delivery Goals](https://gitlab.com/groups/gitlab-org/-/epics/3794)
+* [FY21 Q3 Progressive Delivery Goals](https://gitlab.com/groups/gitlab-org/-/epics/3392)
+* [FY21 Q2 Progressive Delivery Goals](https://gitlab.com/groups/gitlab-org/-/epics/2636)
+The quarterly goals hold a list of issues that are prioritized by order (top to bottom) and have an estimated milestone and weight. The work of the entire team is then driven by this list in terms of research, refinement, weight estimation, planning, implementing and ultimately delivery. The issues follow the phases listed below and then make their way into the team's planning issues. Each milestone has a [planning issue](https://gitlab.com/gitlab-org/ci-cd/progressive_delivery/-/blob/master/.gitlab/issue_templates/ReleaseTemplate.md) that the team can collaborate on asynchronously. The issues listed in the quarterly goals receive the highest priority and are listed under the top priority deliverables of the planning issue which also includes User Experience and research issues in addition to bugs, security and tech debt fixes.
+ 
 In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](/handbook/product-development-flow/#validation-track), as follows:
 
 ##### Problem validation
