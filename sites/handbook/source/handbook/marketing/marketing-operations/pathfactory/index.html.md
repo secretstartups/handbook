@@ -698,7 +698,7 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 | PathFactory Experience Name | The PathFactory track name - [more details](#content-tracks) |
 | PathFactory External ID | A non-unique ID that can be added to tracks &/or assets, which can be leveraged to organize content and configure it in Marketing Automation Platform (i.e Marketo) |
 | PathFactory Funnel State | Each asset is tagged with stage of funnel most applicable to asset - Top of Funnel, Middle of Funnel or Bottom of Funnel |
-| PathFactory Query String | |
+| PathFactory Query String | Returns any values captured by a query string which you have added to the content experience URL. |
 | PathFactory Query String Value | The value of a key in the query string. |
 | PathFactory Topic List | Assets are tagged by **topic**. This is manually set & aligns with the [tracking content](#tracking-content) list. |
 | PathFactory Track Custom URL | The custom URL of the content track. |
