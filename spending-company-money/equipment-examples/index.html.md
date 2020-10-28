@@ -80,7 +80,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
   * Mpow 059 Bluetooth Over Ear Headphones - [US](https://www.amazon.com/dp/B077XT82DD/)
   * JBL T450BT On-ear Bluetooth Headphones - [Germany](https://www.amazon.de/dp/B01M6WNWR6/)
   * Apple AirPods - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers)
-    * Note: AirPods have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
+    * Note: It is often difficult to hear team members who are using the microphone on AirPods. Consider using an [external microphone](https://about.gitlab.com/company/culture/all-remote/workspace/#microphones).  AirPods also have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
 
 Keep in mind, open-ear headphones can often be worn longer than in-ear or closed headphones.
 
