@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Manager Best Practices"
+description: "Successful management includes onboarding, reviewing Command Plans, opportunity coaching, strategic coaching, career development and performance management"
 ---
 
 ## On this page

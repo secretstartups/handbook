@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Channel Operations"
+description: "This page serves as the Channel Operations team page and includes standard channel reporting links, and details for managing Channel opportunities" 
 ---
 
 ## On this page

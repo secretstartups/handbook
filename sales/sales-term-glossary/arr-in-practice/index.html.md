@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "ARR in Practice"
+description: "This page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the Sales Term Glossary Page"
 ---
 
 ## On this page

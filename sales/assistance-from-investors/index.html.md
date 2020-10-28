@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Assistance from Investors"
+description: "This page overviews how GitLab's investors and board members can assist in deals"
 ---
 
 ## On this page

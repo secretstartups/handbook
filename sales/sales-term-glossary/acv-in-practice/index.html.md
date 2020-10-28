@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "iACV in Practice"
+description: "This page includes a deep-dive into the definition of iACV at GitLab and is a sub-page of the Sales Term Glossary Page"
 ---
 
 ## On this page

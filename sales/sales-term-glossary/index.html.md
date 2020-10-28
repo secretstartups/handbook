@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Term Glossary"
+description: "Definitions of key terms for the WW Field Team"
 ---
 
 ## On this page

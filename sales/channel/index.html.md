@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Channels"
+description: "The purpose of this page is to provide the  GitLab Sales team insights on the GitLab channel partner community and how to best work with our partners"
 ---
 
 ## On this page
