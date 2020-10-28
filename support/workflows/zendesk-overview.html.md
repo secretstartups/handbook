@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Overview
 category: Zendesk
+description: Overview of Zendesk includes Apps, Business Rules, Emails, Organizations, Macros, Reporting and many more.
 ---
 
 ## On this page

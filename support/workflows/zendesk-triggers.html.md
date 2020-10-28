@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Triggers
 category: Zendesk
+description: Triggers are business rules we have defined to run immediately after tickets are created or updated.
 ---
 
 ## On this page
