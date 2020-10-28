@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Michael Lunøe's README"
-job: "Senior Frontend Engineer, Manage:Analytics"
+job: "Senior Frontend Engineer, Manage:Value Stream Management"
 ---
 
 ## Michael Lunøe README
