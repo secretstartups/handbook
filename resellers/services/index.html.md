@@ -31,7 +31,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
   <tr>
    <td>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Channel Service Program/gitlab-professional-services-partner.png" width="" alt="alt_text" title="image_tooltip">
@@ -39,7 +39,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
    </td>
    <td>
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Channel Service Program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
@@ -47,7 +47,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
    </td>
    <td>
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
 
 
 <img src="images/Channel Service Program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
