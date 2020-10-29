@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Metrics Analysis Workgroup
+description: "Support team metrics analysis workgroup overview"
 ---
 
 ## On this page
