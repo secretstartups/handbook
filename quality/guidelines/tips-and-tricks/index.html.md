@@ -30,7 +30,7 @@ registry.gitlab.com/gitlab-org/omnibus-gitlab/gitlab-ee:41b42271ff37bf79066ef308
 ```
 
 Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines)
- with a `RELEASE` variable and use the copied string as its value. Run the pipeline against the branch that
+ with a `RELEASE` variable and use the copied string as its value. Also, add the `CI_MERGE_REQUEST_IID` variable which corresponds to the Merge Request ID with the changes in GitLab QA. Run the pipeline against the branch that
  has your changes.
 
 ## Determine the version, revision, branch and package deployed in GitLab environments:
@@ -186,4 +186,19 @@ For example, the following command will delete all SSH keys with a title that in
 
 ```shell
 GITLAB_QA_ACCESS_TOKEN=secret GITLAB_ADDRESS=https://staging.gitlab.com bundle exec rake "delete_test_ssh_keys[E2E test key:, 2020-08-02]"
+```
+
+#### Set default password and create a personal access token
+
+There is a rake task to set the default password (from `Runtime::User.default_password`) if it's not set already, and it creates a personal access token.
+
+This is useful when testing on a fresh GitLab instance (e.g., an omnibus-gitlab docker image) and you don't want to have to log in and create an access token manually.
+
+Usage example (run from the `gitlab/qa` directory):
+
+```shell
+$ bundle exec rake  'initialize_gitlab_auth[http://gitlab.test]'
+Signing in and creating the default password for the root user if it's not set already...
+Creating an API scoped access token for the root user...
+Token: s8xbMN3qMjyUyQATDWgp
 ```

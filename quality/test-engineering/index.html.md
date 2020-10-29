@@ -124,6 +124,12 @@ To summarize, we want to track our tests in a Native Continuous Delivery way.
 * An emphasis on tracking alignment in the lower test levels in the pyramid.
 * An emphasis on intelligent test design using [Test Heuristics](#test-heuristics) design.
 
+#### Risk Mapping
+
+Another way to gauge test coverage and mitigation of risks is to use a [risk map](https://about.gitlab.com/blog/2020/09/03/risk-mapping/). Making a risk map will show not only where the product is not tested, but also how severe the impact of a failure in that area is likely to be. Knowing both the risk area and the impact a failure could produce helps guide where to begin implementing future tests.
+
+The [Global Search](https://about.gitlab.com/handbook/engineering/development/enablement/search/) team has undertaken this effort before here: https://gitlab.com/gitlab-org/gitlab/-/issues/229431. If future teams attempt to implement a risk map this documentation may grow over time to reflect their experiences.
+
 ### Test Heuristics
 
 #### Why Care?
@@ -275,7 +281,7 @@ How can we use these heuristics? Are there others? The next section answers thos
     - This is just what it sounds like and often critical testing if they are identified correctly.
   - Personae
     - Adopt the personality of expected user personas. Modify your testing behavior to mimic the knowledge, focus, and concerns of the persona.
-    - See the [personas](/handbook/marketing/product-marketing/roles-personas/#user-personas) defined here as an example.
+    - See the [personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) defined here as an example.
   - Soap Operas
     - This kind of testing is based on "real life" situations, but are condensed and more extreme, like a soap opera.
     - As an example, a user pushes a branch and creates a merge request. The user then closes the merge request and deletes the branch because they had difficulty with a conflict. They delete their local branch, recreate with the same name, make their updates cleanly, then push and open another merge request, all within a short period of time.
