@@ -14,7 +14,7 @@ category: Legal
 
 As of March 2019, the Trust and safety Team has taken ownership of DMCA Requests.
 
-Read more about the DMCA Workflow here: [Abuse DMCA Request](/handbook/engineering/security/operations/abuse/dmca-removal-requests.html).
+Read more about the DMCA Workflow here: [Abuse DMCA Request](/handbook/engineering/security/operations/trustandsafety/dmca-removal-requests.html).
 
 ## Submitting a DMCA Request
 
