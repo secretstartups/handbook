@@ -43,7 +43,7 @@ D --> F[Unfiltered]
 
 The main blog is our official corporate blog, whereas the Unfiltered blog is more like a peer-to-peer publishing platform.
 
-Unfiltered is not a consolation prize or the death knell for blog posts! Many Unfiltered posts get plenty of attention without being on the main blog or getting promotion on branded social channels. Some of these are then featured on the main blog, but some posts may be better suited for Unfiltered anyway, for example if the blog post topic is personal, not something that GitLab the company or product would talk about. In this case an Unfiltered post could come across as more authentic, as it hasn't gone through the official publishing process and therefore can be perceived as coming directly from the author, vs from GitLab itself.
+Unfiltered is not a consolation prize or the death knell for blog posts! Many Unfiltered posts get plenty of attention without being on the main blog or being promoted on branded social channels. Sometimes, Unfiltered posts are well suited to the main blog, in which case we will feature them. Many posts are better suited for Unfiltered anyway, for example, if the blog post is about your personal experience as a new team member at GitLab, that is not something that GitLab the company or product would talk about. In this case, an Unfiltered post could come across as more authentic, as it hasn't gone through the official publishing process and therefore can be perceived as coming directly from the author, vs from GitLab itself.
 
 As mentioned above, you can publish to Unfiltered as often as you like, get your posts up much faster, and don't need to ensure that they align with our content strategy.
 
