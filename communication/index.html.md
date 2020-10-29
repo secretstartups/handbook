@@ -432,6 +432,11 @@ _Using call attendance data along with feedback and suggestions provided by team
 1. The call will start promptly. The call will not be recorded. There is no intent to have discussion or Q&A around the call.
 1. No previous experience is necessary, nothing extra is needed other than a comfortable seat and 15 minutes.
 
+## Walk and Talk Calls
+A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in an MR. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
+
+The team members can use Zoom on their mobile device with the audio only function, or call one another from their preferred mobile device.  A walk and talk call should be agreed to in advance to ensure that the local weather is compatible for a walk in both locations and that the walk and talk call fits into both team members’ schedules. 
+
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
 
