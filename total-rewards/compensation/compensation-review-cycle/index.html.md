@@ -185,7 +185,7 @@ The People Group is developing guidelines and the assessment tool for how the Pe
 
 ### Performance Factor and Annual Compensation Review
 
-Guidelines from Total Rewards for discretionary increases based on performance factor:
+Recommendations from Total Rewards for discretionary increases based on performance factor:
 * Developing in role = 0-3% increase
 * Performing in role = 3-7% increase
 * Exceeding in role = 6-10% increase
@@ -194,7 +194,7 @@ These recommendations are **only guidelines** to ensure consistency in the appli
 
 Do not expect that the final discretionary increases will fall into these ranges, as performance is only one factor out of many that goes into compensation adjustments.
 
-Managers will want to take into account any increases the team member received in the last fiscal year (for example, due to promotion, transfer, catch-up compensation review, etc) or if the team member was recently hired and already aligned to market/performance rates. Once a manager determines the performance increase percent, the manager should be able to clearly communicate to the team member how it was derived.
+Managers should take into account any increases the team member received in the last fiscal year (for example, due to promotion, transfer, catch-up compensation review, etc.) or if the team member was recently hired and already aligned to market/performance rates. After a manager determines the performance increase percent, he or she should be able to clearly communicate to the team member how it was derived.
 
 Increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve.
 
