@@ -50,6 +50,7 @@ conversation at least once a quarter.
 
 ### Opportunity
 
+The GitLab Engineering career track offers a full path of opportunity for individuals to contribute. The availability of senior engineering roles starting at Staff Engineer will be governed by the IC Gearing Ratios (TBD).  
 There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.  
 
 These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.  
