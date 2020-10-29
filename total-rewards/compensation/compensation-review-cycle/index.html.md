@@ -190,7 +190,11 @@ Recommendations from Total Rewards for discretionary increases based on performa
 * Performing in role = 3-7% increase
 * Exceeding in role = 6-10% increase
 
-These recommendations are **only guidelines** to ensure consistency in the application of discretionary increases company wide. Actual increases may vary based on changes to local market rates, where someone falls in the compensation range, previous increases, and budget constraints. 
+<span style="color:red">**Your compensation increase may vary (up or down) from these percentages.**</span> These guidelines are meant to help ensure company-wide consistency. Actual increases may vary based on:
+
+* Changes to local market rates  * Where you fall in the compensation range 
+* Previous increases 
+* Budget constraints 
 
 Do not expect that the final discretionary increases will fall into these ranges, as performance is only one factor out of many that goes into compensation adjustments.
 
