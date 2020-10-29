@@ -66,30 +66,32 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 
 ## Training & Support
 
-### Quick Links
+### Support
 
-1. [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires user in PathFactory and separate password)
-1. [PathFactory Service Status](http://status.pathfactory.com/)
+1. [Knowledge base, _The Nook_](https://lookbookhq.force.com/nook/s/kb) (requires user in PathFactory and the email you use for PathFactory will be the same to access The Nook, however, the password is not.)
 1. [Success Series Webinars](https://customer.pathfactory.com/l/success-series-recordings)
+1. [PathFactory Ideas Portal](https://ideas.pathfactory.com/portal_session/new)
+1. [Release Notes](https://nook.pathfactory.com/nook/s/module?m=release-notes) (requires access to _The Nook_)
 
-## Training
+### Training
 
-
-- [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
-- [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
-- [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
-- [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
-- [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
+1. [The Path to Understanding: Onboarding Training](https://lp.pathfactory.com/PathFactory-Onboarding.html)
+1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
+1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
+1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
+1. [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
 
 ## Issue templates
 
-**Marketing Operations**
+**[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
 
 - [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
-**Digital Marketing**
+**[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
+1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+1. Pathfactory Bulk Upload Request: https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk
+1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
 ## Changelog
 
@@ -111,16 +113,12 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Add the date you made the change if it doesn't already exist.
 1. Add a bullet with your GitLab username and document the changes you made, making sure to include links to issues or relevant PathFactory links.
 
-## Request a content track
-
-PathFactory is primarily a demand generation tool that allows leads and prospects to self-nurture with content that is bundled in a personalized experience. As a result, marketing program managers are the DRIs for creating content tracks for use in campaigns, event marketing, and email nurture streams. If you would like to request a content track, please open an issue in the digital marketing programs repository using the [PathFactory request issue template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=pathfactory_request) and assign it to your designated MPM. If you require a content track outside of this use case, please use the [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md) issue template in the marketing operations project and provide a detailed business case.
-
 ## Content library
 
 **Before uploading content:**
 
 1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
-1. Use the search to determine if it’s already been added. If you try to add an asset that's already in the library, the system will tell you it already exists.
+1. Use the search to determine if it’s already been added. If you try to add a file or URL that's already in the library, the system will tell you it already exists.
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
 
@@ -130,7 +128,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Choose how you will upload the asset (Website URL, file upload, or CSV).
     - For a Website URL, copy/paste the URL. For multiple URLs, paste one per line.
     - For a file upload, select this option and either drag and drop the file onto the file upload window or select it from your computer. Files can be up to 100MB.
-    - If you want to [bulk upload multiple assets using the CSV option](#bulk-upload), create an issue in the Marketing Operations project and assign `@sdaily`.
+    - [Follow the bulk upload instructions](#bulk-upload) to upload multiple assets to the content library via CSV.
 1. Enter the title of the asset under `Public Configurations`. Ensure that the title is free of SEO meta information such as `| GitLab`.
 1. Provide a clear and concise description of the content if one does not exist.
 1. Select the content type from the dropdown.
@@ -148,7 +146,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Select the asset you just added to the library. A preview of the content will appear on the right-hand side of the content library. Scroll down the window pane under `source URL` and locate `Custom URL slug`.
 1. Update the custom URL slug to be descriptive of the content with no stop words (and, the, etc.).
     1. **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared and break the asset consumption tracking via [listening campaign](#listening-campaigns).
-    1. If a URL slug needs to be modified, please open an issue, assign to `@sdaily`.
+    1. If a URL slug needs to be modified, please open an issue in the marketing operations project. 
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is _not secure_, it _will not_ show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
 
 
@@ -167,11 +165,13 @@ If you need to replace an asset source but keep the same link, you can do so fro
 
 ### Bulk upload
 
-You can bulk upload multiple assets to the content library via a CSV file.
+You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/article/csv-upload) to the content library via a CSV file.
 
-1. Make a copy of this [CSV template](https://drive.google.com/a/gitlab.com/file/d/1Ad4iSwHt2bdRKp5GGUZtrtzY5YShZlyI/view?usp=sharing) for your upload.
-1. Provide all the information in the template for your new assets and save as a CSV.
-1. Create an issue and tag `@sdaily` to review the template and upload to PathFactory.
+1. Download this [CSV template](https://d1nk153xyqlyhl.cloudfront.net/Content_CSV_Template.csv). This CSV file has the exact format as the CSV bulk upload template.
+1. Provide all the information in the template for your new assets and save as a CSV. 
+1. Follow the standard procedure for uploading content and select CSV upload. 
+1. Upload your file and select the checkbox `Overwrite all duplicate content assets`. 
+1. Select the `Upload File` button.
 
 ### Analyst reports
 
