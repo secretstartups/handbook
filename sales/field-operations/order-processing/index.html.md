@@ -731,12 +731,12 @@ For all Direct Deals (Sales Assisted Opportunities) the customer must sign the A
 </details>
 
 <details>
-<summary markdown="span"><b>Specific Requirements for Authorized Reseller opportunties, click to learn more!</b></summary>
+<summary markdown="span"><b>Specific Requirements for Authorized Reseller, Authorized Distributor, and Managed Service Provider (MSP) opportunties, click to learn more!</b></summary>
 
-An Authorized Reseller is an approved partner with an active contract with GitLab in place. For opportunities where an Authorized Reseller will purchase and resell to an End User:
+An Authorized Reseller, Distributor, or MSP is an approved partner with an active contract with GitLab in place. For opportunities where an any of these partners will purchase and resell to an End User:
 
-1. Authorized Reseller must issue a PO that references the GitLab Order Form Quote No. The Authorized Reseller Order Form template must be attached to the opportunity and DOES NOT require Signature from the reseller. The template includes reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
-1. GitLab will accept the Authorized Reseller Order Form without signature, and the Reseller PO, PROVIDED THAT: 
+1. Authorized Reseller or Distributor must issue a PO that references the GitLab Order Form Quote No. The Authorized Reseller Order Form template OR the Distributor Order Form template must be attached to the opportunity and DOES NOT require Signature from the reseller.  The template includes reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
+1. GitLab will accept the Authorized Reseller or Distributuor Order Form without signature, and the Reseller PO, PROVIDED THAT: 
    * The Order Form includes the correct reference to the Master Partner Agreement or Authorized Reseller Agreement and other terms; and 
    * The PO received is issued to the correct GitLab entity and references the applicable Order Form Quote No. which includes, Quote ID, products, # of users, term, and pricing of the subscription(s). 
 1. Clickthrough EULA must be delivered and accepted by the End User. Please attach a Note to the Notes and Attachments section with a confirmation link or email.
