@@ -102,7 +102,7 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 ### **Step 5: Weekly Check-In Issue**
 
-* Once a requisition is opened, the recruiter creates a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/weeklycheck-in.md). Each week a requisition is open, the recruiter will update the issue. The participants are the Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment. 
+* Once a requisition is opened, the recruiter creates a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md). Each week a requisition is open, the recruiter will update the issue. The participants are the Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment. 
 
 * Each req belongs to two [Epics](https://gitlab.com/groups/gl-recruiting/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs. 
 
