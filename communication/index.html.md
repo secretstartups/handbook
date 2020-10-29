@@ -251,7 +251,7 @@ Some things are **internal**, available internally but not externally. The follo
 
 1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   1. the specific [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) of an opportunity;
+   1. the specific [IACV](/handbook/sales/sales-term-glossary/acv-in-practice) of an opportunity;
    1. total monthly cash inflow/outflow for GitLab.com;
    1. spend of more than 10%;
    1. a department's cost;
