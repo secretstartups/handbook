@@ -185,7 +185,7 @@ The People Group is developing guidelines and the assessment tool for how the Pe
 
 ### Performance Factor and Annual Compensation Review
 
-Recommendations from Total Rewards for discretionary increases based on performance factor:
+Guidelines from Total Rewards for discretionary increases based on performance factor:
 * Developing in role = 0-3% increase
 * Performing in role = 3-7% increase
 * Exceeding in role = 6-10% increase
