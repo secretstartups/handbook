@@ -102,12 +102,18 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 ### **Step 5: Weekly Check-In Issue**
 
-* Each week the req is open the CES creates a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-weekly-check-in.md) in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment. 
+* Once a requisition is opened, the recruiter creates a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/weeklycheck-in.md). Each week a requisition is open, the recruiter will update the issue. The participants are the Recruiter, Sourcer and fyi for the Hiring Team. The issue is used to update the health of the req, report on KRs, as well as allow for interview alignment. 
 
 * Each req belongs to two [Epics](https://gitlab.com/groups/gl-recruiting/-/epics); one parent and one child epic. The parent epics can be used as a dashboard to show the funcitional leader the overall health of their open reqs. 
 
 We use **On track**, **Needs attention**, and **At risk** to define the requisition's health to provide hiring teams and E-Group members with a high-level insight into recruiting efforts. When assigning a **Health Status**, consider the diversity of the pipeline, what the pass through rate is at each stage, and whether you'd expect to make a hire at or close to the expected start date. 
 
+If the recruiter needs to add additional rows to the table, please copy and paste the following markdown guide at the very end of the markdown in the issue:
+
+`
+| 20xx/mo/day | <ul><li>[ ] Yes, Diversity sourcing was used <ul><li>[ ] No, Did not use</li></ul> <ul><li>[ ] Not actively sourcing</li></ul> |  <ul><li>[ ] Yes, reason in comments</li></ul>  <ul><li>[ ] No, not needed</li></ul> |
+| 20xx/mo/day | <ul><li>[ ] Yes, Diversity sourcing was used <ul><li>[ ] No, Did not use</li></ul> <ul><li>[ ] Not actively sourcing</li></ul> |  <ul><li>[ ] Yes, reason in comments</li></ul>  <ul><li>[ ] No, not needed</li></ul> |
+`
 
 
 ### **Step 6: Interview Stages**
