@@ -387,13 +387,19 @@ When current team members transition to roles and become managers of people, the
 
 ## Performance Indicators
 
-### Engagement Survey Growth and Development Score > X%
+- **Engagement Survey Growth and Development Score > X%**
 
 Questions related to growth and development on the semi-annual [Engagement Survey](/handbook/people-group/engagement/) have a favorable score. The exact target is to be determined.
 
-### Rate of internal job promotions > X%
+- **Rate of internal job promotions > X%**
 
 Total number of [promotions](/handbook/people-group/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
 
-### 12 month voluntary team member turnover related to growth < X%
+- **12 month voluntary team member turnover related to growth < X%**
+
 This is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but is using the number of team members actively choosing to leave GitLab to growth and development related reasons only. The target is to be determined.
+
+- **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
+
+Questions related to Learning & Development opportunities at GitLab through [Exit Survey Data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#)
+
