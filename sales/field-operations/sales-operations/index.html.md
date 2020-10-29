@@ -222,7 +222,7 @@ Contacts, and Leads, Verify and Save)
 
 - [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
 - [Sales Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
-- [Focus Fridays](/handbook/sales/#focus-fridays)
+- [Focus Fridays](/handbook/sales/sales-meetings)
 - Field Operations Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_hhs5o85g05lho9agbkfhv8lc40%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -559,4 +559,3 @@ Below are instructions on how Sales Operations offboards users within the variou
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps). 
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
-

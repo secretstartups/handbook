@@ -57,7 +57,7 @@ If you answered no to any of these questions, consider the playbook for Tier 2 u
 * The update should leverage these communication channels: 
     * [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/) - For real-time, asynchronous communication that gives context around the announcement, shares enablement resources, and clearly defines a CTA. 
     * #sales-managers Slack channel - To garner manager-level awareness and solict manager help cascading updates and time-sensitive CTAs to their teams.  
-    * [WW Field Sales Call](/handbook/sales/#bi-weekly-ww-field-sales-call) - For synchronous communication that amplifies the announcement and allows the DRI and leadership to field any questions/concerns.
+    * [WW Field Sales Call](/handbook/sales/sales-meetings) - For synchronous communication that amplifies the announcement and allows the DRI and leadership to field any questions/concerns.
     * Segment Updates for Field Leaders - To arm managers with the necessary information to discuss the update with their teams and reiterate any CTAs. 
     * [Field Flash newsletter](/handbook/sales/field-communications/field-flash-newsletter/) - To reiterate/recap the news and link to enablement resources. 
     * [Enablement/CS Webinar](/handbook/sales/training/sales-enablement-sessions/) - To deep-dive into the update and any resulting behavioral/procedural changes. 
@@ -94,7 +94,7 @@ If you answered no to any of these questions, consider the playbook for Tier 3 u
 * The update should leverage these communication channels: 
     * [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/) - For asynchronous communication that gives context around the update and shares any relevant resources. 
         * Note: Tier 2 announcements will be prioritized after Tier 1 announcements – i.e. if a Tier 1 announcement needs to go out, the Tier 2 announcement will be held until the next business day. (For more information, see [best practices.](/handbook/sales/sales-google-groups/field-fyi-channel/))
-    * [WW Field Sales Call](/handbook/sales/#bi-weekly-ww-field-sales-call) - For synchronous communication that includes only a brief mention to amplify the update and points the field to where to direct questions. 
+    * [WW Field Sales Call](/handbook/sales/sales-meetings) - For synchronous communication that includes only a brief mention to amplify the update and points the field to where to direct questions. 
     * Segment Updates for Field Leaders - To arm managers with the necessary information to discuss the update with their teams. 
     * [Field Flash newsletter](/handbook/sales/field-communications/field-flash-newsletter/) - To reiterate/recap the news and link to enablement resources. 
         * Note: Tier 2 announcements will be prioritized after Tier 1 announcements – i.e. if there are too many updates to include, field comms will highlight Tier 1 announcements first. 
@@ -169,5 +169,3 @@ Ongoing feedback and participation from the field is imperative to the success o
    1. Deferred (tag: `FC Feedback::Deferred`) - Field Communications feedback that will be deferred until more information is gathered or until more bandwidth becomes available
    1. Declined (tag: `FC Feedback::Declined`) - Field Communications feedback that is declined (no action will be taken)
 - Field Communications will respond to each issue with rationale behind its disposition and will keep issue stakeholders updated on progress or completion if the issue is accepted or deferred.
-
-
