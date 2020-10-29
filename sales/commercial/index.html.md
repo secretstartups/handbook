@@ -378,8 +378,8 @@ Co selling is the responsibility of both the Account Executive and their Area Sa
 Area Sales Managers have an expectation to log a minimum of 5 co-selling calls per rolling 7 days, although we are aiming to achieve closer to 10-12 calls over a rolling 7 days.
 
 ### Co-Selling Roles
-* Pilot: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
-* Co- Pilot: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this. 
+* Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
+* Co- Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this. 
 
 ## Center of Excellence
 
