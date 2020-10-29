@@ -168,7 +168,7 @@ To apply for this program, please send a completed [Your 4th Trimester Form](htt
 
 1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
 1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
-1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia), notify payroll.
+1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
 1. Total Rewards will send an introductary email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
 **Monthly Reporting:**
