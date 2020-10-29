@@ -115,7 +115,7 @@ Within the first few weeks of your employment, you should receive your participa
 
 ## Opportunity Splits
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
-* Follow [Opportunity Split approval process](/handbook/sales/#opportunity-splits)
+* Follow [Opportunity Split approval process](/handbook/sales/forecasting)
 * On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
 ## Sales Representation Letter 
@@ -213,4 +213,3 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
     * SFDC will capture the PS $ amount in the field named "Comp Pro Serv Value" on the license related opp
     * This will capture both pre-existing SKUs AND associated Professional Services Opportunities for an SOW
 5. [SFDC Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slWT) to track PS Open pipe and won deals.   Note "Comp Pro Serv Value" on Opportunity will reflect amount considered for compensation.
-

@@ -89,7 +89,7 @@ True-ups are conversations that often come to the table with customers during re
 * Salesforce - Customer Relationship Management 
 * [LinkedIn Sales Navigator ](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
 * CaptivateIQ - Commission Calculator 
-* [Clari](/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
+* [Clari](/handbook/sales/forecasting) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
 * [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 * [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
