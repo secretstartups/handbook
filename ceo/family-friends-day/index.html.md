@@ -24,7 +24,7 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 1. 2021-03-26
 1. 2021-04-16
 
-We are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
+We are living in unprecedented times with a global pandemic and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
 
 ## Past Family and Friends Days 
 
