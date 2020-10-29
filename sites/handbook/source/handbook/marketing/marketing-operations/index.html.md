@@ -16,12 +16,12 @@ Marketing Operations (MktgOps) supports the entire Marketing team to streamline 
 
 Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
 
-## Marketing Operations README's
+## Marketing Operations Team
 
 - Claudia Beer, Manager - Oversees business partners
 - Beth Peterson, Senior - SDR business partner
 - Amy Waller, Senior - Campaign business partner
-- [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
+- Sarah Daily, Senior- Content business partner
 - Jameson Burton, Associate
 
 ## Who is my business partner?
