@@ -67,7 +67,7 @@ Maintenance of Corporate Structure covers the following procedure
 1. Director of Tax submits issue in gitlab.com to start contract approval process;
 1. Director of Tax starts and manages project.
 
-GitLab's corporate structure per August 2019 is as follows (countries and incorporation dates included):
+GitLab's corporate structure per October 2020 is as follows (countries and incorporation dates included):
 
 ```
 GitLab Inc (USA 2014-09-10)
@@ -132,7 +132,7 @@ GitLab BV owns the IP and therefore all GitLab entities that resell GitLab's pro
 For consideration of R&D services GitLab BV the arm's length remuneration is determined at cost-plus 6% on R&D costs.
 
 #### General & Administration
-For consideration for G&A services recipient entities will pay an arm's length remuneration of cost-plus 5% on G&A costs.
+For consideration for G&A services recipient entities will pay an arm's length remuneration of cost-plus 2.5% on G&A costs.
 
 #### Intercompany Settlement Procedure
 Each calendar month the intercompany transactions between GitLab entities are settled in accordance with GitLab's  Transfer Pricing Concept.
