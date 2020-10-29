@@ -189,26 +189,17 @@ No approval required.
 
 With change plans, we develop a solid library of change procedures. Even more importantly, they provide detailed blueprints for implementation of defensive automation. Adding on to the defensive automation, every change request that uses some sort of a script _must have a dry-run capability_, the script should be run in the dry-run mode and its output should be provided to the CR for review. Ideally, the planner and the executor should be different individuals.
 
-## Change Schedule
+## Scheduling the Change
 
-Please consider the timezone UTC as the standard for all the changes.
+UTC is the standard time zone used in talking about the scheduled time for all the changes.
 
-The following table has the original schedule for changes based on the criticality level of the component :
+When scheduling your change, keep the impact of the change in mind and consider the following questions: 
 
-Weekdays:
+1. Are there other C1/C2 changes occuring around the same time?
+1. Is the change being conducted one which has a planned failover component or may otherwise lessen risk by being run in a traditionally low-traffic period?
+1. As the DRI, are you able to monitor the change, and communicate its status to the EOC, for a an agreed upon period of time after the change?
+1. Is the change being conducted at a time conducive to getting assistance in rolling back the change, if needed?
 
-|                  |  10 PM - 6 AM  |  6 AM - 2 PM |  2 PM - 10 PM   |
-| ---------------- | -------------- | ------------ | --------------- |
-|  Criticality 1   |    ALLOWED     |  NOT ALLOWED |  NOT ALLOWED    |
-|  Criticality 2   |    ALLOWED     |  NOT ALLOWED |  NOT ALLOWED    |
-|  Criticality 3   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
-|  Criticality 4   |    ALLOWED     |    ALLOWED   |    ALLOWED      |
-
-Weekends:
-
-No specific restriction about times. If the change risks are high or requires downtime, please schedule it at the least impactful time for our customers (like Sunday 1am UTC, for example)
-
-Please consider the above time slots when posting criticalities 1 and 2 to the Production calendar, for all other criticalities, please add them directly to the calendar.
 
 ## Change Execution
 
