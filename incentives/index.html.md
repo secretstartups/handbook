@@ -99,7 +99,7 @@ For managers: as a reminder, please make sure when you are submitting the bonus 
 
 #### Process for Recommending a Team Member for a Bonus in BambooHR
 
-**Note:** Kindly use Nominator Bot for bonus requests instead of BambooHR. 
+**Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR. 
 
 ##### Nominator Bot Process
 
