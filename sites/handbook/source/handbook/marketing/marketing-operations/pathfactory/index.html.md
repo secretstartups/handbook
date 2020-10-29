@@ -44,11 +44,11 @@ The Marketing Operations team is responsible for managing access requests & prov
 
 **User Roles**
 
-There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view analtyics within the tool.
+There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool.
 
-- `Admin` access is granted to Marketing Operations only.
+- `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
-- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.
+- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. We have an unlimited amount of `Reporter` seats available for provisioning.
 
 ### Rules of Engagement by Team
 
@@ -64,9 +64,17 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 | Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
 | All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
 
+## Training & Support
+
+### Quick Links
+
+1. [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires user in PathFactory and separate password)
+1. [PathFactory Service Status](http://status.pathfactory.com/)
+1. [Success Series Webinars](https://customer.pathfactory.com/l/success-series-recordings)
+
 ## Training
 
-- [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires separate login)
+
 - [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 - [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 - [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
