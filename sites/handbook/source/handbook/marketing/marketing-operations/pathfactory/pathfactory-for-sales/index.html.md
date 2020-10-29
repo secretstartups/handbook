@@ -58,7 +58,7 @@ Use the `Content Activation` tab in the PathFactory for Sales app in Salesforce 
 1. From the `Content Assets` pane, you can select the specific asset you'd like to share. You can choose to `Preview` the asset inside the content track and sort by `Track Order` or `Time Spent`.
 1. When you've selected the asset you want to share, click `Copy Link`. A dialogue box will pop up with the following information:
 
-![image](/handbook/marketing/marketing-operations/pathfactory/pf-sales-outreach-link.png)
+![image](/handbook/marketing/marketing-operations/pathfactory/pathfactory-for-sales/pf-sales-outreach-link.png)
 
 You can use this same process to share content from the lead, contact, account, and opportunity.
 
@@ -68,7 +68,7 @@ You can use this same process to share content from the lead, contact, account, 
 
 A fast-moving buyer alert or FMB alert is an email alert set up in Marketo to send a lead’s details to the lead owner. The alert is triggered when a lead spends at least 90 seconds and views at least 3 assets in a PathFactory experience. Below is an example of what the FMB alert looks like:
 
-![image](/handbook/marketing/marketing-operations/pathfactory/fmb-alert.png)
+![image](/handbook/marketing/marketing-operations/pathfactory/pathfactory-for-sales/fmb-alert.png)
 
 The links in the alert will direct you to the lead or contact record in Salesforce where you can navigate to the PathFactory for Sales section to dive deeper into their content consumption journey. 
 
