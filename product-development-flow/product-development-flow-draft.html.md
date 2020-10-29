@@ -437,14 +437,8 @@ When an issue is in development Quality Engineering will follow the [quad planni
 
 | Outcomes 	| Activities 	| DRI 	|
 |-	|-	|-	|
-| Feature is built 	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
-| Feature is tested 	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
-
-#### <kbd class="required">Required 🔎</kbd> Outcomes
-
-**Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). The EM will work with Engineers periodically to ensure appropriate status information is visible to stakeholders. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.
-
-**Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning. 
+| <kbd class="required">Required 🔎</kbd> **Feature is built** - The Engineering Manager is the DRI to ensure the engineering process is followed and that the implemented solution meets the [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done). The EM will work with Engineers periodically to ensure appropriate status information is visible to stakeholders. This is critical to maintain asynchronous updates to avoid status check-ins and synchronous stand-ups.	| - Issue is assigned to an engineer that follows the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) 	| - Engineer 	|
+| <kbd class="required">Required 🔎</kbd> **Feature is tested** - Engineering works closely with SET to ensure the feature is tested and ready for review and ultimately deployment to production. Engineering ensures all [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) requirements are met and works with SET to follow up on any specific test coverage changes necessary as an outcome of Quad Planning.	| - Features are tested by the engineer who implemented them<br>- SET sets testing requirements on the issue 	| - Engineer 	|
 
 ### Build phase 3: Launch
 
@@ -477,7 +471,7 @@ When the change becomes available in production, the issue is closed by the deve
 
 #### <kbd class="required">Required 🔎</kbd> Outcomes
 
-**Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
+<kbd class="required">Required 🔎</kbd> **Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
 
 **Stakeholders and Customers are informed of the availability of the new feature** - This occurs via status changes to the issue, and if applicable the generation of a release post item. 
 
@@ -502,16 +496,9 @@ After launch, the Product Manager and Product Designer should pay close attentio
 
 | Outcomes|Activities|DRI|
 |---|---|---| 
-| Understand Qualitative Feedback | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager | 
-| Measure Quantitative Impact     | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
-| Take Action on Learnings        | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
-
-#### <kbd class="required">Required 🔎</kbd> Outcomes 
-
-- **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members.  <br>
-- **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  <br> 
-- **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information.  
-
+| <kbd class="required">Required 🔎</kbd> **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members. | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager | 
+| <kbd class="required">Required 🔎</kbd> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
+| <kbd class="required">Required 🔎</kbd> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
 
 ## Iteration Strategies
 Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary. 
