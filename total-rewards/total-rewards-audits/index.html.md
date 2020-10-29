@@ -38,15 +38,15 @@ Only audit once team members have started and added their birthdate under the pe
 
 ##### Audit Job Tab
 
-* Signed Letter: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. If not, check “
+* Signed Letter: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. 
    * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by candidate experience specialist. 
-   * If it is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on slack and ask for the date change confirmation to be uploaded.
+   * If the signed letter is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on slack and ask for the date change confirmation to be uploaded.
 * Cost Center, Department & Division: Should be the same as the manager’s.
 * [Payroll Type](https://about.gitlab.com/handbook/contracts/)
 * Compensation:
    * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1khOeUjkl6l6d_3TaLCo8qn_lnb3AbUq-1rspmNRLzcs/edit?ts=5d7edfee#gid=1910573508)
    * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
-   * For Non-Sales, “On Target Earnings” should say “No”, no need to add date
+   * For Non-Sales, “On Target Earnings” should say “No”, no need to add the date
    * Effective Date should be the hire date.
    * Exchange Rate Effective Date is going to be 2020-07-01 until we revisit this again in 2021
    * Equity: Audit Shares field against contract or Greenhouse details.
