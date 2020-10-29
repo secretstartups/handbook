@@ -197,7 +197,7 @@ When scheduling your change, keep the impact of the change in mind and consider 
 
 1. Are there other C1/C2 changes occuring around the same time?
 1. Does the change being conducted contain a planned failover or other high-risk component, where the risk to customers can be reduced by executing the change in a low-traffic period?
-1. As the DRI for the change, are you able to monitor the change, and communicate its status to the EOC, for an agreed upon period of time after the change?
+1. As the DRI for the change, are you able to supervise the change, and communicate its status to the EOC, for an agreed upon period of time after the change?
 1. Is the change being conducted at a time conducive to getting assistance in rolling back the change, if needed?
 
 
