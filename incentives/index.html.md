@@ -99,46 +99,7 @@ For managers: as a reminder, please make sure when you are submitting the bonus 
 
 #### Process for Recommending a Team Member for a Bonus in BambooHR
 
-We are currently testing a new process through slack for bonus requests. Please continue to use the BambooHR process until the nominator bot has been fully tested and implemented.
-
-##### BambooHR Process
-**Any GitLab team member**
-
-1. Write up a nomination describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above.  The nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria.
-1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
-1. Email that sentence to the GitLab team member's [manager](/company/team/org-chart/), suggesting a discretionary bonus, and set-up a 15 minute Zoom meeting to discuss your proposal.
-1. Remember that the manager may or may not agree and has full discretion (with approval of their manager) on whether that person gets a bonus. If you are a people manager and you are not approving the team members nomination for a discretionary bonus, in the spirit of transparency and collaboration, it is strongly suggested that you have a conversation with the team member on why you are not approving the discretionary bonus.
-1. Don't forget that you can also use the ```#thanks``` channel to recognize people, as well.
-
-**Manager Process**
-
-1. Login to [BambooHR](https://gitlab.bamboohr.com/home).
-1. Navigate to the team member you would like to give the discretionary bonus to via the search field in the top right.
-1. In the top right hand corner, click Request a Change.
-1. Select Bonus.
-1. Bonus date: today.
-1. Bonus amount: 1000 USD
-1. Bonus type: Discretionary Bonus
-1. Nominated by: select relevant option
-1. Bonus comments: Include the justification details how the GitLab team-member demonstrated one or more of our [values](/handbook/values) in this specific instance. There is a 255 character limit in this field. Please be as detailed as possible to ensure the approval chain has enough information to approve the bonus based on the valid criteria.
-1. Comment for the Approvers: Give the most relevant URL for the work they did, something interesting for others to look at.
-1. Submit the bonus request.
-1. Once the request is reviewed by the manager and People Business Partner for the group, you will receive an email from BambooHR with the subject line: "Your Bonus request has a response".
-  * Verify the status of the request: either "Bonus Approved" or "Bonus Denied" You can also use this link to view the request to see if there were any comments (specifically if the request was denied.)
-1. If the bonus is not approved, please do not communicate your nomination to the team member. Work with the manager, or whoever denied the bonus, to understand reasons why your nomination was not approved. Please note there may be confidential reasons (e.g., performance, conduct) for denying a bonus that a manager may not want to share with another team member.
-  * If nominated by someone other than yourself, let that team member know as soon as possible if the bonus was denied. Keep in mind not to share confidential details.
-1. Once approved please notify the team member outlining the reasons for the bonus. Please let the team member know they will see the bonus on the next available paycheck. If they are a contractor, please let them know to add this bonus amount to their next invoice.
-1. Lastly, you must copy and paste the justification and url into the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) to recognize their outstanding efforts (once the team member has been communicated to 1:1). Be sure to @ the person that's receiving the bonus as well so they're notified of the posting. Remember, a discretionary bonus is for recognition so make sure to take this final step.
-1. If nominated by someone other than yourself, remember to keep that team member updated on the progress of their nomination. Particularly on when you will announce it in Slack!
-
-**Approval Process:**
-
-1. The Manager's Manager receives an alert from BambooHR and can approve or deny.
-1. The request is then sent to the PBP of the group and to confirm that there is justification comment in the Bamboo record.
-1. Once approved, the request is sent to the Total Rewards Coordinator to process the bonus in the applicable payroll. BambooHR automatically notifies the manager via email. If the Total Rewards Coordinator is taking time off, the Total Rewards Analyst will approve and process.
-  * Approve the request within BambooHR and ensure the date and amount transferred properly to the BambooHR profile.
-1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
-  * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
+**Note:** Kindly use Nominator Bot for bonus requests instead of BambooHR. 
 
 ##### Nominator Bot Process
 
@@ -154,6 +115,12 @@ We are currently testing a new process through slack for bonus requests. Please 
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
+
+**Total Rewards Process**
+1. The Nominator bot will send a Slack DM on `#total-rewards-nominator-bot` asking to approve or reject the nomination.
+1. Approve the request within `#total-rewards-nominator-bot` and ensure the date and amount transferred properly to the BambooHR profile.
+1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
+  * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 
 _Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement._
 
