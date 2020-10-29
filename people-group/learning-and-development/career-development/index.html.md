@@ -63,6 +63,7 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 - [Individual Growth Plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 - [Tips for Creating Effective Growth Plans](https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit)
 - [Career Development Worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2)
+- [Performance Review template](https://docs.google.com/document/d/1Qy6Uh6wL4twayv1642iLhD6UlePvRqPL8WJmYBXsAWM/edit)
 
 ### Internal Opportunities to expand exposure
 
@@ -75,19 +76,31 @@ There are various internal opportunities to expand a team member's exposure to m
 - Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
 - When appropriate and possible, attending some of the staff meetings of the team members manager's manager
 
-### Yearly Career Development Conversation Acknowledgements
+### Career Development Conversation Acknowledgements
 
-Career development is a key factor in team member engagement and role satisfaction. As part of the FY 20 GitLab annual engagement survey results it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY 21 we will be tracking career development conversations via BambooHR.  This process is just an acknowledgement by the team member that they have had a career conversation in FY 21.  A manager cannot complete this process for team members, the team member is responsible for the acknowledgement in BambooHR.
+Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
 
-Starting FY 21 (exact date is TBD) team members will receive a notice via BambooHR to acknowledge that a career conversation has occurred.  By signing the acknowledgement you are confirming that you have indeed had a career development conversation in FY 21 with your manager.  Below are a few things to know about the process:
+#### Cadence
+
+This process is just an acknowledgement by the team member that they have had career conversations. Aligned with the Performance/Potential [matrix cadence](/handbook/people-group/performance-assessments-and-succession-planning/#regular-cadence), formal career conversations will ideally happen twice per year:
+
+* Once in Q2
+* Once in Q4
+
+The bi-annual cadence is not required, but recommended. Some team members may prefer annual career conversations, other team members may prefer more informal check-ins quarterly. This is a personal decision that should be made between team member and manager. The minimal recommended cadence for career development conversations is annnually, the most frequency recommended cadence is quarterly. 
+
+#### Process 
+
+_Please note that while managers can facilitate career development conversations with team members and help guide growth plans by using our [internal resources](/handbook/people-group/learning-and-development/career-development/#internal-resources),  managers cannot complete the acknowledgement process for team members. The team member is responsible for the acknowledgement in BambooHR._
+
+Starting FY'22 (exact date is TBD) team members will receive a notice via BambooHR to acknowledge that a career conversation has occurred. By signing the acknowledgement you are confirming that you have indeed had a career development conversation during the specified time period (Q2 or Q4 respectively).
 
 *  This is not mandatory, however we highly encourage all team members to discuss their career goals with their manager.
-*  There is not one right way to document a career development conversation.  Some team members may use their 1:1 document to capture the conversation and actions. Others may use the tools provided above to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
-*  There is no timeline or deadline on this process, however the goal is for all team members to have had a conversation in FY 21.  
-*  If you have already had a career conversation in FY 21 you can go ahead and acknowledge in BambooHR.  
+*  There is not one right way to document a career development conversation. Some team members may use their 1:1 document to capture the conversation and actions, others may use the [tools provided above](/handbook/people-group/learning-and-development/career-development/#internal-resources) to help guide the conversation, or a team member may use their own personal template or process to have a career development conversation.
+*  There is no timeline or deadline on this process, however, the goal is for all team members to acknowledge at least one career development conversation in FY'22. 
 *  If you have not had a career conversation yet it is up to you to schedule a time to review and discuss with your manager.  
-*  If you are new to GitLab the recommendation is that you start the conversation after your first 90 days.
-*  Career conversations should not be confused with promotion conversations.  In some cases a team member may not want to move into a manager role and is currently happy working as an individual contributor or at their current leadership level.  Team members who do not want to advance or be promoted due to their own personal reasons but are performing should not feel pressured to move up or out.  These conversations could focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level.  
+*  If you are new to GitLab the recommendation is that you start career conversations after your first 90 days.
+*  Career conversations should not be confused with promotion conversations. Team members who do not want to increase their scope of work or be promoted, but are performing, should not feel pressured to move up or out. Career conversations can also focus on helping team members identify projects or other activities that keep the team member engaged and learning new skills. _Please note that development can also include lateral moves, or moving to another speciality within the same job family and job level._  
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/xUNupnJyTNY" frameborder="0" allowfullscreen="true"> </iframe>
