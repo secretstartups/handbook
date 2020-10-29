@@ -471,7 +471,7 @@ When the change becomes available in production, the issue is closed by the deve
 
 #### <kbd class="required">Required 🔎</kbd> Outcomes
 
-<kbd class="required">Required 🔎</kbd> **Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
+**Feature is available to customers** - Features merged, and passed verification are available to customers on gitlab.com immediately (assuming any feature-flags are enabled), and as part of the next packaged release for self-managed. 
 
 **Stakeholders and Customers are informed of the availability of the new feature** - This occurs via status changes to the issue, and if applicable the generation of a release post item. 
 
