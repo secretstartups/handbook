@@ -159,6 +159,41 @@ only done monthly, this should hopefully not be too much of a burden to take a c
 Lastly, in order to keep people connected, team members schedule at least one coffee-chat with another team member each
 week. These are at times that will best suit them as it may be an unusual hour given the various timezones and working hours for each person.
 
+### Impact
+
+As a small team covering a wide domain, we need to make sure that
+everything we do has sufficient impact. If we do something that only the
+rest of the Scalability team knows about, we haven't 'shipped' anything.
+Our 'users' in this context are the infrastructure itself, SREs, and
+Development Engineers.
+
+Impact could take the form of changes like:
+
+1. Development practices that make it easier for our Development
+   department to ship code that works well at scale.
+2. Monitoring changes that mean we can detect and attribute problems sooner,
+   particularly focusing on utilisation.
+3. Code changes that reduce pressure on a part of our system that's
+   feeling the strain.
+4. Guides for Developers and SREs to work with a given service.
+
+#### Announcing Impactful Items
+
+In order to make others aware of the work we have done, we should advertise changes in the following locations:
+1. Engineering Week-in-Review
+1. Slack Channels
+   1. For Backend Engineers
+      1. `#development`
+      1. `#eng-managers`
+      1. `#dev_tip_of_the_day`
+      1. `#development-guidelines`
+   1. For SRE's
+      1. `#infrastructure-lounge`
+      1. `#infra-staff`
+
+Documentation or tutorial videos should also be added to the [README.md](https://gitlab.com/gitlab-com/gl-infra/scalability/-/blob/master/README.md)
+in our team repository.
+
 ### Project Management
 
 We use Epics, Issues, and Issue Boards to organize our work, as they complement each other.
@@ -189,24 +224,6 @@ graph LR
 
 ```
 *Note* If you are not seeing the diagram, make sure that you accepted all cookies.
-
-#### Impact
-
-As a small team covering a wide domain, we need to make sure that
-everything we do has sufficient impact. If we do something that only the
-rest of the Scalability team knows about, we haven't 'shipped' anything.
-Our 'users' in this context are the infrastructure itself, SREs, and
-Development Engineers.
-
-Impact could take the form of changes like:
-
-1. Development practices that make it easier for our Development
-   department to ship code that works well at scale.
-2. Monitoring changes that mean we can detect and attribute problems sooner,
-   particularly focusing on utilisation.
-3. Code changes that reduce pressure on a part of our system that's
-   feeling the strain.
-4. Guides for Developers and SREs to work with a given service.
 
 #### Project Structure
 
