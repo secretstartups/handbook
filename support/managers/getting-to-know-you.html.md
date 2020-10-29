@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Getting To Know Your Team Members
+description: "Guideline on becoming not just a good manager, but the right manager for each individual member of your Support Engineering team"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Hiring
+description: "Hiring new Customer Support team members is a multi-department process. An outline of the responsiblities of Customer Support in that process."
 ---
 
 ## On this page
