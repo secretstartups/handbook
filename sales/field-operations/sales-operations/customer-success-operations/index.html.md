@@ -28,6 +28,8 @@ Customer Success Operations creates and updates existing processes for the Custo
 * Systems implementation and maintenance
 * Operational reporting
 * Systems enablement
+* Product analytics and renewal strategies
+* Fiscal Year planning and strategy
 * Operationalizing Customer Success Journeys
 
 ## CS Ops Request Process
