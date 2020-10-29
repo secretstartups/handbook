@@ -269,13 +269,6 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | <kbd class="required">Required 🔎</kbd> **Confidence in the technical feasibility** - It is important that Engineering understands the technical feasibility of the solution(s) in order to avoid rework or significant changes when we start the build phase.  | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. When sharing design work, utilize both Figma's collaboration tools and GitLab's design management features. Read to understand [what tool to use](/handbook/engineering/ux/ux-designer/#deliver).<br> - Engage engineering peers early and often through Slack messages, pins on issues or by scheduling sessions to discuss the proposal | Product Designer |  
 | Issues updated | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously <br> - [Experiment definition](/handbook/engineering/development/growth/#experiment-definition-standards). | Product Manager | 
 
-
-#### <kbd class="required">Required 🔎</kbd> Outcomes 
-
--  <br> 
--  <br>
-- 
-
 ### Validation phase 4: Solution Validation
 
 <kbd class="required">Required 🔎</kbd> Label: <code>workflow::solution validation</code>
