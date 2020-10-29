@@ -33,7 +33,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](/handbook/sales/#incremental-annual-contract-value-iacv)
+    *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -172,7 +172,7 @@ Never fear! Deal desk is here! All merged records go to the recycle bin, chatter
 
 #### Calculating IACV 
 
-To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/#incremental-annual-contract-value-iacv). Alternatively, please chatter @Sales-support on the opportunity for assistance in calculating IACV. 
+To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter @Sales-support on the opportunity for assistance in calculating IACV. 
 
 You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the IACV for renewals.
 
