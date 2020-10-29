@@ -56,22 +56,23 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
   </tr>
   <tr>
    <td>GitLab Certified Professional Services Partner (PSP)
-<p>
-Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through professional services.
+<br> 
+<br>Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through professional services.
    </td>
    <td>GitLab Certified Managed Services Partner (MSP)
-<p>
-Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through managed services.
+<br> 
+<br>Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through managed services.
    </td>
    <td>GitLab Certified Training Partner (CTP)
-<p>
-Distinguished partners with validated learning and development capabilities and a record for delivering excellent customer experience through training services.
+<br> 
+<br>Distinguished partners with validated learning and development capabilities and a record for delivering excellent customer experience through training services.
    </td>
   </tr>
 </table>
 
 
-We have designed the GitLab Certified Service Partner Program to help partners who focus on offering services as a key foundation in their business model. These services can include:  
+
+<br>We have designed the GitLab Certified Service Partner Program to help partners who focus on offering services as a key foundation in their business model. These services can include:  
 
 
 
