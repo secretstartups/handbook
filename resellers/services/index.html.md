@@ -21,15 +21,15 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 <table>
   <tr>
-   <td>Available November 2020
+   <td style = "text-align: center">Available November 2020
    </td>
-   <td>Available December 2020
+   <td style = "text-align: center">Available December 2020
    </td>
-   <td>Available November 2020
+   <td style = "text-align: center">Available November 2020
    </td>
   </tr>
   <tr>
-   <td>
+   <td style = "text-align: center">
 
 
 
@@ -37,7 +37,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 <img src="images/Channel Service Program/gitlab-professional-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
-   <td>
+   <td style = "text-align: center">
 
 
 
@@ -45,7 +45,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 <img src="images/Channel Service Program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
    </td>
-   <td>
+   <td style = "text-align: center">
 
 
 
@@ -55,15 +55,15 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
    </td>
   </tr>
   <tr>
-   <td>GitLab Certified Professional Services Partner (PSP)
+   <td style = "text-align: center">GitLab Certified Professional Services Partner (PSP)
 <br> 
 <br>Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through professional services.
    </td>
-   <td>GitLab Certified Managed Services Partner (MSP)
+   <td style = "text-align: center">GitLab Certified Managed Services Partner (MSP)
 <br> 
 <br>Distinguished partners with validated service capabilities  and a record for delivering excellent customer value through managed services.
    </td>
-   <td>GitLab Certified Training Partner (CTP)
+   <td style = "text-align: center">GitLab Certified Training Partner (CTP)
 <br> 
 <br>Distinguished partners with validated learning and development capabilities and a record for delivering excellent customer experience through training services.
    </td>
