@@ -300,9 +300,7 @@ GitLab recognizes the important role our partners play in delivering value and s
    </td>
   </tr>
   <tr>
-   <td rowspan="5" >Training Benefits and 
-<p>
-Resources
+   <td rowspan="5" >Training Benefits and Resources
    </td>
    <td>Open/Select
    </td>
@@ -420,13 +418,7 @@ All authorized GitLab partners are eligible for co-selling with the GitLab Sales
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>80% discount on licensed courseware
+   <td colspan="3" >80% discount on licensed courseware
    </td>
   </tr>
 </table>
