@@ -194,6 +194,8 @@ Here is a deep dive summary on what each function is reviewing for approval:
 
    * To support the service provider through the set up of the most common tools used at GitLab, an **[orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) must be created**. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
+More information about this process can be found in the [Team Member Enablement handbook page](/handbook/business-ops/team-member-enablement/onboarding-access-requests/temporary-service-providers).
+
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 8 | Accounts Payable
 1. Vendors will be required to create an account within Tipalti in order to receive payment
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
