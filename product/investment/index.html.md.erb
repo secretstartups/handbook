@@ -134,15 +134,15 @@ The following table provides scores for each of our DevOps stages and a comparis
 Service Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is servicable by our current products. Here is our current TAM, percent addressable and SAM for each stage.
 
 | Stage | TAM | % Servicable | SAM |
-|-|-|-|-|
+|:--|:--:|:--:|:--:|
 <% data.addressable_markets.each do |stage| %>
   <% stageLine=[] %>
   <% sam = (stage.percent_servicable.to_f/100)*stage.tam.to_f %>
   <% stageLine << "#{stage.stage}"%>
-  <% stageLine << "$#{stage.tam}M" if stage.tam %>
+  <% stageLine << "$#{number_with_delimiter(stage.tam, :delimiter => ',')}M" if stage.tam %>
   <% stageLine << "[#{stage.percent_servicable}%](#{stage.serviceable_url})" if stage.serviceable_url %>
   <% stageLine << "#{stage.percent_servicable}%" if !stage.serviceable_url %>
-  <% stageLine << "$#{sam.round(0)}M" %>
+  <% stageLine << "$#{number_with_delimiter(sam.round(0), :delimiter => ',')}M" %>
   <%= "| #{stageLine.join(' | ')} |" if stageLine %>
 <% end %>
 
