@@ -433,6 +433,7 @@ All authorized GitLab partners are eligible for co-selling with the GitLab Sales
 
 
 
+<br>
 ## Maintaining Service Partner Certifications
 
 At GitLab, collaboration and feedback is meant to nurture and mentor our certified service partners to grow their service capabilities and expertise. The program will utilize our internal [customer success metrics](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) to measure and understand the GitLab customer experience across the entire ecosystem and help further develop our certified service partners. In order to work together in this process, we will ask you to provide context to the annual customer success report for your customer set one month before it is due to be published. 
