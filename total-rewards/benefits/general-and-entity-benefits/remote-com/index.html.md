@@ -109,7 +109,7 @@ The vacation premium is an additional cash benefit given to employees for use on
 * It can be paid right away when the vacation is taken, or as a lump sum upon completing one year of service (or employment ends). It is the employer’s choice which method to use.
 * Unused leave must also be paid when employment ends (in other words, the employee does not ‘forfeit’ unused vacation time)
 
-### Remote Mexico Leave Policy
+### Remote.com Mexico Leave Policy
 
 #### Statutory Maternity Leave
 
@@ -149,7 +149,7 @@ GitLab does not plan to offer pension benefit at this time as the Hungarian pens
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
 
-### Remote Hungary Leave Policy
+### Remote.com Hungary Leave Policy
 
 #### Statutory Maternity Leave
 
