@@ -86,3 +86,183 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 Becoming an authorized GitLab partner is the first step to becoming a Certified Service Partner and allows you to engage with the GitLab sales team and resell or refer GitLab products to your customers. Partners can achieve the GitLab Service Partner Program badges in addition to their program status to differentiate through their service offerings and unlock both financial and non-financial incentives as they achieve Certified Service Partner Badges.
 
 Whether you are a new partner just getting started with a service portfolio or you already have a thriving service business that you are looking to grow through offering services around GitLab, our Certified Service Partner Program will offer you opportunities to build a successful business with GitLab.
+## GitLab Certified Service Partner Requirements
+
+The GitLab Certified Service Partner framework is designed to give partners multiple paths to success by focusing on the service priorities that are aligned to their individual business model. 
+
+Partners can achieve multiple certifications or focus on one category based on their chosen areas of focus and investment choices. 
+
+
+
+**![alt_text](images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png "image_tooltip")**
+
+
+
+## GitLab Certified Service Partner Requirements and Progression
+
+At GitLab, Certified Service Partner Certifications are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Badge allows you to enhance your service capabilities and unlock key partner benefits in our Program. 
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+**![alt_text](images/Channel Service Program/Service Program Requirements and Progression.png "image_tooltip")**
+
+
+
+## Becoming a Certified Service Partner
+
+All GitLab Certified Service Partner tracks have program compliance and training requirements that must be completed before you can obtain the associated certification.
+
+When the contractual requirements are met, and your organization sponsors the required number of practitioners who complete the training requirements and obtain the associated badges, your company will earn the related GitLab Service Partner Certification. 
+
+The GitLab Channel team will communicate the award in email, and reflect the certification in the GitLab Partner Locator. 
+
+   <td>
+
+### Technical Services
+
+   </td>
+   <td colspan="3" >· Reviewed annually
+
+· Non- compliant partners at the time of the annual review will have one quarter to return to compliance. 
+
+   </td>
+   <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become PSPs if they (a)  perpetually employ:
+
+
+
+*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+*   at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/), 
+
+and (b) maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+
+   </td>
+   <td>
+
+
+
+
+![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+
+
+   </td>
+   <td>
+
+
+
+
+![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+GitLab Software
+
+    ** +**
+
+
+
+![alt_text](images/Channel Service Program/cycle.png "image_tooltip")
+DevOps Services
+
+   </td>
+   <td>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
+
+   </td>
+  <tr>
+   <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become MSPs if they (a) perpetually employ:
+
+
+
+*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+*   at least three (3) [GitLab Certified Managed Services Engineers](https://about.gitlab.com/handbook/resellers/training/) 
+*   at least two (2) [GitLab Professional Service Engineer](https://about.gitlab.com/handbook/resellers/training/) 
+
+in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+
+   </td>
+   <td>
+
+
+![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+
+
+   </td>
+   <td>
+
+
+
+
+![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+GitLab Software
+
+    ** +**
+
+
+
+
+
+![alt_text](images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png "image_tooltip")
+** **Managed Services
+
+   </td>
+   <td>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
+
+   </td>
+  </tr>
+   <td>
+
+### Training  Services
+
+   </td>
+   <td colspan="3" >· By Invitation Only
+
+· Work with your CAM on a business case if you are interested
+
+· Non- compliant partners at the time of a review will have one quarter to return to compliance. 
+
+   </td>
+   <td>Open and Select GitLab Partners who design, build and operate a training service practice can become CTPs if they (a) perpetually employ:
+
+
+
+*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+*   at least two (2)  [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) who each have two (2) badges from the [GitLab Train the Trainer Program,](https://about.gitlab.com/services/education/train-the-trainer/)
+
+(b) complete the GitLab CTP contract exhibit, and (c) ensure their training services practice maintains an average Customer Satisfaction rating of at least 80% for the GitLab licensed courses their organization delivers to our joint customers. 
+
+GitLab Certified Training Partners can either act as subcontractors to [GitLab Education Services](https://about.gitlab.com/services/education/), or operate a training services practice that delivers GitLab Licensed Courseware directly to our joint customers. 
+
+   </td>
+   <td>
+
+
+
+
+![alt_text](images/Channel Service Program/gitlab-training-services-partner.png "image_tooltip")
+
+
+   </td>
+   <td>
+
+
+
+
+![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+[GitLab Ed Services](https://about.gitlab.com/services/education/)
+
+      **+**
+
+
+
+
+
+
+![alt_text](images/Channel Service Program/pencil.png "image_tooltip")
+Partner L&D Services
+
+   </td>
+   <td>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
+
+   </td>
