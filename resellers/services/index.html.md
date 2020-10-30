@@ -132,7 +132,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/), 
 
@@ -176,7 +176,7 @@ DevOps Services
 
 
 
-<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least three (3) [GitLab Certified Managed Services Engineers](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least two (2) [GitLab Professional Service Engineer](https://about.gitlab.com/handbook/resellers/training/) 
@@ -236,9 +236,9 @@ GitLab Software
 
 
 
-<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/) 
 <br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
-<br>*   at least two (2)  [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) who each have two (2) badges from the [GitLab Train the Trainer Program,](https://about.gitlab.com/services/education/train-the-trainer/)
+<br>*   at least two (2) [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) who each have two (2) badges from the [GitLab Train the Trainer Program,](https://about.gitlab.com/services/education/train-the-trainer/)
 
 <br>(b) complete the GitLab CTP contract exhibit, and (c) ensure their training services practice maintains an average Customer Satisfaction rating of at least 80% for the GitLab licensed courses their organization delivers to our joint customers. 
 
@@ -260,16 +260,16 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 
 <br>
 <br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
-[GitLab Ed Services](https://about.gitlab.com/services/education/)
+[GitLab Ed Services](https://about.gitlab.com/services/education/) 
 
-<br>      **+**
-
-
+<br>      +
 
 
 
 
-<br><img src="images/Channel Service Program/pencil.png" width="" alt="alt_text" title="image_tooltip">)
+
+
+<br><img src="images/Channel Service Program/pencil.png" width="" alt="alt_text" title="image_tooltip">
 Partner L&D Services
 
       </td>
