@@ -13,3 +13,9 @@ description: "Vimeo is a video hosting, sharing, and services platform. "
 ### About Vimeo
 
 Vimeo is a video hosting, sharing, and services platform. 
+
+### Support
+
+
+1. [Help Center](https://vimeo.com/help)
+1. [Video School](https://vimeo.com/blog/category/video-school)
