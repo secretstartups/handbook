@@ -41,7 +41,7 @@ GitLab Team Members can sign up for any of our live learning sessions [here](htt
 **Other**
 
 * 2020-11-12: Learning Speaker Series - Building Trust 
-* DIB Certification?? 
+* 2020-12-01: DIB Certification 
 * Anything else?  
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our `#learning-and-development` Slack Channel! 
@@ -126,6 +126,7 @@ Are you having a hard time finding or making time for learning? The Potentiality
 ## Other Enablement Initiatives
 
 * Check out the monthly [Field Flash Newsletter](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
+* The Diversity, Inclusion, & Belonging Team launched a newsletter last week. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
 
 ## Discussion 
 
