@@ -46,9 +46,11 @@ Now this approach is not possible for indexes supporting primary keys. Fortunate
 
 Note that once GitLab requires PostgreSQL 12, we'll be able to leverage the [concurrent reindexing feature](https://paquier.xyz/postgresql-2/postgres-12-reindex-concurrently/) introduced there. Furthermore, PostgreSQL 12 has seen [significant improvements in terms of btree storage savings](https://www.cybertec-postgresql.com/en/b-tree-index-improvements-in-postgresql-v12/), which we expect to benefit from eventually, too.
 
-The reindexing lives inside a Rake task that gets triggered through a cronjob. For GitLab.com, we expect to be able to maintain healthy levels of index bloat by running this task on weekends only.
+In this cycle, we've enabled the feature on GitLab.com briefly. We've discovered an issue with functional indexes that led to an [incident](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2885). The underlying problem is that a subset of functional indexes needs additional statistics. Those statistics get dropped with dropping the original index. Hence, we explicitly need to rebuild indexes before dropping the original index. This has led to an interesting [conversation](https://www.postgresql.org/message-id/flat/CAFcNs%2BqpFPmiHd1oTXvcPdvAHicJDA9qBUSujgAhUMJyUMb%2BSA%40mail.gmail.com) about the PostgreSQL 12 feature `REINDEX CONCURRENTLY`, which suffers from the same problem. A fix for the reindexing approach is being tracked in this [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/272997).
 
-Going forward and with %13.6, we are going to improve this feature by adding a [good index selection strategy](https://gitlab.com/gitlab-org/gitlab/-/issues/258576) and [observability features](https://gitlab.com/gitlab-org/gitlab/-/issues/263463) to it.
+The reindexing lives inside a Rake task that gets triggered through a cronjob. For GitLab.com, we expect to be able to maintain healthy levels of index bloat by running this task on weekends only, but ultimately we'd like to be able to run this job as a low-priority background task in a more frequent fashion.
+
+Going forward and with %13.6, we are going to improve this feature by adding a [good index selection strategy](https://gitlab.com/gitlab-org/gitlab/-/issues/258576) and [observability](https://gitlab.com/gitlab-org/gitlab/-/issues/273198) [features](https://gitlab.com/gitlab-org/gitlab/-/issues/263463) to it.
 
 ###### Relevant links
 
