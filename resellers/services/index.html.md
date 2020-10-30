@@ -104,7 +104,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-<div align = "center"><img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip">
+<div align = "center"><img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 <br>
 <h2>Becoming a Certified Service Partner</h2>
@@ -118,6 +118,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
    <tr>
       <td>
 
+<br>
 ### Technical Services
 
       </td>
@@ -220,6 +221,7 @@ GitLab Software
   <tr>
       <td>
 
+<br>
 ### Training  Services
 
       </td>
