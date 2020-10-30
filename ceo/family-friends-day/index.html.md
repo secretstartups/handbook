@@ -11,7 +11,7 @@ title: "Family and Friends Day"
 
 ---
 
-At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). Because we want to ensure that people are making their well-being a top priority and that we are living out our values, we will occassionally call a "Family and Friends Day." On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
+At GitLab, we are [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day" for as long as the majority of the world, where our team members reside, are dealing with COVID-19. On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a **publicly visible shutdown**.
 
 Team members can share about their Family and Friends Day in the `#family-and-friends-day` Slack channel after the event, or publicly on social media such as Twitter, LinkedIn, or wherever they're most comfortable using the hashtag #FamilyFriends1st. Sharing is optional. Taking the day off is strongly encouraged if your role allows it.
 
@@ -20,11 +20,8 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 1. 2020-11-25
 1. 2020-12-18
 1. 2021-01-15
-1. 2021-02-26
-1. 2021-03-26
-1. 2021-04-16
 
-We are living in unprecedented times with a global pandemic and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
+We will look at scheduling future dates at the end of December 2020 pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
 
 ## Past Family and Friends Days 
 
