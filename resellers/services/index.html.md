@@ -94,7 +94,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 
 
-<div style= "text align: center"> ![alt_text](images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png "image_tooltip")</div>
+<div style= "text align: center"> <img src="images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 
 
@@ -104,7 +104,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-<div style= "text align: center"> ![alt_text](images/Channel Service Program/Service Program Requirements and Progression.png "image_tooltip")</div>
+<div style= "text align: center"> <img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 
 
@@ -145,7 +145,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 <br>
 <br>
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+<br><img src="images/Channel Service Program/gitlab-professional-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
@@ -154,14 +154,14 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br><img src="images/Channel Service Program/gitlab.png"" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
 <br>    ** +**
 
 
 
-<br>![alt_text](images/Channel Service Program/cycle.png "image_tooltip")
+<br><img src="images/Channel Service Program/cycle.png" width="" alt="alt_text" title="image_tooltip">
 DevOps Services
 
       </td>
@@ -189,7 +189,7 @@ DevOps Services
 <br>
 <br>
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+<br>!<img src="images/Channel Service Program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
@@ -198,7 +198,7 @@ DevOps Services
 
 
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br>!<img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
 <br>    ** +**
@@ -207,7 +207,7 @@ GitLab Software
 
 
 
-<br>![alt_text](images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png "image_tooltip")
+<br>!<img src="images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png" width="" alt="alt_text" title="image_tooltip">
 ** **Managed Services
 
       </td>
@@ -251,7 +251,7 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 <br>
 <br>
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab-training-services-partner.png "image_tooltip")
+<br>!<img src="images/Channel Service Program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
@@ -260,7 +260,7 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 
 
 <br>
-<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 [GitLab Ed Services](https://about.gitlab.com/services/education/)
 
 <br>      **+**
@@ -270,7 +270,7 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 
 
 
-<br>![alt_text](images/Channel Service Program/pencil.png "image_tooltip")
+<br><img src="images/Channel Service Program/pencil.png" width="" alt="alt_text" title="image_tooltip">)
 Partner L&D Services
 
       </td>
