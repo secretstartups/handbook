@@ -207,7 +207,7 @@ GitLab Software
 
 
 <br><img src="images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png" width="" alt="alt_text" title="image_tooltip">
-**Managed Services**
+Managed Services
 
       </td>
       <td>
