@@ -28,11 +28,15 @@ GitLab Team Members can sign up for any of our live learning sessions [here](htt
 
 **Challenges**
 
+[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges)
+
 * 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
    * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek)
 * 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
 
 **Monthly Continuous Learning Call**
+
+[Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call)
 
 * 2020-11-18 @ 1 PM PT 
 * 2020-12-16 @ 7 AM PT 
