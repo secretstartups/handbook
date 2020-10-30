@@ -11,22 +11,32 @@ title: "Iteration"
 
 ## Overview
 
-In order to provide the changes in an [iterative](/handbook/values/#iteration) and [incremental manner](/handbook/product/product-principles/#iteration), complex changes should be [split into smaller ones](/handbook/values/#make-small-merge-requests) to simplify the review process. As a result, more people are involved in the particular feature development as a whole that helps to receive [diverse](/handbook/values/#diversity-inclusion) feedback. Meanwhile, fewer people are involved in one particular merge request that makes the [collaboration](/handbook/values/#collaboration) more effective and scoped to a particular piece of functionality.
+In order to provide changes in an [iterative](/handbook/values/#iteration) and [incremental manner](/handbook/product/product-principles/#iteration), we should always seek to create smaller merge requests.
 
-## How to split a merge request
+Engineers are a vital part of a feedback cycle with product management to design an [MVC](/handbook/product/product-processes/#crafting-an-mvc) as engineers understand the technical challenges that additional behaviours/edge cases have on the effort to ship something. You should always attempt to provide feedback as early as possible to product management if you can see opportunity to cut scope and deliver a smaller change no matter where you are at in the planning/development lifecycle.
 
-- Responsibility sections are usually the hints to identify the split. A merge request which contains ~frontend and ~backend labels requires at least 4 people to review it from 2 different perspectives. In this case, the review process is not only slowed down by back and forth, but also contains the discussions which are useful for one section, but not for another. A huge drawback of combining these sections, is that portions could be approved, but the whole thing slips because there are changes required on 1 of the sections. A merge request should contain non-trivial changes from only one section to ask for a quick review for the auxiliary section and continue with the detailed review for the main one. However, since changes to ~database (ie. database migrations written) are tightly coupled to the related ~backend changes (the code which queries the new database columns/tables etc.), it is still preferable to ensure they are part of the same MR as both the ~database reviewer and ~backend reviewer will need to review both of those code changes in order to provide meaningful feedback.
+## How to keep a merge request small
 
-- A functionality behind a feature flag is a great candidate for being split into multiple merge requests because in this case even an imperfect piece of functionality can be introduced without breaking the existing one. For example, if ~frontend work is behind a feature flag, it can be merged separately without waiting for backend changes; otherwise, it can be still provided in a separate merge request on top of the WIP ~backend changes and merged just after those API changes are introduced.
-
-- Consider extracting edge-cases that aren't an impediment to introducing the smallest working piece of functionality into follow-ups. That will save the merge request from growth during a review. The follow-ups are also useful for distributing the work among the team when the issue turned out to be more complex than expected.
+- Consider extracting edge-cases that aren't an impediment to introducing the smallest working piece of functionality into follow-up issues. This will save the merge request from growing during a review. The follow-up issues are also useful for distributing the work among the team when the issue turned out to be more complex than expected.
 
 - Refactorings that require a complex approach can be introduced separately either before the actual changes or as a follow-up in case the quality doesn’t suffer from the introduced changes.
 
 - If your issue/merge request description or comment says "First we should do this, make sure that works, refine this", it is also a sign of a possible split that happens before work even begins. In general, if an engineer is following the "one commit, one logical change" model, then each commit can potentially be a separate merge request.
 
-- Introducing the changes that don't interact with the existing codebase, make sure that you have a clear plan of how that code will be used in the follow up issues in order to avoid creating blocks of unused code. Consider explaining the reason in comments or commit messages.
+## Tradeoffs between horizontal and vertical slicing
 
-- Consider marking blocking merge requests as [merge request dependencies](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html#merge-request-dependencies)
+Developers sometimes think of Horizontal slicing as the only option to create small merge requests. They separate their changes along horizontal, tech-stack-based lines: splitting out database changes from backend changes from frontend changes (and so on). However, this approach doesn't always mean it will be more efficient and can make it difficult for reviewers to provide meaningful feedback when reviewing the separate layers if they cannot see the complete picture and as such adds additional risk of merging code without easily seeing the full context. Before starting the work on an merge request that involves multiple layers of the stack, consider having a conversation with your team around which approach will work best.
 
-- When a change involves separate ~backend and ~frontend merge requests, include [unit](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html#unit-tests) and [integration](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html#integration-tests) tests in the merge request with the code they're testing. Include [feature specs](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html#white-box-tests-at-the-system-level-formerly-known-as-system--feature-tests) in the ~frontend merge request so that when the ~backend changes are merged, the feature specs can run against the combined changes before they're merged and exposed to users. On the other hand, [end-to-end (QA) tests](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html#black-box-tests-at-the-system-level-aka-end-to-end-tests) can be introduced separately.
+### Horizontal slicing
+
+1. Works well when each part is going to be large, complex change and there is no clear way to break down the [MVC](/handbook/product/product-processes/#crafting-an-mvc) further.
+1. Works well for merge requests where each layer of the stack will be isolated and requires little to no context from the reviewers looking at the layers of the stack independently.
+1. When doing this you should ensure the overall change is planned and explained to the reviewer somewhere linked to from the merge request or clearly detailed in the Merge Request description.
+1. Avoid if possible when each layer of the stack is dependent on others to fully understand the change. For example, since changes to ~database (ie. database migrations written) are tightly coupled to the related ~backend changes (the code which queries the new database columns/tables etc.), it is still preferable to ensure they are part of the same MR as both the ~database reviewer and ~backend reviewer will need to review both of those code changes in order to provide meaningful feedback.
+
+### Vertical slicing
+
+1. When doing this you should ensure the the overall merge request size will remain within acceptable review range.
+1. Works well when each layer of the stack is fairly dependent on another and seeing them together will help reviewers.
+1. Works well when each part is succinct and rely on one another.
+1. Avoid if each layer of the stack will require complex change that spans over multiple merge requests as it can get hard to follow. If this is the case, you should still try to break down the [MVC](/handbook/product/product-processes/#crafting-an-mvc) further, but if that is not feasible then horizontal slicing may be a better approach.
