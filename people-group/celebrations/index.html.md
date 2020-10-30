@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Celebrations and Significant Life Events"
+description: "Review different ways GitLab celebrates its team members."
 ---
 
 ## On this page

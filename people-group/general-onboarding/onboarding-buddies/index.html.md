@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Onboarding Buddies"
+description: "Onboarding Responsibilities and Process"
 ---
 
 ## On this page

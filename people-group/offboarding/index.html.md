@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Offboarding"
+description: "Offboarding procedures for all stakeholders"
 ---
 
 ## On this page
