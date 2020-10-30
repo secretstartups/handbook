@@ -114,7 +114,7 @@ For managers: as a reminder, please make sure when you are submitting the bonus 
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
 1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
-1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the Slack channel.
+1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel.
 
 **Total Rewards Process**
 1. The Nominator bot will send a Slack DM on `#total-rewards-nominator-bot` asking to approve or reject the nomination.
