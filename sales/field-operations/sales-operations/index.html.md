@@ -95,7 +95,7 @@ Please leave assignee blank.
 
 1. [Contract assistance](/handbook/sales/#reaching-the-sales-team-internally)
 1. [Updating or creating Opportunity Splits ](/handbook/sales/#opportunity-splits)
-1. [Salesforce Lightning for Gmail](/handbook/sales/#salesforce-lightning-for-gmail)
+1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
 1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
 1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
@@ -559,4 +559,3 @@ Below are instructions on how Sales Operations offboards users within the variou
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps). 
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
-
