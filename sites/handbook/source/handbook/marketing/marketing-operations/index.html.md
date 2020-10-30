@@ -721,7 +721,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 
 #### Field Event
 
-This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit).
+This is an event run by Field Marketing that we have paid to participate in (Demand generation events that the field team typically does (Ex. stand alone dinners, ballgames, etc).) 
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of attendees post-event.
 
@@ -764,7 +764,7 @@ Any type of inbound request that requires follow up.
 
 #### Owned Event
 
-This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit).
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit or Meetups).
 
 **Bizible:** This is tracked as an _online_ channel because we manage the registration through our website.
 
