@@ -41,6 +41,8 @@ The goals of the calculator are:
 
 The calculator is available to internal team members using the following [link](https://comp-calculator.gitlab.net/users/sign_in).
 
+You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). You can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount. 
+
 ### The Compensation Calculator Formula
 
 Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
