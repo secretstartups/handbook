@@ -283,7 +283,8 @@ Partner L&D Services
    </tr>
 </table>
 
-<br>## GitLab Certified Service Partner Program Benefits
+<br>
+## GitLab Certified Service Partner Program Benefits
 
 There is significant business opportunity for partners to offer and deliver GitLab enabled services, and in order to ensure there is consistent customer experience throughout the market we offer Service Partners certifications.
 
