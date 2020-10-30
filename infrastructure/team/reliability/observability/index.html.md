@@ -11,8 +11,6 @@ title: "Observability Team"
 
 ## Who We Are
 
-The Observability team owns the monitoring and alerting infrastructure for GitLab.com, as well as our caching/queuing infrastructure.
-
 Observability is:
 
 | Person | Role |
@@ -28,8 +26,16 @@ Observability is:
 
 ## Vision
 
-*WIP*
+The Observability SRE Team owns the logging, tracing, metrics, and monitoring services for GitLab.com operations. We foster discussions through data by providing insights into the behaviors of the GitLab application and its underlying infrastructure. We support our department's objective of targeted availability for our customers&mdash;internal and external&mdash;by using data for capacity planning and alerting. We build workflows that streamline incident response and management, collaborating with our product teams to bring the best of our experiences to the GitLab product's [Incident Management](https://docs.gitlab.com/ee/operations/incident_management/) features&mdash;and we dogfood those features into our workflows!
+
+We believe that GitLab Team Members and GitLab.com's users both benefit from access to our metrics. And, so we provide some metrics to GitLab users at https://dashboards.gitlab.com.
+
 
 ## Tenets
 
-*WIP*
+"If you can't measure it, you can't improve it." - __Peter Drucker__ 
+
+- We provide data that allows us to understand the past and current performance of our systems. 
+- We make it easy to identify the current state of our systems.
+- We provide data that helps us to predict the future state of our systems.
+- Our data is consistently reliable, accurate, and available to all of GitLab.com's internal stakeholders.
