@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Employee Privacy Policy"
+description: "This Employee Privacy Policy explains what types of personal information we may collect about our employees and how it may be used"
 ---
 
 ## On this page
