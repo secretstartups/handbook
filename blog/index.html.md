@@ -21,7 +21,6 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 - [Editorial team page (including blog style guide)](/handbook/marketing/growth-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
-- [Content Hack Day](/handbook/marketing/growth-marketing/content/content-hack-day/)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
 - [Git Guide for Blog Contributor](/handbook/marketing/blog/git-guide/)
 
@@ -122,8 +121,6 @@ If your pitch isn't accepted, no problem! The Editorial team will suggest that y
 
 Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @rebecca or @skassabian for review.
 {: .alert .alert-info .note}
-
-Blog post ideas and proposals for [Content Hack Day](/handbook/marketing/growth-marketing/content/content-hack-day/) should be created in the [Content Hack Day project](https://gitlab.com/gitlab-com/content-hack-day). We keep these issues in a separate project because not all ideas and proposals that come from Hack Day will be worked on.
 
 ### Process for time-sensitive posts
 
