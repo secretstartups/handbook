@@ -94,7 +94,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 
 
-<div style= "text align: center"> <img src="images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png" width="" alt="alt_text" title="image_tooltip"></div>
+<div style= "text align: center"><img src="images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 
 
@@ -104,7 +104,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-<div style= "text align: center"> <img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip"></div>
+<div style= "text align: center"><img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip">**
 
 
 
@@ -154,7 +154,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 <br>
-<br><img src="images/Channel Service Program/gitlab.png"" width="" alt="alt_text" title="image_tooltip">
+<br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
 <br>    ** +**
@@ -189,7 +189,7 @@ DevOps Services
 <br>
 <br>
 <br>
-<br>!<img src="images/Channel Service Program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="images/Channel Service Program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
@@ -198,7 +198,7 @@ DevOps Services
 
 
 <br>
-<br>!<img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
 <br>    ** +**
@@ -207,7 +207,7 @@ GitLab Software
 
 
 
-<br>!<img src="images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png" width="" alt="alt_text" title="image_tooltip">
 ** **Managed Services
 
       </td>
