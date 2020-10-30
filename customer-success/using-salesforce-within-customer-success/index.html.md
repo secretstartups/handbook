@@ -161,7 +161,7 @@ Any time you email a customer, bcc your "email to Salesforce address" on the ema
 
 Three alternatives exist:
 1. If you have an [Outreach](/handbook/business-ops/tech-stack/#outreachio) account which is linked to your GitLab email address and your Salesforce account, your emails will automatically sync with Salesforce
-1. If you do not have outreach, then consider the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails
+1. If you do not have outreach, then consider the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails
 1. If you do want to log the email to the customer's timeline in Gainsight, follow the instructions in [this help article](https://support.gainsight.com/SFDC_Edition/Timeline/Admin_Guides/Configure_Email_to_Timeline). This email will be synced back to Salesforce with the daily Gainsight-Salesforce sync.
 
 

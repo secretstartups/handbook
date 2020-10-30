@@ -48,9 +48,9 @@ The result is your team's Net IACV - Growth attainment as a percentage of your t
 
 Renewal rate indicates our performance on keeping the customers that we have, and growing them.
 
-Gross renewal is the total renewal for **all** accounts in the region for the specified time period, regardless of TAM alignment. In other words, it covers accounts that have a TAM and accounts that do not have a TAM. Gross renewal is driven by [Renewal ACV](/handbook/sales/#renewal-acv).
+Gross renewal is the total renewal for **all** accounts in the region for the specified time period, regardless of TAM alignment. In other words, it covers accounts that have a TAM and accounts that do not have a TAM. Gross renewal is driven by [Renewal ACV](/handbook/sales/sales-term-glossary/acv-in-practice).
 
-Net renewal represents growth as part of renewal. It is driven by [Incremental ACV](/handbook/sales/#incremental-annual-contract-value-iacv).
+Net renewal represents growth as part of renewal. It is driven by [Incremental ACV](/handbook/sales/sales-term-glossary/acv-in-practice).
 
 **NOTE**: Renewal Rates and Retention Rates are _two different things_. Example:
 

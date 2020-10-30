@@ -79,7 +79,7 @@ To access this information, TAMs should either:
 * Simpler method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
 * Alternative method: On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
 
-The top section (Opportunity Risk) is to be filled out (see [Fields](#fields) below) and the bottom section (Opportunity Info) is data pulled in from Salesforce. 
+The top section (Opportunity Risk) is to be filled out (see [Fields](#fields) below) and the bottom section (Opportunity Info) is data pulled in from Salesforce. For instance, if a competitor is listed in the Opportunity, that likely signifies a red or yellow health status.
 
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
