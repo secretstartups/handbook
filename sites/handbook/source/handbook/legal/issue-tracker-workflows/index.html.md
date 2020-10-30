@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Legal Issue Tracker Workflows"
+description: "These internal instructions will help GitLab Team Members engage with Legal in the Legal and Compliance issue tracker"
 ---
 
 ## On this page
