@@ -28,7 +28,7 @@ I am the Director of Contracts & Legal Operations at GitLab. As titles don’t a
 
 ## My working style
 
-- I'm an [ENTJ-T](https://www.16personalities.com/entj-personality) with the traits: Efficient, Leader, and Strategic Leader 
+- I'm an [ENTJ-T](https://www.16personalities.com/entj-personality) with the traits: Efficient, Leader, and Strategic Leader. 
 - I work well asynchronously, but also love video calls for work and non-work: coffee chats, 1:1s, or Friday happy hours.
 - Visual aids are always helpful! If a visual aid is unavailable, I prefer our first collaboration focus on creating that artifact to help me understand the topic.
 
