@@ -210,7 +210,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### iiPay
 
-* All Individual contractors or C2C, with exception of Hungary, Nigeria, South Africa, and Switzerland, will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
+* All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
 
 ##### Legal entities
 
@@ -225,7 +225,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### CXC 
 
-Poland, Russia, Ukraine & Romania:
+Poland, Russia, Ukraine, Romania, Israel, Turkey & Portugal:
 
 * Expense reports must be approved by the manager and the Accounts Payable team on or before the 8th of each month enable for it to be included in the current month payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
