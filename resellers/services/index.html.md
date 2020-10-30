@@ -94,7 +94,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 
 
-**![alt_text](images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png "image_tooltip")**
+<div style= "text align: center"> ![alt_text](images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png "image_tooltip")</div>
 
 
 
@@ -104,7 +104,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-**![alt_text](images/Channel Service Program/Service Program Requirements and Progression.png "image_tooltip")**
+<div style= "text align: center"> ![alt_text](images/Channel Service Program/Service Program Requirements and Progression.png "image_tooltip")</div>
 
 
 
@@ -124,7 +124,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
       </td>
       <td colspan="3" >· Reviewed annually
 
-· Non- compliant partners at the time of the annual review will have one quarter to return to compliance. 
+<br>· Non- compliant partners at the time of the annual review will have one quarter to return to compliance. 
 
       </td>
    </tr>
@@ -133,39 +133,42 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
-*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
-*   at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/), 
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+<br>*   at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/), 
 
-and (b) maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+<br>and (b) maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+
+      </td>
+      <td>
+
+<br>
+<br>
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+
 
       </td>
       <td>
 
 
 
-
-![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
-
-
-      </td>
-      <td>
-
-
-
-
-![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
 GitLab Software
 
-    ** +**
+<br>    ** +**
 
 
 
-![alt_text](images/Channel Service Program/cycle.png "image_tooltip")
+<br>![alt_text](images/Channel Service Program/cycle.png "image_tooltip")
 DevOps Services
 
       </td>
-      <td>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
+      <td>
+      <br>
+      <br>
+      <br>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
 
       </td>
    </tr>
@@ -174,40 +177,44 @@ DevOps Services
 
 
 
-*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
-*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
-*   at least three (3) [GitLab Certified Managed Services Engineers](https://about.gitlab.com/handbook/resellers/training/) 
-*   at least two (2) [GitLab Professional Service Engineer](https://about.gitlab.com/handbook/resellers/training/) 
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+<br>*   at least three (3) [GitLab Certified Managed Services Engineers](https://about.gitlab.com/handbook/resellers/training/) 
+<br>*   at least two (2) [GitLab Professional Service Engineer](https://about.gitlab.com/handbook/resellers/training/) 
 
-in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+<br>in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+
+      </td>
+      <td>
+<br>
+<br>
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
+
 
       </td>
       <td>
 
 
-![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
 
-
-      </td>
-      <td>
-
-
-
-
-![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
 GitLab Software
 
-    ** +**
+<br>    ** +**
 
 
 
 
 
-![alt_text](images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png "image_tooltip")
+<br>![alt_text](images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png "image_tooltip")
 ** **Managed Services
 
       </td>
-      <td>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
+      <td>
+      <br>
+      <br>
+      <br>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
 
    </td>
   </tr>
@@ -219,9 +226,9 @@ GitLab Software
       </td>
       <td colspan="3" >· By Invitation Only
 
-· Work with your CAM on a business case if you are interested
+<br>· Work with your CAM on a business case if you are interested
 
-· Non- compliant partners at the time of a review will have one quarter to return to compliance. 
+<br>· Non- compliant partners at the time of a review will have one quarter to return to compliance. 
 
       </td>
    </tr>
@@ -230,21 +237,21 @@ GitLab Software
 
 
 
-*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
-*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
-*   at least two (2)  [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) who each have two (2) badges from the [GitLab Train the Trainer Program,](https://about.gitlab.com/services/education/train-the-trainer/)
+<br>*   at least one (1) [GitLab Certified Sales Professional](https://about.gitlab.com/handbook/resellers/training/)
+<br>*   at least one (1) [GitLab Certified Solution Architect](https://about.gitlab.com/handbook/resellers/training/) 
+<br>*   at least two (2)  [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) who each have two (2) badges from the [GitLab Train the Trainer Program,](https://about.gitlab.com/services/education/train-the-trainer/)
 
-(b) complete the GitLab CTP contract exhibit, and (c) ensure their training services practice maintains an average Customer Satisfaction rating of at least 80% for the GitLab licensed courses their organization delivers to our joint customers. 
+<br>(b) complete the GitLab CTP contract exhibit, and (c) ensure their training services practice maintains an average Customer Satisfaction rating of at least 80% for the GitLab licensed courses their organization delivers to our joint customers. 
 
 GitLab Certified Training Partners can either act as subcontractors to [GitLab Education Services](https://about.gitlab.com/services/education/), or operate a training services practice that delivers GitLab Licensed Courseware directly to our joint customers. 
 
       </td>
       <td>
 
-
-
-
-![alt_text](images/Channel Service Program/gitlab-training-services-partner.png "image_tooltip")
+<br>
+<br>
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab-training-services-partner.png "image_tooltip")
 
 
       </td>
@@ -252,22 +259,25 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 
 
 
-
-![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
+<br>
+<br>![alt_text](images/Channel Service Program/gitlab.png "image_tooltip")
 [GitLab Ed Services](https://about.gitlab.com/services/education/)
 
-      **+**
+<br>      **+**
 
 
 
 
 
 
-![alt_text](images/Channel Service Program/pencil.png "image_tooltip")
+<br>![alt_text](images/Channel Service Program/pencil.png "image_tooltip")
 Partner L&D Services
 
       </td>
-      <td>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
+      <td>
+      <br>
+      <br>
+      <br>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
 
       </td>
    </tr>
