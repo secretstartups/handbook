@@ -75,7 +75,7 @@ Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) gro
 
 #### Retention, Gross & Net (Dollar Weighted)
 
-We measure Net and Gross Retention aggregated by month, for the [three levels of customers](/handbook/sales/#customers).
+We measure Net and Gross Retention aggregated by month, for the [three levels of customers](/handbook/sales/sales-term-glossarys).
 
 ```
 For an individual customer:

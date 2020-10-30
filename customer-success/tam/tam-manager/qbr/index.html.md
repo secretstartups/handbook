@@ -30,7 +30,7 @@ There are several key metrics that TAM Managers track, which are reported as par
 
 #### IACV attainment
 
-[Net Incremental Account Contract Value - Growth (Net IACV - Growth)](/handbook/sales/#net-incremental-annual-contract-value---growth-net-iacv---growth) is the metric used for TAM account growth. Your team's quota and attainment calculation uses this figure.
+[Net Incremental Account Contract Value - Growth (Net IACV - Growth)](/handbook/sales/sales-term-glossary) is the metric used for TAM account growth. Your team's quota and attainment calculation uses this figure.
 
 In the QBR presentation you may see this referenced as "IACV attainment" or "Net IACV attainment" which, while those are in fact their own metrics, in this context all refer to Net IACV - Growth.
 
