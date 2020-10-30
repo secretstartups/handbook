@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "The GitLab Legal Team"
+description: "Meet the GitLab Legal Team and learn how to engage with us for internal needs"
 ---
 
 ## On this page
