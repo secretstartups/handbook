@@ -22,7 +22,7 @@ description: "Data Driven Recruiting is defined as focusing on fewer people that
 
 ## Data Driven Recruiting at GitLab
 
-Data Driven Recruiting is defined as focusing on fewer people that have more aptitude and connection to the company. This approach helps to optimize the entire hiring process by leveraging the data on the candidates we're more likely to hire and those who are more likely to respond to our reach out. 
+Data Driven Recruiting (DDR) is defined as focusing on fewer people that have more aptitude and connection to the company. This approach helps to optimize the entire hiring process by leveraging the data on the candidates we're more likely to hire and those who are more likely to respond to our reach out. 
 
 Since GitLab has taken an innovative approach to hiring and implemented the [Outbound Recruiting Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), we aim to enrich our sourcing strategy with specific market data points. Data Driven Recruiting approach presents us with the specific data collected on the prospects, it can give us a broader understanding of the market we are interested in. It also makes us more mindful and strategic when it comes to our sourcing approach.
 
@@ -46,3 +46,5 @@ While there are different ways of combining the signals listed above, our goal i
 - Recruiting.
 3. Segment the market based on different cues you are interested in collecting the data on and proceed to sourcing and recruiting.
 
+### Resources
+To learn more about Data Driven Recruiting at GitLab you can check out the [DDR training](https://docs.google.com/presentation/d/1hsjYPtHtwiOEe6eBZvbudnafs3UbpvEU4B8CYspHC6s/edit#) and the first [DDR pilot project](https://gitlab.com/gitlab-com/people-group/recruiting/-/issues/363) (kindly note that these resources are available for GitLab team members only). If you have any questions regarding this approach and how to implement this to your roles, please reach out to your [Sourcing Partner](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) or the Sourcing team in the #sourcing-hacks Slack channel.
