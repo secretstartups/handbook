@@ -94,7 +94,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 
 
-<div style= "text align: center"><img src="images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png" width="" alt="alt_text" title="image_tooltip"></div>
+<div align= "center"><img src="images/Channel Service Program/Q3FY21 GitLab Certified Service Partner Program.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 
 
@@ -104,7 +104,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-<div style= "text align: center"><img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip">**
+<div align = "center"><img src="images/Channel Service Program/Service Program Requirements and Progression.png" width="" alt="alt_text" title="image_tooltip">
 
 
 
@@ -251,7 +251,7 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 <br>
 <br>
 <br>
-<br>!<img src="images/Channel Service Program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="images/Channel Service Program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
