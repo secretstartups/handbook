@@ -25,7 +25,7 @@ Further information can also be found on the [Germany Trade & Invest Website](ht
 
 ## Life Insurance
 
-GitLab does not plan to offer Life Insurance Benefits because team members can access employer insurance and government pension schemes to help with payments in the event of a death of a family member.
+GitLab does not plan to offer different Life Insurance Benefits because team members can access employer insurance and government pension schemes to help with payments in the event of a death of a family member. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies. 
 
 ## GitLab GmbH Germany Leave Policy
 
