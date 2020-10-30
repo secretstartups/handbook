@@ -129,7 +129,7 @@ TBA
         1. Email GitLab's *Customer Success Manager* or...
         1. Submit a ticket by visiting the following link: `https://www.linkedin.com/help/recruiter/ask`. 
 * **Changing a Hiring Manager Seat to a Recruiter Seat** 
-    * Submit a ticket by visiting the following link: `https://www.linkedin.com/help/recruiter/askm`.          
+    * Submit a ticket by visiting the following link: `https://www.linkedin.com/help/recruiter/ask`.          
 
 </details>
 
