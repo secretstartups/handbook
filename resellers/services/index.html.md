@@ -104,9 +104,6 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 **![alt_text](images/Channel Service Program/Service Program Requirements and Progression.png "image_tooltip")**
 
 
@@ -118,18 +115,21 @@ All GitLab Certified Service Partner tracks have program compliance and training
 When the contractual requirements are met, and your organization sponsors the required number of practitioners who complete the training requirements and obtain the associated badges, your company will earn the related GitLab Service Partner Certification. 
 
 The GitLab Channel team will communicate the award in email, and reflect the certification in the GitLab Partner Locator. 
-
-   <td>
+<table>
+   <tr>
+      <td>
 
 ### Technical Services
 
-   </td>
-   <td colspan="3" >· Reviewed annually
+      </td>
+      <td colspan="3" >· Reviewed annually
 
 · Non- compliant partners at the time of the annual review will have one quarter to return to compliance. 
 
-   </td>
-   <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become PSPs if they (a)  perpetually employ:
+      </td>
+   </tr>
+   <tr>
+      <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become PSPs if they (a)  perpetually employ:
 
 
 
@@ -139,8 +139,8 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 and (b) maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 
@@ -148,8 +148,8 @@ and (b) maintain positive Customer Success ratings measured against the followin
 ![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
 
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 
@@ -164,12 +164,13 @@ GitLab Software
 ![alt_text](images/Channel Service Program/cycle.png "image_tooltip")
 DevOps Services
 
-   </td>
-   <td>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
+      </td>
+      <td>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
 
-   </td>
-  <tr>
-   <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become MSPs if they (a) perpetually employ:
+      </td>
+   </tr>
+   <tr>
+      <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become MSPs if they (a) perpetually employ:
 
 
 
@@ -180,15 +181,15 @@ DevOps Services
 
 in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 ![alt_text](images/Channel Service Program/gitlab-managed-services-partner.png "image_tooltip")
 
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 
@@ -205,24 +206,27 @@ GitLab Software
 ![alt_text](images/Channel Service Program/software-development-lifecycle_original-manage-46px (1).png "image_tooltip")
 ** **Managed Services
 
-   </td>
-   <td>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
+      </td>
+      <td>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
 
    </td>
   </tr>
-   <td>
+  <tr>
+      <td>
 
 ### Training  Services
 
-   </td>
-   <td colspan="3" >· By Invitation Only
+      </td>
+      <td colspan="3" >· By Invitation Only
 
 · Work with your CAM on a business case if you are interested
 
 · Non- compliant partners at the time of a review will have one quarter to return to compliance. 
 
-   </td>
-   <td>Open and Select GitLab Partners who design, build and operate a training service practice can become CTPs if they (a) perpetually employ:
+      </td>
+   </tr>
+   <tr>
+      <td>Open and Select GitLab Partners who design, build and operate a training service practice can become CTPs if they (a) perpetually employ:
 
 
 
@@ -234,8 +238,8 @@ GitLab Software
 
 GitLab Certified Training Partners can either act as subcontractors to [GitLab Education Services](https://about.gitlab.com/services/education/), or operate a training services practice that delivers GitLab Licensed Courseware directly to our joint customers. 
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 
@@ -243,8 +247,8 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 ![alt_text](images/Channel Service Program/gitlab-training-services-partner.png "image_tooltip")
 
 
-   </td>
-   <td>
+      </td>
+      <td>
 
 
 
@@ -262,7 +266,9 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 ![alt_text](images/Channel Service Program/pencil.png "image_tooltip")
 Partner L&D Services
 
-   </td>
-   <td>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
+      </td>
+      <td>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
 
-   </td>
+      </td>
+   </tr>
+</table>
