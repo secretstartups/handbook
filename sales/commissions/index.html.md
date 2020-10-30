@@ -115,7 +115,7 @@ Within the first few weeks of your employment, you should receive your participa
 
 ## Opportunity Splits
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
-* Follow [Opportunity Split approval process](/handbook/sales/forecasting)
+* Follow [Opportunity Split approval process](/handbook/sales/forecasting#opportunity-splits)
 * On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
 ## Sales Representation Letter 
