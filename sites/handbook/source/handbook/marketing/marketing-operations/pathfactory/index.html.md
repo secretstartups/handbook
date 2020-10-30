@@ -9,11 +9,11 @@ description: "PathFactory (PF) is leveraged as our content library & content dis
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What is PathFactory?
+### What is PathFactory?
 
 PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
-### PathFactory vs. Marketo
+#### PathFactory vs. Marketo
 
 ☝️ **PathFactory ≠ Email Nurture. PathFactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
 
@@ -28,7 +28,7 @@ Nurture is a channel to bring an individual to the content. Just like ads, socia
 
 Yes, the PathFactory track acts as a supplement to the existing Marketo nurture instead of a replacement. It allows us to provide related content in a seamless way for the end-user (better than simply providing a PDF link and to improve "binging" of content).
 
-### PathFactory vs. CMS vs. DAM
+#### PathFactory vs. CMS vs. DAM
 
 PathFactory is not a single source of truth (SSoT) for all GitLab content, but rather content that has been activated in a marketing campaign.
 
@@ -38,7 +38,7 @@ PathFactory is not a single source of truth (SSoT) for all GitLab content, but r
 
 **PathFactory** - Content experience software used to allow buyers to binge-consume content, remove friction, and create more qualified leads, faster.
 
-## Access
+### Access
 
 The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
 
@@ -50,7 +50,7 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
 - `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. We have an unlimited amount of `Reporter` seats available for provisioning.
 
-### Rules of Engagement by Team
+#### Rules of Engagement by Team
 
 | **Team** | **Rules of Engagement** | **User Roles** |
 | ---- | ------------------- | ---------- |
@@ -63,8 +63,6 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 | Developer Evangelism | Upload new technical content | Author |
 | Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
 | All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
-
-## Training & Support
 
 ### Support
 
@@ -81,21 +79,21 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
 1. [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
 
-## Issue templates
+### Issue templates
 
 **[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
 
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
+1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
 1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
-1. Pathfactory Bulk Upload Request: https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk
+1. [Pathfactory Bulk Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
 1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
-## Changelog
+### Changelog
 
-Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). **Everyone with `Author` access that is making significant changes in PathFactory should add their changes to the changelog with a linked issue and/or relevant PathFactory links.**
+Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). Everyone with `Author` access that is making significant changes in PathFactory should add their changes to the changelog with a linked issue and/or relevant PathFactory links.
 
 **Scenarios for adding to the changelog:**
 
@@ -113,7 +111,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Add the date you made the change if it doesn't already exist.
 1. Add a bullet with your GitLab username and document the changes you made, making sure to include links to issues or relevant PathFactory links.
 
-## Content library
+### Content library
 
 **Before uploading content:**
 
@@ -122,7 +120,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
 
-### How to upload content
+#### How to upload content
 
 1. Click `Add Content` in the top right of the content library.
 1. Choose how you will upload the asset (Website URL, file upload, or CSV).
@@ -163,37 +161,37 @@ If you need to replace an asset source but keep the same link, you can do so fro
 * QA that the new version appears in "Preview" mode
 * If used in a track, QA that the correct version appears in the track preview
 
-### Bulk upload
+#### Bulk upload
 
 You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/article/csv-upload) to the content library via a CSV file.
 
 1. Download this [CSV template](https://d1nk153xyqlyhl.cloudfront.net/Content_CSV_Template.csv). This CSV file has the exact format as the CSV bulk upload template.
-1. Provide all the information in the template for your new assets and save as a CSV. 
-1. Follow the standard procedure for uploading content and select CSV upload. 
+1. Provide all the information in the template for your new assets and save as a CSV. Reference the [content topics](#content-topics) and [content types](#content-types) to appropriately tag the content. 
+1. [Follow the standard procedure](#how-to-upload-content) for uploading content and select CSV upload. 
 1. Upload your file and select the checkbox `Overwrite all duplicate content assets`. 
 1. Select the `Upload File` button.
 
-### Analyst reports
+#### Analyst reports
 
 Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) in the digital marketing programs project using the `Gated-Content-Expiration-Analysts-MPM` issue template.
 
-### Asset thumbnails
+#### Asset thumbnails
 
 For assets that don't pull in a relevant thumbnail image, you can choose to upload a thumbnail image that closely matches the topic of the asset. The design team has made [topical thumbnail images](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/web-design/pathfactory/content-thumbnails) available for upload to PathFactory. The thumbnail images are available in either an orange or dark purple background for the following topics:
 
-- Agile
-- CI/CD
-- Cloud Native
-- DevOps
-- Git
-- IT Management
-- Microservices
-- Open Source
-- Security
-- Single app
-- Digital transformation
-- VSM
-- Workflow
+1. Agile
+1. CI/CD
+1. Cloud Native
+1. DevOps
+1. Git
+1. IT Management
+1. Microservices
+1. Open Source
+1. Security
+1. Single app
+1. Digital transformation
+1. VSM
+1. Workflow
 
 To use a thumbnail image, visit the [web design repository](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/web-design/pathfactory/content-thumbnails) where they are stored, choose the `png` folder, choose your preferred background color, then select the `.png` that most closely matches the topic of the asset in PathFactory you're uploading the image to. Use the list of topics above to determine the best topic fit.
 
@@ -209,54 +207,54 @@ To use a thumbnail image, visit the [web design repository](https://gitlab.com/g
 1. Directly under `Public Configurations`, you'll find the thumbnail for the asset. Hover over the image and click the edit icon.
 1. Under the thumbnail images tab, click to upload the thumbnail image you just downloaded. All images are already properly sized for PathFactory.
 
-## Content tracks
+### Content tracks
 
 Before creating a new content track, decide what type of content track (target vs. recommend) you want to create. Use the criteria below to decide the best option:
 
-### Best practices
+#### Best practices
 
 **Target track**
 
-- Curated content
-- Known audience
-- Personalized journey (email, website, targeted display)
-- 5-7 pieces of content
-- Use target in webinar reg and follow-up
-- Use target to GUIDE
+1. Curated content
+1. Known audience
+1. Personalized journey (email, website, targeted display)
+1. 5-7 pieces of content
+1. Use target in webinar reg and follow-up
+1. Use target to GUIDE
 
 **Recommended track**
 
-- Dynamic content sequence (it will automatically move content to the top of the track that is performing well)
-- Anonymous audience
-- Personalized journey (web, general display, social)
-- Tracks the most popular journey (which pieces are being viewed, can be exported into a target track)
-- Use recommend to DISCOVER
+1. Dynamic content sequence (it will automatically move content to the top of the track that is performing well)
+1. Anonymous audience
+1. Personalized journey (web, general display, social)
+1. Tracks the most popular journey (which pieces are being viewed, can be exported into a target track)
+1. Use recommend to DISCOVER
 
-### Create a content track
+#### Create a content track
 
 1. When you're ready, select `Campaign Tools` in the top navigation bar and select the content track type you want to create (target or recommend).
-1. Click the "Create track" button in the top right.
+1. Click the `Create track` button in the top right.
 1. Name your content track. Be descriptive about the topic or campaign that your track will be used for. If you're unsure, review the names of other content tracks to get an idea. The content track name is for internal use only and will not be shown to visitors. Each content track has to have a unique name. You cannot use duplicate names for content tracks.
 1. Choose to clone an existing content track, which will copy all assets from that content track into yours, or simply start from scratch.
-1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team. If none of the folders accurately represent your content track, ping `@sdaily` to create a new folder in the structure.
-1. Tag your content track with labels that will tell everyone accessing the content track which channels it will be used on (internal use only). If you will be launching on a channel that doesn't exist from the picklist, ping `@sdaily` to add a track label for your channel.
-1. Click "Create Track".
+1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team.
+1. Tag your content track with labels that will tell everyone accessing the content track which channels it will be used on (internal use only).
+1. Click `Create Track`.
 1. On the left panel, change the custom URL slug to be descriptive of the track with no stop words (and, the, etc.) - ex. `ci-aware`
-1. Add assets to your track by clicking the "Add content" button at the top right. A window will pop up with the content library. Use the sorting options at the top to quickly add content by topic, type, funnel stage, etc. PathFactory content tracks are meant to encourage content binging (visitors reading more than 1 asset to accelerate them in the pipeline by helping them self educate faster in one visit). So as best practice, have more than 1 asset in a track.
+1. Add assets to your track by clicking the `Add content` button at the top right. A window will pop up with the content library. Use the sorting options at the top to quickly add content by topic, type, funnel stage, etc. PathFactory content tracks are meant to encourage content binging (visitors reading more than 1 asset to accelerate them in the pipeline by helping them self educate faster in one visit). So as best practice, have more than 1 asset in a track.
 
-#### Configuring content track settings
+##### Configuring content track settings
 
-##### Track settings
+###### Track settings
 
 1. Set the `custom URL slug` for the content track. [Follow the instructions](#how-to-upload-content) for creating a custom URL slug for an asset. **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience. If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
-1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
-1. Set the appearance for the track. If you require a new appearance, create an issue in the Marketing Operations project and assign `@sdaily`.
+1. Ensure that the Search Engine Directive is set to `No Index, No Follow`. This ensures we are not penalized for duplicate content with search engines for having the same content on `about.gitlab.com` and in a PathFactory experience.
+1. Set the appearance for the track. 
 1. Set the language for the track.
 1. Leave `Links & Sharing` set to default.
 1. Leave `External ID` set to default.
 1. Turn on the `Cookie Consent` before providing the approved content track link for live use.
 
-##### Promoters
+####### Promoters
 
 This is where you will choose how your content track displays to the visitor. Note the different functionality of each below. Before going live, you can test each promoter to find the one that works best for the goals of your PathFactory experience.
 
@@ -283,7 +281,7 @@ This is where you will choose how your content track displays to the visitor. No
             - Inactive tab title
             - Delay (seconds)
 
-##### CTAs
+###### CTAs
 
 [Using CTA Buttons](https://nook.pathfactory.com/nook/s/article/using-cta)
 
@@ -299,13 +297,17 @@ This is where you will choose how your content track displays to the visitor. No
   - For **email**, simply input the email address you want users to contact from clicking the CTA.
 1. Click `Save`.
 
-##### Form strategy
+###### Form strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations project and assign `@sdaily`.
+Form strategy is used on content tracks to collect data from unknown visitors by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. 
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a listening campaign for an asset.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. 
 
-##### Adding form strategy to a content track
+###### Request a new PathFactory form
+
+The forms used in PathFactory are directly tied to currently existing Marketo forms. As a result, you must first [request a new Marketo form](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=form_request). Upon completion, [request a new PathFactory form](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=pathfactory_request). 
+
+####### Adding form strategy to a content track
 
 1. In the content track settings sidebar (left), toggle "Forms Strategy" to `On`.
 1. Click `View Form Strategy` located below the `Add Content` button.
@@ -329,7 +331,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 1. Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track. This decision lies with the directly responsible MPM.
 1. All other options for content track rules are the same for individual assets (see above).
 
-#### Testing a track link
+##### Testing a track link
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
@@ -344,32 +346,32 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 1. Change the target track title that's no longer in use to `[ARCHIVED] Name of track`.
 
-#### Adjustments to live content tracks
+##### Adjustments to live content tracks
 
 - You can add assets and adjust the position of assets to a `[LIVE]` content track.
 - Before you remove an asset from a content track, please create an issue in the Marketo Operations repo and assign `@sdaily`. Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track.
 
-## PathFactory forms
+### PathFactory forms
 
 The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
 
-## PathFactory links
+### PathFactory links
 
 - Only content track links are meant to be used and shared. Do not share individual asset links from the content library.
 - You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
 - To ensure proper tracking of an asset in PathFactory, it should be included within a content track and not shared with an individual link from the content library.
 - If the link breaks or an asset is deleted, the user will be redirected from your content track to the `#all` track, which includes all assets uploaded to PathFactory. In a case where the user is not redirected to the `#all` track, they will be redirected to the `Fallback URL` which is set to `about.gitlab.com`.
 
-### Target track links
+#### Target track links
 
 1. Use the `Get Share URL` feature next to the title of the track. `Share links` are to be used in locations such as the website whereas `Email tracking links` are only for use in email. **Note:** If it’s in email, it’s a known audience so don’t gate any assets in the track. Only use `share links` on the web and those tracks _can have_ gated assets within PathFactory.
 1. If you want a particular asset to show first, that asset should be located in the first position of the target track.
 
-### Recommended track links
+#### Recommended track links
 
 1. To use a recommended track link, click on any of the assets in the track and copy the link from the asset window on the right. The asset you choose to share the link will be shown to the user first.
 
-### Appending UTMs to PathFactory links
+#### Appending UTMs to PathFactory links
 
 1. First check and see if there is a question mark `?` already existing in the PF link. Typically there is one. The only time it won't have a `?` is when you set a custom URL.
 1. If there is a question mark `?`, first add an ampersand `&` at the end of the PF link, followed by the UTMs.
@@ -400,7 +402,7 @@ The forms used in PathFactory are hardcoded Marketo form script. They are added 
     - With no custom URL: `https://learn.gitlab.com/c/gcn-dev-sec-ops-how-?x=XOIXTl&lb_email=` (`x=XOIXTl` = content track ID)
     - With custom URL: `https://learn.gitlab.com/cicd/cloud-ci-tools-matur?lb_email={{lead.Email Address}}`
 
-### Custom query strings
+#### Custom query strings
 
 PathFactory’s custom query string manager allows you to manage and append query strings when sharing a link to a content track or explore page.
 
@@ -410,11 +412,11 @@ PathFactory’s custom query string manager allows you to manage and append quer
 
 **Note:** Do not delete or edit the default query string for Marketo as that query string is an important way to integrate with PathFactory.
 
-## Explore pages
+### Explore pages
 
 Explore pages allow your visitors to quickly view all content assets in a content track. Each explore page you create is built on top of an existing target or recommend content track.
 
-### Use cases
+#### Use cases
 
 Explore pages can act as replacements for traditional landing pages or simple microsites.
 
@@ -423,7 +425,7 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 - Co-branded resource page
 - Personalized information hub
 
-### Create an explore page
+#### Create an explore page
 
 **Before you make an explore page ensure that you have already built a content track (target or recommended) that you will use as the base.**
 
@@ -438,7 +440,7 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
 1. Be sure to test your explore page fully. Tag `@sdaily` for review.
 
-### Explore Page FAQs
+#### Explore Page FAQs
 
 **Why can’t I change the background color behind my cover image?**
 
@@ -456,7 +458,7 @@ All changes to the content in an explore page has to be done in the base content
 
 Yes! You can add a custom hero image by navigating to `Appearances Configuration` and selecting the appearance you would like to modify. Then click on the `Explore` tab and select `cover image` for Hero layout and upoad your custom image under `Hero Image`. Make sure you click `save` on both the explore image upload and then again to save the appearance edits you have made (recommended size for a hero image is 1600x500).
 
-## Appearances
+### Appearances
 
 Appearances allow you to control the look and feel of your content tracks. By creating different appearance groups you are able to quickly and easily apply different colors, fonts, and logos to content tracks without having to configure them each time you build a new track. Appearance settings allow you to control how your promoters look, select favicons for your tracks, and configure the appearance of your cookie consent messaging.
 
@@ -479,7 +481,7 @@ You are able to change the appearance of the following components of a content t
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
 
-## Content topics
+### Content topics
 
 Unsure what content topics align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -532,7 +534,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | VSM | Content that relates to the topic of value stream mapping and management. Topics that fall under this tag may include cycle time, cycle analytics, and software delivery strategies and metrics. | [The Forrester Value Stream Management Report](/analysts/forrester-vsm/index.html) |
 | Workflow | Content that relates to understanding and implementing workflows throughout the software development lifecycle. Likely uses are content that explains a particular workflow or how to set up a workflow in GitLab. For example: how a workflow might change when a level of automation is introduced. | [Planning for success](/resources/downloads/gitlab-planning-for-success-whitepaper.pdf) |
 
-## Content types
+### Content types
 
 Unsure what content types align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -558,11 +560,11 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Webcast | A live broadcast & recording that includes a presenter, slides, and a live audience. | [Cloud Native Transformation with Ask Media Group](https://www.youtube.com/watch?v=3ED5NrVoVzk) |
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution. Whitepapers are academic and authoritative in tone. Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. | [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
 
-## PathFactory tracking
+### PathFactory tracking
 
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
-## Listening Campaigns
+### Listening Campaigns
 
 In Marketo, we have programs built to "listen" for PathFactory (PF) activity & content consumption allowing us to track behaviour without having to physically gate all the assets which disrupts the user experience.
 
@@ -581,7 +583,7 @@ The naming convention for each of the listeners is specific to the asset type & 
 | Webcast | PF - Webcast - |
 | Whitepaper | PF - Whitepaper - |
 
-### Set up a new listening campaign
+#### Set up a new listening campaign
 
 This process is for new assets in PathFactory that **have not** already been distributed from a content track. For any retroactive listening campaigns for assets that have already been distributed from a content track, please create an issue in the marketing operations project and assign it to `@sdaily`.
 
@@ -618,11 +620,11 @@ Assets needing a listening campaign should following the above naming convention
 
 **Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
 
-### Salesforce Campaign Type
+#### Salesforce Campaign Type
 
 For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [Business Ops Resources - Campaign details](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
 
-### PathFactory SFDC Panel
+#### PathFactory SFDC Panel
 
 In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTACT layout that provides information about Pathfactory content consumption.
 
@@ -634,7 +636,7 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 1. A "session" closes after 30 minutes of inactivity or at 11:59pm (instance set timezone - SFDC is set to Pacific time).
 1. If a person consumes more than one content track in a **single session** all of the assets/tracks viewed will be displayed in the fields cumulatively.
 
-### PF Panel Fields
+#### PF Panel Fields
 
 ![](/images/handbook/marketing/marketing-operations/pathfactory/pf_sfdcpanel.png)
 
