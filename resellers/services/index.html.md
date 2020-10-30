@@ -118,8 +118,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
    <tr>
       <td>
 
-<br>
-### Technical Services
+<h3>Technical Services</h3>
 
       </td>
       <td colspan="3" >· Reviewed annually
@@ -221,8 +220,7 @@ GitLab Software
   <tr>
       <td>
 
-<br>
-### Training  Services
+<h3>Training  Services</h3>
 
       </td>
       <td colspan="3" >· By Invitation Only
@@ -296,7 +294,7 @@ Each Certification track offers unique benefits that help partners better prepar
 <table>
   <tr>
    <td colspan="5" >
-<h2>Training Benefits</h2>
+<h3>Training Benefits</h3>
 
 GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
    </td>
@@ -335,7 +333,7 @@ GitLab recognizes the important role our partners play in delivering value and s
   </tr>
   <tr>
    <td colspan="5" >
-<h2>Marketing Benefits</h2>
+<h3>Marketing Benefits</h3>
 
 GitLab Open and Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
    </td>
@@ -374,7 +372,7 @@ GitLab Open and Select partners have access to the proposal-based <a href="https
   </tr>
   <tr>
    <td colspan="5" >
-<h2>Sales Acceleration</h2>
+<h3>Sales Acceleration</h3>
 
 All authorized GitLab partners are eligible for co-selling with the GitLab Sales team. Certified partners are often prioritized in co-selling activities because those partners are able to deliver greater value for our joint customers. The GitLab Sales team and partner sellers align to drive customer value through joint account planning, account development, and working together to grow revenue.  Additionally, Certified Service Partners can be brought in for services only opportunities to help customers assess their DevOps infrastructure in advance of a potential GitLab purchase, or optimize their GitLab deployments.
    </td>
