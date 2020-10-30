@@ -210,7 +210,21 @@ Before creating a new handbook page, ensure the information does not already exi
 
 1. Name the file path and ensure it ends in `/index.html.md`. 
 
-1. To ensure the page is set up correctly, copy/paste the first section of an existing handbook page. Remember to edit appropriately.
+1. To ensure the page is set up correctly, copy/paste the following to the top of your new handbook page. Remember to edit appropriately.
+
+```
+---
+layout: handbook-page-toc
+title: "[insert title of your page]"
+description: "[insert a short sentence to appear as part of search results]"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+```
 
 1. Type in the commit message and click `commit changes`.
 
