@@ -282,3 +282,158 @@ Partner L&D Services
       </td>
    </tr>
 </table>
+
+## GitLab Certified Service Partner Program Benefits
+
+There is significant business opportunity for partners to offer and deliver GitLab enabled services, and in order to ensure there is consistent customer experience throughout the market we offer Service Partners certifications.
+
+Each Certification track offers unique benefits that help partners better prepare themselves to deliver customer value through services directly to our joint customers. 
+
+
+<table>
+  <tr>
+   <td colspan="5" >
+<h2>Training Benefits</h2>
+
+GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5" >Training Benefits and 
+<p>
+Resources
+   </td>
+   <td>Open/Select
+   </td>
+   <td>PSP
+   </td>
+   <td>MSP
+   </td>
+   <td>CTP
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Quarterly updates and training events help our partners achieve and maintain accreditations and certifications. 
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Training discounts for GitLab instructor-led courses. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="3" >Service Partner Certifications: Recognizes customer success performance for your organization
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="3" >Certifications: Recognize service capabilities among your delivery teams
+   </td>
+  </tr>
+  <tr>
+   <td colspan="5" >
+<h2>Marketing Benefits</h2>
+
+GitLab Open and Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="5" >Services Related Marketing Benefits
+   </td>
+   <td>Open/Select
+   </td>
+   <td>PSP
+   </td>
+   <td>MSP
+   </td>
+   <td>CTP
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >MDF is available to help partners promote service offerings.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Partner Locator: find partners with capabilities to address specific outcomes.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="3" >Badging (specific to the GitLab Certified Service Partner  track)
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3" >
+   </td>
+   <td>LXP Class Scheduling (future): add public training events into our LXP for visibility to a broader customer base.
+   </td>
+  </tr>
+  <tr>
+   <td colspan="5" >
+<h2>Sales Acceleration</h2>
+
+All authorized GitLab partners are eligible for co-selling with the GitLab Sales team. Certified partners are often prioritized in co-selling activities because those partners are able to deliver greater value for our joint customers. The GitLab Sales team and partner sellers align to drive customer value through joint account planning, account development, and working together to grow revenue.  Additionally, Certified Service Partners can be brought in for services only opportunities to help customers assess their DevOps infrastructure in advance of a potential GitLab purchase, or optimize their GitLab deployments.
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="8" >Sales Acceleration
+   </td>
+   <td>Open/Select
+   </td>
+   <td>PSP
+   </td>
+   <td>MSP
+   </td>
+   <td>CTP
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Introduction to GitLab sales team for account planning
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Introduction to sales opportunities by the GitLab Sales team
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >Internal Use Licenses: Offering discounted licenses for internal use
+   </td>
+  </tr>
+  <tr>
+   <td colspan="4" >No cost Not for Resale (NFR) licenses: for lab testing, demos, training and educational use incremental NFRs given to PSP and MSP
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="3" >Service Packages : GitLab Services toolkits, sales and marketing IP
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td colspan="3" >Opportunities for co-delivering services
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>80% discount on licensed courseware
+   </td>
+  </tr>
+</table>
+
+
+
+## Maintaining Service Partner Certifications
+
+At GitLab, collaboration and feedback is meant to nurture and mentor our certified service partners to grow their service capabilities and expertise. The program will utilize our internal [customer success metrics](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) to measure and understand the GitLab customer experience across the entire ecosystem and help further develop our certified service partners. In order to work together in this process, we will ask you to provide context to the annual customer success report for your customer set one month before it is due to be published. 
+
+GitLab Channel Partner program will review the GitLab Certified Service Partners’ customer success rating and practitioner certification status each year in the month the partner was originally granted certification. Partners will be notified with the outcome of the review and the resulting status of their certification. If the partner needs to make further investments to stay in good standing with regards to Service Partner Certifications, the email will indicate the existing status and state the expected status with a deadline when compliance is required to renew your GitLab Service Partner Certification. Partners can work with their GitLab Channel Account Manager (CAM) to create a plan for obtaining and maintaining certifications.
