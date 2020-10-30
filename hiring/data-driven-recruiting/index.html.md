@@ -32,8 +32,10 @@ As we aim to build an even more diverse team in the most efficient way possible,
 1. Skillset alignment
 1. [Preferred companies](https://about.gitlab.com/handbook/hiring/preferred-companies/)
 1. Company connections
+1. Longevity
 1. Potential contribution to GitLab's diversity
 1. Contribution to GitLab's efficiency
 
+While there are different ways of combining the signals listed above, our goal is to use Data Driven Recruitment approach at the beginning of the search to build robust pipeline and oprtimize our sourcinng effort. 
 
 Steps taken to implement 
