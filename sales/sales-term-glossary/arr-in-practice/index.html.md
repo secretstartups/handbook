@@ -47,11 +47,13 @@ Booked Net ARR is tracked in the `Booked Net ARR` field located on the Opportuni
 
 ### Booked ARR
 
-The Booked ARR value of a deal with out it's basis considered. It is the bookings equivlent of ARR.
+The Booked ARR value of a deal includes its renewal amount and its Booked Net ARR. It is the bookings equivlent of ARR. 
 
 **Example:** A customer with a $100k ARR subscription renews at $130k the following year. 
 - Booked ARR = $130k. 
 - Booked Net ARR = $30k.
+
+Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
 
 Note: Booked Net ARR and Booked ARR are being developed along side ARR and Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
 
