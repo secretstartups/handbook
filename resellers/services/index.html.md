@@ -156,7 +156,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 <br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
-<br>    **+**
+<br>    +
 
 
 
@@ -200,7 +200,7 @@ DevOps Services
 <br><img src="images/Channel Service Program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
 GitLab Software
 
-<br>    **+**
+<br>    +
 
 
 
