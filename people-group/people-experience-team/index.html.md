@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Experience Team"
+description: "This page lists all the processes and agreements for the People Experience team."
 ---
 
 ## On this page

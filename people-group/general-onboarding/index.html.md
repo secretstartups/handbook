@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Onboarding"
+description: "Onboarding at GitLab and Onboarding Issue Templates"
 ---
 
 ## On this page
