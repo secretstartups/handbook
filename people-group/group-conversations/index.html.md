@@ -231,7 +231,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Two  | Mon  | Available |   |
 | Two  | Tues | Available |   |
 | Two  | Wed  | Available |   |
-| Two  | Thur | Available |   |
+| Two  | Thur | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
@@ -240,7 +240,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
+| Four  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
 | Four  | Thur | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
@@ -250,7 +250,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Six  | Mon  | [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Six  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
@@ -260,8 +260,8 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Eight | Thur | Available | |
+| Eight | Wed  | Available |   |
+| Eight | Thur  | Available  |  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation
