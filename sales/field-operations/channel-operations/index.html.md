@@ -389,21 +389,23 @@ For more informaiton on quoting or the Partner Program, please visit:
 - GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 **Partner Initiated Opportunity - PIO**
-- A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.  A PIO could be:
+- A PIO is any initiated sales opportunity that was brought to GitLab via a Deal Registration. A PIO could be:
     -  An opportunity with new customer to GitLab
-    -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific opportunity
-    -  An existing customer upgrade to a higher pricing plan - including from our free/core product.  This could be for a customer that was originally sold direct.
-    -  Additional licenses sold, often at time of renewal. 
+    -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific partner identified opportunity
+    -  An existing customer upgrade to a higher pricing plan - including from our free/core product. This could be for a customer that was originally sold by GitLab.
+    - Additional licenses sold, often at time of renewal.  This can also be an increase in size of an existing GitLab sales opportunity.
     -  True-ups to an original partner opportunity. 
-- The opportunity must be new to our sales team, and can be for a new or existing customer.
-- This can be for either a resale or referral opportunity.  
-- The partner is expected to assist the GitLab Sales team in closing the sale. It does not mean that the SAL is not involved.
-- PIO can be a lead you have been working forever and cannot convert - partner intros or partner services creates conversion or expansion.
+- The opportunity must be new to our sales team or initiated to an existing sales opportunity, and can be for a new or existing customer.
+- PIO can be a lead that GitLab Sales teams have been already working but has stalled and has not converted.  Partner introductions, services, budget shift or other activities that create a conversion or expansion qualify as a PIO.
+- Partners that are brought in to transact and finalize a sales opportunity do not qualify for PIO.
+- This can be for either a resale or referral opportunity.
+- The partner is expected to collaborate with the GitLab Sales team to jointly close the sale. 
 - If a partner helps upsell or expand an opportunity, the entire opportunity qualifies as PIO.
-- For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
+- - For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
 - For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
 - Referral rebate payments are paid out no later than 45 after the end of each GitLab fiscal quarter.
-- The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
+- The determination of PIO is per GitLab sales rep & CAM determination and tracked via Salesforce opportunities.
+
 
 **Partner Assist Opportunity**
 - Any opportunity where the partner assists our sales team in closing the deal.
