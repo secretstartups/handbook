@@ -18,6 +18,16 @@ Vimeo is a video hosting, sharing, and services platform.
 
 Everyone in GitLab will have access to Vimeo through Okta ([see related issue](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/-/issues/201#note_438418851)). If a higher permission set is required, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
+#### User Roles
+
+[Managing team members on your account](https://vimeo.zendesk.com/hc/en-us/articles/224818687-Managing-team-members-on-your-account)
+
+1. Uploaders
+1. Viewers
+1. Contributors
+1. Admins
+1. Owners
+
 ### Support
 
 1. [Contact Support](https://vimeo.com/help/contact)
