@@ -222,7 +222,7 @@ Contacts, and Leads, Verify and Save)
 
 - [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
 - [Sales Operations Project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations)
-- [Focus Fridays](/handbook/sales/#focus-fridays)
+- [Focus Fridays](/handbook/sales/sales-meetings)
 - Field Operations Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_hhs5o85g05lho9agbkfhv8lc40%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

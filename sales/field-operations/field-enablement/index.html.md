@@ -42,7 +42,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
      - [Sales Kick Off](/handbook/sales/training/SKO)
-     - [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
+     - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
 
 ## Strategy
