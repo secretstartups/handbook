@@ -94,6 +94,11 @@ Please reach out to your recruiter for tips on how to improve your LinkedIn prof
 
 To note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
 
+## Reach out to the Sourcing Team
+If you're not sure who is your Sourcing Partner, please visit our [Recruiting Alignment](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) page or reach out to the Sourcing Manager. 
+We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions. 
+If you'd like to tag the Sourcing team in an issue or merge request, you can use the `@gl-sourcing` handle.
+
 ## Sourcing Sessions
 Sourcing Session is a required step of the recruiting process for every role at GitLab. 
 These sessions help us to ensure that we look for outbound talent and leverage our sourcing effort
