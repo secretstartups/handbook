@@ -129,6 +129,24 @@ The following table provides scores for each of our DevOps stages and a comparis
   <% end %>
 <% end %>
 
+## Total and Service Addressable Markets
+
+Service Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is servicable by our current products. Here is our current TAM, percent addressable and SAM for each stage.
+
+| Stage | TAM | % Servicable | SAM |
+|-|-|-|-|
+<% data.addressable_markets.each do |stage| %>
+  <% stageLine=[] %>
+  <% sam = (stage.percent_servicable.to_f/100)*stage.tam.to_f %>
+  <% stageLine << "#{stage.stage}"%>
+  <% stageLine << "$#{stage.tam}M" if stage.tam %>
+  <% stageLine << "[#{stage.percent_servicable}%](#{stage.serviceable_url})" if stage.serviceable_url %>
+  <% stageLine << "#{stage.percent_servicable}%" if !stage.serviceable_url %>
+  <% stageLine << "$#{sam.round(0)}M" %>
+  <%= "| #{stageLine.join(' | ')} |" if stageLine %>
+<% end %>
+
+_Note_ - It is difficult to find data sources that allow us to break down our TAM (and therefore) SAM by stages, groups and categories. The primary reference for this data is the [2019 IDC Worldwide DevOps Software Tools Market Shares report - internal](https://drive.google.com/drive/u/0/folders/1shds4hVYbgogjsLBa43zrmIEYItrcJTp) as it is the third party market size analysis that most closely maps to our overall product scope. We used the IDC report, plus some additional market analyses, to then derive a [TAM estimate for each stage - internal](https://docs.google.com/spreadsheets/d/1LO57cmXHDjE4QRf6NscRilpYA1mlXHeLFwM_tWlzcwI/edit?ts=5ddb7489#gid=947614257).  We also publish a TAM estimate using a [different methodology](/handbook/sales/tam/) which is derived by multiplying the estimated number of potential users by GitLab's potential annual average revenue per user (ARPU). 
 
 ## Changes
 
