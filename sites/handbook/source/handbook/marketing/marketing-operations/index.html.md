@@ -467,6 +467,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
+     - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
 
 ##### Step 2: Sync to Salesforce
 
