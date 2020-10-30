@@ -36,6 +36,13 @@ As we aim to build an even more diverse team in the most efficient way possible,
 1. Potential contribution to GitLab's diversity
 1. Contribution to GitLab's efficiency
 
-While there are different ways of combining the signals listed above, our goal is to use Data Driven Recruitment approach at the beginning of the search to build robust pipeline and oprtimize our sourcinng effort. 
+### General guidelines
+While there are different ways of combining the signals listed above, our goal is to use Data Driven Recruitment approach at the beginning of the search to build robust pipeline and oprtimize our sourcinng effort. These are the steps you can take to adopt the Data Driven Approach to your search:
 
-Steps taken to implement 
+1. Define your hiring needs and the purpose of the DDR to understand what results you’d like to get.
+1. Break down the project into steps, for example: 
+- Defining cues and segmenting the market;
+- Sourcing and outreach;
+- Recruiting.
+3. Segment the market based on different cues you are interested in collecting the data on and proceed to sourcing and recruiting.
+
