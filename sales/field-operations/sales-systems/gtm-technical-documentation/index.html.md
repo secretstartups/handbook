@@ -243,7 +243,7 @@ Code Units:
 ## Order Type System
 <details>
   <summary markdown="span">Order Type System Info</summary>
-**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/#account-family)
+**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/sales-term-glossary)
 
 **Overview:** The goal of the Order Type system is to determine a given Opportunity's relationship with the business. Did it start a new customer relationship, cross into a related segment of the customer, or grow an existing relationship.
 

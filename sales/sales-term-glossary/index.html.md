@@ -184,7 +184,7 @@ Customer Life-Time Value is the amount of gross margin contribution on a cash ba
 
 ### LTV to CAC
 
-The customer Life-Time Value to Customer Acquisition Cost ratio ([LTV](/handbook/sales/#ltv):[CAC](/handbook/sales/#customer-acquisition-cost-cac) measures the relationship between the lifetime value of a customer and the cost of acquiring and growing that customer. [A good LTV to CAC ratio is considered to be > 3.0.](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-lifetime-value-to-customer-acquisition-ratio). 
+The customer Life-Time Value to Customer Acquisition Cost ratio ([LTV](/handbook/sales/#ltv):[CAC](/handbook/sales/sales-term-glossary-acquisition-cost-cac) measures the relationship between the lifetime value of a customer and the cost of acquiring and growing that customer. [A good LTV to CAC ratio is considered to be > 3.0.](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-lifetime-value-to-customer-acquisition-ratio). 
 
 To accurately calculate the LTV to CAC of a customer sum all the cash that a customer has paid GitLab over the life of the customer times the gross margin and divide it by the total sales and marketing cost to acquire and grow this customer. These cash flows are discounted back using the GitLab cost of capital or discount rate. We use 15% for our discount rate. This metric is the most accurate view of our unit economics however given we don't have many customers over 4 years of tenure with us there are assumptions in the numbers. This should be used for internal decision making only.
 
@@ -306,4 +306,3 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 ### Sales Qualified Lead (SQL)
 
 [Sales Qualified Lead](/handbook/business-ops/resources/#customer-lifecycle)
-
