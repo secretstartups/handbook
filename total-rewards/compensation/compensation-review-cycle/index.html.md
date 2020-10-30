@@ -192,7 +192,8 @@ Recommendations from Total Rewards for discretionary increases based on performa
 
 <span style="color:red">**Your compensation increase may vary (up or down) from these percentages.**</span> These guidelines are meant to help ensure company-wide consistency. Actual increases may vary based on:
 
-* Changes to local market rates  * Where you fall in the compensation range 
+* Changes to local market rates  
+* Where you fall in the compensation range 
 * Previous increases 
 * Budget constraints 
 
