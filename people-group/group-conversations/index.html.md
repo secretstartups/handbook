@@ -130,11 +130,11 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. 
+[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/finance/key-meetings/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
-1. Ensure the slide deck is visible to all of GitLab
+1. Ensure the slide deck or handbook links are visible to all of GitLab
 1. Give a heads up in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand.
 
 ### 30 Minutes Before the Call
@@ -155,7 +155,7 @@ The `People Experience and People Specialist` teams are responsible for moderati
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
-The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
+The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host or the EBA for the host's organization will be responsible for moderating the call. 
 
 ### Preparing for the Group Conversation
 
@@ -258,10 +258,10 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
-| Eight | Mon  |  [Product](/handbook/product/) |Scott Williamson|
+| Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Eight | Thur | Available | |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation
