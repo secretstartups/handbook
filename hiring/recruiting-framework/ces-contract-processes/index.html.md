@@ -277,6 +277,9 @@ GitLab has an entity in Australia and use this [contract](https://docs.google.co
 ## Process for GitLab Team Members in New Zealand
 GitLab has an entity in Australia, and New Zealand falls under that entity. These two contracts are used for this location: [Without OTE](https://docs.google.com/document/d/1TWrlDF9geNZGfuQ7FK1UUh17mM9ocqP7saQjDM8NN2U/edit#) and [With OTE](https://docs.google.com/document/d/1lO4T32nK2tZEUZQ6_sLEmg1gIhYNaJSwExzzMVrV2vI/edit). All team members in this location are employees.
 
+## Process for GitLab Team Members in Ireland
+GitLab has an entity (Ireland LTD) in Ireland . All team members in this location are employees.
+
 ## CXC
 
 GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, and **Russia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC. 
@@ -316,7 +319,7 @@ To create the contract:
 
 ## Safeguard
 
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, Ireland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
+GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, France, Italy, Brazil, Spain, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
 
 To create the contract:
 
@@ -399,7 +402,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 
 ## Remote.com
 
-GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa and Mexico. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
+GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Africa, Mexico, Austria and Hungary. The actual employment contracts will be sent and issued by Remote and are in accordance with local labor law.  The offer details will be provided to Remote by GitLab's hiring team.
 
 To create the contract:
 
