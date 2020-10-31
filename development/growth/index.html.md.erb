@@ -12,7 +12,7 @@ description: "The Growth Sub-department consists of development teams building g
 
 ## FY2021 Direction
 
-Develop a respectful and privacy focused data collection framework that allows us to make informed product decisions which improve the way our customers sign up to GitLab, manage and renew their licenses, and upgrade their accounts to higher tiers.
+Develop a respectful and privacy focused data collection framework that allows us to make informed product decisions and improve the customers experience, and promote conversion, adoption of key stages, and increase our user base.
 
 ## Mission
 
@@ -31,26 +31,21 @@ Analysis
 - Operationalize what we’re collecting for the benefit of GitLab and our customers
 
 
-**Drive value for the business and our users by improving activation, retention, upsell, and per-stage adoption**
+**Drive value for the business and our users by improving trial to paid conversion, per-stage adoption, and wider usage of GitLab**
 
 We focus on validating ideas with data across the following four Groups:
 
-[Acquisition Group](/handbook/engineering/development/growth/acquisition/)
+[Adoption Group](/handbook/engineering/development/growth/adoption/)
+- Adopt Create [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
 
-- Get users off to a successful start
-- Increase users completing key actions
-
-[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
-- Encourage cross-stage usage
-- Increase Stage Monthly Active Users
+[Activation Group](/handbook/engineering/development/growth/activation/)
+- Adopt Verify [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
 
 [Expansion Group](/handbook/engineering/development/growth/expansion/)
-- Drive adoption of “higher” tiers
-- Increase revenue per user/transaction
+- Invite team members [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
 
-[Retention Group](/handbook/engineering/development/growth/retention/)
-- Get customers and users to return
-- Increase gross retention
+[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
+- Trial conversion rate [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/product-categories/#growth-stage)
 counterparts to design and implement experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
@@ -62,10 +57,10 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 | Group name                                                | Group label                   |
 | ----------                                                | -----------                   |
 | [Product Analytics](conversion-product-analytics/)        | `~"group::product analytics"` |
-| [Acquisition](acquisition/)                               | `~"group::acquisition"`       |
+| [Activation](activation/)                               | `~"group::activation"`       |
 | [Conversion](conversion-product-analytics/)               | `~"group::conversion"`        |
 | [Expansion](expansion/)                                   | `~"group::expansion"`         |
-| [Retention](retention/)                                   | `~"group::retention"`         |
+| [Adoption](adoption/)                                   | `~"group::adoption"`         |
 
 
 ## Members
@@ -73,7 +68,7 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 The following people are permanent members of the Growth sub-department:
 
 <%=
-departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Product Analytics', 'Static Site Editor']
+departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Analytics', 'Static Site Editor']
 department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
@@ -83,8 +78,8 @@ direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineeri
 
 The following people are permanent members of groups that belong to the Growth sub-department:
 
-### Acquisition
-<%= department_team(base_department: "Acquisition Team") %>
+### Activation
+<%= department_team(base_department: "Activation Team") %>
 
 ### Conversion
 <%= department_team(base_department: "Conversion Team") %>
@@ -92,8 +87,8 @@ The following people are permanent members of groups that belong to the Growth s
 ### Expansion
 <%= department_team(base_department: "Expansion Team") %>
 
-### Retention
-<%= department_team(base_department: "Retention Team") %>
+### Adoption
+<%= department_team(base_department: "Adoption Team") %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
@@ -129,7 +124,7 @@ role_regexp = /[,&] (Growth|Product Analytics)/
 direct_manager_role = 'Director of Engineering, Growth'
 other_manager_roles = [
   'Backend Engineering Manager, Growth:Conversion and Product Analytics, Product Manager (Acting), Product Analytics',
-  'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention'
+  'Backend Engineering Manager, Growth:Activation, Expansion and Adoption'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
@@ -155,10 +150,10 @@ There are three GitLab groups we use:
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
 | [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [Activation Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
 | [Conversion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
 | [Expansion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Retention Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [Retention Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) |
+| [Adoption Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
 | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
 
 ### Estimation
@@ -191,10 +186,10 @@ We use milestone boards for high level planning and roadmapping across several m
 | gitlab-org | gitlab-com | gitlab-services |
 | ------ | ------ | ------ |
 | [Growth Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Acquisition Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| [Activation Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [Activation Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
 | [Conversion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
 | [Expansion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Retention Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [Retention Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) |
+| [Adoption Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
 | [Product Analytics Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
 
 ### UX

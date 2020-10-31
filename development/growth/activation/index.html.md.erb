@@ -1,0 +1,118 @@
+---
+layout: handbook-page-toc
+title: Growth:Activation Group
+description: "The Growth:Activation group works on feature enhancements and growth experiments across GitLab projects"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+Group:Activation is part of the [Growth Sub-department]. We work on [connecting our users with our product value](/direction/growth/).
+
+* I have a question. Who do I ask?
+
+Questions should start by @ mentioning the Product Manager for the [Activation group](/handbook/product/product-categories/#activation-group)
+or creating a new issue in the [Activation Workflow] board.
+
+## How we work
+
+* We're data savvy
+* In accordance with our [GitLab values](/handbook/values/)
+* Transparently: nearly everything is public
+* We get a chance to work on the things we want to work on
+* Everyone can contribute; no silos
+
+### Prioritization
+
+Prioritization is a collaboration between Product, UX, Data, and Engineering.
+
+* We use the [ICE framework](/direction/growth/#growth-ideation-and-prioritization) for experiments.
+* We use [Priority](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels)
+and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
+
+### Workflow
+
+We use the [Product Development workflow](/handbook/product-development-flow/) when working on issues and
+merge requests across multiple projects.
+
+While not all of the work we do relates to the GitLab project directly, we use
+[milestones](https://docs.gitlab.com/ee/user/project/milestones/) to track `Deliverables` and other enhancements.
+
+#### Working boards
+
+1. gitlab-org [Planning]
+1. gitlab-org [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation)
+1. gitlab-com [Activation Workflow](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation)
+1. gitlab-services [Activation Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation)
+1. Combined [Activation Workflow](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation)
+
+The above boards can be filtered by milestone to provide additional context around priority.
+For example a `priority::3` security issue ([due within 90 days](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues))
+will be added to one of the next 3 milestones by the Engineering team during the `workflow::scheduling` stage to ensure that SLA is met.
+
+### UX
+The Growth UX team has a [handbook page](/handbook/engineering/ux/stage-group-ux-strategy/growth/) which includes [Growth specific workflows](/handbook/engineering/ux/stage-group-ux-strategy/growth/#how-we-work).
+
+## Team Members
+
+The following people are permanent members of the Growth:Activation team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Activation, Expansion and Adoption', role_regexp: /(Growth:Activation)/) %>
+
+### Group members
+
+We work directly with the following people in the Growth:Activation group:
+
+<%=
+other_manager_roles = ['Director of Engineering, Growth']
+direct_managers_role = 'Backend Engineering Manager, Growth:Activation, Expansion and Adoption'
+roles_regexp = /Activation/
+
+stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
+%>
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Conversion](/handbook/engineering/development/growth/conversion-product-analytics/)
+* [Adoption](/handbook/engineering/development/growth/adoption/)
+* [Expansion](/handbook/engineering/development/growth/expansion/)
+* [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
+
+## Activation Links
+* `#g_activation` in [Slack](https://gitlab.slack.com/archives/g_activation) (GitLab internal)
+* [Activation issues]
+
+## Common Links
+
+* [Growth Sub-department]
+* [Growth issues board]
+* `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
+* [Growth Performance Indicators]
+* [Growth opportunities]
+* [Growth meetings and agendas]
+* [GitLab values]
+
+[Activation issues]: https://gitlab.com/gitlab-org/growth/product/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aactivation
+
+[Growth Sub-department]: /handbook/engineering/development/growth/
+[Growth issues board]: https://gitlab.com/groups/gitlab-org/-/boards/1158847
+[Growth Performance Indicators]: /handbook/engineering/development/performance-indicators/growth/
+[Growth opportunities]: https://gitlab.com/groups/gitlab-org/growth/-/issues
+[Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
+[GitLab values]: /handbook/values/
+
+[Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation
+[Deliverables]: https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation&label_name[]=Deliverable
+[Growth:Activation Validation track]: https://gitlab.com/groups/gitlab-org/-/boards/1506660?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aactivation
+[Growth:Activation Build track]: https://gitlab.com/groups/gitlab-org/-/boards/1506701?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aactivation
+[Activation Workflow]: https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation
+
