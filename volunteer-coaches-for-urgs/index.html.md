@@ -29,6 +29,8 @@ To make this program as scalable as possible we partner with other organizations
 
 ### [Latinitas](https://latinitasmagazine.org/)
 
+Here is a little bit about **Latinitas** in [their own words](https://latinitasmagazine.org/about-us/):
+
 > Latinas are underestimated and underrepresented. It’s time for Latinas to know that they are important; they deserve to see their experiences reflected honestly and accurately.
 > Through after-school clubs, camps, events and publications, and channels, we provide a space, both in the physical and online, for girls to express themselves, develop their skills, learn about their culture and discover their unique voice.
 
@@ -40,6 +42,8 @@ GitLab Contact: [Melissa Ushakov](https://gitlab.com/mushakov)
 
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
+Here is a little bit about **FreeCodeCamp** in [their own words](https://www.freecodecamp.org/learn):
+
 > Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
 
 GitLab Contact: [Greg Myers](https://gitlab.com/greg)
@@ -50,6 +54,8 @@ GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 
 
 ### [re:learn](https://relearn.ng/)
+
+Here is a little bit about **re:learn** in [their own words](https://relearn.ng/):
 
 > At re:learn, our goal is to help schools use technology in a smart way to enhance learning. Through content curation and capacity development - with a wide network of trained facilitators, our aim is to improve the learning experience in and out of the classroom.
 
