@@ -490,6 +490,10 @@ Not every problem should lead to a new process to prevent them. Additional proce
 {:.no_toc}
 We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](/handbook/values/#iteration), cut the scope.
 
+##### Embrace Change
+{:.no_toc}
+Adoption of features, user requirements, and the competitive landscape change frequently and rapidly. The most successful companies adapt their roadmap and their organization quickly to keep pace. One of the things that makes the challenging is the impact on our team. People may need to change teams, subject matter, or even who manages them. This can rightly feel disruptive. If we coach ourselves to embrace the positive aspects of change, such as increased opportunity and new things to learn, we can move faster as a company and increase our odds of success. It is important to [hold management accountable for being deliberate](#always-iterate-deliberately).
+
 ##### Efficiency Competency
 {:#efficiency-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
@@ -812,11 +816,9 @@ Similarly, if you are adding a large feature to the software, create small, iter
 If you are asked to review a merge request that is too big, consider kindly asking
 the author to split it into smaller merge requests before reviewing.
 
-##### When we iterate slowly
+##### Always Iterate Deliberately
 {:.no_toc}
-In some cases, rapid iteration can get in the way of [results](#results); for example, when
-adjusting our marketing messaging (where consistency is key), product categories (where we've
-set development plans), [organizational structure](/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
+Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
 process; not to prohibit, but to be more deliberate in our iteration. The change process is documented in the [GitLab Handbook Usage](/handbook/handbook-usage/) page and takes place via merge request approvals.
 
