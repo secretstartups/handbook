@@ -88,7 +88,7 @@ These definitions imply several on-call rotations for the different roles.
 1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
    1.  If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
-2. After the incident is resolved, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review) (RCA) and [assign themselves](#incident-review-issue-creation-and-ownership) as the initial owner. Feel free to take a breather first, but do not end your work day without starting the RCA.
+2. After the incident is resolved, the EOC should review the comments and ensure that the corrective actions are added to the issue description. If it is an S1 incident, or if a review is requested, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review) (RCA) and [assign themselves](#incident-review-issue-creation-and-ownership) as the initial owner. It is expected that the incident review is completed before the end of the EOC shift.
 
 #### Guidelines on Security Incidents
 
@@ -322,7 +322,7 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned.|
 | `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. |
-| `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1/S2) or the IMOC or EOC for the incident chose to include a review (S3/S4) for the purposes of deriving and creating needed corrective actions. |
+| `~Incident::Review-Requested`  | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
@@ -352,10 +352,10 @@ graph TD
   A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
   B --> C[Incident::Mitigated]
   C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
-  D -->|S1/S2| E[Incident::Review-in-Progress]
+  D --> |S1 or optional for any severity| E[Incident::Review-Requested]
+  E --> F[Incident::Review-Scheduled]
   D -->|S3/S4| Z[Closed]
   B --> Y[Incident issue not needed. Remove all labels and close]
-  E --> F[Incident::Review-Scheduled]
   F --> G[Incident::Review-Completed]
   G --> Z
 ```
