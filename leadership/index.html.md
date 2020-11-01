@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Leadership"
+title: Leadership
 ---
 
 ## On this page
@@ -33,9 +33,10 @@ defined on our [team structure page](/company/team/structure/).
 1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
 1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
 
-
 ## Interim and Acting Leadership
+
 In some cases, a individual in the [Management group](/company/team/structure#management-group), [Director group](/company/team/structure#director-group), [S-group](/company/team/structure#s-group), or even [E-group](/company/team/structure#e-group) may have an "Interim" or "Acting" title.
+
 1. **Acting** means that someone is occupying this role temporarily and will move back to their original role after a set amount of time or other conditions, such as an external hire.
 1. **Interim** means the individual is working on a promotion into the role.
 
@@ -60,6 +61,8 @@ Individual departments will have their own criteria for who is eligible to occup
 1. Short way to phrase this: We can allow others into our kitchen because we can always send them out (inviting people to give input is much easier if you retain the ability to make a decision by yourself).
 
 > If good decision-making appears complicated, that’s because it is and has been for a long time. Let me quote from Alfred Sloan, who spent a lifetime preoccupied with decision-making: “Group decisions do not always come easily. There is a strong temptation for the leading officers to make decisions themselves without the sometimes onerous process of discussion.”
+> 
+> 
 > - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
 
 ## Communication should be direct, not hierarchical
@@ -77,13 +80,12 @@ Giving regular [feedback](/company/culture/all-remote/effective-communication/#f
 - Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)
 - Use a framework for your feedback. Examples: 1) Two Areas: [Praise](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) (What's working well) and Tips (What could be done differently) or 2), Three Areas: Start, Stop, Continue
 - Ask yourself, is this:
-  - Actionable
-  - Specific
-  - [Kind](/handbook/values/#kindness) (Does the feedback help the person? Note: Being kind is not the same as being nice.)
-  - Objective (similar to Fair)
-  - Relevant to the job role and [compa ratio](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio)
-
-  Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the [career development discussion at the 1-on-1](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) section.
+Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the [career development discussion at the 1-on-1](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) section.
+    - Actionable
+    - Specific
+    - [Kind](/handbook/values/#kindness) (Does the feedback help the person? Note: Being kind is not the same as being nice.)
+    - Objective (similar to Fair)
+    - Relevant to the job role and [compa ratio](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio)
 
 ### Identifying root causes
 
@@ -96,15 +98,15 @@ in authority with concerns and respond with sensitivity and appreciation. In par
 recommend that you keep the following in mind:
 
 - Don't argue or get defensive. Accept the feedback for what it is: an attempt
-  to help you improve your work or your professional relationships. If you do
-  have to explain yourself, try to remain empathetic.
+to help you improve your work or your professional relationships. If you do
+have to explain yourself, try to remain empathetic.
 - It's fine (even preferable) to defer action. When presented with negative
-  feedback, we often feel like we have to either justify our actions or promise
-  change, and since change isn't always easy when you're responsible for a
-  large team, justification becomes the default. It's OK to say you need time to
-  evaluate the feedback and decide how to proceed.
+feedback, we often feel like we have to either justify our actions or promise
+change, and since change isn't always easy when you're responsible for a
+large team, justification becomes the default. It's OK to say you need time to
+evaluate the feedback and decide how to proceed.
 - [The Right Way to Respond to Negative
-  Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
+Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
 - If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports' contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. Please note that [DRIs are free to ignore feedback](/handbook/people-group/directly-responsible-individuals/) without acknowledging it and that [valuing contributions isn't the same as agreeing with them](/handbook/values/#collaboration-is-not-consensus). This is about co-opting someone else's idea without attribution and/or dismissing an idea with an ad-hominem remark.
 
 ## 1-on-1
@@ -117,30 +119,31 @@ Please see [/handbook/leadership/skip-levels](/handbook/leadership/skip-levels).
 
 ## Managers of one
 
-In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
+In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
 
 **Skills and behavior of being a manager of one as a Team Member**:
-*  Takes responsibilty to complete tasks and goals within appropriate timelines
-*  Delivers on commitments independently and without supervision
-*  Drives issue-based discussions grounded in a clear understanding of challenges and barriers
-*  Highlights areas for process improvement and proactively brings them up with leadership
-*  Continuously looks for opportunities to improve or iterate on current processes
-*  Communicates status of goals and delivers on agreed-upon timing of completion with leadership
+
+- Takes responsibility to complete tasks and goals within appropriate timelines
+- Delivers on commitments independently and without supervision
+- Drives issue-based discussions grounded in a clear understanding of challenges and barriers
+- Highlights areas for process improvement and proactively brings them up with leadership
+- Continuously looks for opportunities to improve or iterate on current processes
+- Communicates status of goals and delivers on agreed-upon timing of completion with leadership
 
 **Skills and behaviors of being a manager of one as a People Leader**:
-*  Holds their team accountable for establishing goals and meeting their commitments
-*  Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
-*  Establishes goals for their team while seeking input from leadership
-*  Skilled at having difficult conversations with team members and leadership
-*  Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
-*  Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
+
+- Holds their team accountable for establishing goals and meeting their commitments
+- Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
+- Establishes goals for their team while seeking input from leadership
+- Skilled at having difficult conversations with team members and leadership
+- Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
+- Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
 
 ### Coaching
 
 ##### What is coaching?
 
-[Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight. 
-
+[Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight.
 
 ## No matrix organization
 
@@ -180,11 +183,11 @@ But process also has good aspects. Having a documented process for how to commun
 
 Managers have an tremendous responsibility around recruiting and [retention](/handbook/people-group/people-group-metrics/#team-member-retention) of team members.
 
-* Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
-* We want few candidates to decline an offer, especially when the reason isn't compensation.
-* We need adequate candidate pipeline volume and quality, especially for crucial positions.
-* Candidates that have a proposed offer should meet the bar, especially for more senior positions.
-* Build a _global team_. Unless shown with a business case, "we can’t find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-group-metrics/#average-location-factor).
+- Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
+- We want few candidates to decline an offer, especially when the reason isn't compensation.
+- We need adequate candidate pipeline volume and quality, especially for crucial positions.
+- Candidates that have a proposed offer should meet the bar, especially for more senior positions.
+- Build a _global team_. Unless shown with a business case, "we can’t find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-group-metrics/#average-location-factor).
 
 ## Building High Performing Teams
 
@@ -206,20 +209,21 @@ Building a team to deliver [results](/handbook/values/#results) is a very import
 ### Strategies to Build High Performing Teams
 
 The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help [build high performing teams](/handbook/people-group/learning-and-development/building-high-performing-teams/) at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following:
+
 - To form your team
 - To guide what your team does
 - To monitor how well your team is doing
 - to diagnose where your team may be struggling or identify the keys to your team's success
 
 **7 Stages to developing high performing teams:**
-1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in.
-2. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
-3. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
-4. Commitment - How will we do it? Team members understand how it will make decisions and do the work.
-5. Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
-6. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
-7. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
+1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in.
+1. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
+1. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
+1. Commitment - How will we do it? Team members understand how it will make decisions and do the work.
+1. Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
+1. High Performance - Wow! The team is accomplishing more than it expected. The team has taken off, creativity is fostered and goals are surpassed.
+1. Renewal - Why continue? The team is given recognition and celebrates achievements of individuals that produce valuable work. Reflect on lessons learned and reassess for the future.
 
 ## Articles
 
@@ -248,21 +252,21 @@ Notable books from the [E-Group Offsite Book Selections](/handbook/ceo/offsite/#
 We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read through these books as a group.
 
 1. [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management) - Andrew Grove
-    * [Top 10 quotes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/)
-    * [Book club](/handbook/leadership/book-clubs/#high-output-management)
+    - [Top 10 quotes](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management/)
+    - [Book club](/handbook/leadership/book-clubs/#high-output-management)
 1. [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) - Ben Horowitz
-    * [Chase Wright's notes](https://docs.google.com/document/d/1Uxva11x1YX4zci1FHmF45UTYjGLPMU5HmrbmflINoG4/)
+    - [Chase Wright's notes](https://docs.google.com/document/d/1Uxva11x1YX4zci1FHmF45UTYjGLPMU5HmrbmflINoG4/)
 1. [The score takes care of itself - Bill Walsh - PDF](http://coachjacksonspages.com/The%20Score%20Takes%20Care.pdf)
 1. [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Kerry Patterson
-    * Notes from the [E-group](/company/team/structure#e-group) reading:
-        * Virtual teams are much more likely to fail on crucial conversations than colocated teams
-        * We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
-        * We need to find a way to create psychological safety for people in official channels
-        * Starting with empathy is a great way to gather the context needed in a tense situation - this is hard a-sync, but more important
-        * Consider getting context 1-on-1 (through Slack) before posting a comment in an issue that you might regret later
-        * As leaders, we need to give context as well. A good question is: "What would have to change for us to get X prioritized..."
-        * Documenting something is *not* a replacement for having the hard conversation
-    * [Book club](/handbook/leadership/book-clubs/#crucial-conversations)
+    - Notes from the [E-group](/company/team/structure#e-group) reading:
+    - Virtual teams are much more likely to fail on crucial conversations than colocated teams
+    - We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
+    - We need to find a way to create psychological safety for people in official channels
+    - Starting with empathy is a great way to gather the context needed in a tense situation - this is hard a-sync, but more important
+    - Consider getting context 1-on-1 (through Slack) before posting a comment in an issue that you might regret later
+    - As leaders, we need to give context as well. A good question is: "What would have to change for us to get X prioritized..."
+    - Documenting something is _not_ a replacement for having the hard conversation
+    - [Book club](/handbook/leadership/book-clubs/#crucial-conversations)
 1. [The Advantage: Why Organization Health Trumps Everything Else In Business](https://www.goodreads.com/book/show/12975375-the-advantage) - Patrick Lencioni
 1. [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Patrick Lencioni
 1. [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) - Geoffrey A. Moore
@@ -294,7 +298,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 ## People Group
 
 Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Group` dropdown. The team may also be reached in the `#peopleops` chat channel.
- 
+
 ## Being a public company
 
 Learn more on GitLab's view of [being a public company](/handbook/being-a-public-company/).
