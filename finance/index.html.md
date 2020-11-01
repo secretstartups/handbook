@@ -145,8 +145,7 @@ For example, work to enable a sales partner that will not be incorporated into t
 | -------- | ---- |
 | Customer Support | Brooks Royer |
 | R & D | Brooks Royer |
-| Sales - Enterprise Sales, Channels, & Alliances | Frederick Kurniadi and Alexandria Curtis |
-| Sales - Commercial Sales, Field Ops, Customer Success | Frederick Kurniadi and Yi Sun |
-| Professional Services | Frederick Kurniadi and Sid Malik |
+| Sales | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
+| Professional Services | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
 | Marketing | Christine Machado and Cristal McClure |
 | G & A | Christine Machado and Ellen Boyd |
