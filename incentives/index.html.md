@@ -316,7 +316,7 @@ If a team member has been referred, the People Experience team will review team 
 #### Temporary Add-on Campaign additional tracking for payout
 
 1. Recruiting Manager will track all referrals set to hired in time period of Add-on campaign.
-2. Recruiting Manager will notify Total Rewards the first of the month that aligns with the referral new hire's 3 month employement at GitLab.
+2. Recruiting Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employement at GitLab.
 3. Talent Rewards will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Visiting Grant
