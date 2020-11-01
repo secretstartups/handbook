@@ -79,7 +79,7 @@ We collect and maintain different types of personal information about you in acc
 - Work permit status
 - Military status
 - Nationality
-- passport information
+- Passport information
 - Social security or other taxpayer/government identification number
 - Payroll information, banking details
 - Wage and benefit information
