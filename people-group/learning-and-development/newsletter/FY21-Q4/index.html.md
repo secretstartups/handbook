@@ -74,6 +74,7 @@ More ways you can continue to learn throughout the quarter:
 ## Recap of FY21-Q3
 
 * 26 managers participated in our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#pilot-program). This was the first program of its kind at GitLab and it was developed in an effort to reinforce our values and to enable our people leader to manage remotely. We are currently making iterations and plan to roll out in early 2021! 
+   * If you would like to read about what the participants thought of the program, check out [the retrospectives](/handbook/people-group/learning-and-development/manager-challenge/#retrospective-sessions). 
 * The [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) Course on Coursera Launched in September! So far X people have completed the course.  
 * The first Monthly Continuous Learning Call took place on 2020-10-21. If you missed it or wanted to watch again, you can do that [here](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
 * [add] 
