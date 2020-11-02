@@ -301,7 +301,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 **Skills and behavior of applying effective communication as a Team Member**:
 *  Effectively practices communication via text.
 *  Uses asynchronous communication when possible: merge requests (preferred) or issues.
-*  Directs all communication to the appropiate channels (Slack, GitLab, email).
+*  Directs all communication to the appropriate channels (Slack, GitLab, email).
 *  Recognises when synchronous communication is the more appropriate option.
 *  Directs all decisions and discussions to the Handbook as a single source of truth.
 *  Records videos to communicate information when that is the most efficient and effective way to consume the content.
