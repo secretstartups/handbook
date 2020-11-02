@@ -22,11 +22,25 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 
 [Managing team members on your account](https://vimeo.zendesk.com/hc/en-us/articles/224818687-Managing-team-members-on-your-account)
 
-1. Uploaders
-1. Viewers
-1. Contributors
-1. Admins
-1. Owners
+1. `Uploaders` - Uploaders can only upload videos to the account. On their upload page, they will be able to toggle between uploading videos to their own account and uploading videos to the company account. Uploaders will only be able to edit the title and description of the video while it is being uploaded to the company account. Any videos an uploader adds to the company account will have the [privacy setting](#privacy-settings-overview) `Only Me`, but as the account owner, you can change the video's privacy setting after upload. **Note:** Uploaders will need to make sure they select the correct account from their upload page. Uploaders do not have any access to the company account otherwise. They cannot view or edit the video after they've uploaded it nor can they access any settings for the company account.
+1. `Viewers` - Viewers can be invited to specific folders within the account, but they will have limited access to the contents of those folders. They can access the review page, leave notes, and share videos that are within those folders. They do not have the ability to upload, edit, publish, or access any other settings or areas of the account that are meant for working members.
+1. `Contributors` - Contributors can be invited to access a specific folder within the account. They’ll have the ability to upload, edit, review, share, and publish videos within a folder, but won’t have access to any of your other folders or areas of your account. A contributor also won’t be able to change the title of a folder, delete a folder, or delete a video from the account. They can view settings of a video in that folder as well as the analytics tab, which has numbers from the past 30 days but won't have access to advanced analytics for the video. Once in the `Video Manager`, Contributors will only be able see the folders to which they have been invited. In addition, contributors can access settings of an archived live event within the folder to which they contribute. Contributors can start a live event to Vimeo if they are using an external encoder via RTMP (after the Owner or Admin creates an event and provides the Contributor with the RTMP URL and Stream Key). **Note:** If the Vimeo account is connected to other social accounts such as Facebook, then any live events the Contributor starts from their encoder will also simulcast to that destination.
+1. `Admins` - Admins can help upload and manage all videos, folders, and collections. Admins will not be able to access account settings or payment information. Admins also cannot delete videos; only the account owner can do this. Admins have access to the following features:
+  - Creating, managing, and deleting collections
+  - Creating, managing, and deleting folders 
+  - Changing the privacy settings of your videos
+  - Viewing advanced analytics of your videos
+  - Create live events
+  - Adjust privacy settings, embed customization, and interaction tool settings for live events
+  - Stream to live events using WebRTC or RTMP from an external encoder
+  - End live events
+  - Export chat transcripts
+1. `Owners` - Only Owners can do the following:
+  - Edit and organize the account's profile page
+  - Access Simulcast settings
+  - Authenticate API-integrated encoders and applications - This means any encoder that allows you to connect to Vimeo by logging in to account directly from the software or application (e.g. Livestream Studio via login, Mevo, Vimeo mobile app, or other third-party direct integrations)
+  - Delete live events
+  - Access Developer API and create and manage developer apps for their account
 
 ### Support
 
@@ -70,6 +84,39 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 ### Stream Health
 
 ### Graphics
+
+With [Graphics](https://vimeo.zendesk.com/hc/en-us/articles/360029427951-Graphic-overlays), you can add lower third graphics, fullscreen graphics, and logos to your live broadcast right from the Vimeo live preview page.
+
+#### Lower Thirds
+
+The name “lower third” specifically refers to the bottom one-third of the screen. [These graphics](https://vimeo.zendesk.com/hc/en-us/articles/360029427951-Graphic-overlays#h_01EKZD4FKSH76E84VWZXXHE03Q) are typically used to introduce a speaker or participant on your stream or identify the location of your event, among other uses.
+
+**Create a lower third**
+
+1. Click the `+` button next to `Lower Third` or `Create` under the `Lower Third` drop-down menu. You can add an image and two lines of text per lower third. **Recommendation:** Square PNG or JPG that is at least 200 x 200 pixels and no more than 5MB.
+1. Preview the lower third on our browser encoder preview window for 5 seconds (only you can see).
+1. Click the `"show" (eye)` icon to put the lower third on the live player indefinitely, and access the menu (three dots) to edit, duplicate, or delete the lower third. You can create additional lower thirds using the `+` button. The duplicate option is a quick way to create multiple lower thirds with the same image. Lower thirds will only appear on the bottom left corner of the stream.
+
+#### Fullscreen Graphics
+
+Fullscreen graphics work the same way as lower thirds, except they cover the entire screen. This is ideal for displaying information prior to any action taking place or during any breaks in your event (e.g. “Stay Tuned,” “We’ll be right back.”)
+
+**Add a fullscreen graphic**
+
+1. Click the `+` symbol next to Fullscreen or `Create` under the Fullscreen drop-down menu.
+1. Add an image. There are two optional lines of text. Because Vimeo live broadcasts have a maximum resolution of 1920 x 1080, we recommend using JPG or PNG files at this resolution for fullscreen graphics as well; they should be no more than 5MB in size. In addition, alpha channel is supported if you wish to overlay the fullscreen while still seeing some of your video (e.g. a frame). PNG files with transparency work best for this use-case.
+1. Click `Preview` to see the graphic on the browser encoder preview window for 5 seconds.
+1. `Replace` to select a new image, or the `delete (trash) icon` to remove the image. You then also have the option to `show (eye icon)` the fullscreen indefinitely, after which you can then hide the fullscreen, and access the menu to edit, duplicate, or delete the fullscreen. **Note:** Fullscreen covers video but it does not cover audio.
+
+#### Logos
+
+A logo is a small icon that appears in the lower right corner of the screen and as a subtle way to keep your brand visible at all times during your event.
+
+**Add a logo**
+
+1. Click the `+` symbol next to `Logo`, or `Create` under the `Logo` drop-down menu.
+1. The image you upload should be a square at 200 x 200 pixels and no more than 5MB in size. Logos can only be added to the bottom right corner of the stream, but will also appear above fullscreen graphics or to the right of lower third graphics.
+1. Click `Preview` to see the logo on the browser encoder preview window for 5 seconds, `Replace` to select a new image, or the `delete (trash) icon` to remove the image. You then also have the option to `show (eye icon)` the fullscreen indefinitely, after which you can then hide the fullscreen, and access the menu to edit, duplicate, or delete the logo.
 
 ### Q&A
 
