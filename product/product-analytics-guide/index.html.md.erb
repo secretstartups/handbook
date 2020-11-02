@@ -26,99 +26,143 @@ graph LR
 
 ```mermaid
 graph LR
-	collection_framework[Collect Framework] --> event_dictionary[Event Dictionary]
+	collection_framework[Collection Framework] --> event_dictionary[Event Dictionary]
 	event_dictionary[Event Dictionary] --> instrumentation[Instrumentation]
 	instrumentation[Instrumentation] --> release_cycle[Release Cycle]
-	release_cycle[Release Cycle] --> events_fired[Events Fired]
-	events_fired[Events Fired] --> usage_ping_generated[Usage Ping Generated]
+	release_cycle[Release Cycle] --> product_usage[Product Usage]
+	product_usage[Product Usage] --> usage_ping_generated[Usage Ping Generated]
 ```
 
 3) Processing Pipeline
 
 ```mermaid
 graph LR
-    analytics_collectors[Analytics Collectors] --> data_imports[Data Imports]
-	data_imports[Data Imports] --> data_warehouse[Data Warehouse]
-	data_warehouse[Data Warehouse] --> data_modelling[Data Modelling]
+    snowplow_collector[Snowplow Collector] --> snowplow_enricher[Snowplow Enricher]
+	usage_ping_collector[Usage Ping Collector] --> usage_ping_processor[Usage Ping Processor]
+	snowplow_enricher[Snowplow Enricher] --> extractors[Extractors]
+	usage_ping_processor[Usage Ping Processor] --> extractors[Extractors]
+	extractors[Extractors] --> loaders[Loaders]
+	loaders[Loaders] --> snowflake_enterprise_data_warehouse[Snowflake Enterprise Data Warehouse]
+	snowflake_enterprise_data_warehouse[Snowflake Enterprise Data Warehouse] --> dbt_base_data_models[dbt Base Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> product_data_models[Product Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> engineering_data_models[Engineering Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> sales_data_models[Sales Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> customer_success_data_models[Customer Success Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> marketing_data_models[Marketing Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> people_data_models[People Data Models]
+	dbt_base_data_models[dbt Base Data Models] --> finance_data_models[Finance Data Models]
+	product_data_models[Product Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	engineering_data_models[Engineering Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	sales_data_models[Sales Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	customer_success_data_models[Customer Success Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	marketing_data_models[Marketing Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	people_data_models[People Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
+	finance_data_models[Finance Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
 ```
 
-4) Enable Product Teams with Product Analytics
+4) Enable Product Teams
 
 ```mermaid
 graph LR
-	sisense_dashboard[Sisense Dashboard] --> performance_indicators[Performance Indicators]
-	performance_indicators[Performance Indicators] --> pi_target[PI Target]
-	pi_target[PI Target] --> pi_reviews[PI Reviews]
-	pi_reviews[PI Reviews] --> improve_product[Improve Product]
+	data_triage[Data Triage] --> sisense_dashboards[Sisense Dashboards]
+	sisense_dashboards[Sisense Dashboards] --> certified_sisense_dashboards[Certified Sisense Dashboards]
+	certified_sisense_dashboards[Certified Sisense Dashboards] --> product_kpi_dashboards[Product KPI Dashboards]
+	product_kpi_dashboards[Product KPI Dashboards] --> product_performance_indicators[Product Performance Indicators]
+	product_performance_indicators[Product Performance Indicators] --> metrics_reviews[Metrics Reviews]
+	metrics_reviews[Metrics Reviews] --> improve_product[Improve Product]
 ```
 
-5) Enable Sales and Customer Success Teams with Product Analytics
+5) Enable Sales and Customer Success
 
 ```mermaid
 graph LR
-	salesforce_data_feed[Salesforce Data Feed] --> salesforce_dashboard[Salesforce Dashboard]
-	salesforce_dashboard[Salesforce Dashboard] --> gainsight_dashboard[Gainsight Dashboard]
-	gainsight_dashboard[Gainsight Dashboard] --> customer_conversations[Customer Conversations]
+	snowflake_to_edw_salesforce_data_pump[Snowflake EDW to Salesforce Data Pump] --> salesforce_dashboards[Salesforce Dashboards]
+	salesforce_dashboards[Salesforce Dashboards] --> salesforce_to_gainsight_data_feed[Salesforce to Gainsight Data Feed]
+	salesforce_to_gainsight_data_feed[Salesforce to Gainsight Data Feed] --> gainsight_dashboards[Gainsight Dashboards]
+	gainsight_dashboards[Gainsight Dashboards] --> customer_conversations[Customer Conversations]
 ```
 
 6) Enable Full Funnel Analytics
 
 ```mermaid
 graph LR
-	marketing_data[Marketing Data] --> product_data[Product Data]
-	product_data[Product Data] --> fulfillment_data[Fulfillment Data]
-	fulfillment_data[Fulfillment Data] --> sales_data[Sales Data]
-	sales_data[Sales Data] --> customer_success_data[Customer Success Data]
-	customer_success_data[Customer Success Data] --> full_funnel_analysis[Full Funnel Analysis]
+	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> product_data[Product Data]
+	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> license_and_subscription_data[License and Subscription Data]
+	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> sales_data[Sales Data]
+	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> customer_success_data[Customer Success Data]
+	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> marketing_data[Marketing Data]
+	product_data[Product Data] --> full_funnel_integration[Full Funnel Integration]
+	license_and_subscription_data[License and Subscription Data] --> full_funnel_integration[Full Funnel Integration]
+	sales_data[Sales Data] --> full_funnel_integration[Full Funnel Integration]
+	customer_success_data[Customer Success Data] --> full_funnel_integration[Full Funnel Integration]
+	marketing_data[Marketing Data] --> full_funnel_integration[Full Funnel Integration]
+	full_funnel_integration[Full Funnel Integration] --> full_funnel_analysis[Full Funnel Analysis]
+	full_funnel_analysis[Full Funnel Analysis] --> corporate_performance_analysis[Corporate Performance Analysis]
+	full_funnel_analysis[Full Funnel Analysis] --> customer_journey_analytics[Customer Journey Analytics]
 ```
 
-7) Make Product Analytics Data Useful For Customers
+7) Enhance Value Stream Management Feature
 
 ```mermaid
 graph LR
-	value_stream_data_feed[Value Stream Data Feed] --> value_stream_features[Value Stream Features]
+	value_stream_management_data_feed[Value Stream Management Data Feed] --> value_stream_management_features[Value Stream Management Features]
 ```
-
-8) Customer Product Analytics Feature
 
 **Teams Involved**
 
 We work closely with other internal teams in each step in the Product Analytics Process. The teams involved at each step are:
 
-| Step                          | Description                                                                                            | Teams Involved                                                                                    |
-|-------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Privacy Policy                | Outlines what product usage data we collect from our users.                                            | Legal, Product Analytics, Data                                                                    |
-| Data Classification Policy    | Outlines our data classification levels based on sensitivity.                                          | Legal, Security, Product Analytics, Data                                                          |
-| Privacy Settings              | In app settings for users to control what data they share with GitLab.                                 | Legal, Product Analytics, Data                                                                    |
-| Collection Framework          | Outlines our available data collection tools.                                                          | Product Analytics                                                                                 |
-| Event Dictionary              | A single source of truth defining all product metrics and events.                                      | Product Managers, Product Analytics                                                               |
-| Instrumentation               | Instrumentation of feature tracking done by each product and engineering team.                         | Product Managers, Product Analytics                                                               |
-| Release Cycle                 | The release of GitLab code. We have daily releases for SaaS and monthly releases for self-managed.     | Product Managers, Product Analytics                                                               |
-| Product Usage                 | The use of the product by users.                                                                       | Product Managers, Product Analytics                                                               |
-| Usage Ping Generation         | A weekly job that aggregates and sends product usage data to GitLab.                                   | Product Analytics                                                               |
-| Collectors                    | The collection of Snowplow and Usage Ping data.                                                        | Product Analytics, Data                                                                           |
-| Processors                    | The processing of Usage Ping data.                                                                     | Product Analytics, Data                                                                           |
-| Enrichers                     | The enrichment of Snowplow data.                                                                       | Product Analytics, Data                                                                           |
-| Extractors                    | The extraction of Usage Ping and Snowplow data sources.                                                | Product Analytics, Data                                                                           |
-| Loaders                       | The loading of Usage Ping and Snowplow data into the data warehouse.                                   | Product Analytics, Data                                                                           |
-| Snowflake Data Warehouse      | Where our product usage data is stored.                                                                | Product Analytics, Data                                                                           |
-| dbt Data Model                | How we transform raw data into a data structure that's ready for analysis.                             | Product Analytics, Data                                                                           |
-| Sisense Dashboards            | The building of Sisense dashboards.                                                                    | Product Managers, Product Analytics, Data                                                         |
-| Performance Indicators        | The product metrics GitLab's product team pays attention to.                                           | Product Managers, Product Analytics, Data                                                         |
-| Metrics Reviews               | Monthly reviews of GitLab's product metrics.                                                           | Product Managers, Product Analytics, Data                                                         |
-| Product Improvements          | Make product improvements based on product usage data.                                                 | Product Managers                                                                                  |
-| Salesforce Data Feed          | Data feed of product usage data into sales systems.                                                    | Sales, Customer Success, Product Analytics, Data                                                  |
-| Salesforce Dashboards         | Dashboard embeded into each Salesforce Customer showing product usage.                                 | Sales, Customer Success, Product Analytics, Data                                                  |
-| Gainsight Dashboards          | Dashboard embeded into each Gainsight Customer showing product usage.                                  | Sales, Customer Success, Product Analytics, Data                                                  |
-| Customer Conversations        | Better customer conversrations using product usage data.                                               | Sales, Customer Success                                                                           |
-| Marketing Data                | Marketing data sources such as Google Analytics and Marketo.                                           | Marketing, Product Analytics, Data, Enterprise Applications                                       |
-| Product Data                  | Product data sources such as GitLab.com Postgres, Usage Ping data, and Snowplow data.                  | Product Analytics, Data, Enterprise Applications                                                  |
-| License and Subscription Data | License and subscription data sources such as Customers app, LicenseDot, and Zuora data.              | Fulfillment, Product Analytics, Data, Enterprise Applications                                     |
-| Sales Data                    | Sales data sources such as Salesforce.                                                                 | Sales, Product Analytics, Data, Enterprise Applications                                           |
-| Customer Success Data         | Customer Success data sources such as Gainsight.                                                       | Customer Success, Product Analytics, Data, Enterprise Applications                                |
-| Full Funnel Analysis          | The integration of all Marketing, Product, License and Subscription, Sales, and Customer Success Data. | Marketing, Fulfillment, Sales, Customer Success, Product Analytics, Data, Enterprise Applications |
-| Value Stream Data Feed        | A data feed for passing benchmark product usage data back to customers.                                | Manage, Product Analytics                                                                         |
-| Value Stream Features         | Features to show customers how they're using GitLab.                                                   | Manage, Product Analytics                                                                         |
+| Stage                           | Step                                  | Description                                                                                                             | Team Responsible        | Teams Involved                                                           |
+|---------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------------------------|
+| Privacy Policy and Settings     | Privacy Policy                        | Outlines what product usage data we collect from our users.                                                             | Legal                   | Product Analytics, Data                                                  |
+| Privacy Policy and Settings     | Data Classification Policy            | Outlines our data classification levels based on sensitivity.                                                           | Security                | Legal, Product Analytics, Data                                           |
+| Privacy Policy and Settings     | Privacy Settings                      | In app settings for users to control what data they share with GitLab.                                                  | Product Analytics       | Legal, Data                                                              |
+| Data Collection                 | Collection Framework                  | Outlines our available data collection tools.                                                                           | Product Analytics       |                                                                          |
+| Data Collection                 | Event Dictionary                      | The single source of truth defining all product metrics and events.                                                     | Product Analytics       | Product Managers                                                         |
+| Data Collection                 | Instrumentation                       | Instrumentation of feature tracking done by each product and engineering team.                                          | Product Managers        | Product Analytics                                                        |
+| Data Collection                 | Release Cycle                         | The release of GitLab code. We have daily releases for SaaS and monthly releases for self-managed.                      | Product Managers        | Product Analytics                                                        |
+| Data Collection                 | Product Usage                         | Product usage of GitLab generating tracking events.                                                                     | Product Managers        | Product Analytics                                                        |
+| Data Collection                 | Usage Ping Generation                 | A weekly job that aggregates and sends product usage data to GitLab.                                                    | Product Analytics       |                                                                          |
+| Processing Pipeline             | Snowplow Collector                    | The collection of Snowplow data.                                                                                        | Product Analytics       | Data, Infrastructure                                                     |
+| Processing Pipeline             | Snowplow Enricher                     | The enrichment of Snowplow data.                                                                                        | Product Analytics       | Data, Infrastructure                                                     |
+| Processing Pipeline             | Usage Ping Collector                  | The collection of Usage Ping data.                                                                                      | Product Analytics       | Data                                                                     |
+| Processing Pipeline             | Usage Ping Processor                  | The processing of Usage Ping data.                                                                                      | Product Analytics       | Data                                                                     |
+| Processing Pipeline             | Extractors                            | The extraction of Usage Ping and Snowplow data sources.                                                                 | Data                    | Product Analytics, Infrastructure                                        |
+| Processing Pipeline             | Loaders                               | The loading of Usage Ping and Snowplow data into the data warehouse.                                                    | Data                    | Product Analytics, Infrastructure                                        |
+| Processing Pipeline             | Snowflake Enterprise Data Warehouse   | Our enterprise data warehouse where our organization's data is kept.                                                    | Data                    | Product Analytics, Infrastructure                                        |
+| Processing Pipeline             | dbt Base Data Models                  | General ETL, models, and visualizations                                                                                 | Data                    | Product Analytics                                                        |
+| Processing Pipeline             | Product Data Models                   | Product specific ETL, models, and visualizations                                                                        | Product Analytics       | Data                                                                     |
+| Processing Pipeline             | Engineering Data Models               | Engineering specific ETL, models, and visualizations                                                                    | Data                    | Engineering                                                              |
+| Processing Pipeline             | Sales Data Models                     | Sales specific ETL, models, and visualizations                                                                          | Data                    | Sales                                                                    |
+| Processing Pipeline             | Customer Success Data Models          | Customer Success specific ETL, models, and visualizations                                                               | Data                    | Customer Success                                                         |
+| Processing Pipeline             | Marketing Data Models                 | Marketing specific ETL, models, and visualizations                                                                      | Data                    | Marketing                                                                |
+| Processing Pipeline             | People Data Models                    | People specific ETL, models, and visualizations                                                                         | Data                    | People                                                                   |
+| Processing Pipeline             | Finance Data Models                   | Finance specific ETL, models, and visualizations                                                                        | Data                    | Finance                                                                  |
+| Processing Pipeline             | Enterprise Dimensional Models         | The single source of truth for GitLab data, spanning corporate performance and customer journey analytics.              | Data                    | Product Analytics                                                        |
+| Enable Product                  | Data Triage                           | The triaging of inbound product analytics requests.                                                                     | Product Analysts        | Product Managers, Data                                                   |
+| Enable Product                  | Sisense Dashboards                    | Sisense dashboards for product managers.                                                                                | Product Managers        | Product Analytics, Data                                                  |
+| Enable Product                  | Certified Sisense Dashboards          | Sisense dashboards containing the SSOT for product performance, supported by the Enterprise Dimensional Model.          | Product Analysts, Data  | Product Managers, Product Analytics                                      |
+| Enable Product                  | Product KPI Dashboards                | Sisense dashboards containing established KPIs for Product.                                                             | Product Analysts        | Product Managers, Data                                                   |
+| Enable Product                  | Product Performance Indicators        | The product metrics GitLab's product team pays attention to.                                                            | Product Managers        | Product Analytics, Data                                                  |
+| Enable Product                  | Metrics Reviews                       | Monthly reviews of GitLab's product metrics.                                                                            | Product Managers        | Product Analytics, Data                                                  |
+| Enable Product                  | Product Improvements                  | Product improvements based on insights from product usage data.                                                         | Product Managers        |                                                                          |
+| Enable Sales / CS               | Snowflake EDW to Salesforce Data Pump | Data feed of product usage data into Salesforce from EDW.                                                               | Data                    | Sales, Customer Success, Product Analytics                               |
+| Enable Sales / CS               | Salesforce Dashboards                 | Dashboard embeded into each Salesforce Customer showing product usage.                                                  | Sales                   | Product Analytics, Data                                                  |
+| Enable Sales / CS               | Salesforce to Gainsight Data Feed     | Data feed from Salesforce to Gainsight.                                                                                 | Customer Success        |                                                                          |
+| Enable Sales / CS               | Gainsight Dashboards                  | Dashboard embeded into each Gainsight Customer showing product usage.                                                   | Customer Success        | Product Analytics, Data                                                  |
+| Enable Sales / CS               | Customer Conversations                | Customer conversrations using product usage data.                                                                       | Sales, Customer Success |                                                                          |
+| Full Funnel Analytics           | All Data Feeds to Snowflake EDW       | ETL from source into EDW/Snowflake in a Secure and Compliant RAW landing zone.                                          | Data                    | Multiple                                                                 |
+| Full Funnel Analytics           | Product Data                          | Product data sources such as GitLab.com Postgres, Usage Ping data, and Snowplow data.                                   | Product Analytics       | Data, Enterprise Applications                                            |
+| Full Funnel Analytics           | License and Subscription Data         | License and subscription data sources such as Customers app, License app, and Zuora data.                               | Fulfillment             | Product Analytics, Data, Enterprise Applications                         |
+| Full Funnel Analytics           | Sales Data                            | Sales data sources such as Salesforce.                                                                                  | Sales                   | Product Analytics, Data, Enterprise Applications                         |
+| Full Funnel Analytics           | Customer Success Data                 | Customer Success data sources such as Gainsight.                                                                        | Customer Success        | Product Analytics, Data, Enterprise Applications                         |
+| Full Funnel Analytics           | Marketing Data                        | Marketing data sources such as Google Analytics and Marketo.                                                            | Marketing               | Product Analytics, Data, Enterprise Applications                         |
+| Full Funnel Analytics           | Full Funnel Integration               | The integration of all Product, License and Subscription, Sales, Customer Success, and Marketing Data.                  | Enterprise Applications | Marketing, Fulfillment, Sales, Customer Success, Product Analytics, Data |
+| Full Funnel Analytics           | Full Funnel Analysis                  | The analysis of all Product, License and Subscription, Sales, Customer Success, and Marketing Data.                     | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Analytics       |
+| Full Funnel Analytics           | Corporate Performance Analysis        | Cross-functional dashboards, balanced scorecards, and related metrics for measuring corporate lead-to-cash performance. | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Analytics       |
+| Full Funnel Analytics           | Customer Journey Analytics            | Cross-functional dashboards, balanced scorecards, and related metrics for measuring the customer product experience.    | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Analytics       |
+| Enhance Value Stream Management | Value Stream Management Data Feed     | A data feed for passing benchmark product usage data back to customers.                                                 | Product Analytics       | Value Stream Management                                                  |
+| Enhance Value Stream Management | Value Stream Management Features      | Features to show customers how they're using GitLab.                                                                    | Value Stream Management | Product Analytics                                                        |
 
 [Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
 
