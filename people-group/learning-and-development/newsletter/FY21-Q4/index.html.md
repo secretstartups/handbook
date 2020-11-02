@@ -117,7 +117,6 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/pe
 * 2020-12-01: DIB Certification
 * 2020-12: Learning Speaker Series - Managing Mental Health & Burnout
    * An invite will be sent from the GitLab Team Meetings calendar when the date is finalized. 
-* Anything else?  
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our `#learning-and-development` Slack Channel. 
 
