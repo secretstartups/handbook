@@ -30,7 +30,7 @@ Is there a leader at GitLab that you want to learn more about? To nominate someo
 Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykrey). Kris is a Manager of Field Enablement Programs. She also is currently utilizing [GitLab's Tuition Reimbursement program](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement). 
 
 <figure class="video_container">
-<iframe src="ttps://docs.google.com/presentation/d/e/2PACX-1vTHzCdtdjH5W7AG2pa3yilT0spTYG6UDwelBCvgvLifFZGvQTGInWVBq17X78Cj4X1Hjy5ChmlhK9TQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHzCdtdjH5W7AG2pa3yilT0spTYG6UDwelBCvgvLifFZGvQTGInWVBq17X78Cj4X1Hjy5ChmlhK9TQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 * **Which university/program were you a student in?**
