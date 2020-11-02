@@ -80,9 +80,9 @@ The first courses are scheduled to go live in conjunction with the launch of our
 
 Looking forward to FY22, you can look forward to other exciting learning including:
 
-## How to Sell GitLab
+### Customer Use Case Training
 
-Additional deeper dive customer use case training focused on **how to sell GitLab** will be made available to field team members and partners and include the below elements for each:
+Additional deeper dive customer use case training focused on **how to sell GitLab** will be made available to field team members and partners and include the below elements:
 - Market Overview
 - Target Buyer and User Personas
 - Industry Insights
@@ -93,6 +93,20 @@ Additional deeper dive customer use case training focused on **how to sell GitLa
 - Proof Points
 - Competitive Comparisons
 - Application Exercise
+
+Currently available courses include the following:
+
+#### Continuous Integration (CI)
+
+- Access the [Continuous Integration Customer Use Case learning path](https://classroom.google.com/c/ODA3MDM2NDkzODFa?cjc=4oy74tz) in Google Classroom (internal only)
+- Just want to take the knowledge check quiz? [Click here](https://forms.gle/SYcjEptqKyfohUHx7). 
+
+#### DevSecOps
+
+- Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
+- Just want to take the knowledge check quiz? [Click here](https://forms.gle/hkta3uDUpki52BGD8).
+
+## Feedback 
 
 To get involved or follow along with the development, check out the [Field Certification Issues Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426). We love feedback and questions, so check us out on Slack in #field-cert-program. 
 
