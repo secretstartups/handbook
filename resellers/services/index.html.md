@@ -250,7 +250,7 @@ GitLab Certified Training Partners can either act as subcontractors to [GitLab E
 <br>
 <br>
 <br>
-<br><img src="source/channel-service-program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="source/images/channel-service-program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
 
 
       </td>
