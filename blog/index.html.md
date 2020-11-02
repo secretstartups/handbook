@@ -458,7 +458,7 @@ author: Firstname Lastname # if name includes special characters use double quot
 author_gitlab: GitLab.com username # ex: johndoe
 author_twitter: Twitter username or gitlab # ex: johndoe
 categories: news # please choose one category from list below
-image_title: '/images/blogimages/post-cover-image.jpg'
+image_title: '/images/blogimages/post-cover-image.jpg' # optional – just remove this line if you don't want to use a cover image. See below for more info
 description: "Short description for the blog post"
 tags: tag1, tag2, tag3
 cta_button_text: 'Watch the XXX release webcast live!' # optional
@@ -510,7 +510,9 @@ Please include the `guest: true` field in the frontmatter as well.
 
 #### Cover image
 
-Please [see below for instructions on sizing, formatting, and storing images](#images-and-illustration).
+This is optional. If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the [default image](#default-cover-image) will appear on the post's tile on the blog homepage and as the thumbnail when the post is shared on social media. Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
+
+If you would like to use an image of your choice for the blog post cover, please read on for how to choose an image and [see the instructions on sizing, formatting, and storing images](#images-and-illustration).
 
 ##### Stock photography
 
@@ -533,8 +535,15 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 
 ##### Default cover image
 
-In the absence of a custom cover image, you can use the default, but please only do so where there is genuinely no other option, or if making an important, operational announcement.
-- GitLab Default: `'/images/default-blog-image.png'` (purple background and the Tanuki logo)
+This is the image that appears on the blog homepage or as the thumbnail on social media for posts that do not have a custom cover image specified. 
+
+If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
+
+  ![default blog cover image](/images/handbook/marketing/default-blog-image-example.png){: .shadow.medium.center}
+  
+  If you still want to use the default image, use the path `'/images/default-blog-image.png'` in the [frontmatter](#frontmatter).
+  
+  Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
 
 #### Featured
 
