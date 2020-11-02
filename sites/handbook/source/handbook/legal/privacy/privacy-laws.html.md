@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Privacy Laws and GitLab"
+description: "This is an educational page about commonly referenced data privacy laws"
 ---
 
 ## On this page

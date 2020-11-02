@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Guide: Collaborating with GitLab Legal"
+description: "This resource provides assistance to the GitLab Sales Team on operational and educational elements of working with GitLab Legal for Customer negotiations"
 ---
 
 ## OVERVIEW 
