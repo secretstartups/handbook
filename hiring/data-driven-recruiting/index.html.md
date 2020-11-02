@@ -36,6 +36,8 @@ As we aim to build an even more diverse team in the most efficient way possible,
 1. Potential contribution to GitLab's diversity
 1. Contribution to GitLab's efficiency
 
+GitLab Recruiting team also strives to leverage the use of [LinkedIn *Talent Insights* reports](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session). Given specific inputs (e.g. job titles, skills, and/or geographic regions) we're able to see how big a talent pool is. That talent pool can be honed in further by referencing how many of those prospects are either engaged with GitLab updates, have followed or visited GitLab's LinkedIn profile, or have viewed posted jobs.
+
 ### General guidelines
 While there are different ways of combining the signals listed above, our goal is to use Data Driven Recruitment approach at the beginning of the search to build robust pipeline and oprtimize our sourcinng effort. These are the steps you can take to adopt the Data Driven Approach to your search:
 
