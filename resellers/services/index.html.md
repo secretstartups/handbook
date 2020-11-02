@@ -34,7 +34,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-<img src="/images/channel-service-program/gitlab-professional-services-partner.png" width="" alt="" titel="GitLab Certified Professional Services Partner">
+<img src="/images/channel-service-program/gitlab-professional-services-partner.png" width="150" alt="" titel="GitLab Certified Professional Services Partner">
 
    </td>
    <td style = "text-align: center">
@@ -42,7 +42,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-<img src="/images/channel-service-program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/images/channel-service-program/gitlab-managed-services-partner.png" width="150" alt="" title="GitLab Certified Managed Services Partner">
 
    </td>
    <td style = "text-align: center">
@@ -50,7 +50,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-<img src="/images/channel-service-program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<img src="/images/channel-service-program/gitlab-training-services-partner.png" width="150" alt="" title="GitLab Certified Training Partner">
 
    </td>
   </tr>
@@ -65,6 +65,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
    </td>
    <td style = "text-align: center">GitLab Certified Training Partner (CTP)
 <br> 
+<br>
 <br>Distinguished partners with validated learning and development capabilities and a record for delivering excellent customer experience through training services.
    </td>
   </tr>
@@ -148,7 +149,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
       </td>
-      <td>
+      <td style ="text-align: center">
 
 
 
@@ -192,13 +193,13 @@ DevOps Services
 
 
       </td>
-      <td>
+      <td style="text-align: center">
 
 
 
 <br>
 <br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
-GitLab Software
+<br>GitLab Software
 
 <br>    +
 
@@ -206,8 +207,8 @@ GitLab Software
 
 
 
-<br><img src="/images/channel-service-program/software-development-lifecycle_original-manage-46px (1).png" width="" alt="alt_text" title="image_tooltip">
-Managed Services
+<br><img src="/images/channel-service-program/software-development-lifecycle_original-manage-46px.png" width="" alt="alt_text" title="image_tooltip">
+<br>Managed Services
 
       </td>
       <td>
@@ -254,7 +255,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 
 
       </td>
-      <td>
+      <td style ="text-align: center">
 
 
 
