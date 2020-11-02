@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: FY21-Q4 Learning & Development Newsletter
 ---
 
-Welcome to the first GitLab Learning & Development (L&D) newsletter! This quarterly newsletter recaps what learning initiatives took place in the past quarter and highlights what is upcoming in the new quarter. The main goal of this newsletter is to help team members *prioritize learning* and have a [growth mindset](/handbook/values/#growth-mindset). For more information on the structure of this newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
+Welcome to the first GitLab Learning & Development (L&D) newsletter! This quarterly newsletter recaps what learning initiatives took place in the past quarter and highlights what is upcoming in the new quarter. The main goal of this newsletter is to help team members *prioritize learning* and have a [growth mindset](/handbook/values/#growth-mindset). For more information on the structure and process for this newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
 
 
 ## Recap of FY21-Q3
