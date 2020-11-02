@@ -305,6 +305,16 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
 It is **important** that the Candidate Experience Specialist notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
 
+### How to Unhire a Candidate After Contract is Signed
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. 
+
+If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
+1. Unhire the candidate in Greenhouse.
+1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
+1. Cancel any scheduled emails in Greenhouse.
+1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important. 
+1.  If they were hired via a PEO, inform the contact person of this change immediately, ideally before onboarding starts.
+
 ### Mid-Point Check-In Follow up
 
 The Candidate Experience Specialist will set up a delay send email using the "GitLab Helpful Links - Checking In" email template in GreenHouse. The delay should be set up for halfway between the contract being signed and the start date.
