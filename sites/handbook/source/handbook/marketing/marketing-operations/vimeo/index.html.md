@@ -43,7 +43,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 
 #### Create a live event
 
-**Step 1**
+##### Step 1
 
 1. Select `Live Events` in the left sidebar menu.
 1. Click `Create live event` under the list of events in the table. You can also click the `New video` button in the top-left corner and select `Create live event`. 
@@ -54,14 +54,38 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Choose the privacy for this event. The available options are: `Public`, `Only me`, `Password`, `People I follow`, `Private link`, or `Hide from Vimeo`. See detailed explanations of these options in the [privacy settings overview](#privacy-settings-overview).
 1. Click `Next`.
 
-**Step 2**
+##### Step 2
 
 1. On the next page, choose settings for your live event. Under the `Event` tab in the left-hand sidebar, toggle the `Chat` functionality on or off (appears only on Vimeo where you choose to embed). [See more info on enabling, disabling, and moderating chat](https://vimeo.zendesk.com/hc/en-us/articles/360040771772-Enabling-disabling-and-moderating-chat).
 1. In `Viewing privacy` you can select different privacy options for your live event.
 1. Enter a description for your live event under the `Description` field. 
 1. Under the video preview, you can choose a thumbnail for your video cover and edit the start time of the event.
 1. Under the `Embed` tab, select the options you would like to toggle on or off before generating your embed code. First, select the preferred embed privacy. You can choose `Anywhere`, `Nowhere`, or `Specific domains`. [See live event privacy settings](#live-event-privacy-settings).
-1. Under `Video Controls` toggle on/off the options for your live event.  
+1. Under `Video Controls` toggle on/off the options for your live event.  [See more about customizing the embedded player and adding embed presets](https://vimeo.zendesk.com/hc/en-us/articles/224972808-Customizing-the-embedded-player).
+1. Choose your preferred interaction tool and its respective settings (optional). See [interaction tools](#interaction-tools) for more detail.
+1. Under the `Destinations` tab, select where you will be streaming your live event. Available destinations to stream: Vimeo. [More destinations coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872). Click `Next`. 
+1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: Destinations, [Chat](https://vimeo.zendesk.com/hc/en-us/articles/360040771772-Enabling-disabling-and-moderating-chat), [Polls](https://vimeo.zendesk.com/hc/en-us/articles/360002126447), [Q&A](https://vimeo.zendesk.com/hc/en-us/articles/360044207351-Live-Q-A), [Graphics](https://vimeo.zendesk.com/hc/en-us/articles/360029427951-Graphic-overlays), and [Stream Health](https://vimeo.zendesk.com/hc/en-us/articles/360034657071-Stream-health-monitoring). One or more of these features may not be enabled based on the set up of your live event. 
+1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner. 
+
+### Chat
+
+https://vimeo.zendesk.com/hc/en-us/articles/360040771772-Enabling-disabling-and-moderating-chat
+
+Chat is disabled by default. You can enable it in [step 2 of creating a live event](#step-2). As the event owner, you have the ability to moderate chat including comment deletion and banning capabilities. 
+
+### Destinations
+
+Vimeo supports [simulcasting](https://vimeo.zendesk.com/hc/en-us/articles/360000352508-Simulcast-overview) which allows for simultaneous streaming on Facebook Live, YouTube, LinkedIn, and any custom RTMP destination.
+
+[Coming soon.](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872)
+
+### Interaction tools
+
+[Interaction tools](https://vimeo.zendesk.com/hc/en-us/articles/115007469788-Video-interaction-tools-overview) allow you to engage with your audience at meaningful points within the video, and give them the opportunity to connect to additional external sites or resources.
+
+1. `Email capture` can appear before, during, or after a video, with the option to withhold your video behind the email capture field, or let viewers skip it.
+1. `Cards` are a customizable, notification-style layer that Business members can set to appear during playback and remain on the screen for six seconds. 
+1. `End screens` let you determine exactly what appears when videos finish playing. 
 
 ### Privacy settings overview
 
