@@ -91,7 +91,7 @@ GitLab's Corporate Learning & Development team has launched a monthly Continuous
 
 #### [Rob Nalen – Director, Contracts & Legal Operations](https://gitlab.com/rnalen)
 
-![Rob_Nalen_TMS_Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Rob_Nalen_Thumb.png)
+![Rob-Nalen-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Rob_Nalen_Thumb.png)
 
 **Where did you grow up, and where are you based now?**
 
