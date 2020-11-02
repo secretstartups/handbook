@@ -215,12 +215,20 @@ We encourage and support [diversity](/handbook/values) and [frugality](/handbook
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
 * In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000]((/handbook/total-rewards/compensation/#exchange-rates)) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65. 
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for any [NQR](/handbook/sales/commissions/#quotas-overview) new hire. This is a temporary referral add-on campaign that will be available for candidates with a hire date of 2020-11-01 until 2020-02-01. Hire date is defined as the date that the candidate was set to hired. This will be confirmed to the referrer by the recruiter for the role. 
 
 The following is an *example* of a cumulative Referral Bonus:
-* Hire a referred Strategic Account Leader: $500
+* Hire a referred Sales Developement Representative: $500
 * With a location factor of 0.6: + $1,000
 * Who self-identifies as Native American/Native: + $1,500
-* Cumulative referral bonus to the referring party: **$3,000**
+* Cumulative referral bonus to the referring team member: **$3,000**
+
+The following is an *example* of a cumulative Referral Bonus with the temporary referral add-on campaign for NQR hires:
+* Hire a referred Strategic Account Leader (NQR hire): $500
+* With a location factor of 0.6: + $1,000
+* Who self-identifies as Native American/Native: + $1,500
+* NQR new hire: + $1,500
+* Cumulative referral bonus to the referring team member: **$4,500**
 
 ### Add-On Bonus for Select Underrepresented Groups
 
@@ -271,6 +279,12 @@ If a team member has been referred, the People Experience team will review team 
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 1. Once the bonus has been processed, change the note in BambooHR from "future" to "paid".
 1. Reply all to the email confirming the bonus has been processed in BambooHR and payroll.
+
+#### Temporary Add-on Campaign additional tracking for payout
+
+1. Recruiting Manager will track all referrals set to hired in time period of Add-on campaign.
+2. Recruiting Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employement at GitLab.
+3. Talent Rewards will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Visiting Grant
 
