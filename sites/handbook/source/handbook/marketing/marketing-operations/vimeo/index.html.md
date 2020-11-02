@@ -26,21 +26,21 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. `Viewers` - Viewers can be invited to specific folders within the account, but they will have limited access to the contents of those folders. They can access the review page, leave notes, and share videos that are within those folders. They do not have the ability to upload, edit, publish, or access any other settings or areas of the account that are meant for working members.
 1. `Contributors` - Contributors can be invited to access a specific folder within the account. They’ll have the ability to upload, edit, review, share, and publish videos within a folder, but won’t have access to any of your other folders or areas of your account. A contributor also won’t be able to change the title of a folder, delete a folder, or delete a video from the account. They can view settings of a video in that folder as well as the analytics tab, which has numbers from the past 30 days but won't have access to advanced analytics for the video. Once in the `Video Manager`, Contributors will only be able see the folders to which they have been invited. In addition, contributors can access settings of an archived live event within the folder to which they contribute. Contributors can start a live event to Vimeo if they are using an external encoder via RTMP (after the Owner or Admin creates an event and provides the Contributor with the RTMP URL and Stream Key). **Note:** If the Vimeo account is connected to other social accounts such as Facebook, then any live events the Contributor starts from their encoder will also simulcast to that destination.
 1. `Admins` - Admins can help upload and manage all videos, folders, and collections. Admins will not be able to access account settings or payment information. Admins also cannot delete videos; only the account owner can do this. Admins have access to the following features:
-  - Creating, managing, and deleting collections
-  - Creating, managing, and deleting folders 
-  - Changing the privacy settings of your videos
-  - Viewing advanced analytics of your videos
-  - Create live events
-  - Adjust privacy settings, embed customization, and interaction tool settings for live events
-  - Stream to live events using WebRTC or RTMP from an external encoder
-  - End live events
-  - Export chat transcripts
+   - Creating, managing, and deleting collections
+   - Creating, managing, and deleting folders 
+   - Changing the privacy settings of your videos
+   - Viewing advanced analytics of your videos
+   - Create live events
+   - Adjust privacy settings, embed customization, and interaction tool settings for live events
+   - Stream to live events using WebRTC or RTMP from an external encoder
+   - End live events
+   - Export chat transcripts
 1. `Owners` - Only Owners can do the following:
-  - Edit and organize the account's profile page
-  - Access Simulcast settings
-  - Authenticate API-integrated encoders and applications - This means any encoder that allows you to connect to Vimeo by logging in to account directly from the software or application (e.g. Livestream Studio via login, Mevo, Vimeo mobile app, or other third-party direct integrations)
-  - Delete live events
-  - Access Developer API and create and manage developer apps for their account
+   - Edit and organize the account's profile page
+   - Access Simulcast settings
+   - Authenticate API-integrated encoders and applications - This means any encoder that allows you to connect to Vimeo by logging in to account directly from the software or application (e.g. Livestream Studio via login, Mevo, Vimeo mobile app, or other third-party direct integrations)
+   - Delete live events
+   - Access Developer API and create and manage developer apps for their account
 
 ### Support
 
@@ -82,6 +82,31 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner.
 
 ### Stream Health
+
+[See how well your stream is performing in real time](https://vimeo.zendesk.com/hc/en-us/articles/360034657071-Stream-health-monitoring). The information displayed in this tool comes directly from the Ingest server logs, which is the first point of contact your stream has with the Vimeo Live back-end.
+
+The stream health indicator can be found on the upper right of the live settings page and preview page. 
+
+The indicator bar at the top displays one of the following statuses:
+
+1. `Ready`: Webcam has been connected and you are ready to go live.
+1. `Good connection`: Stream has connected (either through the browser, RTMP, or an integrated encoder) and Vimeo servers are receiving a stable frame rate/bitrate. 
+1. `Unstable connection`: Vimeo servers detect more than a 15% drop in frame rate/bitrate from the intended configuration. This means there may be a problem with your network connection or encoder.
+1. `Offline`: Stream has disconnected from Vimeo servers.
+
+#### Stream Metrics
+
+Stream metrics display the incoming bitrate and frame rate data. The graph updates in real time and details the changes in bitrate/frame rate over the last ten minutes of your stream.
+
+Below the graph you’ll find the bitrate, average bitrate, frame rate, average frame rate, and video resolution for your stream. These metrics update in real time as well.
+
+#### Advanced Analytics
+
+Below stream metrics, click `Advanced Analytics` to see additional information about your stream, namely Video codec, Audio codec, AVC profile, and AVC level. These inform you of your stream’s video and audio compression format (AVC stands for Advanced Video Coding), and the Session ID is a unique string that identifies your stream for Vimeo.
+
+### Sharing your screen while live
+
+You can [share your screen with your audience](https://vimeo.zendesk.com/hc/en-us/articles/360031406392-Sharing-your-screen-while-live) using the browser-based encoder. This is available as an input alongside your webcam on the `Vimeo Live Settings` page for your live events.
 
 ### Graphics
 
