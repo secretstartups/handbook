@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Meeting Service Level Objectives (Ticket SLAs)
+description: "Meeting Support SLAs with the First Response and Service Level Agreement Hawk roles"
 category: Handling tickets
 ---
 

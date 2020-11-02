@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support 1:1s
+description: "Support team 1:1s guidelines"
 ---
 
 ## Aims and context
@@ -23,6 +24,9 @@ This page **does not**:
 1. Leave time for general conversation and other important areas like career development.
 1. Some weeks you may focus entirely on another area (e.g. personal issues, or a project you're working on)
 1. Sometimes you may wish to schedule a longer or additional call to focus on an important area
+
+## 1:1 Issue Generator Project
+You may choose to use the 1:1 Issue Generator for your 1:1s.  See the project [Readme](https://gitlab.com/gitlab-com/support/1-1s/1-1-issue-generator/-/blob/master/README.md) for more details.
 
 ## Call structure
 

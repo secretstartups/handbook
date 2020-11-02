@@ -169,7 +169,7 @@ Whatever you learn, make sure that you're constantly bubbling it up and broadcas
 - When troubleshooting: use the docs.
 - If something is missing: update the docs.
 
-#### Openly share your mistakes and learn from them
+### Openly share your mistakes and learn from them
 
 We are all human and while we all strive to ensure our interactions with customers
 is 100% correct, the truth is that we are bound to make mistakes from time to

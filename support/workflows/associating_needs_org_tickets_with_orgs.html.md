@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Associating needs-org tickets with appropriate organization
+description: "Guidance and instructions for associating a ticket with the requester's organization, when automatic methods fail."
 category: Zendesk
 ---
 
@@ -77,9 +78,8 @@ If needed, also check the
 [internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
 for manual plan changes.
 
-For self-managed, you can double-check for a license in the
-[LicenseDot](http://license.gitlab.com).
-You should be able to access it with your `dev.gitlab.org` account.
+For self-managed, you can double-check for a license in the [LicenseDot](http://license.gitlab.com) portal
+as described in [Finding the existing license in LicenseDot](#finding-the-existing-license-in-licensedot).
 
 **Trial** users do not get support as mentioned at [Free trial page](https://about.gitlab.com/free-trial/).
 If you find a ticket from the organization using trial, add `trial` tag to it.
@@ -174,6 +174,13 @@ open an issue to the
 ### Finding the existing organization in [customers.gitlab.com](https://customers.gitlab.com)
 
 See: [Looking up customer account details in customer.gitlab.com](/handbook/support/workflows/looking_up_customer_account_details.html#within-customersgitlabcom)
+
+### Finding the existing license in LicenseDot
+
+All self-managed licenses including trial ones should be available in [LicenseDot](http://license.gitlab.com) portal.
+You should be able to access it with your dev.gitlab.org account. If a customer provides you with their license ID,
+you can verify it in the portal by appending the ID to the link https://license.gitlab.com/licenses/, so the final link
+to the license will look like https://license.gitlab.com/licenses/LICENSE_ID
 
 ### Adding the domain (Zendesk Admins only)
 

@@ -12,7 +12,7 @@ category: Legal
 
 ## Overview
 
-[Data Processing Addendums](https://drive.google.com/drive/u/0/folders/1LXCx7kaXk1eooIPixF3R-ujNhIOtsv1H) are available to paid subscribers of GitLab.com. This workflow details what to do with fully executed (signed) DPAs received from customers.
+[Data Processing Addendums](https://drive.google.com/file/d/1M490zeSVnlTkjCpMm1KiyjlxoZc4NMKq/view) are available to paid subscribers of GitLab.com. This workflow details what to do with fully executed (signed) DPAs received from customers.
 
 ## Workflow
 

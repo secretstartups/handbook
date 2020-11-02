@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Overview
+title: Zendesk Overview for Support
 category: Zendesk
+description: Overview of how Support has set up Zendesk includes Apps, Business Rules, Emails, Organizations, Macros, Reporting and many more.
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Overview
+title: Zendesk Overview for Support Operations
+description: Overview of how ZenDesk is managed by Support Operations.
 ---
 
 # Zendesk Overview

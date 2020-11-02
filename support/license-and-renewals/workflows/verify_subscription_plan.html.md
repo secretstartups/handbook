@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: GitLab.com Subscriptions
+title: Verify GitLab.com Subscriptions
 category: Legacy pages
+description: Guide on how to verify the status of a GitLab.com subscription.
 ---
 
 ## On this page
