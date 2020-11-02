@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Understanding How Our Customers Use GitLab"
+description: "Guidance to GitLab sales team members to gain a better understanding of how customers are using GitLab"
 ---
 
 ## On this page

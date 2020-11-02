@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Sales Discovery and Qualification Questions"
+description: "An effective questioning strategy is critical to engaging customers in dialogue to truly understand their needs, build credibility and trust, and qualify the opportunity"
 ---
 
 ## On this page
@@ -65,7 +66,7 @@ Challenges
         - Kubernetes
         - What tools do you use for project management?
 *  What platforms/clouds are you deploying to?  (AWS/GCP/Azure/VMware/Openshift/other)
-    - If AWS are you deploying to EC2, ECS, EKS, Fargate, or Lamda
+    - If AWS are you deploying to EC2, ECS, EKS, Fargate, or Lambda
     - If GCP are you deploying to GCE, GKE, App Engine, or Cloud Run
     - If Azure are you deploying to VMs, AKS, Functions
 *  How would you describe your maturity level/progress with continuous integration and continuous delivery Is this something your group and company want to improve upon?
@@ -74,6 +75,13 @@ Challenges
 *  How is security testing currently done in your organization?
 *  What is the current process for finding vulnerabilities around Static Application Security Testing, Dependency Scanning, and/or License Compliance?
 *  What is the financial impact on your organization/teams budget with other test and review tools?
+*  For additional customer use case-based discovery questions, please reference the following:
+    *  [Version Control and Collaboration (VC&C)](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/#discovery-questions)
+    *  [Continuous Integration (CI)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#discovery-questions)
+    *  [DevSecOps](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
+    *  [Agile Planning and Management](/handbook/marketing/strategic-marketing/usecase-gtm/agile/#discovery-questions)
+    *  [Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/#discovery-questions) 
+    *  [GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#discovery-questions)
 
 ### Level of Satisfaction
 *  How is your current application development & delivery tool stack working overall?
@@ -258,19 +266,19 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 *  If only a group, what is preventing you from bringing on the entire company at this time?
 
 ### Competing/Selling Against GitHub and GitHub Actions
-*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-github-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/strategic-marketing/competitive/compete/#-github-) (internal only)
 
 ### Competing/Selling Against Microsoft Azure DevOps
-*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-azure-devops-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/strategic-marketing/competitive/compete/#-azure-devops-) (internal only)
 
 ### Competing/Selling against Jenkins
-*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-jenkins-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/strategic-marketing/competitive/compete/#-jenkins-) (internal only)
 
 ### Competing/Selling against BitBucket
-*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-atlassian-bitbucket-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/strategic-marketing/competitive/compete/#-atlassian-bitbucket-) (internal only)
 
 ### Competing/Selling against Checkmarx
-*  Review the battle card and discovery questions [here](/handbook/marketing/product-marketing/competitive/compete/#-checkmarx-) (internal only)
+*  Review the battle card and discovery questions [here](/handbook/marketing/strategic-marketing/competitive/compete/#-checkmarx-) (internal only)
 
 ### Customer is Using Jira
 *  How would you describe the current implementation of Jira within your organization?

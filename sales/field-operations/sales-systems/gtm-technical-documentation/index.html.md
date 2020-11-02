@@ -243,7 +243,7 @@ Code Units:
 ## Order Type System
 <details>
   <summary markdown="span">Order Type System Info</summary>
-**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/#account-family)
+**Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/sales-term-glossary)
 
 **Overview:** The goal of the Order Type system is to determine a given Opportunity's relationship with the business. Did it start a new customer relationship, cross into a related segment of the customer, or grow an existing relationship.
 
@@ -299,7 +299,20 @@ Code Unit:
 **Logic Locations:** 
 * [ForceManagement.page](###) - Link Coming Soon
 * [ForceManagement.cls](###) - Link Coming Soon
+</details>
 
+
+## Linear Weighted iACV
+<details>
+  <summary markdown="span">Linear Weighted iACV</summary>
+
+**Business Process this supports:** [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution)
+
+**Overview:** Linear Weighted iACV is a measure at Gitlab that is used to measure the effectiveness of our marketing campaigns. Please refer to the excellent [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution) section in our handbook for additional details. 
+
+**Logic Locations:** [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
+Code Unit: 
+   * countBizibleTouchpointsCalculateLineariACV
 </details>
 
 ## Gainsight 

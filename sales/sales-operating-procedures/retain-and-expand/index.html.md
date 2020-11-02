@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Retain and Expand"
+description: "GitLab sales process to retain customers and expand GitLab's footprint and value to the customer"
 ---
 
 ## On this page
@@ -59,7 +60,7 @@ The objective is to support our customer's utilization of the GitLab solution to
 
 *   Have 80% of the licenses from the original purchases are activated?
 *   Is the customer successfully adopting the capabilities or stages from their original purchase intent?
-*   Will these be measured according to product telemetry (if available) or through agreement with the customer.
+*   Will these be measured according to product analytics (if available) or through agreement with the customer.
 
 As part of our customer journey, we highly value the customer's initial experience and measure time-to-value. This is done according to [Key Performance Indicators (KPIs)](/handbook/customer-success/vision/#measurement-and-kpis) Specifically, we will measure the time in calendar days from the initial transaction to:
 
@@ -102,7 +103,7 @@ Below are the **WEEKLY TASK** you’ll need to perform within Clari.
 *   **Clari-Forecast Values (Net New)** - Document regional news, success stories, closed, won, and organizational issues
 *   **Clari-Forecast Value (Renewal)** - Document and discuss field marketing details with your patch.
 
-For in-depth training on Clari go to the [Clari for Salespeople Instructional Videos](/handbook/sales/#clari-for-salespeople-instructional-videos).
+For in-depth training on Clari go to the [Clari for Salespeople Instructional Videos](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos).
 
 
 ### 3.3 Conduct [Executive Business Reviews](/handbook/customer-success/tam/ebr/) (TAMs)

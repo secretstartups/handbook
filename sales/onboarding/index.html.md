@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales & Customer Success Onboarding"
+description: "Sales onboarding at GitLab is a blended learning experience focused on what new sales team members need to know, do, and be able to articulate within their first 30 days or so on the job"
 ---
 
 ## On this page

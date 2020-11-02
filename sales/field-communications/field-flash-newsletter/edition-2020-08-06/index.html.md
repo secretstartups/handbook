@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Flash Newsletter - Edition 2020-08-06"
+description: "July edition of the Field Flash Newsletter sent to the GitLab Field (Sales, CS, SDR) team and stakeholders"
 ---
 
 ## On this page
@@ -16,15 +17,15 @@ Congratulations on the close of a successful quarter, and welcome to Q3! In this
 
 ### Start the Quarter Off Strong
 July was filled with **helpful trainings and exciting announcements from Field Enablement**. ICYMI, check out:
-1. [Forrester TEI Report Enablement Session](https://www.youtube.com/watch?v=J_6QgemCz2E&feature=youtu.be) - Learn more about how to [leverage this report](/handbook/marketing/product-marketing/analyst-relations/forrester-tei/) as a tool in customer conversations in this special session with Forrester reps. (Don’t forget to share [the blog](https://about.gitlab.com/blog/2020/07/29/forrester-tei/) with your connections on social media!)
-1. [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics) - Find helpful tips, tricks, and guidance in this robust Handbook page meant to help you successfully navigate one of the toughest customer conversations. 
-1. [Q3 Level Up Sales Enablement Webinars](/handbook/sales/training/sales-enablement-sessions/) - The Q3 calendar is now posted! Check out the great enablement sessions scheduled for this quarter and find recordings. 
-   1. For CS team members and those looking for more technical content, check out the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/) sessions. 
+1. [Forrester TEI Report Enablement Session](https://www.youtube.com/watch?v=J_6QgemCz2E&feature=youtu.be) - Learn more about how to [leverage this report](/handbook/marketing/strategic-marketing/analyst-relations/forrester-tei/) as a tool in customer conversations in this special session with Forrester reps. (Don’t forget to share [the blog](https://about.gitlab.com/blog/2020/07/29/forrester-tei/) with your connections on social media!)
+1. [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics) - Find helpful tips, tricks, and guidance in this robust Handbook page meant to help you successfully navigate one of the toughest customer conversations.
+1. [Q3 Level Up Sales Enablement Webinars](/handbook/sales/training/sales-enablement-sessions/) - The Q3 calendar is now posted! Check out the great enablement sessions scheduled for this quarter and find recordings.
+   1. For CS team members and those looking for more technical content, check out the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/) sessions.
 
 Questions? Slack #field-enablement-team
 
 ### Deal of the Month 🏅
-Curious about what went into closing the largest deal in GitLab history? Mark Bell and Timo Schuit walk us through their deal and share helpful insights they learned along the way. 
+Curious about what went into closing the largest deal in GitLab history? Mark Bell and Timo Schuit walk us through their deal and share helpful insights they learned along the way.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/fV9wo8nEjWs" frameborder="0" allowfullscreen="true"> </iframe>
@@ -46,21 +47,21 @@ We recently signed a global agreement with [Contino](https://www.contino.io/) (a
 ### Did You Know? 🔢
 **FY21-Q3 QBRs are taking place from August 3-20**. Find links to schedules, deck templates, and notes docs in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/297). For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs/).
 
-For more information, join the #qbr-ent-q3fy21, #qbr-comm-q3fy21, and #qbr-channel-q3fy21 Slack channels. 
+For more information, join the #qbr-ent-q3fy21, #qbr-comm-q3fy21, and #qbr-channel-q3fy21 Slack channels.
 
 ----
-We recently soft-launched the **GitLab CI/CD Specialist Certification**. All required assessments are available at no additional cost to attendees of Professional Services [CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/) – a great selling point! 
+We recently soft-launched the **GitLab CI/CD Specialist Certification**. All required assessments are available at no additional cost to attendees of Professional Services [CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/) – a great selling point!
 
 Questions? Ping the #professional-services Slack channel.
 
 ----
-We now have **40+ partners who have completed GitLab's Services Bootcamp**! Check out the [attendee list and Partner Services Matrix](https://docs.google.com/spreadsheets/d/1Wc42kLkmtpeOktr8UtB_csW5_GLUX_79taLSe86KCMs/edit?usp=sharing) along with a [summary outcome](https://docs.google.com/file/d/185LmyqjGO7MLMFSnGjV-DsiC0daoR6rR/edit?usp=docslist_api&filetype=mspresentation) from the project. These should be **your go-to partners** when you need assistance on Customer Opportunities. 
+We now have **40+ partners who have completed GitLab's Services Bootcamp**! Check out the [attendee list and Partner Services Matrix](https://docs.google.com/spreadsheets/d/1Wc42kLkmtpeOktr8UtB_csW5_GLUX_79taLSe86KCMs/edit?usp=sharing) along with a [summary outcome](https://docs.google.com/file/d/185LmyqjGO7MLMFSnGjV-DsiC0daoR6rR/edit?usp=docslist_api&filetype=mspresentation) from the project. These should be **your go-to partners** when you need assistance on Customer Opportunities.
 
 ----
-You may have caught onto an internal campaign reminding GitLab team members to **use public channels for Slack communication**. Please help your GitLab teammates easily find and respond to messages by avoiding group and individual direct messages where possible. There are a lot of reasons channels are better – [and they are all in the Handbook](/handbook/communication/#use-public-channels)! 
+You may have caught onto an internal campaign reminding GitLab team members to **use public channels for Slack communication**. Please help your GitLab teammates easily find and respond to messages by avoiding group and individual direct messages where possible. There are a lot of reasons channels are better – [and they are all in the Handbook](/handbook/communication/#use-public-channels)!
 
 ----
-GitLab team members are taking less time off than they did prior to COVID-19 (on average). Remember to **maintain a healthy work/life balance and [avoid burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#working-to-prevent-burnout-isolation-and-anxiety)** by taking time away from work. See [GitLab’s Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) in the Handbook for a refresher on how to manage your PTO with PTO Ninja and other helpful tips. 
+GitLab team members are taking less time off than they did prior to COVID-19 (on average). Remember to **maintain a healthy work/life balance and [avoid burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#working-to-prevent-burnout-isolation-and-anxiety)** by taking time away from work. See [GitLab’s Guide to Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) in the Handbook for a refresher on how to manage your PTO with PTO by Roots and other helpful tips.
 
 ----
 **Chorus has launched a new UI** that GitLab will transition to on August 6th. Chorus has made small but impactful improvements to improve efficiency and functionality, but the way you use the platform will not change drastically. For a full list of updated features, see [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1357) and check out this [quick video overview](https://www.youtube.com/watch?v=SZnP6mZXVEQ&feature=youtu.be) from Chorus.

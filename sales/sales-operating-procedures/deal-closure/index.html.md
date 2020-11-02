@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Deal Closure"
+description: "GitLab sales process for deal closure"
 ---
 
 ## On this page

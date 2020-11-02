@@ -5,7 +5,7 @@ title: "Customer Success Operations"
 
 ## Mission
 
-Customer Success Operations exists to create trust, predictability, and excellent customer outcomes through clear and efficient processes, consistency, and analytics.
+Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through creating trust in data, clarity in effective processes, and predictability in outcomes.
 
 ## What is our strategy?
 Customer Success Operations creates and updates existing processes for the Customer Success organization. CS Operations oversees:
@@ -15,11 +15,11 @@ Customer Success Operations creates and updates existing processes for the Custo
 * Systems enablement
 * Operationalizing Customer Success Journeys
 
-### Key Metrics [(from Field Ops)](/handbook/sales/field-operations/#key-tenants)
+### Key Metrics [(from Field Ops)](/handbook/sales/field-operations/#key-tenets)
 
+1. Visibility: to processes, data and analytics 
 1. Clarity: for definitions, processes, and events 
-2. Visibility: to processes, data and analytics 
-3. Accountability: to uphold to expectations and SLAs
+1. Accountability: to uphold to expectations and SLAs
 
 ## Customer Success Operations Responsibilities
 
@@ -28,6 +28,8 @@ Customer Success Operations creates and updates existing processes for the Custo
 * Systems implementation and maintenance
 * Operational reporting
 * Systems enablement
+* Product analytics and renewal strategies
+* Fiscal Year planning and strategy
 * Operationalizing Customer Success Journeys
 
 ## CS Ops Request Process
@@ -61,10 +63,10 @@ Labels to use:
 
 * CSOps - Label to track and manage all CS Operations related issues
 * CSOps::New - Issues that have not been evaluated
-* CSOps::Planning - Issues that are currently being scoped or considered but are not being actively worked on
-* CSOps::Backlog - Issues for future scheduling, sequencing, or implementation
+* CSOps::Evaluation - Issues that are currently being scoped or considered but are not being actively worked on
 * CSOps::In_Process - Issues that are actively being worked on in the current week or sprint
 * CSOps::bug - Issues labeled as `bug` that's preventing existing workflows or outcomes
 * CSOps::Blocked - Issues that are currently blocked by an internal or external prerequisite 
 * CSOps::Transferred - Issues that have been transferred to another team for review and/or completion
+* CSOps::Backlog - Issues that are not currently being evaluated or worked on
 * CSOps::Completed - Issues where the CS Ops team has completed their portion

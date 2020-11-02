@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Best Practices for Building Value with Customers"
+description: "An overview of some of the GitLab Field team's best-practices to build value with customers."
 ---
 
 ## On this page

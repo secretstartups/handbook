@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Customer Success Skills Exchange Sessions"
+description: "Continuous education webcast series for GitLab Customer Success team members"
 ---
 
 ## On this page

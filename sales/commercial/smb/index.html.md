@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "SMB Account Executive"
+description: "SMB Account Executive guidelines to assist prospects through their evaluation and buying process of GitLab"
 ---
 
 ## On this page
@@ -88,9 +89,9 @@ True-ups are conversations that often come to the table with customers during re
 * Salesforce - Customer Relationship Management 
 * [LinkedIn Sales Navigator ](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
 * CaptivateIQ - Commission Calculator 
-* [Clari](/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
+* [Clari](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
-* [Customer Portal Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
+* [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 * [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
 *  [Crayon ](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 *  [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
@@ -132,7 +133,7 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 *  [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
 
 ### Compensation
-*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/#incremental-annual-contract-value-iacv) goes toward the global *shared quota* retirement.
+*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
 *  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 

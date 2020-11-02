@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Certification: Strategic Account Leaders"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members"
 ---
 
 ## Field Certification Program for Strategic Account Leaders
@@ -10,7 +11,7 @@ title: "Field Certification: Strategic Account Leaders"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a  certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
+To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
 
 Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
 
@@ -52,6 +53,21 @@ This is the first learning path in development for SALs which will consist of 5 
 * Calculate your quote gap
 * Determine your ideal pipeline size to meet your quota 
 * Explain the process to accurately forecast 
+
+### Customer Use Case Training 
+
+Currently available courses include the following:
+
+#### Continuous Integration (CI)
+
+- Access the [Continuous Integration Customer Use Case learning path](https://classroom.google.com/c/ODA3MDM2NDkzODFa?cjc=4oy74tz) in Google Classroom (internal only)
+- Just want to take the knowledge check quiz? [Click here](https://forms.gle/SYcjEptqKyfohUHx7). 
+
+#### DevSecOps
+
+- Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
+- Just want to take the knowledge check quiz? [Click here](https://forms.gle/hkta3uDUpki52BGD8).
+
 
 ## Recognition
 Upon completing each course, the associate will receive a badge. 

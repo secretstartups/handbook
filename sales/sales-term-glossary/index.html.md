@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Term Glossary"
+description: "Definitions of key terms for the WW Field Team"
 ---
 
 ## On this page
@@ -162,23 +163,19 @@ The potential value of all users that could purchase our product within existing
 ### Customer Acquisition Cost (CAC)
 
 Given our land and expand model, we need to attribute our sales and marketing expense toward both our acquiring new customers and growing new customers.
-We refer to CAC as just the portion of our sales and marketing expense related to new customer acquisition.
 We allocate sales expense by using number of active customers because the number of active customers operationally drives where sales spends time. It also doesn't underweight sales time spent on first order which tends to be smaller than growth.
 We divide our customer base into cohorts by the quarter when they had their first active subscription. We then weight sales expense to each cohort by the number of active customers in that cohort.
-Our marketing expense is allocated between first order business and connected new business based on IACV because those are the key [KPIs](/handbook/ceo/kpis/) we use to evaluate marketing.
-
-Therefore `CAC = Allocated Sales & Marketing Expense/Number of First Order Acquired`
-
-where
-
-`Allocated Sales and Marketing Expense = Sales Expense * First Order Customers / Total Active Customers + Marketing Expense * First Order IACV / (First Order IACV + Connected New IACV)`
+Our marketing expense is allocated between first order business and connected new business based on IACV because those are the key [KPIs](/handbook/ceo/kpis/) we use to evaluate marketing. Marketing expense includes the cost of free users of gitlab.com.
 
 ### Customer Acquisition Cost (CAC) Ratio
 
-{: #cac-ratio}
-Allocated Sales & Marketing Expense to new customer acquisition/ACV from new customers (excludes growth from existing).
-[Industry guidance](http://www.forentrepreneurs.com/2017-saas-survey-part-1/) reports that median performance is 1.15 with anything less than 1.0 is considered very good.
-All bookings in period (including multiyear); bookings are equal to billings with standard payment terms.
+Defined as how much we spend in sales and marketing to generate revenue in a period. We calculate this by taking a ratio of the amount of sales and marketing spend (including the cost of free users of gitlab.com) in the prior period compared to the growth in revenue in the current period.  The formula is:
+
+`(sales and marketing expense over trailing twelve months) / (recurring revenue current quarter * 4 - recurring revenue from same quarter prior year * 4)`
+
+While the metric is easy to calculate, its limitation is that the sales and marketing efforts don't have as much impact on revenue in the current period as they do on bookings or future period revenue.
+
+We've seen this definition of CAC Ratio used by companies in their investor presentation. [Industry guidance](http://www.forentrepreneurs.com/2017-saas-survey-part-1/) reports that median performance is 1.15, with anything less than 1.0  considered very good.
 
 ### Life-Time Value (LTV)
 
@@ -190,12 +187,6 @@ Customer Life-Time Value is the amount of gross margin contribution on a cash ba
 The customer Life-Time Value to Customer Acquisition Cost ratio ([LTV](/handbook/sales/#ltv):[CAC](/handbook/sales/#customer-acquisition-cost-cac) measures the relationship between the lifetime value of a customer and the cost of acquiring and growing that customer. [A good LTV to CAC ratio is considered to be > 3.0.](https://www.klipfolio.com/resources/kpi-examples/saas-metrics/customer-lifetime-value-to-customer-acquisition-ratio). 
 
 To accurately calculate the LTV to CAC of a customer sum all the cash that a customer has paid GitLab over the life of the customer times the gross margin and divide it by the total sales and marketing cost to acquire and grow this customer. These cash flows are discounted back using the GitLab cost of capital or discount rate. We use 15% for our discount rate. This metric is the most accurate view of our unit economics however given we don't have many customers over 4 years of tenure with us there are assumptions in the numbers. This should be used for internal decision making only.
-
-### CAC Ratio
-
-Defined as how much we spend in sales and marketing to generate revenue in a period. We calculate this by taking a ratio of the amount of sales and marketing spend in the prior period compared to the growth in revenue in the current period.  The formula is (sales and marketing expense over trailing twelve months) / (recurring revenue current quarter * 4 - recurring revenue from same quarter prior year * 4). While the metric is easy to calculate its limitation is that the sales and marketing efforts don't have as much impact on revenue in the current period as they do on bookings or future period revenue.
-
-We've seen this definition of CAC Ratio used by companies in their investor presentation. 
 
 ### Customer Acquisition Payback
 As we acquire new customers we analyze how long it takes to recoup the investment to acquire a new customer. This is calculated by taking one cohort of customers and plotting the sum of the cash paid to GitLab by new customers over time and then plotting the amount of sales and marketing expense allocated to that cohort. Where the two lines cross is where GitLab breaks even on the customer acquisition.
@@ -315,4 +306,3 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 ### Sales Qualified Lead (SQL)
 
 [Sales Qualified Lead](/handbook/business-ops/resources/#customer-lifecycle)
-

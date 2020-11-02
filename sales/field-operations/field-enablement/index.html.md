@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Enablement"
+description: "The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to Gitlab’s values"
 ---
 
 {::options parse_block_html="true" /}
@@ -13,39 +14,36 @@ title: "Field Enablement"
 
 ## Overview
 
-The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). Want to communicate with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team).
-
-<details>
-<summary markdown="span">How we do this:</summary>
-
+The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). How we do this:
 - Collaborate with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to address prioritized knowledge, behavior, and skill gaps in the GitLab Field Team to achieve desired business outcomes.
 - Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab.
 - Champion the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for their day-to-day work to meet and exceed business objectives.
 - Cultivate a culture of curiosity, iteration, and continuous learning & development across the GitLab field organization.
 
-</details>
-Please see our [Key Programs](/handbook/sales/field-operations/field-enablement/#key-programs) to learn more. Want to chat with us? Please Slack us at [#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team). Have a Field Enablement request? Please use our [quick request process below](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request).
+## Contact Us 
+- Want to chat with us? Please Slack us at **[#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team)**. 
+- Have a Field Enablement request? Please use our **[quick request process](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request)** below.
 
 ## Key Programs
 
-- [Sales Onboarding](/handbook/sales/onboarding/)
-- [Command of the Message](/handbook/sales/command-of-the-message)
-- Continuous Learning
-    - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
-    - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
-    - [Sales Training Resources](/handbook/sales/training/)
-    - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
-- [Field Certification Program](/handbook/sales/training/field-certification)
-    - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
-    - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+-  [Sales Onboarding](/handbook/sales/onboarding/)
+-  [Command of the Message](/handbook/sales/command-of-the-message)
+-  Continuous Learning
+     - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
+     - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
+     - [Sales Training Resources](/handbook/sales/training/)
+     - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+-  [Field Certification Program](/handbook/sales/training/field-certification)
+     - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
+     - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
 - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
 - [Field Communications](/handbook/sales/field-communications/)
-    - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
-    - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
+     - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+     - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
-    - [Sales Kick Off](/handbook/sales/training/SKO)
-    - [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
-    - [GitLab President's Club](/handbook/sales/club/)
+     - [Sales Kick Off](/handbook/sales/training/SKO)
+     - [Sales QBRs](/handbook/sales/sales-meetings)
+     - [GitLab President's Club](/handbook/sales/club/)
 
 ## Strategy
 
@@ -68,9 +66,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 
 <!-- blank line -->
 
-<details>
-<summary markdown="span">Key Discussion Points</summary>
-
+### Key Discussion Points
 - Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
 - We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission).
 - There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
@@ -78,7 +74,6 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
     - Those who never go through the formal platform may also benefit from the materials
     - The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 
-</details>
 Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/).
 
 ## Six Critical Questions
@@ -161,7 +156,7 @@ The below is a work in progress as we define success measures across each stage 
 - **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
 - **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement) ()
+    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)

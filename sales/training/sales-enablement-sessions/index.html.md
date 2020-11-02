@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Enablement Sessions"
+description: "Continuous education webcast series for GitLab sales team members" 
 ---
 
 ## On this page
@@ -22,16 +23,16 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC                                                                    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-|  Oct 1 | Leveraging the GitLab/VMware Alliance                                    | Amy Brandenburg, Sales (TBD)                    |
-|  Oct 8 | Deal Structure Best Practices                                            | Jesse Rabbits, Sales (TBD)                      |
-| Oct 15 | Proof Points & Analyst Resources Update                                  | Colin Fletcher, Sales (TBD)                     |
-| Oct 22 | No sessions during last two weeks of a quarter                           | N/A                                             |                                   
+| Oct 22 | No sessions during last two weeks of a quarter                           | N/A             |                                   
 | Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
 
 ## Past Sessions
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-10-15 | **[Proof Points & Analyst Resources Update](https://youtu.be/B0-Y4SNVfXU)**  | Private      |
+| 2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
+| 2020-10-01 | **[Leveraging the GitLab/VMware Alliance](https://youtu.be/unpgyIR9yH0)**      | Private
 | 2020-09-24 | **[Q3 FY21 Competitive Update](https://youtu.be/fOeLdLwAgOI)**                 | Private |
 | 2020-09-10 | **[Accelerating Your Pipeline with AWS](https://youtu.be/iPDPtOUuNls)**            | Private |
 | 2020-09-03 | **[GitLab Standard ROI Models](https://youtu.be/znCrnpTDRoE)** | Public |   
@@ -60,10 +61,10 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2020-03-19 | **[True-Ups](https://youtu.be/vNWUz1BGs2E)** | Public |
 | 2020-03-12 | **[The GitLab Journey & The SCM Use Case](https://youtu.be/GN891Bqc6QY)** | Public |
 | 2020-03-05 | **[The GitLab Journey & The CI Use Case](https://youtu.be/JoeaTYIH5lI)** | Public |
-| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/product-marketing/release-updates/#123128-sales-enablement)** | Public |
+| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/strategic-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
-| 2020-01-13 | **[FY21 Product Outlook - Secure and Defend](https://youtu.be/jbuvqD2Ge3M)** | Public |
+| 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
 | 2020-01-09 | **[Reference Edge training session](https://youtu.be/8Le_Ovglnq8)** | Private |
 | 2019-12-19 | **[Microsoft Competitive Update](https://youtu.be/C_Lb5jkIcmA)** | Private |
 | 2019-12-12 | **[FY21 Product Outlook - CI/CD Section](https://youtu.be/I_H7zGZitRM)** | Public |
@@ -114,12 +115,12 @@ There are a few places to see previous Sales Enablement sessions:
 - Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
 ### Enablement pages
-- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/product-marketing/enablement/github-ci-cd-faq/)
-- [Cloud Native Ecosystem](/handbook/marketing/product-marketing/enablement/cloud-native-ecosystem/)
-- [Enterprise IT Roles](/handbook/marketing/product-marketing/enterprise-it-roles/)
+- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/strategic-marketing/enablement/github-ci-cd-faq/)
+- [Cloud Native Ecosystem](/handbook/marketing/strategic-marketing/enablement/cloud-native-ecosystem/)
+- [Enterprise IT Roles](/handbook/marketing/strategic-marketing/enterprise-it-roles/)
 - [How to set up Chorus.ai call recording](/handbook/business-ops/tech-stack/#chorus)
-- [GitLab Serverless FAQ](/handbook/marketing/product-marketing/enablement/serverless-faq/)
-- [GitLab.com Subscriptions](/handbook/marketing/product-marketing/enablement/dotcom-subscriptions/)
+- [GitLab Serverless FAQ](/handbook/marketing/strategic-marketing/enablement/serverless-faq/)
+- [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
 
 ### To request new sales enablement sessions

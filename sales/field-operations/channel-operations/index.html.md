@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Channel Operations"
+description: "This page serves as the Channel Operations team page and includes standard channel reporting links, and details for managing Channel opportunities" 
 ---
 
 ## On this page
@@ -11,6 +12,123 @@ title: "Channel Operations"
 
 
 # Welcome to the Channel Operations page
+
+## Standard Channel Reporting Links
+
+**[Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXTJ)**
+
+*Use the Global Channel Dashboard to view Pipeline Creation, Open Pipeline, and Bookings reports grouped by Partner, Segment, or Region. Other reports within the Global Channel Dashboard include Deal Path, Engagement, Deal Type, Top Channel Deals by IACV, and Deals Registered through the Partner Portal.*
+
+**[Global Channel Program Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXeR)
+
+**Reports by Territory**
+
+<table>
+  <tr>
+   <td><strong>AMER</strong>
+   </td>
+   <td><strong>APAC</strong>
+   </td>
+   <td><strong>EMEA</strong>
+   </td>
+   <td><strong>PUB-SEC</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjJ">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjO">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjT">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjY">Channel Book & Pipe-Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjd">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRji">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjn">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjs">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRif">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRik">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRip">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiu">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiz">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj4">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj9">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjE">Deal Path Pipe & Book - Current & Next Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjx">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk2">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk7">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjt">Direct vs. Channel Book & Pipe - Current Fiscal Quarter  </a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aS13">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhh">Open PIO Pipeline by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiB">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiG">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiL">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiQ">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiV">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRia">PIO Bookings by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhS">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhI">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhX ">PIO Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhc">PIO Creation by Partner - Current Fiscal Quarter</a> 
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkW">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkb">PIO New Logos - Current Fiscal Quarter</a>  
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkg">PIO New Logos - Current Fiscal Quarter</a> 
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>   
+   </td>
+  </tr>
+</table>
+
+
+*All required team reporting is included above. In the event you need a special report, please open an issue and tag Channel Ops.*
+
 
 ## Managing Channel Opportunities
 
@@ -147,6 +265,9 @@ _Why is this important?_
 ### Other Resources:
 * Deal Registration Lead Report [here](https://gitlab.my.salesforce.com/00O4M000004aAXt)
 * Partner Program Guide [here](https://about.gitlab.com/handbook/resellers) 
+* How to view registrations in SFDC [here](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view?usp=sharing) *(Beginning November 3, 2020)* 
+* How to add "registrations" tab to your SFDC menu [here](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view?usp=sharing)
+* Overview of a registration in SFDC [here](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view?usp=sharing) *(Beginning November 3, 2020)*
 
 ### Scenarios for Processing Deal Registration:
 
@@ -211,6 +332,58 @@ _Why is this important?_
 
 
 
+## Managing Special Cases
+
+### Creating MSP Opportunities
+
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer - the end user - is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. 
+
+When you have an MSP opportunity, the Sales Reps need to follow these ***additional*** steps:
+
+**Step 1:** The opportunity must be created using the MSP partner account, NOT the potential customer on whose behalf they are purchasing.
+
+**Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
+
+**Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
+DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
+DR-Deal type: “Resale”
+DR-Engagement: “PIO”
+
+**Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
+- Invoice owner: The MSP Partner (same as DR-Partner referenced above).
+- Special Terms and Notes: Name of the End-user Customer (the MSP owns the licenses on behalf of). 
+
+### Creating a Service-Attached Opportunity
+
+A Service-Attached opportunity is created to track when a partner offers their own professional services along with GitLab licenses. This is separate from the license sale and respective Salesforce opportunity. 
+
+To create the opportunity, the partner must register the deal on the [partner portal](https://about.gitlab.com/handbook/resellers/#gitlab-partner-portal). **The opportunity needs to be created for the service-attach opportunity alone.** The service-attached opportunity should never be a part of, or added on to the GitLab product sale opportunity. 
+
+For proper reporting, ensure that all the correct fields are used to notate that this is a partner service-attached opportunity.
+- DR - Partner: The partner account providing the services
+- DR - Partner Deal type: Services Attach
+- DR - Partner Engagement: N/A
+
+GitLab Sales needs to add the GitLab product sales opportunity as the parent opportunity to the service-attached opportunity.
+
+As the opportunity progresses, use the stages of the opportunity (0 - 7) until the agreement documentation is received that the customer is moving forward. Once the agreement for the Partner Services is completed (i.e. SOW, quote, order form), change the opportunity to **Stage: 10-Duplicate.**
+
+### Multiple-bid Process
+
+For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
+- The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
+- **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.** 
+- If the deal includes a distribution partner, that distributor receives their contracted margin. 
+
+For more informaiton on quoting or the Partner Program, please visit:
+
+[Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
+
+[Partner Program](https://about.gitlab.com/handbook/resellers/)
+
+
+
+
 ##  Program and Incentive Definitions
 
 **Partner Program Discounts**
@@ -219,25 +392,29 @@ _Why is this important?_
 - GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 **Partner Initiated Opportunity - PIO**
-- A PIO is any new sales opportunity that was brought to GitLab via a Deal Registration.  A PIO could be:
+- A PIO is any initiated sales opportunity that was brought to GitLab via a Deal Registration. A PIO could be:
     -  An opportunity with new customer to GitLab
-    -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific opportunity
-    -  An existing customer upgrade to a higher pricing plan - including from our free/core product.  This could be for a customer that was originally sold direct.
-    -  Additional licenses sold, often at time of renewal. 
+    -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific partner identified opportunity
+    -  An existing customer upgrade to a higher pricing plan - including from our free/core product. This could be for a customer that was originally sold by GitLab.
+    - Additional licenses sold, often at time of renewal.  This can also be an increase in size of an existing GitLab sales opportunity.
     -  True-ups to an original partner opportunity. 
-- The opportunity must be new to our sales team, and can be for a new or existing customer.
-- This can be for either a resale or referral opportunity.  
-- The partner is expected to assist the GitLab Sales team in closing the sale. 
-- For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
+- The opportunity must be new to our sales team or initiated to an existing sales opportunity, and can be for a new or existing customer.
+- PIO can be a lead that GitLab Sales teams have been already working but has stalled and has not converted.  Partner introductions, services, budget shift or other activities that create a conversion or expansion qualify as a PIO.
+- Partners that are brought in to transact and finalize a sales opportunity do not qualify for PIO.
+- This can be for either a resale or referral opportunity.
+- The partner is expected to collaborate with the GitLab Sales team to jointly close the sale. 
+- If a partner helps upsell or expand an opportunity, the entire opportunity qualifies as PIO.
+- - For US Public Sector, each unique customer opportunity within a single government program can be partner initiated.
 - For resale, the partner receives an upfront discount that is dependent on the partners track within the GitLab Partner Program.
-- Referral rebate payments are paid out at the end of each GitLab fiscal quarter
-- The determination of PIO is at the sales rep & CAM determination and tracked via SFDC opportunities.
+- Referral rebate payments are paid out no later than 45 after the end of each GitLab fiscal quarter.
+- The determination of PIO is per GitLab sales rep & CAM determination and tracked via Salesforce opportunities.
+
 
 **Partner Assist Opportunity**
-- Any opportunity where the partner assists our sales team to close the deal.
-- This may be a customer demo, an executive introduction meeting, delivery of services, etc.
+- Any opportunity where the partner assists our sales team in closing the deal.
+- This assistance may include any or all of the following: a customer demo/POV, an executive introduction meeting, delivery of services, helping with the transaction, financing.  Often this is leveraging the partner's incumency.
 - Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO, but should be tagged as Partner Assist in Salesforce.
-- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities.
+- The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities. 
 
 **Partner Fulfill Opportunity**
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
@@ -253,7 +430,7 @@ _Why is this important?_
     -  1st deal: => $7,500 in services
     -  2nd deal: =>$10,000 in services
     -  3rd deal: => $10,000 in services
-- Partners must register a Services Attach deal registration to qualify for the incentive.
+- Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
 
@@ -263,7 +440,7 @@ _Why is this important?_
 
 **Incumbency Renewals**
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
-- A different partner can earn an incumbency discount only through formal written communications from the customer.
+- A different partner can earn an incumbency discount only through formal written communications from the customer.  This can be provided via email from an authorized representative from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
@@ -337,182 +514,14 @@ More information can be found on the [compensation page](/handbook/sales/commiss
 
 
 
-## Channel Marketing Processes
-
-Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](/handbook/resellers/#requesting-market-development-funds---mdf )    
-
-Select and Open Partners are able to submit MDF requests via the Marketing Page in the Partner Portal. Partners should be reviewing plans with you prior to submitting an MDF request in the Portal to ensure you are aligned with the proposal.  
-
-Partner Logos may be accessed in GitLab Partner Portal in the Asset Library under Marketing.  Logos are segmented so only authorized Select Partners have access to the Select Logo. 
-
-
-## Partner Communications
-
-
-## Partner Flash Newsletter
-
-
-## Overview
-
-Partner Flash is a monthly newsletter that recaps important Partner-related information from the month and highlights important upcoming information. The main goal of this communication is to **help Partners ramp quickly and grow their GitLab business.**
-
-
-## **Target Audience**
-
-The newsletter is sent to authorized users in our Partner community, the list is gathered and updated from the Partner Portal, new users are added or you can self serve by going to [this link.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463) 
-
-
-## Opportunities/Requirements
-
-The newsletter will…
-
-**Uphold our **[values](https://about.gitlab.com/handbook/values/)** of transparency**
-
-
-
-*   The newsletter is for communication, the Handbook is for documentation. This means that the newsletter will disseminate updates but lean on the Handbook (and other relevant resources) as the main source of documentation, linking back to it wherever possible.  Items will also be referenced in the GitLab Partner Portal. 
-
-**Prioritize repetition, brevity, user-friendliness and added value**
-
-
-
-*   The newsletter will focus on short lists and bullet points and will link out to more robust resources.
-*   Repetition is key to adoption. We will encourage our Channel teams to talk about Partner Flash and will remind Partners in our upcoming Partner Webcast series and on the GitLab Partner portal. 
-*   We want Partners to value the newsletter. A key to adoption will be successfully positioning it as THE resource to learn what's new and recap important information. Everything will be tied back to the payoff to the  Partner or seller when possible.
-*   We must reconcile the fact that this newsletter is yet another increase in communication. We will leverage it to cut down on other communications when possible.
-
-**Be fun to look at and read**
-
-
-
-*   A focus on multimedia is important in order to help the newsletter break the monotony of text Partners sift through each day.
-*   We will use images, gifs, emojis, and video where possible. For example, instead of doing a written win-wire, we will interview the individual and embed that 30-60 second video in the newsletter.
-
-**Help the Channel operationalize key messages**
-
-
-
-*   We will organize information around our 3 main value drivers when possible.
-*   We will frequently reiterate Sales and Channel messages through video clips and use-case examples.
-
-**Be an opportunity for the Partner Community to "learn themselves"**
-
-
-
-*   A peripheral goal of the newsletter is to advertise helpful resources to the Partners. We will provide helpful information in hopes that it will encourage them to seek out the source of that information and look for additional information once there.
-
-**Highlight _all_ aspects that make a big win possible**
-
-
-
-*   There are a lot of new Partners and sales reps who are ramping up on GitLab, we want to provide easy to access to information to help them ramp quickly. 
-*   We will include context around partners and alliances when they play a role in a deal.
-
-**Keep the onus on individuals to stay informed**
-
-
-
-*   GitLab is asynchronous, this communication is in place to help provide quick access to relevant topics, the newsletter is not a substitute for the Handbook or other resources salespeople should be leveraging on the day-to-day.
-
-**Be general enough to allow us to remain segment-agnostic**
-
-
-
-*   The newsletter will include general updates and resources that are applicable to most, if not all, Partners.  I
-*   **Be built out in the open**
-*   The newsletter content will be compiled in an issue each month within the [Partner Communication project.](https://gitlab.com/groups/gitlab-com/channel/-/epics/5) Any team member is welcome to contribute or make requests. See more information in the Process section below.
-
-**Uphold our value of "everyone can contribute" – we will measure success and gather Partner feedback often. **
-
-
-
-*   We will measure success using a combination of quantitative and qualitative success metrics. See Measurement section below.
-*   Giving feedback or making requests will be easy, and all input will be considered and addressed.
-*   The team is committed to upholding the value of the newsletter – information should be relevant, feedback should be actioned on, and leadership should help reiterate by pointing to it as a useful resource for their teams.
-
-
-## Format
-
-Based on the requirements above, this is the first iteration of the newsletter format:
-
-
-
-1. Featured
-    *   The announcement we think is most impactful to our Partners he field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references.
-2. Enablement Extras
-    *   Updates on new or updated training + opportunities to reinforce SKO learning objectives. (i.e. Did you know…?/Did you remember that…?) 
-    *   Competitive information 
-    *   Messages from our Leadership teams 
-3. New and noteworthy resources
-    *   Link to that month’s Partner Webcast series 
-    *   GitLab whitepapers, reports or studies that might help a Partner advance an opportunity through the sales cycle. 
-4. Partner Deal of the month  (or Deal of the Month if appropriate to share) 
-    *   Video of sales/CS team member(s) overviewing the opportunity and/or customer and explaining how they won the deal + links to any customer-facing collateral they used (that can be publicly shared).
-5. What's new in GitLab
-    *   The top 3 takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value.
-
-
-## Process
-
-The newsletter is sent out **on the first Thursday of each month after our Partner Webcast series has concluded.** We can adjust delivery based on feedback from the field, holidays or timing of a Partner focused update (pricing).
-
-We build the newsletter in an issue in the [Partner Communication project.](https://gitlab.com/groups/gitlab-com/channel/-/epics/5)The process for the issue includes:
-
-
-
-*   The issue for each month's newsletter is opened at the beginning of each quarter. 
-*   Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline.
-*   Once the outline is complete,  the content is imported  into the newsletter template in MailChimp.
-*   Partner Program Manager sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
-*   Reviewers provide feedback no later than 3 pm MT on the business day before the planned send date to allow time for revisions and scheduling.
-*   Partner Program Manager schedules the newsletter to send on the planned send date.
-*   Once the newsletter goes live, Partner Programs Manager sends a reminder to the field in the #sales, #customer-success and #sdr_global Slack channels
-*   On the Friday following the newsletter send, Partner Program Manager captures the newsletter performance data in the issue and then closes it.
-
-To be added to the newsletter distribution list, [use this signup form.](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463) **Measurement**
-
-Quantitative Success Metrics
-
-
-
-*   Email open rate - Average open rate of 35% in first 6 months.
-*   Click rate - Average click rate of 5% in first 6 months.
-
-Qualitative Success Metrics
-
-
-
-*   Increased engagement from our Partner community/leaders and stakeholders in regards to the newsletter – feedback, requests, suggestions, etc.
-*   Usefulness of newsletter content as shown by other stakeholders using newsletter content for their own work.
-*   Improve the Partner section of the Handbook and the Partner Portal as a result of work on the newsletter.
-
-
-## Past Newsletters
-05/07/2020 - [We're Live! Our First Edition of Partner Flash. ](http://eepurl.com/g2ds61)
-
-06/04/2020 - [Partner Flash  Top Partner Highlights for June](http://eepurl.com/g3JFzn)
-
-07/06/2020 - [GitLab Partner Flash: July Edition](http://eepurl.com/g8hRIT)
-
-08/12/2020- [GitLab Partner Flash: August Edition](https://us19.campaign-archive.com/?u=5a5f55e4e0f03037d96416766&id=188338fd09)
-
-Additional newsletters can be found [here. ](https://us19.campaign-archive.com/home/?u=5a5f55e4e0f03037d96416766&id=2321e18463)
-
-
-
-
-
-
-Additional newsletters can be found [http://eepurl.com/g8hRIT](http://eepurl.com/g8hRIT)
-
 ## Frequently Asked Questions
 
 **Where can I find the Standard Channel Discounts for my Partners?**
-- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)z
+- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)
 
 [Public Sector discount table](https://gitlab.my.salesforce.com/0694M000009YhAcQAK)
 
-**Where can I find more information about our current Partners processes?**
+**Where can I find more information about our current Partner processes?**
 - The current Resellers Handbook can be found [Here](/handbook/resellers/)
 
 **Whats the current Deal Registration Process?**

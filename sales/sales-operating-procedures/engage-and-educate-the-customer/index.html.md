@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Engage & Educate the Customer"
+description: "GitLab sales process for engaging and educating the customer"
 ---
 
 ## On this page
@@ -118,7 +119,7 @@ Your Routes to Market/Territory Plan will help you determine which GitLab resour
 
 At this point, the selected engagement activities should have generated a significant number of leads. It’s now time to sift through those leads and determine which may become opportunities. This requires an initial qualifying meeting and the quality the preparation you take for that meeting can mean the difference in having a deal or losing a deal. The steps that necessary to prepare and execute a successful meeting are:
 
-1. **[Determine your Buyer Persona](/handbook/marketing/product-marketing/usecase-gtm/)** - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
+1. **[Determine your Buyer Persona](/handbook/marketing/strategic-marketing/usecase-gtm/)** - a buyer persona is a fictional representation of your key buyers. This helps you pre-identify obstacles, objections, initiatives, and metrics that are important to your buyer. This step will give you an edge in understanding your customers better than your competition. There are typically 5 buyer personas you may encounter.
     *   Technology Leader
     *   Business Application Leader
     *   Security Leaders
@@ -200,7 +201,7 @@ Below are **DAILY TASKS** you’ll need to perform within Salesforce.
     1.  Set a response time to respond to inbound leads
     1.  Set a number of touches per lead spread out over one month
     1.  Set a number and a variety of email, phone, and social media touches a lead receives
-    1.  Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](/handbook/marketing/product-marketing/usecase-gtm/)** matrix.
+    1.  Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](/handbook/marketing/strategic-marketing/usecase-gtm/)** matrix.
 
 ### Forecasting
 
@@ -219,6 +220,6 @@ Below are the **WEEKLY TASK** you’ll need to perform within Clari. Navigate to
 1. NET 50/50
     *  **Click “NetIACV”, then Click “NET 50/50”.** This field should have the value for what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
-For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/#clari-for-salespeople-instructional-videos)**.
+For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos)**.
 
 Now you are ready to move into the next phase of the sales cycle, **[Facilitating the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)**.
