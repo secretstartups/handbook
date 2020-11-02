@@ -64,7 +64,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Under `Video Controls` toggle on/off the options for your live event.  [See more about customizing the embedded player and adding embed presets](https://vimeo.zendesk.com/hc/en-us/articles/224972808-Customizing-the-embedded-player).
 1. Choose your preferred interaction tool and its respective settings (optional). See [interaction tools](#interaction-tools) for more detail.
 1. Under the `Destinations` tab, select where you will be streaming your live event. Available destinations to stream: Vimeo. [More destinations coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872). Click `Next`. 
-1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: Destinations, [Chat](#chat), [Polls](#polls), [Q&A](#q&a), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
+1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: Destinations, [Chat](#chat), [Polls](#polls), [Q&A](#Q&A), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
 1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner.
 
 ### Stream Health
@@ -72,6 +72,37 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 ### Graphics
 
 ### Q&A
+
+[Live Q&A](https://vimeo.zendesk.com/hc/en-us/articles/360044207351-Live-Q-A) allows you to accept questions, have viewers vote to order questions based on popularity, publish the question to the stream, and ultimately answer them.
+
+#### Setting up Q&A
+
+1. Once you have set up your live event, select `Q&A` from the sidebar menu.
+1. Click `Start Q&A` to open your event up to questions. You can do this before your stream or while you're live. **Note:** You cannot take action on a question until your event is broadcasting. Chat users are notified that they can begin to submit questions through [Live Chat](#chat). Questions they ask will be posted to the Q&A window immediately upon submission. They can also click the thumbs-up icon to vote on questions they like. Under the `Active` tab, questions will populate, which you can sort either by `Recent` or `Popular`.
+
+#### Publishing Questions
+
+1. To answer a question, hover over the question and click `Answer`. A graphic overlay will appear as a lower third with the question automatically. **Note:** You are expected to address the question within the stream; there is no option to type in an answer into the Q&A module. 
+1. You can hide (and re-show) the graphic overlay by clicking `Hide (Show)` in the `Active Questions` list.
+1. When you’ve finished answering the question, click `Archive` to remove the question from the list. You may also archive questions without answering them or publishing them to the stream. If you've archived a question by mistake, you can switch over to the `Archived` tab, hover over the questions and click `Unarchive`. This will put the question back in the `Active` tab.
+
+#### Ending Q&A
+
+1. To end your Q&A session, click `End Q&A` below the list of questions. **Note:** Ending Q&A does not end the [live chat](#chat). Live chat will end as soon as the broadcast ends and will not be available afterward. Once you end the Q&A, you can export a CSV log of the Q&A by clicking `Export` at the top of the page. 
+1. If you're streaming from a recurring event, this button opens a drop-down menu with a list of the date/times of all streams in the last 30 days that you can archive; select `Current event` for the active event.
+
+#### Q&A Export
+
+The CSV includes the following information:
+
+- Name (person who asked it / anonymous)
+- The question
+- Time submitted
+- Number of upvotes
+- Answered (yes/no)
+- Archived (yes/no)
+- Approved (yes/no/N/A)
+- Q&A number (if you held multiple Q&A sessions within one stream, i.e. you started a Q&A, then ended it, then started it again prior to ending your broadcast; this lets you know if the question was asked during which Q&A session during the course of the stream).
 
 ### Polls
 
