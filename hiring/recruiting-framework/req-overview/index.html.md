@@ -210,6 +210,3 @@ If the candidate declines GitLab's offer, the Recruiter will tag the CES team in
 ### **Step 11: Contract**
 Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
 
-If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. 
-
-The CES team will then make sure the People Experience team and the People Group Engineer is aware that the new hire will no longer be starting so that they can handle all steps on their end. 
