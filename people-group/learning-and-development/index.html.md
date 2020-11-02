@@ -281,6 +281,15 @@ If you are developing training, add learning objectives to the beginning of the 
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 
+### Instructional Design 101
+
+The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) team hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content. 
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
 ## Learning Management Systems
 
 We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/). More details to come in the next few months! 
