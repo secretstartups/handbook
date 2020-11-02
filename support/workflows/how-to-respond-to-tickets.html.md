@@ -169,6 +169,12 @@ Whatever you learn, make sure that you're constantly bubbling it up and broadcas
 - When troubleshooting: use the docs.
 - If something is missing: update the docs.
 
+#### Highlighting docs and handbook links on our support portal
+At times, we might want to highlight a GitLab document or a handbook article on our support portal page. We have the facilities to create a redirect article in Zendesk and associate certain keywords with this link (while pointing to the relevant doc or handbook link). During the creation of a support ticket, this article will pop up if the keywords mentioned above are used in the ticket subject, allowing the customer to see the answer to their question before submitting the support ticket.
+
+Currently we are curating the list of articles and redirects, so you need to reach out to Support-Ops or the managers to iterate on the (list of) articles.
+
+
 ### Openly share your mistakes and learn from them
 
 We are all human and while we all strive to ensure our interactions with customers
