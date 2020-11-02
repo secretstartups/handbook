@@ -156,15 +156,6 @@ In rare cases, we may rescind our offer before a candidate signs the contract. W
 1. Void the contract in DocuSign utilizing the same communication that was emailed.
 1. Reject the candidate in Greenhouse. Be sure to select 'Reject and Don't Send Email.'
 
-### How to Unhire a Candidate After Contract is Signed
-
-In rare cases, candidates may reject our offer after they have signed the contract.  If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
-1. Unhire the candidate in Greenhouse.
-1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
-1. Cancel any scheduled emails in Greenhouse.
-1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important. 
-1.  If they were hired via a PEO, inform the contact person of this change immediately, ideally before onboarding starts.
-
 ### How to Resend a Contract After Being Marked as Hired
 
 There are certain times when a contract needs to get resent to the candidate after they have been hired into the system, should that happen. Follow the steps below: 
