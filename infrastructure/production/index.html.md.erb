@@ -227,14 +227,14 @@ For some incidents, we may figure out that the usage patterns that led to the is
 
 ### Summary of Backup Strategy
 
-- Backups of our databases are taken every 24 hours with continuous incremental data (at 60 sec intervals) streaming into a separate cloud service from the production fleet. These backups are encrypted.
+- Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service, paralelly. These backups are of course encrypted.
 - Our current backup policy is the following:
-  - For 14 days we keep the backups in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS.
+  - Initial 14 days: we keep the backups in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS.
   - After 14 days our backup is moved to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class in GCS.
   - After 40 days our backup is moved to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS.
   - After 120 days our backups are deleted.
 
-- Backups of our filesystems are taken via GCP snapshots every 4 hours.
+- Additionally, backups of our filesystems are taken via GCP snapshots every 4 hours.
 - Our current snapshot retention policy is 30 days.
 
 
