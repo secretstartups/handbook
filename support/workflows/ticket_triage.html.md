@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Triaging Tickets
+description: "A walk through of some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk."
 category: Handling tickets
 ---
 
