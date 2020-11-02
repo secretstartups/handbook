@@ -19,8 +19,8 @@ This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses).
 
 1. Favorite Book: [High Output Managemnt](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_3?dchild=1&hvadid=78065379167018&hvbmt=be&hvdev=c&hvqmt=e&keywords=high+output+management+book&qid=1603985339&sr=8-3&tag=mh0b-20) 
 1. Preferred Learning Style: Read/Write
-1. Role Mode;(s): Amazon (AWS), SpaceX 
-1. What are you doing to grow?: has coaches, board performance review, read books, ask a lot of questions 
+1. Role Model(s): Amazon (AWS), SpaceX 
+1. What are you doing to grow?: has coaches, utilizes his board performance review, reads books, asks a lot of questions 
 1. Check out the [Leadership Page](/handbook/leadership/) 
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
