@@ -34,7 +34,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-<img src="images/Channel Service Program/gitlab-professional-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+![GitLab Certified Proefessional Services Partner]](images/Channel Service Program/gitlab-professional-services-partner.png)
 
    </td>
    <td style = "text-align: center">
