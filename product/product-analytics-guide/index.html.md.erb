@@ -9,3 +9,275 @@ title: Product Analytics Guide
 {:toc .hidden-md .hidden-lg}
 
 # Product Analytics Guide
+
+At GitLab, we collect product usage data for the purpose of helping us build a better product. Data helps GitLab understand which parts of the product need improvement and which features we should build next. Product usage data also helps our team better understand the reasons why people use GitLab. With this knowledge we are able to make better product decisions.
+
+There are several steps involved to go from collecting data to making it useful for our internal teams and customers.
+
+1) Privacy Policy and Settings
+
+```mermaid
+graph LR
+	privacy_policy[Privacy Policy] --> data_classification_policy[Data Classification Policy]
+	data_classification_policy[Data Classification Policy] --> privacy_settings[Privacy Settings]
+```
+
+2) Data Collection
+
+```mermaid
+graph LR
+	collection_framework[Collect Framework] --> event_dictionary[Event Dictionary]
+	event_dictionary[Event Dictionary] --> instrumentation[Instrumentation]
+	instrumentation[Instrumentation] --> release_cycle[Release Cycle]
+	release_cycle[Release Cycle] --> events_fired[Events Fired]
+	events_fired[Events Fired] --> usage_ping_generated[Usage Ping Generated]
+```
+
+3) Processing Pipeline
+
+```mermaid
+graph LR
+    analytics_collectors[Analytics Collectors] --> data_imports[Data Imports]
+	data_imports[Data Imports] --> data_warehouse[Data Warehouse]
+	data_warehouse[Data Warehouse] --> data_modelling[Data Modelling]
+```
+
+4) Enable Product Teams with Product Analytics
+
+```mermaid
+graph LR
+	sisense_dashboard[Sisense Dashboard] --> performance_indicators[Performance Indicators]
+	performance_indicators[Performance Indicators] --> pi_target[PI Target]
+	pi_target[PI Target] --> pi_reviews[PI Reviews]
+	pi_reviews[PI Reviews] --> improve_product[Improve Product]
+```
+
+5) Enable Sales and Customer Success Teams with Product Analytics
+
+```mermaid
+graph LR
+	salesforce_data_feed[Salesforce Data Feed] --> salesforce_dashboard[Salesforce Dashboard]
+	salesforce_dashboard[Salesforce Dashboard] --> gainsight_dashboard[Gainsight Dashboard]
+	gainsight_dashboard[Gainsight Dashboard] --> customer_conversations[Customer Conversations]
+```
+
+6) Enable Full Funnel Analytics
+
+```mermaid
+graph LR
+	marketing_data[Marketing Data] --> product_data[Product Data]
+	product_data[Product Data] --> fulfillment_data[Fulfillment Data]
+	fulfillment_data[Fulfillment Data] --> sales_data[Sales Data]
+	sales_data[Sales Data] --> customer_success_data[Customer Success Data]
+	customer_success_data[Customer Success Data] --> full_funnel_analysis[Full Funnel Analysis]
+```
+
+7) Make Product Analytics Data Useful For Customers
+
+```mermaid
+graph LR
+	value_stream_data_feed[Value Stream Data Feed] --> value_stream_features[Value Stream Features]
+```
+
+8) Customer Product Analytics Feature
+
+**Teams Involved**
+
+We work closely with other internal teams in each step in the Product Analytics Process. The teams involved at each step are:
+
+| Step                          | Description                                                                                            | Teams Involved                                                                                    |
+|-------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Privacy Policy                | Outlines what product usage data we collect from our users.                                            | Legal, Product Analytics, Data                                                                    |
+| Data Classification Policy    | Outlines our data classification levels based on sensitivity.                                          | Legal, Security, Product Analytics, Data                                                          |
+| Privacy Settings              | In app settings for users to control what data they share with GitLab.                                 | Legal, Product Analytics, Data                                                                    |
+| Collection Framework          | Outlines our available data collection tools.                                                          | Product Analytics                                                                                 |
+| Event Dictionary              | A single source of truth defining all product metrics and events.                                      | Product Managers, Product Analytics                                                               |
+| Instrumentation               | Instrumentation of feature tracking done by each product and engineering team.                         | Product Managers, Product Analytics                                                               |
+| Release Cycle                 | The release of GitLab code. We have daily releases for SaaS and monthly releases for self-managed.     | Product Managers, Product Analytics                                                               |
+| Product Usage                 | The use of the product by users.                                                                       | Product Managers, Product Analytics                                                               |
+| Usage Ping Generation         | A weekly job that aggregates and sends product usage data to GitLab.                                   | Product Analytics                                                               |
+| Collectors                    | The collection of Snowplow and Usage Ping data.                                                        | Product Analytics, Data                                                                           |
+| Processors                    | The processing of Usage Ping data.                                                                     | Product Analytics, Data                                                                           |
+| Enrichers                     | The enrichment of Snowplow data.                                                                       | Product Analytics, Data                                                                           |
+| Extractors                    | The extraction of Usage Ping and Snowplow data sources.                                                | Product Analytics, Data                                                                           |
+| Loaders                       | The loading of Usage Ping and Snowplow data into the data warehouse.                                   | Product Analytics, Data                                                                           |
+| Snowflake Data Warehouse      | Where our product usage data is stored.                                                                | Product Analytics, Data                                                                           |
+| dbt Data Model                | How we transform raw data into a data structure that's ready for analysis.                             | Product Analytics, Data                                                                           |
+| Sisense Dashboards            | The building of Sisense dashboards.                                                                    | Product Managers, Product Analytics, Data                                                         |
+| Performance Indicators        | The product metrics GitLab's product team pays attention to.                                           | Product Managers, Product Analytics, Data                                                         |
+| Metrics Reviews               | Monthly reviews of GitLab's product metrics.                                                           | Product Managers, Product Analytics, Data                                                         |
+| Product Improvements          | Make product improvements based on product usage data.                                                 | Product Managers                                                                                  |
+| Salesforce Data Feed          | Data feed of product usage data into sales systems.                                                    | Sales, Customer Success, Product Analytics, Data                                                  |
+| Salesforce Dashboards         | Dashboard embeded into each Salesforce Customer showing product usage.                                 | Sales, Customer Success, Product Analytics, Data                                                  |
+| Gainsight Dashboards          | Dashboard embeded into each Gainsight Customer showing product usage.                                  | Sales, Customer Success, Product Analytics, Data                                                  |
+| Customer Conversations        | Better customer conversrations using product usage data.                                               | Sales, Customer Success                                                                           |
+| Marketing Data                | Marketing data sources such as Google Analytics and Marketo.                                           | Marketing, Product Analytics, Data, Enterprise Applications                                       |
+| Product Data                  | Product data sources such as GitLab.com Postgres, Usage Ping data, and Snowplow data.                  | Product Analytics, Data, Enterprise Applications                                                  |
+| License and Subscription Data | License and subscription data sources such as Customers app, LicenseDot, and Zuora data.              | Fulfillment, Product Analytics, Data, Enterprise Applications                                     |
+| Sales Data                    | Sales data sources such as Salesforce.                                                                 | Sales, Product Analytics, Data, Enterprise Applications                                           |
+| Customer Success Data         | Customer Success data sources such as Gainsight.                                                       | Customer Success, Product Analytics, Data, Enterprise Applications                                |
+| Full Funnel Analysis          | The integration of all Marketing, Product, License and Subscription, Sales, and Customer Success Data. | Marketing, Fulfillment, Sales, Customer Success, Product Analytics, Data, Enterprise Applications |
+| Value Stream Data Feed        | A data feed for passing benchmark product usage data back to customers.                                | Manage, Product Analytics                                                                         |
+| Value Stream Features         | Features to show customers how they're using GitLab.                                                   | Manage, Product Analytics                                                                         |
+
+[Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
+
+## Collection Framework
+
+![](collection_framework_fy21_q4_future.png)
+
+✅ Available, 🔄 In Progress, 📅 Planned, ✖️ Not Planned
+
+[Source file](https://docs.google.com/spreadsheets/d/1e8Afo41Ar8x3JxAXJF3nL83UxVZ3hPIyXdt243VnNuE/edit#gid=0)
+
+1. Plan-level reporting for Usage Ping Redis on SaaS for multi-tenant reporting
+1. Plan-level and Group-level reporting for Usage Ping Postgres on SaaS for multi-tenant reporting
+1. Usage Ping Snowplow on Self-Managed (using internal collector and database for moderate volume)
+1. Group-level, Project-level, User-level tracking for Snowplow on SaaS
+1. Usage Ping Snowplow on SaaS (using external collector and database for scaled up volume)
+
+## Implementing Product Metrics
+
+We've recently had a large push across the product organization to become more data driven. Part of this push includes getting product metrics in place for each product section, stage, and group. In FY21-Q3 OKRs, we setup a couple of OKRs to help us accomplish this:
+- [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
+- [100% of stages have Future SMAU and Paid SMAU with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1343).
+
+To accomplish these OKRs, we setup a seven step process to implement product metrics. This process was originally presented in the Weekly Product Meeting on August 11, 2020 ([slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [video presentation](https://youtu.be/1l1ru7k-q2I?t=375)) and has been refined over time. 
+
+| Implementation Status | Description | Responsibility | Exit Criteria | 
+| ------ | ----------- | -------------- |-------------- |
+| [Definition](#definition) | The definition step outlines the process for deciding which product metrics to track. | PM Responsibility, Product Analytics Support | Metric is defined in the Event Dictionary and [in the Performance Indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) with the future `metric_name`. Issue for instrumentation is completed and scheduled for the current release. | 
+| [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Analytics Support | Instrumentation is completed and feature flags are turned off so that data can be collected | 
+| [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Analytics Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product_analytics/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed usage ping implementation, check the #g_product_analytics slack channel for the latest SaaS Usage Ping Payload. | 
+| [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Analytics Support | There is a chart in Sisense. |
+| [Handbook](#handbook) | The handbook PI page describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Analytics Support | Chart is embedded into the handbook. Target has been assigned based off the data. | 
+| [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Analytics Support | The target value is in both the chart and in the Performance Indicator (PI) file. | 
+| [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Analytics Support | :tada: |
+
+
+### 1. Definition
+
+Determine what metrics are important for your specific section, stage, or group.
+
+**Instructions:**
+
+1. Determine the level at which the metric should be measured:
+    1. All product level - TMAU, Paid TMAU
+    1. Stage level - SMAU, Paid SMAU, Other PI
+    1. Group level - GMAU, Paid GMAU, Other PI
+1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
+1. Determine the right [collection framework](/direction/product-analytics/#collection-framework) to utilize. Some guidance for considering collection frameworks:
+  * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
+   * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
+   * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javasciprt) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
+   * **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts. 
+   * **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
+1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
+1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
+
+### 2. Instrumentation
+
+Work with your engineering team to instrument tracking for your XMAU. Focus on using Usage Ping as your metrics will be available on both SaaS and self-managed.
+
+The [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html) outlines the steps required for instrumentation. It includes:
+
+- [What is Usage Ping?](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#what-is-usage-ping)
+- [How Usage Ping works](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#how-usage-ping-works)
+- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#implementing-usage-ping)
+- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#developing-and-testing-usage-ping)
+- [Example Payload](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#example-usage-ping-payload)
+
+Also see the [Product Analytics Guide](https://docs.gitlab.com/ee/development/product_analytics/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html).
+
+**Instructions:**
+
+1. Read the docs and work with your engineers on instrumentation.
+1. Ask for a [Product Analytics Review](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#8-ask-for-a-product-analytics-review) in your MR.
+
+### 3. Data Availability
+
+Plan instrumentation with sufficient lead time for data availability. Ensure your metrics make it into the self-managed release as early as possible.
+
+**Timeline:**
+
+1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
+1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
+1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/product-analytics/-/issues/398) (bringing this down to +1 day instead).
+
+In total, plan for up to 51 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
+
+**Instructions:**
+
+1. Merge your metrics into the next self-managed release as early as possible.
+1. Wait for your metrics to be released onto production GitLab.com. These releases currently happen on a daily basis.
+1. Usage Pings are generated on GitLab.com on a weekly basis. Monitor the #g_product_analytics slack channel where the Product Analytics team will post the latest GitLab.com Usage Ping ([example](https://gitlab.slack.com/files/ULXG09FAL/F01905UPPL0/12-gitlab.com-usage-data-for2020-08-04.json?origin_team=T02592416&origin_channel=CL3A7GFPF)). Verify your new metrics are present in the GitLab.com Usage Ping payload.
+1. Wait for the Versions database to be imported into the data warehouse.
+1. Check the dbt model [version_usage_data_unpacked](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.version_usage_data_unpacked#columns) to ensure the database column for your metric is present.
+1. Check [Sisense](http://app.periscopedata.com/app/gitlab/) to ensure data is available in the data warehouse.
+
+### 4. Dashboard
+
+Dashboard the metric. This is done by creating a Sisense dashboard. Avoid cumulative views and instead focus on month-over-month growth. Instructions for creating dashboards are here.
+
+We need PMs to self-serve their own dashboards as data team capacity is limited. The data team will be focused on enabling self-service, advising PMs, and working on the more challenging XMAU dashboards.
+
+To learn how to create your own dashboard, see [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
+
+To update the SMAU Summary Dashboards: [GitLab.com Postgres SMAU Dashboard (SaaS)](https://app.periscopedata.com/app/gitlab/604621/GitLab.com-Postgres-SMAU) and [Usage Ping SMAU Dashboard (SaaS + Self-Managed)](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard), please open a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues).
+
+**Dashboard Prioritization**
+
+For GMAU and SMAU data issues:
+
+- In Q3, due to very limited data team capacity, the data team capacity will be reserved primarily for GMAU and SMAU.
+    - Please add `XMAU` label to the data issues.
+    - Please limit the ask to XMAU only, rather than all the supporting metrics.
+- If there is still need to prioritize within GMAU issues, we will work with Scott and Section Leaders on the prioritization.
+    - Section Leaders are encourage to [rank XMAU Issues](https://gitlab.com/gitlab-data/analytics/-/issues/5664#note_392529098) on the [Product Section Board](https://gitlab.com/gitlab-data/analytics/-/boards/1921369?label_name%5B%5D=Product).
+
+For non-GMAU and non-SMAU data issues:
+
+- In Q3, the data team will have very limited capacity to support non-GMAU and non-SMAU data requests.
+    - Please continue to create data issues and label Data issues with the appropriate [Product Section Label](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=section).
+- If there are critical or urgent data asks, please @hilaqu and your section leader in the issue, with an explanation of why. We will evaluate them on a case-by-case basis.
+
+**Instructions:**
+
+1. Read through [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
+1. Self-serve your dashboard
+1. If you need help, create a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues) and ask your Section Leader to prioritize.
+
+### 5. Handbook
+
+There are five Product PI pages: The [Product Team page](https://about.gitlab.com/handbook/product/performance-indicators/) and section pages for [Dev](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/), [Ops](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/), [Secure & Protect](https://about.gitlab.com/handbook/product/secure-and-protect-section-performance-indicators/), [Enablement](https://about.gitlab.com/handbook/product/enablement-section-performance-indicators/).
+
+We need all PMs to ensure their PIs are showing on the performance indicator pages. Based off [What we're aiming for](#what-were-aiming-for)
+
+To do so, we need a clear way to communicate to PMs exactly which PIs are remaining. We will be [adding placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906) into the [performance indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) so that all required PIs show in the handbook. Once a PI is implemented, the actual PI will replace the placeholder PI.For more information about how PIs and XMAUs are related to one another, see [PI Structure](https://about.gitlab.com/handbook/product/performance-indicators/#structure).
+
+**Instructions:**
+
+1. @jeromezng @kathleentam will [add placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906).
+1. @jeromezng @kathleentam will then meet with each Section, Stage, and Group, to understand the implementation status of each PI and document any exceptions. Exceptions for PIs will then be signed off by Scott, Anoop, and the Section Leaders.
+1. Keep your [performance indicator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) up to date as the implementation status changes.
+
+### 6. Target
+
+As a product organization, we need to get into the habit of understanding our baselines and setting targets for each stage & group. For the PI Target step, you will work with your Section or Group Leader to define targets for each of your XMAUs.
+
+Set a growth target, and embed in the tracking dashboard. Growth targets should be ambitious but achievable.
+
+**Instructions:**
+
+1. Work with your Section or Group Leader to define a target.
+1. Add the Target Line into your dashboard ([example](https://app.periscopedata.com/app/gitlab/527913/Product-KPIs?widget=8490496)).
+1. If you need help, book a meeting with @jeromezng @kathleentam.
+
+### 7. Complete
+
+All of the prior steps have been completed and a PI is successfully implemented.
+
+**Instructions**
+1. Continually monitor your results, and refine your priorities based on results.
+1. Line up your roadmap priorities to positively influence the adoption funnel, drive the performance metric, and hit the growth targets.
+1. Deeply understand the drivers of your metric through customer interviews and other product usage data. Visualize this through a user adoption funnel that describes how users enjoy the value of the particular product area you are measuring.
