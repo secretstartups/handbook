@@ -14,7 +14,7 @@ At GitLab, we collect product usage data for the purpose of helping us build a b
 
 There are several steps involved to go from collecting data to making it useful for our internal teams and customers.
 
-### 1) Privacy Policy and Settings
+**1. Privacy Policy and Settings**
 
 ```mermaid
 graph LR
@@ -22,7 +22,7 @@ graph LR
 	data_classification_policy[Data Classification Policy] --> privacy_settings[Privacy Settings]
 ```
 
-### 2) Data Collection
+**2. Data Collection**
 
 ```mermaid
 graph LR
@@ -33,7 +33,7 @@ graph LR
 	product_usage[Product Usage] --> usage_ping_generated[Usage Ping Generated]
 ```
 
-### 3) Processing Pipeline
+**3. Processing Pipeline**
 
 ```mermaid
 graph LR
@@ -60,7 +60,7 @@ graph LR
 	finance_data_models[Finance Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
 ```
 
-### 4) Enable Product Teams
+**4. Enable Product Teams**
 
 ```mermaid
 graph LR
@@ -72,7 +72,7 @@ graph LR
 	metrics_reviews[Metrics Reviews] --> improve_product[Improve Product]
 ```
 
-### 5) Enable Sales and Customer Success
+**5. Enable Sales and Customer Success**
 
 ```mermaid
 graph LR
@@ -82,7 +82,7 @@ graph LR
 	gainsight_dashboards[Gainsight Dashboards] --> customer_conversations[Customer Conversations]
 ```
 
-### 6) Enable Full Funnel Analytics
+**6. Enable Full Funnel Analytics**
 
 ```mermaid
 graph LR
@@ -101,7 +101,7 @@ graph LR
 	full_funnel_analysis[Full Funnel Analysis] --> customer_journey_analytics[Customer Journey Analytics]
 ```
 
-### 7) Enhance Value Stream Management Feature
+**7. Enhance Value Stream Management Feature**
 
 ```mermaid
 graph LR
@@ -305,7 +305,6 @@ We're currently focusing our Event Dictionary on [Usage Ping](usage_ping.md). In
 ### Planned metrics and events
 
 For future metrics and events you plan to track, please add them to the Event Dictionary and note the status as `Planned`, `In Progress`, or `Implemented`. Once you have confirmed the metric has been implemented and have confirmed the metric data is in our data warehouse, change the status to **Data Available**.
-## Implementing Product Performance Indicators
 
 ## Implementing Product Performance Indicators
 
@@ -453,3 +452,15 @@ All of the prior steps have been completed and a PI is successfully implemented.
 1. Line up your roadmap priorities to positively influence the adoption funnel, drive the performance metric, and hit the growth targets.
 1. Deeply understand the drivers of your metric through customer interviews and other product usage data. Visualize this through a user adoption funnel that describes how users enjoy the value of the particular product area you are measuring.
 
+## Quick Links
+
+| Resource                                                                                                                          | Description                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Product Analytics Guide](/handbook/product/product-analytics-guide)                                                                              | A guide to Product Analytics                   |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)                                              | An implementation guide for Usage Ping                    |
+| [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html)                                                  | An implementation guide for Snowplow                      |
+| [Event Dictionary](/handbook/product/product-analytics-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
+| [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
+| [Implementing Product Performance Indicators](/handbook/product/product-analytics-guide#implementing-product-performance-indicators)                                   | The workflow for putting product performance indicators in place   |
+| [Product Analytics Direction](/direction/product-analytics/)                                                                              | The roadmap for Product Analytics at GitLab                       |
+| [Product Analytics Development Process](/handbook/engineering/development/growth/conversion-product-analytics/) | The development process for the Product Analytics groups         |
