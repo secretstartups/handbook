@@ -282,15 +282,8 @@ To start the Solution Validation phase, the Product Designer or Product Manager 
 
 | 🔎Outcomes | Activities | DRI |
 | ---| --- | --- |
-| High confidence in the proposed solution | - Interview customers. <br> - Interview the issue originator. <br> - Perform usability testing. <br> - Perform the [Solution Validation Process](/handbook/engineering/ux/ux-research/#solution-validation-1). | Product Designer |
-| Solution validation documentation | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br> - Update the opportunity canvas with the insights. <br> - Update issue or epic description to contain the findings.| Product Designer |
-
-#### <kbd class="required">Required 🔎</kbd> Outcomes
-
-**High confidence in the proposed solution** - activities have been performed which demonstrate the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution.
-
-**Solution validation documentation** - The documentation regarding the validation of the proposed solution has been collected in the appropriate places, and included at an appropriate level within the issue / epic description to maintain a single source of truth.
-
+| <kbd class="required">Required 🔎</kbd> **High confidence in the proposed solution** - activities have been performed which demonstrate the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution. | - Interview customers. <br> - Interview the issue originator. <br> - Perform usability testing. <br> - Perform the [Solution Validation Process](/handbook/engineering/ux/ux-research/#solution-validation-1). | Product Designer |
+| <kbd class="required">Required 🔎</kbd> **Solution validation documentation** - The documentation regarding the validation of the proposed solution has been collected in the appropriate places, and included at an appropriate level within the issue / epic description to maintain a single source of truth. | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br> - Update the opportunity canvas with the insights. <br> - Update issue or epic description to contain the findings.| Product Designer |
 
 ## Review track (optional*)
 
