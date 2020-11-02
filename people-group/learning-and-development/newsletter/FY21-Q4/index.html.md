@@ -115,7 +115,7 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/pe
    * Learn more about the speaker: [Dr. Jeb Hurley](https://docs.google.com/presentation/d/1zyRgYcq3s1esbZ4gTNnqvoEjjFdjOp1EI8-YRBlC2_0/edit#slide=id.ga637fcc0e9_0_145) 
    * An invite was sent to all GitLab Team Members from the GitLab Team Meetings calendar. 
 * 2020-12-01: DIB Certification
-* 2020-12-XX: Learning Speaker Series - Managing Mental Health & Burnout
+* 2020-12: Learning Speaker Series - Managing Mental Health & Burnout
    * An invite will be sent from the GitLab Team Meetings calendar when the date is finalized. 
 * Anything else?  
 
