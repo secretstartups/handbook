@@ -135,72 +135,7 @@ Based on team responsibilities, the following objectives apply:
   be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need
   to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
 
-## Primary Projects
-
-[omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) - This project creates platform-specific, self-contained GitLab packages and images for self-managed consumption in cloud environments and on-premisis hosting.
-
-### Omnibus GitLab project's product outputs
-
-```mermaid
-graph TD
-  subgraph code
-  OG --> PKG
-  PKG --> DOI
-  PKG --> AMI
-  PKG -.-> GOR
-  end
-
-  subgraph deploy
-  DOI --> DOK
-  DOK --> DOC
-  AMI --> AWS
-  GOR --> GCP
-  GOR -.-> |Future|AWS
-  GOR -.-> |Future|VMW
-  end
-
-  OG[Omnibus GitLab]
-  PKG[[Linux Package]]
-  DOI[[Container Image]]
-  DOK(Docker)
-  DOC(Docker Compose)
-  AMI[[Amazon Machine Image]]
-  GOR[GitLab Orchestrator]
-  AWS(AWS)
-  GCP(Google Cloud Platform)
-  VMW(VMWare)
-```
-
-### Cloud Native
-
-GitLab's cloud native solutions span a collection of image, Helm chart and Operator projects to deploy and manage GitLab on container platforms including Kubernetes and OpenShift.
-
-## Cloud Native GitLab project's product outputs
-
-```mermaid
-graph TD
-  subgraph code
-  CNG --> HC
-  HC -.- |PoC|GOP
-  CNG --> GOP
-  end
-
-  subgraph Deploy
-  GOP --> OS
-  GOP --> K8s
-  CNG --> DC
-  HC --> K8s
-  end
-
-  CNG[Cloud Native GitLab containers]
-  HC[Helm Chart]
-  K8s(Kubernetes)
-  GOP[GitLab Operator]
-  OS(OpenShift)
-  DC(Docker Compose)
-```
-
-## All Projects
+### Projects
 
 | Name | Location | Description |
 | -------- | -------- |
