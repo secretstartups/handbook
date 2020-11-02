@@ -16,7 +16,7 @@ The [People Experience Associate](/job-families/people-ops/people-experience-ass
 
 ### Notice of Offboarding
 
-The offboarding process kicks off once a Slack Workflow has been submitted by a People Business Partner (PBP) in the closed offboarding channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable.
+The offboarding process kicks off once a Slack Workflow has been submitted by a People Business Partner (PBP) in the closed offboarding channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable. `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner. 
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.  
 
