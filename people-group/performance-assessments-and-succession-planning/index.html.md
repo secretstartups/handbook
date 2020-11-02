@@ -226,18 +226,22 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2020-11-02: First version of the Performance/Potential matrix tool ready
 * 2020-11-02: Kick off formal assessment period
 * 2020-11-04: Performance Factors Training for all team members (2 sessions 8:30am PST and 5pm pST)
-* 2020-11-30 Performance/potential matrix is completed company wide
+* 2020-11-25: Performance/potential matrix is completed company wide and the assessment tool is closed to managers
 
 *December*
+* 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
 * 2020-12-04: Performance rating finalized for all team members and approved through the e-group level
-* 2020-12-04: Communication training and guidance shared with managers
-* 2020-12: Performance axis results communicated with team members
+* 2020-12-14: Communication training and guidance shared with managers
+* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
 *January*
-* 2020-01: Manager review will open in Compaas for managers to advise on dollar amounts for increase (guided by Performance Factor results)
+* 2021-01-29: Final day to for managers to communicate Performance Factor result to team members
+* 2021-01: Manager review will open in Compaas for managers to advise on dollar amounts for increase (guided by Performance Factor results)
 
 *February*
-* 2020-02: Annual compensation review changes are effective February 1, 2021
+* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2020-02-15 so managers have an opportunity to commuicate prior)
+* 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
+* 2021-02-15: Salary increases visible to team members in BambooHR
 
 ### Matrix Assessment Timeline 
 
