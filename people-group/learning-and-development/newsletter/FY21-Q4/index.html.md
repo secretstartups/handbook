@@ -134,11 +134,10 @@ Are you having a hard time finding or making time for learning? The Potentiality
 
 ## Other Enablement Initiatives
 
-* Check out the monthly [Field Flash Newsletter](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
+* Check out the monthly [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
 * The Diversity, Inclusion, & Belonging Team launched a newsletter last week. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
 * The [#mental_health_aware](https://app.slack.com/client/T02592416/C834CM4HW/thread/C834CM4HW-1604325012.091700) Slack channel is organizing a bi-monthly call to connect about mental health awareness. Check out their Slack channel for announcements about the next call!
-
-* [Walk and Talk Calls](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) are a great way for teams to stay active during the day and build trust during calls. Consider bringing this call format up with your team!
+* [Walk and Talk Calls](/handbook/communication/#walk-and-talk-calls) are a great way for teams to stay active during the day and build trust during calls. Consider bringing this call format up with your team!
 
 ## Discussion 
 
