@@ -306,4 +306,3 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 ### Sales Qualified Lead (SQL)
 
 [Sales Qualified Lead](/handbook/business-ops/resources/#customer-lifecycle)
-
