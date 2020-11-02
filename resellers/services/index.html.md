@@ -273,7 +273,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 
 
 <br><img src="/images/channel-service-program/pencil.png" width="" alt="alt_text" title="">
-Partner L&D Services
+<br>Partner L&D Services
 
       </td>
       <td>
