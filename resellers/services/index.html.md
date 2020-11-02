@@ -77,12 +77,14 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-*   Implementation 
-*   Migration 
-*   Assessments & Audits
-*   Infrastructure as Code/GitOps
-*   DevSecOps 
-*   Optimization & Transformation
+*  Assessment
+*  Migration
+*  Integration
+*  Implementation
+*  Education
+*  Optimization
+*  Managed/hosted services
+*  Security/compliance
 
 Becoming an authorized GitLab partner is the first step to becoming a Certified Service Partner and allows you to engage with the GitLab sales team and resell or refer GitLab products to your customers. Partners can achieve the GitLab Service Partner Program badges in addition to their program status to differentiate through their service offerings and unlock both financial and non-financial incentives as they achieve Certified Service Partner Badges.
 
@@ -154,15 +156,15 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 <br>
-<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
-GitLab Software
+<br><img src="/images/channel-service-program/gitlab.png" width="" alt="" title="GitLab">
+<br>GitLab Software
 
 <br>    +
 
 
 
-<br><img src="/images/channel-service-program/cycle.png" width="" alt="alt_text" title="image_tooltip">
-DevOps Services
+<br><img src="/images/channel-service-program/cycle.png" width="" alt="" title="">
+<br>DevOps Services
 
       </td>
       <td>
@@ -182,14 +184,14 @@ DevOps Services
 <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Managed Services Engineers</a> 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Professional Service Engineer</a> 
 
-<br>in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+<br>in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following <a href="https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis">Time-to-Value KPIs</a> that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
 
       </td>
       <td>
 <br>
 <br>
 <br>
-<br><img src="/images/channel-service-program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="/images/channel-service-program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="">
 
 
       </td>
@@ -198,7 +200,7 @@ DevOps Services
 
 
 <br>
-<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="GitLab">
 <br>GitLab Software
 
 <br>    +
@@ -207,7 +209,7 @@ DevOps Services
 
 
 
-<br><img src="/images/channel-service-program/software-development-lifecycle_original-manage-46px.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="/images/channel-service-program/software-development-lifecycle_original-manage-46px.png" width="" alt="alt_text" title="">
 <br>Managed Services
 
       </td>
@@ -251,7 +253,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 <br>
 <br>
 <br>
-<br><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="" alt="alt_text" title="">
 
 
       </td>
@@ -260,8 +262,8 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 
 
 <br>
-<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="image_tooltip">
-<a href="https://about.gitlab.com/services/education/">GitLab Ed Services</a> 
+<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="GitLab">
+<br><a href="https://about.gitlab.com/services/education/">GitLab Ed Services</a> 
 
 <br>      +
 
@@ -270,7 +272,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 
 
 
-<br><img src="/images/channel-service-program/pencil.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="/images/channel-service-program/pencil.png" width="" alt="alt_text" title="">
 Partner L&D Services
 
       </td>
