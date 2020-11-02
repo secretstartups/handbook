@@ -69,7 +69,7 @@ We would like to introduce you to our L&D Team!
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7oZf3KL_AAAblfZEs1WkivFVupxF5HtkUDgANQbsi4OzkHyM1cbaVgEGQ6WugvhloX9JwfS0slxYr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-If you would like to learn more about L&D at GitLab, visit our [handbook page](/handbook/people-group/learning-and-development/). If you would like to learn more about our L&D team members, take a look below. 
+If you would like to learn more about L&D at GitLab, visit our [handbook page](/handbook/people-group/learning-and-development/). 
 
 Each quarter we will feature a different team and what they do here at GitLab. 
 
