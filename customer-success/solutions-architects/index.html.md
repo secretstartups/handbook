@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Solutions Architects Handbook
+description: "Solutions Architects (SA) are the trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}

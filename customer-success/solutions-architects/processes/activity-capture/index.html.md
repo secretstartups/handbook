@@ -1,6 +1,9 @@
 ---
 layout: handbook-page-toc
 title: Solutions Architecture Activity Capture
+description: >-
+  Solutions Architects record all customer and prospect activity to promote
+  transparency and collaboration
 ---
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
@@ -33,16 +36,16 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 ### Logging an Activity
 
 - There are multiple ways to log your activity with Troops ([Log an Activity Video](https://www.youtube.com/watch?v=zRxUJSjujUk&feature=youtu.be))
-    - After meetings with a prospect/customers you will be prompted in the Slack Troops application to `Log a Call` for the activity (easiest method)
+    - After meetings with a prospect/customers, you will be prompted in the Slack Troops application to `Log a Call` for the activity (easiest method)
     - On-demand, type `/troops-action` in Slack and click on the `Log Activity` button
     - On-demand, type `/troops <name of account>` and choose the appropriate opportunity. Click `Log Activity` (NOT the `Log a Call` button)
-- There is a minimial set of fields that are required to be populated, _regardless if Troops.ai marks them as required_.
+- There is a minimal set of fields that are required to be populated, _regardless if Troops.ai marks them as optional_.
     - **Related To** - Search for and set this to the Salesforce `Opportunity` associated with the activity.
-    - **Name** (Optional) - If a prospect / customer contact exists in Salesforce and was part of the activity, please search for and populate `Name`. <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
-    - **Subject** - High-level description of the activity. Usually, the subject of the calendar event for this activity is appropriate.
-    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospsect interaction. (ie. Demo, POV Related, Presentation/Pitch)
-    - **Persona Levels** (Optional if unknown) - Select the customer/prospsect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Exectuive`
-    - **Persona Functions** (Optional if unknown) - Select the customer/prospsect functions represented during the activity (ie. Development, Security, DevOps)
+    - **Name**  - Please search for and populate the `Name` field with a prospect/customer contact existing in Salesforce that was part of the activity.   <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
+    - **Subject**  - High-level description of the activity. Usually, the subject of the calendar event for this activity is appropriate.
+    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction. (ie. Demo, POV Related, Presentation/Pitch)
+    - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Exectuive`
+    - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
 
 #### Example Activity Description
@@ -68,7 +71,7 @@ All troops activity updates channels are of the format `#troops-activities-<regi
 - `#troops-activities-pubsec-sa`
 - `#troops-activities-west-sa`
 
-*Tip:*  You can create a dedicated slack section for all of your troops related channels.  This will allow you easy access to updates for cross-team collaboration.  
+_Tip:_ You can create a dedicated slack section for all of your Troops related channels. This will allow you easy access to updates for cross-team collaboration.
 
 ### SA Specific Opportunity Fields
 
@@ -84,7 +87,7 @@ While all of these fields can be updated and changed anytime as an opportunity e
     - By searching for the opportunity first using `/troops <opportunity name>` in Slack and clicking on the `Update Opportunity` button.
     - **Win** - The technical evaluation has ended, and the prospect or customer agrees the GitLab solution meets their requirements.
     - **Loss** - The technical evaluation has completed, but the prospect or customer is choosing an alternative solution or not changing their current process due to deficiencies with the evaluated GitLab solution.
-    - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation related activities for at least two weeks.
+    - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation-related activities for at least two weeks.
 
 ### Proof of Value (POV) Updates
 
@@ -95,7 +98,7 @@ Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-
     - after searching for and selecting an opportunity or account first using `/troops <search>` in Slack
     - after using `/troops-action`
 - Clicking on the `Update a Proof of Value` button
-    - after searching for and selecting an POV first using `/troops <name of POV>` in Slack
+    - after searching for and selecting a POV first using `/troops <name of POV>` in Slack
 
 ### Updating Activity Summaries
 
@@ -131,18 +134,18 @@ If a contact you'd like to associate your activity updates with does not yet exi
 
 ### Feedback and Questions Process
 
-* In order to provide feedback on our activity capture process, tools, or reports, please create an issue in the Customer Success, [Solutions Architecture Activity Capture project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-activity-capture/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) using the `Feedback` template.
-* `#troops-users` slack channel - Discuss and ask questions related to Troops.ai and SA activity capture
-* `#troops-gitlab` slack channel - Discuss and ask questions related to Troops.ai with the Troops account team covering GitLab
+- In order to provide feedback on our activity capture process, tools, or reports, please create an issue in the Customer Success, [Solutions Architecture Activity Capture project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-activity-capture/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) using the `Feedback` template.
+- `#troops-users` slack channel - Discuss and ask questions related to Troops.ai and SA activity capture
+- `#troops-gitlab` slack channel - Discuss and ask questions related to Troops.ai with the Troops account team covering GitLab
 
 ## Recording Email Activity with Salesforce
 
 Email communication with customers can be recorded in Salesforce within the account's activity history. There are two options to track this activity:
 
 1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
-2. Or, download the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails.
+2. Or, download the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
 
 ## Frequently Asked Questions
 
-* Question:  Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
-* Answer:  It is not required to automatically log your calls via the Salesforce Google calendar plugin and we aren't currently planning to analyze that information.  
+- Question: Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
+- Answer: It is not required to automatically log your calls via the Salesforce-Google calendar plugin and we aren't currently planning to analyze that information.

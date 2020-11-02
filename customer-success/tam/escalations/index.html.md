@@ -94,4 +94,4 @@ See the Support Engineering Guide to Escalations for more specific information o
 
 - [Support Engineering Page](/handbook/support/) and [Support Engineering Escalation Procedures](/handbook/support/workflows/working-with-issues.html)
 - [Product Escalation Issue Template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Product-Support-Request) to request Product Team support for roadmap / future needs, prioritization of enhancements and/or issues and troubleshooting of customer issues.
-- [Customer Health Assessment and Account Triaging](/handbook/customer-success/tam/triage/)
+- [Customer Health Assessment and Account Triaging](/handbook/customer-success/tam/health-score-triage/)

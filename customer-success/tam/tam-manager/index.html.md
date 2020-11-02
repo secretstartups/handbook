@@ -90,7 +90,7 @@ On at least a monthly basis, review accounts within your region for upcoming one
 
 #### Triage Resources
 
-- [Account Triage Handbook](/handbook/customer-success/tam/triage/)
+- [Account Triage Handbook](/handbook/customer-success/tam/health-score-triage/)
 - [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
 - Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 

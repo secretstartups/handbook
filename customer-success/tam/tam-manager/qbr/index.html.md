@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "TAM Quarterly Business Review"
+description: "Instructions for TAM Managers on presenting their QBR decks."
 ---
 
 ## On this page
@@ -29,7 +30,7 @@ There are several key metrics that TAM Managers track, which are reported as par
 
 #### IACV attainment
 
-[Net Incremental Account Contract Value - Growth (Net IACV - Growth)](/handbook/sales/#net-incremental-annual-contract-value---growth-net-iacv---growth) is the metric used for TAM account growth. Your team's quota and attainment calculation uses this figure.
+[Net Incremental Account Contract Value - Growth (Net IACV - Growth)](/handbook/sales/sales-term-glossary) is the metric used for TAM account growth. Your team's quota and attainment calculation uses this figure.
 
 In the QBR presentation you may see this referenced as "IACV attainment" or "Net IACV attainment" which, while those are in fact their own metrics, in this context all refer to Net IACV - Growth.
 
@@ -47,14 +48,14 @@ The result is your team's Net IACV - Growth attainment as a percentage of your t
 
 Renewal rate indicates our performance on keeping the customers that we have, and growing them.
 
-Gross renewal is the total renewal for **all** accounts in the region for the specified time period, regardless of TAM alignment. In other words, it covers accounts that have a TAM and accounts that do not have a TAM. Gross renewal is driven by [Renewal ACV](/handbook/sales/#renewal-acv).
+Gross renewal is the total renewal for **all** accounts in the region for the specified time period, regardless of TAM alignment. In other words, it covers accounts that have a TAM and accounts that do not have a TAM. Gross renewal is driven by [Renewal ACV](/handbook/sales/sales-term-glossary/acv-in-practice).
 
-Net renewal represents growth as part of renewal. It is driven by [Incremental ACV](/handbook/sales/#incremental-annual-contract-value-iacv).
+Net renewal represents growth as part of renewal. It is driven by [Incremental ACV](/handbook/sales/sales-term-glossary/acv-in-practice).
 
 **NOTE**: Renewal Rates and Retention Rates are _two different things_. Example:
 
 - Renewal Rate: (renewed dollars / renewable dollars for that time period)
-  - In Salesforce: `Renewal ACV Closed Won` / (`Renewal ACV Closed Won` + `Renewal ACV Closed Lost` + `Downgrade IACV`)
+  - In Salesforce: `Sum of Won Renewal ACV` / (`Sum of Won Renewal ACV` + `Sum of Lost Renewal ACV` + `Sum of Downgrade IACV`)
   - Why it matters: this metric **excludes** any accounts that were _not_ up for renewal in the time period
 - Retention Rate: measures how much a group of customers are paying us today who started 12 months ago (e.g., Jan 1 customers paid $100 and on Dec 31 they dropped to $90, our retention rate would be 90%)
   - Calculation: the Customer Success Vision page [describes the formulas for gross and net retention/renewal](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted), and the [target gross and net retention rates](/handbook/customer-success/vision/#retention-and-reasons-for-churn).
@@ -64,17 +65,16 @@ To calculate the Gross Renewal Rate for your region, use the following steps:
 
 1. Open the [WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC) report.
 1. In the Time Frame box at the top, set Range to the fiscal quarter (FQ) for which you need renewal data.
-1. Locate your team in the table, and then select the relevant line as follows:
-  - Gross renewal: `Sum of Renewal ACV`
-  - Net renewal: `Sum of Incremental ACV`
-1. On the line you just determined, find the following values:
-  - `Closed Won`: What was actually renewed. We will refer to this value as `Renewed`.
-  - `Grand Total`: What was up for renewal. We will refer to this value as `Available`.
-1. Run the following calculation: `(Renewed / Available) * 100`.
+1. Locate your team in the table, and then select the relevant line in the Grand Total column as follows:
+  - Won Renewed ACV amount: `Sum of Won Renewal ACV`
+  - Lost Renewal ACV amount: `Sum of Lost Renewal ACV`
+  - Downgrade amount: `Sum of Downgrade IACV`
+1. Run the following calculation: `Sum of Won Renewal ACV / (Sum of Won Renewal ACV + Sum of Lost Renewal ACV + Sum of Downgrade IACV) * 100`.
+  - NOTE: for `Lost Renewal ACV` and `Downgrade IACV` these will need to be positive and increase the denominator rather than subtract from it. Example of a renewing $100, lost renewal of $5, and downgrade of $5: `(100 / (100 + 5 + 5) = 90%)`
 
 The result is your team's renewal rate as a percentage. Gross retention cannot exceed 100%, so if you have a value above 100, double-check your math.
 
-When reporting on outcomes from the quarter that just ended, the `Available` and `Renewed` values are used to provide what was up for renewal in the quarter and what renewed, respectively.
+Note: when calculating Gross Renewal Rate for the current quarter, the above calculation **excludes** any open opportunities as those have not been closed out yet. We exclude outstanding renewals because they're unresolved; they may be bumped to the subsequent period, they may become closed won, or lost. Including open opps in the denominator would artificially lower percentage rate and would only become accurate toward the end of the quarter — it could not be used mid-quarter.
 
 #### Renewal forecast
 

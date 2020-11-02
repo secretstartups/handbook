@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Public Sector Solutions Architects
+description: "Solutions Architects (SA) who work with the Public Sector provide subject matter expertise and industry experience throughout the sales process to Public Sector customers within the United States"
 ---
 # Public Sector Solutions Architect Handbook
 {:.no_toc}

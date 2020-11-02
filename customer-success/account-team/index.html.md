@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Account Team"
+description: "The account team works together to drive value, success, and growth for a customer"
 ---
 
 ## On this page

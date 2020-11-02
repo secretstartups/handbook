@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "SA Career Development"
+description: "For career development Solution Architects can choose between an individual contributor or leadership track"
 ---
 
 ## On this page

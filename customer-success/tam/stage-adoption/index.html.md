@@ -151,9 +151,15 @@ Usage Discovery Questions:
 
 ## Protect
 
-- Using the [Web Application Firewall](https://docs.gitlab.com/ee/user/clusters/applications.html#web-application-firewall-modsecurity) within GitLab.
+- [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
+- [Container Host Security Monitoring](https://docs.gitlab.com/ee/user/clusters/applications.html#install-falco-using-gitlab-cicd)
+- [Continer Network Security](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
+- [Security Orchestration](https://about.gitlab.com/direction/protect/security_orchestration/)
+
 
 Usage Discovery Questions:
 
 1. How do you manage HTTP traffic to your deployed application?
 1. What do you use to block malicious traffic before it reaches your application?
+1. How are you managing your Container Image for known vulnerabilities?
+1. How are protecting your Kubernetes deployment for security threats at host / network level?

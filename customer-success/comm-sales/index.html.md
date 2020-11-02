@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Sales - Customer Success"
+description: "The Commercial Sales segment consists of two sales teams, Small Business (SMB) and Mid-Market (MM)"
 ---
 
 # Commercial Sales - Customer Success Handbook

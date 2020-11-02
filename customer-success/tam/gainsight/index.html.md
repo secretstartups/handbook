@@ -213,3 +213,9 @@ This is because two SFDC accounts were merged into one. What happens is this:
 1. Gainsight does not "merge" because they were already merged in Salesforce
 1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it
 1. The remaining (merged) one in Salesforce remains synced to Gainsight
+
+##### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome 
+
+Usually, this type of error occurs if the Chrome extension version is out of date. Try [updating the Chrome extension](https://community.gainsight.com/timeline-17/update-your-chrome-plugin-39237) to the latest version. It should automatically refresh and begin working, but try logging out and back in if it doesn't resolve right away. 
+
+If this doesn't solve the issue, reach out to Gainsight support and let them know you've already tried updating the extension and logging out and back in.
