@@ -105,6 +105,8 @@ It is recommended to involve your stakeholders throughout the product developmen
   class review optional
 ```
 
+![Product Development Flow Diagram](Product-Dev-Flow.png)
+
 <kbd class="required">Required 🔎</kbd>
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
