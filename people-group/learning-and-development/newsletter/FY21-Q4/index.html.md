@@ -3,77 +3,9 @@ layout: handbook-page-toc
 title: FY21-Q4 Learning & Development Newsletter
 ---
 
-Welcome to the first GitLab Learning & Development (L&D) newsletter! This quarterly newsletter recaps what learning initiatives took place in the past quarter and highlights what is upcoming in the new quarter. The main goal of this newsletter is to help team members *prioritize learning* and have a [growth mindset](/handbook/values/#growth-mindset). For more information on the structure and process for this newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
+Welcome to the first GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to upskill and learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them.  
 
-
-## Recap of FY21-Q3
-
-* 26 managers participated in our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#pilot-program). We are currently making iterations and plan to roll out in early 2021! 
-* The [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) Course on Coursera Launched in September! To date, 157 people have completed the course and 8,814 have enrolled!  
-* The first Monthly Continuous Learning Call took place on 2020-10-21. If you missed it or wanted to watch again, you can do that [here](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
-* [add] 
-
-Past Live Learning sessions can be found on our [Learning & Development Page](/handbook/people-group/learning-and-development/#live-learning). 
-
-## Upcoming in FY21-Q4 
-
-Our Learning & Development team will have a variety of different events throughout the quarter to help you make leraning a priority. 
-
-**Live Learning Sessions**
-
-[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to our Team Members. GitLab Team Members can sign up for any of our live learning sessions [here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4). If we add more courses throughout the quarter, they will be added there as well. 
-
-* 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
-* 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
-
-**Challenges**
-
-[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce behavior changes that will stick. We will have a one week challenge that all team members can sign up for and a longer manager challenge focused on people leaders. 
-
-* 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
-   * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek)
-* 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
-   * Sign Up details to come! 
-
-**Monthly Continuous Learning Call**
-
-Every month, the Learning and Development team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab. Our upcoming calls for Q4 are outlined below: 
-
-* 2020-11-18 @ 1 PM PT 
-* 2020-12-16 @ 7 AM PT 
-* 2020-01-20 @ 1 PM PT 
-
-**Other Events**
-
-* 2020-11-12: Learning Speaker Series - Building Trust 
-   * An invite was sent to all GitLab Team Members from the team meetings calendar. 
-* 2020-12-01: DIB Certification 
-* Anything else?  
-
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/G018JT50VH7-1604324742.004500) Slack Channel! 
-
-## Learning Spotlight 
-
-More ways you can continue to learn throughout the quarter: 
-
-* LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
-* Consider using the [GitLab Tuition Reimbursement program](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) to cover the cost of outside learning opportunities you discover.
-
-* Join (or start!) a [GitLab book club](https://gitlab.com/gitlab-com/book-clubs).
-
-## Department Spotlight 
-
-The L&D Team has three team members and focuses on helping team members make learning a priority. 
-
-We would like to introduce you to our L&D Team! 
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7oZf3KL_AAAblfZEs1WkivFVupxF5HtkUDgANQbsi4OzkHyM1cbaVgEGQ6WugvhloX9JwfS0slxYr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-If you would like to learn more about L&D at GitLab, visit our [handbook page](/handbook/people-group/learning-and-development/). 
-
-Each quarter we will feature a different team and what they do here at GitLab. 
+For more information on the structure and process for the L&D newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
 
 ## Learn from Leadership 
 
@@ -118,11 +50,80 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 
 Do you know a team member that places an emphasis on learning? To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
 
+## Department Spotlight 
+
+The L&D Team has three team members that focuses on enabling a culture of learning by making it a priority for team member growth and development. 
+
+We would like to introduce you to our L&D Team! 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7oZf3KL_AAAblfZEs1WkivFVupxF5HtkUDgANQbsi4OzkHyM1cbaVgEGQ6WugvhloX9JwfS0slxYr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+If you would like to learn more about L&D at GitLab, visit our [handbook page](/handbook/people-group/learning-and-development/). 
+
+Each quarter we will feature a different team and what they do here at GitLab. 
+
+## Learning Spotlight 
+
+More ways you can continue to learn throughout the quarter: 
+
+* LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
+* [add?]
+
+## Recap of FY21-Q3
+
+* 26 managers participated in our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#pilot-program). This was the first program of its kind at GitLab and it was developed in an effort to reinforce our values and to enable our people leader to manage remotely. We are currently making iterations and plan to roll out in early 2021! 
+* The [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) Course on Coursera Launched in September! So far X people have completed the course.  
+* The first Monthly Continuous Learning Call took place on 2020-10-21. If you missed it or wanted to watch again, you can do that [here](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
+* [add] 
+
+Past Live Learning sessions can be found on our [Learning & Development Page](/handbook/people-group/learning-and-development/#live-learning). 
+
+## Upcoming in FY21-Q4 
+
+Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
+
+**Live Learning Sessions**
+
+[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. GitLab team members can sign up for any of our live learning sessions [here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4). If we add more courses throughout the quarter, they will be added there as well. 
+
+* 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
+* 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
+
+**Challenges**
+
+[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching one week challenges that all team members can attend and a comprehensive manager challenge focused on people leaders. 
+
+* 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
+   * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek)
+* 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
+   * If interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
+
+**Monthly Continuous Learning Call**
+
+Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab. Our upcoming calls for Q4 are outlined below: 
+
+* 2020-11-18 @ 1 PM PT 
+* 2020-12-16 @ 7 AM PT 
+* 2020-01-20 @ 1 PM PT 
+
+**Other Events**
+
+* 2020-11-12: Learning Speaker Series - Building Trust 
+   * An invite was sent to all GitLab Team Members from the team meetings calendar. 
+* 2020-12-01: DIB Certification
+* 2020-12-XX: Learning Speaker Series - Managing Mental Health & Burnout
+   * Be on the lookout for an invite 
+* Anything else?  
+
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our `#learning-and-development` Slack Channel. 
+
 ## Learning Tips 
 
-We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Friday's are a great time to focus on learning. 
+We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Friday's are a great time to focus on learning. Consider blocking off a few hours each week to learn new skills for your role at GitLab
 
-Are you having a hard time finding or making time for learning? The Potentiality outlines [seven ways to make time for learning](https://thepotentiality.com/seven-ways-to-make-time-for-learning/). 
+Are you having a hard time finding or making time for learning? The Potentiality article outlines [seven ways to make time for learning](https://thepotentiality.com/seven-ways-to-make-time-for-learning/). 
 
 ### Seven Ways to Make Time for Learning
 
@@ -138,8 +139,8 @@ Are you having a hard time finding or making time for learning? The Potentiality
 
 * Check out the monthly [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
 * The Diversity, Inclusion, & Belonging Team launched a newsletter last week. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
-* The [#mental_health_aware](https://app.slack.com/client/T02592416/C834CM4HW/thread/C834CM4HW-1604325012.091700) Slack channel is organizing a bi-monthly call to connect about mental health awareness. Check out their Slack channel for announcements about the next call!
-* [Walk and Talk Calls](/handbook/communication/#walk-and-talk-calls) are a great way for teams to stay active during the day and build trust during calls. Consider bringing this call format up with your team!
+* The [#mental_health_aware](https://app.slack.com/client/T02592416/C834CM4HW/thread/C834CM4HW-1604325012.091700) Slack channel is organizing a bi-monthly call to connect about mental health awareness. Check out their Slack channel for announcements about the next call.
+* [Walk and Talk Calls](/handbook/communication/#walk-and-talk-calls) are a great way for teams to stay active during the day and build trust during calls. Consider applying this call format with your team!
 
 ## Discussion 
 
