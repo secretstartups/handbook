@@ -23,7 +23,7 @@ This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses).
 1. What are you doing to grow?: has coaches, board performance review, read books, ask a lot of questions 
 1. Check out the [Leadership Page](/handbook/leadership/) 
 
-Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
+Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
 ## Learner Spotlight   
 
