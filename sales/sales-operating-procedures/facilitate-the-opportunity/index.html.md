@@ -39,7 +39,7 @@ A buyer persona is a fictional representation of your key buyers. Thi
 
 #### 1.1.2 Reference Buyer Process Maps
 
-Buyer Process Maps (BPMs) highlight and explain the mental pathways buyers’ travel to make decisions and help to guide selling activity based on where the buyer is in their process. Your goals in this step include differentiation, reduction in resistance, avoid wasting cycles, and facilitating better meetings and creating **[Moments That Matter](/handbook/sales/training/field-certification/#moments-that-matter-mtm)**. See a breakdown of the [Buyer Process Map](https://docs.google.com/presentation/d/181vsu60-UYk1890BJjemfjZ3GIQhYrPrsNAh4xN3-wM/edit#slide=id.p25) and the common buyer actions that indicate what stages of the buyer process the prospect is in. 
+Buyer Process Maps (BPMs) highlight and explain the mental pathways buyers’ travel to make decisions and help to guide selling activity based on where the buyer is in their process. Your goals in this step include differentiation, reduction in resistance, avoid wasting cycles, and facilitating better meetings and creating. See a breakdown of the [Buyer Process Map](https://docs.google.com/presentation/d/181vsu60-UYk1890BJjemfjZ3GIQhYrPrsNAh4xN3-wM/edit#slide=id.p25) and the common buyer actions that indicate what stages of the buyer process the prospect is in. 
 
 #### 1.1.3 Research the Buyer
 
