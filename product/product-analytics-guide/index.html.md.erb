@@ -8,13 +8,13 @@ title: Product Analytics Guide
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Product Analytics Guide
+## Product Analytics Overview
 
 At GitLab, we collect product usage data for the purpose of helping us build a better product. Data helps GitLab understand which parts of the product need improvement and which features we should build next. Product usage data also helps our team better understand the reasons why people use GitLab. With this knowledge we are able to make better product decisions.
 
 There are several steps involved to go from collecting data to making it useful for our internal teams and customers.
 
-1) Privacy Policy and Settings
+### 1) Privacy Policy and Settings
 
 ```mermaid
 graph LR
@@ -22,7 +22,7 @@ graph LR
 	data_classification_policy[Data Classification Policy] --> privacy_settings[Privacy Settings]
 ```
 
-2) Data Collection
+### 2) Data Collection
 
 ```mermaid
 graph LR
@@ -33,7 +33,7 @@ graph LR
 	product_usage[Product Usage] --> usage_ping_generated[Usage Ping Generated]
 ```
 
-3) Processing Pipeline
+### 3) Processing Pipeline
 
 ```mermaid
 graph LR
@@ -60,7 +60,7 @@ graph LR
 	finance_data_models[Finance Data Models] --> enterprise_dimensional_models[Enterprise Dimensionsal Models]
 ```
 
-4) Enable Product Teams
+### 4) Enable Product Teams
 
 ```mermaid
 graph LR
@@ -72,7 +72,7 @@ graph LR
 	metrics_reviews[Metrics Reviews] --> improve_product[Improve Product]
 ```
 
-5) Enable Sales and Customer Success
+### 5) Enable Sales and Customer Success
 
 ```mermaid
 graph LR
@@ -82,7 +82,7 @@ graph LR
 	gainsight_dashboards[Gainsight Dashboards] --> customer_conversations[Customer Conversations]
 ```
 
-6) Enable Full Funnel Analytics
+### 6) Enable Full Funnel Analytics
 
 ```mermaid
 graph LR
@@ -101,7 +101,7 @@ graph LR
 	full_funnel_analysis[Full Funnel Analysis] --> customer_journey_analytics[Customer Journey Analytics]
 ```
 
-7) Enhance Value Stream Management Feature
+### 7) Enhance Value Stream Management Feature
 
 ```mermaid
 graph LR
@@ -112,7 +112,7 @@ graph LR
 
 We work closely with other internal teams in each step in the Product Analytics Process. The teams involved at each step are:
 
-| Stage                           | Step                                  | Description                                                                                                             | Team Responsible        | Teams Involved                                                           |
+| Theme                           | Step                                  | Description                                                                                                             | Team Responsible        | Teams Involved                                                           |
 |---------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------------------------|
 | Privacy Policy and Settings     | Privacy Policy                        | Outlines what product usage data we collect from our users.                                                             | Legal                   | Product Analytics, Data                                                  |
 | Privacy Policy and Settings     | Data Classification Policy            | Outlines our data classification levels based on sensitivity.                                                           | Security                | Legal, Product Analytics, Data                                           |
@@ -180,7 +180,7 @@ We work closely with other internal teams in each step in the Product Analytics 
 1. Group-level, Project-level, User-level tracking for Snowplow on SaaS
 1. Usage Ping Snowplow on SaaS (using external collector and database for scaled up volume)
 
-## Implementing Product Metrics
+## Implementing Product Performance Indicators
 
 We've recently had a large push across the product organization to become more data driven. Part of this push includes getting product metrics in place for each product section, stage, and group. In FY21-Q3 OKRs, we setup a couple of OKRs to help us accomplish this:
 - [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
