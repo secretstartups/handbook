@@ -215,9 +215,9 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 | Role |Function|
 |---|---|
-| DRI: | - Product Manager |
-| Collaborators: | - UX Researcher |
-| Informed: | - Product Designer <br> - Engineering Team <br>- Other [stakeholders](#stakeholders) as appropriate |
+| DRI | Product Manager |
+| Collaborators | UX Researcher |
+| Informed | Product Designer <br/>Engineering Team <br/>Other [stakeholders](#stakeholders) as appropriate |
 
 
 #### Description
@@ -233,11 +233,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 | Outcomes|Activities|DRI|
 |---|---|---|
 | Thorough understanding of the problem  | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md)<br>- Complete an [Opportunity Canvas](#opportunity-canvas)<br>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study<br>- Schedule a review of the opportunity canvas for feedback<br>| Product Manager |
-| Communicate the problem clearly and effectively | - Ensure your issue is up to date with the latest understanding of the problem. <br> - Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br> - Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
-
-#### <kbd class="required">Required 🔎</kbd> Outcomes
-
-**Update issue/epic description** - a well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases.
+| <kbd class="required">Required 🔎</kbd>  **Update issue/epic description**  <br> - A well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases. | - Ensure your issue is up to date with the latest understanding of the problem. <br> - Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br> - Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
 
 ### Validation phase 3: Design
 
