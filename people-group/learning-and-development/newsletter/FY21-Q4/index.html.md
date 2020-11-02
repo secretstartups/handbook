@@ -50,7 +50,7 @@ Every month, the Learning and Development team hosts a [Monthly Continuous Learn
 * 2020-12-01: DIB Certification 
 * Anything else?  
 
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our `#learning-and-development` Slack Channel! 
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/G018JT50VH7-1604324742.004500) Slack Channel! 
 
 ## Learning Spotlight 
 
