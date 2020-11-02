@@ -57,7 +57,9 @@ Every month, the Learning and Development team hosts a [Monthly Continuous Learn
 More ways you can continue to learn throughout the quarter: 
 
 * LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
-* [add?]
+* Consider using the [GitLab Tuition Reimbursement program](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) to cover the cost of outside learning opportunities you discover.
+
+* Join (or start!) a [GitLab book club](https://gitlab.com/gitlab-com/book-clubs).
 
 ## Department Spotlight 
 
