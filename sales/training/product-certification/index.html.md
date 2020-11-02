@@ -14,17 +14,23 @@ description: "Training and certification program to ensure field team members ha
 
 ## Overview
 
-The objective of this program is to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solution(s) based on customers’ or prospects’ expressed needs and/or challenges. 
+As part of the [Field Certification Program](/handbook/sales/training/field-certification/) the objective of this program is to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solution(s) based on customers’ or prospects’ expressed needs and/or challenges. 
 
 Note: This GitLab product training and certification program is different from resources like the ones below that focus on how to _use GitLab_ (though we encourage field team members to take these as well)! 
 - [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
 - [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 
-## Prerequisites
 
-During [Sales & Customer Success onboarding](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). In addition, GitLab field team members and partners are introduced to GitLab’s [customer use cases](/handbook/use-cases/).
 
 ## Architecture and Approach
+
+```mermaid
+graph TD;
+  A[DevOps Technology Landscape] --> B[Customer Value];
+  B --> C[Foundational Product Knowledge];
+  C --> D[How to Sell (Customer Use Cases)];
+```
+
 
 ### What the Field Needs to Know
 
@@ -44,30 +50,5 @@ Current product knowledge assessments:
 - GitLab Product Knowledge Assessment for Sales roles (coming soon)
 - GitLab Product Knowledge Assessment for Customer Success roles (coming soon)
 
-## How to Sell GitLab
 
-Additional deeper dive customer use case training focused on **how to sell GitLab** will be made available to field team members and partners and include the below elements for each:
-- Market Overview
-- Target Buyer and User Personas
-- Industry Insights
-- Market Requirements
-- How GitLab Does It
-- How GitLab Does it Better
-- Getting the Meeting
-- Proof Points
-- Competitive Comparisons
-- Application Exercise
 
-### Customer Use Case Training 
-
-Currently available courses include the following:
-
-#### Continuous Integration (CI)
-
-- Access the [Continuous Integration Customer Use Case learning path](https://classroom.google.com/c/ODA3MDM2NDkzODFa?cjc=4oy74tz) in Google Classroom (internal only)
-- Just want to take the knowledge check quiz? [Click here](https://forms.gle/SYcjEptqKyfohUHx7). 
-
-#### DevSecOps
-
-- Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
-- Just want to take the knowledge check quiz? [Click here](https://forms.gle/hkta3uDUpki52BGD8).
