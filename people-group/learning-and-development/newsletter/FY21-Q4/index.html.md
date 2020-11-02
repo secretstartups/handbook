@@ -34,19 +34,19 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 </figure>
 
 * **Which university/program were you a student in?**
-   * Kris: I completed the [Performance Leadership Certificate from Cornell University](https://www.ecornell.com/certificates/leadership-and-strategic-management/performance-leadership/).  
-* What made you decide to do that program?
-   * Kris: I chose this program because it aligned with skills I listed in my Individual Growth Plan. I really liked this program because it was flexible and you could choose different courses from the catalog to create a certificate that made sense for you.  You can check out the [courses I chose](https://docs.google.com/document/d/1h_nSe9FV7wTPtJMOXy_qPvLpITrf10P0LH1PQxnEQco/edit?usp=sharing).
-* How will completing this program help you in your role at GitLab?
-   * Kris: We don’t have enough time to talk about all of the benefits! At a high level, this program provided me a framework to help me organize my thoughts and to lead learning initiatives and a high performing team to tackle the enablement challenges that come our way! 
-* What is one thing you have learned so far in your program that has been beneficial?
-   * Kris: The Change Management course was something that I was able to lean into right away. So many of our learning programs require some behavioral change and thinking through a change management plan from the beginning helps the field understand why we are doing this and why we are doing this right now! 
-* When will your program be completed?
-   * Kris: I completed the program in July of this year, and it took about 12 weeks.
-* What advice would you give someone who is thinking about participating in GitLab's tuition reimbursement program?
-   * Kris: GitLab offers [$20K for your education](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement), and it’s like free money! More people should take advantage of the program. It worked with my manager and the process was pretty easy. 
-* Anything else you would like to share on the tuition reimbursement program?
-   * Kris: There are so many amazing programs out there! Take a look and talk to your manager today, why wait? Everyday is a great day for learning. I understand everyone is busy, but it really is worth the time investment in yourself.  
+   * _Kris_: I completed the [Performance Leadership Certificate from Cornell University](https://www.ecornell.com/certificates/leadership-and-strategic-management/performance-leadership/).  
+* **What made you decide to do that program?**
+   * _Kris_: I chose this program because it aligned with skills I listed in my Individual Growth Plan. I really liked this program because it was flexible and you could choose different courses from the catalog to create a certificate that made sense for you.  You can check out the [courses I chose](https://docs.google.com/document/d/1h_nSe9FV7wTPtJMOXy_qPvLpITrf10P0LH1PQxnEQco/edit?usp=sharing).
+* **How will completing this program help you in your role at GitLab?**
+   * _Kris_: We don’t have enough time to talk about all of the benefits! At a high level, this program provided me a framework to help me organize my thoughts and to lead learning initiatives and a high performing team to tackle the enablement challenges that come our way! 
+* **What is one thing you have learned so far in your program that has been beneficial?**
+   * _Kris_: The Change Management course was something that I was able to lean into right away. So many of our learning programs require some behavioral change and thinking through a change management plan from the beginning helps the field understand why we are doing this and why we are doing this right now! 
+* **When will your program be completed?**
+   * _Kris_: I completed the program in July of this year, and it took about 12 weeks.
+* **What advice would you give someone who is thinking about participating in GitLab's tuition reimbursement program?**
+   * _Kris_: GitLab offers [$20K for your education](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement), and it’s like free money! More people should take advantage of the program. It worked with my manager and the process was pretty easy. 
+* **Anything else you would like to share on the tuition reimbursement program?**
+   * _Kris_: There are so many amazing programs out there! Take a look and talk to your manager today, why wait? Everyday is a great day for learning. I understand everyone is busy, but it really is worth the time investment in yourself.  
 
 Do you know a team member that places an emphasis on learning? To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
 
