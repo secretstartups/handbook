@@ -164,7 +164,7 @@ The below is a work in progress as we define success measures across each stage 
     - [Tanuja Paruchuri](/company/team/#tparuchuri)
 - **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608)
-- **[Sales Communications Manager](/job-families/sales/sales-communications-manager/)**
+- **[Field Communications Manager](/job-families/sales/field-communications/)**
     - [Monica Jacob](/company/team/#monicaj)
 - **[Technical Instructional Designer](/job-families/sales/technical-instructional-designer/)**
     - [Issac Abbasi](/company/team/#iabbasi)
