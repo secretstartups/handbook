@@ -110,7 +110,7 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/pe
 
 **Other Events**
 
-* 2020-11-12: Learning Speaker Series - Building Trust 
+* 2020-11-12: [Learning Speaker Series - Building Trust]( https://docs.google.com/presentation/d/1zyRgYcq3s1esbZ4gTNnqvoEjjFdjOp1EI8-YRBlC2_0/edit#slide=id.ga637fcc0e9_0_145) 
    * An invite was sent to all GitLab Team Members from the team meetings calendar. 
 * 2020-12-01: DIB Certification
 * 2020-12-XX: Learning Speaker Series - Managing Mental Health & Burnout
