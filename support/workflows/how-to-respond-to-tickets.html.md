@@ -169,6 +169,11 @@ Whatever you learn, make sure that you're constantly bubbling it up and broadcas
 - When troubleshooting: use the docs.
 - If something is missing: update the docs.
 
+#### Highlight the answer to a FAQ
+When we have a FAQ, or we anticipate one, we can create an article/redirect in Zendesk and associate certain keywords with this. During the creating of a support ticket, this article will pop up, allowing the customer to see the answer to their question before submitting the support ticket.
+
+Currently we are curating the list of articles and redirects, so you need to reach out to Support-Ops or the managers to iterate on the (list of) articles.
+
 #### Openly share your mistakes and learn from them
 
 We are all human and while we all strive to ensure our interactions with customers
