@@ -59,10 +59,6 @@ More ways you can continue to learn throughout the quarter:
 * LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
 * [add?]
 
-## Video 
-
-[embed video]
-
 ## Department Spotlight 
 
 The L&D Team has three team members and focuses on helping team members make learning a priority. 
