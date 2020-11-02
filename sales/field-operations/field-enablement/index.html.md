@@ -156,7 +156,7 @@ The below is a work in progress as we define success measures across each stage 
 - **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
 - **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement) ()
+    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)
