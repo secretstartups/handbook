@@ -41,7 +41,7 @@ Based on the level of the escalation, the DRI for the escalation will either be 
 
 - Coordination of internal GitLab and customer resources to drive troubleshooting and resolution of the issue
 - Management of customer and internal communications
-- Overall approach to resolution, including ensuring the plan and approach is understood
+- Overall articulation of the approach to resolution, including ensuring the plan and approach is understood
 - Assist overall collaboration (i.e., setting up meetings)
 
 ### Critical and High-Level Escalations
