@@ -162,8 +162,8 @@ In rare cases, candidates may reject our offer after they have signed the contra
 1. Unhire the candidate in Greenhouse.
 1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the assigned People Ops specialist on the tracker sheet so they are aware of this change.  If no People Ops specialist has been assigned, ping the People Ops specialist team in the specialist-ces slack channel. It is important to inform the People Ops specialist team in order for them to delete the candidate from BambooHR.
-1.  If they were hired via a PEO, inform the contact person of this change.
+1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important. 
+1.  If they were hired via a PEO, inform the contact person of this change immediately, ideally before onboarding starts.
 
 ### How to Resend a Contract After Being Marked as Hired
 
