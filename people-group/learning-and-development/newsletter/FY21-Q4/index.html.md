@@ -33,7 +33,7 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 <iframe src="ttps://docs.google.com/presentation/d/e/2PACX-1vTHzCdtdjH5W7AG2pa3yilT0spTYG6UDwelBCvgvLifFZGvQTGInWVBq17X78Cj4X1Hjy5ChmlhK9TQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-* Which university/program were you a student in?
+* **Which university/program were you a student in?**
    * Kris: I completed the [Performance Leadership Certificate from Cornell University](https://www.ecornell.com/certificates/leadership-and-strategic-management/performance-leadership/).  
 * What made you decide to do that program?
    * Kris: I chose this program because it aligned with skills I listed in my Individual Growth Plan. I really liked this program because it was flexible and you could choose different courses from the catalog to create a certificate that made sense for you.  You can check out the [courses I chose](https://docs.google.com/document/d/1h_nSe9FV7wTPtJMOXy_qPvLpITrf10P0LH1PQxnEQco/edit?usp=sharing).
