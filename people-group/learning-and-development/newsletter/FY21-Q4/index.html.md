@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: FY21-Q4 Learning & Development Newsletter
 ---
 
-Welcome to the first GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to upskill and learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them.  
+Welcome to the first GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them.  
 
 For more information on the structure and process for the L&D newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
 
@@ -27,7 +27,7 @@ Is there a leader at GitLab that you want to learn more about? To nominate someo
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykrey). Kris is a Manager of Field Enablement Programs. She also is currently utilizing [GitLab's Tuition Reimbursement program](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement). 
+Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykrey). Kris is a Manager of Field Enablement Programs. She also recently utilized [GitLab's Tuition Reimbursement program](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement). 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHzCdtdjH5W7AG2pa3yilT0spTYG6UDwelBCvgvLifFZGvQTGInWVBq17X78Cj4X1Hjy5ChmlhK9TQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -79,8 +79,6 @@ More ways you can continue to learn throughout the quarter:
 * The first Monthly Continuous Learning Call took place on 2020-10-21. If you missed it or wanted to watch again, you can do that [here](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
 * [add] 
 
-Past Live Learning sessions can be found on our [Learning & Development Page](/handbook/people-group/learning-and-development/#live-learning). 
-
 ## Upcoming in FY21-Q4 
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
@@ -94,12 +92,12 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 
 **Challenges**
 
-[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching one week challenges that all team members can attend and a comprehensive manager challenge focused on people leaders. 
+[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching a one week challenge that all team members can attend and a comprehensive manager challenge focused on people leaders. 
 
 * 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
-   * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek)
+   * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek) 
 * 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
-   * If interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
+   * If you are interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
 
 **Monthly Continuous Learning Call**
 
@@ -118,7 +116,7 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/pe
 * 2020-12: Learning Speaker Series - Managing Mental Health & Burnout
    * An invite will be sent from the GitLab Team Meetings calendar when the date is finalized. 
 
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our `#learning-and-development` Slack Channel. 
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel. 
 
 ## Learning Tips 
 
