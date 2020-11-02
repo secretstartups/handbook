@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Associating needs-org tickets with appropriate organization
+description: "Guidance and instructions for associating a ticket with the requester's organization, when automatic methods fail."
 category: Zendesk
 ---
 
