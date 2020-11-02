@@ -21,30 +21,32 @@ Our Learning & Development team will have a variety of different events througho
 
 **Live Learning Sessions**
 
-GitLab Team Members can sign up for any of our live learning sessions [here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4). If we add more courses throughout the quarter, they will be added there as well. 
+[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to our Team Members. GitLab Team Members can sign up for any of our live learning sessions [here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4). If we add more courses throughout the quarter, they will be added there as well. 
 
 * 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
 * 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
 
 **Challenges**
 
-[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges)
+[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce behavior changes that will stick. We will have a one week challenge that all team members can sign up for and a longer manager challenge focused on people leaders. 
 
 * 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
    * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek)
 * 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
+   * Sign Up details to come! 
 
 **Monthly Continuous Learning Call**
 
-[Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call)
+Every month, the Learning and Development team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. Our upcoming calls for Q4 are outlined below: 
 
 * 2020-11-18 @ 1 PM PT 
 * 2020-12-16 @ 7 AM PT 
 * 2020-01-20 @ 1 PM PT 
 
-**Other**
+**Other Events**
 
 * 2020-11-12: Learning Speaker Series - Building Trust 
+   * An invite was sent to all GitLab Team Members from the team meetings calendar. 
 * 2020-12-01: DIB Certification 
 * Anything else?  
 
@@ -52,13 +54,18 @@ GitLab Team Members can sign up for any of our live learning sessions [here](htt
 
 ## Learning Spotlight 
 
+More ways you can continue to learn throughout the quarter: 
+
 * LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
+* [add?]
 
 ## Video 
 
 [embed video]
 
 ## Department Spotlight 
+
+The L&D Team has three team members and focuses on helping team members make learning a priority. 
 
 We would like to introduce you to our L&D Team! 
 
@@ -68,6 +75,8 @@ We would like to introduce you to our L&D Team!
 
 If you would like to learn more about L&D at GitLab, visit our [handbook page](/handbook/people-group/learning-and-development/). If you would like to learn more about our L&D team members, take a look below. 
 
+Each quarter we will feature a different team and what they do here at GitLab. 
+
 ## Learn from Leadership 
 
 This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses). 
@@ -76,13 +85,13 @@ This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses).
   <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Five Fast Facts about Sid
+### Five Fast Facts from our Interview with Sid
 
-1. Check out the [Leadership Page](/handbook/leadership/). 
-1. Favorite Book: [High Output Managemnt](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_3?dchild=1&hvadid=78065379167018&hvbmt=be&hvdev=c&hvqmt=e&keywords=high+output+management+book&qid=1603985339&sr=8-3&tag=mh0b-20). 
-1. a 
-1. a 
-1. a 
+1. Favorite Book: [High Output Managemnt](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_3?dchild=1&hvadid=78065379167018&hvbmt=be&hvdev=c&hvqmt=e&keywords=high+output+management+book&qid=1603985339&sr=8-3&tag=mh0b-20) 
+1. Preferred Learning Style: Read/Write
+1. Role Mode;(s): Amazon (AWS), SpaceX 
+1. What are you doing to grow?: has coaches, board performance review, read books, ask a lot of questions 
+1. Check out the [Leadership Page](/handbook/leadership/) 
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
@@ -113,7 +122,7 @@ Do you know a team member that places an emphasis on learning? To nominate someo
 
 ## Learning Tips 
 
-We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! 
+We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Friday's are a great time to focus on learning. 
 
 Are you having a hard time finding or making time for learning? The Potentiality outlines [seven ways to make time for learning](https://thepotentiality.com/seven-ways-to-make-time-for-learning/). 
 
