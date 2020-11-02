@@ -265,6 +265,9 @@ _Why is this important?_
 ### Other Resources:
 * Deal Registration Lead Report [here](https://gitlab.my.salesforce.com/00O4M000004aAXt)
 * Partner Program Guide [here](https://about.gitlab.com/handbook/resellers) 
+* How to view registrations in SFDC [here](https://drive.google.com/file/d/1UtERcTNgNr9pTIf9OXDdpj3dNuhk9ISj/view?usp=sharing) *(Beginning November 3, 2020)* 
+* How to add "registrations" tab to your SFDC menu [here](https://drive.google.com/file/d/1iUz42CfvYKPdw1quskc4NmraFVoZvFez/view?usp=sharing)
+* Overview of a registration in SFDC [here](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view?usp=sharing) *(Beginning November 3, 2020)*
 
 ### Scenarios for Processing Deal Registration:
 
