@@ -178,7 +178,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-10-26 | 2020-10-30 | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR | [Edmond Chan](https://gitlab.com/edmondchan) - Sr. Solutions Architect |
 | 2020-11-02 | 2020-11-06 | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR |
 | 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
 | 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
