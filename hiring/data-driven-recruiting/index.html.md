@@ -24,11 +24,11 @@ description: "Data Driven Recruiting is defined as focusing on fewer people that
 
 Data Driven Recruiting (DDR) is defined as focusing on fewer people that have more aptitude and connection to the company. This approach helps to optimize the entire hiring process by leveraging the data on the prospects that are more likely to respond to our outreach and are more likely to be successful throughout the interviewing process. 
 
-Since GitLab has taken an innovative approach to hiring and implemented the [Outbound Recruiting Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), we aim to enrich our sourcing strategy with specific market data points. Data Driven Recruiting approach presents us with the specific data collected on the prospects and helps to gain a deeper understanding of the market we are interested in. It also helps the Recruiting team to strategize our sourcing effort by prioritizing quality of sourced prospects over quantity.
+Since GitLab has taken an innovative approach to hiring and implemented the [Outbound Recruiting Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model), we aim to enrich our sourcing strategy with specific market data points. Data Driven Recruiting approach presents us with the specific data collected on the prospects and helps to gain a deeper understanding of our target talent pools. It also helps the Recruiting team to strategize our sourcing effort by prioritizing quality of sourced prospects over their quantity.
 
 As we aim to build an even more diverse team in the most efficient way possible, while also sustaining our culture, we've created a list parameters that could be considered when building the sourcing strategy for a particular opening, and this list keeps growing:
 1. Affinity and engagement with GitLab Talent Brand
-1. Expressed interest in our current or past openings
+1. Interest in our current or past openings
 1. Skillset alignment
 1. [Preferred companies](https://about.gitlab.com/handbook/hiring/preferred-companies/)
 1. Company connections
@@ -39,7 +39,7 @@ As we aim to build an even more diverse team in the most efficient way possible,
 GitLab Recruiting team also strives to leverage the use of [LinkedIn *Talent Insights* reports](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session). Given specific inputs (e.g. job titles, skills, and/or geographic regions) we're able to see how big a talent pool is. That talent pool can be honed in further by referencing how many of those prospects are either engaged with GitLab updates, have followed or visited GitLab's LinkedIn profile, or have viewed posted jobs.
 
 ### General guidelines
-While there are different ways of combining the signals listed above, our goal is to use Data Driven Recruitment approach at the beginning of the search to build robust pipeline and oprtimize our sourcinng effort. These are the steps you can take to adopt the Data Driven Approach to your search:
+While there are different ways of combining the parameters listed above, our goal is to use Data Driven Recruitment approach at the beginning of every search to build robust pipeline and oprtimize our sourcinng effort. These are the steps you can take to adopt the Data Driven Approach to your search:
 
 1. Define your hiring needs and the purpose of the DDR to understand what results you’d like to get.
 1. Break down the project into steps, for example: 
@@ -49,4 +49,4 @@ While there are different ways of combining the signals listed above, our goal i
 3. Segment the market based on different cues you are interested in collecting the data on and proceed to sourcing and recruiting.
 
 ### Resources
-To learn more about Data Driven Recruiting at GitLab you can check out the [DDR training](https://docs.google.com/presentation/d/1hsjYPtHtwiOEe6eBZvbudnafs3UbpvEU4B8CYspHC6s/edit#) and the first [DDR pilot project](https://gitlab.com/gitlab-com/people-group/recruiting/-/issues/363) (kindly note that these resources are available for GitLab team members only). If you have any questions regarding this approach and how to implement it, please reach out to your [Sourcing Partner](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) or the Sourcing team in the #sourcing-hacks Slack channel.
+To learn more about Data Driven Recruiting at GitLab you can check out the [DDR training](https://docs.google.com/presentation/d/1hsjYPtHtwiOEe6eBZvbudnafs3UbpvEU4B8CYspHC6s/edit#) and the first [DDR pilot project](https://gitlab.com/gitlab-com/people-group/recruiting/-/issues/363) (kindly note that these resources are available to GitLab team members only). If you have any questions regarding this approach and how to implement it, please reach out to your [Sourcing Partner](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) or the Sourcing team in the #sourcing-hacks Slack channel.
