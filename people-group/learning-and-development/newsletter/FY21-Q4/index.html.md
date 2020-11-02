@@ -37,7 +37,7 @@ Our Learning & Development team will have a variety of different events througho
 
 **Monthly Continuous Learning Call**
 
-Every month, the Learning and Development team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. Our upcoming calls for Q4 are outlined below: 
+Every month, the Learning and Development team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab. Our upcoming calls for Q4 are outlined below: 
 
 * 2020-11-18 @ 1 PM PT 
 * 2020-12-16 @ 7 AM PT 
