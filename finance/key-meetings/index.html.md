@@ -73,7 +73,7 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Meeting Metrics
-Function DRIs are expected to repurpose and leverage their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/people-group/group-conversations/#schedule--dri). 
+Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/people-group/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same for more engaging conversation. *Note: The difference between the two meetings is the audience and who is asking questions. 
 
 ### Recordings
 
