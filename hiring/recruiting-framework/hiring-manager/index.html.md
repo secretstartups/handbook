@@ -22,7 +22,9 @@ description: "This page is an overview of the processes the hiring manager is re
 
 ### Step 12/HM: Complete feedback in Greenhouse/next steps
 
-Once the first interview(s) are completed, the interviewer will submit feedback via the designated scorecard in Greenhouse. The hiring manager will have designated areas of focus for each member of the interview team. These will be defined during the intake call and setup in Greenhouse by the recruiter or the CES. 
+Once the first interview(s) are completed, the interviewer will submit feedback via the designated scorecard in Greenhouse. 
+
+The hiring manager will have designated areas of focus for each member of the interview team. These will be defined during the intake call and setup in Greenhouse by the recruiter or the CES. 
 
 As a best practice the Hiring Manger should reach out to each individual on the interview plan.
 
@@ -55,6 +57,12 @@ You can review [sample interview questions for the interview team](https://docs.
 ### Step 15/HM: Hiring team to complete feedback in Greenhouse
 
 Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews.
+
+In Greenhouse, you will use an "interview kit" when interviewing a candidate, which has text for feedback and scorecards for skills and values.
+
+We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include Pros and Cons. This helps the recruiting team gather data that will be presented to the candidate in the form of feedback.
+
+The bottom of the feedback form will ask for an overall recommendation on if you want to hire this person or not; please do leave a score for each candidate, and read our [handbook page discussing the scorecards and best practices](/handbook/hiring/greenhouse/#scorecards).
 
 ### Step 19/HM: Complete references
 
