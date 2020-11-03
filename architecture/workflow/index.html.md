@@ -5,37 +5,38 @@ title: "Evolution Workflow"
 
 As engineers at GitLab, we lead the **evolution** of software, constantly working to find the right balance between proactive work, reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowering people to work on things that make everyone more productive. Experimenting and innovating are core to how we work, and **we focus on collaboration, results and iteration** to achieve our goals.
 
-With growth, however, comes complexity. An organic approach to our work sometimes requires help to ensure we are most effective. Help may be in the form of validating our technical approaches, ensuring organizational alignment across teams and departments, and driving priorities to key decision makers. **Technical Engineering leaders take on the task of helping engineers through these challenges**. The **Architecture Evolution workflow** is intended to provide influence amplification to drive the solution of complex problems both technically and organizationally.
+With growth, however, comes complexity. An organic approach to our work sometimes requires help to ensure we are most effective. Help may be in the form of validating our technical approaches, ensuring organizational alignment across teams and departments, and driving priorities to key decision makers. **Technical Engineering Leaders take on the task of helping engineers through these challenges**. The **Architecture Evolution Workflow** is intended to provide influence amplification to drive the solution of complex problems both technically and organizationally.
 
 ## Workflow: TL;DR
 
-**As an engineer, you and your manager determine whether to invoke the Architecture Evolution workflow**. When in doubt, **do not hesitate to reach out to an Architecture Evolution Coach** for input.
+**As an engineer, you and your manager determine whether to invoke the Architecture Evolution Workflow**. When in doubt, **do not hesitate to reach out to an Architecture Evolution Coach** for input.
 
-Most (if not all) work begins with an issue or epic (which we will generally refer to as a **domain issue** in this document) in a project as part of you regular workflow. These are everyday issues and epics created in their relevant projects. Engineers and managers use a domain issue to scope problems and possibly outline solutions. If the domain issue uncovers significant complexity (in terms of the problem domain itself or the organizational involvement required to solve it), engineers and managers may decide to invoke the Architecture Evolution workflow to enlist help from technical Engineering leaders and other relevant experts.
+Most (if not all) work begins with an issue or epic (which we will generally refer to as a **domain issue** in this document) in a project as part of you regular workflow. These are everyday issues and epics created in their relevant projects. Engineers and managers use a domain issue to scope problems and possibly outline solutions. If the domain issue uncovers significant complexity (in terms of the problem domain itself or the organizational involvement required to solve it), engineers and managers may decide to invoke the Architecture Evolution Workflow to enlist help from technical Engineering Leaders and other relevant experts.
 
 1. Determine with your manager whether to invoke the workflow.
 1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
    1. Add a sensible title, and a brief summary and a link to the domain issue in the description.
-   1. DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
-1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)** 
+   1. Proposal DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
+1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)**
+   1. The merge request should briefly describe the proposal in the [architecture blueprints directory](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/architecture/blueprints)
    1. Add a sensible title and a link to the architecture issue in the description.
-   1. @-mention appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure)
-   1. @-mention relevant Product Management DRI if applicable
-   1. Post on `#architecture`
+   1. Collaborate with AEC to find appropriate Domain Experts and Functional Experts (Security, QA and Infrastructure) that should be involved and @-mentioned in the blueprint merge request
+   1. Collaborate with AEC to find relevant Product Management DRI if applicable and @-mention them in the blueprint merge request
+   1. Post on [`#architecture` channel on Slack](https://gitlab.slack.com/archives/CJ4DB7517)
 1. The AEC will help with scoping, roadmap placement, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
    1. Engaging with the appropriate management Engineering Leader who will ultimately make priority and staffing decisions
    1. Engage Product Management if no PM DRI was initially identified
    1. Engaging with the Technical Writing team.
 1. The **result** of an architecture issue an **Architecture Blueprint**. This result:
-   1. Entails a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corresponding discussion
+   1. Entails a MR against the `doc/architecture/blueprints` directory in GitLab project and its corresponding discussion
    1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
    1. When ready, the MR is assigned to the Engineering Leader that will make the appropriate decisions for merging
    1. Once merged, a link to the blueprint is added to the Architecture Roadmap
 
 ### Getting things done
 
-At this point, problem scope (domain and organizational) is known and documented, as are stakeholders. The Architecture Evolution workflow is complete. From this point on, we're focused on execution: the management Engineering leader will assign new DRIs, who will take full control of the work and drive towards results. The AEC will continue to be engaged as you deem necessary to help in any way possible.
+At this point, problem scope (domain and organizational) is known and documented, as are stakeholders. The Architecture Evolution Workflow is complete. From this point on, we're focused on execution: the management Engineering Leader will assign new DRIs, who will take full control of the work and drive towards results. The AEC will continue to be engaged as you deem necessary to help in any way possible.
 
 1. Three (3) [Directly Responsible Individuals (DRIs)](/handbook/people-group/directly-responsible-individuals/) are assigned and collaborate together to get the work done.
 1. A [Working Group](/company/team/structure/working-groups/) may be created if DRIs determine it is useful and/or necessary.
@@ -48,7 +49,7 @@ At this point, problem scope (domain and organizational) is known and documented
 
 ### Proposing changes
 
-Anyone can propose a change they believe we should work on, which can happen on a **domain issue** or epic. When these changes turn out to be too intricate for a single individual contributor to handle (complex backstage improvements, architectural changes, productivity or efficiency improvements), or they span multiple teams, it may be necessary to invoke the Architecture Evolution workflow, as the change may not be something directly actionable. The issue author may loop an Architecture Evolution Coach, and through the workflow, we ensure that we engage the right DRIs, domain experts, stakeholders, and decision makers.
+Anyone can propose a change they believe we should work on, which can happen on a **domain issue** or epic. When these changes turn out to be too intricate for a single individual contributor to handle (complex backstage improvements, architectural changes, productivity or efficiency improvements), or they span multiple teams, it may be necessary to invoke the Architecture Evolution Workflow, as the change may not be something directly actionable. The issue author may loop an Architecture Evolution Coach, and through the workflow, we ensure that we engage the right DRIs, domain experts, stakeholders, and decision makers.
 
 Collaboration ensures that only proposals that are achievable get described in a blueprint merge request. This fosters knowledge sharing and avoids the cost of iterating on the product architecture improperly.
 
@@ -64,9 +65,9 @@ For any given proposal, the following people are involved:
 
 * An Architecture Evolution Coach (e.g., a Distinguished Engineer), who is filtering, shepherding, disseminating proposals across the organization
 * A Management Engineering Leader (e.g., a Director of Engineering), who is a decision-maker for a given proposal in terms of staffing and deliverables
-* One of more Domain Experts (e.g., Senior Backend Engineers), who lend their expertise on a given domain to solve a problem
+* One or more Domain Experts (e.g., Senior Backend Engineers), who lend their expertise on a given domain to solve a problem
 
-During the process of working on the proposal, the author collaborates with an Architecture Evolution Coach and, optionally, one or more Domain Experts to create a blueprint of the change. The blueprint merge request will be then either approved or rejected by the appropriate  management Engineering Leader.
+During the process of working on the proposal, the author collaborates with an Architecture Evolution Coach and, optionally, one or more Domain Experts to create a blueprint of the change. The blueprint merge request will be then either approved or rejected by the appropriate management Engineering Leader.
 
 In order to choose the right stakeholders, the author and their manager will first need to understand what is the scope of their proposal, what departments and teams will need to help to get the work done and how important it is for the organization.
 
@@ -96,15 +97,15 @@ As the original author of a proposal, you are the primary DRI.
 
 Architecture Evolution Coaching is an expertise assigned to team members, visible on their profiles on [the team page](/company/team/). All Engineering Fellows and Distinguished Engineers are Architecture Evolution Coaches by default.
 
-The purpose of involving a coach in the process of creating a blueprint is to allow people that know most about GitLab to share their knowledge and perspective on introducing complex architectural changes, help navigate organizational,  ensure the proposal is aligned with our roadmap, and help management Engineering leaders prioritize the work.
+The purpose of involving a coach in the process of creating a blueprint is to allow people that know most about GitLab to share their knowledge and perspective on introducing complex architectural changes, help navigate organizational, ensure the proposal is aligned with our roadmap, and help management Engineering Leaders prioritize the work.
 
 ##### The Engineering Management Leader
 
-The AEC will help you identify the right management Engineering leader to evaluate the proposal. Managers are key decision-makers, and, ultimately, will determine how to include your proposal in the stream of work that is always in-flight. This entails prioritizing and staffing to execute the work at the appropriate time.
+The AEC will help you identify the right management Engineering Leader to evaluate the proposal. Managers are key decision-makers, and, ultimately, will determine how to include your proposal in the stream of work that is always in-flight. This entails prioritizing and staffing to execute the work at the appropriate time.
 
 #### Domain Experts
 
-[Domain Experts](https://docs.gitlab.com/ee/development/code_review.html#domain-experts) are engineers  with a deep understand of one or more particular areas. Domain Experts:
+[Domain Experts](https://docs.gitlab.com/ee/development/code_review.html#domain-experts) are engineers with a deep understanding of one or more particular areas. Domain Experts:
 
 1. Help to ensure conceptual integrity of the features and changes their groups / stages / sections are working on
 1. Help to collaborate with EMs and PMs and other Engineers to ensure the quality of work done in their area of interest
@@ -166,7 +167,7 @@ The Engineering Leader can either approve and merge the merge request or reject 
 
 ### Finding DRIs to deliver on the blueprint
 
-Once the blueprint is approved, the management Engineering leader who approved the proposal collaborates with people involved to find DRIs who will be responsible for delivery of results and decisions makes from now on.
+Once the blueprint is approved, the management Engineering Leader who approved the proposal collaborates with people involved to find DRIs who will be responsible for delivery of results and decisions makes from now on.
 
 The blueprint needs three people that will become DRIs:
 
@@ -182,29 +183,18 @@ Then DRIs will propagate the blueprint downstream, to respective teams that will
 
 DRIs can decide to form a [Working Group](/company/team/structure/working-groups/) to structure the efforts related to the architecture change. Key considerations in deciding to form a Working Group are the size, complexity, and organizational impact of the change.
 
-The concept of a Working Groups can be an extension of the Architecture
-Evolution Workflow, but if it is not applicable in a particular case, a
-different process can be followed, like the suggested one that is described
-below.
+The concept of a Working Groups can be an extension of the Architecture Evolution Workflow, but if it is not applicable in a particular case, a different process can be followed, like the suggested one that is described below.
 
-1. A bi-weekly call should be scheduled to coordinate the work with all people
-   involved,
+1. A bi-weekly call should be scheduled to coordinate the work with all people involved,
 1. Teams assigned will allocate resources for the work that needs to be done,
-1. Domain Experts working on the teams will prepare their interpretations of
-   3-months iterations,
-1. The work will be split into smaller issues and people interested in taking
-   ownership of these issues will be assigned,
-1. Product Lead DRI will coordinate the work with Product Managers in
-   respective Teams,
-1. An Engineering Lead DRI will coordinate the work with Engineering Managers
-   responsible for respective teams,
-1. Domain Experts and individual engineers will be invited to the bi-weekly
-   sync meeting.
+1. Domain Experts working on the teams will prepare their interpretations the blueprint and first iterations,
+1. The work will be split into smaller issues and people interested in taking ownership of these issues will be assigned,
+1. Product Lead DRI will coordinate the work with Product Managers in respective Teams,
+1. A management Engineering Leader DRI will coordinate the work with Engineering Managers responsible for respective teams,
+1. Domain Experts and individual engineers will be invited to the bi-weekly sync meeting.
 
 ### What happens next
 
-After the iterations described in the blueprint are done, the work can be
-extended to the next three iterations and the blueprint needs to be updated.
+After the iterations described in the blueprint are done, the work can be extended to the next three iterations and the blueprint needs to be updated.
 
-Alternatively the work can be concluded and the blueprint needs to be updated
-with results / outcomes.
+Alternatively the work can be concluded and the blueprint needs to be updated with results / outcomes.
