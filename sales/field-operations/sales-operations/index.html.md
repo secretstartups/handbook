@@ -200,7 +200,6 @@ Contacts, and Leads, Verify and Save)
    _ Leave RecordType blank (nothing matches) \* Click OK. Click Next. Select where the error log will save to. Make sure to save to a location otherwise it will save to a mysterious location on your machine
    
    </details>
-   </details>
 
 <details>
 <summary markdown='span'>
@@ -577,6 +576,7 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### SalesForce
 
 </details>
+
 ### **Sales Operations Owned System Offboarding**
 Below are instructions on how Sales Operations offboards users within the various Sales-owned systems.
 
