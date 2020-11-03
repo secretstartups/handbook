@@ -20,19 +20,21 @@ Prior to starting the req creation process, a Hiring Manager should follow the s
 * Job Family URL
 * Employment Type (New Hire or Backfill. If a backfill, the name of the teammate and last day of employment)
 
-### Adding Vacancies to the Hiring Plan
+### Adding Vacancies to the Hiring Plan (DRI: Hiring Manager)
 
 The Hiring Manager carries the responsibility to ensure that vacancies in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Recruiting can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
 
-### Create or Review the Job Family
+### Create or Review the Job Family (DRI: Hiring Manager)
 
 Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
 
-### Opening Vacancies in Greenhouse
+### Opening Vacancies in Greenhouse (DRI: Recruting Manager/Lead)
 
 For positions that are included in the GitLab Hiring Plan, the Recruiting Manager will create approved in-plan requisitions.
 
-1. The Recruiting Manager will [log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
+**The Recruiting Manager will:**
+
+1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
 
 1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, you can choose to clone a vacancy, which is ideal if you are opening a vacancy that has been opened before, or something very similar has been opened before. If there is no close match, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
 
@@ -67,7 +69,144 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Click `Create Job & Continue`.
 
-1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The CES will update the scorecard after the Kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
+1. The next page consists of all of the **attributes** interviewers will be evaluating for candidates in their scorecards across the full interview process. These may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.   The Recruiter will pdate the scorecard after the kick-off Session.
+
+1. Click `This looks good, NEXT` at the right of your screen.
+
+1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The Recruiter will update the interview plan after the Kick-off Session.
+
+1. Click `This looks good, NEXT` at the right.
+
+1. The `Hiring Team` is where you select who will be working on this vacancy and what access they should have.
+   - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). Everyone who will be involved in interviewing may not be known until after the Kick-off Session. The Recruiter will update the Hiring Team after the Kick-off Session.
+
+1. Click `This looks good, NEXT` at the right.
+
+1. Approvals section is where you can add any notes here for the vacancy where it says `Leave a note`.
+   - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
+   - @ mention the Hiring Manager, Recruiter, Sourcer, Sourcing Manager, and People Business Partner (PBP) so they know the REQ has been submiotted for approval. 
+
+1. Click `This looks good, NEXT` at the right. 
+
+1. Setup Notifications: 
+
+   - Weekly Recruiting Report:
+      - Hiring Manager
+   - New Internal Applicants:
+      - Hiring Manager
+      - Recruiter
+   - New Referrals:
+      - Hiring Manager
+      - Recruiter
+   - New Agency Submissions:
+      - Hiring Manager
+      - Recruiter
+   - Approved to Start Recruiting:
+      - Hiring Manager
+      - Executive
+      - Recruiter
+      - Sourcer
+      - Sourcing Manager
+      - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
+   - Offer Fully Approved:
+      - Hiring Manager
+      - Executive
+      - Recruiter
+      - Sourcer
+      - Recruiting Manager
+      - Sourcing Manager
+      - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
+   -  New Scorecards:
+      - Recruiter
+         - All stages
+      - Hiring Manager:
+        -  Team Interview stage
+   - Stage Transitions:
+      - N/A
+
+1. Create the [Global Self-Identification Survey](/handbook/hiring/greenhouse/#global-self-identification-survey) by creating a job post for the open requisition.
+   - Job Name: Global Self-Identification Survey
+   - Post To: GitLab
+   - Location: Remote
+   - Description: Enter `n/a`
+   - Basic Application Information: (does not matter)
+   - Custom Application Questions: (none)
+   - Send Confirmation Email to Candidates: (unchecked)
+   - Application Confirmation Page: Default
+   - Include Custom Demographic Questions: Global Self-Identification Survey
+   - Include EEOC Questions: (unchecked)
+   - Include 'Apply with SEEK' button: (unchecked)
+   - Publish to Free Job Boards: (unchecked)
+   - Status: Off
+
+1. Scroll to the bottom of the page and click `Request Approval`.
+
+1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
+
+**Setup Child Epic, Weekly Check-In Issue, and Kick-Off Issue**
+
+1. Create a Child Epic in the Recruiting Project. Child Epics should be created in the correct Functional Parent Epic:
+    Title: Function: Job name, Greenhouse req/opening number
+    Due Date: Target Start Date
+    Labels: Division and Department
+1. Open up a [kick-off issue](https://gitlab.com/gl-recruiting/req-intake/-/issues/new) and attach to the Child Eric
+1. Open a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic. 
+
+#### Kick-off & Finalyze Greenhouse Setup (DRI: Recruiter)
+
+**The Recruiter will:**
+
+**Complete the Kick-Off**
+
+1. Schedule a [Kick-off Session](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
+
+1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](https://about.gitlab.com/jobs/careers/) 
+
+**Post the job internally**
+
+1. Create or update the `Job Post` under `Job Setup`, which will hold the vacancy description. Next to the name of the vacancy, click the pencil icon to edit the job post.
+   - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
+   - `Post To` should always be `Internal`.
+   - `Location` always keep `Remote` listed in addition to any location requirement.
+   - `Application Language` should always be `English`.
+   - `Description` should be the copy/pasted from the job family on GitLab.com with the relevant information for the level/specialty/etc.
+   - Be sure to add the Compensation section as a header and hyperlink the `view our handbook` to the correct job family link:
+   Compensation
+
+   To view the full job description, view our handbook (insert job family url). The compensation calculator can be found through [this url](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/).
+
+   Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
+
+1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
+
+1. For the Custom Application Questions, ensure the following questions are included:
+  - LinkedIn Profile
+  - Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.
+
+1. Settings
+   - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
+   - Application Confirmation Page: Default
+   - Uncheck `Include Custom Demographic Questions`
+   - Uncheck `Include EEOC Questions`
+   - Uncheck `Include 'Apply with SEEK' button`
+
+1. Click `Save`.
+
+1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
+
+1. Click the red button to publish the vacancy to our internal job board.
+
+1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. Slack message template:
+  
+   New Job Alert: TITLE
+
+   Apply internally: LINK
+   
+   Review how to make a referral: /handbook/hiring/referral-process/
+
+**Update the Scorecard**
+
+1. Update the `Scorecard` after the kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
    - These can be adjusted as needed, but **every** attribute listed should be a must-have and not a nice-to-have.
    - If you want to include nice-to-haves in the scorecard, please create a new category called `Nice-to-haves` and add any applicable attributes there, making sure that your entire interview team knows that if a candidate does not meet any of those attributes it is not a negative against them.
 
@@ -83,13 +222,15 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
    - Iteration: Doing the smallest thing possible and get it out as quickly as possible.
    - Transparency: Being as open about as many things as possible.
 
+1. Add Custom Questions to all interviews in the Team Interview Stage.  Every interviewer must have a place to include "Pros" and "Cons".  [How to add custom questions.](https://support.greenhouse.io/hc/en-us/articles/115002276366-Create-Custom-Questions-for-Interview-Kits)
+
 1.  To edit the attributes within a category, click `Edit` next to the category. You can then change the name of attributes, delete attributes, add brand new ones, or choose existing attributes from other vacancies. Keeping the attribute names the same and choosing existing attributes from other vacancies is recommended so that the attribute choices remain streamlined. However, if you have a particular attribute for this role that needs to be evaluated, don't hesitate to add it.
 
 1. Click `Save` once you've configured your attributes and categories. If you don't want to save your changes after you've clicked `Edit` under a category, click `Cancel`.
 
-1. Once the scorecard is finished, click `This looks good, NEXT` at the right of your screen.
+**Update the Interview Plan**
 
-1. The `Interview Plan`, is where you'll craft the hiring process and scorecards for each step in the process. The interview plan may not be known until after the Kick-off Session and may be skipped during the initial setup of the REQ.  The CES will update the interview plan after the Kick-off Session.
+1. Update the `Interview Plan` after the Kick-off Session.
 
 1. Every vacancy should have an `Review` stage. This is also known as Application Review by the Greenhouse Milestone.
 
@@ -139,40 +280,29 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
    - On occasion, there may be additional or fewer stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed.
    - If a candidate will have more interviews in a stage than predetermined, you can add additional interview events as long as the candidate is in the stage where you need to add the additional event.
 
-1. Once your interview plan is complete, click `This looks good, NEXT` at the right.
+**Update the Hiring Team**
 
-1. The `Hiring Team` is where you select who will be working on this vacancy and what access they should have.
-   - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). Everyone who will be involved in interviewing may not be known until after the Kick-off Session. The CES will update the Hiring Team after the Kick-off Session.
+1.  Update the `Hiring Team` after the Kick-off Session. 
+
+1. The Hiring Team is where you select who will be working on this vacancy and what access they should have.
+   - Scroll to the `Who's responsible for this job?` to assign the Hiring Managers, [Recruiter(s)](/handbook/hiring/recruiting-alignment/), Coordinator(s) and Sourcer(s). 
    - Scroll to the `Who can see this job?` section to set permissions to the team members who will need access. Search for someone's name click the pencil and select the correct access level from the drop-down.
    - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications, or performing interviews.
    - You may need to go back to the interview plan to add the interviews if it did not let you add them before completing this step.
 
-1. Click `This looks good, NEXT` at the right.
+**Update  Notifications**
 
-1. Approvals section is where you can add any notes here for the vacancy where it says `Leave a note`.
-   - If you were unable to determine the compensation information tag the Compensation and Benefits team in the Approval Notes section with an @ mention.
+1. Review notifications and ensure they align to the preferences of you and the hiring team.  
 
-1. Click `This looks good, NEXT` at the right. 
+#### Publish the Job to the Careers Page & Review Greenhouse Configuration (DRI: CES Team)
 
-1. In the Notifications section update the "Approved to Start Recruiting" section. Ensure emails will be sent to the Hiring Manager, Recruiter, Sourcer, PBP and the Manager, Sourcing so everyone knows when the job has been approved. You should also at mention the same people in an approval note.
+**The Candidate Experience Team will:**
 
-1. Scroll to the bottom of the page and click `Request Approval`.
+1. Post the vacancy to the [Careers Page](https://about.gitlab.com/jobs/careers/) once they receive notice from the recruiter. 
 
-1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
+1. Review the configurations the Recruiting Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 
-#### Kick-off Session
-
-Details about the Kick-off Session are found [here](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session).
-
-The recruiter must open up a [req kick-off issue](https://gitlab.com/gl-recruiting/req-intake/-/issues/new) for every req once it is approved for recruiting.
-
-#### Publishing the Job
-
-The [Candidate Experience Specialist](/job-families/people-ops/candidate-experience/) who is the coordinator for that vacancy should follow the below steps once they receive notice from the recruiter to post the new vacancy.
-
-1. Go to the vacancy and under `Job Setup`, review the configurations the Recruiting Manager has made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
-
-1. The interview plan, scorecard(s), hiring team should be updated from the Intake Call notes. Each req is different on which stages are included and the order of those stages, however ensure each stage is labeled correctly for reporting purposes:
+1. Ensure each stage is labeled correctly for reporting purposes:
     - Review
     - Screening
     - Assessment
@@ -197,93 +327,3 @@ The [Candidate Experience Specialist](/job-families/people-ops/candidate-experie
 
    As always, If you have any questions let me know!
    Thanks, xxx
-
-1. Confirm email notifications for the hiring team under `Job Setup`.
-   - Weekly Recruiting Report:
-      - Hiring Manager
-   - New Internal Applicants:
-      - Hiring Manager
-      - Recruiter
-   - New Referrals:
-      - Hiring Manager
-      - Recruiter
-   - New Agency Submissions:
-      - Hiring Manager
-      - Recruiter
-   - Approved to Start Recruiting:
-      - Hiring Manager
-      - Executive
-      - Recruiter
-      - Sourcer
-      - Candidate Experience Specialist Team 
-      - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
-      - Manager, Sourcing
-   - Offer Fully Approved:
-      - Hiring Manager,
-      - Executive,
-      - Recruiter,
-      - Recruiting Managers,
-      - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
-   - Stage Transitions:
-      - Recruiter (all stages)
-      - Hiring Manager:
-        -  Reference and Background Check
-        -  Justification
-        -  Offer
-   - New Scorecards:
-      - Recruiter
-
-1. Create or update the `Job Post` under `Job Setup`, which will hold the vacancy description and application questions. Next to the name of the vacancy, click the pencil icon to edit the job post.
-   - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
-   - `Post To` should always be `Internal`.
-   - `Location` always keep `Remote` listed in addition to any location requirement.
-   - `Application Language` should always be `English`.
-   - `Description` should be the copy/pasted from the job family on GitLab.com with the relevant information for the level/specialty/etc.
-   - Be sure to add the Compensation section as a header and hyperlink the `view our handbook` to the correct job family link:
-   Compensation
-
-   To view the full job description, view our handbook (insert job family url). The compensation calculator can be found through [this url](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/).
-
-   Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
-
-1. If there are any links in the description, click on the link, then click the link icon in the text box toolbar, then change `Target` to `New Window`, then click `Ok` and repeat for any other links in the description; this will ensure all links work properly.
-
-1. For the Custom Application Questions, ensure the following questions are included:
-  - LinkedIn Profile
-  - Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.
-
-1. Settings
-   - Send Confirmation Email to Candidates: select the `Internal Auto-Reply after Application` from the drop-down list
-   - Application Confirmation Page: Default
-   - Uncheck `Include Custom Demographic Questions`
-   - Uncheck `Include EEOC Questions`
-   - Uncheck `Include 'Apply with SEEK' button`
-
-1. Click `Save`.
-
-1. If there is an *External Job Post*, please **delete** it by clicking the ellipsis (`•••`), then `Delete`. 
-
-1. Click the red button to publish the vacancy to our internal job board.
-
-1. Next, create the [Global Self-Identification Survey](/handbook/hiring/greenhouse/#global-self-identification-survey) by creating a job post for the open requisition.
-   - Job Name: Global Self-Identification Survey
-   - Post To: GitLab
-   - Location: Remote
-   - Description: Enter `n/a`
-   - Basic Application Information: (does not matter)
-   - Custom Application Questions: (none)
-   - Send Confirmation Email to Candidates: (unchecked)
-   - Application Confirmation Page: Default
-   - Include Custom Demographic Questions: Global Self-Identification Survey
-   - Include EEOC Questions: (unchecked)
-   - Include 'Apply with SEEK' button: (unchecked)
-   - Publish to Free Job Boards: (unchecked)
-   - Status: Off
-
-1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. Slack message template:
-  
-   New Job Alert: TITLE
-
-   Apply internally: LINK
-   
-   Review how to make a referral: /handbook/hiring/referral-process/

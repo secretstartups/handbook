@@ -256,9 +256,11 @@ When a candidate requests to meet with an TMRG team member, their Candidate Expe
       - #minoritiesintech
       - #diverse_ability
       - #gender-minorities-employee-resource-group
-      - 	#generational_understanding
+      - #generational_understanding
 
 1. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
+
+1. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
 As a GitLab team member taking part in these calls, we advise you to start with a short introduction to you and your role here at GitLab. From here, we advise you to let the candidate lead the conversation as the goal is for you to answer their questions and offer insight into how we work.
 
@@ -304,6 +306,16 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist can notify the People Experience team in the private Slack channel `people-exp_ces`. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date.  
 
 It is **important** that the Candidate Experience Specialist notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
+
+### How to Unhire a Candidate After Contract is Signed
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. 
+
+If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
+1. Unhire the candidate in Greenhouse.
+1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
+1. Cancel any scheduled emails in Greenhouse.
+1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important. 
+1.  If they were hired via a PEO, inform the contact person of this change immediately, ideally before onboarding starts.
 
 ### Mid-Point Check-In Follow up
 
