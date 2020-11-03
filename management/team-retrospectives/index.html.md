@@ -60,10 +60,17 @@ that you observe the following:
    team, where necessary - if someone's role or contributions are going to be
    discussed, they should have the opportunity to contribute to the
    retrospective as well.
+1. **Use an issue to collect feedback asyncrhonously.** Consider using an issue to collect 
+   feedback asyncrhonously.  This allows everyone involved to think about and record their feedback on their
+   own time.
 1. **When necessary, get people face to face.** After a particularly difficult
    iteration, or when there's a strong risk that emotions will be running high,
    it's almost always worth the cost to have everyone in a video meeting to talk
-   through the retrospective in real-time.
+   through the retrospective in real-time.  Consider not recording the meeting if the
+   team prefers to not do so inorder to be able to speak freely.  If you do a meeting,
+   consider doing twice with one time good for those in EMEA and Western AMER time zones, and
+   one time good for those in APAC and Wester AMER time zones.  Also, consider having managers not attend
+   the meeting so that attendees feel they can speak freely.  Somone other than a manager can be the moderator.
 
 ## Having a plan
 
@@ -90,7 +97,8 @@ team, we recommend something that follows this general pattern:
 1. **Decide what to do** - with the insights firmly in hand, it should be
    fairly easy to identify action items for the team. This could be things
    to change with our process, it could be things to experiment with in the
-   next iteration, or any other number of things.
+   next iteration, or any other number of things.  Consider having team members vote on
+   which things are most important to be acted upon.
 1. **Close the retrospective** - make sure everyone who participated receives
    positive feedback about how they helped create these results. Observe any
    surprising or unexpected results from the retrospective, which confirms that
