@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Command of the Message"
+description: "Command of the Message is GitLab's customer value-based sales messaging framework and methodology" 
 ---
 
 {::options parse_block_html="true" /}

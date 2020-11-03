@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Proof of Value"
+description: "A Proof of Value (POV) is a collaboration between GitLab and the prospective customer for evaluating GitLab Enterprise Edition"
 ---
 
 # Proof of Value (POV) Guidelines
@@ -10,7 +11,7 @@ GitLab wants prospects to enjoy a successful Proof of Value (formerly known as P
 
 POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and success criteria have been documented.
 
-The target duration for a POV is between 1 and 8 weeks depending on complexity and style of engagement. A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management. The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project. When utilizing a collaborative project, follow the instructions in README.md closely in order to properly configure the entire project. If a prospect has an internal process to follow or cannot use GitLab.com to manage the POV, a [Guided POV document](#POVdoc) or a simplified [Lite POV document](#LITEdoc) may be used.
+The target duration for a POV is between 1 and 8 weeks depending on complexity and style of engagement. A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management. The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project. When utilizing a collaborative project, follow the instructions in README.md closely in order to properly configure the entire project. If a prospect has an internal process to follow or cannot use GitLab.com to manage the POV, a [Guided POV document](#pov-template-document) or a simplified [Lite POV document](#lite-pov-template-document) may be used.
 
 GitLab Solutions Architects should consider a limit of 3 concurrent Guided or Paid POV's as a best practice in order to provide optimal customer service and to enable a target of achieving 24 hour or less response times to inquiries during any POV. If more than 3 concurrent Guided or Paid POV's are required, the SA should assess their ability to support the additional requirements and/or discuss viability with their manager as well as other SA's in their region.
 
@@ -177,7 +178,7 @@ The Paid POV is less common than other types of POV's. These will commonly have 
 
 When a prospect has an internal POV process to follow, or when time is of the essence, a Lite POV is utilized.
 
-#### <a name="LITEdoc"></a>Lite POV Template Document
+#### Lite POV Template Document
 
 For a Lite POV, the SA may utilize the [Lite POV document](https://docs.google.com/document/d/1PO3jXG3wiKsCbx5vb8dm4SmOe_PiTB47SadROIO8nCc/edit#) (only accessible to GitLab team-members), which validates POV dates, success criteria and assumptions of both GitLab and the prospect.
 
@@ -223,7 +224,7 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
     * TAM and AE determine TAM eligibility and engagement based on Account Tier and IACV.
     * TAM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
 
-## <a name="POVdoc"></a>POV Template Document
+## POV Template Document
 
 As an alternative (or in addition) to using a collaborative GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.  
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Quick Start (SQS) Learning Objectives"
+description: "GitLab sales onboarding learning obejctives"
 ---
 
 {::options parse_block_html="true" /}

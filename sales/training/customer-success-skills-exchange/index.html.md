@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Customer Success Skills Exchange Sessions"
+description: "Continuous education webcast series for GitLab Customer Success team members"
 ---
 
 ## On this page
@@ -22,7 +23,7 @@ You can [fill out an access request](/handbook/business-ops/team-member-enableme
 
 ## How the CS Skills Exchange runs
 
-* Each training session has a [speaker](#speaker) and a [moderator](#moderator)
+* Each training session has a [speaker](#speaker-responsibilities) and a [moderator](#moderator-responsibilities)
 * Sessions are 60 minutes long
 * The presentation portion should be 20 minutes leaving 40 minutes for discussion and Q&A
 
@@ -52,7 +53,7 @@ There are a few places to see previous CS Skills Exchange Sessions:
 For more information about Recording and Public/ Private YouTube videos, check out the [Sales Enablement Sessions](/handbook/sales/training/sales-enablement-sessions/#recording) page. 
 
 
-### Speaker Responsibiltiies 
+### Speaker Responsibilities
 
 * Come prepared at least 2 mins before session is scheduled to begin to make sure you are ready to begin on time. 
 * Send your slides to the Customer Success Enablement Program Manager

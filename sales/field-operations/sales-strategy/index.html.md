@@ -36,3 +36,7 @@ Please find instructions on how to initiate a Sales Headcount change [here](/han
 ### Projects
 
 You can find information about specific projects [here](/handbook/sales/field-operations/sales-strategy/projects)
+
+### FY22 Field Planning
+
+Current FY22 Planning file can be found [here](https://docs.google.com/spreadsheets/d/1-SnZ0LGZEVuE-7qAU69m5p8wH7gJJCym6EsEmO-7idY/edit#gid=170681456) 

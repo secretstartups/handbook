@@ -48,20 +48,20 @@ For all Mid Market native-quota carrying salespeople, we assume around a six (6)
 #### Seasonality Assumptions
 We also factor in seasonality into our calculations. We expect most of our business to close in the second half of the year. Our seasonality assumptions are as follows for the private sector:
 
-* First Fiscal Quarter: 17%
-* Second Fiscal Quarter: 23%
-* Third Fiscal Quarter: 28%
-* Fourth Fiscal Quarter: 32%
+* First Fiscal Quarter: 20%
+* Second Fiscal Quarter: 22%
+* Third Fiscal Quarter: 30%
+* Fourth Fiscal Quarter: 28%
 
 Given the fiscal period for public sector, our seasonality assumptions differ:
 
 * First Fiscal Quarter: 15%
-* Second Fiscal Quarter: 20%
-* Third Fiscal Quarter: 55%
-* Fourth Fiscal Quarter: 10%
+* Second Fiscal Quarter: 17%
+* Third Fiscal Quarter: 46%
+* Fourth Fiscal Quarter: 11%
 
 #### Quotas Proration
-1. Native Quota-Carrying Reps: prorated quotas are based on the seasonality assumptions as demonstrated above.
+1. Native Quota-Carrying Reps: prorated quotas are based on each NQR’s territory / existing account base to determine your individual seasonality.  The above metrics are viewed from a WW GitLab perspective, but each individual will share a unique seasonality specific to their circumstances.
 2. Overlay Quota Reps: proration is based off the number of days employed in the given period. Your prorated quota would be calculated as follows: (Quota / (Period End Date - Period Start Date)) * (Period End Date - Hire Date). For example, if the regional quota is $10,000,000 for the year and the start date is 4/1/2019, your quota will be calculated as ($10,000,000 / (2020-01-31 - 2019-02-01)) * (2020-01-31 - 2019-04-01) = $8,379,120.88.
 
 ## Commissions Overview
@@ -115,7 +115,7 @@ Within the first few weeks of your employment, you should receive your participa
 
 ## Opportunity Splits
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
-* Follow [Opportunity Split approval process](/handbook/sales/#opportunity-splits)
+* Follow [Opportunity Split approval process](/handbook/sales/forecasting#opportunity-splits)
 * On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
 ## Sales Representation Letter 
@@ -213,4 +213,3 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
     * SFDC will capture the PS $ amount in the field named "Comp Pro Serv Value" on the license related opp
     * This will capture both pre-existing SKUs AND associated Professional Services Opportunities for an SOW
 5. [SFDC Dashboard](https://gitlab.my.salesforce.com/01Z4M000000slWT) to track PS Open pipe and won deals.   Note "Comp Pro Serv Value" on Opportunity will reflect amount considered for compensation.
-

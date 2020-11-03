@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Communicating with the Field"
+description: "Guide to communicating with and within the GitLab Field team using both Slack and email"
 ---
 
 ## On this page
@@ -72,12 +73,12 @@ Only use Slack Groups if:
 
 | Group Name | Group Members/Description |
 | ------ | ------ | 
-| sales-leaders | Regional directors and above (ASM and above for COM) |
-| cs-leaders | VP Customer Success direct reports |
-| field-managers | ASMs and above _or_ equivalents on the CS/Channel/Alliance/SDR side who are people managers |
-| sales-ent-managers | ASMs and above on the Enterprise team |
-| sales-com-managers | ASMs and above on the Commercial team |
-| sales-cs-managers | Managers and above on the Customer Success team |
+| sales_leaders | Regional directors and above (ASM and above for COM) |
+| cs_leaders | VP Customer Success direct reports |
+| field_managers | ASMs and above _or_ equivalents on the CS/Channel/Alliance/SDR side who are people managers |
+| sales_ent_managers | ASMs and above on the Enterprise team |
+| sales_com_managers | ASMs and above on the Commercial team |
+| sales_cs_managers | Managers and above on the Customer Success team |
 
 ### Field Slack Channels
 The below channels are specific to the field organization. 
@@ -103,7 +104,7 @@ The below channels are specific to the field organization.
 | Channel Name | Channel Access (Private/Public) | Description |
 | ------ | ------ | ------ |
 | #eastsales | public | Team channel for ENT U.S. East sales team |
-| #west-enterprise-gtm-team | private | Team channel for ENT U.S. West sales team |
+| #westsales | public | Team channel for ENT U.S. West sales team |
 | #emea-sals |  public | Team channel for ENT EMEA sales team |
 | #emea_mid-market_sales | public | Team channel for EMEA Mid-Market sales team |
 

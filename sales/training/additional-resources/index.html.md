@@ -133,7 +133,7 @@ Here are a few examples about how to start a conversation with a prospect who st
 
 Hi [prospect] and thanks for your interest in GitLab.
 
-In case you didn't see the email from our license app, I've attached a copy of your trial license key. Let me know if you need help installing or configuring GitLab.
+In case you didn't see the email from our LicenseDot, I've attached a copy of your trial license key. Let me know if you need help installing or configuring GitLab.
 
 Perhaps let me know what's driving your interest, what you're looking to validate during the trial period and how we can help you (demo, docs technical support etc).
 
@@ -155,7 +155,8 @@ Looking forward hearing from you.
 Best regards,
 
 
-### 6 Ways to Make Your Sales Email Insanely Valuable to Prospects <a name="insanely"></a>
+### 6 Ways to Make Your Sales Email Insanely Valuable to Prospects
+{: #insanely}
 
 The “just checking in” sales email isn’t just ineffective -- it’s also selfish.
 
@@ -363,7 +364,8 @@ Here are some examples of calls-to-action reps can include in their sales emails
 
 The introductory email sets the tone for the relationship. Before you reach out, ask yourself these six questions to determine whether or not you’re fully prepared to send that email. If you can’t answer all of these questions, hit the reset button and get back to the drawing board.
 
-### Bill Cates from Hubspot wrote [a great article about "The Art of Asking Open-Ended Questions.”](http://blog.hubspot.com/sales/the-art-of-asking-open-ended-questions) <a name="art"></a>  Here are some highlights.
+### Bill Cates from Hubspot wrote [a great article about "The Art of Asking Open-Ended Questions.”](http://blog.hubspot.com/sales/the-art-of-asking-open-ended-questions) Here are some highlights.
+{: #art}
 
 High-value questions bring value to the conversation and creates a learning experience for you and your prospect/client.  
 

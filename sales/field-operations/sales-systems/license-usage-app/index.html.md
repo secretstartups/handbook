@@ -9,7 +9,7 @@ title: "License Usage Salesforce App"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## How to Use the License App
+## How to Use LicenseDot
 
 1. Navigate to any customer account in Salesforce.
 1. Click on the License Usage button at the top of the layout.

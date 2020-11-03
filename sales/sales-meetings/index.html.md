@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Meetings"
+description: "Overview of the primary meetings for the global GitLab field team"
 ---
 
 ## On this page
@@ -43,9 +44,27 @@ The below page overviews the primary meetings for the WW Field Team.
 
 * When: Happens every Thursday at 9am Pacific time
 
+## Sales Monthly [Key Meeting](https://about.gitlab.com/handbook/finance/key-meetings/)
+
+* When: Happens once every month
+* Where: Zoom link varies - please check the calendar invitation
+* What: Michael McBride (CRO) will present to the CEO, CFO, and other company leaders a monthly Sales update. 
+
+This update will include the current status of:
+   * [Sales KPI's](https://about.gitlab.com/handbook/sales/performance-indicators/)
+   * [OKR's](https://about.gitlab.com/company/okrs/fy21-q3/)
+
+The meeting will cover:
+   * the quarterly forecast
+   * QTD performance
+   * most recent month's performance
+
+We will provide key takeaways as to what is on-track (green), needs improvement (yellow), or is of urgent concern (red). 
+We will review the standard IACV/ARR look back on historical performance, as well as the Pipeline X-Ray, which includes future-looking metrics like pipeline generation, coverage, and pacing for the current and next quarters.
+
 ## Sales Group Conversation
 
-* When: Happens once every 6 weeks at 8am Pacific time
+* When: Happens once every 8 weeks at 8am Pacific time
 * Where: Zoom link varies - please be sure to check the calendar invitation
 * What: The CRO Leaders will rotate and provide the company with an update on their business, overall team performance, notable wins, accomplishments, and relevant strategies planned.
 You can view previous updates in the "Group Conversation Sales" (previously "Functional Group Update Sales") folder on the Google Drive.
@@ -53,6 +72,21 @@ You can view previous updates in the "Group Conversation Sales" (previously "Fun
 
 ## Quarterly Business Reviews
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
+
+## WW GTM Field Update
+This update takes place in the first week of each new quarter and is meant to give Field team members a summary of activities and results across all go-to-market (GTM) functions in preparation for their QBR presentations. The meeting includes updates from: 
+- Sales 
+- Product
+- Marketing
+   - General Marketing 
+   - Revenue Marketing 
+   - Strategic Marketing 
+- Customer Success
+- Channel
+- Alliances  
+- Field Operations 
+
+The format of this update changes - from a synchronous meeting with department presentations followed by a Q&A to an asynchronous video recording with an issue or office hours to address questions – based on the timing of EOQ and its proximity to QBRs. 
 
 ## Focus Fridays
 The Field team is piloting Focus Fridays through the end of CY 2020. The goal is to encourage all field team members to clear out their calendars on Fridays as much as possible in hopes that this will help all of us be more efficient, allow space within our weeks for focused work, and reduce potential burnout. Guidance for Focus Fridays includes:  

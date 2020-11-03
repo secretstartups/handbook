@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Field Flash Newsletter - Edition 2020-05-05"
+title: "Field Flash Newsletter - Edition 2020-06-05"
+description: "May edition of the Field Flash Newsletter sent to the GitLab Field (Sales, CS, SDR) team and stakeholders"
 ---
 
 ## On this page

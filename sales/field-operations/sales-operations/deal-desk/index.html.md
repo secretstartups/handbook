@@ -13,7 +13,7 @@ title: "Deal Desk"
 
 ## **Welcome to The Deal Desk Handbook** 
 
-The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support.
+The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales. We are the first point of contact for sales support. 
 
 ### Key Focus Areas
     
@@ -33,7 +33,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](/handbook/sales/#incremental-annual-contract-value-iacv)
+    *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -97,7 +97,7 @@ Use our Slack channel in case of general, non-record related requests and/or urg
 
 Please avoid contacting the DD team members directly via Slack. Utlizing the channel is best to ensure timely coverage and helps others who may have similar questions.
 
-In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](##### Salesforce Chatter Communication Basics))
+In case of a specific opportunity or quote related question please use SF Chatter (see section [Salesforce Chatter Communication](#salesforce-chatter-communication))
 
 #### Slack Announcements
 
@@ -172,7 +172,7 @@ Never fear! Deal desk is here! All merged records go to the recycle bin, chatter
 
 #### Calculating IACV 
 
-To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/#incremental-annual-contract-value-iacv). Alternatively, please chatter @Sales-support on the opportunity for assistance in calculating IACV. 
+To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter @Sales-support on the opportunity for assistance in calculating IACV. 
 
 You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the IACV for renewals.
 
@@ -180,55 +180,38 @@ You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1Z
 
 **Please note that Flat Renewal Support has been decommissioned due to sever under utilization and inefficiencies in the process. To create a Flat Renewal quote, please review the Quote Configuration Guide below.
 
-### Duplicate Opportunity Management - Web Direct Purchase vs. Sales Accepted Opportunity
 
-To ensure SDRs receive proper credit for purchases made via the web portal, but which relate to active sales accepted opportunities, Deal Desk will follow the below processes:
 
-##### If the Opportunity Close Date is in the current month:
+### Opportunity Categorization
 
-*  Open both the web direct and sales accepted opportunities.
-*  Copy the following fields from the web direct opportunity to the sales accepted opportunity:
-    * A. Close Date
-    * B. Start Date
-    * C. End Date
-    * D. Opportunity Term
-    * E. Amount
-    * F. Renewal Amount
-    * G. Renewal ACV
-    * H. Web Portal Purchase = Yes
-    * I. Invoice Date
-    * J. Invoice Status
-    * K. Invoice Entity
-    * L. Invoice Number
-*  On the sales accepted opportunity, ensure the above fields are updated, and save. Change stage to Closed Won, save. Ensure Close Date reflects Close Date on web direct opportunity.
-*  On the web direct opportunity, change the stage to Duplicate. Delete Sales Accepted Date and Sales Qualified Date. Enter name of sales accepted opportunity in the Duplicate Opportunity field. Save.
+As of October 1, 2020, the following fields will be maintained by Deal Desk to distinguish standard vs. non-standard opportunities:
 
-##### If the Opportunity Close Date is in a previous month:
+##### Opportunity Category
 
-*  Open both the web direct and sales accepted opportunities.
-*  Clone the web direct opportunity.
-    * On the cloned web direct, change the close date to today. 
-    * Change the opportunity name to add "Internal Refund" to the title.
-    * Change the amount (and renewal amount/renewal acv) to the negative value. 
-    * Ensure stage is Closed Won.
-    * The "Refund Opp Source" field should read "From Finance"
-    * Save, and (1) ensure the negative values saved as negative, as these should be perfect opposites of the numbers on the web direct opportunity. 
-    * (2) Ensure the owner of the cloned web direct opportunity is the same owner as the original web direct opportunity.
-*  Copy the following fields from the original web direct opportunity to the sales accepted opportunity:
-    * A. Close Date (should be the same date as the cloned web direct opportunity)
-    * B. Start Date
-    * C. End Date
-    * D. Opportunity Term
-    * E. Amount
-    * F. Renewal Amount
-    * G. Renewal ACV
-    * H. Web Portal Purchase = Yes
-    * I. Invoice Date
-    * J. Invoice Status
-    * K. Invoice Entity
-    * L. Invoice Number
-* On the sales accepted opportunity, ensure the above fields are updated, and save. Change stage to Closed Won, save. Ensure Close Date reflects Close Date on cloned web direct opportunity (today's date).
+*  Standard (Default Value)
+   *  _Definition: A straightforward sale with no custom deal elements._
+*  Ramp
+   *  _Definition: A single deal with multiple individual ramp periods._
+*  Contract Reset
+   *  _Definition: A new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date._
+*  Credit
+   *  _Definition: A cancellation related to a contract reset._
+*  Decommission
+   *  _Definition: A deal that is being debooked in full or in part, where all related commission/billing/revenue is being removed._
+*  Decommissioned
+   *  _Definition: A deal that has been removed from record, and is no longer active due to a subsequent decommission opportunity._
+*  Internal Correction
+   *  _Definition: An internal correction to a previously booked opportunity, where commission/billing/revenue figures are not altered._
 
+##### Opportunity to Decommission
+
+*  This is a lookup field, where the name of the original opportunity (now being decommissioned) is entered. This field is required by validation rule if Opportunity Category = Decommission. Upon saving, the linked opportunity will automatically be categorized as "Decommissioned" via process builder.
+
+##### Payment Schedule
+
+*  Prepaid (Default Value)
+*  Annual Payments
+*  Custom Payment Schedule
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
@@ -429,7 +412,7 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 
 ### **Non-standard Quotes**
 
-Occassionaly an opporutnity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
+Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
 #### Contract Reset
 
@@ -446,6 +429,8 @@ Note: Contract Resets are used to perform an "Early Renewal" - i.e. start a new 
 *   Deal Desk will attach a PDF of the consolidated quote to the opportuntiy 
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
+
+Note: On the main contract reset opportunity, populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, populate the "Opportunity Category" field with "Credit."
 
 
 #### Add-On + Early Renewal
@@ -464,7 +449,7 @@ A.  Note: In the case of multi-year deals, the Initial Term” should be updated
 
 B.  If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter by Paul Machle.
 
-C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed
+C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
 
 #### Ramp Deals
 
@@ -480,6 +465,8 @@ B.  Request template:
     *   To use this template, copy the template to your own Drive, enter the information, and share your G Sheet with @Sales-Support in Chatter.
 
 C.  Note: Deal Desk will create the quotes and Order Form.
+
+Note: On the opportunity, populate the "Opportunity Category" field with "Ramp."
 
 
 #### Opportunities Requiring Multiple Invoices
@@ -529,6 +516,8 @@ To create opportunities requiring multiple invoices:
 *  The quote should follow the standard quote creation process (link to quote building process). Set the quote as primary. Repeat for all opportunities. The sum amount of all opportunities should equal the total amount for the SOW.
 *  Attach the signed SOW and Cost Estimate link to **each opportunity.**
 *  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
+
+Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
 
 
 #### Miscellaneous (But Important) Information
@@ -581,56 +570,6 @@ If the total value of the opportunity has not changed:
 *  The Opportunity Close Date for the Amended SOW should be manually updated to match the original Closed-Won opportunity.
 
 
-<details>
-<summary markdown="span"><b>Deal Desk Only - Manually Consolidated Order Form Forma<b></summary>
-
-
-#### Deal Desk Only - Manually Consolidated Order Form Format
-
-Deal Desk will manually consolidate an Order Form for complex deals, including: Ramp Deals, Multi-Year Ramps with Annual Terms, Add-On + Early Renewal, or Contract Resets. Quote Format should be as follows: 
-
-Date format on all quotes should match the entity format. EMEA quote dates are generated DD-MM-YYYY, NAMER quote dates are generated as MM-DD-YYYY. 
-
-#### Order Form Format for Add-ons to multi-year Subscriptions
-
-Where annual payments were approved for multi-year subscriptions, the add-ons to these orders will be created for the whole duration of the subscription and should indicate the full payment, 
-e.g.: 
-1. 2020-07-01 - 2021-01-31 - 5700 USD (pro-rated)
-1. 2021-01-31 - 2022-01-31 - 11400 USD (full)
-1. 2022-01-31 - 2023-01-31 - 11400 USD (full)
-
-#### Contract Reset Order Form Format
-
-**Product Information Section**
-
-* **Cancelled Product Line - Contract Reset** [Full SKU - Year ] 
-
-* **Quantity** - [Total Quantity of Users cancelled] 
-
-* **List Price** - [BLANK] 
-
-* **Discount** - [BLANK] 
-
-* **Effective Price** - [BLANK] 
-
-* **Total Price**- [($XX,XXX.XX)] - Total Price reflects the subtotal of the product (less VAT/Tax) and should be in parenthesis
-
-
-
-**Quote Charge Summary Section**
-
-* **Credit:** [($xxxx.xx)]- This should be Subtotal on the Credit from the Contract Reset quote object. This number should be in parenthesis
-
-* **Credit VAT/TAX:** [($xxxx.xx)] - This is the VAT/TAX amount on the Contract Reset quote object. This number should be in parenthesis 
-
-* **Subtotal:** [$xxxx.xx] - New Subscription Product Line Total Price - Contract Reset **Subtotal** 
-
-* **VAT/Tax:** [($xxxx.xx)] New Subscription Product Tax - Contract Reset VAT/Tax 
-
-* **Total:** [($xxxx.xx)] Subtotal + VAT/Tax 
-
-
-</details>
 
 
 #### Quote Entity Information
@@ -679,272 +618,3 @@ Note that the GitLab entity information will be populated via the following rule
 **Note**: all initial web direct subscriptions ordered through the portal are placed on the US entity. (Clarification: however if the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well.)
 
 **Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
-
-
-
-### **Monthly Bookings Close Process**
-
-The Monthly Bookings Close involves Billing, Deal Desk, Sales Analytics, and Finance. The Deal Desk close process is below. 
-
-#### Required Tools 
-
-We use Dataloader to manage these uploads. Download dataloader and follow the instructions for install [found here](https://help.salesforce.com/articleView?id=loader_install_mac.htm&type=5)
-
-#### Bookings Close Process Overview
-
-1.  **Reconcile** Renewal ACV
-2.  **Reconcile** Web Direct Purchases vs. Upcoming Renewals
-3.  **Reconcile** Missing Product Categories on Opportunities
-4.  **Reconcile** Last Month's True-Ups
-5.  **Reconcile** Compensation File
-
-##### 1. Reconcile Renewal ACV
-
-A.  Purpose: 
-
-Review all Closed Won/Closed Lost renewals to confirm/correct the Renewal ACV and Renewal Amount fields.
-*   Closed Won: This review ensures that the correct IACV is recorded.
-*   Closed Lost: This review allows us to track lost Renewal ACV.
-
-B.  Process:
-
-*   Open Month Close Reconcilation Google Sheet.
-*   Access Renewal ACV Reconciliation tab.
-*   Click Add-Ons > G-Connector for Salesforce > Refresh Current Sheet (from Salesforce).
-    *   This action will pull [this report](https://gitlab.my.salesforce.com/00O4M000004dypc) from Salesforce. Note that the report’s date range should be updated.
-    *   The report shows all Closed Won and Closed Lost renewals where Renewal ARR (del)  is empty. Renewal ARR (del)  triggers renewal notifications to Slack.
-*   Enter Renewal Amount, Renewal ACV, Renewal ARR (del), and Admin Review Date (Columns Q, R, S, V).
-    *   Go to the Account ID tab and click on the ID. This will take you to the Account record.
-    *   Go to the Opportunities related list.
-    *   For opportunities up to 12 months, add up the Amount fields on the previous renewal and add-ons. These amounts will constitute Renewal ACV.
-*   Notes:
-    *   Starting in Feb. 2020, CI Minutes and Professional Services will always be zero ACV and ARR.
-    *   Populate opportunity term, select to upload.
-*   When all updates are made, click Update/Insert on G-Connector to upload the updated data back into SFDC.
-    *   Highlight Opportunity IDs (Column B) that you want to update before clicking Update/Insert.
-    *   After updating, refresh the tab to confirm the update was successful.
-*   Finally, open [Closed Lost Renewals - Last Month](https://gitlab.my.salesforce.com/00O61000004hgLb) and move any Closed Lost renewal opportunities’ Close Dates to future months if the start date on the opportunity is in a future month.
-
-**Upload the completed file using Dataloader** 
-
-1. After the RACV tab has been reviewed and updated manually by the MP team, open the Open FQ Renewals - Renewal ACV Reconciliation tab of the weekly recon sheet.
-1. Open excel and paste the required columns that need to be updated and uploaded, i.e; Opportunity ID, Renewal ACV, Renewal ARR, Renewal Amount and Amount (the columns from Sales Segment until Opportunity Term are of no use and can be deleted off the sheet).
-1. Apply formula and check if the Renewal ACV is equal to Amount (=IF(B2=E2,”OK”,Check)
-1. The ones which are equal are fine. The ones that do not, manually go to the respective opportunity in order to check why to make sure we do not have a negative IACV.
-
-** Checks prior to uploading via Dataloader **
-1. Once the checks are done, format all the values as Number.
-1. Run a vlookup to check that we are not updating any closed-won opps. Steps below-
-- Pull report from Xactly for all Closed-Won opportunities.
-- Paste it in the next sheet of the excel being used above and run a vlookup to see that no Closed-Won opportunities are being updated.
-- Remove the amount column.
-- Remove all the blank columns and rows and save the file as .CSV
-
-**Open rACV using DataLoader** 
-
-1. Open DataLoader and under Settings check the batch size (5) and make sure the “Insert Null Values” checkbox is unchecked.
-1. Click the Update button in Data Loader.
-1. Login with your SFDC password and hit Next.
-1. Under the “Select Salesforce object” field start typing “opportunity”.
-1. Select the “Opportunity (Opportunity)”.
-1. On the same window choose the CSV file saved and hit Next.
-1. It starts running and a pop-up window appears with the total line items (worth to double-check if the correct CSV has been selected based on the number of lines).
-1. On the next page hit the “Create or Edit a Map” button - Map the columns to the SFDC values =>Search for the name of the fields and select them and drag them down one by one. 
-1. Select the directory - select your Downloads folder and hit Finish.
-1. Pop-up: hit Yes -> loading starts.
-1. Pop-up: Operation Finished - View Successes - View Errors -> check errors (whether the renewal amounts are populated on the opp).
-
-**After DataLoader upload is done - Refresh Sheet** 
-
-1. Delete the contents of the sheet leaving the headers.
-1. In order to refresh the G-sheet, go to Add-ons tab -> G-Connector for Salesforce -> Refresh Current Sheet (from Salesforce).
-
-##### 2. Reconcile Web Direct Purchases Against Upcoming Renewals
-
-A.  Purpose: 
-
-Confirm whether subscriptions are net new, or whether customers have simply created a new subscription instead of renewing their existing subscription.
-
-B.  Process:
-*   Open Month Close Reconcilation Google Sheet.
-*   Access the Last Month Web Directs tab.
-    *   Enter Add-Ons, click G-Connector for Salesforce, and refresh.
-    *   Last Month Web Directs report.
-    *   Be sure the close date filters are up to date - extend the close date past the current quarter to capture potential future renewals that closed early.
-*   Access the Upcoming Renewals tab.
-    *   Enter Add-Ons, click G-Connector for Salesforce, and refresh.
-*   Enter Last Month Web directs tab again.
-    *   We ultimately will be looking at LEFT 7, MATCH LEFT 7, Full Account Name, and MATCH FULL columns.
-    *   We are trying to gather whether we have any new business web directs that are matched on the Upcoming Renewals sheet.
-    *   First, start with MATCH FULL
-        *   Drag the formula down the entire list. 
-        *   Look for “TRUE” - these accounts match.
-            *   Filter further by New Business - if TRUE, these are accounts that were up for renewal but were closed as New Business.
-            *   For each account, go to SFDC and check whether the subscription is truly new business or whether the customer intended to renew.
-                *   Copy renewal ACV.
-                *   Edit new business opp.
-                *   Change Type to Renewal.
-                *   Update Renewal ACV amounts.
-                *   Save.
-                *   Return to account, find the true renewal opp, save as duplicate.
-                *   Chatter Billing Ops to ask them to link the subscriptions. (“Please link the subscriptions.”)
-                *   Be sure to assign to the correct rep, not Sales Admin if the opp is not SMB.
-            *   For accounts where there is only the new business web direct closed but it looks like a renewal, search for duplicate accounts. If you find a duplicate, merge the accounts. 
-                *   In Zuora, go to the “new” account and update the CRM Account ID with the correct account’s ID. 
-                *   In this case, we will leave as two separate subscriptions.
-                *   Be sure to assign to the correct rep, not Sales Admin if the opp is not SMB.
-    *   Filter by NA and FALSE.
-        *   Check whether C Account Name matches M Full Account Name.
-            *   For near matches, access the SFDC account.
-            *   Open a new tab and search SFDC for the near-match name to attempt to determine if it is the same company.
-            *   If the companies are truly the same, merge the accounts as above.
-
-##### 3. Reconcile Missing Product Categories on Opportunities
-
-A.  Purpose: 
-
-Add all products to the opportunity record for Closed Won and Closed Lost renewals. 
-
-1. Open Zuora Product Report .csv file. This report runs weekly and is sent to the Deal Desk team.
-1. Search for "Credit" in the product category field, delete all rows. 
-1. Search for "True-ups" in the product cateogry column. delete all rows. 
-1. Open the Products tab of the Weekly Reconcilation gsheet.
-1. Create a new sheet next to the Products tab in the Weekly Recon file - copy/paste the remaining rows from the .csv file on this tab
-1. Create a Vlookup for the invoice nr in column R on the Product tab for the Zuora invoice report: VLOOKUP (I2, Sheet115!C:D, 2, false). => column I is the invoice column on the product tab, then we use the sheet for the Zuora report and select Invoice Number and Invoice Item: Charge Name (columns C and D)
-1. Clean-up: Filter column R for each true value per product and update the Product Category column with the standardized name “Bronze”
-1. Check for Ci minutes based on the amount column and mark them as CI minutes in the Product Category column
-1. Copy the values from the Product Purchased (column G), insert it to the Product Category column and clean up the values again to reflect the standard product category (without the words “1 Year” etc.)
-1. Clear the column R values on the lines which were cleaned up
-1. Where the Product Purchased column is blank, leave for manual review. 
-
-Upload Product Category using Dataloader 
-
-1. After the products manual review is finished and the Product Category column is updated manually, for the upload select the Opp ID, Type and Product category columns and paste to an Excel. Only the oppty id and product category will be uploaded back but we can leave in other columns.
-1. In Data Loader settings check the batch size (5) and make sure the insert null values checkbox is unticked.
-1. Click Update in Data Loader and follow the process details under the Renewal ACV part above.
-1. The Type column should not be mapped (the one that won`t be uploaded)
-
-Helpful tips: 
-
-*   Reduce number of opps requiring manual review - 
-    *   Anything that is $8, 16, 24, 40 will be CI Minutes
-    *   The Charge name generally informs which product to enter in Column P.
-    *   In cases with multiple products, the opportunity takes precedence.
-    *   True-Ups should follow the product being true’d-up.
-    *   Spend more time researching higher IACV deals.
-    *   Be sure to distinguish EDU/OSS - write in “Gold (EDU/OSS)” vs. “just Gold.”
-    *   For legacy products, enter “Other.”
-    *   If there are lines that do not have Product Details listed, use Products Purchased.
-    *   If there are lines that do not have Product Details OR Products Purchased, find the invoice and enter the product listed on the invoice.
-*   Notes:
-    *   Basically, look to H to ensure P is populated.
-    *   If H is empty, go by G.
-    *   G and H blanks 
-        *   First, take care of CI Minutes. 
-        *   Filter A for opp name. If the name does not inform the product, go into the opp to review the subscription.
-
-
-##### 4. Reconcile Last Month's True Ups
-
-A.  Purpose: 
-
-Map any sales-assisted deals with true-ups into the True-Up Value field on the Opportunity object to comply with Revenue Recognition requirements.
-
-B.  Process:
-*   Access Month Close Reconciliation
-*   Access the “Last Month True Ups” tab.
-*   Click Add-Ons > G-Connector for Salesforce > Refresh Current Sheet (from Salesforce)
-    *   This action will pull [True Ups (Won Last Month) Report](https://gitlab.my.salesforce.com/00O61000004Ihvs) from Salesforce.
-    *   This report contains all Quotes sent to Z-Billing where the product rate plan contains “True Up.”
-*   In the True Up Value Column, enter the formula to multiply the quantity by effective price.
-*   Highlight all rows that will be appended back to SFDC. Do not include the header row, as this will result in an error.
-*   Note that the mapping template should already be set. If you do need to recreate it, you’re only mapping two columns: Opportunity ID and True Up Value.
-*   Click Push Selected Rows
-
-##### 5. Reconcile Compensation File
-
-A.  Purpose: 
-
-Review ownership of opportunities to ensure that each opportunity is attributed to the correct team (Region + Segment) for compensation purposes, as these fields will be pushed into CaptivateIQ and will determine commission.
-
-B.  Process:
-*   Access Month Close Reconciliation
-*   Access Comp tab.
-*   Click Add-Ons > G-Connector for Salesforce > Refresh Current Sheet (from Salesforce)
-    *   This action will pull [Bookings Report - Sales Metrics (Comp)](https://gitlab.my.salesforce.com/00O61000004hlFs) from Salesforce.
-    *   Note that refreshing the sheet will replace formulas: (a) Do a VLookup for Account Owner Team (against Account Owner) and Owner Team (Against Opportunity Owner - compare column G in Users tab, returning Column J, the user team field)
-    *   Note that SA Team - Xactly should = Column S (ex: should read Commercial - SMB, not SMB) - formula to pull this over.
-    *   Note, at this stage column M is correct, and R,S,T need to be reviewed.
-    *   Notes:
-        *   Does Sales Segment = Owner Team? If so, it’s correct (if R to U match, no action needed. This is generally 60-70% of opps)
-        *   Unknown? That’s SMB.
-        *   Sales Admin Opp under Sales Admin/SMB-owned account? No updates needed.
-        *   Customer Advocate? Ignore.
-        *   Opportunities owned by Ralph Kompare should be reassigned to the proper Public Sector owner - confirm with Brent Caldwell.
-        *   For Public Sector, Sub Industry (K) must be populated, and the owner territory should match Sub Industry.
-*   Review Opportunity Owner column to ensure that all owners are Sales reps who should own records.
-*   New users: An Error in columns R,S,T means there is a new employee. Add them via the Users tab.
-*   Opportunity Ownership: Note that if a non-rep (SDR, partner manager) owns the opp, update the opp in SFDC.
-*   Review the Comp tab and fill in the following fields:
-    *   User Segment [Taken from the User Table in SFDC]
-    *   Account Owner Team (O) [This is the account owner’s team]
-    *   Owner Team (O) [This is the opportunity owner’s team]
-    *   SA Team - Xactly [This is based on the opportunity owner’s team, and is integral for Solution Architects’ compensation because SAs are paired with the opportunity owner.]
-*   Review User Segment
-    *   Ensure that all User Segments are correct.
-    *   Options are: Large, Mid-Market, SMB
-    *   Do a VLOOKUP against the Users tab on the Opportunity Owner field and return User Segment.
-*   Review Account Owner Team (O)
-    *   Ensure the teams are entered correctly. This field is based on the Account Owner, not the Ultimate Parent Account Owner.
-    *   Do a VLOOKUP against the Users tab on the Account Owner field and return Team.
-*   Review Owner Team (O)
-    *   Filter or sort by users.
-    *   Do a VLOOKUP against the Users tab on the Opportunity Owner field and return Team.
-*   SA Team - Xactly
-    *   This should match the Owner Team (O)
-
-| Account Owner Team (O) | Owner Team (O) | SA Team - Xactly |
-|----- | ----- | ----- |
-| APAC | APAC | APAC |
-| EMEA | EMEA | EMEA |
-| Public Sector | Public Sector |Public Sector |
-| US East | US East | US East |
-| US West | US West | US West |
-| MM - East, MM - West, MM - EMEA, MM - APAC | MM - East, MM - West, MM - EMEA, MM - APAC | MM - East, MM - West, MM - EMEA, MM - APAC |
-| SMB | SMB | SMB |
-    
-
-*   Push the fields you updated in Steps VI to IX back into Salesforce. 
-*   Ensure Correct Segment Ownership.
-    *   Filter by the Ultimate Parent Segment field.
-        *   Large Accounts
-            *   Should have an Account Owner Team of APAC, EMEA, Public Sector, US East, or US West. Opportunities may be owned by other segments, as they are likely holdovers.
-            *   Should not be owned by Commercial - MM or Commercial - SMB.
-            *   If you identify a Large Ultimate Parent Account owned by a Commercial rep, reassign the account to the correct Strategic Account Leader. Update the Account Team Owner (O) field on the Comp tab.
-        *   Mid-Market Accounts
-            *   Should have an Account Owner Team of Commercial - MM, except for Public Sector. Opportunities may be owned by other segments, as they are likely holdovers.
-            *   Should not be owned by Strategic Account Leaders or Commercial - SMB reps.
-            *   If you identify a Mid-Market Ultimate Parent Account owned by a Strategic Account Leader or Commercial SMB rep, reassign the account to the correct Commercial - MM rep. Update the Account Team Owner (O) field on the Comp tab.
-        *   SMB/Unknown Accounts
-            *   Should have an Account Owner Team of Commercial - SMB, except for Public Sector. Opportunities may be owned by other segments, as they are likely holdovers.
-            *   Should not be owned by Strategic Account Leaders or Commercial - MM reps.
-            *   If you identify an SMB Ultimate Parent Account owned by a Strategic Account Leader or Commercial MM rep, reassign the account to Sales Admin. Update the Account Team Owner (O) field on the Comp tab.
-    *   Review Large/Mid-Market Accounts/Opportunities owned by Sales Admin
-        *   These accounts should be owned by the territory/account owners.
-        *   Access each record and reassign based on DataFox data. For Accounts that are reassigned, also assign the associated opportunities to the correct owner. Do not reassign historical opportunities.
-    *   Add Sub-Verticals for Public Sector Accounts/Opportunities
-        *   Inside Sales Representatives are compensated based on the sub-vertical.
-        *   Add this from the account object. Simply copy the values from Column J and add to Column K and make sure to push the values back into the field on the opportunity.
-*   Notes:
-    *   Community Advocate can own any segment’s opportunity. Do not reconcile.
-    *   Public Sector can own any segment’s accounts. Do not reconcile.
-    *   If there is bad data, update the account. Go 1 by 1.
-    *   Make edits directly in SFDC is opp or account owner must be updated.
-    *   Remember to update M R,S,T on the sheet and upload it back for Closed Won and Closed Lost.
-    *   On first pass, if Sales Segment falls under the correct account and opportunity owner, we know it’s correct.
-    *   Exceptions: Romer Gonzalez and APAC MM reps can also own SMB deals.
-
-
-
-
-
