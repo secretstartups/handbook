@@ -34,6 +34,8 @@ Sales Operations main focus is on the Sales organization and supports this group
 - Tav Scott - Sales Operations Manager, Commercial Sales
 - Melinda Soares - Senior Sales Operations Analyst
 - Meri Gil Galindo - Sales Operations Analyst
+- Jeny Bae - Associate Sales Operations Analyst
+- Monika Deshmukh - Associate Sales Operations Analyst
 
 ## **Teams We Work Closely With**
 
