@@ -28,7 +28,7 @@ A Referral is:
 * Someone you could make a confident claim about regarding their cultural adaptability (to GitLab), how well they align with our values, and their ability to excel in a given role.
 * Someone you feel would be a great addition to the GitLab team.
 
-What a Referral is **not**:
+A Referral is **not**:
 
 * Someone the Sourcing- or Recruiting Team has already sourced, screened, or been in contact with for the same requisition.
     * This applies to *Prospects* as well as *Candidates*.
@@ -36,6 +36,11 @@ What a Referral is **not**:
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
 * Someone who applied via a link you shared on a social site.
     * There's **no** way of determining who clicked a link on Twitter from a genuine Referral.
+
+Other Referral clarifications:
+
+* *Contract* or *temporary* roles are **not** eligible for Referral Bonuses.
+    * However, if the *Contractor* is converted to a *Team Member* for the same/similar role, then the referring Team Member will receive a Referral Bonus per the [referral bonus guidelines](https://about.gitlab.com/handbook/incentives/#referral-bonuses).
 
 #### Referral Bonus Eligibility
 
