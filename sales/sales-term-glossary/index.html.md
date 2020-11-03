@@ -270,10 +270,6 @@ Web portal purchases are split out separately.
 
 Another measured KPI is Rep Productivity (as defined above) divided by On Target Income.
 
-### Close Rate
-
-Measurement of closed won, sales assisted opportunities vs the total number of created, sales assisted opportunities in a given period.
-
 ## Systems Terminology Definitions 
 
 ### Parent and Child Accounts
