@@ -27,6 +27,7 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * 1:1 meetings are dark dark green, internal meetings are purple, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Carol plays a huge part in the meeting should be noted in red.
+* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.  
 * Scheduling should ideally be kept between 9:00 am and 6:00 pm Irish Standard Time
 
 ## Scheduling for Sales VPs
