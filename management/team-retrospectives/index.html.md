@@ -69,7 +69,7 @@ that you observe the following:
    through the retrospective in real-time.  Consider not recording the meeting if the
    team prefers to not do so in order to be able to speak freely.  If you do a meeting,
    consider scheduling it twice with one time good for those in EMEA and Eastern AMER time zones, and
-   one time good for those in APAC and Wester AMER time zones.  Also, consider having managers not attend
+   one time good for those in APAC and Western AMER time zones.  Also, consider having managers not attend
    the meeting so that attendees feel they can speak freely.  Someone other than a manager can be the moderator.
 
 ## Having a plan
