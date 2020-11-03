@@ -223,6 +223,8 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
    - Iteration: Doing the smallest thing possible and get it out as quickly as possible.
    - Transparency: Being as open about as many things as possible.
 
+1. Add Custom Questions to all interviews in the Team Interview Stage.  Every interviewer must have a place to include "Pros" and "Cons".  [How to add custom questions.](https://support.greenhouse.io/hc/en-us/articles/115002276366-Create-Custom-Questions-for-Interview-Kits)
+
 1.  To edit the attributes within a category, click `Edit` next to the category. You can then change the name of attributes, delete attributes, add brand new ones, or choose existing attributes from other vacancies. Keeping the attribute names the same and choosing existing attributes from other vacancies is recommended so that the attribute choices remain streamlined. However, if you have a particular attribute for this role that needs to be evaluated, don't hesitate to add it.
 
 1. Click `Save` once you've configured your attributes and categories. If you don't want to save your changes after you've clicked `Edit` under a category, click `Cancel`.
