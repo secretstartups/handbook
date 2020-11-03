@@ -12,7 +12,7 @@ For more information on the structure and process for the L&D newsletter, see [t
 This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses). 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIyz8RMc1Ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Five Fast Facts from our Interview with Sid
