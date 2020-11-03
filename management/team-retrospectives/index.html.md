@@ -32,8 +32,8 @@ surface can harbor deep problems, so it is always best to be prepared.
 Retrospectives are inherently conversations about _what went well_ and _what
 went wrong_ in a project or iteration. While it's easy to talk about _what went
 well_, _what went wrong_ can be a touchy subject. Without a safe environment,
-issues may go unmentioned and the team won't improve as rapidly as they
-otherwise could. In order to collect as much feedback as possible, we recommend
+issues may go unmentioned, and the team won't improve as rapidly as they
+otherwise could. To collect as much feedback as possible, we recommend
 that you observe the following:
 
 1. **All retrospectives should have an impartial moderator.** This moderator
@@ -42,13 +42,13 @@ that you observe the following:
    moderator has a stake in the conversation, they may feel as though it is not
    safe to voice dissent or share concerns.
 
-   Normally a manager should act as this moderator. In some circumstances the
+   Normally a manager should act as this moderator. In some circumstances, the
    moderator may feel a strong need or desire to participate in the
-   conversation. In that case they should make it clear that their participation
+   conversation. In that case, they should make it clear that their participation
    is as an individual participant, not as the moderator. If the moderator wants
    to take a very active role in the discussion, they should find a peer,
    Director, or other member of the team willing to moderate.
-1. **Emotions are not only _allowed_ in retrospectives, but they should also be encouraged** 
+1. **Emotions are not only _allowed_ in retrospectives, but they should also be encouraged.** 
    Emotional language ("I was angry when...," "It made me sad
    that...") not only helps convey intensity, it also helps expose issues that
    may have been difficult to sort out otherwise. Make sure all participants
@@ -60,17 +60,17 @@ that you observe the following:
    team, where necessary - if someone's role or contributions are going to be
    discussed, they should have the opportunity to contribute to the
    retrospective as well.
-1. **Use an issue to collect feedback asyncrhonously.** Consider using an issue to collect 
-   feedback asyncrhonously.  This allows everyone involved to think about and record their feedback on their
+1. **Use an issue to collect feedback asynchronously.** Consider using an issue to collect 
+   feedback asynchronously.  This allows everyone involved to think about and record their feedback on their
    own time.
 1. **When necessary, get people face to face.** After a particularly difficult
    iteration, or when there's a strong risk that emotions will be running high,
    it's almost always worth the cost to have everyone in a video meeting to talk
    through the retrospective in real-time.  Consider not recording the meeting if the
-   team prefers to not do so inorder to be able to speak freely.  If you do a meeting,
+   team prefers to not do so in order to be able to speak freely.  If you do a meeting,
    consider scheduling it twice with one time good for those in EMEA and Eastern AMER time zones, and
    one time good for those in APAC and Wester AMER time zones.  Also, consider having managers not attend
-   the meeting so that attendees feel they can speak freely.  Somone other than a manager can be the moderator.
+   the meeting so that attendees feel they can speak freely.  Someone other than a manager can be the moderator.
 
 ## Having a plan
 
