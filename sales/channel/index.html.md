@@ -1,10 +1,15 @@
 ---
 layout: handbook-page-toc
-title: "Channels"
+title: "Channel Sales"
 description: "The purpose of this page is to provide the  GitLab Sales team insights on the GitLab channel partner community and how to best work with our partners"
 ---
 
-### GitLab team members are the primary audience for this page.
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+#### GitLab team members are the primary audience for this page.
 
 
 # **GitLab Channel Overview**
