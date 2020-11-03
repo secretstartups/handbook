@@ -3,13 +3,13 @@ layout: markdown_page
 title: "Evolution Workflow"
 ---
 
-As engineers at GitLab, we lead the **evolution** of software, constantly working to find the right balance between proactive work, reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowing people to work on things that make everyone more productive. Experimenting and innovating are core to how we work, and **we focus on collaboration, results and iteration** to achieve our goals.
+As engineers at GitLab, we lead the **evolution** of software, constantly working to find the right balance between proactive work, reactive work, preventive work, and innovation. We strive to determine what work is important and what work is not, leveraging knowledge from those that know the most about GitLab, and empowering people to work on things that make everyone more productive. Experimenting and innovating are core to how we work, and **we focus on collaboration, results and iteration** to achieve our goals.
 
-With growth, however, comes complexity. An organic approach to our work sometimes requires help to ensure we are most effective. Help may be in the form of validating our technical approaches, ensuring organizational alignment across teams and departments, and driving priorities to key decision makers. **Technical Engineering leaders take on the task of helping engineers through these challenges**. The **Architecture Evolution workflow** is intended to provide influence amplication to drive the solution of complex problems both technically and organizationally.
+With growth, however, comes complexity. An organic approach to our work sometimes requires help to ensure we are most effective. Help may be in the form of validating our technical approaches, ensuring organizational alignment across teams and departments, and driving priorities to key decision makers. **Technical Engineering leaders take on the task of helping engineers through these challenges**. The **Architecture Evolution workflow** is intended to provide influence amplification to drive the solution of complex problems both technically and organizationally.
 
 ## Workflow: TL;DR
 
-**As an engineer, you and your manager determine whether to invoke the Architecture Evolution workflow**. When in doubt, **do not hesitate to reach out to an Architecture Evolution Coach** for input. 
+**As an engineer, you and your manager determine whether to invoke the Architecture Evolution workflow**. When in doubt, **do not hesitate to reach out to an Architecture Evolution Coach** for input.
 
 Most (if not all) work begins with an issue or epic (which we will generally refer to as a **domain issue** in this document) in a project as part of you regular workflow. These are everyday issues and epics created in their relevant projects. Engineers and managers use a domain issue to scope problems and possibly outline solutions. If the domain issue uncovers significant complexity (in terms of the problem domain itself or the organizational involvement required to solve it), engineers and managers may decide to invoke the Architecture Evolution workflow to enlist help from technical Engineering leaders and other relevant experts.
 
@@ -24,13 +24,13 @@ Most (if not all) work begins with an issue or epic (which we will generally ref
    1. Post on `#architecture`
 1. The AEC will help with scoping, roadmap placement, and organizational amplification by:
    1. Evaluating and updating roadmaps as necessary
-   1. Engaging with the appropriate management Engineeering Leader who will ultimately make priority and staffing decisions
+   1. Engaging with the appropriate management Engineering Leader who will ultimately make priority and staffing decisions
    1. Engage Product Management if no PM DRI was initially identified
    1. Engaging with the Technical Writing team.
 1. The **result** of an architecture issue an **Architecture Blueprint**. This result:
    1. Entails a MR against the  `doc/architecture/blueprints` directory in GitLab project and its corresponding discussion
    1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
-   1. When ready, the MR is assigned to the Engineeeing Leader that will make the appropriate decisions for merging
+   1. When ready, the MR is assigned to the Engineering Leader that will make the appropriate decisions for merging
    1. Once merged, a link to the blueprint is added to the Architecture Roadmap
 
 ### Getting things done
@@ -43,8 +43,6 @@ At this point, problem scope (domain and organizational) is known and documented
 1. Teams schedule their work based on their interpretation of the strategy described in the document.
 1. DRIs described in the blueprint are the decision makers for the approach taken.
 1. After the initial iterations, work can be concluded or expanded (in which case, the blueprint is updated).
-
-
 
 ## Workflow: The Detailed View
 
@@ -64,7 +62,7 @@ The primary outcome of the workflow is a **blueprint** published on `docs.gitlab
 
 For any given proposal, the following people are involved:
 
-* An Architecture Evolution Coach (e.g., a Distinguished Engineer), who is filtering, shepperding, disseminating proposals across the organization
+* An Architecture Evolution Coach (e.g., a Distinguished Engineer), who is filtering, shepherding, disseminating proposals across the organization
 * A Management Engineering Leader (e.g., a Director of Engineering), who is a decision-maker for a given proposal in terms of staffing and deliverables
 * One of more Domain Experts (e.g., Senior Backend Engineers), who lend their expertise on a given domain to solve a problem
 
@@ -82,7 +80,7 @@ Once the blueprint of the proposal gets approved, DRIs will be assigned to carry
 
 ### Roles
 
-There are three role types asociated with the Architecture Evolution Workflow and the generation of a blueprint:
+There are three role types associated with the Architecture Evolution Workflow and the generation of a blueprint:
 
 1. DRIs (Directory Responsible Individuals)
 2. DEEs (Domain Expert Engineers)
@@ -102,7 +100,7 @@ The purpose of involving a coach in the process of creating a blueprint is to al
 
 ##### The Engineering Management Leader
 
-The AEC will help you identify the right management Engineering leader to evaluate the proposal. Managers are key decision-makers, and, ultimately, will determine how to include your proposal in the stream of work that is always in-flght. This entails prioritizing and staffing to execute the work at the appropriate time.
+The AEC will help you identify the right management Engineering leader to evaluate the proposal. Managers are key decision-makers, and, ultimately, will determine how to include your proposal in the stream of work that is always in-flight. This entails prioritizing and staffing to execute the work at the appropriate time.
 
 #### Domain Experts
 
@@ -122,8 +120,7 @@ Functional Experts are engineers with deep knowledge across specific functional 
 
 ##### Security
 
-The Security Expert is an engineer, usually an Individual Contributor, who is part of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) sub-department, and can evaluate the impact of the blueprint on our security posture and perimeter. It is important to assess and identify risk as early as possible, as 
-workarounds to security design issues can lead to a lot of expensive changes. The Security Expert evaluates edge-cases and prevents later corrective actions. They can also specify some boundaries (example: list of allowed protocols) without modifying the design of the blueprint itself.
+The Security Expert is an engineer, usually an Individual Contributor, who is part of the [Security Engineering and Research](/handbook/engineering/security/#secure-the-product---the-product-security-sub-department) sub-department, and can evaluate the impact of the blueprint on our security posture and perimeter. It is important to assess and identify risk as early as possible, as workarounds to security design issues can lead to a lot of expensive changes. The Security Expert evaluates edge-cases and prevents later corrective actions. They can also specify some boundaries (example: list of allowed protocols) without modifying the design of the blueprint itself.
 
 @-mention `@gitlab-com/gl-security/appsec` so that a specific Security Functional Expert DRI is assigned to the blueprint.
 
@@ -147,7 +144,7 @@ A blueprint merge request is a description of [Why, How and What](https://en.wik
 * How - how are we going to achieve that (1-year forecast)
 * What - what is the outcome, how can we measure it
 
-Blueprints are mostly written by engineers, but their content should not be deeply technical. The audience are Product Team Members, management Engineering Leaders and the wider community. A blueprint should describe a clear vision that is easy to understand: use simple diagrams, and avoid tecnical jargon overload. Technical details will be fleshed out in subsequent epics and issues associated with a blueprint once we enter the execution phase.
+Blueprints are mostly written by engineers, but their content should not be deeply technical. The audience are Product Team Members, management Engineering Leaders and the wider community. A blueprint should describe a clear vision that is easy to understand: use simple diagrams, and avoid technical jargon overload. Technical details will be fleshed out in subsequent epics and issues associated with a blueprint once we enter the execution phase.
 
 A blueprint merge request gets created and made visible as a result of collaboration between an Architecture Evolution Coach, a Domain Expert and a person who had an idea. The author and coaches also need to be mentioned in the blueprint.
 
@@ -157,7 +154,7 @@ Blueprints are created in [`doc/architecture/blueprints`](https://gitlab.com/git
 
 ### Describing iterations
 
-Blueprints address complex comples, and they take a long-term view of the problem. Blueprints need to forecast iterations over a 3 to 6 month horizon. The result of this collaboration could be a description of three first iterations that can be done in a one milestone each. These iterations need to be [two-way-door](/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact. Blueprints that cannot identify at least two well-defined, high-level iterations should not be approved.
+Blueprints address complex cases, and they take a long-term view of the problem. Blueprints need to forecast iterations over a 3 to 6 month horizon. The result of this collaboration could be a description of three first iterations that can be done in a one milestone each. These iterations need to be [two-way-door](/handbook/values/#make-two-way-door-decisions) solutions with a measurable impact. Blueprints that cannot identify at least two well-defined, high-level iterations should not be approved.
 
 Once the iterations are described, the blueprint needs to be approved by a management Engineering Leader.
 
@@ -211,4 +208,3 @@ extended to the next three iterations and the blueprint needs to be updated.
 
 Alternatively the work can be concluded and the blueprint needs to be updated
 with results / outcomes.
-
