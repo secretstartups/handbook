@@ -118,5 +118,10 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 
 - [Mutual Non-Disclosure Agreement (NDA)](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
+- [Data Processing Agreement](https://drive.google.com/file/d/1k4RLEWvhvZsQ5mrrPnEnmg4ptFl_JPjF/view?usp=sharing)
+- [MPS Subcontractor Agreement](https://drive.google.com/file/d/1MgBqa_K1oqqIR79jV3AEynbYN6Jc_V5U/view?usp=sharing)
+- [Statement Of Work](https://drive.google.com/file/d/13EuzEZAX4wZaqQ1FCVjGkTh8Y-fLCQkb/view?usp=sharing)
+- [US-based Contractor Agreement](https://drive.google.com/file/d/1cK3ic_j7VfOrIvdQ19ZEuGwkwKqxwWEw/view?usp=sharing)
+- [APAC Contractor Agreement](https://drive.google.com/file/d/1i5GNMwpiXMU07MImncc-aB-viWJ4e13X/view?usp=sharing)
 
 
