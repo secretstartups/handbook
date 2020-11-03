@@ -20,13 +20,17 @@ If you need our attention, please feel free to ping us on issues using `@gl-peop
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:
 
-| Date                        |
-|-----------------------------------|
-| 2020-05-01 | Family & Friends Day
-| 2020-08-14 | Family & Friends Day
-| 2020-10-09 | Family & Friends Day
-| 2020-12-25 |
-| 2021-01-01 |
+| Date    | Reason |
+|------------------- | --------------|
+| 2020-11-25 | Family & Friends Day
+| 2020-11-26 | Public Holiday (US)
+| 2020-12-18 | Family & Friends Day
+| 2020-12-25 | Public Holiday
+| 2021-01-01 | Public Holiday 
+| 2021-01-15 | Family & Friends Day
+| 2021-01-18 | Public Holiday (US)
+| 2021-02-15 | Public Holiday (US)
+
 
 ### OOO Handover Process for People Experience Team
 
