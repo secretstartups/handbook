@@ -2,6 +2,12 @@
 layout: handbook-page-toc
 title: "Channel Services Program"
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 # GitLab Channel Services Program
 
 The GitLab Channel Services program is designed to help new or existing partners design service portfolios around the DevOps Lifecycle in correlation to GitLab products. The program will help partners evaluate business opportunities and create a technical enablement framework to use as they build their GitLab-related service practices. 
