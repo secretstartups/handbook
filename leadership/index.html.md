@@ -295,7 +295,7 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
 
 When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshot-the-handbook-instead-of-creating-a-presentation).
 
-### Manager Challenge
+### Manager Enablement
 
 Managers can participate in a [4 week manager training program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing foundational management skills to lead high performing teams.
 
