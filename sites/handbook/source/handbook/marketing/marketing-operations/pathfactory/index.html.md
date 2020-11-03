@@ -663,3 +663,44 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 | PathFactory Topic List | Assets are tagged by **topic**. This is manually set & aligns with the [tracking content](#tracking-content) list. |
 | PathFactory Track Custom URL | The custom URL of the content track. |
 | PathFactory Track ID | The automatically generated PathFactory ID of the content track. |
+
+### Industry Verticals
+
+Industry verticals are set using a standard list in SFDC per [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2500). 
+
+1. Aerospace & Defense
+1. Agriculture
+1. Apparel
+1. Automotive
+1. Banking
+1. Biotechnology
+1. Chemicals
+1. Communications
+1. Construction
+1. Consulting
+1. Education
+1. Electronics
+1. Energy
+1. Engineering
+1. Entertainment
+1. Environmental
+1. Finance
+1. Food & Beverage
+1. Government
+1. Healthcare
+1. Hospitality
+1. Insurance
+1. Local
+1. Machinery
+1. Manufacturing
+1. Media
+1. Not For Profit
+1. Other
+1. Recreation
+1. Retail
+1. Shipping
+1. State
+1. Technology
+1. Telecommunications
+1. Transportation
+1. Utilities
