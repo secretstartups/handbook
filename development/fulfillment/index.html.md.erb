@@ -44,24 +44,6 @@ Subscription management, payments, and trials. Systems: [CustomersDot](/handbook
 * [Milestone 13.5](https://gitlab.com/groups/gitlab-org/-/boards/1828610?milestone_title=13.5&label_name[]=group%3A%3Afulfillment) _Complete_
 * [Milestone 13.4](https://gitlab.com/groups/gitlab-org/-/boards/1775156?milestone_title=13.4&label_name[]=group%3A%3Afulfillment) _Complete_
 
-
-
-## Improving the purchase, renewal, and licensing flows.
-
-The Fulfillment team is currently working on an initiative to improve our sales efficiency, with improvements identified by the [Commercial & Licensing Working Group](https://about.gitlab.com/company/team/structure/working-groups/commercial-licensing/).
-
-We're following the [Engineering Demo Process](https://about.gitlab.com/handbook/engineering/#engineering-demo-process)  in order to show regular improvements as we iterate on issues in this area.
-
-Our [Scorecard](https://docs.google.com/spreadsheets/d/1DVUSg6ow5eT9UcG56KwF5uu0MIWf2jo_21XyDxgUOuo/edit#gid=0) (internal only) breaks down the different steps in these flows and links to videos where we step through the process and discuss the issues that aim to improve them.
-
-We are tracking progress with [this epic](https://gitlab.com/groups/gitlab-org/-/epics/4455) and [this dahsboard](https://app.periscopedata.com/app/gitlab/750638/Fulfillment-Purchase-Flow-Improvements).
-
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841538, embed: 'v2') %>">
-<embed width="<%= 99 %>%" height="250" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841334, embed: 'v2') %>">
-<embed width="<%= 99 %>%" height="350" src="<%= signed_periscope_url(dashboard: 750638, chart: 9841378, embed: 'v2') %>">
-
-An important initiative has been identified in this Working Group around fixing the data integrity issues with [Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora) and [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot). More on this topic can be [found here](/handbook/engineering/development/fulfillment/zuora).
-
 ## How we work
 
 * In accordance with our [GitLab values](/handbook/values/)
@@ -94,10 +76,6 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
-
-#### Historical capacity
-
-<%= partial("handbook/engineering/development/fulfillment/historical_capacity", locals: { chart_id: 7362278 }) %>
 
 ### Picking something to work on
 
