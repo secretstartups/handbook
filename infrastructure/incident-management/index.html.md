@@ -322,7 +322,7 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned.|
 | `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. |
-| `~Incident::Review-Requested`  | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
+| `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1) or a Review-Requested label was added to the incident. |
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
@@ -344,6 +344,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 | `~group::*` | Any development group(s) related to this incident |
+| `~Review-Requested`  | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
 ### Workflow Diagram
 
@@ -352,7 +353,7 @@ graph TD
   A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
   B --> C[Incident::Mitigated]
   C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
-  D --> |S1 or optional for any severity| E[Incident::Review-Requested]
+  D --> |S1 or optional by adding the Review-Requested label| E[Incident::Review-in-Progress]
   E --> F[Incident::Review-Scheduled]
   D -->|S3/S4| Z[Closed]
   B --> Y[Incident issue not needed. Remove all labels and close]
