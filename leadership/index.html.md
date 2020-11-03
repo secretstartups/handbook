@@ -261,7 +261,7 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
     - Notes from the [E-group](/company/team/structure#e-group) reading:
     - Virtual teams are much more likely to fail on crucial conversations than colocated teams
     - We need to develop the skill of sensing the tone of a-sync conversations to uncover potential issues
-    - We need to find a way to create psychological safety for people in official channels
+    - We need to find a way to create [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/) for people in official channels
     - Starting with empathy is a great way to gather the context needed in a tense situation - this is hard a-sync, but more important
     - Consider getting context 1-on-1 (through Slack) before posting a comment in an issue that you might regret later
     - As leaders, we need to give context as well. A good question is: "What would have to change for us to get X prioritized..."
