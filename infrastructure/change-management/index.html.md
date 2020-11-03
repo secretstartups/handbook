@@ -274,7 +274,7 @@ As a reference, we should communicate 5-6 weeks before the change, for a C1 that
 Steps:
 * Create a Google doc with the change communication message draft. Have it reviewed by an SRE Manager and those involved with the change.
 * Create an issue for the official company communication about the change.
-    * Create a new communication Issue in the Production project of our Gitlab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
+    * Create a new communication Issue in the **Production project** of the Gitlab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
     * Set Confidentiality to `Confidential` until the day we publish it in status.io, when we will set it to `Not Confidential`.
     * Obtain approval for the overall plan and expected impact from:
       * Director of SRE, Infrastructure
