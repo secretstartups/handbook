@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Channel Services Program"
 ---
 # GitLab Channel Services Program
