@@ -198,6 +198,7 @@ Contacts, and Leads, Verify and Save)
    _ Map Number of employees to the NumberofEmployees: Manual-Admin field
    _ Drop and drag any missing fields
    _ Leave RecordType blank (nothing matches) \* Click OK. Click Next. Select where the error log will save to. Make sure to save to a location otherwise it will save to a mysterious location on your machine
+   
    </details>
    </details>
 
