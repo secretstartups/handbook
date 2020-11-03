@@ -294,11 +294,11 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Johan Rosendahl |
 | Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Johan Rosendahl |
 | Russia | RU | **MM-EMEA-Russia** | Chris Willis | Rahim Abdullayev |
-| Southern Europe | IL | **MM-EMEA-Southern-IL** | Anthony Ogunbowale-Thomas | Camille Dios |
-| Southern Europe | IT | **MM-EMEA-Southern-IT** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | IL | **MM-EMEA-Southern-IL** | Lisa vdKooij | Camille Dios |
+| Southern Europe | IT | **MM-EMEA-Southern-IT** | Sophia Simunec| Camille Dios |
 | Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Camille Dios |
 | Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Camille Dios |
-| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Sophia Simunec | Camille Dios |
 | Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Camille Dios |
 | MEA | AE | **MM-EMEA-MEA-AE** | Israa Mahros | Johan Rosendahl |
 | MEA | SA | **MM-EMEA-MEA-SA** | Israa Mahros | Johan Rosendahl |
