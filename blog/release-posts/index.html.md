@@ -317,7 +317,7 @@ After the 18th of the month, late additions should be added only in coordination
 
   **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process.
 
-  - Feature file names: feature-something-descriptive.yml (don't designate primary vs secondary as that can change)
+  - Feature file names: stagename-featurename.yml (don't designate primary vs secondary as that can change, don't use category or group name and don't include the reporter's name)
 
   - Deprecation file names: dep-something-descriptive.yml
 
