@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Outreach"
+description: "Outreach is a sales engagement platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals."
 ---
 
 ## On this page
@@ -8,6 +9,10 @@ title: "Outreach"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+### About Outreach
+
+Outreach is a sales engagement platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals.
 
 ### Set-Up  
 User set-up instructions can be found [here](https://docs.google.com/document/d/1VJpZaoDoGtwN4Dp21g_OuhVauN2prHNyUtmIWKuROUY/edit#heading=h.v6blhaepsusl).

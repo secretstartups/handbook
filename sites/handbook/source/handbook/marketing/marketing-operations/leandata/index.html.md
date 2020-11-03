@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "LeanData"
+description: "LeanData is an application used within Salesforce (SFDC) to process and assign lead and account records."
 ---
 
 ## On this page

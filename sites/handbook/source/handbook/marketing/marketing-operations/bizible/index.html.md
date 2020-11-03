@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Bizible"
+description: "Bizible unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions."
 ---
 
 ## On this page
@@ -8,6 +9,10 @@ title: "Bizible"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## About Bizible
+
+Bizible unifies behavioral and ad data with sales outcomes and machine learning so you can make the right marketing decisions.
 
 ## Bizible Touchpoints
 

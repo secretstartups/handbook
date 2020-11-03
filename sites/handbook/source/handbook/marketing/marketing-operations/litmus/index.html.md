@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Litmus"
+description: "Litmus is email marketing software used primarily by marketing campaign managers to build, test, and optimize our email marketing programs."
 ---
 
 ## On this page
@@ -11,7 +12,7 @@ title: "Litmus"
 
 ## Uses
 
-Litmus is email marketing software used primarily by marketing program managers to build, test, and optimize our email marketing programs. 
+Litmus is email marketing software used primarily by marketing campaign managers to build, test, and optimize our email marketing programs. 
 
 ## Litmus Analytics
 

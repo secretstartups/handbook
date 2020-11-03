@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing Operations"
+description: "Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well."
 ---
 
 ## On this page
@@ -15,12 +16,12 @@ Marketing Operations (MktgOps) supports the entire Marketing team to streamline 
 
 Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
 
-## Marketing Operations README's
+## Marketing Operations Team
 
 - Claudia Beer, Manager - Oversees business partners
 - Beth Peterson, Senior - SDR business partner
 - Amy Waller, Senior - Campaign business partner
-- [Sarah Daily, Senior](/handbook/marketing/marketing-operations/readme/sarah-daily/index.html) - Content business partner
+- Sarah Daily, Senior- Content business partner
 - Jameson Burton, Associate
 
 ## Who is my business partner?
@@ -171,7 +172,7 @@ We use Labels for several purposes. One is to categorize the tool or area that i
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 
 **Priorities:**
@@ -466,6 +467,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
+     - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
 
 ##### Step 2: Sync to Salesforce
 

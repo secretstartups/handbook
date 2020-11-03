@@ -11,7 +11,7 @@ title: "Smartling"
 
 ## Uses
 
-Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral. The [global content team](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) is primarily responsible for our [localization](https://about.gitlab.com/handbook/marketing/localization/) initiatives and translations. 
+Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral. The [global content team](https://about.gitlab.com/handbook/marketing/growth-marketing/content/) is primarily responsible for our [localization](https://about.gitlab.com/handbook/marketing/localization/) initiatives and translations. Follow our progress for fully rolling out Smartling in this [epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1405). 
 
 ## Training & Support
 
@@ -34,6 +34,7 @@ Smartling is our localization platform that is used to translate pages on our we
 
 1. [Admin Training](https://drive.google.com/file/d/1Rl-7cfW74P8ELd3Cn9Pu0b0LDeFCPRyI/view?usp=sharing)
 1. [Project Manager/Requester Training (Documents Project)](https://drive.google.com/file/d/1K78ffIGdNvN4KMerfNT1OLas2ifB3R03/view?usp=sharing)
+1. [Marketo Training](https://drive.google.com/file/d/1ujF_gQcPP-nKmf5EsE4Hpya2Vn-RNg6S/view?usp=sharing)
 
 **Help Articles**
 
@@ -83,7 +84,8 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 Projects are organized by the integration type:
 
 1. Marketo (emails, landing pages)
-1. Repo (GitLab repository files)
+1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
+1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
 1. Documents (PDF files)
 
 ## How Smartling Works
@@ -145,7 +147,7 @@ To download a translated job from the `GitLab Documents` project:
 
 ### Issues
 
-If any strings are rejected from the translation job, those would appear as issues. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. 
+If any strings are rejected from the translation job, those would appear as issues. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. Once the issue is resolved, please mark the issue as `Resolved`.
 
 ### History
 
