@@ -106,6 +106,8 @@ It is recommended to involve your stakeholders throughout the product developmen
   class review optional
 ```
 
+![Product Development Flow Diagram](Product-Dev-Flow.png)
+
 <kbd class="required">Required 🔎</kbd>
 
 > Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
@@ -405,7 +407,7 @@ Finally, Engineering Managers will apply `Deliverable` label to issues with a mi
 
 The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
 
-This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it is in the [development process](`https://about.gitlab.com/handbook/engineering/workflow/#basics`). 
+This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it is in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics). 
 
 When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
 
