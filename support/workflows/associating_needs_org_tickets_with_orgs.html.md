@@ -206,7 +206,7 @@ associated with the organizations. The current process for this is as follows:
 1. If the user's email address is listed there, you may safely associate the
    user to the organization.
 1. If the users email is not listed then the following workflow applies and reflects how
-   [customers prove their entitlement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/AM-Update-Needs-Org-Full-Workflow/support#proving-your-support-entitlement).
+   [customers prove their entitlement](https://about.gitlab.com/support/#proving-your-support-entitlement).
 
 **For GitLab.com users:**
 
