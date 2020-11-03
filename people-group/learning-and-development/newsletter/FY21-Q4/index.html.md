@@ -21,7 +21,7 @@ This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses).
 1. Preferred Learning Style: Read/Write
 1. Role Model(s): Amazon (AWS), SpaceX 
 1. What are you doing to grow?: has coaches, utilizes his board performance review, reads books, asks a lot of questions 
-1. Check out the [Leadership Page](/handbook/leadership/) 
+1. Handbook page to check out: The [Leadership Page](/handbook/leadership/) 
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
@@ -64,20 +64,12 @@ If you would like to learn more about L&D at GitLab, visit our [handbook page](/
 
 Each quarter we will feature a different team and what they do here at GitLab. 
 
-## Learning Spotlight 
-
-More ways you can continue to learn throughout the quarter: 
-
-* LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
-* [add?]
-
 ## Recap of FY21-Q3
 
 * 26 managers participated in our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#pilot-program). This was the first program of its kind at GitLab and it was developed in an effort to reinforce our values and to enable our people leader to manage remotely. We are currently making iterations and plan to roll out in early 2021! 
    * If you would like to learn about what the participants thought of the program, check out [the retrospectives](/handbook/people-group/learning-and-development/manager-challenge/#retrospective-sessions). 
 * The [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) Course on Coursera Launched in September! To date, 157 people have completed the course and 8,814 have enrolled! 
 * The first Monthly Continuous Learning Call took place on 2020-10-21. If you missed it or wanted to watch again, you can do that [here](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
-* [add] 
 
 ## Upcoming in FY21-Q4 
 
@@ -85,7 +77,7 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 
 **Live Learning Sessions**
 
-[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. GitLab team members can sign up for any of our live learning sessions [here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4). If we add more courses throughout the quarter, they will be added there as well. 
+[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. GitLab team members [can sign up here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4) for any of our Q4 live learning sessions. If we add more courses throughout the quarter, they will be added there as well. 
 
 * 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
 * 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
@@ -103,9 +95,9 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 
 Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab. Our upcoming calls for Q4 are outlined below: 
 
-* 2020-11-18 @ 1 PM PT 
-* 2020-12-16 @ 7 AM PT 
-* 2020-01-20 @ 1 PM PT 
+* 2020-11-18 @ 1:00 PM PST 
+* 2020-12-16 @ 7:00 AM PST
+* 2020-01-20 @ 1:00 PM PST 
 
 **Other Events**
 
@@ -117,6 +109,12 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](handbook/pe
    * An invite will be sent from the GitLab Team Meetings calendar when the date is finalized. 
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel. 
+
+## Learning Spotlight 
+
+More ways you can continue to learn throughout the quarter: 
+
+* LinkedIn Learning [Diversity, Inclusion, & Belonging for All](https://www.linkedin.com/learning/paths/diversity-inclusion-and-belonging-for-all) learning path is free for anyone to take through the end of the year!  
 
 ## Learning Tips 
 
