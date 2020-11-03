@@ -106,7 +106,6 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
       - Executive
       - Recruiter
       - Sourcer
-      - Candidate Experience Specialist Team 
       - Sourcing Manager
       - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
    - Offer Fully Approved:
@@ -161,7 +160,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Schedule a [Kick-off Session](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
 
-1. Notify the CES Team once the kick-off is complete so the job can be published to the [Careers Page](https://about.gitlab.com/jobs/careers/) 
+1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](https://about.gitlab.com/jobs/careers/) 
 
 **Post the job internally**
 
