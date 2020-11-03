@@ -68,7 +68,7 @@ that you observe the following:
    it's almost always worth the cost to have everyone in a video meeting to talk
    through the retrospective in real-time.  Consider not recording the meeting if the
    team prefers to not do so inorder to be able to speak freely.  If you do a meeting,
-   consider doing twice with one time good for those in EMEA and Western AMER time zones, and
+   consider scheduling it twice with one time good for those in EMEA and Eastern AMER time zones, and
    one time good for those in APAC and Wester AMER time zones.  Also, consider having managers not attend
    the meeting so that attendees feel they can speak freely.  Somone other than a manager can be the moderator.
 
