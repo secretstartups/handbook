@@ -14,7 +14,7 @@ title: "Growth Sub-department Performance Indicators"
 These charts show metrics filtered for the [Growth sub-department](/handbook/engineering/development/growth).
 
 ### Development Indicators
-<a href="https://app.periscopedata.com/app/gitlab/705845/?widget=9257321" target="_blank">Sisense↗</a>
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
@@ -183,7 +183,7 @@ These charts show metrics filtered for the [Growth sub-department](/handbook/eng
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "product analytics"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "analytics"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
