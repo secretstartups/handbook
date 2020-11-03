@@ -367,6 +367,8 @@ It can also happen that the candidate does not have a story to share with you; t
 
 In Greenhouse, you will use an "interview kit" when interviewing a candidate, which has text for feedback and scorecards for skills and values.
 
+We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include Pros and Cons. This helps the recruiting team gather data that will be presented to the candidate in the form of feedback.
+
 The bottom of the feedback form will ask for an overall recommendation on if you want to hire this person or not; please do leave a score for each candidate, and read our [handbook page discussing the scorecards and best practices](/handbook/hiring/greenhouse/#scorecards).
  
 Scoring is defined as follows:
@@ -408,14 +410,16 @@ Scoring is defined as follows:
 </summary>
 
 1. At any time during the hiring process the candidate can be rejected.
+1. Everyone who interviews a candidate must complete a scorecard and are required to input pros and cons as well as an overall recommendation.
 1. If a situation arises in which the role has been filled within 24 hours of a candidate's interview, we will **not** cancel the interview. The interviewer will take the call and be transparent with the candidate about the situation upfront. It would be a good use of time to discuss other roles, future roles or questions about GitLab in general.
     - If the candidate's interview is outside 24 hours, the interview will be deleted in Greenhouse before the candidate is rejected and notified.
-1. The candidate should always be notified if and when they've been rejected. The recruiting team is primarily responsible for declining the candidate, but the hiring manager should be prepared to let the candidate know why they were declined if they had progressed to the team or manager interviews. The hiring manager can also share this feedback with the recruiting team, who will relay it to the candidate.
-1. We try to provide feedback for candidates who have passed the first interview stage and met with the team or hiring manager. This feedback can be given by email, or our preferred method of a zoom meeting for late stage candidates. If the candidate asks for further feedback, only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values).
-    * All feedback should be constructive and said in a positive manner. Keep it short and sweet.
-    * Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.
-    * If you feel uncomfortable providing feedback for whatever reason, reach out to the recruiting team for assistance.
-    * If you must reject the candidate via an email there are templates built into Greenhouse to use as a guideline to help candidates understand the rejection decision, but those templates should be personalized and customized to fit each situation. Personalization in communication with candidates is encouraged.  You may use the email scheduling option to send out the rejection email at a later date.
+1. The candidate should always be notified if they've been rejected. The recruiting team is primarily responsible for declining the candidate, but the hiring manager should be prepared to let the candidate know why they were declined if they had progressed to the team or manager interviews. The hiring manager can also share this feedback with the recruiting team, who will relay it to the candidate.
+
+|Stage|Timing|Medium|Type|
+| ------ | ------ | ------ |------ |
+|Screening Interview with Recruiter|Within 5 days of Screening Interview|Email OR Verbally during the Screening Interview |Standard Template by default, may provide specific feedback, but not required|
+|Assessment|Within 5 days of Asessment Submission|Email |Standard Template by default, may provide specific feedback, but not required|
+|Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
 1. If people argue with the feedback that we provided:
     * Do not argue with or acknowledge the validity of the contents of the feedback.
     * Share their feedback with the people involved in the interviews and the decision.
