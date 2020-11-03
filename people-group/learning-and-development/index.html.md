@@ -192,7 +192,7 @@ Everyone's career development is different, but we have [outlined](/handbook/peo
 
 Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness. We have [outlined](/handbook/leadership/emotional-intelligence/) the definition of emotional intelligence, how to understand your own EQ, how to develop your EQ in a [remote setting](/company/culture/all-remote/guide/), and building an inclusive environment with EQ. 
 
-Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
+Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/leadership/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
 
 ### Language Courses
 
