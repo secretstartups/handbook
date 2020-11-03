@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
 title: "Communities of Practice"
-description: "Cross Functional team focusing on specific topics  Learn more!"
-canonical_path: "/handbook/customer-success/initiatives/communities-of-practice/"
+description: "Cross Functional team focusing on specific topics. Learn more!"
+canonical_path: "/handbook/customer-success/initiatives/communities-of-practice.html"
 ---
 
 ### On this page
