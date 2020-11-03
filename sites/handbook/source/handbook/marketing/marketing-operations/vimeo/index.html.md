@@ -78,7 +78,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Under `Video Controls` toggle on/off the options for your live event.  [See more about customizing the embedded player and adding embed presets](https://vimeo.zendesk.com/hc/en-us/articles/224972808-Customizing-the-embedded-player).
 1. Choose your preferred interaction tool and its respective settings (optional). See [interaction tools](#interaction-tools) for more detail.
 1. Under the `Destinations` tab, select where you will be streaming your live event. Available destinations to stream: Vimeo. [More destinations coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872). Click `Next`. 
-1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: Destinations, [Chat](#chat), [Polls](#polls), [Q&A](#Q&A), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
+1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: [Destinations](#destinations), [Chat](#chat), [Polls](#polls), [Q&A](#Q&A), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
 1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner.
 
 ### Stream Health
@@ -204,9 +204,44 @@ Vimeo supports [simulcasting](https://vimeo.zendesk.com/hc/en-us/articles/360000
 
 [Interaction tools](https://vimeo.zendesk.com/hc/en-us/articles/115007469788-Video-interaction-tools-overview) allow you to engage with your audience at meaningful points within the video, and give them the opportunity to connect to additional external sites or resources.
 
-1. `Email capture` can appear before, during, or after a video, with the option to withhold your video behind the email capture field, or let viewers skip it.
-1. `Cards` are a customizable, notification-style layer that you can set to appear during playback and remain on the screen for six seconds. 
-1. `End screens` let you determine exactly what appears when videos finish playing. 
+#### Email capture 
+
+[Email capture](https://vimeo.zendesk.com/hc/en-us/articles/224819147-Email-capture) can appear before, during, or after a video, with the option to "gate" your video behind the email capture field, or let viewers skip it.
+
+You can set up the email capture screen to appear before, during, or after your embedded videos, then download those email addresses. There is no direct integration between Vimeo and Marketo. You can only set up one email capture screen per video. For example, if you’ve already chosen to display the email capture screen before your video, you’ll no longer see the options to display it during or after in the embed settings. **Note:** Email capture is not supported on Facebook or Twitter.
+
+**Setting up email capture**
+
+1. Navigate to the `Interaction tools` tab in your video’s settings.
+1. Select to enable email capture before, during, or after your video. If you choose to display the email capture screen before or during your video, you have the option to allow or prevent viewers from skipping the email capture screen. You also have the option to add a custom message, up to 100 characters in length, that will display along with the email capture fields.
+
+**Interaction stats for email capture**
+
+From the stats panel for your video, you can check the number of times the email capture screen has been seen and the number of email addresses submitted for the past 30 days. [Learn more about stats for video interaction tools](https://help.vimeo.com/hc/en-us/articles/115004386887-Videos-page-stats-panel).
+
+**Downloading all captured emails as a CSV**
+
+On the `Marketing` tab of `Account Settings`, you can download a CSV of all the emails captured through your embedded videos. The CSV contains the name (if provided), video ID, domain, and date captured associated with each email address. To download the CSV:
+
+1. Click the button below the `Download email addresses` heading. The first time you download the CSV, you will be prompted to accept the following terms:
+    - I will only use collected email addresses for marketing purposes.
+    - I will not share these email addresses with others.
+    - I will comply with CAN-SPAM, CASL, and any other applicable laws.
+    - I will provide an unsubscribe mechanism and comply promptly with opt-out requests.
+
+Once you accept, the CSV will download.
+
+**Download captured emails for an individual video**
+
+If you only want the email addresses from one particular video, you can download that CSV by navigating to your video manager. Select the desired video then navigate to `Analytics` > `Interaction` and click `Download email addresses`.
+
+#### Cards
+
+[Cards](https://vimeo.zendesk.com/hc/en-us/articles/115007469808-Cards) are a customizable, notification-style layer that you can set to appear during playback and remain on the screen for six seconds. 
+
+#### End screens
+
+[End screens](https://vimeo.zendesk.com/hc/en-us/articles/115007893267-End-screens) allow you to determine exactly what appears when videos finish playing. 
 
 ### Privacy settings overview
 
