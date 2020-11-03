@@ -201,10 +201,10 @@ Building a team to deliver [results](/handbook/values/#results) is a very import
 
 **Skills and behavior of [building high performing teams competency](/handbook/competencies/#list) for Managers**:
 
-- Models and encourages teamwork by fostering collaboration, communication, trust, shared goals, mutual accountability and support
+- Models and encourages teamwork by fostering collaboration, communication, [trust](/handbook/leadership/building-trust), shared goals, mutual accountability and support
 - Fosters an environment where results are balanced with time management of multiple assignments and DRI's on important topics
 - Empowers team members to be a Manager of One and gives them the tools to grow professionally in their careers
-- Attracts and retains top talent by creating an inclusive environment built on trust, delegation, accountability, and teachability
+- Attracts and retains top talent by creating an inclusive environment [built on trust](/handbook/leadership/building-trust), delegation, accountability, and teachability
 
 ### Strategies to Build High Performing Teams
 
@@ -218,7 +218,7 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 **7 Stages to developing high performing teams:**
 
 1. Orientation - Why are we here? Team members need to see a sense of team identity and how individual team members fit in.
-1. Trust Building - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
+1. [Trust Building](/handbook/leadership/building-trust) - Who are you? Team members share mutual regard for each other and are open and supportive of trust-based relationships.
 1. Goal Clarification - What are we doing? Assumptions are made clear; individual assumptions are made known with a clear vision of the end state.
 1. Commitment - How will we do it? Team members understand how it will make decisions and do the work.
 1. Implementation - Who does what, when, where? Team members have a sense of clarity and can operate effectively due to the alignment of shared goals.
