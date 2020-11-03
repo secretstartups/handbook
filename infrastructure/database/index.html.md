@@ -50,9 +50,9 @@ In addition to the DBREs, the reliability of our database is supported by
 [OnGres](https://www.ongres.com). OnGres provides 24x7 support with engineers
 in our PagerDuty escalation policy for database support "Production Database Assistance".
 
-For emergency paging Ongres, via this escalation policy, open your PagerDuty mobile App, navigate to MENU > Escalation policies > Production Database Assistance > Level 1 , and click on the preferred contact method.
+For emergency paging OnGres, via this escalation policy, open your PagerDuty mobile App, navigate to MENU > Escalation policies > Production Database Assistance > Level 1 , and click on the preferred contact method.
 
-Issues can be brought to the attention of OnGers engineers by affixing the
+Issues can be brought to the attention of OnGres engineers by affixing the
 [`~Ongres`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?label_name%5B%5D=Ongres)
 or
 [`~OngresSupport`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?label_name%5B%5D=OngresSupport)
