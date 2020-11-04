@@ -74,7 +74,7 @@ advance of the production upgrade.
 
 Should issues occur, the Support Engineer should encourage the user to initiate
 the reviewed rollback plan. If the Support Engineer feels confident they can
-resolve the issues they have encoutered, they may do so. However, the planned
+resolve the issues they have encountered, they may do so. However, the planned
 maintenance window of the user should be taken into consideration. Ensure there is
 enough time to rollback should it be required.
 
