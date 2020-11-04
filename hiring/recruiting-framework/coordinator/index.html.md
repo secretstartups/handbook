@@ -256,9 +256,11 @@ When a candidate requests to meet with an TMRG team member, their Candidate Expe
       - #minoritiesintech
       - #diverse_ability
       - #gender-minorities-employee-resource-group
-      - 	#generational_understanding
+      - #generational_understanding
 
 1. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
+
+1. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
 As a GitLab team member taking part in these calls, we advise you to start with a short introduction to you and your role here at GitLab. From here, we advise you to let the candidate lead the conversation as the goal is for you to answer their questions and offer insight into how we work.
 

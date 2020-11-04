@@ -13,18 +13,20 @@ description: "This page is an overview of the processes the hiring manager is re
 ## Recruiting Process Framework - Hiring Manager Tasks
 {: #framework-hm}
 
-### Step 1/HM: Identifying hiring need
+### Step 1/HM: [Identifying hiring need](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process)
 
-1. Determine the purpose of this role
-1. Is it a new or existing role?
-1. Create or adjust a job description that outlines the positions main responsibilities and basic qualifications
-1. See the [vacancy creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) in the handbook.
+1. [Add Vacancy to the Hiring Plan](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#adding-vacancies-to-the-hiring-plan) 
+Determine the purpose of this role
+1. [Create or Review the Job Family](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#create-or-review-the-job-family) 
+1. [Work with the Recruting Manager/Lead to open the vacancy in Greenhouse](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse)
 
-### Step 12/HM: Complete feedback in Greenhouse/next steps
+### Step 2/HM: [Complete Kick-off](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) 
 
-Once the first interview(s) are completed, the interviewer will submit feedback via the designated scorecard in Greenhouse. 
+### Step 3/HM: Setup Scorecard and Prepare Interview Team
 
-The hiring manager will have designated areas of focus for each member of the interview team. These will be defined during the intake call and setup in Greenhouse by the recruiter or the CES. 
+Interviewers will submit feedback via the designated scorecard in Greenhouse. The hiring manager will designate areas of focus for each member of the interview team. These will be defined during the kick-off and setup in Greenhouse by the recruiter or the CES. 
+
+You can review [sample interview questions for the interview team](https://docs.google.com/document/d/1Eb7GUUH0b9wzf1WxuyKUYhpjP774VbO5sQWtiDZX-PM/edit) based around specific focus areas.
 
 As a best practice the Hiring Manger should reach out to each individual on the interview plan.
 
@@ -45,26 +47,12 @@ As a best practice the Hiring Manger should reach out to each individual on the 
 > > b. [insert name of Interviewer 2] - [focus area]
 > >
 > > c. [insert name of Interviewer 3] - [focus area]
->
-> **Please** complete your interview notes in Greenhouse within 1 business day of your interview. If you have any trouble please contact your recruiter or CES.
->
-> Additionally, your referrals are important to us! If you have any referrals for this role (or other roles that are currently posted at GitLab) please submit them following the [guidelines in the handbook](/handbook/hiring/referral-process/#submitting-a-referral).
 
-**Interview Resource**
+### Step 4/HM: Hiring team to complete feedback in Greenhouse
 
-You can review [sample interview questions for the interview team](https://docs.google.com/document/d/1Eb7GUUH0b9wzf1WxuyKUYhpjP774VbO5sQWtiDZX-PM/edit) based around specific focus areas.
+Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. If you have any trouble please contact your recruiter or CES.
 
-### Step 15/HM: Hiring team to complete feedback in Greenhouse
-
-Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews.
-
-In Greenhouse, you will use an "interview kit" when interviewing a candidate, which has text for feedback and scorecards for skills and values.
-
-We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include Pros and Cons. This helps the recruiting team gather data that will be presented to the candidate in the form of feedback.
-
-The bottom of the feedback form will ask for an overall recommendation on if you want to hire this person or not; please do leave a score for each candidate, and read our [handbook page discussing the scorecards and best practices](/handbook/hiring/greenhouse/#scorecards).
-
-### Step 19/HM: Complete references
+### Step 5/HM: Complete references
 
 Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. At least 2 references must be completed, and one of them must be a manager or supervisor. 
 
