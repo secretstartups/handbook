@@ -33,7 +33,7 @@ work out with one price.
 That is why we have a [Starter, Premium, and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
 The price difference between each of them is half an order of magnitude (5x).
 
-We charge for making people more effective and will charge per user, per
+We will charge per user, per
 application, or per instance. We do include free minutes with our subscriptions
 and trials to make it easier for users to get started. As we look towards more
 deployment-related functionality on .com it's tempting to offer compute and
