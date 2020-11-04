@@ -402,7 +402,10 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. After individuals gave their preference, the skills/requirements of the roles will be matched to the skills of the individuals. For example: level, product/technical skills, potentially soft skills.
 1. DRI work with People Business Partner to ensure all legal requirements are met as these vary between countries.
 1. Ask hiring manager to approve transfer. If they don't approve look at the individual's first or second choice.
-1. Follow the normal process for recording and announcing each transfer.
+1. Once choices are finalized, approved, and rationale is documented, current manager should communicate the decision directly with individual impacted team members. 
+1. Current manager follows the standard process for [updating job information in BambooHR](/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr). _Before communicating company-wide, all changes should be reflected in BambooHR._ 
+1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
+1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
 
 #### For People Success & Recruiting Team
 
