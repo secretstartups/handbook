@@ -78,7 +78,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Under `Video Controls` toggle on/off the options for your live event.  [See more about customizing the embedded player and adding embed presets](https://vimeo.zendesk.com/hc/en-us/articles/224972808-Customizing-the-embedded-player).
 1. Choose your preferred interaction tool and its respective settings (optional). See [interaction tools](#interaction-tools) for more detail.
 1. Under the `Destinations` tab, select where you will be streaming your live event. Available destinations to stream: Vimeo. [More destinations coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872). Click `Next`. 
-1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: [Destinations](#destinations), [Chat](#chat), [Polls](#polls), [Q&A](#Q&A), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
+1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: [Destinations](#destinations), [Chat](#chat), [Polls](#polls), [Q&A](#q--a), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
 1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner.
 
 ### Stream Health
@@ -143,7 +143,7 @@ A logo is a small icon that appears in the lower right corner of the screen and 
 1. The image you upload should be a square at 200 x 200 pixels and no more than 5MB in size. Logos can only be added to the bottom right corner of the stream, but will also appear above fullscreen graphics or to the right of lower third graphics.
 1. Click `Preview` to see the logo on the browser encoder preview window for 5 seconds, `Replace` to select a new image, or the `delete (trash) icon` to remove the image. You then also have the option to `show (eye icon)` the fullscreen indefinitely, after which you can then hide the fullscreen, and access the menu to edit, duplicate, or delete the logo.
 
-### Q&A
+### Q &amp; A
 
 [Live Q&A](https://vimeo.zendesk.com/hc/en-us/articles/360044207351-Live-Q-A) allows you to accept questions, have viewers vote to order questions based on popularity, publish the question to the stream, and ultimately answer them.
 
