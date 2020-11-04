@@ -52,7 +52,8 @@ The primary channel we currently receive vulnerability reports is through our
 [HackerOne Bug Bounty](/handbook/engineering/security/application-security/runbooks/hackerone-process.html), but we still
 make `security@gitlab.com` available for reporting as well. Triaging and
 responding to these tickets in a timely manner is a responsibility of the
-[AppSec Rotation](/handbook/engineering/security/#triage-rotation).
+[Field Security team](/handbook/engineering/security/#external-contact-information)
+and they will reach out to AppSec when needed.
 
 If any team member has *any* concern about a report and an Application Security
 engineer is not available, [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call).
