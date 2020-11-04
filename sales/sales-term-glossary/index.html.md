@@ -314,3 +314,7 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 ### Sales Qualified Lead (SQL)
 
 [Sales Qualified Lead](/handbook/business-ops/resources/#customer-lifecycle)
+
+### D300 (Account)
+
+`D300` refers to prospect & customer accounts in SFDC that have more than 300 developers and indicate a higher propensity to buy GitLab and for future growth.
