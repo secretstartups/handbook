@@ -73,7 +73,7 @@ With this option, we spin up a copy of the environment in the secondary region f
 ### Silver and Gold customers
 RTO: Based on an SLA goal of 99.95% we can afford to be down for [22 minutes per month](https://uptime.is/99.95), or ~66 min per quarter at which point we breach SLA. Therefore we set our RTO target for premium customers at **1 hour**. 
 
-RPO:  Looking at the [Analytics tab for the GitLab project](https://gitlab.com/gitlab-org/gitlab/-/value_stream_analytics), over past 30 days there were 5482 commits, which equates to ~7.5 commits per hour or 1 commit every 8 minutes. Assuming the GitLab project is representative of the size/activity of what enterprises might store on gitlab.com, we therefore set the RPO target to **10 minutes**.  Note, for commits that were not picked up by the replication process within the 10 minute timeframe, we recommend that customers rely on their local git history to restore them. 
+RPO: Looking at the [Analytics tab for the GitLab project](https://gitlab.com/gitlab-org/gitlab/-/value_stream_analytics), over past 30 days there were 5482 commits, which equates to ~7.5 commits per hour or 1 commit every 8 minutes. Assuming the GitLab project is representative of the size/activity of what enterprises might store on gitlab.com, we therefore set the RPO target to **10 minutes**.  Note, for commits that were not picked up by the replication process within the 10 minute timeframe, we recommend that customers rely on their local git history to restore them. 
 
 ### Free Customers
 State that we will restore service for free users as quickly as we can, but offer no official time guarantee.
