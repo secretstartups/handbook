@@ -99,7 +99,7 @@ The newsletter is sent out **on the first Monday of each month at 9 am PT.** Bas
 We build the newsletter in an issue in the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). The process for the issue includes: 
 - The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
-- Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews.
+- Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews. Exceptions can be made in special cases – please reach out to the Field Communications team in the #field-flash-contributors channel to discuss. 
 - Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in MailChimp. 
 - Field Communications sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
