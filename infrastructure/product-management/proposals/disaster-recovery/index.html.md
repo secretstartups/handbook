@@ -93,7 +93,7 @@ We recommend rolling out a Disaster Recovery solution in an iterative manner and
 **Phase 1 (By end of Q4 FY21):**
 - Complete Geo failover on a staging/test environment and overall gap analysis of Geo to meet our requirements.
 
-**Phase 2 (By end of  Q1 FY22):**
+**Phase 2 (By end of Q1 FY22):**
 - Enough capabilities in place to tell customers with confidence that we have the ability to recover if GCP us-east goes down (no official RTO guarantee at this point) 
 
 **Phase 3 (By end of  Q2 FY22):**
