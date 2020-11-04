@@ -436,7 +436,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Alyce Direct Mail**, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-alyce-direct-mail-campaigns)
+For **Alyce Direct Mail**, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/marketing-operations/#steps-to-setup-alyce-direct-mail-campaigns) below.
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
