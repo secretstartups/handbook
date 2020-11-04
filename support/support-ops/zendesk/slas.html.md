@@ -102,7 +102,7 @@ use the top most SLA based on the list of our SLAs (see below).
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
+| First reply time | 8h | 8h | 8h| 8h |
 | Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 

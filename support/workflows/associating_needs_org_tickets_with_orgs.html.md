@@ -36,6 +36,27 @@ SLA type is out of date / incorrect. Many of the same principles apply here.
 > integration and cause users to receive incorrect SLAs. If you notice an
 > organization needs to be created, please notify support-ops to rectify this.
 
+### Overall Flow
+
+```mermaid
+graph TD
+    A{{Is the user tied to an org?}}
+    A -->|Yes| B{{Does the ticket have an SLA?}}
+    B -->|Yes| E[Done]
+    B -->|No| F[Investigate and fix]
+    A -->|No| C{{Is it a paid customer org?<br>Use look up customer details workflow }}
+    C -->|Yes| G{{Is the email a contact in SFDC?}}
+    G --> |Yes| I[Associate user with org]
+    G --> |No| J{{Has user provided proof of entitlement?}}
+    J --> |Yes| I
+    J --> |No| K[Ask for proof]
+    C --> |No| L{{Prospect or trial?}}
+    L --> |Yes| N{{Priority prospect?}}
+    N --> |Yes| O[Add appropriate prospect tag]
+    N --> |No| P[Add appropriate tag]
+    L --> |No| M[Mark as Free User]
+```
+
 ### Determining if this workflow applies
 
 This workflow applies if:
@@ -206,7 +227,7 @@ associated with the organizations. The current process for this is as follows:
 1. If the user's email address is listed there, you may safely associate the
    user to the organization.
 1. If the users email is not listed then the following workflow applies and reflects how
-   [customers prove their entitlement](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/AM-Update-Needs-Org-Full-Workflow/support#proving-your-support-entitlement).
+   [customers prove their entitlement](https://about.gitlab.com/support/#proving-your-support-entitlement).
 
 **For GitLab.com users:**
 

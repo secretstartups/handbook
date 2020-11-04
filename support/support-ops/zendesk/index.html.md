@@ -21,6 +21,12 @@ Pages to read for more information:
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Current Important Things to Know
+
+If at any point you see an agent reply in a Zendesk ticket that does not have a
+signature, please do not reply to or edit the ticket. Instead, immediately
+escalate this to the Support Operations Manager, Jason Colyer.
+
 ## Macros
 
 Instead of managing these via Zendesk itself, we instead us the
