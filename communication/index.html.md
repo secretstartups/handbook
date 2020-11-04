@@ -192,6 +192,10 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Optional AMA.
     If desired and appropriate, offer a companywide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a companywide call, please make a request in the #peopleops Slack channel, and include a Google Doc in the invite for questions.
 
+### Ask Me Anything Meetings
+
+[Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.  
+
 ### Posting in #company-fyi
 
 Our companywide announcements channel is **#company-fyi**.
