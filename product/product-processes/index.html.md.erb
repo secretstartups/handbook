@@ -682,7 +682,7 @@ should satisfy this inequality:
 Despite its minimal form, the change
 
 - Always requires documentation.
-- Must track usage from day 1, if the feature has a meaningful impact. You can find more information on how we think about monitoring feature engagement in our [Product Analytics Guide](https://docs.gitlab.com/ee/development/product_analytics/index.html)
+- Must track usage from day 1, if the feature has a meaningful impact. You can find more information on how we think about monitoring feature engagement in our [Product Analytics Guide](/handbook/product/product-analytics-guide)
 
 [![xkcd.com](https://imgs.xkcd.com/comics/optimization.png)](https://xkcd.com/1691/)
 
@@ -868,7 +868,7 @@ When a support request is opened, labels will automatically be assigned to categ
 Three fields are particularly important when triaging requests:
 
 - Priority: How time critical the request is, `urgent` requests should be treated with a high priority.
-- Impact: Potential impact to the business, based on [total contract value (TCV)](/handbook/sales/#total-contract-value-tcv).
+- Impact: Potential impact to the business, based on [total contract value (TCV)](/handbook/sales/sales-term-glossary).
 - Stage: Which stage the request relates to.
 
 All product managers should ensure they are set up to receive label notifications for their respective stages:
@@ -1568,6 +1568,14 @@ yet.
 
 ### Stakeholder Management
 
+#### What's a Stakeholder? 
+
+A stakeholder is someone that is outside of your direct team who meets one or more of the following: 
+- Is directly or indirectly impacted 
+- Has the ability to stop, delay, or cancel 
+
+Examples of stakeholders include Leadership, Sales, Marketing, Customer Support, and Customer Success. You may have stakeholders in any area of GitLab depending on your focus area and the specific issue. Stakeholders are also present outside of GitLab, for example,  when a feature is being developed for a specific customer or set of customers. 
+
 #### Updated SSOT for stakeholder collaboration
 
 Stakeholder collaboration and feedback is a critical competitive advantage here
@@ -1706,6 +1714,9 @@ directly mention users in issues to engage async. In popular issues you can just
 **GitLab Broadcast Message Placeholders (In App Message)** is a great tool for recruiting users from within the product. This tool alows users to be recruited durring or after
 interacting with specific workflows within the product. Currently, banner messages can be [targeted by URL](https://www.youtube.com/watch?time_continue=3&v=C4PuRUiQ6WU&feature=emb_logo),
 and [user information can be passed](https://www.youtube.com/watch?v=2NKsXgfLhqc&feature=youtu.be) in order to personalize the message as well as the response.
+
+**Due to a https://gitlab.com/gitlab-org/gitlab/-/issues/216344 in-app messaging is not currently available to send users messages on GitLab.com. The following process exists
+and may be reimplmented once this bug is solved**
 
 How to use In App Message:
 
@@ -1916,6 +1927,18 @@ the current milestone would generally be the top priority in the next milestone.
 In this regard your planning exercise is a complete prioritization of the near term
 issues.
 
+### Feature templates
+
+We have 3 templates PMs can leverage to create issues for features: 
+
+1. [Basic proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Basic%20Proposal.md) for minor tasks or technical details for tracking larger issues. 
+1. [Lean feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Lean%20Feature%20Proposal.md) and for all feature enhancements that will get proposals and potentially become release post items. 
+1. [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md) for large new features that may require more information or details and will become release post items.
+
+The goal of these different templates is to provide an efficient way of creating new issues and improve cross team collaboration. When appropriate, these templates may be leveraged for creating epic descriptions as well. 
+
+
+
 ### Epics
 
 Issues related to the same feature should be bundled together into an
@@ -2013,7 +2036,22 @@ Mentioning the people in the body of the issue will trigger the notification mec
 chosen by the people who are mentioned - therefore there is no need to notify
 people in another channel after the issue has been created (Slack, email).
 
-GitLab product issues will often have one of the two [type labels](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#type-labels) `~bug` or `~feature`. Features can be further clarified as `~feature::addition` or `~feature::maintenance`. The rough guidance here being that additions are new features vs. maintenance is follow-on work to existing features. There are also other higher precedence labels, as documented by [Engineering throughput](/handbook/engineering/management/throughput/#implementation).
+GitLab product issues will often have one of the two [type labels](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/development/contributing/issue_workflow.md#type-labels) `~bug` or `~feature`. Features can be further clarified as:
+
+- `~feature::addition` - Refers to the first MVC that gives users a foundation of new capabilities that were previously unavailable. For example, these issues together helped create the first MVC for our Reviewer feature: 
+    - [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921)
+    - [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294)
+    - [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054)
+    - [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
+- `~feature::enhancement` - Refers to user-facing improvements that refine the initial MVC to make it more useful and usable. For example, these issues enhance the existing Reviewer feature: 
+    - [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922)
+    - [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736)
+    - [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
+- `~feature::maintenance` - Refers to refinements to an existing feature that are not user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example:
+    - [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22) 
+    - [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
+
+There are also other higher precedence labels, as documented by [Engineering throughput](/handbook/engineering/management/throughput/#implementation).
 
 When considering whether an issue is [a missing feature or a bug](/handbook/product/product-processes/#issues), refer to the [definition of an MVC](/handbook/values/#minimal-viable-change-mvc) and [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) for general guidance that works well in most cases. If in doubt - think from our customer's perspective - not our internal one - focus on whether it is valuable for our customers and should be prioritized. In the long run it won't matter whether we called it a bug or a feature -what would matter is if we focused on the right things to deliver to our users. Remember that bug fixes can be fast and iterative. See an example where the Package team found, researched, designed, implemented, and merged a small fix in 24 hours, while also planning a longer-term fix to follow.
 
@@ -2211,9 +2249,9 @@ When considering open source software in build vs. "buy" decisions we utilize th
 - **Velocity** - Is there a high rate of iteration with the software? Are new features or enhancements proposed and completed quickly? Are security patches applied regularly?
 - **Community** - Is there a diverse community contributing to the software? Is the software governed by broader communities or by a singular corporate entity? Do maintainers regularly address feedback from the community?
 
-## Product Metrics Guide
+## Product Analytics Guide
 
-Please see [Product Metrics Guide](/direction/product-analytics#product-metrics-guide)
+Please see [Product Analytics Guide](/handbook/product/product-analytics-guide)
 
 ## Page load performance metrics
 
