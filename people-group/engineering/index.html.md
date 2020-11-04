@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "People Ops Engineering"
+title: "People Group Engineering"
 ---
 
 ## On this page
@@ -25,10 +25,10 @@ Responsibilities include (but are not limited to):
 
 ### Working with us
 
-If you'd like to request engineering assistance with an issue related to People Ops processes
+If you'd like to request engineering assistance with an issue related to People Group processes
 or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)), please start by
 [creating an issue](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/issues/new)
-in the People Ops Engineering project.
+in the People Group Engineering project.
 
 ### Report bugs
 
@@ -38,7 +38,7 @@ If you want to report bugs about existing integrations, you can use any of the f
 
 ### Our workflow
 
-The [People Ops Engineering board](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/-/boards/1312849)
+The [People Group Engineering board](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/-/boards/1312849)
 serves as the single source of truth on the engineering team's priorities. Issues follow a linear sequence, with a `Workflow::`
 label indicating an issue's current status:
 

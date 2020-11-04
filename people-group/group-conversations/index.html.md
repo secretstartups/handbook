@@ -13,7 +13,7 @@ title: "Group Conversations"
 
 Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). 
 
-The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday.
+The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -124,16 +124,17 @@ There are three layers of content in a presentation:
 #### Cancellation
 
 We try not to cancel a GC. 
-We prefer to have half-prepared GCs over delaying them, but occassionally there may be a last-minute cancellation. 
-If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the e-group to host an AMA.
+We prefer to have half-prepared GCs over delaying them, but occasionally there may be a last-minute cancellation. 
+If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the E-Group to host a Pop-up AMA. 
+These should be called Pop-up AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a GC cancellation.  
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. 
+[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/finance/key-meetings/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
-1. Ensure the slide deck is visible to all of GitLab
+1. Ensure the slide deck or handbook links are visible to all of GitLab
 1. Give a heads up in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand.
 
 ### 30 Minutes Before the Call
@@ -154,7 +155,7 @@ The `People Experience and People Specialist` teams are responsible for moderati
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
-The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
+The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host or the EBA for the host's organization will be responsible for moderating the call. 
 
 ### Preparing for the Group Conversation
 
@@ -187,6 +188,7 @@ Additional links which may be useful when preparing to moderate a call include:
 2. At time notify the Host that the meeting should be concluded allowing time for all participants to wrap up the active discussion and thanking them for their time and collaboration. 
 2. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
 1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/engineering/security/#engaging-the-security-on-call) for support. 
+1. Once the stream has ended, copy and paste the YouTube link to the Group Conversation agenda. This will allow easy access to the stream without having to search for it in the GitLab Unfiltered channel. 
 1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
 <figure class="video_container">
@@ -218,40 +220,6 @@ Additional links which may be useful when preparing to moderate a call include:
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
 
-The schedule with directly responsible individuals (DRI) is as follows through the end of FY21 Q3:
-
-| Week | Day | Group Conversation | DRI |
-|---|---|---|---|
-| One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
-| One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
-| One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur | [Marketing](/handbook/marketing/)  | Todd Barr  |
-| One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Enablement Section](/handbook/engineering/development/enablement/)  | Josh Lambert  |
-| Two  | Tue  | [Dev Section](/handbook/product/product-categories/#dev-section)  | Eric Brinkman  |
-| Two  | Wed  | [Ops Section](/handbook/product/product-categories/#ops-section)  | Kenny Johnston  |
-| Two  | Thur | [Secure & Protect Section](/handbook/product/product-categories/#secure--protect-section)  | David DeSanto  |
-| Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Three  | Mon  | [Growth Section](/handbook/product/product-categories/#growth-section)  | Hila Qu  |
-| Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Three  | Wed  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
-| Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
-| Three | Fri | Do Not Schedule  | Do Not Schedule  |
-| Four  | Mon  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| Four  | Tue  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
-| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Four  | Thur  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
-| Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Five  | Mon  | [Product](/handbook/product/)   | Scott Williamson  |
-| Five  | Wed  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
-| Five  | Thur  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Six  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
-| Six  | Tue  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
-| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
-| Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
-| Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
-
 In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations during this period. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. The schedule, with directly responsible individuals (DRI), is as follows starting FY21 Q4:
 
 | Week | Day | Group Conversation | DRI |
@@ -259,31 +227,31 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Mon  | [Quality](/handbook/engineering/quality/)  | Mek Stittri  |
 | One  | Tue  | [UX](/handbook/engineering/ux/)  | Christie Lenneville  |
 | One  | Wed  | [Revenue Marketing](/handbook/marketing/revenue-marketing/)  | Evan Welchel  |
-| One  | Thur | Available |  |
+| One  | Thur | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Two  | Mon  | [Product](/handbook/product/), [Growth Section](/handbook/product/product-categories/#growth-section), [Pricing](/handbook/ceo/pricing/)| Scott Williamson/Hila Qu/Xiaohe Li  |
-| Two  | Tue  | [Product Management](/handbook/product/gitlab-the-product)  | Anoop Dawar |
+| Two  | Mon  | Available |   |
+| Two  | Tues | Available |   |
 | Two  | Wed  | Available |   |
-| Two  | Thur | Available |   |
+| Two  | Thur | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
 | Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
-| Four  | Mon  | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
+| Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Four  | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Four  | Thur | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Five  | Mon  | [Security](/handbook/engineering/security/)  | Jan Urbanc  |
+| Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
 | Five  | Tue  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
 | Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
-| Five  | Thur  | [Meltano](/handbook/meltano/)  | Douwe Maan  |
+| Five  | Thur | [Meltano](/handbook/meltano/)  | Douwe Maan  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Six  | Mon  | [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Six  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
@@ -291,10 +259,10 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
-| Eight | Mon  | Available |   |
+| Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Eight | Wed  | Available |   |
+| Eight | Thur  | Available  |  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation

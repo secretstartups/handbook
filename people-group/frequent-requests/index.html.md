@@ -98,6 +98,18 @@ If you are a team member residing in India, please consider using the following 
 -The People Experience Coordinator will inform the Moo team to make the template available on Moo. This takes 24-48 hours
 -Once the template is available, the People Experience Coordinator will advice you and you can proceed and place your order.
 
+## Japan Daycare Eligibility Documentation
+
+In Japan, for a team member to qualify for subsidized day care, they need to demonstrate that they are working and need a certified document from their employer confirming their employment status. 
+
+- Team member: Fill out the daycare documentation with all the necessary details and only leave out the employer bit. Send this document via email to the People Ops team(peopleops@gitlab.com)
+- PeopleOps: Reach out to the Tricor team who are the current custodians of our Japan Stamp for them to fill out the Employer portion and stamp it.(Contact addresses available on 1Password)
+- Tricor: Send the stamped form back to the People Operations Specialist team.
+- PeopleOps: Email the completely filled and stamped document to the team member.
+- PeopleOps: Save the document on the team members BambooHR profile under the "Contracts and Changes" Folder
+
+
+
 ## Name Change
 {: #name-change}
 

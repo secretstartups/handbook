@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Experience Team"
+description: "This page lists all the processes and agreements for the People Experience team."
 ---
 
 ## On this page
@@ -19,13 +20,17 @@ If you need our attention, please feel free to ping us on issues using `@gl-peop
 
 Holidays with no availability for onboarding/offboarding/career mobility issues:
 
-| Date                        |
-|-----------------------------------|
-| 2020-05-01 | Family & Friends Day
-| 2020-08-14 | Family & Friends Day
-| 2020-10-09 | Family & Friends Day
-| 2020-12-25 |
-| 2021-01-01 |
+| Date    | Reason |
+|------------------- | --------------|
+| 2020-11-25 | Family & Friends Day
+| 2020-11-26 | Public Holiday (US)
+| 2020-12-18 | Family & Friends Day
+| 2020-12-25 | Public Holiday
+| 2021-01-01 | Public Holiday 
+| 2021-01-15 | Family & Friends Day
+| 2021-01-18 | Public Holiday (US)
+| 2021-02-15 | Public Holiday (US)
+
 
 ### OOO Handover Process for People Experience Team
 
@@ -46,9 +51,9 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ## People Experience Team Processes
 
-### Weekly Rotations 
+### Bi-Weekly Rotations 
 
-The People Experience Team are currently trialling a task rotation on a weekly basis. The allocation tracker can be found in the [People Exp/Ops Tracker]. This will initially be trialed on a weekly rotation and then possibly moved to bi-weekly and monthly. 
+On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team. The allocation tracker can be found in the [People Exp/Ops Tracker]. 
 
 Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
 

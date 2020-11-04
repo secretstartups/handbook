@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Internal Acceptable Use Policy"
+description: "This policy specifies requirements related to the use of GitLab computing resources and data assets"
 ---
 
 ## On this page

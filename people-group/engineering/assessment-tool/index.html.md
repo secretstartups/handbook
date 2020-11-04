@@ -14,14 +14,10 @@ To support the People Group with setting up 9 box assessment for all our team me
 
 It's currently still a very basic tool that tries to replace the previous/current method of using Google Slides that were prepared by the People Business Partners. The goal is to have different teams within GitLab use the tool and iterate with feedback provided by the users.
 
-### Creating an Account
-
-The tool is in active development and is currently only available for those asked to trial the tool. Once we are ready to enable access, we will replace this notice with the directions to access the tool.
-{: .alert .alert-info}
-
 #### Current Sign Up Process
-- To use the tool, you can sign up with a GitLab email address via [this link](https://assessment.gitlab.net/users/sign_in). _Note: The email address you sign up with needs to be your email address that is known in BambooHR. This is needed as we fetch data from BambooHR._
+- To use the tool, you can sign up with a GitLab email address via [this link](https://assessment.gitlab.net/). _Note: The email address you sign up with needs to be your email address that is known in BambooHR. This is needed as we fetch data from BambooHR._
 - Once you've signed up, you will receive an email to confirm your account. When you confirm, your email address will be automatically linked with your BambooHR ID (that we later will use to fetch data from BambooHR).
+- After confirming your account you can sign in via [this link](https://assessment.gitlab.net/users/sign_in) to the tool and get started. 
 
 _Note: There's [an open issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/assessment-tool/-/issues/20) to look into using Okta as the authentication method._
 
