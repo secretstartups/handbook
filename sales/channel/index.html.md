@@ -11,7 +11,6 @@ description: "The purpose of this page is to provide the  GitLab Sales team insi
 {:toc .hidden-md .hidden-lg}
 #### GitLab team members are the primary audience for this page.
 
-
 # **GitLab Channel Overview**
 
 The GitLab Partner Program enables partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.   Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
