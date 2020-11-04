@@ -295,6 +295,10 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
 
 When you give leadership training please [screenshare the handbook instead of creating a presentation](/handbook/handbook-usage/#screenshot-the-handbook-instead-of-creating-a-presentation).
 
+### Manager Enablement
+
+Managers can participate in a [4 week manager training program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing foundational management skills to lead high performing teams.
+
 ## People Group
 
 Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Group` dropdown. The team may also be reached in the `#peopleops` chat channel.

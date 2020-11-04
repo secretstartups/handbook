@@ -283,7 +283,7 @@ The left hand side represents your style while the top represents your counterpa
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
 
-1. **Complete the Self-Assessment** - Discover yourself using the [web based self-assessment](https://samdbeckham.gitlab.io/social-styles/). You can also use the [PDF version of the self-assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf). Download the PDF and fill in for yourself. Once you have completed the assessment, determine your score and associated style. 
+1. **Complete the Self-Assessment** - Discover yourself using the [web based self-assessment](https://samdbeckham.gitlab.io/social-styles/). Teams can also inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. 
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
