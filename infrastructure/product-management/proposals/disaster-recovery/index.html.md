@@ -10,7 +10,7 @@ title: "GitLab.com Disaster Recovery Proposal"
 {:toc .hidden-md .hidden-lg}
 
 ## Background
-The ability for GitLab.com to recover from a disaster scenario has been a top request among GitLab.com customers and is needed to help make [gitlab.com enterprise ready](/direction/enablement/dotcom/#availability-and-performance). The purpose of this document is to establish high-level objectives and approach towards addressing customer needs around Disaster Recovery and to establish the 12 month roadmap for delivering on this capability. 
+The ability for GitLab.com to recover from a disaster scenario has been a top request among GitLab.com customers and is needed to help make [GitLab.com enterprise ready](/direction/enablement/dotcom/#availability-and-performance). The purpose of this document is to establish high-level objectives and approach towards addressing customer needs around Disaster Recovery and to establish the 12 month roadmap for delivering on this capability. 
 
 ## Current Capabilities
 GitLab.com is primarily based around Google Cloud Platform services and [resources in the US-East region](/handbook/engineering/infrastructure/production/architecture/) in addition to dependening upon CDN, global routing, and edge network services from Cloudflare.
