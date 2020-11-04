@@ -57,16 +57,6 @@ Because this page needs to be concise and consistent, please ensure to follow th
 
 No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
 
-## Stakeholders 
-
-Throughout this workflow you'll see reference to "Stakeholders" and you may be wondering, who does that include? In this context, a stakeholder is someone that is outside of the direct team who meets one or more of the following: 
-- Is directly or indirectly impacted 
-- Has the ability to stop, delay, or cancel 
-
-Examples of stakeholders include Leadership, Sales, Marketing, Customer Support, and Customer Success but you may have stakeholders in any area of GitLab depending on your focus area and the specific issue. You may also have stakeholders outside of GitLab for scenarios where a feature is being developed for a specific customer or set of customers. 
-
-It is recommended to involve your stakeholders throughout the product development flow, utilizing their input for initial ideas of problems to focus on,  problem validation, solution validation, and feedback once an initial solution has been developed. 
-
 ## Workflow Summary
 
 ```mermaid
@@ -191,11 +181,11 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 |----------------|------------------------------------------------|
 | DRI:           | - Product Manager                              |
 | Collaborators: | - Product Designer <br> - Engineering Manager  |
-| Informed:      | - Customers <br> - Technical Account Manager <br> Product Marketing Manager <br> Other [stakeholders](#stakeholders) as appropriate |
+| Informed:      | - Customers <br> - Technical Account Manager <br> Product Marketing Manager <br> Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
-The health of a world class product begins with a well maintained backlog. Product Managers are responsible for refining a groups backlog to ensure validation opportunities are scoped and prioritized in line with category direction and stage or section level strategy. The backlog is also the SSoT for stakeholders to understand and engage with your group. An issue or Epic's position in the backlog, along with the description, discussion and metadata on those issues are key pieces of data necessary to keep stakeholders up to date. 
+The health of a world class product begins with a well maintained backlog. Product Managers are responsible for refining a groups backlog to ensure validation opportunities are scoped and prioritized in line with category direction and stage or section level strategy. The backlog is also the SSoT for [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) to understand and engage with your group. An issue or Epic's position in the backlog, along with the description, discussion and metadata on those issues are key pieces of data necessary to keep stakeholders up to date. 
 
 #### Outcomes and Activities
 
@@ -215,7 +205,7 @@ The health of a world class product begins with a well maintained backlog. Produ
 |---|---|
 | DRI | Product Manager |
 | Collaborators | UX Researcher |
-| Informed | Product Designer <br/>Engineering Team <br/>Other [stakeholders](#stakeholders) as appropriate |
+| Informed | Product Designer <br/>Engineering Team <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 
 #### Description
@@ -243,7 +233,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 |---|---|
 | DRI | - Product Designer |
 | Collaborators |  - Product Manager <br> - Engineering team <br> - UX Researcher <br> - Quality Engineering <br> - Tech Writer|
-| Informed | [Stakeholders](#stakeholders) |
+| Informed | [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate|
 
 #### Description
 
@@ -273,7 +263,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | ---           | ---                          |
 | DRI           | - Product Designer             |
 | Collaborators | - Product Manager <br>- Engineering |
-| Informed      |  - Technical Writing <br>- Quality <br> - Other [stakeholders](#stakeholders) as appropriate |
+| Informed      |  - Technical Writing <br>- Quality <br> - Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -432,7 +422,7 @@ Issue Status: `Closed`
 |---|---|
 | DRI | **Development** - Close issue once it is available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it is warranted <br> **Product Manager** Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it is applicable <br> **Product Manager** Consider alerting relevant stakeholders in appropriate Slack channels. |
 | Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production.  (Primary verification is, of course, performed prior to production whenever possible.) |
-| Informed | Stakeholders for the change (including customers, open-source users, and GitLab team members) will be informed about the feature via the change in the status of the issue and/or the release post.  GitLab team members may also be informed via posts in relevant Slack channels.  |
+| Informed | [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature via the change in the status of the issue and/or the release post.  GitLab team members may also be informed via posts in relevant Slack channels.  |
 
 #### Description
 
@@ -460,7 +450,7 @@ Label: n/a
 |---|---|
 | DRI | - Product Manager |
 | Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
-| Informed | - Engineering Team <br> - Leadership<br> - [Stakeholders](#stakeholders) |
+| Informed | - Engineering Team <br> - Leadership<br> - [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description 
 
