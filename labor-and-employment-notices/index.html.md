@@ -18,6 +18,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ## City of San Francisco
 
 * San Francisco Minimum Wage increases to $15.59 per hour [(June 2019)](ttps://gitlab.com/gitlab-com/people-ops/Compensation/uploads/e261b0f24e1b2d5bf382366bb400cf53/sf-minimum-wage-2019-06.pdf).
+* [Fair Chance Ordinance](https://sfgov.org/olse/fair-chance-ordinance-fco)
 
 ## EEOC (U.S. Equal Employment Opportunity Commission) Notices
 
