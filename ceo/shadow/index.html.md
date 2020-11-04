@@ -140,7 +140,6 @@ Shadows who have chosen to delay their rotations until another time include:
 - James Ramsey
 - Liam McNally
 - Bartek Marnane
-- Charlie Ablett
 
 ### How to apply
 
@@ -179,12 +178,12 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2020-11-02 | 2020-11-06 | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR |
-| 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
-| 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
+| 2020-11-09 | 2020-11-13 | AVAILABLE - REMOTE | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
+| 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | AVAILABLE - REMOTE |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
 | 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst |
-| 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
-| 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
+| 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
 | 2021-01-11 | 2021-01-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
