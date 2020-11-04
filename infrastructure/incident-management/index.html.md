@@ -160,7 +160,7 @@ of the above roles.
 
 ### Who is the Current EOC?
 
-The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/archives/production) will tell you this with `/chatops run oncall prod`.
+The chatops bot will give you this information if you DM it with `/chatops run oncall prod`. 
 
 ### When to Contact the Current EOC
 
