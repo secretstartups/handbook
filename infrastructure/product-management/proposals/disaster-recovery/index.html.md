@@ -96,7 +96,7 @@ We recommend rolling out a Disaster Recovery solution in an iterative manner and
 **Phase 2 (By end of Q1 FY22):**
 - Enough capabilities in place to tell customers with confidence that we have the ability to recover if GCP us-east goes down (no official RTO guarantee at this point) 
 
-**Phase 3 (By end of  Q2 FY22):**
+**Phase 3 (By end of Q2 FY22):**
 - Launch initial version of disaster recovery capability for paid customers. Targets:
   - RTO: 2 hours
   - RPO: 30 mins
