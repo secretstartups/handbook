@@ -13,9 +13,12 @@ title: "Fulfillment Section Performance Indicators"
 
 These charts show metrics filtered for the [Fulfillment sub-department](/handbook/engineering/development/fulfillment).
 
+### Development Indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
+
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Fulfillment","Purchase","Provision"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["fulfillment","purchase","provision"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -44,10 +47,11 @@ These charts show metrics filtered for the [Fulfillment sub-department](/handboo
 ### Provision group
 
 #### Provision group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Provision"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "provision"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -76,10 +80,11 @@ These charts show metrics filtered for the [Fulfillment sub-department](/handboo
 ### Purchase group
 
 #### Purchase group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Purchase"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "purchase"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
