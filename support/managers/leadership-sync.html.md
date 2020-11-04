@@ -5,12 +5,12 @@ title: Support Leadership Sync
 
 ### Purpose
 
-Support leadership (Managers, Senior Managers and Director) meet in cross-regional synchronous meetings weekly.
+Support leadership (Managers, Senior Managers and Director) participate in cross-regional meetings weekly.
 
 The purpose of these meetings is to:
-- build relationships, trust and context between regional managers
+- build relationships, trust and context between managers
 - explain context for issues and explore creative ideas in real time
-- ensure that each issue has a DRI for issues that do not yet have them
+- ensure that each issue has a DRI
 - refine the problem statement of each raised issue by clarifying intent
 
 The purpose of these meetings is **not** to:
@@ -18,7 +18,7 @@ The purpose of these meetings is **not** to:
 - refine solutions or merge requests related to issues
 - make decisions
 
-**Note:** It is worth reiterating though that these meetings are not for making decisions or discussing things that could be discussed within issues.
+**Note:** It is worth reiterating that these meetings are not for making decisions or discussing things that could just as effectively be discussed within issues.
 
 ### Organization of Support Leadership Meetings
 
