@@ -1103,7 +1103,7 @@ Enter your filename using the format `yyyy-mm-dd-name-of-your-post.html.md.erb`.
 Please do not include special characters, capital letters, or numbers (other than the date) in your filename as this can lead to issues with publishing and can break the link to your review app.
 {: .alert .alert-gitlab-orange}
 
-If you aren't sure when the post will be published, just choose an arbitrary date in the future – we will update it before publishing.
+If you aren't sure when the post will be published, just choose an arbitrary date in the future – we will update it before publishing. If you are publishing an Unfiltered post and need to update the date yourself, please see [Making changes to your blog post](#making-changes-to-your-blog-post) for instructions.
 
 Now you can paste your post content into the window. If pasting from a Google Doc or another word processor, please make sure you convert it to plain text first. A quick way to do this is to paste everything into the URL bar of a browser, and paste it into your blog post file from there.
 
@@ -1164,7 +1164,7 @@ You might find the following video helpful:
 
 #### Making changes to your blog post
 
-If you need to make changes to your file, you can edit it by clicking on the edit button, which will take you to the same interface as when you added your new file. Just make your changes, edit the commit message to say what you did and hit `Commit changes`.
+If you need to make changes to your file, including editing the filename to update the date when you are ready to publish, you can edit it by going to the `Changes` tab, clicking on the three dots menu on the right of your blog post file, and selecting `Edit in single-file editor`, which will take you to the same interface as when you added your new file. Just make your changes, edit the commit message to say what you did and hit `Commit changes`.
 
 ![Edit button](/images/handbook/marketing/edit-file.png){: .shadow.medium.center}
 
