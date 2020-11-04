@@ -19,7 +19,7 @@ The GitLab.com systems are based on the same codebase that GitLab self-managed c
 
 GitLab.com has implemented scaling features significantly larger than our largest published reference architecture to provide for resiliency and availability of GitLab.com services in the single US-East region. Additionally, GitLab.com employs technology and process to ensure that healthy backups of stateful data systems are taken on a frequent schedule. More importantly, we test that these backups can successfully be restored.
 
-The main goal of this effort is to build on our single-region resiliency with additional capabilities to assure our Enterprise customers of our ability to quickly restore service in response to a larger region disaster scenario.
+The main goal of this effort is to build on our single-region resiliency with additional capabilities to assure our enterprise customers of our ability to quickly restore service in response to a larger region disaster scenario.
 
 ## Failure Scenarios / Scope
 We identify the following failure scenarios based on portion of infrastructure affected:
