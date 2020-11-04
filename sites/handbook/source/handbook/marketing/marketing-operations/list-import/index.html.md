@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "List Imports"
+description: "The MktgOps team is responsible for importing records into Marketo for both field events and prospecting."
 ---
 
 ## On this page

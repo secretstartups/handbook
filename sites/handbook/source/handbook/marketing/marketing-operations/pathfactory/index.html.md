@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: PathFactory
+title: "PathFactory"
+description: "PathFactory (PF) is leveraged as our content library & content distribution system."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -8,54 +9,9 @@ title: PathFactory
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Uses
-
-PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) and [Digital Marketing Programs](/handbook/marketing/revenue-marketing/digital-marketing-programs/) teams are primarily responsible for all the of the content within the PathFactory. Marketing program managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
-
-| **Team** | **Rules of Engagement** | **User Roles** |
-| ---- | ------------------- | ---------- |
-| Marketing Operations | Manage, quality assurance, user management, system integrations, training | Admin |
-| Marketing Program Managers | Add content, create and edit content tracks for use in campaigns | Author |
-| Content Marketing | Upload new content | Author |
-| Field Marketing | View content performance | Reporter |
-| Account Based Marketing | View content performance | Author |
-| Customer Reference Programs | Upload new case studies and customer content | Author |
-| Developer Evangelism | Upload new technical content for use in campaigns | Author |
-| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
-| All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
-
-## Access
-
-The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
-
-**User Roles**
-
-There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. **All access levels** have the ability to view the analtyics page within the tool.
-
-- `Admin` access is granted to Marketing Operations only.
-- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
-- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access.
-
-## Training
-
-- [Knowledge base](https://lookbookhq.force.com/nook/s/kb) (requires separate login)
-- [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
-- [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
-- [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
-- [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
-- [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
-
-## Issue templates
-
-**Marketing Operations**
-
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-
-**Digital Marketing**
-
-- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-
 ## What is PathFactory?
+
+PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ### PathFactory vs. Marketo
 
@@ -82,6 +38,61 @@ PathFactory is not a single source of truth (SSoT) for all GitLab content, but r
 
 **PathFactory** - Content experience software used to allow buyers to binge-consume content, remove friction, and create more qualified leads, faster.
 
+## Access
+
+The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
+
+**User Roles**
+
+There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool.
+
+- `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
+- `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
+- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. We have an unlimited amount of `Reporter` seats available for provisioning.
+
+### Rules of Engagement by Team
+
+| **Team** | **Rules of Engagement** | **User Roles** |
+| ---- | ------------------- | ---------- |
+| Marketing Operations | Manage, quality assurance, user management, system integrations, training | Admin |
+| Marketing Campaign Managers | Add content, create and edit content tracks for use in campaigns | Author |
+| Content Marketing | Upload new content, quality assurance | Author |
+| Field Marketing | View content performance | Reporter |
+| Account Based Marketing | Add content, create and edit content tracks for use in campaigns | Author |
+| Customer Reference Programs | Upload new case studies and customer content | Author |
+| Developer Evangelism | Upload new technical content | Author |
+| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
+| All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
+
+## Training & Support
+
+### Support
+
+1. [Knowledge base, _The Nook_](https://lookbookhq.force.com/nook/s/kb) (requires user in PathFactory and the email you use for PathFactory will be the same to access The Nook, however, the password is not.)
+1. [Success Series Webinars](https://customer.pathfactory.com/l/success-series-recordings)
+1. [PathFactory Ideas Portal](https://ideas.pathfactory.com/portal_session/new)
+1. [Release Notes](https://nook.pathfactory.com/nook/s/module?m=release-notes) (requires access to _The Nook_)
+
+### Training
+
+1. [The Path to Understanding: Onboarding Training](https://lp.pathfactory.com/PathFactory-Onboarding.html)
+1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
+1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
+1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
+1. [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
+
+## Issue templates
+
+**[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
+
+- [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
+
+**[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
+
+1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+1. Pathfactory Bulk Upload Request: https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk
+1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
+
 ## Changelog
 
 Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). **Everyone with `Author` access that is making significant changes in PathFactory should add their changes to the changelog with a linked issue and/or relevant PathFactory links.**
@@ -102,16 +113,12 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Add the date you made the change if it doesn't already exist.
 1. Add a bullet with your GitLab username and document the changes you made, making sure to include links to issues or relevant PathFactory links.
 
-## Request a content track
-
-PathFactory is primarily a demand generation tool that allows leads and prospects to self-nurture with content that is bundled in a personalized experience. As a result, marketing program managers are the DRIs for creating content tracks for use in campaigns, event marketing, and email nurture streams. If you would like to request a content track, please open an issue in the digital marketing programs repository using the [PathFactory request issue template](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=pathfactory_request) and assign it to your designated MPM. If you require a content track outside of this use case, please use the [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md) issue template in the marketing operations project and provide a detailed business case.
-
 ## Content library
 
 **Before uploading content:**
 
 1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
-1. Use the search to determine if it’s already been added. If you try to add an asset that's already in the library, the system will tell you it already exists.
+1. Use the search to determine if it’s already been added. If you try to add a file or URL that's already in the library, the system will tell you it already exists.
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
 
@@ -121,7 +128,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Choose how you will upload the asset (Website URL, file upload, or CSV).
     - For a Website URL, copy/paste the URL. For multiple URLs, paste one per line.
     - For a file upload, select this option and either drag and drop the file onto the file upload window or select it from your computer. Files can be up to 100MB.
-    - If you want to [bulk upload multiple assets using the CSV option](#bulk-upload), create an issue in the Marketing Operations project and assign `@sdaily`.
+    - [Follow the bulk upload instructions](#bulk-upload) to upload multiple assets to the content library via CSV.
 1. Enter the title of the asset under `Public Configurations`. Ensure that the title is free of SEO meta information such as `| GitLab`.
 1. Provide a clear and concise description of the content if one does not exist.
 1. Select the content type from the dropdown.
@@ -139,7 +146,7 @@ PathFactory is primarily a demand generation tool that allows leads and prospect
 1. Select the asset you just added to the library. A preview of the content will appear on the right-hand side of the content library. Scroll down the window pane under `source URL` and locate `Custom URL slug`.
 1. Update the custom URL slug to be descriptive of the content with no stop words (and, the, etc.).
     1. **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared and break the asset consumption tracking via [listening campaign](#listening-campaigns).
-    1. If a URL slug needs to be modified, please open an issue, assign to `@sdaily`.
+    1. If a URL slug needs to be modified, please open an issue in the marketing operations project. 
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is _not secure_, it _will not_ show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
 
 
@@ -158,11 +165,13 @@ If you need to replace an asset source but keep the same link, you can do so fro
 
 ### Bulk upload
 
-You can bulk upload multiple assets to the content library via a CSV file.
+You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/article/csv-upload) to the content library via a CSV file.
 
-1. Make a copy of this [CSV template](https://drive.google.com/a/gitlab.com/file/d/1Ad4iSwHt2bdRKp5GGUZtrtzY5YShZlyI/view?usp=sharing) for your upload.
-1. Provide all the information in the template for your new assets and save as a CSV.
-1. Create an issue and tag `@sdaily` to review the template and upload to PathFactory.
+1. Download this [CSV template](https://d1nk153xyqlyhl.cloudfront.net/Content_CSV_Template.csv). This CSV file has the exact format as the CSV bulk upload template.
+1. Provide all the information in the template for your new assets and save as a CSV. 
+1. Follow the standard procedure for uploading content and select CSV upload. 
+1. Upload your file and select the checkbox `Overwrite all duplicate content assets`. 
+1. Select the `Upload File` button.
 
 ### Analyst reports
 
@@ -553,56 +562,6 @@ Unsure what content types align with your asset? Use the table below as a guidel
 
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
-## PathFactory analytics
-
-All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations repo and assign `@sdaily`. All of the below links lead to PathFactory's knowledgebase, _The Nook_. The Nook requires a separate password from PathFactory but you should use the same email address used to login to PathFactory.
-
-- [Glossary](https://lookbookhq.force.com/nook/s/article/glossary)
-- [Diving into content analytics](https://customer.pathfactory.com/success-series/youtube-3?lx=v-9_uV&search=analytics)
-
-### Target track analytics
-
-1. [Analytics for a Specific Target Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-target-track)
-1. [Analytics for All Target Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-target-tracks)
-
-### Recommended track analytics
-
-1. [Analytics for a Specific Recommend Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-recommend-track)
-1. [Analytics for All Recommend Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-recommend-tracks)
-
-### Explore page analytics
-
-1. [Explore Page Analytics](https://lookbookhq.force.com/nook/s/article/explore-page-analytics)
-
-### ABM analytics
-
-1. [Understanding Account Based Analytics](https://lookbookhq.force.com/nook/s/article/understanding-account-based-analytics)
-1. [Understanding Route Analytics](https://lookbookhq.force.com/nook/s/article/understanding-route-analytics)
-
-### Website promoter analytics
-
-1. [Website Promoter Analytics](https://lookbookhq.force.com/nook/s/article/website-promoter-analytics)
-
-### Defining visitor activities
-
-1. [Understanding Visitor Activities](https://lookbookhq.force.com/nook/s/article/understanding-visitor-activities)
-
-### Path analytics
-
-1. [Introducing: Path Analytics](https://lookbookhq.force.com/nook/s/article/path-analytics-intro)
-1. [Path Analytics: Overview Dashboard](https://lookbookhq.force.com/nook/s/article/pa-overview)
-1. [Path Analytics: Visitors](https://lookbookhq.force.com/nook/s/article/pa-visitors)
-1. [Path Analytics: Accounts](https://lookbookhq.force.com/nook/s/article/pa-accounts)
-1. [Path Analytics: Content](https://lookbookhq.force.com/nook/s/article/pa-content)
-1. [Path Analytics FAQ](https://lookbookhq.force.com/nook/s/article/path-analytics-faq)
-1. [Using and Sharing Path Analytics Reports](https://lookbookhq.force.com/nook/s/article/looker-overview)
-1. [Types of Path Analytics Reports](https://lookbookhq.force.com/nook/s/article/looker-reports)
-1. [Path Analytics Reports FAQ](https://lookbookhq.force.com/nook/s/article/looker-reports-faq)
-
-### Using account-based analytics
-
-1. [Using Account Based Analytics](https://lookbookhq.force.com/nook/s/article/account-based-analytics)
-
 ## Listening Campaigns
 
 In Marketo, we have programs built to "listen" for PathFactory (PF) activity & content consumption allowing us to track behaviour without having to physically gate all the assets which disrupts the user experience.
@@ -677,101 +636,28 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 
 ### PF Panel Fields
 
-![](/images/handbook/marketing/marketing-operations/pathfactory/pf_sfdcpanel.png)
+![](/images/handbook/marketing/marketing-operations/pf_sfdcpanel.png)
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |
-| PathFactory Experience Name | The PathFactory track name - [more details](#content-tracks) |
-| PathFactory Assets Viewed | Cumulative number of assets viewed. **This is not associated to time consumed! See Content Count for difference** |
 | PathFactory Asset Type | A tag to help categorize types of content (whitepaper, video, eBook, etc) |
-| PathFactory Funnel State | Each asset is tagged with stage of funnel most applicable to asset - Top of Funnel, Middle of Funnel or Bottom of Funnel |
-| PathFactory External ID | A non-unique ID that can be added to tracks &/or assets, which can be leveraged to organize content and configure it in Marketing Automation Platform (i.e Marketo) |
+| PathFactory Assets Viewed | Cumulative number of assets viewed. **This is not associated to time consumed! See Content Count for difference** |
+| PathFactory Content Count | Cumulative count of assets consumed. Example: if person consumes 2 whitepapers, 1 video and blog post for _minimum of 20 seconds each_ in a **single session** this field would show 4. |
+| PathFactory Content Engagement Threshold | The engagement threshold time setting (in seconds) of the content asset. |
+| PathFactory Content Journey | Shows users path through a PathFactory experience (next asset viewed from previous asset based on slug) |
+| PathFactory Content Language | The language of the content asset. |
+| PathFactory Content List | Cumulative list of each assets content id/slug for each asset consumed. |
+| PathFactory Content Slug | The custom slug of the content asset. |
+| PathFactory Content Source URL | The URL of the underlying source content of the content asset. |
+| PathFactory Content Title | The public title of the content asset. |
+| PathFactory Content URL | The current public URL of the asset being rendered in the content track. |
 | PathFactory Engagement Score | Each asset in content library can be assigned an engagement score; this score is passed from PF to SFDC and used to determine meaningful engagement with content. |
 | PathFactory Engagement Time | Cumulative time a person spends consuming assets in session. |
-| PathFactory Content Count | Cumulative count of assets consumed. Example: if person consumes 2 whitepapers, 1 video and blog post for _minimum of 20 seconds each_ in a **single session** this field would show 4. |
-| PathFactory Content List | Cumulative list of each assets content id/slug for each asset consumed. |
+| PathFactory Experience Name | The PathFactory track name - [more details](#content-tracks) |
+| PathFactory External ID | A non-unique ID that can be added to tracks &/or assets, which can be leveraged to organize content and configure it in Marketing Automation Platform (i.e Marketo) |
+| PathFactory Funnel State | Each asset is tagged with stage of funnel most applicable to asset - Top of Funnel, Middle of Funnel or Bottom of Funnel |
+| PathFactory Query String | Returns any values captured by a query string which you have added to the content experience URL. |
+| PathFactory Query String Value | The value of a key in the query string. |
 | PathFactory Topic List | Assets are tagged by **topic**. This is manually set & aligns with the [tracking content](#tracking-content) list. |
-
-## PathFactory for Sales
-
-PathFactory for Sales is an extension of PathFactory within Salesforce that gives the sales development and sales teams a direct view into content and lead insights, and allow them to select content tracks to send to prospects.
-
-### Training
-
-- [PathFactory for Sales SDR onboarding track](https://internal.lookbookhq.com/c/pf-for-sales-one-pag?x=5RhDye)
-- [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
-
-### Saved searches
-
-PathFactory for Sales enables you to quickly search your accounts in Salesforce to locate accounts with specific attributes. You can save these search parameters to easily repeat the search in the future.
-
-**There are 2 types of Account Searches:**
-
-1. Shared searches: Configured by any user with a PathFactory administrator login, and are available to all users
-1. My searches: Only visible to the user who created the search
-
-**How to create: Shared Search (PF admins only)**
-
-Shared Searches can be seen by all users, but can only be created by PathFactory administrator users.
-
-1. Open the PathFactory for Sales app/tab in Salesforce.
-1. Click on `Settings`.
-1. Enter your administrator login details. Credentials are stored in the MktgOps Admin 1Pass vault.
-1. Click `New Search`.
-1. Configure all desired filters, ensure the `Shared Searches` box is selected, and click `Save`.
-
-**How to create: My Search**
-
-1. Open the PathFactory for Sales app/tab in Salesforce.
-1. Click `New Search`.
-1. Configure all desired filters and click `Save`.
-
-### Content activation
-
-Use the `Content Activation` tab in the PathFactory for Sales app in Salesforce to share content asset links.
-
-**PathFactory for Sales**
-
-1. Navigate to the PathFactory for Sales app/tab.
-1. Click on `Content Activation`.
-1. Under the `Email Tracking` drop down, select `Outreach Email Template/Snippet`.
-1. You can use the `Filter by Track Labels` or `Filter by Content Topics` to quickly find content you'd like to share. Use search for content and tracks using the search bar next to the filter fields. You can also look through the available content tracks located under the `GitLab Content Tracks` folder.
-1. From the `Tracks` pane, select the content track you want to view by clicking `View Content Assets`. You can use the sort functionality on this pane to search by `Name` or `Time Spent`.
-1. From the `Content Assets` pane, you can select the specific asset you'd like to share. You can choose to `Preview` the asset inside the content track and sort by `Track Order` or `Time Spent`.
-1. When you've selected the asset you want to share, click `Copy Link`. A dialogue box will pop up with the following information:
-
-![image](/handbook/marketing/marketing-operations/pathfactory/pf-sales-outreach-link.png)
-
-You can use this same process to share content from the lead, contact, account, and opportunity.
-
-**Important: You must use the Outreach option to share links to properly track activity and associate it back to the person you sent it to. If you don't follow this process, the person you send it to may or may not be served a form if they are `unknown` within PathFactory.**
-
-### Fast-Moving Buyer Alerts
-
-A fast-moving buyer alert or FMB alert is an email alert set up in Marketo to send a lead’s details to the lead owner. The alert is triggered when a lead spends at least 90 seconds and views at least 3 assets in a PathFactory experience. Below is an example of what the FMB alert looks like:
-
-![image](/handbook/marketing/marketing-operations/pathfactory/fmb-alert.png)
-
-The links in the alert will direct you to the lead or contact record in Salesforce where you can navigate to the PathFactory for Sales section to dive deeper into their content consumption journey. 
-
-### FAQs
-
-**Why do some of my accounts, leads, and contacts have no PathFactory engagement data in Salesforce?**
-
-Sometimes campaigns are run on channels that target an unknown audience (social, display). Some visitors will be anonymous until they are identieifed by a cookie or form fill. To help mitigate this, apply UTM paramters to track the channels the content link track is used on.
-
-**I want to have better conversations with my prospects via Marketing-approved PathFactory Content and track their real engagement. How do I ensure that their content engagement appears within Salesforce?**
-
-The email must be sent via Marketo or Outreach.
-
-**Will anonymous visitors be displayed?**
-
-Yes, anonymous visitors will appear within an account’s engagement summary and will be marked as `anonymous`.
-
-**Are the dashboards visible to all Salesforce users?**
-
-All reports are visible to all users who have access to the account, opportunity, lead, or contact pages.
-
-**Can I export or download this data?**
-
-Engagement data is only available for download from within [PathFactory Analytics](/handbook/marketing/marketing-operations/pathfactory/#pathfactory-analytics), and not via Salesforce.
+| PathFactory Track Custom URL | The custom URL of the content track. |
+| PathFactory Track ID | The automatically generated PathFactory ID of the content track. |

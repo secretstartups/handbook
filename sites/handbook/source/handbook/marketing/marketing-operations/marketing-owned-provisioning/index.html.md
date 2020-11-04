@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing Owned System Provisioning Instructions"
+description: "Marketing Operations manages the majority of marketing-owned systems."
 ---
 
 ## On this page
@@ -18,7 +19,7 @@ Below are instructions and accompnaying screenshots of how to provision new user
 
 ### DiscoverOrg
 1. From the [manage users](https://go.discoverydb.com/eui/#/users) page in DiscoverOrg, click on the **Create a New User** button.    
-     ![](/images/handbook/marketing/DiscoverOrg-ManagerUser.png)
+     ![](/images/handbook/marketing/DiscoverOrg-ManageUser.png)
 1. Fill out the required fields (all but *title* and *reports to* and click **Save**)    
      ![](/images/handbook/marketing/DiscoverOrg-AddNewUser.png)
 
