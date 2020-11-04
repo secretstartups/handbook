@@ -64,6 +64,7 @@ GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 |-------------|--------|-----|
 | TBD         |        |     |
 
+Coaches interested in helping others in the freeCodeCamp community are encouraged to join the [freeCodeCamp Forum](https://forum.freecodecamp.org/) to help provide guidance and answer questions.
 
 ### [re:learn](https://relearn.ng/)
 
@@ -76,3 +77,14 @@ GitLab Contact: [Roos Takken](https://gitlab.com/rtakken)
 | Volunteer   | Start  | End |
 |-------------|--------|-----|
 | TBD         |        |     |
+
+### Free top-tier GitLab for qualifying partners
+
+URG partners may qualify for free top-tier features though one of our Community programs.
+
+For URG partners to obtain the free top-tier GitLab license or subscibtion, have a representative from the organization fill out the appropriate application form:
+
+- [GitLab for Education Program](https://about.gitlab.com/solutions/education/join/)
+- [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/join/)
+
+Be sure that the application indicates how many user seats the partner organization is requesting.
