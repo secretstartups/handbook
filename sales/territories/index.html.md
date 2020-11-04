@@ -51,6 +51,8 @@ title: "Sales Territories"
 
 ## Territories
 
+For the detailed breakdown of how the territories are mapped please reference the [Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+
 ### Large
 
 #### AMER
@@ -218,7 +220,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
 | NA East | US East | **MM-AMER-EAST-TriState** | Jenny Kline | MM SDR |
 | NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
-| NA West | US West | **MM-AMER-WEST-NorCal** | Rashad Bartholomew | Da'Neil Olsen |
+| NA West | US West | **MM-AMER-WEST-NorCal** | Matthew Kobilka | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SV** | Laura Shand. | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-PacWest** | Rashad Bartholomew | Josh Weatherford |
@@ -294,11 +296,11 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Johan Rosendahl |
 | Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Johan Rosendahl |
 | Russia | RU | **MM-EMEA-Russia** | Chris Willis | Rahim Abdullayev |
-| Southern Europe | IL | **MM-EMEA-Southern-IL** | Anthony Ogunbowale-Thomas | Camille Dios |
-| Southern Europe | IT | **MM-EMEA-Southern-IT** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | IL | **MM-EMEA-Southern-IL** | Lisa vdKooij | Camille Dios |
+| Southern Europe | IT | **MM-EMEA-Southern-IT** | Sophia Simunec| Camille Dios |
 | Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Camille Dios |
 | Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Camille Dios |
-| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Sophia Simunec | Camille Dios |
 | Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Camille Dios |
 | MEA | AE | **MM-EMEA-MEA-AE** | Israa Mahros | Johan Rosendahl |
 | MEA | SA | **MM-EMEA-MEA-SA** | Israa Mahros | Johan Rosendahl |
