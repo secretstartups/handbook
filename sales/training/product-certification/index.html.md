@@ -50,4 +50,4 @@ Because GitLab launches a new release on the 22nd of every month, role-based pro
 
 Current product knowledge assessments:
 - [Q3FY21 GitLab Product Knowledge Assessment for Sales roles](https://forms.gle/pWvmdo8Sqo9bTaui7)
-- GitLab Product Knowledge Assessment for Customer Success roles (coming soon)
+- [Q3FY21 GitLab Product Knowledge Assessment for SAs and TAMs](https://forms.gle/NjsCYAfgFkrCBQvd9)
