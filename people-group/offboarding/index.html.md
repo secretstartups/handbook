@@ -118,8 +118,8 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 1. ***Payroll***: If the team member is employed by a PEO/entity with statutory leave requirements, review if any time off needs to be paid on the last paycheck by looking in BambooHR in the `Time Off` section.
 1. ***Specialist***: The Specialist will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the Specialist will use the Slack shortcut icon and follow the steps below:
 
-    * Click on the shortcut icon in the `#offboardings` slack channel ![Shortcut Icon](./Shortcuticonoffboarding.png)
-    * Select the `InVol Hold Request` workflow from the menu ![Shortcut Menu](./Shortcutmenu.png )  
+    * Click on the shortcut icon in the `#offboardings` slack channel ![Shortcut Icon](/handbook/people-group/offboarding/offboarding_guidelines/Shortcuticonoffboarding.png)
+    * Select the `InVol Hold Request` workflow from the menu ![Shortcut Menu](/handbook/people-group/offboarding/offboarding_guidelines/shortcutmenu.png )  
     * Submit the form and it will be posted to the `#offboardings` channel
     * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
     * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>  
