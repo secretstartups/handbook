@@ -45,7 +45,13 @@ Metrics that are based on customer data should also carry a clarifying descripti
 
 ### Connected New Customers
 
-A connected new customer is the first new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy) and the iACV related to this new customer is considered "Connected New".
+A connected new customer is a new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy). Sales tends to see Connected New as Growth whereas Marketing manages them as New. This table illustrates that difference.
+
+| **Situation** | **Marketing View** | **Sales & Finance View** |
+| :------ | :------ | :------ |
+| First Order | New | New |
+| Connected New | New | Growth |
+| Add-on Order | Growth  | Growth  |
 
 First Order and Connected New can be reported on via the Order Type fields in Salesforce. We have iterated on this field so please use the following guide:
 
