@@ -440,7 +440,7 @@ When the change becomes available in production, the issue is closed by the deve
 | Experiment results and follow-up issue is created | For experiments, we should create a [follow-up issue](/handbook/engineering/development/growth/#experiment-tracking-issue) that will be where results of the test and next-steps are tracked | Product Manager | 
 
 
-### Build phase 4: Improve
+### Build phase 4: Improve 
 
 Label: n/a 
 
