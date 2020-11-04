@@ -118,13 +118,73 @@ The location factor review is an internal process completed by the Total Rewards
 
 1. Create a copy of the `Location Factor Review` sheet for the upcoming FY. 
 1. Ensure all location factors, including ones added throughout the year and ones marked for further review, have been added to the analysis. 
-1. Pull in refreshed data for all data sources: ERI, Robert Half, Numbeo Rent Index, Dice, Radford, and Comptryx. 
+1. [Pull in refreshed data](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#pulling-survey-data-and-matching) for all data sources: ERI, Robert Half, Numbeo Rent Index, Dice, Radford, and Comptryx. 
    1. Check these resources for new matches to our location factors. 
 1. Using the refreshed data, compare the new data to our current location factor for fluctuations noting that we will not decrease a location factor.
     1. "Everywhere else" data may need to be reduced to take out the inflated data from the separated out metro area.
     1. "All" data that sees a significant increase may need to have the metro area separated. 
     1. If the formula is overwritten, notate the reasoning why. 
 1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml). 
+
+###### Pulling Survey Data and Matching
+
+**ERI**
+
+1. Log in to [ERI](https://online.erieri.com/account/login?returnurl=/). Login details are stored in 1Password.
+1. Navigate to the Geographic Assessor.
+1. Navigate to the Comparison List - Cost of Labor tab.
+1. Set salary levels to $100,000 and $150,000.
+1. Select all locations by clicking Add Location and adding all locations to your current list. This may need to be broken up into different lists to comply with ERI's list limits.
+1. Download the excel file for all locations and add to the `Location Factor Review` sheet in the ERI tab. 
+1. Pull in the previously matched GitLab localities from the previous year's location factor review into the ERI tab.
+1. On the Analysis tab, review locations without a match to ERI to see if there is now a match on the ERI tab. 
+    1. For cities, only add the exact match, not everything that would fall into the locality. For example, for San Francisco, California, I would match it to San Francisco in ERI's data set, but not Oakland. If two cities are listed in GitLab's locality, for example Berlin/Leipzig, Germany, match to both cities if available in the data.
+    1. For All and Everywhere Else localities, for example All,  Nigeria or Everywhere else, Netherlands, match to the state/province/country average data. Everywhere Else data will be deflated in the analysis to account for the metro area being included in the state/province/country average.
+
+**Robert Half**
+
+1. Download the salary guide from each country Robert Half operates in. The list of countries Robert Half operates in and their respective websites where you can download the salary guide are located [here](https://www.roberthalf.net/).
+1. Information from Robert Half has to be manually pulled out of their PDFs to our sheet.
+    1. For the US and Canada, enter the location differential to the right of each location in the Robert Half tab. Create a new line for each location that isn't currently captured and match it to our data if we have the location as a locality. 
+    1. For locations in other countries, the salaries by role will need to be compared between the country being reviewed and the US. The San Francisco differential reported by Robert Half should be applied to the salaries for the US and used to calculate a differential to the salary guides in other countries. 
+1. Once differentials have been calculated for each global location, any new locations that do not currently have a match to one of GitLab's localities should be matched.
+
+**Numbeo Rent Index**
+
+1. Navigate to [Numbeo](https://www.numbeo.com/cost-of-living/rankings_current.jsp).
+1. Copy and paste all of the data in the table from Numbeo into the Numbeo tab of the `Location Factor Review` sheet. 
+1. Pull in the previously matched GitLab localities from the previous year's location factor review into the Numbeo tab.
+1. Review Numbeo locations without a GitLab match to see if there's a relevant GitLab locality to map them to.
+
+**Dice**
+
+1. Download the most recently published [Dice Technology Salary Report](https://techhub.dice.com/Dice-2020-Tech-Salary-Report.html).
+1. Information from Dice has to be manually pulled out of their PDF to our sheet. 
+1. Add the salaries for each city and state reported by Dice to the Dice tab, adding a new line for any new cities or states.
+1. Match any Dice locations to the corresponding GitLab locality, if applicable.
+
+**Radford**
+
+1. Log in to [Radford](https://radford.aon.com/).
+1. Navigate to the Data tab and then the Market Queries tab on the Data tab. 
+1. Select a location in the Query dropdown that corresponds to the tabs in the `Radford Data` sheet for both the Global Technology Survey and Global Sales Survey. In the Select Jobs dropdown, select All Jobs. In the Data Elements dropdown, select ACR. Click Save & Run. Navigate to the reports tab to download once the report has finished running. Note that more than one report can be run at a time.
+1. Repeat these steps until all tabs have been refreshed.
+1. Once all locations that were used last year have been refreshed, check for new locations by opening any query, select Add A Breakout, select a country, and use the Region/City dropdown to see if there are any new locations.
+1. If there are new locations, they should be added as a separate query. To do this, in the Select a Query dropdown select Create New Query. Name the Query after the location. You'll want to complete these steps for both the Global Technology Survey and Global Sales Survey. Again, select Add A Breakout, select the country, and in the Region/City dropdown select the place you added as the Query name. Name the breakout after the location as well. Click save and follow the steps from step 3 to run the report. 
+1. Once the report is downloaded, add this to the corresponding tab in the `Radford Data` sheet, combining the Global Tech and Sales Surveys. 
+1. On the SF tab, scroll all of the way to the right and add two new columns for each new location. Copy the formulas from two other columns and update the vlookup to reference the correct location for these columns. 
+1. Add the new location(s) to the Location Factors tab and take the average of the location's factor column in the SF tab. 
+1. Match the new location(s) to a GitLab locality in this tab as well as any location that haven't previously been matched, if applicable.
+
+**Comptryx**
+
+1. Log in to [Comptryx](https://comptryx.mercer.com/).
+1. Click Global Pay in the upper right. 
+1. In the Select Population box, select all individual levels (ie P3, not P14) in the Selected Levels dropdown. Select all 3-letter functions in the Select Functions dropdown. Select all Metros and Countries in the Selected Locations dropdown. 
+1. Select Data Extract at the top. Under Select Pay Elements, check off Total Cash - Tgt (NA). Under Select Statistics, check off 50th %'ile and 75th %'ile. Select to include only market data. Submit the report. If the report freezes your computer, break it up into smaller chunks such as by pulling data by continent. 
+1. Import the report into the Comptryx - Data tab of the `Comptryx Data` sheet. 
+1. Add any new locations as a new column in the Analysis tab and apply the same formula from previous columns. Also add any new locations to the Location Factor tab at the bottom and drag down the formula.
+1. Match the new location(s) to a GitLab locality in this tab as well as any location that haven't previously been matched, if applicable.
 
 ##### Timing
 
