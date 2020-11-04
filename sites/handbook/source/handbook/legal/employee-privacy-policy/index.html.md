@@ -192,7 +192,7 @@ We may on occasion process your personal data for the purpose of the legitimate 
 
 From time to time you may provide us with information which constitutes Special Categories of Personal Data or information from which Special Categories of Personal Data may be deduced.  In such cases, where required by law, we will obtain your express written consent to our processing of Special Categories of Personal Data.  If separate consent is not required by local law, by providing this information to GitLab, you give your freely given, informed, explicit consent for us to process those Special Categories of Personal Data for the purposes set out in How We Process and Use Your Personal Information section above.
 
-You may withdraw your consent at any time by contacting your Local HR Department or DPO. Where you have withdrawn consent but GitLab retains the personal data we will only continue to process that Special Category Personal Data where necessary for those purposes where we have another appropriate legal basis such as processing necessary to comply with legal obligations related to employment or social security. However, this may mean that we cannot (for example) administer certain benefits or contact your next-of-kin in an emergency or provide support to you above and beyond our legal obligations.  You give your knowledgeable, freely given, express consent to GitLab for GitLab to use, disclose and otherwise process any personal health information about you that is provided to GitLab by any of your personal health information custodians, for the purposes set out in the How We Process and Use Your Personal Information section above.
+You may withdraw your consent at any time by contacting GitLab's People Success Group or DPO. Where you have withdrawn consent but GitLab retains the personal data we will only continue to process that Special Category Personal Data where necessary for those purposes where we have another appropriate legal basis such as processing necessary to comply with legal obligations related to employment or social security. However, this may mean that we cannot (for example) administer certain benefits or contact your next-of-kin in an emergency or provide support to you above and beyond our legal obligations.  You give your knowledgeable, freely given, express consent to GitLab for GitLab to use, disclose and otherwise process any personal health information about you that is provided to GitLab by any of your personal health information custodians, for the purposes set out in the How We Process and Use Your Personal Information section above.
 
 *Sharing Personal Information*
 
@@ -219,7 +219,7 @@ When using or collaborating with third parties in the operation of our business,
 
 *Access to Personal Information We Collect*
 
-To the extent access is required by applicable law, you can ask to see the personal information that we hold about you. If you want to review, verify or correct your personal information, please submit a request to the HR Department or DPO.
+To the extent access is required by applicable law, you can ask to see the personal information that we hold about you. If you want to review, verify or correct your personal information, please submit a request to GitLab's People Success Group or DPO.
 
 When requesting access to your personal information, please note that we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide you with the personal information that we hold about you. We may, in limited circumstances, charge you a fee to access your personal information; however, we will advise you of any fee in advance.
 
@@ -247,7 +247,7 @@ As stated previously, there are instances where applicable law or regulatory req
 
 *Resolving Concerns*
 
-If you have questions or concerns regarding the handling of your personal information, please contact your local HR Department or DPO. Alternatively, you may report concerns or complaints to the Legal Department.
+If you have questions or concerns regarding the handling of your personal information, please contact GitLab's People Success Group or DPO. Alternatively, you may report concerns or complaints to the Legal Department.
 
 You may also anonymously report violations of policy or law using our Third-Party managed Compliance & Fraud Prevention Hotline. You can access the Hotline by going to [How to Contact GitLab's 24 Hour Hotline](/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline)
 
@@ -279,7 +279,7 @@ To the extent required by applicable law, where personal information is subjecte
 
 *Right to withdraw consent*
 
-Where we are relying upon your consent to process data, you have the right to withdraw such consent at any time. You can do this by contacting your local HR Department or DPO.
+Where we are relying upon your consent to process data, you have the right to withdraw such consent at any time. You can do this by contacting GitLab's People Success Group or DPO.
 
 *Right to object to processing justified on legitimate interest grounds*
 
