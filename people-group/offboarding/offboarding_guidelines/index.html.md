@@ -16,11 +16,13 @@ The [People Experience Associate](/job-families/people-ops/people-experience-ass
 
 ### Notice of Offboarding
 
-The offboarding process kicks off once a Slack Workflow has been submitted by a People Business Partner (PBP) in the closed offboarding channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.
+The offboarding process kicks off once a Slack Workflow has been submitted by a People Business Partner (PBP) in the closed offboarding channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable. `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner. 
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.  
 
-In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time we encourage team members to consider either the preceding Thursday or the following Monday as an alternative. We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
+In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time we encourage team members to consider either the preceding Thursday or the following Monday as an alternative. 
+
+We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
 
 ### Creating the Offboarding Issue
 
