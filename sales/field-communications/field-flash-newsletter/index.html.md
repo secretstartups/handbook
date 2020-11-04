@@ -94,11 +94,12 @@ Based on the requirements above, this is the first iteration of the newsletter f
    - Updates from field enablement regarding new or updated trainings + opportunities to reinforce SKO learning objectives. (i.e. Did you know...?/Did you remember that...?)
 
 ## Process 
-The newsletter is sent out **on the first Tuesday of each month at 9 am PT.** Based on feedback from the field, we will iterate on timing. 
+The newsletter is sent out **on the first Monday of each month at 9 am PT.** Based on feedback from the field, we will iterate on timing. 
 
 We build the newsletter in an issue in the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). The process for the issue includes: 
-- The issue for the upcoming newsletter is opened at least two weeks before first Tuesday of the next month. 
+- The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
+- Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews.
 - Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in MailChimp. 
 - Field Communications sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
@@ -111,7 +112,7 @@ To be added to the newsletter distribution list, [use this signup form.](http://
 ## Deal of the Month Nominations
 Deals that qualify for the Deal of the Month video meet most of the criteria below. 
 
-While submissions often come from Sales leadership, nominations can and should be made by any GitLab team member - everyone can contribute! To make a Deal of the Month nomination, use this [Deal of the Month Nomination Form](https://forms.gle/7AYwzgFStrai5D2F7). Nominations close 7 business days prior to the target publish date (first Tuesday of each month). Any nominations received after this date will be considered for the following month's edition. Note that, in an effort to feature recent deals, nominations are only valid for one edition cycle, i.e. nominations do not carry over to a future month if not selected.
+While submissions often come from Sales leadership, nominations can and should be made by any GitLab team member - everyone can contribute! To make a Deal of the Month nomination, use this [Deal of the Month Nomination Form](https://forms.gle/7AYwzgFStrai5D2F7). Nominations close 7 business days prior to the target publish date (first Monday of each month). Any nominations received after this date will be considered for the following month's edition. Note that, in an effort to feature recent deals, nominations are only valid for one edition cycle, i.e. nominations do not carry over to a future month if not selected.
 
 **Deal of the Month Criteria**
 - This deal is a shining example of what great looks like. New and tenured team members would benefit from learning about all of the work and various components that went into it.
