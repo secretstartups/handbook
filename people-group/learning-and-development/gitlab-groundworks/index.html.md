@@ -18,6 +18,8 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 
 ## Handbook first approach to the LXP
 
+The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Learners in the LXP will use the platform to find and curate relevant content that exists in the handbook.
+
 
 ## Governance
 
