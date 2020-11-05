@@ -119,4 +119,7 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 - [Mutual Non-Disclosure Agreement (NDA)](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 
-
+#### What if I have feedback for a Vendor (either positive or negative), but do not work with them directly? 
+- Create a confidential issue in the Finance Issue Tracker and add a clear description of the feedback or complaint you would like to be addressed. 
+- Assign to the Business Owner of this [vendor or tool](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and confirm the issue is confidential. 
+- After any necessary discussion, the Business Owner will be the DRI for whether this feedback is delivered to the vendor.
