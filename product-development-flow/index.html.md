@@ -105,6 +105,8 @@ Sometimes it can be tricky to identify a good issue for problem validation. The 
 - Understanding if a Job to be Done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
 - Targeting a new user or buyer persona
 
+When validating potential features, it's important to gather feedback from [internal customers](handbook/product/product-processes/#internal-customer-dris), in addition to the broader community. Capturing internal customer feedback early allows their requirements to be considered from the beginning,  accelerating key [Dogfooding](handbook/product/product-processes/#dogfood-everything) outcomes. Driving internal usage of features has repeatedly [shown](https://about.gitlab.com/blog/2020/04/16/geo-is-available-on-staging-for-gitlab-com/) to accelerate broader adoption, deliver [better results for customers](handbook/values/#customer-results), and is required for [viable maturity](https://about.gitlab.com/direction/maturity/). PMs are strongly encouraged to open [Dogfooding issues](handbook/product/product-processes/#dogfooding-process) during the validation phase to capture the feedback of internal customers to help inform initial and/or future iterations of a feature.
+
 Some items will skip the problem validation phase. In these cases, the problem is well understood and has been validated in other ways. When skipping problem validation, ensure the issue description is clear with the rationale and sensing mechanisms used to skip the problem validation phase.
 
 To queue an item in your validation backlog:
