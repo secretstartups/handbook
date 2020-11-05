@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: DMCA Removal Requests
 category: Legal
+description: "Support Engineering workflow for DMCA requests"
 ---
 
 ## On this page

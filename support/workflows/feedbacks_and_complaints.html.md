@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Feedback and Complaints
 category: Handling tickets
+description: "Support Engineering workflow for receiving and responding to customer feedback"
 ---
 
 ## On this page
@@ -36,7 +37,7 @@ If a customer requests a refund, please follow the [Handling Refund Requests](ht
 
 ### Venting
 
-There may be cases where a customer will simply be unsatisfied with all available solutions and/or steps taken to solve problems they are facing or have faced. Deescalate the situation the best you can - apologize as necessary, offer solutions or alternatives that may work. Most importantly, in this situation, allow the customer to vent and assure that their feedback is taken very seriously. In some cases, you may want to CC a manager, especially [if you feel threatened or harassed](/handbook/support/#what-if-i-feel-threatened-or-harassed-while-handling-a-support-request). 
+There may be cases where a customer will simply be unsatisfied with all available solutions and/or steps taken to solve problems they are facing or have faced. De-escalate the situation the best you can - apologize as necessary, offer solutions or alternatives that may work. Most importantly, in this situation, allow the customer to vent and assure that their feedback is taken very seriously. In some cases, you may want to CC a manager, especially [if you feel threatened or harassed](/handbook/support/#what-if-i-feel-threatened-or-harassed-while-handling-a-support-request). 
 
 It is important to note that apologies should be sincere - this includes not apologizing when not necessary. Phrases like "I'm sorry that you're having trouble..." can sound ingenuine and "script like". Apologies can also be seen as an admission of guilt, which should not happen when a problem is not the fault of GitLab (such as when a feature works as intended but not the way customer wants). 
 
