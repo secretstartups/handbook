@@ -13,6 +13,10 @@ description: "PathFactory (PF) is leveraged as our content library & content dis
 
 PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
+#### PathFactory for Sales
+
+[PathFactory for Sales](/handbook/marketing/marketing-operations/pathfactory/pathfactory-for-sales) allows B2B sales teams to deliver and track personalized content to engage buyers and close deals. 
+
 #### PathFactory vs. Marketo
 
 ☝️ **PathFactory ≠ Email Nurture. PathFactory is a tool that - instead of driving to a single asset - drives to a related-content experience.**
@@ -704,3 +708,7 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Telecommunications
 1. Transportation
 1. Utilities
+
+### PathFactory Analytics
+
+There are a variety of analytics and reports available in PathFactory that show the overall effectiveness of content. See more info [here](/handbook/marketing/marketing-operations/pathfactory/pathfactory-analytics).
