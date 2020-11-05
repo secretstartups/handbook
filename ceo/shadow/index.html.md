@@ -178,8 +178,8 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2020-11-02 | 2020-11-06 | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend | [David Fisher](https://gitlab.com/dfishis1) - Acceleration SDR |
-| 2020-11-09 | 2020-11-13 | AVAILABLE - REMOTE | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
-| 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | AVAILABLE - REMOTE |
+| 2020-11-09 | 2020-11-13 | [Daniel Parry](https://gitlab.com/dparry) - Mid-Market Account Executive - Commercial  | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
+| 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | [Daniel Parry](https://gitlab.com/dparry) - Mid-Market Account Executive - Commercial |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
 | 2020-11-30 | 2020-12-04 | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst |
 | 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
