@@ -2,6 +2,7 @@
 layout: markdown_page
 title: How to Perform CMOC Duties
 category: GitLab.com
+description: "Describes the role and responsibilities for CMOC rotation in Support Engineering"
 ---
 
 - TOC

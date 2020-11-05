@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Customer calls
 category: Handling tickets
+description: "Workflow for conducting customer calls in Support Engineering"
 ---
 
 ## On this page

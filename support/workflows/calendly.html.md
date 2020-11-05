@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Calendly for Self-Managed Support
 category: Self-managed
+description: "Workflow for setting up and using Calendly in Support Engineering"
 ---
 
 ## On this page

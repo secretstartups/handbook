@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Communication tips
 category: References 
+description: "Provides general communication tips for the Support Engineering team"
 ---
 
 ## On this page

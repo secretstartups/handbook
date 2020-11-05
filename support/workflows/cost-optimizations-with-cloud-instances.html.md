@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Cost optimization of Cloud Services
 category: Infrastructure for troubleshooting
+description: "Guideline on how to use cloud services cost effectively"
 ---
 
 ## On this page
