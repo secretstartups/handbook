@@ -17,7 +17,7 @@ This quarter we are learning from [Sid Sijbrandij, CEO](/company/team/#sytses).
 
 ### Five Fast Facts from our Interview with Sid
 
-1. Favorite Book: [High Output Managemnt](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_3?dchild=1&hvadid=78065379167018&hvbmt=be&hvdev=c&hvqmt=e&keywords=high+output+management+book&qid=1603985339&sr=8-3&tag=mh0b-20) 
+1. Favorite Book: [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_3?dchild=1&hvadid=78065379167018&hvbmt=be&hvdev=c&hvqmt=e&keywords=high+output+management+book&qid=1603985339&sr=8-3&tag=mh0b-20) 
 1. Preferred Learning Style: Read/Write
 1. Role Model(s): Amazon (AWS), SpaceX 
 1. What are you doing to grow?: has coaches, utilizes his board performance review, reads books, asks a lot of questions 
@@ -38,7 +38,7 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 * **What made you decide to do that program?**
    * _Kris_: I chose this program because it aligned with skills I listed in my Individual Growth Plan. I really liked this program because it was flexible and you could choose different courses from the catalog to create a certificate that made sense for you.  You can check out the [courses I chose](https://docs.google.com/document/d/1h_nSe9FV7wTPtJMOXy_qPvLpITrf10P0LH1PQxnEQco/edit?usp=sharing).
 * **How will completing this program help you in your role at GitLab?**
-   * _Kris_: We don’t have enough time to talk about all of the benefits! At a high level, this program provided me a framework to help me organize my thoughts and to lead learning initiatives and a high performing team to tackle the enablement challenges that come our way! 
+   * _Kris_: We don’t have enough time to talk about all of the benefits! At a high level, this program provided me a framework to help me organize my thoughts and to lead learning initiatives and a high-performing team to tackle the enablement challenges that come our way! 
 * **What is one thing you have learned so far in your program that has been beneficial?**
    * _Kris_: The Change Management course was something that I was able to lean into right away. So many of our learning programs require some behavioral change and thinking through a change management plan from the beginning helps the field understand why we are doing this and why we are doing this right now! 
 * **When will your program be completed?**
@@ -46,13 +46,13 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 * **What advice would you give someone who is thinking about participating in GitLab's tuition reimbursement program?**
    * _Kris_: GitLab offers [$20K for your education](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement), and it’s like free money! More people should take advantage of the program. It worked with my manager and the process was pretty easy. 
 * **Anything else you would like to share on the tuition reimbursement program?**
-   * _Kris_: There are so many amazing programs out there! Take a look and talk to your manager today, why wait? Everyday is a great day for learning. I understand everyone is busy, but it really is worth the time investment in yourself.  
+   * _Kris_: There are so many amazing programs out there! Take a look and talk to your manager today, why wait? Every day is a great day for learning. I understand everyone is busy, but it really is worth the time investment in yourself.  
 
 Do you know a team member that places an emphasis on learning? To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
 
 ## Department Spotlight 
 
-The L&D Team has three team members that focuses on enabling a culture of learning by making it a priority for team member growth and development. 
+The L&D Team has three team members that focus on enabling a culture of learning by making it a priority for team member growth and development. 
 
 We would like to introduce you to our L&D Team! 
 
@@ -84,9 +84,9 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 
 **Challenges**
 
-[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching a one week challenge that all team members can attend and a comprehensive manager challenge focused on people leaders. 
+[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching a one-week challenge that all team members can attend and a comprehensive manager challenge focused on people leaders. 
 
-* 2020-11-16 - 2020-11-20: One Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
+* 2020-11-16 - 2020-11-20: One-Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
    * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek) 
 * 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
    * If you are interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
@@ -118,14 +118,14 @@ More ways you can continue to learn throughout the quarter:
 
 ## Learning Tips 
 
-We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Friday's are a great time to focus on learning. Consider blocking off a few hours each week to learn new skills for your role at GitLab
+We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Fridays are a great time to focus on learning. Consider blocking off a few hours each week to learn new skills for your role at GitLab
 
 Are you having a hard time finding or making time for learning? The Potentiality article outlines [seven ways to make time for learning](https://thepotentiality.com/seven-ways-to-make-time-for-learning/). 
 
 ### Seven Ways to Make Time for Learning
 
 - **Find motivation** - Start making time for learning by beginning with a topic – any topic – that “lights you up” and ignites your purpose.
-- **Start small** - Maybe you can’t imagine fitting a Masters program into your life right now, but you can imagine reading a book or some articles about co-operatives and exploring a few relevant massive open online courses (MOOCS) about leading social impact.
+- **Start small** - Maybe you can’t imagine fitting a Master's program into your life right now, but you can imagine reading a book or some articles about co-operatives and exploring a few relevant massive open online courses (MOOCS) about leading social impact.
 - **Create buy-in** - HBR’s Rachael O’Meara recommends that you create a vision statement that can answer this question: “who will I become as a result of this investment of my time and resources?” 
 - **Make time** - Time blocks, argues Fast Company’s Gwen Moran, are more effective than to-do lists because they force you to put what needs to be done in the proper place for the right amount of time.
 - **Find space** - Changing your environment can shift your perspective and open your mind to formal and informal learning. 

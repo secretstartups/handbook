@@ -25,10 +25,10 @@ Responsibilities include (but are not limited to):
 
 ### Working with us
 
-If you'd like to request engineering assistance with an issue related to People Group processes
-or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)), please start by
+If you'd like to request engineering assistance with an issue, bug fixes, urgent requests related to People Group processes
+or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)) or anything relating to People Group Engineering, please start by
 [creating an issue](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/issues/new)
-in the People Group Engineering project.
+in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack.
 
 ### Report bugs
 
