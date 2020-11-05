@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Account Ownership Verification
 category: GitLab.com
+description: "Workflow detailing how and when to disable 2FA for a customer and verifying account ownership"
 ---
 
 ## On this page
