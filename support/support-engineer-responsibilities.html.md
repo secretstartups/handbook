@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Support Engineer Responsibilities
+description: The motto of this page is to help us know how to carry out our responsibilities as a Support Engineer.
+
 ---
 
 ## On this page
