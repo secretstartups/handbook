@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Google Cloud Credit Troubleshooting
 category: License and subscription
+description: "Support Engineering workflow when a customer reports an inability to utilize their Google Cloud Credit (GCP Credit)"
 ---
 
 ## On this page

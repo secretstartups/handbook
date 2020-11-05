@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: GDPR Driven Account Deletion
 category: Legal
+description: "Support Engineering workflows for account deletion requests"
 ---
 
 ## On this page
