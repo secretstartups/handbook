@@ -343,7 +343,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | ---------- | -------------- |
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
-| `~incident-type::deployment related` | Indictes that the incident was a deployment failure, caused by failing tests, application bugs, or pipeline problems. |
+| `~incident-type::deployment related` | Indictes that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
 
 ### Workflow Diagram
