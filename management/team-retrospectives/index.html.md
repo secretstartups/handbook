@@ -62,7 +62,7 @@ that you observe the following:
    retrospective as well.
 1. **Use an issue to collect feedback asynchronously.** Consider using an issue to collect 
    feedback asynchronously.  This allows everyone involved to think about and record their feedback on their
-   own time.
+   own time.  It is recommended that the team uses the [retrospective issue template](https://gitlab.com/gitlab-org/async-retrospectives/-/blob/master/templates/default.erb) for the issue.
 1. **When necessary, get people face to face.** After a particularly difficult
    iteration, or when there's a strong risk that emotions will be running high,
    it's almost always worth the cost to have everyone in a video meeting to talk
