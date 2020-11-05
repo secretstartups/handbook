@@ -96,9 +96,10 @@ The main goals for this rotation:
 
 | Month     | Name             |
 | -----     | ------           |
-| January   |  |
-| December  |  |
-| November  |  |
+| February  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| January   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta)|
+| December  | [`@brodock`](https://gitlab.com/brodock)   |
+| November  | [`@mkozono`](https://gitlab.com/mkozono) |
 | October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
 | September | [`@alexives`](https://gitlab.com/alexives) |
 | August    | [`@vsizov`](https://gitlab.com/vsizov) |
