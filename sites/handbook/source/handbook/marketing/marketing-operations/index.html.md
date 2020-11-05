@@ -601,7 +601,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 ##### Step 1: Create the Salesforce campaign
 - For **ALYCE DIRECT MAIL** clone the [Alyce - Template](https://gitlab.my.salesforce.com/7014M000001dl5P).
 - For **OTHER DIRECT MAIL** clone the [#TEMPLATE - Direct Mail](https://gitlab.my.salesforce.com/7014M000001dlh9)
-- Update Campaign name to `YYYY_MM_NameofCampaign`
+- Update Campaign name to `whatever your campaign tag is`
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
 ##### Step 2: Update the Salesforce campaign
