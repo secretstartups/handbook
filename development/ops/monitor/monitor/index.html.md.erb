@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Health Group"
+title: "Monitor Group"
 ---
 
 ## On this page
@@ -9,11 +9,11 @@ title: "Health Group"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Health
-The **Health** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We work in parallel with the [APM group](/handbook/engineering/development/ops/monitor/apm/), who is responsible for GitLab's suite of application performance monitoring solutions (Logging, Metrics and Tracing). Together, we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+## Monitor
+The **Monitor** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We work in parallel with the [APM group](/handbook/engineering/development/ops/monitor/apm/), who is responsible for GitLab's suite of application performance monitoring solutions (Logging, Metrics and Tracing). Together, we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
 
 ## Peformance Indicators
-The Health Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we simply want to understand if our product is helping to address some of our customer’s needs. With that in mind, our initial [Product Performance Indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#monitorhealth---other---count-of-projects-where-incidents-are-being-created) is to **increase the total count of incidents within GitLab**. This NSM will inform us if we are on the right path to provide meaningful incident response tools.
+The Monitor Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we simply want to understand if our product is helping to address some of our customer’s needs. With that in mind, our initial [Product Performance Indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#monitormonitor---other---count-of-projects-where-incidents-are-being-created) is to **increase the total count of incidents within GitLab**. This NSM will inform us if we are on the right path to provide meaningful incident response tools.
 
 We expect to track the journey of users through the following funnel:
 
@@ -37,25 +37,25 @@ classDiagram
 ```
 
 ## Snowplow Events
-Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Health-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Health categories.
+Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor categories.
 <embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 9813568, dashboard: 737489, embed: 'v2') %>">
 
-This chart looks for the Snowplow categories the Health team has created. Currently, the Health team has added `Alert Management` and `Error Tracking`.
+This chart looks for the Snowplow categories the Monitor team has created. Currently, the Monitor team has added `Alert Management` and `Error Tracking`.
 If any additional categories get added, please amend this page and edit the Sisense chart accordingly.
 
 ## Communication
 
-- Slack channel: [#g_monitor_health](https://gitlab.slack.com/archives/g_monitor_health)
-- Slack alias: [@monitor-health-group](https://app.slack.com/client/T02592416/C0259241C/user_groups/SLFUX86HF)
+- Slack channel: [#s_monitor](https://gitlab.slack.com/archives/C1ZCCRWBC)
+- Slack alias: [@monitor-group](https://app.slack.com/client/T02592416/C0259241C/user_groups/SLFUX86HF)
 - All of our team meetings are on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Our Google groups are organized like this:
-  - [Monitor Health Group](mailto:monitor-health-group@gitlab.com) (whole team)
-    - [monitor-health-be](mailto:monitor-health-be@gitlab.com) (backend team)
-    - [monitor-health-fe](mailto:monitor-health-fe@gitlab.com) (frontend team)
+  - [Monitor Group](mailto:monitor-group@gitlab.com) (whole team)
+    - [monitor-be](mailto:monitor-be@gitlab.com) (backend team)
+    - [monitor-fe](mailto:monitor-fe@gitlab.com) (frontend team)
 
 ## Backend Team members
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Monitor:Health') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Monitor:Monitor') %>
 
 ## Frontend Team members
 
@@ -63,12 +63,12 @@ If any additional categories get added, please amend this page and edit the Sise
 
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?!Monitor:APM)Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Health', other_manager_roles: ['Engineering Manager, Monitor:APM', 'Frontend Engineering Manager, Monitor']) %>
+<%= stable_counterparts(role_regexp: /(?!Monitor:APM)Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Monitor', other_manager_roles: ['Engineering Manager, Monitor:Monitor', 'Frontend Engineering Manager, Monitor']) %>
 
 ## Responsibilities
 {: #monitoring}
 
-This team maps to the [Health Group](/handbook/product/product-categories/#health-group) category and focuses on:
+This team maps to the [Monitor Group](/handbook/product/product-categories/#monitor-group) category and focuses on:
 * Incident Management
 * Error Tracking
 * Synthetic monitoring
@@ -85,8 +85,8 @@ This team maps to the [Health Group](/handbook/product/product-categories/#healt
 
 ## Issue boards
 
-* [Health - Planning](https://gitlab.com/groups/gitlab-org/-/boards/1131777) - Main board with all issues scoped to label "group::health"
-* [Health - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1160198) - Issue board organized by workflow labels
+* [Monitor - Planning](https://gitlab.com/groups/gitlab-org/-/boards/1131777) - Main board with all issues scoped to label "group::monitor"
+* [Monitor - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1160198) - Issue board organized by workflow labels
 * [Charts](https://gitlab.com/groups/gitlab-org/-/boards/1184016) - Issue board with all issues labeled "Charts"
 * [Monitor Bugs](https://gitlab.com/groups/gitlab-org/-/boards/979406) - Issue board organized by Priority labels so that we make sure we meet our bug fix SLA
 
@@ -147,9 +147,9 @@ When new bugs are reported, the engineering managers ensure that they have prope
 
 #### Scheduling technical debt
 
-As new technical debt issues are created, the engineering manager and product manager will triage, prioritize and schedule these issues on a weekly basis using the [Health - Tech Debt board](https://gitlab.com/groups/gitlab-org/-/boards/2120893).  Issues with a P1 or P2 will be scheduled during milestone planning.  When new issues are created by Health team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
+As new technical debt issues are created, the engineering manager and product manager will triage, prioritize and schedule these issues on a weekly basis using the [Monitor - Tech Debt board](https://gitlab.com/groups/gitlab-org/-/boards/2120893).  Issues with a P1 or P2 will be scheduled during milestone planning.  When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
 
-Priorities for scheduling technical debt will apply as follows: 
+Priorities for scheduling technical debt will apply as follows:
 - **P1**: Interrupt the current milestone or schedule in the next milestone
 - **P2**: Schedule in the next 1-2 milestones
 - **P3**: To be scheduled at a later date
@@ -252,17 +252,17 @@ The following people are owners of this account and can [grant access](https://z
 For more information on how to use Zoom see theirs [guides](https://marketplace.zoom.us/docs/guides) and [API reference](https://marketplace.zoom.us/docs/api-reference/introduction).
 
 ## Recurring Meetings
-While we try to keep our process pretty light on meetings, we do hold a [Monitor Health Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
+While we try to keep our process pretty light on meetings, we do hold a [Monitor:Monitor Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
 
 ## Labels
-The Health team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
+The Monitor team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
 
 ### Issue Labels
 
 |                | Label                             | Required            | Description                                               |
 |----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
 | **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
-| **Group**      | `~group::health`                  | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Group**      | `~group::monitor`                  | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
 | **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
 |                | `~frontend`                       |                     |                                                            |
 |                | `~backend`                        |                     |                                                            |
