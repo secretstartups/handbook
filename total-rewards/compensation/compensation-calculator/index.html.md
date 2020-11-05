@@ -231,7 +231,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
-| CEO   | CEO              |                           |
+| 15    | CEO              |                           |
 | 14    | EVP/CXO          |                           |
 | 12    | VP               | Fellow                    |
 | 11    | Senior Director  |	                         |
@@ -249,7 +249,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
-| CEO   | CEO             |                                 |
+| 15    | CEO             |                                 |
 | 14    | EVP/CXO         |                                 |
 | 12    | VP              |                                 |
 | 11    | Senior Director |	                                |
