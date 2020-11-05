@@ -62,7 +62,7 @@ rate of growth in 2017 and 2018, it is usually only a matter of 6 months or less
 
 Most important is the fork between purely technical work and managing teams. It's important that Engineering Managers self-select into that track and don't feel pressured. We believe that management is a craft like any other and requires dedication. We also believe that everyone deserves a manager that is passionate about their craft.
 
-Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in a [blog post with feedback from some of our Staff Engineers](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
+Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in a [Engineering IC Leadership page](/handbook/engineering/ic-leadership).
 
 ### Trying the Management Track
 
