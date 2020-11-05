@@ -58,7 +58,20 @@ Implementation of the EdCast LXP at GitLab requires cross-functional collaborati
 
 ### Core Team Members and Roles
 
-| Name | Team | Role at GitLab | Role in EdCast Implementation |
-| ----- | ----- | ----- | ----- | 
-| 
-
+| Name | Team at GitLab |
+| ----- | ----- | ----- |
+| Phil Encarnacion | Enterprise Applications |
+| David Somers | Field Enablement |
+| Kris Reynolds | Field Enablement |
+| Monica Jacob | Field Enablement |
+| John Blevins | Field Enablement |
+| Tanuja Paruchuri | Field Enablement |
+| Issac Abbasi | Field Enablement |
+| Christine Yoshida | Professional Services |
+| Kendra Marquart | Professional Services |
+| Alvaro Warden | Partner Enablement |
+| Christina Hupy | Community Relations |
+| Josh Zimmerman | Learning and Development |
+| Jacie Bandur | Learning and Development |
+| Samantha Lee | Learning and Development |
+| Dan Gordon | Technical Marketing |
