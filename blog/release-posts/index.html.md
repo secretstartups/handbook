@@ -319,11 +319,9 @@ After the 18th of the month, late additions should be added only in coordination
 
   - Feature file names: stagename-featurename.yml (don't designate primary vs secondary as that can change, don't use category or group name and don't include the reporter's name)
 
-  - Deprecation file names: dep-something-descriptive.yml
-
-  - Removal file names: removal-something-else-descriptive.yml
-
-  - Upgrade file names: upgrade-another-description.yml
+  - Deprecation file names: `dep-something-descriptive.yml`
+  - Removal file names: `removal-something-else-descriptive.yml`
+  - Upgrade file names: `upgrade-another-description.yml`
 
   **Some troubleshooting hints:**
 
