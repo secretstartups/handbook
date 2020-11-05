@@ -292,7 +292,11 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 
 ## Learning Management Systems
 
-We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/). More details to come in the next few months! 
+We are currently in the process of implementing the [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-groundworks). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
+
+We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [
+Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/)
+
 
 ## Compliance Courses 
 
