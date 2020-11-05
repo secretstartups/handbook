@@ -186,7 +186,7 @@ Once a candidate has signed their offer document, at that time the CES that sent
 Once the offer is approved in Greenhouse and references are completed, an offer will be verbalized to the candidate by the Recruiter or Hiring Manager.
 
 The Recruiter will email the candidate and ask if they want to book a zoom call to discuss the offer details. During that call the Recruiter will go over:
-- Start Date
+- [Start Date](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability) - ensure that the candidates start date is not a blackout date (unless needed for legal reasons)
 - Job Title
 - Salary
 - General and specific benefits
