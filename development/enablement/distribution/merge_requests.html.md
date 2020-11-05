@@ -21,7 +21,7 @@ Merge Requests are the responsibility of all Distribution Engineers. For the mos
 1. The Reviewer works with the Author to get the merge request to a state where they approve it. At this stage, it is expected that the Author and the Reviewer will assign the merge request back and forth as described in [review iteration](#review-iteration).
 1. Once approved, the Reviewer assigns the merge request to a Maintainer for final review/merge. If the Maintainer has any comments, then they work with the Author to clarify. It is the responsibility of the Maintainer to find another Maintainer to look at a merge request that is assigned to them if they are unable.
 
-**NOTE**: If you are working on a merge request that requires a response quicker than the [First-response SLO](/handbook/engineering/workflow/code-review/#first-response-slo), please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team. The team will exercise best effort in handling these requests.
+**NOTE**: If you are working on a merge request that requires a response quicker than the [First-response SLO][], please `@` mention the `gitlab-org/distribution` group in order to alert the Distribution team. The team will exercise best effort in handling these requests.
 
 ## Reviewers
 
@@ -33,13 +33,15 @@ Additionally, in the spirit of "everyone can contribute", anyone who is interest
 
 Anyone who plans on actively participating in the Reviewer process is encouraged to [update their entry on the team page](/handbook/git-page-update/#11-add-yourself-to-the-team-page).
 
+When looking for merge requests to review, consider checking the [Merge Request Report][] to see what reviews are in danger of breaching the [First-response SLO][].
+
 ## Maintainers
 
-Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [Trainee Maintainers](/handbook/engineering/workflow/code-review/#trainee-maintainer), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [First-response SLO](/handbook/engineering/workflow/code-review/#first-response-slo) in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
+Project Maintainers are encouraged to ensure that Reviewers, and in particular Reviewers who have designated themselves [Trainee Maintainers](/handbook/engineering/workflow/code-review/#trainee-maintainer), look at a Merge Request before they spend time on it. There are times when it makes sense for a Maintainer to not wait for a reviewer, so judgment should be used here. For example, we do need to keep the [First-response SLO][] in mind. If an MR is in danger of missing that deadline, a Maintainer should not hesitate to respond.
 
 ## Assigning Merge Requests
 
-To help achieve all of this, we should urge contributors to **not** assign merge requests to an individual when looking for initial review, unless there is a specific reason someone should look at a merge request. Rather, the merge request should have the "workflow::ready for review" label applied, and a Reviewer will assign it to themselves when they are beginning to look into it. When looking for a merge request to work on, consider the [First-response SLO](/handbook/engineering/workflow/code-review/#first-response-slo). Anything in danger of breaching that deadline should be looked at first.
+To help achieve all of this, we should urge contributors to **not** assign merge requests to an individual when looking for initial review, unless there is a specific reason someone should look at a merge request. Rather, the merge request should have the "workflow::ready for review" label applied, and a Reviewer will assign it to themselves when they are beginning to look into it. When looking for a merge request to work on, consider the [First-response SLO][]. Anything in danger of breaching that deadline should be looked at first.
 
 If a merge request is assigned directly to you as a Maintainer without prior review, you are encouraged to assign it to an available Reviewer. If a merge request is assigned directly to you as a Reviewer, use your judgment. If you will not be able to work on it soon, try and find another Reviewer to take a look.
 
@@ -54,5 +56,8 @@ When the merge request is ready to be handed back for changes or further review,
 
 ## References
 
-[Distribution team projects](/handbook/engineering/development/enablement/distribution/#projects) - The full list of projects the Distribution team maintains
-[Engineering Projects](/handbook/engineering/projects/) - The full list of supported GitLab projects. Clicking on the project name will bring you to the list of Maintainers and Reviewers for each project.
+1. [Distribution team projects](/handbook/engineering/development/enablement/distribution/#projects) - The full list of projects the Distribution team maintains
+1. [Engineering Projects](/handbook/engineering/projects/) - The full list of supported GitLab projects. Clicking on the project name will bring you to the list of Maintainers and Reviewers for each project.
+
+[Merge Request Report]: https://gitlab-org.gitlab.io/distribution/monitoring/mrs/
+[First-response SLO]: /handbook/engineering/workflow/code-review/#first-response-slo
