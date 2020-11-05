@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Quality Team's Project Management"
+title: "Quality Engineering Project Management"
+description: "Guidelines for project management for the Quality Engineering Department at GitLab"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Engineering Productivity team prioritization"
+description: "Work prioritization methodology for the Engineering Productivity team"
 ---
 
 ## On this page

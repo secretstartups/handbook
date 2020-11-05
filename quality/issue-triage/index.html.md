@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Issue Triage
+description: "Guidelines for triaging new issues opened on GitLab.com projects"
 ---
 
 ## On this page

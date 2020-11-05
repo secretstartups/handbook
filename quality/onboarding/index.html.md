@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
-title: "Onboarding"
+title: "Quality Engineering Onboarding"
+description: "Guidelines for onboarding as a new Quality Engineering team member"
 ---
 
 The instructions here are in addition to the on-boarding issue that People Ops will assign on the first day.

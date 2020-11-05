@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Test Engineering"
+description: "The Quality Engineering Department helps facilitate the test planning process for all things related to Engineering work."
 ---
 
 ## On this page

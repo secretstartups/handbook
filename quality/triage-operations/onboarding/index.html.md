@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Issue Triage Onboarding"
+description: "Onboarding guidelines for Issue Triaging team"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Tips and Tricks"
+title: "Quality Engineering Tips and Tricks"
+description: "This page lists a number of tips and tricks we have found useful in day to day Quality Engineering related tasks."
 ---
 
 ## On this page

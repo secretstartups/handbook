@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Reliable tests"
+description: "This page describes the process and technical documentation around reliable tests at GitLab. Reliable tests are executed as a blocking step in the release process."
 ---
 
 ## On this page

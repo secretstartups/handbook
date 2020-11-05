@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Triage Operations"
+description: "Automation and tooling for processing un-triaged issues at GitLab"
 ---
 
 ## On this page
