@@ -240,9 +240,9 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
-| Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
+| Four  | Tue  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
 | Four  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
-| Four  | Thur | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Thur | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
 | Five  | Tue  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
@@ -260,9 +260,9 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
-| Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
+| Eight | Tue  | Available |   |
 | Eight | Wed  | Available |   |
-| Eight | Thur  | Available  |  |
+| Eight | Thur  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation
