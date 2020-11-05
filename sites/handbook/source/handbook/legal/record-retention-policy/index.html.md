@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Record Retention Policy"
+description: "This Records Retention Policy promotes and assists with the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing Guide: Collaborating with GitLab Legal"
+description: "This page provides educational resources and process guides to GitLab Marketing for recurring Legal requests"
 ---
 
 ## On this page

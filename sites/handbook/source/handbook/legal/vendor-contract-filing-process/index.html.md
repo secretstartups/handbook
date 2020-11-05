@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Uploading Executed Contracts to ContractWorks"
+description: "These instructions will walk GitLab Team Members through how to file your contract or other related-vendor documents after they are fully executed."
 ---
 
 ## On this page

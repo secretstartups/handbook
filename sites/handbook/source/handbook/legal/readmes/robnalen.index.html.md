@@ -28,14 +28,10 @@ I am the Director of Contracts & Legal Operations at GitLab. As titles don’t a
 
 ## My working style
 
-- I'm an [INFJ-A](https://www.16personalities.com/profiles/5d75bb9df7f75) with the traits: assertive advocate, diplomat, and confident individualism. 
-- I prefer to work asynchronously for work-related tasks and projects, but I love and prefer video calls for non-work: coffee chats, 1:1s, or Friday happy hours.
-- I need visual aids and will always ask for them. If a visual aid is unavailable, I prefer our first collaboration focus on creating that artifact to help me understand the topic.
-- Work-life balance is important to me and I'm usually completely unavailable after 5pm CST. I do allow email notifications for urgent matters.
-- Sometimes I neglect the micro details because I favor the macro ones. I encourage people to tell me when I'm focused on the wrong detail.
-- Collaboration is critical to my thought process. I prefer building solutions with others and struggle when I'm left to ideating by myself.
-- I have a [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame) - an acquired skill at GitLab :joy: - which may conflict with others; please stop me and tell me if you feel my shame level is _too_ low.
-- My preference is to always "Ship it!" and iterate and improve something later. I have a strong bias for action, but please stop me here as well if it becomes too much.
+- I'm an [ENTJ-T](https://www.16personalities.com/entj-personality) with the traits: Efficient, Leader, and Strategic Leader. 
+- I work well asynchronously, but also love video calls for work and non-work: coffee chats, 1:1s, or Friday happy hours.
+- Visual aids are always helpful! If a visual aid is unavailable, I prefer our first collaboration focus on creating that artifact to help me understand the topic.
+
 
 ## How I communicate / the best ways to communicate with me
 
