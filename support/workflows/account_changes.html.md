@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Making Changes and Taking Actions on an Account
 category: GitLab.com
-descrition: "Workflow for when and how to make account changes on behalf of a customer"
+description: "Workflow for when and how to make account changes on behalf of a customer"
 ---
 
 ## On this page
