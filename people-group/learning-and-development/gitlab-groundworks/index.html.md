@@ -40,20 +40,20 @@ Implementation of the EdCast LXP at GitLab requires cross-functional collaborati
 
 | Gap | Description | DRI |
 | ------ | ------ | ------ |
-| Exec alignment | Need to be 100% aligned with LXP vision with Sid and e-group | @dcsomers |
-| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Recommendation: @iabbasi |
-| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Recommendation: @kmarquart |
-| Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | @rnalen |
+| Exec alignment | Need to be 100% aligned with LXP vision with Sid and e-group | David Somers |
+| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Recommendation: Issac Abbasi |
+| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Kendra Marquart |
+| Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | Robert Nalen |
 | Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | TBD-Marketing |
-| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | @slee24  |
-| Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | L&D |
+| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Leee  |
+| Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | Learning and Development Team |
 | System Design | Should the owner of systems settings be organized at the highest level, not by department? | TBD-Core team |
 | Content Strategy | Need to determine what the content categories are across the organization | TBD-Core team |
 | Content Management | Will content be managed by respective departments or will this be done a centralized level? | TBD-Core team |
 | Assessments | Standardization of assessment look and feel across the organization? | TBD-Core team |
 | Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | TBD-Core team |
 | Support | Determine how technical issues and questions about the LXP will be managed | TBD-Core team |
-| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | @dangordon |
+| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Dan Gordon |
 
 
 ### Core Team Members and Roles
