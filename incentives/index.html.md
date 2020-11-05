@@ -174,7 +174,7 @@ graph TD;
 1. The request is then sent to the People Ops Admins for final approval and to confirm that there is a 1-sentence justification comment in the Bamboo record.
 1. Once approved, the request is sent to the Total Rewards Analyst to process the bonus in the applicable payroll and notify the manager via email.
 1. Notify Payroll of the bonus.
-1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and the nominator will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The nominator announces the “who” and “why” of the bonus. The announcement should include the 1-sentence justification of the bonus.
+1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
 
 #### GitLab Anniversaries
 
