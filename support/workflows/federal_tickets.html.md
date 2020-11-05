@@ -32,6 +32,10 @@ Issues relating to tickets received in the US Federal Zendesk Instance may be di
 
 For any assistance with log review or confidential information within a ticket please CC other engineers with access to the federal instance within Zendesk using an internal comment.
 
+Federal tickets can be linked publicly, such as in an issue or merge request as the link itself
+does not reveal any information, just avoid naming the link with any identifiable information. For
+example: `[Federal internal ticket](<ticket_link>)`.
+
 When pairing over video chat, be sure you only pair with engineers that have access to the federal
 instance and avoid screensharing.
 
