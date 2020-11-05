@@ -1,0 +1,70 @@
+---
+layout: handbook-page-toc
+title: "Engineering IC Leadership"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Engineering IC Leadership at GitLab: going beyond Senior level
+
+At GitLab, it is expected that everyone is [a manager of one](/handbook/leadership/#managers-of-one). For Individual Contributors (IC) a new type of challenge begins with the Staff Engineer role. Engineering IC Leadership is an alternative [career path](/handbook/engineering/career-development/#roles) to Engineering Management.
+
+Just like moving into management, also moving from Senior to Staff changes the day-to-day work and expectations placed on ICs.
+
+Engineering IC Leaders exert technical leverage in their [scope of influence](/handbook/engineering/career-development/career-matrix.html#scope-of-influence).
+Like any other leadership role, the focus should be on helping others to improve.
+Their impact multiplies with every person they help grow, and the company gets more value when they're not investing time in doing things themselves.
+
+Technical skills developed in their career up until now are still very important, and the role is still hands-on technical. Their technical skills are vast and are developing at a lower rate of change now, but they also get new skills that will drive their career from now on: Communication, Collaboration, and Leadership.
+
+### The four archetypes
+
+Staff Engineers and Engineering Managers shared their perspective on [what does Staff level mean at GitLab](/blog/2020/02/18/staff-level-engineering-at-gitlab/) in an [Unfiltered](/handbook/marketing/blog/unfiltered/) blogpost. 
+Much of what each engineer said overlapped, but each had a unique perspective based on their team and their particular experience within GitLab as an entity.
+
+There are [four common archetypes of Staff-plus roles in the industry](https://staffeng.com/guides/staff-archetypes) that could explain this variability their perspective:
+
+* The **Tech Lead** guides the approach and execution of a particular team. Most frequently they partner closely with a single manager, but sometimes they partner with two or three managers within a focused area.
+* The **Architect** is responsible for the direction, quality and approach within a critical area, both today and stretching into the multi-year future horizon. They combine a deep knowledge of technical constraints, user needs, and organization level leadership.
+* The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods, others bounce from hotspot to hotspot as guided by organizational leadership.
+* The **Right Hand** is a partner and an extension of an executive-level manager, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
+
+### The four archetypes at GitLab
+
+**The four archetypes are not roles**, and we don't map our Staff+ ICs to them. Still, they provide a framework for matching market titles and responsibilities. They also explain the presence of multiple Staff+ in a single team.
+
+We expect our Staff+ ICs to exhibit behavior from all the archetypes. The individual inclination will usually make one (or more) of them more prominent, but they all define Engineering IC Leaders.
+
+#### Tech Lead
+
+The most common archetype for a new Staff Engineer is the Tech Lead, as a Senior Engineer may start showing Staff level behaviors emerging from their team. 
+
+A Staff Engineer partners with the Engineering Manager and the Product Manager for milestone planning and helps teammates address complexity with their deliverables.
+
+This also applies on levels above Staff+, partnering with their peers in Management and Product.
+
+#### Architect
+
+At GitLab [Architecture is a practice](/handbook/engineering/architecture/) where [everyone can contribute](/company/strategy/#mission) but Staff+ Engineers play a fundamental role in that.
+
+> **Architecture as a practice is everyone's responsibility, but it is notably ingrained in senior technical leadership roles**, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice.
+
+#### Solver
+
+Complex problems often require a Staff+ Engineer to handle the first iterations in order to reduce the level of complexity to a manageable state.
+Routinely being handed the hardest, least-specified, or most-uncertain work is part of this archetype. As well as guiding other ICs in the team when they're struggling to find a solution.
+
+[Other teams may need a Staff+ Engineer on loan](/handbook/engineering/career-development/#team-members-on-loan-to-another-team). The receiving team may or may not already have a Staff+ Engineer, a Solver deals with the problem at hand, and makes sure the team is empowered to take care of the work once the complexity level is manageable.
+
+#### Right Hand
+
+One of the conclusions from our work on [Architecture Practice at GitLab](/handbook/engineering/architecture/) is that introducing complex architectural changes can not happen without Staff+ ICs working closely with the decision-makers. This conclusion highlights the need for a close collaboration between Engineering Manager+ and Staff+ Engineers, and it fits very well into the Right Hand archetype definition.
+
+Staff+ Engineers are supposed to broaden the perspectives of their managers. Decision-makers often need the additional context and perspective to make well-informed decisions about investments in the product architecture, understanding expected ROI, and a core technical vision behind such changes.
+
+Building meaningful relationships based on trust will make this whole process smoother and will distribute leadership, both technical and managerial, at every level, from single teams up to department level.
+
