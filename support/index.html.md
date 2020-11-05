@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Team Handbook
+description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 ---
 
 ## Welcome to the GitLab Support Team Handbook

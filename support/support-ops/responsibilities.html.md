@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Ops Responsibilities
+description: The Support Operations team maintains the day-to-day operations and software systems used by GitLab’s global Technical Support team.
 ---
 
 ## On this page
