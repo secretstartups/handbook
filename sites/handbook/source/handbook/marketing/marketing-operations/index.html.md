@@ -614,7 +614,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Start Date` to the date of launch
 - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
 - Update `Status` to `In Progress` or the approriate selection
-- Update `Budgeted Cost` if you have the data available, if not, put $1
+- Update `Budgeted Cost` if you have the data available, if not, or if cost is $0, list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
 
