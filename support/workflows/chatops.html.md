@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: ChatOps Commands for GitLab.com
 category: GitLab.com
+description: "Guide for common ChatOps commands used by Support Engineering"
 ---
 
 - TOC
