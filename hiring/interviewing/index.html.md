@@ -415,17 +415,18 @@ Scoring is defined as follows:
     - If the candidate's interview is outside 24 hours, the interview will be deleted in Greenhouse before the candidate is rejected and notified.
 1. The candidate should always be notified if they've been rejected. The recruiting team is primarily responsible for declining the candidate, but the hiring manager should be prepared to let the candidate know why they were declined if they had progressed to the team or manager interviews. The hiring manager can also share this feedback with the recruiting team, who will relay it to the candidate.
 
-|Stage|Timing|Medium|Type|
-| ------ | ------ | ------ |------ |
-|Screening Interview with Recruiter|Within 5 days of Screening Interview|Email OR Verbally during the Screening Interview |Standard Template by default, may provide specific feedback, but not required|
-|Assessment|Within 5 days of Asessment Submission|Email |Standard Template by default, may provide specific feedback, but not required|
-|Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
+    |Stage|Timing|Medium|Type|
+    | ------ | ------ | ------ |------ |
+    |Screening Interview with Recruiter|Within 5 days of Screening Interview|Email OR Verbally during the Screening Interview |Standard Template by default, may provide specific feedback, but not required|
+    |Assessment|Within 5 days of Asessment Submission|Email |Standard Template by default, may provide specific feedback, but not required|
+    |Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
+
 1. If people argue with the feedback that we provided:
     * Do not argue with or acknowledge the validity of the contents of the feedback.
     * Share their feedback with the people involved in the interviews and the decision.
     * Template text: "I've shared your feedback with the people involved in the interviews and the decision. We do not expect to revert the decision based on your feedback. In our hiring process we tend to err on the side of being too cautious. We would rather reject someone by mistake than hire someone by mistake since a wrong hire is much more disruptive. Organizations can reject people with great potential (https://www.adweek.com/digital/whatsapp-facebook-twitter-brian-acton/) so please don't be discouraged from seeking a great job."
 1. The recruiting team may send out an inquiry to candidates to gather our own feedback after they have exited the hiring process.
-  * The recruiting team will review all feedback and use it to improve the hiring process.
+    * The recruiting team will review all feedback and use it to improve the hiring process.
 
 </details>
 
