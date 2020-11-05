@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Processing Signed Data Processing Addendums (DPAs)
 category: Legal
-description: "Support Engineering sorkflow detailing what to do with signed Data Processing Addeundums"
+description: "Support Engineering workflow detailing what to do with signed Data Processing Addendums"
 ---
 
 ## On this page
