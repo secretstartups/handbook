@@ -30,6 +30,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab PTY (Australia) - [iiPay](#iipay---australia)
 - GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
+- GitLab Ireland Ltd (Ireland) - CloudPay
 
 ## Pay Date
 
@@ -176,7 +177,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 ## Non-US
 
 
-### Australia, UK, Belgium, Netherlands, and Germany Monthly Payroll Process
+### Australia, UK, Belgium, Netherlands, Germany, Ireland and Japan Monthly Payroll Process
 
 1. Payroll changes due date to the payroll providers is 10th with exception of Australia (12th) & UK (15th).  If the due date falls on a weekend or a holiday, then it will be the working day before this.  
 1. Total Rewards Team will add bonus, promotion, title changes, etc.. to the Payroll Changes template
@@ -244,6 +245,7 @@ If you have not received an invitation to create an account, visit the [register
 - Turkey
 - Israel
 - Ukraine
+- Greece
 
 Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
 
@@ -253,10 +255,8 @@ Team members from the above countries will get paid through CXC Global. Team mem
 
 - Brazil
 - France
-- Ireland
 - Italy
 - Spain
-- South Africa
 - South Korea
 - Switzerland
 
@@ -266,12 +266,16 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 
 - India
 - Philippines
+- China
 
 Payroll changes will be send by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.
 
 #### Remote.com
 
 - Hungary
+- Austria
+- Mexico 
+- South Africa
 
 #### Payroll cut off date
 
@@ -286,9 +290,10 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
 - GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
+- GitLab Ireland Ltd [Payroll Calendar]()
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
-    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
-    -  SafeGuard ([S. Korea,France, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482),[Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
+    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
+    -  SafeGuard ([S. Korea, France](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482),[Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
     - Remote.com
     - Global Upside
 
