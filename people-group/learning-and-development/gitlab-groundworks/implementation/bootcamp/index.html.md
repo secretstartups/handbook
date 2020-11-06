@@ -29,8 +29,7 @@ If you would like to be added to any of the implementation meetings, please reac
 
 ### Team Communication
 
-The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y) to collaborate.
-
+The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y) to collaborate. The [Bootcamp Planning Issue](https://gitlab.com/gitlab-com/business-ops/Business-Operations/-/issues/655) was used to define and organizd bootcamp sessions.
 
 ## Bootcamp Training Materials
 
