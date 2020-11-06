@@ -317,4 +317,4 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 
 ### D300 (Account)
 
-`D300` refers to prospect & customer accounts in SFDC that have more than 300 developers and indicate a higher propensity to buy GitLab and for future growth.
+`D300` refers to prospect & customer accounts in SFDC that have more than 300 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts.
