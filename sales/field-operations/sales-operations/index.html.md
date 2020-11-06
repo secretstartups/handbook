@@ -583,6 +583,6 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### **Sales Operations Owned System Offboarding**
 Below are instructions on how Sales Operations offboards users within the various Sales-owned systems.
 
-1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps).
+1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
