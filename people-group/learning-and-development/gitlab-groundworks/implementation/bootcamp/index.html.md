@@ -27,7 +27,7 @@ The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https:/
 ## Bootcamp Training Materials
 
 
-### Administrator Foundations
+### Administrator
 
 #### Summary
 
@@ -48,16 +48,38 @@ GitLab team members using EdCast in the following capacity should complete the A
 | [Management of platform integrations](https://drive.google.com/file/d/1XkMejw3PYSkMYylSuEaYytHW9zg0TdQk/view) | Integrations with systems or content providers |
 | [Front end UI Admin UI configuration](https://drive.google.com/file/d/1pRbuvkML1jPe3lzdCA-2rBI0AJ1Whfu_/view) | General difference between front-end & back-end UI |
 | [Release Management](https://drive.google.com/file/d/1_ey-iJcx8hDNTBWlkMcOS1MP3PrDc3ZK/view) | Management of enabled features and functionality |
+| [Front End and User Provisioning](https://hpa.edcast.com/insights/admin-bootcamp-10152020-mp4) | Branding, customization, and user provisioning|
+| [User Management](https://hpa.edcast.com/insights/gitlab-admin) | User authentication, onboarding, roles and RBAC |
+| [EdCast Groups](https://hpa.edcast.com/insights/gitlab-admin-bootcamp) | Understanding how to create and use learner groups |
+| [Governance Features](https://hpa.edcast.com/insights/gitlab-admin-bootcamp) | Governance implementation and settings |
+| [Notifications](https://hpa.edcast.com/insights/gitlab-bootcamp) | Management of notifications for users in EdCast |
+| [Gamification Features](https://hpa.edcast.com/insights/gitlab-bootcamp-gamifications-mp4) | How to incorporate gamification |
+| [Mobile Configuration Features](https://hpa.edcast.com/insights/mobile-lxp) | How to configure mobile setup |
+| [User Analytics](https://www.youtube.com/watch?v=Mfa4gGotiKE) | Analytics settings and access |
+| Admin Panel Content Connectors | TBD |
+| Workflos | TBD |
 
 
 
-### Curator Foundations
+### Curator
 
 #### Summary
 
 #### Key Topics and Training Recordings
 
-- [Curator Foundations Google Drive](https://drive.google.com/drive/folders/1u-uTgLgWnbDfUbr7dbPH-3lV0TImSf_e)
+| Key Topic and Recording Link | Training Summary |
+| ----- | ----- |
+| [Curator Foundations Google Drive](https://drive.google.com/drive/folders/1u-uTgLgWnbDfUbr7dbPH-3lV0TImSf_e) | Main storage folder |
+| [Content Architecture](https://drive.google.com/file/d/1IeUap0u4LfF0rp9HJJ6IoAUpjjLmdMY6/view) | How EdCast content is organized |
+| [Creation and Curation](https://drive.google.com/file/d/1hPloTJf0y31Wn-7pZcTiheo6gXQe56hB/view) | How to create and curate content |
+| Content Assets | TBD |
+| Smartcards | TBD |
+| Pathways | TBD |
+| Journeys | TBD |
+| Channels | TBD |
+| Groups | TBD |
+| Discover Page | TBD |
+
 
 
 
