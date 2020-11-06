@@ -1103,7 +1103,7 @@ The due date is defined by the removal of that feature. The field is required, a
 
 If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0.
 
-Please set up one deprecation per MR.
+Please set up one deprecation per MR by creating a new .yml file in the `/data/release_posts/unreleased/` folder with the following contents:
 
 ```yaml
 deprecations:
@@ -1114,6 +1114,8 @@ deprecations:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
+
+No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
@@ -1164,6 +1166,8 @@ removals:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
+
+The `/data/features.yml` file should also be edited with the removed features deleted from the file.
 
 Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
 
