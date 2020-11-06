@@ -74,6 +74,34 @@ Below is a list of the different technical skill sets found on the Sales System 
     * When will the team review: These issues are reviewed every year.
     * Issues likely to get this tag: These issues could be vauge issues that do not have a direct ask, that should be epics, that provide little to no ROI for the greater field.
 
+### Field & Process Deprecation
+* Since field & process deprecation is as common an occurance as the creation it is important that the system team implements a repeatable process that we can leverage when deprecating any fields pr processes. 
+
+#### Field Deprecation
+* This process is most often used by the systems team. If you have or are aware of a field in Salesforce that is no longer needed, please infom the Sales Systems team by following the process outlined in [getting help from the sales systems team](#steps-to-getting-help-from-sales-systems)
+1. Open an issue listing out all of the fields that we are investigating to deprecate. Be sure to include the field name, field API name and the object that the field is associated with in a table in the description of the issue.
+1. Alert the data team to the upcoming field deprecation by tagging them on the issue.
+1. Alert all relevant partner teams (Marketing Ops, Sales Ops, Finance Ops etc.) as needed
+1. Prepend `[DEPRECATE]` to the begining of the field name. If the field name cannot accomadate a field name that long copy and paste the original name into the description, trim unneccessary characters from the name and try again. For this reason `[DELEETE]` is also acceptable to prepend to the field name. 
+1. In Visual Studio Code, pull from master and perform a scan for each of the API names in the issue. If the field is used, investigate if the code can be updated as to not include this field. 
+1. If code is updated in the previous step prepare a merge request and relate it to the issue.
+1. If your sandbox is out of date, refresh it so that any recent edits are included in the next step.
+1. Push any updated code to your sandbox (if applicable) and start a change set.
+1. For all fields that are still eligable to be deprecated log into your sandbox and attempt to delete them one by one. Record any conenction between any fields and any field updates, workflow rules, validation rules etc. (Reports, Report Types etc can be ignored in this step)
+1. Investigate any connections found in the previous steps and if the field can still be deleted.
+1. For all fields that cannot be deleted
+   - Link the investigation issue to the investigated field by pasting the Gitlab Issue Link in the fields description. 
+   - Assign someone as an owner of the field in Salesforce
+1. For all fields that can be deleted
+   - List them out on a final comment on the issue
+   - Update the due date of the issue to the date they will be deleted
+   - Confirm that their are no issues with the tagged related teams
+   - Validate any change sets with updated automations (if applicable) before the issue due date
+   - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and delting fields from the `Deleted Fields` section in Salesforce
+
+#### Process Deprecation 
+* Deprecating aprocess often includes a change in team behavior as well as updates to any processes. The Systems team is wokring on detailed documentation to address these changes and more info will be coming soon! 
+
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 *  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)

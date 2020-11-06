@@ -34,6 +34,8 @@ Sales Operations main focus is on the Sales organization and supports this group
 - Tav Scott - Sales Operations Manager, Commercial Sales
 - Melinda Soares - Senior Sales Operations Analyst
 - Meri Gil Galindo - Sales Operations Analyst
+- Jeny Bae - Associate Sales Operations Analyst
+- Monika Deshmukh - Associate Sales Operations Analyst
 
 ## **Teams We Work Closely With**
 
@@ -198,8 +200,9 @@ Contacts, and Leads, Verify and Save)
    _ Map Number of employees to the NumberofEmployees: Manual-Admin field
    _ Drop and drag any missing fields
    _ Leave RecordType blank (nothing matches) \* Click OK. Click Next. Select where the error log will save to. Make sure to save to a location otherwise it will save to a mysterious location on your machine
-   </details>
-   </details>
+   
+</details>
+</details>
 
 <details>
 <summary markdown='span'>
@@ -576,6 +579,7 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### SalesForce
 
 </details>
+
 ### **Sales Operations Owned System Offboarding**
 Below are instructions on how Sales Operations offboards users within the various Sales-owned systems.
 
