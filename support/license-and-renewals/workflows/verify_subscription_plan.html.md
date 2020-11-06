@@ -65,11 +65,3 @@ To process an upgrade:
 1. In SalesForce, locate their account and find the *Account Owner*
 1. Reply to the upgrade request ticket in ZD (or create a new one) and CC the
    account owner.
-
-### Refunds processed as % of orders
-
-For a month take the number of refunds and divide that by the total amount of orders (including self-managed and sales initiated orders). This analysis can be found [in Sisense](https://app.periscopedata.com/app/gitlab/527913/Product-KPIs?widget=7720228&udv=0).
-
-**Note** This does not include [Internal Refunds](/handbook/business-ops/order-processing/#how-to-handle-duplicate-accounts-and-opportunities-from-web-direct-purchases) which are results from when a web direct opportunity from a closed month is not credited to the correct sales person. Internal Refunds are not refunds to customers, therefore not meaningful when analyzing refunds processed as orders from GitLab's revenue system, Zuora.
-
-We don't have a fixed goal but this number should get lower as the fullfillment group improves the self-service portal.
