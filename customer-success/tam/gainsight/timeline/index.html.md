@@ -11,19 +11,30 @@ title: "Using Timeline"
 
 The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time.
 
+## Timeline Views
+
+- **Global Timeline**: When going to the timeline from the lefthand sidebar (not for a specific customer), you will see the global timeline, which is all timeline events for all TAMs. From there, you can filter by clicking the three horizontal lines to customize what events are shown (see picture below). For example, you can search for yourself as the author to find all timeline events you created, or you can search for a company to find all timeline events for a specific customer.
+
+![Gainsight Timeline Filter](/images/handbook/customer-success/gainsight-timeline-filter.png "Gainsight Timeline Filter")
+
+- **Customer 360 Page**: You can access a specific customer's timeline by navigating to their customer 360 page, then clicking on the Timeline tab at the top. From here you can sort and filter by type, date, etc.
+
+- **CTA View**: When you click on the details of a specific CTA or success plan Objective, there is a Timeline tab. You can add entries from here that will be linked to the CTA. These timeline entries will also appear on the company and global timelines.
+
+
 ## Activity types
 
 The following activities can be logged in Gainsight:
 
 - **Update**: General update on the customer, could be from an internal conversation.
 - **Call**: Conversation with the customer via Zoom or other synchronous channel.
-- **In-Person Meeting**: On-site or otherwise in-person meeting with the customer.
+- **Meeting**: On-site or otherwise in-person meeting with the customer.
 - **Email**: Message sent to the customer, or message thread between the TAM and the customer.
 - **Milestone**: This tracks when the customer achieves a major milestone such as Onboarding, time to value, TAM transition, etc.
 
 ### Last Activity Date
 
-The "Last Activity Date" field in the customer's record reflects the latest "Call" or "In-Person Meeting" activity entry to be logged for the customer. These are the only entry types that affect Last Activity Date since we want to track when we are having synchronous conversations with the customer.
+The "Last Activity Date" field in the customer's record reflects the latest "Call" or "Meeting" activity entry to be logged for the customer. These are the only entry types that affect Last Activity Date since we want to track when we are having synchronous conversations with the customer.
 
 Please note it may take up to 2 hours after logging a timeline event before the "Last Activity Date" is updated.
 
@@ -31,16 +42,39 @@ Related, there is the "Last Timeline Activity" which looks to any and all activi
 
 ## How to Log Activities in Timeline
 
-To log activities (calls, meetings, updates, etc.), you'll primarily follow these steps:
+You can log activities to Timeline in multiple places across Gainsight.
 
 Tip: When searching for external attendees, you can use "%%%" as your search pattern to list all contacts of an account. This is useful, if you do not remember all participants by name from your activity like cadence call or similar.
 
-1. Navigate to the customer
-1. Click Timeline at the top
-1. Hover over "+ Activity" and choose the appropriate activity type
+### Global Timeline
+
+1. Navigate to the global timeline by clicking on the left navigation bar icon
+2. Click on "Add Activity" and choose the appropriate activity type
+3. Search for and confirm the account name in the "Company/Relationship" box
+
+_Follow the rest of the steps below_
+
+### Customer 360 Timeline
+
+1. Navigate to the customer 360 page
+1. Click the Timeline tab at the top
+1. Click on "Add Activity" and choose the appropriate activity type
+
+_Follow the rest of the steps below_
+
+### CTA/Objective Timeline
+
+1. Navigate to the specific CTA or success plan objective
+1. Click on the subject to get the details sidebar
+1. Click on the Timeline tab
+1. Click on the + icon and choose the appropriate activity type
+
+_Follow the rest of the steps below_
+
+
 1. Input a subject
-1. Confirm the date and time (it will default to when you clicked "+ Activity") if applicable
-1. Add internal and external attendees (more details on that immediately below) if applicable. 
+1. Confirm the date (it will default to when you clicked "+ Activity") and time (this does not need to be the exact time of the activity as long as the date is correct) if applicable
+1. Add internal and external attendees (more details on that immediately below) if applicable 
 1. Choose the meeting type if applicable
 1. Check off if an executive sponsor attended if applicable
 1. Optionally update the TAM and Product sentiments to reflect [health score](/handbook/customer-success/tam/health-score-triage/)
@@ -69,8 +103,4 @@ BCCing emails to Gainsight is _not_ a required step. However, if you want an ema
 
 For more information on using emails with Gainsight, see the [Gainsight workflow handbook page](/handbook/customer-success/tam/gainsight/#emails).
 
-## Timeline View
 
-When going to the timeline from the lefthand sidebar (not for a specific customer), you will see all timeline events for all TAMs. From there, you can filter by clicking the three horizontal lines to customize what events are shown (see picture below). For example, you can search for yourself as the author to find all timeline events you created, or you can search for a company to find all timeline events for a specific customer.
-
-![Gainsight Timeline Filter](/images/handbook/customer-success/gainsight-timeline-filter.png "Gainsight Timeline Filter")
