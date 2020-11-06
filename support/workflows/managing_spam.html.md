@@ -21,6 +21,8 @@ spammer, before deleting the account, flag the user's issues as spam:
 1. Login to GitLab.com with an admin account
 2. View each issue and click on "Submit as spam"
 
+Where multiple issues are created or commented on,
+GitLab team members can also report spam in the #abuse Slack channel by tagging the `@trustandsafety` team.
 
 ### Deleting Spammers
 
