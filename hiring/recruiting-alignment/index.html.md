@@ -27,10 +27,10 @@ description: "This page is an overview of the search team alignment and the recr
 | Development | Rupert Douglas | Zsuzsanna Kovacs |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support (EMEA) | Rupert Douglas  |  Joanna Michniewicz |
+| Support (EMEA) | Cyndi Walsh  |  Joanna Michniewicz |
 | Support (AMER & APAC) | Cyndi Walsh  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
-| Security | Cyndi Walsh  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Chris Cruz |
+| Security | Matt Allen  |  Zsuzsanna Kovacs |
+| Infrastructure   | Matt Allen  | Joanna Michniewicz |
 | Product Management  | Matt Allen | Chris Cruz |
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
