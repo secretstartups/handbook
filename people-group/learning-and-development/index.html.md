@@ -238,6 +238,18 @@ The L&D team uses GitLab issue boards to track priorities, organize collaboratio
 
 Additional planning and notes around the sprint board can be found in [this issue.](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/111)
 
+#### Best practices for using sprint boards and issues:
+
+- Use a burn-down chart with milestones to track time spent
+- If work on an issue occurs in Sprint 12, start the issue in the sprint you start the work
+- When creating L&D contnet, one course is one Issue. 
+- Epics do not show up in the boards
+- Use a Storyboard template for course development
+- If you are working it in the sprint, add to the current sprint
+- Uses labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
+- Consider having GitLab team members vote on priority issues to determine need and interest in learning content
+- Stack rank issues in the board
+
 ### Top five training content development principles
 
 If you are devleoping content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
