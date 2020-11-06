@@ -145,24 +145,35 @@ By default, an issue needs to have a:
 1. Priority Label - Default: `Delivery::P4`
 1. Other Label - project or team management related label.
 
-#### Workflow Labels
+#### Workflow
 
 The Delivery team leverages scoped `workflow-infra` labels to track different stages of work.
-They show the progression of work for each issue and allow us to remove blockers or change
-focus more easily. These labels are used in projects that are projected to take some time to complete
-and usually combined with other project or service labels.
+
+On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution. 
+
+The typical workflow is described below:
+
+```mermaid
+sequenceDiagram
+  participant triage as workflow-infra::Triage
+  participant proposal as workflow-infra::Proposal
+  participant ready as workflow-infra::Ready
+   triage ->> proposal: 1
+Note right of triage: Problem has been<br/> identified and a  possible solution <br/> has been proposed.
+   proposal ->> ready: 2
+Note right of proposal: Proposal has been<br/>discussed and scoped.<br/>Issue is ready to implement.
+```
+
+Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals. 
 
 The standard progression of workflow is described below:
 
 ```mermaid
 sequenceDiagram
-  participant triage as workflow-infra::Triage
   participant ready as workflow-infra::Ready
   participant progress as workflow-infra::In Progress
   participant done as workflow-infra::Done
-    triage ->> ready: 1
-Note right of triage: Problem has been<br/>scoped, discussed and issue is<br/>ready to implement.
-    ready ->> progress: 2
+        ready ->> progress: 1
 Note right of ready: Issue is assigned and<br/> work has started.
     progress ->> done: MR is merged and deployed to production
 Note right of progress: Issue is updated with<br/>rollout details,<br/> workflow-infra::Done<br/> label is applied,<br/> issue can be closed.
@@ -186,7 +197,7 @@ The Delivery team uses priority labels to indicate order under which work is nex
 | Priority level  | Definition |
 | --------------- | ---------- |
 | Delivery::P1 | Issue is blocking other team-members, or blocking other work. Needs to be addressed immediately, even if it means postponing current work. |
-| Delivery::P2 | Issue has a large impact, or will create additional work. Work should start as soon as possible after completing ongoing task. |
+| Delivery::P2 | Issue has a large impact, contributes towards current OKRs or will create additional work. Work should start as soon as possible after completing ongoing task. |
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
@@ -203,7 +214,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery team generally has working epics assigned to specific owners who are responsible for keeping the project on track. However, anyone is welcome to work across all of the team's projects when their most urgent tasks are completed.
+The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to. 
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
@@ -242,3 +253,5 @@ See the page on [team training] for details.
 [Delivery Sisense PIs]: https://app.periscopedata.com/app/gitlab/573702/WIP:-Delivery-team-PIs
 [triage ops]: https://gitlab.com/gitlab-com/gl-infra/triage-ops
 [DRI]: /handbook/people-operations/directly-responsible-individuals/
+[Planning board]: https://gitlab.com/gitlab-com/gl-infra/delivery/-/boards/2048133?&label_name[]=Delivery%20team%3A%3APlanning&label_name[]=team%3A%3ADelivery
+[Build board]: https://gitlab.com/gitlab-com/gl-infra/delivery/-/boards/1918862?&label_name[]=Delivery%20team%3A%3ABuild&label_name[]=team%3A%3ADelivery
