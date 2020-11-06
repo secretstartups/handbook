@@ -122,6 +122,19 @@ These criteria and actions came from the [Metrics Analysis Workgroup](metrics-an
 1. Identify 2-3 Managers/ICs who will take part in the workgroup by asking for volunteers in a leadership meeting.
 1. Determine hypothesis, gather data and propose temporary or permanent process changes as a result.
 
+## OKR's
+
+All Support Engineering Managers have at least 1 [OKR](https://about.gitlab.com/company/okrs/#what-are-okrs) each quarter. Each managers' OKR should align with one of the department level OKR's, although the scope may be smaller (confined to a region/team of direct reports rather than globally impactful). While OKR's are important, they are not the most important thing for managers to work on. To the end of effectively managing Support Engineers, a managers focus should be on:
+
+
+1. [KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
+2. Team Growth (Hiring and Development)
+3. [OKRs](https://about.gitlab.com/handbook/engineering/#engineering-okr-process)
+
+Having a project that is time bound to a quarter is completely acceptable as an OKR, and adjusting an OKR during the quarter (especially in light of other priorities) is also acceptable.
+
+New managers will establish their own OKR after they have been in their role for a full financial quarter, allowing time for them to complete onboarding and see the OKR process in action.
+
 ## Support Engineering Manager READMEs
 
 Support Engineering Manager READMEs are found in [Engineering Manager READMEs](/handbook/engineering/readmes/).
