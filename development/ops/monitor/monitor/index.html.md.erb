@@ -21,16 +21,16 @@ We expect to track the journey of users through the following funnel:
 classDiagram
   Acquisition --|> Activation
 	Acquisition: Are users aware of the product or feature set?
-	Acquisition: Measurement (Total count of Incident Management docs page views)
+	Acquisition: Measurement (Count of views of alerts list and incident list)
   Activation --|> Retention
 	Activation: Are users applying the feature?
-	Activation: Measurement (Count of Projects with Alerts)
+	Activation: Measurement (Count of monthly active users leveraging alerts (Alert MAU))
   Retention --|> Revenue
 	Retention: Are users applying the feature over time?
-	Retention: Measurement (Count of projects where Incidents are being created)
+	Retention: Measurement (Count of monthly active users leveraging incidents (Incident MAU))
   Revenue --|> Referral
 	Revenue: Are users paying for the features?
-	Revenue: Measurement (Total count of projects leveraging paid features (Runbooks, Status Page, etc))
+	Revenue: Measurement (Count of monthly active users leveraging paid features (Alert endpoints, on-call schedule management, Status Page, etc))
   Referral --|> Acquistion
 	Referral: Are users encouraging others to use the feature?
 	Referral: Measurement (In App referrals for setting up alert and incident management in other projects)
