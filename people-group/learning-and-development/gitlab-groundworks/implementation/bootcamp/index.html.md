@@ -15,6 +15,18 @@ Core team members can access the HPA learning materials at [https://hpa.edcast.c
 
 All bootcamp content from the HPA is also accessible to GitLab team members only via Google Drive. We've listed each training below with a brief explanation of the content covered in each training.
 
+### Training Sessions
+
+The GitLab team meets with the EdCast team frequently to train and implement the system. The following meeting formats are used to collaborate:
+
+- Weekly Standup Meetings: Hosted one time per week by EdCast, these meetings are meant to be a short, 30 mintute check in and update on progress made and questions to address
+- Weekly Implementation Status Meeting: Hosted one time per week by EdCast, these meetings are meant to review blockers, address big questions, and determine next steps in implementation
+- Daily GitLab Huddle: Hosted one time per day by EdCast, these meetings are meant to be working Q&A sessions with the EdCast team and are optional.
+- Marketplace Meetings: The Professional Services team meets with EdCast to train on and implement the EdCast Marketplace features for external audiences
+- Additional Meetings: Individuals or small groups with specific use cases may host additional trainings and meetings with EdCast
+
+If you would like to be added to any of the implementation meetings, please reach out to the core team in the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y).
+
 ### GitLab Bootcamp Directory
 
 In addition to HPA and the bootcamp Google Drive, the [GitLab Bootcamp Topic Overview](https://docs.google.com/spreadsheets/d/1nSRNQljFvxOaiADcG97AFYrAj_6b5vcXI0O9vDDF2TM/edit#gid=3560912) serves as a resource to organize training recordings and can be viewed by GitLab team members.
