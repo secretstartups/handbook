@@ -15,7 +15,7 @@ Core team members can access the HPA learning materials at [https://hpa.edcast.c
 
 All bootcamp content from the HPA is also accessible to GitLab team members only via Google Drive. We've listed each training below with a brief explanation of the content covered in each training.
 
-### Training Sessions
+### Training Session Structure
 
 The GitLab team meets with the EdCast team frequently to train and implement the system. The following meeting formats are used to collaborate:
 
@@ -27,10 +27,6 @@ The GitLab team meets with the EdCast team frequently to train and implement the
 
 If you would like to be added to any of the implementation meetings, please reach out to the core team in the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y).
 
-### GitLab Bootcamp Directory
-
-In addition to HPA and the bootcamp Google Drive, the [GitLab Bootcamp Topic Overview](https://docs.google.com/spreadsheets/d/1nSRNQljFvxOaiADcG97AFYrAj_6b5vcXI0O9vDDF2TM/edit#gid=3560912) serves as a resource to organize training recordings and can be viewed by GitLab team members.
-
 ### Team Communication
 
 The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y) to collaborate.
@@ -38,12 +34,15 @@ The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https:/
 
 ## Bootcamp Training Materials
 
+### GitLab Bootcamp Directory
+
+In addition to HPA and the bootcamp Google Drive, the [GitLab Bootcamp Topic Overview](https://docs.google.com/spreadsheets/d/1nSRNQljFvxOaiADcG97AFYrAj_6b5vcXI0O9vDDF2TM/edit#gid=3560912) serves as a resource to organize training recordings and can be viewed by GitLab team members.
 
 ### Administrator
 
 #### Summary
 
-GitLab team members using EdCast in the following capacity should complete the Administration Foundations bootcamp materials listed below:
+GitLab team members using EdCast in the following capacity should complete the Administration bootcamp materials listed below:
 
 - Onboarding learners, managing learner accounts
 - Content release management
@@ -76,6 +75,14 @@ GitLab team members using EdCast in the following capacity should complete the A
 ### Curator
 
 #### Summary
+
+GitLab team members using EdCast in the following capacity should complete the Curator bootcamp materials listed below:
+
+- Creation of content in the platform
+- Curation of content
+- Understanding types of learning content in Edcast - Smartcards, Pathways, Journeys, Channels
+- Organizing and leveraging user groups
+- Curation of the discover page
 
 #### Key Topics and Training Recordings
 
