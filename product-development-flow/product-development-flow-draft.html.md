@@ -386,7 +386,7 @@ Finally, Engineering Managers will apply `Deliverable` label to issues with a mi
 | Role                                                       | Function                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
 | DRI                                                        | - Assigned engineer                                             |
-| Collaborators                                              | - Product Manager <br> - Quality Engineering <br> - Technical Writer |
+| Collaborators                                              | - Product Manager <br> - SET <br> - Technical Writer |
 | Informed                                                   | - Product Marketing <br> - Engineering Manager <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
 
 #### Description
@@ -395,7 +395,7 @@ The develop and test phase is where we build the features, address bugs or techn
 
 This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it is in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics).
 
-When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase.
+When an issue is in development SET will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is being followed. Coordination is key between the assigned development engineer, and SET during this phase.
 
 *Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
 
