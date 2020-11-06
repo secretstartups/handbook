@@ -124,6 +124,8 @@ TBA
        1. Search for the Team Member in the `Search for seat holders by name` search bar.
        1. Click `Edit`, then `Park seat` to deactivate the seat.
            * If the Team Member is a member of the *Recruiting-* or *Sourcing Team*, please use the `Reassign seat` option and assign their seat to their Manager.
+* **Managing LinkedIn Recruiter tags** 
+    * For admins only: Navigate to `Product Settings` after hovering over your user icon. Under `Recruiter Settings`, select `Tags`.
 * **Troubleshooting Platform Errors and Issues**
     * If and when you encounter an error/issue with LinkedIn that you're unable to solve for, you can take one of two actions.
         1. Email GitLab's *Customer Success Manager* or...
