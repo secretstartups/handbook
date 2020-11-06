@@ -75,7 +75,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 
 Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
-Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) page by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
+Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
 1. Members that never managed a release post before
 1. Members that have the longest interval since they managed their last release post
