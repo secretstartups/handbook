@@ -108,7 +108,7 @@ For more information about Greenhouse and it’s tips & tricks, please refer to 
 
 We use **On track**, **Needs attention**, and **At risk** to define the requisition's health to provide hiring teams and E-Group members with a high-level insight into recruiting efforts. When assigning a **Health Status**, consider the diversity of the pipeline, what the pass through rate is at each stage, and whether you'd expect to make a hire at or close to the expected start date. 
 
-If the recruiter needs to add additional rows to the table, please copy and paste the following markdown guide at the very end of the markdown in the issue:
+If the recruiter needs to add an additional week to the issue, please copy and paste the following markdown guide at the very end of the markdown in the issue:
 
 `
 #### <summary>20xx/mo/day</summary>
