@@ -111,8 +111,30 @@ We use **On track**, **Needs attention**, and **At risk** to define the requisit
 If the recruiter needs to add additional rows to the table, please copy and paste the following markdown guide at the very end of the markdown in the issue:
 
 `
-| 20xx/mo/day | <ul><li>[ ] Yes, Diversity sourcing was used <ul><li>[ ] No, Did not use</li></ul> <ul><li>[ ] Not actively sourcing</li></ul> |  <ul><li>[ ] Yes, reason in comments</li></ul>  <ul><li>[ ] No, not needed</li></ul> |
-| 20xx/mo/day | <ul><li>[ ] Yes, Diversity sourcing was used <ul><li>[ ] No, Did not use</li></ul> <ul><li>[ ] Not actively sourcing</li></ul> |  <ul><li>[ ] Yes, reason in comments</li></ul>  <ul><li>[ ] No, not needed</li></ul> |
+#### <summary>20xx/mo/day</summary>
+
+<table >
+	<tr>
+			<td> I used Diversity Boolean strings or used other methods, including provided best practices, to ensure 95% of my outbound sourcing efforts were directed towards individuals from underrepresented groups. </td>
+			<td>
+
+- [ ] Yes, Diversity sourcing was used
+- [ ] No, Did not use
+- [ ] Not actively sourcing
+
+</td>
+		</tr>
+    <tr>
+			<td> I want to re-align on URG/ELF sourcing targets for this role and need support from recruiting leads. </td>
+			<td>
+
+- [ ] Yes, reason in comments
+- [ ] No, not needed
+
+</td>
+		</tr>
+
+</table>
 `
 
 
