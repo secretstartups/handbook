@@ -105,8 +105,6 @@ The below points/fields need to be reviewed in the process:
 1. **Sold to** contact - search in Zuora and the portal to make sure it’s assigned to the correct account, for reseller orders ensure sold to email address is that of end-user
 1. **Bill to** - compare between Zuora and the documents - no need to change if Zuora bill to address is an accounts payable address (Please ensure that all orders for India have been submitted through a partner regardless the payment method.)
 1. **Invoice owner** and **Invoice owner contact** - needed for reseller orders
-1. **Click through EULA** - required for new-business and add-on reseller orders.
-This field should be set to No if no EULA required.
 1. **Payment method** and **payment term** - compare between documents and Zuora, check approvals where required
 1. **PO number** where available
 1. **Auto-renew** - ‘no’ for sales assisted purchases
@@ -160,7 +158,7 @@ Make sure the end user is on the same entity as the reseller.
 1. Confirm the **bill to** and **sold to** addresses are correct (sold to address must match the portal sold to address)
 1. **Payment terms**
 1. **VAT ID** where required
-1. **Default communication profile** - needed in order to send the license and EULA for renewals and add-ons, especially important for reseller deals!
+1. **Default communication profile** - needed in order to send the license for renewals and add-ons, especially important for reseller deals!
 1. **Silent communication profile** - for some ramped orders or special requests
 1. Check whether there are **outstanding invoices** older than 120 days - credit hold.
 1. **Email history** - upon processing the invoice ensure invoice was sent.
@@ -192,7 +190,7 @@ If the below are ok the invoice can be posted (**Post**).
 1. By searching with sold to email address ensure the **sold to** contact:
 * has been **updated** to the correct one
 * has the correct **Zuora account ID** assigned
-Check the quote vs. Zuora vs. portal - all three need to have the same sold to email address in order for the EULA/license to be sent out to the end user/customer.
+Check the quote vs. Zuora vs. portal - all three need to have the same sold to email address in order for the license to be sent out to the end user/customer.
 
 2. In case of an **upgrade for GitLab.com** portal needs to be updated manually.
 
