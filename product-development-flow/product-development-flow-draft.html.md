@@ -18,7 +18,7 @@ This is the draft version of the Product Development Flow. All changes to this d
 </div>
 
 |              |             |              |              |
-|--------------|-------------|--------------|--------------| 
+|--------------|-------------|--------------|--------------|
 | Version      | Change   | Milestone |Release Date
 | 1.0 | Introduce new structure and core content | 13.5 | 2020-10-22 |
 | 1.1 | Introduce visuals and optimize supporting resources | 13.6 | 2020-11-22 |
@@ -44,17 +44,17 @@ not necessarily follow this process.
 This page is an evolving description of how we expect our cross-functional development teams to work and reflects the current process being used. All required steps in this development flow are denoted as follows:
 
 
-> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i>  Denotes a required aspect of the product development workflow. 
+> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i>  Denotes a required aspect of the product development workflow.
 
-Feature development is expected to pass through all required phases, while the rest of the development flow should be considered a set of best practices and tools to aid with completing these phases. 
+Feature development is expected to pass through all required phases, while the rest of the development flow should be considered a set of best practices and tools to aid with completing these phases.
 
-The goal is to have this page be the single source of truth, but it will take time to eliminate duplication elsewhere in the handbook; in the meantime, where there are conflicts this page takes precedence. 
+The goal is to have this page be the single source of truth, but it will take time to eliminate duplication elsewhere in the handbook; in the meantime, where there are conflicts this page takes precedence.
 
 Because this page needs to be concise and consistent, please ensure to follow the prescribed [change process](#editing-this-page).
 
-## But Wait, Isn't This Waterfall? 
+## But Wait, Isn't This Waterfall?
 
-No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise. 
+No. Although the phases below appear to be independent and linear, they're not. They are presented as such on the page for simplicity and ease of navigation. It is common to iterate through the Validation phases multiple times before moving to Build. Once in the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise.
 
 ## Workflow Summary
 
@@ -76,13 +76,13 @@ No. Although the phases below appear to be independent and linear, they're not. 
 
   solutionvalidation .- review(Review)
   review .-> plan
-    
+
   click Validation "#validation-track"
   click validationbacklog "#validation-phase-1-validation-backlog"
   click problemvalidation "#validation-phase-2-problem-validation"
   click design "#validation-phase-3-design"
   click solutionvalidation "#validation-phase-4-solution-validation"
-  
+
   click review "#review-track-optional"
 
   click Build "/handbook/source/handbook/product-development-flow/product-development-flow-draft.html#build-track"
@@ -98,7 +98,7 @@ No. Although the phases below appear to be independent and linear, they're not. 
 ![Product Development Flow Diagram](Product-Dev-Flow.png)
 
 
-> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams. 
+> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams.
 
 | Stage (Label)                     | Track                                      | Responsible                          | Completion Criteria                                                                                                                                    | Who Transitions Out   |
 |-----------------------------------|--------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -109,15 +109,15 @@ No. Although the phases below appear to be independent and linear, they're not. 
 | `workflow::planning breakdown`    | [Build](#build-track)                      | Product, Product Design, Engineering | Issue has backend and/or frontend labels and estimated weight attached                                                                                 | Engineering           |
 | `workflow::scheduling`            | [Build](#build-track)                      | Engineering                          | Issue has a numerical milestone label                                                                                                                  | Product/Engineering   |
 | `workflow::ready for development` | [Build](#build-track)                      | Engineering, SET                     | An engineer has started to work on the issue. Dedicated SETs have completed quad-planning.                                                             | Engineering           |
-| `workflow::In dev`                | [Build](#build-track)                      | Engineering                          | Initial engineering work is complete and review process has started                                                                                    | Engineering           |
-| `workflow::In review`             | [Build](#build-track)                      | Engineering                          | MR(s) are merged                                                                                                                                       | Engineering           |
+| `workflow::in dev`                | [Build](#build-track)                      | Engineering                          | Initial engineering work is complete and review process has started                                                                                    | Engineering           |
+| `workflow::in review`             | [Build](#build-track)                      | Engineering                          | MR(s) are merged                                                                                                                                       | Engineering           |
 | `workflow::verification`          | [Build](#build-track)                      | Engineering                          | Work is demonstrable on production                                                                                                                     | Engineering           |
 | `workflow::blocked`               | N/A                                        | Product/Engineering                  | Work is no longer blocked                                                                                                                              | Engineering           |
 
 ### Issue descriptions as the SSOT
 
-> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Issue descriptions shall always be maintained as the single source of truth. 
- 
+> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Issue descriptions shall always be maintained as the single source of truth.
+
 
 It's not [efficient](/handbook/values/#efficiency) for contributors to need to read through every comment in an issue to understand the current state.
 
@@ -155,7 +155,7 @@ If we don't have confidence in the MVC or what success looks like, we should con
 
 One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on level of confidence, hypotheses, and lessons learned as the document evolves.  At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, and the constraints to a particular problem statement. Just as valuable as a completed Opportunity Canvas is an incomplete one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often **more valuable** than a slowly validated one.
 
-Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required. 
+Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required.
 
 **References**:
 * [Opportunity Canvas Template](https://docs.google.com/document/d/1pTEMcwH10xWilQEnVc65oC6PdC3VMjn2XoARfNTaHkc/edit#)
@@ -164,9 +164,9 @@ Please note that an opportunity canvas is not required for product functionality
 * [Example Opportunity Canvas - Fine Grained Access Control (GoogleDoc)](https://docs.google.com/document/d/1c_FPLZ8W7Gjl0tvZSybEKWvcCzJ3AgxlQNFvwm92IHo/edit#heading=h.4mt5fmtn0ax4)
 * [Example Opportunity Canvas - Error Tracking (Mural)](https://app.mural.co/t/gitlab2474/m/gitlab2474/1568925801645/71e7e6352180a1492a19a3d3ed6f96d48fefd597)
 
-#### Opportunity Canvas Lite 
+#### Opportunity Canvas Lite
 
-Opportunity Canvases are a great assessment for ill-defined or poorly understood problems our customers are experiencing that may result in net new features. As noted previously, opportunity canvases may be helpful for existing features, which is where the [`Product-Opportunity-Opportunity-Canvas-Lite`](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md) issue template delivers. This template offers a lightweight approach to quickly identify the customer problem, business case, and feature plan in a convenient issue. The steps to use the template are outlined in the [Instructions](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md#instructions) section and for clarity one would create this issue template for an existing feature they are interested in expanding. For example, this template would be great to use if you are evaluating the opportunity to add a third or fourth iteration to an MVC. This issue should leverage already available resources and be used to collate details to then surface to leadership for review. Once you fill out the template, you will assign to the parties identifed in the issue and you can always post in the `#product` channel for visibility. 
+Opportunity Canvases are a great assessment for ill-defined or poorly understood problems our customers are experiencing that may result in net new features. As noted previously, opportunity canvases may be helpful for existing features, which is where the [`Product-Opportunity-Opportunity-Canvas-Lite`](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md) issue template delivers. This template offers a lightweight approach to quickly identify the customer problem, business case, and feature plan in a convenient issue. The steps to use the template are outlined in the [Instructions](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md#instructions) section and for clarity one would create this issue template for an existing feature they are interested in expanding. For example, this template would be great to use if you are evaluating the opportunity to add a third or fourth iteration to an MVC. This issue should leverage already available resources and be used to collate details to then surface to leadership for review. Once you fill out the template, you will assign to the parties identifed in the issue and you can always post in the `#product` channel for visibility.
 
 ### Validation phase 1: Validation backlog
 
@@ -182,7 +182,7 @@ Opportunity Canvases are a great assessment for ill-defined or poorly understood
 
 #### Description
 
-The health of a world class product begins with a well maintained backlog. Product Managers are responsible for refining a groups backlog to ensure validation opportunities are scoped and prioritized in line with category direction and stage or section level strategy. The backlog is also the SSoT for [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) to understand and engage with your group. An issue or Epic's position in the backlog, along with the description, discussion and metadata on those issues are key pieces of data necessary to keep stakeholders up to date. 
+The health of a world class product begins with a well maintained backlog. Product Managers are responsible for refining a groups backlog to ensure validation opportunities are scoped and prioritized in line with category direction and stage or section level strategy. The backlog is also the SSoT for [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) to understand and engage with your group. An issue or Epic's position in the backlog, along with the description, discussion and metadata on those issues are key pieces of data necessary to keep stakeholders up to date.
 
 #### Outcomes and Activities
 
@@ -207,11 +207,11 @@ The health of a world class product begins with a well maintained backlog. Produ
 
 #### Description
 
-In order to ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager and UX Researcher collaboration. 
+In order to ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager and UX Researcher collaboration.
 
-If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.  
+If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.
 
-If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. 
+If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders.
 
 #### Outcomes and Activities
 
@@ -234,9 +234,9 @@ If the problem is nuanced, then it will likely take longer to validate with user
 
 #### Description
 
-After understanding and validating the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. 
+After understanding and validating the problem, we can begin/continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process.
 
-The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.  
+The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -244,10 +244,10 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 
 | Outcomes|Activities|DRI|
 |---|---|---|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. | - Diverge: explore multiple different approaches as a team. Example activities:<br>   - [Think Big](/handbook/engineering/ux/thinkbig/) session<br>   - Internal interviews (make sure to [document findings in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/#documenting-research-findings))<br>   - Creating [user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) or [journey maps](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c). <br> - Converge: identify a small set of options to validate. Example activities:<br>   - Design reviews with team<br>   - Low fidelity design ideas. <br> - Update issue/epic description with proposed solution. Add Figma design file link or attach design to [GitLab's Design Management](https://docs.gitlab.com/ee/user/project/issues/design_management.html) to communicate the solution idea. <br> - Validate approach with help from stakeholders. Run user validation using any of the [proposed methods](/handbook/engineering/ux/ux-research/#solution-validation) and [document your findings in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/#documenting-research-findings) and appropriate GitLab issue. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer | 
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> | - Review the proposed solution as a team. <br> - Review the proposed solution with leadership. | Product Designer | 
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Confidence in the technical feasibility** - It is important that Engineering understands the technical feasibility of the solution(s) in order to avoid rework or significant changes when we start the build phase.  | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. When sharing design work, utilize both Figma's collaboration tools and GitLab's design management features. Read to understand [what tool to use](/handbook/engineering/ux/ux-designer/#deliver).<br> - Engage engineering peers early and often through Slack messages, pins on issues or by scheduling sessions to discuss the proposal | Product Designer |  
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Updated issues/epic descriptions** - The Product Manager and Product Designer make sure that issues and epics are up-to-date with designs and specifics on the implementation so we can continue our work efficiently and asynchronously. | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously <br> - [Experiment definition](/handbook/engineering/development/growth/#experiment-definition-standards). | Product Manager | 
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Proposed solution(s) identified and documented** - Through various activities the Product Designer works with the Product Manager and Engineering team to explore solutions and identifies the approach(es) that strike the best balance of user experience, customer value, business value, and development cost. | - Diverge: explore multiple different approaches as a team. Example activities:<br>   - [Think Big](/handbook/engineering/ux/thinkbig/) session<br>   - Internal interviews (make sure to [document findings in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/#documenting-research-findings))<br>   - Creating [user flows](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/) or [journey maps](https://uxplanet.org/a-beginners-guide-to-user-journey-mapping-bd914f4c517c). <br> - Converge: identify a small set of options to validate. Example activities:<br>   - Design reviews with team<br>   - Low fidelity design ideas. <br> - Update issue/epic description with proposed solution. Add Figma design file link or attach design to [GitLab's Design Management](https://docs.gitlab.com/ee/user/project/issues/design_management.html) to communicate the solution idea. <br> - Validate approach with help from stakeholders. Run user validation using any of the [proposed methods](/handbook/engineering/ux/ux-research/#solution-validation) and [document your findings in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/#documenting-research-findings) and appropriate GitLab issue. <br> - Draw inspiration from competitive and adjacent offerings. | Product Designer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Shared understanding in the team of the proposed solution** - The Product Designer leads the broader team through a review of the proposed solution(s) to ensure that everyone has a chance to contribute, ask questions, raise concerns, and suggest alternatives. <br> | - Review the proposed solution as a team. <br> - Review the proposed solution with leadership. | Product Designer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Confidence in the technical feasibility** - It is important that Engineering understands the technical feasibility of the solution(s) in order to avoid rework or significant changes when we start the build phase.  | - Discuss the technical implications with Engineering to ensure that what is being proposed is possible within the desired timeframe. When sharing design work, utilize both Figma's collaboration tools and GitLab's design management features. Read to understand [what tool to use](/handbook/engineering/ux/ux-designer/#deliver).<br> - Engage engineering peers early and often through Slack messages, pins on issues or by scheduling sessions to discuss the proposal | Product Designer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Updated issues/epic descriptions** - The Product Manager and Product Designer make sure that issues and epics are up-to-date with designs and specifics on the implementation so we can continue our work efficiently and asynchronously. | - Make sure that issues and epics are up-to-date so we can continue our work efficiently and asynchronously <br> - [Experiment definition](/handbook/engineering/development/growth/#experiment-definition-standards). | Product Manager |
 
 ### Validation phase 4: Solution Validation
 
@@ -353,13 +353,13 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 #### Description
 
-This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work).  Following Validation Phase 4 the feature should already be broken down and ready for a more detailed review by engineering. During this phase Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues. 
+This phase prepares features so they are ready to be built by engineering. Bugs, technical debt, and other similar changes that are not features may enter the process in this phase (or may benefit from entering in earlier phases based on the cost of doing the work requiring the full problem to be validated to ensure it makes sense to do the work).  Following Validation Phase 4 the feature should already be broken down and ready for a more detailed review by engineering. During this phase Product Managers will surface issues they intend to prioritize for a milestone by applying the `workflow::planning breakdown` label. At this point, Engineering Managers will assign an engineer to further break down and apply weights to that work. This process is a collaboration between the DRI and Collaborators. Tradeoff decisions can be made and feature issues evolve from validation solutions to clear MVCs that can be delivered in a single milestone. Be sure to document all decisions on issues.
 
-By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency. 
+By reviewing and weighing work in the beginning of the Build Track, Product Managers are able to make better prioritization tradeoffs and engineering teams can ensure they've scoped the right amount of work for the milestone. If an issue enters the `workflow::planning breakdown` state it doesn't necessarily mean it will be prioritized in the next milestone, a Product Manager may make a tradeoff decision depending on capacity, and urgency.
 
-Once work has passed the `workflow::planning breakdown` step the `workflow::ready for development` label, along with an upcoming milestone is applied to the issue. If an issue has been broken down, but not yet ready to pull into a milestone apply the `workflow::scheduling` label. To ensure quality engineering has ample time to contribute to new features [Quad Planning](/handbook/engineering/quality/quad-planning/) is triggered automatically when an issue is in `workflow::ready for development` and a milestone is applied. 
+Once work has passed the `workflow::planning breakdown` step the `workflow::ready for development` label, along with an upcoming milestone is applied to the issue. If an issue has been broken down, but not yet ready to pull into a milestone apply the `workflow::scheduling` label. To ensure quality engineering has ample time to contribute to new features [Quad Planning](/handbook/engineering/quality/quad-planning/) is triggered automatically when an issue is in `workflow::ready for development` and a milestone is applied.
 
-Finally, Engineering Managers will apply `Deliverable` label to issues with a milestone and marked `workflow::ready for development` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). 
+Finally, Engineering Managers will apply `Deliverable` label to issues with a milestone and marked `workflow::ready for development` signaling acceptance of the issue for that milestone. This process occurs at the [beginning of milestone planning](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).
 
 #### Outcomes and Activities
 
@@ -393,9 +393,9 @@ Finally, Engineering Managers will apply `Deliverable` label to issues with a mi
 
 The develop and test phase is where we build the features, address bugs or technical debt and test the solutions before launching them. The PM is directly responsible for prioritizing **what** should be worked on; however, the engineering manager and software engineers are responsible for the implementation of the feature using [the engineering workflow](https://about.gitlab.com/handbook/engineering/workflow/#basics). Engineering owns [the definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done) and issues are not moved into the next phase until those requirements are met. Please keep in mind that many team members are likely to contribute to a single issue and collaboration is key!
 
-This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it is in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics). 
+This phase begins after work has been broken down, and prioritized in Phase 1. Work is completed in priority order as set at the beginning of the milestone. The Engineering Manager will assign an issue to an engineer who is responsible for building the feature. An engineer can also self-serve and pick up the next priority order issue from the `workflow::ready for development` queue on their team's board. That engineer will update its `workflow::` label to indicate where it is in the [development process](https://about.gitlab.com/handbook/engineering/workflow/#basics).
 
-When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase. 
+When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase.
 
 *Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
 
@@ -432,13 +432,13 @@ When the change becomes available in production, the issue is closed by the deve
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is available to self-hosted customers** | The feature will be available in the next scheduled release for self-hosted customers to install ([depending on what the cut-off is for that release](/handbook/engineering/releases/#self-managed-releases-1)). | Development |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Stakeholders of a feature will know it is available in production** | Once the feature is deployed to production and any needed verification in production is completed, the development team will close the issue. <br> **Optional** : Prior to the issue being closed, the development team may set the workflow label to `workflow::verification` or `workflow::production` for tracking purposes. | Development |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Customers will be informed about major changes** | When appropriate for a change, a release post item will be written and merged by the product manager following the instructions in the [template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), which will then cause it to appear on the [GitLab.com releases page](/releases/gitlab-com/). | Product Manager |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **The product manager determines if the feature should be go through the dogfooding process to see if tje feature is meeting GitLab's own needs** | A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks internal usage of the feature by GitLab.  If so, the product manager initiates this process. | Product Manager | 
-| Experiment results and follow-up issue is created | For experiments, we should create a [follow-up issue](/handbook/engineering/development/growth/#experiment-tracking-issue) that will be where results of the test and next-steps are tracked | Product Manager | 
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **The product manager determines if the feature should be go through the dogfooding process to see if tje feature is meeting GitLab's own needs** | A determination is made by the product manager as to if the feature should be a part of the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process) which organizes and tracks internal usage of the feature by GitLab.  If so, the product manager initiates this process. | Product Manager |
+| Experiment results and follow-up issue is created | For experiments, we should create a [follow-up issue](/handbook/engineering/development/growth/#experiment-tracking-issue) that will be where results of the test and next-steps are tracked | Product Manager |
 
 
 ### Build phase 4: Improve
 
-Label: n/a 
+Label: n/a
 
 #### Key Participants
 
@@ -448,25 +448,25 @@ Label: n/a
 | Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
 | Informed | - Engineering Team <br> - Leadership<br> - [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
-#### Description 
+#### Description
 
 After launch, the Product Manager and Product Designer should pay close attention to product usage data. This starts by ensuring your [AMAU](https://about.gitlab.com/handbook/product/performance-indicators/#action-monthly-active-users-amau) is instrumented and reporting as you expect. From there consider how the feature has impacted [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau) and [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau). At this point you should also solicit customer feedback to guide follow-on iterative improvements, until success metrics are achieved/exceeded and a decision can be made that the product experience is sufficient. To create a combined and ongoing quantitative and qualitative feedback loop, the following activities are recommended:
 
 | Outcomes|Activities|DRI|
-|---|---|---| 
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members. | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager | 
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager | 
+|---|---|---|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members. | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review user feedback in issues<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a Category Maturity Scorecard evaluation <br>- Consider running a survey for usability | Product Manager |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager |
 
 ## Iteration Strategies
-Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary. 
+Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary.
 
 ### Workflow steps
 As part of design and discovery, you likely created a minimal user journey that contains sequential steps a user is going to take to “use” the feature you are building. Each of these should be separated. You can further by asking yourself these questions:
 * Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI,  API or .csv download of data)? This is a great starting point before adding UI components that achieve the same thing.
 * Will there be different UI paths to perform the same task? Identify which are the most useful and which are the easiest to implement. Weight both factors when determining which to start with, and build from there.
 
-### User operations 
+### User operations
 View, Create, Update, Remove and Delete are actions users take while interacting with software. These actions naturally provide lines along which you can split functionality into smaller features. By doing this, you prioritize the most important actions first. For example, users will likely need to be able to visually consume information before they can create, update, remove, or delete.
 
 ### Functional criteria
@@ -505,12 +505,12 @@ Consider the following to improve iteration:
 
 ## Editing this page
 
-All substantive merge requests to this page require cross-functional alignment prior to merging. To make updates such as grammatical 
+All substantive merge requests to this page require cross-functional alignment prior to merging. To make updates such as grammatical
 fixes and typos, you can create an MR and tag in the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini)
-for reference. There is no need to wait for feedback on these types of updates. 
+for reference. There is no need to wait for feedback on these types of updates.
 
-For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes, 
-you can create an issue or MR and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for collaboration and iteration. 
+For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
+you can create an issue or MR and assign it to the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini) for collaboration and iteration.
 The Product Operations DRI will make sure alignment happens with the following stakeholders:
 
 1. [EVP of Product](https://about.gitlab.com/company/team/#sfwgitlab)
