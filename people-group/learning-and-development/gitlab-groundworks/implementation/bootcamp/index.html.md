@@ -100,17 +100,20 @@ GitLab team members using EdCast in the following capacity should complete the C
 | Discover Page | TBD |
 
 
-
-
-
 ### Marketplace Foundations
 
 #### Summary
 
+GitLab team members using EdCast in the following capacity should complete the Marketplace bootcamp materials listed below:
+
+- Monetizing courses in EdCast to an external audience
+- Creation and delivery of course certifications to be shared externally
+
 #### Key Topics and Training Recordings
 
-- [Marketplace Foundations Google Drive]
-
+| Key Topic and Recording Link | Training Summary |
+| ----- | ----- |
+| [Marketplace Foundations Google Drive](https://drive.google.com/drive/folders/1nT1Su0__FISKHb6h845v1lmuUhwOcVr3) | Main storage folder |
 
 
 
