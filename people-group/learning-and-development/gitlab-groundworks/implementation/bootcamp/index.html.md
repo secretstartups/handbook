@@ -5,7 +5,9 @@ title: Learning & Development
 
 # EdCast LXP Bootcamp
 
-## HPA Training Site
+## Training Structure
+
+### HPA Training Site
 
 EdCast uses their platform to organize and deliver training content to members of the core team in a learning platform called HPA. If new members are onboarded to GitLab and need to access training materials in HPA, they should work with the core team and EdCast account manager to be authenticated.
 
@@ -16,6 +18,12 @@ All bootcamp content from the HPA is also accessible to GitLab team members only
 ### GitLab Bootcamp Directory
 
 In addition to HPA and the bootcamp Google Drive, the [GitLab Bootcamp Topic Overview](https://docs.google.com/spreadsheets/d/1nSRNQljFvxOaiADcG97AFYrAj_6b5vcXI0O9vDDF2TM/edit#gid=3560912) serves as a resource to organize training recordings and can be viewed by GitLab team members.
+
+### Team Communication
+
+The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y) to collaborate.
+
+## Bootcamp Training Materials
 
 ### Administrator
 
