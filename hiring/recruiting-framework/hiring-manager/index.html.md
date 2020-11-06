@@ -50,7 +50,15 @@ As a best practice the Hiring Manger should reach out to each individual on the 
 
 ### Step 4/HM: Hiring team to complete feedback in Greenhouse
 
-Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. If you have any trouble please contact your recruiter or CES.
+Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. Each scorecard will include the following required sections:
+
+* Key Take-aways: This is an area to summarize your overall experience.
+
+* Pros: This is an area to capture alignment on role responsibliies, competnecy alignments and much more!
+
+* Cons: This is an area to capture opportunities, areas of improvement and/or specific feedback that would be useful to provide the candidate if a decision was made to not move forward with that candidate.
+
+If you have any questions or experience any issues accessing your scorecard, please contract your Recruiter of the CES team.
 
 ### Step 5/HM: Complete references
 
