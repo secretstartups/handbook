@@ -41,11 +41,13 @@ GitLab team members using EdCast in the following capacity should complete the A
 
 #### Key Topics and Training Recordings
 
-- [Admin Foundations Google Folder](https://drive.google.com/drive/folders/1KCJjozx0U_iA3-Tc_t2ojXeCveWn6QHk)
-- [Understanding the difference between a Learning Experience Platform (LXP) and a Learning Management System (LMS)](https://drive.google.com/file/d/1rpxY8yU9hvleiTrXuFT_j7t8n31J-RCi/view)
-- [Management of platform integrations](https://drive.google.com/file/d/1XkMejw3PYSkMYylSuEaYytHW9zg0TdQk/view)
-- [Front end UI Admin UI configuration](https://drive.google.com/file/d/1pRbuvkML1jPe3lzdCA-2rBI0AJ1Whfu_/view)
-- [Release Management](https://drive.google.com/file/d/1_ey-iJcx8hDNTBWlkMcOS1MP3PrDc3ZK/view)
+| Key Topic and Recording Link | Training Summary |
+| ----- | ----- |
+| [Admin Foundations Google Folder](https://drive.google.com/drive/folders/1KCJjozx0U_iA3-Tc_t2ojXeCveWn6QHk) | Main storage folder |
+| [Understanding the difference between a Learning Experience Platform (LXP) and a Learning Management System (LMS)](https://drive.google.com/file/d/1rpxY8yU9hvleiTrXuFT_j7t8n31J-RCi/view) | Introduction to the LXP & who EdCast is |
+| [Management of platform integrations](https://drive.google.com/file/d/1XkMejw3PYSkMYylSuEaYytHW9zg0TdQk/view) | Integrations with systems or content providers |
+| [Front end UI Admin UI configuration](https://drive.google.com/file/d/1pRbuvkML1jPe3lzdCA-2rBI0AJ1Whfu_/view) | General difference between front-end & back-end UI |
+| [Release Management](https://drive.google.com/file/d/1_ey-iJcx8hDNTBWlkMcOS1MP3PrDc3ZK/view) | Management of enabled features and functionality |
 
 
 
