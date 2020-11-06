@@ -538,11 +538,13 @@ These meetings are open to everyone in GitLab.
 If you are creating a new team meeting, please copy it to the GitLab Team Meetings calendar, and reach out to the People Experience team by pinging `@people_exp` in the `#peopleops` Slack channel with any questions or requests.
 Please reach out to the People Experience team for any requests and changes to the GitLab Team Meetings calendar.
 
-To copy an event to this calendar:
+To add an event to this calendar:
 
-1. Open this calendar's settings from the [Google Calendar](https://calendar.google.com/calendar/r) sidebar.
-1. Find the `@group.calendar.google.com` style Calendar ID under "Integrate calendar".
-1. Finally, invite this calendar as a guest to your existing event.
+1. Create your calendar invite. 
+1. Add your zoom link. 
+1. Add agenda. 
+1. Under Add Guests, add `Gitlab Team Meetings` 
+
 
 #### Managing invite responses
 
