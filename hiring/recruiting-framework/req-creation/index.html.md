@@ -36,9 +36,9 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
 
-1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, you can choose to clone a vacancy, which is ideal if you are opening a vacancy that has been opened before, or something very similar has been opened before. If there is no close match, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
+1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
 
-1. Once you've selected a requisition to copy, the first screen will ask for **Basic Job Info**.
+1. Once you've selected a template to copy, the first screen will ask for **Basic Job Info**.
 
 1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including *Specialty*, if applicable. These two fields should almost always be the same, but if you have questions, please reach out to the Compensation & Benefits Team.
    - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
