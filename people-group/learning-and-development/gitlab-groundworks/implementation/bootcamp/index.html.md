@@ -23,18 +23,48 @@ In addition to HPA and the bootcamp Google Drive, the [GitLab Bootcamp Topic Ove
 
 The EdCast implementation team uses the [#proj-lxp-edcast Slack channel](https://app.slack.com/client/T02592416/C010VVAT48Y) to collaborate.
 
+
 ## Bootcamp Training Materials
 
-### Administrator
 
-- [Admin Foundations Google Drive](https://drive.google.com/drive/folders/1KCJjozx0U_iA3-Tc_t2ojXeCveWn6QHk)
+### Administrator Foundations
 
-### Curator
+#### Summary
+
+GitLab team members using EdCast in the following capacity should complete the Administration Foundations bootcamp materials listed below:
+
+- Onboarding learners, managing learner accounts
+- Content release management
+- Customization of the front end UI
+- Adjustment of user settings and access
+- Platform integrations with third party tools
+
+#### Key Topics and Training Recordings
+
+- [Admin Foundations Google Folder](https://drive.google.com/drive/folders/1KCJjozx0U_iA3-Tc_t2ojXeCveWn6QHk)
+- [Understanding the difference between a Learning Experience Platform (LXP) and a Learning Management System (LMS)](https://drive.google.com/file/d/1rpxY8yU9hvleiTrXuFT_j7t8n31J-RCi/view)
+- [Management of platform integrations](https://drive.google.com/file/d/1XkMejw3PYSkMYylSuEaYytHW9zg0TdQk/view)
+- [Front end UI Admin UI configuration](https://drive.google.com/file/d/1pRbuvkML1jPe3lzdCA-2rBI0AJ1Whfu_/view)
+- [Release Management](https://drive.google.com/file/d/1_ey-iJcx8hDNTBWlkMcOS1MP3PrDc3ZK/view)
+
+
+
+### Curator Foundations
+
+#### Summary
+
+#### Key Topics and Training Recordings
 
 - [Curator Foundations Google Drive](https://drive.google.com/drive/folders/1u-uTgLgWnbDfUbr7dbPH-3lV0TImSf_e)
 
 
-### Marketplace
+
+
+### Marketplace Foundations
+
+#### Summary
+
+#### Key Topics and Training Recordings
 
 - [Marketplace Foundations Google Drive]
 
