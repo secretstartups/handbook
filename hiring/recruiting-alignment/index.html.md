@@ -24,11 +24,10 @@ description: "This page is an overview of the search team alignment and the recr
 | Customer Success, APAC | Debbie Harris  | Kanwal Matharu |
 | Marketing, Global | Steph Sarff   | J.D. Alex (interim: Kanwal Matharu (SDR openings)/ Loredana Iluca (rest)) |
 | G&A | Maria Gore | Loredana Iluca |
-| Development | Rupert Douglas | Zsuzsanna Kovacs |
+| Development | Rupert Douglas / Cyndi Walsh | Zsuzsanna Kovacs / Joanna Michniewicz  |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support (EMEA) | Cyndi Walsh  |  Joanna Michniewicz |
-| Support (AMER & APAC) | Cyndi Walsh  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
+| Support | Cyndi Walsh  |  Joanna Michniewicz (AMER) / Zsuzsanna Kovacs (APAC)  |
 | Security | Matt Allen  |  Zsuzsanna Kovacs |
 | Infrastructure   | Matt Allen  | Joanna Michniewicz |
 | Product Management  | Matt Allen | Chris Cruz |
