@@ -29,17 +29,22 @@ The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbz
 
 At the end of your rotation:
 
-1. You should have performed the triage work described above in "Good" and "Bad" sections for each feedback issue assigned to you.
-1. Any user contact or GitLab group contact has been initiated, and is either complete or in-process.
-1. All feedback issues assigned to you should be closed, or only have outstanding dependencies on other groups (or on the user).
+1. You should have performed the triage work described in the handling
+["Good"](#handling-good-reviews) and ["Bad"](#handling-bad-reviews) sections
+for each feedback issue assigned to you.
+1. You should have initiated any customer or GitLab group contact.
+1. You should have closed all feedback issues assigned to you that have
+no outstanding dependencies on other groups or on the customer.
 
 ### How fast do I need to respond?
 
-Currently there is no SLA for responding to Feedback Issues - but if the above process is followed, no issue should wait more than 7 days without an initial response.
+Currently there is no SLA for responding to Feedback Issues, but if you follow
+the process defined on this page, you should send an initial response to each
+issue within 7 days of its creation.
 
 ## Handling "Good" Reviews
 
-For feedback issues labeled "satisfaction::good", go through each and read through the comments.
+For each feedback issue labeled "satisfaction::good", read through its comments and:
 
 1. If a specific person is mentioned, add the comment and ticket number to the [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) in the **Kudos** section for the week.
 1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc.
@@ -55,7 +60,7 @@ For feedback issues labeled "satisfaction::bad", determine the following:
 
 1. Why the feedback was given
 1. If further [action needs to be taken](#if-there-is-action-to-be-taken)
-1. If the user should be contacted to discuss the feedback given
+1. If the customer should be contacted to discuss the feedback given
 
 You should document your finding and any follow-up actions taken in the issue.
 You may use the follow template to add a comment to the feedback issue (NOT the
@@ -64,18 +69,18 @@ ticket!):
 ```
 * **Summary of ticket/feedback:**
 * **Action to be taken:**
-* **Contact user to discuss feedback? (Y/N)**
+* **Contact customer to discuss feedback? (Y/N)**
 ```
 
-If no action needs to be taken, and the user does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
+If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
 
 
-### Understanding the why
+### Understanding the customer's reason
 
-Many users do not provide a reason for the "bad" review they submit. Even if a
-reason is provided, it may not be clear why the user was dissatisfied. The
+Many customers do not provide a reason for the "bad" review they submit. Even if a
+reason is provided, it may not be clear why the customer was dissatisfied. The
 reviewing manager should carefully review the ticket and seek to understand why
-a bad review was given. If necessary, [contact the user](#if-the-user-should-be-contacted)
+a bad review was given. If necessary, [contact the customer](#if-the-customer-should-be-contacted)
 to learn more.
 
 Once the reason behind the "bad" review is understood, apply the `feedback`
@@ -112,7 +117,7 @@ Determine the course of action and tag appropriate people. Note that [indirect f
 
 Examples of possible actions:
 
-- Contact the user (see [below](#if-the-user-should-be-contacted))
+- Contact the customer (see [below](#if-the-customer-should-be-contacted))
 - Create a new Issue to discuss the feedback in `support-team-meta` (cross-link the Feedback Issue as related)
 - Tag the manager of the person or people who participated in the ticket to discuss in a 1:1
 - Tag a product group for awareness (some negative feedback is product related)
@@ -120,16 +125,16 @@ Examples of possible actions:
 If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/close` it.
 
 
-### If the user should be contacted
+### If the customer should be contacted
 
-If you feel like the user should be contacted:
+If you feel like the customer should be contacted:
 
 1. Determine the best way to reach out:
    1. Consider responding directly on the Zendesk ticket if the option is
       available and it makes sense in context of the ticket.
-   1. Consider sending the user an email from your GitLab email address if you'd
+   1. Consider sending the customer an email from your GitLab email address if you'd
       prefer to have a more private conversation.
-1. When reaching out to the user, make sure you do the following:
+1. When reaching out to the customer, make sure you do the following:
    1. introduce yourself, describing who you are and your role at GitLab
    1. note the specifics of the situation, including ticket ID
    1. restate and validate the customer's comments
@@ -139,4 +144,4 @@ If you feel like the user should be contacted:
    1. Add the text of your email as a comment in the Feedback Issue.
    1. Apply the label `~ssat-manager-contacted-customer`.
    1. `/close` the Feedback Issue; followup continues via email.
-   1. After closing the Issue, if there are any additional actions that arise from your interaction with the user, go back and note them in the Feedback Issue.
+   1. After closing the Issue, if there are any additional actions that arise from your interaction with the customer, go back and note them in the Feedback Issue.
