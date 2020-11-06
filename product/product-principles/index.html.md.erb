@@ -605,6 +605,12 @@ By focusing on next-generation development flows, personas, and use cases - we b
 
 For example - we first provided an application log experience based on direct scraping of logs via kubectl. After adding support for installing Elasticsearch to your Kubernetes cluster, we should not continue to invest in the kubectl log view as we'd recommend newcomers to use Elasticsearch.
 
-#### Support all features
+#### Customer Support on all features
+{: #support-all-features}
 
-We support all features we ship in the tiers where they are available. This means a feature cannot be available in a lower tier than where the GitLab support team supports it. This is known as a support based business model and is incongruent with our buyer based open core business model. For example, if we have a feature that is available at Core, Starter, Premium, and Ultimate, but is only supported at Premium, the feature is really only available at Premium and should be removed from the lower tiers.
+We provide customer support to paying customers on all features that are in the tier of their paid license as well as any lower tiers.
+This means a feature in Core, should get customer support in all paid tiers.
+For example, when there is a feature that is available in the lowest paid tier, but only has customer support in higher tiers,
+the feature should be removed from that lowest paid tier.
+In accordance with our [stewardship policy](/company/stewardship/) we can never remove features from Core into paid tiers,
+but we can build additional features around it which are available to paying customers only.
