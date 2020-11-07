@@ -80,9 +80,9 @@ GitLab Contact: [Roos Takken](https://gitlab.com/rtakken)
 
 ### Free top-tier GitLab for qualifying partners
 
-URG partners may qualify for free top-tier features though one of our Community programs.
+Partners of this program likely qualify for free top-tier features though one of our Community programs.
 
-For URG partners to obtain the free top-tier GitLab license or subscibtion, have a representative from the organization fill out the appropriate application form:
+For partners to obtain the free top-tier GitLab license or subscibtion, have a representative from the organization fill out the appropriate application form:
 
 - [GitLab for Education Program](https://about.gitlab.com/solutions/education/join/)
 - [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/join/)
