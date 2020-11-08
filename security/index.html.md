@@ -228,6 +228,30 @@ In addition, you should enable [Workload Identity](https://cloud.google.com/kube
 
 ![GKE Settings](gcp-gke-settings.jpg)
 
+#### Google Cloud Functions
+
+##### Access Control
+
+When creating a Cloud Function with a ["trigger type"](https://cloud.google.com/functions/docs/calling/http) of `HTTP`, Google provides two layers of access control.
+
+The first is an identity check, via the following two options under **Authentication**:
+
+ - Allow unauthenticated invocations: This will permit anyone on the Internet to invoke your function, supplying any type of input parameters they choose. This option should be avoided where possible.
+ - Require authentication: This will allow you to [manage authorized users](https://cloud.google.com/functions/docs/securing/managing-access-iam) via Google Cloud. This is the preferred option.
+
+ The second is network-based access control, via the following options under **Advanced Settings -> Connections -> Ingress Settings**. You should choose the least permissive option that will still allow your function to work:
+
+ - Allow all traffic: This will permit HTTP invocations from any IP address.
+ - Allow internal traffic only: This restrictss invocations to a source in the same Google Cloud project or the same [VPC SC perimeter](https://cloud.google.com/functions/docs/securing/using-vpc-service-controls).
+ - Allow internal traffic and traffic from Cloud Load Balancing: This is the same as above with the added ability to send an invocation through Google's load balancers.
+
+#### Service Account
+
+Similar to Compute Instances and GKE clusters, Cloud Functions also [bind to a service account](https://cloud.google.com/functions/docs/securing/function-identity) by default. And once again, [Google states](https://cloud.google.com/functions/docs/securing/function-identity#changing_default_permissions) that "*it's likely too permissive for what your function needs in production, and you'll want to configure it for least privilege access*".
+
+For most simple functions, this shouldn't an issue. However, it is possible that a complex function could be abused to allow the person invoking the function to impersonate that service account. For this reason, you'll want to [configure a new service account](https://cloud.google.com/iam/docs/understanding-service-accounts#granting_minimum_permissions_to_service_accounts) with the bare minimum permissions required for your function to operate.
+
+You can then choose to use this new service account via the option under **Advanced Settings -> Advanced -> Service account**.
 
 ### Other Services/Devices
 
