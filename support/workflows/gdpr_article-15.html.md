@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Personal Data Requests
 category: Legal
+description: "Support Engineering workflows for GDPR article 15 or CCPA requests"
 ---
 
 ## On this page
