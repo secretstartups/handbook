@@ -98,7 +98,7 @@ to review and approval by the Board of Directors prior to being awarded. CEO dir
 * Once approved, the Total Rewards team  will notify the manager, PBP, and all indirect management that the team member's grant has been approved.
 * Team members are notified directly via Carta. If you have not received notification about your refresh grant within 30 days after the quarterly board meeting, please reach out to Total Rewards.
 
-**Important Note: If a team member is currently on a [PEP](/handbook/underperformance/#performance-enablement-plan-pep), [PIP](/handbook/underperformance/#performance-improvement-plan-pip), or a similar formal performance improvement plan, this could result in a delay of the refresh grant until the next Board Meeting.**
+**Important Note: If a team member is currently on a [PEP](/handbook/leadership/underperformance/#performance-enablement-plan-pep), [PIP](/handbook/leadership/underperformance/#performance-improvement-plan-pip), or a similar formal performance improvement plan, this could result in a delay of the refresh grant until the next Board Meeting.**
 
 ## Vesting
 
