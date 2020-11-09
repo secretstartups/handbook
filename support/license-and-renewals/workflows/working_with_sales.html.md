@@ -30,6 +30,8 @@ When we pass to sales, we can find the relevant person by looking at the [sales 
 
 ## Reasons to pass to Sales
 
+NOTE: Many of the following workflows advise you to `Chatter` sales.  How to do this is described in the [expired license](/support/workflows/associating_needs_org_tickets_with_orgs.html#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side) process.
+
 **ALTERNATIVE PAYMENT METHOD**: a customer wishes to pay via method other than credit card
 
 Workflow:
