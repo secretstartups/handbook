@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Tickets
+description: Tickets are the core part of what we use Zendesk for
 ---
 
 # Zendesk Tickets
