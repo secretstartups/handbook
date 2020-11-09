@@ -129,7 +129,7 @@ The Security Expert is an engineer, usually an Individual Contributor, who is pa
 
 The QA expert is...
 
-@-mention `@gitlab-com/gl-qa` so that a specific QA Functional Expert DRI is assigned to the blueprint.
+@-mention `@gl-quality/managers ` so that a specific QA Functional Expert DRI is assigned to the blueprint.
 
 ##### Infrastructure
 
