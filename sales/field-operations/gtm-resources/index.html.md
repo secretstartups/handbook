@@ -163,28 +163,11 @@ Admins have the ability to override the `Number of Employees` and bypass this hi
 
 ##### Sales Segment and Hierarchy Review Process
 
-In order to address issues when it is believed that the `Total Employee` count is incorrect the Sales Ops team on a Yearly schedule (Fiscal Q4) will review accounts where individuals think that the segment is incorrect as well as any account that has had their number of employees changed (according to our data sources).
-Reviews for updates to the `Total Employee` count field that do not result in a change of segment will not be reviewed.
+In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
 
-For an individual to submit an account for review as it relates to the number of employees at the account they must fill out the following two fields on an accounts:
+Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
-- `[User Input] Employee Count` - This is a number field that you think the number of employees should be
-- `[User Input] Employee Source` - This is a URL field that links to where the above information was found
-
-For an individual to submit an account for review as it relates to the hierarchy and final address of the account they must fill out the following four fields on an account:
-
-- `Account Zip - Manual - User` - This is a text field to be populated with Global Account HQ's Zip
-- `Account State - Manual - User` - This is a text field to be populated with Global Account HQ's State
-- `Account Country - Manual - User` - This is a text field to be populated with Global Account HQ's Country
-- `Account Address - Manual Source - User` - This is a URL field that links to where the above information was found
-
-Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company.
-As a rule LinkedIn is not accepted as a valid source.
-During the Sales Ops review period it is at the discretion of the Sales Ops team to have the `Total Employee` count updated or to have it remain the same.
-
-If the number of employees, according to our sources based on our hierarchy as described in [Segmentation](#segmentation) has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
-
-While the review process occurs over the course of Q4 the results of the process will not be put into place or enforced until the begining of Q1 (or as announced by the Sales Ops team).
+If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
 
 ##### Region/Vertical
 
@@ -552,11 +535,11 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 
 {:.no_toc}
 
-1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections if gathered AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
+1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections, if gathered, AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
 1. Click the `Convert` button:
     - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#global-account-ownership))
     - Check the "Send Email to the Owner" box
-    - Lookup the correct `Account Name` - if unsure assign OPPORTUNITY to the "Parent" account
+    - Lookup the correct `Account Name` (remove company suffix to avoid duplicates) - if unsure assign OPPORTUNITY to the "Parent" account
     - Opportunity Name - using [Opportunity Naming Convention](#opportunity-naming-convention)
     - Click `CONVERT`
         - If CONTACT record exists, associate converted LEAD to existing CONTACT. _Do not create duplicate if possible_
@@ -749,6 +732,31 @@ Opportunities for subscriptions will use the following guidelines:
 - **Refunds**:
     - [Original Opportunity Name] - REFUND
     - Example: Acme, Inc- 50 Upgrade to Premium + Renewal 01/17 - REFUND
+
+##### Subscription Cancellation Policy
+
+Customer subscriptions will be moved to cancelled no more than 30 days after the subscription term end date, and the related Renewal Opportunity will be moved to Closed Lost.
+
+##### Opportunity Requirements for Return Customers
+
+- **Customers Returning within 180 Days of Renewal Date**:
+    - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
+        - A new renewal opportunity should be created, and Closed Won with the correct booking values.
+        - A second new renewal opportunity should be created, and Closed Lost, where Amount, ACV, Renewal Amount, and Renewal ACV represent the inverse of the same values on the original Closed Lost opportunity.
+        - Example:
+           
+            | **Opportunity** | **Stage** | **iACV** | **Renewal ACV** | **ACV** | **Net iACV (not on opp)** |
+            | --- | --- | --- | --- | --- | --- |
+            | New Business 2020| Closed Won | 100 | 0 | 100 | 100 |
+            | Renewal 2021| Closed Won | 0 | 100 | 100 | 0 |
+            | Renewal 2022 | Closed Lost | 0 | 100 | 100 | -100 |
+            | Renewal 2022 | Closed Won | 0 | 100 | 100 | 0 |
+            | Renewal 2022 | Closed Lost (Debook) | 0 | -100 | -100 | 100 |
+
+- **Customers Returning More Than 180 Days After Renewal Date**:
+    - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
+        - In this scenario, the original Closed Lost opportunity will not be reversed.
+
 
 ## Opportunity Types
 

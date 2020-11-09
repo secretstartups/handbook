@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Flash Newsletter"
+description: "Field Flash is a monthly newsletter that recaps all important Sales/CS-related information from the month and highlights important upcoming information"
 ---
 
 ## On this page
@@ -82,23 +83,23 @@ Based on the requirements above, this is the first iteration of the newsletter f
 1. Upcoming events
    - Where GitLab will be over the next two months, divided by region. What webinars and other virtual events we will participate in. 
 1. Team member spotlight
-   - Video highlighting a member of the Sales/CS/SDR team (can be new or tenured). They answer these questions:
-      - Introduce yourself, where you live, and how long you've been at GitLab 
-      - Explain your role - what teams do you support 
-      - What's the best thing about your job? 
-      - What's the most difficult part of your job? 
-      - What's an interesting fact that most people don't know about you?
-      - What are you into right now? Books, movies, hobbies, etc. 
+   - Short, written Q&A highlighting a member of the Sales/CS/SDR teams or supporting teams (can be new or tenured). They answer these questions:
+      - Where did you grow up, and where are you based now?
+      - What is your favorite thing about your job? 
+      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values) resonates most with you? 
+      - Do you have a helpful tip for working at GitLab and/or in the Field org to share?
+      - What is a hobby or skill you have that the team might not know about?
       - Icebreaker question of the month (i.e. What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?)
 1. Enablement corner
    - Updates from field enablement regarding new or updated trainings + opportunities to reinforce SKO learning objectives. (i.e. Did you know...?/Did you remember that...?)
 
 ## Process 
-The newsletter is sent out **on the first Tuesday of each month at 9 am PT.** Based on feedback from the field, we will iterate on timing. 
+The newsletter is sent out **on the first Monday of each month at 9 am PT.** Based on feedback from the field, we will iterate on timing. 
 
 We build the newsletter in an issue in the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). The process for the issue includes: 
-- The issue for the upcoming newsletter is opened at least two weeks before first Tuesday of the next month. 
+- The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
+- Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews. Exceptions can be made in special cases – please reach out to the Field Communications team in the #field-flash-contributors channel to discuss. 
 - Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in MailChimp. 
 - Field Communications sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
@@ -108,13 +109,10 @@ We build the newsletter in an issue in the [Enablement project](https://gitlab.c
 
 To be added to the newsletter distribution list, [use this signup form.](http://eepurl.com/gXvm8r) **Note:** You can only sign up for this newsletter with a GitLab email domain. 
 
-## Deal of the Month & Team Member Spotlight Nominations
-Team members who are featured in Deal of the Month or Team Member Spotlight sections of the newsletter meet most of the criteria below. A committee comprised of Field Operations team members votes on the nominations to determine the winner each month. 
+## Deal of the Month Nominations
+Deals that qualify for the Deal of the Month video meet most of the criteria below. 
 
-To nominate a peer to be highlighted in one of these sections, please use the Google forms below. Nominations close 7 business days prior to the target publish date (first Tuesday of each month). Any nominations received after this date will be considered for the following month's edition. Note that if your nomination is not chosen in a given month, you can (and are encouraged to) nominate them again. 
-
-- [Deal of the Month Nomination Form](https://forms.gle/7AYwzgFStrai5D2F7)
-- [Team Member Spotlight Nomination Form](https://forms.gle/cBjiRzQ7y87Fdmu79)
+While submissions often come from Sales leadership, nominations can and should be made by any GitLab team member - everyone can contribute! To make a Deal of the Month nomination, use this [Deal of the Month Nomination Form](https://forms.gle/7AYwzgFStrai5D2F7). Nominations close 7 business days prior to the target publish date (first Monday of each month). Any nominations received after this date will be considered for the following month's edition. Note that, in an effort to feature recent deals, nominations are only valid for one edition cycle, i.e. nominations do not carry over to a future month if not selected.
 
 **Deal of the Month Criteria**
 - This deal is a shining example of what great looks like. New and tenured team members would benefit from learning about all of the work and various components that went into it.
@@ -127,14 +125,15 @@ To nominate a peer to be highlighted in one of these sections, please use the Go
 - Team member and/or account team exhibited [GitLab's values](/handbook/values/) in this process.
 - Team member and/or account team received positive feedback from the customer/prospect or from another GitLab team member as a part of this deal. (Please share if possible.)
 
-**Team Member Spotlight Criteria**
-- This person has recently (or continuously) done something to go above and beyond in their role.
-- This person is a high-performer and makes an impact across the field organization – both excelling at their role and successfully and meaningfully collaborating with other teams.
-- The field has something to learn from this person – from their role, to their work ethic, to their attitude, etc.
-- This person lives the [GitLab values](/handbook/values/). (Please call out the specific values this person embodies with brief context.)
-- This team member has received positive feedback from their team and/or a customer/prospect. (Please share if possible.)
+## Team Member Spotlight Selection Process
 
-Note: The team member who is chosen for the Team Member Spotlight each month will also receive a [nomination for a discretionary bonus](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr), as the purpose of both distinctions is to highlight a team member who is living the GitLab values.
+The Team Member Spotlight features a member of the Field organization or supporting team (i.e. legal or product) and is an opportunity for the Field team to get to know them better. The team member featured in the monthly spotlight is chosen by a Field Enablement team member on a rotating basis in coordination with the team they support. For example, the Field Enablement Program Manager supporting Enterprise has an opportunity to nominate someone in the Enterprise segment, followed by the Field Enablement Program Manager supporting Commercial the following month, and so on.
+
+**Team Member Spotlight Criteria**
+- This person goes above and beyond in their role.
+- This person is a high-performer and makes an impact across the field organization – both excelling at their role and successfully and meaningfully collaborating with other teams.
+- The Field has something to learn from this person – from their role, to their work ethic, to their attitude, etc.
+- This person lives the [GitLab values](/handbook/values/).
 
 ## Measurement
 Quantitative Success Metrics
@@ -151,10 +150,16 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
-| [March 2020: 2020-04-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-04-02) | We're Live! Time to Level Up with Field Flash. ⚡️ | Partner Program launch, COVID-19 resources & sales process changes |
-| [April 2020: 2020-05-05](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-05-05) | GitLab Field Flash: Your Top Field Highlights from April ⚡️ | GitHub competitive resources, GTM Field Update, requirements management |
-| [May 2020: 2020-06-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-06-02) | GitLab Field Flash: Your Top Field Highlights from May ⚡️ | Pricing overview, QBR ask follow-ups, GitLab 13.0 milestone release |
-| [June 2020: 2020-07-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-07-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitLab Compete page, GitLab vs. BitBucket, Ecosystem Technology Partners |
-| [July 2020: 2020-08-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-08-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | Enablement resources, QBRs, Channel momentum |
-| [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |
+| [November 2020: 2020-11-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-11-02) | NEW ⚡️ GitLab Field Flash: November Edition ⚡️ | Developer-Led Landscape, New ABM Lists, Partner Deal Registration System, Updated Competitor Comparison Charts |
 | [October 2020: 2020-10-08](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-10-08) | NEW ⚡️ GitLab Field Flash: October Edition ⚡️ | Q3 Cannonball Run, ROI Calculators, APAC Momentum, Public Competitive Resources |
+| [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |
+| [July 2020: 2020-08-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-08-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | Enablement resources, QBRs, Channel momentum |
+| [June 2020: 2020-07-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-07-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitLab Compete page, GitLab vs. BitBucket, Ecosystem Technology Partners |
+| [May 2020: 2020-06-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-06-02) | GitLab Field Flash: Your Top Field Highlights from May ⚡️ | Pricing overview, QBR ask follow-ups, GitLab 13.0 milestone release |
+| [April 2020: 2020-05-05](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-05-05) | GitLab Field Flash: Your Top Field Highlights from April ⚡️ | GitHub competitive resources, GTM Field Update, requirements management |
+| [March 2020: 2020-04-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-04-02) | We're Live! Time to Level Up with Field Flash. ⚡️ | Partner Program launch, COVID-19 resources & sales process changes |
+
+
+
+
+

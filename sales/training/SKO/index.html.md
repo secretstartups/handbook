@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Kick Off"
+description: "The GitLab Sales Kick Off sets the tone for the GitLab field organization for the new fiscal year"
 ---
 
 ## On this page

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Sales Enablement"
+description: "Welcome to the Commercial Sales Enablement Handbook Page"
 ---
 
 ## On this page

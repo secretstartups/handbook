@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Proof of Value"
+description: "A Proof of Value (POV) is a collaboration between GitLab and the prospective customer for evaluating GitLab Enterprise Edition"
 ---
 
 # Proof of Value (POV) Guidelines

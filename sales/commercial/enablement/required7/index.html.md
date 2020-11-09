@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Guide to the Required 7"
+description: "The Required 7 are the 7 tactical skills required to be an excellent Commercial Sales Account Executive at GitLab"
 ---
 
 ## On this page

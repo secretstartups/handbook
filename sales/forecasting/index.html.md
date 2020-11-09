@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Forecasting"
+description: "This page details the Sales Forecasting process"
 ---
 
 ## On this page

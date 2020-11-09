@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Certification: Technical Account Managers"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Technical Account Managers that includes functional, soft skills, and technical training for field team members"
 ---
 
 ## Field Certification Program for Technical Account Managers 

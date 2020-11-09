@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Questions for Sales"
+description: "To improve sales efficiency, the GitLab Solution Architect team identified and answered some of the most common technical questions that GitLab sales team members should be able to answer"
 ---
 
 ## On this page
@@ -10,7 +11,7 @@ title: "Technical Questions for Sales"
 {:toc .hidden-md .hidden-lg}
 
 ## **Introduction**
-To improve sales efficiency and reduce the dependence of GitLab sales team members on Solution Architects (SAs), the SA team created the below table outlining some of the most common technical questions they believe GitLab sales team members should be able to answer. The following questions have been organized by [DevOps lifecycle stage](/stages-devops-lifecycle/).
+To improve sales efficiency and reduce the dependence of GitLab sales team members on Solution Architects (SAs), the SA team identified and answered the most common technical questions they believe GitLab sales team members should be able to answer. The following questions have been organized by [DevOps lifecycle stage](/stages-devops-lifecycle/).
 
 ### Manage
 
@@ -69,7 +70,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
   <iframe src="https://www.youtube.com/embed/x1_b2iqKOfI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/product-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
+*  **Learn more**: Administrators have more powerful user management capabilities. Check out [all the differences between GitLab.com and self-managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlabcom-and-self-managed).
 
 ### Manage Quiz 
 
@@ -86,7 +87,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 </figure>
 
 *  **Learn more**: 
-    *  Review the [No Tissues with Issues](/handbook/marketing/product-marketing/getting-started/101/) page
+    *  Review the [No Tissues with Issues](/handbook/marketing/strategic-marketing/getting-started/101/) page
     *  Watch this [How to set up GitLab groups and projects to run multiple Agile teams with microservices](https://www.youtube.com/watch?v=VR2r1TJCDew) video (Jan 2019, 15 minutes)
 
 
@@ -253,7 +254,7 @@ No questions at this time.
 No questions at this time.
 
 
-### Defend
+### Protect
 
 No questions at this time.
 
