@@ -33,7 +33,7 @@ confidence with your manager:
 
 - [1-1s](/handbook/leadership/1-1/)
 - [Providing regular feedback](/handbook/leadership/#giving-feedback)
-- [Dealing with underperformance](/handbook/underperformance/)
+- [Dealing with underperformance](/handbook/leadership/underperformance/)
 
 ## Engineering Manager Onboarding
 
