@@ -157,10 +157,21 @@ Product Managers should also regularly assess the performance and cost of featur
 
 There are a few different tools PM's can utilize to understand the operational costs of their features. Some of these are maintained by Infrastructure, based on the operational data of GitLab.com. Others tools, like usage ping, can be utilized to better understand the costs of our self-managed users. Ultimately, each product group is responsible for ensuring they have the data needed to understand and optimize costs.
 
-* [GCP Billing Data](https://console.cloud.google.com/billing/) ([Access Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) required)
-* [Storage cost baseline sheet](https://docs.google.com/spreadsheets/d/1ueiYa_FHC_fcK97Mzv7jHEDNf8NHU0fWa4i_3HVO2v4/edit#gid=0)
-* [Usage ping](https://docs.gitlab.com/ee/development/telemetry/usage_ping.html)
+* Useful Dashboards to Visualize Infrastructure Costs:
+  * [Overall GitLab.com GCP Costs](https://app.periscopedata.com/app/gitlab/742611/WIP:-GCP-Cost-Dashboard)
+  * [Group Cost PIs](https://app.periscopedata.com/app/gitlab/744908/Group-GCP-Cost-PI's)
+  * [GitLab.com Storage Costs](https://app.periscopedata.com/app/gitlab/690541/WIP:-GitLab.com-Storage-Cost-Stats)
+  * [GitLab.com CI Costs](https://app.periscopedata.com/app/gitlab/690666/WIP:-GitLab.com-CI-Cost-Stats)
+* [Access to Billing Console](https://console.cloud.google.com/billing/) ([Access Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) required)
+* [Usage ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)
 * Your Engineering Manager, #infrafin on Slack, and the broader GitLab team
+
+##### Links to Learn more about Infrastructure cost management initiatives
+
+* [Infrafin Board Workflow](https://gitlab.com/groups/gitlab-com/-/boards/1502173?label_name[]=infrafin)
+* [Infrafin Board by Group](https://gitlab.com/groups/gitlab-com/-/boards/2054211?label_name[]=infrafin)
+* [Infrafin Board by Savings Amount](https://gitlab.com/groups/gitlab-com/-/boards/992233?&label_name[]=infrafin)
+* [Infrafin Cost Management Handbook Page](https://about.gitlab.com/handbook/engineering/infrastructure/cost-management/)
 
 ##### Tools to understand end user experience
 
@@ -195,11 +206,11 @@ Group Kickoffs calls recorded and uploaded by the end of the day.
 
 Also see [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
 
-## Product Management Career Development Framework
+## Product Management Career Development Framework 
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
-We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [GoogleSheet template](https://docs.google.com/spreadsheets/d/1NaqSgu_1IcL_DYRHjrDGsKLooSykpewD3QYU2OZR5jc/edit#gid=1091464991) to track your career development with your manager.
+We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [GoogleSheet template](https://docs.google.com/spreadsheets/d/1NaqSgu_1IcL_DYRHjrDGsKLooSykpewD3QYU2OZR5jc/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Low, Medium and High potential instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio). 
 
 | IC Title | PM | Sr. PM | Principal PM | |
 
@@ -213,9 +224,9 @@ We track progress through the skills required to be a product manager at all lev
 | **Typical Reporting Structure** | Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Director or VP | Reports to VP |
 | **Typical Experience** | Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | Ten to twelve years of experience with at least four years of people management responsibility. |
 
-### CDF Reviews
+### Performance/Potential Assessment
 
-Product Management Leadership will perform CDF reviews with their team members on a regular cadence; the minimum frequency is every 2 months. Consider creating a recurring meeting dedicated to this topic rather than utilizing existing 1:1 meetings.
+Product Management Leadership will perform CDF reviews with their team members on a regular cadence agreed upon with their team member, to happen at every 2 to 3 months, and no less frequently than every 3 months. We encourage limited flexibility based on manager discretion because team members have different career goals, growth cadences and product challenges they may want to align with their CDF. Product Management Leadership should consider creating a recurring meeting dedicated to this topic rather than utilizing existing 1:1 meetings.
 
 #### What is the expected outcome of a CDF Review?
 CDF reviews should result in actionable improvement focus areas for the product manager. When conducting a CDF review, managers should consider drilling into specific items within the PM's purview to highlight where the team member can focus on improving. [PM competencies](#competencies) are also valuable for identifying improvement areas. Consider using the [PM Professional Development Plan template](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/PM-Professional-Development-Plan.md) to create an actionable plan following a CDF review.
@@ -265,6 +276,52 @@ CDF reviews should result in actionable improvement focus areas for the product 
 * Enabling direct reports to be more efficient
 * Strategy alignment
 * Rapport with direct reports
+
+### Evaluating Product Manager's potential
+When evaluating a product manager's potential, in addition to the [generic information](/handbook/people-group/performance-assessments-and-succession-planning/#what-is-potential) outlined, we also want to evaluate potential based on the unique and outsized impact PMs can have. We acknowledge that the evaluation will remain more qualitative than quantitative, but rather than shy away from making an evaluation, we will lean in using the information below.
+
+We can think about the Product Manager's potential primarily on two axis: value creation and leadership.
+
+#### Value Creation
+Product managers are in the business of creating value, measurable by [Product KPIs](https://about.gitlab.com/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer. 
+
+We expect product managers to create value across the business by excelling at execution in at least the following levels. When thinking of a PM's potentials, consider their capacity to expand their influence beyond their current level.
+
+|  **Level** | **Value created at..** |
+| --- | --- |
+| **PM** |  features and categories |
+| **Senior PM** |  features, categories and stage |
+| **Principal PM** |  features, categories, stage, and cross-stage |
+| **GPM** |  stage and cross-stage |
+| **Director** |  cross-stage, cross-department |
+| **VP and up** |  company-wide or new business/industry |
+
+#### Leadership
+As product managers grow in experience and seniority, they are tasked with shaping alignment, producing results, and leading with increasing responsibilities. Understanding how to set the tone with vision and strategy, and knowing how to control output in a system comprised of people, culture, technology, and process is how product managers lead.
+
+We expect product managers to be a leader at the following levels. When evaluating potential, consider the PM's capacity to be a leader with more scope.
+
+|  **Level** | **Leadership level** |
+| --- | --- |
+| **PM** |  product group |
+| **Senior PM/Principal PM** |  product Group, stage, and cross-group alignment |
+| **GPM/Director** |  multiple groups and stages |
+| **Senior Director** |  cross-department |
+| **VP** |  company-wide |
+
+#### A framework for evaluating potential
+It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
+
+| Attribute | Reasoning|
+| ------ | ------ |
+| Self-motivation and drive | The intrinsic drive enables PMs to learn, be passionate, and ultimately be effective. | 
+| Influence | High potential PMs build rapport with their team, which supports accomplishing results.|
+| Resourcefulness | PMs should seek to learn and grow. What they learn is ultimately meaningful if the learning can be applied.|
+| Ambitious | High potential PMs stretch themselves and make themselves available to new responsibility.|
+| Self-awareness | A large part of leadership is knowing where you are not strong and building relationships to fill in the gaps. |
+
+##### Make evaluating potential actionable
+Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a [CDF Review](https://about.gitlab.com/handbook/product/product-manager-role/#cdf-reviews) to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
 
 ## Competencies
 
@@ -320,6 +377,12 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 
 [Writing to inspire action](/handbook/product/product-processes/#writing-to-inspire-action) is a critical competency for PMs in order to facilitate a bias towards action within their [Product Groups](/company/team/structure/#product-groups). PMs communicate with a wide variety of audiences one key to inspiring action via your writing is focusing on what your reader values.
 
+| **Level** | **Demonstrates Competency by...** | **Assessment** |
+| --- | --- | --- |
+| **PM** | Consistently directing async communication towards actionable outcomes in issue discussions. You strive to minimize uncertainty by not leaving questions and discussion points unaddressed. When you respond, ask yourself before publishing a comment - "Will this get us closer to the goal of shipping something valuable for our customers?". You can do this by using phrases like - "What is the most minimal thing we can do to take a step in that direction?" , "How about X as an alternative?" and "Let's save that for a future iteration."  | Writing to Inspire Action Assessment coming soon |
+| **Sr. PM**| Proactively intervening when async communication becomes drawn out by focusing on boring solutions, starting with a proposal, garnering a sense of urgency, and taking a bias towards action. You can spot these by looking for long single comments and multiple comments back and forth. You can respond with - "I've updated the proposal with what is being discussed, let's respond to that new proposal.", "I don't think this dialog is moving us forward, can we get back to the problem statement at hand?" and "I've removed that part of the proposal to stay focused on what we can delivery quickly." | Writing to Inspire Action Assessment coming soon |
+| **Principal PM/ Group Manager PM**| Coaches others by taking advantage of teachable moments to highlight how team members could better communicate to inspire action in others. It's best to do this in private but you can spot them when you see other team members continuing long-running dialog despite it no longer being action oriented. | Writing to Inspire Action Assessment coming soon |
+
 ### Build Track Competencies
 The [build track](/handbook/product-development-flow/#build-track) is the second phase of GitLab's Product Development Workflow. This track is the execution phase for the solutions that were validated and designed during the Validation track.
 
@@ -343,6 +406,17 @@ The ability to break down larger features and functionality into small iterative
 | **Vice President PM** |TBD||
 | **EVP/Cheif Product** |TBD||
 
+### People Management Competencies
+Individual contributor product managers and managers of product managers are leaders of their respective group, stage, and section. Product managers influence and manage a diverse set of teammates. As a result, even individual contributors need to develop strong people management competencies.
+
+#### Managing Team Performance
+Successfully [managing team performance](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab) enables Product Managers to bring the most successful product to market in the most efficient manner. 
+
+|  **Level** | **Demonstrates Competency by...**| **Assessment** |
+| --- | --- | --- |
+| **IC PMs** | Sets the goals and priorities for their group. Exemplifies the [leadership qualities](/handbook/leadership/#gitlab-team-members) in their group. Skilled at [making decisions](/handbook/leadership/#making-decisions) to help unblock and enable groups to move forward confidently. Helps curate a team dynamic that has [direct communication](/handbook/leadership/#communication-should-be-direct-not-hierarchical) and is [open to feedback](/handbook/leadership/#giving-feedback). Exhibits the skills, behaviors to build [high performing teams](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab). | TBD |
+| **Manager of IC PMs** | [Hires and retains](/handbook/leadership/#recruiting-and-retention) talented product managers. Enables Product Managers to be a [manager of one](/handbook/leadership/#managers-of-one). Helps direct reports thrive and improve via [CDF Reviews](#cdf-reviews). Coaches direct reports to stretch their skillset and sharpen existing skills. Are available to provide strategic or tactical input. Recognizes when [process](/handbook/leadership/#process-gets-a-bad-rep) can improve efficiency, is important for [global optimization](/handbook/values/#global-optimization), or is detrimental to autonomy and team performance and actively acts to address. Enables direct reports to [take time off](#taking-time-off) yet maintain group's forward momentum. | TBD |
+| **Manager of PM Managers** |TBD||
 
 ## Future Competencies
 
@@ -375,7 +449,6 @@ Communication Skills
 
 People Management Skills
 
-1. Managing Team Performance
 1. Facilitating Career Development Conversations
 1. Coaching GitLab Values Based Product Management
 1. Aligning Your Team on Strategy

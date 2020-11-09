@@ -101,7 +101,7 @@ offering plugins for the following reasons:
 1. The open source nature of GitLab ensures that we can combine great open source products.
 1. Everyone can contribute to create a feature set that is [more complete than other tools](/devops-tools/). We'll focus on making all the parts work well together to create a better user experience.
 1. Because GitLab is open source, the enhancements can become [part of
-the codebase instead](https://docs.gitlab.com/ee/project_services/project_services.html) of being external. This ensures the automated tests for all
+the codebase instead](https://docs.gitlab.com/ee/user/project/integrations/overview.html) of being external. This ensures the automated tests for all
 functionality are continually run, ensuring that additions keep working. This is in contrast to externally maintained plugins that might not be updated.
 1. Having the enhancements as part of the codebase also
 ensures GitLab can continue to evolve with its additions instead of being bound
@@ -183,7 +183,7 @@ graph LR
   A(Plan)
   B(Create)
   C(Release)
-  D(Defend)
+  D(Protect)
   E(Configure)
   F(Monitor)
   G(Verify)
@@ -250,7 +250,7 @@ across the functionality, whereas separate vendors each need to pay those costs 
 Businesses that manage a toolchain pay hidden operating costs in the form of engineering time needed to
 build and maintain the toolchain instead of using those engineering resources to write software with
 business logic that delivers differentiated value. For a large enterprise this can be the difference
-between [paying 20 engineers vs one engineer](/handbook/marketing/product-marketing/#administrative-overhead)
+between [paying 20 engineers vs one engineer](/handbook/marketing/strategic-marketing/#administrative-overhead)
 to maintain your tools.
 
 ### Further examples

@@ -1,9 +1,6 @@
 ---
 layout: handbook-page-toc
 title: Product sections, stages, groups, and categories
-extra_js:
-    - listjs.min.js
-    - categories.js
 ---
 
 ## On this page
@@ -33,8 +30,8 @@ product categories defined on this page:
 - [Documentation](https://docs.gitlab.com/ee/#complete-devops-with-gitlab)
 - [Engineering](/handbook/engineering/) Engineering Manager/Developer/Designer titles, their expertise, and department, and team names.
 - [Product manager](/handbook/product/) responsibilities which are detailed on this page
-- [Our pitch deck](/handbook/marketing/product-marketing/#company-pitch-deck), the slides that we use to describe the company
-- [Strategic marketing](/handbook/marketing/product-marketing/) specializations
+- [Our pitch deck](/handbook/marketing/strategic-marketing/#company-pitch-deck), the slides that we use to describe the company
+- [Strategic marketing](/handbook/marketing/strategic-marketing/) specializations
 
 ## Hierarchy
 
@@ -43,7 +40,7 @@ The categories form a hierarchy:
 1. **Sections**: Are a collection of stages. We attempt to align these logically along common workflows like Dev, Sec and Ops.
 Sections are maintained in [`data/sections.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/sections.yml).
 1. **Stages**: Stages start with the 7 **loop stages**, then add Manage, Secure,
-and Defend to get the 10 (DevOps) **value stages**, and then add the Growth
+and Protect to get the 10 (DevOps) **value stages**, and then add the Growth
 and Enablement **team stages**. Values stages are what we all talk about in
 our marketing.
 Stages are maintained in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml).
@@ -54,7 +51,7 @@ Each group has a corresponding [`group::<group>` label](https://docs.gitlab.com/
 1. **Categories**: A group has one or more categories. Categories are high-level
 capabilities that may be a standalone product at another company. e.g.
 Portfolio Management. To the extent possible we should map categories to
-vendor categories defined by [analysts](/handbook/marketing/product-marketing/analyst-relations/).
+vendor categories defined by [analysts](/handbook/marketing/strategic-marketing/analyst-relations/).
 There are a maximum of 8 high-level categories per stage to ensure we can
 display this on our website and pitch deck.
 ([Categories that do not show up on marketing pages](/handbook/marketing/website/#working-with-stages-groups-and-categories)
@@ -82,7 +79,9 @@ operation ["Stage and group labels inference from category labels"](/handbook/en
 
 Anytime one hierarchy level's scope is the same as the one above or below it, they can share the same name.
 
-For groups that have two or more categories, but not _all_ categories in a stage, the group name must be a [unique word](/handbook/communication/#mecefu-terms) or a summation of the categories they cover. For such groups, their name should be written as "Stage:Group" when the writer wants to give extra context. This can be useful in email signatures, job titles, and other communications. E.g. "Monitor:Health" rather than "Monitor Health" or "Monitor, Health."
+For groups that have two or more categories, but not _all_ categories in a stage, the group name must be a [unique word](/handbook/communication/#mecefu-terms) or a summation of the categories they cover.
+
+If you want to refer to a group in context of their stage you can write that as "Stage:Group". This can be useful in email signatures, job titles, and other communications. E.g. "Monitor:Health" rather than "Monitor Health" or "Monitor, Health."
 
 ### More Details
 
@@ -201,7 +200,7 @@ Changes that require approval only from the relevant Product Director include:
 
 ## DevOps Stages
 
-![DevOps Loop](devops-loop-and-spans.png)
+<%= devops_diagram(["All"]) %>
 
 <%= partial("includes/product/categories") %>
 
@@ -215,7 +214,7 @@ We have boundless [ambition](/handbook/product/product-principles/#how-this-impa
 1. ML/AI, maybe leveraging [Kubeflow](https://www.kubeflow.org/)
 1. Networking, maybe leveraging some of the [open source standards for networking](https://www.linux.com/news/5-open-source-software-defined-networking-projects-know/) and/or [Terraform networking providers](https://www.terraform.io/docs/providers/type/network-index.html)
 1. Design, we already have [design management](https://gitlab.com/groups/gitlab-org/-/epics/1445) today
-1. Govern, combined dashboards for secure, defend, and maybe things like requirements management
+1. Govern, combined dashboards for secure, protect, and maybe things like requirements management
 
 Stages are different from the [application types](/direction/maturity/#application-type-maturity) you can service with GitLab.
 
@@ -308,3 +307,5 @@ If you encounter an issue falling into a facilitated area:
 
 * For issues that relate to updating the guidelines, apply the `group::category` label for the facilitating group.
 * For issues that relate to adding content related to a facilitated area, apply the `group::category` label for the most closely related group. For example, when adding a new setting related to Merge Requests, apply the `group::source code` label.
+
+<%= partial("includes/product/categories_index") %>

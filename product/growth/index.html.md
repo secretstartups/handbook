@@ -21,7 +21,7 @@ help with this mission:
 rapid experimentation.
 - [Fulfillment](https://about.gitlab.com/direction/fulfillment/) ensures a terrific experience throughout the
 buyer journey for customers doing business with GitLab.
-- [Telemetry](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Product Analytics](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth is commonly asking and finding solutions for these types of questions:
@@ -115,7 +115,7 @@ graph LR
     Verify --> Package
     Release --> Monitor
     Release --> Configure
-    Release --> Defend
+    Release --> Protect
 ```
 
 The foundational user journey is from Create -> Verify. This is the most common combination of stages, and we believe when users experience these two stages they begin to understand the broader power of a single application for the entire DevOps lifecycle. We are working on several projects to increase the number of users enjoying Create and Verify together. Examples:
@@ -195,13 +195,13 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 ### Feature Ownership
 
-The Fulfillment section is responsible for the maintenance and technical strategy of the Subscriptions App application, the license application, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
+The Fulfillment section is responsible for the maintenance and technical strategy of the CustomersDot application, LicenseDot, and the billing and licensing experience for both internal and external customers. Fulfillment is also concerned with e-commerce compliance, add-on products, and internal tools for GitLabbers to work more efficiently when helping customers.
 
 Key areas of focus for the Fulfillment section are:
 
 - Payment gateway integration (Stripe, Zuora and other providers where necessary), management, and support.
 - Implementing new Pricing, Plans, and account requirements as directed by the Principal Pricing Manager.
-- Abstracting the customers application away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
+- Abstracting the CustomersDot away from users to provide a seamless experience for account management of self hosted and GitLab.com accounts.
 - Ensuring the technical backend and frontend of the customers and license applications have strong test coverage, deployment, and monitoring processes and meet performance and scalability requirements.
 - Prioritization and action on the removal of technical debt by staying inline with GitLab.com best practices for technology stack, architecture, design systems, and coding. Collaborating with other Growth groups for common concerns.
 - Reviewing and merging internal and external contributions to the customers and licensing applications.
@@ -270,9 +270,9 @@ Responsible for licensing & billing workflows, which have a huge impact on renew
 
 Please see the [Fulfillment direction page](https://about.gitlab.com/direction/fulfillment/) for more information about Fulfillment's mission, vision, and priorities.
 
-## Telemetry group
+## Product Analytics group
 
 Responsible for product usage data, including proper instrumentation, working with BizOps and Engineering to ensure product usage data is stored correctly, and working across the Product team to ensure product usage data is analyzed and visualized in a way that can drive product and growth decisions.
 
-Please see the [Telemetry direction page](https://about.gitlab.com/direction/product-analytics/) for more
-information about Telemetry's mission, vision, and priorities.
+Please see the [Product Analytics direction page](https://about.gitlab.com/direction/product-analytics/) for more
+information about Product Analytics' mission, vision, and priorities.

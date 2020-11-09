@@ -152,11 +152,12 @@ Avoid unnecessary configuration. Avoid configuration to support fragile workflow
 When considering adding new configuration, we follow the following principles:
 
 - **Ensure a great experience by default** - GitLab should work perfectly right out of the box for most users. While it should be resisted, sometimes configuration is inevitable or preferable. Your configuration must not make that [experience worse](https://gitlab.com/gitlab-org/gitlab/issues/14432) and should always _get out of the way of the user_.
+  - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for Gitlab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
 - **Encourage favorable behaviors by limiting configuration** - Convention also implies that we're encouraging our customers to do things
 in a certain way. A very concrete example of this is the ability to disable pipelines. We believe that our integrated solution will give a superior user experience and we're motivated to encourage this behavior. For this reason, adding a configuration to allow disabling this permanently (be that in a template or instance-wide), is something that should be avoided.
 - **Design for users not intermediaries** - GitLab should avoid falling into the [Blackboard trap](https://twitter.com/random_walker/status/1182637292869115904) of building a product that administrators of GitLab love because it is configurable, but developers and other users of GitLab hate because it is overly complex and confusing.
 - **Default to ON** - In addition to encouraging behavior by limiting the ability to toggle features, new features, when introduced, should default to turning things ON (if they are configurable at all - preferably they should not be), and when necessary, automatically migrate existing users/groups/projects to have the new features ON. Similarly, feature flags should be consistently ON for both GitLab.com and self-managed users whenever possible. It is important to remember that vocal proponents of an issue that a Product Manager might interact with would likely be inclined to take the extra effort to enable a feature, but most users will not.
-    - Default to ON can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance enterprises need like we need to do for [Container Network Security](https://about.gitlab.com/direction/defend/container_network_security/).
+    - Default to ON can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance enterprises need like we need to do for [Container Network Security](https://about.gitlab.com/direction/protect/container_network_security/).
 - **Avoid Limits** - Limits should be in place to [protect the system](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5617) but not to "slowly try out" a feature. By limiting the usefulness of a feature right from the start the only thing you are achieving is limiting its adoption and usefulness. If you are going to default to OFF or limited, you must have a good, documented reason for this.
 - **Avoid configuration completely when possible** - Requests for configuration can be a proxy for trying to support a fragile workflow. Rather than enabling bad habits and incurring product debt, effort should be spent helping customers adopt best practices.
     - **Configuration builds up over time** - Every configuration option in GitLab multiplies its complexity, which means the application is harder to use, harder to develop, and less friendly to users.
@@ -416,9 +417,9 @@ your audience to self-managed customers only:
 
 There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249), but we should always have a clear view on how we might bring the feature to GitLab.com and clearly document why we started with the instance-level in the issue.
 
-### No enforced workflows
+### Avoid enforced workflows but allow enterprise flexibility
 
-We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab-ee/issues/2059).
+We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/2059).
 
 Enforced workflows should be avoided in GitLab. For example, there are three issue
 states (`Open`, `In Progress` (as of 10.2), and `Closed`), and any issue should be
@@ -471,6 +472,8 @@ As an example, customers requested instance-wide enforcement through required CI
 <figure class="video_container">
  <iframe src="https://www.youtube.com/embed/QCfOQs8S4OQ" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
+
+While workflow enforcement should be avoided in most cases, there are organizations that rely on enforced workflows for a variety of reasons. These organizations have problems adapting existing workflows as they move to GitLab and as a result, we should consider allowing some enforcement at the group level in order to balanace team efficiency and organizational policy. Page 79 of [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) outlines "teams that reported no approval process or used peer review achieved higher software delivery performance." As we implement features to allow organizations to enforce workflows, we should do so at the group level and default them off. GitLab should be a product teams use to accelerate product development, but flexible enough to solve for requirements of all sizes of organizations.
 
 ### Prefer small primitives
 
@@ -601,3 +604,13 @@ use eventually, even if they're not ready to today.
 By focusing on next-generation development flows, personas, and use cases - we build features and experiences where our initial users are in the relatively small population of early adopters. While we might build experiences to support them today, we presume there will always be a much larger population of future users of these experiences. Therefore, we optimize GitLab to support the larger number of current and future adopters of next-generation principles - those who are beginning to operate in the workflow (modern), team setup (developer first), or application architectures (cloud native) we support. We focus our investment in the most modern workflows that will best support those current adopters. This will come at the cost of sustained investment in initial workflows for early adopters.
 
 For example - we first provided an application log experience based on direct scraping of logs via kubectl. After adding support for installing Elasticsearch to your Kubernetes cluster, we should not continue to invest in the kubectl log view as we'd recommend newcomers to use Elasticsearch.
+
+#### Customer Support on all features
+{: #support-all-features}
+
+We provide customer support to paying customers on all features that are in the tier of their paid license as well as any lower tiers.
+This means a feature in Core, should get customer support in all paid tiers.
+For example, when there is a feature that is available in the lowest paid tier, but only has customer support in higher tiers,
+the feature should be removed from that lowest paid tier.
+In accordance with our [stewardship policy](/company/stewardship/) we can never remove features from Core into paid tiers,
+but we can build additional features around it which are available to paying customers only.

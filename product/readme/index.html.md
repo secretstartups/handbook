@@ -11,4 +11,3 @@ title: "Product README's"
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
 - [Tim Hey's README](tim-hey.html)
-- [Jason Yavorska's README](https://metaluna.io/plan)
