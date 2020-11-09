@@ -344,9 +344,9 @@ An in-person or virtual workshop where the attendees are guided through an agend
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
 
-### Marketo Program and Salesforce Campaign set-up
+## Marketo Program and Salesforce Campaign set-up
 
-#### Steps to Setup Marketo programs and Salesforce Campaigns
+### Steps to Setup Marketo programs and Salesforce Campaigns
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
