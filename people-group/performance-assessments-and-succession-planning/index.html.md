@@ -109,7 +109,7 @@ Performance against competencies should be weighted at 40%.
 
 * [Values Competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
 * [Remote Working Competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
-* _(if applicable)_ [Functional Competenceis](https://about.gitlab.com/handbook/competencies/#functional-competencies) 
+* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
 * _(if applicable)_ [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) 
 
 ## What is "Potential"?
@@ -144,9 +144,9 @@ Medium potential generally refers to a team member who is growing in their curre
 High potential generally indicates that a team member will be ready for promotion within the next year (or when an opportunity arises). High potential team members:
 
 * Frequently seek involvement in stretch project/projects outside of their scope
-* Invest in their development; seeks feedback to improve and applies that feedback on the job 
-* Demonstrates ability to learn new skills
-* Actively pursues increased opportunities to influence decisions and inspire others
+* Invest in their development; seek feedback to improve and applies that feedback on the job
+* Demonstrate ability to learn new skills
+* Actively pursue increased opportunities to influence decisions and inspire others
 
 ## Calibration Session Guidelines
 
@@ -240,7 +240,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2021-01: Manager review will open in Compaas for managers to advise on dollar amounts for increase (guided by Performance Factor results)
 
 *February*
-* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2020-02-15 so managers have an opportunity to commuicate prior)
+* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2020-02-15 so managers have an opportunity to communicate prior)
 * 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
 * 2021-02-15: Salary increases visible to team members in BambooHR
 
@@ -251,7 +251,7 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 1. Managers complete a Performance/Potential Matrix for their respective teams
 1. Live session takes place for calibration 
 1. Executive Review (leadership meets to review the matrix results, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results).
-1. Performance axis results communited with team members. 
+1. Performance axis results communicated with team members.
 1. Retrospace takes place with leadership to determine next steps and iterate. 
 
 ## Communication 
@@ -260,7 +260,7 @@ In most companies the Performance/Potential Matrx is used exclusively as a manag
 
 The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups*. For example, we have some departments that have used the Performance/Potential Matrix in previous quarters. These groups may feel comfortable and ready to communicate potential at this stage. We do, however, recommend that there is _consistency in what is being communicated within each department_. 
 
-We hope to increase the scope of our communication company-wide as we iterate on the the Performance/Potential Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY`21. 
+We hope to increase the scope of our communication company-wide as we iterate on the Performance/Potential Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY21.
 
 ### Do Communicate
 Managers are *encouraged* to communicate the following directly with each individual on their team:
@@ -298,8 +298,8 @@ We discourage communicating the points above directly with team members because:
 
 ### Performance / Potential Review FAQs
 * **How is this different from what we did in the past?** <br>
-    * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
-    * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review - managers go through a process to assess someone’s knowledge, skills and abilities also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
+    * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly-launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
+    * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
 
 * **Why does this matter to me?** <br> 
 This change will impact both team members and managers. 
