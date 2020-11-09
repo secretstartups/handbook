@@ -57,7 +57,7 @@ on exercising later). Please read the Stock Option section of the [Tax Team](/ha
 
 ### Stock Option Grant Levels
 
-Standard Option Grants are broken out by level for each division. If you have any questions on what grant should be offered to a new hire, please reach out to the Compensation and Benefits team by email to `total-rewards@gitlab.com`.
+Standard Option Grants are broken out by level for each division. If you have any questions on what grant should be offered to a new hire, please reach out to the Compensation and Benefits team by email to `total-rewards@ gitlab`.
 
 | Engineering                 | G&A                                | Marketing                      | Sales                                            | Product/Alliances      | [Option Grant](https://ops.gitlab.net/gitlab-people-engineering/compensation-calculator/-/blob/master/data/equity_calculator.yml) |
 | ----------------------------|------------------------------------|--------------------------------|--------------------------------------------------|------------------------| ------------:|
