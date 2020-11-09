@@ -458,51 +458,6 @@ After launch, the Product Manager and Product Designer should pay close attentio
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to set up dashboards in Sisense and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review AMAU, GMAU, and SMAU dashboards to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager |
 
-## Iteration Strategies
-Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary.
-
-### Workflow steps
-As part of design and discovery, you likely created a minimal user journey that contains sequential steps a user is going to take to “use” the feature you are building. Each of these should be separated. You can further by asking yourself these questions:
-* Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI,  API or .csv download of data)? This is a great starting point before adding UI components that achieve the same thing.
-* Will there be different UI paths to perform the same task? Identify which are the most useful and which are the easiest to implement. Weight both factors when determining which to start with, and build from there.
-
-### User operations
-View, Create, Update, Remove and Delete are actions users take while interacting with software. These actions naturally provide lines along which you can split functionality into smaller features. By doing this, you prioritize the most important actions first. For example, users will likely need to be able to visually consume information before they can create, update, remove, or delete.
-
-### Functional criteria
-Often, the criteria by which a new feature needs to be built is implicit. It can help to approach this from a test-driven development mindset, meaning you write the tests and the outcomes you need from the software before building the software. Writing these tests can uncover the different criteria you need the development team to meet when building the new feature. Once you’ve outlined these tests, you may be able to use them to continue to break down the feature into smaller parts for each test. Here are a few examples:
-* What is the default behavior when there is no data (empty/null state).
-* Are there automatic actions or events that occur as part of your feature? Write them down, and identify those that can be done manually by the user before adding automation.
-* Will users of different roles have unique experiences? Can you prioritize and build one of these experiences first? (for example: guest, user, developer, maintainer)
-* Do users want to be able to customize their view of information? Define all of the customizations you want to offer, and build them one at a time (for example, toggle on/off, filter, sort, search).
-
-### Exception & error cases
-Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/error-messages), and add additional error messages as you identify new error states.
-
-### Customer Impact
-
-When creating net new features research efforts are intended to provide GitLab with the best opportunity to deliver customer value while considering business needs, performance expectations, timelines, and other considerations. When delivering new features that interact with exisiting customer data and workflows, care must be taken to evaluate impact throughout the product development process.
-
-### Breaking down the UI
-Breaking down a design into pieces that can be released iteratively is going to depend on what you are building. Here are a few helpful questions to guide that process:
-* What components already exist that you can reuse to go faster?
-* What constitutes “extra styling”? Is there a way to display the information you need to display plainly and then add details later?
-* Do you have lots of interactions in the design that make the UX lovable? Can you pull those out into separate issues and add them iteratively? (e.g. hover states, drag & drop, toggles, options to show/hide info, collapse/expand, etc)
-
-### Refactors
-Continuously improving the software we write is important. If we don't proactively work through [technical debt](/handbook/engineering/workflow/#technical-debt) and [ux debt](/handbook/engineering/workflow/#ux-debt) as we progress, we will end up spending more time and moving slower in the long run. However, it is important to strike the right balance between technical and ux debt and iteratively developing features. Here are some questions to consider:
-* What is the impact if we do not refactor this code right now?
-* Can we refactor some of it? Is a full re-write necessary?
-* Why do we need to use that new technology? (You may need to ask WHY multiple times to get to the root of the problem)
-
-### Considerations
-Consider the following to improve iteration:
-* Successfully iterating should mean you're delivering value in the most efficient way possible. Sometimes, this can mean fixing an underlying technical issue prior to delivering a customer facing feature.
-* Wherever possible, consider reuse of components that already exist in the product. A great example of this was our approach to creating our Jira importer, which reused the Jira service integration. Reuse also aligns well with our efficiency value.
-* Avoid technical dependencies across teams, if possible. This will increase the coordination cost of shipping and lead to a slow down in iteration. Break down silos if you notice them and consider implementing whatever you need yourself.
-* Consider a quick POC that can be enabled for small portion of our user base, especially on GitLab.com. An example of this was search, where it was originally enabled just for a few groups to start, then slowly rolled out.
-* Great collaboration leads to great iteration. Amazing MVCs are rarely created simply by product managers, they often arise out of collaboration and discussion between product, engineering, design, quality, etc.
-
 ## Editing this page
 
 All substantive merge requests to this page require cross-functional alignment prior to merging. To make updates such as grammatical
