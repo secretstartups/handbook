@@ -145,63 +145,52 @@ The customer may ask for a description of the CI process or other complex proces
 - Use customer terminology wherever possible
 - Include relevant customer use cases whenever possible
 
+## Hands-on Workshops
 
-## Hands On Workshop
-To Create an instance of a workshop navigate to: [Workshop Classes Area](https://gitlab.com/gitlab-com/customer-success/workshops/classes)
+Hands-on GitLab workshops are interactive events which enable GitLab prospects and customers to learn more about GitLab, then apply that knowledge hands-on within a provided GitLab environment. Workshops include topics such as DevOps Automation, Portfolio and Project Management, Security and Advanced CI/CD. Workshops are ideally limited to 200 or fewer attendees in order to provide stable working environments as well as to be able to field Q&A from attendees in a timely manner. Workshops may be executed as marketing events or run independently for specific customers. 
 
-1. Select New project > Create from template > group Then select the workshop you wish to create
-2. Enter a project name that follows the following naming convention:
+Due to resource intensity and time requirements, workshops are typically limited to a minimum of 50 attendees. Workshops average 3 hours in length, requiring a minimum of 3 GitLab employees to execute successfully. These are not "training events" but rather informational events geared toward new users or users interested in expanding their use of GitLab into new functionality such as  CI, PPM or security.  
+
+### Creating a Workshop Instance
+
+To create an instance of a workshop navigate to the [Workshop Classes](https://gitlab.com/gitlab-com/customer-success/workshops/classes) Group in GitLab.
+
+1. Click the 'New Project' button
+2. Select 'Create from template' 
+3. Select 'Group' then select the required workshop template
+4. Enter a project name that follows the following naming convention:
     [Date of workshop]-[Workshop Name]-[Client Name(if applicable)]  
-    I.e.  20210112-CI CD hands On- USN Fleet
-3. Click Create project
+    i.e.  "20210112-Advanced CI CD-GitLab"
+5. Click the 'Create project' button
 
-### How to use the template
-
-  
+### How to Use the Workshop Template
 The template consists of several main parts:
 
-### The Project Repository
- The project Repo contains all the material to present the lab 
+#### The Project Repository
+ The project Repo contains all the materials required to run a workshop. 
 
-### The Readme file
+#### The Readme File
+The Readme file within the project repository describes the workshop requirements and delivery information.
 
-Describes the basic information about the workshop in general
+#### Tracking Issues
+There are 7 issues created to help set up, track and deliver the workshop
 
-### Tracking Issues
+Task 1 is the core issue. It is recommended that to use this to consolidate and coordinate with the team. Point team members to this issue to get the information on the particular instance of the workshop. Set timelines and set the dates for all the issues as it relates to the targeted delivery date.
 
-There are 7 issues created to help you set up, track progress and execute the workshop
+#### Tracking Milestone
+Milestones are used to see progress on workshop set up. They can also be used as part of the group roll up to see across multiple workshop executions.
 
-  
-- Task 1 is the core issue. It is recommended that you use this to
+#### Tracking Boards
+The following boards have been created to help manage the workshop. Feel free to create new boards as needed:
 
-consolidate and coordinate with the team. You can point team members to this issue to get the information on this particular instance of the workshop
+ - Tracking - This board uses the flow of scoped labels - Waiting to Start, In Progress, Under Review
+ - Assistance Needed: This board follows blocking issues affecting workshop setup and delivery
 
-You will need to set your timeline and set the dates for all the issues
+#### Labels
+The following labels are available at the project level - feel free to add new labels as needed, but please do not remove these labels:
 
-### Tracking Milestone
-
-Milestones are used to see progress on workshop set up and are used as part of group role up to see across multiple workshop executions.
-
-### Tracking Boards
-
-The following boards have been created to help you. Feel free to create new boards as needed.
-
- - Tracking - uses the flow of scoped labels - Waiting to Start, In
-
-Progress, Under Review.
-
-- Assistance Needed
-
-### Labels
-
-The following labels are available at the project level - feel free to add more as needed (please do not remove these labels)
-
-- Assistance Needed: a label to flag that help is needed from the team and management to resolve an issue
-
-- Content Creation - to indicate content is being created or updated
-
-- Waiting to Start
-
+- Assistance Needed: a label to flag when help is needed from the team and/or management to resolve an issue
+- Content Creation - a label to indicate content is being created or updated
+- Waiting to Start - a label indicating no work completion to date
 - In Progress
-
 - Under Review
