@@ -642,7 +642,7 @@ In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTA
 
 #### PF Panel Fields
 
-![](/images/handbook/marketing/marketing-operations/pathfactory/pf_sfdcpanel.png)
+![](/images/handbook/marketing/marketing-operations/pf_sfdcpanel.png)
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |
