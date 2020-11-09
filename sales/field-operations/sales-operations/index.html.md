@@ -317,7 +317,7 @@ The full company tech stack list with definitions can be found on the [Business 
 </summary>
 
 **What:**
-Salesforce case management system to enable the transfer of certain cases (created from chatter requests) from the Deal Desk group to the Sales Ops group to take action and respond to the original chatter request.
+Salesforce case management system to enable the transfer of certain cases (created from Chatter requests) from the Deal Desk group to the Sales Ops group to take action and respond to the original chatter request.
    - As of 2020-09-21, this will include all cases pertaining to account ownership/ROE and account segmentation, except for any cases that touch closed opportunities. 
 
 **Where:**
@@ -325,7 +325,7 @@ Salesforce case management system to enable the transfer of certain cases (creat
 - [Sales Ops Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004tewG)
 
 **How:**
-1. All Sales Support chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
+1. All Sales Support Chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
 1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
 1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
 
@@ -335,7 +335,7 @@ Salesforce case management system to enable the transfer of certain cases (creat
 1. Changing the “Status” field to “In Progress” shows that someone is currently working on the case. 
 1. By changing Status to “In Progress,” ownership will automatically change to the individual who changes status. 
 1. By changing Status to “Closed,” the case will no longer appear in the queue.
-   - Note: Check the “Suppress auto case reply” button in the same motion, before saving, to prevent automated chatter posts. If you do not check this box, and you change the status to “In Progress,” upon saving the case, Salesforce will create a chatter reply from your account, tagging the original requester, noting that you are working on the case. Similarly, when you close the case, Salesforce will chatter the requester to note that the work is complete.
+   - Note: Check the “Suppress auto case reply” button in the same motion, before saving, to prevent automated Chatter posts. If you do not check this box, and you change the status to “In Progress,” upon saving the case, Salesforce will create a Chatter reply from your account, tagging the original requester, noting that you are working on the case. Similarly, when you close the case, Salesforce will Chatter the requester to note that the work is complete.
 Click the “Related Chatter Object” link to view the original request. 
 
 **General Notes:**
@@ -350,13 +350,13 @@ Click the “Related Chatter Object” link to view the original request.
 1.  Request to own an Account currently owned by the Sales Admin user:
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
    - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
-   - If territory or segment needs to be udpated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
    - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
    - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
-   - If territory or segment needs to be udpated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
-1.  Request to reassign an account owned by the Imparnter Integration user:
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to reassign an account owned by the Impartner Integration user:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
