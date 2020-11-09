@@ -147,3 +147,61 @@ The customer may ask for a description of the CI process or other complex proces
 
 
 ## Hands On Workshop
+To Create an instance of a workshop navigate to: [Workshop Classes Area](https://gitlab.com/gitlab-com/customer-success/workshops/classes)
+
+1. Select New project > Create from template > group Then select the workshop you wish to create
+2. Enter a project name that follows the following naming convention:
+    [Date of workshop]-[Workshop Name]-[Client Name(if applicable)]  
+    I.e.  20210112-CI CD hands On- USN Fleet
+3. Click Create project
+
+### How to use the template
+
+  
+The template consists of several main parts:
+
+### The Project Repository
+ The project Repo contains all the material to present the lab 
+
+### The Readme file
+
+Describes the basic information about the workshop in general
+
+### Tracking Issues
+
+There are 7 issues created to help you set up, track progress and execute the workshop
+
+  
+- Task 1 is the core issue. It is recommended that you use this to
+
+consolidate and coordinate with the team. You can point team members to this issue to get the information on this particular instance of the workshop
+
+You will need to set your timeline and set the dates for all the issues
+
+### Tracking Milestone
+
+Milestones are used to see progress on workshop set up and are used as part of group role up to see across multiple workshop executions.
+
+### Tracking Boards
+
+The following boards have been created to help you. Feel free to create new boards as needed.
+
+ - Tracking - uses the flow of scoped labels - Waiting to Start, In
+
+Progress, Under Review.
+
+- Assistance Needed
+
+### Labels
+
+The following labels are available at the project level - feel free to add more as needed (please do not remove these labels)
+
+- Assistance Needed: a label to flag that help is needed from the team and management to resolve an issue
+
+- Content Creation - to indicate content is being created or updated
+
+- Waiting to Start
+
+- In Progress
+
+- Under Review
