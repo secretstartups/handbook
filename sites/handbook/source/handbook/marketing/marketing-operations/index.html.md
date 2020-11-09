@@ -130,7 +130,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Survey Monkey
 - Tweetdeck
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
-- Vimeo
+- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 
 ### Requesting access to an existing tool
 
