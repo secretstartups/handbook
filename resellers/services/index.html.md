@@ -95,6 +95,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 Becoming an authorized GitLab partner is the first step to becoming a Certified Service Partner and allows you to engage with the GitLab sales team and resell or refer GitLab products to your customers. Partners can achieve the GitLab Service Partner Program badges in addition to their program status to differentiate through their service offerings and unlock both financial and non-financial incentives as they achieve Certified Service Partner Badges.
 
 Whether you are a new partner just getting started with a service portfolio or you already have a thriving service business that you are looking to grow through offering services around GitLab, our Certified Service Partner Program will offer you opportunities to build a successful business with GitLab.
+
 ## GitLab Certified Service Partner Requirements
 
 The GitLab Certified Service Partner framework is designed to give partners multiple paths to success by focusing on the service priorities that are aligned to their individual business model. 
@@ -116,7 +117,7 @@ At GitLab, Certified Service Partner Certifications are meant to recognize servi
 <div align = "center"><img src="/images/channel-service-program/service-program-requirements-and-progression.png" width="" alt="alt_text" title="image_tooltip"></div>
 
 <br>
-<h2>Becoming a Certified Service Partner</h2>
+## Becoming a Certified Service Partner
 
 All GitLab Certified Service Partner tracks have program compliance and training requirements that must be completed before you can obtain the associated certification.
 
@@ -175,8 +176,15 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
       </td>
       <td>
       <br>
-      <br>
-      <br>GitLab Partner leveraging GitLab software to deliver customer value through Professional Service offerings. 
+      <br>Any are all of the following services can be provided by an PSP: 
+
+<br>*   Assessment
+<br>*   Migration
+<br>*   Integration
+<br>*   Implementation
+<br>*   Optimization
+<br>*   Security / compliance
+
 
       </td>
    </tr>
@@ -222,7 +230,13 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
       <td>
       <br>
       <br>
-      <br>GitLab Partners leveraging GitLab software to deliver customer value through Professional Service offerings and/or Managed Services. 
+      <br>Any are all of the following services can be provided by an MSP: 
+
+<br>*   Managed / Hosted services
+<br>*   Security / Compliance
+
+
+ 
 
    </td>
   </tr>
@@ -285,7 +299,10 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
       <td>
       <br>
       <br>
-      <br>GitLab Partners leveraging GitLab licensed courseware to deliver customer value through Learning and Development Service offerings. 
+      <br>Any are all of the following services can be provided by an CTP:
+
+<br>*   Education
+
 
       </td>
    </tr>
@@ -293,7 +310,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
 
 
 <br>
-<h2>GitLab Certified Service Partner Program Benefits</h2>
+## GitLab Certified Service Partner Program Benefits
 
 There is significant business opportunity for partners to offer and deliver GitLab enabled services, and in order to ensure there is consistent customer experience throughout the market we offer Service Partners certifications.
 
