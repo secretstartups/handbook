@@ -183,7 +183,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 <br>*   Integration
 <br>*   Implementation
 <br>*   Optimization
-<br>*   Security / compliance
+<br>*   Security / Compliance
 
 
       </td>
