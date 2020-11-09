@@ -11,12 +11,14 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the Manager Challenge page. We rolled out the first iteration of the 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." The Learning and Development Team is iterating on the program to thread it more components of our [Leadership Handbook page](/handbook/leadership/). L&D will be rolling out another iteration during the month of January 2021. If you are interested in participating, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). 
+Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books) 
 
-All details relating to the program can be found on this page. The first iteration of the program was piloted to a subset of team members at GitLab. 
+L&D will be rolling out another iteration during the month of January 2021. The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch recordings of the live learning courses.  
+
+All details relating to the program can be found on this page. 
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST_3shd7g0Y6E46JaCdtpXKHfj6D8TAjF-fgZ4IiZ_1NETN2f8ROjBE6NtOpCSs0YXwWgYq-oHryO9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwJfDTpSrjif5SxoE7Wsge3D501ENSyHucL4xmORypSSlsdCPIReeV3tKaiCinv_G7yHIKQh5ljA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ### Manager Challenge Learning Objectives
@@ -24,47 +26,29 @@ All details relating to the program can be found on this page. The first iterati
 You may be asking yourself what you will achieve by taking part in the Manager Challenge program. Our goal is that participants walk away with the following skills after completing the four-week challenge: 
 - Improve your performance by strengthening your management skills
 - Develop a management style that incorporates a whole-person approach to leading others
-- Handle difficult management situations with greater certainty in your decisions
-- Use emotional intelligence to improve leadership and build more effective relationships
+- Apply and learn GitLab Leadership best practices into your management role
+- Demonstrate the application of High Output Management principles 
+- Evaluate difficult management situations with greater certainty in your decisions
+- Practice emotional intelligence to improve leadership and build more effective relationships with your people
 - Build an inclusive environment for your people that is built on trust
-- Grow and strengthen skills in leading remote teams at GitLab
 
 ### Overview
 
 **What** 
 
-The Four Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+The Three Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
 
 **Why** 
 
-The program is intended to build a set of baseline skills that complement our values to enable Managers to lead teams at GitLab. To date, there has not been a formal GitLab Manager training program and this will serve as our first iteration. 
+The program is intended to build a set of baseline skills that complement our values to enable Managers to lead teams at GitLab. 
 
 **How will it help**
 
-Learn the basic principles of what it means to be a manager using a whole person approach to leadership. The program was built to incorporate themes identified during interviews with team members and managers at GitLab. 
+Learn the basic principles of what it means to be a manager using a whole person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management techniques. 
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly self-evaluations and comment in the Slack channel during discussions. As a participant in the pilot program, your feedback is critical for our success so please make time to complete the weekly evaluations. 
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-## Pilot Program 
-
-- 12 Daily Challenges (20 minutes)
-- 4 Live Learning Sessions (1 hour)
-- 4 Weekly Self Evaluations and Reflections (10 minutes)
-- Certification Upon Completion
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly learning evaluations, comment in the challenge issues, and the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
 
 ### Week 1
 
@@ -121,27 +105,27 @@ During week four we will discuss **Developing High Performing Teams**. Informati
 ## FAQs
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over the course of 4 weeks. It it a blended learning approach that combines self-paced and live learning sessions. It is intended to build a set of foundational/enhance leadership and management practices. 
-1. **Is this a Pilot launch?**
-     - Yes. In September we are running a pilot and will be rolling out the program to the wider GitLab team very soon.
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over the course of 3 weeks. It it a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
+1. **When is the next session?**
+     - The next session will be launched on 2020-01-11 for any people leader interested in attending.
 1. **Do I have to participate?**
-     - Participation is not required, but we strongly recommend that all managers invited to the pilot complete the daily challenges and actively participate. 
+     - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. 
 1. **Have we done this program in the past?**
-    - This is the first time we have implemented a formal management/leadership program at GitLab. Our Managers serve a critical role in the organization and this pilot program will be the foundation for future programs.
+    - We launched the pilot in September. 
 1. **What is required of me?**
-     - Monday to Wednesday there will be a series of daily challenges that a manager can complete asynchronously on their own time that will cover a range of topics. On Thursday's we will come together as a group in a live learning session to apply the challenges to real scenarios managers face in a remote environment. 
+     - Monday to Wednesday there will be a series of daily challenges that a manager can complete asynchronously on their own time that will cover a range of topics. On Thursday's we will come together as a group in a live learning session to apply the challenges to real scenarios managers face in a remote environment; as well as network as a cohort! 
 1. **I have a lot of management experience, will this help?**
-     - No matter your level or tenure as a manager, we can all take time out of our busy days to grow our management and leadership skills. The more practice the better and we hope that you will find the challenges applicable to your job.
+     - No matter your level or tenure as a manager, we can all take time out of our busy days to grow our management and leadership skills. The more practice the better and we hope that you will find the program applicable to your job.
 1. **What skills will I be building?**
-     - You will be building a range of skills that include: coaching, managing underperformance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team and much more!  
+     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team and much more!  
 1. **How does this complement our values?**
-     - All of the challenges will reinforce our values by applying management techniques to lead others in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
+     - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
-     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. Each SSOT page for material covered will be linked on this page. The live learning recordings will be on the respective SSOT page (ex. the recording for the Week 3 Trust & Coaching session will be on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/)). 
+     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. Each SSOT page for material covered will be linked on this page. The live learning recordings will be on the respective SSOT page (ex. the recording for the Week 3 Coaching live learning will be on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/)). 
 1. **What if I am out of office for part of the program?**
-     - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of office. 
+     - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of office during the program. 
 1. **I'm not a Manager, can I still participate?**
      - Yes, you can still participate but we ask that you complete the activities asynchronously for your own professional development. Once you are ready to become a manager, you will be equipped with a set of baseline management skills that will serve as a great foundation for future growth. 
 1. **How will participation be tracked?**
@@ -203,3 +187,26 @@ For the pilot Manager Challenge program, the Learning & Development team held a 
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_ohUbaRFFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </figure>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+## Pilot Program 
+
+During the month of September 2020, the L&D team piloted the Manager Challenge to a group of People Leaders in People Success, Engineering, and Product. Learn more about the pilot content by [reviewing the pilot epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). 
+
+Pilot Program: 
+- 12 Daily Challenges (20 minutes)
+- 4 Live Learning Sessions (1 hour)
+- 4 Weekly Self Evaluations and Reflections (10 minutes)
+- Certification Upon Completion
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
