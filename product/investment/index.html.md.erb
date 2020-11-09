@@ -5,7 +5,7 @@ title: Product Investment
 
 This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/product-categories/#hierarchy).
 
-## Investment by Stage
+## Investment by DevOps and Enabling Stages
 
 ### DevOps Stage Scoring Framework
 
@@ -85,7 +85,7 @@ The following table provides scores for each of our DevOps stages and a comparis
   <% end %>
 <% end %>
 
-## Investment by Group
+### Investment by Group
 
 *Note: Enablement and Growth stages and groups aren't included, as they don't have specific target markets, and don't have a dedicated SAM.  Therefore, they can't be compared directly with feature-function stages and aren't included in this analysis.*
 
@@ -132,6 +132,25 @@ The following table provides scores for each of our DevOps stages and a comparis
   <% end %>
 <% end %>
 
+## All Investment
+For non-DevOps and Enabling stages we still track our overall investment, but don't attribute score or score/spend differences.
+
+| Section: Stage: Group | Group Devs | Group Dev % |
+|-|-|-|
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
+      <% percent_of_developers = (group_developers.to_f / totalDevelopers.to_f)*100 %>
+      <% difference = percent_of_developers - percent_of_total %>
+      <% groupLine=[] %>
+      <% groupLine << "[#{section.name}: #{stage.display_name}: #{group.name}](/handbook/#{group.group_link})" if group&.group_link %>
+      <% groupLine << "#{group_developers}" %>
+      <% groupLine << "#{percent_of_developers.round(1)}%" %>
+      <%= "| #{groupLine.join(' | ')} |" if groupLine %>
+    <% end %>
+  <% end %>
+<% end %>
 
 ## Changes
 
