@@ -915,3 +915,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-09-28 | 2020-10-05 | [Madeline Hennessy](https://gitlab.com/mhennessy) | Area Sales Manager, SMB - US East | [Takeaways & Suggestion](https://www.youtube.com/watch?v=khqnlj6iB9I&feature=youtu.be) |
 | 2020-10-05 | 2020-10-23 | [Michael LeBeau](https://gitlab.com/mlebeau) | Strategic Content Lead |  |
 | 2020-10-19 | 2020-10-30 | [Edmond Chan](https://gitlab.com/edmondchan) | Sr. Solutions Architect |  |
+| 2020-10-26 | 2020-11-06 | [David Fisher](https://gitlab.com/dfishis1) | Acceleration SDR |  |
