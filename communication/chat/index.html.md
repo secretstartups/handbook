@@ -1,10 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Communication Chat"
-extra_js:
-  - libs/moment.min.js
-  - libs/moment-timezone-with-data.min.js
-  - team-call.js
 ---
 
 ## On this page
