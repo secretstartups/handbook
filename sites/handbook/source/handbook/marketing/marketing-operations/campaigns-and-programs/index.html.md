@@ -13,6 +13,24 @@ description: ""
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
+### Campaign Cost Tracking
+
+Campaign Managers track costs associated with campaigns - such as events, content, webcasts, etc. Campaign tags can be applied to Expensify reports, corporate credit card charges, and vendor bills processed by Accounts Payable. Campaign expenses that are incurred by independent contractors should be clearly noted with the appropriate tag and included in their invoices to the company. We then use these accumulated campaign tag costs for budget to actual analysis as well as to update the Salesforce campaigns with actual costs.
+
+**The following steps are used to create and manage campaign tags:**
+
+1. Event Owners create the campaign tag in the budget document, link to a procurement issue if it exists, and also the main tactic issue. 
+1. Finance is notified by either the Procurement issue or the main tactic issue (if the tactic costs less than $5,000 and has no contract that needs to be signed) that a campaign tag needs to be created.  NetSuite, which then updates Expensify nightly.
+1. The Salesforce campaign is set up to match the campaign tag exactly, so that it can be used as a unique identifier and tracked across multiple systems. We only need to set up campaign tags for events/campaigns or if there are multiple vendors for the same budget line item that we are trying to track.
+1. If you are a Field Marketer, more information on campaign tags for Field Marketing can be [found here](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags). 
+1. For the MCM team, additional details can be found in the campaign epic. 
+
+**Things to Note:**
+
+- All costs, including travel expenses for those working the event, must be tagged in order to capture the true cost of campaigns. Although travel expenses related to putting on the event hit a different GL code, they should be budgeted within the event line.
+- Tagging expenses that are processed by Accounts Payable require Marketing to provide explicit instruction on when to apply tags, which should happen during the normal course of reviewing and approving vendor invoices.
+- For event or campaign expenses that do not have a tag, include a note to Accounts Payable clearly stating that campaign tags are not applicable to the expense. In some cases, a general tag like Swag_Corporate may be more a more appropriate tag to track against budget.
+
 ### Campaign Type & Progression Status
 
 A record can only progress **one-way** through a set of event statuses. A record _cannot_ move backward though the statuses.
