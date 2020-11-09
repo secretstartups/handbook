@@ -142,7 +142,6 @@ For non-DevOps and Enabling stages we still track our overall investment, but do
     <% stage.groups.each do |groupKey, group| %>
       <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
       <% percent_of_developers = (group_developers.to_f / totalDevelopers.to_f)*100 %>
-      <% difference = percent_of_developers - percent_of_total %>
       <% groupLine=[] %>
       <% groupLine << "[#{section.name}: #{stage.display_name}: #{group.name}](/handbook/#{group.group_link})" if group&.group_link %>
       <% groupLine << "#{group_developers}" %>
