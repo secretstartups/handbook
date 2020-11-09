@@ -139,7 +139,7 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 
 *  AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
 *  EMEA & APAC: commission payout dates are specific to the country of residency. 
-* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](captivateiq.com).
+* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](https://www.captivateiq.com/).
 
 Any further questions related to SMB Compensation can be directed to the slack channel #total-rewards or your direct manager.
 
