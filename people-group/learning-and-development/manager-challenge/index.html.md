@@ -68,7 +68,7 @@ Set aside time each day to participate in the challenge (20 minutes) and live le
 
 ### Week 1
 
-During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/underperformance/). 
+During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/leadership/underperformance/). 
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | Competency Alignment |
 |---------|-----------------|------------------|---------|----------|----------------------|
