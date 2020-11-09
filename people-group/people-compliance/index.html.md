@@ -67,19 +67,19 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 
 This PI encompasses the 100% accuracy of personal information held in BambooHR for all team members under a GitLab entity or PEO. This PI also has as a goal to have documented and communicated policies for personal information data retention within BambooHR, their 100% implementation and 100% compliance.
 
-* [People Compliance and BambooHR](/handbook/people-group/people-compliance-and-bamboohr/)
+* [People Compliance and BambooHR](/handbook/people-group/people-compliance/people-compliance-and-bamboohr/)
 
 #### [Google Drive documentation](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
 
 This PI encompasses the 100% accuracy and compliance of all People-related data and documents held in Google Drive.
 
-* [People Compliance and Google Drive](/handbook/people-group/people-compliance-and-google-drive/)
+* [People Compliance and Google Drive](/handbook/people-group/people-compliance/people-compliance-and-google-drive/)
 
 #### [Implementation of audits across Team Member Experience tasks](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
 
 This PI encompasses the 100% implementation of quarterly audits for onboarding, offboarding and career mobility issues.
 
-* [People Compliance Audits](/handbook/people-group/people-compliance-audits/)
+* [People Compliance Audits](/handbook/people-group/people-compliance/people-compliance-audits/)
 
 <details markdown="1">
 

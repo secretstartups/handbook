@@ -18,7 +18,7 @@ The People Compliance team is the point of contact for Legal, Security Complianc
 
 ### Onboarding Issues 
 
-- Completion and closure of all onboarding issues within 60 days of start date
+- Completion and closure of all onboarding issues within 30 days of start date
 
 ### Onboarding Requirements by Jurisdiction
 
