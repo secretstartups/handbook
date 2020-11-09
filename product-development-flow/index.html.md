@@ -38,8 +38,8 @@ Because this page needs to be concise and consistent, please ensure to follow th
 | `workflow::planning breakdown`  | [Build](#build-track) | Product, Product Design, Engineering | Issue has backend and/or frontend labels and estimated weight attached | Engineering |
 | `workflow::scheduling`  | [Build](#build-track) | Engineering | Issue has a numerical milestone label | Product/Engineering |
 | `workflow::ready for development` | [Build](#build-track) | Engineering | An engineer has started to work on the issue | Engineering |
-| `workflow::In dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
-| `workflow::In review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
+| `workflow::in dev` | [Build](#build-track) | Engineering | Initial engineering work is complete and review process has started | Engineering |
+| `workflow::in review` | [Build](#build-track) | Engineering | MR(s) are merged | Engineering |
 | `workflow::verification` | [Build](#build-track) | Engineering | Work is demonstrable on production | Engineering |
 | `workflow::blocked` | N/A | Product/Engineering | Work is no longer blocked | Engineering |
 
@@ -104,6 +104,8 @@ Sometimes it can be tricky to identify a good issue for problem validation. The 
 - The envisioned feature is large or introduces a major change to the user experience (for example, reorganizing the sidebar navigation)
 - Understanding if a Job to be Done [(JTBD)](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) is the purpose for which customers buy or use the product 
 - Targeting a new user or buyer persona
+
+When validating potential features, it's important to gather feedback from [internal customers](handbook/product/product-processes/#internal-customer-dris), in addition to the broader community. Capturing internal customer feedback early allows their requirements to be considered from the beginning,  accelerating key [Dogfooding](handbook/product/product-processes/#dogfood-everything) outcomes. Driving internal usage of features has repeatedly [shown](https://about.gitlab.com/blog/2020/04/16/geo-is-available-on-staging-for-gitlab-com/) to accelerate broader adoption, deliver [better results for customers](handbook/values/#customer-results), and is required for [viable maturity](https://about.gitlab.com/direction/maturity/). PMs are strongly encouraged to open [Dogfooding issues](handbook/product/product-processes/#dogfooding-process) during the validation phase to capture the feedback of internal customers to help inform initial and/or future iterations of a feature.
 
 Some items will skip the problem validation phase. In these cases, the problem is well understood and has been validated in other ways. When skipping problem validation, ensure the issue description is clear with the rationale and sensing mechanisms used to skip the problem validation phase.
 
@@ -292,7 +294,7 @@ For user-facing deliverables, Product Designers work with Engineering to validat
 
 ### Build phase 2: Develop & Test
 
-Labels: `workflow::ready for development`, `workflow::In dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::In review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
+Labels: `workflow::ready for development`, `workflow::in dev` (along with `workflow::ready for review` as queue state while waiting for maintainer), `workflow::in review`, `workflow::blocked`, `workflow::verification` (sub-states for verification are `workflow::canary` and `workflow::staging`)
 
 The develop and test phase is where we build the features and test them before launch:
 
