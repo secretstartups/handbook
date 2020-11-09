@@ -110,7 +110,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 ## GitLab Certified Service Partner Requirements and Progression
 
-At GitLab, Certified Service Partner Certifications are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Badge allows you to enhance your service capabilities and unlock key partner benefits in our Program. 
+At GitLab, Certified Service Partner Certifications are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Certification allows you to enhance your service capabilities and unlock key partner benefits in our Program. 
 
 
 
