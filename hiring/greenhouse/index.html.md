@@ -492,7 +492,8 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
     * Doing this will **remove** the *Prospect* from the **Prospect Pool**.
 * To claim credit for a CRM-sourced *Candidate*, the Team Member will need to **manually** update the *Candidate's* source and add their name in the `Who Gets Credit` field.
     * `Details` > `Source & Responsibility` > Source (`Pencil` icon) > `Who Gets Credit` > `Update Source`
-* If there are duplicate *Prospect* profiles, they can be merged by an `Admin`.
+* If there are duplicate *Prospect* profiles, they can be merged by an `Admin`. Please tag @Recruiting Operations and Insights within the Greenhouse candidate profile.  
+
     * `Name` and `Email` are the two fields Greenhouse looks at when suggesting a potential duplicate profile.  
 
 ### Greenhouse Forms
