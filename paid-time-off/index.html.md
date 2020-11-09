@@ -145,6 +145,8 @@ Team members may request an unpaid leave of absence by working with their manage
 Other OOO options include;
 - Mandatory Civilian Services
 - Family and Friends Day
+- Conference 
+- Customer Visit 
 
 These other types of OOO categories, are to be used on Family and Friends day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
