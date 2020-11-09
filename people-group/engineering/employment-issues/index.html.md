@@ -1,7 +1,13 @@
 ---
 layout: handbook-page-toc
 title: Employment Issues
+description: "Information on the commands used to create our onboarding, offboarding, and career mobility issues."
 ---
+
+## On this page
+
+{:.no_toc}
+
 - TOC
 {:toc}
 

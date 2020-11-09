@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
 title: Assessment Tool
+description:"Information on how GitLab's People Engineering team created and how we use our 9-box Assessment Tool."
 ---
+
 ## On this page
 {:.no_toc}
 

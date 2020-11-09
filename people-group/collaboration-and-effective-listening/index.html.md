@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Collaboration & Effective Listening"
+
 ---
 
 ## On this page
