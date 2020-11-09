@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Team Member Time Off
+description: Guidelines for how time off applies to Support team members and what actions needs to be taken.
 ---
 
 ## Support Team Member Time Off
