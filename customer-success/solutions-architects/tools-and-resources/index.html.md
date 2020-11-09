@@ -73,6 +73,7 @@ Other best practices for POV’s:
 - Ask WHY a POV is required vs Q&A or other considerations, since prospects are often using existing GitLab installations
 - Feature/function POV’s should be run in basic environments, not HA, unless the HA environment is already established and proven
 - Required capabilities should be a limited number, 5 or less ideally - these should be purchase triggers and differentiators
+- Please work together(SA & SAL) to map required capabilities to decision criteria in the COM plan
 - A POV does not implement a fully designed and configured ecosystem in a customer environment, it is a product evaluation
 - Customer skills should be able to support the drive toward the success criteria - the SA should not be doing the actual work
 
@@ -125,7 +126,18 @@ Best practices specific to each type of POV follows.
 
 ### Guided POV
 
-The Guided POV is the most commonly utilized type of POV for Enterprise accounts. These will commonly have a 30 to 60 day duration. These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. It is common to have kickoff meetings, technical support calls, weekly retrospective calls and POV conclusion calls when running a Guided POV. These meetings may be represented by the following suggestions:
+The Guided POV is the most commonly utilized type of POV for Enterprise accounts. These will commonly have a 30 to 60 day duration.
+
+#### Guided POV Template Document
+
+For a  guided POV, the SA must utilize parts or entire  [Guided POV document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit#heading=h.30j0zll)  which validates POV dates, success criteria and assumptions of both GitLab and the prospect. The 4 fields below are mandatory for strategic POVs:
+
+- Desired future
+- Desired business outcomes
+- Required Capabilities (Success Criterias) aligned to decision criteria & value drivers in SFDC
+- Metrics
+
+These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. It is common to have kickoff meetings, technical support calls, weekly retrospective calls and POV conclusion calls when running a Guided POV. These meetings may be represented by the following suggestions:
 
 #### Internal Kickoff Meeting, led by the Solutions Architect
 
@@ -222,6 +234,46 @@ Finally, ensure both GitLab and the prospect have a copy of the document. Schedu
 Commercial Sales POV's are commonly executed as a variety of the Lite POV, though they may not utilize the [Lite POV document](https://docs.google.com/document/d/1PO3jXG3wiKsCbx5vb8dm4SmOe_PiTB47SadROIO8nCc/edit#). Typical customer interactions for Commercial POV's are identified below.
 
 ### Kick Off Meeting
+
+- Duration: 30 Minutes
+- Attendees: GitLab Account Executive, GitLab Solutions Architect, Prospective Customer
+- Agenda:
+    - Define success criteria (as a best practice, have no more than 5 required capabilities)
+    - Confirm start and end date
+    - Determine primary communication method
+        - Customer to decide if they are interested in communicating on a collaborative GitLab project or email only
+        - Collaborative, time-limited Slack channels are an option depending on SA capacity and opportunity IACV
+        - Frequency options: 30 minute weekly call or email touchbase weekly with calls scheduled as needed
+- SA role:
+    - Acts as the primary point of contact throughout POV process
+    - Tracks status updates regarding success criteria
+    - Records any existing or new feature requests of interest to customer
+    - Leads troubleshooting and escalation of blockers
+
+### Commercial Sales - POV and Customer Success Plan Creation
+
+- Create and track the POV in Salesforce according to [this process](/handbook/sales/POV/#tracking-a-pov-in-salesforce)
+- Create a new [customer project](https://gitlab.com/gitlab-com/account-management/commercial/pre-sales) in the Commercial/Pre-sales group. To use the template, select the 'Create from Template' tab, select the 'Group' templates, and then click 'Use template' for the 'New Customer Project - Commercial Sales' template.
+- Edit README.md with information specific to POV under the Proof of Value section and fill in any additional relevant fields.
+- Upon completion of POV, update Salesforce record with POV result as successful or unsuccessful and provide supportive reasons in the associated freeform fields
+    - For a successful POV:
+        - SA adds any other known information in README.md, then moves the project from the Pre-sales group to [Commercial](https://gitlab.com/gitlab-com/account-management/commercial)
+        - TAM and AE determine TAM eligibility and engagement based on Account Tier and IACV.
+        - TAM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
+
+## POV Template Document
+
+As an alternative (or in addition) to using a collaborative GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.
+
+This document suggests and verifies specific success criteria for any POV, as well as outlining a mutual commitment between GitLab and the identified prospect parties. It also specifies the limited timeframe in which the POV will occur.
+
+### Using the POV Template Document
+
+To use the full POV template, begin by making a copy of the [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) for each POV.
+
+Edit each area highlighted in yellow within the document to include pertinent information for any particular prospect. This information includes basic data like the prospect name and GitLab team-member details, as well as data to be collaboratively identified with the prospect, such as primary objective, required capabilities and the environment information. Delete any red-colored instructional text.
+
+Finally, ensure both GitLab and the prospect have a copy of the document. Schedule weekly meetings for the duration of the POV via calendar invites prior to distributing the GitLab Enterprise Edition license for the POV.
 
 - Duration: 30 Minutes
 - Attendees: GitLab Account Executive, GitLab Solutions Architect, Prospective Customer
