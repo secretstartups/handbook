@@ -134,7 +134,7 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Select the content type from the dropdown.
 1. Leave the engagement score at a default of 20 seconds with a score of 1.
 1. Copy and paste the public title into the internal title field.
-1. Funnel stage and estimated cost is set automatically based on the content type you chose earlier. Please leave these auto-generated tags as is and do not force change. If you require a change to how content type is tied to funnel stage and estimated cost, please open an issue and assign `@sdaily`.
+1. Funnel stage and estimated cost is set automatically based on the content type you chose earlier. Please leave these auto-generated tags as is and do not force change. 
 1. Set the language of the asset.
 1. Select the Business Unit of the asset based on use and sales region.
 1. Set the expiry date of the asset if one exists.
@@ -238,8 +238,8 @@ Before creating a new content track, decide what type of content track (target v
 1. Click the "Create track" button in the top right.
 1. Name your content track. Be descriptive about the topic or campaign that your track will be used for. If you're unsure, review the names of other content tracks to get an idea. The content track name is for internal use only and will not be shown to visitors. Each content track has to have a unique name. You cannot use duplicate names for content tracks.
 1. Choose to clone an existing content track, which will copy all assets from that content track into yours, or simply start from scratch.
-1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team. If none of the folders accurately represent your content track, ping `@sdaily` to create a new folder in the structure.
-1. Tag your content track with labels that will tell everyone accessing the content track which channels it will be used on (internal use only). If you will be launching on a channel that doesn't exist from the picklist, ping `@sdaily` to add a track label for your channel.
+1. Choose the folder where your content track will live. Follow the current folder hierarchy for organization which is currently set up by team. 
+1. Tag your content track with labels that will tell everyone accessing the content track which channels it will be used on (internal use only).
 1. Click "Create Track".
 1. On the left panel, change the custom URL slug to be descriptive of the track with no stop words (and, the, etc.) - ex. `ci-aware`
 1. Add assets to your track by clicking the "Add content" button at the top right. A window will pop up with the content library. Use the sorting options at the top to quickly add content by topic, type, funnel stage, etc. PathFactory content tracks are meant to encourage content binging (visitors reading more than 1 asset to accelerate them in the pipeline by helping them self educate faster in one visit). So as best practice, have more than 1 asset in a track.
@@ -250,7 +250,7 @@ Before creating a new content track, decide what type of content track (target v
 
 1. Set the `custom URL slug` for the content track. [Follow the instructions](#how-to-upload-content) for creating a custom URL slug for an asset. **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience. If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
-1. Set the appearance for the track. If you require a new appearance, create an issue in the Marketing Operations project and assign `@sdaily`.
+1. Set the appearance for the track. 
 1. Set the language for the track.
 1. Leave `Links & Sharing` set to default.
 1. Leave `External ID` set to default.
@@ -294,16 +294,16 @@ This is where you will choose how your content track displays to the visitor. No
 1. Enter a name for the CTA (internal purposes only). Be specific so others know what the main goal of the CTA is.
 1. Enter a button label for your CTA. This is what the user will see. Copy for CTAs should typically be 2-3 words max (18 characters) and include action words such as `Watch a demo`.
 1. Choose your CTA type (form, link, email). 
-  - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA. If you are unsure whether your form is set up properly, ping `@sdaily`.
+  - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA.
   - If choosing **link** as your CTA type, **it must include** UTM paramters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
   - For **email**, simply input the email address you want users to contact from clicking the CTA.
 1. Click `Save`.
 
 ##### Form strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. For help with PathFactory forms and workflows, please create an issue in the Marketing Operations project and assign `@sdaily`.
+Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. 
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. [Please create an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues) in the Marketing Operations repo and assign `@sdaily` to set up a listening campaign for an asset.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated. 
 
 ##### Adding form strategy to a content track
 
@@ -334,7 +334,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
 1. Watch for extra `&` when appending UTMs.
-1. Ping `@sdaily` to test and ensure the experience is working as intended.
+1. Test and ensure the experience is working as intended.
 
 **When a track is LIVE (in use):**
 
@@ -347,11 +347,11 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 #### Adjustments to live content tracks
 
 - You can add assets and adjust the position of assets to a `[LIVE]` content track.
-- Before you remove an asset from a content track, please create an issue in the Marketo Operations repo and assign `@sdaily`. Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track.
+- Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track. Please ensure that the link to the asset is not being used in any other marketing channels before deleting.
 
 ## PathFactory forms
 
-The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. To request a new form, please open an issue using the `pathfactory_request.md` issue template in the marketing operations project and assign it to `@sdaily`.
+The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
 
 ## PathFactory links
 
@@ -386,7 +386,7 @@ The forms used in PathFactory are hardcoded Marketo form script. They are added 
     - Example: `https://learn.gitlab.com/c/devops-explained-git?x=GVFK3F&lb_email={{lead.Email Address}}&utm_source=email&utm_campaign=test`
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
 1. Watch for extra `&`.
-1. Ping `@sdaily` to review the link before implementation for quality assurance purposes.
+1. Test the link before implementation for quality assurance purposes.
 
 **PathFactory links behind a form fill on a landing page**
 
@@ -436,7 +436,7 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 1. Choose your desired layout under `Layout Settings`.
 1. Choose your desired content settings under `Content Settings`.
 1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
-1. Be sure to test your explore page fully. Tag `@sdaily` for review.
+1. Be sure to test your explore page fully.
 
 ### Explore Page FAQs
 
@@ -583,7 +583,7 @@ The naming convention for each of the listeners is specific to the asset type & 
 
 ### Set up a new listening campaign
 
-This process is for new assets in PathFactory that **have not** already been distributed from a content track. For any retroactive listening campaigns for assets that have already been distributed from a content track, please create an issue in the marketing operations project and assign it to `@sdaily`.
+This process is for new assets in PathFactory that **have not** already been distributed from a content track. 
 
 **Create Program in Marketo and sync to Salesforce**
 
@@ -614,7 +614,7 @@ This process is for new assets in PathFactory that **have not** already been dis
 1. Mark the Status as `In Progress`.
 1. Click `Save`.
 
-Assets needing a listening campaign should following the above naming conventions. If an asset type is not represented in a Marketo listening campaign folder, please create an issue in the marketing operations project and assign it to `@sdaily`.
+Assets needing a listening campaign should following the above naming conventions. 
 
 **Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
 
