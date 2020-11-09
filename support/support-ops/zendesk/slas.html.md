@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Zendesk SLAs
+description: A Service Level Agreement[SLA] is an agreed upon measure of the response
+and resolution times that your support team delivers to your customers.
 ---
 
 # Zendesk SLA Policies
