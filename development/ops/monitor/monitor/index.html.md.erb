@@ -53,17 +53,13 @@ If any additional categories get added, please amend this page and edit the Sise
     - [monitor-be](mailto:monitor-be@gitlab.com) (backend team)
     - [monitor-fe](mailto:monitor-fe@gitlab.com) (frontend team)
 
-## Backend Team members
+## Team members
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Monitor:Monitor') %>
 
-## Frontend Team members
-
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Monitor', role_regexp: /(?!Monitor:APM)Monitor/) %>
-
 ## Stable counterparts
 
-<%= stable_counterparts(role_regexp: /(?!Monitor:APM)Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Monitor', other_manager_roles: ['Engineering Manager, Monitor:Monitor', 'Frontend Engineering Manager, Monitor']) %>
+<%= stable_counterparts(role_regexp: /Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Monitor', other_manager_roles: ['Engineering Manager, Monitor:Monitor', 'Frontend Engineering Manager, Monitor']) %>
 
 ## Responsibilities
 {: #monitoring}
