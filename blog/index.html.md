@@ -470,7 +470,7 @@ twitter_text: "Text to tweet" # optional;  If no text is provided it will use po
 featured: yes # reviewer should set. Please remove this line if post is Unfiltered
 postType: content definition # i.e.: content marketing, product, corporate
 related_posts:
-  - "/blog/2020/05/12/solve-devsecops-challenges-with-gitlab-ci-cd/" # i.e.: please choose THREE related posts to appear at the bottom of the blog
+  - "/blog/2020/05/12/solve-devsecops-challenges-with-gitlab-ci-cd/" # please see related posts section below for details
 merch_banner: merch_one
 merch_sidebar: merch_one
 ---
@@ -744,7 +744,7 @@ Renders:
 
 ## Related posts
 
-Ideally you should choose three blog posts related to your post, using the URL format shown. Your choices will be automatically displayed at the bottom of your blog post. Please choose posts no more than two years old and that are directly relevant to your main theme. If you do not choose these related posts, they will be chosen for you based on the tags you used, but this can result in old and/or outdated blog posts being surfaced.
+Ideally you should choose three blog posts related to your post, using the URL format shown. Your choices will be automatically displayed at the bottom of your blog post. Please choose posts no more than two years old and that are directly relevant to your main theme. If you do not choose these related posts, they will default to showing the three most recent posts from the same category.
 
 ### Merch banner and sidebar
 
