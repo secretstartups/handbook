@@ -116,6 +116,7 @@ The Release Post Manager is accountable for:
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve process and update the handbook/MRs
 - [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
+- Work with PMs, Messaging leads and other as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -709,6 +710,10 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 - All links from the MVP description.
 - "Look and feel" as built. Sometimes it's better to collect all info for the MVP in one or two paragraphs.
 
+#### Links to external blogs
+
+The introducton or other parts of the release post written may include links to external blogs posts. These links may be broken till the 21st but should still  be flagged by the TW lead during structural check so the Release post manager and Messaging lead  don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd. 
+
 ### TW Reviewers
 
 **Note:** TW reviewers should not be confused with the [TW lead](#tw-lead).
@@ -771,6 +776,10 @@ Examples of previous release post intros written by PMM:
 - [GitLab 10.8 released](/blog/2018/05/22/gitlab-10-8-released/)
 - [GitLab 11.0 released](/blog/2018/06/22/gitlab-11-0-released/)
 - [GitLab 11.1 released](/blog/2018/07/22/gitlab-11-1-released/)
+
+#### Linking to external blogs
+
+The introducton or other parts of the release post written by the Messaging lead may include links to external blogs posts. It is important that the Messaging lead coordinates with authors of these external blogs to make sure they're live before e the release post manager pushs the release post blog live on the 22nd. 
 
 ### CTA
 
