@@ -406,12 +406,12 @@ For more informaiton on quoting or the Partner Program, please visit:
 
 ##  Program and Incentive Definitions
 
-**Partner Program Discounts**
+### Partner Program Discounts 
 - The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
 - Partners are not eligible for discounts on sales or renewals of Bronze / Starter licenses.
 - GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
-**Partner Initiated Opportunity - PIO**
+### Partner Initiated Opportunity - PIO
 - A PIO is any initiated sales opportunity that was brought to GitLab via a Deal Registration. A PIO could be:
     -  An opportunity with new customer to GitLab
     -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific partner identified opportunity
@@ -430,17 +430,17 @@ For more informaiton on quoting or the Partner Program, please visit:
 - The determination of PIO is per GitLab sales rep & CAM determination and tracked via Salesforce opportunities.
 
 
-**Partner Assist Opportunity**
+### Partner Assist Opportunity
 - Any opportunity where the partner assists our sales team in closing the deal.
 - This assistance may include any or all of the following: a customer demo/POV, an executive introduction meeting, delivery of services, helping with the transaction, financing.  Often this is leveraging the partner's incumency.
 - Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO, but should be tagged as Partner Assist in Salesforce.
 - The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities. 
 
-**Partner Fulfill Opportunity**
+### Partner Fulfill Opportunity
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
 - The partner has only processed the order and didn’t provide any meaningful support to close the deal.
 
-**Services Attach Opportunity**
+### Services Attach Opportunity
 - Any partner delivered services that are provided to the end user in support of a GitLab deployment.
 - This will result in a 2.5% upfront discount from the product for resales opportunities and a rebate if partner is not involved in resale.
 - The resale discount will be administered as an upfront discount from the GitLab license price on the most recent product sale net license price.
@@ -454,27 +454,27 @@ For more informaiton on quoting or the Partner Program, please visit:
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
 
-**Services Resale**
+### Services Resale
 - Partners can earn a program discount for reselling GitLab Professional Services delivered services.
 - To qualify for the Services discount, the services must be included on the order of a deal registered opportunity.
 
-**Incumbency Renewals**
+### Incumbency Renewals
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
 - A different partner can earn an incumbency discount only through formal written communications from the customer.  This can be provided via email from an authorized representative from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
-**Tender Offers**
+### Tender Offers
 - Tender offers are ones where the customers are requesting multiple bids for a project.  
 - Each partner bidding should register the deal. Since all partners would be engaged in the sales process and would be creating a bid, all partners qualify for Partner Assist discount (% based on their program track). If the first partner registering the deal was early in with the customer (pre-tender) and introduces the opportunity to GitLab, that partner could earn a Partner Initiated Opportunity (PIO) discount. If the partner earning the PIO is not awarded the deal, they would not receive additional referral compensation.
 Any partner offering services would qualify for Services-Attach incentives in addition to any sales discounts for which they would qualify.
 
-**Program Compliance**
+### Program Compliance
 - For partners to transact according to program discounts, they must agree to the GitLab Partner Agreement.
 - To earn partner discounts, partners will be required to be program compliant.
 - Non Contracted partners may transact on a one-off basis, only with approval of channel leadership.
 
-**Unauthorized Partners** 
+### Unauthorized Partners
 - Unauthorized partners are ones that have not signed a GitLab Partner Agreement.  
 - A key goal of the GitLab Channel Program is the success of our authorized partners.  We are developing our channel to provide coverage across geos, customer segments and vertical markets.  Since the program was just launched in April 2020, we have not onboarded enough partners to support every sales opportunity.  As we continue to build out our channel coverage, there will still be a need to utilize one-off, unauthorized partners for specific sales opportunities.  
 - For Developed Regions - Most P0 and many P1 countries.  GitLab Sales teams, work with your CAM to identify authorized partners in your region.
