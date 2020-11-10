@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Promotions and Transfers
+description: "Information and protocols related to GitLab promotions and transfers."
 ---
 
 ## On this page
@@ -58,7 +59,7 @@ Important things to ensure:
 
 ## Compliance
 
-The People Experience Associate completes a bi-weekly audit of all transition issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
+The People Experience Associate completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
 
 Once all tasks have been completed and the issue is still open, the People Experience Associate will close the transition issue accordingly. The transitioning team member can also close the issue once satisfied all the tasks are complete.
 

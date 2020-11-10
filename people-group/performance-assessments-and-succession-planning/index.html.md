@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Performance/Potential Matrix and Succession Planning
+description: "GitLab's Performance/Potential Matrix is a type of Talent Assessment that forms part of our Talent Development Program."
 ---
 
 ## On this page
@@ -352,8 +353,4 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 | [Functional competencies](/handbook/competencies/#functional-competencies) | Functional competenices (for groups that have them developmed) can also influence the Performance Factor and should be reviewed prior to the assessment period. |
 | [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) | It is important to me mindful of unconscious bias always, and especially during talent reviews and assessments. It is highly recommended that you review the handook page and watch the training. |
 | [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) handbook page | This page is the SSOT to review the Performance Factor's impact on compensation. |
-
-
-
-
 

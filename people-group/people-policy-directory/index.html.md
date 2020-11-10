@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab People Policy Directory"
+description: "This page is an overall directory listing important GitLab people-related policies."
 ---
 
 ## On this page
