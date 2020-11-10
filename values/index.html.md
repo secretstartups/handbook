@@ -856,7 +856,7 @@ We demonstrate iteration when we do the smallest thing possible, getting it out 
   </tr>
   <tr>
     <td class="tg-0lax"><br>7</td>
-    <td class="tg-0lax">Independently balances short term gains and long term benefit. Identifies opportunities to model the processes around iteration.</td>
+    <td class="tg-0lax">Independently balances short term gains and long term benefit. Identifies opportunities to deliver projects in an iterative way.</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
