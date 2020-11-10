@@ -512,7 +512,7 @@ Please include the `guest: true` field in the frontmatter as well.
 
 This is optional. If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the [default image](#default-cover-image) will appear on the post's tile on the blog homepage and as the thumbnail when the post is shared on social media. Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
 
-If you would like to use an image of your choice for the blog post cover, please read on for how to choose an image and [see the instructions on sizing, formatting, and storing images](#sizing-and-aligning-images).
+If you would like to use an image of your choice for the blog post cover, please read on for how to choose an image and [see the instructions on sizing, formatting, and storing images](#images-and-illustration).
 
 ##### Stock photography
 
