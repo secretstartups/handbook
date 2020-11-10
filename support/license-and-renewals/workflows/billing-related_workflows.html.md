@@ -28,7 +28,6 @@ outside of the eligibility window - if you believe a case qualifies for this, CC
 1. Determine the reason that they're cancelling and requesting a refund. 
 =======
 1. Determine the reason that they're cancelling and requesting a refund.
->>>>>>> 990de9bb3d0... Update categories
 1. Make sure that there aren't any other types of queries that would need the Support team's attention
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to process the refund. They will reply to the customer once done.
 
