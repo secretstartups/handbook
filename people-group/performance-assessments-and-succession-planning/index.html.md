@@ -33,7 +33,7 @@ The performance/potential matrix can be a diagnostic tool for career development
 
 ## What is "Performance"?
 
-Performance is broken into three areas: Developing, Performing, and Exceeding.
+Performance includes both results and behaviors, and is broken into three areas: Developing, Performing, and Exceeding.
 
 ### Developing
 
