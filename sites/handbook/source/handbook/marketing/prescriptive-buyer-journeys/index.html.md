@@ -48,6 +48,15 @@ The first iteration of building these prescriptive buyer journeys was a highly c
 
 By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. 
 
+We can tailor the a content journey based on the following targeting information: 
+
+1. **Segment:** What size company are we targeting?
+1. **Persona(s):** Who are we talking to and when do we talk to them in the journey? 
+1. **Use case(s):** Which use cases are most relevant to this persona? 
+1. **Region:** Where are we targeting? Is this a US-centric campaign or a localized campaign? 
+
+If there are multiple personas to target, the digital journey map should identify who we are speaking to per channel.
+
 ## Performing a content gap analysis
 A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey.  It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production.
 
