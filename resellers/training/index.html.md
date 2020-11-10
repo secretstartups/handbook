@@ -60,6 +60,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>Competitor Overview</li>
 <li>GitLab vs. GitHub</li>
 <li>QUIZ: Competition</li>
+</ul>
 
 <b>GitLab Portfolio:</b>
 
@@ -72,6 +73,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>OPTIONAL Selling GitLab Professional Services</li>
 <li>OPTIONAL Plan and Manage Work with GitLab</li>
 <li>QUIZ:  GitLab Portfolio</li>
+</ul>
 >
 <b>GitLab Customers and Personas:</b>
 
@@ -81,6 +83,8 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>DevOps Director Buyer Persona</li>
 <li>OPTIONAL - Learn about Other Buyer Personas</li>
 <li>QUIZ: GitLab Customers</li>
+</ul>
+>
 >
 **Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)**
 
