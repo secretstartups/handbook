@@ -1059,6 +1059,10 @@ If you create your own cover image, it should have the following proportions:
 
 Try to have them harmonically aligned with the title, which overlays the background image in both cases. To crop the image, use the size of 1275x750 px. If you want to align the background image with the title overlay, use the widescreen proportion.
 
+#### Resizing Images
+
+Image sizes can exceed megabytes and slow down the site rendering. Follow the proportions above and learn more about [resizing images](/handbook/tools-and-tips/#resizing-images).
+
 ## When your post is formatted and you're ready to create your merge request
 
  You can go about this a couple of ways: by adding a new file to `sites/marketing/source/blog/blog-posts/` in the UI, or using the terminal on your own computer.
