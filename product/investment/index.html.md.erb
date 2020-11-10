@@ -80,7 +80,7 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
     <% stageLine << "#{stage_devs}" %>
-    <% stageLine << "#{percent_of_developers.round(1)}%" %>
+    <% stageLine << "#{percent_of_developers.round(2)}%" %>
     <% stageLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
@@ -122,7 +122,7 @@ The following table provides scores for each of our DevOps stages and a comparis
       <% groupLine << "#{combinedScore}" %>
       <% groupLine << "#{percent_of_total.round(1)}%" %>
       <% groupLine << "#{group_developers}" %>
-      <% groupLine << "#{percent_of_developers.round(1)}%" %>
+      <% groupLine << "#{percent_of_developers.round(2)}%" %>
       <% groupLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>  
       <%= "| #{groupLine.join(' | ')} |" if groupLine %>
     <% end %>
@@ -150,7 +150,7 @@ For non-DevOps and Enabling stages we still track our overall investment, but do
       <% groupLine=[] %>
       <% groupLine << "#{stage.display_name}: #{group.name}" %>
       <% groupLine << "#{group_developers}" %>
-      <% groupLine << "#{percent_of_developers.round(1)}%" %>
+      <% groupLine << "#{percent_of_developers.round(2)}%" %>
       <%= "| #{groupLine.join(' | ')} |" if groupLine %>
     <% end %>
   <% end %>
