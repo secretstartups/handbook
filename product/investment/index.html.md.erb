@@ -47,7 +47,7 @@ As for DevOps stage scores - each driver is scored on a 1-5 basis.  Here is a d
 The following table provides scores for each of our DevOps stages and a comparison of the total score to our current development spend allocation as defined by the percentage of total individual contributor developers in product groups.
 
 | Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Dev | Stage Dev % | Score/Spend Difference |
-|-|-|-|-|-|-|-|-|-|
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalMarketingScore = 0 %>
 <% totalMarketingDevelopers = 0 %>
@@ -133,7 +133,7 @@ The following table provides scores for each of our DevOps stages and a comparis
 For non-DevOps and Enabling stages we still track our overall investment, but don't attribute score or score/spend differences.
 
 | Stage: Group | Group Devs | Group Dev % |
-|-|-|-|
+|:-|:-:|:-:|
 <% totalAllDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
