@@ -130,7 +130,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Survey Monkey
 - Tweetdeck
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
-- Vimeo
+- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 
 ### Requesting access to an existing tool
 
@@ -376,8 +376,8 @@ Status in the table below means:
 | Request - Contact | inbound | Filled out contact request form on GitLab website | Active |
 | Request - Professional Services | inbound | Any type of request that comes in requesting to engage with our Professional Services team | Active |
 | Security Newsletter | inbound | Signed up for security alerts | Active |
-| Trial - Enterprise | inbound | In-product or web request for self-hosted Enterprise license | Active |
-| Trial - GitLab.com | inbound | In-product SaaS trial request | Active |
+| Trial - Enterprise | trial | In-product or web request for self-hosted Enterprise license | Active |
+| Trial - GitLab.com | trial | In-product SaaS trial request | Active |
 | Web | inbound |  | Active |
 | Web Chat | inbound | Engaged with us through website chat bot | Active |
 | Consultancy Request | inbound |  | Active |
@@ -443,7 +443,7 @@ For **Surveys run through SimplyDirect**, follow the instructions documented in 
 
 For **Workshops**, follow the directions in the [Workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up).
 
-For **Alyce Direct Mail**, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-alyce-direct-mail-campaigns)
+For **Alyce Direct Mail** or Direct Mail not needing a Marketo program, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-direct-mail-campaigns)
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
@@ -452,22 +452,26 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 - Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1)
 - Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
-- Vendor Arranged Meetings: [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
+- Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
+- Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
+     - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
 - (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 - (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
-- (MPM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
-- (MPM use only) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
-- (MPM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-- (MPM use only) GitLab Hosted Webcast (single timeslot): [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
-- (MPM use only) GitLab Hosted Workshops:
+- (Moving to FMM) Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+- (Moving to FMM) Zoom GitLab Hosted Workshops (please follow directions in the [workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up)):
+     - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
-     - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
+     - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)
+- (Coming in Nov) BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
+- (Campaigns Only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
+- (Campaigns Only/Phasing Out) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
+- (Campaigns Only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 
 ##### Step 2: Sync to Salesforce
 
@@ -596,24 +600,25 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 1. If existing leads are not being pulled into the program, it is likely the `SurveyName` field is capturing the wrong name.
 1. If net-new leads are not being pulled into the program, it is likely the `Person Source` SurveyName was not updated correctly.
 
-#### Steps to Setup Alyce Direct Mail Campaigns
+#### Steps to Setup Direct Mail Campaigns
 
 ##### Step 1: Create the Salesforce campaign
-- This is done by cloning the [Alyce - Template](https://gitlab.my.salesforce.com/7014M000001dl5P).
-- Update Campaign name to `YYYY_MM_NameofCampaign`
+- For **ALYCE DIRECT MAIL** clone the [Alyce - Template](https://gitlab.my.salesforce.com/7014M000001dl5P).
+- For **OTHER DIRECT MAIL** clone the [#TEMPLATE - Direct Mail](https://gitlab.my.salesforce.com/7014M000001dlh9)
+- Update Campaign name to `whatever your campaign tag is`
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
 ##### Step 2: Update the Salesforce campaign
-- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
+- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
-- Change type to `Direct Mail`
-- Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+- Confirm the `type` is `Direct Mail`
+- Confirm the `Enable Bizible Touchpoints` is set to `Include only "Responded" Campaign Members`
 - Update the event epic
 - Update the description
 - Update `Start Date` to the date of launch
 - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
 - Update `Status` to `In Progress` or the approriate selection
-- Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field, - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
+- Update `Budgeted Cost` if you have the data available, if not, or if cost is $0, list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
 
@@ -722,7 +727,7 @@ This is used for campaigns that can either be organised through a 3rd party vend
 
 #### Field Event
 
-This is an event run by Field Marketing that we have paid to participate in but do not own the registration or event hosting duties (example: Lighthouse Roadshow, CIO Summit, AWS Summit).
+This is an event run by Field Marketing that we have paid to participate in (Demand generation events that the field team typically does (Ex. stand alone dinners, ballgames, etc).) 
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of attendees post-event.
 
@@ -765,7 +770,7 @@ Any type of inbound request that requires follow up.
 
 #### Owned Event
 
-This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit).
+This is an event that we have created, own registration and arrange speaker/venue (example: GitLab Commit or Meetups).
 
 **Bizible:** This is tracked as an _online_ channel because we manage the registration through our website.
 

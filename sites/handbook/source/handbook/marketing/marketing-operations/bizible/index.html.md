@@ -20,6 +20,12 @@ Bizible defines a touchpoint as: Touchpoints refer to the interactions a prospec
 
 They capture a multitude of information about the interaction such as utm parameters, date/time of the interaction, and type of interaction (web visit, form submission, campaign response, etc.).    
 
+In Salesforce, the abbreviations for the various touchpoints are as follows (see more in the diagrams below to see how these work in the different models):
+- FT - First Touch, a prospect's first-ever interaction
+- LC - Lead Created, prospect submits information
+- OC - Opportunity Creation, prospect intentionally moves toward a purchase decision
+- Closed - Customer Close, prospect makes a purchase
+
 Here is Bizible's breakdown of how [Touchpoints are generated and mapped](https://docs.marketo.com/display/BIZ/Touchpoint+Generation+and+Mapping):    
 
 #### Touchpoint Generation Methods
