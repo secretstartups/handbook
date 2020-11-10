@@ -116,7 +116,7 @@ The Release Post Manager is accountable for:
 - Doing a sync retro with the Tech Writing and Messaging leads sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve process and update the handbook/MRs
 - [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
-- Work with PMs, Messaging leads and other as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
+- Work with PMs, Messaging lead and others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
