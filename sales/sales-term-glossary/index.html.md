@@ -59,6 +59,23 @@ When account or subscription is being reported then the title or field descripti
 
 Metrics that are based on customer data should also carry a clarifying description. For clarity parent will be the only customer type used for external reporting.
 
+### Connected New Customers
+
+A connected new customer is a new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy). Sales tends to see Connected New as Growth whereas Marketing manages them as New. This table illustrates that difference.
+
+| **Situation** | **Marketing View** | **Sales & Finance View** |
+| :------ | :------ | :------ |
+| First Order | New | New |
+| Connected New | New | Growth |
+| Add-on Order | Growth  | Growth  |
+
+First Order and Connected New can be reported on via the Order Type fields in Salesforce. We have iterated on this field so please use the following guide:
+
+| SFDC Field Name       | Source of Truth for Time Period | Description                                                                                                    |
+|-----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Order Type 1.0        | FY21                            | Value stamped at close.                                                                                        |
+| Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
+| Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
 ### Customer Segmentation
 
