@@ -744,7 +744,7 @@ Renders:
 
 ![Click to tweet](/images/handbook/marketing/click-to-tweet.png){: .shadow}
 
-## Related posts
+### Related posts
 
 Ideally you should choose three blog posts related to your post, using the URL format shown. Your choices will be automatically displayed at the bottom of your blog post. Please choose posts no more than two years old and that are directly relevant to your main theme. If you do not specify related posts here, they will default to showing the three most recent posts from the same category.
 
