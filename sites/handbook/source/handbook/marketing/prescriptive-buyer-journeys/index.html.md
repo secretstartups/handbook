@@ -46,7 +46,7 @@ The first iteration of building these prescriptive buyer journeys was a highly c
 
 ## Content journey mapping
 
-By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. 
+By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/growth-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](https://about.gitlab.com/handbook/use-cases/). 
 
 We can tailor the a content journey based on the following targeting information: 
 
@@ -58,7 +58,7 @@ We can tailor the a content journey based on the following targeting information
 If there are multiple personas to target, the digital journey map should identify who we are speaking to per channel.
 
 ## Performing a content gap analysis
-A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey.  It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production.
+A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey.  It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production. 
 
 The content gap analysis is done in two steps: 
 
@@ -68,13 +68,8 @@ The content gap analysis is done in two steps:
 It’s critical that the message and content are tailored specifically to the target audience. Avoid diluting the message and experience by loosely fitting existing content in the journey. The content should suit the message exactly. If content does not exist, notify the Marketing Program Manager (project manager) and make a plan to create that content. This may affect the project timeline. 
 
 #### How to Use the Storyboard Template
-The first step to creating a full-funnel content journey is to storyboard the narrative. Using the template below, write down the message you want to convey at each stage of the funnel. Use the following as a guideline for messaging at each stage: 
+The first step to creating a full-funnel content journey is to storyboard the narrative. Using the template below, write down the message you want to convey at each stage of the funnel. 
 
-|        |        |
-| ------ | ------ |
-| Awareness | The story at this stage should be about educating the lead/customer on a problem they may have. The message at this stage should be about building trust and credibility as a helpful and knowledgeable resource.  |
-| Consideration | The story at this stage should be about educating the lead/customer about how Gitlab can solve their problem better than anyone else. The message should be about proving capabilities and results. |
-| Purchase | The story at this stage should be about selling the customer on GitLab. The message should be about ROI, implementation, and adoption. |
 
 Each stage has three message columns. When reading across the columns a story should emerge. The last column, labeled _bridge_ and closing message should unite the current and next stage messages. A *bridge* message can also be used to introduce a new use case. For example:
 
