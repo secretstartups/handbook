@@ -15,7 +15,7 @@ We must ensure all statements and representation to government procurement offic
 
 Any conduct that could appear improper should be avoided when dealing with government officials and employees or contractors. Payments, gifts, or other favors given to a government official or employee are strictly prohibited as it may appear to be a means of influence or a bribe. Failure to avoid these activities may expose the government agency, the government employee, our company, and you to substantial fines and penalties.
 
-GitLab Public Sector sales team sells EES, EEP, EEU, GitLab Hosted, and custom training directly to:
+GitLab Public Sector sales team sells EES, EEP, EEU, and custom training directly to:
 
 ## U.S. Federal Government
 * All Executive, Legislative, or Judicial agencies, departments, commissions, boards, offices, councils, or authorities, including Government Agencies as described above situated in U.S. Territories outside the Continental United States, Hospitals, Medical Centers, and other Health Facilities operated by U.S. Federal Government agencies.

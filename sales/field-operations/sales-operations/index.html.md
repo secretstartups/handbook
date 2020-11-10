@@ -318,6 +318,61 @@ The full company tech stack list with definitions can be found on the [Business 
 </details>
 </details>
 
+<details>
+<summary markdown='span'>
+  Sales Operations Case Management
+</summary>
+
+**What:**
+Salesforce case management system to enable the transfer of certain cases (created from Chatter requests) from the Deal Desk group to the Sales Ops group to take action and respond to the original chatter request.
+   - As of 2020-09-21, this will include all cases pertaining to account ownership/ROE and account segmentation, except for any cases that touch closed opportunities. 
+
+**Where:**
+- [Deal Desk Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004O4ni)
+- [Sales Ops Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004tewG)
+
+**How:**
+1. All Sales Support Chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
+1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
+1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
+
+**Notes on Case Behavior:**
+1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.
+1. When case ownership is updated to a Sales Ops team member, the case will remain visible in the Sales Ops queue until closed.
+1. Changing the “Status” field to “In Progress” shows that someone is currently working on the case. 
+1. By changing Status to “In Progress,” ownership will automatically change to the individual who changes status. 
+1. By changing Status to “Closed,” the case will no longer appear in the queue.
+   - Note: Check the “Suppress auto case reply” button in the same motion, before saving, to prevent automated Chatter posts. If you do not check this box, and you change the status to “In Progress,” upon saving the case, Salesforce will create a Chatter reply from your account, tagging the original requester, noting that you are working on the case. Similarly, when you close the case, Salesforce will Chatter the requester to note that the work is complete.
+Click the “Related Chatter Object” link to view the original request. 
+
+**General Notes:**
+1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
+1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
+
+<details>
+<summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
+</summary>
+
+**Scenarios (these will grow)**
+1.  Request to own an Account currently owned by the Sales Admin user:
+   - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
+   - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
+   - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to reassign an account owned by the Impartner Integration user:
+   -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
+   -  Chatter the Channel Manager to assist and validate the move.
+
+
+
+</details>
+</details>
+
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
 The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives.
@@ -583,6 +638,6 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### **Sales Operations Owned System Offboarding**
 Below are instructions on how Sales Operations offboards users within the various Sales-owned systems.
 
-1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps).
+1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
