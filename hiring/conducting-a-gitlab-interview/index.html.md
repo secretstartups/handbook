@@ -1,3 +1,15 @@
+---
+layout: handbook-page-toc
+title: "Conducting a GitLab Interview"
+description: "Helpful information about how to prepare and conduct interviews for GitLab"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Conducting a GitLab Interview
 
 Interviewing is hard for both sides. In less than one hour, you both need to get to know each other and make a decision about whether or not you would want to work with this person. The following is an effort to provide a set of guidelines to make interviewing a bit less traumatizing for all involved parties.
