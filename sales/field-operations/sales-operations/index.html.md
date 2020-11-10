@@ -353,7 +353,7 @@ Click the “Related Chatter Object” link to view the original request.
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
 </summary>
 
-**Scenarios (these will grow)**
+## Scenarios (these will expand)
 1.  Request to own an Account currently owned by the Sales Admin user:
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
    - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
@@ -367,6 +367,7 @@ Click the “Related Chatter Object” link to view the original request.
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to merge accounts.
 
 
 
