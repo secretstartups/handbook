@@ -22,9 +22,9 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 
 <details>
 <summary markdown='span'>
-**GitLab Sales Core**
-</summary
->
+  GitLab Sales Core
+</summary>
+
 <b>Partner Tools and Program:</b>
 
 <ul>
