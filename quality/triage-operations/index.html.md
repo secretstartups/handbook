@@ -200,32 +200,37 @@ This section contains issues with the `~"bug"` label without priority and severi
 
 This section contains bugs which has past our targeted SLO based on the severity label set. This is based on our [missed SLO detection](/handbook/engineering/quality/triage-operations/index.html#missed-slo) triage policy.
 
-### Group level merge requests that need attention
+### Group level merge requests that may need attention
 
 This report contains merge requests that belong to a group in our
 [DevOps stages](/handbook/product/product-categories/#devops-stages).
 It's composed of three sections:
 
 1. Idle merge requests authored by team members.
-1. Unassigned merge requests authored by a community contributor.
-1. Idle merge requests authored authored by a community contributor.
+1. Unassigned merge requests written by a community contributor.
+1. Idle merge requests authored by a community contributor.
+1. Merge requests that have more than 15 threads
 
-Some merge requests are being idle with no activity on them and are merged
-more than 28 days from the time when they are opened. This report attempts to
-collect them for identifying the actions we need to take.
+Some merge requests are idle with no activity for them and are merged
+more than 28 days from when they are opened. This report attempts to
+collect them for identifying the actions we need to take, such as nudging the author, reviewer,
+or maintainer.
+
+Merge requests with more than 15 threads are included as they have a much higher chance
+of taking > 30 days to merge than merge requests with fewer threads.  It is recommended that those working
+on the MR consider doing a
+[synchronous discussion](https://about.gitlab.com/company/culture/all-remote/asynchronous/#when-to-pivot-to-synchronous)
+*if* that would help with efficiency for this MR.
 
 * Triage owner: Engineering Manager(s) for that group.
 * Triage frequency: On 8th and 23rd every month.
-* Listed merge requests:
-  * All which haven't been updated for more than 28 days (authored by team members and community contributors).
-  * All that are unassigned and authored by community contributors.
 * Triage actions:
   1. Review these merge requests to identify if there are any steps that can
      shorten the time to merge. Steps can be:
      1. Reminding the author about it.
      1. Changing the DRI.
 
-An example report: [Idle merge requests report for `group::source code` - 2020-07-23](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/265)
+An example report: [Merge requests requiring attention for `group::access` - 2020-11-08](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/751). Current reports can be found in the [triage-reports project](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues?scope=all&utf8=%E2%9C%93&state=all&search=%22Merge+Requests+requiring+attention%22)
 
 #### Why references without an actual link
 
