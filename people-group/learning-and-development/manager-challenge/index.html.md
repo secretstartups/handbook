@@ -59,13 +59,13 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 - [All Remote Management](/company/culture/all-remote/management/)
 
 
-| Day     | Challenge Topic | Length of Time   |  Format | 
-|---------|-----------------|------------------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | 
-| Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | 
-| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | 
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | 
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | 
+| Day     | Challenge Topic | Length of Time   |  Format | Activity
+|---------|-----------------|------------------|---------|---------|
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Complete the SOCIAL STYLES assessment </br> <br> * Define what it means to be a manager </br> |
+| Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy </br> |
+| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Determine where your team is in the high performance model </br> <br> *Define how to become a high performing team </br> |
+| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team </br> |
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan </br> <br> *Complete the self-evaluation </br>
 
 ### Week 2
 
