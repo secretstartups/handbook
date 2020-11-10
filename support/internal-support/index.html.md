@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Working With GitLab Support
+description: How GitLab team members can work with and best ways to contact Support.
 ---
 
 ## Overview

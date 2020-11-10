@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Learning & Training
+description: List of learning pathways within Support.
 ---
 
 ## On this page
