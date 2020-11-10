@@ -11,11 +11,11 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books) 
+Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books) 
 
-L&D will be rolling out another iteration during the month of January 2021. The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch recordings of the live learning courses.  
+L&D will be rolling out a three-week iteration of the program during the month of January 2021.** The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue**](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
-All details relating to the program can be found on this page. 
+All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwJfDTpSrjif5SxoE7Wsge3D501ENSyHucL4xmORypSSlsdCPIReeV3tKaiCinv_G7yHIKQh5ljA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -23,8 +23,8 @@ All details relating to the program can be found on this page.
 
 ### Manager Challenge Learning Objectives
 
-You may be asking yourself what you will achieve by taking part in the Manager Challenge program. Our goal is that participants walk away with the following skills after completing the four-week challenge: 
-- Improve your performance by strengthening your management skills
+You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+- Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
 - Apply and learn GitLab Leadership best practices into your management role
 - Demonstrate the application of High Output Management principles 
@@ -44,11 +44,11 @@ The program is intended to build a set of baseline skills that complement our va
 
 **How will it help**
 
-Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management techniques. 
+Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management practices. 
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly learning evaluations, comment on the challenge issues, and the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
 
 ### Week 1
 
@@ -59,30 +59,30 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 - [All Remote Management](/company/culture/all-remote/management/)
 
 
-| Day     | Challenge Topic | Length of Time   |  Format | 
-|---------|-----------------|------------------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | 
-| Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | 
-| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | 
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | 
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | 
+| Day     | Challenge Topic | Length of Time   |  Format | Activity |
+|---------|-----------------|------------------|---------|---------|
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Complete the SOCIAL STYLES assessment </br> <br> * Define what it means to be a manager </br> |
+| Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy </br> |
+| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Determine where your team is in the high performance model </br> <br> *Define how to become a high performing team </br> |
+| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team </br> |
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan </br> <br> *Complete the weekly evaluation </br>
 
 ### Week 2
 
-During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages: 
+During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
 - [Leadership ](/handbook/leadership/)
 - [1-1](/handbook/leadership/1-1/)
 - [Guidance on Feedback](/handbook/people-group/guidance-on-feedback/)
 - [GitLab Communication](/handbook/communication/)
 - [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 
-| Day     | Challenge Topic | Length of Time   |  Format | 
-|---------|-----------------|------------------|---------|
-| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | 
-| Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | 
-| Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | 
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | 
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | 
+| Day     | Challenge Topic | Length of Time   |  Format | Activity | 
+|---------|-----------------|------------------|---------|---------|
+| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful </br> <br> *Define difficult 1:1 topics |
+| Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations </br> |
+| Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback </br> |
+| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations at GitLab </br> |
+| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan </br> <br> Complete the weekly evaluation </br> |
 
 
 ### Week 3
@@ -92,19 +92,19 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
 - [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) 
 
-| Day     | Daily Challenge | Length of Time   |  Format | 
-|---------|-----------------|------------------|---------|
-| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | 
-| Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | 
-| Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | 
-| Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | * Attend the coaching live learning session and be prepared to participate! | * Diversty, Inclusion, & Belonging |
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | 
+| Day     | Daily Challenge | Length of Time   |  Format | Activity | 
+|---------|-----------------|------------------|---------| ---------|
+| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance </br> |
+| Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues </br> |
+| Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach </br> | 
+| Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance </br> | 
+| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan </br> <br> *Complete final evaluation </br> <br> *Share Manager Challenge certification </br>
 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over the course of 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
 1. **When is the next session?**
      - The next session will be launched on 2020-01-11 for any people leader interested in attending.
 1. **Do I have to participate?**
@@ -116,7 +116,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 1. **I have a lot of management experience, will this help?**
      - No matter your level or tenure as a manager, we can all take time out of our busy days to grow our management and leadership skills. The more practice the better and we hope that you will find the program applicable to your job.
 1. **What skills will I be building?**
-     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team and much more!  
+     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team, and much more!  
 1. **How does this complement our values?**
      - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
@@ -187,11 +187,7 @@ For the pilot Manager Challenge program, the Learning & Development team held a 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_ohUbaRFFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </figure>
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
 
 ## Pilot Program 
 
@@ -202,6 +198,16 @@ Pilot Program:
 - 4 Live Learning Sessions (1 hour)
 - 4 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
+
+Pilot Kickoff Video: 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+Check out the animated explainer video for the challenge
 
 <!-- blank line -->
 <figure class="video_container">
