@@ -12,6 +12,7 @@ description: "Landing page for many of the handbook pages the recruiting team at
 
 ## Hiring pages
 
+- [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Data Driven Recruiting](/handbook/hiring/data-driven-recruiting)
 - [Diversity, Inclusion & Belonging  Recruiting Initiatives](/handbook/hiring/d-&-i-recruiting-initiatives)
 - [Greenhouse](/handbook/hiring/greenhouse/)
