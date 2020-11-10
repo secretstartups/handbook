@@ -70,7 +70,7 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 **What does success look like?**
 
 1. Carrying out the [hawk roles](/handbook/support/workflows/meeting-service-level-objectives.html) when it's your turn in the rotation.
-1. Aim for around 40% to 50% of public replies each week to be on tickets that are assigned to someone else. You'll usually make these replies on tickets that are 'near the top of the queue' to help meet our Service Level Objectives.
+1. Aim for around 40% to 50% of public replies each week to be on tickets that are assigned to someone else. You'll usually make these replies on tickets that are 'near the top of the queue' to help meet our Service Level Objectives. Engineers working in the US Federal on-call rotation should aim for at least 15% of public replies within the general tickets to be assigned to someone else since they are not part of the hawk rotations.
 
 ## 3. Join customer calls (Weekly)
 
