@@ -20,67 +20,67 @@ Training courses, certification exams and other enablement materials can be acce
 
 By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certification and contribute to the Sales certification program requirements for your company.
 
+<details>
+<summary markdown='span'>
 **GitLab Sales Core**
+</summary
+>
+<b>Partner Tools and Program:</b>
 
-Partner Tools and Program (create + drop down)
+<ul>
+<li>Partner Portal</li>
+<li>Deal Registration</li>
+<li>You’ve Got Issues</li>
+</ul
+>
+<b>DevOps Technology Landscape:</b>
 
+<ul>
+<li>The Software Development LifeCycle</li>
+<li>Reduce Cycle Time</li>
+<li>Increase Operational Efficiencies</li>
+<li>A Seismic Shift in Application Security</li>
+<li>Manage Your Toolchain Before it manages you</li>
+<li>QUIZ:  DevOps Technology Landscape</li>
+</ul>
 
+<b>Introduction to GitLab:</b>
 
-1. Partner Portal 
-2. Deal Registration 
-3. You’ve Got Issues 
+<ul>
+<li>What is GitLab Video</li>
+<li>GitLab Infomercial</li>
+<li>Toolchain White Paper</li>
+<li>GitLab Value Framework</li>
+<li>QUIZ: Introduction To GitLab</li>
+</ul>
 
-DevOps Technology Landscape (create + drop down)
+<b>Competitive Advantages & Strategy:</b>
 
+<ul>
+<li>Competitor Overview</li>
+<li>GitLab vs. GitHub</li>
+<li>QUIZ: Competition</li>
 
+<b>GitLab Portfolio:</b>
 
-1. The Software Development LifeCycle 
-2. Reduce Cycle Time 
-3. Increase Operational Efficiencies 
-4. A Seismic Shift in Application Security 
-5. Manage Your Toolchain Before it manages you 
-6. QUIZ:  DevOps Technology Landscape
+<ul>
+<li>GitLab Company Presentation</li>
+<li>Feature Comparison</li>
+<li>Why Sell Ultimate / Gold</li>
+<li>Pricing</li>
+<li>Use Cases</li>
+<li>OPTIONAL Selling GitLab Professional Services</li>
+<li>OPTIONAL Plan and Manage Work with GitLab</li>
+<li>QUIZ:  GitLab Portfolio</li>
 
-Introduction to GitLab (create + drop down)
+<b>GitLab Customers and Personas
 
-
-
-1. What is GitLab Video 
-2. GitLab Infomercial 
-3. Toolchain White Paper 
-4. GitLab Value Framework 
-5. QUIZ: Introduction To GitLab
-
-Competitive Advantages & Strategy (create + drop down)
-
-
-
-1. Competitor Overview 
-2. GitLab vs. GitHub 
-3. QUIZ: Competition 
-
-GitLab Portfolio (create + drop down)
-
-
-
-1. GitLab Company Presentation 
-2. Feature Comparison 
-3. Why Sell Ultimate / Gold 
-4. Pricing 
-5. Use Cases 
-6. OPTIONAL Selling GitLab Professional Services 
-7. OPTIONAL Plan and Manage Work with GitLab 
-8. QUIZ:  GitLab Portfolio
-
-GitLab Customers and Personas (create + drop down)
-
-
-
-1. GitLab Value - Discovery Guide 
-2. Customer Success Stories & Proof Points 
-3. DevOps Director Buyer Persona 
-4. OPTIONAL - Learn about Other Buyer Personas
-5. QUIZ: GitLab Customers
+<ul>
+<li>GitLab Value - Discovery Guide</li>
+<li>Customer Success Stories & Proof Points</li>
+<li>DevOps Director Buyer Persona</li>
+<li>OPTIONAL - Learn about Other Buyer Personas</li>
+<li>QUIZ: GitLab Customers</li>
 
 **Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)**
 
