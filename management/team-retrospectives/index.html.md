@@ -70,7 +70,7 @@ that you observe the following:
    team prefers to not do so in order to be able to speak freely.  If you do a meeting,
    consider scheduling it twice with one time good for those in EMEA and Eastern AMER time zones, and
    one time good for those in APAC and Western AMER time zones.  Also, consider having managers not attend
-   the meeting so that attendees feel they can speak freely.  Someone other than a manager can be the moderator.
+   so that attendees feel they can speak freely.
 
 ## Having a plan
 
