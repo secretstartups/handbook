@@ -41,7 +41,7 @@ In general when buyers are considering GitLab.com, they want to be assured that 
 
 While we don’t expect DR capabilities to make or break a particular deal, it’s important that we provide enterprise customers -- many of whom have their own business continuity plans in place for their own customers -- some level of guarantee that their data can be restored in the case of a disaster. Lack of a DR solution would impact retention since some customers might move their workloads out of GitLab.com should it be down for a significant period of time. 
 
-In the event of an outage, customers expect that service will be restored within due time as to not breach our availability SLA. In terms of a recovery point objective, customers want this to be as recent as possible since they are generating and storing business critical data on a frequent basis.
+In the event of an outage, overall customers expect that service will be restored within due time as to not breach our availability SLA. In terms of a recovery point objective, customers want this to be as recent as possible since they are generating and storing business critical data on a frequent basis.
 
 ## What Competitors Are Doing
 - GitHub guarantees a 99.9% quarterly uptime commitment for the GitHub Enterprise Cloud service: https://docs.github.com/en/github/site-policy/github-enterprise-service-level-agreement
@@ -80,7 +80,7 @@ State that we will restore service for free users as quickly as we can, but offe
 
 ---
 
-Based on these targets, since we can tolerate some outage time without breaching our SLA, near immediate RTO and RPO provided by Option 1 is likely overkill for what we need (though we can consider offering a hot standby as a paid feature in future iterations).
+Based on these targets, since we can tolerate some outage time without breaching our SLA, near immediate RTO and RPO provided by the Hot Standby option is likely overkill for what we need (though we can consider offering a hot standby as a paid feature in future iterations).
 
 As discussed in the Target Customer section, we believe that giving free customers the same RTO/RPO guarantees as premium customers would remove an important incentive for them to up-tier. Therefore, we propose treating free users differently than premium users from an Infrastructure standpoint and recommend going with option 2 for premium customers and option 3 for free customers as a way to cut down on overall cost to support this feature. 
 
