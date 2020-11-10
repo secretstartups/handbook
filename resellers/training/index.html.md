@@ -14,9 +14,10 @@ Why get certified?  Validate your skills, knowledge and receive recognition for 
 
 Training courses, certification exams and other enablement materials can be accessed on the GtlLabPartner Portal (hyperlink).
 
-**Training and Certifications for Sales Professionals**
+### Training and Certifications for Sales Professionals
 
-**GitLab Sales Core** - This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. 
+#### GitLab Sales Core
+This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. 
 
 By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certification and contribute to the Sales certification program requirements for your company.
 
@@ -43,7 +44,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>Manage Your Toolchain Before it manages you</li>
 <li>QUIZ:  DevOps Technology Landscape</li>
 </ul>
->
+
 <b>Introduction to GitLab:</b>
 
 <ul>
@@ -53,7 +54,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>GitLab Value Framework</li>
 <li>QUIZ: Introduction To GitLab</li>
 </ul>
->
+
 <b>Competitive Advantages & Strategy:</b>
 
 <ul>
@@ -74,7 +75,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>OPTIONAL Plan and Manage Work with GitLab</li>
 <li>QUIZ:  GitLab Portfolio</li>
 </ul>
->
+
 <b>GitLab Customers and Personas:</b>
 
 <ul>
@@ -84,78 +85,86 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>OPTIONAL - Learn about Other Buyer Personas</li>
 <li>QUIZ: GitLab Customers</li>
 </ul>
->
->
-**Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)**
 
-**GitLab Solution Architect Core** - This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification. NOTE: The hand-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
-
-**GitLab Solution Architect Core **
-
-GitLab Integrations (create + drop down)
+</details>
 
 
+### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)**
 
-1. GitLab Integrations Overview 
-2. Jira Integration 
-3. Jenkins Integration Overview 
-4. Migrating from Jenkins to GitLab 
-5. GitLab Workflow with Jira issues and Jenkins Pipelines
-6. Github Integration 
-7. GitLab as OAuth2 Authentication Service Provider 
-8. QUIZ: Integrations 
+#### GitLab Solution Architect Core
+This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification. NOTE: The hand-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
 
-Technical Deep Dive (create + drop down)
+<details>
+  <summary markdown='span">
+  GitLab Solution Architect Core
+
+<b>GitLab Integrations:</b>
+
+<ul>
+<li>GitLab Integrations Overview</li>
+<li>Jira Integration</li>
+<li>Jenkins Integration Overview</li>
+<li>Migrating from Jenkins to GitLab</li>
+<li>GitLab Workflow with Jira issues and Jenkins Pipelines</li>
+<li>Github Integration</li>
+<li>GitLab as OAuth2 Authentication Service Provider</li>
+<li>QUIZ: Integrations</li>
+</ul>
+
+<b>Technical Deep Dive:</b>
+
+<ul>
+<li>Auto DevOps</li>
+<li>GitLab API</li>
+<li>GitLab for Agile</li>
+<li>GitLab Runners</li>
+<li>GitLab High Availability (HA) and GitLab GEO</li>
+<li>QUIZ: Technical Deep Dive</li>
+</ul>
+
+</details>
+
+#### GitLab Technical Core
+GitLab Technical Core is the foundational technical training for post-sales technical professionals and can also be a valuable training for pre-sales technical professionals. As we continue to develop our services enablement offerings, partners will need to develop a custom plan with their Channel Account Managers to meet the certification requirements.
+
+<details>
+  <summary markdown='span'>
+  GitLab Technical Core
+</summary>
+
+<b>GitLab Technical Fundamentals<b>
+
+<ul>
+<li>Using GitLab as a Project Management Tool</li>
+<li>GitLab Basics for Developers</li>
+<li>Getting Started with GitLab CI/CD</li>
+<li>QUIZ: GitLab Technical Fundamentals</li>
+</ul>
+
+</details>
 
 
-
-1. Auto DevOps
-2. GitLab API
-3. GitLab for Agile
-4. GitLab Runners
-5. GitLab High Availability (HA) and GitLab GEO
-6. QUIZ: Technical Deep Dive
-
-**GitLab Technical Core** - GitLab Technical Core is the foundational technical training for post-sales technical professionals and can also be a valuable training for pre-sales technical professionals. As we continue to develop our services enablement offerings, partners will need to develop a custom plan with their Channel Account Managers to meet the certification requirements.
-
-**GitLab Technical Core **
-
-GitLab Technical Fundamentals (create + drop down)
-
-
-
-1. Using GitLab as a Project Management Tool 
-2. GitLab Basics for Developers 
-3. Getting Started with GitLab CI/CD 
-4. QUIZ: GitLab Technical Fundamentals
-
-**Training and Certifications for Technical and Consulting Services Professionals **
+### Training and Certifications for Technical and Consulting Services Professionals
 
 **Training and Certifications**
 
 Gitlab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass a written assessment. 
 
-**GitLab Certified  Professional Services Engineer (PSE) Certification **(hyperlink to Partner Portal & Partner Bootcamp handbook page)
+<details>
+  <summary markdown='span'>
+  GitLab Certified  Professional Services Engineer (PSE) Certification **(hyperlink to Partner Portal & Partner Bootcamp handbook page)
+  </summary>
 
-Lesson 1: Code Management and Version Control
-
-Lesson 2: Continuous Integration and AutoDevOps
-
-Lesson 3: Custom CI Pipelines
-
-Lesson 4: GitOps
-
-Lesson 5: Application Security
-
-Lesson 6: Value Stream Management
-
-Lesson 7: Installation and Architecture
-
-Lesson 8: Integrating and Extending
-
-Lesson 9: Continuous Integration with Kubernetes
-
-Lesson 10: Runner Configuration
+<b>Lesson 1: Code Management and Version Control</b>
+<b>Lesson 2: Continuous Integration and AutoDevOps</b>
+<b>Lesson 3: Custom CI Pipelines</b>
+<b>Lesson 4: GitOps</b>
+<b>Lesson 5: Application Security</b>
+<b>Lesson 6: Value Stream Management</b>
+<b>Lesson 7: Installation and Architecture</b>
+<b>Lesson 8: Integrating and Extending</b>
+<b>Lesson 9: Continuous Integration with Kubernetes</b>
+<b>Lesson 10: Runner Configuration</b>
 
 GitLab Professional Services Engineer (PSE) Certification Exam
 
@@ -165,13 +174,13 @@ Individuals who earn the GitLab Professional Services Engineer (Partner) certifi
 
 Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination
 
-**GitLab Certified Trainer**
+#### GitLab Certified Trainer
 
 We are currently developing a program that will enable select partners (by invitation) to become GitLab Certified Trainers.  Please refer back to this handbook page for updates.
 
 To learn more about our existing Train the Trainer program, please visit https://about.gitlab.com/services/education/train-the-trainer/
 
-**Training and Certifications Roadmap FY21 **
+#### Training and Certifications Roadmap FY21
 
 GitLab Partner Sales Professional Certification 
 
@@ -185,15 +194,13 @@ GitLab Partner Solutions Architect (SA) Certification
 
 Q4 FY21
 
-**Certification Award Process **
+#### Certification Award Process
 
 To sign up for a course, please visit the Partner Portal (hyperlink). Upon successful completion of each learning path, individuals will be awarded a Badge of Completion and / or a Certificate. Badges and certifications will be delivered electronically via email, and will be granted no later than 10 business days after completion. 
 
 	
 
-**Additional Enablement Resources**
-
-
+### Additional Enablement Resources
 
 *   Webcasts - GitLab hosts a monthly webinar the first Thursday of each month,  providing deep dive learning on key GitLab topics.  You can access Partner Webcast Archives in the Asset Library on the [GitLab Partner Portal. ](https://partners.gitlab.com/English/)
 *   Technical - Pre-Sales, Services Engineers and Solution Architects can join the Channel SA’s for a monthly Tech Chat. Use this** **[Partner Tech Chat](https://gitlab.com/gitlab-com/partners/tech-chats)** **board to submit future topics and questions. 
