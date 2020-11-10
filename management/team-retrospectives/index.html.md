@@ -54,12 +54,11 @@ that you observe the following:
    may have been difficult to sort out otherwise. Make sure all participants
    know they are free to express their feelings, although we do expect them to
    stay consistent with our [values](/handbook/values/).
-1. **When possible, all parties should be present.** No one should have to worry
-   about sharing concerns or experiences because another party isn't there to
-   represent their side of the story. This includes stakeholders outside of the
-   team, where necessary - if someone's role or contributions are going to be
-   discussed, they should have the opportunity to contribute to the
-   retrospective as well.
+1. **When possible, all interested team members should be present.**  No one should have to worry about sharing concerns or experiences because
+   another party isn't there to represent their side of the story. When desirable, invite stakeholders outside of the development team (including stable
+   counterparts such as product management, design, quality, support, and technical writing). If someone's role or contributions are part of the discussion, 
+   they should have the opportunity to contribute to the retrospective. Doing so will allow everyone who contributes to a team to have an opportunity to 
+   reflect and improve how the team operates.
 1. **When necessary, get people face to face.** After a particularly difficult
    iteration, or when there's a strong risk that emotions will be running high,
    it's almost always worth the cost to have everyone in a video meeting to talk
