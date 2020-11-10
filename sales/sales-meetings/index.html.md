@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Meetings"
+description: "Overview of the primary meetings for the global GitLab field team"
 ---
 
 ## On this page
@@ -42,6 +43,24 @@ The below page overviews the primary meetings for the WW Field Team.
 ## Weekly Thursday Sales Enablement Call led by the Training and Enablement team
 
 * When: Happens every Thursday at 9am Pacific time
+
+## Sales Monthly [Key Meeting](https://about.gitlab.com/handbook/finance/key-meetings/)
+
+* When: Happens once every month
+* Where: Zoom link varies - please check the calendar invitation
+* What: Michael McBride (CRO) will present to the CEO, CFO, and other company leaders a monthly Sales update. 
+
+This update will include the current status of:
+   * [Sales KPI's](https://about.gitlab.com/handbook/sales/performance-indicators/)
+   * [OKR's](https://about.gitlab.com/company/okrs/fy21-q3/)
+
+The meeting will cover:
+   * the quarterly forecast
+   * QTD performance
+   * most recent month's performance
+
+We will provide key takeaways as to what is on-track (green), needs improvement (yellow), or is of urgent concern (red). 
+We will review the standard IACV/ARR look back on historical performance, as well as the Pipeline X-Ray, which includes future-looking metrics like pipeline generation, coverage, and pacing for the current and next quarters.
 
 ## Sales Group Conversation
 

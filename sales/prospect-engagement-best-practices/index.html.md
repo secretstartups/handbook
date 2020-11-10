@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Prospect Engagement Best Practices"
+description: "Tips, tricks and best-practices for successfully engaging with prospects"
 ---
 
 ## On this page

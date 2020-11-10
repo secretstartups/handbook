@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales & Customer Success Quick Start Learning Path"
+description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ---
 
 ## On this page
@@ -15,7 +16,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
-   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
+   - GitLab is a single application for the entire DevOps lifecycle. [Watch the video](https://youtu.be/-_CDU6NFw7U).
    - GitLab customers buy GitLab for 3 primary reasons: 1) Increase Operational Efficiencies, 2) Deliver Better Products Faster, and 3) Reduce Security and Compliance Risk. Check out the [GitLab Customer Deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing) and [watch the video](https://www.youtube.com/watch?v=MqL6BMOySIQ).
 *  **Company Infomercial (Material - Video, 5 Minutes)**
    - Check out our [company infomercial](https://youtu.be/gzYTZhJlHoI)!
@@ -70,8 +71,8 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Personas & Pain Points (Material - Video / Handbook - 20 Minutes)**
    - Introducing Personas and Pain Points. David Dulany, Sales Development Consultant, reviews the concepts of Personas and Pain Points and why they are important in setting the context for your messaging.
    - [You Tube - Introducing Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU)
-   - [Handbook - Roles & Personas](/handbook/marketing/product-marketing/roles-personas/)
-   - [Buyer Personas](/handbook/marketing/product-marketing/roles-personas/buyer-persona/)
+   - [Handbook - Roles & Personas](/handbook/marketing/strategic-marketing/roles-personas/)
+   - [Buyer Personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 *  **VP of App Dev (Material - Video - 10 Minutes)**
    - Watch Product Marketing Manager William Chia talk about the VP of App Dev persona.
    - [YouTube - VP App Dev](https://www.youtube.com/watch?v=58qDalA5o6Q)
@@ -90,7 +91,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
-   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/product-marketing/roles-personas/buyer-persona/)
+   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 
 ### 4. Our Portfolio
 *  **GitLab Pitch Deck (Material - Video - 15 Minutes)**
@@ -101,7 +102,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate. GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity. Check out this [reference guide](https://about.gitlab.com/product/) to learn more about what is included in each of the different stages of GitLab.
 *  **GitLab Feature Comparison and Tiers (Material - Handbook - 30 Minutes)**
    - Check out the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) chart to learn what's included in each package
-   - Review the [GitLab Tiers](/handbook/marketing/product-marketing/tiers/) in the Handbook
+   - Review the [GitLab Tiers](/handbook/marketing/strategic-marketing/tiers/) in the Handbook
    - Spend some time checking out the [Why Premium/Silver?](https://about.gitlab.com/pricing/premium/) and [Why Ultimate/Gold?](https://about.gitlab.com/pricing/ultimate/) pages.
 * **Ten Reasons Not to Start with Starter**
    - In the [video](https://youtu.be/Np8MyDorw5U) Haydn Mackay (GitLab Sales Director, Americas Enterprise West) highlights the top capabilities not available in GitLab Starter that help organizations deliver better products faster, increase operational efficiencies, and reduce security and compliance risk.
@@ -111,10 +112,10 @@ title: "Sales & Customer Success Quick Start Learning Path"
    - Take a moment to complete this short knowledge check [quiz](https://docs.google.com/forms/d/e/1FAIpQLScahosIQoghrijLvRacseegt65O3SBycTIubvzJsaFn5wp2RQ/viewform)
 *  **Use Cases (Material - Handbook - 10 Minutes)**
    - A [customer use case](/handbook/use-cases/) is: A customer problem or initiative that needs a solution and attracts budget. Defined In customer terms: Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic) These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
-   - [Use Case Driven GTM](/handbook/marketing/product-marketing/usecase-gtm/)
-   - [Version Control and Collaboration Use Case](/handbook/marketing/product-marketing/usecase-gtm/version-control-collaboration/)
-   - [CI Use Case](/handbook/marketing/product-marketing/usecase-gtm/ci/)
-   - [Simplify DevOps](/handbook/marketing/product-marketing/usecase-gtm/simplify-devops/)  
+   - [Use Case Driven GTM](/handbook/marketing/strategic-marketing/usecase-gtm/)
+   - [Version Control and Collaboration Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/)
+   - [CI Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
+   - [DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)  
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
    - Security is one of the biggest differentiators to Ultimate. In this course, you will learn detailed information about GitLab security capabilities with a click through demo.
    -Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
@@ -152,12 +153,16 @@ title: "Sales & Customer Success Quick Start Learning Path"
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
    - Please complete the [Command of the Message](https://classroom.google.com/c/MTIxMzIxNzE2NjIw) learning path. Instructions to join the class on your own:
-   - Go to classroom.google.com.
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code: **rjs22en** and click Join.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [Lyearn](https://gitlab.lyearn.com/#/login) and complete the MEDDPPICC full eLearning course. **Please note: The welcome and enrollment emails will come from the following sender name and email address: “Command Center Admin” – fm-no-reply@lyearn.com. Please check your junk, spam and clutter folders if you did not receive these emails.
+   - Please sign in to [MEDDPPICC](https://classroom.google.com/c/MTIxMzIyMzc3ODA2?cjc=fi3gcwd) learning path and complete the MEDDPPICC full eLearning course. Instructions to join the class on your own:
+   - Go to [classroom.google.com](https://classroom.google.com/).
+   - On the top right of the Classes page, click + then > Join class.
+   - Enter the code: **fi3gcwd** and click Join.
+   - Time to complete is approximately 1.5 hours
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](/handbook/sales/command-of-the-message/#resources-core-content) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](/handbook/sales/command-of-the-message/#resources-core-content) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
@@ -198,7 +203,7 @@ title: "Sales & Customer Success Quick Start Learning Path"
 *  **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**
    - Talk with 3 tenured GitLab sales professionals (individual contributors or people managers) and ask them for their tips and tricks on successfully beating the competition. Please take notes from your calls and briefly summarize one or two things you learned from each conversation in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdCwvGRS_-fV9J57KGYIjkXNEUHDigKoPXss-kf9r3Zjozo9w/viewform?usp=sf_link) to submit the assignment.
 * **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**
-Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/product-marketing/competitive/) and [DevOps Tools Landscape.](https://about.gitlab.com/devops-tools/)
+Please take a moment to answer the questions in this short [quiz.](https://docs.google.com/forms/d/e/1FAIpQLSc6-LgwwSBBnsXDn1spi68FCseBY8OjP0rur_DKqa9RmEwQIg/viewform) The information in this quiz is covered in the handbook pages on [Competitive Intelligence](/handbook/marketing/strategic-marketing/competitive/) and [DevOps Tools Landscape.](https://about.gitlab.com/devops-tools/)
 
 ### 9. Tools to Get Your Job Done
 *  **Using GitLab: The Basics (Material - Handbook - 45 minutes)**
@@ -210,7 +215,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **GitLab Tech Stack Details (Material - Handbook - 10 Minutes)**
    - Take a look to understand all the [tools that GitLab uses](/handbook/business-ops/tech-stack/) to keep the business running smoothly.
 *  **ACTIVITY: You've Got Issues! (Assignment - 20 Minutes - 10 Points - Pre Work)**
-   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/product-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
+   - Please find the [Sales Enablement Sandbox](https://gitlab.com/gitlab-com/sales-team/sales-enablement-sandbox) Project, and read the handbook page ["No Tissues with Issues"](/handbook/marketing/strategic-marketing/getting-started/101/). Create an issue with a label, due date, weight, and assign it to yourself. Submit the link to your issue to complete this assignment. Also take a look at the [Markdown syntax guide](https://www.markdownguide.org/basic-syntax/) to learn more about how to code using Markdown. This will be very helpful as you create issues and merge requests.
 *  **ACTIVITY: Practice Searching Issues and Filtering Labels (Assignment - 10 minutes - 10 points)**
    - Practice [searching issues and filtering using labels](https://gitlab.com/gitlab-org/gitlab-foss/-/labels)
 *  **Update Your LinkedIn Profile! (Assignment - 30 Minutes - 10 Points - Pre Work)**
@@ -283,7 +288,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -It is essential that you understand the Kubernetes (k8s) fundamentals. Based on your existing Kubernetes experience you should either take the first course "Kubernetes for the Absolute Beginner" (6 hours) or "Learn DevOps: the Complete Kubernetes Course" (13 hours).
 *  **Resources (Optional Material)
    -Bookmark these [AWS and CI references](https://docs.google.com/document/d/1bB7vlefsD_jwVgRxwaGuc8-AmR5sMyGSssS_alkNxuc/edit)
-   -Bookmark these [Marketing Demos](/handbook/marketing/product-marketing/demo/)
+   -Bookmark these [Marketing Demos](/handbook/marketing/strategic-marketing/demo/)
 
 
 ### 13. Integrations (SA, TAM, and PSE Only)
@@ -318,11 +323,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 ### 15. TAMs Only: Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
-   - [Customer Onboarding and Gemstone Categorization](/handbook/customer-success/tam/gemstones/)
-   - [Using SalesForce within Customer Success](/handbook/customer-success/using-salesforce-within-customer-success/)
-   - [Customer Onboarding Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skrQ)
-   - [Customer Onboarding Custom Object Training Video](https://drive.google.com/file/d/1ZGezQKYmn0IyAIbh2ytz_GcCW2n431be/view)
-   - [SalesForce POV Slides](https://docs.google.com/presentation/d/1SBQ_FbCsPfycTxdtoracQTAh7WOpGPPAqptXfRiZdvc/edit#slide=id.g29a70c6c35_0_68)
+   - [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
+   - [Using Gainsight within Customer Success](/handbook/customer-success/tam/gainsight/)
+   - [Customer Onboarding Dashboard](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT?sfdc.tabName=01r4M000000wqZv#home%2358502af5-e7c2-4cbd-8645-d612b74424ff)
 *  **ACTIVITY: Record a Customer Kickoff Call (Assignment - 60 minutes - 10 points)**
    -Using Zoom, record a short mock customer kickoff call. Be sure to invite your manager and your onboarding buddy.
    -The [Rubric for the call](https://docs.google.com/forms/d/e/1FAIpQLSeZgqf6cU0rR0wvoOneGGh0jNaC0PXCzN5TEf_IBbBn80VxfQ/viewform)
@@ -363,13 +366,13 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Outreach (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - Please complete the Outreach learning path. Time to complete is approximately 1 Hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **rfo76ti** and click Join.
 *  **Chorus.ai (Assignment - Classroom - 30 Minutes - 10 Points - Post Work)**
    - Please complete the Chorus.ai learning path. Chorus is a powerful conversation analytics platform that will help you expand your knowledge, ramp up faster, and adopt best practices! Time to complete is approximately 30 minutes.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3pyea4i** and click Join.
 *  **Listen to Chorus Calls (Assignement - 10 points - Post Work)**
@@ -377,7 +380,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **Clari for Salespeople (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**
    - The Clari assignment is only for Strategic Account Leaders, Mid-Market Account Executives, and SMB Customer Advocates. SAs, TAMs, SDRs, and ISRs may disregard and do not need to complete the course. Clari is a sales forecasting technology that helps salespeople drive more pipeline, accelerate revenue, and forecast accurately. Time to complete is approximately 1 hour.
    - Instructions to join the class on your own:
-   - Go to [classroom.google.com](classroom.google.com).
+   - Go to [classroom.google.com](https://classroom.google.com/).
    - On the top right of the Classes page, click + then > Join class.
    - Enter the code **3dfmc4w** and click Join.
 *  **MEDDPPICC Opportunity Qualification (Assignment - Classroom - 1 Hour - 10 Points - Post Work)**

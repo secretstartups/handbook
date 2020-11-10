@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Sales QBRs"
+description: "Overview of GitLab's Quarterly Business Review process"
 ---
 
 ## Quarterly Business Review (QBR) Overview
@@ -81,6 +82,7 @@ QBRs include account teams, leadership, and delegates from across the business:
    1. Finance
    1. People Group
    1. Field Recruiting Team
+   1. Customer Reference 
 1. Field executives (VP+) will participate in these sessions when possible
 
 ## QBR Best Practices
@@ -98,6 +100,7 @@ QBRs include account teams, leadership, and delegates from across the business:
 
 ### Best Practices for Attendees 
 1. Please join on time and ensure your microphone is muted to avoid disruptions. 
+1. Please be an active participant in the QBR session – join on video (if possible), answer questions related to your area of expertise/team, and participate in discussions. 
 1. Please contribute by taking notes during the QBRs. Everyone can (and should!) contribute, but delegates from these teams are expected to pitch in on note taking: 
    1. Sales Operations
    1. Field Enablement 
@@ -163,10 +166,10 @@ A: All QBR hosts are required to record their sessions and provide a link to the
          1. ASM-identified top asks will be discussed during their QBR session to identify a final list of prioritized asks.
       1. ASMs will present their region's top asks in the COMM Leadership QBR. 
       1. ASMs and COMM Sales VP will review full list of COMM asks and will deliver a final list of prioritized COMM asks no later than the Monday following the COMM Leadership QBR. 
-   1. Note that SALs/AEs should still read all of their asks as a part of their QBR presentation even if they are not included on the final, prioritized list. ASMs are encouraged to discuss any asks that were not included in the final list with the requestor in their 1:1 to determine how/if any action should be taken. 
+   1. Note that SALs/AEs are not expected to read/dig in to each ask as this will primarily be duplicative to the consolidated regaional asks list shared by the ASMs during the sessions. The ASMs are encouraged to discuss any asks that were not included in the final list with the requestor in their 1:1 to determine how/if any action should be taken. 
       1. Reps can/should make asks of Field Ops at any time outside of QBRs using [this process] (link?).
-1. Sales Ops provides representative coverage at each QBR, and captures a list of Sales Asks/Requests (google sheet/notes) with Links to individual QBR presentations.
-1. Following each QBR session, relevant Sales asks are converted to Issues using the [Field-Ops-QBR-Request](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=FieldOpsQBR) Template.
+1. Sales Ops provides representative coverage at each QBR, and captures a list of prioritized Sales Asks/Requests (google sheet/notes) with Links to individual QBR presentations.
+1. Following each QBR session, prioritized Sales asks are converted to Issues using the [Field-Ops-QBR-Request](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=FieldOpsQBR) Template.
 	- Issues opened through above template, will automatically apply the (global) `QBR` label to ensure they’re categorized appropriately for review.
 
 ### Execution and Tracking

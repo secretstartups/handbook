@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Flash Newsletter - Edition 2020-07-07"
+description: "June edition of the Field Flash Newsletter sent to the GitLab Field (Sales, CS, SDR) team and stakeholders"
 ---
 
 ## On this page
@@ -43,7 +44,7 @@ Not one, but two new case studies are available. Learn why global tech company N
 
 We recently added a Cross-Culture Collaboration Guide to the Handbook to help GitLab team members practice effective and inclusive communication and cross-cultural collaboration globally; irrespective of culture or background. [See the Handbook for Details -->](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
 
-The Field team is piloting Focus Fridays through the Summer. Consider adopting Focus Fridays in your schedule to allow time for focused work and reduce potential burnout. [See the Handbook for Details -->](/handbook/sales/#focus-fridays)
+The Field team is piloting Focus Fridays through the Summer. Consider adopting Focus Fridays in your schedule to allow time for focused work and reduce potential burnout. [See the Handbook for Details -->](/handbook/sales/sales-meetings)
 
 ### Did You Know? 🔢
 Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for TAMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
@@ -70,9 +71,9 @@ The Deal Desk team used your **feedback from the recent Quote to Cash survey** t
 
 ----
 The Customer Reference Team is actively managing our presence on Peer Review sites such as [Gartner Peer Insights](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab) and [G2](https://www.g2.com/products/gitlab/reviews). These sites also give us active Customer Quote Assets that can serve as **helpful resources for *you* to help demonstrate the value of GitLab to your customers and prospects**. For more information:
-1. Learn more about how we manage Peer Reviews on [this Handbook page](/handbook/marketing/product-marketing/customer-reference-program/peer-reviews/)
+1. Learn more about how we manage Peer Reviews on [this Handbook page](/handbook/marketing/strategic-marketing/customer-reference-program/peer-reviews/)
 1. View [assets you can drop into your slide deck](https://docs.google.com/presentation/d/13tHJ1BgABMTwt0gZeP_hZK0B96Ui2FUrMWFVmFtT9Nw/edit#slide=id.g6e8641c747_0_8)
-1. Find out how to make a [Peer Review Request](/handbook/marketing/product-marketing/customer-reference-program/peer-reviews/#requesting-peer-review-help-in-an-issue) if you don't see what you need
+1. Find out how to make a [Peer Review Request](/handbook/marketing/strategic-marketing/customer-reference-program/peer-reviews/#requesting-peer-review-help-in-an-issue) if you don't see what you need
 
 ### What's New in GitLab 🚀
 The GitLab [13.1 release](https://about.gitlab.com/releases/2020/06/22/gitlab-13-1-released/) is live! Here are the takeaways for customers and prospects:
@@ -134,4 +135,3 @@ To nominate a peer, fill out the [nomination form](https://forms.gle/cBjiRzQ7y87
 *See the [Field Flash Newsletter handbook page](/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
 
 *Archive: Edition 4, Description: June 2020 Field Flash*
-

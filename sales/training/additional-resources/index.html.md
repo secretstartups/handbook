@@ -133,7 +133,7 @@ Here are a few examples about how to start a conversation with a prospect who st
 
 Hi [prospect] and thanks for your interest in GitLab.
 
-In case you didn't see the email from our license app, I've attached a copy of your trial license key. Let me know if you need help installing or configuring GitLab.
+In case you didn't see the email from our LicenseDot, I've attached a copy of your trial license key. Let me know if you need help installing or configuring GitLab.
 
 Perhaps let me know what's driving your interest, what you're looking to validate during the trial period and how we can help you (demo, docs technical support etc).
 

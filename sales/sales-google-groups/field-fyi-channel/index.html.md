@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field-FYI Slack Channel"
+description: "GitLab's official field announcements channel"
 ---
 
 ## On this page

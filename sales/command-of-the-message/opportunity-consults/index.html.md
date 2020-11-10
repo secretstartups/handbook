@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Opportunity Consults"
+description: "Opportunity consults are deal reviews that focus on helping a sales team member maximize the likelihood of winning and securing the customer's business"
 ---
 
 {::options parse_block_html="true" /}

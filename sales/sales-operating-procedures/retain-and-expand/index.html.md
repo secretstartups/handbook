@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Retain and Expand"
+description: "GitLab sales process to retain customers and expand GitLab's footprint and value to the customer"
 ---
 
 ## On this page
@@ -102,7 +103,7 @@ Below are the **WEEKLY TASK** you’ll need to perform within Clari.
 *   **Clari-Forecast Values (Net New)** - Document regional news, success stories, closed, won, and organizational issues
 *   **Clari-Forecast Value (Renewal)** - Document and discuss field marketing details with your patch.
 
-For in-depth training on Clari go to the [Clari for Salespeople Instructional Videos](/handbook/sales/#clari-for-salespeople-instructional-videos).
+For in-depth training on Clari go to the [Clari for Salespeople Instructional Videos](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos).
 
 
 ### 3.3 Conduct [Executive Business Reviews](/handbook/customer-success/tam/ebr/) (TAMs)

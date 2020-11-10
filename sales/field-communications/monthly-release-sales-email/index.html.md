@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Monthly Release Email to Sales"
+description: "Following each GitLab release on the 22nd of each month, Field Communications sends out an email template that members of the sales organization can repurpose to send to their customers and prospects"
 ---
 
 ## On this page

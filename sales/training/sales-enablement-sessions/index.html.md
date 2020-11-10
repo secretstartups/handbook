@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Enablement Sessions"
+description: "Continuous education webcast series for GitLab sales team members" 
 ---
 
 ## On this page
@@ -18,17 +19,28 @@ title: "Sales Enablement Sessions"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Fall 2020 Lineup**
+**Winter 2020 Lineup**
 
-| DATE   | TOPIC                                                                    | SPEAKERS                                       |
+| DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Oct 22 | No sessions during last two weeks of a quarter                           | N/A             |                                   
-| Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
+| Nov 12 | [Demonstrate the way GitLab evaluates and completes software purchases](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/484) | Jeff Beaumont |
+| Nov 19 | [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/76) | Annie Rooke & Ed Cepulis |
+| Nov 26 | **Cancelled due to Holiday** |
+| Dec 3 | [Deal qualification: Best practices in figuring out if you truly have a deal](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/2) | Timm Ideker |
+| Dec 10 | [GitLab Product Tiers Training Refresher](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/85)  | Saumya Upadhyaya |
+| Dec 17 | [Q4 FY21 GitLab Product Release Update for Sales](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/83)  | Brian Glanz |
+| Dec 24 | **Cancelled due to Holiday** |
+| Jan 7 | [Q4 FY21 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/82) | Mahesh Kumar |
+| Jan 14 | [Red Hat Partner Session](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/89) | Vick Kelkar |
+| Jan 21 | *No sessions during last 2 weeks of the quarter*
+| Jan 28 | *No sessions during last 2 weeks of the quarter*
+                                                                                                                                                            
 
 ## Past Sessions
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-11-05 | **[Co-Selling with Google - Alliance Overview](https://youtu.be/albyLzQNo7U)** | Private |
 | 2020-10-15 | **[Proof Points & Analyst Resources Update](https://youtu.be/B0-Y4SNVfXU)**  | Private      |
 | 2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
 | 2020-10-01 | **[Leveraging the GitLab/VMware Alliance](https://youtu.be/unpgyIR9yH0)**      | Private
@@ -60,7 +72,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2020-03-19 | **[True-Ups](https://youtu.be/vNWUz1BGs2E)** | Public |
 | 2020-03-12 | **[The GitLab Journey & The SCM Use Case](https://youtu.be/GN891Bqc6QY)** | Public |
 | 2020-03-05 | **[The GitLab Journey & The CI Use Case](https://youtu.be/JoeaTYIH5lI)** | Public |
-| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/product-marketing/release-updates/#123128-sales-enablement)** | Public |
+| 2020-02-27 | **[Q1 FY21 GitLab Release Update](/handbook/marketing/strategic-marketing/release-updates/#123128-sales-enablement)** | Public |
 | 2020-02-06 | **[SKO Preview](https://youtu.be/wFqMfGSXsXQ)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Ops Section](https://youtu.be/dLBPS1T5Wbk)** | Public |
 | 2020-01-13 | **[FY21 Product Outlook - Secure and Protect](https://youtu.be/jbuvqD2Ge3M)** | Public |
@@ -114,12 +126,12 @@ There are a few places to see previous Sales Enablement sessions:
 - Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
 ### Enablement pages
-- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/product-marketing/enablement/github-ci-cd-faq/)
-- [Cloud Native Ecosystem](/handbook/marketing/product-marketing/enablement/cloud-native-ecosystem/)
-- [Enterprise IT Roles](/handbook/marketing/product-marketing/enterprise-it-roles/)
+- [GitLab CI/CD for GitHub FAQ](/handbook/marketing/strategic-marketing/enablement/github-ci-cd-faq/)
+- [Cloud Native Ecosystem](/handbook/marketing/strategic-marketing/enablement/cloud-native-ecosystem/)
+- [Enterprise IT Roles](/handbook/marketing/strategic-marketing/enterprise-it-roles/)
 - [How to set up Chorus.ai call recording](/handbook/business-ops/tech-stack/#chorus)
-- [GitLab Serverless FAQ](/handbook/marketing/product-marketing/enablement/serverless-faq/)
-- [GitLab.com Subscriptions](/handbook/marketing/product-marketing/enablement/dotcom-subscriptions/)
+- [GitLab Serverless FAQ](/handbook/marketing/strategic-marketing/enablement/serverless-faq/)
+- [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
 
 ### To request new sales enablement sessions

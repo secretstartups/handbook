@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Certification: Strategic Account Leaders"
+description: "To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members"
 ---
 
 ## Field Certification Program for Strategic Account Leaders
@@ -10,7 +11,7 @@ title: "Field Certification: Strategic Account Leaders"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a  certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
+To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
 
 Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
 
