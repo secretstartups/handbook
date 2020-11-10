@@ -9,9 +9,9 @@ title: "Datastores Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Who We Are
+## Who We Are (WIP)
 
-The Datastores team owns our persistent storage platforms, namely our PostgreSQL databases (our main priority) and our Gitaly backend service.
+The Datastores team owns our persistent storage platforms in GitLab, namely our PostgreSQL databases (our main priority) and our Gitaly backend service.
 
 PostgreSQL Databases we look after in Gitlab:
 - Staging cluster.
@@ -30,7 +30,6 @@ Gitaly components we maintain:
 - Gitaly App.
 - Praefect - as part of our [Gitaly Cluster architecture](https://docs.gitlab.com/ee/administration/gitaly/praefect.html).
 
-<br></br>
 
 Datastores is:
 
