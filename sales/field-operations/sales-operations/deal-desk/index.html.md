@@ -76,7 +76,7 @@ The Deal Desk team is located around the world and will be available during stan
 *  Cal Baker - Seattle, WA
 
 **APAC**
-*  Kriti D'Souza - Pune, India 
+*  Kriti D'Souza - Pune, India (Currently on leave from November 2020 to May 2021)
 
 #### Salesforce Chatter Communication
 
