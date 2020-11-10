@@ -73,7 +73,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>OPTIONAL Plan and Manage Work with GitLab</li>
 <li>QUIZ:  GitLab Portfolio</li>
 >
-<b>GitLab Customers and Personas
+<b>GitLab Customers and Personas:</b>
 
 <ul>
 <li>GitLab Value - Discovery Guide</li>
