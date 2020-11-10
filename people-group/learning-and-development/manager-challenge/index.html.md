@@ -11,11 +11,11 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the 4 Week Manager Challenge in September 2020, "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books) 
+Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books) 
 
-L&D will be rolling out another iteration during the month of January 2021. The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch recordings of the live learning courses.  
+L&D will be rolling out a three-week iteration of the program during the month of January 2021.** The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue**](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
-All details relating to the program can be found on this page. 
+All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAwJfDTpSrjif5SxoE7Wsge3D501ENSyHucL4xmORypSSlsdCPIReeV3tKaiCinv_G7yHIKQh5ljA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -23,8 +23,8 @@ All details relating to the program can be found on this page.
 
 ### Manager Challenge Learning Objectives
 
-You may be asking yourself what you will achieve by taking part in the Manager Challenge program. Our goal is that participants walk away with the following skills after completing the four-week challenge: 
-- Improve your performance by strengthening your management skills
+You may be asking yourself what you will achieve by taking part in the Manager Challenge program! Our goal is that participants walk away with the following skills after completing the four-week challenge: 
+- Improve your team performance by strengthening management skills
 - Develop a management style that incorporates a whole-person approach to leading others
 - Apply and learn GitLab Leadership best practices into your management role
 - Demonstrate the application of High Output Management principles 
@@ -44,11 +44,11 @@ The program is intended to build a set of baseline skills that complement our va
 
 **How will it help**
 
-Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management techniques. 
+Learn the basic principles of what it means to be a manager using a whole-person approach to leadership. The curriculum was built using principles from the book High Output Management, interviews with senior leaders, and GitLab management practices. 
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20 minutes) and live learning sessions (1 hour). Complete the weekly learning evaluations, comment on the challenge issues, and the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
 
 ### Week 1
 
