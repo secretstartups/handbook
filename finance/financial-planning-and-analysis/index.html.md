@@ -339,23 +339,23 @@ Throughout the year the Executive Business Partner team puts together a calendar
 
 Below is a table showing the structure of GitLab departments as they exist in NetSuite. Please [check out the Team Page](/team/chart) to see our org chart.
 
-|Cost of Sales        |Sales               |Marketing                 |R&D                    |G&A | GitLab.com | GitHost |
-|:------:             |:------:            |:------:                  |:------:               |:------:|:------------: | :------------: |
-|Education Delivery   |Business Development|Content Marketing         |Product Strategy       |Business Operations|
-|Consulting Delivery  |Channel             |Sales Development         |Infrastructure         |CEO        |
-|Customer Support     |Commerical Sales    |Field Marketing           |Development            |Finance    |
-|                     |Practice Management |Partner Marketing         |Quality                |People Success |
-|                     |Customer Success    |Strategic Marketing       |Security               |Recruiting |
-|                     |Enterprise Sales    |Brand & Digital Design    |UX                     |Legal           |
-|                     |Field Operations    |Marketing Ops             |Product Management     |Accounting            |
-|                     |                    |Inbound Marketing         |                       | |  
-|                     |                    |Campaigns                 |                       | |
-|                     |                    |Digital Marketing         |
-|                     |                    |Owned Events              | | |
-|                     |                    |Sponsored Events          | | |
-|                     |                    |Community Relations       | | |
-|                     |                    |Communications         | | |
-|                     |                    |Awareness                 | | |
+|    Cost of Sales    |        Sales         |       Marketing        |        R&D         |         G&A         | GitLab.com |
+| :-----------------: | :------------------: | :--------------------: | :----------------: | :-----------------: | :--------: |
+| Education Delivery  | Business Development |   Content Marketing    |  Product Strategy  | Business Operations |
+| Consulting Delivery |       Channel        |   Sales Development    |   Infrastructure   |         CEO         |
+|  Customer Support   |   Commerical Sales   |    Field Marketing     |    Development     |       Finance       |
+|                     | Practice Management  |   Partner Marketing    |      Quality       |   People Success    |
+|                     |   Customer Success   |  Strategic Marketing   |      Security      |     Recruiting      |
+|                     |   Enterprise Sales   | Brand & Digital Design |         UX         |        Legal        |
+|                     |   Field Operations   |     Marketing Ops      | Product Management |     Accounting      |
+|                     |                      |   Inbound Marketing    |                    |                     |
+|                     |                      |       Campaigns        |                    |                     |
+|                     |                      |   Digital Marketing    |
+|                     |                      |      Owned Events      |                    |                     |
+|                     |                      |    Sponsored Events    |                    |                     |
+|                     |                      |  Community Relations   |                    |                     |
+|                     |                      |     Communications     |                    |                     |
+|                     |                      |       Awareness        |                    |                     |
 
 
 ## By Function - Where GitLabbers Report
