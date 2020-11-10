@@ -67,7 +67,7 @@ that you observe the following:
    iteration, or when there's a strong risk that emotions will be running high,
    it's almost always worth the cost to have everyone in a video meeting to talk
    through the retrospective in real-time.  Consider not recording the meeting if the
-   team prefers to not do so in order to be able to speak freely.  If you do a meeting,
+   team prefers to not do so in order to be able to speak freely.  If the team chooses to do a meeting,
    consider scheduling it twice with one time good for those in EMEA and Eastern AMER time zones, and
    one time good for those in APAC and Western AMER time zones.  Also, consider having managers not attend
    so that attendees feel they can speak freely.
