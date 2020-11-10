@@ -85,7 +85,7 @@ Please use the following analysis of your pipeline to get the most accurate mont
 1. Find your total Closed Won "CW" pipeline
 2. Find the iACV in your Current Active pipeline. Forecast this bucket by weighted amounts (it can be weighted by each stage to be micro, or an average weight based on your close ratio). Manual work is taken into account here. You may have top value deals that need to be adjusted, closing at 100% for best case, or maybe 0-low x% worst case/commit.
 3. The next important number is your expected pipeline growth. On average how much pipeline do you create and close each week. As months (or quarters) continue does the close rate decrease or increase. Typically it decreases therefore the average amount created+closed per day as the month (or quarter) continues goes down and then restarts day 1 of the next month (or quarter)
-4. Finally you will use the following equations to get yuour 50/50, best case, and commit number to forecast, all using Gross iACV as the renewal loss will be calculated into this equation based on the input in Clari
+4. Finally, use the following equations to get your 50/50, best case, and commit number to forecast. This is all using Gross iACV as the renewal loss will be automatically calculated into this equation based on the input in Clari
 - CW + (Active * x%) + (Growth * x%) = 50/50
 - CW + ((active  - top deals)* x% + top deals at 90-100%) + (Growth * x%) = best case
 - CW + ((active  - top deals)* x% + top deals at 0-20%) + (Growth * x%) =  commit/low
