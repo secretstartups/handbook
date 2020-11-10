@@ -92,7 +92,7 @@ Once the sync has taken place to LawLogix, the **People Experience Associate** w
 
 - At some point the above will be sent automatically once the sync happens. 
 
-In the event that the automcation fails, the **People Experience Associate** can run the command `/pops run uploadtoi9 bambooid` in Slack, which will then automatically add the new team member to LawLogix.
+In the event that the automation fails, the **People Experience Associate** can run the command `/pops run uploadtoi9 bambooid` in Slack, which will then automatically add the new team member to LawLogix.
 
 The steps below serve as a guide for the **People Experience team** completing the I-9 process, once the new team member has completed Section 1:
 
@@ -203,6 +203,7 @@ The CES team will complete the following [steps](/handbook/hiring/recruiting-fra
 ##### New team member rejects offer
 - If a new team member has already been marked as hired in Greenhouse and the sync has taken place, and the candidate thereafter rejects our offer, the CES team will notify the Senior Director, People Success in the `#people-group-confidential` Slack channel, also tagging the People Experience team for visibility. 
 1. Once confirmed, verify that the profile has been deleted and updating the People Exp team onboarding tracker to remove this candidate. 
+1. If a GitLab email address has already been created, proceed with deleting the email address from GSuite account. 
 
 **It is important that this step is completed as soon as possible to prevent any issues with the automation**
 
@@ -214,7 +215,6 @@ The CES team will complete the following [steps](/handbook/hiring/recruiting-fra
   * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
 1. **Region:** If not: the three options are Americas, EMEA, or JAPAC.
 1. **Work Email** Add the GitLab email created previously in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created.
-1. After verifying the work email entered and saved, go to top right corner, and set access level to **"Employee Self-Service"**.
 
 #### Jobs Tab
 
@@ -370,7 +370,9 @@ Each assigned People Experience Associate will send their new team members our C
 
 - The new team member will automically recieve an "Welcome to Onboarding" email. The People Experience team will be CCd on this process. More information about this email is [here.](handbook/people-group/engineering/email-automation/)
 
+- **Update BambooHR self-service option for the team member<a name="self-service"></a>
 
+Once you have logged into BambooHR, locate the team members profile, go to top right corner, and set access level to **"Employee Self-Service"**.
 
 - **Send password reset email**<a name="request-code"></a>
 
@@ -382,8 +384,6 @@ Each assigned People Experience Associate will send their new team members our C
 1. Click `email password`
 1. The People Experience Associate should insert their email address and click `send` (do not insert the new team member's email address here).
 1. Once the email is received, the People Experience Associate should forward to the new team member's `personal email address`. Please add the new team member's GitLab email address in the body of the email where it says "Hello [new team member name], [_____@gitlab.com].
-
-
 
 
 - **Invite to swag store**<a name="swag-store"></a>
@@ -468,7 +468,7 @@ If a GitLab team-member is in need of supplies and is unable to purchase the ite
 
       * Unpaid interns are not required to complete an I9.
 
-2. Once the Internship has been completed, terminate the intern in the Fragomen system.
+2. Once the Internship has been completed, terminate the intern in the LawLogix system.
 
 3. If an intern is hired on for a full time position and there is a break in employment a re-verification (Section 3) will need to be completed.
 
