@@ -25,8 +25,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 | 2020-11-25 | Family & Friends Day
 | 2020-11-26 | Public Holiday (US)
 | 2020-12-18 | Family & Friends Day
-| 2020-12-25 | Public Holiday
-| 2021-01-01 | Public Holiday 
+| 2020-12-24 to 2021-01-04 | Holiday Break - Minimal Staffing
 | 2021-01-15 | Family & Friends Day
 | 2021-01-18 | Public Holiday (US)
 | 2021-02-15 | Public Holiday (US)
