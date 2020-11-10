@@ -31,7 +31,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>Partner Portal</li>
 <li>Deal Registration</li>
 <li>You’ve Got Issues</li>
-</ul
+</ul>
 >
 <b>DevOps Technology Landscape:</b>
 
