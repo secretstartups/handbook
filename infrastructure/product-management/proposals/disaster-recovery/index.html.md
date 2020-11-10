@@ -82,7 +82,7 @@ State that we will restore service for free users as quickly as we can, but offe
 
 Based on these targets, since we can tolerate some outage time without breaching our SLA, near immediate RTO and RPO provided by the Hot Standby option is likely overkill for what we need (though we can consider offering a hot standby as a paid feature in future iterations).
 
-As discussed in the Target Customer section, we believe that giving free customers the same RTO/RPO guarantees as premium customers would remove an important incentive for them to up-tier. Therefore, we propose treating free users differently than premium users from an Infrastructure standpoint and recommend going with option 2 for premium customers and option 3 for free customers as a way to cut down on overall cost to support this feature. 
+As discussed in the Target Customer section, we believe that giving free customers the same RTO/RPO guarantees as premium customers would remove an important incentive for them to up-tier. Therefore, we propose treating free users differently than premium users from an Infrastructure standpoint and recommend going with the Warm Standby option for premium customers and the Cold Standby option for free customers as a way to cut down on overall cost to support this feature. 
 
 ## Cost Implications
 We're tracking the infrastructe cost impact of this proposal [here](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11591).
