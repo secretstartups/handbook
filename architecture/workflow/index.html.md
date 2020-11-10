@@ -14,7 +14,7 @@ With growth, however, comes complexity. An organic approach to our work sometime
 Most (if not all) work begins with an issue or epic (which we will generally refer to as a **domain issue** in this document) in a project as part of you regular workflow. These are everyday issues and epics created in their relevant projects. Engineers and managers use a domain issue to scope problems and possibly outline solutions. If the domain issue uncovers significant complexity (in terms of the problem domain itself or the organizational involvement required to solve it), engineers and managers may decide to invoke the Architecture Evolution Workflow to enlist help from technical Engineering Leaders and other relevant experts.
 
 1. Determine with your manager whether to invoke the workflow.
-1. Open an **architecture issue** (project TBD), which tracks progress of the workflow itself.
+1. Open an **architecture issue** in [architecture/tasks](https://gitlab.com/gitlab-org/architecture/tasks) project, which tracks progress of the workflow itself.
    1. Add a sensible title, and a brief summary and a link to the domain issue in the description.
    1. Proposal DRIs: assign the architecture issue to yourself, your manager, and an Architecture Evolution Coach (AEC); as we make progress and identify a management Engineering Leader, this individual will replace your manager as a DRI.
 1. Open an **architecture blueprint [merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/)**
