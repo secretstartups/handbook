@@ -187,11 +187,7 @@ For the pilot Manager Challenge program, the Learning & Development team held a 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v_ohUbaRFFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </figure>
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
 
 ## Pilot Program 
 
@@ -202,6 +198,16 @@ Pilot Program:
 - 4 Live Learning Sessions (1 hour)
 - 4 Weekly Self Evaluations and Reflections (10 minutes)
 - Certification Upon Completion
+
+Pilot Kickoff Video: 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/gSMrv9CiqOk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+Check out the animated explainer video for the challenge
 
 <!-- blank line -->
 <figure class="video_container">
