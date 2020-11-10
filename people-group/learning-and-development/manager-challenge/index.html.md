@@ -69,7 +69,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 ### Week 2
 
-During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages: 
+During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
 - [Leadership ](/handbook/leadership/)
 - [1-1](/handbook/leadership/1-1/)
 - [Guidance on Feedback](/handbook/people-group/guidance-on-feedback/)
@@ -104,7 +104,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over the course of 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
 1. **When is the next session?**
      - The next session will be launched on 2020-01-11 for any people leader interested in attending.
 1. **Do I have to participate?**
@@ -116,7 +116,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 1. **I have a lot of management experience, will this help?**
      - No matter your level or tenure as a manager, we can all take time out of our busy days to grow our management and leadership skills. The more practice the better and we hope that you will find the program applicable to your job.
 1. **What skills will I be building?**
-     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team and much more!  
+     - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team, and much more!  
 1. **How does this complement our values?**
      - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
