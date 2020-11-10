@@ -15,7 +15,7 @@ The ability for GitLab.com to recover from a disaster scenario has been a top re
 ## Current Capabilities
 GitLab.com is primarily based around Google Cloud Platform services and [resources in the US-East region](/handbook/engineering/infrastructure/production/architecture/) in addition to dependening upon CDN, global routing, and edge network services from Cloudflare.
 
-The GitLab.com systems are based on the same codebase that GitLab self-managed customers enjoy. Our aim is to deliver improved disaster recovery capabilities for GitLab.com while continuing to use and improve the GitLab product. While GitLab.com presents unique challenges due to its large scale, addressing these challenges and extending the solutions to self-hosted customers will help them scale out their own GitLab operations as they grow.
+The GitLab.com systems are based on the same codebase that GitLab self-managed customers enjoy. Our aim is to deliver improved disaster recovery capabilities for GitLab.com while continuing to use and improve the GitLab product.
 
 GitLab.com has implemented scaling features significantly larger than our largest published reference architecture to provide for resiliency and availability of GitLab.com services in the single US-East region. Additionally, GitLab.com employs technology and process to ensure that healthy backups of stateful data systems are taken on a frequent schedule. More importantly, we test that these backups can successfully be restored.
 
@@ -31,13 +31,13 @@ We identify the following failure scenarios based on portion of infrastructure a
 1. Within-Zone outage
     - Ex: Gitaly Node Failures
 
-This doc mainly focuses on addressing scenario #1 since we don’t currently have any protection against a GCP regional outage, but have some durability against zonal failures. To better improve our durability against zonal outages, we are planning to roll out HA solutions like Gitaly Cluster and move critical frontend services to [zonal clusters](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1175), but those details out of scope for this document. Recovery Time Objective (RTO) and Recovery Point Objective (RPO) targets proposed later in this document, however, should apply to all scenarios above. While some of the capabilities we build to address scenario #1 may be used in situations #2 and #3, those use cases are not the primary focus of this effort. Individual repo and project restores for specific customers are also out of scope for this document. 
+This document focuses on addressing scenario #1 since we don’t currently have any protection against a GCP regional outage, but have some durability against zonal failures. Recovery Time Objective (RTO) and Recovery Point Objective (RPO) targets proposed later in this document, however, should apply to all scenarios above. To better improve our durability against zonal outages, we are planning to roll out HA solutions like Gitaly Cluster and move critical frontend services to [zonal clusters](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1175). While some of the capabilities we build to address scenario #1 may be used in situations #2 and #3, those use cases are not the primary focus of this effort. Individual repo and project restores for specific customers are also out of scope for this document. 
 
 ## Target Customer
 We are primarily targeting GitLab.com customers in Silver+ with this initiative. However, we recognize that many small teams/hobbyist developers in the free tiers rely on Gitlab.com to host important projects so we must have basic DR capabilities in place for them as well. Because we already provide a [great deal of value](https://about.gitlab.com/pricing/) in the free tier and are trying to [increase the number of customers in higher tiers](/direction/enablement/dotcom/#overview), as a business we can tolerate higher RTO/RPO times for free customers compared to premium customers.
 
 ## Customer Feedback
-In general when buyers are considering GitLab.com, they want to be assured that we have the ability to restore service to GitLab.com in this case of a disaster. In-flight opportunities mentioning the need for Disaster Recovery add up to $5MM in ARR.
+In general when buyers are considering GitLab.com, they want to be assured that we have the ability to restore service to GitLab.com in the case of a disaster. In-flight opportunities mentioning the need for Disaster Recovery add up to $5MM in ARR.
 
 While we don’t expect DR capabilities to make or break a particular deal, it’s important that we provide enterprise customers -- many of whom have their own business continuity plans in place for their own customers -- some level of guarantee that their data can be restored in the case of a disaster. Lack of a DR solution would impact retention since some customers might move their workloads out of GitLab.com should it be down for a significant period of time. 
 
