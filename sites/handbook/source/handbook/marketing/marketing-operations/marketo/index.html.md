@@ -164,7 +164,14 @@ Below is the folder structure to hold and categorize different operational progr
 
 * Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
 
-## Lists
+## Lists and Segmentation
+
+## Segmentations
+Marketo segmentations are used similar to a smartlist, but they are permanent and can only be changed by marketing ops. They are used to create dynamic content (emails and landing pages) and are used for faster processing of lists. Segmentations are constantly running in the background in Marketo, so they never need to be refreshed for current numbers. We can only have 20 total segmentations in Marketo. Segmentation criteria waterfalls down based on the order of the segment lists that make up the segmentation. You can only be in one segment of a segmentation. 
+
+These are the current segmentations that are alive and approved.
+- [Compliant and Emailable(https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
+- [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
 
 ### Account Based Marketing List   
 
