@@ -779,7 +779,7 @@ Examples of previous release post intros written by PMM:
 
 #### Linking to external blogs
 
-The introducton or other parts of the release post written by the Messaging lead may include links to external blogs posts. It is important that the Messaging lead coordinates with authors of these external blogs to make sure they're live before e the release post manager pushs the release post blog live on the 22nd. 
+The introduction or other parts of the release post written by the Messaging lead may include links to external blogs posts. It is important that the Messaging lead coordinates with authors of these external blogs to make sure they're live before the release post manager pushes the release post blog live on the 22nd. 
 
 ### CTA
 
