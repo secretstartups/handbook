@@ -14,9 +14,9 @@ GitLab has created a robust training and certification program to enable partner
 
 **Why get certified?**
 
-<img src="/images/partnerenablement/doc-pencil.png" width="150" alt="" title="GitLab Certifications"> <img src="/images/partnerenablement/illustration_announcement.png" width="150" alt="" title="GitLab Certifications">
+<img src="/images/partnerenablement/doc-pencil.png" width="150" alt="" title="GitLab Certifications">    <img src="/images/partnerenablement/illustration_announcement.png" width="175" alt="" title="GitLab Certifications">
 
-Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!
+**Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!**
 
 Training courses, certification exams and other enablement materials can be accessed on the GtlLabPartner Portal (hyperlink).
 
@@ -95,6 +95,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 </details>
 
 <img src="/images/partnerenablement/gitlab-verified-sales-core-personal.png" width="150" alt="" title="GitLab Verified Sales Core Partner">
+
 
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
@@ -190,6 +191,8 @@ Individuals who earn the GitLab Professional Services Engineer (Partner) certifi
 
 Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination. The course material can be found on the [Partner Bootcamp Handbook page ](/handbook/resellers/bootcamp/) as well as the [GitLab Partner Portal ](https://partners.gitlab.com/English/)
 
+
+
 #### GitLab Certified Trainer
 
 We are currently developing a program that will enable select partners (by invitation) to become GitLab Certified Trainers.  Please refer back to this handbook page for updates.
@@ -198,17 +201,15 @@ You can find more about our existing [Train the Trainer program ] (/services/edu
 
 #### Training and Certifications Roadmap FY21
 
-GitLab Partner Sales Professional Certification 
+GitLab Partner Sales Professional Certification **Q4 FY21**
 
 <img src="/images/partnerenablement/gitlab-certified-sales-professional-personal.png" width="150" alt="" title="GitLab Certified Sales Professional">
 
-Q4 FY21
 
-GitLab Partner Solutions Architect (SA) Certification
+GitLab Partner Solutions Architect (SA) Certification **Q4 FY21**
 
 <img src="/images/partnerenablement/gitlab-certified-solutions-architect-personal.png" width="150" alt="" title="GitLab Certified Solution Architect">
 
-Q4 FY21
 
 #### Certification Award Process
 
