@@ -90,6 +90,8 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 
 </details>
 
+![ALT](/https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/badges/professional-services/gitlab-certified/partner/png/gitlab-verified-sales-architect-personal.png/image.ext)
+
 
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
