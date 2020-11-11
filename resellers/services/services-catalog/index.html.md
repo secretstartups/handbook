@@ -50,7 +50,7 @@ Offered together these services create a virtuous cycle and create the foundatio
   </tr>
 </table>
 
-## Define Your Service Practice Starting Point 
+<br># Define Your Service Practice Starting Point 
 
 In order to accommodate various service business models, the framework supports three different options for incorporating GitLab into your Service portfolio. 
 
@@ -65,7 +65,7 @@ In order to accommodate various service business models, the framework supports 
    <td>Professional Services
    </td>
    <td>Partners can leverage any combination of the following 3 ways to build their professional services practices:
-<ol>
+
 
 <li>Leverage training and enablement materials and certifications from GitLab to include GitLab into their existing professional services practices.
 
@@ -73,7 +73,7 @@ In order to accommodate various service business models, the framework supports 
 
 <li>Re-label/re-brand the GitLab Professional Services packages and sell them as their own, giving partners the ability to optimally price their services and grow their revenue through tested service delivery models. 
 </li>
-</ol>
+
    </td>
   </tr>
   <tr>
@@ -83,3 +83,74 @@ In order to accommodate various service business models, the framework supports 
    </td>
   </tr>
 </table>
+<br>## Building Your Services Teams
+
+In order to appropriately position your service practice in the market, GitLab suggests that partners hire marketing professionals, sales teams, and service management. Before starting your service practices you should consult with the team in your company who is responsible for market research, competitive analysis and strategic planning to set business goals and direction for your practice. This will ensure the service design, sales and delivery teams are able to focus on creating customer outcomes that will differentiate your organization in the marketplace. 
+
+Below is a description of the functions and resources you will need to design, sell, and deliver your service offerings: 
+
+
+<table>
+  <tr>
+   <td>Service Delivery Phase
+   </td>
+   <td>Service Delivery Consideration
+   </td>
+   <td>Team Member Job Descriptions
+   </td>
+  </tr>
+  <tr>
+   <td>Vision and Scope Definition
+   </td>
+   <td>* Help your customer envision scenarios that drive measurable and positive outcomes.
+<br>
+* Identify the initial or next logical opportunity that can be used to build confidence in your capabilities, services and the solution if you are just beginning or drive additional value for your existing customers.
+<br>
+* Build a roadmap that outlines a path from the smaller, low risk, near term projects to larger initiatives that deliver greater value.	
+   </td>
+   <td><a href="https://about.gitlab.com/job-families/sales/strategic-account-leader/">Account Leaders</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/solutions-architect/">Solution Architects</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/">Professional Services Engagement Manager</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Project Delivery
+   </td>
+   <td>* Design and implement your initial business application solution with the customer.
+<br>
+* Delivery professional training curriculum to the customer’s teams to drive user adoption.
+<br>
+* Capture insights and validate solution/offer design assumptions throughout the process to inform your practice strategy and optimization efforts. 
+   </td>
+   <td><a href="https://about.gitlab.com/job-families/sales/professional-services-practice-manager/">Professional Service Practice Manager</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/professional-services-project-coordinator/">Professional Services Project Coordinator</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/professional-services-project-manager/">Professional Services Project Manager</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/professional-services-engineer/">Professional Services Engineer</a>
+<br>
+<a href="https://about.gitlab.com/job-families/sales/professional-services-engineer/#professional-services-technical-instructor">Professional Services Technical Instructor</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Building on the Initial Engagement
+   </td>
+   <td>* Convert the insights to expand your opportunities with the customer. 
+<br>
+* Offer services to monitor their solution for measurable impacts and benefits, and optimize their solution.
+   </td>
+   <td><a href="https://about.gitlab.com/job-families/sales/technical-account-manager/">Technical Account Manager</a>
+   </td>
+  </tr>
+</table>
+
+
+
+### Training Technical Resources 
+
+For technical staff to function as change agents supporting current and emerging cloud technologies, their buy-in for the use and integration of these technologies is needed. [GitLab offers various sales, technical sales, and professional services learning paths and certifications to enable your technical team members to gain knowledge and validate their capabilities](https://about.gitlab.com/handbook/resellers/training/).  
+
+After your organization has sponsored technical resources to achieve these certifications, you can become a [GitLab Certified Services Partner](https://about.gitlab.com/handbook/resellers/services/).  To learn more about which certification you need 
