@@ -78,6 +78,11 @@ also compared to historical quarters to inform whether the current quarter is ah
 
 [File](https://docs.google.com/spreadsheets/d/1O81k_XpInMqn_pLPdbPJruh_nq0QQthJ9-nOiXZzBf0/edit#gid=2079563316)
 
+## Quota & Capacity Model
+High-level long-range Quota & Capacity model to assess the feasibility of future bookings target and HC needs.
+
+[File](https://docs.google.com/spreadsheets/d/1SzTLYRGYsNUWxijvwryi2i5O2Lh1FpUGwe8RPLi7WwQ/edit?usp=sharing)
+
 ## LAM Dashboard
 This dashboard analyzes the Landed Addressable Market (LAM) offered by our existing customer base
 
