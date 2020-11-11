@@ -17,7 +17,7 @@ The foundation of the GitLab Services Program consists of two elements on which 
 
 
 1. Certifications:  GitLab is delivering new GitLab Certified Service Partner Badges, that include training for service delivery teams which enable partners to meet program compliance requirements. 
-2. <a href="https://about.gitlab.com/handbook/resellers/services/services-catalog/>Service Development Framework</a>:  Partners can utilize GitLab packaged service kits to assist their teams as they build the service offerings, market and sell their services, and support their service business growth. 
+2. <a href="https://about.gitlab.com/handbook/resellers/services/services-catalog/">Service Development Framework</a>:  Partners can utilize GitLab packaged service kits to assist their teams as they build the service offerings, market and sell their services, and support their service business growth. 
 
 
 ## GitLab Certified Service Partner Program Overview
