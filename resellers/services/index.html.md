@@ -17,7 +17,7 @@ The foundation of the GitLab Services Program consists of two elements on which 
 
 
 1. Certifications:  GitLab is delivering new GitLab Certified Service Partner Badges, that include training for service delivery teams which enable partners to meet program compliance requirements. 
-2. Service Development Framework:  Partners can utilize GitLab packaged service kits to assist their teams as they build the service offerings, market and sell their services, and support their service business growth. 
+2. [Service Development Framework] (https://about.gitlab.com/handbook/resellers/services/services-catalog/):  Partners can utilize GitLab packaged service kits to assist their teams as they build the service offerings, market and sell their services, and support their service business growth. 
 
 
 ## GitLab Certified Service Partner Program Overview
@@ -40,7 +40,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
 
 
 
-<img src="/images/channel-service-program/gitlab-professional-services-partner.png" width="150" alt="" titel="GitLab Certified Professional Services Partner">
+<img src="/images/channel-service-program/gitlab-professional-services-partner.png" width="150" alt="" title="GitLab Certified Professional Services Partner">
 
    </td>
    <td style = "text-align: center">
@@ -110,7 +110,7 @@ Partners can achieve multiple certifications or focus on one category based on t
 
 ## GitLab Certified Service Partner Requirements and Progression
 
-At GitLab, Certified Service Partner Certifications are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Certification allows you to enhance your service capabilities and unlock key partner benefits in our Program. 
+At GitLab, Certified Service Partner Certifications are meant to recognize service delivery excellence, technical expertise, and customer success among our partners for GitLab use cases in the DevOps lifecycle. Achieving a GitLab Service Partner Certification allows you to enhance your service capabilities and unlock key partner benefits in our program. 
 
 
 
@@ -142,8 +142,8 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Sales Professional</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Solution Architect</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers,</a> 
 
 <br>and (b) maintain positive Customer Success ratings measured against the following <a href="https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis">Time-to-Value KPIs</a> that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
@@ -193,8 +193,8 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Sales Professional</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Solution Architect</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Managed Services Engineers</a> 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Professional Service Engineer</a> 
 
@@ -259,8 +259,8 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Sales Professional</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Solution Architect</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
+<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> who each have two (2) badges from the <a href="https://about.gitlab.com/services/education/train-the-trainer/">GitLab Train the Trainer Program,</a>
 
 <br>(b) complete the GitLab CTP contract exhibit, and (c) ensure their training services practice maintains an average Customer Satisfaction rating of at least 80% for the GitLab licensed courses their organization delivers to our joint customers. 
