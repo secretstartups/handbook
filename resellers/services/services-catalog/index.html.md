@@ -50,7 +50,8 @@ Offered together these services create a virtuous cycle and create the foundatio
   </tr>
 </table>
 
-<br># Define Your Service Practice Starting Point 
+<br>
+# Define Your Service Practice Starting Point 
 
 In order to accommodate various service business models, the framework supports three different options for incorporating GitLab into your Service portfolio. 
 
@@ -83,7 +84,8 @@ In order to accommodate various service business models, the framework supports 
    </td>
   </tr>
 </table>
-<br>## Building Your Services Teams
+<br>
+## Building Your Services Teams
 
 In order to appropriately position your service practice in the market, GitLab suggests that partners hire marketing professionals, sales teams, and service management. Before starting your service practices you should consult with the team in your company who is responsible for market research, competitive analysis and strategic planning to set business goals and direction for your practice. This will ensure the service design, sales and delivery teams are able to focus on creating customer outcomes that will differentiate your organization in the marketplace. 
 
