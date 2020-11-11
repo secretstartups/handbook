@@ -165,7 +165,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review our [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and consider watching our [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) if you haven't already. 
 - Review the [Performance/Potential Matrix Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit), which delves into definitions for each box. 
 - Determine the appropriate box for each of your team members
-- Add notes for each of your team members to the agenda 
+- Add notes for each of your team members to the agenda, at least 12 hours before the session 
     - An example of notes could include:
         - 2-3 strengths/accomplishments (and supporting examples)
         - 2-3 improvement areas
@@ -182,7 +182,6 @@ The calibration session is one of the most important pieces of the Performance/P
 * Leaders should feel comfortable highlighting team members in other functions
 * Focus on discussing artifacts that are relevant to the performance factor and refrain from discussing artifacts that are not relevant to performance being developing, performing or exceeding. Examples of artifacts which are not relevant: upcoming maternity/parental leave, personal information/home situation or things that were confidentially shared and do not relate to performance. 
 * **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
-
 
 ## Matrix Tool
 
