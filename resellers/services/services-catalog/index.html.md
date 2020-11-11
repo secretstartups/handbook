@@ -148,11 +148,125 @@ Below is a description of the functions and resources you will need to design, s
    </td>
   </tr>
 </table>
-
-
-
+<br>
 ### Training Technical Resources 
 
 For technical staff to function as change agents supporting current and emerging cloud technologies, their buy-in for the use and integration of these technologies is needed. [GitLab offers various sales, technical sales, and professional services learning paths and certifications to enable your technical team members to gain knowledge and validate their capabilities](https://about.gitlab.com/handbook/resellers/training/).  
 
 After your organization has sponsored technical resources to achieve these certifications, you can become a [GitLab Certified Services Partner](https://about.gitlab.com/handbook/resellers/services/).  To learn more about which certification you need 
+
+## Building Your Service Catalog
+
+<img src="/images/channel-service-program/partner-services-virtuous-cycle.png" width="" alt="" title="Partner Services Virtuous Cycle">
+
+
+While GitLab fundamentally changes the way Development, Security, and Ops teams collaborate and build software, the challenges that many organizations are facing require not only a class-leading DevSecOps platform but help and services from trusted service providers to maximize the benefits of that platform. 
+
+For simplicity we group those services into a service catalog made up of four key areas which can be delivered or thought of as phases in a virtuous cycle.   
+
+**Note**: while we have numbered the phases to align with projects where partners are beginning their relationship with a customer, there is no fixed starting point in this virtuous cycle.  For your existing customers, it is actually likely that you might be starting elsewhere in the cycle, the key is working to make sure your relationships are leading you towards a continuous level of engagement with your customers so that you can lead them through the cycle over and over again driving incremental value for the customer and solidifying you as their trusted advisor.
+
+### Strategic Assessments & Planning Services
+
+<img src="/images/channel-service-program/assessments-virtuous-cycle.png" width="" alt="" title="Strategic Assessments & Training Services">
+
+    a. Potential services 
+        i. Assessments discovering, outlining, and validating a customers current state and desired future state 
+            1. DevOps focused
+            2. GitOps focused
+            3. Security/compliance focused
+            4. Comprehensive  - DevSecOps focused 
+            5. GitLab health checks
+            6. Tool, application &/or platform rationalization
+        ii. Strategic plans helping customers set measurable goals for, plan and prioritize activities to minimize the cost and effort to achieve desired future state outcomes
+    b. Business model options - potential services delivered individually or as a bundle, and potentially as a funnel from lower cost services to higher cost services
+        i. Fixed-price packages
+        ii. Variable-price packages
+        iii. Loss-leader offers delivered either free or at discounted rates
+
+### Migration & Implementation Services
+
+<img src= ”/images/channel-service-program/implementation-virtuous-cycle.png” width=”” alt=”” title=”Migrations & Implementation Services”>
+
+
+
+    a. Potential services
+        i. Migrations (examples: GitHub or BitBucket to GitLab; Jenkins to GitLab)
+        ii. Implementations of GitLab (examples: quick start offers; complete VCC (version control & collaboration) or CI implementation)
+        iii. Integrations (example: Jira, other security tools or platforms)
+        iv. Managed or hosted services (examples: managing/operating a customer’s instance of GitLab; ongoing team support or functional expertise) 
+    b. Business model options
+        i. Fixed-price packages
+        ii. Variable-price packages
+        iii. Managed services (MSP) model
+    c. GitLab service kits - practice and offering building assets and templates 
+        i. Datasheet
+            1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232689)
+            2. [Quick Start Implementation](https://partners.gitlab.com/prm/English/s/assets?id=232687)
+        ii. SOW & Project Plan
+            1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232694)
+            2. [Migrations including reselling GitLab Professional Services Automation](https://partners.gitlab.com/prm/English/s/assets?id=232692)
+            3. [Quick Start on GitLab.com](https://partners.gitlab.com/prm/English/s/assets?id=232684)
+            4. [Quick Start - Self Hosted](https://partners.gitlab.com/prm/English/s/assets?id=232685)
+
+### Training & Enablement Services
+
+<img src= ”/images/channel-service-program/training-virtuous-cycle.png” width=”” alt=”” title=”Training Services”>
+
+    a. Potential services
+        i. Training or education
+        ii. Consulting services focused on driving adoption
+        iii. Consulting services focused on establishing, enabling, and measuring success metrics
+    b. Business model options
+        i. Fixed-price packages
+        ii. Variable-price packages
+        iii. Managed services (MSP) model - used for ongoing training(learning platform)-as-a-service
+    c. GitLab service kits - practice and offering building assets and templates 
+        i. [Datasheet](https://partners.gitlab.com/prm/English/s/assets?id=232697)
+
+### Optimization & Transformation Services 
+
+<img src= ”/images/channel-service-program/optimization-virtuous-cycle.png” width=”” alt=”” title=”Optimization Services”>
+
+    a. Potential services
+        i. Platform and process optimization services
+        ii. Platform and process health checks
+        iii. Metrics analysis and reporting services
+        iv. Executive business review preparation and delivery services (at customer cadence: Monthly, Quarterly, Yearly, other)
+    b. Business model options
+        i. Fixed-price packages
+        ii. Variable-price packages
+        iii. Managed services (MSP) model  - The MSP model is uniquely suited to the optimization and transformation phase, essentially enabling a customer to subscribe to a service or set of services that will help the customer ensure that their goals are not only achieved in the short term but also evolved and continuously improved to drive value in real time.
+    c. GitLab Service Guidance  - comparing your optimization and transformation services to GitLab’s Customer Success motion
+        i. For enterprise customers with significant GitLab licensing, GitLab provides a Technical Account Manager who helps customers maximize the value they receive from GitLab.  
+        ii. Here is a link to the [GitLab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/services/) page where you can see the services they provide which are a great starting point for ideating or differentiating your optimization and transformation services.
+
+### Go to Market (GTM) & Aligning With GitLab GTM
+
+It likely goes without saying that you will need to add any GitLab enabled or related services to your Go to Market strategies and execution.  While your GTM is unique to your offerings, your market, and sales and marketing model, we encourage you to understand and align your GTM with GitLab where applicable.
+
+The foundation for GitLab’s GTM is the flow from Why to What to How.
+
+<img src= ”/images/channel-service-program/why-usecases-overall.png” width=”” alt=”” title=”GitLab Use Cases”>
+
+*   Why is the service or product needed, which from a GitLab perspective is tied to one or more of the following value drivers?
+    *   Increase Operational Efficiencies - simplify the software development toolchain to reduce total cost of ownership
+    *   Deliver Better Products Faster - accelerate the software delivery process to meet business objectives
+    *   Reduce Security and Compliance Risk - simplify processes to comply with internal processes, controls and industry regulations without compromising speed
+*   What can the product or service accomplish, which from a GitLab perspective is identified in one of the following primary use cases?
+    *   Version Control and Collaboration (VC&C)
+    *   Continuous Integration (CI)
+    *   Continuous Delivery (CD)
+    *   DevSecOps (Shift Left Security)
+    *   Agile Management
+    *   GitOps
+    *   DevOps Platform
+    *   Cloud Native
+*   How can the service or product meet the needs of the use case(s), which from a GitLab perspective is delivered by the features and functions of our product.
+
+If you want to explore GitLab’s GTM further here are some resources that you might find useful:
+
+
+*   [GitLab’s Customer Value Drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers)
+*   [Why - Use Case Driven Go to Market?](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/#why---use-case-driven-go-to-market)
+*   [GitLab Customer Use Cases](https://about.gitlab.com/handbook/use-cases/)
