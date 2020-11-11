@@ -317,20 +317,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | Brazil | **SMB-AMER-Brazil** | Romer Gonzalez | Bruno Lazzarin |
 | LATAM | Rest of LATAM | **SMB-AMER-SoCenAmer** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **SMB-AMER-Florida** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Quebec** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Ontario** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Great Lakes** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Illinois** | Kaley Johnson | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Northeast** | Michael Miranda / Matt Walsh | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Mid-Atlantic** | Matt Walsh | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Northeast** | Michael Miranda  | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Northeast-CAN** | Matthew Walsh | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Mid-Atlantic** | Anthony Feldman | AMER Commercial - SMB^ |
 | NA East | US East | **SMB-AMER-Southeast** | Kaley Johnson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Mountain** | Adam Pestreich / Michael Miranda | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Northwest** | Marsja Jones | AMER Commercial - SMB^ |
+| NA West | US West | **SMB-AMER-Midwest** | Adam Pestreich | AMER Commercial - SMB^ |
+| NA West | US West | **SMB-AMER-Northwest** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West | **SMB-AMER-Southwest** | Adam Pestreich | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Texas** | Brooke Williamson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Washington** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West  | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
+| NA West | US West  | **SMB-AMER-NorCal/HI** | Marsja Jones | AMER Commercial - SMB^ |
 
 ^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Phillip Knorr and Kelsey Steyn 
 
