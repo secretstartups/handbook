@@ -20,7 +20,7 @@ These sections are independent, so you can take any of them in any order dependi
 GitLab is a single application for the entire DevSecOps lifecycle. To see what GitLab does have a look at this demo video.
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-_CDU6NFw7U&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-_CDU6NFw7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>  
 
 ### GitLab Basics for Developers 
