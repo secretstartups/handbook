@@ -18,11 +18,11 @@ twitter_creator: '@gitlab'
 ## Overview
 In relation to the [FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4), the prescriptive persona-based buyer journeys is as a collaborative effort across all Marketing teams to build cohesive prescriptive persona-based buyer journeys, aligning messaging, channels, content, and offers based on the stage of the buyer journey (placement in the funnel).
 
-## Key Documents
+## Key documents
 
 ### [Epic: Prescriptive Persona-Based Buyer Journeys](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1530)
 
-### Meeting Recordings
+### Meeting recordings
 * [High-Level Content Collaboration](https://www.youtube.com/watch?v=747SlJE4pcA&feature=youtu.be) - [meeting notes](https://docs.google.com/document/d/1xovVtczdg86gFZEpO9ZmHykgNty4HRAIzVIt8Fa21sY/edit)
 * *Enterprise Buyers Journey Mapping (multiple sessions)*
   - [Alignment: Campaigns + Digital](https://youtu.be/Ms0ivTdvrQk) - [meeting notes](https://docs.google.com/document/d/1TVeKfZRtvzxwrKkv6ZLA7ZRNRvuPWoRMMf1RYpBnJU4/edit#heading=h.6nrx6cdzbu7t)
@@ -38,17 +38,17 @@ In relation to the [FY21-22 Segment Marketing Plan](https://docs.google.com/pres
 
 ## How are prescriptive buyer journeys used?
 
-The prescriptive buyer journeys are the foundation for our top-funnel demand generation strategy, mapping the content offers most relevant to the persona based on stage in the funnel (awareness, consideration, decision/purchase). Tapping into our Marketo segmentations and building out targeting logic for our nurture engine will allow us to send the right offer to the right persona at the right time, based on their previous engagement and funnel stage.
+The prescriptive buyer journeys are the foundation for our top-funnel demand generation strategy. We map the content offers that are most relevant to the persona based on stage in the funnel (awareness, consideration, decision/purchase). Tapping into our Marketo segmentations and building out targeting logic for our nurture engine will allow us to send the right offer to the right persona at the right time, based on their previous engagement and funnel stage.
 
 *For example, if they are at an Inquiry state (Top Funnel) and have previously engaged with CI content, they would receive Consideration stage CI content to help them learn more about GitLab and progress to an MQL status, to be followed up with by SDRs.
 
-The first iteration of building these prescriptive buyer journeys was a highly collaborative effort of mapping existing content. The process has helped to identify gaps and reasoning for persona storyboards to dig into the perspective of the buyer, and *then* build content to the needs of the buyer in the given stages.
+The first iteration of building these prescriptive buyer journeys was a highly collaborative effort of mapping existing content. The process has helped to identify content gaps and reasoning for persona storyboards to dig into the perspective of the buyer, and *then* build content to the needs of the buyer in the given stages.
 
 ## Content journey mapping
 
-By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/growth-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](https://about.gitlab.com/handbook/use-cases/). 
+By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/growth-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](https://about.gitlab.com/handbook/use-cases/), which are the building blocks for our [content creation strategy](https://about.gitlab.com/handbook/marketing/growth-marketing/content/content-marketing/#content-creation-strategy). 
 
-We can tailor the a content journey based on the following targeting information: 
+We can tailor a content journey based on the following targeting information: 
 
 1. **Segment:** What size company are we targeting?
 1. **Persona(s):** Who are we talking to and when do we talk to them in the journey? 
@@ -58,7 +58,7 @@ We can tailor the a content journey based on the following targeting information
 If there are multiple personas to target, the digital journey map should identify who we are speaking to per channel.
 
 ## Performing a content gap analysis
-A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey.  It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production. 
+A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey. It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production. 
 
 The content gap analysis is done in two steps: 
 
@@ -67,20 +67,19 @@ The content gap analysis is done in two steps:
 
 It’s critical that the message and content are tailored specifically to the target audience. Avoid diluting the message and experience by loosely fitting existing content in the journey. The content should suit the message exactly. If content does not exist, notify the Marketing Program Manager (project manager) and make a plan to create that content. This may affect the project timeline. 
 
-#### How to Use the Storyboard Template
+#### How to use the storyboard template
 The first step to creating a full-funnel content journey is to storyboard the narrative. Using the template below, write down the message you want to convey at each stage of the funnel. 
-
 
 Each stage has three message columns. When reading across the columns a story should emerge. The last column, labeled _bridge_ and closing message should unite the current and next stage messages. A *bridge* message can also be used to introduce a new use case. For example:
 
 1. An awareness stage bridge message may show how someone can solve a problem using GitLab technology. It doesn’t explicitly call out the benefits of GitLab. 
-1. A consideration stage bridge message may show how a customer achieved success with GitLab. It explicitly calls out the benefits of GitLab. 
-1. A purchase stage closing message may calculate the ROI of implementing GitLab. It explicitly demonstrates why their purchase is a good investment. 
+2. A consideration stage bridge message may show how a customer achieved success with GitLab. It explicitly calls out the benefits of GitLab. 
+3. A purchase stage closing message may calculate the ROI of implementing GitLab. It explicitly demonstrates why their purchase is a good investment. 
 
-### How to Use the Content Journey Template
+### How to use the content journey template
 Once you have completed the storyboard exercise, it’s time to find content that maps to the story. Make a new tab in your spreadsheet so that you have the two templates side by side. 
 
-Begin by filling in each offer. Offers should be high-impact content that can be put behind a gated or form-fill. For example: eBooks, whitepapers, webinars, maturity models, analyst reports. The content may or may not be gated as part of the digital experience. The content you choose for each offer should convey the message you wrote in the storyboard exercise. This may mean either altering existing or creating net new content. 
+Begin by filling in each offer. Offers should be high-impact content that can be put behind a gated or form-fill. For example: eBooks, whitepapers, webinars, maturity models, analyst reports, videos, case studies. The content may or may not be gated as part of the digital experience. The content you choose for each offer should convey the message you wrote in the storyboard exercise. This may mean either altering existing or creating net new content. 
 
 Next, choose your supporting content assets. These can be any type of content and should reinforce the main message. For example, if your message is “I need to learn how to code” and the offer is an eBook on Coding 101, your supporting assets may be a blog post walking through a practical application and a video highlighting the key takeaways from the eBook. 
 
