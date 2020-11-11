@@ -353,20 +353,29 @@ Click the “Related Chatter Object” link to view the original request.
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
 </summary>
 
-**Scenarios (these will grow)**
+## Scenarios (these will expand):
+
 1.  Request to own an Account currently owned by the Sales Admin user:
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
-   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
    - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
    - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
-   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)to assign the account to the correct owner.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
    - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to reassign an account owned by the Impartner Integration user:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to move an account to a Public Sector SAL. 
+   - Since PubSec is excluded from TSP at this time, the process will be different.
+   - Always cc Brent Caldwell on the chatter for awareness.  If unsure, ask Brent to advise on correct owner/territory. 
+   - Reference the [Master Territory List Public Sector Account Coverage](https://docs.google.com/spreadsheets/d/19LmWOxDegBfuPCdFK5e0voIUh7EpmF_OT4H4gY9YHUU/edit#gid=1263929675) sheet to determine the owner and the territory. The master tab will give the overview of the territory / SAL relationship.  The following tabs will list the accounts that belong in each territory.
+   - NOTE: Public Sector accounts use the **Owner field** and the **Account Territory field**. These will be the only 2 fields to update for Public Sector requests. 
+
+     
+
 
 
 
