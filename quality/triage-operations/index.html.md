@@ -107,7 +107,9 @@ or the respective triage report
 [policy YAML files](https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies).
 
 To change who an issue gets assigned to, open a merge request for the above
-files.
+files. If the group definition file is changed, we'll need to
+[run some scripts](https://gitlab.com/gitlab-org/quality/triage-ops#generating-policy-files-and-ci-jobs)
+to update the generated files as well.
 
 ### Newly created unlabelled issues requiring first-triage
 
