@@ -232,7 +232,7 @@ This section is ordered by stage and group according to the [product categories 
 | Secrets Management    | Amer   | JamesM                                                     |
 | Release Evidence      | Amer   | JamesM                                                     |
 | GitLab Pages          | Amer   | John <br> Keven <br> JamesM <br> Brie <br> Davin <br> Phil |
-|                       | EMEA   | Catalin <br> Rehab <br> Katrin                             |
+|                       | EMEA   | Catalin <br> Rehab <br> Katrin <br> Kate                   |
 |                       | APAC   | MikeL                                                      |
 
 #### Configure
