@@ -171,18 +171,18 @@ For simplicity we group those services into a service catalog made up of four ke
 <img src="/images/channel-service-program/assessments-virtuous-cycle.png" width="" alt="" title="Strategic Assessments & Training Services">
 
    a. Potential services 
-        i. Assessments discovering, outlining, and validating a customers current state and desired future state 
-            1. DevOps focused
-            2. GitOps focused
-            3. Security/compliance focused
-            4. Comprehensive  - DevSecOps focused 
-            5. GitLab health checks
-            6. Tool, application &/or platform rationalization
-        ii. Strategic plans helping customers set measurable goals for, plan and prioritize activities to minimize the cost and effort to achieve desired future state outcomes
+     i. Assessments discovering, outlining, and validating a customers current state and desired future state 
+          1. DevOps focused
+          2. GitOps focused
+          3. Security/compliance focused
+          4. Comprehensive  - DevSecOps focused 
+          5. GitLab health checks
+          6. Tool, application &/or platform rationalization
+     ii. Strategic plans helping customers set measurable goals for, plan and prioritize activities to minimize the cost and effort to achieve desired future state outcomes
    b. Business model options - potential services delivered individually or as a bundle, and potentially as a funnel from lower cost services to higher cost services
-        i. Fixed-price packages
-        ii. Variable-price packages
-        iii. Loss-leader offers delivered either free or at discounted rates
+     i. Fixed-price packages
+     ii. Variable-price packages
+     iii. Loss-leader offers delivered either free or at discounted rates
 
 ### Migration & Implementation Services
 
@@ -191,55 +191,55 @@ For simplicity we group those services into a service catalog made up of four ke
 
 
    a. Potential services
-        i. Migrations (examples: GitHub or BitBucket to GitLab; Jenkins to GitLab)
-        ii. Implementations of GitLab (examples: quick start offers; complete VCC (version control & collaboration) or CI implementation)
-        iii. Integrations (example: Jira, other security tools or platforms)
-        iv. Managed or hosted services (examples: managing/operating a customer’s instance of GitLab; ongoing team support or functional expertise) 
+     i. Migrations (examples: GitHub or BitBucket to GitLab; Jenkins to GitLab)
+     ii. Implementations of GitLab (examples: quick start offers; complete VCC (version control & collaboration) or CI implementation)
+     iii. Integrations (example: Jira, other security tools or platforms)
+     iv. Managed or hosted services (examples: managing/operating a customer’s instance of GitLab; ongoing team support or functional expertise) 
    b. Business model options
-        i. Fixed-price packages
-        ii. Variable-price packages
-        iii. Managed services (MSP) model
+     i. Fixed-price packages
+     ii. Variable-price packages
+     iii. Managed services (MSP) model
    c. GitLab service kits - practice and offering building assets and templates 
-        i. Datasheet
-            1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232689)
-            2. [Quick Start Implementation](https://partners.gitlab.com/prm/English/s/assets?id=232687)
-        ii. SOW & Project Plan
-            1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232694)
-            2. [Migrations including reselling GitLab Professional Services Automation](https://partners.gitlab.com/prm/English/s/assets?id=232692)
-            3. [Quick Start on GitLab.com](https://partners.gitlab.com/prm/English/s/assets?id=232684)
-            4. [Quick Start - Self Hosted](https://partners.gitlab.com/prm/English/s/assets?id=232685)
+     i. Datasheet
+          1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232689)
+          2. [Quick Start Implementation](https://partners.gitlab.com/prm/English/s/assets?id=232687)
+     ii. SOW & Project Plan
+          1. [Migrations](https://partners.gitlab.com/prm/English/s/assets?id=232694)
+          2. [Migrations including reselling GitLab Professional Services Automation](https://partners.gitlab.com/prm/English/s/assets?id=232692)
+          3. [Quick Start on GitLab.com](https://partners.gitlab.com/prm/English/s/assets?id=232684)
+          4. [Quick Start - Self Hosted](https://partners.gitlab.com/prm/English/s/assets?id=232685)
 
 ### Training & Enablement Services
 
 <img src= ”/images/channel-service-program/training-virtuous-cycle.png” width=”” alt=”” title=”Training Services”>
 
    a. Potential services
-        i. Training or education
-        ii. Consulting services focused on driving adoption
-        iii. Consulting services focused on establishing, enabling, and measuring success metrics
+     i. Training or education
+     ii. Consulting services focused on driving adoption
+     iii. Consulting services focused on establishing, enabling, and measuring success metrics
    b. Business model options
-        i. Fixed-price packages
-        ii. Variable-price packages
-        iii. Managed services (MSP) model - used for ongoing training(learning platform)-as-a-service
+     i. Fixed-price packages
+     ii. Variable-price packages
+     iii. Managed services (MSP) model - used for ongoing training(learning platform)-as-a-service
    c. GitLab service kits - practice and offering building assets and templates 
-        i. [Datasheet](https://partners.gitlab.com/prm/English/s/assets?id=232697)
+     i. [Datasheet](https://partners.gitlab.com/prm/English/s/assets?id=232697)
 
 ### Optimization & Transformation Services 
 
 <img src= ”/images/channel-service-program/optimization-virtuous-cycle.png” width=”” alt=”” title=”Optimization Services”>
 
    a. Potential services
-        i. Platform and process optimization services
-        ii. Platform and process health checks
-        iii. Metrics analysis and reporting services
-        iv. Executive business review preparation and delivery services (at customer cadence: Monthly, Quarterly, Yearly, other)
+     i. Platform and process optimization services
+     ii. Platform and process health checks
+     iii. Metrics analysis and reporting services
+     iv. Executive business review preparation and delivery services (at customer cadence: Monthly, Quarterly, Yearly, other)
    b. Business model options
-        i. Fixed-price packages
-        ii. Variable-price packages
-        iii. Managed services (MSP) model  - The MSP model is uniquely suited to the optimization and transformation phase, essentially enabling a customer to subscribe to a service or set of services that will help the customer ensure that their goals are not only achieved in the short term but also evolved and continuously improved to drive value in real time.
+     i. Fixed-price packages
+     ii. Variable-price packages
+     iii. Managed services (MSP) model  - The MSP model is uniquely suited to the optimization and transformation phase, essentially enabling a customer to subscribe to a service or set of services that will help the customer ensure that their goals are not only achieved in the short term but also evolved and continuously improved to drive value in real time.
    c. GitLab Service Guidance  - comparing your optimization and transformation services to GitLab’s Customer Success motion
-        i. For enterprise customers with significant GitLab licensing, GitLab provides a Technical Account Manager who helps customers maximize the value they receive from GitLab.  
-        ii. Here is a link to the [GitLab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/services/) page where you can see the services they provide which are a great starting point for ideating or differentiating your optimization and transformation services.
+     i. For enterprise customers with significant GitLab licensing, GitLab provides a Technical Account Manager who helps customers maximize the value they receive from GitLab.  
+     ii. Here is a link to the [GitLab TAM Handbook](https://about.gitlab.com/handbook/customer-success/tam/services/) page where you can see the services they provide which are a great starting point for ideating or differentiating your optimization and transformation services.
 
 ### Go to Market (GTM) & Aligning With GitLab GTM
 
