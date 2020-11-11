@@ -57,6 +57,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
    * Ask the rest of the team for help when needed in `#support_self-managed`
 4. You may see tickets requesting information that is not in the realm of support. For example, you may get a ticket from a job applicant to GitLab requesting information on their application. In these cases, do your best to direct them to an appropriate contact and close the support ticket. In the case of hiring questions, you can ping the #recruiting channel in Slack to inform them that the candidate reached out, and update the candidate via the ticket.
    * There is a macro called `General::Job Application Questions` for hiring-specific questions in Zendesk.
+   * For other common requests, see the [Triaging tickets](/handbook/support/workflows/ticket_triage.html#other-requests) page.
 
 ### FRT Dashboards
 
