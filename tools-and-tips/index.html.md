@@ -147,7 +147,7 @@ The [https://about.gitlab.com](https://about.gitlab.com) site (this site!) lives
 [www-gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/) repo.
 
 The documentation for the site itself is in markdown documents under the
-[`doc` folder in the repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/doc)).
+[`doc` folder in the repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/doc).
 We have decided, for [various reasons](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7234#note_371346396), not to include this documentation in the handbook itself.
 
 ### Local development on www-gitlab-com
@@ -158,7 +158,7 @@ is probably the best place to start.
 
 ### Cloud development on www-gitlab-com with gitpod.io
 
-if you don't want to configure your local machine, there is now a new alternative option
+If you don't want to configure your local machine, there is now a new alternative option
 to use gitpod.io for "local" development in a cloud based environment. See
 [doc/gitpod.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/gitpod.md)
 for more details.
