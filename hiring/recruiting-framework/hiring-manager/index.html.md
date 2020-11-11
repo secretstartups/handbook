@@ -62,9 +62,9 @@ If you have any questions or experience any issues accessing your scorecard, ple
 
 ### Step 5/HM: Complete references
 
-Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. At least 2 references must be completed, and one of them must be a manager or supervisor. 
+Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. A reference check should never be used a decision making tool. At least 2 references must be completed (one of them must be a manager or supervisor), before moving to offer with the candidate. 
 
-Hiring managers are expected to contact references directly and arrange for reference call checks. Some managers [send the reference a brief email](https://gitlab.com/gitlab-com/people-group/hiring-processes/snippets/1933704) stating the purpose of the call and including a Calendly link so that the reference can select a convenient time. You can add a template to your Greenhouse account for quick use.   Some managers also ask the candidate to reach out to their references to expect the email from the manager (as sometimes the email is ignored if the recipient is not expecting it).
+Hiring managers are expected to contact references by call or by email. Some managers [send the reference a brief email](https://gitlab.com/gitlab-com/people-group/hiring-processes/snippets/1933704) stating the purpose of the call and including a Calendly link so that the reference can select a convenient time. You can add a template to your Greenhouse account for quick use.   Some managers also ask the candidate to reach out to their references to expect the email from the manager (as sometimes the email is ignored if the recipient is not expecting it).
 
 In Greenhouse: Configure (the gear on the top right) - Email Templates - My Templates - New. Be sure to create the template as a Team Email under the Type field. If you create the email template with tokens please check the tokens were added correctly upon the first use.
 
