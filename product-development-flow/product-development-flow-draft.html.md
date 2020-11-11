@@ -404,7 +404,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 | Outcomes 	| Activities 	| DRI 	|
 |-	|-	|-	|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Engineering manager checks that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met.<br>- Provide regular status updates to stakeholders. - Provide asynchronous updates to avoid status check-ins and synchronous stand-ups.<br> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues | - Engineer |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Features are tested by the engineer who implemented them (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done))<br>- SET sets testing requirements on the issue -SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning.| - Engineer 	|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done))<br>- SET sets testing requirements on the issue -SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning.| - Engineer 	|
 
 ### Build phase 3: Launch
 
