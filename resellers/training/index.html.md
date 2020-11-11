@@ -101,6 +101,7 @@ This is the basic certification for pre-sales technical professionals and provid
 <details>
   <summary markdown='span">
   GitLab Solution Architect Core
+</summary>
 
 <b>GitLab Integrations:</b>
 
@@ -156,7 +157,7 @@ Gitlab offers Sales and technical certifications that are designed to ensure Par
 
 <details>
   <summary markdown='span'>
-  GitLab Certified  Professional Services Engineer (PSE) Certification **(hyperlink to Partner Portal & Partner Bootcamp handbook page)
+  GitLab Certified  Professional Services Engineer (PSE) Certification
   </summary>
 
 <b>Lesson 1: Code Management and Version Control</b>
@@ -178,7 +179,7 @@ Individuals who earn the GitLab Professional Services Engineer (Partner) certifi
 
 (Insert Logo) 
 
-Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination
+Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination. The course material can be found on the [Partner Bootcamp Handbook page] (/handbook/resellers/bootcamp/) as well as the [GitLab Partner Portal] (https://partners.gitlab.com/English/)
 
 #### GitLab Certified Trainer
 
