@@ -69,6 +69,7 @@ To see what positions are available to submit an external candidate for please v
 
 *  A referral must be sumitted to a **specific requisition** - general referrals are **not** accepted.
 *  If you see `CURRENT TEAM MEMBERS ONLY -` before a requisition, please note that that requsition is for **Internal Team Members only**; please do **not** submit a referral.
+* Please keep in mind that it is up to the Recruiter and/or Hiring Manager's discretion to move forward with your referral once submitted, based on skill/experience alignment to their role.
 
 #### Referral Statuses
 
