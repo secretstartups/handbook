@@ -168,6 +168,8 @@ Gitlab offers Sales and technical certifications that are designed to ensure Par
 <b>Lesson 9: Continuous Integration with Kubernetes</b>
 <b>Lesson 10: Runner Configuration</b>
 
+</details>
+
 GitLab Professional Services Engineer (PSE) Certification Exam
 
 Individuals who earn the GitLab Professional Services Engineer (Partner) certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to articulate the most common GitLab customer use cases.
