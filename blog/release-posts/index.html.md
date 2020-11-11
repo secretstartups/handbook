@@ -234,7 +234,7 @@ If for some reason `bin/release-post-assemble` fails use the following steps to 
 1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`) | *note: leave the `/samples` directory in the same location, don't move it*
 1. Manually move all the images in `/source/images/unreleased/` to `/source/images/x_y/`
 1. Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
-1. `git commit0` and `git push` and you should be good to go
+1. `git commit` and `git push` and you should be good to go
 
 #### Communication
 
