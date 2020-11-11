@@ -341,14 +341,14 @@ Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articl
 
 ### Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, ask a Support manager to delete the files using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only the following Zendesk roles have access to do this:
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. Only the following Zendesk roles have access to do this:
 
 * Support Staff - Explore
 * Support Staff
 * Support Managers
 * Administrators
 
-You can check which role you are assigned to in your Zendesk user profile. If you are not in any of those groups, please reach out to `@support_operations` or `@support-managers` in Slack.
+You can check which role you are assigned to in your Zendesk user profile. If you are not in any of those groups, please reach out to `@support_operations` or `@support-managers` in Slack to request deletion.
 
 To delete text or attachments from a ticket:
 
