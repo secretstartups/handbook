@@ -17,7 +17,7 @@ This program allows team members at GitLab to volunteer and donate their time an
 
 ## Volunteer Coaches
 
-Team members at GitLab interested in helping out through the program should reach out to the individual listed as the "GitLab Contact" in the list of partners below. 
+Team members at GitLab interested in helping out through the program should reach out to the individual listed as the "GitLab Contact" in the list of partners below. There's also a Slack channel named [#volunteer-coaches-urgs (internal only)](https://gitlab.slack.com/archives/C017XNA4LDA) if you want more information prior to signing up. 
 
 ## Individuals Receiving Coaching
 
@@ -37,7 +37,7 @@ graph LR
 
 ## Partners
 
-To make this program as scalable as possible we partner with other organizations that run their own education, training, coaching, or mentorship programs. They already have processes, curriculum, students, and coaches. GitLab supplies additional coaches through this program. If you run such an organization and would like to tap into our pool of coaches, please contact [Roos Takken](https://gitlab.com/rtakken) or [Giuliana Lucchesi](https://gitlab.com/glucchesi), People Ops Business Partners who work with GitLab Engineering.
+To make this program as scalable as possible we partner with other organizations that run their own education, training, coaching, or mentorship programs. They already have processes, curriculum, students, and coaches. GitLab supplies additional coaches through this program. If you run such an organization and would like to tap into our pool of coaches, please contact [Roos Takken](https://gitlab.com/rtakken) or [Giuliana Lucchesi](https://gitlab.com/glucchesi), People Business Partners who work with GitLab Engineering.
 
 ### [Latinitas](https://latinitasmagazine.org/)
 
