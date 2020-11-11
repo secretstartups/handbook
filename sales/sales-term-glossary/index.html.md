@@ -223,7 +223,7 @@ As we acquire new customers we analyze how long it takes to recoup the investmen
 
 ### Available to Renew (ATR)
 
-ATR is the sum of all ARR for subscriptions with a contract term ending in the time period.  For clarity, this excludes all ARR for active subscriptions with contract terms ending in other time periods.  For example, if there were only 4 customers and C1 and C2 have contracts ending in February 2022, C3 has a contract ending in Feb 2023, and C4 has a contract ending in June 2022, then the ATR for Q1 2022 would be the C1 ARR + C2 ARR.  It does not include C3 despite the fact that it is on a Q1 contract cycle since the contract does not expire until the following year.
+ATR is the sum of all ARR for subscriptions with a contract term ending in a given time period.  For clarity, this excludes all ARR for active subscriptions with contract terms ending in other time periods.  For example, if there were only 4 customers and Customer 1 (C1) and C2 have contracts ending in February 2022, C3 has a contract ending in Feb 2023, and C4 has a contract ending in June 2022, then the ATR for Q1 2022 would be the C1 ARR + C2 ARR.  It does not include C3 despite the fact that it is on a Q1 contract cycle since the contract does not expire until the following year.
 
 ### Lost Renewal
 
