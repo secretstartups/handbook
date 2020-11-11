@@ -12,7 +12,11 @@ GitLab has created a robust training and certification program to enable partner
 *   Technical Sales Professionals
 *   Technical and Consulting Services Professionals 
 
-Why get certified?  Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!
+**Why get certified?**
+
+<img src="/images/partnerenablement/doc-pencil.png" width="150" alt="" title="GitLab Certifications"> <img src="/images/partnerenablement/illustration_announcement.png" width="150" alt="" title="GitLab Certifications">
+
+Validate your skills, knowledge and receive recognition for your individual mastery in GitLab!
 
 Training courses, certification exams and other enablement materials can be accessed on the GtlLabPartner Portal (hyperlink).
 
@@ -95,7 +99,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
 #### GitLab Solution Architect Core
-This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification. NOTE: The hand-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
+This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
 
 <details>
   <summary markdown='span'>
@@ -128,6 +132,8 @@ This is the basic certification for pre-sales technical professionals and provid
 
 </details>
 
+<img src="/images/partnerenablement/gitlab-verified-sales-architect-personal.png" width="150" alt="" title="GitLab Verified Solution Architect Core Partner">
+
 #### GitLab Technical Core
 GitLab Technical Core is the foundational technical training for post-sales technical professionals and can also be a valuable training for pre-sales technical professionals. As we continue to develop our services enablement offerings, partners will need to develop a custom plan with their Channel Account Managers to meet the certification requirements.
 
@@ -159,16 +165,20 @@ Gitlab offers Sales and technical certifications that are designed to ensure Par
   GitLab Certified  Professional Services Engineer (PSE) Certification
   </summary>
 
-<b>Lesson 1: Code Management and Version Control</b>
-<b>Lesson 2: Continuous Integration and AutoDevOps</b>
-<b>Lesson 3: Custom CI Pipelines</b>
-<b>Lesson 4: GitOps</b>
-<b>Lesson 5: Application Security</b>
-<b>Lesson 6: Value Stream Management</b>
-<b>Lesson 7: Installation and Architecture</b>
-<b>Lesson 8: Integrating and Extending</b>
-<b>Lesson 9: Continuous Integration with Kubernetes</b>
-<b>Lesson 10: Runner Configuration</b>
+<b>Gitlab Partner Bootcamp</b>
+
+<ul>
+<li>Lesson 1: Code Management and Version Control</li>
+<li>Lesson 2: Continuous Integration and AutoDevOps</li>
+<li>Lesson 3: Custom CI Pipelines</li>
+<li>Lesson 4: GitOps</li>
+<li>Lesson 5: Application Security</li>
+<li>Lesson 6: Value Stream Management</li>
+<li>Lesson 7: Installation and Architecture</li>
+<li>Lesson 8: Integrating and Extending</li>
+<li>Lesson 9: Continuous Integration with Kubernetes</li>
+<li>Lesson 10: Runner Configuration</li>
+</ul>
 
 </details>
 
@@ -176,9 +186,9 @@ Gitlab offers Sales and technical certifications that are designed to ensure Par
 
 Individuals who earn the GitLab Professional Services Engineer (Partner) certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to articulate the most common GitLab customer use cases.
 
-(Insert Logo) 
+<img src="/images/partnerenablement/gitlab-certified-professional-services-engineer-personal.png" width="150" alt="" title="GitLab Certified Professional Services Engineer">
 
-Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination. The course material can be found on the [Partner Bootcamp Handbook page ] (/handbook/resellers/bootcamp/) as well as the [GitLab Partner Portal ] (https://partners.gitlab.com/English/)
+Earning Criteria: To earn this certification, candidates must receive a passing score from the November 2020 GitLab Partner Bootcamp examination. The course material can be found on the [Partner Bootcamp Handbook page ](/handbook/resellers/bootcamp/) as well as the [GitLab Partner Portal ](https://partners.gitlab.com/English/)
 
 #### GitLab Certified Trainer
 
@@ -190,13 +200,13 @@ You can find more about our existing [Train the Trainer program ] (/services/edu
 
 GitLab Partner Sales Professional Certification 
 
-(insert logo)
+<img src="/images/partnerenablement/gitlab-certified-sales-professional-personal.png" width="150" alt="" title="GitLab Certified Sales Professional">
 
 Q4 FY21
 
 GitLab Partner Solutions Architect (SA) Certification
 
-(insert logo) 
+<img src="/images/partnerenablement/gitlab-certified-solutions-architect-personal.png" width="150" alt="" title="GitLab Certified Solution Architect">
 
 Q4 FY21
 
@@ -213,5 +223,5 @@ To sign up for a course, please visit the Partner Portal (hyperlink). Upon succe
 *   GitLab Partners’ Marketing team members are invited to join our monthly Partner Marketing Webcasts. Learn about the latest Partner marketing campaigns, resources and more. 
 *   The [GitLab Partner Portal ](https://partners.gitlab.com/English/)provides Partners with easy access to additional sales resources, webcast replays, competitive analysis, event calendar, Marketing campaigns, support and more. 
 *   Newsletter - sign up [here ](https://gitlab.us19.list-manage.com/subscribe?u=5a5f55e4e0f03037d96416766&id=2321e18463)
-*   GitLab Virtual Commit - Commit 2020 was a 24-hour virtual experience filled with practical DevOps strategies shared by leaders in development, operations, and security. You’ll discover innovative solutions to help you solve your industry's greatest challenges, including enhancing culture and shortening release times. (https://about.gitlab.com/events/commit/)
-*   [GitLab Handbook Resources ] (/handbook/resellers/) Start your handbook search on the Channel Partner Handbook Page 
+*   [GitLab Virtual Commit ](https://about.gitlab.com/events/commit/) - Commit 2020 was a 24-hour virtual experience filled with practical DevOps strategies shared by leaders in development, operations, and security. You’ll discover innovative solutions to help you solve your industry's greatest challenges, including enhancing culture and shortening release times.
+*   [GitLab Handbook Resources ](/handbook/resellers/) Start your handbook search on the Channel Partner Handbook Page 
