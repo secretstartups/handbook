@@ -68,12 +68,12 @@ In order to accommodate various service business models, the framework supports 
    <td>Partners can leverage any combination of the following 3 ways to build their professional services practices:
 
 
-<li>Leverage training and enablement materials and certifications from GitLab to include GitLab into their existing professional services practices.
+<br>Leverage training and enablement materials and certifications from GitLab to include GitLab into their existing professional services practices.
 
-<li>Leverage the pre-packaged services that GitLab Professional services offers as key guidelines for incorporating GitLab in your overall DevOps service portfolio integrated through unique partner developed solutions and intellectual property. 
+<br>Leverage the pre-packaged services that GitLab Professional services offers as key guidelines for incorporating GitLab in your overall DevOps service portfolio integrated through unique partner developed solutions and intellectual property. 
 
-<li>Re-label/re-brand the GitLab Professional Services packages and sell them as their own, giving partners the ability to optimally price their services and grow their revenue through tested service delivery models. 
-</li>
+<br>Re-label/re-brand the GitLab Professional Services packages and sell them as their own, giving partners the ability to optimally price their services and grow their revenue through tested service delivery models. 
+
 
    </td>
   </tr>
