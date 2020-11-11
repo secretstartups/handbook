@@ -121,6 +121,17 @@ SLA Hawks drive achievement via our KPIs for [Service Level Agreement KPI](/hand
 1. **Do I need to do the SLA Hawk role all day every day?** The role is not to work the tickets yourself but rather find an engineer to respond to the ticket. You probably only need to check for breached and breaching tickets 3 or 4 times per day, which fits in with our asynchronous working environment while ensuring that synchronous customer interaction is still maintained. This should make the role light-weight. Between ticket checkins, you can continue with your planned day.
 1. **I feel uncomfortable asking someone else to reply to a ticket** We recommend prefixing your message in Slack with `[SLAH]`, this lets people know that you've been given the role to find people to help. We assume positive intent and the team knows that this is the job of the SLA Hawk.
 1. **What do I do if the ticket assignee is on PTO?** It can happen that you come across the ticket that is about to breach and which has the assignee that is on PTO (e.g. you get a message from PTO by Roots after you ping them in the thread). In that case, consider letting the customer know that the person who worked with them so far is on PTO (make the judgment if this is appropriate in your situation) and asking them whether they would like for their ticket to get the new assignee or they would like to wait for the original assignee to come back from PTO to continue working with them. If this is not appropriate, continue with the SLA Hawk workflow without relying on the current assignee (e.g. ask the help from the team or send a next response about their issue if you are able to). Either way, remind the person about [support guidelines for taking time off](../support-time-off.html).
+1. **It's my first time as SLA Hawk, any suggestions?**
+   - This role feels harder than it really is when you're anticipating it - once you actually do it, you'll be surprised! You'll learn so much and gain confidence in handling any type of ticket.
+   - The hawk is the manager of the queues, not the responder to the tickets - if you suspect that getting involved and sending a reply will take more than 15m, try to delegate getting a reply out to someone else (assignee, cc:. recent replier, or subject matter expert).
+   - Your best is good enough! Realistically, you're unlikely to stop every ticket from breaching - if you’ve stopped even a handful then you’ve done a great job, that’s 2 or 3 fewer breaches that day.
+   - Clear down the easy replies first - `That's great, I'll mark the ticket solved.` and so on. It improves the signal:noise ratio and someone has to write that reply.
+   - Look after yourself.  Set a timer to remember to take breaks and eat. The hawk roles are easy to get into a groove and forget to get up all day. Go outside, take a breather, then come back. See the first point in the FAQ as well. 
+   - You're not alone. You have a full team with you! Re-read the [SLA Hawk in action](#sla-hawk-in-action) section above - particularly points 4 & 5, and related...
+   - Don't be tempted to take ownership of tickets.  You will most likely NOT get to them later!
+   - If there's a wave of soon to breach tickets rolling down the queue, ping the team so they know.
+   - Remember your manager is there to support you - reach out to them (or other support managers).
+   - Communicate/share feedback on your experience with the workflow in an issue or with support managers.
 
 ### SLA Hawk Dashboards
 
