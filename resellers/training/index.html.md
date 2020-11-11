@@ -25,7 +25,7 @@ Training courses, certification exams and other enablement materials can be acce
 #### GitLab Sales Core
 This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. 
 
-By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certification and contribute to the Sales certification program requirements for your company.
+By completing the GitLab Sales Core, you’ll earn a GitLab Verified Core Sales completion badge and contribute to the Sales certification program requirements for your company. Formal individual sales certifications will be available by early 2021.
 
 <details>
 <summary markdown='span'>
@@ -100,7 +100,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
 #### GitLab Solution Architect Core
-This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This certification is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
+This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This path is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification, and individuals will recieve a GitLab Core Solution Architecture completion badge. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
 
 <details>
   <summary markdown='span'>
@@ -193,11 +193,14 @@ Earning Criteria: To earn this certification, candidates must receive a passing 
 
 
 
+
 #### GitLab Certified Trainer
 
 We are currently developing a program that will enable select partners (by invitation) to become GitLab Certified Trainers.  Please refer back to this handbook page for updates.
 
 You can find more about our existing [Train the Trainer program ] (/services/education/train-the-trainer/) at our Handbook Page. 
+
+
 
 #### Training and Certifications Roadmap FY21
 
@@ -211,11 +214,13 @@ GitLab Partner Solutions Architect (SA) Certification **Q4 FY21**
 <img src="/images/partnerenablement/gitlab-certified-solutions-architect-personal.png" width="150" alt="" title="GitLab Certified Solution Architect">
 
 
+
 #### Certification Award Process
 
 To sign up for a course, please visit the Partner Portal (hyperlink). Upon successful completion of each learning path, individuals will be awarded a Badge of Completion and / or a Certificate. Badges and certifications will be delivered electronically via email, and will be granted no later than 10 business days after completion. 
 
-	
+
+
 
 ### Additional Enablement Resources
 
