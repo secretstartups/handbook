@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "PathFactory"
-description: "PathFactory (PF) is leveraged as our content library & content distribution system."
+description: "PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience."
+"
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -11,7 +12,7 @@ description: "PathFactory (PF) is leveraged as our content library & content dis
 
 ## What is PathFactory?
 
-PathFactory (PF) is leveraged as our [content library & content distribution system](/handbook/marketing/growth-marketing/content/#content-library). The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ### PathFactory vs. Marketo
 
@@ -42,38 +43,38 @@ PathFactory is not a single source of truth (SSoT) for all GitLab content, but r
 
 The Marketing Operations team is responsible for managing access requests & provisioning the appropriate level of access for each role/function. PathFactory is not provisioned as a baseline entitlement. If you or your team require access, please open a [`Single Person Access Request` issue](/handbook/business-ops/it-ops-team/access-requests/#single-person-access-request) and provide business reason why access is needed. For certain permissions or roles, you may be required to go through training before access is provisioned.
 
-**User Roles**
+### User Roles
 
-There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool.
+There are three levels of access - `Admin`, `Author`, `Reporter` - which are granted based on the persons' role and team function within GitLab. All access levels have the ability to view analtyics within the tool. 
 
 - `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
 - `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. We have an unlimited amount of `Reporter` seats available for provisioning.
 
+For more info on the capabilities of each role, [see the knowledge base article](https://nook.pathfactory.com/nook/s/article/user-roles). 
+
 ### Rules of Engagement by Team
 
-| **Team** | **Rules of Engagement** | **User Roles** |
-| ---- | ------------------- | ---------- |
-| Marketing Operations | Manage, quality assurance, user management, system integrations, training | Admin |
-| Marketing Campaign Managers | Add content, create and edit content tracks for use in campaigns | Author |
-| Content Marketing | Upload new content, quality assurance | Author |
-| Field Marketing | View content performance | Reporter |
-| Account Based Marketing | Add content, create and edit content tracks for use in campaigns | Author |
-| Customer Reference Programs | Upload new case studies and customer content | Author |
-| Developer Evangelism | Upload new technical content | Author |
-| Sales Development Representative (SDR) | PathFactory for Sales | Sales user (PathFactory for Sales only) |
-| All Remote | Upload new all remote content, create and edit content tracks for use in all-remote campaigns | Author |
+| Team | User Roles | Rules of Engagement |
+| ---- | ---------- | ------------------- |
+| Marketing Operations | `Admin` | Manage, quality assurance, user management, system integrations, training |
+| Marketing Campaign Managers | `Author` | Add content, create and edit content tracks for use in campaigns |
+| Content Marketing | `Author` | Upload new content, quality assurance |
+| Field Marketing | `Reporter` | View content performance |
+| Account Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
+| Customer Reference Programs | `Author` | Upload new case studies and customer content |
+| Developer Evangelism | `Author` | Upload new technical content |
+| Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
+| All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
 
-## Training & Support
-
-### Support
+## Support
 
 1. [Knowledge base, _The Nook_](https://lookbookhq.force.com/nook/s/kb) (requires user in PathFactory and the email you use for PathFactory will be the same to access The Nook, however, the password is not.)
 1. [Success Series Webinars](https://customer.pathfactory.com/l/success-series-recordings)
 1. [PathFactory Ideas Portal](https://ideas.pathfactory.com/portal_session/new)
 1. [Release Notes](https://nook.pathfactory.com/nook/s/module?m=release-notes) (requires access to _The Nook_)
 
-### Training
+## Training
 
 1. [The Path to Understanding: Onboarding Training](https://lp.pathfactory.com/PathFactory-Onboarding.html)
 1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
@@ -90,7 +91,7 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
 1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
-1. Pathfactory Bulk Upload Request: https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk
+1. [Pathfactory Bulk Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
 1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
 ## Changelog
