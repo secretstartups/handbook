@@ -180,7 +180,7 @@ Support Engineers are also encouraged to complete courses and certification from
 
 **What does success look like?**
 
-1. Aim to complete a modiles every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 
