@@ -181,7 +181,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
      * After clicking `submit` an issue will be created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues), this issue is automatically assigned to the support manager on-call and will be use to keep a log of the escalations.
      Additionally a thread will be created in` #support_managers` slack channel. 
 
-1. Please consider that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
+1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
 
 
 ##### Redirecting Escalations (For GitLab Support Use Only)
