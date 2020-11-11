@@ -112,7 +112,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 ```mermaid
   graph LR;
   %% frontend roles
-  eng:jfe(Junior Frontend Engineer);
+  eng:jfe(Intern Frontend Engineering);
   click eng:jfe "/job-families/engineering/development/frontend#junior-frontend-engineer";
 
   eng:ife(Intermediate Frontend Engineer);
@@ -128,7 +128,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fem "/job-families/engineering/development/frontend/manager";
 
   %% backend roles
-  eng:jbe(Junior Backend Engineer);
+  eng:jbe(Intern, Backend Engineering);
   click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
 
   eng:ibe(Intermediate Backend Engineer);
@@ -175,11 +175,13 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
+  sec:s(Intern, Security Engineering)-->sec:se(Security Engineer) 
   sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
   sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
   sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
   sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
 
+  click sec:s "LINK"
   click sec:se "/job-families/engineering/security-engineer/#intermediate-security-engineer";
   click sec:sse "/job-families/engineering/security-engineer/#senior-security-engineer";
   click sec:stse "/job-families/engineering/security-engineer/#staff-security-engineer";
@@ -190,12 +192,13 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 #### Quality Department
 
 ```mermaid
-  graph LR;
-  qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
+graph LR;
+  qual:jset(Intern, Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
   qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
   qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
   qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
 
+  qual:inbeep(Intern, Backend Engineer, Engineering Productivity)-->qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)
   qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
   qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
@@ -218,7 +221,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 #### Support Department
 
 ```mermaid
-  graph LR;
+    graph LR;
+  supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
   supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
 
   supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
@@ -293,20 +297,20 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   graph LR;
 
   %% Backend Engineers
-  eng:abe(Associate Backend Engineer)-->eng:be(Senior Backend Engineer);
+  eng:abe(Intern, Backend Engineer)-->eng:be(Senior Backend Engineer);
   eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
   eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
   eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
   eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
 
   %% Site Reliability Engineer
-  eng:asre(Associate Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
+  eng:asre(Intern, Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
   eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
   eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
   eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
 
   %% Database Reliability Engineer track
-  eng:adbre(Associate Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
+  eng:adbre(Intern, Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
   eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
   eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
   eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
@@ -351,11 +355,6 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:dei "/job-families/engineering/infrastructure/distinguished-engineer/";
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
-
-## Internships in Engineering
-
-An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. In May 2020 we laucnhed an [internship pilot](/handbook/engineering/internships/). Due to the program's success currently we're working on the next iteration to implement internships broadly/continuously in Engineering at GitLab. 
-
 ## Apprenticeship for Learning
 
 Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning). 
@@ -383,20 +382,27 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 **Important**: The Apprenticeship for Learning program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship for learning program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
-## Junior Engineers
+## Internships in Engineering
 
-Junior Engineers require a high degree of mentorship to effectively set them up for success. Because GitLab Engineering is scaling so quickly at the moment (100% in 2018, 125% in 2019) we are not hiring at the junior level. A good guideline for what it takes to meet our intermediate criteria is 2 years of professional experience with rapid growth. We encourage you to apply, even if you have questions.
+An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering. 
 
-GitLab is committed to increasing diversity of all types, particularly in leadership, as it's one of our [core values](/handbook/values/). There is a misapprehension that the junior role is an effective tool for increasing our diversity. GitLab Engineering has made its greatest gains in diversity since putting a moratorium on junior hiring. This indicates that diversity and the junior level are orthogonal, at best.
+In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering. 
 
-Before this level is re-opened we need to assess the following attributes:
+With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. 
 
-* Is a structured, time-bounded internship program a better alternative to the junior level
-* Either stop scaling as a whole, or specific teams must meet a criteria (size? maturity? composition?) to mentor a junior
-* Change the process so junior positions are advertised for, rather than leveled on-the-fly
-* Consider changing the name of the level, since "junior" is not an effective recruiting title
-* How do we effectively mentor juniors at a remote-only company?
-* There is a confidential item in line with our [not public guidelines](/handbook/communication/#not-public)
+The process for opening a intern requisition would be as follows: 
+1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
+1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
+1. The manager for the team will be the DRI for the internship
+1. The DRI will make sure the intern level is added to the Job Family for their group
+1. The DRI seeks approval up to the EVPE level for starting the recruitment process
+1. The DRI reaches out to their People Business Partner to determine timeline and review the proposal
+1. Recruitment/sourcing starts for intern
+1. The recommended minimum length for an internship is 4 months, but can be longer, with a maximum of 1 year
+1. The goal would be to bring the intern on board for a fulltime Engineering role after the internship
+1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
+1. Before hiring, during the internship and when potentially transitioning to fulltime the DRI (manager) is responsible for aligning communication with the stakeholders. Learnings/documents can be used from the Internship Pilot 2020
+
 
 ## Senior Engineers
 
