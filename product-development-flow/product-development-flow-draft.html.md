@@ -22,7 +22,7 @@ This is the draft version of the Product Development Flow. All changes to this d
 | Version      | Change   | Milestone |Release Date
 | 1.0 | Introduce new structure and core content | 13.5 | 2020-10-22 |
 | 1.1 | Introduce visuals and optimize supporting resources | 13.6 | 2020-11-22 |
-| 1.2 | Incropriate feedback 13.6 Gitlab dogfooding and broader Gitlab team post launch | 13.7 | 2020-12-22 |
+| 1.2 | Incropriate feedback from 13.6 Gitlab dogfooding and broader Gitlab team post launch | 13.7 | 2020-12-22 |
 
 *Version 1.0 will stay on draft page for dogfooding. Version 1.1 will be the first push to `product-development-flow/index.html.md`
 
