@@ -58,7 +58,7 @@ For more details on benefits managed by Discovery: [Remote Technology Employee B
 
 ### Parental Leave
 
-To initiate your parental leave, submit the dates via PTO by Roots under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy here [/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave].
+To initiate your parental leave, submit the dates via PTO by Roots under the Parental Leave category. This will prompt Total Rewards to process your leave. You can find out more information about our Parental Leave policy on the [general benefits page](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 If you are eligible to receive parental leave from GitLab, your payments will be made up of payments from UIF and the rest from GitLab. Once you send your parental leave notification in PTO by Roots, Total Rewards will notify Remote. They will then get in touch with you to explain the UIF payment claim process. 
 
