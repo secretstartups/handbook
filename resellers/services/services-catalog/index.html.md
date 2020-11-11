@@ -15,7 +15,7 @@ The objective of this framework is to help new or existing GitLab partners devel
 
 # The GitLab Partner Services Offering Review
 
-<img src=/images/channel-service-program/partner-services-virtuous-cycle.png" width="" alt="" title="Partner Services Virtuous Cycle">
+<img src="/images/channel-service-program/partner-services-virtuous-cycle.png" width="" alt="" title="Partner Services Virtuous Cycle">
 
 To help frame the partner opportunity we would suggest partners think about services in one of four key areas that make up a robust service catalog
 
