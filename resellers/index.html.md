@@ -18,6 +18,12 @@ The GitLab Partner Program is a new kind of program.  It’s open to everyone an
 
 The GitLab Partner Program enables partners and potential partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.  
 
+This page provides an overview of the program, requirements, benefits and instructions.  Services and certification program information can be found on the following pages:
+*  [ Services Program Page](/handbook/resellers/services/)
+*  [ Services Catalog Page](/handbook/resellers/services/services-catalog/)
+*  [ Training and Certifications Page](/handbook/resellers/training/)
+
+
 ### GitLab Value for Partners
 
 GitLab is experiencing tremendous growth, which creates incredible opportunities for our partners.  Partners have the opportunity to create revenue growth for their companies through:
