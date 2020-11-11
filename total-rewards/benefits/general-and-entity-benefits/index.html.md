@@ -27,7 +27,7 @@ For the avoidance of doubt, the benefits listed below in the General Benefits se
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
 - [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd)
 - [Remote (South Africa, Mexico and Hungary)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
-- [Safeguard (Ireland, Hungary, Spain, Italy, France, Brazil, South Africa and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
+- [Safeguard (Hungary, Spain, Italy, France, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
 ### Benefits Available to Contractors
 
