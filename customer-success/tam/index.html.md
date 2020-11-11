@@ -84,7 +84,7 @@ Technical Account Managers are responsible for managing a portfolio of customer 
 - Commercial: $4M/TAM
 - SMB: N/A as it's digitally-led
 
-The team is continuously working to be more efficient. The current FY21 book of business (i.e., total annual contract dollars under management) per TAM is $3.25M. $3.75M per TAM is proposed for FY22. The aspirational goal is to effectively manage $5M per TAM.
+The TAMs engage when ACV is $50K or above or based on an exception approved by the regional team. The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
 
 ### Book of Business Prioritization
 
