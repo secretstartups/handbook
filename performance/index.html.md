@@ -12,16 +12,36 @@ title: "Performance"
 ## Performance Facets 
 
 We categorize performance into 3 facets
+1. [Backend](#backend-performance)
+1. [Frontend](#frontend-performance)
+1. [Infrastructure](#infrastructure-performance)
 
-1. Backend 
-1. Frontend 
-1. Infrastructure
+### Backend performance
 
-### Backend
+Backend performance is scoped to response time of API, Controllers and command line interfaces (e.g. git). 
 
-### Frontend
+* **DRI**: VP of Development. 
+* Key Performance Indicators:
+  * 
+  *
 
-### Infrastructure
+### Frontend performance
+
+Frontend performance is scoped to response time of the visible pages and UI components of GitLab.
+
+* **DRI**: Director of Development. 
+* Key Performance Indicators:
+  * 
+  *
+
+### Infrastructure performance
+
+Infrastructure performance is scoped to the performance of GitLab SaaS Infrastructure.
+
+* **DRI**: VP of Infrastructure. 
+* Key Performance Indicators:
+  * 
+  *
 
 
 ## Other Related Pages
