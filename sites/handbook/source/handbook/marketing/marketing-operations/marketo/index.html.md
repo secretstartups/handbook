@@ -88,48 +88,43 @@ Follow the workflow mural:
 
 
 ### Scoring Model
-The overall model is based on a 90 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing.
+The overall model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach 100 in order to MQL.
 
-The MQL scoring model below is correct as of 2020-10-27.
+There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-There is a flow that runs everynight to reset leads that have gone negative back to `0`.  
+The model below is updated as of 2020-11-12.
 
-|**Action**|**Token**|**Points**|**Type**|**Program Status Changes**|**Type**|**Schedule/Flow Limit**|
-|:-----:|:----------:|:-----:|:--------:|:-------------:|:-----:|:-----:|
-|Attends Webcast or Virtual Sponsorship or Self Service Virtual Event or Sponsored Webcast|{{my.Attends Webcast}}|+15|Behavior|Webcast > Attended<br>Virtual Sponsorship > Attended<br>Self-Service Virtual Event > Attended<br> Sponsored Webcast > Attended|Trigger|Everytime|
-|Attends Exectutive Roundtable|{{my.Attends Roundtable}}|+50|Behavior|Executive Roundtable > Attended|Trigger|Everytime|
-|Attends on Demand Webcast or Virtual Sponsorship or Self Service Virtual Event|{{my.On Demand Webcast - Default}}|+15|Behavior|Virtual Sponsorship > Attended On-demand<br>Webcast > Attended On-demand<br>Self-Service Virtual Event > Attended On-demand<br>Sponsored Webcast > Attended On-demand|Trigger|Everytime|
-|Attended On-demand - Hosted Elsewhere|{{my.On Demand - Hosted Elsewhere}}|-5|Behavior|Requsted via Sponsored Webcast template|Trigger|Everytime|
-|Attended Workshop|{{my.Attends Workshop}}|+50|Behavior|Workshop > Attended|Trigger|Everytime|
-|Attends Owned Event + On Demand|{{my.Owned Event - Attended}}|+75|Behavior| Owned Event > Attended<br> Owned Event > Attended On-demand|Trigger|Everytime|
-|Attends Vendor Arranged meeting|{{my.Attends Vendor Arranged Meeting}}|+50|Behavior|Vendor Arranged Meeting > Attended|Trigger|Everytime|
-|Requested Follow up - Virtual Sponsorship, speaking session, owned event, field event, conference, survey, sponsored webcast, webcast, vendor arranged meetings, workshop|{{my.Live Event - Requested Follow Up}}|+100|Behavior|Virtual Sponsorship > Follow Up Requested<br>Speaking Session > Follow Up Requested<br>Owned Event > Follow Up Requested<br>Field Event > Follow Up Requested<br>Conference > Follow Up Requested<br>Webcast > Follow Up Requested<br>Survey > Follow Up Requested<br> Vendor Arranged Meetings > Follow Up Requested<br> Workshop > Follow Up Requested|Trigger|Everytime|
-|Registered - Virtual, Webcast, Owned, Field Event, Executive Roundtable, Workshop|{{my.Registered - Events or Webcasts}}|+15|Behavior|Virtual Sponsorship > Registered<br>Owned Event > Registered or Waitlist<br>Webcast > Registered<br>Field Event > Registered<br> Executive Roundtable > Registered<br>Vendor Arranged Meetings > Registered<br>Workshop > Registered|Trigger|Everytime|
-|Registered - Self-Service Virtual Events|{{my.Registered Self-Service Virtual Events}}|+10|Behavior|Self-Service Virtual Event > Registered<br> Sponsored Webcast > Registered|Triger|Everytime|
-|Visited Booth - Field Events, Conference, Virtual Sponsorship|{{my.Visited Booth}}|+30|Behavior|Virtual Sponsorship > Visited Booth<br>Field Event > Visited Booth<br>Conference > Visited Booth|Trigger|Everytime|
-|Content Download - Form Fill|{{my.Content Download - Default}}|+30|Behavior|PF Content > Content Consumed OR<br>PF Specific Forms|Trigger|Everytime|
-|Content Download - High Intent|{{my.Content Download - High Intent}}|+90|Behavior|Specific Forms on pages - <br>/just-commit/reduce-cycle-time<br>/just-commit/lower-tco/<br>/just-commit/secure-apps/<br>TEI Estimator|Trigger|Everytime|
-|Content Syndication - Download|{{my.Content Syndication}}|+15|Behavior|Content Syndication > Downloaded|Trigger|Everytime|
-|Contact Sales Form|{{my.Contact Request Form}}|+100|Behavior|Fills out form: FORM 1415: Contact Request - Light4 or 2078: SFDX-Offer ONLY|Trigger|1/day|
-|Demo Request|{{my.Demo Requested}}|+90|Behavior|Campaign Requested|Trigger|1/day|
-|Filled-out Survey|{{my.Survey Filled-Out}}|+45|Behavior|Survey > Filled-out Survey|Trigger|Everytime|
-|Interest in Enterprise|{{my.Interest in Enterprise}}|+50|Behavior|Visits - about.gitlab.com/free-trial/|Trigger|1/day|
-|Multiple Career Page Visits|{{my.Multiple Web Visits - Career}}|-25|Behavior|Vists 3x about.gitlab.com/jobs/|Trigger|1/week|
-|Professional Services Request|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: FORM 1476: prof_serv_rqst|Trigger|1/day|
-|Request - Public Sector|{{my.Contact Request Form}}|+100|Behavior|Fills out Form: wf_federal_sales.FORM 1411: PubSec Contact|Trigger|1/day|
-|Trial - Enterprise|{{my.Trial Form}}|+100|Behavior|Fills out Form(2): FORM 1318: Self-Hosted Enterprise Trial Form<br>FORM 2150: Self-Hosted Enterprise Trial Form v2|Trigger|1/day|
-|Trial - Enterprise (in Product)|{{my.Trial Form}}|+100|Behavior|Trial - Enterprise = True AND<br>SFDC Created date in last 24 hours AND<br>Does not meet Trial-Enterprise Criteria|Batch|Every Morning / 1/day|
-|Trial - GitLab.com|{{my.Trial Form}}|+100|Behavior|Trial - Gitlab.com = TRUE AND<br>SFDC Created in last 24 hours|Batch|Every Morning / 1/day|
-|Subscribe - Live Event|{{my.Subscribe - Live Event}}|+10|Behavior|Live Events / Conferences (L) is True|Trigger|1/week|
-|Subscribe - Newsletter|{{my.Subscribe - Newsletter}}|+10|Behavior|Newsletter (L) is True|Trigger|1/week|
-|Subscribe - Security|{{my.Subscribe - Security}}|+10|Behavior|Security Alerts (L) is True|Trigger|1/week|
-|Subscribe - Webcast|{{my.Subscribe - Webcast}}|+10|Behavior| Webcasts (L) is True|Trigger|1/week|
-|Generic Email Address|{{my.Generic Email}}|-5|Demographic|Has Generic Email Domain|Trigger|1/week|
-|Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Title contains: VP, Vice President, Manager, Director, Senior, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Lead|Trigger|Once|
-|Title - VP, Manager, Director, Principal, Head, CIO, CEO, CFO, CSO, Founder, CTO, Chief, Executive, President or Lead (including French)|{{my.Title - High Tier}}|+50|Demographic|Not in Trigger Campaign AND <br>Title Contains: VP, Vice President, Manager, Director, CIO, CEO, CFO, CSO, Founder, CTO, Chief or Head|Batch|Every Morning / Once|
-|Unsubscribes from Emails|{{my.Unsubscribed}}|-25|Behavior|Unsubscribes from Any Email OR<br>Unsubscibe = TRUE|Trigger|Every 1 day|
-|Large Account|{{my.Large Account}}|+20|Demographic|Leads/Contacts of target ABM Accounts|Batch|Once|
-|Re-MQL|{{my.ReMQL}}|+20|Behavior|When a previously MQL'd lead changes back to `Nurture`|Trigger| 1/week|
+#### Behavior Scoring
+
+Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the programs page and progression statuses to see what constitues a `success`.
+
+|**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
+|:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
+|Registered |(ANY)|	+10	|{{my.Registered}}|	Trigger	|Registered <br> Conference > Meeting Requested| Everytime|
+|Follow Up Requested| (ANY)|	+100	|{{my.Follow Up Requested}}	|Trigger	|Follow Up Requested| Everytime|
+|* Online  - High|Workshop <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Online  - Med| Webcast <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
+|* Offlne  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
+|* Offlne  - Med|Speaking Session<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
+|* Offlne  - Low|Field Event, Vendor Arranged Meetings, Conference|+10	|{{my.Offline - Low}}	|TriggerEverytime|
+|* Content - High|Gated Content <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
+|* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
+|* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
+|* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
+|* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
+|* Survey - Low|Googleforms <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
+|PathFactory (Not Live)||+10|{{my.Content - High}}|Trigger|Everytime|
+|* Inbound  - High|Contact Request <br> Demo <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound - Med|Inbound form, not above |	+40|{{my.Inbound - Med}}	|	Trigger	|1/day|
+|* Trial |    |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|Subscription|	|+5|{{my.Subscription}}	|Trigger	|1/week	|
+|Visits Key Webpage|	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
+|Visits Mult Webpages|	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
+
+
+#### Demographic Scoring
+|**Action**|**Points**|**Token**|**Type**|**Program Status Changes**|**Schedule/Flow Limit**|
 
 ### Folder Structure
 
