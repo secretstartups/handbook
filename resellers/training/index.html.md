@@ -2,6 +2,8 @@
 layout: markdown_page
 title: "Channel Partner Training, Certifications and Enablement"
 ---
+## Training, Certifications and Enablement
+
 GitLab has created a robust training and certification program to enable partners in our ecosystem to sell, market, service and support GitLab prospects and customers.  Training materials and learning paths have been developed to support different partner roles:
 
 
@@ -33,7 +35,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales certifica
 <li>Deal Registration</li>
 <li>You’ve Got Issues</li>
 </ul>
->
+
 <b>DevOps Technology Landscape:</b>
 
 <ul>
@@ -132,7 +134,7 @@ GitLab Technical Core is the foundational technical training for post-sales tech
   GitLab Technical Core
 </summary>
 
-<b>GitLab Technical Fundamentals<b>
+<b>GitLab Technical Fundamentals</b>
 
 <ul>
 <li>Using GitLab as a Project Management Tool</li>
