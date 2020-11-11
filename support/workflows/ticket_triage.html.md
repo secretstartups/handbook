@@ -60,6 +60,6 @@ We also receive non Support requests in our queue - if you see something not lis
 |--|--|
 |Training|Redirect requester to [Education from Professional Services](https://about.gitlab.com/services/education/)|
 |New Set Up/Installation|Follow the [Passing a Lead to Sales](/handbook/support/workflows/passing_a_lead_to_sales.html) workflow|
-|Requests for swag|Ask in the #swag internal slack channel|
+|Requests for swag|Ask in the #swag internal slack channel or direct to [the FAQ](https://shop.gitlab.com/pages/f-a-q) for existing orders. For general requests for free swag, use the `General::Free Swag Request` Macro.|
 |Questions related to jobs/openings|Redirect requester to [Outbound Recruiting Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model) page|
 |Legal Questions and Concerns|Ask in the #legal internal slack channel|
