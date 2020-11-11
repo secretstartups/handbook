@@ -221,6 +221,10 @@ To accurately calculate the LTV to CAC of a customer sum all the cash that a cus
 ### Customer Acquisition Payback
 As we acquire new customers we analyze how long it takes to recoup the investment to acquire a new customer. This is calculated by taking one cohort of customers and plotting the sum of the cash paid to GitLab by new customers over time and then plotting the amount of sales and marketing expense allocated to that cohort. Where the two lines cross is where GitLab breaks even on the customer acquisition.
 
+### Available to Renew (ATR)
+
+ATR is the sum of all ARR for subscriptions with a contract term ending in the time period.  For clarity, this excludes all ARR for active subscriptions with contract terms ending in other time periods.  For example, if there were only 4 customers and C1 and C2 have contracts ending in February 2022, C3 has a contract ending in Feb 2023, and C4 has a contract ending in June 2022, then the ATR for Q1 2022 would be the C1 ARR + C2 ARR.  It does not include C3 despite the fact that it is on a Q1 contract cycle since the contract does not expire until the following year.
+
 ### Lost Renewal
 
 Contract value that is lost at the time of subscription renewals.
