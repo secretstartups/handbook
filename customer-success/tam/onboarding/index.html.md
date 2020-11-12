@@ -87,11 +87,13 @@ Time to Onboard is the difference between `Original Contract Date` and the date 
 
 ### Time to First Value
 
-**Goal:** 90 days
+**Goal:** 30 days
 
 Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 
-- Required TAM action: update the `First Value Date`
+If Seat Link is enabled, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Seat Link data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
+
+- Required TAM action: confirm Seat Link data is in Gainsight, if not, then manually update the `First Value Date`
 
 ## Onboarding delays
 
