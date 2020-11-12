@@ -37,7 +37,7 @@ The TAM should send the intro email that describes their role and value to the c
 
 ### Kickoff call
 
-⏰ [**Target time:** within 14 days of starting onboarding](#time-to-engage)
+⏰ [**Target time:** within 14 days of customer start date](#time-to-engage)
 
 The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/). 
 
@@ -53,17 +53,23 @@ Once the [kickoff call](#kickoff-call) is complete, the TAM should have sufficie
 
 Please review the [success plan handbook page](/handbook/customer-success/tam/success-plans/) for more details on how to do this.
 
-### First cadence call
 
-⏰ [**Target time:** Within 45 days of starting onboarding](#time-to-onboard)
+### First Cadence Call
 
-The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), some things to cover on the first cadence call include:
+⏰ [**Target time:** Within 30 days of customer start date]
 
-- The [success plan](#success-plan-development-document-key-attributes) the TAM has created
-  - Verify strategic objectives
-  - Ascertain priority of objectives
-  - Review the proposed roadmap and timeline to deliver on the objectives
-- Initial guidance and best practices for the priority items that may have been discussed during the [kickoff call](#kickoff-call)
+The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), the agenda items for this call are to include the following:
+
+1. Review customer infrastructure diagram and upload to collaboration project
+1. Confirm resources/infrastructure will support future growth. For customers who will be self-deploying, provide
+1. Review any deployment instructions and resource requirements. For customers who are already deployed, confirm resource requirements aligned to future growth plans
+1. Review of any Support tickets
+1. Confirm Back/Restore Plan in place
+1. Identify short-term problem areas, best practices, or training needs
+1. Discuss & document monthly release & upgrade plan
+
+The completion of this second customer call marks the completion of customer onboarding, moving the customer into the adoption phase of the customer lifecycle.
+
 
 ## Time to Value Metrics
 
@@ -77,14 +83,6 @@ Time to Engage is calculated by taking the days between Salesforce's `Original C
 
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
-### Time to Onboard
-
-**Goal:** 45 days
-
-Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
-
-- Required TAM action: Close the Onboarding CTA
-
 ### Time to First Value
 
 **Goal:** 30 days
@@ -94,6 +92,17 @@ Time to First Value is calculated by taking the `Original Contract Date` and sub
 If Seat Link is enabled, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Seat Link data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
 
 - Required TAM action: confirm Seat Link data is in Gainsight, if not, then manually update the `First Value Date`
+
+### Time to Onboard
+
+**Goal:** 45 days
+
+Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
+
+- Required TAM action: Close the Onboarding CTA
+
+
+
 
 ## Onboarding delays
 
