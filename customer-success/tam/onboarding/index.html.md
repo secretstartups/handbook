@@ -79,7 +79,7 @@ Time to Engage is calculated by taking the days between Salesforce's `Original C
 
 ### Time to Onboard
 
-**Goal:** 35 days
+**Goal:** 45 days
 
 Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
