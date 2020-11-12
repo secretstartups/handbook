@@ -23,7 +23,7 @@ The customer onboarding phase is critical to getting a customer started on a suc
 
 The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating"](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opporunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
 
-**NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
+⚠️ **NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
 
 ### Internal transition
 
@@ -37,7 +37,7 @@ The TAM should send the intro email that describes their role and value to the c
 
 ### Kickoff call
 
-[**Target time:** within 14 days of starting onboarding](#time-to-engage)
+⏰ [**Target time:** within 14 days of starting onboarding](#time-to-engage)
 
 The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/).
 
@@ -49,13 +49,13 @@ One of the most important points of discussion for the kickoff call is [establis
 
 Once the [kickoff call](#kickoff-call) is complete, the TAM should have sufficient information to [start developing the success plan](/handbook/customer-success/tam/success-plans/). This is a critical step in successful onboarding and long-term customer engagement.
 
-**NOTE:** While the TAM should be able to create an effective first iteration of the success plan at this point in onboarding, the [success plan is a living document](/handbook/customer-success/tam/success-plans/#success-plans-are-living-documents), so the TAM should continue iterating the success plan throughout the customer lifecycle.
+⚠️ **NOTE:** While the TAM should be able to create an effective first iteration of the success plan at this point in onboarding, the [success plan is a living document](/handbook/customer-success/tam/success-plans/#success-plans-are-living-documents), so the TAM should continue iterating the success plan throughout the customer lifecycle.
 
 Please review the [success plan handbook page](/handbook/customer-success/tam/success-plans/) for more details on how to do this.
 
 ### First cadence call
 
-[**Target time:** Within 35 days of starting onboarding](#time-to-onboard)
+⏰ [**Target time:** Within 35 days of starting onboarding](#time-to-onboard)
 
 The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), some things to cover on the first cadence call include:
 
