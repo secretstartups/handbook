@@ -295,6 +295,10 @@ Web portal purchases are split out separately.
 
 Another measured KPI is Rep Productivity (as defined above) divided by On Target Income.
 
+### Full Time Equivalent (FTE)
+
+A ramp adjusted sales head count. 
+
 ## Systems Terminology Definitions 
 
 ### Parent and Child Accounts
