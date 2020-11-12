@@ -40,11 +40,30 @@ The table below should be used as a reference for suggested handbook sections wh
 
 ### Step 2: Propose Content to be included in the LXP
 
-1. Using the descriptions above, decide which content type might be the best fit for the information you'd like to contribute. Navigate to the corresponding creator kit and review the spcific 
+1. Using the descriptions above, decide which content type might be the best fit for the information you'd like to contribute. Navigate to the corresponding creator kit issue template and begin to populate the issue with required content.
+
+**Note:** In order for content contributions to be reviewed by the appropriate GitLab team, all information on the issue template must be addressed. GitLab team members may ping you to address content gaps or answer questions about your contributions. 
 
 ### Step 3: Iterate on content with GitLab team via issues
 
+1. After all required content is uploaded to the correct creator kit issue, GitLab team members will collaborate with contributors to iterate on and refine contributions. The following chart highlights which GitLab teams will collaborate on and approve content contributed to the LXP:
+
+| Contributor Audience | Team Approval | DRI GitLab Handle |
+| ----- | ----- | ----- |
+| GitLab Team Members | L&D Team | |
+| Customers | Professional Services | |
+| Partners | Partner Enablement | |
+| Sales Team | Field Enablement | |
+| Wider GitLab Community | Community Relations Team | |
+
+
+To learn more about the admin review and approval process of contributions to the LXP, please review the LXP admin section of the handbook.
+
+1. The GitLab team will determine when your contributions are ready to be added to the LXP and will communicate with contributors on related issues.
+
+
 ### Step 4: Content is uploaded to the LXP
 
-(steps outlined in admin docs)
+1. The GitLab team members outlined above will upload related content to the LXP. Additional context about this admin process can be found in the LXP admin section of the handbook.
 
+**Note:** At the GitLab team's discretion, individual contributors may be given permissions to upload content to the LXP.
