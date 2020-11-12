@@ -87,7 +87,7 @@ The following process outlines steps for the L&D team to take when planning and 
 1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
 1. Test Zoom functionality with the speaker at least two business days before event. 
    * If external speaker, ensure they have downloaded [Zoom](https://zoom.us/support/download). 
-   * Have speakder test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom). 
+   * Have speaker test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom). 
    * Check that speaker will be able to [share a presentation](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom) if necessary. 
 1. Send speaker calendar invite with all details for the call (including, but not limited to, Zoom link, agenda, slides, etc.). 
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
