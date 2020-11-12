@@ -36,7 +36,7 @@ A Pathway is a collection of SmartCards
 
 #### Examples of Pathway content
 
-- A set of 6 handbook pages (SmartCards) reader's should review in sequence to gain a stronger understanding of one topic.
+- A set of 6 handbook pages (SmartCards) readers should review in sequence to gain a stronger understanding of one topic.
 
 ### Journey
 
