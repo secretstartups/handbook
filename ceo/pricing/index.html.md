@@ -557,7 +557,7 @@ Below is a video with the CEO discussing the philosophy of this with a Product M
 
 When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
 data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
-[open source features should never move to paid tiers](company/stewardship/#promises).
+[open source features should never move to paid tiers](/company/stewardship/#promises).
 
 We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
 ability to move features up in tier, proving the necessity has a much higher bar since we are constraining the existing reach of a feature rather than expanding it.
