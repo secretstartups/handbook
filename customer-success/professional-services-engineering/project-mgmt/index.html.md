@@ -14,7 +14,7 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
  
 ### Project plan
  
-Each PS Engagement will include a Project Plan compiled based on the Statement of Work (SOW) and/or other discussions the PS team has had with the customer.  This may include a Gantt chart, spreadsheet, or another form of plan. This plan will follow the process listed above.
+Each PS Engagement will include a Project Plan based on the activities outlined in the Statement of Work (SOW) and/or other discussions between the GitLab Professional Services and the customer.  The Project Plan may include a Gantt chart, tasks list via spreadsheet, or another form of documented plan. This plan will follow the process listed above.
  
 Each PS engagement will have a Google Sheet that shows the contracted revenue and the estimated cost measured in hours or days of effort required to complete the engagement. The cost estimate must be completed prior to SOW signature and attached to the opportunity in SFDC.
  
