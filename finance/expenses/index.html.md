@@ -89,6 +89,18 @@ Also feel free to check your local [Freecycle group](https://www.freecycle.org/)
 
 Look at our [equipment examples page](/handbook/spending-company-money/equipment-examples) to see some of the items that other GitLab team members have purchased, and please consider adding to the list if there's something you'd like to share.
 
+### Reimbursements
+
+The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
+1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
+1. Internet connection subscription.
+	* For employees outside the Netherlands: follow normal expense report process.
+	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@ gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
+1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
+1. Mobile subscription, we commonly pay for that if you call a lot as a salesperson or executive, or if your position requires participation in an oncall rotation. If your device cost is part of your monthly subscription cost, please do not include the device cost from the expense reimbursement.
+1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
+1. Skype/Google Hangouts calling credit (uncommon, since we mostly use [internet-based services such as Zoom](/blog/2019/08/05/tips-for-mastering-video-calls/))
+
 ### Coworking or external office  space
 If working from home is not practical you may submit for reimbursement for the cost of a co-working space. This can include non-traditional spaces that require a recurring (full-time monthly) membership as long as you average at least ~4 working days per month at the space. If flexible membership options exist in the form of daily passes or hourly packages, then these can be expensed as well, as long as the prorated cost per month does not exceed that of a recurring membership subscription. For instance, if both the monthly subscription and a hypothetical 10-day pass is $200 USD, then you can only expense one such pass each month.
 
