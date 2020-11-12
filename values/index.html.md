@@ -1009,7 +1009,7 @@ We demonstrate transparency when we are open with as many things as possible red
   </tr>
   <tr>
     <td class="tg-0lax"><br>7</td>
-    <td class="tg-0lax">Continually surfaces improvements across their functional area of expertise. They share feedback with others and understand how to disagree and commit to final solutions. They model what it means to be as open as possible. They encourage conversation in public channels.</td>
+    <td class="tg-0lax">Continually surfaces improvements across their functional area of expertise. They share feedback with others and understand how to disagree and commit to solutions. They model what it means to be as open as possible. They encourage conversation in public channels.</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
