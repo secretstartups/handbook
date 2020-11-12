@@ -271,7 +271,7 @@ Once all Performance Factors have been reviewed and approved and the Performance
 
 ### Manager Review
 
-As part of the new [Annual Compensation Review](/handbook//total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers will review, approve, and where necessary update the proposed salary increases to ensure that we are paying each team member to market and increasing based on performance. Please verify the compensation review inputs (performance, level, title) are accurate in Compaas.
+As part of the new [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline), managers will review, approve, and where necessary update the proposed salary increases to ensure that we are paying each team member to market and increasing based on performance. Please verify the compensation review inputs (performance, level, title) are accurate in Compaas.
 
 It is very important that GitLab team-members understand their performance and how it impacts their salary.
 
