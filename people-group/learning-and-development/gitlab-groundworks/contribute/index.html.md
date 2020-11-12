@@ -10,7 +10,6 @@ title: Learning & Development
 
 ### Handbook First Learning Content
 
-### Contribution Examples
 
 
 ## Learning Content in the LXP
