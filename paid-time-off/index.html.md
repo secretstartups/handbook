@@ -80,7 +80,9 @@ Communicate broadly when you will be away so other people can manage time effici
 1. Transition and reassign work that is already in progress to another member of your team whenever possible.
 1. Please document your knowledge and share it with others. [Key-person-risk](https://dynamicbusiness.com.au/topics/workplace/hr-and-staff/managing-key-person-risk.html) can have a large impact. This is especially true for "subject matter experts" or SME, people with specialized knowledge of a project, tool, or subject.
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
-1. If you are a manager, please be sure to delegate the expense approval to your back up team member in Expensify:
+1. If you are a people manager, please complete the following:
+- BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 days
+- Expensify: delegate expense approval to your back-up team member by following these steps:
    * Expensify
    * Settings
    * Your Account
