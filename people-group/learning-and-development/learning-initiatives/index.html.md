@@ -89,7 +89,7 @@ The following process outlines steps for the L&D team to take when planning and 
    * If external speaker, ensure they have downloaded [Zoom](https://zoom.us/support/download). 
    * Have speakder test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom). 
    * Check that speaker will be able to [share a presentation](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom) if necessary. 
-1. Send speaker calendar invite with all details for the call (including, but not limited to, Zoom link, agenda, slides). 
+1. Send speaker calendar invite with all details for the call (including, but not limited to, Zoom link, agenda, slides, etc.). 
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
 1. Open a feedback issue for questions and comments to be shared asynchronously.
 1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
