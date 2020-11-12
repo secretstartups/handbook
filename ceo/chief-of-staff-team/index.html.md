@@ -238,7 +238,7 @@ If you are interested in participating in the Chief of Staff Shadow program, ope
 |  Start Date | End Date | First & Last Name | GitLab Handle |
 | --- | --- | --- | --- |
 |2020-05-23|2020-08-21  | Mike Miranda | @mmiranda |
-|2020-08-31|2020-10-09  | Jerome Ng | @jeromezng |
+|2020-08-31|2020-12-18  | Jerome Ng | @jeromezng |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
