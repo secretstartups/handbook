@@ -29,7 +29,7 @@ description: "Operations, Procedures, Documentation"
 - `#sales-support`
 - `#sfdc-users`
 - `#sdr_global`
-- `smb`
+- `#smb`
 - `#mktgops`
 - `#outreach`
 - `#it_help`
@@ -172,11 +172,11 @@ If the number of employees, according to our sources based on our hierarchy as d
 ##### Region/Vertical
 
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
-- <b>[Europe, Middle East and Africa](#emea)</b>: Jon Burghart, Regional Director
-- <b>[Asia Pacific](#apac)</b>: Anthony McMahon, Regional Director
-- <b>[North America - US East](#us-east)</b>: Mark Rogge, Regional Director
-- <b>[North America - US West](#us-west)</b>: Haydn Mackay, Regional Director (Timm Ideker - Interim)
-- <b>[Public Sector](#public-sector)</b>: Paul Almeida, Director of Federal Sales
+- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): Jon Burghart, Regional Director
+- <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
+- <b>North America - US East</b> (`#us-east` Slack channel): Mark Rogge, Regional Director
+- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director (Timm Ideker - Interim)
+- <b>Public Sector</b> (`#public-sector` Slack channel): Paul Almeida, Director of Federal Sales
 
 ### Territories
 
@@ -190,7 +190,7 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 ### Account Ownership Rules of Engagement
 
-1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, Zoominfo, Linkedin; otherwise <blank> or `[[unknown]]` until resolved through manual research.
+1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, Zoominfo, Linkedin; otherwise <blank> or `Unknown` until resolved through manual research.
 Any disputes must follow the Final Decision Escalation Process below.
 These data points are locked in during [the sales segment review process](#sales-segment-and-hierarchy-review-process) .
 1. **Account Ownership**: Will be determined by the **Sales** `Segment`, `Address` and `Corporate Hierarchy` and all children accounts, regardless of physical location.
