@@ -20,6 +20,8 @@ EdCast organizes content in the LXP in three major types of content buckets. Whe
 
 ### SmartCards
 
+
+
 #### Examples of SmartCard content
 
 - Links to GitLab handbook pages, documentation pages, and YouTube videos
@@ -31,11 +33,19 @@ EdCast organizes content in the LXP in three major types of content buckets. Whe
 
 ### Pathway
 
+
+
 #### Examples of Pathway content
+
+- A set of 6 handbook pages (SmartCards) reader's should review in sequence to gain a stronger understanding of one topic.
 
 ### Journey
 
+
+
 #### Examples of Journey content
+
+- A set of multiple pathways a user must work through in order to earn a certificaiton, for a course like GitLab 101 or GitLab 201.
 
 
 
