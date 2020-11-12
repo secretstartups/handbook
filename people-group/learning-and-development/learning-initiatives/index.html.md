@@ -80,7 +80,7 @@ Check out recordings of previous Learning Speaker Series calls!
 
 The following process outlines steps for the L&D team to take when planning and implementing the calls.
 
-**Planning Issue Template:** Open an Learning Speaker Series Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
+**Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps outlined below are also included in the issue template and are included here as reference.
 
 1. Collaborate with exec team, mid-level people leaders, and other interested GitLab Team members to gauge interest and availability to be featured in the call. Be mindful to include diverse voices from across the GitLab team.
 1. Determine if this is an internal or external speaker for the series call. If external speaker, ensure that the speaker has been validated and that the topic covered aligns with our values. External speaker presentations need to aling with how we deliver group conversations. 
@@ -89,7 +89,4 @@ The following process outlines steps for the L&D team to take when planning and 
 1. Open a feedback issue for questions and comments to be shared asynchronously.
 1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
 
-
-
 #### Text for CEO share in #company-fyi channel
-
