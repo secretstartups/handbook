@@ -20,7 +20,7 @@ EdCast organizes content in the LXP in three major types of content buckets. Whe
 
 ### SmartCards
 
-
+SmartCards are the basic unit of information in the LXP. They are used to direct learners to explore specific pieces of content in the handbook, watch recorded videos, or complete quick knowledge checks and assessments. Content in the LXP is built and arranged with SmartCards.
 
 #### Examples of SmartCard content
 
@@ -33,7 +33,7 @@ EdCast organizes content in the LXP in three major types of content buckets. Whe
 
 ### Pathway
 
-
+A Pathway is a collection of SmartCards
 
 #### Examples of Pathway content
 
@@ -41,7 +41,7 @@ EdCast organizes content in the LXP in three major types of content buckets. Whe
 
 ### Journey
 
-
+A Journey is a structured sequence of SmartCards and Pathways
 
 #### Examples of Journey content
 
