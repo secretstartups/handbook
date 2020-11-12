@@ -60,4 +60,4 @@ The [RADCIE Model](/handbook/people-group/directly-responsible-individuals/#radc
 
 ## Performance Indicator
 
-Read more about our [KPI](/handbook/tax/performance-indicators/#international-expansion) for international expansion.
+Read more about our [KPI](/handbook/tax/performance-indicators/#scalable-employment-solution) for international expansion.
