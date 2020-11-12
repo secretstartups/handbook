@@ -35,8 +35,8 @@ The table below should be used as a reference for suggested handbook sections wh
 | Leadership: emotional intelligence, coaching, and all other factors that contribute to growing and developing as a leader at GitLab | [Leadership Handbook](https://about.gitlab.com/handbook/leadership/) |
 | Communication: effective communication strategies, remote commiunication, and any additional content that contributes to strengthening asynchronous and remote communication skills | [Communication Handbook](https://about.gitlab.com/handbook/communication/) |
 | Diversity, Inclusion, and Belonging: inclusivity trainings, strategies for developing a sense of belonging, and content related to implementing DIB initiatieves | [DIB Handbook](https://about.gitlab.com/company/culture/inclusion/) | 
- 
 
+1. If the content you'd like to contribute to the LXP is already included in the handbook - great! Your contribution to the LXP could be a new or creative curation of existing content from GitLab that helps a learner better understand a topic or reach a goal. Consider curating current content from the handbook, [GitLab YouTube channel](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), and [GitLab documentation](https://docs.gitlab.com/). Consider taking the opportunity to add to or update existing content before contributing to the LXP.
 
 ### Step 2: Propose Content to be included in the LXP
 
