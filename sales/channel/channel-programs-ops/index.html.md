@@ -110,7 +110,7 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
     6. Invite your partner to work with you to Start building the partners’ GitLab service practice per our service development.
 2. The Issue will automatically be assigned to GitLab Partner Help Desk who will: 
     7. Update the partner portal account information
-    8. Update Salesforce partner account information                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                 
 3. If the partner indicates they want to create a Press Release about their new Services Certification; please follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
 1. [Practitioner Badging Process - link to Training & Enablement ops](https://docs.google.com/document/d/1HXWEJ-Yr26YQYpp_Ap2sqA14Ltsu0je0dQUsnh12p6w/edit?usp=sharing)
 2. Impartner vs. Edcast: 
