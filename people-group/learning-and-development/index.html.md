@@ -92,25 +92,6 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 </details>
 
-
-<details>
-  <summary markdown='span'>
-    Live Learning Schedule
-  </summary>
-
-<b>The 2020 Live Learning schedule is as follows:</b>
-
-<ul>
-<li>July - Understanding Social Styles (Date TBD)</li>
-<li>August - TBC</li>
-<li>September - GitLab Great Managers Program - 30 Day Challenge (Kickoff Date TBD)</li>
-<li>October - TBC</li>
-<li>November - TBC</li>
-<li>December - TBC</li>
-</ul>
-
-</details>
-
 <details>
   <summary markdown='span'>
     Past Live Learning Sessions
