@@ -28,7 +28,7 @@ Yes (capped)
 Yes (capped)
 
 ## Employee Maximum Combined Tax Withholding Rate
-57.75%. For employees that are entitled to the 30% ruling: the 30% ruling applies to the gain realized from the exercise of stock options; decreasing the withholding rate to
+57.75%. For employees that are entitled to the 30% ruling: the 30% ruling applies to the gain realized from the exercise of stock options; decreasing the withholding rate to 36.4%.
 
 ## Social Insurance Contribution Withholding/Payment detail
 GitLab must withhold employee social insurance contributions and remit both the employee and employer social insurance contributions due ultimately by the end of the month following the month in which the exercise takes place.
