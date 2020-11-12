@@ -55,7 +55,7 @@ Please review the [success plan handbook page](/handbook/customer-success/tam/su
 
 ### First cadence call
 
-⏰ [**Target time:** Within 35 days of starting onboarding](#time-to-onboard)
+⏰ [**Target time:** Within 45 days of starting onboarding](#time-to-onboard)
 
 The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), some things to cover on the first cadence call include:
 
