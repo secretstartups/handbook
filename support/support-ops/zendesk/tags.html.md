@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Tags
-description: Tags are words, or combinations of words, you can use to add more context to
-tickets and topics. Tags can be applied to tickets, users, and organizations.
+description: Tags are words, or combinations of words, you can use to add more context to tickets and topics. Tags can be applied to tickets, users, and organizations.
 ---
 
 # Zendesk Tags

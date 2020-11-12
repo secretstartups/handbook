@@ -1,9 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Schedules
-description: Zendesk schedules are like schedules in most other things: windows of
-time. We use these to determine business hours and various regional working
-hours.
+description: Zendesk schedules are like schedules in most other things; windows of time. We use these to determine business hours and various regional working hours.
 ---
 
 # Zendesk Schedules
