@@ -275,7 +275,7 @@ The infrastructure department is transitioning GitLab.com to Kubernetes using th
 ### Cluster Configuration
 {: #cluster-configuration }
 
-GitLab.com uses 4 Kubernetes cluster for production with similarly configured clusters for staging.
+GitLab.com uses 4 Kubernetes clusters for production with similarly configured clusters for staging.
 One cluster is a Regional cluster in the `us-east1` region, and the remaining three are zonal clusters that correspond to GCP availability zones `us-east1-b`, `us-east1-c` and `us-east1-d`.
 The reason for having multiple clusters assigned to availability zones is to ensure that high-bandwidth services do not send network traffic across zones. For more information on why we chose to split traffic into multiple zonal clusters see [this issue exploring alternatives to the single regional cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1150).
 A single regional cluster is also used for services like Sidekiq that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
