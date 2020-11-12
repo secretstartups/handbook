@@ -69,7 +69,7 @@ Examples:
 
 ## Communication Guidelines
 
-The following are guidelines on who to notify when an account is yellow or red. Please make sure the following people are notified with the respective customer health ratings.
+The following are guidelines on who to notify when an account is yellow or red. This includes the [update frequency for the triage issue](#update-frequency). Please make sure the following people are notified with the respective customer health ratings.
 
 ### Yellow Health Rating
 
@@ -155,6 +155,15 @@ When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/cus
 #### Issue Labels
 
 When creating triage issues, it's important to apply the correct labels to the issue, so that we can easily track, have a holistic view of the at risk accounts, and be able to triage regionally and/or by priority. It is expected for each issue to contain one of each of the below label categories. Please refer to the [issue template](#issue-template) for more details on how to use them.
+
+#### Update Frequency
+
+When an account is in triage, keep the triage issue updated as follows:
+
+- **Red:** Weekly, and as new information is available
+- **Yellow:** Biweekly, and as new information is available
+
+If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
 
 ##### Risk Labels
 
