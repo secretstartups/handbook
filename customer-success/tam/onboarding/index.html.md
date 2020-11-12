@@ -21,7 +21,7 @@ The customer onboarding phase is critical to getting a customer started on a suc
 
 ## Onboarding steps
 
-The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating"](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opporunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
+The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating"](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opportunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
 
 ⚠️ **NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
 
@@ -39,7 +39,7 @@ The TAM should send the intro email that describes their role and value to the c
 
 ⏰ [**Target time:** within 14 days of starting onboarding](#time-to-engage)
 
-The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/).
+The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/). 
 
 A [kickoff slide deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing) is provided as part of the [onboarding CTA](#cta-content-and-process), to help drive the discussion about the role of the TAM. The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
 
