@@ -227,13 +227,27 @@ Our team will review and set the priority for your content request or review bas
 
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on quartley sprints.
 
-* The L&D team uses [this issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538?milestone_title=No+Milestone) to track priority issues each quarter.
+* The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
-* Following the open list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
-* Issues can be moved from the `open` list to correct the sprint board when they are ready to be assigned/addressed.
+* The `L&D Ongoing` list is meant for long term projects the team is working on that cannot be accomplished in one sprint, but are a priority.
+* Following the ongoing list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
+* Issues can be moved from the `open` list to the correct sprint when they are ready to be assigned/addressed.
 * When an issue is closed, it should remain in the given milestone.
 * At the end of the sprint, the milestone can be removed from the board, or the milestone list can be hidden on the issue board.
+* The `L&D Requests` column should be used to organize requests for L&D support or courses coming from other teams.
 
+Additional planning and notes around the sprint board can be found in [this issue.](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/111)
+
+#### Best practices for using sprint boards and issues:
+
+- Apply a burn-down chart with milestones to track time spent
+- Create the issue in the sprint where the work starts
+- When creating L&D contnet, apply one issue to one course when developing content. Maintain all course development material in the issue for organization. 
+- Epics do not show up in the boards
+- Apply a Storyboard template for course development
+- Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
+- Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
+- Stack rank issues in the board based on priority if possible
 
 ### Top five training content development principles
 

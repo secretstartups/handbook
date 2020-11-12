@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Diversity Inclusion & Belonging Initatives"
+description: "The GitLab Women in Sales Mentorship Program pilot aims to create and cultivate mentorship opportunities for women in the Sales division."
 ---
 
 ## On this page

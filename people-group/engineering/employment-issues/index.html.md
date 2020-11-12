@@ -1,13 +1,19 @@
 ---
 layout: handbook-page-toc
 title: Employment Issues
+description: "Information on the commands used to create our onboarding, offboarding, and career mobility issues."
 ---
+
+## On this page
+
+{:.no_toc}
+
 - TOC
 {:toc}
 
 ## Employment issues
 
-People Experience Asscoiates make use of GitLab's [ChatOps](https://docs.gitlab.com/ee/ci/chatops/)
+People Experience Associates make use of GitLab's [ChatOps](https://docs.gitlab.com/ee/ci/chatops/)
 functionality to automate creation of Onboarding, Offboarding and Career Mobility issues. By executing a
 Slack command a pipeline is triggered in the `employment-automation` project, which runs the
 related job and replies with a link to the newly created issue.
@@ -25,7 +31,7 @@ this can be found [here](https://gitlab.com/gitlab-com/people-ops/people-operati
 
 #### Creation
 
-The Slack command used for this is:
+The Slack command used by the People Experience Associate for onboarding issues is:
 
 ```
 /pops run onboarding <id_in_BambooHR_URL>
@@ -49,7 +55,7 @@ contents of those files also in the onboarding issue.
 
 ##### Interns
 
-If you want to create the onboarding issue for interns, you can use the same Slack command. The biggest difference is that it will read from a different template. The template is determined by the division: `onboarding_intern_<division>.md`. Currently there's only one division that has set up a template:
+If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command. The biggest difference is that it will read from a different template. The template is determined by the division: `onboarding_intern_<division>.md`. Currently there's only one division that has set up a template:
 
 - [Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
 
@@ -101,9 +107,11 @@ We will create the Interview Training and Becoming a Manager issues in the
 
 ### Offboarding issues
 
+For more information on the complete offboarding process, please see the [Offboarding](/handbook/people-group/offboarding/) handbook page.
+
 #### Creation
 
-The Slack command used for this is:
+The Slack command used by the People Experience Associate for offboarding issues is:
 
 ```
 /pops run offboarding <id_in_BambooHR_URL>
@@ -123,7 +131,7 @@ contents of those files also in the offboarding issue.
 
 #### Offboarding Issue commenting
 
-When a team member is offboarded, there's a redirect rule that is setup on G-Suite for
+When a team member is offboarded, there's a redirect rule that is setup on GSuite for
 the outgoing team member. After 5 days this redirect rule needs to be removed.
 To make sure this isn't forgotten, a scheduled pipeline is set up for the bot to leave a
 GitLab issue comment reminding the People Experience Associates to removes the rule.
@@ -133,7 +141,7 @@ all the offboarding issues created 5 days before the current date.
 
 ### Career Mobility issues
 
-The Slack command used for this is:
+The Slack command used by the People Experience Associate for career mobility issues is:
 
 ```
 /pops run careermobility <id_in_BambooHR_URL>

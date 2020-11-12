@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Group Engineering"
+description: "Information about GitLab's People Group Engineering team and its projects, workflow, and sources of data."
 ---
 
 ## On this page

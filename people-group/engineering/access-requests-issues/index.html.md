@@ -1,7 +1,17 @@
 ---
 layout: handbook-page-toc
 title: Access Request Issues
+description:"Information about GitLab's Access Request (AR) issue automation process."
 ---
+
+## On this page
+
+{:.no_toc}
+
+- TOC
+{:toc}
+
+
 #### Access Request issue creation
 
 To get access to the tools our team members need for their job, an Access Request (AR)

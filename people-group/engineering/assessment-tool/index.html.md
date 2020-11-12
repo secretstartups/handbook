@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
 title: Assessment Tool
+description:"Information on how GitLab's People Engineering team created and how we use our 9-box Assessment Tool."
 ---
+
 ## On this page
 {:.no_toc}
 
@@ -50,6 +52,12 @@ We follow our [confidentiality rules](/handbook/people-group/engineering/#confid
 
 ### How To Use The Tool
 
+On 2020-11-05 we had a live training session on the use of the tool and Calibration sessions. You can review the video below and [slides](https://docs.google.com/presentation/d/1EqLUSBSLWbtSRCRqqeQkR-TRRsUdgWYKsD5jiN44vCY/edit?usp=sharing) for reference.  
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ano9nn6f8Ek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 #### Individual Contributors
 
 As an individual contributor, you are not required to sign up for or use the tool. Your manager will be asked to use the tool to make their recommendations and assess. 
@@ -76,8 +84,8 @@ Once you're familiar with the process, you need to create an account (see "Creat
 1. If you prefer to review team members in a table view, you can click the button in the top left that reads `table view mode`.
 1. By clicking `assess` behind the team members' name, you will be asked to `Assess Potential` from a drop down menu and `Assess Performance` from a drop down menu. 
 1. If Succession planning is enabled for this round, you can click the `+` behind the team members' name and indicate if and when they would be a successor for the next level. Options are: `Within 6 months`, `Within 12 months` or `After 12-24 months`. Also if someone has been the `Emergency contact`  while the next level leader has been away you can indicate that by checking the box. Note that the Succession part if enabled doesn't have to be filled out for all team members - you could fill out Succession for a limited amount of team members/it's optional. 
-1. If Promotion planning is enabled for this round, you can click the `+` behind the team members' name and indicate if and when they would ready for a promotion. Options are: `Within 3 months`, `Within 6 months`, `Within 12 months` or `More than 12 months away`. The results of this assessment will help with promotion planning for the remainder of/the upcoming year. 
-1. After completing the assessment of all team members in box view mode or table view mode, click `Save`.
+1. If Promotion planning is enabled for this round, you can click the `+` behind the team members' name and indicate if and when they would be ready for a promotion. Options are: `Within 3 months`, `Within 6 months`, `Within 12 months` or `More than 12 months away`. The results of this assessment will help with promotion planning for the remainder of/the upcoming year. 
+1. After completing the assessment of all team members in box view mode or table view mode, click `Save`. Note: you can also click `Save` in between so that your work doesn't get lost. 
 1. Finally, you can start preparing for the [callibration meeting](/handbook/people-group/performance-assessments-and-succession-planning/#calibration-session) to discuss the assessments of your team members and calibrate.  
 
 Note: For Director level and up, there is an extra option to **confirm** the assessments. This is a way to communicate that the assessment
@@ -106,7 +114,7 @@ to assess all the team members that are within your People Business Partner (PBP
 1. Click on the `Move to Review` button to move the department to review. 
 1. Depending on the participants in the Live review session you can select team members who will not be shown in the review session. This can be helpful if someone is joining the review session (a manager for example) but has also been reviewed by the next level leader. 
 1. When ticking the box - the team member wil not be shown in the box overview. 
-1. If during the calibration session team members move box, it's imporant to `Save` any changes in placements by clicking the `Save` button. 
+1. If during the calibration session team members move box, it's important to `Save` any changes in placements by clicking the `Save` button. 
 1. After the live calibration session, as a PBP, you can analyse results and click `Finalize` when all managers/leaders are on board with the placements. 
 
 ##### Steps for PBPs to analyse results after review session

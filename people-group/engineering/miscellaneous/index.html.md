@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Miscellaneous
+description: "Information on automations related to syncing to our team page, modern health, job families, and more."
 ---
 
 ## On this page

@@ -1,7 +1,11 @@
 ---
 layout: handbook-page-toc
 title: Slack
+description: "Information on Slack automations created by the People Engineering team."
 ---
+
+## On this page
+{:.no_toc}
 
 - TOC
 {:toc}

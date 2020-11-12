@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Talent Development Program"
+description: "Information on GitLab's Talent Development Program to ensure ongoing success across all teams."
 ---
 
 ## On this page
