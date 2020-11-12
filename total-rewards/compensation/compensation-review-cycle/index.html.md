@@ -190,11 +190,11 @@ The location factor review is an internal process completed by the Total Rewards
 
 The location factor review is completed in November. It can be completed once the October ERI data refresh has been updated.
 
-#### Underrpresented Group Audit
+#### Underrepresented Group Audit
 
 The Total Rewards team will run an audit twice throughout the Compensation Review Process to review any statistically relevant bias for underrepresented groups: after the Performance Factor submissions (December) to review distribution of performance ratings and after Manager Review (January) to review the distribution of discretionary increase allocations. 
 
-This analysis will be conducted at the department level for each department leader to review as well as all other indirect leaders up to the e-group level. The executive of each division as well as their People Business Partner will address any concerns with the performance factors submitted across their division. 
+This analysis will be conducted at the department level, for each department leader to review, as well as all other indirect leaders up to the e-group level. The executive of each division as well as their People Business Partner will address any concerns with the performance factors or discretionary increase allocations submitted across their division. 
 
 ##### Process
 
