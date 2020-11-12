@@ -17,7 +17,7 @@ title: "Sales & Customer Success Onboarding Process"
 1.  The new sales team member will receive an email prompting them to login to Google Classroom to begin working through the Sales Quick Start learning path  
     - When possible, Sales Enablement will also update the new team member's onboarding issue and/or add a comment to explicitly reference the link to their Sales Quick Start learning path
     - In the "New Team Member" section, there is a specific action for the new hire to "Complete your Sales Quick Start learning path"
-    - See what's included in the virtual, self-paced [Sales Quick Start learning path in Google Classroom](/handbook/sales/onboarding/#sales--customer-success-quick-start-pre-work-learning-path)
+    - See what's included in the virtual, self-paced [Sales Quick Start learning path in Google Classroom](/handbook/sales/onboarding/sales-learning-path/)
     - Non-Sales team members can choose to add themselves to the SQS Google Classroom Master Learning Path regardless of role if interested in understanding what new Sales Team Members are expected to complete prior to attending an SQS Workshop (Sales team members will be added to their appropriate cohort’s Google Classroom Learning Path by Sales Enablement)
         -  [SQS Google Classroom Master Learning Path](https://classroom.google.com/c/NjIxMTgzNzcyMzda)
         -  Code: 4fege7p

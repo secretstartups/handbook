@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Enablement"
+description: "The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to Gitlab’s values"
 ---
 
 {::options parse_block_html="true" /}
@@ -41,7 +42,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
      - [Sales Kick Off](/handbook/sales/training/SKO)
-     - [Sales QBRs](/handbook/sales/#quarterly-business-reviews)
+     - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
 
 ## Strategy
@@ -155,7 +156,7 @@ The below is a work in progress as we define success measures across each stage 
 - **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
 - **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement) ()
+    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)
@@ -163,7 +164,7 @@ The below is a work in progress as we define success measures across each stage 
     - [Tanuja Paruchuri](/company/team/#tparuchuri)
 - **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608)
-- **[Sales Communications Manager](/job-families/sales/sales-communications-manager/)**
+- **[Field Communications Manager](/job-families/sales/field-communications/)**
     - [Monica Jacob](/company/team/#monicaj)
 - **[Technical Instructional Designer](/job-families/sales/technical-instructional-designer/)**
     - [Issac Abbasi](/company/team/#iabbasi)

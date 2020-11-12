@@ -157,8 +157,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
-1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
-
+1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
 #### SMB
@@ -220,6 +219,12 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/business-ops/resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
+### Critical Salesforce reports to follow and bookmark
+- [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
+- [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+- [SMB APAC/EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000oWyL)
+- [SMB APAC/EMEA 1:1 Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKq)
+
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
@@ -247,19 +252,20 @@ Support will take the lead on all incoming requests in the queue and only forwar
 - There is an IACV affecting event from a **customer** -OR-
 - There is a credit or other request which requires sales manager approval
 
-### Salesforce Hygiene & Activity
+### Salesforce Pipeline Activity
 
 #### Opportunity Management in Salesforce
 
 - Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information
-- Every SMB AE has an inidividual view for opportunity management: Access this view under the Opportunities tab in saleforce and use the drop down to find your view "SMB_name_ Active Opptys".
-- Once in the view follow the below steps for opportunity management;
-
+- Direct yourself every day to your Next Steps to know how to prioritize and organize your day. Recommendations on how to work through your next steps for the day:
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
-1. If a potential future opportunity that require action greater than 30 days out create an event with detailed notes on your agenda or action items
-1. Once stages Discovery - Awaiting Signature are updated, begin working on Pending Acceptance. Prioritize with the same criteria as above, rinse and repeat
+1. If a potential future opportunity that requires an action is greater than 30 days out, create an event with detailed notes on your agenda or action items
+1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Continue to prioritize with the same criteria as above.
+
+#### Pipeline Generation
+- In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date. 
 
 #### Web Direct Oppty Management in Salesforce
 

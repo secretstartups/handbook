@@ -78,9 +78,25 @@ True-ups are conversations that often come to the table with customers during re
   - Community Forum: https://forum.gitlab.com/
   - Reddit: https://www.reddit.com/r/gitlab/
 
-#### Renewals (WIP)
+#### Renewals & Account Management (WIP)
+For suggested email templates for a mid-term call along with renewal calls, reference the latest in the **SMB Email Templates** shared document.
 #### Discount Approval Process (WIP)
 #### Forecasting (WIP)
+
+Please use the following analysis of your pipeline to get the most accurate monthly and quarterly forecast
+1. Find your total Closed Won "CW" pipeline
+2. Find the iACV in your Current Active pipeline. Forecast this bucket by weighted amounts (it can be weighted by each stage to be micro, or an average weight based on your close ratio). Manual work is taken into account here. You may have top value deals that need to be adjusted, closing at 100% for best case, or maybe 0-low x% worst case/commit.
+3. The next important number is your expected pipeline growth. On average how much pipeline do you create and close each week. As months (or quarters) continue does the close rate decrease or increase. Typically it decreases therefore the average amount created+closed per day as the month (or quarter) continues goes down and then restarts day 1 of the next month (or quarter)
+4. Finally, use the following equations to get your 50/50, best case, and commit number to forecast. This is all using Gross iACV as the renewal loss will be automatically calculated into this equation based on the input in Clari
+- CW + (Active * x%) + (Growth * x%) = 50/50
+- CW + ((active  - top deals)* x% + top deals at 90-100%) + (Growth * x%) = best case
+- CW + ((active  - top deals)* x% + top deals at 0-20%) + (Growth * x%) =  commit/low
+5. Things to consider
+- Deals in next month that can pull into this month go into best case
+- Deals this month that can push to next month take out of commit
+- If you are earlier in the quarter you (growth *x%) is higher growth and higher % than end of month
+- How many blue birds do you get per quarter - have you had one this quarter? It can weigh the (growth *x%) to one extreme or another unexpectedly 
+
 
 ### Tools
 * [ZenDesk](/handbook/support/workflows/zendesk-overview.html) - Ticketing system
@@ -89,7 +105,7 @@ True-ups are conversations that often come to the table with customers during re
 * Salesforce - Customer Relationship Management 
 * [LinkedIn Sales Navigator ](https://docs.google.com/document/d/1UF69ieck4AdHadzgPmZ5X1GBs3085JhlYaMowLj0AOg/edit) - Social Selling
 * CaptivateIQ - Commission Calculator 
-* [Clari](/handbook/sales/#clari-for-salespeople-instructional-videos) - Forecasting 
+* [Clari](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
 * [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 * [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
@@ -133,13 +149,13 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 *  [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
 
 ### Compensation
-*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/#incremental-annual-contract-value-iacv) goes toward the global *shared quota* retirement.
+*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
 *  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 
 *  AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
 *  EMEA & APAC: commission payout dates are specific to the country of residency. 
-* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](captivateiq.com).
+* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](https://www.captivateiq.com/).
 
 Any further questions related to SMB Compensation can be directed to the slack channel #total-rewards or your direct manager.
 

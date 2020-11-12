@@ -24,7 +24,7 @@ MEDDPPICC is a proven methodology used for strategic opportunity management and 
 - [Champion](/handbook/sales/meddppicc/#champion)
 - [Competition](/handbook/sales/meddppicc/#competition)
 
-Qualify your opportunities throughout the sales process (but especially during the "1-Discovery" and "2-Scoping" stages) leveraging the resources below to put yourself in the best position to earn the customer's business. MEDDPPICC is part of the Command Plan and is required for all new business opportunities above a certain threshold (see [Opportunity Management Requirements](/handbook/sales/#opportunity-management-requirements) for additional details).
+Qualify your opportunities throughout the sales process (but especially during the "1-Discovery" and "2-Scoping" stages) leveraging the resources below to put yourself in the best position to earn the customer's business. MEDDPPICC is part of the Command Plan and is required for all new business opportunities above a certain threshold (see [Opportunity Management Requirements](/handbook/sales/forecasting) for additional details).
 
 ### Resources
 - [MEDDPPICC training slides](https://drive.google.com/open?id=1i3D64esfBitwn1ZXKB1-yjs52Z5hMsUggVClUKTcqjk)

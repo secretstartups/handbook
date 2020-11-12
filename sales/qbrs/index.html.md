@@ -82,6 +82,7 @@ QBRs include account teams, leadership, and delegates from across the business:
    1. Finance
    1. People Group
    1. Field Recruiting Team
+   1. Customer Reference 
 1. Field executives (VP+) will participate in these sessions when possible
 
 ## QBR Best Practices
@@ -99,6 +100,7 @@ QBRs include account teams, leadership, and delegates from across the business:
 
 ### Best Practices for Attendees 
 1. Please join on time and ensure your microphone is muted to avoid disruptions. 
+1. Please be an active participant in the QBR session – join on video (if possible), answer questions related to your area of expertise/team, and participate in discussions. 
 1. Please contribute by taking notes during the QBRs. Everyone can (and should!) contribute, but delegates from these teams are expected to pitch in on note taking: 
    1. Sales Operations
    1. Field Enablement 

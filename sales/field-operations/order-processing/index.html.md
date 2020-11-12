@@ -33,7 +33,7 @@ This page outlines the Quote to Cash process, starting from quote creation, to a
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](/handbook/sales/#incremental-annual-contract-value-iacv)
+    *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -110,7 +110,7 @@ Please review the [Deal Desk Quote Configuration Guide](/handbook/sales/field-op
 
 ### Handling Open Source, Education, and Startup Applications
 
-GitLab provides free licenses to qualifying entities through the [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [application workflow by the Community Advocates](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/). **Only community advocates** should handle these applications and opportunities because community advocates verify program requirements before issuing/renewing licenses and these opportunites are handlded differently since the opportunities are not paid (unless support is purchased).
+GitLab provides free licenses to qualifying entities through the [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [application workflow by the Community Advocates](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/). **Only community advocates** should handle these applications and opportunities because community advocates verify program requirements before issuing/renewing licenses and these opportunities are handlded differently since the opportunities are not paid (unless support is purchased).
 
 #### Inquiry and Application Process (Leads)
 1. If an existing lead is interested in applying to one of the programs, direct them to the appropriate application form: [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/)and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/) or direct them to send an email to education@gitlab.com, startups@gitlab.com, or opensource@gitlab.com with questions. Then reassign the lead to the Community Advocates queue in Salesforce. When reassigning, be sure to notify the team by clicking the "Send Notification to New Owner" checkbox. Note that the Community Advocates do not work through the Lead Queue and will not take any action on this reassignment unless they are chattered.
@@ -668,7 +668,7 @@ When the customer signs the Order Form, you will receive an email notification w
 
 You've created the quote, recieved all necessary approvals, and the customer has signed the Order Form. Awesome! Time to submit the opportunity for booking. Hold up! Be sure to review all required fields listed below **before** submitting the opportunity for approval. 
 
-All opportunties must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. 
+All opportunities must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. 
 
 ### First, make sure these required Salesforce fields are correctly populated:
 
@@ -690,7 +690,7 @@ All opportunties must meet *all* requirements outlined below to be processed. **
 There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
 
 <details>
-<summary markdown="span"><b>Specific Requirements for Opportunties sold Directly<b></summary>
+<summary markdown="span"><b>Specific Requirements for Opportunities sold Directly<b></summary>
 
 A Direct Deal is a deal between GitLab and the Customer. There are no Distributors/Partners/Resellers involved at any stage of the process. **IMPORTANT NOTE**: At this time, we cannot accept Direct Deals through India. All opportunities with customers based in India must go through a reseller or partner. 
 
@@ -731,12 +731,12 @@ For all Direct Deals (Sales Assisted Opportunities) the customer must sign the A
 </details>
 
 <details>
-<summary markdown="span"><b>Specific Requirements for Authorized Reseller opportunties, click to learn more!</b></summary>
+<summary markdown="span"><b>Specific Requirements for Authorized Reseller, Authorized Distributor, and Managed Service Provider (MSP) opportunities, click to learn more!</b></summary>
 
-An Authorized Reseller is an approved partner with an active contract with GitLab in place. For opportunities where an Authorized Reseller will purchase and resell to an End User:
+An Authorized Reseller, Distributor, or MSP is an approved partner with an active contract with GitLab in place. For opportunities where an any of these partners will purchase and resell to an End User:
 
-1. Authorized Reseller must issue a PO that references the GitLab Order Form Quote No. The Authorized Reseller Order Form template must be attached to the opportunity and DOES NOT require Signature from the reseller. The template includes reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
-1. GitLab will accept the Authorized Reseller Order Form without signature, and the Reseller PO, PROVIDED THAT: 
+1. Authorized Reseller or Distributor must issue a PO that references the GitLab Order Form Quote No. The Authorized Reseller Order Form template OR the Distributor Order Form template must be attached to the opportunity and DOES NOT require Signature from the reseller.  The template includes reference to the executed Agreement between the parties, and in the event there is no executed Agreement, then the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller) will govern. 
+1. GitLab will accept the Authorized Reseller or Distributor Order Form without signature, and the Reseller PO, PROVIDED THAT: 
    * The Order Form includes the correct reference to the Master Partner Agreement or Authorized Reseller Agreement and other terms; and 
    * The PO received is issued to the correct GitLab entity and references the applicable Order Form Quote No. which includes, Quote ID, products, # of users, term, and pricing of the subscription(s). 
 1. Clickthrough EULA must be delivered and accepted by the End User. Please attach a Note to the Notes and Attachments section with a confirmation link or email.
@@ -798,7 +798,7 @@ Quoting:
 
 1. Create an Order Form per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
-1. Deliver PDF of Order Form to Mayank Tahilramani (GitLab Alliances team) to create the Private Offer. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
+1. Deliver PDF of Order Form to Mayank Tahilramani (GitLab Alliances team) to create the Private Offer. Be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
 1. Note that IACV will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
 
 Requirements to Close Deal:
@@ -876,7 +876,7 @@ graph LR;
     B --> |Deal Desk<br>Approved|C[Finance Review];
     B --> |Deal Desk<br>Rejected|D(Sales Resolves<br>Missing Opp<br>Requirements);
     D --> |Submit Opp<br>For Approval|B
-    C --> F[Opportuntiy<br>Closed-Won!<br>Congrats! ];
+    C --> F[Opportunity<br>Closed-Won!<br>Congrats! ];
 
 ```
 

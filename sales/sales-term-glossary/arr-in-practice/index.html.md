@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "ARR in Practice"
+description: "This page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the Sales Term Glossary Page"
 ---
 
 ## On this page
@@ -30,21 +31,31 @@ When looking at a time horizon of the next twelve months Delta ARR will equal IA
 
 Delta ARR = iACV - [True Ups and CI Minutes] + [Coterm difference] +/- [Timing differences]
 
-### Booked Net ARR
+### Net ARR
 
 The Net ARR value of deals booked in a specific period. It is the bookings equivalent to Delta ARR.
 
-Note: Booked Net ARR is being developed along side Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
+When looking at a time horizon of the next twelve months Net ARR will equal IACV except:
+1. True-ups and CI Minutes are included in IACV but not in Net ARR.
+1. Co-term: If contract value is less than 12 months Net ARR will show the 12 month value and IACV will show the value of the contract.
 
-When looking at a time horizon of the next twelve months Booked Net ARR will equal IACV except:
-1. True-ups and CI Minutes are included in IACV but not in Booked Net ARR.
-1. Co-term: If contract value is less than 12 months Booked Net ARR will show the 12 month value and IACV will show the value of the contract.
+Net ARR = iACV - [True Ups and CI Minutes] + [Coterm difference].
 
-Booked Net ARR = iACV - [True Ups and CI Minutes] + [Coterm difference].
+As Net ARR is a bookings metric, the period it represents is based on the Close Date of the Opportunity.
 
-As Booked Net ARR is a bookings metric, the period it represents is based on the Close Date of the Opportunity.
+Net ARR is tracked in the `Net ARR` field located on the Opportunity in Salesforce.
 
-Booked Net ARR is tracked in the `Net ARR` field located on the Opportunity in Salesforce.
+### Booked ARR
+
+The Booked ARR value of a deal includes its renewal amount and its Net ARR. It is the bookings equivalent of ARR. 
+
+**Example:** A customer with a $100k ARR subscription renews at $130k the following year. 
+- Booked ARR = $130k. 
+- Net ARR = $30k.
+
+Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
+
+Note: Net ARR and Booked ARR are being developed along side ARR and Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
 
 ### ARR Analysis Framework
 

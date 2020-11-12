@@ -51,6 +51,8 @@ title: "Sales Territories"
 
 ## Territories
 
+For the detailed breakdown of how the territories are mapped please reference the [Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+
 ### Large
 
 #### AMER
@@ -114,7 +116,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal** | Alan Cooke* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal** | Jim McMahon* | Isaac Mondesir |
 
 #### Public Sector
 
@@ -205,24 +207,20 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | LATAM | **MM-AMER-EAST-LATAM** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-DC** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R-GA** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Jenny Kline | MM SDR |
 | NA East | US East | **MM-AMER-EAST-MidSoAtlantic-FL** | Daniel Parry | MM SDR |
 | NA East | US East | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu | MM SDR |
 | NA East | US East | **MM-AMER-EAST-MidSoAtlantic-VA** | Todd Lauver | MM SDR |
 | NA East | US East | **MM-AMER-EAST-NorthCentral-Toronto** | Daniel Parry | MM SDR |
 | NA East | US East | **MM-AMER-EAST-NorthCentral-ON** | Steve Xu | MM SDR |
 | NA East | US East | **MM-AMER-EAST-NorthCentral-QB** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-MI** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-WI** | Daniel Parry | MM SDR |
+| NA East | US East | **MM-AMER-EAST-NorthCentral** | Jenny Kline | MM SDR |
 | NA East | US East | **MM-AMER-EAST-Northeast** | Todd Lauver | MM SDR |
 | NA East | US East | **MM-AMER-EAST-NYPa** | Steve Xu | MM SDR |
 | NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-TriState** | Steve Xu | MM SDR |
-| NA East | US East | **MM-AMER-EAST-TriState-CTNJ** | Todd Lauver | MM SDR |
+| NA East | US East | **MM-AMER-EAST-TriState** | Jenny Kline | MM SDR |
 | NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
-| NA West | US West | **MM-AMER-WEST-NorCal** | Rashad Bartholomew | Da'Neil Olsen |
+| NA West | US West | **MM-AMER-WEST-NorCal** | Matthew Kobilka | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SV** | Laura Shand. | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-PacWest** | Rashad Bartholomew | Josh Weatherford |
@@ -298,11 +296,11 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Johan Rosendahl |
 | Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Johan Rosendahl |
 | Russia | RU | **MM-EMEA-Russia** | Chris Willis | Rahim Abdullayev |
-| Southern Europe | IL | **MM-EMEA-Southern-IL** | Anthony Ogunbowale-Thomas | Camille Dios |
-| Southern Europe | IT | **MM-EMEA-Southern-IT** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | IL | **MM-EMEA-Southern-IL** | Lisa vdKooij | Camille Dios |
+| Southern Europe | IT | **MM-EMEA-Southern-IT** | Sophia Simunec| Camille Dios |
 | Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Camille Dios |
 | Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Camille Dios |
-| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Anthony Ogunbowale-Thomas | Camille Dios |
+| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Sophia Simunec | Camille Dios |
 | Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Camille Dios |
 | MEA | AE | **MM-EMEA-MEA-AE** | Israa Mahros | Johan Rosendahl |
 | MEA | SA | **MM-EMEA-MEA-SA** | Israa Mahros | Johan Rosendahl |

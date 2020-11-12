@@ -19,17 +19,28 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Fall 2020 Lineup**
+**Winter 2020 Lineup**
 
-| DATE   | TOPIC                                                                    | SPEAKERS                                       |
+| DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Oct 22 | No sessions during last two weeks of a quarter                           | N/A             |                                   
-| Oct 29 | No sessions during last two weeks of a quarter                           | N/A |                                                                                                                                                                
+| Nov 12 | [Demonstrate the way GitLab evaluates and completes software purchases](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/484) | Jeff Beaumont |
+| Nov 19 | [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/76) | Annie Rooke & Ed Cepulis |
+| Nov 26 | **Cancelled due to Holiday** |
+| Dec 3 | [Deal qualification: Best practices in figuring out if you truly have a deal](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/2) | Timm Ideker |
+| Dec 10 | [GitLab Product Tiers Training Refresher](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/85)  | Saumya Upadhyaya |
+| Dec 17 | [Q4 FY21 GitLab Product Release Update for Sales](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/83)  | Brian Glanz |
+| Dec 24 | **Cancelled due to Holiday** |
+| Jan 7 | [Q4 FY21 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/82) | Mahesh Kumar |
+| Jan 14 | [Red Hat Partner Session](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/89) | Vick Kelkar |
+| Jan 21 | *No sessions during last 2 weeks of the quarter*
+| Jan 28 | *No sessions during last 2 weeks of the quarter*
+                                                                                                                                                            
 
 ## Past Sessions
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-11-05 | **[Co-Selling with Google - Alliance Overview](https://youtu.be/albyLzQNo7U)** | Private |
 | 2020-10-15 | **[Proof Points & Analyst Resources Update](https://youtu.be/B0-Y4SNVfXU)**  | Private      |
 | 2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
 | 2020-10-01 | **[Leveraging the GitLab/VMware Alliance](https://youtu.be/unpgyIR9yH0)**      | Private

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Operations"
+description: "The Field Operation team's vision is to manage field business processes, systems, architecture, enablement, champion data integrity, provide insights and predictability through analytics"
 ---
 
 ## On this page

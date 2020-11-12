@@ -21,7 +21,7 @@ Force Management's definition of Command of the Message is "being audible ready 
 
 ## Customer Value Drivers
 
-Value drivers describe what organizations are likely proactively looking for or needing and are are top-of-mind customer topics that exist even if GitLab doesn’t. Value drivers may cause buyers to re-allocate discretionary funds, and they support a value-based customer conversation. Organizations adopt and implement GitLab for the following value drivers:
+Value drivers describe what organizations are likely proactively looking for or needing and are top-of-mind customer topics that exist even if GitLab doesn’t. Value drivers may cause buyers to re-allocate discretionary funds, and they support a value-based customer conversation. Organizations adopt and implement GitLab for the following value drivers:
 1.  **Increase Operational Efficiencies** - _simplify the software development toolchain to reduce total cost of ownership_
 1.  **Deliver Better Products Faster** - _accelerate the software delivery process to meet business objectives_
 1.  **Reduce Security and Compliance Risk** - _simplify processes to comply with internal processes, controls and industry regulations without compromising speed_

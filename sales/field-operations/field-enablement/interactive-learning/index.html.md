@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Handbook-First Approach to Interactive Learning"
+description: "All elearning courses tied to the Field Certification Program will utilize the Handbook as the Single Source of Truth (SSOT)"
 ---
 
 ## On this page

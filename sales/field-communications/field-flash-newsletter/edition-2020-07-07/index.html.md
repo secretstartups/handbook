@@ -44,7 +44,7 @@ Not one, but two new case studies are available. Learn why global tech company N
 
 We recently added a Cross-Culture Collaboration Guide to the Handbook to help GitLab team members practice effective and inclusive communication and cross-cultural collaboration globally; irrespective of culture or background. [See the Handbook for Details -->](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
 
-The Field team is piloting Focus Fridays through the Summer. Consider adopting Focus Fridays in your schedule to allow time for focused work and reduce potential burnout. [See the Handbook for Details -->](/handbook/sales/#focus-fridays)
+The Field team is piloting Focus Fridays through the Summer. Consider adopting Focus Fridays in your schedule to allow time for focused work and reduce potential burnout. [See the Handbook for Details -->](/handbook/sales/sales-meetings)
 
 ### Did You Know? 🔢
 Effective immediately, we will follow **a revised SPIFF payout for GitLab-delivered and partner-delivered services**. Highlights include larger deal size support, more opportunities for SPIFF, and added availability for TAMs for growth service opportunities over $25k. Plus, we have lowered the minimum engagement amounts for our Partner Services incentive to drive greater partner interest in delivering services around GitLab deployments.
@@ -135,4 +135,3 @@ To nominate a peer, fill out the [nomination form](https://forms.gle/cBjiRzQ7y87
 *See the [Field Flash Newsletter handbook page](/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
 
 *Archive: Edition 4, Description: June 2020 Field Flash*
-
