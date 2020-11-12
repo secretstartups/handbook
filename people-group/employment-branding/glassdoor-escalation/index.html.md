@@ -43,7 +43,7 @@ The Talent Brand Manager monitors reviews on a weekly basis, and responds direct
 ## Escalating and responding to interview reviews
 
 1. We do not currently respond to interview reviews. We will revisit this if we begin to see reviews with actionable feedback that could warrant a response.
-1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the hiring team, Recruiting team, or People Business Partner via the issue template. 
+1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the issue template. 
 
 # How to post a response
 
