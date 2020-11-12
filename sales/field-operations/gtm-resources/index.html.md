@@ -371,7 +371,7 @@ This is also only a temporary solution until we have a more scalable solution in
 
 ##### Record Creation in Salesforce
 
-ACCOUNT/CONTACT records in Salesforce are created in a number of ways - [list imports](#list-imports), [mass creation screen flows](#mass-create-contacts-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
+ACCOUNT records in Salesforce are created in a number of ways - [list imports](/handbook/sales/field-operations/sales-operations/#how-to-get-help), [mass creation screen flows](#mass-create-contacts-on-opportunities-with-contact-roles), field event booth scans, research, networking, webcasts, content downloads.
 Ideally all ACCOUNTS exist in Salesforce and team members are only creating CONTACT records; however, if a connection is made at an event and follow up needs to be done *prior* to official event list upload occurs team members should do the following:
    - Search Salesforce to be sure ACCOUNT does not already exist **AND** search using the person's email address to ensure duplicate record is not created
    - Record **does not** exist:
@@ -415,9 +415,9 @@ It is important to note that by following this process that all contacts must me
 
 Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
 This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
-See [global ownership](#global-account-ownership) and [named account](#named-account-ownership) descriptions above.
+See [global ownership and named accounts](#account-ownership-rules-of-engagement) descriptions above.
 
-Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [listed above](#lead-routing).
+Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through LeanData](/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow).
 
 LEAD/CONTACT Records with the `Initial Source` of `GitLab.com` are **not** to be engaged, prospected or targeted unless they have taken a handraising 'active' activity, such as `Trial - Enterprise`, `Trial - GitLab.com`, `Contact Us`, `Demo`, 'Webcast', 'Content' and/or engaged in `Web Chat`.
 
@@ -537,7 +537,7 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 
 1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections, if gathered, AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
 1. Click the `Convert` button:
-    - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#global-account-ownership))
+    - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#account-ownership-rules-of-engagement))
     - Check the "Send Email to the Owner" box
     - Lookup the correct `Account Name` (remove company suffix to avoid duplicates) - if unsure assign OPPORTUNITY to the "Parent" account
     - Opportunity Name - using [Opportunity Naming Convention](#opportunity-naming-convention)
