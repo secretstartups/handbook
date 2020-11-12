@@ -186,9 +186,8 @@ For simplicity we group those services into a service catalog made up of four ke
 
 ### Migration & Implementation Services
 
-<img src= ”/images/channel-service-program/implementation-virtuous-cycle.png” width=”” alt=”” title=”Migrations & Implementation Services”>
 
-
+<img src="/images/channel-service-program/implementation-virtuous-cycle.png" width="" alt="" title="Migrations & Implementation Services">
 
    * Potential services
      * Migrations (examples: GitHub or BitBucket to GitLab; Jenkins to GitLab)
@@ -211,7 +210,8 @@ For simplicity we group those services into a service catalog made up of four ke
 
 ### Training & Enablement Services
 
-<img src= ”/images/channel-service-program/training-virtuous-cycle.png” width=”” alt=”” title=”Training Services”>
+
+<img src="/images/channel-service-program/training-virtuous-cycle.png" width="" alt="" title="Training Services">
 
    * Potential services
      * Training or education
@@ -226,7 +226,8 @@ For simplicity we group those services into a service catalog made up of four ke
 
 ### Optimization & Transformation Services 
 
-<img src= ”/images/channel-service-program/optimization-virtuous-cycle.png” width=”” alt=”” title=”Optimization Services”>
+
+<img src="/images/channel-service-program/optimization-virtuous-cycle.png" width="" alt="" title="Optimization Services">
 
    * Potential services
      * Platform and process optimization services
@@ -247,7 +248,8 @@ It likely goes without saying that you will need to add any GitLab enabled or re
 
 The foundation for GitLab’s GTM is the flow from Why to What to How.
 
-<img src= ”/images/channel-service-program/why-usecases-overall.png” width=”” alt=”” title=”GitLab Use Cases”>
+
+<img src="/images/channel-service-program/why-usecases-overall.png" width="" alt="" title="GitLab Use Cases">
 
 *   Why is the service or product needed, which from a GitLab perspective is tied to one or more of the following value drivers?
     *   Increase Operational Efficiencies - simplify the software development toolchain to reduce total cost of ownership
