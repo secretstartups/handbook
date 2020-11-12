@@ -7,6 +7,7 @@ title: Learning & Development
 
 ## Best Practices
 
+
 ### Handbook First Learning Content
 
 ### Contribution Examples
@@ -14,11 +15,27 @@ title: Learning & Development
 
 ## Learning Content in the LXP
 
-### Smart Cards
+EdCast organizes content in the LXP in three major types of content buckets. When contributing to the LXP, it's important to consider which of these three types might be best to organize content and guide learners to their learning objectives.
+
+
+### SmartCards
+
+#### Examples of SmartCard content
+
+- Links to GitLab handbook pages, documentation pages, and YouTube videos
+- Links to external articles and resources that can supplement handbook resources
+- Advertising/sharing a live Learner Speaker Series being hosted for GitLab team members, or a public AMA with our Product team
+- Polling a group of users to get their feedback on an interactive course on Emotional Intelligence
+- Assessing learnings with a short quiz/knowledge check after reading a set of handbook pages
+- Space for learners to upload and share submissions to projects, like a slide deck or animated video they've created
+
+### Pathway
+
+#### Examples of Pathway content
 
 ### Journey
 
-### Pathway
+#### Examples of Journey content
 
 
 
