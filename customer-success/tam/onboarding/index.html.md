@@ -93,6 +93,24 @@ Time to First Value is calculated by taking the `Original Contract Date` and sub
 
 - Required TAM action: update the `First Value Date`
 
+## Onboarding delays
+
+Given the importance of onboarding to the customer's journey and our ability to drive success, we want to move through it as quickly as possible. If onboarding is delayed, either because of something on the GitLab side or the customer side, we need to document the reasons and take appropriate action.
+
+### Document the delay
+
+The details around why onboarding is delayed should be documented in the following places:
+
+- Onboarding CTA comments field
+- Update timeline entry, with a [revised TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
+
+### Risk and triage
+
+If the delay is caused by the customer (e.g. disinterest, lack of engagement/"going dark") then the [account has risk](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines) and should be flagged.
+
+- Add an Update timeline entry with [updated TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#health-assessment-guidelines)
+- [Open a triage issue](/handbook/customer-success/tam/health-score-triage/#gitlab-account-triage-project)
+
 ## Gainsight for Onboarding
 
 ### CTA Creation Criteria
