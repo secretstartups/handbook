@@ -34,9 +34,9 @@ The Field Certification Program will include functional and soft skills training
 * [Account Executives](/handbook/sales/commercial/enablement/required7/)  
 * [Solution Architects](/handbook/sales/training/field-certification/sa/)  
 * [Technical Account Managers](/handbook/sales/training/field-certification/tam/)
+* [Partners](/handbook/resellers/training/)
 
 ## Prerequisites
-
 During [Sales & Customer Success onboarding](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). In addition, GitLab field team members and partners are introduced to GitLab’s [customer use cases](/handbook/use-cases/).
 
 ### Architecture and Approach 
