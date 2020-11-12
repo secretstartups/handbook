@@ -75,7 +75,7 @@ Step 1: Introduce your partners to the GitLab Certified Service Partner
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the enablement requirements.
 
-Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our Service Development Framework
+Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/services-catalog/)
 
 
 ## GitLab Service Partner Certifications Award Process
@@ -101,7 +101,7 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
 
 
 
-1. Send the appropriate certification award email packet to the main Partner contact person.
+1. Send the appropriate certification award email to the main Partner contact person.
     1. Congratulations
     2. Social Media Sharing Kit
     3. Badge Graphic Download
@@ -112,7 +112,7 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
     7. Update the partner portal account information
     8. Update Salesforce partner account information                                                                                                                                                                                                                                             
 3. If the partner indicates they want to create a Press Release about their new Services Certification; please follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
-1. [Badging Process - link to Training & Enablement ops](https://docs.google.com/document/d/1HXWEJ-Yr26YQYpp_Ap2sqA14Ltsu0je0dQUsnh12p6w/edit?usp=sharing)
+1. [Practitioner Badging Process - link to Training & Enablement ops](https://docs.google.com/document/d/1HXWEJ-Yr26YQYpp_Ap2sqA14Ltsu0je0dQUsnh12p6w/edit?usp=sharing)
 2. Impartner vs. Edcast: 
 
 
@@ -122,8 +122,7 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
 
     1. Channel Partner - Delivering on GitLab paper RACI
     2. Accountable, Responsible, Consult, Inform :
-    3. Denotes Channel Program 
-    4. Denotes Channel Account Manager
+   
 
 <table>
   <tr>
