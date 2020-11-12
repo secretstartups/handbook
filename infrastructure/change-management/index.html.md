@@ -163,7 +163,8 @@ These are changes with either no or very-low risk of negative impact, but where 
 
 **Examples of Criticality 3:**
 
-1. IaC changes to cattle / quantity when there is an increase (not requiring reboot or destroy/recreate)
+1. IaC changes that require manual intervention (i.e. Terraform state manipulation)
+1. Changes that are manual (i.e. Adding a plugin to Grafana, uploading a new SSL cert)
 1. Changes in configuration for current systems serving customers related to DNS or CDN
 
 #### Approval
