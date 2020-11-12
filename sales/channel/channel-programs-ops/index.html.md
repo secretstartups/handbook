@@ -128,11 +128,11 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
 <table>
   <tr>
    <td>
-<strong>Deliverable \ Ownership</strong>
+Deliverable \ Ownership
    </td>
-   <td><strong>Channel Team</strong>
+   <td>Channel Team
    </td>
-   <td><strong>Professional Services</strong>
+   <td>Professional Services
    </td>
   </tr>
   <tr>
@@ -211,8 +211,8 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
    <td>Vetting process for partners 
    </td>
    <td>R
-<p>
-(prelim vetting)
+
+<br>(prelim vetting)
    </td>
    <td>A, R
    </td>
