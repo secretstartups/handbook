@@ -13,7 +13,7 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books). 
 
-L&D will be rolling out a three-week iteration of the program during the month of January 2021.** The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue**](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21). Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+L&D will be rolling out a three-week iteration of the program during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
