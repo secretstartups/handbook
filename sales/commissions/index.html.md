@@ -8,6 +8,24 @@ title: "Commissions"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Overview 
+
+The Sales Commissions team oversees and executes the commission process and payments to our salespeople.  With creatively designed compensation plans the team strives to motivate and reward top tier performance, while adhering to strict policies and guildelines when calculating commission payouts.
+
+## Meet The Team
+
+* Lisa Puzar, Senior Manager, Sales Commissions
+* Swetha Kashyap, Sales Commissions Manager
+* Rachel Davies, Sales Commissions Analyst
+
+## How to Communicate with Us
+
+There are two ways to connect with us.
+
+* Via email sales-comp@gitlab.com
+* Via the Chatter feature in Salesforce
+
 ## Quick Reference Guide
 
 | **GETTING STARTED** | **QUOTAS** | **COMMISSION PLANS** |
