@@ -43,7 +43,7 @@ The kickoff call is the first conversation between the TAM and the customer. Thi
 
 A [kickoff slide deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing) is provided as part of the [onboarding CTA](#cta-content-and-process), to help drive the discussion about the role of the TAM. The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
 
-One of the most important points of discussion for the kickoff call is [establishing the cadence call](/handbook/customer-success/tam/cadence-calls/). The TAM should have the cadence call schedule determined with the customer by the end of the kickoff call, and a plan for the [first cadence call](#first-cadence-call).
+One of the most important points of discussion for the kickoff call is [establishing the cadence call](/handbook/customer-success/tam/cadence-calls/). The TAM should have the cadence call schedule determined with the customer by the end of the kickoff call, and a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
 
 ### Success plan development (document key attributes)
 
@@ -52,7 +52,6 @@ Once the [kickoff call](#kickoff-call) is complete, the TAM should have sufficie
 ⚠️ **NOTE:** While the TAM should be able to create an effective first iteration of the success plan at this point in onboarding, the [success plan is a living document](/handbook/customer-success/tam/success-plans/#success-plans-are-living-documents), so the TAM should continue iterating the success plan throughout the customer lifecycle.
 
 Please review the [success plan handbook page](/handbook/customer-success/tam/success-plans/) for more details on how to do this.
-
 
 ### 1st Cadence Call: Future Growth Discussion & Checklist
 
