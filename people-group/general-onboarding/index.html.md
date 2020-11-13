@@ -18,9 +18,13 @@ We highly recommend taking at least two full weeks for onboarding and only in we
 
 All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab. 
 
+The People Experience Associate assigned to the team members specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date. 
+
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
+
+In certain instances, the People Experience team may not be able to assist with onboardings due to a national holiday or Family and Friends Day. These specific dates are documented in the People Experience team [Handbook page](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability). 
 
 ## Ta-New-Ki Welcome Call (Pre-Onboarding)
 
