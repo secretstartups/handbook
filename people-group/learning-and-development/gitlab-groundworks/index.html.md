@@ -89,20 +89,29 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | ----- | ----- |
 | Phil Encarnacion | IT|
 | Christopher Nelson | IT |
-| David Somers | Field Enablement |
-| Kris Reynolds | Field Enablement |
-| Monica Jacob | Field Enablement |
-| John Blevins | Field Enablement |
-| Tanuja Paruchuri | Field Enablement |
-| Issac Abbasi | Field Enablement |
-| Christine Yoshida | Customer Education |
-| Kendra Marquart | Customer Education |
-| Ed Cepulis | Partner Enablement |
-| Alvaro Warden | Partner Enablement |
-| Christina Hupy | Community Relations |
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
 | Samantha Lee | Learning and Development |
+| David Somers | Field Enablement |
+| John Blevins | Field Enablement |
+| Kris Reynolds | Field Enablement |
+| Eric Brown | Field Enablement |
+| Monica Jacobs | Field Enablement |
+| Tanuja Paruchuri | Field Enablement |
+| Kelley Shirazi | Field Enablement |
+| Issac Abbasi | Field Enablement |
+| Christina Hupy | Marketing Enablement |
+| Christopher Wang | Marketing Enablement |
+| Alvaro Warden | Partner Enablement |
+| Christine Yoshida | Education Services |
+| Laci 'Lah tsi' Videmsky | Professional Services |
+| Kendra Marquart | Professional Services |
+| Joe Brady | Professional Services |
+| Ed Cepulis | Channel Enablement |
+| Kim Jaeger | Channel Enablement |
+| Honora Duncan | Channel Enablement |
+| Evon Collett | Channel Enablement |
+| Boughty Canton | Channel Enablement |
 | Dan Gordon | Technical Marketing |
 | Julia Lake | Security/Legal |
 | Lynsey Sayers | Security/Legal |
