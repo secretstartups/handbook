@@ -3,40 +3,31 @@ layout: handbook-page-toc
 title: "Commissions"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-## Charter
+## **Charter**
+Sales Commissions is a part of Field Operations, reporting into Sales Operations. Our goal is to incentivize the field to close business, make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
 
-Sales Commissions is a part of Field Operations, reporting into Sales Operations.  Our goal is to incentivize the field to close business, make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
-
-## Overview 
-
-The Sales Commissions team oversees and executes the commission process and payments to our salespeople.  With creatively designed compensation plans the team strives to motivate and reward top tier performance, while adhering to strict policies and guildelines when calculating commission payouts.
-
-## Meet The Team
+## **Meet The Team**
 
 * Lisa Puzar, Senior Manager, Sales Commissions
 * Swetha Kashyap, Sales Commissions Manager
 * Rachel Davies, Sales Commissions Analyst
 
-## How to Communicate with Us
+## **How to Communicate with Us**
 
 There are two ways to connect with us.
 
 * Via email sales-comp@gitlab.com
 * Via the Chatter feature in Salesforce
 
-## Quick Reference Guide
+## **Quick Reference Guide**
 
 | **GETTING STARTED** | **QUOTAS** | **COMMISSION PLANS** |
 | :------ | :------ | :------ |
 |[**FY21 Sales Compensation Plan**](/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63)| [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](/handbook/sales/commissions/#quota-components)<br><br>[**Sales Rep IACV Quota Ramp**](/handbook/sales/commissions/#sales-rep-iacv-quota-ramp)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](/handbook/sales/commissions/#opportunity-splits)
 
-## Quotas Overview
+## **Quotas Overview**
 
 All employees with variable compensation plans will be assigned a quota that supports their
 assigned territory/region shortly after the beginning of each fiscal year or when they enter into their role. Quota assignment and quota ramp (including any mid-year adjustments) are determined by Sales Leadership. Sales Leadership reserves the right to make any adjustments to quotas. 
@@ -45,29 +36,29 @@ The quota coverage types are:
 1. **Native Quota Rep (NQR)** - individual owns direct quota for their assigned territory.
 2. **Overlay Quota Rep (OQR)** - individual supports an assigned territory that is currently owned by a NQR.
 
-### Quota Components
+### **Quota Components**
 
 Can be made of various measurements, but typically by IACV at the Teritory, Region or Segment levels.
 
 The current Commission Plan [presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63) outlines the key components in detail.  
 
-### Sales Rep IACV Quota Ramp
+### **Sales Rep IACV Quota Ramp**
 
 For all enterprise native-quota carrying salespeople, we assume around a twelve (12) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
 
-#### Enterprise
+#### **Enterprise**
 * First Quarter Hired: 0% contribution of quarterly target
 * Second Quarter Hired: 30% contribution of quarterly target
 * Third Quarter Hired: 65% contribution of quarterly target
 * Fourth Quarter Hired: 90% contribution of quarterly target
 
-#### Mid Market
+#### **Mid Market**
 For all Mid Market native-quota carrying salespeople, we assume around a six (6) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
 * First Quarter Hired: 25% contribution of quarterly target
 * Second Quarter Hired: 50% contribution of quarterly target
 * Third Quarter Hired: 100% contribution of quarterly target
 
-#### Seasonality Assumptions
+#### **Seasonality Assumptions**
 We also factor in seasonality into our calculations. We expect most of our business to close in the second half of the year. Our seasonality assumptions are as follows for the private sector:
 
 * First Fiscal Quarter: 20%
@@ -82,22 +73,22 @@ Given the fiscal period for public sector, our seasonality assumptions differ:
 * Third Fiscal Quarter: 46%
 * Fourth Fiscal Quarter: 11%
 
-#### Quotas Proration
+#### **Quotas Proration**
 1. Native Quota-Carrying Reps: prorated quotas are based on each NQR’s territory / existing account base to determine your individual seasonality.  The above metrics are viewed from a WW GitLab perspective, but each individual will share a unique seasonality specific to their circumstances.
 2. Overlay Quota Reps: proration is based off the number of days employed in the given period. Your prorated quota would be calculated as follows: (Quota / (Period End Date - Period Start Date)) * (Period End Date - Hire Date). For example, if the regional quota is $10,000,000 for the year and the start date is 4/1/2019, your quota will be calculated as ($10,000,000 / (2020-01-31 - 2019-02-01)) * (2020-01-31 - 2019-04-01) = $8,379,120.88.
 
-## Commissions Overview
+## **Commissions Overview**
 Most commission plans are paid monthly; however there are some plans that are paid on a quarterly basis. Most commissions plans are calculated in CaptivateIQ. 
 
-### Commission Rates
+### **Commission Rates**
 You can find the definitions of **Base Commission Rate (BCR)** and **Super Commission Rates (SCR)** in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#definitions) page under the Definitions section.
 
-## FY21 Commission Program Terminology
+## **FY21 Commission Program Terminology**
 
-### Base Commission Rate (BCR)
+### **Base Commission Rate (BCR)**
 Base Commission Rate (BCR) is the commission rate applicable to all salespeople that are on a commission plan. BCR is calculated as Annual OTI (On Target Incentive) / Full and/or Normal Quota and is the base rate to which multipliers are applied to arrive at the accelerated rates. 
 
-### Super Commission Rate (SCR)
+### **Super Commission Rate (SCR)**
 New salespeople who join after the fiscal year may be eligible for a Super Commission Rate (SCR) which is calculated as Prorated OTI / Prorated Quota. OTI is prorated based on their start date while their Quota is prorated based on ramp and seasonality assumptions. 
 [Example of SCR](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g6ee04e54a5_0_47)
 
@@ -108,14 +99,14 @@ David Hong, VP of Field Operations, explains how the Super Commission Rate works
 </figure>
 <!-- blank line -->
 
-### Channel Neutral Compensation
+### **Channel Neutral Compensation**
 FY21 commissions will be channel neutral for all deals thru partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
-### Multi Year Commissions
+### **Multi Year Commissions**
 Salespeople are eligible to earn multi year commissions for IACV and Channel Neutral if the opportunity term is more than 12 months and the customer prepays the entire Total Contract Value (TCV). Outyear IACV and Channel Neutral will be paid at 50% of BCR and will not be counted towards quota credit. 
 
 
-## Commissions Rules
+## **Commissions Rules**
 The following rules will apply for the various roles within the organization:
 
 | **Role** | **Rules**  | **Explanation** |
@@ -129,24 +120,24 @@ The following rules will apply for the various roles within the organization:
 | Solutions Architects (SA) | Opportunity Owner is on your regional team | The opportunity owner must be on the SA's team for them to receive credit |
 | Technical Account Manager (TAM) | Opportunity Owner is on your regional team | The opportunity owner must be on the TAM's team for them to receive credit |
 
-## Hold and Releases
+## **Hold and Releases**
 Commissions are paid when the opportunity is invoiced in full. If the opportunity is not invoiced in full no commissions will be paid. These commissions will be held in the Commission system and will be released by the billing team when invoiced in full. In case of a special situation where the commissions need to be released even though not invoiced in full we would need written approval from the CRO and CFO to release those commissions.
 
-## Participant Schedules
+## **Participant Schedules**
 Within the first few weeks of your employment, you should receive your participant schedule. This document will provide details on your plan components, territory, plan start and end dates, payout frequency, base and super (if applicable) commission rates, prorated and full quotas, and variable payouts per component. 
 
-## Opportunity Splits
+## **Opportunity Splits**
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
 * Follow [Opportunity Split approval process](/handbook/sales/forecasting#opportunity-splits)
 * On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
-## Sales Representation Letter 
+## **Sales Representation Letter** 
 
-### Introduction
+### **Introduction**
 
 As part of SOX 404 control environment all quota carrying reps need to certify if there were any deviations to the handbook policy with respect to quote approval and contract management process. Reps should read and acknowledge the letter and report any exceptions.
 
-### Goals of certification
+### **Goals of certification**
 
 The main aim of this rep certification letter is to identify: 
 
@@ -154,7 +145,7 @@ The main aim of this rep certification letter is to identify:
   
     These arrangements typically result from efforts to: remediate a performance issue, secure future business, obtain a customer reference, retain or improve customer satisfaction, avoid a legal matter or close a deal. Examples of benefits offered to customers could include the following: free or discounted products or services, write-off of a previously recorded account receivable balance, ability of a distributor to re-sell a license to non-intended end-users, extended warranty rights, offer to return products not sold for full refund outside of policies, payment terms that deviate from GitLab’s standard practice or cash refunds.
 
-### Sales Representation Letter Certifies:
+### **Sales Representation Letter Certifies:**
 
 1.  All written or unwritten commitments to customers are documented in the Agreement, Order Form, PO or other written agreement signed by the Customer and authorized signatory at Gitlab.  If commitments are not included in customer agreements then they have been documented in a GitLab issue in which the CEO, CFO or CRO has been tagged.
 
@@ -188,11 +179,11 @@ The main aim of this rep certification letter is to identify:
 
 16. Nothing has come to my attention from previous quarter sales activities that have changed or been disclosed to me that I was not aware of previously, but now am aware of.
 
-### Sales Rep Certification Process
+### **Sales Rep Certification Process**
 
 Rep letters will be sent quarterly by the Internal Audit Team. Reps are required to acknowledge the certification letter.
 
-### Sales Rep Certification Process Timeline
+### **Sales Rep Certification Process Timeline**
 
 | **Activity** | **Timeline** |  
 | ------ | ------ |  
@@ -203,12 +194,12 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 
 * If any of the timelines above fall under a public holiday then the previous working day will be a due date for the respective activity.
 
-### Request for Quota Relief
+### **Request for Quota Relief**
 1.  The initial request for quota relief shall be made from the individual to their direct manager with sufficient supporting justification for the request.  
 1.  If approved by their Manager and Departmental VP; the Departmental VP submits the request to sales-comp@gitlab.com for review by Commissions Team and eventually by CRO.
 1.  Final ruling will be communicated back to Departmental VP with details that may include retroactive adjustments and effective date. 
 
-## FY21 SPIFFS (Sales Performance Incentive Funding Formula)
+## **FY21 SPIFFS (Sales Performance Incentive Funding Formula)**
 
 1. To promote healthy competitions and drive the right behaviors, Sales leadership could provide a short-term SPIFF (subject to approval via the [Authorization Matrix](/handbook/finance/authorization-matrix/#authorization-matrix))
 2. Sales leadership needs to request approvals via an issue that contains the following details:
@@ -218,11 +209,11 @@ Rep letters will be sent quarterly by the Internal Audit Team. Reps are required
 * Total # of eligible winners
 * Total SPIFF expenses
 
-### FY21 Professional Services Spiff (v2)
+### **FY21 Professional Services Spiff (v2)**
 **Effective 2020-06-15 (replacing the prior SPIFF) [FY21 PS SPIFF](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g88c7cba71f_10_1)**
 
 
-##### PS SPIFF Tracking Process: 
+##### **PS SPIFF Tracking Process:**
 1. Standard Professional Services Deal Process: Follow standard [Professional Services deal process](/handbook/customer-success/professional-services-engineering/selling/)
 2. Primary TAM must be identified on the Account record to receive credit
 3. Assigning Solution Architect to Opportunity: The following teams can edit the "Primary Solution Architect Field" on the related Opportunity 
