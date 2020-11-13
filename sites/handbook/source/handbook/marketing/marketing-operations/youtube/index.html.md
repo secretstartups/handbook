@@ -180,6 +180,8 @@ In order to see the video,
 
 3. Once you are on GitLab unfiltered, **reload** the page and you can view the video 
 
+Check out [this video](https://www.youtube.com/watch?v=dZtCuOf5aGk) for a visual walk through of how to access private videos on GitLab Unfiltered. 
+
 ## Access
 
 1. GitLab branded channel: To request access, create a [Single Person Access Request issue](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and assign the listed provisioner (column G) from the [Tech Stack spreadsheet](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). 
