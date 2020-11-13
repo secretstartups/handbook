@@ -44,9 +44,15 @@ A Journey is a structured sequence of SmartCards and Pathways
 
 #### Examples of Journey content
 
-- A set of multiple pathways a user must work through in order to earn a certificaiton, for a course like GitLab 101 or GitLab 201.
+- A set of multiple pathways a user must work through in order to earn a certification, for example GitLab 101 or GitLab 201.
 
+### Channels
 
+Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcast to learners throughout the LXP. Channels can be customizable based on the vision of the learners using the LXP. 
+
+#### Examples of Channel organization
+
+- A series of SmartCards, Pathways, and Journeys on Agile Project Management
 
 ## How to Contribute
 
