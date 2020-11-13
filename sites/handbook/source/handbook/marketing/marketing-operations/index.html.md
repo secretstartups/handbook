@@ -261,7 +261,7 @@ The overall model is based on a 100 point system. Positive and negative points a
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaigns aligns our efforts across Marketing, Sales and Finance.
 
-View the [Campaigns and Programs Page](/handbook/source/handbook/marketing/marketing-operations/campaigns-and-programs/index.html.md#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
+View the [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
 
 
 ## Email Management
