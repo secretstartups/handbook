@@ -54,7 +54,7 @@ Once the [kickoff call](#kickoff-call) is complete, the TAM should have sufficie
 Please review the [success plan handbook page](/handbook/customer-success/tam/success-plans/) for more details on how to do this.
 
 
-### First Cadence Call
+### 1st Cadence Call: Future Growth Discussion & Checklist
 
 ⏰ [**Target time:** Within 30 days of customer start date]
 
