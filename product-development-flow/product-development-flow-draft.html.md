@@ -60,7 +60,7 @@ No. Although the phases below appear to be independent and linear, they're not. 
 
 
 
-![Product Development Flow Diagram](Product-Dev-Flow.png)
+![Product Development Flow Diagram](PDF-Diagram.svg)
 
 
 > <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Workflow labels must be applied for each phase that is used to enable tracking and collaboration across teams.
