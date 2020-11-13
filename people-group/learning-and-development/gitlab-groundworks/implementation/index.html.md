@@ -13,4 +13,4 @@ title: GitLab Groundworks Implementation
 
 ## Project Management using GitLab
 
-The LXP Implementation team uses [GitLab issue boards](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards) to track and collaborate on the roll out of the EdCast LXP.
+The LXP Implementation team uses [GitLab issue boards](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards) and [GitLab Epics](https://gitlab.com/groups/gitlab-com/-/epics/918) to track and collaborate on the roll out of the EdCast LXP.
