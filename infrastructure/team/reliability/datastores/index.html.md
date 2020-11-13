@@ -90,6 +90,8 @@ Our fortnight planning process looks like this:
 	- By Friday EOD the Iteration board will be pointed to the next Milestone.
 1. **Monday Morning**: A new 2-week sprint/iteration starts, all same as before.
 
+Every two Mondays the team has the "Datastores Team catch up (or iteration planning)" call, we where we can do sync iteration planning and refining - in addition to our Iteration Planning Issue async planning.
+
 ### Priorities:
 - Iteration priorities are clearly expressed in the Iteration Planning Issue description.
 - We are still not using the Priority Labels, but we will do soon. That will allow us to track the issues in more detail and raise/lower priorities based on both external and internal factors, for every issue.
