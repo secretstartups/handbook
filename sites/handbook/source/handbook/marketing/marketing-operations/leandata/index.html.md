@@ -19,12 +19,12 @@ LeanData assigns each lead record to the member of the Sales Development (SDR) o
 The LeanData lead routing flowbuilder can broken into three major sections: [record validation](#record-validation), [lead to account match](#lead-to-account-match) and [unmatched lead](#unmatched-lead). This flowbuilder is live, meaning it monitors lead records as they're created or updated. 
 
 ### Record validation
-This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming the requirements below.
-- [New leads only] The lead record was created by an integration user and the `Do Not Route?` checkbox is not checked.
-- [New leads only] The `Person Score` of the lead record is greater than or equal to 0. Note this means leads without a `Person Score` or leads that have a `Person Score` less than 0 will continue to be owned by the integration user that created the record. Also, the current `Person Score` threshold is a change from previous routing rules and at the moment, only impacts new leads, not historically created records.
-- [New leads only] Company information is available
-- [Updated leads only] There is no active SDR engagement with the lead. This is checked by confirming the lead does not have a `Lead Status` of `Accepted`, `Qualifying`, or `Qualifed` and the `Actively Being Sequenced` checkbox is not checked.
-- [New and updated leads] Last Interesting Moment listed does not require specialized routing or supression from SDR organization
+This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming:
+- [New leads only] Lead record was created by an integration user and the `Do Not Route?` checkbox is not checked.
+- [New leads only] `Person Score` of the lead record is greater than or equal to 0. Note this means leads without a `Person Score` or leads that have a `Person Score` less than 0 will continue to be owned by the integration user that created the record. Also, the current `Person Score` threshold is a change from previous routing rules and at the moment, only impacts new leads, not historically created records.
+- [New leads only] Company information is available and records missing company data have a standardized response in the `Company` field.
+- [Updated leads only] No active SDR engagement with the lead. This is checked by confirming the lead does not have a `Lead Status` of `Accepted`, `Qualifying`, or `Qualifed` and the `Actively Being Sequenced` checkbox is not checked.
+- [New and updated leads] Most recent `Last Interesting Moment` does not require specialized routing or supression from SDR organization.
 
 ### Lead to account match
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the workflow below. If LeanData is able to identify the SDR responsible for engaging the lead, the record is assigned. If LeanData is not able to identify the aligned SDR, the lead progresses to the [unmatched lead](#unmatched-lead) workflow.
