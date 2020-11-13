@@ -120,11 +120,7 @@ GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/conv
 
 ### Year-end Holiday Party Budget
 
-GitLab grants [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday in December We encourage GitLab team members to self organize holiday parties with those close by, but meeting up with GitLab team members is not a requirement as it is understood that timing and location of holiday parties will play a factor in ability to attend.
-
-For those who do not meet up with GitLab team members, you may expense up to [$100 USD](https://www1.oanda.com/currency/converter/) in December or January for a holiday celebration of your choosing.
-
-If a group of team members, Department or Division so choose, they are welcome to donate a portion of their per person holiday budget to the charity of their choosing.
+GitLab allocates [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday in December. In previous years, we encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the eGroup is deciding how these dollars will be spent on a combination of swag and virtual events to celebrate the holiday season and build team belonging.
 
 ## Travel and Expense Guidelines
 
