@@ -25,7 +25,7 @@ SmartCards are the basic unit of information in the LXP. They are used to direct
 
 - Links to GitLab handbook pages, documentation pages, and YouTube videos
 - Links to external articles and resources that can supplement handbook resources
-- Advertising/sharing a live Learner Speaker Series being hosted for GitLab team members, or a public AMA with our Product team
+- Advertising/sharing a live Learner Speaker Series being hosted for GitLab team members, or a public AMA with our Product team. These can also be used for members to sign up to attend live learning sessions.
 - Polling a group of users to get their feedback on an interactive course on Emotional Intelligence
 - Assessing learnings with a short quiz/knowledge check after reading a set of handbook pages
 - Space for learners to upload and share submissions to projects, like a slide deck or animated video they've created
