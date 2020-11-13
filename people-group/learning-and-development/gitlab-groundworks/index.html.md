@@ -87,18 +87,23 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
 | Name | Team at GitLab |
 | ----- | ----- |
-| Phil Encarnacion | Enterprise Applications |
+| Phil Encarnacion | IT|
+| Christopher Nelson | IT |
 | David Somers | Field Enablement |
 | Kris Reynolds | Field Enablement |
 | Monica Jacob | Field Enablement |
 | John Blevins | Field Enablement |
 | Tanuja Paruchuri | Field Enablement |
 | Issac Abbasi | Field Enablement |
-| Christine Yoshida | Professional Services |
-| Kendra Marquart | Professional Services |
+| Christine Yoshida | Customer Education |
+| Kendra Marquart | Customer Education |
+| Ed Cepulis | Partner Enablement |
 | Alvaro Warden | Partner Enablement |
 | Christina Hupy | Community Relations |
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
 | Samantha Lee | Learning and Development |
 | Dan Gordon | Technical Marketing |
+| Julia Lake | Security/Legal |
+| Lynsey Sayers | Security/Legal |
+
