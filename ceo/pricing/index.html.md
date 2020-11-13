@@ -120,6 +120,8 @@ While our [tiers](#four-tiers) are based on who leads the purchasing decision th
 1. Our [stewardship promise](/company/stewardship/#promises) states all stages, and in some cases individual categories within those stages need to have some open-source features. Occasionally those stages or categories don't lend themselves to individual purchasers. However, we still strive to have some capabilities in open-source.
 1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those those users are essential to creating contributors, an improved product and future tiered features.
 
+When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. 
+
 ### Partner integration considerations
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
