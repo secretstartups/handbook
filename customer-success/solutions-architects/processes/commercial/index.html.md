@@ -12,7 +12,7 @@ title: Commercial SA Engagement Model 2.0
 
 
 
-**## Commercial Solutions Architecture Engagement Model**
+## Commercial Solutions Architecture Engagement Model
 
 Wherever possible, let's bring synchronicity back to our sales and customer-facing team members and relationships.
 
@@ -22,41 +22,41 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 
 
 
-**#### SA Engagement Considerations**
+#### SA Engagement Considerations
 
-**-** All Solutions Architect (b.k.a SA) requests are submitted via [Americas](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/1006966#) and [EMEA](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/boards/1371455)  triage boards
+- All Solutions Architect (b.k.a SA) requests are submitted via [Americas](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/1006966#) and [EMEA](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/boards/1371455)  triage boards
 
-**-** SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
+- SA notes and activities are logged within Salesforce via Troops.ai (review the [SA Activity Capture page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/)).
 
-**-** Deal qualification is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
+- Deal qualification is simply any deal that **is piped at $10k and higher** focused not only on engagement value but also customer potential for consideration of Solutions Architect assignment.
 
-**-** All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7))
+- All Salesforce linked active opportunities should have [MEDDPPICC](https://about.gitlab.com/handbook/sales/meddppicc/) (and [required 7 methods applied](https://about.gitlab.com/handbook/sales/commercial/#required-7))
 
-**-** Compelling events are clearly defined or the issue (i.e. triage request) has a clear statement indicating why that information isn’t available yet and how the SA can help obtain it.
+- Compelling events are clearly defined or the issue (i.e. triage request) has a clear statement indicating why that information isn’t available yet and how the SA can help obtain it.
 
 
 
-**#### Meeting Expectations**
+#### Meeting Expectations
 
-**-** All meetings should be planned with clear desired outcomes available to the SA
+- All meetings should be planned with clear desired outcomes available to the SA
 
-  **-** Why does the prospect want to meet with us?
+  - Why does the prospect want to meet with us?
 
-  **-** What are our meeting objectives/goals?
+  - What are our meeting objectives/goals?
 
-  **-** Agenda and list of attendees should be provided in advance; <u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
+  - Agenda and list of attendees should be provided in advance; <u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
 
-  **-** SA activities include:
+  - SA activities include:
 
-​    **-** Discovery calls
+​    - Discovery calls
 
-​    **-** Demonstrations
+​    - Demonstrations
 
-​    **-** [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices) 
+​    - [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices) 
 
-​      **-** POV's  should  be positioned we're engagements are $25k or higher
+​      - POV's  should  be positioned we're engagements are $25k or higher
 
-​      **-** Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm Gitlab as their best path forward.
+​      - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm Gitlab as their best path forward.
 
 "Production" and "Pre-production" level POVs/evals should be discouraged or provided as paid engagement option as part of a license purchase.
 
@@ -66,7 +66,7 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 
 
 
-**#### Opportunities below $10K**
+#### Opportunities below $10K
 
 In the spirit of supporting the sales floor and deals below $10k we’d like to continue to use Slack offering same day SLA’s for initial response and validation of the ask with mutually agreed upon delivery on formal answers to the question(s) posed.
 
@@ -80,24 +80,24 @@ In the spirit of supporting the sales floor and deals below $10k we’d like to 
 
 
 
-**#### Other Considerations**
+#### Other Considerations
 
 
 
-**##### Team meetings** 
+##### Team meetings
 
-**-** We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - we expect that unless we’re being asked to participate in a critical customer call that our folks attend our meetings. 
+- We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - we expect that unless we’re being asked to participate in a critical customer call that our folks attend our meetings. 
 
-**-** Try to be respectufl of our scheduled 1:1's meetings, though they can be more easily rescheduled in favor of customer engagement.
-
-
-
-**##### Focus Fridays** 
-
-**-**  [“Focus Fridays”](https://about.gitlab.com/handbook/communication/#focus-fridays) is a critical program for our Solutions Architects to focus, develop, and grow - but we have and always will be customer first so please make it clear as described above how we can help.
+- Try to be respectufl of our scheduled 1:1's meetings, though they can be more easily rescheduled in favor of customer engagement.
 
 
 
-**##### Meeting Follow up/Research** 
+##### Focus Fridays
 
-**-** Solutions Architects need time to provide follow up with information in as near real-time as possible. We aim to minimize scheduling “back-to-back” meetings as this can compromise our ability to provide our best possible response for the customers/prospects we're supporting.
+-  [“Focus Fridays”](https://about.gitlab.com/handbook/communication/#focus-fridays) is a critical program for our Solutions Architects to focus, develop, and grow - but we have and always will be customer first so please make it clear as described above how we can help.
+
+
+
+##### Meeting Follow up/Research
+
+- Solutions Architects need time to provide follow up with information in as near real-time as possible. We aim to minimize scheduling “back-to-back” meetings as this can compromise our ability to provide our best possible response for the customers/prospects we're supporting.
