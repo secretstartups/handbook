@@ -196,6 +196,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | UKI | **Large-EMEA-UKI E** | Steve Challis | Shay Fleming |
 |  |  | **Named Accounts** | Hugh Christey | Wiam Aissaoui |
 |  |  | **Named Accounts** | Timo Schuit | Peter Kunkli |
+| TBD | TBD | **TBD**| Aslihan Kurt | Goran Bijelic |
 
 
 
