@@ -148,14 +148,6 @@ Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create T
 
 An account risk issue should be created in the [Account Triage Project](https://gitlab.com/gitlab-com/customer-success/account-triage) if the customer health assessment is either yellow or red. These are also viewable in the [TAM Risk Account Issue Board.](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
 
-#### Issue Template
-
-When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project, the default template will set up the details you should include. Follow the instructions laid out in the issue description by the template for what information should be documented in the issue.
-
-#### Issue Labels
-
-When creating triage issues, it's important to apply the correct labels to the issue, so that we can easily track, have a holistic view of the at risk accounts, and be able to triage regionally and/or by priority. It is expected for each issue to contain one of each of the below label categories. Please refer to the [issue template](#issue-template) for more details on how to use them.
-
 #### Update Frequency
 
 When an account is in triage, keep the triage issue updated as follows:
@@ -164,6 +156,14 @@ When an account is in triage, keep the triage issue updated as follows:
 - **Yellow:** Biweekly, and as new information is available
 
 If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
+
+#### Issue Template
+
+When creating an issue in the [Account Triage](https://gitlab.com/gitlab-com/customer-success/account-triage) project, the default template will set up the details you should include. Follow the instructions laid out in the issue description by the template for what information should be documented in the issue.
+
+#### Issue Labels
+
+When creating triage issues, it's important to apply the correct labels to the issue, so that we can easily track, have a holistic view of the at risk accounts, and be able to triage regionally and/or by priority. It is expected for each issue to contain one of each of the below label categories. Please refer to the [issue template](#issue-template) for more details on how to use them.
 
 ##### Risk Labels
 
