@@ -9,6 +9,10 @@ title: "Commissions"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+##Charter
+
+Sales Commissions is a part of Field Operations, reporting into Sales Operations.  Our goal is to incentivize the field to close business, make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
+
 ## Overview 
 
 The Sales Commissions team oversees and executes the commission process and payments to our salespeople.  With creatively designed compensation plans the team strives to motivate and reward top tier performance, while adhering to strict policies and guildelines when calculating commission payouts.
