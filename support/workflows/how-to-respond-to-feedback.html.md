@@ -129,11 +129,17 @@ If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/
 
 If you feel like the customer should be contacted:
 
-1. Determine the best way to reach out:
-   1. Consider responding directly on the Zendesk ticket if the option is
-      available and it makes sense in context of the ticket.
-   1. Consider sending the customer an email from your GitLab email address if you'd
-      prefer to have a more private conversation.
+1. Determine the best way to reach out. Some options are:
+   1. Sending the customer an email from your GitLab email address. This should
+      be the appropriate option in the majority of cases.
+   1. Responding directly on the Zendesk ticket. This is appropriate if you
+      determine that the ticket was not adequately resolved and work should be
+      continued.
+      * If reopening a ticket, make sure that you assign and brief a support
+        engineer (typically the existing assignee) on the next actions to be
+        taken.
+      * Note that reopening a closed or solved ticket affects
+        measurements of reopen rate and time to resolution.
 1. When reaching out to the customer, make sure you do the following:
    1. introduce yourself, describing who you are and your role at GitLab
    1. note the specifics of the situation, including ticket ID
