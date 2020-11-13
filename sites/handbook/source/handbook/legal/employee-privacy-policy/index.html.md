@@ -24,9 +24,9 @@ GitLab, Inc. is a global company with its headquarters in the U.S. This means th
 
 *Who is collecting your personal data (who is the data controller)?*
 
-The GitLab entity that is a party to your employment contract or contract for services or otherwise employees you will be the data controller of your personal data.  The following are the GitLab entities that act as controller:  GitLab, Inc., GitLab, LLC., GitLab BV, GitLab GmbH, GitLab, LTD, GitLab PTY Ltd, GitLab Canada Corp, GitLab IT BV, and other GitLab subsidiaries throughout the globe ("collectively "GitLab").
+The GitLab entity that is a party to your employment contract or contract for services or otherwise employs you will be the data controller of your personal data.  The following are the GitLab entities that act as controller:  GitLab, Inc., GitLab, LLC., GitLab BV, GitLab GmbH, GitLab, LTD, GitLab PTY Ltd, GitLab Canada Corp, GitLab IT BV, and other GitLab subsidiaries throughout the globe (collectively "GitLab").
 
-GitLab affiliates may act as processors on behalf of other GitLab affiliates and/ or controllers.  Furthermore, the GitLab its affiliates and subsidiaries participate in group-wide IT system in order to harmonize GitLab’s IT infrastructure and its use (the “System”). The System also may hold data on all employees, workers, individual contractors and contingent workers ("Staff"). Insofar the System serves to improve and harmonize most of the human resources (“HR”) processes within GitLab. GitLab, Inc. in the US is responsible for the System.
+GitLab affiliates may act as processors on behalf of other GitLab affiliates and/ or controllers.  Furthermore, GitLab, its affiliates and subsidiaries participate in group-wide IT system in order to harmonize GitLab’s IT infrastructure and its use (the “System”). The System also may hold data on all employees, workers, individual contractors and contingent workers ("Staff"). Insofar the System serves to improve and harmonize most of the human resources (“HR”) processes within GitLab. GitLab, Inc. in the US is responsible for the System.
 
 *Applicability of Other GitLab Privacy Policies*
 
