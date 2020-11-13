@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Nov 12 | [Demonstrate the way GitLab evaluates and completes software purchases](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/484) | Jeff Beaumont |
 | Nov 19 | [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/76) | Annie Rooke & Ed Cepulis |
 | Nov 26 | **Cancelled due to Holiday** |
 | Dec 3 | [Deal qualification: Best practices in figuring out if you truly have a deal](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/2) | Timm Ideker |
@@ -40,6 +39,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2020-11-12 | **[How GitLab Evaluates and Completes Software Purchases](https://youtu.be/55dkX_hNd4s)** | Private |
 | 2020-11-05 | **[Co-Selling with Google - Alliance Overview](https://youtu.be/albyLzQNo7U)** | Private |
 | 2020-10-15 | **[Proof Points & Analyst Resources Update](https://youtu.be/B0-Y4SNVfXU)**  | Private      |
 | 2020-10-08 | **[Deal Structure Best Practices](https://youtu.be/t55rDyNd0wE)**             | Private
