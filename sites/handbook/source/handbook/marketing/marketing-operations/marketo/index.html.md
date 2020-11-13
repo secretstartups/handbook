@@ -105,14 +105,14 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
-|Registered |(ANY)|	+10	|{{my.Registered}}|	Trigger	|Registered <br> Conference > Meeting Requested| Everytime|
-|Follow Up Requested| (ANY)|	+100	|{{my.Follow Up Requested}}	|Trigger	|Follow Up Requested| Everytime|
+|Registered |Registered <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
+|Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
 |* Online  - High|Workshop <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
 |* Online  - Med| Webcast <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
 |* Offline  - Med|Speaking Session<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
-|* Offline  - Low|Field Event, Vendor Arranged Meetings, Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
+|* Offline  - Low|Field Event<br> Vendor Arranged Meetings<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
 |* Content - High|Gated Content <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
@@ -150,7 +150,7 @@ For Job role/function and seniority descriptions go [here](https://docs.google.c
 |Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+10|	{{my.Function - Low}}	|	Trigger on creation or Update to Title|	Once|
 |Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-20	|{{my.Function - Negative}}		|Trigger on creation or Update to Title|	Once|
 Generic Domain|Contains generic email domain|	-5	|{{my.Generic Domain}}|Triggered|Once|
-|Country - P0, P1|[Country = P0,P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
+|Country - P0, P1|[Country = P0, P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 
 ### Folder Structure
 
