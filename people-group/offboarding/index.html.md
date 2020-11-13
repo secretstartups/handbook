@@ -225,6 +225,7 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 
 _Important Notes:_
 * Separation pay is not paid until the ex-team member signs the document and the revocation period has passed.
+* We treat team members equally and therefore do not take tenure into consideration when determining separation pay unless legally required. 
 * Make sure you understand the rules for over 40.
 * You must use language in your exit meeting that is in no way forceful of the ex-team member to sign the agreement. Use phrasing such as “if you choose to sign”; “you have a right to have legal council review this document before you sign”, etc.
 
