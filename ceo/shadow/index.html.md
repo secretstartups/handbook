@@ -180,8 +180,8 @@ Exceptional community members may be able to participate, as well.
 | 2020-11-09 | 2020-11-13 | [Daniel Parry](https://gitlab.com/dparry) - Mid-Market Account Executive - Commercial  | [Fernando Diaz](https://gitlab.com/fjdiaz) - Technical Marketing Manager - Secure and Defend |
 | 2020-11-16 | 2020-11-20 | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst | [Daniel Parry](https://gitlab.com/dparry) - Mid-Market Account Executive - Commercial |
 | 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
-| 2020-11-30 | 2020-12-04 | [Kevin Chu](https://gitlab.com/kbychu)| [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst |
-| 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Kevin Chu](https://gitlab.com/kbychu) |
+| 2020-11-30 | 2020-12-04 | [Kevin Chu](https://gitlab.com/kbychu) - Group Product Manager, Release, Configure, Monitor | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst |
+| 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Kevin Chu](https://gitlab.com/kbychu) - Group Product Manager, Release, Configure, Monitor |
 | 2021-01-04 | 2021-01-08 | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
 | 2021-01-11 | 2021-01-15 | AVAILABLE - REMOTE | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
