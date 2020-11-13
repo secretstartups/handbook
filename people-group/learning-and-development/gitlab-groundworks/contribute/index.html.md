@@ -74,13 +74,13 @@ The table below should be used as a reference for suggested handbook sections wh
 
 1. After all required content is uploaded to the correct creator kit issue, GitLab team members will collaborate with contributors to iterate on and refine contributions. The following chart highlights which GitLab teams will collaborate on and approve content contributed to the LXP:
 
-| Contributor Audience | Team Approval | DRI GitLab Handle |
+| Contributor Audience | Team Approval | GitLab Label|
 | ----- | ----- | ----- |
-| GitLab Team Members | L&D Team | |
-| Customers | Professional Services | |
-| Partners | Partner Enablement | |
-| Sales Team | Field Enablement | |
-| Wider GitLab Community | Community Relations Team | |
+| GitLab Team Members | L&D Team | `edcast-contribution-l&D` |
+| Customers | Professional Services | `edcast-contribution-professional-services` |
+| Partners | Partner Enablement | `edcast-contribution-partners` |
+| Sales Team | Field Enablement | `edcast-contribution-field` |
+| Wider GitLab Community | Community Relations Team | `edcast-contribution-community` |
 
 
 To learn more about the admin review and approval process of contributions to the LXP, please review the LXP admin section of the handbook.
