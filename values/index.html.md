@@ -779,6 +779,32 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 >
 > Having a low level of shame requires you to combat a natural inclination to conceal work until it's perfect, and instead celebrate the small changes.
 
+##### Cultural lens
+{:.no_toc}
+We are also aware of how iteration can be viewed in a cultural perspective. Expressions like “Fail often, and fail fast!”, and “It doesn’t have to be perfect...” can have different cultural contexts for a globally diverse team and can challenge cultural norms. Inclusion and Belonging must always be a focus especially with our iteration value. Because of that, we recommend considering these actions as a way we can all support and enhance our iteration value.
+
+As a Manager, you play an important role in creating an environment for your team where team members enjoy psychological safety, and feel empowered to contribute at their own pace. Your responsibility as Manager requires you to:
+1. Believe in your team
+1. Forgive mistakes
+1. Praise efforts
+1. Earn trust
+1. Set your own ego aside
+1. Be culturally sensitive
+
+As Manager, consider systematizing iteration within your team by creating a process within iteration that includes an action component. For example, you could include a debrief component for all iteration efforts attempted:
+1. Document what aspects of the early stages of an issue, project or process added value; show why or why not
+1. Provide feedback that aligns with guidance on cross cultural collaboration for improving the next iteration
+
+It’s easier to practice the concept of iteration if there is a framework for which managers and team members can work that is both transparent but also helps team members feel secure with taking risks.The framework that we suggest is that managers should assume that any issue, MR, document, slack message, etc., is a first iteration. The manager should provide feedback in a timely manner.
+
+In order to increase learning from the experience, we also encourage managers to debrief with their team members after each iteration effort, and share the aspects of the early stages of the project/proposal that worked. Managers should highlight specifics that may have been confusing, or that could be thought about differently during the next iteration. For larger iterations, managers should consider doing a retrospective to gather this feedback in a supportive group format.
+
+Managers should constantly look to improve on ways to be supportive of every attempt at iteration. To encourage this, a Manager’s performance/potential assessment may be linked to feedback from the team that the Manager provided a safe space and encouraged a supportive environment.
+
+As Managers, you should be constantly improving how you show up as an ally and continuously increasing your cross cultural awareness. As an ally, you are actively seeking every opportunity to provide support to those team members feeling challenged with iteration. That includes being the objective voice when the majority view is not supportive of an effort submitted. Challenging yourself and others to check unconscious and implicit biases.
+
+Our goal is a continuous effort on increasing our understanding of iteration through a cultural lens.
+
 ##### Focus on Improvement
 {:.no_toc}
 We believe great companies sound negative because they focus on what they can improve, not on what is working.
