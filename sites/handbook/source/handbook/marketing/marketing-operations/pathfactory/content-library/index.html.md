@@ -14,12 +14,12 @@ description: "The content library is where all your uploaded assets are stored a
 
 The content library is where all your uploaded assets are stored and tagged in PathFactory.
 
-**Before uploading content:**
+### Before uploading content
 
-1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
-1. Use the search to determine if it’s already been added. If you try to add a file or URL that's already in the library, the system will tell you it already exists.
+1. Use the search to determine if it’s already been added. Be thorough, as the asset could also have a different URL. If you try to add a file or URL that's already in the library, the system will tell you it already exists. 
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
+1. Follow the [blog style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
 
 ### How to upload content
 
@@ -40,7 +40,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Leave External ID blank.
 1. Select the content topics on the right-hand side that categorize the asset. Follow the [content tag map below](#tracking-content) when tagging content with topics.
 
-**After adding the asset to the library:**
+## After adding the asset to the library
 
 1. Select the asset you just added to the library. A preview of the content will appear on the right-hand side of the content library. Scroll down the window pane under `source URL` and locate `Custom URL slug`.
 1. Update the custom URL slug to be descriptive of the content with no stop words (and, the, etc.).
@@ -48,8 +48,7 @@ The content library is where all your uploaded assets are stored and tagged in P
     1. If a URL slug needs to be modified, please open an issue in the marketing operations project. 
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is _not secure_, it _will not_ show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
 
-
-**Replacing or updating the verson of an asset after initial upload:**
+### Replacing or updating the verson of an asset after initial upload
 
 If you need to replace an asset source but keep the same link, you can do so from the content library.
 * Select the asset from the content library
