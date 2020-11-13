@@ -75,7 +75,9 @@ A team member **looking for the next issue to work on** should look at:
 4. Once an issue is finished, we move it to ~"Workflow-infra::Done", and finally close it when we are sure there is no more work to do about it.
 
 ### Issues and definition of done:
-(WIP)
+We use the following [definition of done](https://www.agilealliance.org/glossary/definition-of-done). Your contribution is not done until you have made sure it meets all of the requirements stated in the issue/epic _Acceptance Criteria_ section, as in this basic [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10451).
+
+Please make sure you include this section in every issue/epic you create, and that the checkboxes are ticked before you call the issue/epic "complete".
 
 
 ### Iteration planning: 
