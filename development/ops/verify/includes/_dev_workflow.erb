@@ -2,13 +2,24 @@ We use the [<%=group %> Workflow issue board](https://gitlab.com/groups/gitlab-o
 
 Development moves through workflow states in the following order:
 
-1. `workflow::ready for development`
-1. `workflow::in dev`
-1. `workflow::blocked` (as necessary)
-1. `workflow::in review`
-1. `workflow::verification`
-1. `workflow::production`
-1. `Closed`
+ 1. `workflow::design` (if applicable)
+ 1. `workflow::planning breakdown` 
+ 1. `workflow::ready for development`
+ 1. `workflow::in dev`
+ 1. `workflow::blocked` (as necessary)
+ 1. `workflow::in review`
+ 1. `workflow::verification`
+ 1. `workflow::production`
+ 1. `Closed`
+
+`workflow::planning breakdown` is driven by Product, but is a collaborative effort between Product, UX and Engineering. The steps for **planning breakdown** typically consists of:
+ - Product defining or clarifying the problem statement. Product and UX will collaborate on `problem validation` as needed
+ - UX providing designs (as necessary)
+ - Engineering clarifying the issue description as stated, and refines and weights the issue once Product and UX have provided enough details to do so.
+
+At any point, if an issue becomes blocked, it would be in the `workflow::blocked` status. If there is a blocking issue, it needs to be added to the issue description or linked to the issue with a 'blocked by' relationship.
+
+`workflow::ready for development` means that an issue has been sufficiently [refined and weighted by Engineering](##how-engineering-refines-issues), upon request by Product and UX
 
 #### "What do I work on next?"
 
