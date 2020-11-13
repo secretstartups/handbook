@@ -6,7 +6,7 @@ title: "Commissions"
 
 
 ## **Charter**
-Sales Commissions is a part of Field Operations, reporting into Sales Operations. Our goal is to incentivize the field to close business, make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
+Sales Commissions is a part of Field Operations, reporting into Sales Operations. Our goal is to incentivize the field to close business, collaborate to make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
 
 ## **Meet The Team**
 
