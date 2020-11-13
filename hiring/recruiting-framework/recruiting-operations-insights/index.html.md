@@ -88,6 +88,7 @@ TBA
    * Consider the following when merging candidate/prospect profiles:
       * Ensure that the Source, Coordinator, and Recruiter listed in the Details tab remains the same.
       * If a candidate is marked as *Hired*, ensure the profile that they were *Hired* on is the *Primary Profile*.
+      * When merging an internal candidate's profile, ensure that the Primary Profile is the original profile (i.e. the one they first applied with as an external applicant). The merge request must be processed before the candidate reaches the `Offer Stage`.
 * **Offer Approvals**
     * The Offer Approvals process can be accessed in the [Greenhouse Handbook page](/handbook/hiring/greenhouse/#updating-requisition-and-offer-approval-flows)
 * **Requisition Approvals**
