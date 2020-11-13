@@ -9,6 +9,39 @@ title: Pricing model
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+## Pricing Strategy
+
+Most of GitLab functionality is and will be available for free in Core. Our paid
+tiers include features that are
+[more relevant for managers, directors, and executives](/company/stewardship/#what-features-are-paid-only).
+[We promise](/company/stewardship/#promises) all major features in [our scope](/direction/#scope)
+are available in Core too. Instead of charging for specific parts of our scope
+(CI, Monitoring, etc.) we charge for smaller features that you are more likely
+to need if you use GitLab with a lot of users. There are a couple of reasons for
+this:
+
+1. We want to be a good [steward of our open source product](/company/stewardship/).
+1. Giving a great free product is part of our go to market, it helps create new users and customers.
+1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](/handbook/product/single-application/).
+1. Including all major features in Core helps reduce merge conflicts between CE and EE
+
+Because we have a great free product we can't have one price. Setting it high
+would make the difference from the free version too high. Setting it low would
+make it hard to run a sustainable business. There is no middle ground that would
+work out with one price.
+
+That is why we have a [Starter, Premium, and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
+The price difference between each of them is half an order of magnitude (5x).
+
+We will charge per user, per
+application, or per instance. We do include free minutes with our subscriptions
+and trials to make it easier for users to get started. As we look towards more
+deployment-related functionality on .com it's tempting to offer compute and
+charge a percent on top of, for example, Google Cloud Platform (GCP). We don't
+want to charge an ambiguous margin on top of another provider since this limits
+user choice and is not transparent. So we will always let you BYOK (bring your
+own Kubernetes) and never lock you into our infrastructure to charge you an
+opaque premium on those costs.
 
 ## Pricing Philosophy
 
@@ -524,7 +557,7 @@ Below is a video with the CEO discussing the philosophy of this with a Product M
 
 When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
 data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
-[open source features should never move to paid tiers](company/stewardship/#promises).
+[open source features should never move to paid tiers](/company/stewardship/#promises).
 
 We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
 ability to move features up in tier, proving the necessity has a much higher bar since we are constraining the existing reach of a feature rather than expanding it.
