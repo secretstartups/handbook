@@ -15,6 +15,9 @@ You can read more about the mission and vision of the LXP on the [EdCast About P
 
 A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (Ux).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
 
+## GitLab's Long Term Strategic Vision for the LXP
+
+
 ### What will the LXP do for the GitLab community
 
 GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. The LXP will do the following for GitLab: 
