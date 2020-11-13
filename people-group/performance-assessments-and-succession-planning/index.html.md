@@ -257,47 +257,80 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 
 ## Communication 
 
-In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback resulting from calibration sessions to be communicated with team members, but refrain from communicating box-specific placement. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
+In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback with team members. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
 
 The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups*. For example, we have some departments that have used the Performance/Potential Matrix in previous quarters. These groups may feel comfortable and ready to communicate potential at this stage. We do, however, recommend that there is _consistency in what is being communicated within each department_. 
 
 We hope to increase the scope of our communication company-wide as we iterate on the Performance/Potential Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY21.
 
-### Do Communicate
-Managers are *encouraged* to communicate the following directly with each individual on their team:
+## Best Practices for Communicating Performance Factors
 
-1. Summarized feedback and themes from calibration sessions that is specific to that team member
-1. "Performance" axis results (AKA: The [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) as this impacts compensation. _Please refrain from communicating Performance axis final placement until apprvoed through the e-group level._
+After calibration sessions with your group and assessing performance of your team members it’s time to communicate the final ratings when you have been notified that they have been approved by the E-Group. **Please refrain from communicating Performance axis final placement until approved through the e-group level.** Having an extensive conversation on performance with your team members is a great way to set them up for success going forward. Also we want to take the opportunity to give them a perspective of their career development. Below we will take you through some of the best practices, however, if ever in doubt please reach out to your manager or [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
 
-We recommend communicating the points above directly with team members because:
+* **Communicate performance factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance factor) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling over this conversation.
 
-* This information should not come as a surprise to team members (as career development conversations and feedback should be ongoing)
-* It provides an opportunity to receive input/feedback from team members
-* It serves as a platform that can feed into a development plan
+* **Prepare for the call ahead of time.** As a manager, you should have prepared in advance of calibration discussions with your team. Before communicating a team member’s performance factor, it’s beneficial to look back through your preparation document, notes and anything relevant that was discussed as part of the calibration exercise.  Be prepared with notes on the following: 
+    * Areas the team member is doing well
+    * Areas that need improvement
+    * Provide specific examples - the SBI (Situation - Behavior - Impact) model can be a good model to leverage for delivering examples which allow for the team member to understand the impact of their behavior. 
+    * Think about recommendations and/or focus areas for a team member’s development
+    * To help facilitate the conversations we have put together a [Performance Review Template])(https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended but optional.
 
-##### Communicating Matrix Feedback
+* **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/)** to discuss a team member’s performance factor and communicate the performance factor at the beginning of the meeting. You want to give the team member time to ask questions, discuss their rating and most importantly, determine next steps.
 
-Below are a few recommendations for managers when communicating themes from the calibration discussion:
+* **Protect the confidentiality of other team members** by avoiding saying things like “you were the only team member to be rated this performance factor.”
 
-* Discuss areas the team member is doing well
-* Discuss areas that need improvement
-* Provide examples
-* Provide recommendations for future development
-* Prepare the communication in advance
+* **Avoid making future promises** like  “In the next review, I will rate you X performance factor.”
 
-### Do Not Communicate
-Managers are *discouraged from communicating* the following:
+### Sample Script for Delivering a Performance Review
+"Thank you for the time today to discuss your performance. I want to take the time to discuss things that you have achieved and things that can be improved. Also I want to discuss your further development and the rating we have landed on with regards to your performance."  
 
-1. Box placement in the matrix
-1. "Potential" axis results 
+"I assessed your performance factor as ****[Insert Performance factor]***:"
+* ***Exceeding (consistently surpassing the demands of their current position)***
+* ***Performing (“on track” and meeting all expectations of current position)***
+* ***Developing (room to learn and grow, not currently meeting all expectations of current position)***
 
-We discourage communicating the points above directly with team members because:
+"I assessed your performance as ***[Insert Performance Factor]*** because:"
+*  I rated your performance against your job responsibilities as ***[Insert Performance Factor]***.
+    * Your strengths in your job responsibilities are [Insert strengths with supporting examples]
+    * Your opportunities in your job responsibilities are [Insert opportunities with supporting examples]
 
-* We want to move away from the "box" and focus on actionable items and development (the box is simply a manager tool to help think through the process).
-* To stay iterative, we wanted to rollout the first iteration of the talent assessment this year. As a result, we have prioritized the development of Performance axis guidelines and criteria (as it will impact compensation during the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review)), and the Potential axis criteria is still being developed. We want to make sure our guidelines and defining criteria are clear before communicating Potential. 
-* To allow an opportunity to receive feedback on the Performance/Potential matrix process to determine whether this is the talent assessment tool we will use moving forward. 
+* I rated your performance against values and remote working (add management/leadership competencies if applicable) competencies as ***[Insert Performance Factor]***.
+    * Your strengths in aligned competencies are [Insert strengths with supporting examples]
+    * Your opportunities in aligned competencies are [Insert opportunities with supporting examples]
 
-### Performance / Potential Review FAQs
+So therefore your overall performance is ***[Insert Performance Factor]***.  Thank you for your hard work and I look forward to continuing to work with you! What questions do you have?  ***[Allow team member to ask questions and respond]*** Let’s schedule a time to talk more about what you want to do in the future and create a career development plan together. 
+
+### Performance / Potential Communication FAQs:
+* **Q:** “Can my performance factor be changed?”
+* **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to change performance factor ratings in future programs. We plan to evaluate performance factors every 6 months.
+* **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
+* **A:** The performance factor will be one of the factors that will be feeding into the overall Annual Compensation review. The recommended increases displayed on the Handbook page are there to ensure company wide consistency. All factors that will be taken into account with the Annual Compensation review are: 
+    * Your hire date (new hires hired after October 31st are ineligible for compensation review)
+    * Other compensation increases received over the last year
+    * Your current placement in the compensation band
+    * Location factor benchmark updates
+    * Role benchmark updates 
+    * Company budgets for compensation increases
+* **Q:** “When is my next opportunity to be reviewed?”
+* **A:** We plan to conduct a talent review process every 6 months. The next company wide review is targeted for May FY22. 
+* **Q:**“What can I do to change my performance factor in the future?”
+* **A:** There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
+* **Q:**“What is my potential rating?”
+* **A:** This depends on if your group assessed potential. Some groups decided not to assess potential for this first iteration and focus on performance. Other groups have been using this process for some time; so decided to look at both performance and potential. Please check with your manager on what your organization decided to do. 
+Regardless if your organization assessed potential, it is ok for you to discuss skill growth with your manager at any time. You should talk to your manager about how you’d like to develop and create a career development plan to determine actionable steps in order to work towards the outcome that you are looking to achieve. 
+* **Q:** “Can my potential rating be changed?”
+* **A:** If your organization did decide to assess and communicate potential ratings, your potential factor cannot be changed. You should note that at this point in time, the potential factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
+* **Q:** “What can I do to change my potential rating in the future?”
+* **A:** There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
+
+### Sample Next Steps
+The most important part of the performance factor discussion is to determine next steps in partnership with your team member. The team member should be the DRI for the next steps with support from you as their manager. 
+Our [Career Development handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) includes a lot of great information and resources on career development including [an individual growth plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) and [career development worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2) which should help provide structure and a plan for next steps. 
+If you have any questions or concerns about next steps, please contact your manager and/or your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
+
+
+### Performance / Potential Review General FAQs
 * **How is this different from what we did in the past?** <br>
     * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly-launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
     * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
