@@ -376,6 +376,8 @@ For **Workshops**, follow the directions in the [Workshop set-up section](/handb
 
 For **Alyce Direct Mail** or Direct Mail not needing a Marketo program, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-direct-mail-campaigns)
 
+For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
+
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
@@ -552,3 +554,45 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Budgeted Cost` if you have the data available, if not, or if cost is $0, list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
+
+#### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
+Currently any form starting with these are actively being added into a program and you do not need to add a new one.
+- singleappci
+- iacgitops
+- vccusecase
+
+##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
+- Use format `YYYY_Social_Name_Linkedin Lead Gen`
+
+##### Step 2: Sync to Salesforce
+
+- At the program main screen in Marketo, where it says `Salesforce Sync` with "not set", click on "not set"
+    - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
+    - Click "Save"
+
+##### Step 3: Update the Salesforce campaign
+
+- Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
+    - Change the `Campaign Owner` to your name
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `Budgeted Cost` if you have the data available, otherwise put $1
+    - Update `Region` and `Subregion` if you have the data available
+    - Click Save
+- Add the Marketo program link and SFDC campaign link to the epic.
+
+##### Step 4: Go back into Marketo Template
+- Update local program tokens 
+- Update the smart list with `contains` and the prefix
+- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the Flow
+- Turn on 
+- All linkedin programs with your form prefix will now flow through this campaign
+
+##### Step 5: Update this Handbook page
+- Update this handbook page with the prefix you are now tracking to prevent duplication of programs in the future.
+
+
+
