@@ -19,7 +19,7 @@ description: "Renewals Lifecycle Management Process Guide for GitLab Sales"
 
 #### Renewal Opportunity Policy:
 - Renewal Opportunities will have a 30 day grace period after subscription term end date, after which it should be considered lost and moved to Closed Lost.
-- If the customer later decides to renew (re-transact with GitLab) from days 31-90 beyond subscription term end date, work with deal desk to back out the Closed Lost renewal and book a new renewal transaction. (Add Link)
+- If the customer later decides to renew (re-transact with GitLab) from days 31-90 beyond subscription term end date, work with Deal Desk team to [back out the Closed Lost renewal](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#subscription-cancellation-policy) and book a new renewal transaction.
 
 ## Renewal Lifecycle Management
 #### Opportunity Creation
