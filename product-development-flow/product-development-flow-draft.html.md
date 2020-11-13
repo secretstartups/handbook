@@ -300,7 +300,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 |----------------------------------------------------------------|-------------------------------------------------------------------------|
 | DRI                                                            | - Product Manager                                                       |
 | Collaborators                                                  | - Engineering Manager, Product Designer, SETs, Engineers                |
-| Informed                                                       | - PMM, TAM                                                              |
+| Informed                                                       | - PMM, TAM, Technical Writer                                            |
 
 #### Description
 
@@ -326,8 +326,8 @@ Finally, Engineering Managers will apply `Deliverable` label to issues with a mi
 
 | Labels 	| Usage 	|
 |-	|-	|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::in dev` 	| Applied by the engineer once work has begun on the issue. An MR is typically linked to the issue at this point.  	|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::in review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::In dev` 	| Applied by the engineer once work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point.  	|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::In review` 	| Applied by an engineer indicating that all MRs required to close an issue are in review |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::blocked` 	| Applied if at any time during development the issue is blocked. E.g.: technical issue, open question to PM or PD, cross-group dependency 	|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> `workflow::verification` 	| Once the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging and/or production |
 
@@ -348,6 +348,8 @@ This phase begins after work has been broken down, and prioritized in Phase 1. W
 
 When an issue is in development Quality Engineering will follow the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process ensuring test plans, regression jobs, end to end tests, and any other testing process is followed. Coordination is key between the assigned development engineer, and SET during this phase.
 
+Documentation for the work will be developed by the engineer and the Technical Writer, and the Technical Writer should review the documentation as part of the development process. Items discovered during a documentation review should not block issues moving into the next phase, and may drive the creation of follow-on improvement MRs for the documentation, after release.
+
 *Note: Work deemed out of scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
 
 #### Outcomes and Activities
@@ -355,7 +357,7 @@ When an issue is in development Quality Engineering will follow the [quad planni
 | Outcomes 	| Activities 	| DRI 	|
 |-	|-	|-	|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Engineering manager checks that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met.<br>- Provide regular status updates to stakeholders. - Provide asynchronous updates to avoid status check-ins and synchronous stand-ups.<br> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues | - Engineer |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done))<br>- SET sets testing requirements on the issue -SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning.| - Engineer 	|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done))<br>- SET sets testing requirements on the issue -SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning. - Technical Writers complete a review of any developed documentation. | - Engineer 	|
 
 ### Build phase 3: Launch
 
@@ -368,7 +370,7 @@ Issue Status: `Closed`
 | Role |Function|
 |---|---|
 | DRI | **Development** - Close issue once it is available in production <br> **Product Manager** Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it is warranted <br> **Product Manager** Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it is applicable <br> **Product Manager** Consider alerting relevant stakeholders in appropriate Slack channels. |
-| Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production.  (Primary verification is, of course, performed prior to production whenever possible.) |
+| Collaborators | Development team, quality counterpart, and product manager may verify the issue is working as expected in production.  (Primary verification is, of course, performed prior to production whenever possible.) Technical Writers create any documentation issues or MRs required to address issues identified during review that were not resolved. |
 | Informed | [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature via the change in the status of the issue and/or the release post.  GitLab team members may also be informed via posts in relevant Slack channels.  |
 
 #### Description
@@ -396,7 +398,7 @@ Label: n/a
 | Role |Function|
 |---|---|
 | DRI | - Product Manager |
-| Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing|
+| Collaborators | - Product Designer <br> - Customer Success <br> - Sales <br> - Data Analysts <br> - UX Researcher <br> - Product Marketing <br> - Technical Writing |
 | Informed | - Engineering Team <br> - Leadership<br> - [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
@@ -406,10 +408,10 @@ After launch, the Product Manager and Product Designer should pay close attentio
 #### Outcomes and Activities
 
 | Outcomes|Activities|DRI|
-|---|---|---|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members. | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review [user feedback in issues](/handbook/product/product-principles/#feedback-issues)<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a [Category Maturity Scorecard](/handbook/engineering/ux/category-maturity-scorecards/) evaluation <br>- Consider running a survey for usability | Product Manager |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to [set up dashboards in Sisense](/handbook/business-ops/data-team/platform/periscope/) and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review [AMAU, GMAU, and SMAU dashboards](https://about.gitlab.com/handbook/product/performance-indicators/#key-performance-indicators) to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues (applying the [Actionable Insight](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/research-insights/#actionable-insights) label where relevant) or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps.| Product Manager |
+|---|---|---| 
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Understand Qualitative Feedback** - In order to know how to improve something, it is important to understand the qualitative feedback that we're hearing from users and team members. | - Continue [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)<br>- Review [user feedback in issues](/handbook/product/product-principles/#feedback-issues)<br>- Follow up with TAMs and SALs to gather feedback from interested customers<br>- Setup follow-up calls with customers to gather more specific feedback<br>- Consider running a [Category Maturity Scorecard](/handbook/engineering/ux/category-maturity-scorecards/) evaluation <br>- Consider running a survey for usability | Product Manager | 
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Measure Quantitative Impact** - Qualitative data is great, but coupling it with quantitative data can help to paint the full picture of what is going on. Make sure to [set up dashboards in Sisense](/handbook/business-ops/data-team/platform/periscope/) and review the performance and engagement of your change.  | - Update any applicable dashboards in Sisense, if necessary work with the data team for more complex reporting <br>- Review [AMAU, GMAU, and SMAU dashboards](https://about.gitlab.com/handbook/product/performance-indicators/#key-performance-indicators) to understand if the new feature or improvement has impacted core metrics<br>- Consider running a Category Maturity Scorecard evaluation                                                | Product Manager | 
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Take action on Learnings** - Once you understand the qualitative and quantitative impact, you can take action on your learnings by creating new issues or updating existing open issues with more information. | - Open new issues or revise existing open issues for follow-on iterations and improvements<br>- Ensure you've captured feedback in issues or as updates to your direction pages<br>- If applicable, update your category maturity score and timeline<br>- Share learnings with your group and stage <br>- Consider sharing learnings with the broader team  <br>- Coordinate with your PMM to understand if there are any relevant GTM motions you should consider updating <br> - Update experiment follow-up issue with results and specific next steps. <br>- Potentially create issues or MRs for updates to the documentation site, to provide useful information in advance of potential product updates related to learnings.| Product Manager | 
 
 ## Iteration Strategies
 Here are several strategies for breaking features down into tiny changes that can be developed and released iteratively. This process will also help you critically evaluate if every facet of the design is actually necessary.
