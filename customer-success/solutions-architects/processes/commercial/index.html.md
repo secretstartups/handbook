@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Commercial SA Engagement Model 2.0
+title: Commercial SA Engagement Model
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
