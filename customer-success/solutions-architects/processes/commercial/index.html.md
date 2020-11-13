@@ -39,26 +39,15 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 #### Meeting Expectations
 
 - All meetings should be planned with clear desired outcomes available to the SA
-
   - Why does the prospect want to meet with us?
-
   - What are our meeting objectives/goals?
-
   - Agenda and list of attendees should be provided in advance; <u>failure to provide this information could delay in the scheduling or declination of a meeting request.</u>
-
-  - SA activities include:
-
-​    - Discovery calls
-
-​    - Demonstrations
-
-​    - [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices) 
-
-​      - POV's  should  be positioned we're engagements are $25k or higher
-
-​      - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm Gitlab as their best path forward.
-
-"Production" and "Pre-production" level POVs/evals should be discouraged or provided as paid engagement option as part of a license purchase.
+- SA activities include:
+  - Discovery calls
+  - Demonstrations
+  - [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices) 
+    - POV's  should  be positioned we're engagements are $25k or higher
+    - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm Gitlab as their best path forward. "Production" and "Pre-production" level POVs/evals should be discouraged or provided as paid engagement option as part of a license purchase.
 
 
 
@@ -72,7 +61,7 @@ In the spirit of supporting the sales floor and deals below $10k we’d like to 
 
 **Now Available:** **[SA Office Hours](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/33)** 
 
-- Additionally, office hours as a forum that allows AE's to ask questions of the SA team in a one-to-many fashion that may help accelerate a smaller engagement, increase their knowledge of Gitlab and other industry related technologies.
+To help with deals below $10k, we have introduced office hours as a forum that allows AE's to ask questions of the SA team in a one-to-many fashion that may help accelerate a smaller engagement, increase their knowledge of Gitlab and other industry related technologies.
 
 
 
@@ -89,13 +78,6 @@ In the spirit of supporting the sales floor and deals below $10k we’d like to 
 - We hold our team meetings on Mondays (Americas) at 11am EST and Tuesdays (EMEA) 9.30am EST for an hour - we expect that unless we’re being asked to participate in a critical customer call that our folks attend our meetings. 
 
 - Try to be respectufl of our scheduled 1:1's meetings, though they can be more easily rescheduled in favor of customer engagement.
-
-
-
-##### Focus Fridays
-
--  [“Focus Fridays”](https://about.gitlab.com/handbook/communication/#focus-fridays) is a critical program for our Solutions Architects to focus, develop, and grow - but we have and always will be customer first so please make it clear as described above how we can help.
-
 
 
 ##### Meeting Follow up/Research
