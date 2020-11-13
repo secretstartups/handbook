@@ -617,27 +617,15 @@ This process is for new assets in PathFactory that **have not** already been dis
 
 Assets needing a listening campaign should following the above naming conventions. 
 
-**Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
+**Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#gating-criteria) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
 
 ### Salesforce Campaign Type
 
-For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [Business Ops Resources - Campaign details](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
+For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs).
 
-### PathFactory SFDC Panel
+### Custom PathFactory Fields
 
-In Salesforce (SFDC) there is a `PathFactory` section on both the LEAD and CONTACT layout that provides information about Pathfactory content consumption.
-
-1. These fields are all **session** based - this is by design from PathFactory and the field values overwrite with new data for every session.
-1. A piece of content is considered "consumed", by default, when it has been viewed for 20 seconds minimum.
-    - This can be modified per asset.
-    - At this time all assets have been set up the same. If that changes, this page will be updated with details.
-1. A PF "session" is a single content consumption period.
-1. A "session" closes after 30 minutes of inactivity or at 11:59pm (instance set timezone - SFDC is set to Pacific time).
-1. If a person consumes more than one content track in a **single session** all of the assets/tracks viewed will be displayed in the fields cumulatively.
-
-### PF Panel Fields
-
-![](/images/handbook/marketing/marketing-operations/pf_sfdcpanel.png)
+There are custom PathFactory fields available in Salesforce and Marketo. They are first created in Salesforce and then synced/created in Marketo. 
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |
