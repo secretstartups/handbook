@@ -120,7 +120,7 @@ GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/conv
 
 ### Year-end Holiday Party Budget
 
-GitLab allocates [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. In previous years, we encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group has decided to do company-wide swag and a per person budget of $45 USD for a virtual holiday event that team members may self-organize. 
+In previous years, GitLab allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group has decided to do company-wide swag and a per-person budget of $45 USD for a virtual holiday event that team members may self-organize. 
 
 ## Travel and Expense Guidelines
 
