@@ -28,18 +28,14 @@ This initial phase reviews new and updated lead records to ensure they meet the 
 
 ### Lead to account match
 Records that meet all [record validation](#record-validation) criteria and can be matched to an existing Salesforce account by LeanData are then assessed using the workflow below. If LeanData is able to identify the SDR responsible for engaging the lead, the record is assigned. If LeanData is not able to identify the aligned SDR, the lead progresses to the [unmatched lead](#unmatched-lead) workflow.
-#### `SDR Assigned` match
-Used to route ABM, PubSec, APAC, EMEA Large and AMER Mid-Market leads. The custom account object field `SDR Assigned` is populated with SDR responsible for engaging and qualifying the lead.
-#### Owner mapping available
-Used to route leads from `Named` accounts. Owner mappings are maintained within LeanData linking SDRs aligned to `Named` accounts with an account owner. If a lead is matched to an account with an owner mapping available, the record is assigned to the SDR listed in the owner mapping.
-#### [TSP]-based alignment 
-Used to route EMEA Mid-Market leads. LeanData uses a combination of `[TSP] Sub-Region`, `[TSP] Area` and `Account Owner` fields on matched accounts to route leads.
+- **Owner mapping available** - When a SAL or AE aligns directly to an SDR, LeanData's [owner mappings functionality](https://leandatahelp.zendesk.com/hc/en-us/articles/360022422813-Routing-Owner-Mappings-Guide) is used to assign leads to SDRs. This mapping lives in LeanData and is not visibly reflected in Salesforce without access to the LeanData application. Because there is not always a direct 1:1 alignment between SALs / AEs and SDRs, the owner mappings functionality is only one compontent of our lead routing workflow for leads that match to accounts. 
+- **`SDR Assigned` match** - The custom account object field `SDR Assigned` is populated with SDR responsible for engaging and qualifying the lead. When a lead is matched to a PubSec account or there is not an owner mapping available, LeanData references the `SDR Assigned` field on the matched account record and routes the lead to the SDR listed, if the field is populated. This field is used as a secondary routing mechanism for leads that match to Salesforce accounts because the `SDR Assigned` field is not maintained by an automated workflow and therefore relies on manual updates by the SDR organization or Marketing Operations team.
 
 ### Unmatched lead
-Coming soon
+Leads that match to accounts but are not able to be routed via owner mappings or the SDR Assigned field as well as leads that do not match to accounts are routed using LeanData's [territory management functionality](https://learn.leandata.com/datasheets-how-leandata-works-its-magic/territory-management-datasheet).
 
 ## Account routing workflow
-The account routing flowbuilder leverages LeanData's Territory Management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. LeanData monitors for changes to the `[TSP] Last Update Timestamp` field to know when an account record is ready to be processed. Details about the TSP process can be found on the [Sales Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp). 
+The account routing flowbuilder leverages LeanData's territory management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. LeanData monitors for changes to the `[TSP] Last Update Timestamp` field to know when an account record is ready to be processed. Details about the TSP process can be found on the [Sales Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp). 
 
 ## Need to make a change to lead routing? 
 Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
