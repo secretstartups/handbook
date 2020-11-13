@@ -20,9 +20,9 @@ GitLab defines Commercial Sales as worldwide sales for the mid-market and small/
 
 Solutions Architects are aligned to the Commercial Sales Account Executives by a pooled model. Requests for an SA will be pulled from the triage board by an SA based on multiple factors including availability, applicable subject matter expertise, and current workload.  
 
+* [Engage a Commercial Solutions Architect](/handbook/customer-success/solutions-architects/processes/commercial/)
 * [Solutions Architect role description](/job-families/sales/solutions-architect/)
 * [Solutions Architect overview](/handbook/customer-success/solutions-architects/)
-* [When and how to engage a Commercial Solutions Architect](/handbook/customer-success/solutions-architects/processes/commercial/)
 
 ### Technical Account Managers
 
