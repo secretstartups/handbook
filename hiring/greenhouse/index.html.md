@@ -337,7 +337,10 @@ To unarchive a candidate, click "Unreject" on the candidate profile under the ap
 
 Rejected candidates will stay in our talent community and we may revisit them for future roles.
 
-Generally we will leave a minimum gap of 6-months before reconsidering someone. We will only reconsider candidates who were rejected for a reason that is possible to be overcome. 
+Generally, we will leave a minimum gap of 6-months before reconsidering someone. We will only reconsider candidates who were rejected because they lacked skills or experience. 
+
+We will not reconsider candidates who were mismatched with our [values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies) and/or our [remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). 
+
 
 #### Single-vetos
 
