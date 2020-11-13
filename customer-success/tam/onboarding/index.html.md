@@ -131,11 +131,11 @@ For both use cases above, a CTA is created for the TAM Manager if the TAM field 
 
 The CTA guides the TAM through the initial customer engagement.  The tasks and associated content are as follows:
 
-1. Complete internal transition with the SAL/AE and SA, covering the Command Plan, adoption goals and priorities and stakeholders
-1. Send TAM Welcome Email introducing themselves and the role of the TAM (TAM sends, template in Gainsight)
-1. Hold Kick Off Call Using [Kick Off Deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing)
-1. Document Customer Attributes in Gainsight
-1. Hold 1st Cadence Call Focusing on Future Growth
+1. [Complete internal transition with the SAL/AE and SA](#internal-transition), covering the Command Plan, adoption goals and priorities and stakeholders
+1. [Send TAM Welcome Email](#tam-intro-email) introducing themselves and the role of the TAM (TAM sends, template in Gainsight)
+1. [Hold Kick Off Call](#kickoff-call) Using [Kick Off Deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing)
+1. [Document Customer Attributes](#success-plan-development-document-key-attributes) in Gainsight
+1. [Hold 1st Cadence Call](#1st-cadence-call-future-growth-discussion--checklist) Focusing on Future Growth
 1. Send Customer Satisfaction Survey & Swag Email (TAM sends, template in Gainsight)
 
 Use the Gainsight TAM Dashboard and the Customer Onboarding Dashboard to manage customers currently in Onboarding.
