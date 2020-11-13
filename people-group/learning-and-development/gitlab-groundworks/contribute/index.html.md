@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Learning & Development
+title: Contribute to GitLab Groundworks
 ---
 
 # Contribute to GitLab Groundworks
