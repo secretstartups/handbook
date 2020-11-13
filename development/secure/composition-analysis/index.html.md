@@ -102,7 +102,7 @@ The Composition Analysis group maintains several projects to provide our scannin
 
 Additional notes:
 
-- [gemnasium-db](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-db) is maintained by [the Vulnerability Research group](/handbook/engineering/development/secure/vulnerability-research/).
+- [gemnasium-db](https://gitlab.com/gitlab-org/security-products/gemnasium-db) is maintained by [the Vulnerability Research group](/handbook/engineering/development/secure/vulnerability-research/).
 - [npm-audit analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/npm-audit) is not yet part of our public offering and maintained by [the Vulnerability Research group](/handbook/engineering/development/secure/vulnerability-research/).
 
 ### License Compliance
