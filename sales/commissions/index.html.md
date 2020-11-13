@@ -90,7 +90,7 @@ David Hong, VP of Field Operations, explains how the Super Commission Rate works
 FY21 commissions will be channel neutral for all deals thru partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
 ### Multi Year Commissions
-Salespeople are eligible to earn multi year commissions if the opportunity term is more than 12 months and the customer prepays the entire Total Contract Value (TCV). First year IACV will be paid at BCR or SCR , if applicable and will be counted towards quota credit. Outyear IACV will be paid at 50% of BCR and will not be counted towards quota credit. 
+Salespeople are eligible to earn multi year commissions for IACV and Channel Neutral if the opportunity term is more than 12 months and the customer prepays the entire Total Contract Value (TCV). Outyear IACV and Channel Neutral will be paid at 50% of BCR and will not be counted towards quota credit. 
 
 
 ## Commissions Rules
