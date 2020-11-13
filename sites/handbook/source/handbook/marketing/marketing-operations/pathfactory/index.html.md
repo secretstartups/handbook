@@ -114,7 +114,9 @@ Periodically, significant changes are made or added to PathFactory and processes
 1. Add the date you made the change if it doesn't already exist.
 1. Add a bullet with your GitLab username and document the changes you made, making sure to include links to issues or relevant PathFactory links.
 
-## Content tracks
+## [Content Library](/handbook/marketing/marketing-operations/pathfactory/content-library/)
+
+## Content Tracks
 
 Before creating a new content track, decide what type of content track (target vs. recommend) you want to create. Use the criteria below to decide the best option:
 
