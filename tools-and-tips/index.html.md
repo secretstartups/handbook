@@ -100,6 +100,31 @@ It is company policy to use a photo, and not an avatar, a stock photo, or someth
 
 We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
 
+### Resizing Images
+
+[ImageMagick](https://imagemagick.org/) provides the `convert` CLI command which can be used to resize images. Our blog images do not need resolutions higher than 1920x1080. This saves bandwidth and makes the website load faster.
+
+On macOS, install ImageMagick with Homebrew:
+
+```shell
+$ brew install imagemagick
+```
+
+On Linux, use your package manager:
+
+```shell
+$ sudo dnf install ImageMagick
+$ sudo apt install imagemagick
+```
+
+This example converts an existing image to `1920x1080` resolution and replaces it inline:
+
+```shell
+convert blogimage.jpg -resize 1920x1080 blogimage.jpg
+```
+
+You can also use percentage values for the `-resize` parameter. The `convert` CLI command can do more things explained in the [documentation](https://imagemagick.org/script/convert.php).
+
 ### Using Mermaid
 
 Mermaid is a tool that allows us to create flowcharts, graphs, diagrams, Gantt charts, etc. within GitLab! Check out the [examples in the GitLab docs](https://docs.gitlab.com/ee/user/markdown.html#mermaid) on how to use Mermaid.
