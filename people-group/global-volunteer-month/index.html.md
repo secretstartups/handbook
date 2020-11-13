@@ -10,7 +10,7 @@ title: "GiveLab Volunteer and Sponsorship Initiatives"
 {:toc .hidden-md .hidden-lg}
 
 ### About GiveLab
-Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values](https://about.gitlab.com/handbook/values/) but our [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) nature.
+Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values](/handbook/values/) but our [all-remote](/company/culture/all-remote/guide/) nature.
 
 Along with documenting our active programs within the handbook team members can create awareness and inititate a call to action through the `#givelab` Slack Channel, extending awareness to our team member community which spans over sixty-five countries!  
 
@@ -22,26 +22,26 @@ Team members are encouraged to take part in an initiative within their local com
 #### Taking Part
 1. If you would like to take part in `Global Volunteer Month` please be sure to join the `#givelab` Slack Channel by mid-November and share information around the initiative you have in mind.
 1. Be sure to highlight the location of the inititative along with the unique needs that may apply - once you have posted, be sure to share the thread in your location channel if one is available (this is a great way to gather support and additional hands).
-1. Communicate with your Manager!  Be sure to let your team know when you will be OOO (Out of Office) supporting your cause.
+1. Communicate with your Manager! Be sure to let your team know when you will be OOO (Out of Office) supporting your cause.
 1. Showcase the initiative and your contributions by sharing feedback and images both in #givelab and on social media - it is important to tag `@gitlab` and use `#givelab` when doing so though as posts may be shared from time-to-time taking into account current demands.
-1. Give yourself a pat on the back.  Thank you for taking part and helping to spread some love!
+1. Give yourself a pat on the back. Thank you for taking part and helping to spread some love!
 
 ### Be the Bridge
-The [People Operations](https://about.gitlab.com/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](https://about.gitlab.com/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](https://about.gitlab.com/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
+The [People Operations](/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
 
 ### Upstream Diversity Working Group
-Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](https://about.gitlab.com/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups) was established.
+Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups) was established.
 
-Geared toward knowledge sharing, the [recently piloted program](https://about.gitlab.com/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
+Geared toward knowledge sharing, the [recently piloted program](/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
 
 ### Trusted Interns
-As a pioneer in the `all-remote` space, GitLab is uniquely leveraged to prepare youth around the globe for the `future of work`.  Recently GitLab Alumni - Jean du Plessis, in collaboration with Trusted Interns as part of [The Knowledge Trust](https://knowledgetrust.org/) which places a focus on making jobs more accessible to South African Youth, presented a webinar around [Preparing for your First Remote Job](https://knowledgetrust.org/trusted-interns-webinar-jean-du-plessis-prepare-for-your-first-remote-job/).
+As a pioneer in the `all-remote` space, GitLab is uniquely leveraged to prepare youth around the globe for the `future of work`. Recently, GitLab Alumni Jean du Plessis, in collaboration with Trusted Interns as part of [The Knowledge Trust](https://knowledgetrust.org/) which places a focus on making jobs more accessible to South African Youth, presented a webinar around [Preparing for your First Remote Job](https://knowledgetrust.org/trusted-interns-webinar-jean-du-plessis-prepare-for-your-first-remote-job/).
 
-This was a springboard for around 650 South African Youth from within the Trusted Interns program to complete the [GitLab All-Remote Certification](https://about.gitlab.com/company/culture/all-remote/remote-certification/).
+This was a springboard for around 650 South African Youth from within the Trusted Interns program to complete the [GitLab All-Remote Certification](/company/culture/all-remote/remote-certification/).
 
 ### Rails Girls
 On multiple occasions, GitLab has supported [Rails Girls](http://railsgirls.com/kumasi_2020.html) an organisation geared toward providing tools and creating a sense of community for women in the technology space - enabling them to grow their knowledge base and build out their ideas.  The most recent event supported was the `Rails Girls Kumasi` [Ruby on Rails Workshop](http://railsgirls.com/kumasi_2020.html) - be sure to check out this [GitLab Unfiltered](https://www.youtube.com/watch?v=E5pe2jrOZpc) video to see our very own Abubakar Siddiq Ango, Developer Evangalism Program Manager in action!
 
+----
 
-
-
+Return to the [People Group Handbook](/handbook/people-group/).
