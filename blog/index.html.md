@@ -1056,7 +1056,8 @@ There are a few ways to create animated GIFs, one of them is using [Giphy Captur
 
 Avoid GIFs with a huge file size, they will be difficult to load for users with bad internet connection. In those cases, you can either cut the GIFs in smaller pieces, or record a video, or use a sequential image.
 
-Read more on Making Gifs in the Product Handbook.
+Read more on [Making Gifs in the Product Handbook](/handbook/product/making-gifs/).
+
 
 #### Artwork
 
@@ -1066,6 +1067,10 @@ If you create your own cover image, it should have the following proportions:
 - On blog post page (widescreen): 1920px x 550px w/h = 3.5
 
 Try to have them harmonically aligned with the title, which overlays the background image in both cases. To crop the image, use the size of 1275x750 px. If you want to align the background image with the title overlay, use the widescreen proportion.
+
+#### Resizing Images
+
+Image sizes can exceed megabytes and slow down the site rendering. Follow the proportions above and learn more about [resizing images](/handbook/tools-and-tips/#resizing-images).
 
 ## When your post is formatted and you're ready to create your merge request
 
