@@ -9,7 +9,7 @@ title: "Commissions"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##Charter
+## Charter
 
 Sales Commissions is a part of Field Operations, reporting into Sales Operations.  Our goal is to incentivize the field to close business, make GitLab successful and process commissions in an accurate and timely fashion.  We aim to be viewed as a trusted business partner for Field Sales.
 
