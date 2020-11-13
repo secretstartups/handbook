@@ -186,7 +186,7 @@ Exceptional community members may be able to participate, as well.
 | 2020-12-07 | 2020-12-11 | AVAILABLE - REMOTE | [Tucker Logan](https://gitlab.com/tuckcodes) - Federal Solutions Architect |
 | 2021-01-04 | 2021-01-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-11 | 2021-01-15 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience | AVAILABLE - REMOTE |
-| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-25 | 2021-01-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-01 | 2021-02-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
