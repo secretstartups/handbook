@@ -69,7 +69,7 @@ it still leaves vulnerabilities for [zero-day attacks](http://www.pctools.com/se
 
 ### Minimizing Google Chrome's resource usage
 
-To minimize Google Chrome browser's memory and CPU usage, you can enable [Tab Freeze](chrome://flags/#proactive-tab-freeze) (you need to manually navigate to this url) which suspends tabs after five minutes of inactivity.
+To minimize Google Chrome browser's memory and CPU usage, you can enable [Tab Freeze](chrome://flags/#proactive-tab-freeze) (you need to manually navigate to this URL) which suspends tabs after five minutes of inactivity.
 
 This is enabled by default from Chrome 80 and the option is removed.
 
@@ -95,11 +95,11 @@ You can also make the entire web page editable, using the [`designMode`](https:/
 There is a free and premium version.
 
 _Warning_: Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378).
-If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead.
+If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux.
 
 ### Simplenote
 
-[Simplenote](https://simplenote.com/) is a free, open source note taking app which is cross platform, and syncs across all devices.
+[Simplenote](https://simplenote.com/) is a free, open source note taking app which is cross platform, syncs across all devices, and supports markdown.
 
 ## Productivity
 
@@ -143,7 +143,7 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 >
 > Question? Please email me. {your GitLab email}
 
-1. Set the event name to `45 Minute Meeting`.
+5. Set the event name to `45 Minute Meeting`.
 1. Change the event link to `45min`.
 1. The event description needs to be copied to the 15, 30 and 60 minute meetings as well.
 1. If you intend to use any of the other event types, make sure to add this to their event descriptions as well.
@@ -182,12 +182,12 @@ Various [Chrome extensions](https://chrome.google.com/webstore/search/pomodoro "
 ### Quitter
 
 [Quitter (Free)](https://marco.org/apps) will switch off apps for you after some period of inactivity.
-Consider using this to hide Slack after a while to reduce your urge to check new messages all the time.
+Consider using this to hide Slack after a while to reduce your urge to check new messages all the time. Quitter is only available for the Mac.
 
 ### TripMode
 
 [TripMode ($7.99)](https://www.tripmode.ch/) lets you control which apps can use the internet.
-Especially useful when you're working on a cellular/metered connection.
+This is especially useful when you're working on a cellular/metered connection. TripMode is only available for the Mac. Linux users can enable 
 
 ## Text editors
 
@@ -262,7 +262,7 @@ GitLab uses [Zoom](https://zoom.us/) as the primary video collaboration platform
 [Whereby](https://whereby.com/) allows you to instantly create a free video chat room for up to 4 participants with no login and no installation.
 It also offers a free reliable mobile video conference app.
 
-## Videos, gifs, and screenshots
+## Videos, GIFs, and screenshots
 
 ### Loom
 
