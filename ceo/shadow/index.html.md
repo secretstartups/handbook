@@ -233,7 +233,7 @@ Should it be useful or complementary to your time as a CEO Shadow, our [CLO](/jo
 #### Create an onboarding issue
 
 Outgoing shadows are responsible for training incoming shadows. We currently track onboarding and offboarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
-The incoming shadow is responsible for creating their onboarding issue a few days before they start the program using the [`onboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=onboarding).
+The incoming shadow is responsible for creating their onboarding issue by the Friday before they start the program using the [`onboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=onboarding).
 Assign both incoming and outgoing shadows to the issue.
 Don't forget to prepare your offboarding on your second week by creating another issue using this time the [`offboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=offboarding).
 
