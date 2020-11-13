@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: GitLab Groundworks
 ---
 
-# [NAME OF LXP]
+# GitLab Groundworks
 
 ## What is EdCast?
 
