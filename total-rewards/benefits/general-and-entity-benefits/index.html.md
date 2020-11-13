@@ -15,10 +15,7 @@ description: A list of the General & Entity Specific Benefits that GitLab offers
 For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members and contractors but this may vary depending on local country laws. If you are unsure please reach out to the Total Rewards team.
 
 ## Contact Total Rewards
-For any questions relating to benefits, please reach out to Total Rewards:
- - Email: total-rewards@gitlab.com
- - Slack: #total-rewards
- - Open an [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/issues)
+For any questions relating to benefits, please reach out to [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ## General and Entity Benefits
 - [GitLab BV (Netherlands)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands)

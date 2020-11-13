@@ -14,11 +14,7 @@ title: The Compensation Calculator
 On this page, we explain the different factors that make up our Compensation Calculator and its alignment to GitLab's values and Compensation Principles.
 
 ## Contact Total Rewards
-For any questions relating to the compensation calculator, reach out to Total Rewards:
- - Email: total-rewards@gitlab.com
- - Slack: #total-rewards
- - Open an [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/issues)
- - [Report a discrepancy](/handbook/total-rewards/compensation/compensation-calculator/#reporting-a-discrepancy)
+For any questions relating to the compensation calculator, reach out to [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ## The Compensation Calculator
 

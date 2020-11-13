@@ -27,10 +27,7 @@ This is an opportunity to share with the Total Rewards team what benefits you th
 Thank you again for playing a part in our efforts to continually improve total rewards at GitLab. If you have any questions, please reach out to the Total Rewards team via email.
 
 ## Contact Total Rewards
-If you have any feedback or questions about the global benefits survey, please contact Total Rewards:
- - Email: total-rewards@gitlab.com
- - Slack: #total-rewards
- - Open an [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/issues)
+If you have any feedback or questions about the global benefits survey, please contact [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ### 2020 Survey Results Roadmap
 
