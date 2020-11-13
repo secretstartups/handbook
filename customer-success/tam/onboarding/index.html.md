@@ -39,7 +39,7 @@ The TAM should send the intro email that describes their role and value to the c
 
 ⏰ [**Target time:** within 14 days of customer start date](#time-to-engage)
 
-The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/). 
+The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/).
 
 A [kickoff slide deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing) is provided as part of the [onboarding CTA](#cta-content-and-process), to help drive the discussion about the role of the TAM. The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
 
@@ -55,7 +55,7 @@ Please review the [success plan handbook page](/handbook/customer-success/tam/su
 
 ### 1st Cadence Call: Future Growth Discussion & Checklist
 
-⏰ [**Target time:** Within 30 days of customer start date]
+⏰ **Target time:** Within 30 days of customer start date
 
 The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typically the TAM's second conversation with the customer, and is when we can start to deliver value through our efforts as a trusted advisor. In addition to the [general recommendations for a cadence call](/handbook/customer-success/tam/cadence-calls/), the agenda items for this call are to include the following:
 
@@ -68,7 +68,6 @@ The first [cadence call](/handbook/customer-success/tam/cadence-calls/) is typic
 1. Discuss & document monthly release & upgrade plan
 
 The completion of this second customer call marks the completion of customer onboarding, moving the customer into the adoption phase of the customer lifecycle.
-
 
 ## Time to Value Metrics
 
@@ -99,9 +98,6 @@ If Seat Link is enabled, the `First Value Date` will be automatically populated 
 Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
 - Required TAM action: Close the Onboarding CTA
-
-
-
 
 ## Onboarding delays
 
