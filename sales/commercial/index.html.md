@@ -5,7 +5,6 @@ department: "The Commercial Sales department at GitLab focuses on delivering max
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -140,7 +139,7 @@ For a complete list of our Give Back Projects and other Onboarding assignments o
 New team members should familiarize themselves with [The Required 7](/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
-    - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) tiering, not the previous owners, nor the tiering from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
+    - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) ranking, not the previous owners, nor the ranking from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
 1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not iACV) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
     - Provides the 2 options for the customer going forward - normally both with GitLab (example: Ult or Prem)
@@ -162,11 +161,14 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
 #### SMB
-* An Opportunity Consult happens when the opportunity IACV threshold is $10K +
-* A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month. 
+
+- An Opportunity Consult happens when the opportunity IACV threshold is $10K +
+- A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month.
+
 #### Mid Market
-* An Opportunity Consult happens when the opportunity IACV threshold is $20K +
-* A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month. 
+
+- An Opportunity Consult happens when the opportunity IACV threshold is $20K +
+- A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month.
 
 ### Opportunity Next Steps Best Practices
 
@@ -285,7 +287,28 @@ GitLab.com Trials & Subscription Management
 
 - Access [the CustomersDot](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
 
-### Troubleshooting & How-To Resources for Licensing & Subscription Management
+#### Close Date Conventions
+
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and NET 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+
+1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the iACV amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
+
+<span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
+
+1. <span class="colour" style="color: rgb(0, 0, 0);">Last day of the month it will close in **only if you have a compelling event defined**</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">First day of the following month, no compelling event defined </span>
+    1. <span class="colour" style="color: rgb(0, 0, 0);">This is to straddle the first two and we have a plan to get a compelling event, then move to the last day of the month of actual closing</span>
+    1. <span class="colour" style="color: rgb(0, 0, 0);">This close date carries a window of roughly 60 days of when you think it will come in</span>
+
+**Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
+
+- Question for AE and self, what % chance of the purchase occurring in April, May, or June?
+    - 90% April, 10% May
+
+#### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
 Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
 
@@ -367,19 +390,19 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 
 #### Small Business Account Executive Definitions for Account Ranking
 
-- Tier 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
-- Tier 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
-- Tier 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
-- Tier 3: Greenfield, SDR attention - perhaps a drip campaign
-- SMB AE must have potential user field filled in on the account object for Tier 1, and 1.5
-- SMB AE must have the notes section filled in on why an account is Tier 2 or 3
+- Rank 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
+- Rank 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
+- Rank 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
+- Rank 3: Greenfield, SDR attention - perhaps a drip campaign
+- SMB AE must have potential user field filled in on the account object for Rank 1, and 1.5
+- SMB AE must have the notes section filled in on why an account is Rank 2 or 3
 
 #### Mid-Market Account Executive Definitions for Account Ranking
 
-- Tier 1: Accounts that I am working to maximize their iACV this fiscal year.
-- Tier 1.5 The subset of Tier 2 that is best and trending toward being future Tier 1s.
-- Tier 2 Accounts that I am working to grow and I speak with them at least once a month.
-- Tier 3 Accounts that I keep informed about GitLab and DevOps monthly.
+- Rank 1: Accounts that I am working to maximize their iACV this fiscal year.
+- Rank 1.5 The subset of Rank 2 that is best and trending toward being future Rank 1s.
+- Rank 2 Accounts that I am working to grow and I speak with them at least once a month.
+- Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
 
 ## Co-Selling
 Co selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account. 
