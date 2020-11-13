@@ -21,8 +21,9 @@ The LeanData lead routing flowbuilder can broken into three major sections: [rec
 ### Record validation
 This initial phase reviews new and updated lead records to ensure they meet the criteria to route to an SDR. These checks include confirming the requirements below.
 #### Leads were created by an admin user
+
 #### Score thresholds are met
-As of 2020-09-10, AMER, ABM and EMEA leads are eligible to route to aligned SDRs when their `Person Score` is greater than or equal to 0. APAC and LATAM leads are eligible to route when their `Person Score` is greater than 15.   
+Leads with a `Person Score` of greater than or equal to 0 are routed to SDRs for follow up. Note this is a change from previous `Person Score` thresholds and currently only impacts new leads, not historically created records.
 #### Company information is available
 #### Last Interesting Moment listed does not require specialized routing or supression from SDR organization
 
