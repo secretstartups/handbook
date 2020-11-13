@@ -12,7 +12,7 @@ description: "Marketo is utilized as our marketing automation platform for email
 
 ### About Marketo
 
-Marketo is utilized as our marketing automation platform for email marketing, lead management, and revenue attribution. 
+[Marketo](https://www.marketo.com/) is our marketing automation platform used for email marketing, lead management, and program management. 
 
 ### Marketo <> Salesforce.com Connection
 You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
@@ -22,7 +22,7 @@ When any lead/contact is created in SFDC, it will automatically sync and create 
 A lead will sync from Marketo to SFDC in these scenarios:
 1. Member of Program that is synced to SFDC
 2. When they reach `MQL` status and reach 90 points
-3. TBD (Finding all sync points is a WIP)
+3. Specifically told to sync via a flow step `Sync to SFDC`
 
 ### Sandbox
 We do have a sandbox to work in for Marketo. The sandbox is used for training, creation of API links and overall testing before we move to production. There is not a way to `promote` a program from the sandbox to Prod, so building programs in the sandbox first is not always required. Guidelines for when to build in the sandbox is TBD, but for custom API and webhook integrations, it is highly recommended.
@@ -45,7 +45,7 @@ All forms should follow these guidelines:
 - Generally `City` is only visible when `Country` = `Ukraine`
 - Forms should all contain a checkbox for `opting in` to communications via email
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
-- Country should not include [embargoed countries ](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) 
+- Country should not include [embargoed countries ](/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
 
 For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
@@ -69,7 +69,7 @@ If a `Country` &/or `State/Province` standardization is needed, please open an i
 
 
 ### MQL Definition
-A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 90 points accumulated, based on demographic/firmographic and/or behavioral information. The "MQL score" defined below is comprised of various actions and/or profile data that are weighted with positive or negative point values.
+A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The "MQL score" defined below is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
 
 ### Re-MQL
@@ -88,11 +88,16 @@ Follow the workflow mural:
 
 
 ### Scoring Model
-The overall model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach 100 in order to MQL.
+The MQL model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL.
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
 The model below is updated as of 2020-11-12.
+
+Some leads are exluded from scoring if they:
+* Have a `@gitlab.com` email address
+* Are a competitor
+* Status = `Unqualified` or `Bad Data`
 
 #### Behavior Scoring
 
@@ -105,26 +110,47 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Online  - High|Workshop <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
 |* Online  - Med| Webcast <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
-|* Offlne  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
-|* Offlne  - Med|Speaking Session<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
-|* Offlne  - Low|Field Event, Vendor Arranged Meetings, Conference|+10	|{{my.Offline - Low}}	|TriggerEverytime|
+|* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
+|* Offline  - Med|Speaking Session<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
+|* Offline  - Low|Field Event, Vendor Arranged Meetings, Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
 |* Content - High|Gated Content <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
 |* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
-|PathFactory (Not Live)||+10|{{my.Content - High}}|Trigger|Everytime|
+|* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
 |* Inbound  - High|Contact Request <br> Demo <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+40|{{my.Inbound - Med}}	|	Trigger	|1/day|
-|* Trial |    |	+100|{{my.Trial}}	|Trigger| 1/day	|
-|Subscription|	|+5|{{my.Subscription}}	|Trigger	|1/week	|
-|Visits Key Webpage|	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
-|Visits Mult Webpages|	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
-
+|* Trial | SaaS<br>Self-Managed   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
+|Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
+|Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
+|Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
+|Web: Visits Low Value	Visits Low Value Webpages|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
+|Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
+|Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
+|Re-MQL Score|	Status changes to Nurture<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 
 #### Demographic Scoring
-|**Action**|**Points**|**Token**|**Type**|**Program Status Changes**|**Schedule/Flow Limit**|
+
+For Job role/function and seniority descriptions go [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing).
+
+|**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
+|:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
+|Target Account|	[Account Based/Centric](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Target Account}}|	Trigger|Once|
+|Technology - High (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+20|	{{my.Tech - High}}|	Batch / Nightly|	Once|
+|Technology - Low (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+10|{{my.Tech - Low}}	|	Batch / Nightly|	Once|
+|Seniority - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+20	|{{my.Seniority - High}}|	Trigger on creation or Update to Title|	Once|
+|Seniority - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+15	|{{my.Seniority - Med}}	|	Trigger on creation or Update to Title|	Once|
+|Seniority - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+15	|{{my.Seniority - Low}}	|	Trigger on creation or Update to Title|	Once|
+|Seniority - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-10	|{{my.Seniority - Negative}}|	Trigger on creation or Update to Title|	Once|	
+|Function - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+20	|{my.Function - High}}|	Trigger on creation or Update to Title|	Once|
+|Function - Med|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|+15|	{{my.Function - Med}}|	Trigger on creation or Update to Title|	Once|
+|Function - Low|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+10|	{{my.Function - Low}}	|	Trigger on creation or Update to Title|	Once|
+|Function - Negative|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	-20	|{{my.Function - Negative}}		|Trigger on creation or Update to Title|	Once|
+Generic Domain|Contains generic email domain|	-5	|{{my.Generic Domain}}|Triggered|Once|
+|Country - P0, P1|[Country = P0,P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 
 ### Folder Structure
 
