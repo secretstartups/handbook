@@ -26,6 +26,9 @@ This is an opportunity to share with the Total Rewards team what benefits you th
 
 Thank you again for playing a part in our efforts to continually improve total rewards at GitLab. If you have any questions, please reach out to the Total Rewards team via email.
 
+## Contact Total Rewards
+If you have any feedback or questions about the global benefits survey, please contact [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
+
 ### 2020 Survey Results Roadmap
 
 * Increased Education around benefits as `I understand my benefits package at GitLab` decreased by 7% company wide. Also to increase awareness on the Total Rewards team is who to reach out to since there is company wide score of 3.82 out of 5 (lowest score among ICs). [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/191)
@@ -50,6 +53,7 @@ Thank you again for playing a part in our efforts to continually improve total r
 * Review Paid Medical Leave Plan for 16 weeks
 * Review Coaching Program for Parental Leave. [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/130)
 * Review Wellness Offerings for FY22 as similar response to 2019 survey that this is the top benefit team members would want to see implemented (especially in EMEA market).
+
 
 ### Global Benefits Survey Results 2020
 

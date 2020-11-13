@@ -13,6 +13,9 @@ title: Compensation Review Cycle
 
 On this page, we explain how we review our Compensation Calculator and carry out the Compensation Review Cycle.
 
+## Contact Total Rewards
+If you have any feedback or questions about the compensation review cycle, please contact [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
+
 ## Compensation Review Cycle
 
 GitLab goes through 2 compensation reviews:
