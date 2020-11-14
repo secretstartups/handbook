@@ -18,7 +18,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 # Changes
 
-**Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
+**Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Our [Staging environment](handbook/engineering/infrastructure/environments/#staging) is crucial to our GitLab.com release process.  Therefore, Staging should be considered within scope for Change Management, as part of Gitlab's operational environment. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
 
 * **Service changes** are regular, routine changes executed through well-tested, automated procedures performed with minimal human interaction that may cause predictable and limited performance degradation and no downtime. A service change is implemented such that **it protects the environment while executing the desired change**.  As such, mature service changes do not require review or approval except on their very first iteration.
 
@@ -163,7 +163,8 @@ These are changes with either no or very-low risk of negative impact, but where 
 
 **Examples of Criticality 3:**
 
-1. IaC changes to cattle / quantity when there is an increase (not requiring reboot or destroy/recreate)
+1. IaC changes that require manual intervention (i.e. Terraform state manipulation)
+1. Changes that are manual (i.e. Adding a plugin to Grafana, uploading a new SSL cert)
 1. Changes in configuration for current systems serving customers related to DNS or CDN
 
 #### Approval
@@ -274,7 +275,7 @@ As a reference, we should communicate 5-6 weeks before the change, for a C1 that
 Steps:
 * Create a Google doc with the change communication message draft. Have it reviewed by an SRE Manager and those involved with the change.
 * Create an issue for the official company communication about the change.
-    * Example: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/1993
+    * Create a new communication Issue in the **Production project** of the Gitlab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
     * Set Confidentiality to `Confidential` until the day we publish it in status.io, when we will set it to `Not Confidential`.
     * Obtain approval for the overall plan and expected impact from:
       * Director of SRE, Infrastructure

@@ -160,7 +160,7 @@ of the above roles.
 
 ### Who is the Current EOC?
 
-The chatops bot in the [`#production` Slack Channel](https://gitlab.slack.com/archives/production) will tell you this with `/chatops run oncall prod`.
+The chatops bot will give you this information if you DM it with `/chatops run oncall prod`. 
 
 ### When to Contact the Current EOC
 
@@ -343,6 +343,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | ---------- | -------------- |
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
+| `~incident-type::deployment related` | Indictes that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
 | `~Review-Requested`  | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 

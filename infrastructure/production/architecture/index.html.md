@@ -266,16 +266,21 @@ We use a lot of cool ([but boring](/handbook/values/)) technologies here at GitL
 * **[Migration epic ](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)**: Parent epic for all infrastructure department work to migrate GitLab.com to Kubernetes.
 * **[Application blockers](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=kubernetes-migration-blocker)**: Label used to track blockers in the application and cloud-native charts that are preventing the migration of GitLab.com to Kubernetes.
 
-The infrastructure department is transitioning GitLab.com to Kubernetes using the [GitLab cloud native helm chart](https://docs.gitlab.com/charts/). Migrating GitLab.com to Kubernetes will be completed in phases, prioritizing services that are stateless and ready to be run in a cloud-native environment at GitLab.com scale. See the [reasoning for the migrating away from virtual machines](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) for more details including the justification for the migration. The following is a high-level overview of the current configuration of GitLab.com on Kubernetes:
+The infrastructure department is transitioning GitLab.com to Kubernetes using the [GitLab cloud native helm chart](https://docs.gitlab.com/charts/). Migrating GitLab.com to Kubernetes is being completed in phases, prioritizing services that are stateless and ready to be run in a cloud-native environment at GitLab.com scale. See the [reasoning for the migrating away from virtual machines](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) for more details including the justification for the migration. The following is a high-level overview of the current configuration of GitLab.com on Kubernetes:
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQlL0iAAJDx5TOkvrJ607_DVbRTWUc_IFhlh0NR6N0IfC2-O5r-aqy_whcIrFPVC7Kr4V_YnjS8gCA2/pub?w=900&h=788">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSKwCRmLfrQSu4gFNyTPXDtKxITE0eIu4cWrmlTzYi2Q4HvuT4Kk6gTfzyCOREvofxzJT5UrNTP9xk8/pub?w=1201&h=807">
 
-[Source](https://docs.google.com/drawings/d/1Z8HOKqT-B6Y2eqDXUPjLI5CfjWeY5BwlRny-oNcIrmE/edit), GitLab internal use only
+[Source](https://docs.google.com/drawings/d/12iFvpvtXM17qybq_hlvoMHU1746clO9EiLv14HM9xkk/edit), GitLab internal use only
 
 ### Cluster Configuration
 {: #cluster-configuration }
 
-In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration. GitLab.com uses a single Kubernetes cluster for production with a separate cluster for staging. The reasoning behind using a single cluster for an environment is documented in [cluster limitation investigative issue](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/791).
+GitLab.com uses 4 Kubernetes clusters for production with similarly configured clusters for staging.
+One cluster is a Regional cluster in the `us-east1` region, and the remaining three are zonal clusters that correspond to GCP availability zones `us-east1-b`, `us-east1-c` and `us-east1-d`.
+The reason for having multiple clusters assigned to availability zones is to ensure that high-bandwidth services do not send network traffic across zones. For more information on why we chose to split traffic into multiple zonal clusters see [this issue exploring alternatives to the single regional cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1150).
+A single regional cluster is also used for services like Sidekiq that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
+
+In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration. GitLab.com uses 4 Kubernetes cluster for production with similarly configured clusters for staging.
 The following projects are used to manage the installation:
 * [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com): Contains the GitLab.com configuration for the [GitLab helm chart](https://gitlab.com/gitlab-org/charts/gitlab).
 * [k8s-workloads/gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles/): Contains the configuration for services that are not directly related to the GitLab application. This includes includes cluster logging and monitoring and integrations like PlantUML.
