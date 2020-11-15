@@ -19,7 +19,7 @@ Taxed at Exercise
 The "spread": Difference between the Offer Price and Exercise Price.
 
 ## S341 Election
-The UK provides a tax planning oppornity under a 'Section 431 Election'. This applies to UK option holders that exercise their stock options outside of a tender offer. By entering into the S431 dlection, option holders are electing to be subject to UK taxation at exercise of your stock options based on the fair market value of GitLab's shares without regard to any liquidity restrictions on the shares.
+The UK provides a tax planning opportunity under a 'Section 431 Election'. This applies to UK option holders that exercise their stock options outside of a tender offer. By entering into the S431 election, option holders are electing to be subject to UK taxation at exercise of your stock options based on the fair market value of GitLab's shares without regard to any liquidity restrictions on the shares.
 
 Why would option holders do this? The purpose of the S431 election is  to confirm that the shares have been acquired for the unrestricted market value, and not at a discount because of the restrictions attached. When stock options are granted they have two different values according to UK tax law:
 
