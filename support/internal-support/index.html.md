@@ -169,28 +169,20 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
 
-1. From the `#support_managers` channel the Slack ticket escalation workflow can be initiated by following the steps below:
-
-    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image.
-        ![alt text](images/slack_workflow_escalation.png "Start Workflow")
-
-    * Click on `Ticket Escalation`
-
-        ![alt text](images/workflow_menu.png "Start Workflow")
-
-     * Complete the information requested on the form and click on `Submit`
-        ![alt text](images/form.png "Escalation Form")
-
-     * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.
-
-     * All fields are required.
-
-1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
-
-##### Issues in `internal-requests`
+#### The Following instructions apply for both Zendesk tickets and Internal Support issues
 {: .no_toc}
 
-1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
+1. Go to the [support escalation form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/)  
+
+     * Complete the information requested on the form and click on `Submit`
+        ![alt text](images/escalation_form.png "Escalation Form")
+     * All fields are required.
+
+     * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
+     Additionally a thread will be created in` #support_managers` slack channel. 
+
+1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
+
 
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
