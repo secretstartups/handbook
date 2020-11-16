@@ -58,7 +58,7 @@ The status of any particular communication (i.e., whether it is a record and its
 
 The responsibility of maintaining and retaining an internally created and distributed document most often falls on the author, not the recipient.
 
-GitLab employees who receive emails from outside GitLab are responsible for proper management of those communications.  In an effort to be environmentally conscious, the printing of emails for record retention purposes discouraged.
+GitLab employees who receive emails from outside GitLab are responsible for proper management of those communications.  In an effort to be environmentally conscious, the printing of emails for record retention purposes is discouraged.
 
 GitLab strongly discourages the storage of voluminous non-record email messages because of the limited value of such messages, and the cost and confusion associated with unmanaged retention and proliferation of email.  Unmanaged retention of messages fills up storage space on the network servers, extends the amount of time to backup data, requires additional resources to maintain, slows performance, and can potentially lead to an inaccurate history of GitLab because it is haphazard and incomplete.  As a general rule, employees are encouraged to promptly delete any non-record email messages they send or receive that no longer require action and are no longer necessary to GitLab’s business.  If a non-record email no longer has business value, it should be deleted.
 
