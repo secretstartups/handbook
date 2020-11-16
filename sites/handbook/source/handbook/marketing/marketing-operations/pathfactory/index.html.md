@@ -52,7 +52,7 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 
 - `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
-- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. We have an unlimited amount of `Reporter` seats available for provisioning.
+- `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. 
 
 For more info on the capabilities of each role, [see the knowledge base article](https://nook.pathfactory.com/nook/s/article/user-roles). 
 
@@ -120,13 +120,23 @@ Periodically, significant changes are made or added to PathFactory and processes
 
 ## Content Library
 
-The [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/) is where all content uploaded to PathFactory is added and tagged for use in content tracks and experiences. 
+The [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/) is where all content uploaded to PathFactory is added and tagged for use in content tracks and experiences. An asset must exist in the content library first before it can be utilized in a PathFactory experience.
+
+## PathFactory Campaign Tools
+
+There are multiple types of PathFactory experiences that you can create under `Campaign Tools`:
+
+1. Content Tracks (target or recommended)
+   - Target Tracks - Target Tracks are collections of content that you have selected and organized in order to give your visitors a specific content journey. 
+   - Recommended Tracks - Recommend Tracks are collections of content specifically selected by you, and which rely on machine-learning to suggest the ideal content to show your prospects based on what they are already viewing. 
+1. Explore Pages - Explore Pages allow your visitors to quickly view all content assets in a content track. Each Explore Page you create is built on top of an existing Target or Recommend Content Track.
+1. Website Promoters - Website promoters allow you to harness the power of PathFactory’s content promoters directly on your website. They provide more opportunities for interested parties to find and enter your Content Tracks by connecting eye-catching CTAs to content tracks.
 
 ## Content Tracks
 
 Before creating a new content track, decide what type of content track (target vs. recommend) you want to create. Use the criteria below to decide the best option:
 
-### Best practices
+### Best Practices
 
 **Target track**
 
