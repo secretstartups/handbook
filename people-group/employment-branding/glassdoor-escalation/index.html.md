@@ -38,12 +38,12 @@ The Talent Brand Manager monitors reviews on a weekly basis, and responds direct
 1. Based on the department, tag the appropriate People Business Partner in the issue for review. 
 1. Determine the right escalation path within leadership of that specific department so that the leaders can be tagged and made aware.
 1. Draft a response in a Google Doc (link in the issue) to the review in partnership with the People Business Partner and other DRIs within the impacted department. 
-1. Get feedback and approval from the impacted department, and determine with the People Business Partner who will respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
+1. Get feedback and approval from the impacted department, and work with the People Business Partner to determine who is going to respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
 
 ## Escalating and responding to interview reviews
 
-1. We do not currently respond to interview reviews. We will revisit this if we begin to see reviews with actionable feedback that could warrant a response.
-1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the issue template. 
+1. We do not currently respond to interview reviews. We will revisit this if we begin to see reviews where a response would be helpful to the poster. 
+1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the same issue template we use for company reviews. 
 
 # How to post a response
 
