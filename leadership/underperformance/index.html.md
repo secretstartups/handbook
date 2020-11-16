@@ -49,10 +49,10 @@ It is also hard because it is a hard message to give and receive that someone's 
 
 ## Options For Remediation
 
-* [Coaching](/handbook/underperformance/#coaching)
-* [Written Warning](/handbook/underperformance/#written-warning)
-* [Performance Enablement Plan (PEP)](/handbook/underperformance/#performance-enablement-plan-pep)
-* [Performance Improvement Plan (PIP)](/handbook/underperformance/#performance-improvement-plan-pip)
+* [Coaching](/handbook/leadership/underperformance/#coaching)
+* [Written Warning](/handbook/leadership/underperformance/#written-warning)
+* [Performance Enablement Plan (PEP)](/handbook/leadership/underperformance/#performance-enablement-plan-pep)
+* [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 * Letting Someone Go
  
 **It is important to note that there is no requirement for these options to be considered or presented consecutively.** 

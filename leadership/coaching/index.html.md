@@ -339,7 +339,7 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 - Conducts development and career planning dialogues with team members continuously
 - Reflects on their leadership style and impact on the team and team situation
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
-- Delivers effective strategies for dealing with cases of [underperformance](/handbook/underperformance/) and instills that in other leaders across the organization
+- Delivers effective strategies for dealing with cases of [underperformance](/handbook/leadership/underperformance/) and instills that in other leaders across the organization
 
 ## Live Learning Session 
 

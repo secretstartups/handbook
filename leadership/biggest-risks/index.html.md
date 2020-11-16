@@ -56,8 +56,8 @@ When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered 
 ## 3. Lack of performance management
 {:#underperformance}
 
-In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/underperformance/).
-We should [identify and take action as early as possible](/handbook/underperformance/#manager-identify-and-take-action-as-early-as-possible).
+In a similar vein, it is important that we do not slow down, which means being very proactive in addressing [underperformance](/handbook/leadership/underperformance/).
+We should [identify and take action as early as possible](/handbook/leadership/underperformance/#manager-identify-and-take-action-as-early-as-possible).
 
 ## 4. Loss of the open source community
 {:#loss-of-the-open-source-community}
@@ -101,7 +101,7 @@ To ensure the people we hire make the company better, we:
 1. Have a standard scoring system within a function; in other words, a "Strong Yes" should mean the same thing to every interviewer in Marketing.
 1. Ensure that interviewers are scoring candidates consistently. [Some teams are actively doing this](/handbook/engineering/frontend/interview-metrics/)
 1. Review the interview scores of new hires to look for trends
-1. [Identify and take action on underperformance](/handbook/underperformance)
+1. [Identify and take action on underperformance](/handbook/leadership/underperformance)
 1. (make this unneeded) Have the CPO and CEO sample new hires and review [manager](/company/team/structure/#management-group), [staff engineer](/job-families/engineering/backend-engineer/), [principal product manager](/job-families/product/product-manager/) and up hires
 1. Compare the external title with the new title being given
 1. Conduct bar raiser interviews
