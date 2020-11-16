@@ -168,17 +168,9 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-### Monthly Continuous Learning Call 
+The L&D team host and organize multiple [learning initiatives(/handbook/people-group/learning-and-development/learning-initiatives/)] to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
-Every month, the Learning and Development team hosts a monthly continuous learning call. During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. We use these calls to callout professional development opportunities, cross-department enablement activities, teach team members what L&D does at GitLab, and answer any questions team members have. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab. 
-
-### Quarterly Learning & Development Newsletter
-
-GitLab will be launching a quarterly L&D newsletter to highlight all of the professional and career development opportunities in the organization. 
-
-### Take Time Out To Learn Campaign
-
-Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+## Additional Learning Opportunities
 
 ### Certifications
 
