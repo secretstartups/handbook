@@ -232,7 +232,8 @@ Avoid adding configuration values in the application settings or in
 find yourself adding parameters to tune specific features, stop and consider
 how this can be avoided. Are the values really necessary? Could constants be
 used that work across the board? Could values be determined automatically?
-See [Convention over Configuration](/handbook/product#convention-over-configuration) for more discussion.
+See [Convention over Configuration](/handbook/product/product-principles/#convention-over-configuration)
+for more discussion.
 
 ## Choosing Something to Work On
 
