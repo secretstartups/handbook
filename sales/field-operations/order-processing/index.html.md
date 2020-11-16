@@ -855,7 +855,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-#### Purchase Order Policy
+#### Purchase Order Policy 
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
 
@@ -880,7 +880,11 @@ If the customer does not require a PO for a *specific transaction*, attach the c
 
 If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
 
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
 
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
+
+**End of Quarter Exceptions**
 
 
 ### Finally, submit the opportunity for approval (booking)
