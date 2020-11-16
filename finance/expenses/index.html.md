@@ -302,6 +302,7 @@ Examples of things we have not reimbursed:
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
 1. Meals or beverages while attending co working space
 1. Treadmill Desks
+1. Portable Air Conditioners 
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
