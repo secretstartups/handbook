@@ -52,6 +52,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. As with other bonuses, only active GitLab team members can be nominated to receive discretionary bonuses.
    Should a nominated team member leave GitLab, they will not receive a receive discretionary bonus.
    It's at the discretion of the manager if they still want to publicly recognize the team member's behavior for the nomination.
+1. Only individuals in good standing with the company are eligible for discretionary bonuses (I.E. not currently undergoing [underperformance remediation](https://about.gitlab.com/handbook/underperformance/)). If a team member receives a discretionary bonus nomination during a period of underperformance remediation, managers should wait until the underperformance remediation period concludes successfully before determining whether to admit the discretionary bonus request. 
 
 #### Valid and Invalid criteria for discretionary bonuses
 
