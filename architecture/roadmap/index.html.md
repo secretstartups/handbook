@@ -21,7 +21,7 @@ However, we cannot do a wholesale switch to cloud native: we must evolve a singl
 
 In order to adopt container technologies, we must remove shared local state from all possible application components that do not require it, especially those using shared POSIX storage (NFS). Build logs and GitLab Pages are the two primary users of NFS in the environment, a dependency that must be eliminated.
 
-While we will not be migrating stateful services to cloud native at this time, we need to align them with cloud native capabilities. In particular, the main database (Postgres) needs to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through [Database Logical Replication](#FY21), and provide [testing environments with production-like data and traffic]() to validate database changes st scale.
+While we will not be migrating stateful services to cloud native at this time, we need to align them with cloud native capabilities. In particular, the main database (Postgres) needs to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through [Database Logical Replication](#fy21), and provide [testing environments with production-like data and traffic]() to validate database changes st scale.
 
 A key aspect of adopting cloud native relies on the Registry, which is currently undergoing some massive changes, starting with a tighter dependency on database resources. Without the Registry, cloud native is non-functional.
 
