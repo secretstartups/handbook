@@ -190,6 +190,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
   end
 
+  click sec:s "LINK"
   click sec:se "/job-families/engineering/security-engineer/#intermediate-security-engineer";
   click sec:sse "/job-families/engineering/security-engineer/#senior-security-engineer";
   click sec:stse "/job-families/engineering/security-engineer/#staff-security-engineer";
@@ -385,7 +386,6 @@ subgraph Based on Merit &amp; Company Need
   click eng:dei "/job-families/engineering/infrastructure/distinguished-engineer/";
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
-
 ## Apprenticeship for Learning
 
 Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning). 
@@ -415,11 +415,11 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 ## Internships in Engineering
 
-An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering.
+An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering. 
 
-n May 2020 we launched an internship pilot program as part of a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](https://about.gitlab.com/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
+In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering. 
 
-With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](https://about.gitlab.com/handbook/engineering/internships/).
+With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/). 
 
 ## Senior Engineers
 
