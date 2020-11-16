@@ -115,7 +115,7 @@ As you learned in the technical terminology portion, a GitLab Issue is the funda
 
 ### How to open a GitLab Issue
 
-To open a gitlab issue:
+To open a GitLab issue:
 
 1. Navigate to the project where you want to open the issue
    1. **How do you know what project to use?** - Find the project that is most relevant to the issue you want to create. For example if you wanted to open an issue on something relating to our [benefits](/handbook/total-rewards/benefits/), you would open an issue in the Total Rewards project. If you do open an issue in an incorrect project, you can move it. We will cover that as the next topic. 
@@ -172,7 +172,7 @@ To comment on a GitLab issue:
 
 Knowing how to search for a GitLab issue can be very helpful, especially if you had been looking at it but hadn't made a comment or been tagged in it. If you know some key words that were in the issue, you should be able to find it! Here's how:
 
-1. Go to gitlab.com
+1. Go to [gitlab.com](https://gitlab.com/)
 1. In the top right click on the "Issues" button
 1. Click the "x" on the right of the search bar to clear
 1. If there is specific text you know is in an issue or part of it's title you can search for it by entering the text in quotations. (ex. "GitLab 101")
