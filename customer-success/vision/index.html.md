@@ -69,7 +69,7 @@ As part of our customer journey, we highly value the customer's initial experien
 
 We measure customer success through Net Retention.
 
-Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) net retention rate is 130%.
+Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) net retention rate is above 130%.
 
 Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) gross retention rate is 90%.
 
