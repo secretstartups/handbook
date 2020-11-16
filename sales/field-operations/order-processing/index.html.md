@@ -859,13 +859,20 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
 
-Note: This policy is supplemental to the other booking requirements listed on this page. This policy does not replace any other booking requirements.
+Note: This policy is supplemental to the other booking requirements listed on this page. It does not replace any other booking requirements.
 
-**How determine whether a customer requires POs?**
+**How can I determine whether a customer requires POs?**
 
-1. Review the Salesforce Billing Account. First, navigate to the Salesforce Account for the customer. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO.
+1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO.
 2. *PLACEHOLDER FOR ADDITIONAL SALESFORCE FIELD ON OPPORTUNITY OR QUOTE OBJECT - CURRENTLY BEING IMPLEMENTED*
 
+**How does GitLab know that a customer requires POs?**
+
+If a PO is not provided during the booking process, customers who require POs will typically notify the Billing team of their requirement once an invoice has been issued. In many of these cases, the invoice is rejected. The Billing team then updates Zuora to denote the customer's PO requirement.
+
+**Why does the customer PO requirement matter?**
+
+If a customer requires POs, they will typically reject any invoice sent to them that does not include a PO number. Additional billing and collection efforts become required to engage with the customer, to obtain the PO, and to manually issue a new invoice once the PO has ultimately been received. In addition, this scenario often produces significant delays to cash collection. 
 
 
 ### Finally, submit the opportunity for approval (booking)
