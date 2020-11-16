@@ -252,7 +252,7 @@ Marketing Operations approves any invoices that have not already been coded and 
 
 A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. `Person Score` is one of the indicators used by LeanData to determine whether a lead needs to be assigned. Details about this process can be found on the [LeanData page](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow). 
 
-Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. You can find granular scoring on the [Marketo Page](/handbook/marketing/marketing-operations/marketo#mql-scoring-model).
+Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. You can find granular scoring on the [Marketo Page](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model).
 
 
 ## Campaigns and Programs
