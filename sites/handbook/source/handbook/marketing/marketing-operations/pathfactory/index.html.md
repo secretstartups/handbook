@@ -85,7 +85,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
 1. [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
 
-## Issue templates
+## Issue Templates
 
 **[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
 
@@ -126,10 +126,10 @@ The [content library](/handbook/marketing/marketing-operations/pathfactory/conte
 
 There are multiple types of PathFactory experiences that you can create under `Campaign Tools`:
 
-1. Content Tracks (target or recommended)
+1. Content Tracks (target or recommend)
    - Target Tracks - Target Tracks are collections of content that you have selected and organized in order to give your visitors a specific content journey. 
-   - Recommended Tracks - Recommend Tracks are collections of content specifically selected by you, and which rely on machine-learning to suggest the ideal content to show your prospects based on what they are already viewing. 
-1. Explore Pages - Explore Pages allow your visitors to quickly view all content assets in a content track. Each Explore Page you create is built on top of an existing Target or Recommend Content Track.
+   - Recommend Tracks - Recommend Tracks are collections of content specifically selected by you, and which rely on machine-learning to suggest the ideal content to show your prospects based on what they are already viewing. 
+1. Explore Pages - Explore Pages allow your visitors to quickly view all content assets in a content track. Each `Explore Page` you create is built on top of an existing `Target` or `Recommend` Content Track.
 1. Website Promoters - Website promoters allow you to harness the power of PathFactory’s content promoters directly on your website. They provide more opportunities for interested parties to find and enter your Content Tracks by connecting eye-catching CTAs to content tracks.
 
 ## Content Tracks
@@ -155,7 +155,7 @@ Before creating a new content track, decide what type of content track (target v
 1. Tracks the most popular journey (which pieces are being viewed, can be exported into a target track)
 1. Use recommend to DISCOVER
 
-### Create a content track
+### Create a Content Track
 
 1. When you're ready, select `Campaign Tools` in the top navigation bar and select the content track type you want to create (target or recommend).
 1. Click the `Create track` button in the top right.
@@ -220,17 +220,17 @@ This is where you will choose how your content track displays to the visitor. No
   - For **email**, simply input the email address you want users to contact from clicking the CTA.
 1. Click `Save`.
 
-#### Form strategy
+#### Form Strategy
 
 Form strategy is used on content tracks to collect data from unknown visitors by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. 
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
 
 Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. 
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations#mql-scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
+**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
 
-#### Adding form strategy to a content track
+#### Add Form Strategy to a Content Track
 
 1. In the content track settings sidebar (left), toggle "Forms Strategy" to `On`.
 1. Click `View Form Strategy` located below the `Add Content` button.
@@ -254,7 +254,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 1. Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track. This decision lies with the directly responsible MPM.
 1. All other options for content track rules are the same for individual assets (see above).
 
-#### Testing a track link
+#### Testing a Track Link
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
@@ -269,32 +269,32 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 
 1. Change the target track title that's no longer in use to `[ARCHIVED] Name of track`.
 
-#### Adjustments to live content tracks
+#### Adjustments to Live Content Tracks
 
 - You can add assets and adjust the position of assets to a `[LIVE]` content track.
 - Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track. Please ensure that the link to the asset is not being used in any other marketing channels before deleting.
 
-## PathFactory forms
+## PathFactory Forms
 
 The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
 
-## PathFactory links
+## PathFactory Links
 
 - Only content track links are meant to be used and shared. Do not share individual asset links from the content library.
 - You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
 - To ensure proper tracking of an asset in PathFactory, it should be included within a content track and not shared with an individual link from the content library.
 - If the link breaks or an asset is deleted, the user will be redirected from your content track to the `#all` track, which includes all assets uploaded to PathFactory. In a case where the user is not redirected to the `#all` track, they will be redirected to the `Fallback URL` which is set to `about.gitlab.com`.
 
-### Target track links
+### Target Track Links
 
 1. Use the `Get Share URL` feature next to the title of the track. `Share links` are to be used in locations such as the website whereas `Email tracking links` are only for use in email. **Note:** If it’s in email, it’s a known audience so don’t gate any assets in the track. Only use `share links` on the web and those tracks _can have_ gated assets within PathFactory.
 1. If you want a particular asset to show first, that asset should be located in the first position of the target track.
 
-### Recommended track links
+### Recommend Track Links
 
-1. To use a recommended track link, click on any of the assets in the track and copy the link from the asset window on the right. The asset you choose to share the link will be shown to the user first.
+1. To use a recommend track link, click on any of the assets in the track and copy the link from the asset window on the right. The asset you choose to share the link will be shown to the user first.
 
-### Appending UTMs to PathFactory links
+### Appending UTMs to PathFactory Links
 
 1. First check and see if there is a question mark `?` already existing in the PF link. Typically there is one. The only time it won't have a `?` is when you set a custom URL.
 1. If there is a question mark `?`, first add an ampersand `&` at the end of the PF link, followed by the UTMs.
