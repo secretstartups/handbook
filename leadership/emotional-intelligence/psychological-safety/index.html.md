@@ -11,7 +11,7 @@ title: Psychological Safety
 
 ## Introduction
 
-On this page we are going to review psychological safety and it's importance for successful teams. 
+On this page we are going to review psychological safety and its importance for successful teams. 
 
 ## What is Psychological Safety
 
@@ -49,7 +49,7 @@ Why is psychological safety important? When you have psychological safety in the
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-Amy Edmonson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safetey is low or non-existant, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
+Amy Edmonson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make more comfortable. You can get a better picture of this from the diagram below. 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -82,7 +82,7 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 
 The above list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
 
-It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity is called “Just Like Me” [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) asks you to consider: 
+It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me” [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) asks you to consider: 
 
 - This person has beliefs, perspectives, and opinions, just like me.
 - This person has hopes, anxieties, and vulnerabilities, just like me.
