@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Code of Business Conduct & Ethics"
+description: "Overview of the code of conduct and ethics at GitLab."
 ---
 
 ## On this page

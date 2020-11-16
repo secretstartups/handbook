@@ -28,6 +28,7 @@ Additional background information on this initiaitve is available in the [Monthl
 
 Check out recordings of previous Learning Speaker Series calls!
 
+- [2020-10-21 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=nfF9OI566uo&list=PL05JrBw4t0Kqz6UXFu_2ELLubpKzg_pOe&index=32)
 
 ### Hosting a Monthly Continuous Learning Call
 
@@ -80,16 +81,19 @@ Check out recordings of previous Learning Speaker Series calls!
 
 The following process outlines steps for the L&D team to take when planning and implementing the calls.
 
-**Planning Issue Template:** Open an Learning Speaker Series Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
+**Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps outlined below are also included in the issue template and are included here as reference.
 
 1. Collaborate with exec team, mid-level people leaders, and other interested GitLab Team members to gauge interest and availability to be featured in the call. Be mindful to include diverse voices from across the GitLab team.
 1. Determine if this is an internal or external speaker for the series call. If external speaker, ensure that the speaker has been validated and that the topic covered aligns with our values. External speaker presentations need to aling with how we deliver group conversations. 
 1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
+1. Test Zoom functionality with the speaker at least two business days before event. 
+   * If external speaker, ensure they have downloaded [Zoom](https://zoom.us/support/download). 
+   * Have speaker test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom). 
+   * Check that speaker will be able to [share a presentation](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom) if necessary. 
+1. Send speaker calendar invite with all details for the call (including, but not limited to, Zoom link, agenda, slides, etc.). 
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
 1. Open a feedback issue for questions and comments to be shared asynchronously.
 1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
-
-
 
 #### Text for CEO share in #company-fyi channel
 
@@ -99,4 +103,3 @@ The following process outlines steps for the L&D team to take when planning and 
 ## Take Time Out To Learn Campaign
 
 Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
-

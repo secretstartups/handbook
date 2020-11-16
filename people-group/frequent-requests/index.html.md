@@ -35,7 +35,7 @@ If you need People Operations to complete an employment verification form, usual
 
 The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll vis private Slack channel.  
 
-The People Experience team will always verify that the information is appropriate to share and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
+The People Experience team will always verify and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
 
 ## Request for GitLab's phone number
 Team members often are asked for a company phone number to complete a mortgage application, loan request or similar application.  Our company phone number is outlined on the [GitLab Communication page](/handbook/communication/#phone-number) but this phone number will direct the caller to make the request via email.  If the requester requires speaking to a human, please email total-rewards@gitlab and someone on the Total Rewards team will provide their phone number based on availability.
@@ -97,6 +97,18 @@ If you are a team member residing in India, please consider using the following 
 -If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-exp@gitlab.com)and indicate how you would like the layout to look like.
 -The People Experience Coordinator will inform the Moo team to make the template available on Moo. This takes 24-48 hours
 -Once the template is available, the People Experience Coordinator will advice you and you can proceed and place your order.
+
+## Japan Daycare Eligibility Documentation
+
+In Japan, for a team member to qualify for subsidized day care, they need to demonstrate that they are working and need a certified document from their employer confirming their employment status. 
+
+- Team member: Fill out the daycare documentation with all the necessary details and only leave out the employer bit. Send this document via email to the People Ops team(peopleops@gitlab.com)
+- PeopleOps: Reach out to the Tricor team who are the current custodians of our Japan Stamp for them to fill out the Employer portion and stamp it.(Contact addresses available on 1Password)
+- Tricor: Send the stamped form back to the People Operations Specialist team.
+- PeopleOps: Email the completely filled and stamped document to the team member.
+- PeopleOps: Save the document on the team members BambooHR profile under the "Contracts and Changes" Folder
+
+
 
 ## Name Change
 {: #name-change}

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Offboarding FAQ"
+description: "Common Questions about the Offboarding Process"
 ---
 
 ## On this page

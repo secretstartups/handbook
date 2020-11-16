@@ -178,7 +178,7 @@ We provide our team members with certifications to demonstrate their knowledge o
 
 ### Career Development
 
-Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/people-group/learning-and-development/career-development/coaching/) to support managers with holding coaching discussions with their team. 
+Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers with holding coaching discussions with their team. 
 
 ### Developing Emotional Intelligence
 
@@ -219,13 +219,27 @@ Our team will review and set the priority for your content request or review bas
 
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on quartley sprints.
 
-* The L&D team uses [this issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538?milestone_title=No+Milestone) to track priority issues each quarter.
+* The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
-* Following the open list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
-* Issues can be moved from the `open` list to correct the sprint board when they are ready to be assigned/addressed.
+* The `L&D Ongoing` list is meant for long term projects the team is working on that cannot be accomplished in one sprint, but are a priority.
+* Following the ongoing list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
+* Issues can be moved from the `open` list to the correct sprint when they are ready to be assigned/addressed.
 * When an issue is closed, it should remain in the given milestone.
 * At the end of the sprint, the milestone can be removed from the board, or the milestone list can be hidden on the issue board.
+* The `L&D Requests` column should be used to organize requests for L&D support or courses coming from other teams.
 
+Additional planning and notes around the sprint board can be found in [this issue.](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/111)
+
+#### Best practices for using sprint boards and issues:
+
+- Apply a burn-down chart with milestones to track time spent
+- Create the issue in the sprint where the work starts
+- When creating L&D contnet, apply one issue to one course when developing content. Maintain all course development material in the issue for organization. 
+- Epics do not show up in the boards
+- Apply a Storyboard template for course development
+- Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
+- Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
+- Stack rank issues in the board based on priority if possible
 
 ### Top five training content development principles
 
@@ -273,9 +287,22 @@ If you are developing training, add learning objectives to the beginning of the 
 
 The L&D team uses a formula to describe the optimal sources of learning at GitLab. It shows that team members obtain 70 percent of the knowledge from job-related experiences, 20 percent from interactions with others, and 10 percent from formal learning events. The model is intended to show that hands-on experience (70 percent) can be one of the most beneficial for team members because it enables them to discover and refine their job-related skills. Team members learn from others (20 percent) through a variety of activities we offer every week. Lastly, the formula holds that only 10 percent of professional development comes from traditional live learning and eLearning events. 
 
+### Instructional Design 101
+
+The Learning & Development, [Field Enablement](/handbook/sales/field-operations/field-enablement/), and [Professional Services](/handbook/customer-success/professional-services-engineering/) team hosted an Instructional Design 101 session on 2020-10-28 to better understand concepts of adult learning theory and instructional design. Check out the video to learn how to apply instructional design to learning content. 
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
 ## Learning Management Systems
 
-We are currently in the process of implementing a Learning Experience Platform (LXP). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/). More details to come in the next few months! 
+We are currently in the process of implementing the [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-groundworks). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
+
+We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [
+Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/)
+
 
 ## Compliance Courses 
 
@@ -379,13 +406,19 @@ When current team members transition to roles and become managers of people, the
 
 ## Performance Indicators
 
-### Engagement Survey Growth and Development Score > X%
+- **Engagement Survey Growth and Development Score > X%**
 
 Questions related to growth and development on the semi-annual [Engagement Survey](/handbook/people-group/engagement/) have a favorable score. The exact target is to be determined.
 
-### Rate of internal job promotions > X%
+- **Rate of internal job promotions > X%**
 
 Total number of [promotions](/handbook/people-group/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
 
-### 12 month voluntary team member turnover related to growth < X%
+- **12 month voluntary team member turnover related to growth < X%**
+
 This is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but is using the number of team members actively choosing to leave GitLab to growth and development related reasons only. The target is to be determined.
+
+- **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
+
+Questions related to Learning & Development opportunities at GitLab through [Exit Survey Data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#)
+

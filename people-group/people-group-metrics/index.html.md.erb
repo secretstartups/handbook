@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Group Metrics"
+description: "GitLab's team member metrics as tracked and reported by the People Group."
 ---
 
 ## On this page
@@ -67,7 +68,7 @@ The average location factor of all team members per department or division. The 
 
 ## Percent Over Compensation Band
 
-This metric is manually calculated by the Total Rewards Team. This metric will be moved to Periscope once the Total Rewards team can use Compaas as the single source of truth for reporting purposes.
+This metric is manually calculated by the Total Rewards Team. This metric is in the process of being moved to Periscope in the following [issue](https://gitlab.com/gitlab-data/analytics/-/issues/2544).
 
 The Total Rewards Analysts will analyze against how many team members in a division or department are compensated above the bands specific by our [Global Compensation](/handbook/total-rewards/compensation/#compensation-principles) policy. To determine this, use the "In Range? (Metrics)" column from the Low Location Factor Reporting and generate a pivot table using a count of "FALSE" per department and division. Add this information to the "Location Factor Graphs/Summary" tab to generate a percentage based on total headcount per department and division as well as the raw number. The number can help explain the percentage if a department or division is small, for example.
 
@@ -154,22 +155,19 @@ GitLab measures team member retention over a rolling 12 month period, as well as
 
 Retention is calculated in [Periscope](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=6251791&udv=904340).
 
+## Promotion Rate 
+
+Promotion Rate = Number of promotions over a rolling 12 month period / Current Headcount. The target is a 12% promotion rate for divisions as well as departments. Promotion Rate is calculated in [SiSense](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9298897). We set a promotion rate KPI since GitLab does not have specific promotion cycles (e.g. two times per year), but instead promotions can be submitted by the manager at any time. To ensure our promotions are in line with market, we analyze promotion rates each month to see trends for each group. 
+
+The promotion rate metric can be found in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate), which is aggregated at a company, division, and department level. 
+  * The report itself can be found in the google drive with the title `Promotion Report` and is only shared with Total Rewards and the data team as it contains sensitive compensation data. This report and Spend per Team Member can be pulled from snowflake. 
+  * The next iteration of this report is to have all related promotions and promotion budgets available in SiSense as well for the e-group leader and people business partner to review budgetary impacts of any promotions instantly.
+
 ## Spend Per Team Member
 
-The spend per team member metric is intended to track variances across the company in compensation, discretionary bonuses, promotions, and involuntary attrition. This metric does not have an associated goal as the purpose is not to reduce costs, but instead understand the early indicators of something going wrong or what may be going well. Consistency should be the key evaluator of the KPI.
+The spend per team member metric is intended to track variances across the company in compensation and transfers. Over time, other spend per team member metrics have become their own KPIs (for example, promotion rate). This metric does not have an associated goal as the purpose is not to reduce costs, but instead understand the early indicators of something going wrong or what may be going well. Consistency should be the key evaluator of the KPI.
 
 The spend per team member monthly metrics can be found in the `Spend Per Team Member` folder on the google drive which is accessible to the [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) team, [Compensation Group](/handbook/total-rewards/compensation/#gitlabs-compensation-principles), and the associated Financial Planning and People Business Partner team. Access is limited as these documents contain sensitive, confidential data.   
-
-### Promotions
-
-* Run the Promotions/Transfers report from BambooHR. Change the Showing from Active to All.
-* Set the conditional formatting on the Compensation Change Reason to highlight "Promotion"
-* Separate out all data in the month of the review to add to the rolling 12 month totals
-* Add columns for the Amount of USD change per year, and the percent increase by determining the values using the record in BambooHR.
-* Determine the Promotions Spend Summary by including Rolling 12 Month Payroll Spend (base salary and bonuses), and Average Percent Increase
-* Filter this information by Division, Gender, and Ethnicity by creating pivot tables.
-  * For the Divisional breakdown, Rolling 12 Month Payroll Spend (salary and bonuses), and Average Percent Increase.
-  * For Gender and Ethnicity, the pivot table should calculate the count of those promoted. In a column to the right of the pivot table, use the [Identity Data](/company/culture/inclusion/identity-data/) to determine what percent of the population was promoted.
 
 ### Transfers
 

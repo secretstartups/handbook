@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Celebrations and Significant Life Events"
+description: "Review different ways GitLab celebrates its team members."
 ---
 
 ## On this page
@@ -14,7 +15,7 @@ title: "Celebrations and Significant Life Events"
 ### GitLab Anniversary
 At GitLab we like to acknowledge and celebrate team member milestones and contributions.  This means that those celebrating their first, third, fifth and tenth hire-date anniversary will receive a token of acknowledgement.
 
-Along with this, all celebrants regardless of length of tenure will receive a mention a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
+Along with this, all celebrants regardless of length of tenure will receive a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
 #### Anniversary Gifts
 On the last day of the month of celebration, team members can anticipate an email with a unique link which will lead them to the GitLab Anniversary Gift ordering portal where they can make the relevant size and shipping selections (where applicable).
@@ -24,7 +25,7 @@ The average shipping time taking into account current restrictions as a result o
 | Year | Gift | 
 | --- | --- | 
 | **Year 01** | Celebratory Confetti Tanuki Socks (Unique to the Anniversary Program) |
-| **Year 03** | GitLab Jacket |
+| **Year 03** | GitLab Tanuki Vest |
 | **Year 05** | Travel Bag / Backpack |
 | **Year 10** | $500 Travel Grant |
 

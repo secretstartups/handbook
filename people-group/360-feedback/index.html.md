@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "360 Feedback"
+description: "360 Feedback is an opportunity where managers, direct reports, and cross functional team members will give feedback to each other."
 ---
 
 ## On this page

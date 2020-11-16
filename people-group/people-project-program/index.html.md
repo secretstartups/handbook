@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Group Project Program"
+description: "Any GitLab People Success or Recruiting team members may participate in projects listed in the People Group Project Program issue board."
 ---
 
 ## On this page

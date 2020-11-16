@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "People Experience Shadow Program"
+description: "The purpose of the PEA Shadow Program is to allow any team member to get a better understanding of what the role looks like and all involved on a daily basis."
 ---
 
 ## On this page
@@ -11,7 +12,7 @@ title: "People Experience Shadow Program"
 
 ### Purpose:
 
-The purpose of the PEA Shadow Program is to allow any team member to get a better understanding of what the role looks like and all processes involved on a daily basis. This is also a great way to promote collaboration and transparency across all teams. The shadower is encouraged to share any suggestions along the way on how things could be improved to create a better experience for all.
+The purpose of the PEA Shadow Program is to allow any team member to get a better understanding of what the role looks like and all involved on a daily basis. This is also a great way to promote collaboration and transparency across all teams. The shadower is encouraged to share any suggestions along the way on how things could be improved to create a better experience for all.
 
 ### Timeline
 

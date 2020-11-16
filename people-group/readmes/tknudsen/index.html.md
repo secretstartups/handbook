@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Trevor Knudsen's Readme"
+description: "This page is Trevor Kudsen's readme and is intended to be helpful when interacting with him."
 ---
 
 ## Intro

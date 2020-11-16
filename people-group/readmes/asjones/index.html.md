@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Ashley Jones's README"
+description: "This page is Ashley Jones's readme and is intended to be helpful when interacting with her."
 ---
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. 

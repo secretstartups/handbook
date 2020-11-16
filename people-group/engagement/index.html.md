@@ -1,7 +1,15 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Engagement"
+description: "GitLab uses engagement surveys to allow team members to provide feedback and leadership to gain insight."
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ### Engagement
 
 Team member engagement is important to the overall continued success of GitLab.  Engagement strategies have been shown to reduce attrition, improve productivity and efficiency, enhances the company values and enhanced job satisfaction.  One of the ways that GitLab tracks team member engagement is through the bi-annual Team Member Engagement Survey administered by CultureAmp.  Engagement surveys are an important tool that gives team members an opportunity to provide feedback.  It also allows GitLab leadership to gain insight into what is important to team members.  
