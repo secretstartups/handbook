@@ -206,7 +206,7 @@ This is where you will choose how your content track displays to the visitor. No
 
 #### CTAs
 
-[Using CTA Buttons](https://nook.pathfactory.com/nook/s/article/using-cta)
+[Call-to-action (CTA)]((https://nook.pathfactory.com/nook/s/article/using-cta)) buttons encourage further engagement from your visitors within your Content Tracks. CTAs can be added to any Target or Recommend Content Track. These CTA buttons can link to either a form or a URL. 
 
 **Create a CTA**
 
@@ -215,18 +215,14 @@ This is where you will choose how your content track displays to the visitor. No
 1. Enter a name for the CTA (internal purposes only). Be specific so others know what the main goal of the CTA is.
 1. Enter a button label for your CTA. This is what the user will see. Copy for CTAs should typically be 2-3 words max (18 characters) and include action words such as `Watch a demo`.
 1. Choose your CTA type (form, link, email). 
-  - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA.
-  - If choosing **link** as your CTA type, **it must include** UTM paramters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
-  - For **email**, simply input the email address you want users to contact from clicking the CTA.
+   - If choosing **form** as your CTA type, **it must include** proper capture tags and script. Do not choose a `WIP` form as your CTA.
+   - If choosing **link** as your CTA type, **it must include** UTM paramters for proper tracking (ex: `utm_source=pathfactory&utm_medium=cta-name`)
+   - For **email**, simply input the email address you want users to contact from clicking the CTA.
 1. Click `Save`.
 
 #### Form Strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. 
-
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
-
-Form strategy is used on content tracks to collect data from unknown visitors and should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). Not all content tracks will or should have form strategy turned on. The forms used in PathFactory are directly tied to currently existing Marketo forms. If the form strategy is implemented, please ensure `Show to Known Visitors` is left **unchecked**. 
+Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
 
 **Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
 
@@ -243,6 +239,7 @@ Form strategy is used on content tracks to collect data from unknown visitors an
 1. Under `Display Behavior`, click the dropdown and choose the assets where you want the form to show. (**Please Note:** only assets that you have added to the content track will show in the dropdown. If you want the form to show on an asset that _is not_ in the track, you will need to add it first.)
 1. Select the amount of seconds you want to delay before the form shows on the asset. Ten seconds is the default selection.
 1. Select additional options for the form behavior. If you will be using the content track or individual asset links in an email, you are working with a known audience and therefore should only select `Show to unknown users`. This prevents forms being shown to users who are already known in Marketo. However, if you are using the form on the web or other channels, you'll want to select `Show to unknown users` only.
+1. Ensure `Show to Known Visitors` is left unchecked. 
 1. Leave `If submitted, allow form to show again` turned off.
 1. You can `allow visitors to dismiss the forms` if it is not crucial to its use to have them submit their info. This decision ultimately lies with the directly responsible MPM.
 1. The option `Keep promoters active when form is shown` is also up to the directly responsible MPM. For example, if the `Flow` promoter is used on a content track, they will still be able to see the sidebar of avialable content while the form is shown to them. If this option is turned off, the visitor _will not_ be able to click on any content in the sidebar until they fill out the form.
