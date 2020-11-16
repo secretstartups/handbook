@@ -388,21 +388,7 @@ An internship is a position meant for someone who has decided on a career path a
 
 In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering. 
 
-With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. 
-
-The process for opening a intern requisition would be as follows: 
-1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
-1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
-1. The manager for the team will be the DRI for the internship
-1. The DRI will make sure the intern level is added to the Job Family for their group
-1. The DRI seeks approval up to the EVPE level for starting the recruitment process
-1. The DRI reaches out to their People Business Partner to determine timeline and review the proposal
-1. Recruitment/sourcing starts for intern
-1. The recommended minimum length for an internship is 4 months, but can be longer, with a maximum of 1 year
-1. The goal would be to bring the intern on board for a fulltime Engineering role after the internship
-1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
-1. Before hiring, during the internship and when potentially transitioning to fulltime the DRI (manager) is responsible for aligning communication with the stakeholders. Learnings/documents can be used from the Internship Pilot 2020
-
+With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/). 
 
 ## Senior Engineers
 
