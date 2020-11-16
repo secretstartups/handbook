@@ -59,7 +59,7 @@ These next level opportunities are not guaranteed to be available and should not
 
 Most important is the fork between purely technical work and managing teams. It's important that Engineering Managers self-select into that track and don't feel pressured. We believe that management is a craft like any other and requires dedication. We also believe that everyone deserves a manager that is passionate about their craft.
 
-Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in a [blog post with feedback from some of our Staff Engineers](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
+Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in a [Engineering IC Leadership page](/handbook/engineering/ic-leadership).
 
 ### Trying the Management Track
 
@@ -109,8 +109,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 ```mermaid
   graph LR;
   %% frontend roles
-  eng:jfe(Junior Frontend Engineer);
-  click eng:jfe "/job-families/engineering/development/frontend#junior-frontend-engineer";
+  eng:jfe(Intern Frontend Engineer);
+  click eng:jfe "/job-families/engineering/development/frontend#intern-frontend-engineer";
 
   eng:ife(Intermediate Frontend Engineer);
   click eng:ife "/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
@@ -125,8 +125,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fem "/job-families/engineering/development/frontend/manager";
 
   %% backend roles
-  eng:jbe(Junior Backend Engineer);
-  click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
+  eng:jbe(Intern Backend Engineer);
+  click eng:jbe "/job-families/engineering/development/backend/#intern-backend-engineer";
 
   eng:ibe(Intermediate Backend Engineer);
   click eng:ibe "/job-families/engineering/development/backend/#backend-engineer";
@@ -181,6 +181,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   graph LR;
   
   subgraph Merit Based
+    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
     sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
   end
   subgraph Based on Merit &amp; Company Need
@@ -201,7 +202,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 ```mermaid
   graph LR;
   subgraph Merit Based
-    qual:jset(Junior Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
+    qual:inbeep(Intern, Backend Engineer, Engineering Productivity)-->qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)
+    qual:jset(Intern Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
     qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
     qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
   end
@@ -214,10 +216,10 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
 
     qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
-    qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering); 
+    qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
   end
 
-  click qual:jset "/job-families/engineering/software-engineer-in-test#junior-software-engineer-in-test";
+  click qual:jset "/job-families/engineering/software-engineer-in-test#intern-software-engineer-in-test";
   click qual:iset "/job-families/engineering/software-engineer-in-test#intermediate-software-engineer-in-test";
   click qual:sset "/job-families/engineering/software-engineer-in-test#senior-software-engineer-in-test";
   click qual:stset "/job-families/engineering/software-engineer-in-test#staff-software-engineer-in-test";
@@ -235,6 +237,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   graph LR;
   
   subgraph Merit Based
+    supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
     supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
   end
 
@@ -315,13 +318,13 @@ end
 
   subgraph Merit Based
   %% Backend Engineers
-    eng:abe(Associate Backend Engineer)-->eng:be(Senior Backend Engineer);
+    eng:abe(Intern, Backend Engineer)-->eng:be(Senior Backend Engineer);
     eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
   %% Site Reliability Engineer
-    eng:asre(Associate Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
+    eng:asre(Intern, Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
     eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
   %% Database Reliability Engineer track
-    eng:adbre(Associate Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
+    eng:adbre(Intern, Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
     eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
   %% Infrastructure Analyst
     eng:ia(Infrastructure Analyst)
@@ -383,10 +386,6 @@ subgraph Based on Merit &amp; Company Need
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
 
-## Internships in Engineering
-
-An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. In May 2020 we laucnhed an [internship pilot](/handbook/engineering/internships/). Due to the program's success currently we're working on the next iteration to implement internships broadly/continuously in Engineering at GitLab. 
-
 ## Apprenticeship for Learning
 
 Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning). 
@@ -414,20 +413,13 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 **Important**: The Apprenticeship for Learning program should differ from any situations where there is actual temporary or permanent [realignment/redeployment/secondment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) as a result of changing business needs. If you are unsure whether your situation is aligned with the Apprenticeship for learning program or falls into a resources realignment, please discuss with your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
-## Junior Engineers
+## Internships in Engineering
 
-Junior Engineers require a high degree of mentorship to effectively set them up for success. Because GitLab Engineering is scaling so quickly at the moment (100% in 2018, 125% in 2019) we are not hiring at the junior level. A good guideline for what it takes to meet our intermediate criteria is 2 years of professional experience with rapid growth. We encourage you to apply, even if you have questions.
+An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering.
 
-GitLab is committed to increasing diversity of all types, particularly in leadership, as it's one of our [core values](/handbook/values/). There is a misapprehension that the junior role is an effective tool for increasing our diversity. GitLab Engineering has made its greatest gains in diversity since putting a moratorium on junior hiring. This indicates that diversity and the junior level are orthogonal, at best.
+n May 2020 we launched an internship pilot program as part of a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](https://about.gitlab.com/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
 
-Before this level is re-opened we need to assess the following attributes:
-
-* Is a structured, time-bounded internship program a better alternative to the junior level
-* Either stop scaling as a whole, or specific teams must meet a criteria (size? maturity? composition?) to mentor a junior
-* Change the process so junior positions are advertised for, rather than leveled on-the-fly
-* Consider changing the name of the level, since "junior" is not an effective recruiting title
-* How do we effectively mentor juniors at a remote-only company?
-* There is a confidential item in line with our [not public guidelines](/handbook/communication/#not-public)
+With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](https://about.gitlab.com/handbook/engineering/internships/).
 
 ## Senior Engineers
 
