@@ -47,12 +47,6 @@ To run the QA specs in RubyMine, use a custom rspec runner configuration (right 
 
 See more detailed instructions for this process here: https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/end_to_end_test_configuration.md#starting-tests-using-the-rubymine-gutter
 
-Here are a couple of screenshots showing the gutter option and configuration:
-
-[<img src="/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-1.png"/>](/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-1.png)
-
-[<img src="/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-2.png"/>](/images/handbook/engineering/development/dev/create-static-site-editor/qa-spec-rubymine-2.png)
-
 ### gitlab-com/www-gitlab-com
 
 - Run site locally:
