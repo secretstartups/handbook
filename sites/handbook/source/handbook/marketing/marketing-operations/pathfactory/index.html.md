@@ -2,8 +2,8 @@
 layout: handbook-page-toc
 title: "PathFactory"
 description: "PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience."
-"
 ---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
