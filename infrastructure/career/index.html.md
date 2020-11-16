@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Career Development"
+title: "Career Development in the Infrastructure Department"
 ---
 
 ## On this page
@@ -49,7 +49,6 @@ Career development requires that all parties involved be committed to the proces
 One implicit area to focus on explicitly is **communication**. Regardless of your role, whether tehnical or manager, you must be a good communicator, and thus, it is important to always improve our communication skills.
 
 While there is no time-boxing for level progress, the company does operate on a [specific cycle](/handbook/people-group/360-feedback/) to make changes to a GitLab team-members level during the [360 Feedback](/handbook/people-group/360-feedback/).
-
 
 ## Interning with Infrastructure / Reliability Engineering
 
