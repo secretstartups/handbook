@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Values Check In"
+description: "Information about GitLab's Values Check-In Process which occur 90 days after start date, at a role change, and at anniversary milestones."
 ---
 
 ## On this page

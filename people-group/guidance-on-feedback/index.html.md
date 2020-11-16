@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Guidance on Feedback
+description: "GitLab's views and directions on how to give and receive feedback."
 ---
 
 ## On this page

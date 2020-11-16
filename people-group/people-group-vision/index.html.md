@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: People Group Vision
+description: "GitLab's People Group vision."
 ---
 
 ## On this page

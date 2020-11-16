@@ -1,7 +1,13 @@
 ---
 layout: handbook-page-toc
 title: Greenhouse <> BambooHR sync
+description: "Information on the Greenhouse and BambooHR sync for GitLab team members and their profiles."
 ---
+
+## On this page
+
+{:.no_toc}
+
 - TOC
 {:toc}
 

@@ -1,7 +1,13 @@
 ---
 layout: handbook-page-toc
 title: Email Automation
+description: "Information on GitLab's email automation process related to People Group tasks."
 ---
+
+## On this page
+
+{:.no_toc}
+
 - TOC
 {:toc}
 

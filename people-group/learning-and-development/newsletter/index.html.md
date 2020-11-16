@@ -28,6 +28,10 @@ We build the newsletter in an issue in the [Learning & Development Newsletter pr
 - Once the newsletter goes live, the L&D Team sends a slack notification in the #whats-happening-at-gitlab, #learninganddevelopment, and #managers Slack channels 
 - Once the newsletter is live, the L&D team closes out the planning issue.  
 
+## Past Newsletters
+
+- [FY21 Q4 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY21-Q4/)
+
 ### Template
 
 The following template is the typical template for each newsletter. When creating the newsletter, the template can be copied, pasted, and then filled in accordingly. 

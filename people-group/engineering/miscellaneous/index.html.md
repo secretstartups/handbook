@@ -1,10 +1,10 @@
 ---
 layout: handbook-page-toc
 title: Miscellaneous
+description: "Information on automations related to syncing to our team page, modern health, job families, and more."
 ---
 
 ## On this page
-
 {:.no_toc}
 
 - TOC
@@ -93,7 +93,8 @@ This will trigger a pipeline that fetches the team member on BambooHR. A file wi
 
 ### Offboarded team members
 
-When a team member leaves GitLab they also need to be _terminated_ on LawLogix. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to LawLogix so they can process it.
+When a team member leaves GitLab they also need to be _terminated_ on LawLogix. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to LawLogix so they can process it.
 
 ## Compensation Calculator
+
 The compensation calculator has its own [project](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/).

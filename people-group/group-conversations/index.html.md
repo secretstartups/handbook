@@ -113,7 +113,7 @@ There are three layers of content in a presentation:
 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. If you want to present please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting, link it from the Google Doc, and mention it in the relevant slack channels.
+1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
 
@@ -130,11 +130,11 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. 
+[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/finance/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/finance/key-meetings/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
-1. Ensure the slide deck is visible to all of GitLab
+1. Ensure the slide deck or handbook links are visible to all of GitLab
 1. Give a heads up in #whats-happening-at-gitlab on Slack if there is a video for the group conversation that you'd like people to watch beforehand.
 
 ### 30 Minutes Before the Call
@@ -155,7 +155,7 @@ The `People Experience and People Specialist` teams are responsible for moderati
 - Group Conversations 
 - CEO 101 (Introductions and Livestream)
 
-The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host will also be responsible for moderating the call. 
+The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host or the EBA for the host's organization will be responsible for moderating the call. 
 
 ### Preparing for the Group Conversation
 
@@ -181,6 +181,7 @@ Additional links which may be useful when preparing to moderate a call include:
 2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the uper left hand orner.
 3. Be sure to either close or mute the YouTube page to prevent an echo.
 4. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
+5. Check whether the host has included a pre Group Conversation video link in the agenda doc and that it has been specified as Private/Public. 
 
 ### Concluding the Call
 
@@ -188,6 +189,7 @@ Additional links which may be useful when preparing to moderate a call include:
 2. At time notify the Host that the meeting should be concluded allowing time for all participants to wrap up the active discussion and thanking them for their time and collaboration. 
 2. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
 1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/engineering/security/#engaging-the-security-on-call) for support. 
+1. Once the stream has ended, copy and paste the YouTube link to the Group Conversation agenda. This will allow easy access to the stream without having to search for it in the GitLab Unfiltered channel. 
 1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
 <figure class="video_container">
@@ -231,7 +233,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Two  | Mon  | Available |   |
 | Two  | Tues | Available |   |
 | Two  | Wed  | Available |   |
-| Two  | Thur | Available |   |
+| Two  | Thur | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
@@ -239,9 +241,9 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
-| Four  | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Four  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Four  | Thur | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Tue  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Four  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Four  | Thur | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
 | Five  | Tue  | [Strategic Marketing](/handbook/marketing/strategic-marketing/)  | Ashish Kuthiala  |
@@ -250,7 +252,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Six  | Mon  | [Growth Marketing](handbook/marketing/growth-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
-| Six  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Six  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
@@ -258,10 +260,10 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
-| Eight | Mon  |  [Product](/handbook/product/) |Scott Williamson|
-| Eight | Tue  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
-| Eight | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
-| Eight | Thur  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
+| Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
+| Eight | Tue  | Available |   |
+| Eight | Wed  | Available |   |
+| Eight | Thur  | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Eight | Fri  | Do Not Schedule  | Do Not Schedule  |
 
 ## Request a new Group Conversation

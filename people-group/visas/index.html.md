@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Visas"
+description: "Information on travel visas, visa letters, and immigration to the Netherlands. "
 ---
 
 ## On this page
@@ -9,7 +10,7 @@ title: "Visas"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Although this page is all about Visa's and how to apply for them, kindly keep in mind that GitLab does not  offer any form of Work Sponsorship anywhere in the world. We do have guidance below on how we provide sponsorship in the [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands), but we do not offer this in any other location at this time. We are also not in a position to transfer existing Work permit's at this time.
+Although this page is all about Visas and how to apply for them, kindly keep in mind that GitLab does not  offer any form of Work Sponsorship anywhere in the world. We do have guidance below on how we provide sponsorship in the [Netherlands](/handbook/people-group/visas/#right-to-immigrate-to-the-netherlands), but we do not offer this in any other location at this time. We are also not in a position to transfer existing Work permit's at this time.
 
 ## Expensing
 

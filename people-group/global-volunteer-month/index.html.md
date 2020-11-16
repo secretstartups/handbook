@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Global Volunteer Month"
+title: "GiveLab Volunteer and Sponsorship Initiatives"
 ---
 
 ## On this page
@@ -9,23 +9,39 @@ title: "Global Volunteer Month"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### About GiveLab
+Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values](/handbook/values/) but our [all-remote](/company/culture/all-remote/guide/) nature.
+
+Along with documenting our active programs within the handbook team members can create awareness and inititate a call to action through the `#givelab` Slack Channel, extending awareness to our team member community which spans over sixty-five countries!  
+
 ### Global Volunteer Month
-This initiative is aimed at volunteering during the month of December each year, within your local community. 
+Though many of the GiveLab initiatives are on-going, December is `Global Volunteer Month` at GitLab and an opportunity for everyone to contribute in a socially meaningful way.
 
-1. Join `#GiveLab` in Slack by mid-November of that year and start searching for a local initiative you can support.
+Team members are encouraged to take part in an initiative within their local community whether it be serving at a local soup kitchen; offering to support the build of a website for a non-profit organisation; arranging the clean-up of your nearest park or compiling a small box of much needed items for children in an underpriviledged community.
 
-1. This initiative includes any form of volunteering! Some examples to help you search:
-    - Volunteering to create a quick and easy website for a soup kitchen.
-    - Helping a non-profit fix bugs in their app.
-    - Collecting trash at your local park.
-    - Serving at a soup kitchen.
-    - Putting together a small box of things for kids in an underprivileged community.
-    - Reading at a local children's home or shelter.
+#### Taking Part
+1. If you would like to take part in `Global Volunteer Month` please be sure to join the `#givelab` Slack Channel by mid-November and share information around the initiative you have in mind.
+1. Be sure to highlight the location of the inititative along with the unique needs that may apply - once you have posted, be sure to share the thread in your location channel if one is available (this is a great way to gather support and additional hands).
+1. Communicate with your Manager! Be sure to let your team know when you will be OOO (Out of Office) supporting your cause.
+1. Showcase the initiative and your contributions by sharing feedback and images both in #givelab and on social media - it is important to tag `@gitlab` and use `#givelab` when doing so though as posts may be shared from time-to-time taking into account current demands.
+1. Give yourself a pat on the back. Thank you for taking part and helping to spread some love!
 
-1. This can be done on work time, but notify your manager in advance if so.
+### Be the Bridge
+The [People Operations](/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
 
-1. If you'd like to share your volunteering on social media, please tag @gitlab and use the tag: #GiveLab\
-*GitLab social handles may engage with and/or share your post.*\
-*The ability to share posts is dependent on their demands at the time and is not promised.*
+### Upstream Diversity Working Group
+Having identified a talent gap in both the technology and the university system which speaks predominantly to Underrepresented Groups, the [Upstream Diversity Working Group](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups) was established.
 
-1. Thank you for taking part and helping us spread some love!
+Geared toward knowledge sharing, the [recently piloted program](/handbook/engineering/volunteer-coaches-for-urgs/) sees GitLab team members extending their technical skills and time to those in Underrepresented Groups (URGs) with a view to creating `future career opportunities` for them within the technology sector.  The program mobilises GitLab team members to serve as `coaches` in partnership with [Latinitas](https://latinitasmagazine.org/); [FreeCodeCamp](https://www.freecodecamp.org/) and [re:Learn](https://relearn.ng/).
+
+### Trusted Interns
+As a pioneer in the `all-remote` space, GitLab is uniquely leveraged to prepare youth around the globe for the `future of work`. Recently, GitLab Alumni Jean du Plessis, in collaboration with Trusted Interns as part of [The Knowledge Trust](https://knowledgetrust.org/) which places a focus on making jobs more accessible to South African Youth, presented a webinar around [Preparing for your First Remote Job](https://knowledgetrust.org/trusted-interns-webinar-jean-du-plessis-prepare-for-your-first-remote-job/).
+
+This was a springboard for around 650 South African Youth from within the Trusted Interns program to complete the [GitLab All-Remote Certification](/company/culture/all-remote/remote-certification/).
+
+### Rails Girls
+On multiple occasions, GitLab has supported [Rails Girls](http://railsgirls.com/kumasi_2020.html) an organisation geared toward providing tools and creating a sense of community for women in the technology space - enabling them to grow their knowledge base and build out their ideas.  The most recent event supported was the `Rails Girls Kumasi` [Ruby on Rails Workshop](http://railsgirls.com/kumasi_2020.html) - be sure to check out this [GitLab Unfiltered](https://www.youtube.com/watch?v=E5pe2jrOZpc) video to see our very own Abubakar Siddiq Ango, Developer Evangalism Program Manager in action!
+
+----
+
+Return to the [People Group Handbook](/handbook/people-group/).
