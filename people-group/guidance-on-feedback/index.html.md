@@ -21,6 +21,12 @@ description: "GitLab's views and directions on how to give and receive feedback.
 * Enables leaders to set the standard
 * Instills trust amongst the team
 
+Feedback conversations are the core of personal and professional growth for our team members and ourselves. According to research conducted by [TruQu](https://truqu.com/en/blogs/the-importance-of-a-feedback-culture-and-how-you-can-build-it-in-the-workplace/):
+- Constructive and timely feedback can **improve performance up to 39%**
+- When people receive appreciative feedback or recognition, they are **69% more motivated to deliver high performance**
+- 4/10 employees are **actively disengaged when they get little or no feedback**
+- When we engage in and document feedback more frequently, we **reduce the anxiety** of feedback and **reduce the potential for "surprises**" 
+
 # Types of Feedback
 
 Feedback can come in the form of **"praise"** for things team members do well, and in the form of **"tips"** pertaining to improvement areas. At GitLab, we encourage both types of feedback on a regular basis!
