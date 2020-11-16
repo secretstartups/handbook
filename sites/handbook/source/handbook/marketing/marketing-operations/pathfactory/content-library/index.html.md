@@ -40,7 +40,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Leave External ID blank.
 1. Select the content topics on the right-hand side that categorize the asset. Follow the [content tag map below](#tracking-content) when tagging content with topics.
 
-## After adding the asset to the library
+### After adding the asset to the library
 
 1. Select the asset you just added to the library. A preview of the content will appear on the right-hand side of the content library. Scroll down the window pane under `source URL` and locate `Custom URL slug`.
 1. Update the custom URL slug to be descriptive of the content with no stop words (and, the, etc.).
@@ -133,7 +133,7 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Webcast | A live broadcast & recording that includes a presenter, slides, and a live audience. | [Cloud Native Transformation with Ask Media Group](https://www.youtube.com/watch?v=3ED5NrVoVzk) |
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution. Whitepapers are academic and authoritative in tone. Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. | [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
 
-## Content topics
+### Content topics
 
 Unsure what content topics align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -185,3 +185,44 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | Version control and collaboration |  |  |
 | VSM | Content that relates to the topic of value stream mapping and management. Topics that fall under this tag may include cycle time, cycle analytics, and software delivery strategies and metrics. | [The Forrester Value Stream Management Report](/analysts/forrester-vsm/index.html) |
 | Workflow | Content that relates to understanding and implementing workflows throughout the software development lifecycle. Likely uses are content that explains a particular workflow or how to set up a workflow in GitLab. For example: how a workflow might change when a level of automation is introduced. | [Planning for success](/resources/downloads/gitlab-planning-for-success-whitepaper.pdf) |
+
+### Industry Verticals
+
+Industry verticals are set using a standard list in SFDC per [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2500). 
+
+1. Aerospace & Defense
+1. Agriculture
+1. Apparel
+1. Automotive
+1. Banking
+1. Biotechnology
+1. Chemicals
+1. Communications
+1. Construction
+1. Consulting
+1. Education
+1. Electronics
+1. Energy
+1. Engineering
+1. Entertainment
+1. Environmental
+1. Finance
+1. Food & Beverage
+1. Government
+1. Healthcare
+1. Hospitality
+1. Insurance
+1. Local
+1. Machinery
+1. Manufacturing
+1. Media
+1. Not For Profit
+1. Other
+1. Recreation
+1. Retail
+1. Shipping
+1. State
+1. Technology
+1. Telecommunications
+1. Transportation
+1. Utilities
