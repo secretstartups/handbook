@@ -368,14 +368,6 @@ An in-person or virtual workshop where the attendees are guided through an agend
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Content Syndication**, follow the instructions documented in [the Content Syndication section](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc).
-
-For **Surveys run through SimplyDirect**, follow the instructions documented in [the SimplyDirect section](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc).
-
-For **Workshops**, follow the directions in the [Workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up).
-
-For **Alyce Direct Mail** or Direct Mail not needing a Marketo program, follow the directions in the [Alyce Direct Mail Section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#steps-to-setup-direct-mail-campaigns)
-
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
@@ -386,21 +378,22 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1)
 - Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
-- Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
+- Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
+- Alyce Direct Mail and Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
 - Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
-     - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
-- (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
-- (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
-- (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-- (Moving to FMM) Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
-- (Moving to FMM) Zoom GitLab Hosted Workshops (please follow directions in the [workshop set-up section](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/#workshop-set-up)):
+     - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
+- Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+- Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up):
      - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
-     - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)
+     - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)     
+- (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
+- (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
+- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (Coming in Nov) BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
 - (Campaigns Only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - (Campaigns Only/Phasing Out) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
