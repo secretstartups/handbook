@@ -92,24 +92,21 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 </details>
 
-
 <details>
   <summary markdown='span'>
     Live Learning Schedule
   </summary>
 
-<b>The 2020 Live Learning schedule is as follows:</b>
+<b>The upcoming Live Learning schedule is as follows:</b>
 
 <ul>
-<li>July - Understanding Social Styles (Date TBD)</li>
-<li>August - TBC</li>
-<li>September - GitLab Great Managers Program - 30 Day Challenge (Kickoff Date TBD)</li>
-<li>October - TBC</li>
-<li>November - TBC</li>
-<li>December - TBC</li>
+<li>November - One Week Challenge - Psychological Safety (2020-11-16 - 2020-11-20)</li>
+<li>December - Introduction to Coaching (2020-12-03)</li>
+<li>January - 3 Week Manager Challenge</li>
 </ul>
 
 </details>
+
 
 <details>
   <summary markdown='span'>
@@ -122,8 +119,10 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>January - <a href="https://youtu.be/crkPeOjkqTQ">Compensation Review: Manager Cycle (Compaas)</a></li>
 <li>January - <a href="/company/culture/inclusion/being-an-ally/">Ally Training</a></li>
 <li>February - <a href="/handbook/people-group/guidance-on-feedback/#receiving-feedback">Receiving Feedback</a></li>
-<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck">Delivering Feedback</a></li>
+<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback">Delivering Feedback</a></li>
 <li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li>
+<li>September - <a href="/handbook/people-group/learning-and-development/manager-challenge/#pilot-program">Manager Challenge Pilot</a></li>
+<li>November - <a href="https://www.youtube.com/watch?v=WZun1ktIQiw">Belonging</a></li>
 </ul>
 
 <b>2019</b>
