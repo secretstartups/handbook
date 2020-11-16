@@ -133,7 +133,7 @@ See the [events handbook page](/handbook/marketing/events/) for more details.
 
 #### How to do Step 1 cleanup of lead lists before passing to MktgOPS
 
-[List cleaning instructions](/handbook/marketing/marketing-operations/list-import/#import-cleaning-template)
+[List cleaning instructions](/handbook/marketing/marketing-operations/list-import/#import-cleaning-template---info-for-pre-mktgops-hand-off)
 
 ## Record Management
 
