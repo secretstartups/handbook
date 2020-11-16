@@ -9,4 +9,94 @@ title: "Create:Code Review FE Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+The Create:Code Review FE team is responsible for all frontend aspects of the product categories that fall under the [Code Review group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
+
+[group]: /handbook/product/product-categories/#code-review-group
+[stage]: /handbook/product/product-categories/#create-stage
+[lifecycle]: /handbook/product/product-categories/#devops-stages
+
+## Team Members
+
+The following people are permanent members of the Create:Code Review FE Team:
+
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Code Review)/, direct_manager_role: 'Frontend Engineering Manager, Create:Code Review', other_manager_roles: ['Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability']) %>
+
+## KPIs
+
 Coming Soon
+
+<%#= TODO: Ensure dashboard exists at https://app.periscopedata.com/app/gitlab/561630/Dev-Sub-department-Overview-Dashboard %>
+
+<%#= partial("handbook/engineering/development/dev/create-code-review-fe/metrics.erb") %>
+
+## Iteration
+
+We held an Iteration Retrospective in April 2020 in order to review past work and discuss how we could improve iteration for upcoming efforts.
+
+* [Frontend: Iteration Retrospective (Source Code)](https://gitlab.com/gl-retrospectives/create-stage/source-code/-/issues/22)
+
+Some overal conclusions/improvements
+* Despite having improved the splitting of Merge Requests, we still tend to keep one issue spawning multiple Merge Requests.
+* We'll be more strict about splitting the issues in foreseeable iteration steps upon scheduling/assignment
+* We must keep in mind the overhead in review times when splitting up related backstage work. ([more info](https://gitlab.com/gl-retrospectives/create-stage/source-code/-/issues/22#note_342547093))
+
+## Work 
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch
+with the Create:Code Review FE team, it's best to create an issue in the relevant project
+(typically [GitLab]) and add the `~"group::code review"` and `~frontend` labels, along with any other
+appropriate labels (`~devops::create`, `~section::dev`). Then, feel free to ping the relevant Product Manager and/or
+Engineering Manager as listed above.
+
+For more urgent items, feel free to use [#g_create_code_review] or [#g_create_code_review_fe] on Slack.
+
+[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createcode-review-group)
+
+[engineering workflow]: /handbook/engineering/workflow/
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[#g_create_code_review]: https://gitlab.slack.com/archives/g_create_code-review
+[#g_create_code_review_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
+
+
+## Working with product
+
+Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Code Review Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of ~"Deliverable"s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
+
+### Middle of milestone check-in
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/midmilestone.erb") %>
+
+## Capacity planning
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/capacity_planning_fe.erb") %>
+
+### Weights
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/weights_fe.erb") %>
+
+## Workflow labels
+
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::code review' }) %>
+
+## Async standup
+
+<%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
+
+## Kickoff
+
+On the first week of every milestone, we have a sync-call with every IC in which they take turns at presenting their plan for their Deliverables for the new milestone.
+
+This usually happens at the first Thursday of the milestone (at least 5 days into it) at 3PM UTC.
+
+## Retrospectives
+
+We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
+
+#### Per Milestone
+<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Code Review", group_slug: 'code-review' }) %>
