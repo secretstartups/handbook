@@ -44,7 +44,7 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1.  [Performance/Potential criteria](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
 1.  [Succession planning](/handbook/people-group/performance-assessments-and-succession-planning/#succession-planning)
 1.  [Learning and development](/handbook/people-group/learning-and-development/)
-1.  [PDPs/PIPs](/handbook/underperformance/)
+1.  [PDPs/PIPs](/handbook/leadership/underperformance/)
 1.  [Career development](/handbook/people-group/learning-and-development/career-development/)
 1.  [360 reviews](/handbook/people-group/360-feedback/)
 1.  [Sales training](/handbook/sales/training/)
