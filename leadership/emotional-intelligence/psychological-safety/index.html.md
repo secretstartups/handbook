@@ -31,7 +31,7 @@ Watch the video below where Susan David explains psychological safety.
 
 The following information was summarized from an [article on Psychological Safety](https://peopletalking.com.au/project/psychological-safety/) by PeopleTalking. 
 
-**Psycholgoical Safety** has primary importance when it comes to significant impact on a team's performance. 
+**Psychological Safety** has primary importance when it comes to significant impact on a team's performance. 
 
 The other factors that have an impact on a team's performance are: Dependability, Structure, Meaning & Clarity, Impact. 
 
