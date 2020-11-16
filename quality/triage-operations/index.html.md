@@ -102,7 +102,7 @@ Each task corresponds to an issue that needs labels, prioritization and/or sched
 
 An issue created by a triage report is automatically assigned to team members.
 Those team members are listed in
-[group definition file](https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/lib/group_definition.rb),
+[group definition file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/group-definition.yml),
 or the respective triage report
 [policy YAML files](https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies).
 
