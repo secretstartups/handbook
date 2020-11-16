@@ -5,12 +5,12 @@ title: "Rashmi Chachra's README"
 
 ## Rashmi's README
 
-*This page, like me, is a WIP. I'm practicing our value of 👣 iteration. I welcome all feedback! Click here to see my [LinkedIn](http://linkedin.com/in/rashmi-chachra-b73b11)*
+*This page, like me, is a WIP. I'm practicing our value of 👣 iteration. I welcome all feedback! Click here to see my [LinkedIn](http://linkedin.com/in/rashmi-chachra-b73b11).*
 
 ## Rashmi Pronunciation Hint
-A pronunciation hint for `Rashmi`: It’s like when I try to hurry you along and you say: `Rush me don’t rush me.` Easier than it looks right?
+A pronunciation hint for `Rashmi`: It’s like when I try to hurry you along and you say: `Rush me don’t rush me.` Easier than it looks, right?
 
-##My Job 
+## My Job 
 My job is to work with teams across the GitLab landscape on corporate and securities topics. That means I work on, among other matters: (a) acquisitions the company may desire to make; (b) matters related to the company’s stock; (c) external and internal communications; and (d) strategic projects. I also work on corporate governance matters which means that I work with GitLab’s Board of Directors and matters related to GitLab’s direct and indirect subsidiaries. 
 
 ## How I Work
