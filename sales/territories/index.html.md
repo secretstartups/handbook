@@ -208,18 +208,9 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | LATAM | **MM-AMER-EAST-LATAM** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Jenny Kline | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-FL** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-VA** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-Toronto** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-ON** | Steve Xu | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-QB** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral** | Jenny Kline | MM SDR |
-| NA East | US East | **MM-AMER-EAST-Northeast** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NYPa** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidAtlantic** | Jenny Kline | MM SDR |
 | NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-TriState** | Jenny Kline | MM SDR |
+| NA East | US East | **MM-AMER-EAST-Northeast** | Steve Xu | MM SDR |
 | NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
 | NA West | US West | **MM-AMER-WEST-NorCal** | Matthew Kobilka | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
