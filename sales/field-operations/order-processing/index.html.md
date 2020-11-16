@@ -876,15 +876,15 @@ If a customer requires POs, they will typically reject any invoice sent to them 
 
 **What if "PO Required" = "YES," but the customer states that they do not require a PO?**
 
-If the customer does not require a PO for a *specific transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached.
+1. If the customer does not require a PO for a *specific transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached.
 
-If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
+2. If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
 
 **What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
 
 If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
 
-**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met and the customer's license grace period is about to end?"
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met and the customer's license grace period is about to end?**
 
 If the customer's license has expired, and the customer's grace period is nearing its end, please open an [Issue to request a grace period extension](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans) for the related license. A grace period extension will prevent the customer from losing functionality while the opportunity is pending approval due to a delayed PO.
 
