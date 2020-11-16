@@ -257,7 +257,7 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 
 ## Communication 
 
-In most companies the Performance/Potential Matrx is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback with team members. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
+In most companies the Performance/Potential Matrix is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback with team members. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
 
 The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups*. For example, we have some departments that have used the Performance/Potential Matrix in previous quarters. These groups may feel comfortable and ready to communicate potential at this stage. We do, however, recommend that there is _consistency in what is being communicated within each department_. 
 
