@@ -234,16 +234,18 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 **Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
 
+- [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
+
 #### Add Form Strategy to a Content Track
 
 1. In the content track settings sidebar (left), toggle "Forms Strategy" to `On`.
 1. Click `View Form Strategy` located below the `Add Content` button.
 1. Determine whether the form strategy will be applied to individual assets or the entire track. For individual assets, you'll choose `Content Rules`; for form strategy on the entire content track, you'll choose `Track Rule`.
 
-**Form strategy for individual assets:**
+**Form strategy by asset:**
 
 1. Click `Add Rule` in the `Content Rules` row.
-1. Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs.
+1. Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs. Do not select a form marked `[WIP]`. 
 1. Under `Display Behavior`, click the dropdown and choose the assets where you want the form to show. (**Please Note:** only assets that you have added to the content track will show in the dropdown. If you want the form to show on an asset that _is not_ in the track, you will need to add it first.)
 1. Select the amount of seconds you want to delay before the form shows on the asset. Ten seconds is the default selection.
 1. Select additional options for the form behavior. If you will be using the content track or individual asset links in an email, you are working with a known audience and therefore should only select `Show to unknown users`. This prevents forms being shown to users who are already known in Marketo. However, if you are using the form on the web or other channels, you'll want to select `Show to unknown users` only.
@@ -263,7 +265,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 1. Click through the experience to ensure assets, CTAs, and forms load properly and that promoters are working as intended.
 1. Remove any extraneous `?` (there should only be one immediately after the end of the URL).
-1. Watch for extra `&` when appending UTMs.
+1. Watch for extra `&` when [appending UTMs](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#utms-for-url-tagging-and-tracking). 
 1. Test and ensure the experience is working as intended.
 
 **When a track is LIVE (in use):**
@@ -282,6 +284,16 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 ## PathFactory Forms
 
 The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
+
+### Request a new PathFactory Form
+
+To request a new form to use in PathFactory, the form must first exist in Marketo. If one does not exist, first create an issue in the marketing ops project using the [`form_request.md` template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). Once the Marketo form is completed, then create an issue in the marketing ops project using the `pathfactory_form.md` template. 
+
+### Capture Tags
+
+A `Capture Tag` is a snippet of code added to a Marketo form code itself. The `Capture Tag` sees the visitor’s email address on submitted form, and sends it to PathFactory. This allows PathFactory to associate the email address of a visitor to their engagement data; the visitor will then be a known visitor rather than anonymous.
+
+We use external forms (added by External URL or Custom HTML generated from Marketo) in PathFactory. The information submitted in the form is sent directly to Marketo. In order for PathFactory to associate the submitted email address with the visitor’s engagement data, you must use a `Capture Tag`. This is what allows PathFactory to identify the individual as a known visitor.
 
 ## PathFactory Links
 
