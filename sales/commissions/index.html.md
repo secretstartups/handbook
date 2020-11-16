@@ -27,7 +27,7 @@ There are two ways to connect with us.
 | :------ | :------ | :------ |
 |[**FY21 Sales Compensation Plan**](/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63)| [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](/handbook/sales/commissions/#quota-components)<br><br>[**Sales Rep IACV Quota Ramp**](/handbook/sales/commissions/#sales-rep-iacv-quota-ramp)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](/handbook/sales/commissions/#opportunity-splits)
 
-## **Quotas Overview**
+## **Quotas Overview
 
 All employees with variable compensation plans will be assigned a quota that supports their
 assigned territory/region shortly after the beginning of each fiscal year or when they enter into their role. Quota assignment and quota ramp (including any mid-year adjustments) are determined by Sales Leadership. Sales Leadership reserves the right to make any adjustments to quotas. 
