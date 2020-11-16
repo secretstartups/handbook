@@ -186,10 +186,13 @@ Text
 
 ## Emphasis: bold and italic
 
-To display bold or italic text, wrap it in stars or underlines:
+To display bold or italic text, wrap it in 2 stars (for bold) or underscores (for italic).
+For both italic and bold, wrap it in 3 stars:
 
 ```md
 This is **bold** and this is _italic_.
+
+This is ***bold and italic***.
 ```
 
 <div class="panel panel-info">
@@ -202,8 +205,13 @@ This is **bold** and this is _italic_.
 
 This is **bold** and this is _italic_.
 
+This is ***bold and italic***.
+
 </div>
 </div>
+
+Markdown doesn't natively support underlined text. If necessary you can hardcode it with the
+HTML tag `ins` (`<ins>underlined text</ins>`), however, it is inadvisable to do so.
 
 ----
 
