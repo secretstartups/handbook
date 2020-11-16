@@ -287,7 +287,7 @@ The forms used in PathFactory are hardcoded Marketo form script. They are added 
 
 ### Request a new PathFactory Form
 
-To request a new form to use in PathFactory, the form must first exist in Marketo. If one does not exist, first create an issue in the marketing ops project using the [`form_request.md` template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). Once the Marketo form is completed, then create an issue in the marketing ops project using the `pathfactory_form.md` template. 
+To request a new form to use in PathFactory, the form must first exist in Marketo. If one does not exist, first create an issue in the marketing ops project using the [`form_request.md` template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). Once the Marketo form is completed, then create an issue in the marketing ops project using the [`pathfactory_form.md` template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_form.md). 
 
 ### Capture Tags
 
