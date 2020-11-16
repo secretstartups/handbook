@@ -74,9 +74,9 @@ When a `Person Score` changes it will be inserted into the routing flow. Using L
 
 ### Re-MQL
 
-A Lead/Contact will be allowed to re-MQL if they are in a `Nurture` status and reach the [MQL threshold](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model) again.
+A Lead/Contact will be allowed to re-MQL if they are in a `Nurture` status and reach the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model) again.
 
-The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations/marketo/#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
+The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
 When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture`.
 

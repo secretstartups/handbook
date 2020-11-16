@@ -38,7 +38,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 **Corporate Marketing**
 
-- Owned Events 
+- Owned Events
 - Sponsored Events
 - Awareness/ All Remote*
 - Communications*
@@ -57,11 +57,11 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 **Growth Marketing**
 
-- Brand & Digital Design  
-- Content Marketing 
+- Brand & Digital Design
+- Content Marketing
 - Inbound Marketing*
 
-**Corporate Marketing** 
+**Corporate Marketing**
 
 - Awareness/ All Remote*
 - Communications*
@@ -69,8 +69,8 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 **Strategic Marketing**
 
-- Product Marketing 
-- Technical Marketing 
+- Product Marketing
+- Technical Marketing
 - Analyst Relations
 - Competitive Intelligence
 - Customer References
@@ -117,7 +117,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Google Analytics
 - Google Search Console
 - Google Tag Manager
-- Hotjar 
+- Hotjar
 - Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
@@ -197,7 +197,7 @@ _In Milestone_
 - `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
 - `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
 
-**Handbook Updates**: 
+**Handbook Updates**:
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
@@ -222,9 +222,9 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to Focus Fridays. Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. Thanks!
 
 ## Office Hours
-Marketing Operations has weekly office hours on each Tuesdays. The team will be available for 30 min to answer any quick and easy tool related questions. We are alternating between 9am PST and Noon PST. Meaning every other Tuesday we will either have a morning or noon session, but not both. The office hour is for quick and easy questions, and it is not meant for issue related questions. 
+Marketing Operations has weekly office hours on each Tuesdays. The team will be available for 30 min to answer any quick and easy tool related questions. We are alternating between 9am PST and Noon PST. Meaning every other Tuesday we will either have a morning or noon session, but not both. The office hour is for quick and easy questions, and it is not meant for issue related questions.
 
-See the [Marketing Operations Office Hour Calendar](https://calendar.google.com/calendar/u/0?cid=Y19yOTcxcGRvM2xtamVxMTZuYWEyZnB2cDVrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for more details on the alternating times and meeting links. 
+See the [Marketing Operations Office Hour Calendar](https://calendar.google.com/calendar/u/0?cid=Y19yOTcxcGRvM2xtamVxMTZuYWEyZnB2cDVrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for more details on the alternating times and meeting links.
 
 ### Operational Timeline of Changes
 
@@ -268,9 +268,9 @@ Email database management is a core responsibility for MktgOps. Ensuring GitLab 
 
 Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Program Managers. To request an email of any kind, please see the [instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture/#ad-hoc-one-time-emails---requesting-an-email) in the revenue marketing section of the handbook.
 
-### Email Communication Policy  
+### Email Communication Policy
 
-Please [visit the legal page](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) to view all of the Marketing Rules and Consent Language. 
+Please [visit the legal page](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) to view all of the Marketing Rules and Consent Language.
 
 The Mural below shows the opt-in and opt-out/unsubscribe workflows for all forms, list imports and individual subscriptions.
 <div style="width: 600px;" class="embed-thumb"> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab5736.1594675938009-5f0cd2e2ffb2423070a97d96-46527d35-3c6d-4dc0-b290-83d58595374c.png?v=5788e460-d3d3-40d7-942d-0a76151f9569) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab5736/1594675938009/095286e912a2f8de19edd53e68a5e4e51d071db0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div></div>
@@ -280,7 +280,7 @@ At GitLab, we strive to communicate with people in a way that is beneficial to t
 Certain emails can bypass unsubscribe by being marked as `operational`. Operational emails need to be transactional and should not be marketing in nature. Examples include critical system alerts, auto-responder emails after an action is taken (ex. registration confirmation), event reminders with link to attend event, post event recording, and account balances.
 Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MPMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops and/or Legal.
 
-In Marketo, we have communication limits set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. This does not include `operational` emails. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold. 
+In Marketo, we have communication limits set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. This does not include `operational` emails. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold.
 
 
 ### Types of Email
@@ -296,7 +296,7 @@ Sent bi-monthly (every 2 weeks). Content Team is responsible for creating the co
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
 
 **Webcasts**
-Invitation and/or notification emails sent about future webcasts. 
+Invitation and/or notification emails sent about future webcasts.
 
 **Live Events**
 Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
@@ -322,7 +322,7 @@ We add the following line above `return false` in the form embed code. Please up
 ```
 dataLayer.push(
 {
-  'event' : 'demo', 
+  'event' : 'demo',
   'mktoFormId' : form.getId(),
   'eventCallback' : function()
   {}, 'eventTimeout' : 3000
@@ -418,5 +418,3 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
 | Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
-
-
