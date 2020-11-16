@@ -322,7 +322,7 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned.|
 | `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
 | `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. |
-| `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1) or a Review-Requested label was added to the incident. |
+| `~Incident::Review-in-Progress`  | Indicates that an incident met the threshold for requiring a review (S1) or a `~review-requested` label was added to the incident. |
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
