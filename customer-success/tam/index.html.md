@@ -26,6 +26,7 @@ title: "Technical Account Management Handbook"
 ### Customer journey
 
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
+   - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
