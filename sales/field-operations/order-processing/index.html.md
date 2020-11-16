@@ -857,6 +857,10 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
+#### Purchase Order Policy
+
+Certain customers require that any invoices submitted to them include a PO number. For these customers, opportunities will not be closed 
+
 ### Finally, submit the opportunity for approval (booking)
 
 When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have a **signed order form from** the customer, you are ready to submit the opportunity for approval. 
