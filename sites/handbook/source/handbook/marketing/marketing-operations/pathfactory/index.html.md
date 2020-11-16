@@ -132,6 +132,14 @@ There are multiple types of PathFactory experiences that you can create under `C
 1. Explore Pages - Explore Pages allow your visitors to quickly view all content assets in a content track. Each `Explore Page` you create is built on top of an existing `Target` or `Recommend` Content Track.
 1. Website Promoters - Website promoters allow you to harness the power of PathFactory’s content promoters directly on your website. They provide more opportunities for interested parties to find and enter your Content Tracks by connecting eye-catching CTAs to content tracks.
 
+## Track Naming conventions
+
+When creating and editing content tracks, please use the following naming convention to let others know the status of your track.
+
+1. `[WIP] - [Campaign Name]` - work in progress track, not live
+1. `[LIVE] - [Campaign Name]` - live track, traffic is flowing to track
+1. `[ARCHIVED] - [Campaign Name]` - arhived track, not in active use, traffic may or may not be flowing to track
+
 ## Content Tracks
 
 Before creating a new content track, decide what type of content track (target vs. recommend) you want to create. Use the criteria below to decide the best option:
