@@ -868,7 +868,7 @@ Note: This policy is supplemental to the other booking requirements listed on th
 
 **How does GitLab know that a customer requires POs?**
 
-If a PO is not provided during the booking process, customers who require POs will typically notify the Billing team of their requirement once an invoice has been issued. In many of these cases, the invoice is rejected. The Billing team then updates Zuora to denote the customer's PO requirement.
+If a PO is not provided during the booking process, customers who require POs will typically notify the Billing team of their requirement once an invoice has been issued. In many of these cases, the invoice is rejected and Billing works with the customer to obtain their PO and manually reissue the invoice with the PO number included. The Billing team then updates Zuora to denote the customer's PO requirement.
 
 **Why does the customer PO requirement matter?**
 
@@ -884,7 +884,19 @@ If the customer does not require a PO for *any transaction*, attach the customer
 
 If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
 
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met and the customer's license grace period is about to end?"
+
+If the customer's license has expired, and the customer's grace period is nearing its end, please open an [Issue to request a grace period extension](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans) for the related license. A grace period extension will prevent the customer from losing functionality while the opportunity is pending approval due to a delayed PO.
+
 **End of Quarter Exceptions**
+
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, exceptions will be considered at quarter end if the following requirements are met:
+
+1. The opportunity is submitted for approval no more than 5 days before the last day of the quarter, and all other booking requirements have been met.
+2. The customer provides written confirmation that the PO will be issued to GitLab within 10 days. This written confirmation is attached to the opportunity.
+3. Approval is obtained in chatter from both the Deal Desk Manager and Senior Billing Manager.
+
+Note: If an exception is granted and the PO is not received within 10 days, on the 11th day the opportunity will be decommissioned, reversing all credit given for the booking. 
 
 
 ### Finally, submit the opportunity for approval (booking)
