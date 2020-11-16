@@ -88,7 +88,7 @@ The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-
 
 ## Involuntary Offboarding
 
-Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
+Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
 
 If the need for Involuntary offboarding arises, the process is as indicate below:
 
@@ -104,7 +104,7 @@ _Note: The offboarding process will remain the same as listed below in the `Invo
 
 ### Involuntary Process
 
-The manager and the team member should have walked through the guidelines on [underperformance](/handbook/underperformance) before reaching this point.
+The manager and the team member should have walked through the guidelines on [underperformance](/handbook/leadership/underperformance) before reaching this point.
 
 1. ***Manager***: Reach out to the appropriate People Business Partner (PBP) for assistance.
     * PBP will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
