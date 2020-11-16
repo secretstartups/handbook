@@ -41,20 +41,6 @@ _We are currently unable to hire any more employees or contractors in Spain. Ple
 
  GitLab currently has no plans to offer Life Insurance, Private Medical cover, or a private pension due to the government cover in Spain. If GitLab did want to look into offering such benefits through Safeguard, the employees would need to subscribe themselves to the insurance companies and they would be paid for it in the form of allowance on a monthly basis covering the price that the insurance company requests; this would then be billed to Gitlab.
 
-## Hungary
-
-- Healthcare insurance according to Hungarian laws
-- Pension according to Hungarian laws
-
-> You may receive your payslip from this email address: abacus@whc.hu on your personal email ( the one used for correspondence with Safeguard). The payslip is going to contain an encrypted PDF.
-
-### Parental Leave in Hungary
-
-Pregnant team members are entitled to 24 weeks of maternity leave. The leave must start 4 weeks prior to the scheduled delivery date. The team member is entitled to 70% of the average salary, paid by the government. During the first 6 months of nursing, the team member is entitled to two hours of work time allowance daily and one hour after that until the child reaches 9 months.
-
-The father is entitled to 5 days off for paternity leave which the employer must allocate within two months following the date of birth. The father is also entitled to take unpaid leave until the child reaches 3 years of age.
-
-If eligible, team members can use [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Any supplementary payment that comes from GitLab during the parental leave will be processed as a "bonus" per the legal requirements in Hungary (the tax rate will be the same as salary).
 
 ## Other countries
 
