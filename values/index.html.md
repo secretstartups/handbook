@@ -1146,7 +1146,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
 1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
 1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
-1. Criteria we use to [manage underperformance](/handbook/underperformance/).
+1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/company/culture/contribute/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
