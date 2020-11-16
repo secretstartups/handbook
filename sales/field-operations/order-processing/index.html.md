@@ -696,8 +696,6 @@ A Direct Deal is a deal between GitLab and the Customer. There are no Distributo
 
 For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk. 
 
-** Some customers will require a Signed Order Form as well as a PO for Invoicing purposes. Please reach out to Billing Ops to determine if the Account requires a PO to book the order. 
-
 <details>
 <summary markdown="span"><b>GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM</b></summary>
 
@@ -859,7 +857,16 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 #### Purchase Order Policy
 
-Certain customers require that any invoices submitted to them include a PO number. For these customers, opportunities will not be closed 
+Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
+
+Note: This policy is supplemental to the other booking requirements listed on this page. This policy does not replace any other booking requirements.
+
+**How determine whether a customer requires POs?**
+
+1. Review the Salesforce Billing Account. First, navigate to the Salesforce Account for the customer. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO.
+2. *PLACEHOLDER FOR ADDITIONAL SALESFORCE FIELD ON OPPORTUNITY OR QUOTE OBJECT - CURRENTLY BEING IMPLEMENTED*
+
+
 
 ### Finally, submit the opportunity for approval (booking)
 
