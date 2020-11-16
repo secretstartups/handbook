@@ -39,12 +39,12 @@ Commit early and often. Avoid working on multiple large files and then committin
 Run `git pull` [enter] on occasion to make sure you have the most recent changes / updates locally.
 
 ### Static Site Editor Developer Tips
-There is a handy resource the Static Site Editor group has put together for [Git Tips here](/handbook/engineering/development/dev/create-static-site-editor/developer-cheatsheet/#git-tips).
+There is a handy resource the Static Site Editor group has put together for [Git Tips here](/handbook/engineering/development/dev/create-editor/developer-cheatsheet/#git-tips).
 
 ## Getting Recent Changes From Main
 
 ### How and When to Use Merge Workflow
-Use a merge workflow for feature branches where MULTIPLE PEOPLE ARE WORKING ON THEM. Use the the built-in [squash and merge](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html) functionality when merging an MR to ensure only clean, atomic, squashed commits make it to master. 
+Use a merge workflow for feature branches where MULTIPLE PEOPLE ARE WORKING ON THEM. Use the the built-in [squash and merge](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html) functionality when merging an MR to ensure only clean, atomic, squashed commits make it to master.
 
 ```
 git checkout 0000-branch-name
@@ -54,9 +54,9 @@ git push origin  0000-branch-name
 ```
 ### What is Rebasing and Why Should I Care?
 
-If you are working on a merge request for some time and have committed a lot of changes, you may need to rebase (i.e. update) your MR to reflect any changes that other people may have made to the main branch of the website. This helps to prevent [merge conflicts](#how-to-resolve-merge-conflicts) (where someone else's change conflicts with your change, and Git doesn't know which change to accept) or pipeline failures because of technical changes that aren't reflected in your outdated MR. 
+If you are working on a merge request for some time and have committed a lot of changes, you may need to rebase (i.e. update) your MR to reflect any changes that other people may have made to the main branch of the website. This helps to prevent [merge conflicts](#how-to-resolve-merge-conflicts) (where someone else's change conflicts with your change, and Git doesn't know which change to accept) or pipeline failures because of technical changes that aren't reflected in your outdated MR.
 
-To rebase, run these commands in the terminal: 
+To rebase, run these commands in the terminal:
 
 ```
 git checkout 0000-branch-name
