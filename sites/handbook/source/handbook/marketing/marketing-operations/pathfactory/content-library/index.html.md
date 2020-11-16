@@ -103,7 +103,7 @@ To use a thumbnail image, visit the [web design repository](https://gitlab.com/g
 
 #### Adding a thumbnail for newly uploaded content
 
-1. [Follow the regular process](/handbook/marketing/marketing-operations/pathfactory/#how-to-upload-content) for uploading new content to the library.
+1. [Follow the regular process](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) for uploading new content to the library.
 1. Directly under `Public Configurations`, you'll find the thumbnail for the asset. Hover over the image and click the edit icon.
 1. Under the thumbnail images tab, click to upload the thumbnail image you just downloaded. All images are already properly sized for PathFactory.
 
