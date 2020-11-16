@@ -166,7 +166,7 @@ In order to categorize various related issues, we will make use of epics to help
 
 ### Labeling
 
-We use Labels for several purposes. One is to categorize the tool or area that is affected. Another is to show priority. And lastly, we may use them to identify the stage they are in, either before or after being put into a milestone/iteration. We generally use the stage labels for our kanban Columns.
+We use labels for several purposes. One is to categorize the tool or area that is affected. Another is to show priority. And lastly, we may use them to identify the stage they are in, either before or after being put into a milestone/iteration. We generally use the stage labels for our kanban Columns.
 
 **Categories:**
 
