@@ -407,7 +407,7 @@ These are a few practices you can implement within your team to help all team me
 
 ### Motivating Others to Elicit Peak Performance
 
-Another strategy to reach high performance is by applying [Maslow's hierarchy of needs as a motivational theory](https://www.simplypsychology.org/maslow.html#:~:text=Maslow's%20hierarchy%20of%20needs%20is,hierarchical%20levels%20within%20a%20pyramid.&text=From%20the%20bottom%20of%20the,esteem%2C%20and%20self%2Dactualization.) to elicit peak performance from team members. One of the most important tasks of a manager is to elicit peak performance. No matter how well a team is put together, the team will perform only as well as the team members on it. Managers can improve performance through training and/or motivation. 
+Another strategy to reach high performance is by applying [Maslow's hierarchy of needs as a motivational theory](https://www.simplypsychology.org/maslow.html) to elicit peak performance from team members. One of the most important tasks of a manager is to elicit peak performance. No matter how well a team is put together, the team will perform only as well as the team members on it. Managers can improve performance through training and/or motivation. 
 
 Maslow's theory of motivation: needs cause people to have drivers that result in motivation. To maintain a high degree of motivation, we must ensure our team members needs are met: 
 
