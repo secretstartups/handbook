@@ -5,10 +5,7 @@ title: Contribute to GitLab Groundworks
 
 # Contribute to GitLab Groundworks
 
-## Best Practices
-
-
-### Handbook First Learning Content
+## Handbook First Learning Content
 
 Content in the LXP is created using a handbook first approach to learning. This means that all learning content that users can access in the LXP can be found in the handbook. A [handbook first approach to learning](/handbook/people-group/learning-and-development/interactive-learning) in the LXP ensures:
 
@@ -19,10 +16,9 @@ Content in the LXP is created using a handbook first approach to learning. This 
 The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/#how-to-contribute) outlines examples of how users can create handbook first learning content.
 
 
-## Learning Content in the LXP
+## Learning content in the LXP
 
 EdCast organizes content in the LXP in three major types of content buckets. When contributing to the LXP, it's important to consider which of these three types might be best to organize content and guide learners to their learning objectives.
-
 
 ### SmartCards
 
@@ -81,6 +77,7 @@ Groups are a collection of people with a similar characteristic or learning inte
 #### Examples of Group organization
 
 - The Marketing team organizes a group of program managers to participate in a specific journey
+
 
 ## How to Contribute
 
