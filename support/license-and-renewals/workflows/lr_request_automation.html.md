@@ -22,7 +22,7 @@ As per our [efficiency](https://about.gitlab.com/handbook/values/#efficiency) va
 
 ## Scope
 
-This process covers requests related to L&R and customers console.
+This process covers requests related to L&R and the [GitLab Customers Portal](https://customers.gitlab.com/).
 
 ## Workflow
 
