@@ -15,11 +15,23 @@ The Ecosystem Backend team is a part of the [Ecosystem Group](/handbook/engineer
 
 This page covers processes and information specific to the Ecosystem Backend team.
 
+Slack Channel (internal): [#g_ecosystem-be](https://gitlab.slack.com/archives/C01E55XNCEA)
+
 ## Backend Team Members
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Ecosystem') %>
 
 ## Metrics
+
+You can find our team metrics in the [Ecosystem BE Metrics Dashboard](https://app.periscopedata.com/app/gitlab/741726/Ecosystem-BE-Metrics)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 741726, chart: 9701945, embed: 'v2') %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
 
 ## Process
 
