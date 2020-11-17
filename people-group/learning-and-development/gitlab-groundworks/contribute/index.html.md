@@ -10,6 +10,13 @@ title: Contribute to GitLab Groundworks
 
 ### Handbook First Learning Content
 
+Content in the LXP is created using a handbook first approach to learning. This means that all learning content that users can access in the LXP can be found in the handbook. A [handbook first approach to learning](/handbook/people-group/learning-and-development/interactive-learning) in the LXP ensures:
+
+- all voices and contributions are heard
+- barriers to contributions are removed or reduced
+- the organization maintains a single sorce of truth
+
+The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/#how-to-contribute) outlines examples of how users can create handbook first learning content.
 
 
 ## Learning Content in the LXP
