@@ -58,6 +58,14 @@ A Journey is a structured sequence of SmartCards and Pathways
 
 Content in the LXP is organized using the following structures. Learners use these structures to discover new content.
 
+### Carousels
+
+Carousels are horizontal containers of related channels or content assets.
+
+### Examples of Carousel organization
+
+- A carousel could be curated to display 3 different journey's related to Emotional Intelligence.
+
 ### Channels
 
 Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcast to learners throughout the LXP. Channels can be customizable based on the vision of the learners using the LXP. 
@@ -68,7 +76,11 @@ Channels are the principal way in which content (SmartCards, Pathways, and Journ
 
 ### Group
 
+Groups are a collection of people with a similar characteristic or learning interest.
+
 #### Examples of Group organization
+
+- The Marketing team organizes a group of program managers to participate in a specific journey.
 
 ## How to Contribute
 
