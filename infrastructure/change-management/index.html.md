@@ -294,23 +294,23 @@ Steps:
 
 # Production Change Lock (PCL)
 
-While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab LiveStream, GitLab Summit and days where LOA (leave of absence), due to holidays, is high in engineering teams. We categorize these special periods of times into two buckets:
+While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab Summit, major global holidays, and other times where GitLab Team Member availability is substantially reduced. 
 
-1. GitLab Events
-2. High LOA
-
-Risks of making a production deployment during the said periods includes immediate customer impact and/or less engineering team coverage in case an incident occurs and has to be resolved immediately. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as the first iteration towards this future state we are starting with creating events on our **Production Calendar** so that teams are aware of the PCL periods.
+Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as a boring solution until then we are listing the events here so that teams are aware of the PCL periods.
 
 The following dates are currently scheduled PCLs. Times for the dates below begins at 09:00 UTC and ends at 09:00 UTC.
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 24 December 2019            | Soft       | Holiday: Christmas Eve        |
-| 25-26 December 2019         | Hard       | Holiday: Christmas            |
-| 27-31 December 2019         | Soft       | High Number of SRE Vacations  |
-| 01 January 2020             | Hard       | Holiday: New Year's Day       |
-| 21-28 March 2020            | Hard       | GitLab Contribute             |
-| 22nd of every month         | Soft       | Release day                   |
+| 25-27 November 2020         | Soft       | Low company wide availability |
+| 18 December 2020             | Soft       | Friends & Family Day       |
+| 24 December 2020            | Soft       | Holiday: Christmas Eve        |
+| 25-26 December 2020         | Hard       | Holiday: Christmas            |
+| 28-31 December 2020         | Soft       | Low availability in Engineering |
+| 01 January 2021             | Hard       | Holiday: New Year's Day       |
+| 15 January 2021              | Soft       | Friends & Family Day       |
+| Recurring: 22nd of every month         | Soft       | Release day                   |
+| Recurring: [Scheduled Friends & Family Days](https://about.gitlab.com/handbook/ceo/family-friends-day/#upcoming-family-and-friends-days)         | Soft       | Friends & Family Days                   |
 
 There are 2 types of PCLs: soft and hard.
 
@@ -359,19 +359,16 @@ Additionally, during an incident investigation, knowing which high-risk features
 
 - **What is the exact scope of the changes that are enforced under PCL? (infrastructure, software, handbook...etc)**
 
-    Any production change that has a potential of making gitlab.com unavailable. For example, configuration changes, setup of new libraries, introducing new code.
+    Any production change to and/or supporting gitlab.com SaaS Product. For example, configuration changes, setup of new libraries, introducing new code.
 
 - **What if I still want to make a change during the PCL period?**
 
-    VPE will need to approve your change production rollout during PCL period in non-urgent situations.
+    Product Group Development code changes will require Development VP approval
+    All other changes, including all underlying cloud and infrastructure changes will require Infrastructure VP approval.
 
 - **Does this apply to our monthly release which happens on the 22nd?**
 
     No. If 22nd falls under PCL period, additional coordination is necessary to ensure uninterrupted monthly release.
-
-- **Why did you select these dates only?**
-
-    The above listed periods are immediate times we know we will have less engineering teams' coverages (because of holidays, vacations and events). This was a data-driven decision based on our engineering population density around the globe. We hope to have made a progress towards the automated, future state of PCL beyond May, 2019 and if we achieve our goal we would be managing these via systems rather than manual communications and calendar events.
 
 - **We have a question that is not answered here?**
 
