@@ -327,6 +327,16 @@ _For more details on Partner Engagement definitions go [here.](https://about.git
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify the partner by phone or email. GitLab will reconsider other qualified deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab sales rep will typically initiate engagement with a reseller of the GitLab sales rep’s choosing.
 
 
+### Quoting Requirements for Channel Deals
+
+Any time a deal is being transacted via the Channel, a GitLab quote is **<span style="text-decoration:underline;">required</span>** to be created in SFDC if any pricing is being offered other than MSRP (List Price). 
+
+At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner. If a Partner has an approved Deal Registration, then an approved quote needs to be created and provided to that Partner. 
+
+Discounted quotes that are not in the system and sent to a Partner are not permitted at this time. This includes providing product and pricing quotes details in email. This applies to all GEO’s and Segments. 
+
+Any questions or issues, please reach out to either Channel-Ops or Deal Desk. 
+
 
 
 
