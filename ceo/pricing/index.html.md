@@ -117,7 +117,7 @@ Below we list product categories and the current and proposed features which res
 ### Usage can be more important than buyer-based tiering
 
 While our [tiers](#four-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
-1. Our [stewardship promise](/company/stewardship/#promises) states all stages, and in some cases individual categories within those stages need to have some open-source features. Occasionally those stages or categories don't lend themselves to individual purchasers. However, we still strive to have some capabilities in open-source.
+As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers
 1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those those users are essential to creating contributors, an improved product and future tiered features.
 
 When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. 
