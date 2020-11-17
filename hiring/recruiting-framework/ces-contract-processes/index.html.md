@@ -414,7 +414,7 @@ To create the contract:
     -Click “Generate”
     -Select “PEO New Hire Template” from the dropdown
     -Click “Generate”
-1. The Candidate Experience Specialist will choose template _Offer through DocuSign -Remote.com_ and will copy globalops@remote.com and mafalda@remote.com on the email.
+1. The Candidate Experience Specialist will choose template _Offer through DocuSign -Remote.com_ and will copy gitlab@remote.com on the email.
 1. In DocuSign, the CES will update the signing order to CES/Signatory as number 1 and all other copied individuals as number 2.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
 1. Remote will prepare the New Employee Contract and will inform the Candidate Experience Specialist when the contract is sgined. 
