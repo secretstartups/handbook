@@ -108,7 +108,9 @@ any PoC MRs produced.
 
 <%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825, 7693879] }) %>
 
-#### Working with Frontend
+### Working with Frontend
+
+#### Workflow Labels
 
 Most issues, especially features, involve working with other disciplines. A 
 single issue will often be shared between frontend and backend and it
@@ -124,6 +126,28 @@ backend component:
 We value [velocity over predictability](/handbook/engineering/#velocity-over-predictability)
 so use your own judgement on whether you should wait for a frontend engineer to
 get involved before proceeding with development.
+
+#### Documentation
+
+Documentation should accompany code for any [new or changed functionality] as per our 
+[definition of done]. This can become tricky when collaborating on a feature that is 
+behind a feature flag.
+
+Since all feature flags start as disabled by default, we should aim to document the
+feature as soon as it's safe for testing by users using the [feature flag template].
+Don't wait until a feature is performant and stable to document it, instead do so once
+it's secure and won't leave data in a corrupt, interim state. 
+
+Try to include docs with the first MR to introduce usable functionality. If this is 
+an API addition with no UI, document that and allow the FE engineers to update it as 
+work proceeds. As the feature flag rollout proceeds, the [documentation should be updated].
+
+This avoids the rush to provide documentation that often accompanies the release cutoff.
+
+[new or changed functionality]: https://about.gitlab.com/handbook/engineering/ux/technical-writing/workflow/#for-a-product-change
+[definition of done]: https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done
+[feature flag template]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-disabled-by-default
+[documentation should be updated]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-that-became-enabled-by-default
 
 ### Picking something to work on
 
