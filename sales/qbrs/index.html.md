@@ -76,6 +76,7 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. VP of Revenue Marketing
 1. VP of Product Management
 1. VP of Field Ops direct reports
+1. Field Marketing leadership
 1. All SDR Managers
 1. People Business Partners
 1. Manager, Product Marketing
