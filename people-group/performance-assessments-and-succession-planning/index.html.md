@@ -231,7 +231,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 
 *December*
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
-* 2020-12-04: Performance rating finalized for all team members and approved through the e-group level
+* 2020-12-04: Performance assessment finalized for all team members and approved through the e-group level
 * 2020-12-14: Communication training and guidance shared with managers
 * 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
@@ -284,7 +284,7 @@ _To help facilitate the conversations we have put together a [Performance Review
 1. **Avoid making future promises** like, “In the next review, I will rate you X performance factor.”
 
 ### Sample Script for Delivering a Performance Review
-"Thank you for the time today to discuss your performance. I want to take the time to discuss things that you have achieved and things that can be improved. Also I want to discuss your further development and the rating we have landed on with regards to your performance."  
+"Thank you for taking some time today to discuss your performance. I wanted to discuss your achievements and strengths, improvement areas, future development, and the final result of the performance assessment." 
 
 "I assessed your performance factor as ****[Insert Performance factor]***:"
 * ***Exceeding (consistently surpassing the demands of their current position)***
@@ -296,11 +296,13 @@ _To help facilitate the conversations we have put together a [Performance Review
     * Your strengths in your job responsibilities are [Insert strengths with supporting examples]
     * Your opportunities in your job responsibilities are [Insert opportunities with supporting examples]
 
-* I rated your performance against values and remote working (add management/leadership competencies if applicable) competencies as ***[Insert Performance Factor]***.
+* I assessed your performance against values and remote working (add management/leadership competencies if applicable) competencies as ***[Insert Performance Factor]***.
     * Your strengths in aligned competencies are [Insert strengths with supporting examples]
     * Your opportunities in aligned competencies are [Insert opportunities with supporting examples]
 
-So therefore your overall performance is ***[Insert Performance Factor]***.  Thank you for your hard work and I look forward to continuing to work with you! What questions do you have?  ***[Allow team member to ask questions and respond]*** Let’s schedule a time to talk more about what you want to do in the future and create a career development plan together. 
+Your overall performance is ***[Insert Performance Factor]***. 
+I'd like to thank you for your hard work, and I look forward to continuing to work together! Do you you have any questions? ***[Allow team member to ask questions and respond]*** 
+As a next step, let's schedule some time to talk more about what you want to do in the future and create a career development plan together. 
 
 ### Performance / Potential Communication FAQs:
 * **Q:** “Can my performance factor be changed?”
