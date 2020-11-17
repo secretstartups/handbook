@@ -235,13 +235,24 @@ _"Thank you First Last for helping to troubleshoot sessions on XYZ tickets so we
 | If I hear or see any team member within or outside of my immediate team, **excelling with respect to CREDIT** | Thank You Channel or another Slack Channel (Send followup email, cc'ing their manager. Emails are more permanent than Slack.  Also, managers can use this feedback when evaluating their team members towards the end of the year), Comment in a related issue (cc'ing their manager), Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Sync Team Meeting,  Skip Level Meetings |
 | If a team member has **gone through a significant challenge** but remained transparent in explaining those challenges | Slack Private DM | Sync 1-1 |
 |If a team member(s) completes a **high impact Epic / Issue either quickly** or that they **worked on over multiple releases**. | Team Slack Channel, Feature Slack Channel, Comment in the related Epic / Issue, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Sync 1-1, Sync Weekly Team Meetings,  Skip Level Meetings |
-| If a team member has **recently undergone a reorganization**.  Truth be told, these reorganizations create stronger, **super employees** :wink: with a breadth of knowledge across the codebase and does have some positive impact.  This deserves a thank you for being agile and flexible for GitLab and for all of their contributions and accomplishments from their original team  | Slack Private DMs, Team Slack Channels, Feature Slack Channels| Weekly Team Meetings, Skip Level Meetings |  
+| If a team member has **recently undergone a reorganization**.  Truth be told, these reorganizations create stronger, **super team members** :wink: with a breadth of knowledge across the codebase and does have some positive impact.  This deserves a thank you for being agile and flexible for GitLab and for all of their contributions and accomplishments from their original team  | Slack Private DMs, Team Slack Channels, Feature Slack Channels| Weekly Team Meetings, Skip Level Meetings |  
 | Any **impactful Security / Quality achievement** | Team Slack Channels, Feature Slack Channels, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Weekly Team Meetings, Skip Level Meetings |
 | **Engagement with a Community Contributor** on a very large MR | Team Slack Channels, Add highlights section to weekly team meetings, Add high-fives section to retrospectives | Weekly Team Meetings, Skip Level Meetings |
 
 ### Giving Recognition In Skip Level Meetings  
 
 At least quarterly, team members attend [Skip Level](/handbook/leadership/skip-levels/) Meetings. It is recommended that some preparation be done prior to this meeting to learn about the communication style and personality of the team members attending. Skip Level Meetings provide a great opportunity to congratulate team members on their accomplishments and to personally thank them for their work. 
+
+### Where to Give Recognition
+
+Recognition can be given in a variety of forums: 
+
+- Post a message in the #thanks channel for team member recognition
+- Share an update of the team member(s) recognition during the next team meeting
+- Highlight the recognition of the team members during a group conversation with the broader organization 
+- Showcase the recognition during an e-group meeting to executives
+- Consider a [discretionary bonus per team member] (/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
+- Managers can also recognize team members during 1-1 meetings
 
 ### Beware Of Saying "Thank You" Too Much
 Take a moment to identify situations in which you or your team are saying "Thank You" to the same person or team **too often**. Recognition is essential, but if it becomes very frequent, it can start to be perceived as less sincere. 
