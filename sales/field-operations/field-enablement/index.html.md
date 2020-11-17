@@ -33,6 +33,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
      - [Sales Training Resources](/handbook/sales/training/)
      - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+-  [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
 -  [Field Certification Program](/handbook/sales/training/field-certification)
      - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
      - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
