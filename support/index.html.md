@@ -189,7 +189,7 @@ GitLab.com.
 | [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
 | [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with primary SaaS focus and GitLab.com admin access |
 | [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
 | [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with CustomersDot console access |
 | [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
