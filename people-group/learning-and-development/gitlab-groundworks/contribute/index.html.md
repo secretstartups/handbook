@@ -32,26 +32,26 @@ SmartCards are the basic unit of information in the LXP. They are used to direct
 
 - Links to GitLab handbook pages, documentation pages, and YouTube videos
 - Links to external articles and resources that can supplement handbook resources
-- Advertising/sharing a live Learner Speaker Series being hosted for GitLab team members, or a public AMA with our Product team. These can also be used for members to sign up to attend live learning sessions.
+- Advertising/sharing a live Learner Speaker Series being hosted for GitLab team members, or a public AMA with our Product team. These can also be used for members to sign up to attend live learning sessions
 - Polling a group of users to get their feedback on an interactive course on Emotional Intelligence
 - Assessing learnings with a short quiz/knowledge check after reading a set of handbook pages
 - Space for learners to upload and share submissions to projects, like a slide deck or animated video they've created
 
 ### Pathway
 
-A Pathway is a collection of SmartCards
+A Pathway is a collection of SmartCards organized as a learning path.
 
 #### Examples of Pathway content
 
-- A set of 6 handbook pages (SmartCards) readers should review in sequence to gain a stronger understanding of one topic.
+- A set of 6 handbook pages (SmartCards) readers should review in sequence to gain a stronger understanding of one topic
 
 ### Journey
 
-A Journey is a structured sequence of SmartCards and Pathways
+A Journey is a structured sequence of SmartCards and Pathways.
 
 #### Examples of Journey content
 
-- A set of multiple pathways a user must work through in order to earn a certification, for example GitLab 101 or GitLab 201.
+- A set of multiple pathways a user must work through in order to earn a certification, for example GitLab 101 or GitLab 201
 
 
 ## Organizing content in the LXP
@@ -64,7 +64,7 @@ Carousels are horizontal containers of related channels or content assets.
 
 ### Examples of Carousel organization
 
-- A carousel could be curated to display 3 different journey's related to Emotional Intelligence.
+- A carousel could be curated to display 3 different journey's related to Emotional Intelligence
 
 ### Channels
 
@@ -80,7 +80,7 @@ Groups are a collection of people with a similar characteristic or learning inte
 
 #### Examples of Group organization
 
-- The Marketing team organizes a group of program managers to participate in a specific journey.
+- The Marketing team organizes a group of program managers to participate in a specific journey
 
 ## How to Contribute
 
