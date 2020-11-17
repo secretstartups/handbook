@@ -265,22 +265,23 @@ We hope to increase the scope of our communication company-wide as we iterate on
 
 ## Best Practices for Communicating Performance Factors
 
-After calibration sessions with your group and assessing performance of your team members it’s time to communicate the final ratings when you have been notified that they have been approved by the E-Group. **Please refrain from communicating Performance axis final placement until approved through the e-group level.** Having an extensive conversation on performance with your team members is a great way to set them up for success going forward. Also we want to take the opportunity to give them a perspective of their career development. Below we will take you through some of the best practices, however, if ever in doubt please reach out to your manager or [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
+After calibration sessions are done and performance assessments are determined, it’s time to communicate the final resulst with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance axis final placement until approved through the e-group level is communicated.** Having an extensive conversation on performance with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
 
-* **Communicate performance factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance factor) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling over this conversation.
+1. **Communicate performance factors face-to-face over Zoom**. As a manager, this is the opportunity for you to have a conversation with your team member about their performance. Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing their performance factor) and allows you to pick up other information, like tone and non-verbal cues which can tell you more about how someone is feeling during this conversation.
 
-* **Prepare for the call ahead of time.** As a manager, you should have prepared in advance of calibration discussions with your team. Before communicating a team member’s performance factor, it’s beneficial to look back through your preparation document, notes and anything relevant that was discussed as part of the calibration exercise.  Be prepared with notes on the following: 
+1. **Prepare for the call ahead of time.** As a manager, you should have prepared in advance of calibration discussions with your team members. Before communicating a team member’s [performance factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor), it’s beneficial to look back through your preparation document, notes, and anything relevant that was discussed as part of the calibration exercise. Be prepared with notes on the following: 
     * Areas the team member is doing well
     * Areas that need improvement
-    * Provide specific examples - the SBI (Situation - Behavior - Impact) model can be a good model to leverage for delivering examples which allow for the team member to understand the impact of their behavior. 
+    * Provide specific examples for both strengths and improvement areas. The [SBI](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation - Behavior - Impact) model can be effective for delivering examples structured in a way that makes impact clear to team members. 
     * Think about recommendations and/or focus areas for a team member’s development
-    * To help facilitate the conversations we have put together a [Performance Review Template])(https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended but optional.
 
-* **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/)** to discuss a team member’s performance factor and communicate the performance factor at the beginning of the meeting. You want to give the team member time to ask questions, discuss their rating and most importantly, determine next steps.
+_To help facilitate the conversations we have put together a [Performance Review Template])(https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
 
-* **Protect the confidentiality of other team members** by avoiding saying things like “you were the only team member to be rated this performance factor.”
+1. **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/) to discuss a team member’s performance factor**. The performance factor should be communicationed at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps.
 
-* **Avoid making future promises** like  “In the next review, I will rate you X performance factor.”
+1. **Protect the confidentiality of other team members** by avoiding saying things like “you were the only team member to be rated this performance factor.”
+
+1. **Avoid making future promises** like, “In the next review, I will rate you X performance factor.”
 
 ### Sample Script for Delivering a Performance Review
 "Thank you for the time today to discuss your performance. I want to take the time to discuss things that you have achieved and things that can be improved. Also I want to discuss your further development and the rating we have landed on with regards to your performance."  
