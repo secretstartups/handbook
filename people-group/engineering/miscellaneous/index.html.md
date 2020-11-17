@@ -46,10 +46,9 @@ so the team members can have access to Modern Health.
 
 ## CI Job Families
 
-Whenever a merge request is created on the [www-gitlab-com](<a href="https://gitlab.com/gitlab-com/www-gitlab-com/">https://gitlab.com/gitlab-com/www-gitlab-com/</a>) project, there are two pipelines that run related to job families:
+Whenever a merge request is created on the [www-gitlab-com](<a href="https://gitlab.com/gitlab-com/www-gitlab-com/">https://gitlab.com/gitlab-com/www-gitlab-com/</a>) project, we run the following pipeline related to job families:
 
 - inclusiveness check: this is [a script](<a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/lint/inclusiveness_check.rb">https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/lib/lint/inclusiveness_check.rb</a>) that checks that the job family uses inclusive language. You can read more about it [here](/handbook/hiring/job-families/index.html#inclusive-language-check).
-- requirements check: this is [a script](<a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/job-families/check_job_families.py">https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/job-families/check_job_families.py</a>) that checks if certain elements are present on the job family. For example `Ability to use GitLab` is a hard requirement that needs to be present on every job family. The pipeline will fail if it is not present.
 
 ## Team members to LawLogix (I9)
 
