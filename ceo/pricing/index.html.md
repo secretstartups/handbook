@@ -73,7 +73,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | ---------- | ---- | ------ | ------ | ---- |
 | Per user per month | $0 | $4 | $19 | $99 |
 | [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
-| Main competitor | None | Atlassian BitBucket | GitHub | Collabnet |
+| Main competitor | GitHub Free | Atlassian BitBucket | GitHub Enterprise | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
