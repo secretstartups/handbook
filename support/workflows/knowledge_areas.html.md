@@ -105,6 +105,7 @@ This section is ordered by stage and group according to the [product categories 
 |  | APAC | Alex Tanayno<br>Athar<br>Matthew<br>Priyan |
 | SAML | AMER | Blair<br>Diana<br>JasonC |
 |  | APAC | Anton<br>Arihant |
+|  | EMEA | Aakif |
 | SSO for Groups | AMER | Cynthia<br>Tristan<br>Arihant |
 |  | APAC | Arihant |
 
