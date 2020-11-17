@@ -337,7 +337,7 @@ Finally, Engineering Managers will apply `Deliverable` label to issues with a mi
 | Role                                                       | Function                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
 | DRI                                                        | - Assigned engineer                                             |
-| Collaborators                                              | - Product Manager <br> - SET <br> - Technical Writer <br> - Product Designer|
+| Collaborators                                              | - Product Manager <br> - Software Engineer in Test <br> - Technical Writer <br> - Product Designer|
 | Informed                                                   | - Product Marketing <br> - Engineering Manager <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
 
 #### Description
