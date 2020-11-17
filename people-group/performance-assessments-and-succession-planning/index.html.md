@@ -285,6 +285,14 @@ Below are a few recommendations for managers when communicating themes from the 
 * Provide recommendations for future development
 * Prepare the communication in advance
 
+##### Applying the Three L's to Performance Feedback
+
+One strategy to assist with delivering performance related feedback is by applying the Three L's:
+
+1. Level: Be totally frank - credibility and integrity of the entire process depends on it. Be straightforward in praise and constructive feedback. 
+2. Listen: Employ your entire set of sensory capabilities to make certain performance feedback points are being properly interpreted by the team member. 
+3. Leave yourself out: Performance review is about and for the team member. Make the discussion all about them. 
+
 ### Do Not Communicate
 Managers are *discouraged from communicating* the following:
 
