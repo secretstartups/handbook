@@ -12,7 +12,7 @@ category: CustomersDot
 
 ## Overview
 
-Any request which require which require repetitive manual work must be simplified or automated.
+Any request that requires repetitive manual work should be simplified or automated.
 This workflow covers the steps to request an automation for any L&R related tasks.
 
 ## Why ?
