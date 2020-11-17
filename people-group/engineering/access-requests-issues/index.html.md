@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Access Request Issues
-description:"Information about GitLab's Access Request (AR) issue automation process."
+description: "Information about GitLab's Access Request (AR) issue automation process."
 ---
 
 ## On this page
