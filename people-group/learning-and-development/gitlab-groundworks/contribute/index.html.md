@@ -81,6 +81,8 @@ Groups are a collection of people with a similar characteristic or learning inte
 
 ## How to Contribute
 
+The GitLab team uses GitLab to organize and collaborate on the contribution of content to the LXP. All related issues can be found in the [LXP Contribution GitLab project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions), managed by the L&D team.
+
 ### Step 1: Create and Curate Learning Content
 
 1. Make a contribution to the handbook. All learning content in the LXP is built with a handbook first approach. This means that information you'd like to add to the LXP must be stored first in the handbook. If you have not made a contribution to the GitLab handbook before, please review [how to contribute to GitLab](https://about.gitlab.com/community/contribute/). 
@@ -97,7 +99,16 @@ The table below should be used as a reference for suggested handbook sections wh
 
 ### Step 2: Propose Content to be included in the LXP
 
-1. Using the descriptions above, decide which content type might be the best fit for the information you'd like to contribute. Navigate to the corresponding creator kit issue template and begin to populate the issue with required content.
+1. Using the descriptions above, decide which content type might be the best fit for the information you'd like to contribute. Navigate to the corresponding creator kit issue templates below and begin to populate the issue with required content.
+
+Issue Templates:
+
+- SmartCard Creator Kit
+- Pathway Creator Kit
+- Journey Creator Kit
+- Carousel Creator Kit
+- Channel Creator Kit
+- Group Creator Kit
 
 **Note:** In order for content contributions to be reviewed by the appropriate GitLab team, all information on the issue template must be addressed. GitLab team members may ping you to address content gaps or answer questions about your contributions. 
 
