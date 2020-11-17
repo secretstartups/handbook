@@ -131,7 +131,7 @@ We recorded a training on this subject:
 * Make sure you (Manager) are also prepared for the discussion, write down some notes and key points you want to make. What are the major themes coming out of the feedback?
 * Make time to talk about the future - [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) by working through the [Compa Ratios](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio) to progress against those factors.
 * Make sure to discuss and document on the team page any [expertises](/company/team/structure/#expert) the team member has obtained.
-* If there are areas that need improvement, consider if the use of a [PIP](/handbook/underperformance/) would be helpful.
+* If there are areas that need improvement, consider if the use of a [PIP](/handbook/leadership/underperformance/) would be helpful.
 * This should be a conversation, try to avoid doing all the talking and get feedback from the team member. As a manager, you can help your team member process and understand the feedback, helping to avoid over/under reactions or defensiveness.  Ask questions such as:
    1. Is there feedback that you received that is surprising or upsetting to you?
    1. After reading your feedback, what are the areas you would like to focus on and how can I help?
