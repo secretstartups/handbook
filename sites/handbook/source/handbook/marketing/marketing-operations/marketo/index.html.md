@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketo"
-description: "Marketo is utilized as our marketing automation platform for email marketing, lead management, and revenue attribution."
+description: "Marketo is our marketing automation platform used for email marketing, lead management, and program management."
 ---
 
 ## On this page
@@ -101,7 +101,7 @@ Some leads are exluded from scoring if they:
 
 #### Behavior Scoring
 
-Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the programs page and progression statuses to see what constitues a `success`.
+Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the [programs page and progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs) to see what constitues a `success`.
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
