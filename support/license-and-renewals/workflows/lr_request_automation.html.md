@@ -26,7 +26,7 @@ This process covers requests related to L&R and customers console.
 
 ## Workflow
 
-1. Create a feature request for this functionality, if it already exist you an skip this step.
+1. Create a feature request for this functionality, if it already exists you can skip this step.
 1. Create an issue on the [mechanizer issue](https://gitlab.com/gitlab-com/support/toolbox/mechanizer/-/issues) tracker and link the feature request.
 Include all details about the process you want automated, add sample issues and all relevant information.
 1. Your issue will be reviewed and approved to proceed.
