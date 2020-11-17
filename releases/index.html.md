@@ -230,6 +230,15 @@ The label should not be applied to merge requests:
 - Resolving a security vulnerability because process for security releases differs
 from the regular release
 
+As a merge request is included in self-managed releases, it will receive the
+`released::candidate` label when the release candidate it is included in is deployed to
+[pre.gitlab.com]. See ["What is a release candidate and when are they created?"](#what-is-a-release-candidate-and-when-are-they-created)
+for more information on release candidates.
+
+A merge request will receive the `released::published` label when included in a
+packaged release, such as `13.6.0` or `13.5.2`, and deployed to
+[release.gitlab.net] for both automated and manual testing.
+
 ## Frequently Asked Questions
 
 ### Who are the release managers for release X?
@@ -265,6 +274,9 @@ best option is to join one of the following Slack channels:
 
 * [#releases]
 * [#f_upcoming_release]
+
+Release candidates are deployed to [pre.gitlab.com] for both automated and
+manual testing.
 
 ### Will release managers create a release candidate earlier if I ask them to?
 
@@ -408,3 +420,5 @@ If you need any additional help please ask the Release Managers in the [#release
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
 [Hot patch]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md
 [Deployment blockers]: /handbook/engineering/releases/#deployment-blockers
+[pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
+[release.gitlab.net]: /handbook/engineering/infrastructure/environments/#release
