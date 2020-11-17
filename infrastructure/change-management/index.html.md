@@ -293,23 +293,23 @@ Steps:
 
 # Production Change Lock (PCL)
 
-While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab Summit, major global holidays, and times of critical importance to a significant population of our customers. 
+While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab Summit, major global holidays, and other times where GitLab Team Member availability is substantially reduced. 
 
-Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as a boring solution until then we are creating events on our **Production Calendar** so that teams are aware of the PCL periods.
+Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as a boring solution until then we are listing the events here so that teams are aware of the PCL periods.
 
 The following dates are currently scheduled PCLs. Times for the dates below begins at 09:00 UTC and ends at 09:00 UTC.
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 24-26 December 2020         | Hard       | Christmas                     |
-| 30 December 2020 - 1 January 2021 | Hard | New Years                     |
-| Past Events                 |            |                               |
-| ~~24 December 2019~~            | ~~Soft~~       | ~~Holiday: Christmas Eve~~        |
-| ~~25-26 December 2019~~         | ~~Hard~~       | ~~Holiday: Christmas~~            |
-| ~~27-31 December 2019~~         | ~~Soft~~       | ~~High Number of SRE Vacations~~  |
-| ~~01 January 2020~~             | ~~Hard~~       | ~~Holiday: New Year's Day~~       |
-| ~~21-28 March 2020~~            | ~~Hard~~       | ~~GitLab Contribute~~             |
-| ~~22nd of every month~~         | ~~Soft~~       | ~~Release day~~                   |
+| 25-27 November 2020         | Soft       | Low company wide availability |
+| 18 December 2020             | Soft       | Friends & Family Day       |
+| 24 December 2020            | Soft       | Holiday: Christmas Eve        |
+| 25-26 December 2020         | Hard       | Holiday: Christmas            |
+| 28-31 December 2020         | Soft       | Low availability in Engineering |
+| 01 January 2021             | Hard       | Holiday: New Year's Day       |
+| 15 January 2021              | Soft       | Friends & Family Day       |
+| Recurring: 22nd of every month         | Soft       | Release day                   |
+| Recurring: [Scheduled Friends & Family Days](https://about.gitlab.com/handbook/ceo/family-friends-day/#upcoming-family-and-friends-days)         | Soft       | Friends & Family Days                   |
 
 There are 2 types of PCLs: soft and hard.
 
