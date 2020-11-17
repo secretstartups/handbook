@@ -308,15 +308,15 @@ As a next step, let's schedule some time to talk more about what you want to do 
 * **Q:** “Can my performance factor be changed?”
 * **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to change performance factor ratings in future programs. We plan to evaluate performance factors every 6 months.
 * **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
-* **A:** The performance factor will be one of the factors that will be feeding into the overall Annual Compensation review. The recommended increases displayed on the Handbook page are there to ensure company wide consistency. All factors that will be taken into account with the Annual Compensation review are: 
+* **A:** The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
     * Your hire date (new hires hired after October 31st are ineligible for compensation review)
     * Other compensation increases received over the last year
-    * Your current placement in the compensation band
+    * Your current placement within the compensation band
     * Location factor benchmark updates
     * Role benchmark updates 
-    * Company budgets for compensation increases
-* **Q:** “When is my next opportunity to be reviewed?”
-* **A:** We plan to conduct a talent review process every 6 months. The next company wide review is targeted for May FY22. 
+    * Company budget for compensation increases
+* **Q:** “When is the next opportunity for my performance to be reviewed?”
+* **A:** We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY`22. 
 * **Q:**“What can I do to change my performance factor in the future?”
 * **A:** There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
 * **Q:**“What is my potential rating?”
