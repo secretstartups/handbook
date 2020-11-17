@@ -171,14 +171,14 @@ If the problem is nuanced, then it will likely take longer to validate with user
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Designer |
-| Collaborators | Product Manager <br/>Engineering team <br/>UX Researcher <br/>Quality Engineering <br/>Technical Writer|
+| Collaborators | Product Manager <br/>Engineering team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
 | Informed      | Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
 After understanding and validating the problem, we can begin or continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process.
 
-The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Quality Engineering, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
+The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -201,7 +201,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 |---------------|----------|
 | DRI           | Product Designer |
 | Collaborators | Product Manager <br/>Engineering |
-| Informed      | Technical Writing <br/>Quality <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Technical Writing <br/>Software Engineers in Test <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -290,7 +290,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Engineering Manager <br/>Product Designer <br/>SETs <br/>Engineers |
+| Collaborators | Engineering Manager <br/>Product Designer <br/>Software Engineers in Test <br/>Engineers |
 | Informed      | PMM <br/>TAM <br/>Technical Writer |
 
 #### Description
@@ -309,7 +309,7 @@ To ensure that a Software Engineer in Test (SET) will have ample time to contrib
 |-        	|-	          |-	    |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) 	| - Product Manager 	|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone - PM creates a planning issue| - Product Manager and Engineering Manager |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - SET 	|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - Software Engineer in Test |
 
 ### Build phase 2: Develop & Test
 
@@ -327,9 +327,9 @@ To ensure that a Software Engineer in Test (SET) will have ample time to contrib
 
 | Role          | Function |
 |---------------|----------|
-| DRI           | - Assigned engineer |
-| Collaborators | - Product Manager <br> - Software Engineer in Test <br> - Technical Writer <br> - Product Designer |
-| Informed      | - Product Marketing <br> - Engineering Manager <br> - Cross-stage PM <br> - Sales <br> - Customer Support |
+| DRI           | Assigned engineer |
+| Collaborators | Product Manager <br/>Software Engineer in Test <br/>Technical Writer <br/>Product Designer |
+| Informed      | Product Marketing <br/>Engineering Manager <br/>Cross-stage PM <br/>Sales <br/>Customer Support |
 
 #### Description
 
