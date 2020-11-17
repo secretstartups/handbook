@@ -121,10 +121,24 @@ GitLab contributors. The team will follow these guidelines in the spirit of [Git
 
 ### Pipeline changes
 
-The team will communicate pipeline changes to [#development](https://gitlab.slack.com/messages/C02PF508L) in Slack and the Engineering Week in Review.
+#### Critical pipeline changes
+
+Pipeline changes that have the potential to have an impact on the GitLab.com infrastructure should follow the [Change Management](/handbook/engineering/infrastructure/change-management) process.
+
+Pipeline changes that meet the following criteria must follow the [Criticality 3](/handbook/engineering/infrastructure/change-management/#criticality-3) process:
+
+- update of the `CI_PRE_CLONE_SCRIPT` CI variable
+- update to the [`cache-repo` job](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/ci/cache-repo.gitlab-ci.yml) job
+
+These kind of changes [led to production issues in the past](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3013).
+
+#### Non-critical pipeline changes
+
+The team will communicate significant pipeline changes to [`#development`](https://gitlab.slack.com/messages/C02PF508L) in Slack and the Engineering Week in Review.
 
 Pipeline changes that meet the following criteria will be communicated:
-- addition or removal of jobs
+
+- addition, removal, renaming, parallelization of jobs
 - changes to the conditions to run jobs
 - changes to pipeline DAG structure
 
