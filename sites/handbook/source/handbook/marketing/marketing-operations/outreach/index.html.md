@@ -102,6 +102,12 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
 
+#### Outreach Meetings for SDR Team
+
+SDR teams will use the functionality for scheduling to save time and effort, providing the best customer experience.
+
+If a meeting to be scheduled, the SDR will respond with [times-lots by following the instructions here.](https://support.outreach.io/hc/en-us/articles/115003359774-Insert-Availability-in-Gmail#:~:text=Open%20a%20new%20compose%20window,will%20appear%2C%20revealing%20your%20calendar.)
+
 ### Outreach Engagement Panel
 Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
 
