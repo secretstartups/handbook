@@ -53,6 +53,11 @@ A Journey is a structured sequence of SmartCards and Pathways
 
 - A set of multiple pathways a user must work through in order to earn a certification, for example GitLab 101 or GitLab 201.
 
+
+## Organizing content in the LXP
+
+Content in the LXP is organized using the following structures. Learners use these structures to discover new content.
+
 ### Channels
 
 Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcast to learners throughout the LXP. Channels can be customizable based on the vision of the learners using the LXP. 
@@ -60,6 +65,10 @@ Channels are the principal way in which content (SmartCards, Pathways, and Journ
 #### Examples of Channel organization
 
 - A series of SmartCards, Pathways, and Journeys on Agile Project Management
+
+### Group
+
+#### Examples of Group organization
 
 ## How to Contribute
 
