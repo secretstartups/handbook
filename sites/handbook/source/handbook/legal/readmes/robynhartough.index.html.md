@@ -6,7 +6,7 @@ title: "Robyn Hartough's README"
 ## About Me & My Role
 I’ve been an Executive Assistant since I was 20 years old. I was the youngest person hired in an executive support capacity at what was then one of the world’s largest investment banks (Credit Suisse First Boston). Even then, I described my role the same way I do now: To facilitate and amplify the efforts of my executive counterpart to further the business objectives of the organization at large. Of course, I’ve added a lot of things to that description since then - to do so with kindness and a smile, to be a waymaker who always finds the path to yes, to function as a strategic thought partner and project manager -  but those fundamentals of facilitation and amplification remain the same these 20 years later. In a review given by one of my favorite past CEOs, he called me a, “creative, scrappy problem solver and force multiplier!” I’d like to think that’s a fairly apt summation of what I do, if not at least of what I try to do.
 
-## How I Communicate / The Best Ways to Communicate With me
+## Communicating With Me
 Please @ mention me in the appropriate channel in Slack. If you’re unsure as to which one is best, a DM is okay or you can start with #eba-team! I do my best to respond in a timely fashion but if I’m deep in a workflow fueled by cranked up classical music then please feel free to text me at 408-439-1742. I am a big GIF fan so that’s always a great way to grab my attention.  
 
 ## Strengths 
