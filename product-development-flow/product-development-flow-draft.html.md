@@ -151,7 +151,7 @@ The growth of a world class product is built from a well maintained backlog. Pro
 
 #### Description
 
-To ensure the right solutions are delivered, the team must start their work with a validated problem. This can take many forms and be achieved through Product Manager and UX Researcher collaboration.
+To ensure the right solutions are delivered, the team must start their work with a [validated problem](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/#what-is-problem-validation). This can take [many forms](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/#different-problem-validation-research-methods) and be achieved through Product Manager and UX Researcher collaboration.
 
 If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.
 
