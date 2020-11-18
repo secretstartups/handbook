@@ -53,6 +53,9 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. WW Channels 
 1. Alliances
 
+**CS QBRs**
+1. Customer Success Leadership 
+
 **ENT Leadership QBR**
 1. Segment Sales VP
 1. Segment Sales VP direct reports (RDs, ASMs, and Inside Sales Managers)
@@ -82,6 +85,20 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. Manager, Product Marketing
 1. Sr. Program Manager, COMM Sales Enablement
 1. Sr. Program Manager, Customer Success Enablement (optional)
+
+**CS Leadership QBR**
+1. VP Customer Success
+1. VP Customer Success direct reports
+1. Chief Revenue Officer (CRO) and CRO EBA (both optional)
+1. Chief Marketing Officer (CMO) (optional)
+1. CRO direct reports
+1. VP of Demand Gen
+1. VP of Revenue Marketing
+1. VP of Product Management
+1. VP of Field Ops direct reports
+1. People Business Partners
+1. Manager, Product Marketing
+1. Sr. Program Manager, Customer Success Enablement
 
 ### QBR Participation
 QBRs include account teams, leadership, and delegates from across the business: 
