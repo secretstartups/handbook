@@ -85,7 +85,7 @@ Examples:
 - The team members exemplify great ways of giving and receiving feedback - incorporating this directly in their work. 
 - The team members are ambassadors for the values, take full ownership of delivering projects, and very rarely miss due dates. 
 
-**Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness; including business need.** 
+**Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness. Please work with your manager to align expectations.** 
 
 ### The Performance Factor
 
