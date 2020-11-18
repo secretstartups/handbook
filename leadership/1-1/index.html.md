@@ -137,13 +137,13 @@ An engineering manager decides to open up their 1-1 meetings to their team. The 
 
 ### Leadership Engagement Check-Ins 
 
-Leadership Engagement Checkin-Ins, (also known as [Stay Interviews](https://www.forbes.com/sites/billconerly/2018/07/21/retain-more-employees-with-stay-interviews/#659422a2f18c)) are conducted to help leadership improve retention in their teams. It helps them understand why team members stay and what might cause them to leave. In an effective Engagement Check-In, people managers ask standard, structured questions in a casual and conversational manner. 
+Leadership Engagement Check-Ins, (also known as [Stay Interviews](https://www.forbes.com/sites/billconerly/2018/07/21/retain-more-employees-with-stay-interviews/#659422a2f18c)) are conducted to help leadership improve retention in their teams. It helps them understand why team members stay and what might cause them to leave. In a Leadership Engagement Check-In, people managers ask standard, structured questions in a casual and conversational manner. 
 
 #### Process
 
-* **Cadence**: Schedule your Engagement Check-In at least every 6 months; 
-* **Form**: Use sync communication via Zoom; 
-* **Preparation**: Preparation should be done on both the manager and the team member’s part before the meeting. The manager should set expectations with their team members prior to the meeting to ensure that the team member feels as comfortable as possible heading into the conversation. Managers can include a copy of this Handbook page so their team member is fully aware of the specific questions that will be asked during the call. Ask them to review the questions and think about them prior to the call. If they want to type up a response, that is ok as well and create a starting place for the conversation. 
+* **Cadence**: Schedule your Engagement Check-In at least every 6 months with each of you direct reports. People leaders can repurpose a scheduled 1-1 meeting; 
+* **Format**: Use sync communication via Zoom; 
+* **Preparation**: Preparation should be done before the meeting by the manager and the team member. The manager should set expectations with their team members prior to the meeting to ensure that the team member feels as comfortable as possible heading into the conversation. Managers can include a copy of this Handbook page so their direct report is fully aware of the specific questions that will be asked during the call. Ask the team member to review the questions and think about them prior to the call. Allow them the opportunity to type responses before the meeting if they wish to do so. 
 * **Questions**: Have a look at the below questions and take notes during the meeting. 
 * **Follow up**: At the end of the conversation summarize and follow up on any actions. 
 
@@ -156,10 +156,11 @@ Start the conversation by explaining the purpose of the meeting and why it’s i
 > "Thanks for taking the time to have this check-in conversation. Team member engagement is very important to me, and this talk is a way to better understand how things are going for you and how I can help to improve your experience at GitLab. I would like to talk with you about the reasons you stay with GitLab so I understand what I can do to make this a great place to work for you."
 
 ##### Questions
-* It’s important to listen and gather feedback from the team member about how you and GitLab can retain them. 
+It’s important to listen and gather feedback from the team member about how they feel about GitLab in an objective manner: 
+
 * What do you like most about your job?
 * What do you like least about your job?
-* What makes for a great day at work for you?
+* How would you describe a great day at work?
 * What keeps you here at GitLab?
 * What would make you consider leaving GitLab?
 * If you could change one thing about your job, team or company, what would it be?
@@ -169,8 +170,7 @@ Start the conversation by explaining the purpose of the meeting and why it’s i
 
 1. **Team member has expressed the desire to stay at GitLab and is engaged**
 - I am so pleased to hear GitLab is a great place for you and really value your input going forward. 
-- In case there’s a change in your engagement I want to make sure you can always speak up also outside of these engagement check-ins. 
-
+- In case there’s a change in your feelings I want to make sure you can always speak up, even outside of these engagement check-ins. 
 
 2. **Team member expressed both reasons to stay but also reasons for leaving**  
 - I really want to thank you for your valuable input and feedback. 
