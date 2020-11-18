@@ -137,9 +137,9 @@ There are multiple types of PathFactory experiences that you can create under `C
 
 When creating and editing content tracks, please use the following naming convention to let others know the status of your track.
 
-1. `[WIP] - [Campaign Name]` - work in progress track, not live
-1. `[LIVE] - [Campaign Name]` - live track, traffic is flowing to track
-1. `[ARCHIVED] - [Campaign Name]` - arhived track, not in active use, traffic may or may not be flowing to track
+1. `[WIP] - [Campaign Name]` - work in progress track; not live
+1. `[LIVE] - [Campaign Name]` - live track; traffic is flowing to track
+1. `[ARCHIVED] - [Campaign Name]` - arhived track; not in active use; traffic may or may not be flowing to track
 
 ## Content Tracks
 
@@ -259,7 +259,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 1. Click `Add Rule` in the `Track Rule` row.
 1. Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs.
-1. Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track. This decision lies with the directly responsible MPM.
+1. Under `Display Behavior` you can choose to serve the form based on the number of content assets viewed or the total time spent on the track.
 1. All other options for content track rules are the same for individual assets (see above).
 
 #### Testing a Track Link
@@ -298,9 +298,8 @@ We use external forms (added by External URL or Custom HTML generated from Marke
 
 ## PathFactory Links
 
-- Only content track links are meant to be used and shared. Do not share individual asset links from the content library.
+- Only content track links are meant to be used and shared. Do not share individual asset links from the content library. 
 - You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
-- To ensure proper tracking of an asset in PathFactory, it should be included within a content track and not shared with an individual link from the content library.
 - If the link breaks or an asset is deleted, the user will be redirected from your content track to the `#all` track, which includes all assets uploaded to PathFactory. In a case where the user is not redirected to the `#all` track, they will be redirected to the `Fallback URL` which is set to `about.gitlab.com`.
 
 ### Target Track Links
@@ -514,6 +513,14 @@ There are custom PathFactory fields available in Salesforce and Marketo. They ar
 | PathFactory Track Custom URL | The custom URL of the content track. |
 | PathFactory Track ID | The automatically generated PathFactory ID of the content track. |
 
-### PathFactory Analytics
+## PathFactory Analytics
 
 There are a variety of analytics and reports available in PathFactory that show the overall effectiveness of content. See more info [here](/handbook/marketing/marketing-operations/pathfactory/pathfactory-analytics).
+
+## About iFrames
+
+An iframe, or inline frame, is a tag `<iframe> </iframe>` that is used to embed an HTML document inside another HTML document on a website. The iframe HTML element can be used to insert content from another source, such as an advertisement, into a web page.
+
+PathFactory uses iframes to serve content inside Content Tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
+
+- [About iFrame Blocking](https://nook.pathfactory.com/nook/s/article/about-iframe-blocking)
