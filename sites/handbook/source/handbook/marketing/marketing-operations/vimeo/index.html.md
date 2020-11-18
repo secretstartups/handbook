@@ -71,7 +71,7 @@ You can also navigate to the `Videos` sidebar menu option to access the video ma
 
 ## Create
 
-
+[Vimeo Create](https://vimeo.zendesk.com/hc/en-us/articles/360037832151-Vimeo-Create-overview) is Vimeo’s new video maker tool. It allows you to easily and quickly create your own video from stock videos, photos, and personal videos. [See the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/360037832151-Vimeo-Create-overview) for a full tutorial. 
 
 ## Live Events
 
