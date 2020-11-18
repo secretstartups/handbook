@@ -53,6 +53,12 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. [Training Call (GitLab team - internal use only) 202006](https://drive.google.com/file/d/14jHp_nZGVBml7ipz1ZpeCvuAJInrADdk/view?usp=sharing)
 1. [Video School](https://vimeo.com/blog/category/video-school)
 
+## Video Manager
+
+The [video manager](https://vimeo.zendesk.com/hc/en-us/articles/115004610668-The-video-manager) is where all the video uploads are stored and managed. 
+
+When you navigate to Vimeo.com, you first land in the video manager (when logged in). The video manager houses all videos uploaded, both public and private, as well as video drafts, showcases, and any live events.
+
 ## Live Events
 
 For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
