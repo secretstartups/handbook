@@ -1,0 +1,53 @@
+---
+layout: handbook-page-toc
+title: Ecosystem Backend Team
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## About
+
+The Ecosystem Backend team is a part of the [Ecosystem Group](/handbook/engineering/development/dev/ecosystem/) group in the [Create Stage](https://about.gitlab.com/handbook/product/product-categories/#create-stage).
+
+This page covers processes and information specific to the Ecosystem Backend team.
+
+Slack Channel (internal): [#g_ecosystem-be](https://gitlab.slack.com/archives/C01E55XNCEA)
+
+## Backend Team Members
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Ecosystem') %>
+
+## Metrics
+
+You can find our team metrics in the [Ecosystem BE Metrics Dashboard](https://app.periscopedata.com/app/gitlab/741726/Ecosystem-BE-Metrics)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 741726, chart: 9701945, embed: 'v2') %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+## Process
+
+### Issue boards
+
+The work for the Ecosystem Backend team can be tracked on the following issue boards:
+
+- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&utf8=%E2%9C%93&label_name%5B%5D=backend&label_name%5B%5D=group%3A%3Aecosystem&milestone_title=%23started) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
+
+### Issue Labels
+
+To organize, plan, and track our work, we use the following sets of labels:
+
+- Use `workflow` labels as defined in [the handbook](https://about.gitlab.com/handbook/product-development-flow). These labels help increase transparency into the current state of each issue. As an engineering team, we will typically use the following labels during development:
+  - `workflow::ready for development`
+  - `workflow::in dev`
+  - `workflow::in review`
+  - `workflow::verification`
+- Use `Deliverable` label and `Stretch` labels as defined in [the handbook](https://about.gitlab.com/handbook/product/interpreting-release-dates.html#intepreting-issue-states). These labels show what we have committed to for a given milestone.
