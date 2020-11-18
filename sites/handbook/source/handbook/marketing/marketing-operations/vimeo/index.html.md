@@ -306,6 +306,14 @@ With a [showcase](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcase
 
 A [custom domain](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcases#customdomain) can be created for your showcase. If you are interested, please open an issue in marketing ops. 
 
+## Analytics
+
+Analytics allow you to access in-depth insights about your videos and your Vimeo account. All members can track overall video performance, and advanced analytics and functionality.
+
+To access video [analytics](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview), hover over `Manage Videos` in the top left navigation menu and click `Analytics`. 
+
+[View the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview) for a full tutorial. 
+
 ## Implementation
 
 [See epic for more info](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1100). 
