@@ -167,12 +167,12 @@ Start the conversation by explaining the purpose of the meeting and why it’s i
 
 ##### Scenarios (situations and reactions)
 
-1. **Team member has expressed the desire to stay at GitLab and for +90% is engaged**
+1. **Team member has expressed the desire to stay at GitLab and is engaged**
 - I am so pleased to hear GitLab is a great place for you and really value your input going forward. 
 - In case there’s a change in your engagement I want to make sure you can always speak up also outside of these engagement check-ins. 
 
 
-2. **Team member expressed both reasons to stay but also reasons for leaving (50/50)**  
+2. **Team member expressed both reasons to stay but also reasons for leaving**  
 - I really want to thank you for your valuable input and feedback. 
 - Summarizing what we have discussed I would love to work on an engagement plan so that we can make sure GitLab is a great place to work for you. 
 - Let's follow up in one week and prepare items we can work on to improve your experience at GitLab.
