@@ -133,15 +133,23 @@ The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting
 
 #### Disclosure and Authorization
 
-Candidates (as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
+Candidates (and, as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
 
-To prepare for the employment verification for those candidates being considered for Director level positions or higher, candidates should gather each previous employer's name and address, position title held, employment start and end dates, manager’s name and title, their phone number, and email address. Details for a Human Resources contact can be entered instead of a manager's contact details. Occasionally, Sterling will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
+To prepare for the employment verification for those candidates being considered for Director level positions or higher, candidates should gather each previous employer's name and address, position title held, employment start and end dates, manager’s name and title, their phone number, and email address. Details for a Human Resources contact can be entered instead of a manager's contact details. Occasionally, and where permitted by law, Sterling will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
 #### Review Criteria
 
-Once the background check is completed, Candidate Experience Specialists will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.
+Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of recruiting:
+
+- The PBP will gather the background information and make a recommendation on potential next steps to Legal - Employment
+- Legal - Employment will review the information to ensure that the adjudication process complies with applicable law in the jurisdiction 
+- In consultation with Legal - Employment, the PBP will determine whether to move forward with the candidate
+- If the decision is not to move forward with the candidate the PBP will inform the recruiter and hiring manager of the decision
+- If the decision is that the hiring process can continue the PBP will present the recommendation to the hiring manager and VP of the department for review
+- The hiring manager and the department VP will make the final decision on whether to proceed with the hire 
+- The hiring manager will inform the PBP and recruiter of their final decision on whether to proceed with the hire
 
 #### US Citizens only: 
 
@@ -174,7 +182,7 @@ For all adverse decisions, document each step taken. Keep copies of all consent 
 
 #### Record Retention
 
-All documents related to the background check process must be retained for at least five years.
+All documents related to the background check process must be retained for the greater of five years or the minimum required by applicable law.
 
 #### Equal Employment Laws
 
