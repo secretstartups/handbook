@@ -82,7 +82,8 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 > **Note**: Do _not_ provide hints to answers. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
-   - Most commonly, an `Owner in the top level namespace` vouch is requested. For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
+   - Most commonly, an `Owner in the top level namespace` vouch is requested. The originating email of this request should match a verified email of the Owner's account.
+   - For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
 1. If the user is unable to pass the selected challenges:
    1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **"GitLab.com::2FA::2FA Removal Verification - GitLab.com - Failed"** macro.
    1. Mark the ticket as "Solved"
