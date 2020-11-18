@@ -77,6 +77,12 @@ You can also navigate to the `Videos` sidebar menu option to access the video ma
 
 For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
 
+### Best Practices
+
+- [Streaming Best Practices](https://vimeo.zendesk.com/hc/en-us/articles/360040590272-Streaming-Best-Practices)
+- [Recommended network configuration for streaming](https://vimeo.zendesk.com/hc/en-us/articles/360040960091-Recommended-network-configuration-for-streaming)
+- [Network and browser requirements for viewing streams](https://vimeo.zendesk.com/hc/en-us/articles/360040394231-Network-and-browser-requirements-for-viewing-streams)
+
 ### Create a live event
 
 #### Step 1
