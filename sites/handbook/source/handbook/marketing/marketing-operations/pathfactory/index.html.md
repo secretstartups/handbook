@@ -188,7 +188,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Promoters
 
-This is where you will choose how your content track displays to the visitor. Note the different functionality of each below. Before going live, you can test each promoter to find the one that works best for the goals of your PathFactory experience.
+[Promoters](https://nook.pathfactory.com/nook/s/article/getting-started-promoters) are the tools that allow visitors to navigate the Content Tracks and encourage them to view additional recommended content. Think of promoters as the guides through a content track; the promoters you use determine how and when content will be presented to visitors. Note the different functionality of each below. Before going live, you can test each promoter to find the one that works best for the goals of your PathFactory experience.
 
 - You can only use the `Header` feature with the `Sign Posts` and `Bottom Bar` promoters.
 - The `Header` is used to add additional branding to your content track.
@@ -236,6 +236,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 **Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
 
 - [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
+- [Form strategy FAQ](https://nook.pathfactory.com/nook/s/article/forms-strategy-faq)
 
 #### Add Form Strategy to a Content Track
 
@@ -248,12 +249,12 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 1. Click `Add Rule` in the `Content Rules` row.
 1. Select the `General Form (2074) LIVE` form unless otherwise required according to campaign needs. Do not select a form marked `[WIP]`. 
 1. Under `Display Behavior`, click the dropdown and choose the assets where you want the form to show. (**Please Note:** only assets that you have added to the content track will show in the dropdown. If you want the form to show on an asset that _is not_ in the track, you will need to add it first.)
-1. Select the amount of seconds you want to delay before the form shows on the asset. Ten seconds is the default selection.
+1. Select the amount of seconds you want to delay before the form shows on the asset. `10 seconds` is the default selection.
 1. Select additional options for the form behavior. If you will be using the content track or individual asset links in an email, you are working with a known audience and therefore should only select `Show to unknown users`. This prevents forms being shown to users who are already known in Marketo. However, if you are using the form on the web or other channels, you'll want to select `Show to unknown users` only.
-1. Ensure `Show to Known Visitors` is left unchecked. 
-1. Leave `If submitted, allow form to show again` turned off.
-1. You can `allow visitors to dismiss the forms` if it is not crucial to its use to have them submit their info. This decision ultimately lies with the directly responsible MPM.
-1. The option `Keep promoters active when form is shown` is also up to the directly responsible MPM. For example, if the `Flow` promoter is used on a content track, they will still be able to see the sidebar of avialable content while the form is shown to them. If this option is turned off, the visitor _will not_ be able to click on any content in the sidebar until they fill out the form.
+1. Ensure `Show to Known Visitors` is toggled off. 
+1. Leave `If submitted, allow form to show again` toggled off.
+1. You can `allow visitors to dismiss the forms` if it is not crucial to its use to have them submit their info. 
+1. The option `Keep promoters active when form is shown` is up to the `Author`. For example, if the `Flow` promoter is used on a content track, they will still be able to see the sidebar of avialable content while the form is shown to them. If this option is toggled off, the visitor _will not_ be able to click on any content in the sidebar until they fill out the form.
 
 **Form strategy for content tracks:**
 
@@ -354,7 +355,7 @@ PathFactory’s custom query string manager allows you to manage and append quer
 
 ## Explore Pages
 
-Explore pages allow your visitors to quickly view all content assets in a content track. Each explore page you create is built on top of an existing target or recommend content track.
+[Explore pages](https://nook.pathfactory.com/nook/s/article/getting-started-explore) allow your visitors to quickly view all content assets in a content track. Each explore page you create is built on top of an existing target or recommend content track.
 
 ### Use Cases
 
@@ -400,7 +401,7 @@ Yes! You can add a custom hero image by navigating to `Appearances Configuration
 
 ## Appearances
 
-Appearances allow you to control the look and feel of your content tracks. By creating different appearance groups you are able to quickly and easily apply different colors, fonts, and logos to content tracks without having to configure them each time you build a new track. Appearance settings allow you to control how your promoters look, select favicons for your tracks, and configure the appearance of your cookie consent messaging.
+[Appearances](https://nook.pathfactory.com/nook/s/article/getting-started-appearances) allow you to control the look and feel of your content tracks. By creating different appearance groups you are able to quickly and easily apply different colors, fonts, and logos to content tracks without having to configure them each time you build a new track. Appearance settings allow you to control how your promoters look, select favicons for your tracks, and configure the appearance of your cookie consent messaging.
 
 You are able to change the appearance of the following components of a content track:
 
@@ -420,6 +421,20 @@ You are able to change the appearance of the following components of a content t
 1. Change the font of the text by selecting from the drop-down menu. Click the `B` button to bold the text. Click on the `A` buttons to change the text size.
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
+
+## Language Configuration
+
+The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within Content Tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
+
+### Create a New Language Config
+
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. 
+
+1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
+1. Click the `Add Language` button in the top right or in the left sidebar under the other language configurations.
+1. Select the language from the drop down menu.
+1. Create a Google or Word doc and copy/paste the text to translate from each promoter (Bottom Bar, Card, Content Types, etc.). Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign).
+1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling) to submit your doc for translations.
 
 ## PathFactory Tracking
 
