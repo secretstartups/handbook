@@ -305,29 +305,6 @@ Your overall performance is ***[Insert Performance Factor]***.
 I'd like to thank you for your hard work, and I look forward to continuing to work together! Do you you have any questions? ***[Allow team member to ask questions and respond]*** 
 As a next step, let's schedule some time to talk more about what you want to do in the future and create a career development plan together. 
 
-### Performance / Potential Communication FAQs:
-* **Q:** “Can my performance factor be changed?”
-* **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
-* **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
-* **A:** The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
-    * Your hire date (new hires hired after October 31st are ineligible for compensation review)
-    * Other compensation increases received over the last year
-    * Your current placement within the compensation band
-    * Location factor benchmark updates
-    * Role benchmark updates 
-    * Company budget for compensation increases
-* **Q:** “When is the next opportunity for my performance to be reviewed?”
-* **A:** We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY`22. 
-* **Q:**“What can I do to change my performance factor in the future?”
-* **A:** There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
-* **Q:**“What is my potential rating?”
-* **A:** This depends on if your group assessed potential. Some groups decided not to assess potential for this first iteration and focus on performance. Other groups have been using this process for some time; so decided to look at both performance and potential. Please check with your manager on what your organization decided to do. 
-Regardless if your organization assessed potential, it is ok for you to discuss skill growth with your manager at any time. You should talk to your manager about how you’d like to develop and create a career development plan to determine actionable steps in order to work towards the outcome that you are looking to achieve. 
-* **Q:** “Can my potential rating be changed?”
-* **A:** If your organization did decide to assess and communicate potential ratings, your potential factor cannot be changed. You should note that at this point in time, the potential factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
-* **Q:** “What can I do to change my potential rating in the future?”
-* **A:** There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
-
 ### Sample Next Steps
 The most important part of the performance factor discussion is to determine next steps in partnership with your team member. The team member should be the DRI for the next steps with support from you as their manager. 
 Our [Career Development handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) includes a lot of great information and resources on career development including [an individual growth plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) and [career development worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2) which should help provide structure and a plan for next steps. 
@@ -376,7 +353,28 @@ This change will impact both team members and managers.
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
-
+### Performance / Potential Communication FAQs:
+* **Q:** “Can my performance factor be changed?”
+* **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
+* **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
+* **A:** The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
+    * Your hire date (new hires hired after October 31st are ineligible for compensation review)
+    * Other compensation increases received over the last year
+    * Your current placement within the compensation band
+    * Location factor benchmark updates
+    * Role benchmark updates 
+    * Company budget for compensation increases
+* **Q:** “When is the next opportunity for my performance to be reviewed?”
+* **A:** We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY`22. 
+* **Q:**“What can I do to change my performance factor in the future?”
+* **A:** There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
+* **Q:**“What is my potential rating?”
+* **A:** This depends on if your group assessed potential. Some groups decided not to assess potential for this first iteration and focus on performance. Other groups have been using this process for some time; so decided to look at both performance and potential. Please check with your manager on what your organization decided to do. 
+Regardless if your organization assessed potential, it is ok for you to discuss skill growth with your manager at any time. You should talk to your manager about how you’d like to develop and create a career development plan to determine actionable steps in order to work towards the outcome that you are looking to achieve. 
+* **Q:** “Can my potential rating be changed?”
+* **A:** If your organization did decide to assess and communicate potential ratings, your potential factor cannot be changed. You should note that at this point in time, the potential factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
+* **Q:** “What can I do to change my potential rating in the future?”
+* **A:** There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
  
 
 ## Succession Planning
