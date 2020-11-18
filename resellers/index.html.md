@@ -546,6 +546,8 @@ Note that we do not generate a quote, or fulfill an order, without an end user c
 
 ![alt_text](/images/Channel-Handbook2.png "image_tooltip")
 
+##### Receive a GitLab Reseller Quote via Distributor
+
 
 #### License Key Delivery
 
