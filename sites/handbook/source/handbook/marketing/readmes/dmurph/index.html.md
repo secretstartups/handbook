@@ -20,7 +20,7 @@ twitter_creator: "@gitlab"
 
 Hi, I'm Darren, and you're awesome! I'm currently GitLab's [Head of Remote](/blog/2019/08/15/all-remote-is-for-everyone/) 🌎. 
 
-I've spent my entire career across the spectrum of remote — over 14 years leading remote teams and charting remote transformations in colocated spaces, hybrid-remote environments, and all-remote. I hold a [Guinness World Record in publishing](https://www.engadget.com/2010-10-05-engadgets-darren-murph-nabs-guinness-world-record-for-most-blog.html).
+I've spent my entire career across the spectrum of remote — over 15 years leading remote teams and charting remote transformations in colocated spaces, hybrid-remote environments, and all-remote. I hold a [Guinness World Record in publishing](https://www.engadget.com/2010-10-05-engadgets-darren-murph-nabs-guinness-world-record-for-most-blog.html).
 
 I authored GitLab's [Remote Playbook](https://learn.gitlab.com/all-remote/remote-playbook?source=in-app-message) and [*Living the Remote Dream: A Guide To Seeing the World, Setting Records, and Advancing Your Career*](https://www.amazon.com/Living-Remote-Dream-Setting-Advancing/dp/1506192130).
 
@@ -45,6 +45,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 
 #### Articles 
 
+* CNBC — [Embracing Remote Work: Meet the Oracles](https://www.cnbc.com/video/2020/11/13/embracing-remote-work-meet-the-oracles.html)
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
