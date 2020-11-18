@@ -167,7 +167,7 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-The L&D team host and organize multiple [learning initiatives(/handbook/people-group/learning-and-development/learning-initiatives/)] to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
+The L&D team host and organize multiple [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
 ## Additional Learning Opportunities
 
