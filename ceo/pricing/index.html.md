@@ -114,6 +114,14 @@ Below we list product categories and the current and proposed features which res
 1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
 1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
+### Usage can be more important than buyer-based tiering
+
+While our [tiers](#four-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
+As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers
+1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those those users are essential to creating contributors, an improved product and future tiered features.
+
+When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. 
+
 ### Partner integration considerations
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
