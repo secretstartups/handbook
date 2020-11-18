@@ -137,6 +137,9 @@ Before the team will accept an issue into a milestone for work it must meet thes
 * Designs are in the design tab if needed
 * If the issue will be worked on by Verify:Testing engineers, it has a [weight](https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/#weights)
 
+#### Definition of Blocked
+Issues that depend on another issue to be completed before they can be validated on `Canary` are considered blocked, and should have the `~workflow::blocked` label applied. The issues should also be marked as blocked within the [related issues section](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue) of the issues.
+
 #### Follow-up Issues (Trial)
 The team has noticed an uptick in issues created and resolved within a milestone and wants to more easily understand what the nature of these issues are to improve our planning and scheduling capabilities.
 
