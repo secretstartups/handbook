@@ -5,16 +5,14 @@ title: "Process for Tracking and Escalating Glassdoor Reviews"
 
 # Tracking reviews 
 
-The Recruiting Operations and Insights team tracks Glassdoor reviews on a regular basis (WIP LINK HERE).
-
-We share this info regularly through: 
+The Recruiting Operations and Insights team tracks Glassdoor reviews on a regular basis. We share this info regularly through: 
 - People Group Key meeting monthly
 - Direct escalations of negative reviews - require immediate action or response
 - Recruiting team meeting - sharing hiring-related themes that have come up
 
 # Responding to reviews
 
-We respond to ~50% of positive reviews, and most negative reviews (see "when we do not respond" list below). We do not respond to every review on Glassdoor, because this becomes very redundant and can appear inauthentic. 
+We respond to ~50% of positive "company" reviews, and we respond to most negative "company" reviews (see ["when we do not respond" list](/handbook/people-group/employment-branding/glassdoor-escalation/#when-we-do-not-respond)). The reason we don't respond to every review is because this becomes very redundant, can appear inauthentic, and does not align with our efficiency value. We also do not respond to "interview" reviews.  
 
 ## When we do not respond 
 
@@ -35,16 +33,17 @@ We respond to ~50% of positive reviews, and most negative reviews (see "when we 
 
 The Talent Brand Manager monitors reviews on a weekly basis, and responds directly to ~50% of positive reviews on a bi-weekly basis. When the Talent Brand Manager sees a negative review posted, here is the process to ensure the review is escalated and responded to as soon as possible: 
 
-1. Open an issue in this epic (WIP).
+1. Open an issue in the Talent Brand project using the "Glassdoor" issue template.
 1. Determine the team or department the review is talking about, the status of the poster (current team member or former team member), and where the person is located. 
 1. Based on the department, tag the appropriate People Business Partner in the issue for review. 
 1. Determine the right escalation path within leadership of that specific department so that the leaders can be tagged and made aware.
 1. Draft a response in a Google Doc (link in the issue) to the review in partnership with the People Business Partner and other DRIs within the impacted department. 
-1. Get feedback and approval from the impacted department, and determine with the People Business Partner who will respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
+1. Get feedback and approval from the impacted department, and work with the People Business Partner to determine who is going to respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
 
 ## Escalating and responding to interview reviews
 
-WIP 
+1. We do not currently respond to interview reviews. We will revisit this if we begin to see reviews where a response would be helpful to the poster. 
+1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the same issue template we use for company reviews. 
 
 # How to post a response
 
@@ -55,6 +54,8 @@ After we've determined who will respond to the review and the response draft has
 1. Responder: Comment in the issue to confirm the response has been posted.
 1. Talent Brand Manager or PBP: If there is no further internal action needed, close the issue. 
 
+# More about our presence on Glassdoor
 
+For more details about how we manage our Glassdoor presence, [return to the main Talent Brand page](/handbook/people-group/employment-branding/#glassdoor). 
 
 

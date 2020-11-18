@@ -147,5 +147,8 @@ Quick tips on Culture Amp and exporting reports or utilizing the tool.
 *  Total compensation
 
 ## 2020 Engagement Survey Dates
-* Fall survey dates - 2020-10-26
+We are opening the survey from 16th November 2020 to 15th December 2020. The link to the Survey will be sent to you via email from Culture Amp.
+
+Please feel free to reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
+
 

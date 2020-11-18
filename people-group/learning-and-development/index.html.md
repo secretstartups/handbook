@@ -92,24 +92,21 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 </details>
 
-
 <details>
   <summary markdown='span'>
     Live Learning Schedule
   </summary>
 
-<b>The 2020 Live Learning schedule is as follows:</b>
+<b>The upcoming Live Learning schedule is as follows:</b>
 
 <ul>
-<li>July - Understanding Social Styles (Date TBD)</li>
-<li>August - TBC</li>
-<li>September - GitLab Great Managers Program - 30 Day Challenge (Kickoff Date TBD)</li>
-<li>October - TBC</li>
-<li>November - TBC</li>
-<li>December - TBC</li>
+<li>November - One Week Challenge - Psychological Safety (2020-11-16 - 2020-11-20)</li>
+<li>December - Introduction to Coaching (2020-12-03)</li>
+<li>January - 3 Week Manager Challenge</li>
 </ul>
 
 </details>
+
 
 <details>
   <summary markdown='span'>
@@ -122,8 +119,10 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>January - <a href="https://youtu.be/crkPeOjkqTQ">Compensation Review: Manager Cycle (Compaas)</a></li>
 <li>January - <a href="/company/culture/inclusion/being-an-ally/">Ally Training</a></li>
 <li>February - <a href="/handbook/people-group/guidance-on-feedback/#receiving-feedback">Receiving Feedback</a></li>
-<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedbackck">Delivering Feedback</a></li>
+<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback">Delivering Feedback</a></li>
 <li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li>
+<li>September - <a href="/handbook/people-group/learning-and-development/manager-challenge/#pilot-program">Manager Challenge Pilot</a></li>
+<li>November - <a href="https://www.youtube.com/watch?v=WZun1ktIQiw">Belonging</a></li>
 </ul>
 
 <b>2019</b>
@@ -168,17 +167,9 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-### Monthly Continuous Learning Call 
+The L&D team host and organize multiple [learning initiatives(/handbook/people-group/learning-and-development/learning-initiatives/)] to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
-Every month, the Learning and Development team hosts a monthly continuous learning call. During these calls, we highlight all of the initatives taking place within the learning space at GitLab to the organization. We use these calls to callout professional development opportunities, cross-department enablement activities, teach team members what L&D does at GitLab, and answer any questions team members have. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab. 
-
-### Quarterly Learning & Development Newsletter
-
-GitLab will be launching a quarterly L&D newsletter to highlight all of the professional and career development opportunities in the organization. 
-
-### Take Time Out To Learn Campaign
-
-Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+## Additional Learning Opportunities
 
 ### Certifications
 

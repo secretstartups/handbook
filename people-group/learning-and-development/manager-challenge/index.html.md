@@ -52,11 +52,15 @@ Set aside time each day to participate in the challenge (20-30 minutes) and live
 
 ### Week 1
 
+<<<<<<< HEAD
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
 - [Leadership ](/handbook/leadership/)
 - [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
 - [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/)
 - [All Remote Management](/company/culture/all-remote/management/)
+=======
+During week one we will discuss **Getting to Know your Team & Managing Underperformance**. Information covered in week one can be found on the [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/) and the [Underperformance page](/handbook/leadership/underperformance/). 
+>>>>>>> 13b22c80ad6cf84ae83c4f3e429f4060f5ac5a02
 
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |

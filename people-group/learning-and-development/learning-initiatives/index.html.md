@@ -13,9 +13,10 @@ title: Learning Initiatives
 
 The Learning & Development team is rolling out learning programs to enable a [culture of curiosity and continual learning](/handbook/values/#growth-mindset). The learning initiatives are intended to provide a forum for team members to come together to learn about all of the activities taking place in the learning space, as well as hear from leaders internally and externally on various leadership topics. 
 
+
 ## Monthly Continuous Learning Call Overview
 
-At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions.
+At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab. 
 
 ### Goals
 1. Spur a culture of curiosity and continuous learning by highlighting all the initiatives we have taking place in learning & development.
@@ -43,10 +44,10 @@ The following process outlines steps for the L&D team to take each month when pl
 1. Open a feedback issue for questions and comments to be shared asynchronously.
 1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
 
-
 #### Text for CEO share in #company-fyi channel
 
 `Join the Learning and Development team on [DATE] for the Monthly Continuous Learning Call. This month's call is all about [TOPIC]. You can review the slide deck for the call [HERE], and post questions you might have in the call adenga doc [HERE]. Looking forward to seeing you there!`
+
 
 
 ## Learning Speaker Series Overview
@@ -95,3 +96,10 @@ The following process outlines steps for the L&D team to take when planning and 
 1. Coordinate an announcement of the call in the #company-fyi Slack channel from Sid or another executive/manager who will be featured that month. The post should be shared 1 business day before the call. This post should include a link to the slide deck and coresponding issue. See notes below for a template that can be shared.
 
 #### Text for CEO share in #company-fyi channel
+
+`Join the Learning and Development team on [DATE] for the Learning Speaker Series Call. This month's call features [PERSON] and their experience with [BACKGROUND}. You can review the slide deck for the call [HERE], and post questions you might have in the call adenga doc [HERE]. Looking forward to seeing you there!`
+
+
+## Take Time Out To Learn Campaign
+
+Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 

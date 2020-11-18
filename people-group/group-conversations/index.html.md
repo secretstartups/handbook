@@ -113,7 +113,7 @@ There are three layers of content in a presentation:
 
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
-1. If you want to present please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting, link it from the Google Doc, and mention it in the relevant slack channels.
+1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
 
@@ -181,6 +181,7 @@ Additional links which may be useful when preparing to moderate a call include:
 2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the uper left hand orner.
 3. Be sure to either close or mute the YouTube page to prevent an echo.
 4. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
+5. Check whether the host has included a pre Group Conversation video link in the agenda doc and that it has been specified as Private/Public. 
 
 ### Concluding the Call
 

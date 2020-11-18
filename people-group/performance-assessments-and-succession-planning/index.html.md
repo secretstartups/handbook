@@ -149,6 +149,7 @@ High potential generally indicates that a team member will be ready for promotio
 * Demonstrate ability to learn new skills
 * Actively pursue increased opportunities to influence decisions and inspire others
 
+
 ## Calibration Session Guidelines
 
 The portion of the Performance/Potential matrix that often entails the most significant time commitment is the live calibration session of team members with leadership. The calibration session is very valuable to ensure consistency across the Job Family and level, raise any questions, and provide cross-departmental and/or cross-divisional feedback on team members to capture the assessment of different managers as opposed to the opinion of the direct manager exclusively. 
@@ -359,11 +360,25 @@ This change will impact both team members and managers.
     * For the reasons stated above in the [communication dos and don'ts](/handbook/people-group/performance-assessments-and-succession-planning/#do-communicate) section, we recommend that groups assess both performance and potential. However, all that is required in FY'21 Q4 is the assessment of performance, as this will impact compensation. There should be assessment consistency within each department at GitLab. Please confirm with your manager or People Business Partner whether your group will be assessing both performance and potential, or just performance for this iteration.
 
 * **As a manager, when reviewing my team members, what is the difference between Developing and Underperformance?**
-    * [Underperformance](/handbook/underperformance/) is generally ongoing for a period of time with multiple attempts to remediate. "Developing" implies more of a stage of progression that is also consistent (I.E. not a sustained underperformance to meet expectations). 
+    * [Underperformance](/handbook/leadership/underperformance/) is generally ongoing for a period of time with multiple attempts to remediate. "Developing" implies more of a stage of progression that is also consistent (I.E. not a sustained underperformance to meet expectations). 
     While everyone within the Developing category isn't necessarily Underperforming, a subset of team members who might be Underperforming would be grouped into the Developing category along with those team members who are not underperforming but are simply new to the role. 
-    Team members who are on a formal Underperformance remediation plan, such as a [Performance Enablement Plan](/handbook/underperformance/#performance-enablement-plan-pep) or [Performance Improvement Plan](/handbook/underperformance/#performance-improvement-plan-pip), will not be eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor). 
+    Team members who are on a formal Underperformance remediation plan, such as a [Performance Enablement Plan](/handbook/leadership/underperformance/#performance-enablement-plan-pep) or [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), will not be eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor).
 
-We will continue to add additional questions and answers as the program progresses. 
+* **How should I factor in COVID impact when assessing performance and potential?** 
+
+    When assessing team members who have had COVID impact that has affected their work, (reduced schedules, modified working hours, more extended time off, mental health impact, etc.) please keep in mind:
+
+    -  Team members should be assessed at the _agreed upon and expected level_. For example, if manager and team member have agreed that the team member will be working at 80% for a period of time, the team member's performance should be assessed at 80% during that period (not at 100%).  
+    - We should be looking _holistically_ at performance and potential. This performance review should assess the team member's last 12 months of tenure (or less if the team member has joined more recently). Please ensure you are mindful of recency bias, particularly for those team members who have struggled with COVID impact. 
+
+    Team members - It is very important that you are transparent with your manager if you are experiencing significant impact from COVID that has impacted your overall performance. Managers cannot be mindful of the points above during assessment periods if they are not aware and expectations are not aligned. If it is helpful, feel free to leverage the [COVID Self-Evaluation](/handbook/total-rewards/benefits/covid-19/#self-evaluation) template to facilitate a discussion with your manager.
+    
+
+    If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
+
+
+ 
+
 ## Succession Planning
 
 The succession planning process starts with leaders doing a [performance/potential matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) of each of their direct reports.

@@ -505,52 +505,25 @@ Below is a visual workflow that summarizes the country conversions process.
 
 ``` mermaid
 graph TD
-  A{Phase 1:<br>
-6 weeks}:::PHASE --> B(Pull a weekly report<br>
-to determine new countries<br>
-to evaluate)
-  B:::POPS --> C(DRI emails the Country Conversions<br>
-email alias to initiate<br>
-country review)
-  C:::TAX --> D(Contact vendors for quotes<br>
-and benefits information)
-  D:::POPS --> E(Open country issue and keeps<br>
-Country Conversions sheet, issue, and<br>
-Country Vendor folder updated)
-  E:::POPS --> F("Heads up" email to team members<br>
-managers and skip-level managers<br>
-in converting country)
-  F:::POPS --> G(Non-official vendor recommendation<br>
-pre-benefits review)
+  A{Phase 1:<br> 6 weeks}:::PHASE --> B(Pull a weekly report<br> to determine new countries<br> to evaluate)
+  B:::POPS --> C(DRI emails the Country Conversions<br> email alias to initiate<br> country review)
+  C:::TAX --> D(Contact vendors for quotes<br> and benefits information)
+  D:::POPS --> E(Open country issue and keeps<br> Country Conversions sheet, issue, and<br> Country Vendor folder updated)
+  E:::POPS --> F("Heads up" email to team members<br> managers and skip-level managers<br> in converting country)
+  F:::POPS --> G(Non-official vendor recommendation<br> pre-benefits review)
   G:::POPS --> H(Benefits analysis conducted)
-  H:::TR --> I(Comparative overview sent to Director<br>
-of Tax for approval via email):::POPS
-  I:::POPS --> J(Director of Tax copies CFO<br>
-on email for final approval):::POPS
+  H:::TR --> I(Comparative overview sent to Director<br> of Tax for approval via email):::POPS
+  I:::POPS --> J(Director of Tax copies CFO<br> on email for final approval):::POPS
   J:::TAX---J2(Approved):::TAX-->K
-  K{Phase 2:<br>
-4 weeks}:::PHASE
-  J---J3(Not Approved):::TAX-->L(Prepare runner-up comparative overview<br>
-for CFO approval):::POPS
+  K{Phase 2:<br> 4 weeks}:::PHASE --> J---J3(Not Approved):::TAX-->L(Prepare runner-up comparative overview<br> for CFO approval):::POPS
   K:::POPS --> M(Save record of approval)
-  M:::POPS --> N(Send detailed email communicating<br>
-conversion to team members with a minimum<br>
-1-month notice<br>
-and copy Payroll and Total Rewards teams)
-  N:::POPS --> O(Tag the Recruiting team in<br>
-the country issue and people-group-confidential<br>
- Slack channel to share county vendor<br>
-selection and conversion date)
-  O:::POPS --> P(Prepare contracts for<br>
-team members)
-  P:::VENDOR --> Q(Share signed contracts with<br>
-People Operations team for BHR record)
+  M:::POPS --> N(Send detailed email communicating<br> conversion to team members with a minimum<br> 1-month notice<br> and copy Payroll and Total Rewards teams)
+  N:::POPS --> O(Tag the Recruiting team in<br> the country issue and people-group-confidential<br> Slack channel to share county vendor<br> selection and conversion date)
+  O:::POPS --> P(Prepare contracts for<br> team members)
+  P:::VENDOR --> Q(Share signed contracts with<br> People Operations team for BHR record)
   Q:::VENDOR --> R(Stage Mutual Termination Agreements for signature)
-  R:::POPS --> S(Update BambooHR with applicable<br>
-payroll type, location changes, new contracts,<br>
-and Mutual Termination Agreements)
-  S:::POPS --> T(Total Rewards team<br>
-performs BambooHR audit):::TR
+  R:::POPS --> S(Update BambooHR with applicable<br> payroll type, location changes, new contracts,<br> and Mutual Termination Agreements)
+  S:::POPS --> T(Total Rewards team<br> performs BambooHR audit):::TR
 
 classDef POPS fill:#D8BFD8, stroke: #333
 classDef TAX fill:#FFF8DC, stroke: #333
