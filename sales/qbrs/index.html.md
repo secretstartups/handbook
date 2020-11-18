@@ -54,7 +54,18 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. Alliances
 
 **CS QBRs**
-1. Customer Success Leadership 
+1. Customer Success Leadership (VP directs)
+1. Segment Sales VP
+1. Chief Revenue Officer (CRO)
+1. CRO direct reports
+1. VP of Product Management
+1. VP of Field Ops direct reports
+1. People Business Partners
+1. Sr. Program Manager, Customer Success Enablement
+1. VP of Finance 
+1. Director of Finance (supporting CS)
+1. VP of IT (Optional)
+1. Director of Data (Optional)
 
 **ENT Leadership QBR**
 1. Segment Sales VP
