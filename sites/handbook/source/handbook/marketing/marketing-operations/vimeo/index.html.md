@@ -245,7 +245,7 @@ If you only want the email addresses from one particular video, you can download
 
 [End screens](https://vimeo.zendesk.com/hc/en-us/articles/115007893267-End-screens) allow you to determine exactly what appears when videos finish playing. 
 
-## Privacy settings overview
+## Privacy Settings Overview
 
 1. `Anyone` - Allow anyone to see this video.
 1. `Only me` - Make this video visible to me and no one else
@@ -257,13 +257,30 @@ If you only want the email addresses from one particular video, you can download
 
 [See more info on privacy settings](https://vimeo.zendesk.com/hc/en-us/articles/224817847-Privacy-settings-overview).
 
-### Live event privacy settings
+### Live Event Privacy Settings
 
 1. `Anywhere` is fully open privacy.
 1. `Nowhere` disables embedding completely.
 1. `Only on sites I choose` allows you to input the specific URLs that are allowed to host the embedded player.
 
 [See more info on changing the privacy settings of live videos](https://vimeo.zendesk.com/hc/en-us/articles/360001205427-Changing-the-privacy-settings-of-your-Live-videos).
+
+## Showcases
+
+With a [showcase](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcases), you can organize videos together to share publicly or privately. A showcase is a great way to distribute a collection of videos to any audience. And with password-protection, you can control exactly who gets to see each one.
+
+### Create a Showcase
+
+1. Click the `+` icon in the left sidebar menu next to `Showcases`.
+1. Input a title and description for your showcase.
+1. Select the [privacy level](/handbook/marketing/marketing-operations/vimeo/#privacy-settings-overview) for your showcase. The privacy level you select will determine whether you toggle `SEO: Show in Google results` on or off.
+1. In the right window pane, click the `Add video` button to add on-demand videos to your showcase. You can also create a [live event](/handbook/marketing/marketing-operations/vimeo/#live-events) for the showcase. 
+1. In the left sidebar menu, click `Assets`. Here you can add branded assets to your showcase including a logo, thumbnail, and accent color.
+1. In the left sidebar menu, click `SEO`. If you toggled `SEO: Show in Google results` off in step 3, disregard this step. If you toggled `SEO: Show in Google results` on, input the site title, description and meta keywords for this showcase. 
+1. In the left sidebar menu, click `Web`. Toggle on/off the various layout options for your showcase. The right window pane shows a preview of how your showcase will look as you toggle your options. 
+1. In the `Domain` tab, select `Vimeo URL`. In the right window pane, you can customize the URL of your showcase and then copy the link. 
+1. In the left sidebar menu, select `Embed` if you are embedding your showcase on the website. Toggle on/off the embed options for your showcase before copying the embed code. 
+1. Once you've finalized your showcase options, click the `Share` button in the top right navigation. You can copy the link or send it via email with an optional message.   
 
 ## Implementation
 
