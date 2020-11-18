@@ -877,65 +877,9 @@ GitLab's Community Relations team reviews and manages our community events (typi
 
 For Field Marketing campaign tag details, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags).
 
-### AMER Field Marketing Swag
+### Field Marketing Swag and Event Assets
 
-The AMER Field Marketing team utilizes our swag vendor, Nadel. Nadel is available to produce, ship and store swag and event material. The FMM is responsible for accessing the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2095144&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) via the Field Marketing team login available in the 1Password Marketing Vault to order all swag and trade show items for their events.
-
-Nadel Portal Demo - [View Here](https://drive.google.com/open?id=1JGGjmWioXmwKI8t1zowqyfl22GKeaOk3)
-Nadel Admin Portal Demo - [View Here](https://drive.google.com/open?id=1YNNjr-A8OJVLuod27vWfTCbEO1y21d9T)
-
-- **Existing Items:** Item quantities are listed in the portal. Please select from the current items in stock for your event. If you need a larger quantity of an item over what is available, please reach out to `@krogel` for reordering.
-- **New Items and Designs:** Requests for new swag items not already available in the Nadel portal require management approval. Any new swag designs must be approved by the brand team for brand consistency. Nadel will email all final designs to the brand team for approval. You can suggest new designs by emailing merch@gitlab.com.
-- **Large Orders:** For orders over 500 pieces, please do not pull from existing stock in the Nadel portal. Contact `@krogel` for assistance on placing a new order.
-- **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items. Nadel will provide return shipping labels with each order for easy return shipping to the warehouse after your event.
-- **Lead Times:** Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected and design approval. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs.
-- **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account. Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the corporate marketing project using the swag request template.
-
-### AMER Field Marketing Event Assets
-
-Each FMM and FMC is to keep a GitLab tablecloth, popup banner and table runner with them to be utilized for events. Ordering instructions are provided during onboarding, but if replacement items are needed, please contact your Field Marketing Coordinator. Additional event assets (including popup booths) are stocked at the Nadel warehouse and can be shipped via the [Nadel Portal](https://rhu270.veracore.com/v5fmsnet/MONEY/OeFrame.asp?PmSess1=2406114&Action=LOGIN&pos=GIT476&v=4&OfferID=&sxref=) utilizing the Field Marketing team login available in the 1Password Marketing Vault.
-
-#### Returning AMER Field Marketing Event Assets
-
-It is the FMM’s responsibility to not only ship assets to events, but to also ensure the onsite event DRI ships the items back within **3 days** of the end of the event. When shipping items via the Nadel portal, there is an option to include return shipping labels during the ordering process so items can be sent back to Nadel directly. The return shipping labels will be included on the outside of the box in a sleeve marked `Return Documents Enclosed`. The FMM is to make sure the onsite event DRI is aware of the location of the return shipping labels. If a return shipping label is not included for any reason during the Nadel ordering process, the FMM is to provide the GitLab Fedex account number (available in the 1Password Marketing Vault) and the return shipping address listed below to the onsite event DRI. The onsite event DRI will then need to drop off the items to a Fedex location.
-
-**Nadel Warehouse Address for Returns:**
-DG Receiving Dept - GIT476 (FM)
-2270 E 220th Street
-Deliveries To: Dock Door 21
-Carson, CA 90810
-
-### AMER Sales Welcome Swag Kits
-
-New AMER sales team members will be provided the [AMER Sales Welcome Swag Kit Order Form](https://docs.google.com/forms/d/1MDEnjM-K-ootOzf2SBT-8KQWYjN4bedZu4ActvFrYds/edit) in their Google Classroom training module. Please take note of the approved sales teams listed in the form to make sure you are eligible for a kit and please limit to one kit per person. New orders are placed once a week and order confirmations, as well as shipping confirmations, will be sent out by our swag vendor, Nadel. For any questions please contact `@krogel`.
-
-### AMER Sales Swag Requests
-
-Please utilize the [Printfection Sales Swag](https://get.printfection.com/dcdzm/6508378270) link. This link is for GitLab internal use only and you must log in with your @gitlab.com address. If you are a new user enter your @gitLab.com address in the login page and follow the instructions to set up your account.
-
-### EMEA Field Marketing Swag
-
-The EMEA Field Marketing team utilises the swag vendor [Ten&One](https://www.tenandone.com). Ten&One is available to source, fullfillment, ship and store swag and event material. The FMC is responsible for ensuring adequate stock levels and coordinating field event swag logistics.
-
-**Invoicing:** All invoices for Field Marketing are required to include the Campaign Tag `swag_field` to allow for proper finance coding.
-
-- **Existing Items:** Item descriptions and quantities are listed in the Ten&One portal, please reach out to `@helenadixon` for current inventory levels.
-- **New Items and Designs:** Requests for new swag items not already available require management approval. Any new swag designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
-- **Large Orders:** For orders over 500 pieces, contact `@helenadixon` for assistance.
-- **Shipping:** Please make sure to specify all shipping requirements and deadlines when ordering your items.
-- **Lead Times:** Please be aware that ordering newly designed swag or placing reorders for existing items requires adequate lead time. Timeframes vary greatly based on the items selected and design approval. General Lead Times: 6 weeks to produce a new item and 2-3 weeks to reorder current designs.
-- **Stickers:** For sticker orders, please utilize our [Sticker Mule](https://www.stickermule.com/) account or contact @helenadixon for assistance with ordering.
-Delivery options and timelines are provided during the ordering process. Any new sticker designs must be approved by the brand team for brand consistency. You can suggest new designs in the swag slack channel or more formally in an issue in the [Swag Project](https://gitlab.com/gitlab-com/swag_suggestions).
-- **Non-Marketing, How to request SWAG for EMEA events:** For orders from non-marketing, create an issue in the [Field marketing project](https://gitlab.com/gitlab-com/marketing/field-marketing/issues) using the `EMEA_SWAG_Request_template`. This will add all labels automatically.
-- **Field Marketing, How to request SWAG for EMEA events:** For Field Marketing EMEA, add your SWAG request to the description in the `EMEA_Event_Field_Marketing` template.
-- **Required information**:
-    - Contact name(s)(onsite contact)
-    - Complete shipping address (Be specific as possible)
-    - Phone number
-    - Email address
-    - Date (timeline when shipping can arrive)
-    - Swag items required and Quantities
-- **Return items to warehouse**: FMC will coordinate with Ten&One the return of all banners, table cloths, back walls, counter top, iPads (not SWAG) back to Ten&One Address: Agentur, Meyerbeerstraße 12, 81247 München, Germany, Phone: +49 89 2554190
+For all details regarding Field Marketing Swag and Event Assets, please visit the Field Marketing page [here](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-swag).
 
 ### AMER Field Marketing QR Codes for Events
 
@@ -1011,18 +955,6 @@ Design will then create and provide a PDF for the FMM/FMC to print on their own 
 ### Field Marketing Venue Search
 
 For venue search requests, the FMM can open an issue utilizing the [`Venue_Search`](https://gitlab.com/gitlab-com/marketing/field-marketing/issues/new?issuable_template=Venue_Search) template. Follow the instructions to provide event details and assign to the regional FMC.
-
-### Field Marketing Event Copy Deadline Process
-
-- FMM to assign MPM and FMC when creating the event issue
-- FMC to attach their regional event tracking label to the event issue and confirm MPM is assigned and all appropriate labels have been included
-- MPM to create epic and related issues and assign to FMM and FMC
-- FMC to add all copy deadlines for MPM issues to main event issue under the `Copy Deadline` section
-- FMC to confirm that each email issue has a calendar event created in the `Email Marketing Calendar` with a link to the event epic, and that `Add to Calendar` has been checked in the issue
-- FMM to update Copy Document file with copy and keep the Copy Document link in the epic. Sample Templates [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH)
-- For event issues that include `Follow up: planned from Field Marketing`, FMC to link follow up issue in this section once follow up issue has been created
-- FMM to check off deadline tasks and ping the MPM in the corresponding MPM issue as they are completed
-- One (1) business day before task is due, FMC to ping FMM in corresponding MPM issue with copy reminder
 
 ### Lightning meetings with CXO
 
