@@ -310,8 +310,9 @@ The most important part of the performance factor discussion is to determine nex
 Our [Career Development handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) includes a lot of great information and resources on career development including [an individual growth plan template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) and [career development worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2) which should help provide structure and a plan for next steps. 
 If you have any questions or concerns about next steps, please contact your manager and/or your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
 
+## FAQs 
 
-### Performance / Potential Review General FAQs
+### Performance/Potential Review General FAQs
 * **How is this different from what we did in the past?** <br>
     * **Addition of the Talent Review Process:** In the past, we did not have a company-wide talent review process. Some groups leveraged a 9-box format, skill/will matrices but there was no formal program to support the review of team members. With this newly-launched process, we plan on having talent review cycles company-wide twice a year using the same assessment template. <br>
     * **Changes to the Annual Compensation Review Program:** In the past, in preparation for the Annual compensation review, managers went through a process to assess someone’s knowledge, skills, and abilities, also known as their compa group. This would directly feed as an input to the compensation review program in addition to location factor changes and cost of living adjustments. For this year, we are replacing the compa group assessment with a performance factor. Location factor changes will continue to be incorporated into the program and we are removing cost of living adjustments. <br>
@@ -353,7 +354,7 @@ This change will impact both team members and managers.
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
-### Performance / Potential Communication FAQs:
+### Performance/Potential Communication FAQs:
 * **Q:** “Can my performance factor be changed?”
 * **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
 * **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
