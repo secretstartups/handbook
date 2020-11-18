@@ -99,6 +99,9 @@ The following process outlines steps for the L&D team to take when planning and 
 
 `Join the Learning and Development team on [DATE] for the Learning Speaker Series Call. This month's call features [PERSON] and their experience with [BACKGROUND}. You can review the slide deck for the call [HERE], and post questions you might have in the call adenga doc [HERE]. Looking forward to seeing you there!`
 
+## Learning & Development Quarterly Newsletter
+
+The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community. 
 
 ## Take Time Out To Learn Campaign
 
