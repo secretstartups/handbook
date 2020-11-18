@@ -204,7 +204,7 @@ These are the current segmentations that are alive and approved.
 
 ### Account Based Marketing List   
 
-ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
+ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. You can find these lists in the DMA folder in the [Marketo Database](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52943077A1).
 The **MktgOps** team is responsible for creating & maintaining these lists. 
 
 If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
