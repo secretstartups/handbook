@@ -27,6 +27,11 @@ See [the exhaustive list of projects](#projects) the group maintains.
 The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as
 [Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/).
 
+### Experiments
+
+In addition to the above workflows, the Composition Analysis group can be involved in some [experiments](/handbook/engineering/development/secure/workflow/#ongoing-experiments)
+which might temporarily alter how we work.
+
 ### Reaction rotation
 
 On top of our development roadmap, engineering teams need to respond to additional requests (support, community contributions, security vulnerabilities).
