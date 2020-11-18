@@ -302,6 +302,10 @@ With a [showcase](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcase
 1. In the left sidebar menu, select `Embed` if you are embedding your showcase on the website. Toggle on/off the embed options for your showcase before copying the embed code. 
 1. Once you've finalized your showcase options, click the `Share` button in the top right navigation. You can copy the link or send it via email with an optional message.   
 
+### Custom Domains 
+
+A [custom domain](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcases#customdomain) can be created for your showcase. If you are interested, please open an issue in marketing ops. 
+
 ## Implementation
 
 [See epic for more info](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1100). 
