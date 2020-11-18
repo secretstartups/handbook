@@ -12,7 +12,7 @@ title: Crucial Conversations
 
 # Crucial Conversations at GitLab
 
-Any synchronous or asynchronous engagement with team members may turn into a crucial conversation. At GitLab, we can develop the skills of sensing the tone of an async or sync conversation to uncover potential pain-points, risks, blockers, etc for team members. We need to find a way to create [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#introduction/) for our people. Using a 1-1 can be a great way to gain context on a situation a team member is facing and hold a crucial conversation. 
+Any synchronous or asynchronous engagement with team members may turn into a crucial conversation. At GitLab, we can develop the skills of sensing the tone of an async or sync conversation to uncover potential pain-points, risks, blockers, etc for team members. We need to find a way to create [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#introduction) for our people. Using a 1-1 can be a great way to gain context on a situation a team member is facing and hold a crucial conversation. 
 
 What is a Crucial Conversation: According to the [book](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?dchild=1&keywords=crucial+conversation&qid=1605712836&sr=8-1), a conversation to be crucial is that the results of it could have a huge impact on the quality of your life. A conversation involving a promotion, performance, debate between coworkers, etc. In short crucial conversations are discussions between two or more people where: 
 1. Stakes are high
