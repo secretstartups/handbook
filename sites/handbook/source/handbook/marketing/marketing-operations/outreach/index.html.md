@@ -22,18 +22,19 @@ Outreach provides educational courses via their [Outreach University Pathways](h
 
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
-We currently have two types of sequences. Master and personal. Master sequences are created to be shared and used across teams. Personal are for your own use.
+We currently have two types of sequences. Primary and personal. Primary sequences are created to be shared and used across teams. Personal are for your own use.
 
-Naming convention for master sequences include the following:
+Naming convention for primary sequences include the following:
 
-- MASTER
-- LOW or HIGH touch
+- REGION (WW, AMER, EMEA, APAC)
+- PRIMARY or PERSONAL
+- Language
 - Name of campaign
-- Region or language (NORAM, APAC, EMEA or Spanish, French, Russian, ect)
+- HIGH or LOW touch
 
-Example: | **MASTER - HIGH - Just Commit - NORAM**
+Example: | **EMEA PRIMARY English Just Commit HIGH**
 
-When creating a new master sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
+When creating a new primary sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
 
 ### Sequence Settings
 You may choose the best delivery schedule and ruleset applicable to your goals. 
