@@ -75,11 +75,11 @@ _Tip:_ You can create a dedicated slack section for all of your Troops related c
 
 ### SA Specific Opportunity Fields
 
-To assist with the analysis of SA guided technical evaluations by our prospects and customer, the SA team maintains four opportunity fields in Salesforce. These four fields can also be updated through Troops.ai or within the opportunity in Salesforce:
+To assist with the analysis of SA guided technical evaluations by our prospects and customer, the SA team maintains four opportunity fields in Salesforce. These four fields can be updated through Troops.ai or within the opportunity in Salesforce:
 
 - **Primary SA** - The primary SA assigned to and working on the opportunity.
-- **SA Validated Tech Evaluation Start Date** - The date the SA started engaging with a prospect or customer on a technical evaluation.
-- **SA Validated Tech Evaluation End Date** - The date the SA stopped engaging with a prospect or customer and the technical evaluation is deemed closed as a technical win, loss, or a stalled evaluation.
+- **SA Validated Tech Evaluation Start Date** - The date the SA started engaging with a prospect or customer on a technical evaluation. This date should mark the first time the SA engages with the customer in which they soon after begin a technical evaluation such as a trial or proof of value.  When the SA joins an initial meeting and the prospect does not seriously engage months later, the start date should reflect when they seriously engaged.
+- **SA Validated Tech Evaluation End Date** - The date the SA stopped engaging with a prospect or customer from an evaluation standpoint and the technical evaluation is deemed closed as a technical win, loss, or a stalled evaluation. This has no connection to whether or not the deal closes with a win or loss, as there may be non-technical variables that may impact the success of a deal after a technical evaluation.
 - **SA Validated Tech Evaluation Close Status** - The close status of the technical evaluation:
 There are two ways to update these fields in Troops.ai:
 While all of these fields can be updated and changed anytime as an opportunity evolves, the end date and close status should not be populated as a forecast.
@@ -88,6 +88,8 @@ While all of these fields can be updated and changed anytime as an opportunity e
     - **Win** - The technical evaluation has ended, and the prospect or customer agrees the GitLab solution meets their requirements.
     - **Loss** - The technical evaluation has completed, but the prospect or customer is choosing an alternative solution or not changing their current process due to deficiencies with the evaluated GitLab solution.
     - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation-related activities for at least two weeks.
+
+Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the soltuion, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is mimimal.
 
 ### Proof of Value (POV) Updates
 
