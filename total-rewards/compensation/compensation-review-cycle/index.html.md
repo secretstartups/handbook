@@ -193,17 +193,22 @@ The location factor review is an internal process completed by the Total Rewards
 
 The location factor review is completed in November. It can be completed once the October ERI data refresh has been updated.
 
-#### Performance Factor Executive Audit
+#### Underrepresented Group Audit
 
-The Total Rewards team will create this review for the executive of each division and their People Business Partner in order to audit and address any concerns with the performance factors submitted across their division. 
+The Total Rewards team will run an audit twice throughout the Compensation Review Process to review any statistically relevant bias for underrepresented groups: after the Performance Factor submissions (December) to review distribution of performance ratings and after Manager Review (January) to review the distribution of discretionary increase allocations. 
+
+This analysis will be conducted at the department level, for each department leader to review, as well as all other indirect leaders up to the e-group level. The executive of each division as well as their People Business Partner will address any concerns with the performance factors or discretionary increase allocations submitted across their division. 
 
 ##### Process
 
-TODO
+The Total Rewards Team will audit with the following data breakdowns (as aligned in our [Identity Data Metrics](https://about.gitlab.com/company/culture/inclusion/identity-data/)): 
+* Ethnicity (only in the United States as we work on adding globally relevant [ethnicity categories to BambooHR](https://gitlab.com/gitlab-com/diversity-and-inclusion/-/issues/347) for self-identification)
+* Tenure 
+* Gender (as self reported in BambooHR)
+* Geographic Region 
+* [Grade](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-##### Timing
-
-All performance factors are to be submitted by November 30th. This can be finalized soon after all inputs are received. 
+TODO: Create a template to automatically sync for each department leader, indirect manager, and overall e-group leader. 
 
 ##### People Business Partner Action Required
 
