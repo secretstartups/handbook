@@ -115,18 +115,16 @@ There are two sections, [General Suggestions](/handbook/customer-success/tam/cad
 
 These are suggestions that can be used at any time on customer calls.
 
-- Are you running the most recent version / patch of gitlab?
-- Have you recently tested restoring from a backup?
-- Are signups enabled? Do you want them to be?
-- Review upcoming features / releases
-- Discuss planned upgrades and if they need [Live Upgrade Assistance](/support/scheduling-live-upgrade-assistance.html#how-do-i-schedule-live-upgrade-assistance)
-- Stage adoption questions
-- Discovery questions about their usage and processes
-- Do your users have any feedback?
-- Are there any areas for enablement or training?
-- How are you leveraging other tools / integrations?
-- What are your best practices and typical workflows?
+- Questions about their [success plan objectives](/handbook/customer-success/tam/success-plans/questions-techniques/) and review of progress
+- Review upcoming features and releases
+- Review their current version, planned upgrades, and if they need [Live Upgrade Assistance](/support/scheduling-live-upgrade-assistance.html#how-do-i-schedule-live-upgrade-assistance)
 - Questions relating to [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
+- Discovery questions about their usage, best practices, typical workflows, etc.
+- Discuss if there are any areas for user enablement or training
+- Questions about how they are leveraging other tools or integrations
+- Discuss if their users have any feedback
+- Discuss their backup/recovery plans and if they have recently tested restoring from a backup
+- Discuss if they have signups enabled
 
 ### Ephemeral Suggestions
 
