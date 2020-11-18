@@ -249,6 +249,8 @@ In wikis it is impossible to make proposals that touch multiple parts of a page 
 
 Wikis also do not encourage collaboration on changes, because there is no way to discuss a proposed change like there is with merge requests.
 
+Some wikis make it hard to view and/or link to diffs of changes, which is needed to communicate decisions.
+
 ## External use of the Handbook
 
 Remember that, like virtually everything we do, our handbook is [open source](/solutions/open-source/), and we expect that other companies may use it as inspiration for their own documentation and practices. That said, the handbook should always be specific on **what we do**, not **who we want to be**, and every company will need to fill out their own handbooks over time. Our handbook falls under the [Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
