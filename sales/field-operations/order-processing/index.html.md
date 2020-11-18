@@ -408,6 +408,9 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 
+## **Customer Reference Quotes** 
+
+If Customer Reference language has been included on the quote object and order form, the "Reference Discount" box will be checked on the quote object by the Deal Desk team. 
 
 ## **How to Submit a Quote for Discount and Payment Term Approval**
 
