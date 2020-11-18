@@ -23,6 +23,7 @@ Congratulations! You have exercised (a batch of) GitLab stock options. You are p
 * [Germany](/handbook/tax/stock-options/germany/)
 * [Ireland](/handbook/tax/stock-options/ireland/)
 * [Netherlands](/handbook/tax/stock-options/netherlands/)
+* [New Zealand](/handbook/tax/stock-options/newzealand/)
 * [United Kingdom](/handbook/tax/stock-options/unitedkingdom/)
 * [United States of America](/handbook/tax/stock-options/unitedstates/)
 
