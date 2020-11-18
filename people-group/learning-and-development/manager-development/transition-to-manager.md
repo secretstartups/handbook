@@ -25,6 +25,24 @@ Some of the challenges you might face are:
 
 To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
 
+#### Working with a new team
+
+A new team can take many forms:
+1. You (the manager) are new to a team that is already in place
+2. Your existing team picks up 1 or more new team members
+3. Your team becomes smaller and team members have to pick up more tasks
+
+In any of these cases, learning is really important.  You all need to learn about each other and how you will work together.  You all need to learn about the work you need to do as a team.  There may be one team member who knows a lot.  How do you get that knowledge shared?
+
+Here are some ideas to help you and/or your team get up to speed:
+
+##### Rotating Team work
+Something to try on a team where 50% may be new and 1 or 2 people have knowledge you want to share.
+Try setting up a rotation where team members work together on an issue.  1 of the pair needs to have good knowledge of what to do and the other is the learner.  Every 2-3 days, the pair has to rotate.  The team member who has been on the issue the longest has to go to a new issue and the remaining team member in the pair has to teach the new team member joining the issue what is being done.  This can be really uncomfortable at first and may slow things down, but it will help force knowledge sharing.
+
+##### Shadow people for part of a workday
+Have new team members setup time slots to shadow other team members or stable-counterparts for part of a day.  The mentor/shadowee will need to be more vocal in explaining what they are doing.  
+
 #### Finding the balance between contributing and managing 
 
 Let’s take a closer look at just two of the challenges you might face.  The first is finding a balance between contributing and managing.
