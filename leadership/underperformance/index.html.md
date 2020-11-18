@@ -47,6 +47,18 @@ Managing underperformance is very important because it reinforces acceptable sta
 It is hard because frequently the underperformance is due to a mistake we made in hiring, on boarding, and/or coaching.
 It is also hard because it is a hard message to give and receive that someone's performance is not adequate.
 
+## Frequency and Metrics
+ 
+We expect above 5% of our team members to experience explicit performance management on an annual basis, and we expect greater than 50% to be successful. We track this in meetings like the People Group Key Review and [People Group Metrics](/handbook/people-group/people-group-metrics/#performance-management) to make sure we're managing performance consistently and fairly across all divisions, and in all circumstances. However, we don't enforce any hard thresholds.
+ 
+This results in a lower rate of involuntary attrition than comparable companies, which range from 5 to 15% annually. We justify this based on the up-front effort we put into the hiring process. Divisions have various quantitative and qualitative processes for ensuring new hires can be successful at GitLab. This includes, but is not limited to:
+ 
+* Requiring two "strong yes" votes from the interview team to make an offer
+* Requiring that candidates demonstrate all documented must-have criteria for the role
+* Requiring that candidates demonstrate a simple majority of all nice-to-have criteria for the role
+* Requiring that hiring managers write a "justification" scorecard that outlines the candidate's strengths, outlines their weaknesses, and articulates a plan for making them successfully
+* Requiring that hiring managers fill out a retrospection document for all unsuccessful hires
+
 ## Options For Remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
