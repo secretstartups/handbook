@@ -59,6 +59,16 @@ The [video manager](https://vimeo.zendesk.com/hc/en-us/articles/115004610668-The
 
 When you navigate to Vimeo.com, you first land in the video manager (when logged in). The video manager houses all videos uploaded, both public and private, as well as video drafts, showcases, and any live events.
 
+You can also navigate to the `Videos` sidebar menu option to access the video manager. 
+
+### Create a Folder
+
+1. Click the `+` icon next to the `Videos` sidebar menu option. 
+1. Enter a descriptive name for the folder. 
+1. If you want to share this folder with specific team members, add them by email address or by selecting them from the team members in the account list.
+1. In the `Notifications` tab, you can toggle the ability to connect to Slack to send folder notifications so you can track team activity on videos, review pages, and more.
+1. When done inputting your folder info and options, click `Create`. 
+
 ## Live Events
 
 For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
