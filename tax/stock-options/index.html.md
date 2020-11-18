@@ -21,6 +21,7 @@ Congratulations! You have exercised (a batch of) GitLab stock options. You are p
 * [Belgium](/handbook/tax/stock-options/belgium/)
 * [Canada](/handbook/tax/stock-options/canada/)
 * [Germany](/handbook/tax/stock-options/germany/)
+* [Ireland](/handbook/tax/stock-options/ireland/)
 * [Netherlands](/handbook/tax/stock-options/netherlands/)
 * [United Kingdom](/handbook/tax/stock-options/unitedkingdom/)
 * [United States of America](/handbook/tax/stock-options/unitedstates/)
@@ -33,7 +34,7 @@ For the sake of clarity: the word “spread” used in the table below means the
 |-----------------|----------------------|------------------------|
 | Austria         | Income tax will be due on the spread at exercise. Social insurance contributions are due on the spread, to the extent the service provider has not reached the applicable contribution ceilings.| No withholding or reporting obligation upon the exercise.|
 | Belgium | Assuming that the stock option grant is accepted within 60 days of the offer: no taxation at exercise unless the service provider executed an undertaking not to exercise the options prior to the end of the third calendar year following the calendar year of the offer date and he or she has breached the undertaking. When this is the case, the contractor will be subject to an additional tax liability on the date of exercise.| GitLab will not report the exercise or the taxable amount unless the service provider accepted the options within 60 days of the original offer and executed an undertaking not to exercise the options prior to the end of the third calendar year following the calendar year of the original offer date and he or she has breached the undertaking.|
-| Brazil | No tax is due upon the exercise of the option.| No withholding or reporting obligation upon  exercise.|
+| Brazil | No tax is due upon the exercise of the option.| No withholding or reporting obligation upon exercise.|
 | Canada | Both federal and provincial taxes are due on the spread.| Not withholding of federal and provincial income taxes or Canada Pension Plan (or Quebec Pension Plan) contributions upon exercise. Reporting of the taxable amount at exercise to the service provider on a Form T4A that will be filed with the Canada Revenue Agency.|
 | Chile | Income tax is due on the difference between the sale proceeds and the service provider's cost basis in the shares (i.e. the fair market value of the shares on date the option vested).| No withholding or reporting obligation upon the exercise and sale of shares.|
 | France | Income tax and social security contributions will be due on the spread at exercise. Some of the social security contributions may be deductible for French income tax purposes. An additional surtax will apply to the extent the service provider's income exceeds specified thresholds.| No withholding or reporting obligation upon the exercise and sale of shares.|
