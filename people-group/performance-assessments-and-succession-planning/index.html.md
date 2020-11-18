@@ -307,7 +307,7 @@ As a next step, let's schedule some time to talk more about what you want to do 
 
 ### Performance / Potential Communication FAQs:
 * **Q:** “Can my performance factor be changed?”
-* **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to change performance factor ratings in future programs. We plan to evaluate performance factors every 6 months.
+* **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
 * **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
 * **A:** The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
     * Your hire date (new hires hired after October 31st are ineligible for compensation review)
