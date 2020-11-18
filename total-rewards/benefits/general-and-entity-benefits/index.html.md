@@ -156,8 +156,13 @@ Note: The above process is not required if the course is being offered to you at
 
 Examples of English Language Courses:
  * [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities. Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development
- * English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
- * Please add any recommendations to this list.
+ * [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English. [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication.
+ * Language learning Apps and sites can be effective tools.
+   * [duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
+   * [Memrise](https://www.memrise.com/) is helpful for vocabulary building.
+   * Use [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
+ English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
+ * Please add any recommendations and review to this list.
 
 #### Tuition Reimbursement for Your 4th Trimester
 
