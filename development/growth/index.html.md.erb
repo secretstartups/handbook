@@ -20,7 +20,7 @@ The Growth sub-department consists of groups that eliminate barriers between our
 
 **Deliver product analytics data that improves our product**
 
-The [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) Group is responsible for:
+The [Product Analytics](/handbook/engineering/development/growth/product-analytics/) Group is responsible for:
 
 Collection
 - Collect information from GitLab.com and self-managed instances to improve our product
@@ -35,17 +35,17 @@ Analysis
 
 We focus on validating ideas with data across the following four Groups:
 
-[Adoption Group](/handbook/engineering/development/growth/adoption/)
-- Adopt Create [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
-
 [Activation Group](/handbook/engineering/development/growth/activation/)
 - Adopt Verify [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
 
+[Adoption Group](/handbook/engineering/development/growth/adoption/)
+- Adopt Create [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+
+[Conversion Group](/handbook/engineering/development/growth/conversion/)
+- Trial conversion rate [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+
 [Expansion Group](/handbook/engineering/development/growth/expansion/)
 - Invite team members [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
-
-[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
-- Trial conversion rate [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 The Growth groups also provide development input into two Growth product areas of focus:
 
@@ -59,13 +59,13 @@ counterparts to design and implement experiments that measure the impact of chan
 
 The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking throughput and ownership of issues and merge requests.
 
-| Group name                                                | Group label                   |
-| ----------                                                | -----------                   |
-| [Product Analytics](conversion-product-analytics/)        | `~"group::product analytics"` |
-| [Activation](activation/)                               | `~"group::activation"`       |
-| [Conversion](conversion-product-analytics/)               | `~"group::conversion"`        |
-| [Expansion](expansion/)                                   | `~"group::expansion"`         |
-| [Adoption](adoption/)                                   | `~"group::adoption"`         |
+| Group name                                 | Group label                   |
+| ----------                                 | -----------                   |
+| [Product Analytics](product-analytics/)    | `~"group::product analytics"` |
+| [Activation](activation/)                  | `~"group::activation"`        |
+| [Adoption](adoption/)                      | `~"group::adoption"`          |
+| [Conversion](conversion/)                  | `~"group::conversion"`        |
+| [Expansion](expansion/)                    | `~"group::expansion"`         |
 
 
 ## Members
@@ -73,7 +73,7 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 The following people are permanent members of the Growth sub-department:
 
 <%=
-departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Analytics', 'Static Site Editor']
+departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Analytics']
 department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
@@ -86,14 +86,14 @@ The following people are permanent members of groups that belong to the Growth s
 ### Activation
 <%= department_team(base_department: "Activation Team") %>
 
+### Adoption
+<%= department_team(base_department: "Adoption Team") %>
+
 ### Conversion
 <%= department_team(base_department: "Conversion Team") %>
 
 ### Expansion
 <%= department_team(base_department: "Expansion Team") %>
-
-### Adoption
-<%= department_team(base_department: "Adoption Team") %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
@@ -129,7 +129,7 @@ role_regexp = /[,&] (Growth|Product Analytics)/
 direct_manager_role = 'Director of Engineering, Growth'
 other_manager_roles = [
   'Backend Engineering Manager, Growth:Conversion and Product Analytics, Product Manager (Acting), Product Analytics',
-  'Backend Engineering Manager, Growth:Activation, Expansion and Adoption'
+  'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
