@@ -19,13 +19,13 @@ The Create:Code Review FE team is responsible for all frontend aspects of the pr
 
 The following people are permanent members of the Create:Code Review FE Team:
 
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Source Code)Code Review/) %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Code Review)/, direct_manager_role: 'Frontend Engineering Manager, Create:Code Review', other_manager_roles: ['Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability']) %>
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Code Review)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
 
 ## KPIs
 
