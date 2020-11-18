@@ -361,7 +361,7 @@ Issue Status: `Closed`
 | Role          | Function |
 |---------------|----------|
 | DRI           | **Development**: Close issue after it's available in production. <br/>**Product Manager**: Initiate [release post item creation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#release-post-item-generator) if they decide it's warranted. <br/>**Product Manager**: Initiate [dogfooding process](https://about.gitlab.com/handbook/product/product-processes/#dogfooding-process) if they decide it's applicable. <br/>**Product Manager**: Consider alerting relevant stakeholders in appropriate Slack channels. |
-| Collaborators | Development team, quality counterpart, and Product Manager may verify the issue is working as expected in production. (Primary verification is, of course, performed prior to production whenever possible.) Technical Writers create any documentation issues or MRs required to address issues identified during review that weren't resolved. |
+| Collaborators | Development team, Quality counterpart, and Product Manager may verify the feature is working as expected in production. (Primary verification is, of course, performed prior to production whenever possible.) <br/>-Technical Writers create any documentation issues or MRs required to address issues identified during review that weren't resolved. |
 | Informed      | [Stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) for the change (including customers, open-source users, and GitLab team members) will be informed about the feature by the change in the status of the issue or the release post. GitLab team members may also be informed by posts in relevant Slack channels. |
 
 #### Description
