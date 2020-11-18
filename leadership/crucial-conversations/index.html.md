@@ -12,8 +12,36 @@ title: Crucial Conversations
 
 # Crucial Conversations at GitLab
 
+Any synchronous or asynchronous engagement with team members may turn into a crucial conversation. At GitLab, we can develop the skills of sensing the tone of an async or sync conversation to uncover potential pain-points, risks, blockers, etc for team members. We need to find a way to create [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#introduction/) for our people. Using a 1-1 can be a great way to gain context on a situation a team member is facing and hold a crucial conversation. 
 
-# Compensation Review Conversations
+What is a Crucial Conversation: According to the [book](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?dchild=1&keywords=crucial+conversation&qid=1605712836&sr=8-1), a conversation to be crucial is that the results of it could have a huge impact on the quality of your life. A conversation involving a promotion, performance, debate between coworkers, etc. In short crucial conversations are discussions between two or more people where: 
+1. Stakes are high
+2. Opinion vary
+3. Emotions run strong
+
+Most of us are good at avoiding them because it's human nature to avoid pain and discomfort when addressing a crucial conversation. So what do you do when faced with a crucial conversation?
+1. We can avoid them
+2. We can face them and them poorly
+3. We can them and handle them well
+
+At GitLab, there can be many instances where a crucial conversation is needed. Whether it is addressing the underperformance of a team member, discussing the results of promotion, interviewing, being notified that a high performer is leaving the team, etc. The Crucial Conversations book has strategies laid out that can help master one:
+1. Power of Dialogue: Gaining information and context on the situation. The free flow of meaning between two or more people. 
+2. Shared Meaning: Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. 
+3. Start with the Heart: If you can’t get yourself right, you’ll have a hard time getting dialogue right by looking inward first. Apply empathy in the moment by asking questions to yourself that return you to the dialogue:
+   - What do I really want for myself?
+   - What do I really want for others?
+   - What do I really want for the relationship?
+   - How would I behave if I really wanted these results?
+4. Learn to Look - How to Notice When Safety is at Risk: It can be difficult to see what exactly is going on and why during crucial conversations. Watch for these situations to learn to spot one: 
+   - The moment a conversation turn crucial
+   - Signs that people feel safe
+   - Your own style under stress
+5. Make It Safe: Nothing kills dialogue than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
+6. Master Your Stories: Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
+
+**Below are additional examples and scenarios of Crucial Conversations at GitLab**
+
+## Compensation Review Conversations
 
 ### Compensation Review cycles
 
@@ -78,7 +106,7 @@ Check the most up to date information with regards to our [Annual Compensation R
 
 # Career Development Conversations
 
-## Why career development for team members is key to being a great leader
+### Why career development for team members is key to being a great leader
 
 Providing team members with a clear path of advancement within the group, department or division that includes career development opportunities is a win-win-win for team members, managers and GitLab.  Team members who are challenged, engaged and who are actively contributing relevant solutions stay with organizations. An engaged workforce allows the department and divisions to meet their current and future needs for talent and skills and increases performance and decreases regrettable attrition.
 
