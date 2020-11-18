@@ -290,8 +290,8 @@ Bartek Marnane (Director of Engineering, Growth)
 **How the team works:** The team cross collaborates with the product team and other engineering departments to build out features that drive their respective product stages to maturity and beyond.
 **Links to relevant Handbook pages:**
 [Product categories page](/handbook/product/product-categories/#growth-section)
-[Growth Team page](/handbook/engineering/development/growth/retention/)
-[Growth Conversion and Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/)
+[Growth Team page](/handbook/engineering/development/growth/)
+[Growth Product Analytics](/handbook/engineering/development/growth/product-analytics/)
 [Fullstack Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4247953002)
 [Fullstack Engineer job family](/job-families/engineering/fullstack-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
