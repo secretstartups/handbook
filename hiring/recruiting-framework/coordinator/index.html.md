@@ -72,8 +72,8 @@ The CES team operates off of a queue style system with differing levels of prior
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse   
    - CES will be using the Zoom integration with Greenhouse for interviews
-- CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)+
-   - 
+- If the candidate is an internal candidate, the CES will tag Recruiting Ops and Insights in the GH profile to merge while candidate is still in the Team Interview stage. 
+- CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)
 - CES will not automatically schedule next interviews based off of scorecards 
    - The Recruiter or Hiring Manager will need to tag `@ces` in Greenhouse with communication about specific next steps
    - Any candidates who receive a no or definitely not scorecard should be discussed with the Recruiter and the Hiring Manager before declining.
@@ -301,7 +301,6 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
    1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops and the hiring manager.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) are included with this email.
-   1. The CES should create a MR on the [Careers page](/jobs/careers/) to remove the vacancy from the list from the [req retro issue](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-10-req-retro-issue). 
    1. Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist can notify the People Experience team in the private Slack channel `people-exp_ces`. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date.  
 
