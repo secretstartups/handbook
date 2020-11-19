@@ -30,7 +30,6 @@ This process is dependant upon the following applications:
 
 **Hiring in Greenhouse**
 
-
 * GitLab uses Greenhouse for recruitment activities **(H2R.C.01 and H2R.C.03)**. Following are the key activities performed through Greenhouse:
 
     * Approving new jobs
@@ -90,15 +89,15 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 * Then click "Save".
 * The next stage is the executive interview stage, where there are two interviews with the executive for the division of the vacancy as well as the optional CEO interview. The executive interview can be customized as needed following the guidelines for the team interview, including selecting attributes, adding custom questions, and selecting a default interviewer.
 * The next stage is for reference checks, with two sections for a former manager and a former peer of the candidate. These can be customized as needed.
-* The last stage is the offer stage. (Please refer creating a vacancy or offer approval flow)
+* The last stage is the offer stage. (Please refer creating a vacancy or offer approval flow).
 
 **Assignment of hiring team**
 
-* The next section is assigning the hiring team & the related access restrictions
+* The next section is assigning the hiring team & the related access restrictions.
 * The first step is to scroll down to the "Who Can See This Job" to assign permissions to the team members who will need access. Continue scrolling to "Job Admin: Hiring Manager" and click the pencil and add the Hiring Manager(s), including their Managers, Directors, and Executive, then click save.
 * Scroll back to the top of the page and select the main people responsible for the job. Under "Hiring Managers", click the pencil and select the Hiring Manager for the vacancy and click save. Under "Recruiters", select the recruiter assigned to the particular division. Under "Coordinators", select the coordinators assigned to the  division.
 * Once the hiring team is added, click "This looks good, NEXT" at the right.
-* The next section is the Approvals section. (Please refer creating a vacancy or offer approval flow)
+* The next section is the Approvals section. (Please refer creating a vacancy or offer approval flow).
 * Double check that the vacancy posted correctly in Greenhouse.
 
 **Creating a vacancy or offer approval flow (If unavailable)**
@@ -154,10 +153,7 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 
 * The hiring team can create specific tracking links through Greenhouse in order to include the specific source of different job boards.
 
-
 **Creating tracking links in Greenhouse for external postings**
-
-
 * Click the [Configure icon](https://docs.google.com/document/d/1Fxpdg3S_5q7J5JqTR7JdVJ0Cc6ijLP0vRK7ilh6pU7c/edit) in the upper-right hand corner and navigate to Job Board on the left-hand panel.
 * Select a job board from the subsequent list and click the ellipsis inline with the job board. Click [Tracking Link](https://docs.google.com/document/d/1e8yL2M0Sc1_ixTbwpEamn_d70xXd26fykf4nwy1McB8/edit) from the dropdown menu.
 * Use the [Get a Tracking Link dialog box](https://docs.google.com/document/d/14Jn5rNltJzTgVVKjR05UEmAyyhekVc4La_pRiwGxdIQ/edit) to configure the Who gets credit and Source fields. Click Create Link when finished.
@@ -192,17 +188,15 @@ After completion of the interview and candidate selection, approval in Greenhous
 
 * It is recommended to also ping approvers, especially the executive (and CEO if needed) in Slack with the message
 
-
 **Template for Message**
 
 "Hiring approval needed for [Candidate Name] for [Position]" with a link to the candidate profile.
 
 To create the link, search for the candidate in Greenhouse, select the candidate, go to their offer details page, and copy the link. Do not copy a link from a different section of their candidate profile.
 
-
 **Final offer approval**
 
-For pending offer approvals needed from the CPO/CEO, there is an #offersSlack channel where the requests should be added.
+For pending offer approvals needed from the CPO/CEO, there is an #offers Slack channel where the requests should be added.
 
 Please ensure the ping has:
 
@@ -212,7 +206,6 @@ Please ensure the ping has:
 
 If the role is for an individual contributor, the CPO or CEO do not need to approve. However, please @mention the CEO in the '#offers' channel with "Offer has been extended for [Candidate Name] for [Position]" and a link to the candidates Greenhouse profile.
 
-
 **Communicating the Offer**
 
 Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse.
@@ -220,7 +213,6 @@ Once the offer package has been approved by the approval chain, the verbal offer
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 
 Greenhouse offer details should be updated as necessary to reflect any changes including start date. Sections updated that will trigger re-approval are noted in Greenhouse.
-
 
 **Employment Contracts**
 
@@ -239,16 +231,15 @@ Greenhouse offer details should be updated as necessary to reflect any changes i
     1. The recruiter will remove the vacancy in Greenhouse and dispose any remaining candidate profiles if necessary. Once complete, the recruiter will ping the Candidate Experience Specialist to close the role or close the role themselves.
     1. The final step before handing off to the People Operations Specialists is for the Candidate Experience Specialist to ensure all fields for the new team member on the GitLab Onboarding Tracker are updated and complete through the "GitLab Welcome Email Sent" column.
 
-
 **Onboarding**
 
-On completion of recruitment and release of offer, People Operations Specialist uses GitLab internal issue tracking tool to create an Onboarding Issue.
+On completion of recruitment and release of offer, People Experience Associates use a GitLab internal automation script to create an Onboarding Issue.
 
-Onboarding issue keeps track of all the tasks to be completed before onboarding a candidate. People Operations Specialist assigns tasks to various team members on the [onboarding issue.](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md)
+Onboarding issues keeps track of all the tasks to be completed before onboarding a candidate. People Experience Associates assigns tasks to various team members in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md).
 
 **Adding a New Team Member to BambooHR**
 
-As part of onboarding, People Operations Specialists will process new hires in BambooHR. Following are the activities performed by People Operations Specialists in BambooHR to update new hires.
+As part of onboarding, People Experience Associates will process new hires in BambooHR. Following are the activities performed by People Experience Associates in BambooHR to complete and update new hires' profiles.
 
 * Effective Date - Hire Date
 * Location - Which entity the new team member is contracted through.
@@ -270,67 +261,65 @@ As part of onboarding, People Operations Specialists will process new hires in B
     * 24 for GitLab Canada Corp in Canada
     * 12 for everyone else paid monthly
 
-
 **Auditing Bamboo HR entries:**
 
-At the end of each week a People Operations Analyst will review all data entered into BambooHR through the Payroll Change Report for audit purposes. Once a month an audit is conducted from all payroll providers to ensure the salary information matches BambooHR.
+All new profiles are usually audited on Day 1 or 2 of a new team member’s first week by the Total Rewards Analyst.  
 
+The Total Rewards Analyst also updates a new team member’s BambooHR access level at this time, from Self-Service (which is the default level) to either Managers; Contractor Self-Service; or both if necessary.
 
+New team member compensation information is also reviewed weekly when the Total Rewards Analysts review the Payroll Change Report. Once a month an audit is conducted from all payroll providers to ensure the salary information matches BambooHR.
 
 ## 2. Employee Master Creation and updates
 
 [Link to flowchart](https://drive.google.com/open?id=1TP-cxXdfDhZ0bhZ3Gvb1qWrl6exuU2U5V08oVLOyU_0)
 
-GitLab uses ADP for payroll processing. Employee masters are created in ADP by the Payroll team before payroll processing based on inputs from Bamboo HR **(H2R.C.10, H2R.C.11, H2R.C.12, H2R.C.14 and H2R.C.15)**.
+**Process for US Team Members**
 
-**Creation of Employee in ADP**
+GitLab uses ADP for payroll processing for all US-based team members only. Employee masters are created in ADP by the Payroll team before payroll processing based on inputs from BambooHR. **(H2R.C.10, H2R.C.11, H2R.C.12, H2R.C.14 and H2R.C.15)**.
 
-Employee profiles are created in ADP
+**Creation of Team Member Profiles in ADP**
 
-The following steps are followed to create an employee's profile on ADP **(H2R.C.04, H2R.C.05, H2R.C.06, and H2R.C.07)**
+Employee profiles are created in ADP. The following steps are followed to create a team member's profile in ADP **(H2R.C.04, H2R.C.05, H2R.C.06, and H2R.C.07)**
 
-* BambooHR is integrated with ADP and employee profiles are created in ADP automatically.
-* Employee profiles in ADP are created only after completing the [I9 verification on BambooHR](https://docs.google.com/document/d/1uhkqq7a6dtcsJrAek9lHZxxhOjRJZCTXRpH5okLMqkQ/edit?usp=sharing).
-* On completion of the I9 verification, the “I-9 processed” checkbox is checked in employee’s profile on BambooHR. An [automated batch job](https://docs.google.com/document/d/1XwzVrI-GEd87JpNZyIdsfcWwZmP5C6IVgy9wj1ro4Qs/edit?usp=sharing) that runs daily between 7:00 AM and 7:15 AM (CST)  by modulus picks up new I9 verified employee profiles from BambooHR and loads it into ADP.
-* Go to onboarding issue and check off [payroll task](https://docs.google.com/document/d/1dM8cZZMYI88s_6T-SfawFX9mRDWGIVZIN8kjlVewjFY/edit)
-* [Email team member](https://docs.google.com/document/d/1KVCc3ZDqlt7yaGz4d7J0gEIyfgX9omazP0C60U18dWE/edit) with information about completing registration
-* [New hire report from BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) for list of team members by start date, mark with “x” once complete.
+* Once a new team member's I-9 form is completed and their employment is verified by the People Experience Associate, according to the onboarding issue task, the People Experience Associate must tag the Total Rewards Analyst.
+* The Total Rewards Analyst audits the new team member's BambooHR profile and I-9 certification documents, and then checks the ["I-9 Processed" checkbox](https://docs.google.com/document/d/1uhkqq7a6dtcsJrAek9lHZxxhOjRJZCTXRpH5okLMqkQ/edit?usp=sharing), located on the Personal tab in the team member's BambooHR profile.
+* The Total Rewards Analyst then comments in the team member's onboarding issue tagging the Payroll Specialists and stating `Ready to add to ADP`, according to the onboarding issue task.
+* An [automated batch job](https://docs.google.com/document/d/1XwzVrI-GEd87JpNZyIdsfcWwZmP5C6IVgy9wj1ro4Qs/edit?usp=sharing) that runs daily between 7:00 AM and 7:15 AM (CST) by modulus picks up any new I-9 verified team member profiles from BambooHR and loads them into ADP.
+* BambooHR is integrated with ADP and team member profiles are created in ADP automatically.
+* The Payroll Specialists review the newly created team member profiles in ADP and compare them to the BambooHR profiles for any errors. 
+* The Payroll Specialists [email each team member](https://docs.google.com/document/d/1KVCc3ZDqlt7yaGz4d7J0gEIyfgX9omazP0C60U18dWE/edit) with information about completing their ADP registration and accessing their accounts.
+* Once done, the Payroll Specialists check off the Payroll [task](https://docs.google.com/document/d/1dM8cZZMYI88s_6T-SfawFX9mRDWGIVZIN8kjlVewjFY/edit)) stating that the new team member has been added to ADP and that an invitation to ADP has been sent to them in the relevant team member's onboarding issue.
+* The Payroll Specialists then comment in the team member's onboarding issue notifying the Total Rewards Analysts that the team members have been successfully added to ADP.
+* The Payroll Specialists also run the [New Hire report in BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) at the start of every week for list of new team members by start date, to ensure that they are aware of all new team members, in the case that they are not tagged in an onboarding issue. 
 
-**Employee Terminations**
+**Team Member Terminations in ADP**
 
-Employee Terminations are updated on ADP in the following way:
+Team Member Terminations are updated on ADP in the following way:
 
-* In [ADP](https://docs.google.com/document/d/1sha3hvrHj85IFYPvFEDckD1udfbTwr2OMVkHnrTLzvc/edit), Navigate to  people > Employment> Employment profile
-* [Search Team Member](https://docs.google.com/document/d/1WzXw7QIxKJIPgOOS_pweVYCqJiKCRUfoi26G4k0NHkA/edit)
-* Update the [employee status](https://docs.google.com/document/d/18JCaxTOvABEP7uiBrfxTswqQ-aqltmwmJloRYDGFgDw/edit)
-* Start [Termination Wizard](https://docs.google.com/document/d/1ScXsbvREHsCBdSCKjwG9F9999TLzv0ju1zx-Lr6sWNw/edit)
-* Enter [term date](https://docs.google.com/document/d/11j1nXkcUDL7uwHOobUA0fc3-bjAEbqqIQJR_DCHgDgw/edit), term reason (confirm with HR) and choose voluntary or involuntary. If voluntary, keep eligible for rehire checked.
-* Next, make sure autopay is canceled, do not cancel direct deposit in case of a future commission payment and update in [ADP](https://docs.google.com/document/d/1wXHTjNW21gUG3Hh0bzOYIwTTzpR51nhPEQgE1WrFneI/edit).
-* Comment on the [off-boarding issue](https://docs.google.com/document/d/1ABhpmORr88gVUDHArxrGMLpsmh7c_38cnwgp66yykPg/edit) once complete in ADP.
+* When a team member's offboarding issue is created, the relevant Payroll Specialists are tagged.
+* In [ADP](https://docs.google.com/document/d/1sha3hvrHj85IFYPvFEDckD1udfbTwr2OMVkHnrTLzvc/edit), the Payroll Specialists navigate to People > Employment> Employment profile.
+* The Payroll Specialists [search for the Team Member](https://docs.google.com/document/d/1WzXw7QIxKJIPgOOS_pweVYCqJiKCRUfoi26G4k0NHkA/edit).
+* The Payroll Specialists update the [employee status](https://docs.google.com/document/d/18JCaxTOvABEP7uiBrfxTswqQ-aqltmwmJloRYDGFgDw/edit) from Active to either Leave, Terminated or Deceased.
+* The Payroll Specialists start the [Termination Wizard](https://docs.google.com/document/d/1ScXsbvREHsCBdSCKjwG9F9999TLzv0ju1zx-Lr6sWNw/edit).
+* The Payroll Specialists enter [termination date](https://docs.google.com/document/d/11j1nXkcUDL7uwHOobUA0fc3-bjAEbqqIQJR_DCHgDgw/edit), termination reason (according to the information in BambooHR) and choose voluntary or involuntary. If voluntary, keep eligible for rehire checked. Check if Severance is paid if applicable.
+* The Payroll Specialists then make sure that Autopay is canceled. They do not cancel Direct Deposit, in case of a future commission payment, or another type of payment, and update in [ADP](https://docs.google.com/document/d/1wXHTjNW21gUG3Hh0bzOYIwTTzpR51nhPEQgE1WrFneI/edit).
+* The Payroll Specialists comment in the [offboarding issue](https://docs.google.com/document/d/1ABhpmORr88gVUDHArxrGMLpsmh7c_38cnwgp66yykPg/edit) once all tasks are completed in ADP.
 
+On every paycheck date, an audit of all entity payroll providers is conducted to ensure the salary information matches BambooHR. This is done by Payroll Specialists and approved by the Senior Director, Corporate Controller.
 
-On every paycheck date, an audit of all entity payroll providers is conducted to ensure the salary information matches BambooHR. This is done by payroll specialist/payroll specialist EMEA and approved by the Senior Manager, Global Payroll and Payments.
+**Payroll-related Data Process for New Team Members in Non-US Entities**
 
-**Process for Non-US Entities**
+For [all countries where GitLab has an entity](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#gitlab-entities) the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries.
 
-For the following countries, the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries
+**Payroll-related Data Process for New Team Members employed or contracted through PEOs**
 
- * Canada
- * Australia
- * Germany
-
-**Process for PEOs**
-
-For PEOs, the new employee information to be added is sent by the recruitment team to the PEOs.
-
-
+For PEOs, the new employee information to be added is sent by the recruitment team directly to the PEOs.
 
 ## 3. Payroll Processing for US
 
 [Link to flowchart](https://drive.google.com/open?id=1WqGy-0YpYK405NbxSW1fzuVX63cZVwAUfvOwIq-JsEo)
 
 This section explains about processing payroll for US employees. The process starts with opening payroll cycle for the check date  and updating payroll processing files per changes from BambooHR. Payroll team reviews payroll benefits, one-time changes such as bonus and commissions based on inputs received from various teams and accepts payroll period in ADP (This ends the payroll cycle).
-
 
 **Opening Payroll**
 
@@ -410,7 +399,6 @@ This section explains about processing payroll for US employees. The process sta
   * The Sr. Manager, Global Payroll and Payments  will provide final sign off by performing spot checks on employee data.
 * [Accept payroll](https://docs.google.com/document/d/11Rs5QxX94aLmLhXPIl1d46X7ENclYzw0mUm4WQjLW-I/edit).
 
-
 **Download these reports to send to accounting and Lumity (benefits provider)**
 
 * Deductions by check date - match deduction totals including HSA deductions with payroll register totals. Send a password-protected file to Lumity. Save in the Lumity google folder.
@@ -430,7 +418,6 @@ This section explains about processing payroll for US employees. The process sta
 * Payroll Taxes, Salaries, Benefits, bonuses, and 401k match (employer-side) deductions are all mapped on this [file](https://docs.google.com/document/d/1KPMOVuG0PdDSAhBHABMoY_u9-3XDh1f-PSJkSZjhRiQ/edit?usp=sharing) at a department level.
 * The account mapping was set up by Payroll and Accounting together previously on ADP and is followed to date. The responsibility of appropriate mapping lies with the Payroll Team.
 * This file is verified and then imported onto NetSuite.
-
 
 ## 4. Payroll processing for Non-US
 
@@ -463,7 +450,6 @@ This section explains about payroll processing for PEOs and contract employees (
 
   **Australia**<br>
   Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](ur/handbook/finance/payroll/#peol).
-
 
 **For payroll remittance of PEOs**
 
