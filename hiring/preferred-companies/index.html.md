@@ -477,3 +477,33 @@ We strive to hire globally at GitLab, and the Security Department is very much f
 * Stack Overflow
 * Wavefront by VMware
 * WeWork
+
+#### Sales - Apart from the [DevOps competitor list](https://about.gitlab.com/devops-tools/), we have built a new list of potential companies. 
+
+* AppDynamics
+* AWS
+* Checkpoint Software
+* Cloudera
+* Cloudflare
+* Docker
+* Dynatrace
+* Elastic
+* Electric Cloud
+* Hashicorp
+* LaunchDarkly
+* NetApp
+* New Relic
+* Nutanix
+* Opentext
+* Palo Alto Networks
+* Pivotal Software
+* Qlik
+* Red Hat
+* Servicenow
+* Software AG
+* Splunk
+* SUSE
+* Trustwave
+* VMware
+* Zenlabs
+
