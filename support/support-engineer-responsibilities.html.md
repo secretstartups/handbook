@@ -34,7 +34,9 @@ We also have one area of focus that is more specific:
 1. License and Renewals - helping customers with License and Renewals problems
      - Currently there are about four Support Engineers who are focused primarily on this area. These Support Engineers help both .com and self-managed customers.
 
-During onboarding your initial area of focus will be made clear.
+To view the team's current distribution among Areas of Focus, see our internal [Support Team info site](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html).
+
+During onboarding, your initial area of focus will be made clear.
 
 When reading this page keep in mind your current area of focus. This will help you locate the correct workflows and roles.
 
