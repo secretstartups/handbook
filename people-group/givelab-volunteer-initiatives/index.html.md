@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GiveLab Volunteer and Sponsorship Initiatives"
+title: "GiveLab Volunteer Initiatives"
 ---
 
 ## On this page
