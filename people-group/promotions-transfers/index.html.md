@@ -395,6 +395,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the team member realignment.
 1. Select a DRI to coordinate the overall realignment process. This DRI should work closely with their People Business Partner to ensure we comply with all local labor laws.
+1. Document the realignment decision in a confidential issue with details such as impacted parties and reasoning for realignment.
 1. Communicate the reassignment decision to effected team members. Emphasize this is not about poor performance, but rather a way to shift high value individuals to the highest priorities.
 1. Organize one or more Team Pitch Office Hours meeting where individuals considering transfers can learn about teams that are hiring. Hiring managers should attend the office hours to talk about what is interesting about their teams. [Team Pitch Office Hours video](https://www.youtube.com/watch?v=-MgiUA7sAHU&feature=youtu.be)
 1. Encourage individuals considering transfers to meet with hiring managers to get more information about the roles they are interested in.
@@ -404,6 +405,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. Ask hiring manager to approve transfer. If they don't approve look at the individual's first or second choice.
 1. Once choices are finalized, approved, and rationale is documented, current manager should communicate the decision directly with individual impacted team members. 
 1. Current manager follows the standard process for [updating job information in BambooHR](/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr). _Before communicating company-wide, all changes should be reflected in BambooHR._ 
+1. Move the confidential issue to the [Product project](https://gitlab.com/gitlab-com/Product), and label it with ~"realignment".
 1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
 1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
 
