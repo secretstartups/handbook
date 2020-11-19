@@ -810,7 +810,7 @@ mvp:
     [scheduled pipelines](https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/10133). Thanks Dosuken!
 ```
 
-Suggestions should be ideally added along the month into the `#release-post` channel, as soon as you see a contribution, or a set of contributions that you think are great and should be taken into consideration for the choice. Every GitLab team-member and core team member is encouraged to add suggestions to the channel, always linking to issues and merge requests. If there are no MVP nominations by the 15th of the month, reaching out to the Core team #core in Slack for nominations is recommended.
+Solicit MVP nominations in the `#release-post` and `#community-relations` Slack channels by sharing a link to an issue for collaboration ([example: Release Post 13.6 MVP Nominations](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9647). Add candidates to the issue for nominating an MVP as soon as you see a contribution or a set of contributions that you think are great and should be taken into consideration for selection. Every GitLab team-member and core team member is encouraged to add suggestions to the MVP nomination issue and providing a link to their contribution (issue and merge request). If there are no MVP nominations by the 15th of the month, reaching out to the Core team #core in Slack for nominations is recommended.
 
 Based on this discussion, the Release Post Manager will make a decision. They should not wait for consensus. There can only be one MVP.
 
