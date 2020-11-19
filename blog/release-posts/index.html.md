@@ -188,7 +188,7 @@ Create a merge request with the introductory changes _after the previous post ha
 
 Create two merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
 
-_**Note:** The Release Post Manager is not responsible for creating any content here, but only creating the MRs and adding the initial template so that there's a single place for others to add their own content._
+_**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content,  and while the Release Post Manager is not responsible for the creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs._
 
 1. For each bug and performance MR, create a new branch from master. Name the branches `release-X-Y-bugs` and `release-X-Y-performance-improvements`
 1. Open a merge requests targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` and `Draft: release-X-Y-performance-improvements` and use the [`Release-Post-Bug-PerformanceImprovement-Block template`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
