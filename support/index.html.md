@@ -487,8 +487,13 @@ Providing information by reacting to a message with a specific emoji.
 
 When working on merge requests (on the gitlab-org group) for code or for documentation, apply the
 `Support Team Contributions` label so that we can track product contributions by support team
-members. An issue is created in the `support-team-meta` issue tracker at the
-end of each week with a list of support fixes merged in the past week. View the
+members.
+
+Additionally, if the code change is specifically to improve the team's efficiency
+(such as changes to admin for faster support), then add the `~"Support Efficiency"` label.
+
+An issue is created in the `support-team-meta` issue tracker at the
+end of each week with a list of support team contributions merged in the past week. View the
 [list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=Support%20Team%20Contributions).
 
 ### Zendesk Instances
