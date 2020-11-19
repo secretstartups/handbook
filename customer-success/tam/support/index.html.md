@@ -23,9 +23,12 @@ During the onboarding process, the TAM will ensure that customers are correctly 
 
 Though automation exists, the TAM must still ensure customers take additional steps to fully establish their personnel in Zendesk.   Specifically, the TAM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements.](/support/#gitlab-support-service-levels) 
 
-The primary step the TAM should complete is to collect a list of names and email addresses for people that the customer intends to have SLA-driven access to support. The TAM loads these contacts into the GitLab Salesforce system as Contacts associated with the customer’s Account record.  The TAM also asks the support team to set the domain name for the Zendesk account to the domain name for the customer’s submitted email addresses, when applicable. The TAM then advises the Customer to have these people register in the support system by navigating to support.gitlab.com and following the instructions on the Sign In pop-up for people that are new to GitLab. The self-registration process will then recognize the email address and correctly ensure that submitted tickets are guided by the customer’s purchased support SLA.  
+### Steps to add users as above:
+1. TAM collects a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
+1. TAM adds these contacts as Contacts on the Account record in the GitLab Salesforce CRM. 
+1. TAM advises the Customer to have those people register in the support system by navigating to support.gitlab.com and following the instructions on the Sign In pop-up. The self-registration process will then match on email address and ensure that tickets submitted by those users are assigned the customer’s support SLA.  
 
-Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resoltuion.
+Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resolution.
 
 ## Support Ticket Best Practice
 
