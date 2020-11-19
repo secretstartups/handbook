@@ -434,7 +434,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Confirm that start date and end date populated correctly (this is automated). For events and webcasts, start date is 30 days prior to the event date and 60 days after. For all other campaigns, the start date is the date of launch, end date is 90 days from the date of launch (or if the campaign runs longer, update to the appropriate end date).
     - Update the event epic
     - Update the description (if any)
-    - Update `Budgeted Cost`
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
     - Click "Save"
@@ -477,7 +477,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update the description
     - Update `Start Date` to the date of launch
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
-    - Update `Budgeted Cost` if you have the data available
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
@@ -515,7 +515,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Update the description
     - Update `Start Date` to the date of launch
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
-    - Update `Budgeted Cost` if you have the data available
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
@@ -544,7 +544,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Start Date` to the date of launch
 - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
 - Update `Status` to `In Progress` or the approriate selection
-- Update `Budgeted Cost` if you have the data available, if not, or if cost is $0, list `1` in the `Budgeted Cost` field - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation. 
+- Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
 
@@ -572,7 +572,7 @@ Currently any form starting with these are actively being added into a program a
     - Update the description
     - Update `Start Date` to the date of launch
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
-    - Update `Budgeted Cost` if you have the data available, otherwise put $1
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
