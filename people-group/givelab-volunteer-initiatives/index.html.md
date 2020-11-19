@@ -26,6 +26,9 @@ Team members are encouraged to take part in an initiative within their local com
 1. Showcase the initiative and your contributions by sharing feedback and images both in #givelab and on social media - it is important to tag `@gitlab` and use `#givelab` when doing so though as posts may be shared from time-to-time taking into account current demands.
 1. Give yourself a pat on the back. Thank you for taking part and helping to spread some love!
 
+### GitLab Donation Drive
+The `GitLab Donation Drive` started as an internal challenge to GitLab team members to donate 5,000 meals to [US Food Banks](https://www.feedingamerica.org/find-your-local-foodbank) over the course of a week - this initiative quickly gained traction and saw over 50,000 meals being donated across 66 unique food banks in the US within a matter of only 32 hours!  The challenge was then opened up globally and at last count has hit in the region 90,000 meals donated across seven countries.
+
 ### Be the Bridge
 The [People Operations](/job-families/people-ops/people-operations/) and [Diversity, Inclusion and Belonging (DIB)](/job-families/people-ops/diversity-inclusion-partner/) teams collaborated to establish the [Be the Bridge Program](/company/culture/inclusion/be-the-bridge-program/) which is geared toward creating opportunities for those external to GitLab to establish a mentor relationship with a GitLab team member who will be able to offer insights, share knowledge about open source and answer pertinent questions.
 
@@ -41,6 +44,18 @@ This was a springboard for around 650 South African Youth from within the Truste
 
 ### Rails Girls
 On multiple occasions, GitLab has supported [Rails Girls](http://railsgirls.com/kumasi_2020.html) an organisation geared toward providing tools and creating a sense of community for women in the technology space - enabling them to grow their knowledge base and build out their ideas.  The most recent event supported was the `Rails Girls Kumasi` [Ruby on Rails Workshop](http://railsgirls.com/kumasi_2020.html) - be sure to check out this [GitLab Unfiltered](https://www.youtube.com/watch?v=E5pe2jrOZpc) video to see our very own Abubakar Siddiq Ango, Developer Evangalism Program Manager in action!
+
+### Recent Team Member Participation
+GitLab encourages team members to set time aside to take part in local volunteer initiatives within their respective communities.  Here are a few of the of projects our team members have lent hands or resources to of late:
+
+[Operation Warm](https://www.operationwarm.org/) providing warmth, confidence and hope to children in need through the gift of brand-new winter coats. Over the last 20 years, Operation Warm and our partners have used the coat as a bridge for families in need to access everything from flu shots to new books.
+
+[Fontanus Research Center](https://epale.ec.europa.eu/en/organisations/fontanus-center-ltd) which aims to create new, efficient and interdisciplinary educational methodologies.
+
+[National Charity League](https://www.nationalcharityleague.org/) a multi-generational philanthropic organization of mother and daughters who volunteer close to three million hours annually to over 6,000 charities in the United States.
+
+[Hack for She](https://hackforshe.tech/) a completely virtual hackathon aimed to find solutions to Women’s problems.
+
 
 ----
 
