@@ -57,20 +57,25 @@ When doing so, make sure to comment on the vulnerability status change to explai
 
 #### Creating Security issues
 
- Unfortunately creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating issue in the same project where the error was reported.
- Instead, in our workflow we open all our issues in [the main GitLab project](https://gitlab.com/gitlab-org/gitlab/issues).
- As a workaround, you can copy and paste the content of the vulnerability page (this keeps markdown formatting!). Please also follow our Security guidelines about [creating new security issues](/handbook/engineering/security/#creating-new-security-issues).
- You can leverage quick actions to add the necessary labels.
+Unfortunately, creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating an issue in the same project where the error was reported.
+Instead, in our workflow we open all our issues in [the main GitLab project](https://gitlab.com/gitlab-org/gitlab/issues).
+As a workaround, you can copy and paste the content of the vulnerability page (this keeps markdown formatting!). Please also follow our Security guidelines about [creating new security issues](/handbook/engineering/security/#creating-new-security-issues).
+You can leverage quick actions to add the necessary labels.
 
     /confidential
 
-    /label ~security ~feature ~"feature::maintenance"
+    /label ~security ~bug
     /label ~"section::securedefend" ~"devops::secure" ~"group::composition analysis"
 
     <!-- depending on the affected project: -->
     /label ~"Category:Container Scanning"
     /label ~"Category:Dependency Scanning"
     /label ~"Category:License Compliance"
+    /label ~"Category:SAST"
+
+It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](handbook/engineering/security/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
+
+If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](handbook/engineering/development/secure/#stable-counterparts) section, or ping them on slack.
 
 ### Community contributions triaging process
 
