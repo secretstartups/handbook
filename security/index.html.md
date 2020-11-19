@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Security Practices
+description: "Security Practices within GitLab"
 ---
 
 ## On this page
@@ -85,6 +86,18 @@ What should you do if you receive a potential phishing email or text from GitLab
 1.  If you are unsure whether the text or email is legitimate, confirm the request via Video Call or contact [Security](/handbook/engineering/security/) to review.
 1.  If the email is determined to be fake, follow the instructions for [phishing attacks](/handbook/security/#what-to-do-if-you-suspect-an-email-is-a-phishing-attack) below.
 1.  If the text is determined to be fake: block the number, notify [Security](/handbook/engineering/security/), and delete the text.
+
+### Threat Modeling
+
+If you are wanting to implement a process, code, or some other procedure that could impact the security posture of GitLab or its products, something
+that the Security Team uses as a resource is [Threat Modeling](https://en.wikipedia.org/wiki/Threat_model). The Security Team *highly*
+encourages change and improvements, and also ensure that changes and improvements are done securely.
+The Security Team uses a threat framework based upon the [PASTA](https://www.wiley.com/en-us/Risk+Centric+Threat+Modeling%3A+Process+for+Attack+Simulation+and+Threat+Analysis-p-9780470500965#) methodology.
+For more information including an issue template for doing your own threat modeling, check out the [Threat Modeling](/handbook/security/threat_modeling/) page.
+
+### Non-Emergency Contact
+
+If you have a question or concern and need to speak with the Security Team, you can contact [Security](/handbook/engineering/security/).
 
 ## Security Process and Procedures for Team Members
 
