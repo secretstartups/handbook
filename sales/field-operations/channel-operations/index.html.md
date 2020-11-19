@@ -124,11 +124,23 @@ description: "This page serves as the Channel Operations team page and includes 
    <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>   
    </td>
   </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXj">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXo">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXt">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aUMP">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+  </tr>
 </table>
 
+For a global view of current and next fiscal quarter channel renewals, [click here](https://gitlab.my.salesforce.com/00O4M000004aWY3).
 
 *All required team reporting is included above. In the event you need a special report, please open an issue and tag Channel Ops.*
 
+**[SFDC Channel Training Cheat Sheet](https://docs.google.com/document/d/1F1O3BUX80SJIqaFD9TF2RuyZ7DXB865AuiwaGctHnGo/edit?usp=sharing):** _Refer to this document for the training video hosted by the Channel Operations team, as well as quick reference "cheats" to help with your Salesforce reporting._
 
 ## Managing Channel Opportunities
 
@@ -307,11 +319,15 @@ _Why is this important?_
 *   _DR - Partner Deal Type:_
     *   _Resale:_ Partner is actually transacting the deal on their paper
     *   _Referral:_ Partner is bringing us the lead/opportunity but will either transact direct with GitLab or through another partner
-    *   _Services Attach_: Partner-delivered services provided to the end user related to their use of the GitLab software
-*   _DR - Partner Engagement_: How the deal was sourced or the value the partner is bringing
+    *   _Services Attach:_ Partner-delivered services provided to the end user related to their use of the GitLab software
+*   _DR - Partner Engagement:_ How the deal was sourced or the value the partner is bringing
     *   _PIO:_ Partner has “initiated” the opportunity. They have either found the original opportunity or an upsell to a current customer. 
-    *   _Assisted_: GitLab-sourced opportunity where the partner assists our sales team in closing the deal
+    *   _Assisted:_ GitLab-sourced opportunity where the partner assists our sales team in closing the deal
     *   _Fulfillment:_ Partner only processes the order and doesn’t provide additional support to close the deal
+*   _Distributor:_ If the _DR - Partner_ are buying from a GitLab authorized distributor.
+*   _Fulfillment Partner:_ Only applicable if the _DR - Partner Deal Type_ is "Referral" and the deal is being transacted through another partner.
+*   _Platform Partner:_ Customer's platform that GitLab is being deployed.
+*   _Influence Partner:_ Other partners, generally GSIs or alliances that have helped influence a deal.
 
 
 _For more details on Partner Engagement definitions go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)_
