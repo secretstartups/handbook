@@ -9,7 +9,7 @@ title: "Datastores Team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Who We Are (WIP)
+## Who We Are
 
 The Datastores team owns our persistent storage platforms in GitLab, namely our PostgreSQL databases (our main priority) and our Gitaly backend service.
 
