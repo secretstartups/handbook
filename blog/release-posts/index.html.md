@@ -258,7 +258,7 @@ The review of all content for quality, including the marketing intro, is recomme
 
 #### Next steps
 
-Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action.
+Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Bug and for Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
 #### Updating Release Post Manager assignments
 
