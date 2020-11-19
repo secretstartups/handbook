@@ -244,7 +244,7 @@ When a team member applies for and receives a new position through Greenhouse, a
 
 Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th).
 
-Once the document has been signed, the Candidate Experience Specialist needs to tag the Recruiting Operations and Insights team to have the candidate profiles merged before marking the individual as hired in GreenHouse. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
+The Candidate Experience Specialist needs to tag the Recruiting Operations and Insights team to have the candidate profiles merged while the candidate is in Team Interview before the candidate is in the offer stage. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
 
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn). 
