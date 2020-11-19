@@ -19,7 +19,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 | Level | Job Families | Hierarchy Scopes |
 | ----- | ------------ | ---------------- |
 | IC | [Product Manager](/job-families/product/product-manager/) | Group, Stage |
-| Manager | [Group Manager Product](/job-families/product/group-manager-product/), [Director of Product](/job-families/product/director-of-product/) | Collection of Groups, Stage, Section |
+| Manager | [Group Manager Product](/job-families/product/product-management-leadership/#group-manager-product-gmp), [Director of Product](/job-families/product/director-of-product/) | Collection of Groups, Stage, Section |
 | Director | [Director of Product](/job-families/product/director-of-product/) | Section |
 | Senior Leader | [VP](/job-families/product/vp-of-product/) | All Sections |
 | Executive | [EVP](/job-families/product/evp-of-product/) | Entire Function |
@@ -46,7 +46,7 @@ This group can be referenced in GitLab.com issues using the `@gl-product-plt` ha
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
 - [Tim Hey's README](/handbook/product/readme/tim-hey.html)
-- [Jason Yavorska's README](https://metaluna.io/plan)
+- [Jackie Porter's README](https://gitlab.com/jreporter/read-me)
 
 ## Product Manager/Leader Collaboration
 
@@ -60,7 +60,7 @@ expectations the leader should have in working with PMs, but is not intended
 to be hard and fast rules that take the place of having a strong working relationship
 and prioritizing things effectively together.
 
-**Note** - This is intended as a supplement to the [product director](/job-families/product/director-of-product/) or [group manager of product](/job-families/product/group-manager-product/)
+**Note** - This is intended as a supplement to the [product director](/job-families/product/director-of-product/) or [group manager of product](/job-families/product/product-management-leadership/#group-manager-product-gmp)
 job descriptions with specific focus on the interaction between PMs and their managers.
 General job responsibilities can be found at that link.
 
