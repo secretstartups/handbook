@@ -232,7 +232,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 1. Update the `Interview Plan` after the Kick-off Session.
 
-1. Every vacancy should have an `Review` stage. This is also known as Application Review by the Greenhouse Milestone.
+1. Every vacancy should have an `Get to Know Us` stage. This is also known as Application Review by the Greenhouse Milestone.
 
 1. Some vacancies have an `Assessment` as the second stage in the process.
    - If your vacancy requires an assessment but there is no assessment stage already added, scroll to the bottom of the page and click `Add a Stage`.
@@ -303,7 +303,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Review the configurations the Recruiting Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 
 1. Ensure each stage is labeled correctly for reporting purposes:
-    - Review
+    - Get to Know Us
     - Screening
     - Assessment
     - Hiring Manager Interview
