@@ -535,7 +535,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
 ##### Step 2: Update the Salesforce campaign
-- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
+- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
 - Confirm the `Enable Bizible Touchpoints` is set to `Include only "Responded" Campaign Members`
