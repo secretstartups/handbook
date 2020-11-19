@@ -95,23 +95,6 @@ For new ideas where the customer problem and solution isn't well understood, Pro
 
 If we don't have confidence in the MVC or what success looks like, we should continue validation cycles before we move to the Build track.
 
-### Opportunity Canvas
-
-One of the primary artifacts of the validation track is the Opportunity Canvas. The Opportunity Canvas introduces a lean product management philosophy to the validation track by quickly iterating on the level of confidence, hypotheses, and lessons learned as the document evolves. At completion, it serves as a concise set of knowledge which can be transferred to the relevant issues and epics to aid in understanding user pain, business value, and the constraints to a particular problem statement. Just as valuable as a completed Opportunity Canvas is an incomplete one. The tool is also useful for quickly invalidating ideas. A quickly invalidated problem is often more valuable than a slowly validated one.
-
-An Opportunity Canvas isn't required for product functionality or for problems that already have well-defined [jobs to be done (JTBD)](/handbook/engineering/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it's appropriate to skip the Opportunity Canvas and proceed directly to solution validation. It might be worth using the Opportunity Canvas template for existing features in the product to test assumptions and current thinking, although not required.
-
-**References**:
-* [Opportunity Canvas Template](https://docs.google.com/document/d/1pTEMcwH10xWilQEnVc65oC6PdC3VMjn2XoARfNTaHkc/edit#)
-* [Completed Opportunity Canvas Reviews](https://drive.google.com/drive/u/0/folders/19ryr0HFXpkchh65MQ2JQv3f9dYBCC01q)
-* [Opportunity Canvas YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqqGtUIbnmAaE5kNymwifZ1)
-* [Example Opportunity Canvas - Fine Grained Access Control (GoogleDoc)](https://docs.google.com/document/d/1c_FPLZ8W7Gjl0tvZSybEKWvcCzJ3AgxlQNFvwm92IHo/edit#heading=h.4mt5fmtn0ax4)
-* [Example Opportunity Canvas - Error Tracking (Mural)](https://app.mural.co/t/gitlab2474/m/gitlab2474/1568925801645/71e7e6352180a1492a19a3d3ed6f96d48fefd597)
-
-#### Opportunity Canvas Lite
-
-Opportunity Canvases are a great assessment for ill-defined or poorly understood problems our customers are experiencing that may result in net new features. As previously noted, Opportunity Canvases may be helpful for existing features, which is where the [`Product-Opportunity-Opportunity-Canvas-Lite`](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md) issue template delivers. This template offers a lightweight approach to quickly identify the customer problem, business case, and feature plan in a convenient issue. The steps to use the template are outlined in the [Instructions](https://gitlab.com/gitlab-com/Product/-/blob/master/.gitlab/issue_templates/Product-Opportunity-Canvas-Lite.md#instructions) section and for clarity one would create this issue template for an existing feature they are interested in expanding. For example, this template would be great to use if you are evaluating the opportunity to add a third or fourth iteration to an MVC. This issue should leverage already available resources and be used to collate details to then surface to leadership for review. After you fill out the template, you will assign to the parties identifed in the issue and you can always post in the `#product` channel for visibility.
-
 ### Validation phase 1: Validation backlog
 
 <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Label: `workflow::validation backlog`
@@ -155,14 +138,14 @@ To ensure the right solutions are delivered, the team must start their work with
 
 If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.
 
-If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders.
+If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. Although optional, it is recommended to use an [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) as a tool that helps individuals better understand a problem, and communicate it to various stakeholders.
 
 #### Outcomes and Activities
 
 | Outcomes | Activities | DRI |
 |----------|------------|-----|
-| <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Thorough understanding of the problem**: The team understands the problem, who it affects, when and why, and how solving the problem maps to business needs and product strategy. | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md). <br/>- Complete an [Opportunity Canvas](#opportunity-canvas). <br/>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study. <br/>- Schedule a review of the opportunity canvas for feedback. | Product Manager |
-| <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Update issue/epic description**: A well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases. | - Ensure your issue is up-to-date with the latest understanding of the problem. <br/>- Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br/>- Leverage your opportunity canvas to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
+| <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Thorough understanding of the problem**: The team understands the problem, who it affects, when and why, and how solving the problem maps to business needs and product strategy. | - Create new issue using the [Problem Validation Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Problem%20Validation.md). <br/>- Complete an [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas). <br/>- Open a [Problem Validation Research](https://gitlab.com/gitlab-org/ux-research/) issue and work with UX Researcher to execute the research study. <br/>- Schedule a review of the opportunity canvas for feedback. | Product Manager |
+| <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Update issue/epic description**: A well understood and clearly articulated customer problem is added to the issue, and will lead to successful and efficient design and development phases. | - Ensure your issue is up-to-date with the latest understanding of the problem. <br/>- Understand and document (in the issue) the goals that people want to accomplish using the [Jobs to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework. <br/>- Leverage your [opportunity canvas](/handbook/product/product-processes/#opportunity-canvas) to communicate the problem to your stable counterparts and group stakeholders. Consider scheduling a review to gather feedback and communicate the findings to Product and UX leadership. | Product Manager |
 
 ### Validation phase 3: Design
 
@@ -216,7 +199,7 @@ To start the Solution Validation phase, the Product Designer or Product Manager 
 | Outcomes | Activities | DRI |
 |----------|------------|-----|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **High confidence in the proposed solution**: Confidence that the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution. | - Gather feedback from relevant stakeholders. <br>- Follow [solution validation guidance](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/solution-validation-and-methods/) to gather feedback. | Product Designer |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Documented Solution validation Learnings**: The results of the solution validation is communicated to and understood by team members. | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br>- Update the [opportunity canvas](#opportunity-canvas) (if used) with relevant insights. <br>- Update issue or epic description to contain or link to the findings. | Product Designer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Documented Solution validation Learnings**: The results of the solution validation is communicated to and understood by team members. | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br>- Update the [opportunity canvas](/handbook/product/product-processes/#opportunity-canvas) (if used) with relevant insights. <br>- Update issue or epic description to contain or link to the findings. | Product Designer |
 
 ## Review track (optional*)
 
