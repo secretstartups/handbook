@@ -25,7 +25,7 @@ Training courses, certification exams and other enablement materials can be acce
 #### GitLab Sales Core
 This is the basic certification for sales and the prerequisite for pre-sales technical professionals. The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab. 
 
-By completing the GitLab Sales Core, you’ll earn a GitLab Verified Core Sales completion badge and contribute to the Sales certification program requirements for your company. Formal individual sales certifications will be available by early 2021.
+By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll earn a GitLab Verified Core Sales completion badge and contribute to the Sales certification program requirements for your company. Formal individual sales certifications will be available by early 2021.
 
 <details>
 <summary markdown='span'>
@@ -100,7 +100,7 @@ By completing the GitLab Sales Core, you’ll earn a GitLab Verified Core Sales 
 ### Training and Certifications for Technical Sales Professionals (Solution Architects / Sales Engineers)
 
 #### GitLab Solution Architect Core
-This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This path is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification, and individuals will recieve a GitLab Core Solution Architecture completion badge. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available.
+This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions. This path is a mix of online learning and hands-on labs. GitLab Sales Core is the prerequisite for GitLab Solution Architect Core. GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification, and individuals will recieve a GitLab Core Solution Architecture completion badge. NOTE: The hands-on lab components for this certification are not yet available for partners. Partners will be notified once it is available and will be able to earn a certification at that time.
 
 <details>
   <summary markdown='span'>
@@ -159,7 +159,7 @@ GitLab Technical Core is the foundational technical training for post-sales tech
 
 **Training and Certifications**
 
-Gitlab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass a written assessment. 
+Gitlab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
 
 <details>
   <summary markdown='span'>
