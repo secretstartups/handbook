@@ -55,7 +55,7 @@ GitLab team members directly affected by COVID-19 who need to take leave for one
 
 You do not have to physically see your physician for this confirmation. If telehealth services are available, we highly encourage you to utilize those in line with your community’s regulations around physical distancing, quarantine and self isolation.
 
-The ability to request COVID-19 Leave will run through October 31, 2020. That means, any requests for COVID-19 Leave must be made prior to October 31, 2020, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on October 31, 2020 for 4 weeks, the end date for their COVID-19 Leave would be November 28, 2020.
+The ability to request COVID-19 Leave will run through December 31, 2020. That means, any requests for COVID-19 Leave must be made prior to December 31, 2020, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on December 31, 2020 for 4 weeks, the end date for their COVID-19 Leave would be January 28, 2021.
 
 As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
@@ -99,7 +99,7 @@ If you meet the criteria set forth above and find that you need additional time 
 * What if I am on a commission plan?
   * If applicable, commissions are paid according to your applicable commission plan while on COVID-19 related leave based on the prior six months of performance with a cap at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only.
 * What is the last day to apply for COVID-19 Leave?
-  * The ability to request COVID-19 Leave will run through October 31, 2020. That means, any requests for COVID-19 Leave must be made prior to October 31, 2020, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on October 31, 2020 for 4 weeks, the end date for their COVID-19 Leave would be November 28, 2020. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
+  * The ability to request COVID-19 Leave will run through December 31, 2020. That means, any requests for COVID-19 Leave must be made prior to December 31, 2020, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on December 31, 2020 for 4 weeks, the end date for their COVID-19 Leave would be January 28, 2021. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
 ## Resources for COVID-19
 
