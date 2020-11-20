@@ -366,15 +366,15 @@ Posts focusing on GitLab features or capabilities are most successful when we do
 
 ### Trends
 
-*From [2018 blog analysis](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/248) conducted in 2018-10
-
-1. Average sessions per month on the blog: ~30,000
-1. Average sessions per post in published month: 3,792
+1. Average unique views per month on the blog: ~184,000 (November 2019 - October 2020)
+1. Average unique views per post in two months after publish date: 2,219
 1. Average sessions per content marketing post in published month: 3,500
 1. 55% of posts get <1,000 sessions in a month
 1. 27.47% of posts hit our expected outcome of 1,000-4,999 sessions in published month
 1. 28.57% of posts garner less than 499 sessions in published month
 1. 9% of posts are "hits" (10K+ sessions in published month); "Hits" don't consistently perform well over time
+
+See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
 
 **Breakdown by category of "hits":**
 
