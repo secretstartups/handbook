@@ -116,7 +116,7 @@ Health score criteria is either manually or automatically applied to determine t
 | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information <br>- Red: No Success Plan | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
-
+| License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
 
 
 ##### Commercial
@@ -127,6 +127,17 @@ Health score criteria is either manually or automatically applied to determine t
 | ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights<br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information<br>- Red: No Success Plan | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
+| License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
+
+###### License Usage health table
+
+|        | 2-6 Months                               | 6-9 Months                               | > 9 Months                             |
+|--------|------------------------------------------|------------------------------------------|----------------------------------------|
+| < 10%  | <span style="color:red">Red</span>       | <span style="color:red">Red</span>       | <span style="color:red">Red</span>     |
+| 10-50% | <span style="color:yellow">Yellow</span> | <span style="color:red">Red</span>       | <span style="color:red">Red</span>     |
+| 51-75% | <span style="color:green">Green</span>   | <span style="color:yellow">Yellow</span> | <span style="color:red">Red</span>     |
+| > 75%  | <span style="color:green">Green</span>   | <span style="color:green">Green</span>   | <span style="color:green">Green</span> |
+
 
 
 #### Triage CTA
