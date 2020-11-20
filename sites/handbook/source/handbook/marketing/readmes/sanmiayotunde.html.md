@@ -1,8 +1,8 @@
 
 ---
 layout: markdown_page
-title: Sanmi Ayotunde Ajanaku's README
-description: Learn more about Sanmi's personality and how to work with him.
+title: "Sanmi Ayotunde Ajanaku's README"
+description: "Learn more about Sanmi's personality and how to work with him."
 
 ---
 ## On this page
@@ -63,16 +63,6 @@ I develop web applications, components, contents, and anything you can click and
 Before you create an Issue, you are free to slack me, so that I can know the person behind the request. WE MAY BECOME THE BEST OF FRIENDS LOL :
 
 
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Collaborating <br> with me?] -- Let's Discuss --> B((Slack))
-B --> C
-A --> C(Create an Issue)
-B --> D{Work Done!}
-C --> D
-```
 
 I will be updating this page more and more.
 
