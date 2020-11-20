@@ -487,3 +487,36 @@ GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in thi
 1. Update the "To" field to include the GitLab signatory and include the hiring manager in CC field
 1. Select Preview on DocuSign
 1. Once in DocuSign, update the signing order as you would with other contracts and hit send
+
+
+## Adding Relocation Verbiage to Entity Contracts
+
+1. Candidate Experience Specialist will ensure that there is verbiage clearly stating the terms of the compensation changes for relocation after the new hire’s start date.
+1. CES will ping the Total Rewards team in the Approval Notes.
+    - Navigate to the bottom of the candidate’s GH profile
+    - See “Approval Notes”
+    - Click “Leave a Note” 
+    - Tag Brittany Rohde in a note to confirm that both compensation values have been approved
+    - Tag the Recruiter as CC
+1. Once Total Rewards has confirmed both have been reviewed, generate the appropriate contract
+1. Download the Word version of the contract and upload into Google Drive for editing
+    - Navigate to Google Drive
+    - Click “New” in the upper corner of the left toolbar
+    - Select “File Upload”
+    - Select the contract
+1. Add lines at the top of the document for categories to include Compensation for the relocation
+    - Example for relocation from ID to CA:
+        - CA Compensation: $ USD
+        - ID Compensation: $ USD
+1. Update Section 10 Location verbiage:
+    - Original
+        - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID. If your permanent legal residence changes from that location you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
+    - Updated
+        - 10. Location. Your employment with GitLab is conditioned upon your permanent legal residence being near Boise, ID and you've disclosed a planned move to San Francisco, CA on or around January 1st, 2021. If your permanent legal residence changes from those locations you must notify the Company prior to any such changes. Changes to your permanent legal residence could result in a change to your compensation, benefits, and in some circumstances, termination of your employment.
+1. Delete out all Tokens
+1. Save and download the contract
+1. Upload in GH by selecting “Upload Replacement”
+1. Ping the `Contracts-to-sign` channel in Slack and let the recruiter know that you are sending a contract staged for a future relocation
+1. Stage contract as normal
+1. Add tokens back in after changing signing order
+1. Send
