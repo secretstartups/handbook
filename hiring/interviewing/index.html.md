@@ -58,7 +58,7 @@ If you are invited for an interview with GitLab and you need financial support f
 - Transportation to a facility with internet access if your home does not have reliable internet service
 - Meeting room costs in a co-working space if your environment is not conducive to an interview
 - Reimbursement for loss of hourly pay
-- Translation services if you are deaf and/or hard of hearing
+- Translation services if you are Deaf and/or hard of hearing
 - The interest on any credit you obtain to pay for these items upfront
 
 
