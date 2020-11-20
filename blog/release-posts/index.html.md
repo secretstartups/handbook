@@ -203,7 +203,7 @@ _**Note:** The Release Post Manager is not responsible for creating any content 
 
 Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. 
 
-1. Open a terminal windown and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
+1. Open a terminal window and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
 1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
 
 **How do I know if I already have a Ruby Version Manager installed?** 
