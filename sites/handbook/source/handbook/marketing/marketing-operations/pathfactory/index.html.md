@@ -12,7 +12,7 @@ description: "PathFactory is an intelligent B2B content experience platform used
 
 ## What is PathFactory?
 
-PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/growth-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/inbound-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
 
 ### PathFactory vs. Marketo
 
