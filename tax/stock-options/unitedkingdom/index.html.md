@@ -13,7 +13,7 @@ title: "Tax Treatment of Stock Options as Employee of GitLab UK Ltd"
 Stock Option Plan
 
 ## When taxed?
-Taxed at Exercise
+In principle Taxed at Exercise. However, this summary assumes the shares are readily convertible assets at the time of acquisition (i.e. publicly traded or close to being publicly traded, or otherwise liquid - which means for example exercised in connection with a tender offer / secondary). If exercises occur at a time when the shares are not readily convertible assets (which is outside of a tender offer since GitLab is not publicly listed), GitLab UK Ltd is not required to withhold or report income tax and NICs are not due. GitLab UK Ltd is required to complete the annual share scheme return regardless of whether the shares are considered readily convertible assets. Finally, for those UK taxpayers who are not residents of Scotland, the income tax rates below the maximum tax rate ranges from 20% on annual income up to GBP 37,500, and 40% on annual income between GBP 37,500 and GBP 150,000. There is also a tax-free personal allowance of GBP 12,500, which is reduced by GBP1 for every GBP2 earned above GBP100,000.  The income tax rates for residents of Scotland range from 19% on annual income up to GBP 14,549, 20% on annual income between GBP 14,550 and GBP 24,944, 21% on annual income between GBP 24,945 and GBP 43,430 and 41% on annual income between GBP 43,431 and GBP 150,000. The maximum combined tax withholding rate assumes that the employee is not a resident of Scotland.
 
 ## What is taxed?
 The "spread": Difference between the Offer Price and Exercise Price.
