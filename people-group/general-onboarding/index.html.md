@@ -44,7 +44,8 @@ Sending out the Invite:
 - The email is sent out to upcoming hires one week before the call. 
 - Be sure to cc the People Experience Team on the outgoing email.
 - The People Experience Team can check who will be attending the call by looking at the Google Form.
-- Once new hires have completed the form, invite the team members to the Team Google Calendar entry as confirmation. 
+- Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected. 
+- The People Experience Team will also add the team members to the google calendar invite. 
 
 ## Onboarding Check-In Call
 All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time. 
