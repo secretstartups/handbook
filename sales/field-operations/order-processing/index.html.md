@@ -29,7 +29,7 @@ This page outlines the Quote to Cash process, starting from quote creation, to a
 *   **Frequently Used Handbook Pages**
 
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
-    *   [How to Work with Legal](/handbook/legal/#5-other-legal-requests)
+    *   [How to Work with Legal](/handbook/legal/#3-other-legal-requests)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
