@@ -341,7 +341,7 @@ Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> ou
 
 The Compliance Next community offers free membership and comes with tons of amazing resources and tools for compliance professionals as well as people just wanting to learn more about the compliance space. 
 
-You can create a free account on the <a href="www.compliancenext.com">Compliance Next</a> website using your own credentials. 
+You can create a free account on the [Compliance Next](https://www.navexglobal.com/compliancenext/) website using your own credentials. 
 
 One of the most unique and interesting aspects of Compliance Next is the ability to connect directly with experts and peers. The platform offers different types of educational resources that you can watch, read and use—all of which provide the ability to comment and ask questions to compliance professionals and other members of the community.
 
