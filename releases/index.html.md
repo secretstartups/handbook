@@ -208,7 +208,7 @@ consider leaving a note in [#releases] Slack channel to raise awareness of the s
 **For new features or non-urgent fixes**, the label **should not be used** because
 the new release is only days or hours away.
 
-Directions on how to how to know whether a MR is deployed to GitLab.com are in the [release/docs](https://gitlab.com/gitlab-org/release/docs/blob/master/general%2Fdeploy%2Fauto-deploy.md#auto-deploy-status).
+Directions on how to know whether a MR is deployed to GitLab.com are in the [release/docs](https://gitlab.com/gitlab-org/release/docs/blob/master/general%2Fdeploy%2Fauto-deploy.md#auto-deploy-status).
 
 ### Self-managed releases
 
