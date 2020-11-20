@@ -68,6 +68,8 @@ advance of the production upgrade.
    1. Post call, the Support Engineer will comment on the issue with a post-mortem
       of sorts. This should detail any issues that occurred or comments that might
       be relevant for the TAM or Support.
+1. If the live upgrade assistance call needs to be rescheduled, the new date
+   must also meet the minimum notice period.
 1. The Support Engineer will close out the upgrade request issue.
 
 #### What to do if issues occur during the course of upgrade assistance
