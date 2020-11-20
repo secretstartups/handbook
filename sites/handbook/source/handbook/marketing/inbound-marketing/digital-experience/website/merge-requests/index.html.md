@@ -188,6 +188,16 @@ We use javascript extensively throughout the website. Before updating a library,
 * Header navigation dropdowns and mobile menu.
 * The sidebar in the handbook.
 * Mermaid charts in the handbook.
+* [GitLab Engineering's style guidelines](https://docs.gitlab.com/ee/development/contributing/style_guides.html).
+    * The about website doesn't enforce the same code standards as GitLab engineering's product development style guides however it's recommended to follow these guidelines when possible.
+    * [CSS guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/scss.html).
+    * [Javascript guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/javascript.html).
+    * [Ruby guidelines](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec)
+* [GitLab Engineering's code review handbook](/handbook/engineering/workflow/code-review/).
+* [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+* [Marketing naming conventions](/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions).
+* [Marketing tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1)
+* [Brand guidelines](/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/).
 
 ### Gotchas within the GitLab interface
 

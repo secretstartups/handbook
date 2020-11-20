@@ -84,4 +84,4 @@ These are the possible ways you can have your event video promoted through inter
 
 ----
 
-Return to the main [Growth Marketing Handbook](/handbook/marketing/growth-marketing/).
+Return to the main [Growth Marketing Handbook](/handbook/marketing/inbound-marketing/).

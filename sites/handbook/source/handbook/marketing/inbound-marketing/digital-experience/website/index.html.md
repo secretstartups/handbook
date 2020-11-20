@@ -15,7 +15,7 @@ GitLab's Marketing Website (about.gitlab.com) is led by the [Inbound Marketing T
 
 Metric: Inbound marketing qualified leads.
 
-Specific targets can be found [here](/handbook/marketing/growth-marketing/#goals)
+Specific targets can be found [here](/handbook/marketing/inbound-marketing/#goals)
 
 ### Supporting Metrics
 
@@ -117,11 +117,11 @@ Similar content can appear as a topic, solution, and in the product section with
 
 ## Ownership and responsibilities
 
-Everyone can [contribute to the marketing website](#updating-the-marketing-website). While the [Strategic Marketing](/handbook/marketing/strategic-marketing/) and [Growth Marketing](/handbook/marketing/growth-marketing/) teams have primary responsibility over the website, the goal of these teams is to build systems, structures, and processes and empower everyone to contribute. Below is a breakdown of the ownership between Strategic Marketing and Pipe-to-Spend.
+Everyone can [contribute to the marketing website](#updating-the-marketing-website). While the [Strategic Marketing](/handbook/marketing/strategic-marketing/) and [Inbound Marketing](/handbook/marketing/inbound-marketing/) teams have primary responsibility over the website, the goal of these teams is to build systems, structures, and processes and empower everyone to contribute. Below is a breakdown of the ownership between Strategic Marketing and Pipe-to-Spend.
 
 ### Website team
 
-- The website team (part of marketing) is responsible for the design and development of the website. [Marketing website team documentation and workflow](/handbook/marketing/growth-marketing/brand-and-digital-design/).
+- The website team (part of marketing) is responsible for the design and development of the website. [Marketing website team documentation and workflow](/handbook/marketing/inbound-marketing/digital-experience/).
 
 ### Growth Marketing
 
@@ -149,7 +149,7 @@ Everyone can [contribute to the marketing website](#updating-the-marketing-websi
 
 #### Requesting Support
 
-If your team is unable to update the website, or you need additional levels of support please visit this section for [Requesting Support](/handbook/marketing/growth-marketing/#website-issue-templates)
+If your team is unable to update the website, or you need additional levels of support please visit this section for [Requesting Support](/handbook/marketing/inbound-marketing/#website-issue-templates)
 
 ### Naming conventions
 
@@ -339,7 +339,7 @@ How to create an analyst report page in 5 not-so-easy steps.
 
 Great care should be taken whenever moving pages on the website. Ideally, pages should never be moved without implementing an immediate 301 redirect.
 
-The Inbound Marketing team can follows this process to [create 301 redirects](/handbook/marketing/growth-marketing/inbound-marketing/#request-an-aboutgitlabcom-redirect).
+The Inbound Marketing team can follows this process to [create 301 redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect).
 
 ### Renaming a page
 
@@ -736,9 +736,9 @@ GitLab division README pages are linked below for context. Let these serve as a 
 
 1. Copy the [README-template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/issue_templates/README-template.md) and paste into your favorite Markdown editor. If you do not have a Markdown editor, [Typora](https://www.typora.io/) and [Bear](https://bear.app/) are recommended.
 2. Fill out the recommended sections. Note that each section is *optional*. You can remove those you aren't comfortable filling out, and add sections that are germane to you.
-3. Once complete, you'll need to [create a new page](/handbook/marketing/website/#creating-a-new-page) and a subsequent merge request to add the page to GitLab's website.
-   1. If your [division](/company/team/structure/) *already* has a page to host READMEs (see above), follow the guidelines to [add a new page](/handbook/marketing/website/#creating-a-new-page) within that directory (e.g. [Darren M.](https://gitlab.com/dmurph), a member of the marketing team, would add a new directory and page within `/handbook/marketing/readmes`, creating `/handbook/marketing/readmes/dmurph`)
-   2. If your [division](/company/team/structure/) does not yet have a holding page for READMEs, follow the guidelines to [add a new page](/handbook/marketing/website/#creating-a-new-page) (`readmes`) within your division's handbook section *first*, then create your username directory within `readmes`.
+3. Once complete, you'll need to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-a-new-page) and a subsequent merge request to add the page to GitLab's website.
+   1. If your [division](/company/team/structure/) *already* has a page to host READMEs (see above), follow the guidelines to [add a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-a-new-page) within that directory (e.g. [Darren M.](https://gitlab.com/dmurph), a member of the marketing team, would add a new directory and page within `/handbook/marketing/readmes`, creating `/handbook/marketing/readmes/dmurph`)
+   2. If your [division](/company/team/structure/) does not yet have a holding page for READMEs, follow the guidelines to [add a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-a-new-page) (`readmes`) within your division's handbook section *first*, then create your username directory within `readmes`.
 
 ### Making your README visible
 
@@ -755,7 +755,7 @@ READMEs are particularly powerful when working with those *outside* of GitLab, w
 
 ## Requesting Website Updates
 
-If you'd like to propose new pages for the GitLab website and the update is more complicated than [creating a new page](#creating-a-new-page) on your own, you can request help from the [Website team](/handbook/marketing/growth-marketing/brand-and-digital-design/). New changes or updates with a due date should be requested with sufficient lead time to process the request, allocate resources, iterate, and produce related items.
+If you'd like to propose new pages for the GitLab website and the update is more complicated than [creating a new page](#creating-a-new-page) on your own, you can request help from the [Website team](/handbook/marketing/inbound-marketing/digital-experience/). New changes or updates with a due date should be requested with sufficient lead time to process the request, allocate resources, iterate, and produce related items.
 1. Before requesting help, create the content that you want to go live. E.g. draft the exact words that you want updated.
 1. To request help from the website team to update the site, create an issue in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project
 1. Add the specific content (exact wording and images) in the issue description that you want to put live on the website. Note: If the content is unclear, the issue will be assigned back to you to clarify the content before the website team will begin development work.
@@ -764,7 +764,7 @@ If you'd like to propose new pages for the GitLab website and the update is more
 
 # Merge requests
 
-For best practices regarding testing and reviewing merge requests, please see our related handbook page for [reviewing merge requests](/handbook/marketing/website/merge-requests/).
+For best practices regarding testing and reviewing merge requests, please see our related handbook page for [reviewing merge requests](/handbook/marketing/inbound-marketing/digital-experience/website/merge-requests/).
 
 
 # Working in Modules 
@@ -795,7 +795,7 @@ For best practices regarding testing and reviewing merge requests, please see ou
 
 # Video bands
 
-This is a link to our [documentation on how to implement a video band](/handbook/marketing/growth-marketing/brand-and-digital-design/video-bands/).
+This is a link to our [documentation on how to implement a video band](/handbook/marketing/inbound-marketing/digital-experience/video-bands/).
 
 # Digital FAQ
 

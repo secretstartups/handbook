@@ -28,7 +28,7 @@ For guidance on which third-party agency or designer(s) to work with, please rea
 
 #### Requesting design help
 
-1. Create an [issue](/handbook/marketing/growth-marketing/#brand-and-design-issue-templates) in the corresponding project repository.
+1. Create an [issue](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) in the corresponding project repository.
     1. For tasks pertaining to [about.gitlab.com](/) create an issue in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com/issues).
     1. For all other marketing related tasks create an issue in the [corporate marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues).
 1. Add all relevant details, goal(s), purpose, resources, and links in the issue description. Also `@` mention team members who will be involved.
@@ -93,7 +93,7 @@ GitLab has a [higher purpose](https://about.gitlab.com/company/strategy/#mission
 
 The following guide outlines the set of standards used for all written company communications to ensure consistency in voice, style, and personality, across all of GitLab's public communications.
 
-See the [Blog Editorial Style Guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide) for more.
+See the [Blog Editorial Style Guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide) for more.
 
 The [tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1) we use when speaking as GitLab should always be informed by our [Content Strategy](https://gitlab.com/gitlab-com/marketing/blob/master/content/content-strategy.md#strategy).
 

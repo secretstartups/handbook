@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: "SEO Content Manual"
 description: "The aim of this manual is to help create content that provides use and value to both searchers and search engines."
-canonical_path: "/handbook/marketing/growth-marketing/inbound-marketing/seo-content-manual/"
+canonical_path: "/handbook/marketing/inbound-marketing/search-marketing/seo-content-manual/"
 ---
 
 ## On this page 

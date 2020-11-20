@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Brand Design Handbook"
+title: "Digital Experience Handbook"
 ---
 
 ## On this page
@@ -8,281 +8,192 @@ title: "Brand Design Handbook"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-# Brand Design Handbook
-{:.no_toc}
 
-Brand Design is part of the Growth Marketing department. Our mission is to create brand and marketing experiences that attract, convert, nurture and delight customers throughout the customer journey, one MVC at a time.
+# Digital Experience Handbook
 
+## Overview
 
-### The Team
+### Purpose
 
-The Brand team’s primary responsibilities are:
+*Why we exist*
 
-- Developing and managing GitLabs brand and visual identity.
-- Developing and managing campaign brands and identities.
-- Enabling Everyone to Contribute with a consistent voice and look and feel.
-- Content marketing design support, such as editorial and video content.
+To guide the intention of GitLab’s initial impact. Our goal is to continually shift perception by delivering positive experiences at velocity.
 
-Quick Links:
-- [Meet the Brand team](#meet-the-brand-team)
-- [Brand standards and guidelines](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/)
-- [Image guidelines](/handbook/marketing/growth-marketing/brand-and-digital-design/image-guidelines/)
-- [Reviewing merge requests](/handbook/marketing/website/merge-requests/)
+### Vision
 
+*Where we're going*
 
-### What we do
+A future where **everyone can contribute**, consumers become contributors and we greatly increase the rate of human progress.
 
-The Team works with our GitLab peers and the wider GitLab community to rapidly co-design and release value generating experiences throughout the marketing funnel -from raising brand awareness and attracting strangers, to converting visitors to leads, leads to customers and customers to promoters:
+### Mission
 
-- **Attract** - Blog, Keywords, Social Media
-- **Convert** - Forms, CTAs, Landing Pages
-- **Nurture** - Ebooks, White-papers, Case Studies, Webinars, Guides, Videos, Email Newsletters and Drip Campaigns, Free Trials, Demos
-- **Delight** - Feedback Loops, Personalization
+*What we do*
 
+Create tools and processes that unlock GitLab team members and users to deliver results.
 
-### Our focus
+### Objective
 
-The Team's [mission](#mission), [work](#how-we-work), and solutions revolve around:
+Contribute and execute on the strategy for the marketing site.
 
-- **GitLab’s** **CREDIT Values** - We incorporate [Gitlab's CREDIT values](/handbook/values/#credit) into everything we do
-- **Data-driven decisions**  - We use data to plan, design and measure success
-- **Understanding the Problem** - We strive to understand the *who*, *what* and *why,* so we can best solve the how
-- **Value-driven** **MVCs** - We rapidly plan, design and release results-driven MVCs, and measure our success
-- **Customer focus** - We promote customer-centric strategies and solutions throughout the org
-- **Conversion, conversion, conversion** - We optimize for conversion throughout the buyer journey
-- **Story telling** - We build our brand through compelling story telling
-- **Decisive Collaboration** - We facilitate an open and inclusive, decision-driven design process
-- **Cohesive** **Experiences** - We build cohesive, omni-channel experiences across diverse media and devices, one MVC touchpoint at a time
-- **Everyone Can Contribute** - We support GitLab’s Everyone Can Contribute model by creating contribution paths aligned to our brand and business goals
-- **Efficiency via DRY** - In the spirit of Don’t Repeat Yourself (DRY), we leverage strategic reuse to promote consistency and speed
+1. Achieve traffic goals (inbound SEO)
+2. Achieve MQL goals (conversion rate)
+3. Support broader marketing initiatives w/ deliverables
 
+### Strategy (FY21 Q3)
 
+1. Implement a CMS - so that the content marketing team is more productive, and more teams can self-serve improvements to the website
+2. Create a Design System - developer productivity, more consistent up-leveled look/feel of the website
+3. Set the long-term strategy for website to continue to see the content, design, and processes refreshed
+4. Establish SEO partnership
 
-### Contact us
+View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/](https://about.gitlab.com/handbook/inbound-marketing/digital-experience/foundations-agenda/)
 
-- [Slack](https://gitlab.com/gitlab-com/marketing/growth-marketing)
-- [Email Brand and Digital](mailto:brand-and-digital@gitlab.com)
+### Principles (WIP)
 
-# Mission
+1. **Understand** We need to understand the challenge before we can solve it (this could be related to process, it’s asking questions)
+2. **Trust** We trust our process (we have a process, we have versions of our process based on scope) We trust each other
+    1. **Respect**
+    2. **Transparency**
+3. **Inclusive** Add description - make sure this is sharp
+    1. **Empathy** we creating things for our customers/users
+    2. **Supportive** We support each other and other teams to deliver the best results (something about creating safety and educating others) psychological safety
+        1. Provide feedback to support each other
+    3. **Accessible**
+4. **Intentional** simple over complicated
+    1. Meet people where they’re at/**context**/cognitive load rewrite this
+5. **Opinion** We have a strong opinion that differentiates us
+6. **Results** We focus on results (something about keep it simple, measurement)
+    1. **Actionable**
+    2. **Measurable**
+7. **Iteration** When applying the [MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) approach, make things smaller by reducing the scope of the job-to-be-done rather than sacrificing the end goal.
+    1. **Experimentation** We’re driven by experimentation and judge success with data (I dunno, something from essential experiences)
+    2. **Increments**  We take large tasks and break them down into multiple iterative tasks
 
-Our mission is to rapidly release value generating MVCs, together. To realize our mission, we strive to be collaborative, innovative, informative, efficient, and results-driven in all things we do:
+### What We Are Not
 
-- **Innovative** - We emphasize GitLab’s disruptive business and product innovation, and embrace new ideas and ways to achieve our goals.
-- **Informative** - We support evidence-based solutions via brand and conversion design best practices, competitive and user research, and customer feedback loops.
-- **Efficient** - We solve efficiently “boring” solutions, Lean UX tools and techniques, and design reuse (e.g. design systems, reusable assets, and self-serve templates).
-- **Results focused** - We deliver results fast by rapidly releasing value-generating, customer-centric MVCs and measuring success via performance indicators (PIs).
-- **Collaborative** - We facilitate an open and iterative design process, that welcomes contributions from Gitlabbers and the wider GitLab community end to end.
+[COMING]
 
+## Team
 
-# Working with us
+| Team Member                                                                                             | Role                               | Contact Info                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Michael Preuss**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#mpreuss22)   | Senior Manager, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html)      |
+| [**Lauren Barker**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#laurenbarker) | Senior Full Stack Developer        | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html)  |
+| [**Brandon Lyon**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#brandon_lyon)  | Frontend Engineer                  | - Email: [blyon@gitlab.com](mailto:blyon@gitlab.com)<br>- GitLab: [@brandon_lyon](https://gitlab.com/brandon_lyon)<br>- Slack: @Brandon Lyon<br>- ReadMe: [brandon-lyon](https://about.gitlab.com/handbook/marketing/readmes/brandon-lyon.html) |
+| Stephen McGuinness                                                                                      | Design System Lead (Contract)      | - GitLab: [@smcguinness1](http://smcguinness1)<br>- Slack: @Stephen McGuinness                                                               |
+| Jessica Halloran                                                                                        | UX Designer (Contract)             | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran                                                                  |
+| Tina Lise Ng                                                                                            | UX Designer (Contract)             | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng                                                             |
+| Javier Garcia                                                                                           | Frontend Engineer (Contract)       | - GitLab: [@jgarc257](https://gitlab.com/jgarc257)<br>- Slack: @Javi                                                                         |
+| Sanmi Ayotunde                                                                                          | Frontend Engineer (Contract)       | - GitLab: [@sanmiayotunde](https://gitlab.com/sanmiayotunde)<br>- Slack: @sanmiayotunde <br>- ReadMe: [sanmiayotunde](https://about.gitlab.com/handbook/marketing/readmes/sanmiayotunde.html)                                        |
 
-To work with Brand and Digital, please:
-- Use the following issue templates and labels to submit your issue requests
-- Submit issue requests with adequate lead time (the sooner the better). Two weeks is needed for general asks and more complicated requests will be triaged and timelines communicated. 
+## Metrics
 
+Specific targets can be found [here](/handbook/marketing/growth-marketing/#goals)
 
-## Labels Overview
-Please see the Growth Marketing Handbook section on [labels](/handbook/marketing/growth-marketing/#labels) for status and communication labels. Below is more detailed labels specific to Brand and Digital Design.
+### North Star Metric
 
+**Metric**: Inbound marketing qualified leads.
 
+### Supporting Metrics
 
-# How we work
+There are many other digital marketing metrics we track for the website. These include pageviews, unique visitors, time on site, and conversion metrics for key funnels. These detailed metrics are leading indicators for the health of our North Start metric, and are internal to GitLab.
 
-See the Growth Marketing Handbook for the overview of our [process](https://about.gitlab.com/handbook/marketing/growth-marketing/#process) 
+## Scope
 
-#### Sprint planning
-Before the sprint starts, Brand and Digital teams break high-level issue requests into task-based implementation issues, as needed. Implementation issues are assigned, weighted and related to other issues to denote relationships and dependencies (i.e. blocking issues).
+The GitLab digital marketing platform, or simply the “GitLab Website” refers to all of the content on `https://about.gitlab.com` except the [blog](/handbook/marketing/blog/) and [handbook](/handbook/).
 
-- Production Issues: 
-    - [**Strategy Issue**](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-strategy) - Issue to define strategic brief that defines project hypothesis, scope, business and brand requirements, target audience, CTAs and any other information key to success.
-    - [Conversion Checklist Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-conversion) - Issue that’s opened at the start of a conversion project, completed by design, development and testers throughout the project, and closed at the end of the project.
-    - [**Prototyping Issue**](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-prototyping) - Issue to facilitate co-design sessions using experience mapping and or lo- to mid-fi prototyping to rapidly align on big picture experience and value-driven MVCs.
-    - [**Visual Design Issue**](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-visualdesign) - Issue to theme the approved conversion design prototypes.
-    - [**Development Issue**](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-developement) - Issue to develop the approved design.
-    - [**Testing Issue**](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=team-implementation-testing) - Issue to define, conduct and report outcome of tests.
-- Weighting
-    - We use issue weight to plan and manage our work better. Team members are not held to weights, they’re simply a planning and learning tool. Brand and Digital weights are based on the following point scale: 1pt = .5 day
-- Issue Assignments
-    - All sprinted implementation issues are assigned to designer or developer. He or she is responsible for leading the issue end-to-end, including facilitating cross-functional completion, keeping the SSOT it up to date, responding to contributions, and completing requirements.
-- Right-sizing Sprints
-    - We strive to plan sprints we can complete. When we don’t, that is ok, so long as we learn from the experience and continually improve.  In order to achieve predictable sprint outcomes we focus on:
-        - Can I complete this work in a week?
-        - Have we been under or over estimating this type of work? Should we adjust the weight accordingly?
-        - Do I need to break this MVC into smaller MVCs?
-        - Do I anticipate any blockers, like cross-functional dependencies or technical challenges? If so, are they manageable or should I pivot to an alternate priority?
+See [Where should content go?](/handbook/git-page-update/#where-should-content-go) to learn which web property is the most appropriate place to put different types of content. To learn what section of the website different content belongs see [definitions](about:blank#definitions).
 
-#### Sprint cycle
+The website does not include - The Docs: `docs.gitlab.com` - The GitLab.com product: `gitlab.com` - The Handbook: `about.gitlab.com/handbook` - The blog: `about.gitlab.com/blog`
 
-- **Weekly Meetings**
-    - **Sprint Kick-off** - At the beginning of each week, we kick-off the sprint and each team member:
-        - Shares their priorities for the weekly sprint in the meeting agenda.
-        - Notes any blockers.
-    - **Slack** **Stand-ups**
-        - We’re experimenting with async Slack stand-ups. If you’re not participating in Slack stand-ups and would like to, please reach out to your leader.
-    - **1:1’s**
-        - Leaders check-in with team members on sprinted projects to provide feedback, address blockers and or pivot project priorities as needed.
-        - Its recommended team members issue boards be used to facilitate these discussions.
-    - **Team Reviews**
-        - Gathering iterative feedback is an essential part of the design and development process. Team reviews, allow team members to get input and ideas before work begins, quickly solicit feedback on works in progress (WIP), and validate final solutions. Because GitLab is an all-remote company, team reviews are also important for building shared understanding with the broader team and company.
-            - Managers will incorporate peer reviews into their team processes, and provide feedback on MVC scope, processes, and WIP and final designs and development solutions.
-            - Team members will present at least once a fiscal quarter, and record and share with the Marketing Growth team for awareness and async contribution.
-            - Optionally, and only with presenter approval,  team review recordings can be posted  to GitLab Unfiltered.
-            - Be sure to frame discussions around the customer and the problem being solved, not the ”pretty” visual design or functionality.  As the discussion unfolds, continually tie everything back to how we can best achieve Gitlab (ex: conversion) and target audience needs (ex: easily getting valuable content from trustworthy source).
-    - **Demo Day!**
-        - Team members showcase something they have completed during the sprint.
-        - Peers have the opportunity for Q&A async, or verbally if time permits.
-- **Close out** - We close out the week's milestone each week by processing:
-    - Closed issues - Closing completed issues.
-    - Rollover issues - Moving issues forward if they were not closed out and comment why the rollover is taking place. Issues that consistently rollover may require attention.
+## OKRs
 
+We collaboratively define OKRs as a team with cross functional partners in advance of each quarter. Once OKR candidates are complete the Growth Marketing Leads review and submit for ratification.
 
-### Strategy
+### FY21 Q4 OKRs
 
+**Objective:** [Q4 FY21 Growth Marketing OKR: Implement 3rd Party CMS on about.gitlab.com](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/153)
 
-#### Define the opportunity
+**Key Result:** During Q3 FY21, we made the decision to move forward with a 3rd party CMS (content management system) for the GitLab marketing website. A vendor selection process was completed, and the decision is to implement NetlifyCMS.
 
-- Work with your stakeholders to clearly define *who* we're solving for, *what we want to achieve*, and *why* we’re solving for it.
-- Help your stakeholders define the *who*/*what*/*why* as a user story. For example, "As a (who), I want (what), so I can (why/value)." If you’re asked to implement a non-evidence-based *how* (i.e. a specific solution), then ask the requestor to focus on the who/what/why, so everyone can work together to find the best *how*.
-- Help stakeholders define [MVC](/handbook/values/#minimal-viable-change-mvc) success criteria, prioritizing MVC “must-haves” and non-MVC “should-haves” and “could-haves.” (Note that this success criteria is subject to change based on new learning from the iterative design process and customer feedback.)
+**Link To Slack Working Group:** [#wg_mktg-cms](https://gitlab.slack.com/archives/C01C3LAA8B1)
 
+**Objective:** [Q4 FY21 Digital Experience OKR: Marketing Design System
+](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/92)
 
-### Design process
+**Key Result:** During Q3 FY21, we will invest in planning, designing, and building a design system for our Marketing site. The Marketing Design System will increase our efficiency and make it easier for everyone to contribute.
 
+**Link To Slack Working Group:** [#wg_mktg-design-system](https://gitlab.slack.com/archives/C01CZB21WU9)
+## Our Process
 
-#### Before you design
+Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiates we plan a package for delivery to ensure we're improving our customer's experience rapidly.
 
-**Generate ideas**
-Part of the role of Brand and Digital is to lead and facilitate idea generation with stakeholders. We are all very busy working with stakeholders to solve known problems, but remember that there are also undiscovered problems out there that are definitely worth solving. Here are a few activities and resources to inspire you!
+### Sprint Cycle
 
-- Run a sync, async, or design session to generate ideas. Define the scope and goals for the session, and invite diverse participants for the best results.
-- Reach out to other GitLabbers who may represent the target audience or simply have unique perspective and insights, by inviting them to meetings or via Slack, to generate new idea and or get feedback on existing ideas.
-- Spin up a sync or async session to share competitive and comparative solutions, and then use them as an “iteration 0” like/dislike session with stakeholders.
+For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
 
-#### Understand the space
+<figure class="video_container">
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=Y185Z2FiaTg1cmYxMTdnOGhhNDhya2tmbzUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y19pcnFkNzNwNnA0YnJ1a2prOXUyZjF0NGNxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&amp;color=%23B39DDB&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</figure>
 
-- Consider lightweight competitive research an analysis to inform your work.
-    - Google and or social search the subject you’re working on
-    - Checkout competitor and comparative solutions
-    - Put yourself in the target audiences shoes, as you get a sense of the competitive and market landscape.
-    - Identify “boring” design conventions customers expect, such as interactive patterns or subject matter iconography, that we can embrace for marketing and release speed reasons. Only stray from industry conventions with strategic intent, such as capitalizing on [disruptive innovation](https://www.economist.com/the-economist-explains/2015/01/25/what-disruptive-innovation-means) opportunities.
-    - Screen capture competitive and comparative solutions, you can use to generate ideas.
-- Consider creating user flows or journey maps to help ensure you and stakeholders understand how the touchpoint you’re working on fits into the broader buyer journey. Where are prospects coming from? Where will they go next? How do we optimize the overall experience for conversion?
-- Read the content you’re designing, so you can maximize the message with meaningful photos, illustrations and diagrams that are informative and engaging.
+### Sprint Planning
 
-#### Investigate possible dependencies
+Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards. We weight these issues and target delivering 10 weight points per sprint.
 
-It is our responsibility as Brand and Digital to ensure the touchpoints and experiences we deliver are well integrated into GitLab’s experiences.
+This is the template we use for [Sprint Planning](https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit)
 
-- Proactively reach out to other Brand and Digital GitLabbers to align your work to theirs and ensure the solution delivered is on brand and conversion optimized.
-- Identify the DRIs, cross-discipline peers and stakeholders early and make sure they’re aware of your work, their role and that they have what they need from you to contribute and avoid delaying your delivery.
+<figure class="video_container">
+    <iframe src="https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit"></iframe>
+</figure>
 
+### Sprint Retros
 
-### Design
+Sprint Retros allow us to reflect on what went well and what we can to do continuously improve our process.
 
+This is the template we use for [Sprint Retros](https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit)
 
-#### Ideate and iterate
+<figure class="video_container">
+    <iframe src="https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit"></iframe>
+</figure>
 
-- Share design ideas in the lowest fidelity that still communicates your idea. To keep the cost of change low, only increase fidelity as design confidence grows and implementation requires.
-- Ask for feedback from stakeholders throughout the design process to help refine your understanding of the problem and align on the best possible solution.
-- Be sure to frame discussions around the customer and the problem being solved, not visual design or functionality. When presenting, walk through the proposed solution from the target audience’s point of view. As the discussion unfolds, continually tie everything back to how well proposed solutions achieve Gitlab and target audience goals.
-- Ask for feedback from your Brand and Digital team via Slack or in a Team Design & Development Review <link> to help improve your work. At minimum, you'll get objective feedback and new ideas that lead to better solutions. You might also get context you didn’t know you were missing, such as related GitLab initiatives and solutions you can factor into your solution.
-- Engage Digital peers early and often. Their insight into technical costs and feasibility is essential to determining viable designs and MVCs.
-- Collaborate with your Content Marketing group early and often, to ensure design and copy work together to create a cohesive, compelling and conversion optimized experience.
-- For important project, like a key content piece and or conversion path, include your leadership in feedback, as they might have input into the overall direction of the design or knowledge about initiatives that might impact your own work.
-- Work with Growth Marketing peers to align on how to measure the success of the overall initiatives you’re a part of, and your MVCs.
-- Make sure your solutions are aligned to design and dev standards and best practices, such as conversion best practices.
+**Marketing Design System Sprint Planning and Retros**
 
-#### Refine MVC
+[https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK](https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK)
 
-- MVC issues have a tendency to expand in scope. Work with your stakeholders to revisit which aspects of the solution are “must haves” versus those that can be pushed until later. Document non-MVC requirements in new issues, and relate the new issues to the original issue. If you’re ever unsure how to split apart large issues, work with your leader.
-- If development needs to begin before you have completed your design, and a planning pivot to another issue is not an option, then look for high confidence and low risk elements dev can start work on while you finish the remainder of the design. To mitigate these scenarios and the dev delays and waste they can create, everyone should work together to plan ahead.
-- Devs should be able to build an MVC is one sprint. If an MVC is too large to build within one release, work with your leadership and peers to split the MVC into smaller MVCs that can be closed at the end of the sprint. Note: MVC may be completed in a sprint, but released later due to dependencies on other dev MVCs.
+**CMS Sprint Planning and Retros**
 
-#### Final MVC
+[https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy](https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy?usp=sharing)
 
-- After you've facilitated and open and inclusive process, present your final design solution in the Design tab.
-- When sharing asynchronously in an issue, make sure your audience has the context necessary to understand how your proposal delivers on the who, what and why and our brand and business goals, and anything you need from them. Is it clear who will use the solution and how it meets Gitlab and target audience goals? Is this just the final interactive design or is visual design also final? Do you need feedback or assistance from stakeholders, like final content changes? To make reviewing easier, have you highlighted how you addressed final change requests, questions and concerns.
-- Set the issue marketing status scope label to  `mktg-status::design-review` to open the solution up to final review and approval. If you are not able to get approval from your leadership, despite best efforts, do not let that hold up delivery.
-- Anticipate questions that others might have, and try to answer them in your proposal comments. You don’t have to explain everything, but try to communicate a bit of your rationale every time you propose something. This is particularly important when proposing changes or challenging the status quo, because it reduces the feedback loop and time spent on unnecessary discussions. It also builds the UX Department’s credibility, because we deal with a lot of seemingly subjective issues.
-- Keep the SSOT updated with what’s already agreed upon so that everyone can know where to look. This includes images or links to your design work.
-- If you are proposing a solution that will introduce a design, or change an existing one, please consider the following:
-    1. Will this design or interaction pattern be inconsistent with like experiences?
-    2. Will like experiences need to be updated to match?
-    3. Is upgrading this design or interaction pattern worth the cost?
+**Weighting**
 
-#### Deliver
+We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
 
-- Once your work is complete and all feedback is addressed, make sure that the issue description and SSOT are up to date, you’ve validated that you have followed any required best practices, and relevant parties are informed of what to do next.   
-- As applicable, commit all final design assets and files to appropriate repositories.
-- If the solution needs to be broken out into smaller issues for implementation, work with your Digital peer to do so.
+## Contact Us
 
-#### Follow through
+### Slack Group
 
-- Encourage developers to scope down features into multiple merge requests for an easier, more efficient review process.
-- When breaking down features into multiple merge requests, consider how the UX of the application will be affected. If merging only a portion of the total changes will negatively impact the overall experience, consider using a feature branch or feature flag to ensure that the full UX scope ships together.
-- When breaking solutions into smaller MVCs, make sure customers do not get fragmented or incomplete experiences. Make sure everyone understands the full picture so dependent MVCs are released together.
-- Keep the issue description updated with the agreed-on scope and requirements, even if doesn’t impact your work. This is everyone’s responsibility. The issue description and design files must be the Single Source Of Truth (SSOT), not the discussion or individual comments. If the developer working on the issue ever has any questions on what they should implement, they can ask the designer to update the issue description with the design.
-- For obvious changes, make the SSOT description update directly. [You don't need to wait for consensus](/handbook/values/). Use your judgement.
-- When the issue is actively being worked on, make sure you are assigned and subscribed to the issue. Continue to follow both the issue and related merge request(s), addressing any gaps or concerns that arise.
+**@digital-experience** use this handle in any channel to mention every member of our team.
 
+### Slack Channels
 
+[#marketing-website-team](https://gitlab.slack.com/archives/CN8AVSFEY)
 
+[#growth-mktg](https://gitlab.slack.com/archives/C012U3CASJ2)
 
+[#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5)
 
+[#website](https://gitlab.slack.com/archives/C62ERFCFM)
 
+## GitLab Unfiltered Playlists
 
+**Digital Experience**
 
-# Our People
+[https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 
+## Requesting Support
 
-<details markdown="1">
+[https://about.gitlab.com/handbook/marketing/growth-marketing/#requesting-support](https://about.gitlab.com/handbook/marketing/growth-marketing/#requesting-support)
 
-<summary>Meet the Brand team</summary>
+## How we use GitLab
 
-## Meet the Brand team
-
-[**Luke Babb**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#luke)
-
-* Title: Manager, Creative
-* Email: luke@gitlab.com
-* GitLab handle: @luke
-* Slack handle: @luke
-
-[**Matt Salik**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#msalik)
-
-* Title: Senior Brand Designer
-* Email: msalik@gitlab.com
-* GitLab handle: @msalik
-* Slack handle: @matt
-
-[**Monica Galletto**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#monica_galletto)
-
-* Title: Associate Production Designer
-* Email: mgalletto@gitlab.com
-* GitLab handle: @monica_galletto
-* Slack handle: @monicagalletto
-
-[**Vic Bell**](https://about.gitlab.com/company/team/?department%5Cu003dops-section/#vicbell)
-
-* Title: Senior Illustrator
-* Email: vbell@gitlab.com
-* GitLab handle: @vicbell
-* Slack handle: @vic
-
-</details>
-
-
-## Tools
-
-<details markdown="1">
-
-<summary>show/hide this section</summary>
-
-- [Adobe Creative Cloud / Suite](https://www.adobe.com/): Adobe Creative Cloud is a set of applications and services from Adobe Inc. that gives subscribers access to a collection of software used for graphic design, video editing, web development, photography, along with a set of mobile applications and also some optional cloud services.
-- [Sketch](https://www.sketch.com/): Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
-- [Mural](https://mural.co/): MURAL is an Online Virtual Collaboration Space, Easy to Use Specially Designed for Teams. You can Post Stickies, Share Ideas, Brainstorm and Run Product Sprints.
-- [Sisense ( previously Periscope )](https://www.sisense.com/product/data-teams/): Sisense for Cloud Data Teams (previously Periscope Data) empowers data teams to quickly connect to cloud data sources, then explore and analyze data in a matter of minutes. Extend cloud investments with the Sisense analytics platform to build, embed, and deploy analytics at scale.
-- [Launch Darkly](https://launchdarkly.com/): LaunchDarkly is a Feature Management Platform that serves over 100 billion feature flags daily to help software teams build better software, faster.
-- [Swiftype](https://swiftype.com/): Swiftype is our search provider for the about site and handbook site. We are on a legacy "business" plan where we are allowed 100,000 documents to index, 3 engines, 24 hours for partial recrawls (edited documents), and 7 days for full recrawls (new & deleted documents).
-
-</details>
+[https://about.gitlab.com/handbook/marketing/growth-marketing/#how-we-use-gitlab](https://about.gitlab.com/handbook/marketing/growth-marketing/#how-we-use-gitlab)

@@ -38,8 +38,8 @@ The Inbound Marketing team focuses on helping grow revenue for GitLab by increas
   * site health for about.gitlab.com
   * keyword research
   * search architecture
-* [Marketing website analytics](/handbook/marketing/growth-marketing/inbound-marketing/analytics/)
-* [Testing changes to improve conversion](/handbook/marketing/growth-marketing/inbound-marketing/testing/)
+* [Marketing website analytics](/handbook/marketing/inbound-marketing/search-marketing/analytics/)
+* [Testing changes to improve conversion](/handbook/marketing/inbound-marketing/search-marketing/testing/)
   * on page CTAs (call to action)
   * A/B testing
 

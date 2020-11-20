@@ -155,7 +155,7 @@ Please fill out one of these Issue Templates to request support. Please note, if
   * [Request a Hotjar heatmap](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=hotjar-heatmap-request)
   * [Request keyword research](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=keyword-research-request)
   * [Request on page optimization research](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=on-page-optimization)
-  * Request A/B Test: see above in [Website Request Templates](https://about.gitlab.com/handbook/marketing/growth-marketing/#website-issue-templates) 
+  * Request A/B Test: see above in [Website Request Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#website-issue-templates) 
 
 #### Video Issue Templates
   * [Requesting a new video](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/digital-production/-/issues/new?issuable_template=new-video-request)
@@ -304,7 +304,7 @@ This is how we work with Issues and their scope
 *  This type of Issue is submitted by a team OUTSIDE of Growth Marketing. 
 *  This serves as a brief to us. 
 *  For each type of request we have a corresponding  **Request [Type] Issue Template** that should be filled out to begin the process. 
-     * [Requesting Support](/handbook/marketing/growth-marketing/#requesting-support)
+     * [Requesting Support](/handbook/marketing/inbound-marketing/#requesting-support)
 * Actions taken on issue: 
   * Reviewed for all information and label changed to `mktg-status::WIP` if all there or `mktg-status::blocked` if not all info is there
   * Assigned to a team member to execute on
@@ -397,7 +397,7 @@ This is how we work with Issues and their scope
 
 ## Quarterly Process 
 * Epics for the quarterly OKRs are created and links are added to to the yearly strategy in the handbook
-* Child epics are created per the [epic structure](/handbook/marketing/growth-marketing/#epics) listed above
+* Child epics are created per the [epic structure](/handbook/marketing/inbound-marketing/#epics) listed above
 
 ## Yearly Process 
 * At the beginning of Q4, we will create a Roadmap Epic for all items that will be candidates for next year's strategy.
