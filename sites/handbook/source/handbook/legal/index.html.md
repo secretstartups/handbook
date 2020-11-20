@@ -12,63 +12,83 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
  
 # Welcome to GitLab Legal!
 
-We are glad you are here! Meet our [team](https://about.gitlab.com/company/team/?department=legal)
+We are glad you are here! GitLab's [LegalTeam](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
 
-Please check out this [tutorial video](https://www.youtube.com/watch?v=Kh_pPeJkF2o) on the best way to reach Legal, if you ever have any questions you can always reach out on Slack.
+## How to Partner With the GitLab Legal Team to get What you Need 
+Please take a moment to read through the below, where we’ve tried to address the best ways to engage GitLab Legal depending upon your specific request. Alternatively, please feel free to check out this [tutorial video](https://www.youtube.com/watch?v=Kh_pPeJkF2o), featuring our very own Rob Nalen. If you still have questions, you can always reach us at *[`#legal`](https://gitlab.slack.com/archives/legal)*
 
-## Contacting the Legal Team with General Legal Questions
+### Anonymous Internal Ethics and Compliance Reporting
 
-### 1. Quick Questions
+We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
 
-You can reach out to the Legal Team on the *[`#legal`](https://gitlab.slack.com/archives/legal)* Slack chat channel.  The legal Slack chat channel is reserved for everyday legal questions that can be answered in informal communication. It is not for requests that require legal advice, deliverables, discussion of confidential information.
+### Quick Questions
+For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. If your request is for legal advice, deliverables, or any discussion of confidential information, please keep reading. 
 
-**Please do not share confidential information on Slack that is not meant for the entire company to see, and do not use it to seek legal advice.**
+### Privileged / Confidential Communications
+If you have a request that involves confidential and/or sensitive information, please email [legal@gitlab.com](mailto:legal@gitlab.com).  
 
-### 2. Sales Guide: Collaborating with GitLab legal 
-**Are you a member of GitLab Sales?** Please find additional information related to engaging legal within the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below. 
 
+### Sales Guide: Collaborating with GitLab legal 
+**Are you a member of GitLab Sales?** Everything you're looking for can be found in the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
 
-### 3. Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer to [no. 5 below](https://about.gitlab.com/handbook/legal/#5-other-legal-requests). 
+### Marketing Guide: Collaborating with GitLab legal 
+**Is your need marketing related?** Everything you're looking for can be found in the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/)
 
-## Requesting Legal Services
- 
-How do I request the services I need?
+### Requests with Deliverables
+If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer #3 below. 
 
-### 1. Internal Ethics and Compliance Reporting (Anonymous)
-
-We take employee concerns very seriously and encourage all GitLab team members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
-
-### 2. Privileged / Confidential Communications
-If you have a request that involves confidential and/or sensitive information, including related to other GitLab team members, please e-mail legal@gitlab.com.  
-
-For more information on Attorney-Client Privilege, see the [General Topics and FAQs](https://about.gitlab.com/handbook/legal/#general-topics-and-faqs) below. 
-
-### 3. Vendor, Partner, and other "To Pay" Contracts
+### 1. Vendor, Partner, and other "To Pay" Contracts
 * If you are looking for a new vendor, need an NDA for a vendor , or need review of a vendor  contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
 * Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
 
-### 4. Requests for Insurance Certificate
+### 2. Insurance Certificate
 * If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
 
-* For a [summary of GitLab's insurance coverage](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing) please refer to this link.
+* For a summary of GitLab's insurance coverage [ please refer to this link](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing).
 
-### 5. Other Legal Requests 
+### 3. Other Legal Requests 
+We use [issues](https://gitlab.com/gitlab-com/legal-and-compliance/issues) to track all other requests that are not customer-related, but require input from the Legal Team or a deliverable, such as: 
 
-* For requests that are not Customer related, but require input from the Legal team or a deliverable such as assistance with questionnaires, engineering license agreements, open source question, internal operation matters, or compliance questions, please tag the relevant Legal team member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using issue templates. For more specific instructions, see our [issue tracker workflow](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/).
-**All Legal and Compliance issues should be marked as confidential. GitLab team members will be able to access these issues directly.**
+- A legal question on an existing issue
+- Open source questions
+- General compliance inquiries 
+- [NDAs](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view)
+- Waivers 
+- [Media Consent and Release Forms](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
 
-Please be sure to include sufficient detail regarding your request, including time-sensitive deadlines, relevant documents, and background information necessary to respond.
+Please tag the relevant Legal Team Member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using issue templates. **All Legal and Compliance issues should be marked as confidential. GitLab team members will be able to access these issues directly.** For more specific instructions, see our [issue tracker workflow](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/).
 
-
+**_If you are unsure where your request fits, an issue is where your journey begins._**  
+Please be sure to include sufficient detail regarding your request, including: time-sensitive deadlines, relevant documents, and background information necessary to respond.
  
-# Contract Templates
- 
-- [Mutual Non-Disclosure Agreement](https://drive.google.com/a/gitlab.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view?usp=sharing)
-- [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
-- [Media Consent and Release Form](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
+## Contract Templates
+* [Mutual Non-Disclosure Agreement](https://drive.google.com/a/gitlab.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view?usp=sharing)
+* [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
+* [Media Consent and Release Form](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
 
-# General Topics and FAQs
+## Other Resources
+* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
+* [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
+* [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
+* [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
+
+### Processes
+* [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
+* [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
+* [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
+
+## Policies
+* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
+* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
+* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
+* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
+* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
+* [Trademark](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
+* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
+
+
+# General Legal FAQs
 
 ## 1. The U.S. Attorney-Client Relationship 
 This discussion is limited to the practice of law in the U.S. As we continue to grow globally we will update this and expand how privilege applies in other jurisdictions.
@@ -131,74 +151,4 @@ We are committed to upholding fundamental human rights and believe that all huma
 4. Every Team Member is responsible to assist in the prevention, detection and reporting of slavery and human trafficking by those working for or with GitLab.  Each Team Member is encouraged to raise concerns about any known or suspected incidents of slavery or human trafficking in any parts of our business or supply chains at the earliest possible stage.   If you are unsure about whether a particular act, the treatment of workers more generally, or their working conditions within any tier of our supply chains or business partners constitutes any of the various forms of modern slavery/human trafficking, raise it at Compliance@Gitlab.com.
 
 5. We may terminate our relationship with individuals and/or Business Partners if they breach this policy.
-
-# Important Pages Related to Legal
- 
-* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
-* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
-* [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
-* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
-* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
-* [Trademark](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
-* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-* [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
-* [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
-* [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
-
-
-## Legal Processes
- 
-- [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
-- [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
-- [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
-
-## Performance Indicators
-
-### Administer, maintain, and manage the legal issue tracker (daily, ongoing) <= 24 hours
-Triage and assign issues in the legal issue tracker to the appropriate legal team member within 24 hours of receipt, during regular business hours
-
-### All suspicious transactions are cleared, actioned, or escalated  <= 1 Business Day
-All suspicious transactions are cleared, actioned or escalated within 1 business day. This is tracked in Visual Compliance. 
-
-### Annually review policies to ensure compliance with applicable laws,  update accordingly and communicate with business = 100% 
-Over a rolling 12 months all policies to be reviewed and updated to be within compliance as documented on the Compliance Strategy Overview for the particular time period.  All updates are communicated with business. 
-
-### Audit Open Source License compliance with policy = 100%
-On a monthly basis audit all new open source licenses to ensure compliance with the policy after each release. 
-Ensure proper license types are being used
-
-### Ensure all federal government submissions, representations, and certifications are audited and accurate = 100%  
-Verify all federal government submissions, representations and certifications are reviewed and accurate.
-
-### Ensure all fully executed vendor contracts are in ContractWorks = 100%
-Administer, maintain, and manage ContractWorks by ensuring all fully executed vendor contracts are uploaded with terms, and that all fields are complete. This will be measured on a monthly basis and the target is 100%.
-
-### Ensure all fully executed sales contracts are in the Salesforce = 100%
-Administer, maintain, and manage Salesforce by ensuring all fully executed sales contracts are uploaded with terms, and that all fields are complete. This will be measured on a monthly basis and the target is 100%.
-
-### Ensure protections over corporate trademarks = 100%
-File annual registrations and respond to challenges to intellectual property rights throughout the year based on registration dates of trademarks. This is tracked in Marcaria
-
-### Negotiation Cycle Average Days per Quarter <= 90 days
-Average number of days on a quarterly basis in “Negotiating” of 90 days or less. This is contingent upon the updated SFDC Legal operations model. There will be a report that shows when a contract negotiation begins, and when it is closed.  
-
-### Number of Opportunities closed by Contract Manager(s) per Quarter >= 66
-The average number of Opportunities (with contracting needs) closed per quarter to be equal or greater than 66, with annual total of 264 per Contract Manager. This is contingent upon the number of contracts brought forward by the sales team. 
-
-### Percentage of contract negotiations per quarter <=15% 
-This is calculated by taking the number of opportunities closed per quarter by Contracts Managers divided by the total number of opportunities closed per quarter. In the future this will be tracked in Salesforce. 
-
-### Response times to initial requests for review <= 24 business hours
-Monthly average response time within 24 business hours in the future this will be tracked in Salesforce for all Contract Managers. 
-
-### ‘Turn-Around’ times on received red-lines <= 72 business hours
-Monthly average red-lines / legal answer(s) within 72 business hours in the future this will be tracked in Salesforce for all Contract Managers. This is contingent on type of Agreement (MSA vs. NDA).
- 
-### Vendors and applicable commercial partners agree to Partner Code of Ethics = 100%
-Strive for 100% compliance on vendors and applicable commercial partners agreeing to Partner Code of Ethics. This will be audited by Internal Audit.
-
-
-
-
 
