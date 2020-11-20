@@ -25,7 +25,7 @@ macOS 10.13.6 or later
 
 ### Linux & *BSD
 
-Ubuntu 14.04 LTS or later is recommended by GitLab, however we only require you run an actively updated and supported Linux disto or BSD flavour. It will be your responsibility to maintain your Linux environment.
+Ubuntu 18.04 LTS or later is recommended by GitLab, however we only require you run an actively updated and supported Linux disto or BSD flavour. It will be your responsibility to maintain your Linux environment.
 
 Further details are available at the [Linux Tools & Tips](/handbook/tools-and-tips/linux/) page.
 
