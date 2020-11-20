@@ -196,6 +196,23 @@ _**Note:** The Release Post Manager is not responsible for creating any content 
 1. Confirm that "Delete source branch when merge request is accepted" is selected.
 1. Add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) and [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml) to the corresponding `release-X-Y-bugs` and `release-X-Y-performance-improvements` branches to `data/release_posts/13_1`
 
+#### Local dev environment setup to run content assembly script
+
+**Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions) or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
+{:.alert .alert-info}
+
+Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. 
+
+1. Open a terminal windown and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
+1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
+
+**How do I know if I already have a Ruby Version Manager installed?** 
+
+1. Open a terminal window and type `which asdf` or `which rbenv` or `which rvm` 
+1. If the output is sommething other than `asdf not found` or `rbenv not found` or `rvm not found` then you likely have one of these installed. A path to one of those tools is returned to the screen if a Ruby version manager is installed.
+
+**What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar. 
+
 #### Merge individual items in to your branch
 
 **Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
