@@ -319,7 +319,9 @@ Job information changes are anything that requires an update to the team member'
 ## Department Transfers
 
 If you are interested in a vacancy, regardless of level, outside your department or general career progression, you can apply for a transfer through [Greenhouse](https://boards.greenhouse.io/gitlab) or the internal job board, link found on the #new-vacancies Slack channel.
-You will never be denied an opportunity because of your value in your current role. We have no minimum time in role requirements for transfers at GitLab.
+ We have no minimum time in role requirements for transfers at GitLab.
+
+**If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the recruiting team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
 
 ### For Internal Applicants - Different Job Family
 
