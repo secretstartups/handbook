@@ -161,6 +161,13 @@ These other types of OOO categories, are to be used on Family and Friends day or
 
 Please be aware that new team members' PTO by Roots accounts are activated and synched automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 
+##### Unable to acces PTO by Roots 
+
+If you recieve an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps. 
+1. Check to see if your email address (GitLab) in your slack profile matches your email address in BambooHR -  it is important to note in this instance that BambooHR is case sensitive and that the addresses must match exactly.
+1. If these two are not the same exact email then the application will not recongize you as a team member. 
+1. If these two are the same, please reach out in the `#peopleops` channel. 
+
 #### Slack Commands
 * `/pto-roots ooo` Create an OOO event.
 * `/pto-roots me` View your OOO dashboard to edit, add or remove OOO events.
