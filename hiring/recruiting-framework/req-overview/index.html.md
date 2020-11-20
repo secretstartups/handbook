@@ -199,6 +199,8 @@ If the candidate declines GitLab's offer, or the offer is extended to another ca
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval. Please note, with the use of Guide, candidates will be made aware when they are moved into Offer stage so move stages with caution.
 
+If there are any special circumstances regarding a known relocation for the candidate, this information should be included in the Compensation Details. Details should include originating location and salary, as well as the new location and new salary details to ensure it is communicated as part of the approval.
+
 ### **Step 10: Req Retro Issue**
 
 Once a candidate has signed their offer document, at that time the CES that sent the contract should create the [Req Retro Issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/req-retro.md) found in the [Req Intake Project](https://gitlab.com/gl-recruiting/req-intake). Instructions are found on the issue template, the participants are the CES, Recruiter, Sourcer and the Hiring Manager. The issue is used to reacap the req, report on KRs, as well discussing what went well during the process and what can be improved upon.  
@@ -230,5 +232,5 @@ After the verbal offer is made the recruiter can send an email to the candidate 
 If the candidate declines GitLab's offer, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
 ### **Step 11: Contract**
-Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
+Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/recruiting-framework/coordinator/#send-contract) to the candidate. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
 
