@@ -195,6 +195,7 @@ The following schedule can ensure a smooth transition:
 
 Abrupt 1-1 transitions can threaten a team member's sense of psychological safety and career stability. If this is a concern, consider scheduling follow-on 1-1-1 transition meetings.
 
+
 ### Manager Transition Meeting Agenda (example)
 
 #### Attendees
