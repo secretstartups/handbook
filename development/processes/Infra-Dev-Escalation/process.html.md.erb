@@ -366,11 +366,15 @@ The aim is to see at least 8 escalations occur with the new process and reach a 
 
 During the experiment period, the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) is a backup and there will be a review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner). If the pilot is successful (see [success criteria](#success-criteria) below), we will move to this new process starting on 2020-11-01.
 
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320020, dashboard: 780258, embed: 'v2') %>">
+
 ### Success Criteria
 
 We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), but allow up to 15% escalations falling back to the oncall spreadsheet.
 
 At the time of success assessment, all stakeholders - Development, Infrastructure, QE, Security, and Support - agree the new process is ready for production, in addition to the metric above.
+
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320108, dashboard: 780258, embed: 'v2') %>">
 
 ### Bot (Pagerslack) Usage
 
@@ -379,6 +383,10 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
  * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
 
 _Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
+
+### Pagerslack statistics
+
+See the [Sisense Pagerslack Stats board](https://app.periscopedata.com/app/gitlab/780258/Pagerslack-Stats)
 
 ### Notification Settings
 
