@@ -3,11 +3,15 @@
 layout: markdown_page
 title: "Sanmi Ayotunde Ajanaku's README"
 ---
+
 ## On this page
 {:.no_toc}
+
 - TOC
 {:toc}
+
 ## Sanmi (pronounced "Sun-Me") Ayotunde Ajanaku's README
+
 Hi there! I'm **Sanmi**, my name is not that complicated, it's pronounced as **"sun-me"**, which means "Favored by God".  I am a Full Stack Developer at GitLab, and you will love working with me.
 
 - [GitLab Handle](https://gitlab.com/sanmiayotunde)
@@ -21,13 +25,13 @@ I started my career as a graphics designer for my Dad's printing company at the 
 
 I've spent my career in and around web development, mobile app development, startups, advertising, strategy, people management, and customer journey transformation.  Having worked with my own startups, African based startups,  B2B and B2C companies in the United States, with manufacturing companies, Fortune 500s, and even small local owned businesses such as restaurants and other micro-businesses, I have developed a taste of understanding what users want online and how to give it to them easily and quickly.
 
-
 ## What's my current role and goal?
+
 I develop web applications, components, contents, and anything you can click and interact with on web application ... I understand you want to know more, stay calm ...
 * I will be updating this section soon. 😉
  
-
 ## About me
+
 * I was born, raised, and studied in Nigeria, West Africa. I moved to the United States in 2013 after my Bachelor's Degree.
 * In Nigeria, I was a performing musician until I had a turn around to become a Christian.
 * In the United States, I have lived in Spokane. - Washington States,  Atlanta. - Georga, and Huntsville - Alabama. I have visited a lot of these places and approximately 30 states of the United States.
@@ -40,7 +44,9 @@ I develop web applications, components, contents, and anything you can click and
 	* **Airplanes**, I told my cousin I will be in one someday. He laughed like crazy and never believed me. - Mission Accomplished
 	* I will **build a university** in my village - I still have no clue how this will happen, but it will surely happen lol
 * I am a very interesting personality, I am still evolving, and I will be updating this section soon
+
 ## How you can help me
+
 * Understand that we are all learning from each other, I may ask you silly questions.
 * My silly questions lights up my imagination and helps me to understand your request better.
 * I always love seeing the **big picture**, tell me the end goal, then tell me what you want us to do.
@@ -48,6 +54,7 @@ I develop web applications, components, contents, and anything you can click and
 * I always have a lot of tasks on my hand at the same time (prior experience). I may forget what you told me on the phone or zoom, that's why I prefer proper comment through **issues or slack** 
 
 ## My working style
+
  This section is currently culled from a colleague's profile but still fits my personality. Watch out for my updated version.
  
  - **I work in my issue boards**. Therefore, work doesn't exist to me without it being in an issue, assigned to a milestone. For one-off items, you'll find that I assign myself things in Google Docs from meetings. Please feel free to do the same, if we're not capturing our work in an issue. 
