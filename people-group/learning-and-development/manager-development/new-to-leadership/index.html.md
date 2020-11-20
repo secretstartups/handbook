@@ -74,7 +74,3 @@ If managers have any questions regarding their role related to the above topics,
 ### Diversity, Inclusion & Belonging
 
  A link to the Building an Inclusive Remote Culture can be found here at [Building an Inclusive Remote Culture](/company/culture/inclusion/building-diversity-and-inclusion/#introduction).  Make sure you review the [Tips for Managers](/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers)
-
- ----
-
-Return to the main [Leadership Toolkit page](/handbook/people-group/leadership-toolkit/).
