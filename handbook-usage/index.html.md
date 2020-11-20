@@ -188,7 +188,7 @@ If you require project-based access, you can request temporary developer access 
 
 ## Moving Pages and Adding Redirects to the Handbook
 
-The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/growth-marketing/inbound-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
+The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
 
 ## Management
 
