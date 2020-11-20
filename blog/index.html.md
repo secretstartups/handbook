@@ -18,7 +18,7 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 - [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
 - [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
-- [Editorial team page (including blog style guide)](/handbook/marketing/growth-marketing/content/editorial-team/)
+- [Editorial team page (including blog style guide)](/handbook/marketing/inbound-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
@@ -54,13 +54,13 @@ If your proposed post doesn't meet the [criteria for an announcement](#-if-you-w
 
 ### If you don't want to pitch your post
 
-If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/growth-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
+If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/inbound-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
 
 ## How to pitch a blog post
 
 Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly. 
 
-If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
+If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
 If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you. 
 
@@ -84,7 +84,7 @@ Note: If you're planning to write a tutorial post describing how to do something
 
 The team will be assessing pitches against the following criteria:
 
-1. The post idea aligns with the [blog objectives](/handbook/marketing/growth-marketing/content/editorial-team/#objectives) and [scope](/handbook/marketing/growth-marketing/content/editorial-team/#scope); and/or
+1. The post idea aligns with the [blog objectives](/handbook/marketing/inbound-marketing/content/editorial-team/#objectives) and [scope](/handbook/marketing/inbound-marketing/content/editorial-team/#scope); and/or
 1. The idea shows potential to become [a high-performing post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post)
 
 To give your idea the best chance of being accepted, be sure to demonstrate how your pitch meets the criteria above. It may also help to think about the following:
@@ -111,7 +111,7 @@ Below are links to blog post proposals that demonstrate the value the post will 
 
 The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
 
-If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/growth-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog.
+If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/inbound-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog.
 
 ### If your pitch is accepted
 
@@ -119,7 +119,7 @@ If your pitch isn't accepted, no problem! The Editorial team will suggest that y
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to @rebecca. She will assign a member of the Editorial team to review the post.
 
-Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/growth-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @rebecca or @skassabian for review.
+Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @rebecca or @skassabian for review.
 {: .alert .alert-info .note}
 
 ### Process for time-sensitive posts
@@ -153,7 +153,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 
 Inspired by [error budgets used by Engineering](/handbook/engineering/#error-budgets).
 
-Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals and objectives](/handbook/marketing/growth-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers) or the needs of our audience.
+Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals and objectives](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers) or the needs of our audience.
 
 Each functional group is responsible for not exceeding an allowed budget of 15 points per quarter. The number of points given will depend on the severity of the impact to the team's workflow:
 
@@ -262,7 +262,7 @@ Once agreed, the blog team will assign and communicate the expected publish date
 
 ## Writing blog posts – best practices
 
-We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
+We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
 
 It's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
 
@@ -524,11 +524,11 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 ##### Original images
 
-If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/growth-marketing/#brand-and-design-issue-templates). If you prefer, you can [create an image](#artwork) yourself.
+If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates). If you prefer, you can [create an image](#artwork) yourself.
 
 ##### Images for integration posts
 
-If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](/handbook/marketing/growth-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
+If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
 
 ##### Default cover image
 
