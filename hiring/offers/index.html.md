@@ -24,7 +24,7 @@ Once it is determined that a candidate will be moving to the offer stage, the hi
 - In what specific way(s) does this candidate make the team better?
 - What flags were raised during the interview process?
 - How do we intend on setting this candidate up for success?
-- Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role?
+- Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) for the role? (please add them to the appropriate scorecard section)
 - Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer)
 
 The justification section is a good place to add as much detail and context as possible since offers will often be reviewed by individuals that were not part of the interview process so this is their primary source of information for whether or not an offer should be approved.
