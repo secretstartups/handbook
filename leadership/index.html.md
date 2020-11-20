@@ -267,6 +267,7 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
     - As leaders, we need to give context as well. A good question is: "What would have to change for us to get X prioritized..."
     - Documenting something is _not_ a replacement for having the hard conversation
     - [Book club](/handbook/leadership/book-clubs/#crucial-conversations)
+    - [Crucial Conversations Handbook Page](/handbook/leadership/crucial-conversations)
 1. [The Advantage: Why Organization Health Trumps Everything Else In Business](https://www.goodreads.com/book/show/12975375-the-advantage) - Patrick Lencioni
 1. [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Patrick Lencioni
 1. [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) - Geoffrey A. Moore
