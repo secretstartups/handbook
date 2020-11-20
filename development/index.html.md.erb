@@ -165,6 +165,71 @@ Below are tips for developing individual's OKRs:
 1. [Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7253)
 1. [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7148)
 
+### Ownership of Shared Services and Components
+
+The GitLab application is built on top of many shared services and components, such as PostgreSQL database, Redis, Sidekiq, Prometheus and so on. These services are tightly woven into each feature's rails code base. Very often, there is need to identify the DRI when demand arises, be it feature request, incident escalation, technical debt, or bug fixes. Below is a guide to help people quickly locate the best parties who may assist on the subject matter.
+
+#### Ownership Models
+
+There are a few available models to choose from so that the flexibility is maximized to streamline what works best for a specific shared service and component.
+
+1. Centralized with Specific Team
+   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+   1. The single group is a specific team, meaning there is an engineering manager and all domain owner individuals reside in this team. The DRI is the engineering manager.
+   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+   1. This model may require consensus from the Product Management counterpart.
+   1. This model may fit a subject domain that experiences active development.
+1. Centralized with Virtual Team
+   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+   1. The single group is a virtual team, meaning it consists of engineers from various engineering teams, for example maintainers or subject matter experts. Typically there isn't an engineering manager for this virtual team. The DRI is an appointed person in the group who may not necessarily be an engineering manager.
+   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+   1. This model may fit a subject domain that's in maintenance mode.
+1. Collectives
+   1. Collectives consist of individuals from existing teams who voluntarily rally around a shared interest or responsibility, but unlike Working Groups may exist in perpetuity. The shared interest could be a specific technology or system. Collective members feel a collective responsiblity to weakly own, improve upon or otherwise steer the subject they govern.
+   1. This is a weaker form of the Virtual Team but introduces more structure than a fully decentralized model. It can be appropriate when some form of ownership is desirable where the subject has cross-cutting impact and wide reach and cannot clearly be allocated to any specific team.
+   1. Collectives do not have product or engineering managers, they are fully self-governed.
+   1. Members of the Collective sync regularly and keep each other informed about the shared interest. Problem areas are identified and formalized in the Collective, but are not logged into a Collective backlog. Instead a DRI is assigned who should put the task forward to the team with the greatest need for the problem to be resolved. This is to ensure that work is distributed fairly and that there are no two backlogs that compete with each other for priorities.
+   1. Collectives work best when they consist of a diverse set of individuals from different areas of product and engineering. They double as knowledge sharing hubs where information is exchanged from across teams in the Collective first, and then carried back by the individuals to their specific teams.
+1. Decentralized
+   1. The team who implements specific functions or utilizes certain features of the shared services is responsible for their changes from local development environment to production deployment to continued maintenance post-deployment. There is not a development-wide single DRI who owns a portion or the entirety of a shared service.
+   1. A specialty team may exist for specific subject domains, however their role is to enable scalability, availability, and performance by building a solid foundation and great tools for testing and troubleshooting for other engineering teams, while they are not responsible for gating every single change in the subject domain.
+
+#### Shared Services and Components
+
+The shared services and components below are extracted from the GitLab [product documentation](https://docs.gitlab.com/ee/development/architecture.html).
+
+| Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) |  Ownership Group (Centralized Only) | Additional Notes |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Alertmanager |  |  |  |  |  |
+| Certmanager |  |  |  |  |  |
+| Consul |  |  |  |  |  |
+| Container Registry |  |  |  |  |  |
+| Email - Inbound |  |  |  |  |  |
+| Email - Outbound |  |  |  |  |  |
+| GitLab K8S Agent |  |  |  |  |  |
+| GitLab Pages |  |  |  |  |  |
+| GitLab Rails |  |  |  |  |  |
+| GitLab Shell |  |  |  |  |  |
+| HAproxy |  |  |  |  |  |
+| Jaeger |  |  |  |  |  |
+| LFS |  |  |  |  |  |
+| Load Balancer |  |  |  |  |  |
+| Logrotate |  |  |  |  |  |
+| Mattermost |  |  |  |  |  |
+| MinIO |  |  |  |  |  |
+| NFS |  |  |  |  |  |
+| NGINX |  |  |  |  |  |
+| Object Storage |  |  |  |  |  |
+| Patroni |  |  |  |  |  |
+| PgBouncer |  |  |  |  |  |
+| PostgreSQL |  |  |  |  |  |
+| Prometheus |  |  |  |  |  |
+| Puma |  |  |  |  |  |
+| Redis |  |  |  |  |  |
+| Sentry |  |  |  |  |  |
+| Sidekiq |  |  |  |  |  |
+| Workhorse |  |  |  |  |  |
+
 ## Learning Resources
 
 ### Secure coding best practices
