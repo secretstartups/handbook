@@ -181,7 +181,7 @@ For more information on how the entire process works for security releases, see 
 1. If you need to schedule something or prioritize it, apply the appropriate labels (see [Scheduling issues](#scheduling-issues)).
 1. If you are working on an issue that touches on areas outside of your expertise, be sure to mention someone in the other group(s) as soon as you start working on it. This allows others to give you early feedback, which should save you time in the long run.
 1. When you start working on an issue:
-  - Add the `workflow::In dev` label to the issue.
+  - Add the `workflow::in dev` label to the issue.
   - Create a merge request (MR) by clicking on the **Create merge request** button in the issue. This creates a MR with the labels, milestone and title of the issue. It also relates the just created MR to the issue.
   - Remove the `Closes #issue_id` from the MR description, to prevent automatically closing of the issue after merging. Be careful not to use other keywords in the MR description given the [default closing pattern](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#default-closing-pattern) that can also automatically close issues.
   - Assign the MR to yourself.
@@ -190,7 +190,7 @@ For more information on how the entire process works for security releases, see 
   - Assign it to the suggested reviewer(s) from [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette). If there are reviewers for multiple categories, for example: frontend, backend and database, assign all of them. Alternatively, assign someone who specifically needs to review. When assigning, also @mention them in the comments, requesting a review.
   - (Optionally) Unassign yourself from the MR.
       - Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
-  - Change the workflow label of the issue to `workflow::In review`. If multiple people are working on the issue or multiple workflow labels might apply, consider breaking the issue up. Otherwise, default to the workflow label farthest away from completion.
+  - Change the workflow label of the issue to `workflow::in review`. If multiple people are working on the issue or multiple workflow labels might apply, consider breaking the issue up. Otherwise, default to the workflow label farthest away from completion.
   - Potentially, a reviewer offers feedback and assigns back to the author.
   - The author addresses the feedback and this goes back and forth until all reviewers approve the MR.
   - After approving, the reviewer in each category unassigns themselves and assigns the suggested maintainer in their category.
@@ -370,8 +370,8 @@ See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21c
 
 Team members use labels to track issues throughout development. This gives visibility to other developers, product managers, and designers, so that they can adjust their plans during a monthly iteration. An issue should follow these stages:
 
-- `workflow::In dev`: A developer indicates they are developing an issue by applying the `In dev` label.
-- `workflow::In review`: A developer indicates the issue is in code review and UX review by removing the `In dev` label, and applying the `In review` label.
+- `workflow::in dev`: A developer indicates they are developing an issue by applying the `in dev` label.
+- `workflow::in review`: A developer indicates the issue is in code review and UX review by removing the `in dev` label, and applying the `in review` label.
 - `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed and verified.
 
 When the issue has been verfied and everything is working, it can be closed.
