@@ -173,18 +173,30 @@ It is **absolutely essential** that managers complete the required pre-work to e
         - 2-3 strengths/accomplishments (and supporting examples)
         - 2-3 improvement areas
         - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
+- Keep the [SBI Model](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided. 
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 
 ### Calibration Session
 
-The calibration session is one of the most important pieces of the Performance/Potential Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Guidelines to ensure efficiency during calibration sessions are:
+The calibration session is one of the most important pieces of the Performance/Potential Matrix process, as it provides time for managers, their peers, and their manager to calibrate. Below are a few communication guidelines to ensure efficiency and fairness during the calibration session discussion. 
+
+#### Best Practices
+
 * It may not be needed to discuss every team member in detail. Calibration sessions typically focuses on gaps, outliers and areas that might require additional management attention like the timeline and process for team members ready for promotion, how to improve performance for developing team members, etc.
 * Be conscious of time and consider setting a (reasonable) time limit per team member being discussed. 
 * Review program guidelines and avoid leniency bias.
-* Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback, performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Please note that when reviewing 360 data for the Q4 talent assessment, it's important to take into account areas in which the team member has improved. Two quarters is a fairly significant amount of time and team members have (hopefully) take action on improvement areas during this period, which should be reflected in the assessment. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
+* Refer to performance data that you may have taken on a team member throughout the past year - including 360 review feedback (if both team member and manager agree to include), performance against metrics over time, key accomplishments, etc.; this will help avoid bias like recency bias or the halo effect. Please note that when reviewing 360 data for the Q4 talent assessment, it's important to take into account areas in which the team member has improved. Two quarters is a fairly significant amount of time and team members have (hopefully) take action on improvement areas during this period, which should be reflected in the assessment. Managers and other participants in calibration discussions should be prepared with this information if asked how they determined a rating. 
 * Leaders should feel comfortable highlighting team members in other functions
 * Focus on discussing artifacts that are relevant to the performance factor and refrain from discussing artifacts that are not relevant to performance being developing, performing or exceeding. Examples of artifacts which are not relevant: upcoming maternity/parental leave, personal information/home situation or things that were confidentially shared and do not relate to performance. 
+* Focus on facts and avoid blanket statements (I.E. [team member] has poor communication)
 * **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
+
+#### Topics To Avoid
+
+While we want to encourage open and transparent conversation during calibration session, there are certain topics that should be avoided to ensure we respect team member privacy.
+
+* Sharing whether team members are currently undergoing [formal performance remediation](/handbook/leadership/underperformance/#options-for-remediation). It is okay to share that team members are receiving coaching, but specifics pertaining to PEPs, PIPs, etc. should be avoided. 
+* Anything related to health (I.E. medical diagnoses, conditions, disabilities, etc.). It is okay to share that team members have a lot going on in their personal lives, but we should not go into detail. _Note that this applies for team member's friends/family as well._
 
 ## Matrix Tool
 
