@@ -24,7 +24,6 @@ I started my career as a graphics designer for my Dad's printing company at the 
 I've spent my career in and around web development, mobile app development, startups, advertising, strategy, people management, and customer journey transformation.  Having worked with my own startups, African based startups,  B2B and B2C companies in the United States, with manufacturing companies, Fortune 500s, and even small local owned businesses such as restaurants and other micro-businesses, I have developed a taste of understanding what users want online and how to give it to them easily and quickly.
 
 
-
 ## What's my current role and goal?
 I develop web applications, components, contents, and anything you can click and interact with on web application ... I understand you want to know more, stay calm ...
 * I will be updating this section soon. 😉
@@ -49,7 +48,7 @@ I develop web applications, components, contents, and anything you can click and
 * I always love seeing the **big picture**, tell me the end goal, then tell me what you want us to do.
 * Documentations! Documentations!! Documentations!!! - Please don't assume that I understand you. **A simple PowerPoint or Bullet Points** is worth more than a thousand Zoom calls lol.
 * I always have a lot of tasks on my hand at the same time (prior experience). I may forget what you told me on the phone or zoom, that's why I prefer proper comment through **issues or slack** 
-* 
+
 ## My working style
  This section is currently culled from a colleague's profile but still fits my personality. Watch out for my updated version.
  
@@ -61,7 +60,6 @@ I develop web applications, components, contents, and anything you can click and
 ## Contacting Me
 
 Before you create an Issue, you are free to slack me, so that I can know the person behind the request. WE MAY BECOME THE BEST OF FRIENDS LOL :
-
 
 
 I will be updating this page more and more.
