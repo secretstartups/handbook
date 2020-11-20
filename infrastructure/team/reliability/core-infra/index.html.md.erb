@@ -12,14 +12,16 @@ title: "Core Infra Team"
 ## Who We Are
 
 The Core Infra teams owns:
-* core infrastructure tooling like:
+* infrastructure tooling like:
   * [Terraform](https://gitlab.com/gitlab-com/gitlab-com-infrastructure)
   * [Chef](/handbook/engineering/infrastructure/production/architecture/#chef-architecture)
 * network ingress/egress
   * [Networking](/handbook/engineering/infrastructure/production/architecture/#internal-networking-scheme)
 * CDNs and DNS (/handbook/engineering/infrastructure/production/architecture/#dns--waf)
 * [Secrets management](/handbook/engineering/infrastructure/production/architecture/#secrets-management) 
-* Helping with Growth Stage assets like subscription and license management apps.
+* Helping with Fulfillment Stage assets like subscription and license management apps.
+
+Need help?  [How to get something on our backlog](#asks-of-the-infra-team-and-unplanned-work)
 
 <%= partial "handbook/engineering/infrastructure/team/reliability/core-infra/_core_infra_team.html" %>
 
@@ -38,29 +40,44 @@ In practice, this means that we
 
 
 ## Vision
-* Move all Growth Stage apps to AutoDevops
 * Help with moving compute to GKE
   * Smaller Chef footprint
   * More Autoscaling 
   * Secure and setup best practices for GKE cluster
 * Create tools and processes for external teams to service requests themselves
-
+* Move all Growth Stage apps to AutoDevops
 
 ## How we work:
 
+#### Epics
+We have 3 types of epics:
+1.  The [main team epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326).  This stores the roadmap/radar for the team. 
+There are then lists of epics of the next 2 types for what we are working on now, what is up next and what is on the radar.
+2.  Grouping or Backlog Epics (Themes).  These epics are things on our radar/roadmap. They are meant to group together related areas of work.
+They are not commitments to work.  They are a way to help organize related areas into themes on our backlog.
+3.  Project Epics.  These will usually sub-epics of the Grouping or Backlog Epics.  We'll create these epics for work that is 
+["Up Next"](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326#up-next-arrow_forward).  These epics will be used to 
+scope the work of what is next and will be in progress.
+
+#### Milestones
+We use two types of milestones that can overlap:
+1. Planned work milestones.  These correspond to the Project Epics above.  They give us a timebox in which we plan to do the work.
+We can then watch burndowns for that work.
+2. Unplanned milestones.  These are short 2 week timeboxes in which we schedule external/unplanned asks of the team that were
+not in Project Epics.  They allow us to help set a budget for the incoming requests we do in a given timebox.  
+
 #### Sprint Level
 * We use a [Kanban board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&label_name[]=team%3A%3ACore-Infra) to track work
-* If you assign yourself to an issue, it goes in the Milestone, gets the team::CoreInfra label and then goes on the Board.
+* If you assign yourself to an issue, it goes in a Milestone, gets the team::CoreInfra label. It will then appear on the Board.
 * We use a Geekbot standup daily to talk about what we are working on
 * We do Core-Infra team retros monthly async via Geekbot put into the #sre_coreinfra channel
 
-#### Planning / What's next?
-* When external asks come in:
-  * they can be commented on, but get a Workflow-Infra::triage Label to start
-  * When added to the board, the should get labels ~unplanned, AssistType::x and AssistingTeam::x
-* Planning: 
-  * we have a [team radar](https://docs.google.com/drawings/d/1ohzs3lFCEGTDTg-cO0HNKvVHz1MCSIT54yAj4rr8gMc/edit).
-  * The radar is not a roadmap, it is meant to be a guide of themes we are working on now and that we think we will be working on soon.
+#### Asks of the infra team and unplanned work:
+When external asks come in:
+* they can be commented on, but get a Workflow-Infra::triage Label to start
+* When added to the board, the should get labels ~unplanned, AssistType::x and AssistingTeam::x, and be assigned to the 
+  unplanned work milestone.
+
 
 ### Labels
 
