@@ -46,7 +46,7 @@ Datastores is:
 
 ## Vision
 
-*WIP*
+Run our production systems on Software. Love and protect the data that powers GitLab; losing data is simply game over.
 
 ## Tenets
 
