@@ -290,11 +290,9 @@ Product Managers are responsible for [raising MRs for their content blocks](#con
 
 #### Contribution instructions
 
-In parallel with feature development, a merge request should be prepared by the PM with
-the required content. **Do not wait** for the feature to be merged before
-drafting the release post item, it is recommended PMs write Release Post Item MRs as they prepare for the milestone Kickoff.
+In parallel with feature development, a merge request should be prepared by the PM with the required content. **Do not wait** for the feature to be merged before drafting the release post item, it is recommended PMs write Release Post Item MRs as they prepare for the milestone Kickoff.
 
-**Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation of how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts).
+**Important**: The [Instructions](#instructions) below apply up to the 17th, at 11:59 PM PT (6:59 AM UTC). After content assembly on the 18th of the month, anyone who wants to include a change in the upcoming release post must coordinate with the Release Post Manager and follow detailed instructions in the [Merging content blocks after the 18th]((#merging-content-blocks-after-the-18th) section for special handling of late additions.
 {:.alert .alert-info}
 
 ##### Key dates
@@ -305,33 +303,20 @@ drafting the release post item, it is recommended PMs write Release Post Item MR
 - **17th of the month - Merged**: release post item MR merged by the Engineering Manager if feature has been merged
 - **18th of the month - Final content assembly**: and release post blog content lock in preparation for final reviews/editing
 
-After the 18th of the month, late additions should be added only in coordination with the Release Post Manager. Please see [late additions to the release post](#merging-content-blocks-after-the-18th) for more details.
-
 ##### Instructions
 
 - Create a new branch from `master` for each feature/deprecation
 - Open a merge request targeted at the `master` branch
 - Use the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- **Before the 17th of each month at 11:59 PM PT (6:59 AM UTC)**
-  - Content should be one YAML file added to `data/release_posts/unreleased/` on the `master` branch
-    - See `data/release_posts/unreleased/samples/` for format and sample content
-    - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
-    - Images should be placed in `/source/images/unreleased/`
-- **After the 17th of each month at 11:59 PM PT (6:59 AM UTC)**
-  - *If you're creating a new MR,* target the `release-X-Y` branch.
-  - *If you're modifying an MR from before the 17th,* update your MR to target the `release-X-Y` branch **and** move the YAML and image files into the release-specific folder.
-  - Content should be one YAML file added to `data/release_posts/X_Y/` on the `release-X-Y` branch. For help, see the [documentation for this use case](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts)
-    - See `data/release_posts/unreleased/samples/` for format and sample content
-    - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
-    - Images should be placed in `/source/images/X_Y/`
-    - Assign to the Release Post Manager to merge.
-- Also add your feature to the bottom of `data/features.yml` as part of the same merge request
-- Complete the PM checklist that's included in the [MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- Assign the MR to the relevant Tech Writer for review
-- Assign the MR to the relevant Product Marketing Manger, and/or Director if additional Review is needed
-- Once all content is reviewed and complete, add the `Ready` label and assign
-  this issue to the appropriate Engineering Manager (EM) so they can merge it
-  when the feature itself is merged.
+- Content should be one YAML file added to `data/release_posts/unreleased/` on the `master` branch
+  - See `data/release_posts/unreleased/samples/` for format and sample content
+  - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
+  - Images should be placed in `/source/images/unreleased/`
+- Update the `data/features.yml` to include your feature and commit the changes as part of the same merge request
+- Complete the PM checklist included in the [Release Post Item MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md), which includes but not limited to these tasks:
+  - Assign the MR to the relevant Tech Writer for review
+  - Assign the MR to the relevant Product Marketing Manger, and/or Director if additional review is needed
+  - Once all content is reviewed and complete, add the `Ready` label and assign MR to the appropriate Engineering Manager (EM) to merge when the feature is deployed and enabled.
 
   **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process.
 
@@ -398,16 +383,18 @@ After content block MRs are merged, they can be viewed on the [Preview page](htt
 
 #### Merging content blocks after the 18th
 
-After the 18th of month, and before the 20th, including new release post items should be coordinated with the Release Post Manager so that they are aware and can anticipate how the late additions may impact the rest of the release post. Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. After the EOD on the 19th, no late content blocks will be accepted.
+After the 18th of the month, and before the 20th, adding any new release post items **must be coordinated with the Release Post Manager**. This is necessary to allow them to assess the impact on the release post and coordinate any necessary adjustments with the release post team (Messaging Lead, Tech Writer, etc.) Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 19th, no late content blocks will be accepted.
 
-The process for merging late additions is:
+**Process for merging late additions**
 
-1. The DRI pings the release post manager and lets them know that there is a late addition for the release post and waits for the RPM's confirmation to proceed.
-1. The release post manager will do their best to accommodate the request, but it is not guaranteed.
-1. The DRI targets the RPI MR to the release branch.
-1. Once the MR is merged, the DRI should let the RPM know.
-1. The RPM will move the content from the `unreleased` folder to the appropriate release post folder and make edits as needed.
-1. If the RPI is a top feature or part of the theme, the RPM and message lead will work together to update the release post.
+- Ping the Release Post Manager (RPM) to request adding a late addition for the release post and wait for the RPM to give confirmation to proceed. The RPM will do their best to accommodate the request, but it is not guaranteed.
+- With approval from the RPM to proceed, there are 3 options for adding the late addition:
+  1. PM closes the original MR; create a new MR directly from the `release-X-Y` branch; then notifies RPM to merge.
+  2. PM manually rebase their MR; update target branch to `release-X-Y` branch **and** move image files to the release-specific folder on the `release-X-Y` branch; then notifies RPM to merge.
+  3. PM closes the original MR; PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR.
+- If the release post item is a top feature or part of the release post theme, the RPM and Messaging Lead will work together to update the release post.
+
+For options 1 and 2 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
 
 #### Accountability
 
