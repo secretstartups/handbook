@@ -108,14 +108,17 @@ There are a number of [enablement videos](/handbook/customer-success/tam/gainsig
 
 Health score criteria is either manually or automatically applied to determine the overall measure. If an individual measure is missing, the weighting is redistributed to the completed measures.
 
+* Except for TAM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
+* In instances where a measure is N/A, whatever percentage weighting will be redistributed to the other health measures.
+
 ##### Enterprise 
 
 | Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information <br>- Red: No Success Plan | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `50k+ ARR` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For `50k+ ARR` accounts:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information <br>- Red: No Success Plan | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `50k+ ARR` accounts:<br> TAM manually determines red/yellow/green | 75% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
 
 
@@ -123,20 +126,20 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Category | Description | Method | Calculation | Weighting |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | Mid-Market >=50k ARR:<br>- Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days<br>- Red: > 60 days<br><br>Mid-Market <50k and >=20k ARR:<br>- Green: <= 90 days<br>- Yellow: > 90 days and <= 120 days<br>- Red: > 120 days | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | - Green: Active Success Plan with 1+ objective and Strategy/Highlights<br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information<br>- Red: No Success Plan | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization == 1` accounts:<br> - Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days<br>- Red: > 60 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For `TAM Prioritization == 1` accounts:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights<br>- Yellow: Draft Success Plan OR Active Success Plan with no objectives or Strategy/Highlight information<br>- Red: No Success Plan | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | TAM manually determines red/yellow/green | 75% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `TAM Prioritization == 1` accounts:<br> TAM manually determines red/yellow/green | 75% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
 
-###### License Usage health table
+##### License Usage health table
 
 |        | 2-6 Months                               | 6-9 Months                               | > 9 Months                             |
 |--------|------------------------------------------|------------------------------------------|----------------------------------------|
-| < 10%  | <span style="color:red">Red</span>       | <span style="color:red">Red</span>       | <span style="color:red">Red</span>     |
-| 10-50% | <span style="color:yellow">Yellow</span> | <span style="color:red">Red</span>       | <span style="color:red">Red</span>     |
-| 51-75% | <span style="color:green">Green</span>   | <span style="color:yellow">Yellow</span> | <span style="color:red">Red</span>     |
-| > 75%  | <span style="color:green">Green</span>   | <span style="color:green">Green</span>   | <span style="color:green">Green</span> |
+| < 10%  | Red       | Red       | Red     |
+| 10-50% | Yellow | Red       | Red     |
+| 51-75% | Green   | Yellow | Red     |
+| > 75%  | Green   | Green   | Green |
 
 
 
