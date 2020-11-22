@@ -15,7 +15,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## About me
 
-- I grew up in the Sacramento area of California (go [Kings](https://twitter.com/SacramentoKings)!) and now live in Philadelphia, PA in a little house in the Fishtown neighborhood. I like [taking photos](https://www.instagram.com/dearwatson/) and cooking things for other people.
+- I grew up in the Sacramento area of California (go [Kings](https://twitter.com/SacramentoKings)!) and recently lived in Philadelphia, PA in a little house in the Fishtown neighborhood. I've since moved to Colorado. I like [taking photos](https://www.instagram.com/dearwatson/) and cooking things for other people.
 - I try my best to be actively helpful and kind.
 - I like understanding how systems and people work. My parents described me as a quiet, intense kid that liked to take things around the house apart (particularly our VCR player) and put them back together.
 - I’m a great deal less serious as an adult, but I still like decomposing things to better understand them. This means I ask “why?” and “what’s the problem we’re trying to solve?” frequently.
