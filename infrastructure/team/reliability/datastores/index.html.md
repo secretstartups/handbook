@@ -70,15 +70,14 @@ We plan and execute our work based on 2-week Iterations, mostly in an asynchrono
 A team member **looking for the next issue to work on** should look at:
 - A) Iteration Planning Issue (clearly stated priorities) 
 - B) Worflow-infra::ready lane in our [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores)
-- C) Promoting issues from the [Backlog Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/2024251?&label_name[]=team%3A%3ADatastores&label_name[]=workflow-infra%3A%3ATriage). They should assign themselves the issue, move it to ~"Workflow-infra::In progress" and start working on it.
+- C) Promoting issues from the [Backlog Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/2024251?&label_name[]=team%3A%3ADatastores&label_name[]=workflow-infra%3A%3ATriage), following the [point 3 above](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/infrastructure/team/reliability/datastores/index.html.md#issues-lifecycle). They should assign themselves the issue, move it to ~"Workflow-infra::In progress" and start working on it.
 
 4. Once an issue is finished, we move it to ~"Workflow-infra::Done", and finally close it when we are sure there is no more work to do about it.
 
 ### Issues and definition of done:
 We use the following [definition of done](https://www.agilealliance.org/glossary/definition-of-done). Your contribution is not done until you have made sure it meets all of the requirements stated in the issue/epic _Acceptance Criteria_ section, as in this basic [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10451).
 
-Please make sure you include this section in every issue/epic you create, and that the checkboxes are ticked before you call the issue/epic "complete".
-
+Please make sure you include this section in every issue/epic you create, and that the checkboxes are ticked before you call the issue/epic "done".
 
 ### Iteration planning: 
 Our fortnight planning process looks like this:
@@ -96,7 +95,7 @@ Every two Mondays the team has the "Datastores Team catch up (or iteration plann
 
 ### Priorities:
 - Iteration priorities are clearly expressed in the Iteration Planning Issue description.
-- We are still not using the Priority Labels, but we will do soon. That will allow us to track the issues in more detail and raise/lower priorities based on both external and internal factors, for every issue.
+- We are not using the Priority Labels yet, but we will do soon. That will allow us to track the issues in more detail and raise/lower priorities based on both external and internal factors, for every issue.
 
 
 
