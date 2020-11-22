@@ -113,10 +113,11 @@ Examples of requests that may be denied:
 
 **When will I receive my tuition reimbursement?**
 * Your tuition reimbursement will be paid in the following pay cycle after you have completed the course and sent your official grade report or successful certification of completion to Total Rewards.
-* If the program does not allow for tuition deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course.
+* If the program does not allow for tuition deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course. 
 
 **What happens if I leave GitLab?**
-* If you voluntarily terminate employment with GitLab after completion of the course and prior to completing twelve consecutive months of active employment after completion of the course, you will refund the entire amount of the educational expenses provided to you.
+* If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, tuition reimbursements of $1000 USD and over will need to be refunded to GitLab. 
+* If you opted to receive 50% of the tuition reimbursement up front but the whole amount of your tuition is at least $1000 USD, the amount will still need to be refunded back to GitLab.
 
 
 #### Tuition Reimbursement Process
