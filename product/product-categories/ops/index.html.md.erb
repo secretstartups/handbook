@@ -143,3 +143,30 @@ In order to satisfy the above intent, we:
 * [Product categories](/handbook/product/product-categories/#ops-section)
 * [Direction](/direction/ops/)
 * [Maturity](/direction/maturity/)
+
+## Recent Highlights
+<% releases = ['13.6','13.5','13.4']%>
+<% releases.each do |release| %>
+### <%= "From #{release}" %>
+<%= '' %>
+   <% datafile = release_post_items(release) %>
+   <% highlights =  datafile.features.primary.select{|h| ['verify','package','release','configure','monitor'].include? h.stage} %>
+   <% highlights = highlights.sort_by do |highlight| %>
+      <% case highlight.stage %>
+      <% when 'verify' %>
+         <% 1 %> 
+      <% when 'package' %>
+         <% 2 %>
+      <% when 'release' %>
+         <% 3 %>
+      <% when 'configure' %>
+         <% 4 %>
+      <% when 'monitor' %>
+         <% 5 %>
+      <% end %>
+   <% end %>
+   <% highlights.each do |h| %>
+<%= "* #{h.stage.capitalize}: [#{h.name}](#{h.documentation_link})" %>
+   <% end %>
+   <%= "" %>
+<% end %>
