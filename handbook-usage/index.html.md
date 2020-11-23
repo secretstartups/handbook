@@ -298,7 +298,7 @@ Unless it’s a small change like a typo, always have another team member review
 
 ### Access to the website, blog, and handbook
 
-The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the handbook, marketing website, and handbook. As a maintainer you will have access to all three. In most cases you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site. 
+The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the blog, marketing website, and handbook. As a maintainer, you will have access to all three. In most cases, you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site. 
 
 For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/). 
 
