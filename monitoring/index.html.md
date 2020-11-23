@@ -93,7 +93,7 @@ We have 3 prometheus clusters: main prometheus, prometheus-db, and prometheus-ap
 
 #### [Public Monitoring Infrastructure](https://dashboards.gitlab.com/)
 
-- No authentication is required
+- A GitLab.com account is required
 - Automatically syncs from the private monitoring infrastructure on every chef client execution. **Don't change dashboards here, they will be overwritten.**
 - Refer to this interface by default; only use the private one for those cases where the public dashboard is not available.
 By linking to the public dashboard by default, we ensure that we live our transparency value and any users that are interested
