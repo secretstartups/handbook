@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: License & Renewals
-description: License & Renewals (L&R) comprises efforts to resolve problem customer face when they  purchase or renew a license (self-managed) or subscription (GitLab.com).
+description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew a license (self-managed) or subscription (GitLab.com).
 ---
 
 ## Introduction
