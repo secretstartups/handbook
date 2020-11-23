@@ -332,13 +332,12 @@ Force a .com group to be associated with a given subscription. This is typically
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:group_id` | *Yes* | The Gitlab namespace ID|
 | `:group_name` | *Yes* | The Gitlab namespace _`name`_ (not to be confused with its `path`)|
 
 #### Sample
 
 ```ruby
-irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
+irb(main):021:0> force_reassociation("A-S00000000", "example")
 => {:success=>true}
 ```
 
