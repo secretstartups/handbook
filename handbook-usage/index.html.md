@@ -274,10 +274,38 @@ For [more serious problems](/handbook/about/on-call/#when-to-escalate-an-issue),
 
 ## Merge Rights Guidelines
 
-GitLab team members with `merge rights`, are team members who have the GitLab permissions to _merge_ merge requests (AKA: maintainer-level permissions).
-It is important that GitLab team members with maintainer permission use this responsibility responsibly.
-Below are a few guidelines for GitLab maintainers:
+You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access. 
 
-1. Ensure you have approval from the [CODEOWNER](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) of the page you are merging prior to merging.
-1. Avoid merging your own merge request until at least one other team member has reviewed your MR, unless it's a normal part of your role (such as PMs updating direction pages).
-_Note: The exception to this rule is if you are modifying something very small (I.E. a typo)_
+### Merge with confidence
+
+Even if you are not a developer, you should feel confident merging any changes that pass the pipeline without worrying tha you will break the handbook. The tests in the pipeline are designed to catch any major problems. The  `www-gitlab-com` project is configured so that changes cannot be merged unless the pipeline passes. When in doubt, feel free to loop in a technical reviewer. You can ask for help in the `#mr-buddies` slack channel. 
+
+### Do not use merge immediately 
+
+Do not use the [merge immediately](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/#immediately-merge-a-merge-request-with-a-merge-train) feature! Even if your MR is important and time-sensitive, using this feature will create a lot of pain for everyone else. This feature should only be used when critical public information needs to be sent live as quickly as possible and should be approved by PR or Legal. If you don’t have PR or Legal approval, don’t use this feature. 
+
+### When to get approval
+
+Getting pinged to approve every small change to your page can be annoying, but someone changing a policy or procedure in the handbook without proper approval and have strong negative consequences. Use your best judgement on when to ask for approvals. 
+
+Whenever reasonable, practice [responsibility over rigidity](https://about.gitlab.com/handbook/values/#freedom-and-responsibility-over-rigidity). When you expect a page owner will appreciate your changes, go ahead and merge them without approval. Always ping the code owners with an @mention comment to inform them of the changes. They will be happy their page was made better and they didn’t need to waste time reviewing and approving the change. In the event that something isn’t an improvement, we practice [clean up over sign off](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off)
+
+Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html)  before merging changes. Each page in the handbook shows who the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page. 
+
+### Have a peer review your changes 
+
+Unless it’s a small change like a typo, always have another team member review your changes before you merge them. 
+
+### Access to the website, blog, and handbook
+
+The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the handbook, marketing website, and handbook. As a maintainer you will have access to all three. In most cases you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site. 
+
+For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/). 
+
+### Broad Permissions 
+
+Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/).
+
+### Granting others maintain access
+
+Do not grant people maintainer access without an [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.  
