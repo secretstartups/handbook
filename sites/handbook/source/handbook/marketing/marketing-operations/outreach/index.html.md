@@ -22,18 +22,19 @@ Outreach provides educational courses via their [Outreach University Pathways](h
 
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
-We currently have two types of sequences. Master and personal. Master sequences are created to be shared and used across teams. Personal are for your own use.
+We currently have two types of sequences. Primary and personal. Primary sequences are created to be shared and used across teams. Personal are for your own use.
 
-Naming convention for master sequences include the following:
+Naming convention for primary sequences include the following:
 
-- MASTER
-- LOW or HIGH touch
+- REGION (WW, AMER, EMEA, APAC)
+- PRIMARY or PERSONAL
+- Language
 - Name of campaign
-- Region or language (NORAM, APAC, EMEA or Spanish, French, Russian, ect)
+- HIGH or LOW touch
 
-Example: | **MASTER - HIGH - Just Commit - NORAM**
+Example: | **EMEA PRIMARY English Just Commit HIGH**
 
-When creating a new master sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
+When creating a new primary sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
 
 ### Sequence Settings
 You may choose the best delivery schedule and ruleset applicable to your goals. 
@@ -101,6 +102,12 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Answered`| The wrong person answered the phone number that you had for this contact and it is the wrong persons phone number (They were not a personal assistant). They didn’t take a message for the correct person or give helpful information|
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
+
+#### Outreach Meetings for SDR Team
+
+SDR teams will use the functionality for scheduling to save time and effort, providing the best customer experience.
+
+If a meeting to be scheduled, the SDR will respond with [times-lots by following the instructions here.](https://support.outreach.io/hc/en-us/articles/115003359774-Insert-Availability-in-Gmail#:~:text=Open%20a%20new%20compose%20window,will%20appear%2C%20revealing%20your%20calendar.)
 
 ### Outreach Engagement Panel
 Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach.
@@ -200,6 +207,7 @@ SDRs are asked by SDR Leadership to periodically remove their older, unsued and 
 - There are no active prospects in the sequence
 - If there are active prospects in the sequence, check the date when the prospects were added. If prospects have been stuck on a step or paused for a prolonged period of time, consider those prospects inactive
 - The sequence has not been used in 13 months or longer
+- The sequences must be marked by corresponding and correct tags and collections for ease of team cooperation, according to their data (market, account size, etc..). If there is a need, new collections and tags are to be created after consulting managers.
 
 Outreach sequences are a useful source of a/b testing data for customer responses, so the best course of action is not to outright delete sequences. Instead, follow these steps:
 - Deactivate/pause the sequence. If there are prospects still in the sequence, there will be a warning regarding the outcome of those prospects' path through the sequence. Assuming the prospects have been deemed inactive, proceed in deactivating the sequence
