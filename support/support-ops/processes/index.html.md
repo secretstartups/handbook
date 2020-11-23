@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Processes
+description: List of all support operations processes avaiable.
 ---
 
 # Support Operations Processes

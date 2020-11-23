@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations GitLab Processes
+description: List of Support Operations GitLab Processes which includes Time Tracking, Triage, Priority, Stage and Category.
 ---
 
 # GitLab Processes

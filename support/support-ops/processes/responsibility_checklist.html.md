@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Responsibility Checklist
+description: General routine checklist of the responsibilities for Support Operations team. 
 ---
 
 # Support Operations Responsibility Checklist
