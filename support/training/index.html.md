@@ -38,13 +38,13 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
-| [GitLab Installation & Administration Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Installation-Administration-Basics.md) | 1 Week | Understand the different ways in which GitLab can be installed and managed |
-| [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
-| [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Service-Skills.md) | 1 Day | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
-| [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
-| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Working-On-Tickets.md) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
-| [GitLab Intermediate Topics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Intermediate-Topics.md) | undetermined | Work with your manager to evaluate whether to continue with these topics |
+| [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Git-GitLab-Basics) | 1 Week | Understand our products and services |
+| [GitLab Installation & Administration Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab-Installation-Administration-Basics) | 1 Week | Understand the different ways in which GitLab can be installed and managed |
+| [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab-Support-Basics) | 1 Day | Understand how GitLab Support operates and the most common workflows |
+| [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer-Service-Skills) | 1 Day | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
+| [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Zendesk-Basics) | 1 Day | Utilize ZenDesk to perform ticket management |
+| [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working-On-Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
+| [GitLab Intermediate Topics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab-Intermediate-Topics) | undetermined | Work with your manager to evaluate whether to continue with these topics |
 
 ### Support Engineer Area of Focus Pathway
 
