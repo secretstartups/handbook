@@ -278,7 +278,7 @@ You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#
 
 ### Merge with confidence
 
-Even if you are not a developer, you should feel confident merging any changes that pass the pipeline without worrying tha you will break the handbook. The tests in the pipeline are designed to catch any major problems. The  `www-gitlab-com` project is configured so that changes cannot be merged unless the pipeline passes. When in doubt, feel free to loop in a technical reviewer. You can ask for help in the `#mr-buddies` slack channel. 
+Even if you are not a developer, you should feel confident merging any changes that pass the pipeline without worrying that you will break the handbook. The tests in the pipeline are designed to catch any major problems. The  `www-gitlab-com` project is configured so that changes cannot be merged unless the pipeline passes. When in doubt, feel free to loop in a technical reviewer. You can ask for help in the `#mr-buddies` slack channel. MR Buddies can provide a technical review or help you fix a broken pipeline. In the event that code is merged that does break the handbook in some way, follow the instructions for [reporting an issue to the Handbook on-call team](/handbook/about/on-call/).
 
 ### Do not use merge immediately 
 
