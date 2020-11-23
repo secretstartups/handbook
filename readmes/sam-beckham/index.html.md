@@ -7,7 +7,7 @@ title: "Sam Beckham's README"
 
 Hey I'm Sam 👋 Thanks for taking the time to read me.
 
-I'm an interim Frontend Engineering Manager for the Verify stage. I like movies, music, and long walks in Jurassic Park.
+I'm a Frontend Engineering Manager for the Verify stage. I like movies, music, and long walks in Jurassic Park.
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. 
 
