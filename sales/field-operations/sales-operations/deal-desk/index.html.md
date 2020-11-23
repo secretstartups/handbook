@@ -370,7 +370,11 @@ C.  Note: If annual payments are approved, create a separate opportunity and quo
 
 #### Ramp Deals 
 
-A ramp deal is when a customer prepays for users that will be fullfilled on a set schedule throughout the duration of the subscription term. 
+A ramp deal is when a customer prepays for users that will be fullfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
+
+The imgage below highlights a common 12 month ramp schedule. The frequency in which users are added can vary. Please reach out to `@sales-support` if you have questions on how to structure a ramp deal. 
+
+![Example Ramp Deal](/source/images/handbook/sales/Ramp-deal-visual.png "Ramp Deal")*Example Ramp Structure*
 
 A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **Provide the following information for each ramp period:**
 *   Start date/term length
