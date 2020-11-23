@@ -387,7 +387,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 
 ##### Process for merging late additions
 
-- Ping the Release Post Manager (RPM) to request adding a late addition for the release post and wait for the RPM to give confirmation to proceed. The RPM will do their best to accommodate the request, but it is not guaranteed.
+- Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The RPM will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with:
   1. PM closes the original MR and creates a new MR from the `release-X-Y` branch.
   2. PM manually rebase their MR and updates the target branch to `release-X-Y` branch **and** move image files to the release-specific folder on the `release-X-Y` branch.
