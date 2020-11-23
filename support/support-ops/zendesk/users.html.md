@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Users
-description: Zendesk users are the people within Zendesk.
+description: Describes the roles and related rights of Zendesk users.
 
 ---
 
