@@ -391,7 +391,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 - If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with:
   1. PM closes the original MR and creates a new MR from the `release-X-Y` branch.
   2. PM manually rebase their MR and updates the target branch to `release-X-Y` branch **and** move image files to the release-specific folder on the `release-X-Y` branch.
-  3. PM closes the original MR and PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR.
+  3. PM closes the original MR, and PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR.
 - PM notifies the RPM to merge if option 1 or 2 was implemented 
 - If the release post item is a top feature or part of the release post theme, the RPM and Messaging Lead will work together to update the release post.
 
