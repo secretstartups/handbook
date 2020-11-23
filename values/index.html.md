@@ -812,9 +812,7 @@ When you are submitting a merge request for a code change, or a process change i
 the handbook, keep it as small as possible. If you are adding a new page to the
 handbook, create the new page with a small amount of initial content, get it merged
 quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests. 
-Similarly, if you are adding a large feature to the software, create small, iterative merge requests for the different aspects. These merge requests might not provide immediate value, as long as they do not break anything and have appropriate tests for new functionality. If you aren't sure how to split something into small, iterative merge requests, consider kindly asking your team and/or maintainers for suggestions.
-If you are asked to review a merge request that is too big, consider kindly asking
-the author to split it into smaller merge requests before reviewing.
+Similarly, when adding features to GitLab, consider ways to [reduce the scope](/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
 
 ##### Always Iterate Deliberately
 {:.no_toc}
