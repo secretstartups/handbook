@@ -374,7 +374,19 @@ A ramp deal is when a customer prepays for users that will be fullfilled on a se
 
 The imgage below highlights a common 12 month ramp schedule. The frequency in which users are added can vary. Please reach out to `@sales-support` if you have questions on how to structure a ramp deal. 
 
-![Example Ramp Deal](/source/images/handbook/sales/Ramp-deal-visual.png "Ramp Deal")*Example Ramp Structure*
+<div class="panel panel-info">
+
+**Example Ramp Schedule**
+{: .panel-heading}
+
+<div class="panel-body">
+
+[![Example Ramp Deal](source/images/handbook/sales/Ramp-deal-visual.png "Ramp Deal")*Example Ramp Structure*]
+
+</div>
+</div>
+
+#### How to Create a Ramp Deal
 
 A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **Provide the following information for each ramp period:**
 *   Start date/term length
