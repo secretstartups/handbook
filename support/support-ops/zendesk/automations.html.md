@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Automations
+description: Zendesk automations are similar to triggers but they execute when a time event occur after a ticket property was set or updated rather than immediately.  
 ---
 
 # Zendesk Automations

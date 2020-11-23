@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Users
+description: Zendesk users are the people within Zendesk.
+
 ---
 
 # Zendesk Users
