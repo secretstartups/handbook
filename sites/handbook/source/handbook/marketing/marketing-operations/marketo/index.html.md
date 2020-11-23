@@ -14,6 +14,8 @@ description: "Marketo is our marketing automation platform used for email market
 
 [Marketo](https://www.marketo.com/) is our marketing automation platform used for email marketing, lead management, and program management. 
 
+To see the different systems that are connected to Marketo, please visit the [Marketo System Infrastructure Mapping Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1604947309706/7aec5684a2fa4671823c5acd352348b04562950f).
+
 ### Marketo <> Salesforce.com Connection
 You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
 
