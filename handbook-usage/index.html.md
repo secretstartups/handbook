@@ -302,6 +302,8 @@ The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) co
 
 For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/). 
 
+Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](/handbook/marketing/website/#updating-the-marketing-website) or [requesting help from the marketing team](/handbook/marketing/website/#requesting-website-updates).
+
 ### Broad Permissions 
 
 Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/).
