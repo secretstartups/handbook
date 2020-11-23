@@ -383,7 +383,7 @@ After content block MRs are merged, they can be viewed on the [Preview page](htt
 
 #### Merging content blocks after the 18th
 
-After the 18th of the month and before the 20th, adding any new release post items **must be coordinated with the Release Post Manager**. This is necessary to allow them to assess the impact on the release post and coordinate any necessary adjustments with the release post team (Messaging Lead, Tech Writer, etc.) Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 19th, no late content blocks will be accepted.
+After the content assembly starts on the 18th of the month and before the 20th, adding any new release post items **must be coordinated with the Release Post Manager**. This is necessary to allow them to assess the impact on the release post and coordinate any necessary adjustments with the release post team (Messaging Lead, Tech Writer, etc.) Failure to do so might result in your changes not being picked into the release post. Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 19th, no late content blocks will be accepted.
 
 ##### Process for merging late additions
 
