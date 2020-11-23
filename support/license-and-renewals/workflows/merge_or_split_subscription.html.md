@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Merging or splitting licence/subscription requests
 category: General
-description: This is a detail guide of how to handle requests to merge or split subscription(s).
+description: This is a guide on how to handle requests to merge or split subscription(s).
 ---
 
 - TOC
@@ -10,7 +10,7 @@ description: This is a detail guide of how to handle requests to merge or split 
 
 ## Overview
 
-This is a detail guide of how to handle requests to merge or split subscription(s).
+This is a guide on how to handle requests to merge or split subscription(s).
 
 **Short answer: No, support do not merge or split subscription(s). We cannot even if we want to.**
 
