@@ -598,28 +598,25 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
    1. Delivery engineering manager (Release Management)
 1. Adjust [priority and severity](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) if necessary, and work collaboratively on the determined resolution.
 
-## Availability and Performance Refinement
+## Performance Refinement
 
-To timely address high impact availability and performance issues, a weekly refinement session is held by the Infrastructure, Development, and QE teams jointly to triage issues for prioritization and planning with the Product team.
+A bi-weekly performance refinement session is held by the Development and QE teams jointly to raise awareness and foster wider collaboration about high-impact performance issues.
 A high impact issue has a direct measurable impact on GitLab.com [service levels or error budgets](/handbook/engineering/infrastructure/library/service-levels-error-budgets/).
 
 ### Scope
 
-There are two issue boards being reviewed in this refinement exercise.
-
-1. [GitLab.com Infra/Dev Triage](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev).
-1. [Performance Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1233204?label_name%5B%5D=performance-refinement).
+The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/boards/1233204) is reviewed in this refinement exercise.
 
 ### Process
 
-1. To participate in the weekly refinement, ask your engineering director to forward the invite of *Availability & Performance Refinement* meeting which is at 16:30 UTC (summer) or 17:30 UTC (winter) every Tuesday. Here is the [meeting agenda](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit?usp=sharing).
-1. To nominate issues to either of the boards above:
+1. To participate in the bi-weekly refinement, ask your engineering director to forward the invite of the *Performance Refinement* meeting which is at 15:00 UTC every other Thursday. Here is the [meeting agenda](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#).
+1. To nominate issues to the board:
    1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
-      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~severity::1 ~priority::1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
-   1. GitLab.com Infra/Dev Triage: use the label `infradev`.
-   1. Performance Refinement: use the label `performance-refinement`.
+   1. Use the label `performance-refinement`.
 1. For the issues under the **Open** column:
    1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
    1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
    1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
+1. To highlight high-impact issues which need additional discussion, please add an agenda item.
+1. If a guest attendee would be helpful for collaboration, please forward the invite. For example, a TAM or Support Engineer may have information that would be helpful for an upcoming topic.
