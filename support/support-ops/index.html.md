@@ -1,8 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Team
-description: Support Operations Team is responsible for supporting the day-to-day operations
-and software systems used by GitLab’s global Technical Support team.
+description: Introduction to the responsiblities of the Support Operations Team.
 ---
 
 # Introduction to Support Operations Team (Support-Ops):
