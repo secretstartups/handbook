@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Organizations
-description: Organizations are simply a collection of users in Zendesk (much like groups).
+description: Purpose and configuration of Zendesk organizations and related fields.
 ---
 
 # Zendesk Organizations
