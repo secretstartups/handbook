@@ -312,7 +312,7 @@ In parallel with feature development, a merge request should be prepared by the 
   - See `data/release_posts/unreleased/samples/` for format and sample content
   - Note that the structure needs to be preserved, like `features:` then `top:`, then the feature content
   - Images should be placed in `/source/images/unreleased/`
-- Update the `data/features.yml` to include your feature and commit the changes as part of the same merge request
+- Update the `data/features.yml` (if applicable) to include your feature and commit the changes as part of the same merge request
 - Complete the PM checklist included in the [Release Post Item MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md), which includes but not limited to these tasks:
   - Assign the MR to the relevant Tech Writer for review
   - Assign the MR to the relevant Product Marketing Manger, and/or Director if additional review is needed
