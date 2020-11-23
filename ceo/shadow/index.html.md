@@ -916,3 +916,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-10-19 | 2020-10-30 | [Edmond Chan](https://gitlab.com/edmondchan) | Sr. Solutions Architect |  |
 | 2020-10-26 | 2020-11-06 | [David Fisher](https://gitlab.com/dfishis1) | Acceleration SDR |  |
 | 2020-11-06 | 2020-11-13 | [Fernando Diaz](https://gitlab.com/fjdiaz) | Technical Marketing Manager | [4 Things I've Learned as a CEO Shadow](https://awkwardferny.medium.com/4-things-ive-learned-as-a-ceo-shadow-gitlab-3dc0604f24cd) |
+| 2020-11-09 | 2020-11-20 | [Dan Parry](https://gitlab.com/dparry) | Mid-Market Account Executive |
