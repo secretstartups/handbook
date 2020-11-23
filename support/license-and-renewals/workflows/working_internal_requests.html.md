@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Internal Requests tracker
 category: Working L&R requests
+description: This pages details on how to service internal requests for L&R.
 ---
 
 {:.no_toc}

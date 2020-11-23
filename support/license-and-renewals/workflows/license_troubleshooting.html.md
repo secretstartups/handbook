@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Subscription and billing issues
 category: Legacy pages
+description: Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com.
 ---
 
 ## On this page

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Automation Request
 category: CustomersDot
+description: This workflow covers the steps to request an automation for any L&R related tasks.
 ---
 
 ## On this page

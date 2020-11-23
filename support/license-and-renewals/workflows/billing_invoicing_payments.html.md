@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Billing, invoice and payments requests
 category: General
+description: Billing and invoicing requests require action from our Billing/Accounts Receivable team.
 ---
 
 - TOC

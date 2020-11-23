@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Working with Sales
 category: General
+description: This page is about working with sales. 
 ---
 
 ## On this page

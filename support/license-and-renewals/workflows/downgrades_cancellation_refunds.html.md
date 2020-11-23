@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Downgrades, cancellation and refund requests
 category: General
+description: Valid cancellation and refund requests require action from our Billing/Accounts Receivable team.
 ---
 
 ----

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Billing-related Workflows
 category: General
+description: These workflows outline the steps for working on a ticket that would require action from our Billing/Accounts Receivable team.
 ---
 
 ## On this page
