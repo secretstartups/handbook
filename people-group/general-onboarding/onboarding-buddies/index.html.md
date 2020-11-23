@@ -14,22 +14,23 @@ description: "Onboarding Responsibilities and Process"
 
 Onboarding buddies are crucial to making the onboarding experience for a new GitLab team-member a positive one. [New Job Anxiety](http://www.classycareergirl.com/2017/02/new-job-anxiety-conquer/) is a reality for many people, and the adjustment to GitLab might be particularly challenging for new GitLab team-members who may not be used to our [all-remote](/company/culture/all-remote/) culture. That's why it's important that all new GitLab team-members be assigned a buddy who is ready, willing, and excited to assist with the onboarding process.
 
+Not only are buddies helpful to someone that has just started with GitLab, but also to a team member transitioning to a new role within GitLab. When someone migrates to a new team / department, it is highly recommended that managers assign a Career Mobility buddy in the issue to help support the team members that is busy migrating. 
 
 ## Buddy Responsibilities
 
-1. **The first and most important thing an onboarding buddy should do is schedule a call with the new GitLab team-member.** We attempt to match (as best as possible, anyway) time zones between the new GitLab team-member and their onboarding buddy so that as soon as the new GitLab team-member logs on, you, the onboarding buddy, can be there ready and waiting to welcome them to the team.
-1. **Check how far the new GitLab team-member has gotten in their onboarding issue.** The onboarding issue that all new GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Check to see how much, if any, the new GitLab team-member has done by the time your call happens, and offer some direction or advice on areas the new hire may be having trouble with.
+1. **The first and most important thing a buddy should do is schedule a call with the GitLab team-member.** We attempt to match (as best as possible, anyway) time zones between the GitLab team-member and their buddy so that as soon as the GitLab team-member logs on, you, the buddy, can be there ready and waiting to welcome them to the team.
+1. **Check how far the new GitLab team-member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Check to see how much, if any, the GitLab team-member has done by the time your call happens, and offer some direction or advice on areas the team member may be having trouble with.
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
      * [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
      * [The tools page](/handbook/tools-and-tips)
      * [The team chart](/company/team/org-chart)
      * [The positioning FAQ](/handbook/positioning-faq)
-1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members`. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
+1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
 1.  **Encourage them to organize a group call with other new hires.** New GitLab team-members who are used to (or prefer) a more conventional new hire orientation — frequently hosted in group settings in colocated organizations — [may feel a lack of early bonding](/company/culture/all-remote/learning-and-development/). Encourage them to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
 1. **Introduce them to Slack.** Slack may seem like it's ubiquitous, but that doesn't necessarily mean the new GitLab team-member will have had experience using it before. Since it's a central part of how we communicate at GitLab, consider showing them around, and give them some pointers about [how we use it](/handbook/communication/#chat). 
   
      * Be sure to suggest [location channels](/handbook/communication/chat/#location-channels-loc_) and [Social Slack Groups](/handbook/communication/chat/#social-groups) where they can immediately plug in with other team members who appreciate similar things.
-1. **Ask where they need help and connect them with the experts**. Onboarding buddies should make the effort to connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
+1. **Ask where they need help and connect them with the experts**. Buddies should make the effort to connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
      * For new GitLab team-members who have not worked in a [remote organization](/company/culture/all-remote/) before, they may need assistance in thinking through an ideal [workspace](/company/culture/all-remote/workspace/) and embracing [informal communication](/company/culture/all-remote/informal-communication/). Consider asking seasoned remote colleagues in the `#remote` Slack channel to reach out and answer questions.
      * If they're new to [Git](/training/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
      * If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
@@ -40,11 +41,11 @@ Onboarding buddies are crucial to making the onboarding experience for a new Git
 
 ## Buddy Program
 
-In an effort to recognize buddies who go above and beyond to support new team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Experience team will evaluate the onboarding buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) filled out by new team members after their first 30 days at GitLab. To qualify, the onboarding buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter. 
+In an effort to recognize buddies who go above and beyond to support new / transitioning team members and help them feel welcome, we have implemented a Buddy Program. Once every quarter, the People Experience team will evaluate the onboarding / career mobility buddy feedback provided in the [Onboarding Survey](https://docs.google.com/forms/d/1sigbOqWKuEtGyLROghvivgWErRnfbUI1_-57XhAwu_8/edit) or [Career Mobility Survey](https://docs.google.com/forms/d/e/1FAIpQLSdhH9vJ_Ztf0fR6MI3U165EJn6mytBk2gbC2wG0B381IpBfyw/viewform)filled out by the team members after their first 30 days at GitLab or 14 days after transition to the new role. To qualify, the buddy needs to receive a score of 3 or higher to be entered into a raffle at the end of the quarter. 
 
 The People Experience team will randomly select 3 winners. giveaway link to order a prize from our swag collection (approx $25 value).
 
-- If the new team member does not complete the **Onboarding Survey**, the onboarding buddy will not be entered into the raffle. 
+- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Sruvey**, the buddy will not be entered into the raffle. 
 - In case of a buddy being selected twice, a re-draw will take place. 
 
 
