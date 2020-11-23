@@ -131,3 +131,12 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Calendar key is available for viewing in the CLO's daily schedule 
 * All meeting requests should include an agenda or doc for reference
 * Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
+
+## Scheduling for Wendy Barnes, Chief People Officer
+* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
+* Keep meetings to 25 or 50 minutes unless otherwise specified
+* Direct Report 1:1's occur weekly
+* 1:1 meetings are dark dark green,  coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Wendy plays a huge part in the meeting should be noted in bright red.
+* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
+Scheduling should ideally be kept between 9:00 am and 6:00 pm Pacific Standard time
