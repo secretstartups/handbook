@@ -203,8 +203,8 @@ Overarching Marketing Growth Boards
 ## Labels
 Meanings and usage
 
-*  `mktg-growth`
-   *  Denotes it could be part of the Growth Marketing Teams scope. 
+*  `mktg-inbound`
+   *  Denotes it could be part of the Inbound Marketing Teams scope. 
    *  Used to help pull in boards
    *  Is not a label to denote the status of an issue
 *  `mktg-status::triage`
@@ -226,19 +226,18 @@ Meanings and usage
    *  Is used to denote the status of an issue as in the peer-review process.
    *  Does not denote the timeline it will be worked on
 *  [Group Labels] `design`, `web-analytics`, `mktg-website`, `mktg-content`, `mktg-inbound`
-   *  Denotes it could be part of a Growth Marketing Group scope
+   *  Denotes it could be part of a Inbound Marketing Group scope
    *  Is not a label to denote the status of an issue
    * [Individual Team Labels] `content marketing`, `editorial`, `digital-production`, `Brand and Digital Design`
-      * Denotes it could be part of Growth Marketing Group Team's scope
+      * Denotes it could be part of Inbound Marketing Group Team's scope
       * Is not a label to denote the status of an issue
-*  `MG-Support`
-   *  Denotes if this is support provided to another team outside of Growth Marketing
-   *  Will be used to help quickly view how many issues Growth Marketing supported each year to provide as references for budget and resources requests.  
-*  `MG-Review-Future`
-   *  Will be reviewed by Marketing Growth for potential future strategy
-*  `sprint-addition`
-   * This issue was not originally in the sprint and was added after the sprint started
-
+*  `IM-Support`
+   *  Denotes if this is support provided to another team outside of Inbound Marketing
+   *  Will be used to help quickly view how many issues Inbound Marketing supported each year to provide as references for budget and resources requests.  
+*  `IM-Review-Future`
+   *  Will be reviewed by InboundMarketing for potential future strategy
+*  `IB-WEBAGENCY`
+   * For the Digital Experience team to support at their 20% time allotment for internal agency work.
 ## Milestones
 Meanings and usage
 
@@ -336,21 +335,21 @@ This is how we work with Issues and their scope
 ## Issue Templates
 
 #### External: 
-(outside of Growth Marketing): 
+(outside of Inbound Marketing): 
 
 **Issue Author**
 * Pick template based on Handbook directions 
   * Template tags will be automatically added:
-    * `mktg-growth`
+    * `mktg-inbound`
     * `mktg-status::triage`
     * The relevant Group Label: `design`, `content marketing`, `mktg-website`, or `mktg-analytics`
-    * `MG-Support` 
+    * `IM-Support` 
   * Template contains specific information to help fill out including directions for picking a due date
   * Template has auto-assignees
   * Links to Handbook page for additional information
 
 #### Internal: 
-(inside of Growth Marketing): 
+(inside of Inbound Marketing): 
 
 **Assignees of Issues:**
 *  Pick template for breakout of brief
@@ -381,13 +380,13 @@ This is how we work with Issues and their scope
 
 *  Geekbot Check-In
 * Triage board is vetted and items moved (see above for details on actions)
-*  Growth Team Leadership meeting: 
+*  Inbound Team Leadership meeting: 
    *  Discuss priorities for the week, Danielle relays exec and PR info, we decide if any project, company or larger Mkrg priorities are bubbling up that would make us reconsider priorities 
    *  Groom issues into weeks using the Sprint Board 
 
 > HANDOFF: This is where the handoff to Growth Marketing Teams takes place to run their processes
 
-*  Growth Marketing Leads meets with their teams (anyway they want: meeting, slack, async, geek bot) and relays that information
+*  Inbound Marketing Leads meets with their teams (anyway they want: meeting, slack, async, geek bot) and relays that information
 *  Teams: Assign (if not auto-assigned) Issues, Projects, Tasks and follow their process 
 
 
@@ -407,7 +406,7 @@ This is how we work with Issues and their scope
 
 In an effort to make async communication and collaboration as effective as possible, below are relevant playlists created by the Growth Marketing teams. We welcome suggestions for additional playlists and videos that would help your team. Please request in our [slack channel](https://gitlab.com/gitlab-com/marketing/growth-marketing) 
 
-* [Weekly Growth Marketing Recap and Demo](https://www.youtube.com/playlist?list=PL05JrBw4t0KppgWkSa3YgDgc_qUTKsBCs)
+* [Weekly Inbound Marketing Recap and Demo](https://www.youtube.com/playlist?list=PL05JrBw4t0KppgWkSa3YgDgc_qUTKsBCs)
 * [SEO Update](https://www.youtube.com/playlist?list=PL05JrBw4t0KpoehEW7O8eA5Iy2FP_u6sW)
 * Marketing Metrics
 * Digital Experience Bi-weekly Update
@@ -436,7 +435,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
     - Assign the vendor and team member who will be the vendor’s buddy.
     - Ensure following labels are on the issue:
         - `vendor`
-        -  `mktg-growth`, `mktg-status`
+        -  `mktg-inbound`, `mktg-status`
         - `design` and or `mktg-website`
     - Assign the issue to a milestone, as appropriate.
     - Confirm the issue appears on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-growth&label_name[]=outsource). 

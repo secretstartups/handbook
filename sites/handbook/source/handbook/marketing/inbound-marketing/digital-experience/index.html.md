@@ -88,7 +88,7 @@ View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-
 
 ## Metrics
 
-Specific targets can be found [here](/handbook/marketing/growth-marketing/#goals)
+Specific targets can be found [here](/handbook/marketing/inbound-marketing/#goals)
 
 ### North Star Metric
 
@@ -192,8 +192,8 @@ We use issue weight to plan and manage our work. Team members are not held to we
 
 ## Requesting Support
 
-[https://about.gitlab.com/handbook/marketing/growth-marketing/#requesting-support](https://about.gitlab.com/handbook/marketing/growth-marketing/#requesting-support)
+[https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
 
 ## How we use GitLab
 
-[https://about.gitlab.com/handbook/marketing/growth-marketing/#how-we-use-gitlab](https://about.gitlab.com/handbook/marketing/growth-marketing/#how-we-use-gitlab)
+[https://about.gitlab.com/handbook/marketing/inbound-marketing/#how-we-use-gitlab](https://about.gitlab.com/handbook/marketing/inbound-marketing/#how-we-use-gitlab)

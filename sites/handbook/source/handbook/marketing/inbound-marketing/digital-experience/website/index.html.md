@@ -84,8 +84,8 @@ Examples of other companies who have solutions pages:
 
 The product section of our website has pages that describe what GitLab does and the value provided. The functionality of GitLab is ordered in a hierarchy with 4 levels: Stage, Categories, Capabilities, and Features. You can find details on the [Product Categories Handbook](/handbook/product/categories/)
 
-- Stages relevant to users are listed on the [product overview page](/product) with details about the stage on the [stages page](https://gitlab.com/gitlab-com/www-gitlab-com/issues/2428).
-- Categories relevant to users are listed on the [product overview page](/product).
+- Stages relevant to users are listed on the [product overview page](/product/) with details about the stage on the [stages page](https://gitlab.com/gitlab-com/www-gitlab-com/issues/2428).
+- Categories relevant to users are listed on the [product overview page](/product/).
 - Capabilities are listed on the category page they belong to. Capabilities may also have their own landing page.
 - Features are listed in many places on the website: on the features page, the capabilities page they belong to, the pricing page, comparison pages, and the ROI calculator.
 

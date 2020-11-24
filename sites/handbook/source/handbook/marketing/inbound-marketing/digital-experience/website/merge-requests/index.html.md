@@ -57,10 +57,10 @@ In our continuous integration environment, people with merge permissions are the
     * [CSS guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/scss.html).
     * [Javascript guidelines](https://docs.gitlab.com/ee/development/fe_guide/style/javascript.html).
     * [Ruby guidelines](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec)
-* [Marketing writing style guide](/handbook/marketing/growth-marketing/content/editorial-team/#blog-style-guide).
-* [Marketing naming conventions](/handbook/marketing/website/#naming-conventions).
+* [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+* [Marketing naming conventions](/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions).
 * [Marketing tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1)
-* [Brand guidelines](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/).
+* [Brand guidelines](/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/).
 
 ## Review if relevant
 
