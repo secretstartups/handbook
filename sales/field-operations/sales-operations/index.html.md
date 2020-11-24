@@ -367,7 +367,7 @@ Click the “Related Chatter Object” link to view the original request.
 1.  Request to reassign an account owned by the Impartner Integration user:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to reassign an account owned by the Vartopia Integration user:
-   -  These are OK to move and should follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) .
+   -  These customer accounts are OK to move and should follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) .
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move an account to a Public Sector SAL. 
