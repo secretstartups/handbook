@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Experiment 6469"
+extra_css:
+  - experiments.css
+  - experiment6469.css
+---
+
+<!--This section should only appear once per page-->
+<script data-cookieconsent="ignore" crossorigin="anonymous" src="https://unpkg.com/launchdarkly-js-client-sdk@2"></script>
+<script src="/javascripts/run-experiment.js" type="text/javascript" data-cookieconsent="ignore"></script>
+
+<!--This section is needed for each experiment-->
+<script data-cookieconsent="ignore">
+  var experimentControlExtraFunctions = function(){hj('trigger', 'experiment6469control');};
+  var experimentTestExtraFunctions = function(){hj('trigger', 'experiment6469test');};
+  runExperiment('6469', 'first-test', experimentControlExtraFunctions, experimentTestExtraFunctions, 'production', false, 1209600);
+</script>
+<div id="experiment6469" class="experiment-outer-wrapper">
+  <span class="loading-experiment"></span>
+  <%= partial "/experiments/6469-test" %>
+  <%= partial "/experiments/6469-control" %>
+</div>
