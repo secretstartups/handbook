@@ -46,7 +46,7 @@ The first iteration of building these prescriptive buyer journeys was a highly c
 
 ## Content journey mapping
 
-By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/growth-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](https://about.gitlab.com/handbook/use-cases/), which are the building blocks for our [content creation strategy](https://about.gitlab.com/handbook/marketing/growth-marketing/content/content-marketing/#content-creation-strategy). 
+By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](/handbook/use-cases/), which are the building blocks for our [content creation strategy](/handbook/marketing/inbound-marketing/content/content-marketing/#content-creation-strategy). 
 
 We can tailor a content journey based on the following targeting information: 
 
