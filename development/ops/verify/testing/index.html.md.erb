@@ -52,12 +52,12 @@ classDiagram
 ## Team Members
 The following people are permanent members of the Verify:Testing group:
 
-<%= shared_team_members(role_regexps: [/Verify(?!:)/, /Verify:Testing/]) %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
 
 ## Stable Counterparts
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify.*Testing/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
 
 #### JTBD
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/testing/JTBD/#jobs-to-be-done).
