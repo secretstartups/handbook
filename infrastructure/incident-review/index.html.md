@@ -17,8 +17,11 @@ title: "Incident Review"
 ### Review Criteria
 If an incident matches any of the following criteria, an incident review must be completed:
 
-1. Incident was declared an severity::1/severity::2
-1. A service disruption occurred
+1. Incident was declared as severity::1
+1. A `~review requested` label is added to the issue
+
+It is recommended to follow the incident review process for any of the following events:
+
 1. Data loss of any kind
 1. A resolution time longer than 30 minutes
 1. A monitoring failure
@@ -55,7 +58,7 @@ Incident reviews second step is engaging with the customer, through the point of
        1. Identify any Development Department groups relevant to the incident.
        1. Apply any relevant group labels to the incident.
        1. Invite the relevant Development Department managers to the Synchronous Review Meeting Session.
-   1. For teams, the manager should be invited to an upcoming incident review via an @ mention of their GitLab handle in the incident issue, and, if they wish, can delegate responsibility to another member of the team. 
+   1. For teams, the manager should be invited to an upcoming incident review via an @ mention of their GitLab handle in the incident issue, and, if they wish, can delegate responsibility to another member of the team.
        1. For severity::1 incidents, **directors** responsible for the invited teams should also be invited via an @ mention of their GitLab handle in the incident issue.
 1. **Within seven working-days of the incident**: Incident Review is authored and ready for review by stakeholders.
 
@@ -77,13 +80,13 @@ Incident Reviews are conducted in the incident issue and their workflow is track
    | severity::4 | 90 days |
 
    (coming from this [link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10516#note_375948861))
- 
+
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
 1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the incident review issue can be closed.
 
 ## Synchronous Review Meeting Sessions
 
-Incident review sessions are open on the GitLab Team Meetings calendar with the title `Incident Review Recurring Sessions` and occur at the following two times: 
+Incident review sessions are open on the GitLab Team Meetings calendar with the title `Incident Review Recurring Sessions` and occur at the following two times:
 1. Tuesdays at 13:30 - 14:20 UTC
 1. Tuesdays at 22:00 - 22:50 UTC
 
