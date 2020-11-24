@@ -381,7 +381,7 @@ The imgage below highlights a common 12 month ramp schedule. The frequency in wh
 
 <div class="panel-body">
 
-[![Example Ramp Deal](source/images/handbook/sales/Ramp-deal-visual.png "Ramp Deal")*Example Ramp Structure*]
+[![Example Ramp Deal](source/images/handbook/sales/Ramp-deal-visual.png)*Example Ramp Structure*]
 
 </div>
 </div>
