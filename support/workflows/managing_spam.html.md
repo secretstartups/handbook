@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Managing Spam
+description: "Instructions for flagging/unflagging suspicious Issues, and deleting abusive user accounts on GitLab.com"
 category: GitLab.com
 ---
 

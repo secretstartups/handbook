@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Macros
+description: "How to create Zendesk Macros using GitLab CI/CD, and categorization guide"
 category: Zendesk
 ---
 
