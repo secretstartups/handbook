@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Infrastructure and Maintenance"
+description: "List of nodes and description of the maintenance tasks for the Distrubution Team."
 ---
 
 ## On this page

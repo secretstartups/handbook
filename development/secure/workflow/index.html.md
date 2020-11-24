@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure Workflow
+description: "Secure uses a workflow based on the Product Development Flow with some additions that are under experiment or specific to this sub-department."
 ---
 
 ## On this page

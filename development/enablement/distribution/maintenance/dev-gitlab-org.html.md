@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Distribution Team Infrastructure and Maintenance"
+title: "dev.gitlab.org - Distribution Team Infrastructure and Maintenance"
+description: "View details of the dev.gitlab.org node as well as the maintenance tasks"
 ---
 
 ## On this page
