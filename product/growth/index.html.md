@@ -126,7 +126,7 @@ Since Growth team is among the first teams to launch product experiments and AB 
 
 
 
-## How Growth interact with other teams?
+## How Growth collaborates with other teams?
 
 The hypotheses explored by Growth will span across groups and stages. How do other groups interact with Growth?
 
