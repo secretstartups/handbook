@@ -149,6 +149,23 @@ and - like a contribution coming from the wider community - ultimately own the f
 
 We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/233) to make sure growth and product teams are maximizing busienss impact while ensuring close collaboration
 
+#### Proposed Growth-Feature Product Owner collaboration process
+
+1. Growth identifies a focus area that may potentially touch the areas owned by another product team, for example, growth will be focusing on new user adoption of Create & Verify features starting in FY21 Q4
+
+1. Growth reaches out to have a kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
+
+* Inform the Product feature owner that growth is planning to experiment in this area;
+* Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
+* Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
+* Ideally, establish understanding of both teams' KPIs and objectives 
+
+3. Growth will post regular updates on what we are working on, what have been shipped, what's up & next, results & learnings from analyzed experiments via channels such as key meetings, GC and potentially a monthly summary video
+
+4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow they typical GitLab code review process
+
+5. We don't expect to have many new "features" developed from growth experiments, but in rare case if this happens, or we feel the UX flow we developed need to have a permanent owner, we will hand it off to the relevant product owner, following the typical community contribution process.
+
 
 ### Growth RADCIE and DRIs
 
