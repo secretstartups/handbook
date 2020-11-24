@@ -29,50 +29,27 @@ Below is a list of the different technical skill sets found on the Sales System 
 ## How We Work
 * The Sales Systems team works in two week sprints/iterations which are tracked as Milestones at the `GitLab.com` level. This aligns the Sale Systems team with how many of our business partners operate but also takes advantage of one of the solutions that [Gitlab provides](https://about.gitlab.com/solutions/agile-delivery/)
 * The Systems team strives to emulate the principles below in planning and executing on our milestones as we believe it most effectively aligns our team with [Gitlab's Values](https://about.gitlab.com/handbook/values/#credit)
-   * ["Start less, finish more "](handbook/engineering/development/ops/verify/testing/#starting-new-work)
-   * [Reduce Issue Churn](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/#goals)
+   * ["Start less, finish more "](https://about.gitlab.com /handbook/engineering/development/ops/verify/testing/#starting-new-work)
+   * ["Reduce Issue Churn"](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/#goals)
 
 ### Steps to getting help from Sales Systems
-1.  Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/systems), making sure to provide detailed business requirments for the ask or problem. Please leave assignee blank.
-2.  Issues that are in review will be tagged with the `SalesSystems::Triage` label by the Sales Systems team.
-3.  An issue will be assigned to a Milestone and given an assignee if it is ready to be worked on.
-4.  Any issue that cannot be slotted into the next two milestones will be put in the backlog denoted by `SalesSystems::Backlog` until it can be planned.
-5.  Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
+1.  Create an issue in our [project](https://gitlab.com/gitlab-com/sales-team/field-operations/systems), making sure to provide detailed business requirements for the ask or problem. Please leave assignee blank
+2.  In order to align our working style with the Labels, the Systems team prioritizes working on issues in the order as they get added & the issues get labelled accordingly
+3.  The Systems Label Workflow and Label Description are as follows
 
-#### Getting help with Bugs
-* There is an important difference to make between bugs and features. Lucky enough we can explore the differences on the [Feature Vs Bug](/handbook/product/product-processes/#issues.html) section of the handbook. This should help in digging deeper but for a quick refernce:
-   * Bug
-      * If somehting worked yesterday and not today.
-      * If you are encountering error codes that tell you to contact and administrator (different from a validation rule error).
-      * If something was recently released and does not work at all.
-   * Feature
-      * If something works but you want it to work in a different manner.
-      * If something was released and additional functionality is desired.
-      * If something is released and the requierments change.
-* The Systems team works to address Bugs in a timely fashion that is aligned with the severity of the bug. If you think that a bug was released open an issue by following the processes above and add the `SalesSystems::Bug` issue label. The Systems team will review this list on a daily basis to address any bugs and plan work on them.
-* If there is a severe bug that is impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as descibed above as well as the follow points:
-   * Share the issues in the `sales-support` Slack channel
+      ![The Systems Label Workflow](/sites/handbook/source/handbook/sales/images/sales_systems_label_workflow.png)
 
-### Working our backlog of Issues
-* [Sales System Backlog](https://gitlab.com/groups/gitlab-com/-/boards/1903910?&label_name[]=SalesSystems%3A%3ABackLog)
-* In order to align with our working style, the Systems team prioritizes working on issues in this order before looking into our backlog:
-   1. Closing out all issues in the current milestone
-   2. Addressing any issues that are bugs
-   3. Collaborating with Gitlabbers on Issues that are critical for their current milestone.
-* The Sales Systems team alternates our focus every other Monday between releasing our latest updates and reviewing issues in the backlog. Once in the Backlog the Systems team assigness each ticket a priority (`priority::1`,`priority::2`,`priority::3`,`priority::4`)
-* This status aims to facilitate the process at which the systems team can pull issues out of the backlog and to also provide some context to requstors about when their issues will be reviewed.
-  * `priority::1`
-    * When will the team review: These issues are reviewed every milestone. This is the first group of issues that the Systems team pulls from when looking to pull issues into a milestone.
-    * Issues likely to get this tag: Extremly quick, easy and straight forward issues that we can't address in the next milestone. Issues that are relevant to major releases but not actively being worked on.
-  * `priority::2`
-    * When will the team review: These issues are reviewed every month.
-    * Issues likely to get this tag: These issue could be a part of larger initiatives but may be considered "nice to haves". These are enhancements to existing systems and processes that are in place.
-  * `priority::3`
-    * When will the team review: These issues are reviewed every quarter.
-    * Issues likely to get this tag: These issues could be composed of projects that must be worked on but have no pending deadline.  These could be overhauls of projects that have an impact on system performance but no little to no noticable affect to the field
-  * `priority::4`
-    * When will the team review: These issues are reviewed every year.
-    * Issues likely to get this tag: These issues could be vauge issues that do not have a direct ask, that should be epics, that provide little to no ROI for the greater field.
+      * ![Sales Systems Label](/sites/handbook/source/handbook/sales/images/salessystems1_label.png)**New Issues that are created will be automatically tagged and any existing issues related to sales systems gets tagged in this label**
+      * ![Ready For Build](/sites/handbook/source/handbook/sales/images/ready_for_build1_label.png)**Issues that are acknowledged(in review)that are not slotted into the next milestones and not assigned to systems team members**
+      * ![Need More Information](/sites/handbook/source/handbook/sales/images/need_more_information1_label.png)**Issues waiting for more information from the requester, no milestone and not assigned to systems team member**
+      * ![Out Of Scope](/sites/handbook/source/handbook/sales/images/out_of_scope1_label.png)**Issues that are out of scope or cannot be combined with current functionality and this issue will be closed**
+      * ![Build](/sites/handbook/source/handbook/sales/images/build1_label.png)**Issues in current milestone, assigned to systems team member worked on**
+      * ![Ready To Review](/sites/handbook/source/handbook/sales/images/ready_to_review1_label.png)**Issues in current milestones that are near the finish line and needs to be reviewed/demoed**
+      * ![Ready To Deploy](/sites/handbook/source/handbook/sales/images/ready_to_deploy1_label.png)**Issues in current milestones that are ready to deploy in production**
+      * ![Blocked](/sites/handbook/source/handbook/sales/images/blocked_label.png)**Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties**
+
+4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
+5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
 
 ### Field & Process Deprecation
 * Since field & process deprecation is as common an occurance as the creation it is important that the system team implements a repeatable process that we can leverage when deprecating any fields pr processes. 
