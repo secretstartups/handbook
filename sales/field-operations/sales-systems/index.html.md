@@ -46,7 +46,7 @@ Below is a list of the different technical skill sets found on the Sales System 
       * ![Build](/sites/handbook/source/handbook/sales/images/build1_label.png)**Issues in current milestone, assigned to systems team member worked on**
       * ![Ready To Review](/sites/handbook/source/handbook/sales/images/ready_to_review1_label.png)**Issues in current milestones that are near the finish line and needs to be reviewed/demoed**
       * ![Ready To Deploy](/sites/handbook/source/handbook/sales/images/ready_to_deploy1_label.png)**Issues in current milestones that are ready to deploy in production**
-      * ![Blocked](/sites/handbook/source/handbook/sales/images/b_label.png)**Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties**
+      * ![Blocked](/sites/handbook/source/handbook/sales/images/blocked_label.png)**Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties**
 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
