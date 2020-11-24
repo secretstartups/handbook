@@ -4,6 +4,7 @@ title: "Ops Section"
 ---
 
 <% section_name = 'Ops Section' %>
+<% section_id = 'ops' %>
 <% section_groups = ['Verify:CI Group','Verify:Pipeline Authoring Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release:Progressive Delivery Group','Release:Release Management Group','Configure Group','Monitor:Health'] %>
 
 #### On this page
@@ -28,24 +29,12 @@ The following people work as part of the Ops Section but outside a specific prod
 ### Product Groups
 Here are the individuals who work as part of one of the Ops Section groups.
 
-<% section = Gitlab::Homepage::Section.all!.select{|sec| section.id==section_id} %> 
-<% section.stages.each do |stage| %>
-   <%= section.some_function() %>
-   <% stage.groups.each do |group| %>
-      <%= stage.some_function() %>
-      <% group.categories.each do |category| %>
-         <%= stage.some_function() %>
-         <% category.features.each do |feature| %>
-            <%= feature.some_function() %>
-         <% end %>
-      <% end %>
+<% section = Gitlab::Homepage::Section.all!.find{|section| section.key == section_id} %>
+<% section.stage_list.each do |stage| %>
+   <% stage.group_list.each do |group| %>
+      <%= group.link %>
    <% end %>
 <% end %>
-
-<% data.sections.each do |sectionKey, section| %>
-   <% section.stages.each do |stageKey, stage| %>
-   <%= stage.some_function() <---- NEVER WORKS %>
-
 
 ## Section structure
 The section is covered by groups from teams across two primary departments, Engineering and Product. Teams and team members from those departments have their own handbook pages linked below.
