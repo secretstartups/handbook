@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Hiring"
+title: "Engineering Manager Hiring"
+description: "Hiring information and process to follow for Engineering Managers at GitLab."
 ---
 
 ## On this page
