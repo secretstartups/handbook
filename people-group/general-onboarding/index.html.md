@@ -143,7 +143,6 @@ These are added to the "All Team Member" Template
 
 ### Additional onboarding pages
 
-* [Consultant onboarding and offboarding](/handbook/people-group/general-onboarding/consultants/)
 * [Developer onboarding](/handbook/developer-onboarding/)
 * [GitLab onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/)
 * [Merge Request buddies](/handbook/people-group/general-onboarding/mr-buddies/)
