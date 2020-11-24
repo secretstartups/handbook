@@ -84,7 +84,7 @@ LinkedIn's "Rock Your Profile" session for GitLab (held 2020-02-28):
 
 ______
 
-### 3. Share life at GitLab with the world
+### 3. Share life at GitLab with the World
 
 Candidates will do their research in places far beyond our jobs site to find out more about whether GitLab is the right fit for them. 
 We want to be sure we're telling an authentic story about life at GitLab, and one of the best ways to do that is through our team members. 
