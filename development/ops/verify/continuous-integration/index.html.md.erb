@@ -17,7 +17,7 @@ vision](/direction/verify/) and the [Category direction of Continuous Integratio
 ## Mission
 
 The Verify:Continuous Integration Group is focused on all the functionality with respect to
-Continuous Integration.
+Continuous Integration. A key focus for the CI group is delivering features that achieve the outcome we track in our performance indicator.
 
 This team maps to [Verify](/handbook/product/product-categories/#verify-stage) devops stage.
 
@@ -31,6 +31,13 @@ This team maps to [Verify](/handbook/product/product-categories/#verify-stage) d
 - Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related
   to operations performed by and for Runners.
 - Job artifacts: storage and management of artifacts is the gateway for many CI/CD features.
+
+Not included in CI group's domain:
+
+- Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
+- Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
+- Compliance in Pipelines, see the [direction page](https://about.gitlab.com/direction/manage/compliance-management/)
+
 
 ## Team Members
 
@@ -108,7 +115,7 @@ The Continuous Integration group supports the product marketing categories descr
 
 ### Collaboration with UX and Engineering
 
-To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development.
+To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development. Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. 
 
 Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
@@ -131,6 +138,7 @@ Note: A good practice when only wanting to inform rather than requesting a direc
 We suggest using the below steps to reach the best results in the shortest time:
 
 * Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often.
+    * The [UX Definition of Done](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#definition-of-done-for-ux-pilot) can be applied in order to better break down design work and give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
 * We take that prototype through a user testing to validate it is solving the original problem.
 * When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer).
 * Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
@@ -148,7 +156,7 @@ Tips to avoid blocking reviews:
 
 #### Dealing with Community Merge Requests
 
-TBD
+For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/). 
 
 #### Aligning on feature development
 
@@ -158,9 +166,9 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 #### Avoiding crunch times between UX and Engineering
 
-* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
+* Ideally, the Product Manager works 3 months ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
 * Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
-* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](https://about.gitlab.com/handbook/product-development-flow/#build-track) to avoid unplanned changes.
+* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 ### Technical debt
 
