@@ -326,7 +326,7 @@ These items include high priority code deployments (impactful bugs, security fix
 
 Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
 In case of an emergency, the EOC should interact with the IMOC prior to making any decision.
-It is at EOC and IMOC discretion to make a decision on whether a change should be approved and executed. If the change is approved, IMOC should inform the VPE of this decision.
+It is at EOC and IMOC discretion to make a decision on whether a change should be approved and executed. If the change is approved, IMOC should inform the VP of Infrastructure of this decision (who will inform the executive team as necessary).
 
 ## Feature Flags and the Change Management Process
 
