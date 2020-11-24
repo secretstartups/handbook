@@ -37,7 +37,7 @@ Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded fo
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
-**Translated Forms Available**: Spanish, French, Italian, German, Portuguese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for P0 countries.
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -49,6 +49,7 @@ All forms should follow these guidelines:
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
 - Country should not include [embargoed countries ](/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
+- Do not use lightboxes
 
 For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
 
@@ -59,15 +60,15 @@ There is a set limit of 250,000 records that can be processed through a given sm
 
 #### Standardization of Country &/or State values
 
-There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. All of the standardization smart campaigns are contained in:  
+There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. States should be spelled out, not using abbreviations (ex. CA should be California). If a `Country` &/or `State/Province` standardization does not match SFDC exactly, the lead will not sync. If a new standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). 
+
+All of the standardization smart campaigns are contained in:  
 
 `Marketing Activities` -> `Operational - Do not edit` -> `Data Management` -> `01 Data Management` -> `04-Normalize Data`   
 
 - These countries are the only ones that accept a state value: United States, Canada, Ireland, India, Brazil, Australia, China, Italy, Mexico
 - All 50 US states and all Canadian Provinces have standardization campaigns to set them from their two letter abbreviation to their full spelling.
 - The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
-
-If a `Country` &/or `State/Province` standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 
 ### MQL Definition
