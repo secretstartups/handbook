@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Importing Projects for Customers
+description: "Provides guidance on when GitLab Team members might offer to import projects on behalf of customers or prospects, and the process for doing so."
 category: GitLab.com
 ---
 

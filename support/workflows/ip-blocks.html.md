@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Identifying the Cause of IP Blocks on GitLab.com
+description: "Workflow to try to determine what caused an IP address block and relay that information back to the user."
 category: GitLab.com
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Servicing Internal Requests
+description: "Various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the internal requests issue tracker"
 category: GitLab.com
 ---
 
