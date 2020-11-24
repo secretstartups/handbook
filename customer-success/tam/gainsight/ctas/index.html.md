@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Calls to Action (CTAs)"
+description: "The Gainsight guide to using Calls to Action (CTAs) to assist you managing your accounts, making sure customers' needs are addressed, and planning for what's next."
 ---
 
 ## On this page

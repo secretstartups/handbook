@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Journey Orchestrator: Sending emails via Gainsight"
+description: "Ways to use Gainsight's one-to-many email system to deliver value to your customers via different sequencing methods with the purpose of enabling all customers, especially with asynchronous learning at the core."
 ---
 
 

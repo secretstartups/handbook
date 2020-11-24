@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Using Gainsight within Customer Success"
+description: "The key aspects of using Gainsight at GitLab to drive success for your customer."
 ---
 
 ## On this page
