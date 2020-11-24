@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "External Consultant Orientation and Access Deprovisioning"
+title: "External Consultant Orientation & Access Deprovisioning"
 ---
 
 ## On this page
