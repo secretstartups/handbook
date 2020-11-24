@@ -113,10 +113,11 @@ to assess all the team members that are within your People Business Partner (PBP
 1. Click `Dashboard` in the top right corner. 
 1. Click `Overview` for any of the departments you would want to be reviewing. 
 1. Click on the `Move to Review` button to move the department to review. 
-1. Depending on the participants in the Live review session you can select team members who will not be shown in the review session. This can be helpful if someone is joining the review session (a manager for example) but has also been reviewed by the second-level leader. 
-1. When ticking the box - the team member will not be shown in the box overview. 
-1. If during the calibration session team members are moved to another box, it's important to `Save` any changes in placements by clicking the `Save` button. 
-1. After the live calibration session, as a PBP, you can analyse results and click `Finalize` when all managers/leaders are on board with the placements. 
+1. Depending on the participants in the Live review session you can select team members who will not be shown in the review session. This can be helpful if someone is joining the review session (a manager for example) but has also been reviewed by the next level leader. 
+1. When ticking the box - the team member wil not be shown in the box overview. 
+1. If during the calibration session team members move box, it's important to `Save` any changes in placements by clicking the `Save` button. 
+1. After the live calibration session, as a PBP, you can analyse results and click `Finalize` when all managers/leaders are on board with the placements. The `Finalize` button confirms the assessments.
+1. As a final step, in the People Business Partner dashboard, after closing the round, click the `Sync To BambooHR` button to push assessments to BambooHR. Please note that *only* PBPs are able to complete this step.
 
 ##### Steps for PBPs to analyse results after the review session
 1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
