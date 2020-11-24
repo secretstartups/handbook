@@ -245,7 +245,7 @@ Meanings and usage
 * `Fri: MONTH DAY`
    * Denotes which week an issue will be worked on 
    * Worked on = will be broken down into smaller Issues or Issue will be completed and closed
-* `Growth Marketing Backlog` 
+* `Inbound Marketing Backlog` 
    *  Denotes that this not fit into current goals,  time, or resources - can be reviewed later for informing future goals
    *  Does NOT mean the issue request is cancelled
 *  `Case Study`
