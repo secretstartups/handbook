@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Uploader - Handling large files from Customers
+description: "Support team workflow for using the Support Uploader, for recieving large file archives from customers"
 category: Handling tickets
 ---
 
