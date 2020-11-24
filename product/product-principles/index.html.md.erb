@@ -353,6 +353,76 @@ By monitoring product usage, usage PQL volume, SAO rate, and ASP we will be able
 
 In the product experience, we will develop an intelligent module for feature discovery moments whereby we help recommend what we believe should be the preferred option for the user whether it’s a hand-raise, trial or touchless upgrade by updating the default CTA based on their usage of the product along with demographic and firmographic data. This experience will be present on both SaaS and self-managed instances for air-gapped instances the CTAs will provide the user with external URLs to visit to complete the associated step. This experience should be able to be deployed by any stage to further their paid adoption rate.
 
+### Drive Product Usage
+Users can only experience GitLab's value when they actively use the product features. Therefore the Product team's mission isn't only shipping features and building products, but also driving usage and delivering value. 
+
+There are two frameworks we use to think about driving GitLab's product usage: we use the AARRR framework to think about how to drive a single feature's usage, and use the Customer Adoption Journey to think about cross-adoption of product features. These two frameworks are also interconnected with each other. 
+
+
+#### Single Feature usage: AARRR framework
+
+AARRR stands for _Acquisition_, _Activation_, _Retention_, _Revenue_, and _Referral_ which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply Product Performance Indicators to drive a desired behavior in the funnel.
+
+While the AARRR framework is commonly used to drive overall active users, it is also a great way for PMs to think about how to drive feature usage.
+
+
+- Acquisition measures user actions that show awareness of the feature
+- Activation illustrates a user has begun to apply the feature
+- Retention is the continued use of the feature over time
+- Revenue captures the monetary value acquired from feature usage
+- Referral focuses on measuring behaviors that drive users to encourage others to consume the feature
+
+``` mermaid
+classDiagram
+  Acquistion --|> Activation
+	Acquistion : Are users aware of the product or feature set?
+	Acquistion: Measurement (Insert Metric)
+  Activation --|> Retention
+	Activation : Are users applying the feature?
+	Activation: Measurement (Insert Metric) 				
+  Retention --|> Revenue
+	Retention : Are users applying the feature over time?
+	Retention: Measurement (Insert Metric)
+  Revenue --|> Referral
+	Revenue : Are users paying for the features?
+	Revenue: Measurement (Insert Metric)
+  Referral --|> Acquistion
+	Referral : Are users encouraging others to use the feature?
+	Referral: Measurement (Insert Metric)
+```
+
+Add AARRR funnels for your stage or group's Product Performance Indicators directly with mermaid markdown. It's easy if you use this [live editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIEFjdGl2YXRpb24gLS18PiBSZXRlbnRpb25cblx0QWN0aXZhdGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZT9cblx0QWN0aXZhdGlvbjogTWVhc3VyZW1lbnQgKEluc2VydCBNZXRyaWMpIFx0XHRcdFx0XG4gIFJldGVudGlvbiAtLXw-IFJldmVudWVcblx0UmV0ZW50aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlIG92ZXIgdGltZT9cblx0UmV0ZW50aW9uOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKEluc2VydCBNZXRyaWMpICIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9).
+
+Product managers can use these various states to prioritize features that drive a desired action. This could mean focusing on the Activation metric to drive awareness and generate more `top of funnel` leads. As an example, in the [Release stage](https://about.gitlab.com/direction/ops/#release) the Release Management group tracks actions on the Release Page in GitLab. Users that view a Release Page have been `acquired` and those that create a release on a Release Page are `activated` users. The Product Manger can choose to target features that drive users to view the Release Page more, resulting in a greater interest in the number of users that become activated and create their own Releases.
+
+#### Multi-feature usage: Adoption Journey
+
+GitLab is a complete DevOps platform. Our customers get the most value out of the GitLab product when they use multiple features together. Below is the most common path our customers follow to adopt GitLab's product stages. 
+
+As PMs, in addition to driving usage of individual features, we should also proactively think about how to design product and user experiences to help users adopt more stages and features, therefore benefiting more from using GitLab. 
+
+``` mermaid
+graph LR;
+    Create --> Plan
+    Verify --> Secure
+    Create --> Manage
+    Create --> Verify
+    Verify --> Release
+    Verify --> Package
+    Release --> Monitor
+    Release --> Configure
+    Release --> Protect
+```
+
+The foundational user journey is from Create -> Verify. This is the most common combination of stages, and we believe when users experience these two stages they begin to understand the broader power of a single application for the entire DevOps lifecycle. We are working on several projects to increase the number of users enjoying Create and Verify together. Examples:
+
+- [Get up and running quickly using GitLab CI](https://gitlab.com/groups/gitlab-org/-/epics/2072)
+- [Make CI Runner easy for self-managed GitLab users](https://gitlab.com/groups/gitlab-org/-/epics/2778#solutions-roadmap)
+- [Encourage users to try out CI pipelines](https://gitlab.com/groups/gitlab-org/growth/-/epics/14)
+- [Improve experience migrating from Jenkins to GitLab](https://gitlab.com/groups/gitlab-org/-/epics/2735#urgency-and-next-steps)
+
+Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.
+
 
 ### Flow One
 
