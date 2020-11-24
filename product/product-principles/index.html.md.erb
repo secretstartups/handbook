@@ -391,7 +391,19 @@ Add AARRR funnels for your stage or group's North Star Metrics directly with mer
 
 Product managers can use these various state to prioritize features that drive a desired action. This could mean focusing on the Activation metric to drive awareness and generate more `top of funnel` leads. As an example, in the [Release stage](https://about.gitlab.com/direction/ops/#release) the Release Management group tracks actions on the Release Page in GitLab. Users that view a Release Page have been `acquired` and those that create a release on a Release Page are `activated` users. The Product Manger can choose to target features that drive users to view the Release Page more, resulting in a greater interest in the number of users that become activated and create their own Releases.
 
+## Multi-feature usage: Adoption Journey
 
+``` mermaid
+graph LR
+    Create --> Plan
+    Verify --> Secure
+    Create --> Manage
+    Create --> Verify
+    Verify --> Release
+    Verify --> Package
+    Release --> Monitor
+    Release --> Configure
+    Release --> Protect
 
 ### Flow One
 
