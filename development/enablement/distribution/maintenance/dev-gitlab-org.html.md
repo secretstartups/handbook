@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Distribution Team Infrastructure and Maintenance"
+title: "Distribution Team Infrastructure and Maintenance - dev.gitlab.org"
 ---
 
 ## On this page
