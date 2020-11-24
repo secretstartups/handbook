@@ -1,6 +1,7 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "TAM Manager Handbook"
+description: "Field guide for TAM Managers on standard and recurring practices."
 ---
 
 ## On this page

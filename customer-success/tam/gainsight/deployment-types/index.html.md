@@ -1,6 +1,7 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Customer Deployment Types"
+description: "Definition guide for customer deployment types, conversion sources, hosting, deployer method, and provider."
 ---
 ## Customer Deployment Types
 

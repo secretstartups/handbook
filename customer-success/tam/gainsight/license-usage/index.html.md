@@ -1,6 +1,8 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "License Usage in Gainsight"
+description: "using license usage data within Gainsight"
+
 ---
 
 # License Usage in Gainsight

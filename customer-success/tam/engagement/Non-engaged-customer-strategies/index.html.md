@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Strategies for Non-Engaged Customers"
 ---
 
