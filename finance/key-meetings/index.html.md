@@ -43,6 +43,7 @@ Functions that have these meetings are:
 *  Engineering (Eric Johnson - function DRI) - does not include Support or Infrastructure
 *  Finance (Brian Robins - function DRI)
 *  Infrastructure (Steve Lloyd - function DRI)
+*  Legal (Robin Schulman - function DRI)
 *  Marketing (Todd Barr - function DRI)
 *  People Group (Carol Teskey - function DRI)
 *  Product (Scott Williamson - function DRI)
