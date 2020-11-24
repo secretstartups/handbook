@@ -47,6 +47,30 @@ If ticket volume is too high:
     - a general increase, focus on "burst mode" workflows; arrange groups of individuals to focus on first responses and setting customer expecations.
     
 
+### A time-consuming workflow is causing a dip in performance
+
+#### Past Analysis
+{:.no_toc}
+
+#### [2020-09-01: FRT Hawks spending more time on needs-org tickets is causing a dip in performance](https://gitlab.com/gitlab-com/support/metrics/-/issues/6)
+{:.no_toc}
+
+**Evidence Gathered:**
+  - Tickets opened by email that had no plan (that is: emails that might trigger the needs-org workflow)
+  
+**Approach:**
+   - Examine number of tickets that might trigger the needs-org workflow
+   - Understand which of these tickets actually triggered the workflow 
+   - Determine amount of time we could save by adjusting the workflow
+
+#### Shaping Actions
+{:.no_toc}
+
+If you suspect a time consuming workflow is causing a dip in performance:
+ - Identify the number of tickets that would fall under the workflow
+ - Verify that the workflow is being evenly applied to the set of tickets in question
+ - See if there any efficiency gains to be made through automation
+
 ### Hypothesis 2 for FRT 
 #### Past Analysis
 {:.no_toc}
