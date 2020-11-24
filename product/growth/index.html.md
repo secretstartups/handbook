@@ -41,7 +41,7 @@ To prioritize, the growth groups will use the [ICE framework](https://blog.growt
 
 The Growth Product Management Director should run a weekly growth meeting to review, prioritize, and plan experiments. The meeting should take place on Tuesdays for 50 min and should cover the following agenda.
 
-5 min: social questions
+5 min: Social questions
 
 5 min: Annoucements 
 
