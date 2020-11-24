@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Infrastructure and Maintenance - dev.gitlab.org"
+description: "Guidelines for maintaining dev.gitlab.org, including manual package upgrades/downgrades, and GitLab configuration changes."
 ---
 
 ## On this page
