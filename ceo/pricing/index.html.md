@@ -122,6 +122,10 @@ As GitLab develops new categories that are likely to be in paid tiers, it is sti
 
 When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. Regardless of the reasoning behind the down-tiering of a feature, the [process](https://about.gitlab.com/handbook/ceo/pricing/#changing-tiers-and-pricing-changes) should still be followed.
 
+### Tiering efficacy considerations
+
+If having a feature (typically useful to ICs, but also to others) will open up possiblity of circumvent or abuse our tiering policy we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is **repo pull mirroring** that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Core tiers mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Core-tier.
+
 ### Partner integration considerations
 
 When building integrations to partners it is possible to make exceptions to our buyer-based model when our tiers don't align well with those of the partner, but only in favor of lower tiers. As an example - a partner who provides a team collaboration tool with a free tier might desire any GitLab integration to be present in our free tier despite it clearly being appropriate for single team usage. The go-to-market benefits of this partnership can outweigh the divergence from our buyer-based model.
