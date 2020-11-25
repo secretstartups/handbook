@@ -17,7 +17,7 @@ The Core Infra teams owns:
   * [Chef](/handbook/engineering/infrastructure/production/architecture/#chef-architecture)
 * network ingress/egress
   * [Networking](/handbook/engineering/infrastructure/production/architecture/#internal-networking-scheme)
-* CDNs and DNS (/handbook/engineering/infrastructure/production/architecture/#dns--waf)
+* [CDNs and DNS](/handbook/engineering/infrastructure/production/architecture/#dns--waf)
 * [Secrets management](/handbook/engineering/infrastructure/production/architecture/#secrets-management) 
 * Helping with Fulfillment Stage assets like subscription and license management apps.
 
@@ -66,7 +66,7 @@ We can then watch burndowns for that work.
 2. Unplanned milestones.  These are short 2 week timeboxes in which we schedule external/unplanned asks of the team that were
 not in Project Epics.  They allow us to help set a budget for the incoming requests we do in a given timebox.  
 
-#### Sprint Level
+#### Workflow
 * We use a [Kanban board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&label_name[]=team%3A%3ACore-Infra) to track work
 * If you assign yourself to an issue, it goes in a Milestone, gets the team::CoreInfra label. It will then appear on the Board.
 * We use a Geekbot standup daily to talk about what we are working on
@@ -75,9 +75,42 @@ not in Project Epics.  They allow us to help set a budget for the incoming reque
 #### Asks of the infra team and unplanned work:
 When external asks come in:
 * they can be commented on, but get a Workflow-Infra::triage Label to start
-* When added to the board, the should get labels ~unplanned, AssistType::x and AssistingTeam::x, and be assigned to the 
+* When added to the board, the should get labels ~unplanned, AssistType::x and AssistingTeam::x, and be assigned to the next
   unplanned work milestone.
 
+### Planning
+
+We conduct our planning and retrospectives asynchronously, using issues in the [sre-coreinfra/planning](https://gitlab.com/gitlab-com/gl-infra/sre-coreinfra/planning) project to organize discussion.
+
+#### Cadence
+
+Planning occurs on a two-week cadence, aligned with our unscheduled milestones.
+
+During the first week of a milestone, the team will review and discuss the _next_ upcoming milestone in an issue opened on the [sre-coreinfra/planning](https://gitlab.com/gitlab-com/gl-infra/sre-coreinfra/planning) backlog. This allows for time before the start of the next milestone to work on collecting additional data required to refine an issue, clarify details with requestors, or perform basic analyses of the relative size/scope of an issue _before_ starting the actual work.
+
+During the second week of a milestone, in addition to resolving any questions or discussions raised on the next milestone planning issue, the team begins the issue triage process, and populates the planning issue for discussion when the cycle repeats.
+
+#### Issue triage
+
+Issue triage starts with reviewing rollover, incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
+
+Aside from rollover issues, the remaining backlog issues will be reviewed in the following order
+1. Work deferred due to rollover is still accurately prioritized and scheduled in the appropriate milestone
+1. Open issues labeled `team::Core-Infra` and `workflow-infra::triage` will have an initial `core-infra::pX` priority added and move to `workflow-infra::ready`
+1. New issues labeled `team::Reliability`
+
+#### Planning discussion
+
+Once the list of proposed issues for the upcoming milestone is completed, the team will perform a final review and discuss any additional context, missing details, pre-requisites, conflicts, etc. and decide on a final relative priority for work to be pulled.
+
+#### Retrospectives
+
+At the conclusion of each milestone, a retrospective issue will be created in the [sre-coreinfra/planning](https://gitlab.com/gitlab-com/gl-infra/sre-coreinfra/planning) project, for discussion and review. The text of the retrospective can be customized to ensure that certain aspects of the previous project/milestone are discussed, but in general will follow the format
+
+1. What went well?
+1. What did not go well?
+1. What did you learn?
+1. What still puzzles you?
 
 ### Labels
 
