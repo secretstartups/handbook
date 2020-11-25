@@ -164,7 +164,7 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 
 4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow the typical GitLab code review process.
 
-5. We don't expect to have many new "features" developed from growth experiments, but in rare case if this happens, or we feel the UX flow we developed need to have a permanent owner, we will hand it off to the relevant product owner, following the typical community contribution process.
+5. We don't expect to have many new "features" developed from growth experiments, but in the rare case that this happens or if we feel like the UX flow we developed needs to have a permanent owner, we will hand it off to the relevant product owner, following the typical community contribution process.
 
 
 #### Proposed Growth-Feature Product Owner collaboration process
