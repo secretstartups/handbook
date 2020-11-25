@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Name Squatting Policy
+description: "Workflow for releasing a namespace deemed dormant by GitLab's Name-squatting Policy"
 category: GitLab.com
 ---
 
