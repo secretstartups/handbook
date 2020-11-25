@@ -17,7 +17,7 @@ scaling GitLab's business value. To accomplish this, Growth analyzes the entire 
 a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups
 help with this mission:
 
-- Activation, Conversion, Expansion and Adoption connect users to the existing value that GitLab already delivers by
+- Activation, Conversion, Expansion, and Adoption connect users to the existing value that GitLab already delivers by
 rapid experimentation.
 - [Product Analytics](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
