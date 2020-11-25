@@ -24,7 +24,6 @@ culture at GitLab.
 
 Growth's utimate goal is to connect GitLab's value as Single Devop Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We breaks down the entire GitLab's growth model, and identify the highest ROI lever at this moment to focus on. In [Growth's direction page](https://about.gitlab.com/direction/growth/), we outlined growth section's long term direction and near term focus area. 
 
-
 ## How Growth Team works?
 
 ### Growth ideation and prioritization
