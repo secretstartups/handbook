@@ -63,7 +63,7 @@ For feedback issues labeled "satisfaction::bad", determine the following:
 1. If the customer should be contacted to discuss the feedback given
 
 You should document your finding and any follow-up actions taken in the issue.
-You may use the follow template to add a comment to the feedback issue (NOT the
+You may use the following template to add a comment to the feedback issue (NOT the
 ticket!):
 
 ```
