@@ -31,7 +31,7 @@ Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse
 
 This information will all be posted to Slack in the #incident-management channel by Woodhouse and it'll look similar to the following example.
 
-![Incident declared by Woodhouse](/images/support/cmoc_woodhouse_incident_declared.png)
+![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png)
 
 GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
 
