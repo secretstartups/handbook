@@ -375,7 +375,7 @@ _Updated November 2020. Will update with complete FY21 review in February 2021._
 1. 41% of posts garner <499 sessions in two months
 1. 5% of posts are "hits" (10K+ sessions in two months after publishing); "Hits" don't consistently perform well over time
 
-See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
+See [Blog traffic analyses](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
 
 #### Observations
 
