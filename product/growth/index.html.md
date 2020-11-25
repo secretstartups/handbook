@@ -162,7 +162,7 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 
 3. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as key meetings, GC, and potentially a monthly summary video.
 
-4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow they typical GitLab code review process
+4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow the typical GitLab code review process.
 
 5. We don't expect to have many new "features" developed from growth experiments, but in rare case if this happens, or we feel the UX flow we developed need to have a permanent owner, we will hand it off to the relevant product owner, following the typical community contribution process.
 
