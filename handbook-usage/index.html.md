@@ -310,7 +310,7 @@ The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) co
 
 For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/). 
 
-Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](/handbook/marketing/website/#updating-the-marketing-website) or [requesting help from the marketing team](/handbook/marketing/website/#requesting-website-updates).
+Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-the-marketing-website) or [requesting help from the marketing team](/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-website-updates).
 
 ### Broad Permissions 
 
