@@ -115,7 +115,7 @@ We will use the label `~Growth-Deliverable` to differentiate this from a typical
 
 ## How Growth launches experiments? 
 
-Since Growth team is among the first teams to launch product experiments and AB testing, we summarized the current tooling and process in the list of guides and documentation below, to help other teams who are interested in experimentation to get started faster. 
+Since Growth team is among the first teams to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below, to help other teams who are interested in experimentation to get started faster. 
 
 - [Experiment guide for Product managers](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/14)
 - [Experiment ideation Process](https://gitlab.com/gitlab-org/growth/experiment-design-repo/-/issues/1)
