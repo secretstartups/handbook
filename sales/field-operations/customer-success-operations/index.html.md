@@ -48,7 +48,7 @@ Customer Success Operations creates and updates existing processes for the Custo
 
 ### CS Operations Board
 
-
+[Customer Success Operations Board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps)
 
 ### Groups
 
