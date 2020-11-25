@@ -212,13 +212,6 @@ Arguments in favor of raising the price of the lowest tier (which we won't neces
 
 Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#buyer-based-open-core).
 
-## Perfect bundle
-
-Bundle pricing works very well.
-Companies like Microsoft use it successfully to get people to use more of their ecosystem.
-Charging one price that incorporate all our stages is the perfect bundle in my mind.
-But I'm very open to learning more about this.
-
 ## Separate names
 
 We have separate names for .com and self-managed tiers because:
@@ -482,6 +475,8 @@ Companies evolve to selling only a suite for the following reasons, after the =>
 1. Harder to displace the suite, once it is in place. => This will help if competitors offer a service based on our open source code.
 
 We're going even further than selling a suite by integrating everything in a single application. We do that because of the advantages mentioned on our [direction page section about us being single application](/direction/#single-application). A secondary effect is that the user doesn't have to make a buying, or even an adoption, decision.
+
+Charging one price that incorporate all our stages is the **perfect bundle**.
 
 ## Value creation
 
