@@ -147,7 +147,7 @@ and - like a contribution coming from the wider community - ultimately own the f
 ### Collaborate process with other Product teams
  
 
-We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/233) to make sure growth and product teams are maximizing busienss impact while ensuring close collaboration
+We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/233) to make sure growth and product teams are maximizing business impact while ensuring close collaboration.
 
 #### Proposed Growth-Feature Product Owner collaboration process
 
