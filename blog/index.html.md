@@ -366,7 +366,7 @@ Posts focusing on GitLab features or capabilities are most successful when we do
 
 ### Trends
 
-_Updated November 2020. Will update with complete FY21 review in February._
+_Updated November 2020. Will update with complete FY21 review in February 2021._
 
 1. Average unique views per month on the blog: ~184,000 (November 2019 -
    October 2020)
