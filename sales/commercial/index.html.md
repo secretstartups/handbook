@@ -43,7 +43,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](/handbook/communication/#external-communication).
 1. You can never have too many [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with colleagues. You don’t need to ask permission from people, just put some time in their diary.
 1. Make sure your calendar is always up to date so that you can get meetings from SDRs without having to moving them around.
-1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard even if you are not based in the US yourself.
+1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard.
 1. Add your own tips to this page as you onboard to pay it forward for the next new rep!
 
 ### Continuous Learning
