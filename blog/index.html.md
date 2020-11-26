@@ -377,7 +377,7 @@ _Updated November 2020. Will update with complete FY21 review in February 2021._
 
 See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
 
-### Observations
+#### Observations
 
 1. There is not a strong correlation between # of sessions and topic
 1. Strong performing content marketing posts focus on show and tell engineering stories (see [Attributes of a successful blog post](#attributes-of-a-successful-blog-post))
