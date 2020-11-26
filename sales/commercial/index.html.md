@@ -43,7 +43,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](/handbook/communication/#external-communication).
 1. You can never have too many [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with colleagues. You don’t need to ask permission from people, just put some time in their diary.
 1. Make sure your calendar is always up to date so that you can get meetings from SDRs without having to moving them around.
-1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. We only record calls with the customer's permission in the US, but they are an excellent way to onboard even if you are not based in the US yourself.
+1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard even if you are not based in the US yourself.
 1. Add your own tips to this page as you onboard to pay it forward for the next new rep!
 
 ### Continuous Learning
@@ -256,12 +256,12 @@ Support will take the lead on all incoming requests in the queue and only forwar
 
 #### Opportunity Management in Salesforce
 
-- Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information
+- Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information and verifying with LinkedIn (especially outside of AMER)
 - Direct yourself every day to your Next Steps to know how to prioritize and organize your day. Recommendations on how to work through your next steps for the day:
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
-1. If a potential future opportunity that requires an action is greater than 30 days out, create an event with detailed notes on your agenda or action items
+1. If a potential future opportunity that requires an action is greater than 30 days out, make sure this is detailed in the next steps field
 1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Continue to prioritize with the same criteria as above.
 
 #### Pipeline Generation
