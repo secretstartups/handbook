@@ -112,6 +112,38 @@ If dedicating team-members to a specific set of tickets has reduced capacity:
  - determine if there are any gains to be made through engineering effort and communicate the impact
 
 ---
+### Tickets have increased in difficulty
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-01: SaaS Tickets have gotten harder](https://gitlab.com/gitlab-com/support/metrics/-/issues/9)
+{:.no_toc}
+**Evidence Gathered:**
+ - [Requestor Wait Time](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10100682)
+ - [Time to Resolve](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10200712)
+ - [Anecdotes from ICs](https://gitlab.com/gitlab-com/support/metrics/-/issues/1#note_413985941) and data from raised points:
+   - [Integrated Cluster growth per month](https://docs.google.com/spreadsheets/d/17nib0Q8Db6E-Ppa2VWjmpmuhBWf0yr5kBEHpnR1eCpI/edit#gid=0)
+   - [Package Registry Growth](https://docs.google.com/spreadsheets/d/17nib0Q8Db6E-Ppa2VWjmpmuhBWf0yr5kBEHpnR1eCpI/edit#gid=1324848180)
+   - [Internal Issues Per Month](https://docs.google.com/spreadsheets/d/17nib0Q8Db6E-Ppa2VWjmpmuhBWf0yr5kBEHpnR1eCpI/edit#gid=1918925639)
+
+**Approach:**
+  - Examine data that correlate with difficulty (TTR and Requestor Wait Time)
+  - Examine anecodotal data about ticket subjects, assuming that these areas may be underserved by experts.
+ 
+**Notes:**
+   - The data gathered while examining this hypothesis generated additional falsifiable explanations
+
+#### Shaping Actions
+{:.no_toc}
+
+If tickets have increased in difficulty:
+ - Determine if additional headcount can be applied to this area (temporarily)
+ - Examine specific areas of challenge and develop training and workflows
+ - See if there are possibly gains in efficiency through macros, tooling or workflow improvements
+ - Identify product issues or feature requests that will reduce the impact of challenging ticket areas
+ - Examine documentation for problem areas, and additional content to help customers self-serve answers
+
+---
 ### Hypothesis 2 for FRT 
 #### Past Analysis
 {:.no_toc}
