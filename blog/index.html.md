@@ -366,28 +366,21 @@ Posts focusing on GitLab features or capabilities are most successful when we do
 
 ### Trends
 
-*From [2018 blog analysis](https://gitlab.com/gitlab-com/marketing/content-marketing/issues/248) conducted in 2018-10
+_Updated November 2020. Will update with complete FY21 review in February 2021._
 
-1. Average sessions per month on the blog: ~30,000
-1. Average sessions per post in published month: 3,792
-1. Average sessions per content marketing post in published month: 3,500
-1. 55% of posts get <1,000 sessions in a month
-1. 27.47% of posts hit our expected outcome of 1,000-4,999 sessions in published month
-1. 28.57% of posts garner less than 499 sessions in published month
-1. 9% of posts are "hits" (10K+ sessions in published month); "Hits" don't consistently perform well over time
+1. Average unique views per month on the blog: ~184,000 (November 2019 -
+   October 2020)
+1. Average unique views per post in two months after publish date: 2,219
+1. 39% of posts get >1,000 sessions in two months
+1. 41% of posts garner <499 sessions in two months
+1. 5% of posts are "hits" (10K+ sessions in two months after publishing); "Hits" don't consistently perform well over time
 
-**Breakdown by category of "hits":**
+See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
 
-- Content: 37.5%
-- Product: 31.35%
-- Corporate: 25%
-
-### Observations
+#### Observations
 
 1. There is not a strong correlation between # of sessions and topic
-1. Strong performing content marketing posts focus on show and tell engineering stories
-1. Posts really fall into the 5,000-9,999 session bracket (3.3%)
-1. Content hack day posts tend to perform well (>1,000 sessions in published month)
+1. Strong performing content marketing posts focus on show and tell engineering stories (see [Attributes of a successful blog post](#attributes-of-a-successful-blog-post))
 
 ### Identifying and qualifying a high-performing blog post
 
