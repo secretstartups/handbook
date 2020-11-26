@@ -176,7 +176,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
       </td>
       <td>
       <br>
-      <br>Any are all of the following services can be provided by an PSP: 
+      <br>Any or all of the following services can be provided by an PSP: 
 
 <br>*   Assessment
 <br>*   Migration
@@ -230,7 +230,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
       <td>
       <br>
       <br>
-      <br>Any are all of the following services can be provided by an MSP: 
+      <br>Any or all of the following services can be provided by an MSP: 
 
 <br>*   Managed / Hosted services
 <br>*   Security / Compliance
@@ -299,7 +299,7 @@ GitLab Certified Training Partners can either act as subcontractors to <a href="
       <td>
       <br>
       <br>
-      <br>Any are all of the following services can be provided by an CTP:
+      <br>Any or all of the following services can be provided by an CTP:
 
 <br>*   Education
 
