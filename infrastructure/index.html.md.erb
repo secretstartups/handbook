@@ -13,26 +13,64 @@ description: "The Infrastructure Department is responsible for the availability,
 
 ## Mission
 
-The **Infrastructure Department** is responsible for the **availability**, **reliability**, **performance**, and **scalability** of GitLab.com and other supporting services. These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
-Many other departments and teams also contribute to the success of our service. It is the responsibility of the Infrastructure Department to drive ongoing accountability by closing the feedback loop with monitoring and metrics.
+The Infrastructure Department enables GitLab (the company) to deliver a single DevOps application, and GitLab.com users to focus on generating value for their own businesses by ensuring that GitLab.com operates as an enterprise grade SaaS platform.
+
+The Infrastructure Department does this by focusing on the **availability**, **reliability**, **performance**, and **scalability** of GitLab.com, and the services that support it.
+These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
+
+Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/company/team/structure/#gitlabcom-isnt-a-role).
+However, it is the responsibility of the Infrastructure Department to drive ongoing accountability by closing the feedback loop by exposing the needs of a SaaS platform with monitoring and metrics.
 
 ## Vision
 
-We are a blend of operations gearheads and software crafters whose highest priority is the protection of the integrity and reliability of the operational environments that support GitLab.com. We apply sound engineering principles, a healthy dose of operational discipline, and the selection of technologies to build mature automation that safeguards the operational environment while driving changes through it. We aim to make GitLab.com ready for mission-critical customer workloads, and we strive for excellence every day by living and breathing [**GitLab's values**](/handbook/values/) as our guiding operating principles in every decision we make and every action we take.
+The Infrastructure Department operates a fast, secure, and reliable SaaS platform to which (and with which) [everyone can contribute][contribute].
+
+Integral part of this vision is to:
+
+1. Build a highly performant team of engineers with operational, and experience in software development.
+1. Work publicly in accordance to our [transparency] value.
+1. [Use our own product](#Dogfooding) to prepare, build, deliver work, and support [the company strategy][strategy].
+1. Align our [strategy](#strategy) with the industry trends and company direction.
 
 ## Strategy
 
-The Infrastructure Department work towards completing the vision for enterprise grade ready GitLab SaaS platform is conducted in a number of ways. Through writing up [Designs](#design), setting quarterly OKR's but also by driving projects that span multiple quarters.
+To achieve the department vision, we are focusing on:
 
-GitLab uses **Objectives and Key Results** (OKRs) as *[quarterly goals](/company/okrs/) to execute our strategy to make sure [said] goals are clearly defined and aligned throughout the organization*. We capture the objectives in [issues](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OKR&label_name[]=Infrastructure%20Department).
+### 1) Best of class performance
+
+Ensure that the platform can respond to existing and new demands to support future growth, with a better user experience.
+
+1. Complete [the migration](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) of all user facing services to Kubernetes platform by 1st of July 2021.
+1. Stay ahead of the platform growth by becoming great at [projecting service needs](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/148) by MM/YY.
+1. Support ongoing efforts in other departments to increase application performance by MM/YY
+
+### 2) Enterprise SaaS security strategy
+
+1. Collaborate with the Security Department to define and create tools, processes, and audit capabilities for accessing platform  environments by 31st of December 2021
+1. Provide GitLab.com customers with better tools to [manage their own users](https://about.gitlab.com/direction/manage/#gitlabcom) by MM/YY
+
+### 3) Make reliability the platform strength
+
+1. Consistently achieve the target SLA by 1st of July 2021
+1. Create a disaster recovery capabilities by 31st of December 2021
+
+### 4) Grow and develop leadership
+
+1. Enable team leaders to effectively organise and lead team projects by 31st of March 2021
+1. Create efficient, repeatable, and frequent performance review cycles by 31st of October 2021
+
+### 5) Generate contributions external to the department
+
+1. Increase visibility of Infrastructure department public projects by EOFY22.
+1. Generate 1 contribution per month to any of Infrastructure department projects by EOFY22
+
+---
+
+The strategy is accomplished by using _Objectives and Key Results_ (OKRs) as *[quarterly goals](/company/okrs/), aligned throughout the organization*.
 
 Initiatives driven within the Infrastructure Department, often spanning multiple quarters, are represented on the [Infrastructure Department epic](https://gitlab.com/groups/gitlab-com/-/epics/1049).
 
-One of the strategic initiatives that is driving us towards the vision, aligned with [the company direction strategy](/direction/index.html#strategic-response), is [GitLab.com running on the Kubernetes platform](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/).
-
 Other strategic initiatives to achieve this vision are driven by the needs of enterprise customers looking to adopt GitLab.com. [The GitLab.com strategy](https://about.gitlab.com/direction/enablement/dotcom/) catalogs top customer requests for the SaaS offering and outlines strategic initiatves across both Infrastructure and Stage Groups needed to address these gaps.
-
-The strategy section will expand to add more details in the future.
 
 ## Design
 
@@ -46,7 +84,7 @@ The Infrastructure department uses GitLab and GitLab features extensively as the
 
 We follow the same [dogfooding process](/handbook/engineering/#dogfooding) as part of the Engineering function, while keeping the [department mission statement](#mission) as the primary prioritization driver. The prioritization process is aligned to [the Engineering function level prioritization process](/handbook/engineering/#prioritizing-technical-decisions) which defines where the priority of dogfooding lies with regards to other technical decisions the Infrastructure department makes.
 
-When we consider building tools to help us operate GitLab.com, we follow the [`5x rule`](/handbook/product/product-processes/#dogfooding-process) to determine whether to build the tool as a feature in GitLab or outside of GitLab. To track Infrastructure's contributions back into the GitLab product, we tag those issues with the appropriate [Dogfooding](https://gitlab.com/groups/gitlab-com/-/labels?utf8=%E2%9C%93&subscribed=&search=dogfooding) label. 
+When we consider building tools to help us operate GitLab.com, we follow the [`5x rule`](/handbook/product/product-processes/#dogfooding-process) to determine whether to build the tool as a feature in GitLab or outside of GitLab. To track Infrastructure's contributions back into the GitLab product, we tag those issues with the appropriate [Dogfooding](https://gitlab.com/groups/gitlab-com/-/labels?utf8=%E2%9C%93&subscribed=&search=dogfooding) label.
 
 ## Handbook use at the Infrastructure department
 
@@ -57,7 +95,7 @@ The [handbook usage page guide](/handbook/handbook-usage/) lists a number of gen
 1. The wider community can benefit from training materials, architectural diagrams, technical documentation, and how-to documentation. A good place for this detailed information is in the related project documentation. A handbook page can contain a high level overview, and link to more in-depth information placed in the project documentation.
 1. Think about the audience consuming the material in the handbook. A detailed run through of a GitLab.com operational runbook in the handbook might provide information that is not applicable to self-managed users, potentially causing confusion. Additionally, the handbook is not a go-to place for operational information, and grouping operational information together in a single place while explaining the general context with links as a reference will increase visibility.
 1. Ensure that the handbook pages are easy to consume. Checklists, onboarding, repeatable tasks should be either automated or created in a form of template that can be linked from the handbook.
-1. The handbook is the process. The handbook describes our principles, and our epics and issues are our principles put into practise. 
+1. The handbook is the process. The handbook describes our principles, and our epics and issues are our principles put into practise.
 
 ## Projects
 
@@ -132,3 +170,7 @@ The weekly mStaff brings together Infrastructure's management team for a weekly 
 <%= partial "handbook/engineering/infrastructure/_common_links.html" %>
 
 [library]: https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library
+
+[strategy]: /company/strategy/
+[transparency]: /handbook/values/#transparency
+[contribute]: /company/strategy/#everyone-can-contribute
