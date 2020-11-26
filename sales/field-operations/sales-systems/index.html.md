@@ -39,14 +39,14 @@ Below is a list of the different technical skill sets found on the Sales System 
 
       ![The Systems Label Workflow](/handbook/sales/images/sales_systems_label_workflow.png)
 
-      * ![Sales Systems Label](/handbook/sales/images/salessystems1_label.png)New Issues that are created will be automatically tagged and any existing issues related to sales systems gets tagged in this label
-      * ![Ready For Build](/handbook/sales/images/ready_for_build1_label.png)Issues that are acknowledged(in review)that are not slotted into the next milestones and not assigned to systems team members
-      * ![Need More Information](/handbook/sales/images/need_more_information1_label.png)Issues waiting for more information from the requester, no milestone and not assigned to systems team member
-      * ![Out Of Scope](/handbook/sales/images/out_of_scope1_label.png)Issues that are out of scope or cannot be combined with current functionality and this issue will be closed
-      * ![Build](/handbook/sales/images/build1_label.png)Issues in current milestone, assigned to systems team member worked on
-      * ![Ready To Review](/handbook/sales/images/ready_to_review1_label.png)Issues in current milestones that are near the finish line and needs to be reviewed/demoed
-      * ![Ready To Deploy](/handbook/sales/images/ready_to_deploy1_label.png)Issues in current milestones that are ready to deploy in production
-      * ![Blocked](/handbook/sales/images/blocked_label.png)Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties
+      * ![Sales Systems Label](/handbook/sales/images/salessystems1_label.png) New Issues that are created will be automatically tagged and any existing issues related to sales systems gets tagged in this label
+      * ![Ready For Build](/handbook/sales/images/ready_for_build1_label.png) Issues that are acknowledged(in review)that are not slotted into the next milestones and not assigned to systems team members
+      * ![Need More Information](/handbook/sales/images/need_more_information1_label.png) Issues waiting for more information from the requester, no milestone and not assigned to systems team member
+      * ![Out Of Scope](/handbook/sales/images/out_of_scope1_label.png) Issues that are out of scope or cannot be combined with current functionality and this issue will be closed
+      * ![Build](/handbook/sales/images/build1_label.png) Issues in current milestone, assigned to systems team member worked on
+      * ![Ready To Review](/handbook/sales/images/ready_to_review1_label.png) Issues in current milestones that are near the finish line and needs to be reviewed/demoed
+      * ![Ready To Deploy](/handbook/sales/images/ready_to_deploy1_label.png) Issues in current milestones that are ready to deploy in production
+      * ![Blocked](/handbook/sales/images/blocked_label.png) Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties
 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
