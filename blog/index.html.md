@@ -372,7 +372,7 @@ _Updated November 2020. Will update with complete FY21 review in February 2021._
    October 2020)
 1. Average unique views per post in two months after publish date: 2,219
 1. 39% of posts get >1,000 sessions in two months
-1. 41%% of posts garner <499 sessions in two months
+1. 41% of posts garner <499 sessions in two months
 1. 5% of posts are "hits" (10K+ sessions in two months after publishing); "Hits" don't consistently perform well over time
 
 See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
