@@ -17,7 +17,7 @@ title: "Incident Review"
 ### Review Criteria
 If an incident matches any of the following criteria, an incident review must be completed:
 
-1. Incident was declared as severity::1/severity::2
+1. Incident was declared as `~severity::1`/`~severity::2`
 1. A `~review requested` label is added to the issue
 
 The incident review should be presented in the synchronous review meeting only if the incident is an severity::1, or a review has been requested via the `~review-requested` label.
