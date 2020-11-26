@@ -691,6 +691,7 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **Content marketing:** Examples, education, reporting, storytelling, thought leadership, and use cases.
 1. **Corporate:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
 1. **Product:** Release posts, critical updates, and partnership announcements.
+1. **dev-evanglism:** Blog posts authored by members of the Developer Evangelism team
 
 Use the `postType` frontmatter option to set the content definition.
 
