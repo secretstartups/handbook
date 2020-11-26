@@ -380,7 +380,7 @@ See [Blog traffic analyses](/handbook/marketing/growth-marketing/content/editori
 ### Observations
 
 1. There is not a strong correlation between # of sessions and topic
-1. Strong performing content marketing posts focus on show and tell engineering stories
+1. Strong performing content marketing posts focus on show and tell engineering stories (see [Attributes of a successful blog post](#attributes-of-a-successful-blog-post))
 
 ### Identifying and qualifying a high-performing blog post
 
