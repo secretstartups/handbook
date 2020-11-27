@@ -76,10 +76,6 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Attendees: Growth PMs
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
     1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
-1. Bi-weekly sync meeting with Customer Success
-    1. Attendees: Retention, Expansion, Customer Success
-    1. Goals: Share data & learnings, discuss oppportunities for upcoming experiments, stay coordinated on programmatic vs. manual testing and learnings
-    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=retention/expansion/success%20sync%20agenda)
 1. Bi-weekly sync with Product Analytics, Data, Customer Success, and Sales
     1. Product Analytics, Data, Customer Success, and Sales
     1. Goals: Stay in-sync for work across Product Analytics, Data, Customer Success, and Sales
