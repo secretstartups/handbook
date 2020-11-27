@@ -237,6 +237,9 @@ To see who the current manager on-call is you can:
     - Use the `/pd-support-manager` command to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
+### Resolving issues as the support manager on-call
+We currently consider :green_check_mark: in slack on the original slack request as a signal that the escalation has been resolved.   
+
 ## Mobile phone service and data reimbursement
 
 We want to minimize the affect of on-call duty on your life. One way we do that is by offsetting any impact on your personal expenses.
