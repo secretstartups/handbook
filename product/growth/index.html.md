@@ -123,8 +123,6 @@ Since Growth team is among the first teams to launch product experiments and A/B
 - [Growth Engieering Handbook page on running experiments](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments)
 - [A way for GitLab team members to view currently active experiments on GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/issues/262725)
 
-
-
 ## How Growth collaborates with other teams?
 
 The hypotheses explored by Growth will span across groups and stages. How do other groups interact with Growth?
