@@ -33,20 +33,20 @@ This funnel represents the customer journey and the various means a product mana
 ```mermaid
 classDiagram
   Acquistion --|> Activation
-    Acquistion: Awareness
-    Acquistion: Measurement (# of page views on https://docs.gitlab.com/ee/ci/pipelines/settings.html#test-coverage-parsing)
   Activation --|> Retention
-    Activation : Use
-    Activation: Measurement (# of page views of Project Code Coverage Graph)
   Retention --|> Revenue
-    Retention : Continued Use
-    Retention: Measurement (# of projects that have viewed code coverage graph by day)
   Revenue --|> Referral
-    Revenue : Payment
-    Revenue: Measurement (# of projects that have viewed group code coverage graph by day)
   Referral --|> Acquistion
+    Acquistion : Awareness
+    Acquistion : Measurement (page views on test coverage parsing docs)
+    Activation : Use
+    Activation : Measurement (page views of Project Code Coverage Graph)
+    Retention : Continued Use
+    Retention : Measurement (projects that have viewed code coverage graph by day)
+    Revenue : Payment
+    Revenue : Measurement (projects that have viewed group code coverage graph by day)
     Referral : Talk about
-    Referral: Measurement (Insert Metric)
+    Referral : Measurement (TBD)
 ```
 
 ## Team Members
