@@ -236,7 +236,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### CXC 
 
-Poland, Russia, Ukraine, Romania, Israel, Turkey & Portugal:
+Poland, Russia, Ukraine, Romania, Israel, Turkey, Czech Republic & Portugal:
 
 * Expense reports must be approved by the manager and the Accounts Payable team on or before the 8th of each month enable for it to be included in the current month payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
