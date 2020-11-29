@@ -75,7 +75,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
     - Those who never go through the formal platform may also benefit from the materials
     - The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 
-Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/).
+Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
 
 ## Six Critical Questions
 
