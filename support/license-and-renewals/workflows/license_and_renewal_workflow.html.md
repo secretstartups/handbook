@@ -35,18 +35,19 @@ The L&R queue should not be used for the following:
   [education program](https://about.gitlab.com/solutions/education/)
 * Requests related to the
   [open source program](https://about.gitlab.com/solutions/open-source/join/)
+  
+## How does this queue align with the "Fulfillment" Stage?
+
+The [Fulfillment](https://about.gitlab.com/direction/fulfillment/) Stage manages Purchasing and Provisioning, CustomersDot Usage, and Subscription Management. These teams own responsibilities that align with the types of requests we generally see in the L&R queue.
 
 ## How does this queue align with the "Growth" Stage?
 
-When we look at the product [Growth](/handbook/product/product-categories/#growth-stage) stage, we can see that the team owns responsibilities that align with the types of requests we generally see in the L&R queue:
+When we look at the product [Growth](/handbook/product/product-categories/#growth-stage) stage, we can see that the team owns responsibilities that align with some of the types of requests we generally see in the L&R queue, in particular the `Conversion` group.
 
-|Growth Group|Ticket/Issue Request Type|
-|--|--|
-|[Acquisition](https://about.gitlab.com/direction/acquisition/)|New Business|
-|[Conversion](https://about.gitlab.com/direction/conversion/)|Trials|
-|[Expansion](https://about.gitlab.com/direction/expansion/)|'How do I's, Upgrades|
-|[Fulfillment](https://about.gitlab.com/direction/fulfillment/)|Purchasing, CustomersDot Usage, Subscription Management|
-|[Retention](https://about.gitlab.com/direction/retention/)|Renewals, Getting Started, License & User Management|
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate) 
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate) 
 
 ## Working the L&R Queue
 
