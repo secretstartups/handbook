@@ -59,7 +59,7 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
 
 ### Paid Time Off
 
-GitLab has a "no ask, must tell" time off policy [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
+GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
 
 ### Tuition Reimbursement
 
