@@ -23,7 +23,7 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. The LXP will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
-- **Curate & Create** content that is [handbook first with interactivity](/handbook/sales/field-operations/field-enablement/interactive-learning/)
+- **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
 - **Recommend** learning based on individual community member preferences
 - **Learn & Guide** community members on how to develop new skills through step-by-step guides through individual learning styles
 - **Automate** learning for personalized learning recommendations
@@ -36,7 +36,7 @@ GitLab has invested in the LXP to enable our team members, partners, customers, 
 
 ## Handbook first approach to the LXP
 
-The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/sales/field-operations/field-enablement/interactive-learning/) relevant content that exists in the handbook using a structured process. 
+The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/people-group/learning-and-development/interactive-learning/) relevant content that exists in the handbook using a structured process. 
 
 
 ## Governance
