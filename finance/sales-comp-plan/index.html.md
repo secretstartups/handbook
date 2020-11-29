@@ -130,6 +130,8 @@ GitLab policy is to provide Pre-Earned Commission Payout(s) upon the full and co
 1. Determining whether a PO is required and, if required, having secured the PO at time of invoice.
 1. Encouraging use of payment due upon receipt collection terms or not waiving our standard thirty (30) day collection terms.
 
+Where a customer does not pay an invoice by the due date, the Plan Participant may be asked by Finance to assist in the collection of the receivable.  It is the Plan Participant’s responsibility to work with their contacts at the customer to ensure this happens and that any issues blocking payment are resolved.  Where the customer has still not paid 90 days after the due date of the invoice, the Company reserves the right to reclaim the commission paid to the Plan Participant in respect of the unpaid invoice.  Once the invoice is paid, the commission will be repaid.
+
 Please refer to [Sales Order Processing](/handbook/business-ops/order-processing/) to expedite the collection process.
 
 ### Non Commission Incentives
