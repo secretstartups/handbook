@@ -236,6 +236,21 @@ This section describes the approval chain after a manager submits a promotion or
 1. When announcing or discussing a promotion on Slack **#team-member-updates** channel, please include a link the promotion Google Doc to increase visibility for the reasons behind the promotion.
 1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
 
+#### Rolling 12-Month Promotion Business Justification Process
+
+As part of the [BambooHR promotion approval process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) outlined above, Total Rewards checks that the department is within the 12% rolling promotion rate before approving the promotion from the Total Rewards side. This information is also accessible to all GitLab team members and can be [reviewed in Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate).
+
+If a department is over the 12% promotion rolling rate, the following process should be followed:
+
+1. Total Rewards will alert the People Business Partner (PBP) that the department or division requesting the promotion is over the 12% rolling rate.
+1. PBP requests an overview of all promotions from the last rolling 12 months from Total Rewards provided in a Google sheet.
+1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided. 
+1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable). 
+1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
+1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
+1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibilty and ensure it is accessible by Total Rewards, CFO, and CEO. 
+
+
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
 1. The People Business Partner (PBP) will receive an email titled `Promotion Request: [Team Member Name]`.
