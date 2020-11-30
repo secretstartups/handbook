@@ -54,6 +54,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 
     * Click on the shortcut icon in the `#offboardings` slack channel 
     * Select the `Offboarding Form` workflow from the menu 
+    * To ensure consistency amongst the PBPs for the `Offboarding Reason` and re-hire eligibilty alignment field, please reference the `Offboarding Reason & Re-Hire Eligibility` section of this page
     * Submit the form and it will be posted to the `#offboardings` channel
     * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
     * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>
@@ -85,6 +86,28 @@ Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/comm
 
 GitLab, the company, monitors the channel and can remove people from it at their sole discretion.
 The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) is enforced in the channel.
+
+#### Offboarding Reason & Re-Hire Eligibility 
+
+There are several different options for the `Offboarding Reason` field in the Slack offboarding form. Below is an overview of Offboarding Reason and the corresponding re-hire eligibility option that should be selected depending on the reason.
+
+| Offboarding Reason | Re-Hire Eligibility |
+| ------ | ------ |
+| Relocation | yes |
+| Career Development | yes |
+| Elimination of Position | yes |
+| Compensation | yes |
+| Attendance | with review |
+| Values Misalignment | with review |
+| Job Satisfaction | with review |
+| Knowledge, Skills, and Ability | with review |
+| Mutual Decision | with review |
+| Other | with review |
+| Performance | with review |
+| Not a fit for the role | with review |
+| [Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/)| no |
+| [Job Abandonment](https://about.gitlab.com/handbook/people-group/people-policy-directory/#job-abandonment) | no |
+
 
 ## Involuntary Offboarding
 
@@ -161,7 +184,7 @@ This section will define key terms in offboarding slack workflow forms.
 - **Garden Leave Effective Date**: The date a issue will be created and access will be turned off. The TM will stay on payroll through their offboarding effective date. (YYYY-MM-DD)
 - **Issue Create Date and Time**:	When access should be turned off and offboarding processes will begin. (YYYY-MM-DD PST)
 - **Type of Offboarding**:	Voluntary / Involuntary 
-- **Offboarding Reason**:	Reasons available in BHR 
+- **Offboarding Reason**:	Reasons available for review in the `Offboarding Reasons & Re-Hire Eligibility` section 
 - **Eligible for Rehire, Alumni Channel**:	
    - Yes- Rehire, Yes- Alumni Channel
    - No- Rehire, No- Alumni Channel 
