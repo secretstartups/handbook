@@ -25,20 +25,21 @@ Most of us are good at avoiding them because it's human nature to avoid pain and
 3. We can them and handle them well
 
 At GitLab, there can be many instances where a crucial conversation is needed. Whether it is addressing the underperformance of a team member, discussing the results of promotion, interviewing, being notified that a high performer is leaving the team, etc. The Crucial Conversations book has strategies laid out that can help master one:
-1. Power of Dialogue: Gaining information and context on the situation. The free flow of meaning between two or more people. 
-2. Shared Meaning: Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. 
-3. Start with the Heart: If you can’t get yourself right, you’ll have a hard time getting dialogue right by looking inward first. Apply empathy in the moment by asking questions to yourself that return you to the dialogue:
+1. **Power of Dialogue:** Gaining information and context on the situation. The free flow of meaning between two or more people. 
+2. **Shared Meaning:** Each of us enters conversations with our own opinions, feelings, theories, and experiences about the topic at hand. Coming to a shared opinion and entering a pool of a shared meaning helps our synergy with team members in many ways. 
+3. **Start with the Heart:** If you can’t get yourself right, you’ll have a hard time getting dialogue right by looking inward first. Apply empathy in the moment by asking questions to yourself that return you to the dialogue:
    - What do I really want for myself?
    - What do I really want for others?
    - What do I really want for the relationship?
    - How would I behave if I really wanted these results?
-4. Learn to Look - How to Notice When Safety is at Risk: It can be difficult to see what exactly is going on and why during crucial conversations. Watch for these situations to learn to spot one: 
+4. **Learn to Look - How to Notice When Safety is at Risk:** It can be difficult to see what exactly is going on and why during crucial conversations. Watch for these situations to learn to spot one: 
    - The moment a conversation turn crucial
    - Signs that people feel safe
    - Your own style under stress
-5. Make It Safe: Nothing kills dialogue than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
-6. Master Your Stories: Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
+5. **Make It Safe:** Nothing kills dialogue than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
+6. **Master Your Stories:** Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
 
+These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. 
 
 ## Strategies for Successful Crucial Conversations
 
