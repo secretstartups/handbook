@@ -92,16 +92,6 @@ title: "Gainsight: Go-To-Market Technical Documentation"
 #### Rules Engine
 ##### Push to SFDC
 *  Pushes a variety of data points back from Gainsight to Salesfoirce. The following Salesforce Fields are populated via this rule that pushes info back from Gainsight to their associated Salesforce account. This Rule Chain had its batch size reduced by 50% for all of the rules in the Rule Chain. This was completed in order to reduce the errors returned from the sync since it was colliding with other jobs in Salesforce. 
-   *  [GS] Configure Active?
-   *  [GS] Create Active?
-   *  [GS] Protect Active?
-   *  [GS] Manage Active?
-   *  [GS] Monitor Active?
-   *  [GS] Package Active?
-   *  [GS] Plan Active?
-   *  [GS] Release Active?
-   *  [GS] Secure Active?
-   *  [GS] Verify Active?
    *  [GS] TAM Sentiment :Former Health Score
    *  [GS] Provider
    *  [GS] Geo?
