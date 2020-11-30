@@ -14,9 +14,7 @@ title: "Sales Order Processing"
 **Welcome to the Sales Order Processing page!** 
 {:.gitlab-purple .no_toc} 
 
-This page outlines the Quote to Cash process, starting from quote creation, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed. 
-
-**Please note:** Some information that was previously hosted on this page has been moved to pages owned by the teams directly responsible for the applicable topics.
+This page outlines the Quote to Cash process, starting from account and opportuntiy creation, to quote configuration, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed. 
 
 ### Helpful Links
 
@@ -69,13 +67,13 @@ This page outlines the Quote to Cash process, starting from quote creation, to a
 
 1. Click the "New Contact" button.
 2. Add the full first name, last name, title, phone number, email address, and full address for all contacts.
-    * Note: Salesforce requires that all contacts entered on a quote as "Sold To," "Bill To," or "Invoice Owner Contact" have a full and complete address. A quote object containing contacts without full and complete addresses will not save.
+    * Salesforce requires that all contacts entered on a quote as "Sold To," "Bill To," or "Invoice Owner Contact" have a full and complete address. A quote object containing contacts without full and complete addresses will not save.
 
 ## **Quote Configuration**
 
 The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/business-ops/resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
 
-### What are the standard quote types? 
+### Standard Quote Types 
 
 There are 4 different types of quotes - New Subscription, Amend Existing, Renew Existing, Cancel Existing. The correct quote type must be used for each opportunity. 
 
@@ -88,11 +86,11 @@ There are 4 different types of quotes - New Subscription, Amend Existing, Renew 
 
 ### Assistance with Quotes
 
-If your quote requires any special, non-standard edits, or if you have questions regarding standard quotes, you are encouraged to send a Chatter message to "@Sales-Support" on the SFDC Opportunity record for assistnace. 
+If your quote requires any special, non-standard edits, or if you have questions regarding standard quotes, you are encouraged to send a Chatter message to `@Sales-Support` on the SFDC Opportunity record for assistance. 
 
-Please provide as much detail as possible, including links to relevant records, dates, user counts, and other applicable information. **Note: It is the Opportunity Owner's responsibility to create quotes, unless they are complex custom deals or one of the scenarios listed below.** 
+Please provide as much detail as possible, including links to relevant records, dates, user counts, and other applicable information. **It is the Opportunity Owner's responsibility to create all standard quotes, unless they are complex custom deals or one of the scenarios listed below.** 
 
-### What types of quotes can Deal Desk assist me with? 
+### What quotes can Deal Desk assist me with? 
 
 Deal Desk will review any quote to ensure accuracy and completion. **However, sales teams are encouraged to follow the handbook and training guides for [Standard Quote Types](/handbook/business-ops/order-processing/#what-are-the-standard-quote-types) and should fully manage the quote creation process.**
 
@@ -108,7 +106,7 @@ Occasionally, you may encounter a complex deal that has **non-standard** element
 Please review the [Deal Desk Quote Configuration Guide](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for more information. Note that the above list of non-standard quote elements is not exhaustive. If you encounter a non-standard need that is not listed on this page, please chatter @Sales-Support on the SFDC Opportunity in question for evaluation and assistance.
 
 
-### Handling Open Source, Education, and Startup Applications
+### Open Source, Education, and Startup Application Opportunities
 
 GitLab provides free licenses to qualifying entities through the [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [application workflow by the Community Advocates](https://about.gitlab.com/handbook/marketing/community-relations/community-advocacy/workflows/education-oss-startup/). **Only community advocates** should handle these applications and opportunities because community advocates verify program requirements before issuing/renewing licenses and these opportunities are handlded differently since the opportunities are not paid (unless support is purchased).
 
@@ -156,11 +154,11 @@ Booking:
 #### Additional Line Items Displaying on the Quote
 * If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
 
-## **Working with Legal**
+### **Working with Legal**
 
 There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/). 
 
-### Contact Legal 
+#### Contact Legal 
 For general questions related to the customer, please open a case with legal. 
 
 On Customer Account, OR, Opportunity:
@@ -170,10 +168,12 @@ On Customer Account, OR, Opportunity:
 1. The Contract Manager / Legal Member will review the question and provide an answer in the case comments and tag the requesting Sales Team Member via SFDC Chatter
 1. Once the question is addressed, the Case will be closed by the Contract Manager.
 
+If your Account has been flagged for review for Export Compliance, please chatter `@Legal` to unlock the Account. Only Legal can make this change. 
+
 <details>
 <summary markdown="span"><b>Learn more about Customer Vendor Setup Forms and Obtaining Signatures, click here!</b></summary>
 
-### How to process Customer requested "Vendor Setup Forms"
+#### How to process Customer requested "Vendor Setup Forms"
 * From time to time a Customer may request that GitLab complete a Vendor Setup document. This is generally required for procurement groups to add a new vendor to their system(s).
 * The Sales Team member is responsible for completing such forms by following the below steps:
 1. Complete as much of the form as possible. Much of this information is publicly available in the GitLab handbook. Helpful information can be found on the [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) page and on the final page of any direct order form generated via a Zuora quote;
@@ -183,7 +183,7 @@ Note: GitLab will not agree to any additional terms in a Vendor Setup Form. The 
 1. Vendor Setup Forms that require signature must follow the standard Signature Process (See [Obtain Signature](/handbook/business-ops/order-processing/#obtain-signatures) process below).
 Note: Sales Team Members are **NOT** authorized to sign any document, contract and/or Agreement. 
 
-### How to Obtain Signatures for any external Contract or Agreement (including Vendor Forms)
+#### How to Obtain Signatures for any external Contract or Agreement (including Vendor Forms)
 
 All contracts / Agreements that require GitLab countersignature will be digitally stamped by a GitLab Contract Manager or legal representative. This is done to ensure and signify that the document has been reviewed and vetted by GitLab legal, and may be signed. 
 
@@ -396,7 +396,7 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 </details>
 
 
-## **How to Create a Draft Proposal** 
+### **How to Create a Draft Proposal** 
 
 Follow the standard process for [quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes). The Quote Object **does not** need to be approved before generating a Draft proposal. 
 
@@ -408,15 +408,15 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 
-## **Customer Reference Quotes** 
+### **Customer Reference Quotes** 
 
 If Customer Reference language has been included on the quote object and order form, the "Reference Discount" box will be checked on the quote object by the Deal Desk team. 
 
-## **How to Submit a Quote for Discount and Payment Term Approval**
+### **How to Submit a Quote for Discount and Payment Term Approval**
 
 The following is intended as a guide for Opportunity Owners who need to submit a quote for approval for discount or payment terms. If the quote requires additional approvals before sending to a customer, there will be a <span style="color:red">**red stop sign**</span> flagged with "**Additional Approvals Required**".
 
-### Standard Quote Approval 
+#### Standard Quote Approval 
 
 Prior to generating a standard (non-draft) quote to deliver to a client or prospect in Word or PDF format, any non-standard elements (discounts, unique payment terms, and other items found in the matrix) must be approved. The following steps outline the process for how to correctly submit a quote for approval. This approval flow follows the criteria in [our approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0) for approvers. Please review this matrix so you are aware of all the scenarios as well as any potential fields that you may have to fill out on the quote. 
 
@@ -565,11 +565,11 @@ For any deals that require approval via chatter, please copy and paste the below
     Non-Standard Contract Terms:
     Route to Market (Direct/Channel):
 
-## **How to Approve a Quote**
+### **How to Approve a Quote**
 
 The following is intended as a guide for quote approvers.
   
-### Quote Approvers
+#### Quote Approvers
 
 According to [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0) for approvers there are a number of reasons that you may be involved in approving an opportunity. Please make sure that you are familiar with the scenarios that you may be involved with.
 
@@ -585,7 +585,7 @@ According to [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1Qb
    1.  You can approve or reject the quote directly within salesforce on the bottom of the quote page under `Approval History`
 * If you are going to be unavailable to review and approve quotes (PTO, at a conference etc.) please coordinate with the appropriate team members to ensure that there will still be someone who can review quotes while you are unavailable. 
 
-### Reassign Quote Approvals 
+#### Reassign Quote Approvals 
 
 If you are a quote approver and will be out of office for any duration of time, you will need to notify Deal Desk and set up rerouting of any quote approvals. 
 
@@ -599,7 +599,7 @@ If you are a quote approver and will be out of office for any duration of time, 
 Note: If you are a Delegated Approver and are not recieving approval emails, contact sales-support for assitance.     
 
 
-### Quote Metrics
+#### Quote Metrics
 
 The following quote metrics are available:
 
@@ -612,24 +612,24 @@ The following quote metrics are available:
  * Tax - The tax calculated for the specified billing periods.
  * Total - The quote total for the specified billing periods, including discount charges and taxes.
 
-### Approving Multiple Product Tiers on One Quote
+#### Approving Multiple Product Tiers on One Quote
 
 If a quote has mutiple product tier skus (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.  
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Request approval via chatter. 
 1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
 
-## **How to Send an Order Form to a Customer**
+### **How to Send an Order Form to a Customer**
 
 If a quote has a <span style="color:green">**green circle**</span> at the top of the page, flagged with "**Approved**", it's ready to send to the customer! Note, a PDF of a quote **cannot be generated** until the quote has been approved. 
 
-### How to Generate an Order Form as a PDF
+#### How to Generate an Order Form as a PDF
 
 1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), go back to the quote and click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. *Note that the ability to generate a Word Doc has been restricted to the Deal Desk team.*
 1. All requests for custom language or Order Form edits must meet the standards listed in [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). To request edits to an Order Form, tag @Sales-Support in chatter with the request and Deal Desk will evaluate the request and execute the edits via Word doc after necessary approvals are received.
 1. The default template for all transaction types (new, amendment, or renewals) will be the direct (non-channel) quotes that do not show $0 line items. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 
-### How to Send an Order Form to the Customer for Signature via Sertifi
+#### How to Send an Order Form to the Customer for Signature via Sertifi
 
 To send a digital copy of an Order Form to the customer via Sertifi: 
 
@@ -643,7 +643,7 @@ To send a digital copy of an Order Form to the customer via Sertifi:
 1. Once all signers have been added, click Next. 
 1. ON the next page, you will be prompted to add a document for customer signature. You can either add the document from your personal harddrive, or you can add one of the quote PDFs saved on the opportunity. 
 
-**NOTE** If you add the document in both locations (hard drive and salesforce), you will send **2** copies of the Order Form to the customer for signature and they will receive multiple notifications. Only add the Order Fomr in one location.
+If you add the document in both locations (hard drive and salesforce), you will send **2** copies of the Order Form to the customer for signature and they will receive multiple notifications. Only add the Order Fomr in one location.
 
 1. Before clicking “Send for Signature”, **it is strongly encouraged to review the Order Form for accuracy**. Be sure that the contact information, addresses, and pricing are fully populated and accurate. To review the document, click "**Preview/Prefill Document**", to the right of the file name. 
 
@@ -667,13 +667,13 @@ You can add a secure, encrypted credit card information block to the Order Form 
 
 When the customer signs the Order Form, you will receive an email notification with the completed document. Attach this to the "Notes and Attachments" section of the opportunity. 
 
-## **My customer signed the Order Form. Now what?**
+### **My customer signed the Order Form. Now what?**
 
 You've created the quote, recieved all necessary approvals, and the customer has signed the Order Form. Awesome! Time to submit the opportunity for booking. Hold up! Be sure to review all required fields listed below **before** submitting the opportunity for approval. 
 
 All opportunities must meet *all* requirements outlined below to be processed. **Exceptions are rare and not made lightly** and often require several approvals. 
 
-### First, make sure these required Salesforce fields are correctly populated:
+#### Review required Salesforce fields
 
 1. On the Account record:
   * Industry
@@ -688,7 +688,7 @@ All opportunities must meet *all* requirements outlined below to be processed. *
   * Provide the Closed Won Details- a few sentences on highlighting why we won the deal (pricing, packages, feature set, etc.) should do.
   * Once these steps are completed, save the record and submit the opportunity for approval.
 
-### Second, review all requirements for each type of sale
+#### Opportunity Booking Requirements
 
 There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
 
@@ -860,7 +860,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-### Finally, submit the opportunity for approval (booking)
+### How to Submit an Opportunity for Approval (Booking)
 
 When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have a **signed order form from** the customer, you are ready to submit the opportunity for approval. 
 
@@ -870,7 +870,7 @@ When you have reviewed [all opportunity requirements](/handbook/business-ops/ord
 
 **NOTE** - Orders will be processed as long as the Start Date is within 60 calendar days from date of submission. If the Start Date is more than 60 days out, Deal Desk will hold the opportunity until the 60 day window. If the opportunity must be booked due to customer budget constraints, chatter Sales-support on the opportunity. 
 
-### What happens when you Submit an Opportunity for approval? 
+#### What happens when you Submit an Opportunity for approval? 
 
 ```mermaid
 
@@ -965,17 +965,17 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
 </details>
 
 
-## **Post Sale Information**
+### **Post Sale Information**
 
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
 
-### How do I know if a License Key was sent to the Customer?
+#### How do I know if a License Key was sent to the Customer?
 
-Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Opportunity record, and can be found under "Acitivity History" releated list on the Opportunity.
+Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
 
-Task title: `Email: Your GitLab License File`
+Look for Task title: `Email: Your GitLab License File`
 
-### My customer didn't recieve the EULA/License File! Help! 
+#### My customer didn't recieve the EULA/License File! Help! 
 
 Check out our [EULA/License Troubleshooting page](/handbook/business-ops/business_systems/portal/troubleshooting) 
 
@@ -987,17 +987,17 @@ On this page you can find answers to some of the most common questions/errors:
 * How to resend a License File
 * How to resend a EULA
 
-### Where in the world is the Invoice?
+#### Where in the world is the Invoice?
 
 As soon as an invoice is generated, the sales rep can view and download it as a PDF in Salesforce. Scroll to the bottom of the Account page within the Salesforce and click on the correlating invoice number under "Invoices". Then on the bottom of the invoice view, click "Invoice PDF". 
  
  You can also view the "Invoices" tab at the top of the account page, under the chatter feed. A paid invoice will have a zeroed Balance and positive Payment Amount.
 
- Note: If an opportunity was sold through channel, the Invoice will be located on the Reseller Account page, not the Customer Account page. 
+ If an opportunity was sold through channel, the Invoice will be located on the Reseller Account page, not the Customer Account page. 
 
  You can send a copy of this invoice PDF if the customer requests. 
 
-### How to Handle Duplicate Accounts and Opportunities from Web Direct Purchases
+#### How to Handle Duplicate Accounts and Opportunities from Web Direct Purchases
 
 In some cases, a prospect or customer that is currently engaged with an AE on an opportunity might be proactive and sign up online via the web portal. If this occurs, then a duplicate Account, Opportunity, and Contact could be created. In the event that a duplicate record is created, please do the following to resolve as we want to keep the original lead source, activity history, and other information from the original opportunity:
 
@@ -1033,7 +1033,7 @@ Go to the right team who can support you with your request. **NOTE** It is so im
 
 #### When to contact Sales-Support:
 
-Be sure to review the (common questions after a deal has closed)[## Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed-Won opportunity. 
+Be sure to review the (common questions after a deal has closed)[### Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed-Won opportunity. 
 
 ##### Out of Scope for Sales-Support
 
