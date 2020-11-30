@@ -54,7 +54,7 @@ The Growth Product Management Director should run a weekly growth meeting to rev
 10 min: Discussions
 
 
-To prepare for the meeting, the Growth PM's and the Growth Director should check in on experiments to identify which can be concluded, and to collect data for review.
+To prepare for the meeting, the Growth PMs and the Growth Director should check in on experiments to identify which can be concluded, and to collect data for review.
 
 ### Other regular Growth meetings
 
