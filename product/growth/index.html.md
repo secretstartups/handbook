@@ -145,9 +145,9 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 
 #### Proposed Growth-Feature Product Owner collaboration process
 
-1. Growth identifies a focus area that may potentially touch the areas owned by another product team. For example, Growth will be focusing on new user adoption of Create & Verify features starting in FY21 Q4.
+1. Growth identifies a focus area that may potentially touch the areas owned by another product team. For example, growth will be focusing on new user adoption of Create & Verify features starting in FY21 Q4.
 
-1. Growth reaches out to have a kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
+1. Growth reaches out to have a sync or async kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
 
 * Inform the Product feature owner that growth is planning to experiment in this area;
 * Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
