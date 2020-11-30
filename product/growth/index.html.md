@@ -138,7 +138,7 @@ engineering team may ship smaller improvements independently of Manage's direct 
 - The group ultimately owning the change - in this case, Manage - would review Growth's contributions into their area of the product
 and - like a contribution coming from the wider community - ultimately own the final result.
 
-### Collaborate process with other Product teams
+### Collaboration process with other Product teams
  
 
 We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/233) to make sure growth and product teams are maximizing business impact while ensuring close collaboration.
