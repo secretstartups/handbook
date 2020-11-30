@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Workflow"
+description: "Overview of how work is performed by Distribution Engineers, for Omnibus, Helm and other Engineering projects."
 ---
 
 ## On this page
