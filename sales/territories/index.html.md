@@ -233,7 +233,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **MM-APAC-ANZ** | Julie Manalo | Glenn Perez |
+| ANZ | ANZ | **MM-APAC-ANZ** | Ian Chiang | Glenn Perez |
 | Asia Central | Asia Central | **MM-APAC-Central Asia** | Ishan Padgotra | Glenn Perez |
 | China | China | **MM-APAC-China** | Ian Chiang | Aletha Alfarania |
 | Japan | Japan | **MM-APAC-Japan** | Ian Chiang | Minsu Han |
@@ -337,10 +337,10 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-South Germany** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
