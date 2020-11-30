@@ -35,7 +35,6 @@ Check out recordings of previous Learning Speaker Series calls!
 
 The following process outlines steps for the L&D team to take each month when planning and implementing monthly calls.
 
-
 **Planning Issue Template:** Open an Monthly Continuous Learning Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
 
 1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
@@ -102,10 +101,33 @@ The following process outlines steps for the L&D team to take when planning and 
 
 `Join the Learning and Development team on [DATE] for the Learning Speaker Series Call. This month's call features [PERSON] and their experience with [BACKGROUND}. You can review the slide deck for the call [HERE], and post questions you might have in the call adenga doc [HERE]. Looking forward to seeing you there!`
 
+
 ## Learning & Development Quarterly Newsletter
 
 The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community. 
 
+
 ## Take Time Out To Learn Campaign
 
 Focus Friday's are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/people-group/leadership-toolkit/career-development-conversations/) to determine what skills that want to grow in the future. Aspirations can be documented in a [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). From there, identify what will be needed to attain the new skills and consider using [tuition reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) or [expensing professional development courses](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) up to $500 USD per fiscal year. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+
+
+## Mini-Challenge
+
+Mini-challenges are 1 week learning opportunities that utilitze a combination of GitLab issues, live learning sessions, and Slack to organize a group of learners around a specific topic. Mini-challenges are advertised to team members via slack and require interested learners to opt in. Participation in issue discussion questions and in live learning sessions (synchronous and asynchronous) are is tracked by the L&D team or challenge organizer. Upon completion of the challenge, participants are awareded a certification. The L&D team has used the mini-challenge model to engage learners on topics like psychological safety.
+
+In addition to the use of GitLab, each mini-challenge includes a dedicated Slack channel to organize conversation, share new issue links, and provide space for team members to ask questions. 
+
+Examples of current and past challanges can be found in the [Learning and Development project](https://gitlab.com/gitlab-com/people-group/learning-development/challenges)
+
+
+## Internal Learning Campaigns
+
+Learning campaigns at GitLab have an asynchronous focus and are used to raise awareness around a specific topic or set of resources. These campaigns are inspired by the structure of a learning challenge but without the required engagement or tracking. For example, the L&D team is using a learning campaign structure to host a [mental health awareness week](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/156)
+
+Learning camapgins use a combination of GitLab issues and Slack announcements to raise awareness and spark discussion. Following the campaign, the L&D team will aggregate comments and resources that have surfaced and document in the handbook. Learning campaigns can be used to build buzz around a live speaker series or to start conversation about a common question or issue that GitLab team members are facing. 
+
+
+
+
+
