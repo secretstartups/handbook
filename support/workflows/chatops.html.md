@@ -43,7 +43,7 @@ If you are attempting to search for a sub-group and not a top level group, you'l
 | `id` | integer/string | yes | ID or `path` of the namespace|
 | `minutes` | integer | yes | Total additional minutes limit. If you want to add 1,000 minutes to existing quota of 500, this value should be `1500`. Enter `0` to set limit to 0. |
 
-**Note:** This ChatOps command is deprecated in favor of the [`force_reassociation`](../workflows/customer_console.html#force_reassociation) Customers Console function.
+**Note:** This ChatOps command is deprecated in favor of the [`force_reassociation`](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#force_reassociation) Customers Console function.
 
 ## User
 
