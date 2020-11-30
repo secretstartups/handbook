@@ -33,9 +33,7 @@ No. Although the phases described on this page appear to be independent and line
 
 ## Workflow Summary
 
-<object data="PDF-Diagram.svg" style="width: 100%;" type="image/svg+xml">
-  Could not load this content, probably due to a Content Security Policy directive.
-</object>
+<img src="/handbook/product-development-flow/PDF-Diagram.svg" alt="Product Development Flow diagram">
 
 > <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Workflow labels must be applied for each phase that's used to enable tracking and collaboration across teams.
 
