@@ -55,7 +55,7 @@ The best way to understand seat utilization for self-managed customers is by usi
 ###### Version App
 An alternative to License Usage Salesfore App is the [Version App](version.gitlab.com) you'll need developer access to this application to log in. Once logged in navigate to the Hosts tab. There you will be able to filter by license tier and see active user counts, historical max user counts among other important infomation as well like, last usage ping, version etc. 
 
-## Growth Issue Tempaltes
+## Growth Issue Templates
 We use a perdefined set of [issue templates](https://gitlab.com/gitlab-org/growth/team-tasks/-/tree/master/.gitlab/issue_templates) to stay organized. These are kept safe and sound in the [Growth Project under team tasks](https://gitlab.com/gitlab-org/growth/team-tasks). 
 
 #### Template list:
