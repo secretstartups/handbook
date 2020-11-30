@@ -198,3 +198,8 @@ We are committed to upholding fundamental human rights and believe that all huma
 
 5. We may terminate our relationship with individuals and/or Business Partners if they breach this policy.
 
+## 4. Foreign Corrupt Practices Act
+
+The Foreign Corrupt Practices Act is a United States federal law that prohibits U.S. citizens and entities from bribing foreign government officials to benefit their business interests. It is not only an invaluable tool to help fight corruption but one to which we must be compliant. As GitLab Inc. is a U.S. incorporated entity, we need to make sure our operations worldwide are compliant with the provisions of the Foreign Corrupt Practices Act. To that end, GitLab requires Team Members to complete an annual online course relating to anti-bribery and corruption at GitLab. In the training, learners will explore improper payments, including facilitation payments and personal safety payments, as well as policies on commercial bribery. 
+
+The goal of the course is to ensure our Team Members understand what it takes to avoid corruption, especially in high-risk countries, and to ensure GitLab is compliant with legal and regulatory obligations. 
