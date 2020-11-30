@@ -109,7 +109,7 @@ We will use the label `~Growth-Deliverable` to differentiate this from a typical
 - Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
 - Growth deliverable can also be a piece of UX research, analysis, if these are large scope and require significant amount of work from PM, OR they provide valuable insight for growth experiments
 
-## How Growth launches experiments? 
+## How Growth launches experiments 
 
 Since Growth team is among the first teams to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below, to help other teams who are interested in experimentation to get started faster. 
 
