@@ -107,7 +107,7 @@ We will use the label `~Growth-Deliverable` to differentiate this from a typical
 - Able to stand on its own (can be potentially released/launched on its own)
 - Expected to directly impact KPI or improve internal/external user experience on its own
 - Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
-- Growth deliverable can also be a piece of UX research, analysis, if these are large scope and require significant amount of work from PM, OR they provide valuable insight for growth experiments
+- Growth deliverables can also be UX research or data analysis if these are large in scope and require significant amount of effort from the Product Manager, OR if they provide valuable insight for growth experiments
 
 ## How Growth launches experiments 
 
