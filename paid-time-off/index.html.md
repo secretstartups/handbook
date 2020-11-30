@@ -51,6 +51,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
 1. Gitlab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
 1. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
+1. It's important to take PTO while you have something you *want* to do, rather than waiting until you *need* the time off.
 
    ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
 
