@@ -54,7 +54,7 @@ The Growth Product Management Director should run a weekly growth meeting to rev
 10 min: Discussions
 
 
-To prepare for the meeting, the Growth PMs and the Growth Director should check in on experiments to identify which can be concluded, and to collect data for review.
+To prepare for the meeting, the Growth PM's and the Growth Director should check in on experiments to identify which can be concluded, and to collect data for review.
 
 ### Other regular Growth meetings
 
@@ -100,7 +100,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
 
 ### Growth Deliverables
 
-A growth deliverable should be a released feature or a launched effort that is expected to directly impact KPIs, improve external & internal customer experiences
+A growth deliverable should be a released feature or a launched effort that is expected to directly impact KPIs and improve external or internal customer experiences.
 
 We will use the label `~Growth-Deliverable` to differentiate this from a typical product deliverable. A "Growth-Deliverable" should be:
 
