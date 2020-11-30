@@ -37,6 +37,10 @@ So what is delegation?  Delegation is the assignment of responsibilities to anot
 
 ### So why do managers struggle with delegation?
 
+As a Manager, we have to delegate tasks and activities to achieve results. Delegation only works when both the team member and manager share a common understanding of the problem set and how to go about solving them. If a Manager doesn't understand fully what they are delegating, achieving results could be slowed down. Delegation without follow-through by the manager is abandonment. When delegating tasks consider monitoring the team member's progress based on their level of competence/skills with the tasks. 
+
+**Additional reasons why managers struggle with delegation:** 
+
 * It is too hard
 * It takes too much time
 * Nobody can do it as good as I can
@@ -129,6 +133,7 @@ When you introduce the task use "What-Why" statements like "I want you to do...B
 - Lack of communication - Communicating the plan in a clear and precise manner prevents errors caused by miscommunication
 - Fear of relinquishing control - Management may be resistant to delegating at first, but delegation can build trust and morale among managers and team members
 - Micromanagement - Micromanagement prevents team members from completing their assigned tasks and defeats the purpose of delegation
+- Interruptions - Managing our time is a key attribute to increasing the managerial output of the teams we lead. Interruptions can occur a lot. Ask yourself how you can strive toward regularity and prevent stops and starts in your day. 
 
 **Signs of Micromanagement**
 
