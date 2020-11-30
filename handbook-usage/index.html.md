@@ -282,7 +282,15 @@ Even if you are not a developer, you should feel confident merging any changes t
 
 ### Do not use merge immediately 
 
-Do not use the [merge immediately](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/#immediately-merge-a-merge-request-with-a-merge-train) feature! Even if your MR is important and time-sensitive, using this feature will create a lot of pain for everyone else. This feature should only be used when critical public information needs to be sent live as quickly as possible and should be approved by PR or Legal. If you don’t have PR or Legal approval, don’t use this feature. 
+Do **not** use the [merge immediately](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/#immediately-merge-a-merge-request-with-a-merge-train) feature! Even if your MR is important and time-sensitive, using this feature will create a lot of pain for everyone else. This feature should only be used when critical public information needs to be sent live as quickly as possible and should be approved by PR or Legal. **If you don’t have PR or Legal approval, don’t use this feature**.
+
+More context on the technical reasons behind this:
+
+- We want to have a fast pipeline for the master branch, which minimizes the time needed for changes to be deployed and appear live on the production site.
+- In order to achieve this, we do not run any tests or linters on the master branch, because these are long-running jobs which would block a fast deployment.
+- Instead, we rely on the [Merge Train](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) to ensure that all Merge Request changes have successfuly passed all necessary test/lint jobs before being allowed to merge.
+- So, if you use "merge immediately", **_none of the test/lint jobs will be run, which will result in a broken master branch if problems were introduced._**
+- This means that **everyone who creates new MRs off of master after this point will experience confusing pipeline failures which are not their fault**, and this will continue until this situation is discovered and a fix is merged to master.
 
 ### When to get approval
 
