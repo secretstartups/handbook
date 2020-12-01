@@ -22,10 +22,10 @@ the following labels receive the appropriate attention from Support:
 * `Associate Subscription Console Escalation::Customers` - Workflow to be documented
 * `Billable Members` - Workflow instructions on template
 * `Console Escalation::Customers` - Workflow to be documented
-* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/workflows/assets/troubleshooting_eulas.html)
-* `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html)
+* `EULA` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/troubleshooting_eulas.html)
+* `License Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html)
 * `Plan Change Request` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
-* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/license_troubleshooting.html#transactions)
+* `SaaS Subscription Issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#transactions)
 * `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/workflows/trial_extensions.html)
 
 When on this role, prioritize working on internal request issues over Zendesk tickets.

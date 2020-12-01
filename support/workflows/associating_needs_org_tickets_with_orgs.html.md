@@ -359,7 +359,7 @@ using our generic `Support Admin` account.
 If data in the [LicenseDot](http://license.gitlab.com) and
 the [CustomersDot](#finding-the-existing-organization-in-customersgitlabcom) shows
 that the customer has a valid license, you should update the ticket in Zendesk side.
-This part does not overlap with the steps from [Handling customers with expired licenses and updating info on SFDC side](handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side),
+This part does not overlap with the steps from [Handling customers with expired licenses and updating info on SFDC side](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side),
 it should be done in combination: first [update information on the SFDC side](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side)
 to fix future tickets, then follow this section to fix existing tickets:
 
