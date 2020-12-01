@@ -119,6 +119,7 @@ To understand more about where these can be used see the [Security Practices Pag
 #### Laptop Stands
   * BoYata Adjustable Laptop Stand - [UK](https://www.amazon.co.uk/gp/product/B07H89V3BB)
   * Roost Laptop Stand - [Worldwide](https://www.therooststand.com/)
+    * If you are based in Australia, it is cheaper and faster to get it from the [Australian store.](https://www.therooststand.com.au/)
   * AmazonBasics Notebook Laptop Stand Arm Mount Tray - [US](https://www.amazon.com/gp/product/B010QZD6I6)
 
 #### Wrist Rests
