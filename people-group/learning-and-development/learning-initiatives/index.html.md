@@ -125,9 +125,4 @@ Examples of current and past challanges can be found in the [Learning and Develo
 
 Learning campaigns at GitLab have an asynchronous focus and are used to raise awareness around a specific topic or set of resources. These campaigns are inspired by the structure of a learning challenge but without the required engagement or tracking. For example, the L&D team is using a learning campaign structure to host a [mental health awareness week](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/156)
 
-Learning camapgins use a combination of GitLab issues and Slack announcements to raise awareness and spark discussion. Following the campaign, the L&D team will aggregate comments and resources that have surfaced and document in the handbook. Learning campaigns can be used to build buzz around a live speaker series or to start conversation about a common question or issue that GitLab team members are facing. 
-
-
-
-
-
+Learning campaigns use a combination of GitLab issues and Slack announcements to raise awareness and spark discussion. Following the campaign, the L&D team will aggregate comments and resources that have surfaced and document in the handbook. Learning campaigns can be used to build buzz around a live speaker series or to start conversation about a common question or issue that GitLab team members are facing. 
