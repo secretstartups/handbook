@@ -52,8 +52,13 @@ For more details, see the [Secure stage](/stages-devops-lifecycle/secure/) and [
 
 The following people are permanent members of this sub-department.
 
-<%= direct_team(manager_role: 'Director of Engineering, Threat Management') %>
 
+<%=
+departments = ['Threat Management']
+department_regexp = /(#{Regexp.union(departments)})/
+
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Threat Management and Growth')
+%>
 ### Backend
 
 #### [Secure Stage: Threat #Insights](/handbook/product/product-categories/#threat-insights-group)
