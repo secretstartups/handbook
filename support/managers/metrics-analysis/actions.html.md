@@ -169,7 +169,8 @@ If it was identified that PTO impacted our results:
 
  - Determine if additional headcount should be applied on certain dates / days of week.
  - Examine our time-off policy and see if it needs to be adjusted - [handbook](https://about.gitlab.com/handbook/support/support-time-off.html).
- ---
+
+---
 
 ### A single portion of tickets is responsible for decreased FRT results
 
@@ -192,6 +193,7 @@ If it was identified that a single portion of our problem types exhibits poor pe
  - Attempt to identify the dates where the volume increased, or the SLA started to decline.
  - Identify potential issues that might have impacted our customers or our ability to provide support for these problem types.
  - Discuss the decreased performance with the relevant IC's and work with them to try and identify possible blockers and explanations as to why this specific problem type decreased in performance.
+ 
  ---
  
 ### Hypothesis 2 for FRT 
