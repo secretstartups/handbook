@@ -144,32 +144,6 @@ If tickets have increased in difficulty:
  - Examine documentation for problem areas, and additional content to help customers self-serve answers
 
 ---
-### Hypothesis 2 for FRT 
-#### Past Analysis
-{:.no_toc}
-
-#### Shaping Actions
-{:.no_toc}
-
-## SSAT is below target
-
-### Hypothesis 1 for SSAT
-
-#### Past Analysis
-{:.no_toc}
-
-#### Shaping Actions
-{:.no_toc}
-
-## NRT is below target
-### Hypothesis 1 for NRT
-
-#### Past Analysis
-{:.no_toc}
-
-#### Shaping Actions
-{:.no_toc}
-
 ### Time-Off impacting performance
 
 #### Past Analysis
@@ -195,3 +169,55 @@ If it was identified that PTO impacted our results:
 
  - Determine if additional headcount should be applied on certain dates / days of week.
  - Examine our time-off policy and see if it needs to be adjusted - [handbook](https://about.gitlab.com/handbook/support/support-time-off.html).
+ ---
+
+### A single portion of tickets is responsible for decreased FRT results
+
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-14: A single portion of tickets is responsible for the overall sag in FRT](https://gitlab.com/gitlab-com/support/metrics/-/issues/2)
+**Evidence Gathered:**
+ - 6 Months breakdown per ticket form and problem type [spreedsheet](https://docs.google.com/spreadsheets/d/1kp1VVorywEgYu0_YuMKDMpitSGo4Hjb7zXu-DOt3e0I/edit#gid=169305821)
+ 
+**Approach:**
+- Examine SLA breaches in %, SLA median TTR (Time To Resolve) and the total volume of tickets for each problem type (under the relevant ticket form).
+- Compare the results and identify trends and spikes.
+
+#### Shaping Actions
+{:.no_toc}
+
+If it was identified that a single portion of our problem types exhibits poor performance (compared to the other problem types).
+
+ - Attempt to identify the dates where the volume increased, or the SLA started to decline.
+ - Identify potential issues that might have impacted our customers or our ability to provide support for these problem types.
+ - Discuss the decreased performance with the relevant IC's and work with them to try and identify possible blockers and explanations as to why this specific problem type decreased in performance.
+ ---
+ 
+### Hypothesis 2 for FRT 
+#### Past Analysis
+{:.no_toc}
+
+#### Shaping Actions
+{:.no_toc}
+
+## SSAT is below target
+
+### Hypothesis 1 for SSAT
+
+#### Past Analysis
+{:.no_toc}
+
+#### Shaping Actions
+{:.no_toc}
+
+## NRT is below target
+### Hypothesis 1 for NRT
+
+#### Past Analysis
+{:.no_toc}
+
+#### Shaping Actions
+{:.no_toc}
+---
+
