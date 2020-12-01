@@ -855,7 +855,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-#### Purchase Order Policy 
+#### Purchase Order Policy
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
 
