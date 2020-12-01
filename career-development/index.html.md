@@ -68,7 +68,7 @@ It's important that team members interested in the people management track have 
 In order to facilitate the transition, we recommend any person moving from an Individual Contributor role to a Engineering Manager role work with their manager to create a focused transition plan. The goal is to provide a concentrated look into the responsibilities and challenges of people management with the understanding that, if the role is not for them, they can return to the IC track. A good example of how to build such a plan can be found in [this article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/). Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6).
 
 ### Temporary Management Positions
-We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role, experimenting with the role as they work on determining their career path or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term. This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
+We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager)), experimenting with the role as they work on determining their career path ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) or [Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)) or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term ([Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)). This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
 
 When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in an temporary position.
 
@@ -79,21 +79,37 @@ Those interested in these roles must:
 - have experience in the individual contributor role for which they would be managing
 - have been employed at GitLab for at least 6 months and thriving in our remote-only context
 - exemplify [GitLab Values](/handbook/values)
-- be subject to a talent review depending on the length of appointment
+- For Acting Manager roles: be subject to a talent review depending on the length of appointment
+- For Interim Manager roles: Apply through [Greenhouse](https://about.gitlab.com/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
 
 Process for selection:
-- Upcoming Interim roles will be discussed over the Engineering and Development Staff meetings.
-- Leadership can gather interest from their team members for the upcoming interim roles.
-- Based on the above criteria the assessment will take place and most suitable team member will be selected for the interim role.
+- Upcoming Interim and Acting manager roles will be discussed over the Engineering and Development Staff meetings.
+- Leadership can gather interest from their team members for the upcoming roles.
+- Based on the above criteria the assessment will take place and most suitable team member will be selected for the role.
 
 #### Types of Interim Roles
 ##### Acting Manager
 An Acting Manager is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
+When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances: 
+
+| Current level      | Desired level  | Previous Management experience (6+ months) | Application of interim period |
+|--------------------|----------------|--------------------------------------------|-------------------------------|
+| Senior             | Manager        | No                                         | Yes                           |
+|                    |                | Yes                                        | Yes                           |
+| Staff              | Manager        | No                                         | Yes                           |
+|                    |                | Yes                                        | No                            |
+| Manager            | Senior Manager | No (managing managers)                     | Yes                           |
+|                    |                | Yes (managing managers)                    | No                            |
+| Manager/Sr Manager | Director       | No (managing managers)                     | Yes                           |
+|                    |                | Yes (managing managers)                    | No                            |
+
+For Director+ positions no interim is required. 
+
 Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
-In some cases it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
+In some cases, or for Director level interim roles, it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
 - Performing career development conversations with direct reports successfully;
