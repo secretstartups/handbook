@@ -114,11 +114,12 @@ In order to properly onboard the shadow, the Release Post Manager should:
 
 Remember - the goal of the shadow is to get them engaged and aware of the process so they can run one on their own. Include the shadow as much as possible so they can learn and be prepared!
 
-The Release Post Manager is accountable for:
+#### Release Post Manager Responsibilities
 
 - Setting up the release post branch and completeing all the tasks assigned to the Release Post managager in the Release Post MR template
 - Reviewing and supporting overall content quality and accuracty of all content published in the release post
 - Supporting and checking in with the TW lead and Messaging lead via Slack and a brief weekly standup
+- Including the Release Post Manager Shadow as much as possible on activities 
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
