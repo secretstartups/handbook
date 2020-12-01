@@ -47,7 +47,6 @@ The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ te
 * Functional results engineering, sales, etc will be made available to the entire company to review.
 
 For those that participate in future survey's, please note, once you hit submit you are unable to go in and edit your answers or add additional comments. It will show that you have completed the survey. Please use the "save and exit" option until you are ready to submit your final answers.
-
 # Highest 3 Scores
 
 * I am proud to work for GitLab - 95% favorable response
@@ -79,6 +78,7 @@ For those that participate in future survey's, please note, once you hit submit 
 87% of the GitLab Team participated in the Engagement Survey in October 2019.  
 GitLab had an Overall Favorable score of 88% - up slightly from 83% in 2018.
 Overall engagement scores - 88% favorable, 9% Neutral and 3% unfavorable
+Feel free to follow the [2019 Team Member Engagement Survey Plan](https://gitlab.com/gitlab-com/people-group/General/-/issues/503)
 [Overall Engagement Survey results slide](https://docs.google.com/presentation/d/19ZkIizrtEMmmOqMkIPTU2VxU01mKvArYoVPMmdXXdFs/edit#slide=id.g4792064fe5_0_4).
 
 The E Group has chosen to focus on the following 3 areas over the next 8 weeks (the results were releases on November 12, 2019):
@@ -144,7 +144,10 @@ Quick tips on Culture Amp and exporting reports or utilizing the tool.
 ## 2020 Engagement Survey Dates
 We are opening the survey from 16th November 2020 to 15th December 2020. The link to the Survey will be sent to you via email from Culture Amp.
 
-Please feel free to reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
+Feel free to follow the [2020 Engagement Survey Plan](https://gitlab.com/gitlab-com/people-group/General/-/issues/931) 
+
+Please reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
+
 
 ## Benchmark and reporting
 
