@@ -537,6 +537,29 @@ The messaging lead orders the primary features in the release post to align with
 
 Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed.
 
+#### Template for reviews
+
+The messaging lead shares the selected theme for review from the EVP and VP of product between the 15th and 17th. You can use this template to share on the #release_post slack channel
+
+> Hi PM Team! I wanted to get some feedback on the release post themes. I see that the biggest focus of 13.6 is to make GitLab easier to use. With that, I believe we can align it to our  Efficiency value driver - improving developer productivity & satisfaction. Would love your thoughts on this. Please provide your feedback by EOD 16th. Thanks! cc:  @sfwgitlab @adawar
+
+>
+> Theme 1
+>   1. Feature 1.1
+>   1. Feature 1.2
+>   1. Feature 1.3
+>
+> Theme 2
+>   1. Feature 2.1
+>   1. Feature 2.2
+>   1. Feature 2.3
+>
+> Theme 3
+>   1. Feature 3.1
+>   1. Feature 3.2
+>   1. Feature 3.3
+
+
 ##### Marketing coordination
 
 - The Messaging Lead should coordinate additional marketing efforts that take place on release day, which may include a press release, social media, campaigns, or additional web pages that need to go live. It is recommended that the press release not include a link to the release post so we aren't constrained by any potential delays of the release post. PR sets embargo times with the media in advance that are hard to move the time around should there be any delays with the MR.
