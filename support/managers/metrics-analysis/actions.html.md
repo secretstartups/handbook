@@ -170,4 +170,23 @@ If tickets have increased in difficulty:
 #### Shaping Actions
 {:.no_toc}
 
+### Hypothesis 3 for Time-Off impacting performance
 
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-14: Folks on PTO over summer and F&F days have caused lags in performance](https://gitlab.com/gitlab-com/support/metrics/-/issues/3)
+**Evidence Gathered:**
+ - [Ticket update volume](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/41841912)
+ - [Summary spreadsheet showing active contributions to ZD tickets (over 20 ticket updates per engineer per month)](https://docs.google.com/spreadsheets/d/1vEJ2ks8pNeR2HVUn1actQcGEHH1ERxct7_kIDasOWDo/edit#gid=960486526)
+ - [Zapier enabled PTO calcualtor spreadsheet](https://docs.google.com/spreadsheets/d/1EFpF6_ixLtxaffd9hurvtnbXGpZuXrYAYx-5U4u3M40/edit#gid=1429709856)
+ 
+**Approach:**
+- Examine SLA performance indicators such as FRT/NRT achievement rate and median response times and identify the months or weeks where there was a downward trend.
+- Narrow down the performance decline using ticket forms and other attributes.
+- Using the Ticket update volume report 
+   - Correlate the dates with the number of active engineers that were shown to be active that month/week (for example 20 tickets worked on per month per engineer can be considered the target volume).
+- Using the Zapier enabled PTO calculator spreadsheet
+   - Correlate the dates with the number of IC's on PTO
+#### Shaping Actions
+{:.no_toc}
