@@ -131,6 +131,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Tweetdeck
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Zapier](/handbook/marketing/marketing-operations/zapier)
 
 ### Requesting access to an existing tool
 
@@ -300,7 +301,7 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 ## Website Form Management
 
-The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md).
+The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). For form field requirements, please refer to this [page](/handbook/marketing/marketing-operations/marketo/#forms).
 
 Each Marketo form should push an event after successful submission to trigger events in Google Analytics. We use the following event labels to specify which events to fire.
 
