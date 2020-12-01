@@ -44,12 +44,12 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 
 **Creating a job on Greenhouse**
 
-* Navigate to the [Add icon](https://drive.google.com/open?id=17TUOnNCuRGXPStCqJZ2e71eee17uHFMNqoG9xfvtKto) in the upper right-hand corner and select Create a Job from the drop-down menu.
+* Navigate to the [Add icon](https://drive.google.com/open?id=17TUOnNCuRGXPStCqJZ2e71eee17uHFMNqoG9xfvtKto) in the upper right-hand corner and select `Create a Job` from the drop-down menu.
 
-* If a job has been created in the past, a user with Job Admin level permissions on that particular job can elect to use that previous job as a template for the [new job created](https://drive.google.com/open?id=1SO708Hi0zUMUXPq8ApWmJkRhdcukkjnV77TOBMirBiM). To do so, click Copy an existing job.
+* Click `Copy an Existing Job`, then filter `Job Status = Draft` and select the appropriate [TEMPLATE]. Alternatively, you can use the `Department` filter to narrow the options.
 
-    * From the [subsequent page](https://drive.google.com/open?id=1K8eqlD2TuT0kNte0Q-YnybxREEt_Zt0UKRwtWKDAU3k), select either Copy an Existing Job.
-    * Select a template, then proceed as per the Job setup flow configured in the system.
+    * From the [subsequent page](https://drive.google.com/open?id=1K8eqlD2TuT0kNte0Q-YnybxREEt_Zt0UKRwtWKDAU3k), select either `Copy an Existing Job`.
+    * Select a [TEMPLATE], then proceed as per the Job setup flow configured in the system.
     * Complete the steps of the job setup flow to create the vacancy.
     * Once a vacancy has been selected to copy, the first screen will ask for basic job info.
     * Input the number of openings to be hired for this role.
@@ -75,21 +75,20 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 **Creation of stages in candidate assessment**
 
 * The next section is the Interview Plan, fill in the Interview Plan accordingly.
-* The Application Review stage is mandatory.
-* Many vacancies have an Assessment as the first step in the process.
-* If the vacancy requires an Assessment, but there is no Assessment stage already added, scroll to the bottom of the page and click ["Add a Stage"](https://drive.google.com/open?id=1YNN-Im-QbxK75v-eB7wjou6WmCbzM_r7ZV2QkfWgEjM).
+* The `Review` stage is mandatory.
+* Many vacancies have an `Assessment as the first step in the process.
+* If the vacancy requires an `Assessment`, but there is no `Assessment` stage already added, scroll to the bottom of the page and click ["Add a Stage"](https://drive.google.com/open?id=1YNN-Im-QbxK75v-eB7wjou6WmCbzM_r7ZV2QkfWgEjM).
 * Click the “Edit” button, then create the stage by filling in the applicable fields, such as “Custom Questions.” In the “[Interview Prep](https://drive.google.com/open?id=1j5W6wvw2mY7nOke1wsq9pCkk91DGo3gpFbfuc5smqRA)” section, specify the items the graders have to look for when they review the candidates' answers.
 * Finally, under "Additional Settings", check "This interview requires scorecards to be submitted" and leave unchecked "Hide candidate name and details from grader."
 * Click "Save".
-* The next stage is the screening call stage, which should be standard across the board. It is recommended to click "Edit" on this stage, scroll to the bottom, and choose the recruiter as the default interviewer.
-* The next stage is the team interview, where the candidates will meet with peers and the hiring manager.
-* Under this stage, there will be different types of interviews. They are typically called "Manager Interview", "Peer Interview 1", and “Peer Interview 2".
+* The next stage is the `Screening` stage, which should be standard across the board. It is recommended to click "Edit" on this stage, scroll to the bottom, and choose the recruiter as the default interviewer.
+* The next stage is the `Team Interview`, where the candidates will meet with peers and the hiring manager.
+* Under this stage, there will be different types of interviews. They are typically called "Manager Interview", "Peer Interview 1", “Peer Interview 2" and "Executive Interview."
 * For each interview in the stage, click "Edit" next to it. First, select the appropriate attributes to focus on in that interview. Then include the purpose of the call and sample questions the interviewer should ask.
 * The two "Additional Settings" should both be checked.
 * Then click "Save".
-* The next stage is the executive interview stage, where there are two interviews with the executive for the division of the vacancy as well as the optional CEO interview. The executive interview can be customized as needed following the guidelines for the team interview, including selecting attributes, adding custom questions, and selecting a default interviewer.
-* The next stage is for reference checks, with two sections for a former manager and a former peer of the candidate. These can be customized as needed.
-* The last stage is the offer stage. (Please refer creating a vacancy or offer approval flow).
+* The next stage is for `Reference` checks, with two sections for a former manager and a former peer of the candidate. These can be customized as needed.
+* The last stage is the `Offer` stage. (Please refer creating a vacancy or offer approval flow)
 
 **Assignment of hiring team**
 
@@ -136,6 +135,7 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 **Publicizing the vacancy**
 
 * The careers page currently links to a general 'Talent Community' submission, which is not tied to any jobs.
+    * However, a select few NQR jobs have been posted externally (i.e. they are accepting inbound applications).
 * Team Members submit their referrals via an Issue, which mirrors the 'Referral In-Take Questionnaire.' Details about this process can be seen [here](/handbook/hiring/referral-process/)
 * The hiring team may advertise the vacancy through the following sites and is open to posting to more, in order to widely publish a variety of vacancies.
 
