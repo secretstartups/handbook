@@ -47,7 +47,7 @@ Unfiltered is not a consolation prize or the death knell for blog posts! Many Un
 
 As mentioned above, you can publish to Unfiltered as often as you like, get your posts up much faster, and don't need to ensure that they align with our content strategy.
 
-You can learn more about how the Editorial team reviews blog post pitches and considers [where to publish different types of stories in the Editorial team handbook](/handbook/marketing/growth-marketing/content/editorial-team/#what-to-look-for).
+You can learn more about how the Editorial team reviews blog post pitches and considers [where to publish different types of stories in the Editorial team handbook](/handbook/marketing/inbound-marketing/content/editorial-team/#what-to-look-for).
 
 If you are interested in hearing about how Unfiltered posts perform, we share results of Unfiltered blog posts in the Growth Marketing Team Weekly Recap & Demo Day on every last Thursday of the month. The recording is shared after the call, or you can reach out in #growth-mktg if you'd like to join live.
 
@@ -118,7 +118,7 @@ When you are completely finished, assign your MR to another team member for revi
 
 #### If you are asked to review an Unfiltered post
 
-- You might find this [editorial review checklist](/handbook/marketing/growth-marketing/content/editorial-team/#editorial-review-checklist) helpful
+- You might find this [editorial review checklist](/handbook/marketing/inbound-marketing/content/editorial-team/#editorial-review-checklist) helpful
 - Please ensure the `unfiltered` category has been entered in the post frontmatter
 - Please ensure the [disclaimer](#link-to-disclaimer) has been included at the top of the blog post
 - Remove the line `featured: yes` from the frontmatter if present
@@ -130,7 +130,7 @@ Your reviewer may be able to merge your post, but if they don't have maintainer 
 
 ### Featured posts
 
-The Editorial and PR teams will [monitor Unfiltered for blog posts that we may choose to polish and feature on the main blog](/handbook/marketing/growth-marketing/content/editorial-team/#featuring-unfiltered-posts) or develop into contributed articles for other publications. If you publish an Unfiltered post that you think could be a good fit for either of these, feel free to share it in #content.
+The Editorial and PR teams will [monitor Unfiltered for blog posts that we may choose to polish and feature on the main blog](/handbook/marketing/inbound-marketing/content/editorial-team/#featuring-unfiltered-posts) or develop into contributed articles for other publications. If you publish an Unfiltered post that you think could be a good fit for either of these, feel free to share it in #content.
 
 ### Legal disclaimer
 
