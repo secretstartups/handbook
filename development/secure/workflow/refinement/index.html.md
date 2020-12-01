@@ -110,7 +110,7 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 ## Implementation Plan
 
 A list of the steps and the parts of the code that will need to get updated to implement this feature. The implementation plan should also
-call out any responsibilities for other team members or teams. An example: https://gitlab.com/gitlab-org/gitlab/issues/5656#execution
+call out any responsibilities for other team members or teams. An example: [execution plan for a real issue](https://gitlab.com/gitlab-org/gitlab/issues/5656#execution).
 
 The goal of the implementation plan is to spur critical analysis of the issue and have the groomer think through what parts of the application will get touched.
 The implementation plan will also permit other engineers to review the issue and call out any areas of the application that might have dependencies or

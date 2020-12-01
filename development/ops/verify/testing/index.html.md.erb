@@ -25,7 +25,7 @@ The Verify:Testing Group provides automated testing integration into GitLab. We 
 We want software teams to feel confident that the changes they introduce into their code are safe and conformant.
 
 ## Performance Indicators
-We measure the value we contribute by using a [Product Performance Indicator](/handbook/product/metrics/). Our current PI for the Testing group is the [Paid GMAU](/handbook/product/ops-section-performance-indicators/#verifytesting---paid-gmau---count-of-active-paid-testing-feature-users). This is a rolling count of users who have interacted with a paid Testing feature.
+We measure the value we contribute by using a [Product Performance Indicator](/handbook/product/metrics/). Our current PI for the Testing group is the [Paid GMAU](/handbook/product/ops-section-performance-indicators/#verifytesting---paid-gmau---count-of-active-paid-testing-feature-users). This is a rolling count of unique users who have interacted with any paid Testing feature. We count only users interacting with Paid Features, as opposed to users on paid plans using any feature, because our team goal is to drive additional value in the Premium and Ultimate tiers within the Verify Stage.
 
 ### Usage Funnel
 This funnel represents the customer journey and the various means a product manager may apply a Performance Indicator metric to drive a desired behavior in the funnel. This framework can be applied to any of the categories being worked on by Verify:Testing. The current priority is to increase Activation, Retention and Revenue within the [Code Testing and Coverage](/direction/verify/code_testing/) Category.
@@ -33,31 +33,31 @@ This funnel represents the customer journey and the various means a product mana
 ```mermaid
 classDiagram
   Acquistion --|> Activation
-    Acquistion: Awareness
-    Acquistion: Measurement (# of page views on https://docs.gitlab.com/ee/ci/pipelines/settings.html#test-coverage-parsing)
   Activation --|> Retention
-    Activation : Use
-    Activation: Measurement (# of page views of Project Code Coverage Graph)
   Retention --|> Revenue
-    Retention : Continued Use
-    Retention: Measurement (# of projects that have viewed code coverage graph by day)
   Revenue --|> Referral
-    Revenue : Payment
-    Revenue: Measurement (# of projects that have viewed group code coverage graph by day)
   Referral --|> Acquistion
+    Acquistion : Awareness
+    Acquistion : Measurement (page views on test coverage parsing docs)
+    Activation : Use
+    Activation : Measurement (page views of Project Code Coverage Graph)
+    Retention : Continued Use
+    Retention : Measurement (projects that have viewed code coverage graph by day)
+    Revenue : Payment
+    Revenue : Measurement (projects that have viewed group code coverage graph by day)
     Referral : Talk about
-    Referral: Measurement (Insert Metric)
+    Referral : Measurement (TBD)
 ```
 
 ## Team Members
 The following people are permanent members of the Verify:Testing group:
 
-<%= shared_team_members(role_regexps: [/Verify(?!:)/, /Verify:Testing/]) %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
 
 ## Stable Counterparts
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify.*Testing/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
 
 #### JTBD
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/testing/JTBD/#jobs-to-be-done).
@@ -84,9 +84,8 @@ Note: This table will be replaced with an issue filter at a later date.
 
 | Flag name                            | Description                                                                                                                                                                           |
 |:-------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `junit_pipeline_screenshots_view`    | [Docs](https://docs.gitlab.com/ee/ci/junit_test_reports.html#enabling-the-feature-1)                                                                                                  |
+| `junit_pipeline_screenshots_view`    | Disabled by default until the [first front end issue](https://gitlab.com/gitlab-org/gitlab/-/issues/216979) ships. [Docs](https://docs.gitlab.com/ee/ci/junit_test_reports.html#enabling-the-feature-1)                                                                                                  |
 | `ci_limit_test_reports_size`         |                                                                                                                                                                                       |
-| `coverage_report_view` | displays coverage report on merge request diff [Docs](https://docs.gitlab.com/ee/user/project/merge_requests/test_coverage_visualization.html)                                                                                                                     |
 | `anonymous_visual_review_feedback`   | Allows comments to be posted to Merge Requests directly from Visual Review Tools without authentication [Docs](https://docs.gitlab.com/ee/ci/review_apps/#configuring-visual-reviews) |
 
 ## How we work
@@ -98,6 +97,9 @@ Also known as the [Three Amigos](ttps://www.agilealliance.org/glossary/three-ami
 
 #### Release planning issue
 We use a [release planning issue](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/issues/new?issuable_template=ReleasePlan) to plan our release-level priorities over each milestone. This issue is used to highlight deliverables, capacity, team member holidays, and more. This allows team members and managers to see at a high-level what we are planning on accomplishing for each release, and serves as a central location for collecting information.
+
+#### Issue weighting and refinement
+Before issues can be moved from the Planning Breakdown stage into the Ready for Development stage, they must have a weight applied. We use [this table](https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/#weights) to decide what weight an issue should have. We are currently trialing an asynchronous refinement process in lieu of our [Refinement meeting](https://about.gitlab.com/handbook/engineering/development/ops/verify/testing/#testing-group-refinement-meeting). This should help us be more Inclusive, and work more asynchronously. Engineers should take time each week to review the issues that are in [Planning Breakdown](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Atesting&label_name%5B%5D=workflow%3A%3Aplanning+breakdown&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93) for the next milestone and see what they can do to better refine and weight those issues.
 
 #### Technical Investigation
 In the process of refinement we may discover a new feature will require a [blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/doc/workflow.md) or the team feels input from maintainers will help scope down the problem, ensure the feature is performant and/or reduce future technical debt. When this happens the team will create a Technical Investigation issue for the investigation. This issue will be assigned to one team member, that team member should spend no more than 5 days of work time on the investigation (ideally 1 day). They will answer specific questions specified in the Technical Investigation issue before work on the feature is started. This process is analogous to the concept of a [Spike](https://about.gitlab.com/handbook/engineering/development/ops/monitor/#spike).
@@ -117,6 +119,7 @@ Engineering managers apply the `Deliverable` label on issues that meet the follo
 * It is delivering value that is visible to the user
 * It is near the top of the issue board (high priority)
 * The issue is well-defined
+* UX DoD is applied 
 * The issue is weighted
 * The engineering manager believes we have the capacity to complete the work in the assigned milestone
 * The team has accepted the issue into the milestone and moved it to ~"workflow::ready for development" status
@@ -133,6 +136,11 @@ Before the team will accept an issue into a milestone for work it must meet thes
 * Issues labeled with ~feature include a well stated "why" and customer problem
 * Issues labeled ~bug include steps to reproduce
 * Designs are in the design tab if needed
+* If the issue will be worked on by Verify:Testing engineers, it has a [weight](https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/#weights)
+* Design proposal satisfies the [UX Definition of Done (DoD)](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#definition-of-done-for-ux-pilot)
+
+#### Definition of Blocked
+Issues that depend on another issue to be completed before they can be validated on `Canary` are considered blocked, and should have the `~workflow::blocked` label applied. The issues should also be marked as blocked within the [related issues section](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue) of the issues.
 
 #### Follow-up Issues (Trial)
 The team has noticed an uptick in issues created and resolved within a milestone and wants to more easily understand what the nature of these issues are to improve our planning and scheduling capabilities.
@@ -152,6 +160,9 @@ Specifically this means, in order:
 * Then, finally, picking from the top of the `workflow::ready for development` column OR an item the team member investigated to apply the estimated weight if unfamiliar with the top item
 
 The goal with this process is to reduce WIP. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is the **author(s)**, just because we are putting emphasis on the importance of teamwork does not mean we should dilute the fact that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
+
+##### Priority
+Issues in "Planning Breakdown" and "Ready for Development" are in top-to-bottom priority order on the [planning board](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Atesting&milestone_title=%23started). Issues further to the right on the issue board are not in vertical priority order. Rather, the further to the right an issue is on the board, the higher the priority which follows our [_"Pull from the right"_](https://about.gitlab.com/handbook/engineering/development/ops/verify/testing/#starting-new-work) philosophy of working.
 
 #### Code Review
 Code reviews follow the standard process of using the reviewer roulette to choose a reviewer and a maintainer. The roulette is **optional**, so if a merge request contains changes that someone outside our group may not fully understand in depth, it is encouraged that a member of the Verify:Testing team be chosen for the preliminary review to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow Verify:Testing team members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.

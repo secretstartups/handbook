@@ -28,7 +28,7 @@ The following people are permanent members of the Global Search Team:
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Search|Enablement.*Search/, direct_manager_role: 'Backend Engineering Manager, Global Search') %>
+<%= stable_counterparts(role_regexp: /Global Search|Enablement.*Search/, direct_manager_role: 'Backend Engineering Manager, Global Search') %>
 
 ## Meetings
 
@@ -58,10 +58,20 @@ Below are a few guidelines the team follows in the day-to-day work.
 
 ### Advanced Global Search Rollout on GitLab.com
 
-The team has been actively working on enabling Elasticsearch powered Advanced Global Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
+The team has been actively working on enabling Elasticsearch powered Advanced Search on GitLab.com. [Based on our analysis](https://gitlab.com/groups/gitlab-org/-/epics/1736), we set our first target to rolling this feature out for all the paid groups on GitLab.com. You can find more details about the timeline and progress in the links below.
 
-- [Plan of Advanced Global Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
-- [Steps and Enhancements of Advanced Global Search Rollout on GitLab.com](./es-rollout-timeline.html)
+- [Plan of Advanced. Search Rollout on GitLab.com](https://gitlab.com/groups/gitlab-com/-/epics/649)
+- [Steps and Enhancements of Advanced Search Rollout on GitLab.com](./es-rollout-timeline.html)
+
+### Severity Labels for Search Issues (`~advanced search`, `~global search`)
+
+| Type of Operation | `~severity::1` - Blocker | `~severity::2` - Critical | `~severity::3` - Major  | `~severity::4` - Low |
+| Recall Record, Global | Above 10 seconds to timing out | Between 7 and 10 seconds | Between 4 and 7 seconds | Between 2 and 4 seconds |
+| Time until inserted record is recallable | Above 15 minutes | Between 15 and 10 minutes | Between 10 and 5 minutes | Between 3 and 5 minutes|
+
+The two types of operations we detail severity metrics for above are:
+- Recall Record, Global: This is the time it takes to recall a record using a globally scoped search of GitLab.com. Records could be entities such as: projects, users, groups, etc.
+- Time until inserted record is recallable: This is the elapsed time between adding a new record and having that new record be recallable via a search. This process depends on many underlying technologies such as the [Go indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer), [Sidekiq queues](https://docs.gitlab.com/ee/development/elasticsearch.html#how-does-it-work), and the Elasticsearch database.
 
 ### Common Links
 

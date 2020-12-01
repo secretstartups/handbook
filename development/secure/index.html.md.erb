@@ -15,7 +15,7 @@ The secure engineering sub-department is responsible for most of the [secure sta
 erDiagram
     Secure-Stage ||--|{ Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups : contains
     Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups }|--|| Secure-Department : reports-to
-    Defend-Stage ||--|| Container-Security-Group : contains
+    Protect-Stage ||--|| Container-Security-Group : contains
     Threat-Insights-Group  ||--|| Threat-Management-Department: reports-to
     Container-Security-Group ||--|| Threat-Management-Department : reports-to
     Secure-Stage ||--|| Threat-Insights-Group  : contains
@@ -170,7 +170,7 @@ See [Secure Release Process](release_process.html).
 
 #### QA process
 
-Our [release scripts](https://gitlab.com/gitlab-org/security-products/release) project also defines our [QA process](https://gitlab.com/gitlab-org/security-products/release/blob/master/docs/qa_process.md).
+See [QA Process](qa_process.html) for more info.
 
 #### Error Monitoring
 
@@ -179,6 +179,7 @@ Our [release scripts](https://gitlab.com/gitlab-org/security-products/release) p
 - StoreSecurityReports Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+StoreSecurityReportsWorker&statsPeriod=14d
 - SyncSecurityReportsToReportApprovalRules Worker - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+SyncSecurityReportsToReportApprovalRulesWorker&statsPeriod=14d
 - Vulnerabilities - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+vulnerabilities&statsPeriod=14d
+- On-Demand DAST - https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+Dast&statsPeriod=14d
 
 #### Brainstorming sessions
 
@@ -326,10 +327,10 @@ Each month an engineering manager from one of our teams acts as the [DRI](/handb
 
 ### Rotation
 
- * <%= link_to_team_member_by_role('Frontend Engineering Manager, Secure') %> - 13.1
- * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Dynamic Analysis') %> - 13.2
- * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Composition Analysis') %> - 13.3
- * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Static Analysis') %> - 13.4
+ * <%= link_to_team_member_by_role('Frontend Engineering Manager, Secure') %> - 13.5
+ * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Dynamic Analysis, Secure:Fuzz Testing') %> - 13.6
+ * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Composition Analysis') %> - 13.7
+ * <%= link_to_team_member_by_role('Backend Engineering Manager, Secure:Static Analysis') %> - 13.8
 
 **Retro handoff process**
 
@@ -343,7 +344,7 @@ To provide a soft handoff betwen milestones we rely on the current retro DRI to 
 
 - [Secure team board]
 - [#s_secure] in Slack
-- [Secure and Defend Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
+- [Secure and Protect Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
 
 [Secure team board]: https://gitlab.com/groups/gitlab-org/-/boards/588843?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure
 [Secure team retrospectives]: https://gitlab.com/gl-retrospectives/secure/-/issues?scope=all&utf8=%E2%9C%93&state=all

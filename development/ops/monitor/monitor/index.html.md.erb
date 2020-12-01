@@ -1,0 +1,295 @@
+---
+layout: handbook-page-toc
+title: "Monitor Group"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Monitor
+The **Monitor** group at GitLab is responsible for building tools that enable DevOps teams to respond to, triage and remediate errors and IT alerts for the systems and applications they maintain. We work in parallel with the [APM group](/handbook/engineering/development/ops/monitor/apm/), who is responsible for GitLab's suite of application performance monitoring solutions (Logging, Metrics and Tracing). Together, we aim to provide a streamlined Operations experience within GitLab that enables the individuals who write the code, to maintain it at the same time.
+
+## Exciting things and accomplishments
+This section details the happenings within the Monitor group. At any given time this section will have the top three most exiciting things and/or accomplishments of the team.
+
+**We recently experienced a surge in early adopters for the Incident Management category!**  
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10132068, dashboard: 769975, embed: 'v2') %>">
+
+**In 13.5 we added the [Service Level Agreement timer](https://docs.gitlab.com/ee/operations/incident_management/incidents.html#service-level-agreement-countdown-timer) to incidents to help teams manage and meet their Service Level Agreements with their customers.**
+
+**We overhauled all [documentation for Incident Management](https://docs.gitlab.com/ee/operations/incident_management/) to make it better organized and discoverable.**
+
+## Peformance Indicators
+The Monitor Group’s mission is to decrease the frequency and severity of incidents. By helping our users respond to alerts and incidents with a streamlined workflow, and capturing useful artifacts for feedback and improvement, we can accomplish our mission. To get started, we simply want to understand if our product is helping to address some of our customer’s needs. With that in mind, our initial [Product Performance Indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#monitormonitor---other---count-of-projects-where-incidents-are-being-created) is to **increase the total count of incidents within GitLab**. This NSM will inform us if we are on the right path to provide meaningful incident response tools.
+
+We expect to track the journey of users through the following funnel:
+
+```mermaid
+classDiagram
+  Acquisition --|> Activation
+	Acquisition: Are users aware of the product or feature set?
+	Acquisition: Measurement (Count of views of alerts list and incident list)
+  Activation --|> Retention
+	Activation: Are users applying the feature?
+	Activation: Measurement (Count of monthly active users leveraging alerts (Alert MAU))
+  Retention --|> Revenue
+	Retention: Are users applying the feature over time?
+	Retention: Measurement (Count of monthly active users leveraging incidents (Incident MAU))
+  Revenue --|> Referral
+	Revenue: Are users paying for the features?
+	Revenue: Measurement (Count of monthly active users leveraging paid features (Alert endpoints, on-call schedule management, Status Page, etc))
+  Referral --|> Acquistion
+	Referral: Are users encouraging others to use the feature?
+	Referral: Measurement (In App referrals for setting up alert and incident management in other projects)
+```
+
+## Snowplow Events
+Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor categories.
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 9813568, dashboard: 737489, embed: 'v2') %>">
+
+This chart looks for the Snowplow categories the Monitor team has created. Currently, the Monitor team has added `Alert Management` and `Error Tracking`.
+If any additional categories get added, please amend this page and edit the Sisense chart accordingly.
+
+## Communication
+
+- Slack channel: [#s_monitor](https://gitlab.slack.com/archives/C1ZCCRWBC)
+- Slack alias: [@monitor-group](https://app.slack.com/client/T02592416/C0259241C/user_groups/SLFUX86HF)
+- All of our team meetings are on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Our Google groups are organized like this:
+  - [Monitor Group](mailto:monitor-group@gitlab.com) (whole team)
+    - [monitor-be](mailto:monitor-be@gitlab.com) (backend team)
+    - [monitor-fe](mailto:monitor-fe@gitlab.com) (frontend team)
+
+## Team members
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Monitor:Monitor') %>
+
+## Stable counterparts
+
+<%= stable_counterparts(role_regexp: /Monitor/, direct_manager_role: 'Backend Engineering Manager, Monitor:Monitor', other_manager_roles: ['Engineering Manager, Monitor:Monitor', 'Frontend Engineering Manager, Monitor']) %>
+
+## Responsibilities
+{: #monitoring}
+
+This team maps to the [Monitor Group](/handbook/product/product-categories/#monitor-group) category and focuses on:
+* Incident Management
+* Error Tracking
+* Synthetic monitoring
+* Self-monitoring
+* Metrics
+* Logging
+* Tracing
+
+
+## Repos we own or use
+* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
+* [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee) - Where much of the user facing code lives
+* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
+
+## Issue boards
+
+* [Monitor - Planning](https://gitlab.com/groups/gitlab-org/-/boards/1131777) - Main board with all issues scoped to label "group::monitor"
+* [Monitor - Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1160198) - Issue board organized by workflow labels
+* [Charts](https://gitlab.com/groups/gitlab-org/-/boards/1184016) - Issue board with all issues labeled "Charts"
+* [Monitor Bugs](https://gitlab.com/groups/gitlab-org/-/boards/979406) - Issue board organized by Priority labels so that we make sure we meet our bug fix SLA
+
+## Experiments
+
+### Issue refinement process
+
+> Note: Started in 13.1 milestone.
+
+#### Context
+It is pretty common for issues that were assigned and/or picked up by engineer(s) to have the `workflow::ready for development` label but not be actionable or ready for development. Sometimes, this is because the scope of the issue is unclear or follow up questions and answers are needed in order to get started. Depending on an engineer(s) timezone relative to other team members (with answers to the questions), an issue could take several working days before an engineer is able to start working on the issue. This additional "waiting time" before being able to start on an issue can be inefficient; especially in the beginning of the milestone. This is because there are more issues assigned and/or picked up in the beginning of a milestone which creates a bottleneck before development can begin. We call this "waiting time", issue refinement.
+
+#### Hypothesis
+By distributing the work of refining issues to a point where issues are actionable when the `workflow::ready for development` label is set throughout the milestone we can become more efficient with engineer(s) development time, which will lead to higher MR rate.
+
+#### Process
+For this experiment, we will have a new column on our current milestone issue board called `workflow::refinement`. Engineering manager(s) will work with the PM to determine which issues should be placed in that column. Engineer(s) are expected to refine 1-2 issues per milestone.
+
+When an engineer is ready to refine an issue, the engineer should:
+1. Assign themselves to the issue
+1. Refine the issue. Ask clarify questions. Make the issue truly actionable when the next engineer picks up the issue.
+   1. If an issue's scope is too big, consider promoting the issue into an epic and create issues for each iteration (and link the issues back to the epic)
+1. After an issue (or the broken down issues) are actionable:
+   1. Change the workflow label to `workflow::ready for development`
+   1. Add the label `refined`
+   1. Change the milestone of the issue to `%backlog`
+   1. Unassign themselves
+
+## Development Processes
+
+### Surfacing blockers
+
+To surface blockers, mention your Engineering Manager in the issues, and then contact them via slack and or 1:1's. Also make sure to raise any blockers in your daily async standup using Geekbot.
+
+The engineering managers want to make unblocking their teams their highest priority. Please don't hesitate to raise blockers
+
+### Scheduling
+
+#### Scheduling issues in milestones
+
+The Product Manager is responsible for scheduling issues in a given milestone. During the backlog refinement portion of our weekly meeting, all parties will make sure that issues are scoped and well-defined enough to implement and whether they need UX involvement and/or technical investigation.
+
+As we approach the start of the milestone, Engineering Managers are responsible for adding the ~deliverable label to communicate which issues we are committing to finish in the given milestone. Generally, the Engineering Manager will use the prioritized order of issues in the milestone to determine which issues to label as ~deliverable. The Product Manager will have follow-up conversations with the Engineering Managers if the deliverables do not meet their expectations or if there are other tradeoffs we should make.
+
+#### Estimating
+
+We use the following values for estimating the effort of issues to help determine our capacity during the planning process.
+
+- **XS**: 1 to 2 days to merge
+- **S**: 2 days to a week to merge
+- **M**: 1 to 2 weeks to merge
+- **L**: 2 weeks to 1 cycle to merge
+- **XL**: Bigger than 1 cycle (needs to be broken down further)
+
+#### Scheduling bugs
+
+When new bugs are reported, the engineering managers ensure that they have proper Priority and Severity labels. Bugs are discussed during backlog refinement session and are scheduled according to severity, priority, and the capacity of the teams. Ideally, we should work on a few bugs each release regardless of priority or severity.
+
+#### Scheduling technical debt
+
+As new technical debt issues are created, the engineering manager and product manager will triage, prioritize and schedule these issues on a weekly basis using the [Monitor - Tech Debt board](https://gitlab.com/groups/gitlab-org/-/boards/2120893).  Issues with a P1 or P2 will be scheduled during milestone planning.  When new issues are created by Monitor team members, add any relevant context to the description about the priority or timing of the issue, as this will help streamline the triage work.
+
+Priorities for scheduling technical debt will apply as follows:
+- **P1**: Interrupt the current milestone or schedule in the next milestone
+- **P2**: Schedule in the next 1-2 milestones
+- **P3**: To be scheduled at a later date
+- **P4**: Backlog, awaiting higher demand
+
+### Weekly async issue updates
+
+Every Friday, each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
+
+```
+<!---
+Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
+- ~"workflow::In dev"
+- ~"workflow::In review"
+- ~"workflow::verification"
+- ~"workflow::blocked"
+-->
+### Async issue update
+1. Please provide a quick summary of the current status (one sentence).
+1. When do you predict this feature to be ready for maintainer review?
+1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
+```
+
+We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
+
+### Interacting with community contributors
+
+Community contributions are encouraged and prioritized at GitLab. Please check out the [Contribute page](/community/contribute/) on our website for guidelines on contributing to GitLab overall.
+
+Within the Monitor stage, Product Management will assist a community member with questions regarding priority and scope. If a community member has technical questions on implementation, Engineering Managers will connect them with engineers within the team to collaborate with.
+
+### Using spikes to inform design decisions
+
+Engineers use spikes to conduct research, prototyping, and investigation to gain knowledge necessary to reduce the risk of a technical approach, better understand a requirement, or increase the reliability of a story estimate (paraphrased from [this overview](https://www.scaledagileframework.com/spikes/)). When we identify the need for a spike for a given issue, we will create a new issue, conduct the spike, and document the findings in the spike issue. We then link to the spike and summarize the key decisions in the original issue.
+
+### Assigning MRs for code review
+
+Engineers should typically ignore the suggestion from [Dangerbot's](https://docs.gitlab.com/ee/development/dangerbot.html) Reviewer Roulette and assign their MRs to be reviewed by a [frontend engineer](https://about.gitlab.com/company/team/?department=monitor-fe-team) or [backend engineer](https://about.gitlab.com/company/team/?department=monitor-be-team) from the Monitor stage. If the MR has domain specific knowledge to another team or a person outside of the Monitor Stage, the author should assign their MR to be reviewed by an appropriate domain expert. The MR author should use the Reviewer Roulette suggestion when assigning the MR to a maintainer.
+
+Advantages of keeping most MR reviews inside the Monitor Stage include:
+
+* Quicker reviews because the reviewers hopefully already have the context and don't need additional research to figure out how the MR is supposed to work.
+* Knowledge sharing among the engineers in the Monitor Stage. There is a lot of overlap between the groups in the stage and this effort will help engineers maintain context and consistency.
+
+### Preparing UX designs for engineering
+
+Product designers generally try to work one milestone ahead of the engineers, to ensure scope is defined and agreed upon before engineering starts work. So, for example, if engineering is planning on getting started on an issue in 12.2, designers will assign themselves the appropriate issues during 12.1, making sure everything is ready to go before 12.2 starts.
+
+To make sure this happens, early planning is necessary. In the example above, for instance, we'd need to know by the end of 12.0 what will be needed for 12.2 so that we can work on it during 12.1. This takes a lot of coordination between UX and the PMs. We can (and often do) try to pick up smaller things as they come up and in cases where priorities change. But, generally, we have a set of assigned tasks for each milestone in place by the time the milestone starts so anything we take on will be in addition to those existing tasks and dependent on additional capacity.
+
+The current workflow:
+
+* Though Product Designers make an effort to keep an eye on all issues being worked on, PMs add the UX label to specific issues needing UX input for upcoming milestones.
+
+* The week before the milestone starts, the Product Designers divide up issues depending on interest, expertise and capacity.
+
+* Product Designers start work on assigned issues when the milestone starts. We make an effort to start conversations early and to have them often. We collaborate closely with PMs and engineers to make sure that the proposed designs are feasible.
+
+* In terms of what we deliver: we will provide what's needed to move forward, which may or may not include a high-fidelity design spec. Depending on requirements, a text summary of the expected scope, a balsamiq sketch, a screengrab or a higher fidelity measure spec may be provided.
+
+* When we feel like we've achieved a 70% level of confidence that we're aligned on the way forward, we change the label to ~'workflow::ready for development' as a sign that the issue is appropriately scoped and ready for engineering.
+
+* We usually stay assigned to issues after they are ~'workflow::ready for development' to continue to answer questions while the development process is taking place.
+
+* Finally, when development is complete, we conduct UX Reviews on the MRs to ensure that what's been implemented matches the spec.
+
+## Repos we own or use
+* [Prometheus Ruby Mmap Client](https://gitlab.com/gitlab-org/prometheus-client-mmap) - The ruby Prometheus instrumentation lib we built, which we used to instrument GitLab
+* [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee) - Where much of the user facing code lives
+* [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) and [Charts](https://gitlab.com/charts/charts.gitlab.io), where a lot of the packaging related work goes on. (We ship GitLab fully instrumented along with a Prometheus instance)
+
+## Service accounts we own or use
+
+### Zoom sandbox account
+
+In order to develop and test Zoom features for the [integration with GitLab](https://gitlab.com/groups/gitlab-org/-/epics/1439) we now have our own Zoom sandbox account.
+
+#### Requesting access
+
+To request access to this Zoom sandbox account please open [an issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) providing your **non-GitLab email address** (which can already be associated an existing non-GitLab Zoom account).
+
+The following people are owners of this account and can [grant access](https://zoom.us/account/user) to other [GitLab Team Members](/handbook/communication/top-misused-terms):
+
+* [Andrew Newdigate](https://gitlab.com/andrewn)
+* [Peter Leitzen](https://gitlab.com/splattael)
+* [Allison Browne](https://gitlab.com/allison.browne)
+
+#### Granting access
+
+1. Log in to [Zoom](http://zoom.us/) with your non-GitLab email
+1. Go to [**User Management > Users**](https://zoom.us/account/user)
+1. Click on `Add User`
+1. Specify email addresses
+1. Choose `User Type` - most likely `Pro`
+1. Click `Add` - the users receive invitations via email
+1. Add the linked name to [the list in "Requesting access"](#requesting-access)
+
+#### Documentation
+
+For more information on how to use Zoom see theirs [guides](https://marketplace.zoom.us/docs/guides) and [API reference](https://marketplace.zoom.us/docs/api-reference/introduction).
+
+## Recurring Meetings
+While we try to keep our process pretty light on meetings, we do hold a [Monitor:Monitor Backlog Refinement](https://docs.google.com/document/d/1YWpzwlLVvciuHlpT1ALfixMHRYcWt7oqD4HftkVE5w8/edit#) meeting weekly to triage and prioritize new issues, discuss our upcoming issues, and uncover any unknowns.
+
+## Labels
+The Monitor team uses labels for issue tracking and to organize issue boards.  Many of the labels we use also drive reporting for Product Management and Engineering Leadership to track delivery metrics.  It's important that labels be applied correctly to each issue so that information is easily discoverable.
+
+### Issue Labels
+
+|                | Label                             | Required            | Description                                               |
+|----------------|-----------------------------------|---------------------|-----------------------------------------------------------|
+| **Stage**      | `~devops::monitor`                | Yes                 | Identifies which stage of GitLab an issue is assigned to. |
+| **Group**      | `~group::monitor`                  | Yes                 | Identifies which team this issue belongs to. This triggers new issues to appear in the weekly triage report for the team's Product and Engineering managers. |
+| **Team**       |                                   | Yes                 | Identifies which team (or both) will develop a solution. |
+|                | `~frontend`                       |                     |                                                            |
+|                | `~backend`                        |                     |                                                            |
+| **Milestone**  | %#.##                             | No                  | While technically not a label, if the issue is being worked on immediately, add the current milestone.  If you know when the issue needs to be scheduled (such as follow-up work), add the future milestone that it should be scheduled in.  Otherwise, leave it empty. |
+| **Priority**   |                                   | Yes, when scheduled | If an issue is scheduled in the current milestone it mush have a `~deliverable` or `~filler` label. |
+|                | `~deliverable`                    |                     | Issues committed to being completed in the current milestone.  |
+|                | `~filler`                         |                     | Issues which are not committed in the current milestone. These are typically either stretch goals, technical debt or non-customer facing. |
+| **Issue Type** |                                   | Yes                 | |
+|                | `~feature`                        |                     | [Feature Issues](/handbook/product/product-processes/#feature-issues) |
+|                | `~bug`                            |                     | [Bug Issues](/handbook/product/product-processes/#bug-issues) |
+|                | `~technical debt`                 |                     | [Technical Debt](/handbook/product/product-processes/#feature-issues) |
+| **Workflow**   |                                   | Yes                 | |
+|                | `workflow::refinement`            |                     | Issues that need further input from team members in order for it to be `workflow::ready for development`. |
+|                | `workflow::blocked`               |                     | Waiting on external factors or another issue to be completed before work can resume. |
+|                | `workflow::ready for development` |                     | The issue is refined and ready to be scheduled in a current or future milestone. |
+|                | `workflow::in dev`                |                     | Issues that are actively being worked on by a developer. |
+|                | `workflow::in review`             |                     | Issues that are undergoing code review by the development team. |
+|                | `workflow::verification`          |                     | Everything has been merged, waiting for verification after a deploy. |
+
+### Deliverable Labels
+In our group, the (frontend + backend) engineering managers are responsible for adding the `~deliverable` label to any issues that the team is publicly stating that to the best of their ability, they expect that issue to be completed in that milestone. We are not perfect but our goal is that 100% of the issues with that label do ship in the release that they are scheduled in. This allows engineering to share what issues they commit to and helps set expectations for the product manager and for the community.
+
+## Monitor Stage PTO
+Just like the rest of the company, we use [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to track when team members are traveling, attending conferences, and taking time off. The easiest way to see who has upcoming PTO is to run the `/pto-roots whosout` command in the `#g_monitor_standup` slack channel. This will show you the upcoming PTO for everyone in that channel.

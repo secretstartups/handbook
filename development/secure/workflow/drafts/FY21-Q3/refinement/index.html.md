@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure Engineering Refinement
+canonical_path: "/handbook/engineering/development/secure/workflow/refinement/"
 ---
 
 ## On this page

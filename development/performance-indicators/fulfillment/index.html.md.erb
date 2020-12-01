@@ -1,0 +1,111 @@
+---
+layout: handbook-page-toc
+title: "Fulfillment Section Performance Indicators"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Performance Indicators
+
+These charts show metrics filtered for the [Fulfillment sub-department](/handbook/engineering/development/fulfillment).
+
+### Development Indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["fulfillment","purchase","provision"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+### Quality indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "stage", value: ["fulfillment"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+### UX indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "stage", value: ["fulfillment"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+### Provision group
+
+#### Provision group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "provision"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+#### Provision group quality indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "team_group", value: ["provision"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+#### Provision group UX indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "team_group", value: ["provision"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+### Purchase group
+
+#### Purchase group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "purchase"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+#### Purchase group quality indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736012, embed: 'v2', filters: [{name: "team_group", value: ["purchase"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
+
+#### Purchase group UX indicators
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "team_group", value: ["purchase"]}]}) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>

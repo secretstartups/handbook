@@ -13,9 +13,12 @@ title: "Enablement Sub-department Performance Indicators"
 
 These charts show metrics filtered for the [Enablement sub-department](/handbook/engineering/development/enablement).
 
+### Development Indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
+
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "sub_department", value: "Enablement"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "sub_department", value: "enablement"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -35,7 +38,7 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "development_section", value: ["defend"]}]}) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 736036, embed: 'v2', filters: [{name: "development_section", value: ["protect"]}]}) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -44,10 +47,11 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 ### Distribution group
 
 #### Distribution group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Distribution"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "distribution"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -76,10 +80,11 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 ### Geo group
 
 #### Geo group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Geo"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "geo"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -108,10 +113,11 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 ### Memory group
 
 #### Memory group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Memory"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "memory"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -140,10 +146,11 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 ### Global Search group
 
 #### Global Search group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Global Search"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "global search"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -172,10 +179,11 @@ These charts show metrics filtered for the [Enablement sub-department](/handbook
 ### Database group
 
 #### Database group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Database"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "database"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>

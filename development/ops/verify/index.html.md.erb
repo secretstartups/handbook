@@ -28,11 +28,22 @@ The Verify stage is made up of 4 groups:
 1. [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 1. [Verify:Testing](/handbook/engineering/development/ops/verify/testing/)
 
+### Continuous Integration and Pipeline Authoring Collaboration
+
+Pipeline Authoring and Continuous Integration are closely related but they also represent different stages in the cycle of a user's interaction with a pipeline. At a very high-level, this image illustrates the main focus of each group and how they can both support a better pipeline experience.
+
+![Verify Groups](/images/handbook/engineering/verify/verify_groups_banner.jpg)
+
+
 ### Verify:Continuous Integration
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', role_regexp: /Continuous Integration/) %>
 
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Continuous Integration/) %>
+
 ### Verify:Pipeline Authoring
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', role_regexp: /Pipeline Authoring/) %>
+
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Authoring/) %>
 
 ### Verify:Runner
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Runner') %>
@@ -40,8 +51,6 @@ The Verify stage is made up of 4 groups:
 ### Verify:Testing
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
 
-### Verify Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify') %>
 
 ## How we work
 
@@ -54,15 +63,48 @@ Each group in Verify is encouraged to define their own process based on what wor
 
 ### Decoupled project management
 
-Many of the groups in CI/CD have separate Frontend and Backend Engineering Managers. Given each group's ability to define their own process, groups may also consider decoupling project management functions from people management functions. 
+Many of the groups in CI/CD have separate Frontend and Backend Engineering Managers. Given each group's ability to define their own process, groups may also consider decoupling project management functions from people management functions.
 
-For example, a group's managers could determine that one of them will be the DRI for a given project, or the entire group. That individual would then be responsible for planning for the whole team, instead of splitting the planning responsiblity between two managers which requires extra coordination. 
+For example, a group's managers could determine that one of them will be the DRI for a given project, or the entire group. That individual would then be responsible for planning for the whole team, instead of splitting the planning responsiblity between two managers which requires extra coordination.
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Senior Manager, Engineering, Verify') %>
+<%=
+role_regexp = /[,&] Verify/
+direct_manager_role = 'Senior Manager, Engineering, Verify'
+other_manager_roles = [
+  'Frontend Engineering Manager, Verify',
+  'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring',
+  'Backend Engineering Manager, Verify:Runner',
+  'Backend Engineering Manager, Verify:Testing'
+
+]
+stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
+%>
+
+## Verify Engineering Update Newsletter
+
+Every two weeks the Verify Engineering Update Newsletter is set out to an opt-in subscriber list. The purpose of the email is to share recent highlights from the Verify stage so folks will have a better idea of what is happening on other teams, and provide new opportunities for learning and collaboration.
+
+Everyone is welcome to sign up or view previous issue on the [newsletter page](https://www.getrevue.co/profile/verify-engineering-update).
+
+Each issue of the newsletter is planned using individual issues linked in the [newsletter epic](https://gitlab.com/groups/gitlab-com/-/epics/1148). Content is generally contributed by managers, but everyone is encouraged to contribute topics for the newsletter.
+
+## Verify Technical Discussions
+
+Verify Technical Discussions is a Zoom meeting hosted bi-weekly by Verify Team. Everyone is invited, however paricipation of Verify stage members is especially encouraged.
+
+During the meeting we discus a variety of technical aspects related to the Verify stage roadmap.
+
+Everyone can add their points to the [agenda document](https://docs.google.com/document/d/1SEydi30hYjqZ5ellZgwcijUesRnWjQVd___h3J9SSKY).
+
+Below you can find a table with links to recordings of Verify Technical Discussions and Technical Deep Dives.
+
+| Date       | Title                                                          | Recording                                 |
+|------------|----------------------------------------------------------------|-------------------------------------------|
+| 2020-11-19 | Technical Deep Dive - Cloud Native Build Logs feature overview | [Recording](https://youtu.be/Fq1ecmb_zk0) |
 
 ## Common Links
 

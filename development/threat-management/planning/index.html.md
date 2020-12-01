@@ -121,6 +121,8 @@ The goal of the refinement process is to:
     *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
 1. Assign a [weight](#weights).
     * If the issue requires both frontend and backend work, it should be split and weighed independently.
+1. Determine if [a feature flag is needed](https://docs.gitlab.com/ee/development/feature_flags/process.html#when-to-use-feature-flags).
+    * If you think that we should use the feature flag for a given issue, add ~"feature flag" label and add in the description a section called **Feature Flag** with the proposed name.
 1. Encourage Community Contributions.
     *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
     * The `~"Good for 1st time contributors"` label is particularly helpful but note that you would
@@ -209,8 +211,8 @@ have dependencies or been overlooked.
 The issue verification should be done by someone else other than the MR author[^4].
 
 1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
-1. After the engineer has received the notification and verified their work in staging, they should move the issue into the staging status, indicated by the `~workflow:staging` or `~workflow:production` label, unassign themselves from the issue.
-1. At some consistent intervals, engineers should check the `~workflow:staging`/`~workflow:production` status and verify other engineer's work.
+1. After the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed, and unassign themselves from the issue.
+1. At consistent intervals, engineers should check for issues with the `~workflow:verification` status and verify other engineer's work.
 1. An issue can be closed once it has been verified in production.
 
 [^4]: When the engineer who writes the code is the only one verifying it, it increases the chance of defects getting into production because when that engineer tests in a new environment, they are likely to try all the same attempts to break it as they did during writing the code, which does not bring any value. If a person who did not write the code verifies the resolution in a deployed environment, they will come in with a different perspective and is more likely to cover more test cases.

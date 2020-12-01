@@ -10,10 +10,11 @@ title: "Manage stage Performance Indicators"
 {:toc .hidden-md .hidden-lg}
 
 ## Manage stage development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Access", "Compliance", "Import", "Analytics"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["access", "compliance", "import", "analytics"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -42,10 +43,11 @@ title: "Manage stage Performance Indicators"
 ### Access group
 
 #### Access group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Access"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["access"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -71,19 +73,20 @@ title: "Manage stage Performance Indicators"
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-### Analytics group
+### Value Stream Management group
 
-#### Analytics group development indicators
+#### Value Stream Management group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Analytics"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["analytics"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-#### Analytics group quality indicators
+#### Value Stream Management group quality indicators
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
@@ -93,7 +96,7 @@ title: "Manage stage Performance Indicators"
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
 
-#### Analytics group UX indicators
+#### Value Stream Management group UX indicators
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
@@ -106,10 +109,11 @@ title: "Manage stage Performance Indicators"
 ### Compliance group
 
 #### Compliance group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Compliance"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["compliance"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -138,10 +142,11 @@ title: "Manage stage Performance Indicators"
 ### Import group
 
 #### Import group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["Import"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="575" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: ["import"]}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>

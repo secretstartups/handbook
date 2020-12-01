@@ -13,9 +13,11 @@ title: "Secure Sub-department Performance Indicators"
 
 These charts show metrics filtered for the [Secure sub-department](/handbook/engineering/development/secure).
 
+### Development Indicators
+
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "sub_department", value: "Secure"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "sub_department", value: "secure"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -44,10 +46,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Static Analysis group
 
 #### Static Analysis group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Static Analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "static analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -76,10 +79,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Dynamic Analysis group
 
 #### Dynamic Analysis group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Dynamic Analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "dynamic analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -108,10 +112,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Composition Analysis group
 
 #### Composition Analysis group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Composition Analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "composition analysis"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -140,10 +145,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Fuzz Testing group
 
 #### Fuzz Testing group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Fuzz Testing"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "fuzz testing"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -172,10 +178,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Threat Insights group
 
 #### Threat Insights group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Threat Insights"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "threat management"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
@@ -204,10 +211,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 ### Vulnerability Research group
 
 #### Vulnerability Research group development indicators
+(<a href="https://app.periscopedata.com/app/gitlab/681347/MR-Metrics-by-Organization" target="_blank">Sisense↗</a>)
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "Vulnerability Research"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
+    <embed width="100%" height="750" src="<%= signed_periscope_url({ dashboard: 681347, embed: 'v2', filters: [{name: "group_", value: "vulnerability research"}], visible: ["sub_department", "group_", "technology_group"] }) %>">
   </div>
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>

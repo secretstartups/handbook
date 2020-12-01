@@ -1,0 +1,129 @@
+---
+layout: handbook-page-toc
+title: Growth:Conversion Group
+description: "The Growth:Conversion group works on feature enhancements and growth experiments across GitLab projects"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Conversion Group is part of the [Growth Sub-department]. We work on [connecting our users with our product value](/direction/growth/).
+
+* I have a question. Who do I ask?
+
+Questions should start by @ mentioning the Product Manager for the [Conversion group](/handbook/product/product-categories/#conversion-group)
+or creating a new issue in the Growth Product [Conversion issues] list.
+
+## How we work
+
+* We're data savvy
+* In accordance with our [GitLab values]
+* Transparently: nearly everything is public
+* We get a chance to work on the things we want to work on
+* Everyone can contribute; no silos
+
+### Prioritization
+
+Prioritization is a collaboration between Product, UX, Data, and Engineering.
+
+* We use the [ICE framework](/direction/growth/#growth-ideation-and-prioritization) for experiments.
+* We use [Priority](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels)
+and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
+
+### Workflow
+
+We use the [Product Development workflow](/handbook/product-development-flow/) when working on issues and
+merge requests across multiple projects.
+
+While not all of the work we do relates to the GitLab project directly, we use
+[milestones](https://docs.gitlab.com/ee/user/project/milestones/) to track `Deliverables` and other enhancements.
+
+#### Overview
+
+| Board | Description |
+| ------ | ------ |
+| [Planning] |  This board shows Conversion team work that has been allocated to a particular milestone. |
+| [Deliverables] | A subset of the milestone board shows issues the Product Manager has determined to be `Deliverables`. |
+
+#### Working boards
+
+* The validation track is where the Product Manager - usually in collaboration with `UX` - defines what the team should aim to deliver. Once complete, the Product Manager will move to `workflow::planning breakdown` (larger issues) or straight to `workflow::scheduling` for Engineering to pick up. If there is no Engineering input required the issue can be closed.
+* The Conversion Engineering group (`group::conversion`) schedules issues for development in the build phase, based on the Product Managers priorities. For `bugs` and `security issues`, [Priority](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) and Severity labels will have been added by the Product Manager.
+* Combined workflow board shows the combined workflow including validation and build tracks.
+
+| Board | GitLab.org | GitLabServices |
+| ----- | ---        | ---            |
+| Validation (PM/UX) | [All](https://gitlab.com/groups/gitlab-org/-/boards/1506660?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aconversion) | [All](https://gitlab.com/groups/gitlab-services/-/boards/1687029?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
+| Build (Eng) | [All](https://gitlab.com/groups/gitlab-org/-/boards/1506701?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aconversion) | [All](https://gitlab.com/groups/gitlab-services/-/boards/1436668?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
+| Combined Workflow | [All](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [All](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
+
+The above boards can be filtered by milestone to provide additional context around priority.
+For example a `priority::3` security issue ([due within 90 days](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues))
+will be added to one of the next 3 milestones by the Engineering team during the `workflow::scheduling` stage to ensure that SLA is met.
+
+### UX
+The Growth UX team has a [handbook page](/handbook/engineering/ux/stage-group-ux-strategy/growth/) which includes [Growth specific workflows](/handbook/engineering/ux/stage-group-ux-strategy/growth/#how-we-work).
+
+## Team Members
+
+The following people are permanent members of the Growth:Conversion team:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion', role_regexp: /(Growth:Conversion)/) %>
+
+### Group members
+
+We work directly with the following people in the Growth:Conversion group:
+
+<%=
+other_manager_roles = ['Director of Engineering, Growth']
+direct_managers_role = 'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
+roles_regexp = /Conversion/
+
+stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
+%>
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Activation](/handbook/engineering/development/growth/activation/)
+* [Adoption](/handbook/engineering/development/growth/adoption/)
+<!-- [Conversion](/handbook/engineering/development/growth/conversion/) -->
+* [Expansion](/handbook/engineering/development/growth/expansion/)
+* [Product Analytics](/handbook/engineering/development/growth/product-analytics/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
+
+## Conversion Links
+* `#g_conversion` in [Slack](https://gitlab.slack.com/archives/g_conversion) (GitLab internal)
+* [Conversion issues]
+
+## Common Links
+
+* [Growth sub-department]
+* [Growth issues board]
+* `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
+* [Growth Performance Indicators]
+* [Growth opportunities]
+* [Growth meetings and agendas]
+* [GitLab values]
+
+[Conversion issues]: https://gitlab.com/gitlab-org/growth/product/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aconversion
+
+[Growth sub-department]: /handbook/engineering/development/growth/
+[Growth issues board]: https://gitlab.com/groups/gitlab-org/-/boards/1158847
+[Growth Performance Indicators]: /handbook/engineering/development/performance-indicators/growth/
+[Growth opportunities]: https://gitlab.com/gitlab-org/growth/product
+[Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
+[GitLab values]: /handbook/values/
+
+[Planning]: https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion
+[Deliverables]: https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion&label_name[]=Deliverable
+[Growth:Conversion Validation track]: https://gitlab.com/groups/gitlab-org/-/boards/1506660?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aconversion
+[Growth:Conversion Build track]: https://gitlab.com/groups/gitlab-org/-/boards/1506701?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=devops%3A%3Agrowth&label_name%5B%5D=group%3A%3Aconversion
+[Growth:Conversion Workflow]: https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion

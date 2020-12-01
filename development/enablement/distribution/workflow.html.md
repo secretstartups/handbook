@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Workflow"
+description: "Overview of how work is performed by Distribution Engineers, for Omnibus, Helm and other Engineering projects."
 ---
 
 ## On this page
@@ -97,3 +98,12 @@ very urgent can be safely reprioritised due to previous experiences.
 
 Any of the other projects in teams responsibility do not have a specific process assigned. The items not directly in any of the two above projects
 will be assigned directly and deadlines set by the EM.
+
+## Iteration
+
+Use iteration to better control scope and deliver measurable value in each release. A timebox measurement process would ensure that if expected progress isn’t achieved, there’s a procedure to follow. 
+
+* If a project goes more than 2 milestones without delivering on the success criteria within the defined MVC/issue, a detailed evaluation/retrospective should be performed.
+* If the project goes 3 milestones without meeting success criteria, then a larger evaluation should be performed with the section leaders.
+
+The goal is to catch scope creep, ensure we are iterating in ways that deliver measurable value, and establish circuit breakers to address earlier as needed.

@@ -31,7 +31,7 @@ The monitoring team is responsible for:
 
 This stage consists of the following group:
 
-- [Health](health/)
+- [Monitor](monitor/)
 
 Previously the stage also had this group:
 
@@ -52,15 +52,15 @@ This stage is only successful when each team member collaborates to make one ano
 
 # Communication
 
-- Slack Channels: 
+- Slack Channels:
   - [#s_monitor](https://gitlab.slack.com/archives/C1ZCCRWBC)
   - [#s_monitor_social](https://gitlab.slack.com/archives/CKBT6SS4F)
 - All of our team meetings are on our [Monitor Stage team calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xbGMyZHFpbjFoMXQ2MHFoNnJmcjJjZTE5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Our Google groups are organized like this:
   - [Monitor Stage](mailto:monitor-stage@gitlab.com)
-    - [Monitor Health](mailto:monitor-health-group@gitlab.com)
-      - [monitor-health-be](mailto:monitor-health-be@gitlab.com)
-      - [monitor-health-fe](monitor-health-fe@gitlab.com)
+    - [Monitor Group](mailto:monitor-group@gitlab.com)
+      - [monitor-be](mailto:monitor-be@gitlab.com)
+      - [monitor-fe](monitor-fe@gitlab.com)
 
 # Rhythms
 
@@ -85,7 +85,7 @@ Since GitLab releases on a monthly basis, we have supporting activities that als
   - Deliverables that are not closed by the 18th will have their milestones moved to the next milestone and marked `missed-deliverable`
   - Assigned filler issues that are `workflow::in dev`, `workflow::in review` or `workflow::verification` will be moved to the next milestone
     - Filler issues that do not fall into the above categories will be moved to the backlog
-  - After all the issues associated to that milestone are moved, we remove that milestone column from their planning boards: [Health](https://gitlab.com/groups/gitlab-org/-/boards/1131777))
+  - After all the issues associated to that milestone are moved, we remove that milestone column from their planning boards: [Monitor](https://gitlab.com/groups/gitlab-org/-/boards/1131777))
 1. A few days prior to the last date of the milestone, **engineers are assigned to Deliverables**.
   - Engineering managers will assign engineers to deliverables
   - Assignment of deliverables help set a clear DRI
@@ -136,11 +136,11 @@ Our questions change depending on the day of the week. Participation is optional
 ## Code ownership expression
 
 To emphasize code ownership (which is aligned with [organization-wide efforts](https://gitlab.com/gitlab-org/gitlab/-/issues/212156)) and help identify domain expertise for parts of the codebase that are developed by the Monitor stage. We place every new feature into a dedicated top-level namespace. Names used for these namespaces are derived from [product categories](/handbook/product/categories/#hierarchy).
-Such an approach helps us to communicate better not only between the engineers but also with other peers since used terms are well known across the organization.      
+Such an approach helps us to communicate better not only between the engineers but also with other peers since used terms are well known across the organization.
 
 ### Special cases
 
-1. Code placed under `lib/` directory, in this case, all code which can not be run alone outside of the GitLab repository, should be at first placed under `Gitlab` top-level namespace, and after that in the product category subnamespace.  
+1. Code placed under `lib/` directory, in this case, all code which can not be run alone outside of the GitLab repository, should be at first placed under `Gitlab` top-level namespace, and after that in the product category subnamespace.
 1. Because Rails framework defines routing based on controllers namespaces using product category as a top-level namespace can mislead users that those features are independent of `Project` or `Group` scope which is rarely a case. To address that one should place controller accordingly to the feature scope (`Project` or `Group`) and then in category subnamespace.
 1. API entries should follow general layer separation convention same as models, controllers, etc do, therefore API code should be placed under `lib/api` directory. That enforces this code will have `API` top-level namespace, and after that should come product category subnamespace.
 
@@ -148,7 +148,7 @@ Such an approach helps us to communicate better not only between the engineers b
 
 #### Cases where namespace was selected properly
 
-1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](/handbook/product/product-categories/#health-group) product category.
+1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](/handbook/product/product-categories/#monitor-group) product category.
 1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
 1. Model: [`Metrics::Dashboard::Annotation`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/dashboard/annotation.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
 1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.

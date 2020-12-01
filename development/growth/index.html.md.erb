@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Growth Sub-department
+description: "The Growth Sub-department consists of development teams building growth experiments and managing privacy focused product analytics"
 ---
 
 ## On this page
@@ -11,25 +12,15 @@ title: Growth Sub-department
 
 ## FY2021 Direction
 
-Develop a respectful and privacy focused data collection framework that allows us to make informed product decisions which improve the way our customers sign up to GitLab, manage and renew their licenses, and upgrade their accounts to higher tiers.
+Develop a respectful and privacy focused data collection framework that allows us to make informed product decisions and improve the customers experience, and promote conversion, adoption of key stages, and increase our user base.
 
 ## Mission
 
 The Growth sub-department consists of groups that eliminate barriers between our users and our product value.
 
-**Managing customer licensing and transactions**
-
-The [Fulfillment](/handbook/engineering/development/growth/fulfillment/) Group is responsible for:
-
-Licensing
-- Seamless license compliance for customers and GitLab Team Members
-
-Transactions
-- Make doing business with GitLab  efficient, easy, and a terrific user experience
-
 **Deliver product analytics data that improves our product**
 
-The [Product Analytics](/handbook/engineering/development/growth/conversion-product-analytics/) Group is responsible for:
+The [Product Analytics](/handbook/engineering/development/growth/product-analytics/) Group is responsible for:
 
 Collection
 - Collect information from GitLab.com and self-managed instances to improve our product
@@ -40,26 +31,26 @@ Analysis
 - Operationalize what we’re collecting for the benefit of GitLab and our customers
 
 
-**Drive value for the business and our users by improving activation, retention, upsell, and per-stage adoption**
+**Drive value for the business and our users by improving trial to paid conversion, per-stage adoption, and wider usage of GitLab**
 
 We focus on validating ideas with data across the following four Groups:
 
-[Acquisition Group](/handbook/engineering/development/growth/acquisition/)
+[Activation Group](/handbook/engineering/development/growth/activation/)
+- Adopt Verify [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
 
-- Get users off to a successful start
-- Increase users completing key actions
+[Adoption Group](/handbook/engineering/development/growth/adoption/)
+- Adopt Create [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
 
-[Conversion Group](/handbook/engineering/development/growth/conversion-product-analytics/)
-- Encourage cross-stage usage
-- Increase Stage Monthly Active Users
+[Conversion Group](/handbook/engineering/development/growth/conversion/)
+- Trial conversion rate [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 [Expansion Group](/handbook/engineering/development/growth/expansion/)
-- Drive adoption of “higher” tiers
-- Increase revenue per user/transaction
+- Invite team members [KPI](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
 
-[Retention Group](/handbook/engineering/development/growth/retention/)
-- Get customers and users to return
-- Increase gross retention
+The Growth groups also provide development input into two Growth product areas of focus:
+
+1. [First Mile](https://gitlab.com/groups/gitlab-org/-/epics/4745) (New user flow)
+2. [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817)
 
 We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/product-categories/#growth-stage)
 counterparts to design and implement experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
@@ -68,51 +59,40 @@ counterparts to design and implement experiments that measure the impact of chan
 
 The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking throughput and ownership of issues and merge requests.
 
-| Group name                                                | Group label                   |
-| ----------                                                | -----------                   |
-| [Fulfillment](fulfillment/)                               | `~"section::fulfillment"`     |
-| [Product Analytics](conversion-product-analytics/)        | `~"group::product analytics"` |
-| [Acquisition](acquisition/)                               | `~"group::acquisition"`       |
-| [Conversion](conversion-product-analytics/)               | `~"group::conversion"`        |
-| [Expansion](expansion/)                                   | `~"group::expansion"`         |
-| [Retention](retention/)                                   | `~"group::retention"`         |
+| Group name                                 | Group label                   |
+| ----------                                 | -----------                   |
+| [Product Analytics](product-analytics/)    | `~"group::product analytics"` |
+| [Activation](activation/)                  | `~"group::activation"`        |
+| [Adoption](adoption/)                      | `~"group::adoption"`          |
+| [Conversion](conversion/)                  | `~"group::conversion"`        |
+| [Expansion](expansion/)                    | `~"group::expansion"`         |
 
 
-## Members
+## People leaders in development
 
-The following people are permanent members of the Growth sub-department:
 
 <%=
-departments = ['Acquisition', 'Conversion', 'Expansion' , 'Retention', 'Fulfillment', 'Product Analytics', 'Static Site Editor']
+departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Analytics']
 department_regexp = /(#{Regexp.union(departments)})/
 
-direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Threat Management and Growth')
 %>
 
 ## All Team Members
 
 The following people are permanent members of groups that belong to the Growth sub-department:
 
-### Acquisition
-<%= department_team(base_department: "Acquisition Team") %>
+### Activation
+<%= department_team(base_department: "Activation Team") %>
+
+### Adoption
+<%= department_team(base_department: "Adoption Team") %>
 
 ### Conversion
 <%= department_team(base_department: "Conversion Team") %>
 
 ### Expansion
 <%= department_team(base_department: "Expansion Team") %>
-
-### Retention
-<%= department_team(base_department: "Retention Team") %>
-
-### Fulfillment Provision Backend
-<%= department_team(base_department: "Fulfillment Provision Team") %>
-
-### Fulfillment Purchase Backend
-<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Frontend]) %>
-
-### Fulfillment Purchase Frontend
-<%= department_team(base_department: "Fulfillment Purchase Team", remove_departments: %w[Backend]) %>
 
 ### Product Analytics Backend
 <%= department_team(base_department: "Product Analytics BE Team") %>
@@ -128,17 +108,15 @@ The following table shows who will provide cover if one or more of the Growth En
 
 | Team Member     | Coverered by           | Escalation     |
 | -----           | -----                  | -----          |
-| Bartek Marnane  | Christopher Lefelhocz  | Eric Johnson   |
-| Chris Baus      | James Lopez            | Bartek Marnane |
-| James Lopez     | Chris Baus             | Bartek Marnane |
-| Jerome Ng       | Phil Calder            | Bartek Marnane |
-| Phil Calder     | Jerome Ng              | Bartek Marnane |
+| Wayne Haber     | Christopher Lefelhocz  | Eric Johnson   |
+| Jerome Ng       | Phil Calder            | Wayne Haber    |
+| Phil Calder     | Jerome Ng              | Wayne Haber    | 
 
 If an Engineer is unavailable the Engineering Manager will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
 
 Some people management functions may require escalation or delegation, such as BambooHR and Expensify.
 
-This can be used as the basis for a BCP [Communication Plan and Role Assignments](/handbook/business-ops/gitlab-business-continuity-plan.html#communication-plan-and-role-assignments),
+This can be used as the basis for a business continuity plan (BCP),
 as well as a general guide to Growth Engineering continuity in the event of one or more team members being unavailable for any reason.
 
 ## Stable Counterparts
@@ -146,13 +124,11 @@ as well as a general guide to Growth Engineering continuity in the event of one 
 The following members of other functional teams are our stable counterparts:
 
 <%=
-role_regexp = /[,&] (Growth|Fulfillment|Product Analytics)/
+role_regexp = /[,&] (Growth|Product Analytics)/
 direct_manager_role = 'Director of Engineering, Growth'
 other_manager_roles = [
-  'Engineering Manager, Fulfillment',
   'Backend Engineering Manager, Growth:Conversion and Product Analytics, Product Manager (Acting), Product Analytics',
-  'Backend Engineering Manager, Growth:Acquisition, Expansion and Retention',
-  'Backend Engineering Manager, Fulfillment:Provision'
+  'Backend Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
@@ -178,11 +154,10 @@ There are three GitLab groups we use:
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
 | [Growth Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Acquisition Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| [Activation Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [Activation Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
 | [Conversion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
 | [Expansion Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Retention Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [Retention Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) |
-| [Fulfillment Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) | [-](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) |
+| [Adoption Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
 | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
 
 ### Estimation
@@ -215,11 +190,10 @@ We use milestone boards for high level planning and roadmapping across several m
 | gitlab-org | gitlab-com | gitlab-services |
 | ------ | ------ | ------ |
 | [Growth Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) | [Growth Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth) |
-| [Acquisition Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) | [Acquisition Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aacquisition) |
+| [Activation Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) | [Activation Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aactivation) |
 | [Conversion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) | [Conversion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aconversion) |
 | [Expansion Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) | [Expansion Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aexpansion) |
-| [Retention Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) | [Retention Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aretention) |
-| [Fulfillment Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) | [-](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Afulfillment) |
+| [Adoption Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) | [Adoption Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aadoption) |
 | [Product Analytics Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1370834?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1547281?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Milestones](https://gitlab.com/groups/gitlab-services/-/boards/1547332?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
 
 ### UX
@@ -363,8 +337,6 @@ On occasion we put together a virtual team day to help take a break and particip
 * [Growth sub-department]
 * [Growth workflow board]
 * `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
-* [Fulfillment issues board]
-* `#s_fulfillment` in [Slack](https://gitlab.slack.com/archives/s_fulfillment) (GitLab internal)
 * [Product Analytics issues board]
 * `#g_product_analytics` in [Slack](https://gitlab.slack.com/archives/g_product_analytics) (GitLab internal)
 * [Growth technical debt status](https://app.periscopedata.com/app/gitlab/618368/Growth-technical-debt-status) (GitLab internal)
@@ -377,6 +349,5 @@ On occasion we put together a virtual team day to help take a break and particip
 [Growth workflow board]: https://gitlab.com/groups/gitlab-org/-/boards/1158847
 [Growth opportunities]: https://gitlab.com/gitlab-org/growth/product/-/issues
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
-[Growth Performance Indicators]: /handbook/engineering/development/growth/performance-indicators/
-[Fulfillment issues board]: https://gitlab.com/gitlab-org/fulfillment/issues
+[Growth Performance Indicators]: /handbook/engineering/development/performance-indicators/growth/
 [Product Analytics issues board]: https://gitlab.com/gitlab-org/product-analytics/-/issues

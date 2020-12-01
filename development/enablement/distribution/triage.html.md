@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Triage"
+description: "Overview and Summary of the Distribution Team's issue triage process"
 ---
 
 ## On this page

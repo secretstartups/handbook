@@ -1,0 +1,293 @@
+---
+layout: handbook-page-toc
+title: Product Analytics Groups
+description: "The Product Analytics groups work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Product Analytics Groups are part of the [Growth section](/handbook/engineering/development/growth/).
+
+Product Analytics Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
+
+How we work:
+- We work in accordance with our [GitLab values](/handbook/values/).
+- We work [transparently](/handbook/values/#transparency) with nearly everything public.
+- We get a chance to work on the things we want to work on.
+- We have a [bias for action](/handbook/values/#bias-for-action).
+- We make data-driven decisions.
+- Everyone can contribute to our work.
+
+**I have a question. Who do I ask?**
+Questions should start by @ mentioning the product manager for the [Product Analytics Group](/handbook/product/product-categories/#product-analytics-group) or by creating an issue in our [workflow board](/handbook/engineering/development/growth/product-analytics/#workflow-boards).
+
+## Team members
+
+The following people are permanent members of the Product Analytics Groups:
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Product Analytics') %>
+
+## Project management process
+
+Our team uses a hybrid of Kanban for our project management process. This process balances the continuous flow of Kanban with GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
+
+- We only work off of workflow boards which act as our single source of truth.
+- We continuously progress issues to the next workflow stage.
+- We work on both product and engineering initiatives.
+- We prioritize and estimate all issues we work on.
+- We apply milestones and labels for reporting purposes.
+- We have weekly refinement to ensure our workflow board is always kept up to date.
+- We have monthly roadmap planning sessions.
+
+### Workflow stages
+
+Our teams use the following stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
+
+- `~"workflow::validation backlog"`
+- `~"workflow::problem validation"`
+- `~"workflow::design"`
+- `~"workflow::solution validation"`
+- `~"workflow::planning breakdown"`
+- `~"workflow::ready for development"`
+- `~"workflow::In dev"`
+- `~"workflow::In review"`
+- `~"workflow::staging"`
+- `~"workflow::production"`
+- `~"workflow::blocked"`
+
+We specifically pay close attention to the `Completion Criteria` and `Who Transitions Out`. We also emphasize having engineers involved earlier in the process to provide feedback in `~"workflow::design"`.
+
+### Workflow boards
+
+We use workflow boards to track issue progress. Workflow boards are our single source of truth for the status of our work. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
+
+There are three groups we use:
+- The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group includes the [gitlab](https://gitlab.com/gitlab-org/gitlab), [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com), and [license-gitlab-com](https://gitlab.com/gitlab-org/license-gitlab-com) projects.
+- The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group includes the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project.
+- The [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) group includes the [version-gitlab-com](https://gitlab.com/gitlab-services/version-gitlab-com) project.
+
+| gitlab-org | gitlab-com | gitlab-services | all groups |
+| ------ | ------ | ------ | ------ |
+| [Product Analytics Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
+
+### Product and engineering initiatives
+
+The work done by our teams mainly fall into two categories: product initiatives and engineering initiatives.
+
+**Product initiatives:** This work is primarily related to driving value for our customers. This work is defined by a product manager and is outlined in the team's product roadmap.
+
+**Engineering initiatives:** This work is primarily related to driving value for internal teams. This work is defined by an engineer and can include bug fixes, follow-up issues, refactoring, career development work, or anything an engineer thinks is important enough to be worked on.
+
+### Prioritization
+
+We prioritize our product roadmap using milestone priority labels:
+
+- `~"milestone::p1"`
+- `~"milestone::p2"`
+- `~"milestone::p3"`
+- `~"milestone::p4"`
+
+Prioritization of our product roadmap is determined by our product managers. Every epic and issue that is part of a product roadmap should have a priority label. If an issue belongs to an epic, the issue priority should match the epic's priority.
+
+We work from the highest to the lowest priority when working on product initiatives. For design prioritization, see [priority for UX issues](/handbook/engineering/ux/ux-designer/#priority-for-ux-issues).
+
+### Estimation
+
+We follow the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department.
+
+### Due dates
+
+To properly set expectations for product managers and other stakeholders, our team may decide to add a due date onto an issue. Due dates are not meant to pressure our team but are instead used to communicate an expected delivery date.
+
+We may also use due dates as a way to timebox our iterations. Instead of spending a month on shipping a feature, we may set a due date of a week to force ourselves to come up with a smaller iteration.
+
+### Weekly refinement
+
+Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in each group's channel. During refinement, we make sure that every issue on the workflow board is kept up to date with the necessary details and next steps.
+
+### Monthly release cycle
+
+Our groups still pay attention to certain dates in the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline):
+
+- Milestone starts on the 17th of the month
+- Milestone ends on the 18th of the following month.
+- Milestone retrospectives start on the 19th of the following month.
+
+These dates are important to understand when features are released on self-managed instances and when we conduct our [team retrospectives](/handbook/engineering/management/team-retrospectives/).
+
+### Monthly roadmap planning
+
+We have monthly roadmap planning sessions to ensure our team is aligned on what's coming next. Monthly roadmap planning takes place as a part of our weekly sync meetings and it occurs on the first meeting of every month.
+
+## Epics and issues
+
+To help our team be [efficient](/handbook/values/#efficiency), we explicitly define how our team uses epics and issues.
+
+### Epic and issue creation
+
+We aim to create issues in the same project as where the future merge request will live. And we aim to create epics at the topmost-level group that makes the most sense for its collection of child epics and issues. For example, if an experiment is being run in the CustomersDot, the epic should be created in the `gitlab-org` group, and the issue should be created in the `gitlab-org/customers-gitlab-com` project.
+
+We emphasize creating the epic at the topmost-level group so that it will show up on our epic roadmap. And we emphasize creating the issue in the right project to avoid having to close and move it later in the development process. If the location of the future merge request cannot be determined, we will create the issue in our catch-all [growth team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/issues).
+
+### Ratio of issues to MRs
+
+We used to aim for a 1:1 ratio between issues and merge requests, mainly for the sake of status visibility at the workflow-board level. We have since moved to using epics and the epic roadmap for product management visibility, and we are comfortable with the amount of status updates received during our weekly sync meetings as well as through comments within issues themselves.
+
+If an issue requires multiple merge requests, we no longer recommend splitting the issue itself up in order to maintain a 1:1 ratio of issues to MRs. The advantage is that an engineer is able to create an arbitrary number of MRs for a single issue and can move much more quickly through them. The trade-off is that doing so makes it more difficult to communicate the overall status of the issue itself. It is the engineer's responsibility to make sure that the status of each issue they are working on is effectively communicated to their Product Manager.
+
+### Epics
+
+We group related issues together using parent [epics](https://docs.gitlab.com/ee/user/group/epics/) and child epics, providing us with a better visual overview of our roadmap.
+
+- The description of the parent epic should always be kept up-to-date as the single source of truth.
+- The conversation about the implementation or design is done in issues.
+- Designs in progress will be in UX issues, using the design tab for conversation, review, feedback, exploration, etc.
+- The final designs should be linked in the parent epic description.
+- Epics and Child Epics must have the same section and group labels to see them on the [roadmap](https://docs.gitlab.com/ee/user/group/roadmap/) when using the group filter
+- We use the prefixes `[ENG]`, `[UX]` and `[Product]` to indicate their area of focus. The prefixes can be combined if the epic holds issues of different areas, e.g. `[ENG][UX]`.
+- We use the labels `Engineering` and `UX` to easily filter epics.
+
+#### Issue handover and breakdown
+
+After a design is done, the design issue needs to be set to `workflow::planning breakdown` and engineering takes over the process of breaking it down. The design issue can be closed after break down is done.
+
+#### How To Structure Epics
+
+Epics can contain issues and/or child epics. A child epic could for example be the first iteration of the parent epic.
+An example of how the structure of an epic could look:
+
+- Parent Epic
+  - Child Epic 1: First Iteration
+    - Issue: Design Task 1
+    - Issue: Design Task 2
+    - Issue: Engineering Task 1
+    - Issue: Engineering Task 2
+  - Child Epic 2: Second Iteration
+    - Issue: Design Task 3
+    - Issue: Engineering Task 3
+  - Child Epic 3: API Changes
+    - Issue: Engineering Task 4
+    - Issue: Engineering Task 5
+  - Issue: Engineering Task 6
+  - Issue: Engineering Task 7
+
+#### Using epics across groups
+
+Epics have the following limitations:
+
+- Epics can only link issues that are within the same group. For example, it's not possible to link an issue in `gitlab-org` from an epic created in `gitlab-org/growth`.
+- Epics can't link issues across different top level groups. For example, an epic created in `gitlab-org` can't link to an issue created in `gitlab-services`.
+
+To overcome this, we will:
+
+- Always create epics in the top level group, e.g. [`gitlab-org`](https://gitlab.com/groups/gitlab-org/-/epics`), [`gitlab-com`](https://gitlab.com/groups/gitlab-com/-/epics`), or [`gitlab-services`](https://gitlab.com/groups/gitlab-services/-/epics`).
+- Create placeholder epics that link to the other top-level group epic. These placeholders get created automatically when pasting a link to an epic of another top-level group epic
+
+The parent epic should live on the top-level group where most of the issues and child epics will be created.
+
+### Issue labels
+
+We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
+
+**Required labels**
+- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
+- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product analytics`
+- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::In dev`, etc.
+
+**Optional labels**
+- [Experiment:](/handbook/engineering/development/growth/#experiment-issue-creation) `~growth::experiment`
+- [Experiment Status:](/handbook/engineering/development/growth/#experiment-issue-creation) `~"experiment::active`, `~"experiment::validated`, etc.
+- [Release Scoping:](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md) `~Deliverable`
+- [UX:](/handbook/engineering/development/growth/#ux-workflows) `UX`
+- Other labels in [issue workflow](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md)
+
+### Merge request labels
+MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly measuring [throughput](#throughput).
+
+**Required labels**
+- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
+- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product analytics`
+- [Throughput:](/handbook/engineering/management/throughput/#implementation) `~security`, `~bug`, `~feature`, `~backstage`
+
+### Milestones
+
+We tag each issue and MR with the planned milestone or the milestone at time of completion.
+
+### Iteration
+
+We always push ourselves to be iterative and make the [minimal viable change](/handbook/product/product-principles/#the-minimal-viable-change-mvc). Defining the minimal viable change takes practice.
+
+![build a car vs start with skateboard and move to car](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
+
+The image above illustrates how we iterate. The goal is to build something quick and functional. Our first iteration gets us from A to B even though it doesn't have all the bells and whistles. A skateboard is not as fast as a car, but it is fully functional. Each subsequent iteration provides the user with more speed, more control, and a better aesthetic.
+
+Building a skateboard is low complexity and can be assembled in a day. Building a car is high complexity and takes thousands of parts and a much longer assembly time. Start with the skateboard first, iterate to the scooter next, then continue iterating and eventually you can build a car.
+
+A common misconception of iteration is that there is no waste. Using the example above, the parts of a skateboard can be reused in a scooter, however, they cannot be reused in a car. Iteration often requires us to throw away code to make way for a better product.
+
+[Technical debt](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#technical-debt-in-follow-up-issues): It's common to discover technical debt during development of a new feature. In the spirit of "minimum viable change," the resolution of technical debt can be deferred to a follow-up issue.
+
+## Meetings
+
+Groups hold synchronus meetings at least once a week to gain additional clarity and alignment on our async discussions.
+
+* The Product Analytics Group meets on Mondays 03:00pm UTC and Wednesdays 03:00pm UTC
+
+**Meeting agenda**
+
+The agenda for each meeting is structured around the [Product Development Flow](/handbook/product-development-flow/#workflow-summary).
+* **[Validation:](/handbook/product-development-flow/#validation-track)** Used for work in `~workflow::start`, `~workflow::problem validation`, `~workflow::design`, `workflow::solution validation`
+* **[Build:](/handbook/product-development-flow/#build-track)** Used for work in `workflow::planning breakdown`, `workflow::blocked`, `workflow::ready for development`, `workflow::In dev`, `workflow::In review`
+* **FYI:** Used for any other topics
+
+**Meeting rules**
+* Agenda items should be filled in 6 hours before meetings otherwise it's possible to cancel the meeting.
+* It's fine to add agenda items during the meeting as things come up in sync meetings we might not have thought about beforehand.
+* Meetings start :30 seconds after start time
+* Whoever has the first agenda item starts the meeting.
+* Whoever has the last agenda item ends the meeting.
+* Meetings end early or on time.
+* Any missed agenda items are bumped to the next meeting.
+
+## Daily standups
+
+We have daily asynchronous standups. Team members are using either [status hero](https://statushero.com) or [geekbot](https://geekbot.com/) for their daily standups. The purpose of these standups are to allow team members to have visibility into what everyone else is doing, allow a platform for asking for and offering help, and provide a starting point for some social conversations.
+
+Three questions are asked at each standup:
+* How do you feel today?
+* What are you working on today?
+  * Our status updates consist of the various issues and merge requests that are currently being worked on. If the work is in progress, it is encouraged to share details on the current state.
+* Any blockers?
+  * We raise any blockers early and ask for help.
+
+## Throughput
+
+One of our main engineering metrics is [throughput](/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](/handbook/values/#iteration), although we do not necessarily equate one MR to one complete iteration. We recognize that just as [an issue may be broken down into multiple merge requests](#ratio-of-issues-to-mrs), so can iteration of a feature be spread across several MRs, especially with the use of [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html#feature-flags-in-gitlab-development). Read more about [why we adopted this throughput model](/handbook/engineering/management/throughput/#why-we-adopted-this-model).
+
+We aim for the current [development department MR rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559676/Growth:Product-Analytics-Development-Metrics).
+
+## Quick Links
+
+| Resource                                                                                                                          | Description                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Product Analytics Guide](/handbook/product/product-analytics-guide)                                                                              | A guide to Product Analytics                   |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)                                              | An implementation guide for Usage Ping                    |
+| [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html)                                                  | An implementation guide for Snowplow                      |
+| [Event Dictionary](/handbook/product/product-analytics-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
+| [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
+| [Implementing Product Performance Indicators](/handbook/product/product-analytics-guide#implementing-product-performance-indicators)                                   | The workflow for putting product performance indicators in place   |
+| [Product Analytics Direction](/direction/product-analytics/)                                                                              | The roadmap for Product Analytics at GitLab                       |
+| [Product Analytics Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Analytics groups         |
+| [Growth Product Direction](/direction/growth/)                                                                                    | The roadmap for Growth at GitLab                          |
+| [Growth Product Handbook](/handbook/product/growth/)                                                                              | The product process for the Growth sub-department         |
+| [Growth Sub-Department Development Process](/handbook/engineering/development/growth/).                                              | The development process for the Growth sub-department     |
+| [Growth Sub-Department Performance Indicators Process](/handbook/engineering/development/performance-indicators/growth/)              | The performance indicators for the Growth sub-department  |
+| [Growth UX Process](/handbook/engineering/ux/stage-group-ux-strategy/growth/)                                                        | The UX process for the Growth sub-department              |
+| [Growth QE Process](/handbook/engineering/quality/growth-qe-team/)                                                                   | The QE process for the Growth sub-department              |
+

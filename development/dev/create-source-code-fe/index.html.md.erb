@@ -19,13 +19,13 @@ The Create:Source Code FE team is responsible for all frontend aspects of the pr
 
 The following people are permanent members of the Create:Source Code FE Team:
 
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Delivery & Scalability') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Code Review)Source Code/) %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code', other_manager_roles: ['Frontend Engineering Manager, Create:Source Code, Delivery & Scalability']) %>
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
 
 ## KPIs
 
@@ -42,3 +42,57 @@ Some overal conclusions/improvements
 * We'll be more strict about splitting the issues in foreseeable iteration steps upon scheduling/assignment
 * We must keep in mind the overhead in review times when splitting up related backstage work. ([more info](https://gitlab.com/gl-retrospectives/create-stage/source-code/-/issues/22#note_342547093))
 
+## Work 
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch
+with the Create:Source Code FE team, it's best to create an issue in the relevant project
+(typically [GitLab]) and add the `~"group::source code"` and `~frontend` labels, along with any other
+appropriate labels (`~devops::create`, `~section::dev`). Then, feel free to ping the relevant Product Manager and/or
+Engineering Manager as listed above.
+
+For more urgent items, feel free to use [#g_create_source_code] or [[#g_create_source_code_fe] on Slack.
+
+[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createsource-code-group)
+
+[engineering workflow]: /handbook/engineering/workflow/
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[#g_create_source_code]: https://gitlab.slack.com/archives/g_create_source-code
+[#g_create_source_code_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
+
+## Working with product
+
+Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of ~"Deliverable"s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
+
+### Middle of milestone check-in
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/midmilestone.erb") %>
+
+## Capacity planning
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/capacity_planning_fe.erb") %>
+
+### Weights
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/weights_fe.erb") %>
+
+## Workflow labels
+
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: "group::source code" }) %>
+
+## Async standup
+
+<%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
+
+## Kickoff
+
+On the first week of every milestone, we have a sync-call with every IC in which they take turns at presenting their plan for their Deliverables for the new milestone.
+
+This usually happens at the first Thursday of the milestone (at least 5 days into it) at 3PM UTC.
+
+## Retrospectives
+
+We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
+
+#### Per Milestone
+
+<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Source Code", group_slug: "source-code" }) %>

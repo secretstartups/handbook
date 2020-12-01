@@ -71,7 +71,7 @@ Examples of non-qualified issues:
 
 **NOTE:** On-call engineer need not announce beginning/end of their shift in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) unless there is an active incident happening (check the chat history of the channel to know if there is an active incident). This is because many engineers have very noisy notifications enabled for that channel, and such announcements are essentially false positives which make them check the channel unnecessarily.
 
-Note: For the months of September and October 2020, we are using this [Pilot Escalation Process](handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#first-responder-pilot-program)
+Note: Beginning in September 2020 through the end of January 2021, we are using this [Pilot Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#first-responder-pilot-program)
 
 1. Escalation arises.
 1. Infrastructure, Security, Support or Engineering team register tracking issue and determines the severity or references the Zendesk ticket, whichever is applicable.
@@ -146,7 +146,6 @@ Note: For the months of September and October 2020, we are using this [Pilot Esc
      * There are countries with laws governing hours that can be worked.
      * This would not be an issue in the U.S.
      * At this point we would only be looking into countries where 1) we have legal entities, as those team members are employees or 2) countries where team members are hired as employees through one of our PEO providers. For everyone else, team members are contracted as independent contractors so general employment law would not apply.
-   * Engineers from the [Static Site Editor team](/handbook/engineering/development/dev/create-static-site-editor/#team-members) are exempted due to being part of a separate on-call rotation for the [GitLab Handbook](/handbook/about/on-call/).
 
    The eligibility is maintained in this [team members list](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=2020389965) and the spreadsheet is refreshed monthly as below:
    1. Extract all employees from [team.yml](/data/team.yml).
@@ -226,7 +225,7 @@ The coordinator should:
     * Asking managers in [#eng-managers](https://app.slack.com/client/T02592416/CU4RJDQTY) to remind team-members in 1-1s
     * Utilizing appropriate mailing lists to contact engineers by email
 1. Assign folks to unfilled slots when needed (do your own due diligence
-   when this action is necessary).
+   when this action is necessary). Use purple text in the spreadsheet to indicate this was an assigned slot.
 1. Coordinate temporary changes or special requests that cannot be
    resolved by engineers themselves.
 1. After assigning unfilled slots and accommodating special requests the coordinator should click **Sync to Calendar > Schedule shifts**.
@@ -367,11 +366,15 @@ The aim is to see at least 8 escalations occur with the new process and reach a 
 
 During the experiment period, the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) is a backup and there will be a review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner). If the pilot is successful (see [success criteria](#success-criteria) below), we will move to this new process starting on 2020-11-01.
 
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320020, dashboard: 780258, embed: 'v2') %>">
+
 ### Success Criteria
 
 We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), but allow up to 15% escalations falling back to the oncall spreadsheet.
 
 At the time of success assessment, all stakeholders - Development, Infrastructure, QE, Security, and Support - agree the new process is ready for production, in addition to the metric above.
+
+<embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320108, dashboard: 780258, embed: 'v2') %>">
 
 ### Bot (Pagerslack) Usage
 
@@ -380,6 +383,10 @@ At the time of success assessment, all stakeholders - Development, Infrastructur
  * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
 
 _Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
+
+### Pagerslack statistics
+
+See the [Sisense Pagerslack Stats board](https://app.periscopedata.com/app/gitlab/780258/Pagerslack-Stats)
 
 ### Notification Settings
 

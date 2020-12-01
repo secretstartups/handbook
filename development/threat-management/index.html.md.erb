@@ -9,21 +9,21 @@ title: Threat Management sub-department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Threat Management engineering sub-department contributes to development in the [Secure & Defend sections](/handbook/product/product-categories/#secure--defend-section).
+The Threat Management engineering sub-department contributes to development in the [Sec section](/handbook/product/product-categories/#sec-section).
 
 ```mermaid
 erDiagram
     Secure-Stage ||--|{ Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups : contains
     Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups }|--|| Secure-Department : reports-to
-    Defend-Stage ||--|| Container-Security-Group : contains
+    Protect-Stage ||--|| Container-Security-Group : contains
     Threat-Insights-Group  ||--|| Threat-Management-Department: reports-to
     Container-Security-Group ||--|| Threat-Management-Department : reports-to
     Secure-Stage ||--|| Threat-Insights-Group  : contains
 ```
 
-We are responsible for defending applications, networks and infrastructure from security intrusions via giving users insights into threats at the vulnerability, network, container, operating system, and application layers. Our sub-department consists of all groups in the [Defend Stage](/handbook/product/product-categories/#defend-stage) and the [Threat Insights Group](/handbook/product/product-categories/#threat-insights-group) in the [Secure Stage](/handbook/product/product-categories/#secure-stage).
+We are responsible for protecting applications, networks and infrastructure from security intrusions via giving users insights into threats at the vulnerability, network, container, operating system, and application layers. Our sub-department consists of all groups in the [Protect Stage](/handbook/product/product-categories/#protect-stage) and the [Threat Insights Group](/handbook/product/product-categories/#threat-insights-group) in the [Secure Stage](/handbook/product/product-categories/#secure-stage).
 
-You can learn more about our approach on the direction pages for [Secure](/direction/secure/) and [Defend](/direction/defend/).
+You can learn more about our approach on the direction pages for [Secure](/direction/secure/) and [Protect](/direction/protect/).
 
 ## Vision
 
@@ -32,9 +32,9 @@ Protect our users' applications, services, and infrastructure from the ever-evol
 ### FY21 Vision
 
 By the end of FY21:
-* To give our customers increasingly better controls to defend themselves against attacks (and to help drive more revenue from more customers wanting these categories), we should successfully deliver on the maturity roadmap.
+* To give our customers increasingly better controls to protect themselves against attacks (and to help drive more revenue from more customers wanting these categories), we should successfully deliver on the maturity roadmap.
 * All categories have customer use tracking enabled so we can accurately gauge customer acceptance.
-* The (relatively new) defend development team is achieving all metrics that all development teams track (MR's per month per engineer, developer to maintainer ratio, etc.)
+* The (relatively new) Protect development team is achieving all metrics that all development teams track (MR's per month per engineer, developer to maintainer ratio, etc.)
 * The sub-department has implemented one significant idea to improve the GitLab architecture overall (such as perhaps a framework and guideline for implementation of services).
 * The sub-department publishes >=2 blog entries on security trends to inform our customers, prospects, and the security industry as a whole.
 
@@ -46,21 +46,25 @@ Employ security controls for our customers at the container, network, host, and 
 
 Provide features to allow customers to manage their security risks effectively and efficiently.
 
-For more details, see the [Secure stage](/stages-devops-lifecycle/secure/) and [Defend stage](/stages-devops-lifecycle/defend/).
+For more details, see the [Secure stage](/stages-devops-lifecycle/secure/) and [Protect stage](/stages-devops-lifecycle/protect/).
 
-## Sub-department Members
+## Sub-department development people leaders
 
-The following people are permanent members of this sub-department.
 
-<%= direct_team(manager_role: 'Director of Engineering, Threat Management') %>
 
+<%=
+departments = ['Threat Management']
+department_regexp = /(#{Regexp.union(departments)})/
+
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Threat Management and Growth')
+%>
 ### Backend
 
 #### [Secure Stage: Threat #Insights](/handbook/product/product-categories/#threat-insights-group)
 
 <%=  direct_team(role_regexp: /Threat Insights/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
-#### [Defend Stage: Container #Security](/handbook/product/product-categories/#container-security-group)
+#### [Protect Stage: Container #Security](/handbook/product/product-categories/#container-security-group)
 
 <%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
@@ -94,7 +98,7 @@ You can find demos of features, recorded synchronous meetings, release kick-offs
 
 - [Threat Management Sub-Department](https://www.youtube.com/playlist?list=PL05JrBw4t0KpqY7EwA_JaCtb9YrfPLA6d)
 - [Threat Management Community Office Hours](https://www.youtube.com/playlist?list=PL05JrBw4t0KrmpGUt33tVXzONJiwCgb_S)
-- [Defend: Container Security](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4O8RBlOKi_euwv8NyI8yt)
+- [Protect: Container Security](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq4O8RBlOKi_euwv8NyI8yt)
 - [Secure:Threat Insights Features & Demos](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp8oA6OJ6_wm7uw0muud_mZ)
 
 You can watch the Threat Management Sub-Department playlist below.
@@ -121,7 +125,7 @@ In addition to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org
 
 | Label 						                 | Use        									                                         |
 | --------------------------------------------   |-------------------------------------------------------------------------------------- |
-| `devops::defend`	    			                   | All issues related to the Defend Stage      	                                         |
+| `devops::protect`	    			                   | All issues related to the Protect Stage      	                                         |
 | `devops::secure`	    			                   | All issues related to the Secure Stage      	                                         |
 | `group::threat insights`                       | Vulnerability Management, Responsible Disclosure	                             |
 | `group::container security`                    | WAF, Container Network Security, Container Behavior Analytics                         |
@@ -170,19 +174,19 @@ To update the documentation, follow this process:
 * We [disagree and commit](/handbook/values/#transparency) when necessary.
 * We decide on a [**D**irectly **R**esponsible **I**ndividual](/handbook/people-group/directly-responsible-individuals/) for a project or decision.
 * We primarily rely on [asynchronous communication](/handbook/communication/).  However, we will rely on synchronous communication (such as [fast boot](/handbook/engineering/fast-boot/) or similar) when asynchronous communication is not proving to be effective to make a decision.
-* We document how decisions are made on which features will be in the secure stage and which will be in the defend stage in order to avoid confusion.  _(Documentation WIP by product management)_
-
+* We document how decisions are made on which features will be in the secure stage and which will be in the protect stage in order to avoid confusion.  _(Documentation WIP by product management)_
+* We prefer asynchronous communication (merge request/issue threads) over synchronous communication (meetings).  In fact, when we cancel a meeting because everything that would have been discussed in the agenda was handled asynchronously, we cancel the meeting and celebrate by posting ["Another One Bites The Dust"](https://www.youtube.com/watch?v=rY0WxgSXdEE) in the team's slack channel .
 
 ## Common Links
 
 * [Threat Management subdepartment calendar](https://www.google.com/calendar/render?cid=c_22hchbpp1srt17n7cavvrkggfo@group.calendar.google.com)
 * [Secure stage calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9tZDBhbzM2Z3B2bDV2MWY0MTI4ZXJobmo2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Defend stage calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9lZDYyMDd1ZWw3OGRlMGoxODQ5dmpqbmIza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Secure and Defend Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
+* [Protect stage calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9lZDYyMDd1ZWw3OGRlMGoxODQ5dmpqbmIza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [Secure and Protect Glossary of Terms](/handbook/engineering/development/secure/glossary-of-terms/)
 
 ### Product Documentation Links
 
-* [Defend](https://docs.gitlab.com/ee/README.html#defend)
+* [Protect](https://docs.gitlab.com/ee/README.html#protect)
 * [Web Application Firewall with ModSecurity](https://docs.gitlab.com/ee/topics/web_application_firewall/#web-application-firewall---modsecurity)
 * [Network Policies with Cilium](https://docs.gitlab.com/ee/topics/autodevops/#network-policy)
 * [Install Cilium Network Policies](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
@@ -194,14 +198,15 @@ To update the documentation, follow this process:
 
 
 * [Stage #s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
-* [Stage #s_defend](https://gitlab.slack.com/archives/s_defend)
+* [Stage #s_protect](https://gitlab.slack.com/archives/s_protect)
 * [Subdepartment #sd_threat_mgmt](https://gitlab.slack.com/archives/C017A7JGP7S) and `@threat management engineering`
 * [Subdepartment #sd_threat_mgmt_leadership](https://gitlab.slack.com/archives/C0159F9S6VA)
 * [Subdepartment #threat_mgmt_standup](https://gitlab.slack.com/archives/CQ29K6XR7)
-* [Group #g_defend_container_security](https://gitlab.slack.com/archives/CU9V380HW)
+* [Group #g_protect_container_security](https://gitlab.slack.com/archives/CU9V380HW)
 * [Group #g_secure_threat_insights](https://gitlab.slack.com/archives/CV09DAXEW)
 * [#sd_threat_mgmt_frontend](https://gitlab.slack.com/archives/C013MM369B7) and `@threat management frontend`
 * [#sd_threat_mgmt_backend](https://gitlab.slack.com/archives/C013CET9PGF) and `@threat management backend`
+* [#sd_threat_mgmt_social](https://gitlab.slack.com/archives/C01BKFD6GUF)
 
 
 ## How to work with us
@@ -212,10 +217,5 @@ Community Contributions are welcome! Please follow these [general GitLab intruct
 * Recordings of previous office hours can be found on our [Threat Management Community Office Hours](https://www.youtube.com/playlist?list=PL05JrBw4t0KrmpGUt33tVXzONJiwCgb_S) YouTube playlist.
 
 While we love to get contributions from our users in the community, we also strive to attract talents in the Engineer teams of this stage to bring our product to the next level.
-
-Check out our Threat Management promotion video to learn more: 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/MgcgmH_REi4" frameborder="0" allowfullscreen="true"> </iframe> 
-</figure>
 
 Our open positions are listed on the GitLab [Jobs page](/jobs/apply/): Select "Threat Management" Under "Engineering", then "Developement".

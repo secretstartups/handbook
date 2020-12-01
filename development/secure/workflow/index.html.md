@@ -81,3 +81,6 @@ it is very welcome that the experiment is listed here and clearly communicated f
 <!---
 - Title - DRI - link to an issue describing the change and collecting feedback.
 -->
+
+- [Replace sub-issue convention with Epics - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/129)
+- [Leverage issue's health status to report progress - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/130)
