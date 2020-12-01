@@ -34,7 +34,17 @@ For future team members: You will recieve an email with the future dates.
 
 Please note that this call will take a place a week or two before your actual start date. 
 
-Sending out the Invite:
+### Agenda
+General Topics Coveraged 
+
+- Introductions 
+- Review the onboarding process on Day 1 
+- Share the onboarding template with new team members
+- Encourage team members to take their time 
+- Self Driven and self service 
+- Questions from the new team members 
+
+### Sending out the Invite:
 - Invites are sent by the People Experience Associate.
 - Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/TaNewKi%20Welcome%20Call)
 - The email is sent out to upcoming hires one week before the call. 
