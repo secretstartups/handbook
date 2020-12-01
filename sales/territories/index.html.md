@@ -110,7 +110,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
-| NA West | NorCal | **ENT-NC-Named SF1** | Moses Mederos | TBD |
+| NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
 | NA West | NorCal | **ENT-NC-Named SF2** | Mike Nevolo | James Altheide |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 1** | Nico Ochoa | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
