@@ -20,7 +20,7 @@ As per the [statement of support](/support/#name-squatting-policy), namespaces m
 ### Workflow
 
 1. Search for the requested namespace in GitLab.com admin: [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups), once found visit the GitLab admin page for the namespace.
-1. Apply the **GitLab.com::Name Squatting Policy::Internal Checklist** macro in Zendesk.
+1. Apply the **GitLab.com::Name Squatting Policy::Internal Checklist** macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on Personal Namespace).
 1. Answer all questions in the **Internal Checklist** (Yes/No) ensuring to cross-check the information found in the admin section.
 1. If the namespace is eligible for immediate release, follow [Request successful](#request-successful).
 1. If the namespace is eligible for release, follow [Namespace is available](#namespace-is-available).
