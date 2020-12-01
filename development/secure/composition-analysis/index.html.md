@@ -24,10 +24,12 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 ## How we work
 
+### Workflow
+
 The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as
 [Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/).
 
-### Experiments
+#### Experiments
 
 In addition to the above workflows, the Composition Analysis group can be involved in some [experiments](/handbook/engineering/development/secure/workflow/#ongoing-experiments)
 which might temporarily alter how we work.
@@ -91,6 +93,14 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 
 1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&utf8=%E2%9C%93&label_name[]=bug&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis).
 1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 1h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision.
+
+### Tech-debt and tooling triaging process
+
+To help our Product Manager decide which tech-debt and tooling issues to include in the upcoming milestone, the engineering teams assign them a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority).
+We regularly review unprioritized issues using these boards:
+
+- [tech-debt issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=technical%20debt)
+- [tooling issues](https://gitlab.com/groups/gitlab-org/-/boards/2168528?label_name[]=group%3A%3Acomposition%20analysis&label_name[]=tooling)
 
 ## Projects
 
