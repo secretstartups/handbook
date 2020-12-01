@@ -170,7 +170,7 @@ If tickets have increased in difficulty:
 #### Shaping Actions
 {:.no_toc}
 
-### Hypothesis 3 for Time-Off impacting performance
+### Time-Off impacting performance
 
 #### Past Analysis
 {:.no_toc}
@@ -190,3 +190,8 @@ If tickets have increased in difficulty:
    - Correlate the dates with the number of IC's on PTO
 #### Shaping Actions
 {:.no_toc}
+
+If it was identified that PTO impacted our results:
+
+ - Determine if additional headcount should be applied on certain dates / days of week.
+ - Examine our time-off policy and see if it needs to be adjusted - [handbook](https://about.gitlab.com/handbook/support/support-time-off.html).
