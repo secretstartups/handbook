@@ -9,16 +9,16 @@ title: "Tax Treatment of Stock Options as Employee of GitLab GmbH"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Equity Award
+### Equity Award
 Stock Option Plan
 
-## When taxed?
+### When taxed?
 Taxed at Exercise
 
-## What is taxed?
+### What is taxed?
 The "spread": Difference between the Offer Price and Exercise Price 
 
-## Subject to tax withholding?
+### Subject to tax withholding?
 GitLab must withhold income tax on the taxable amount and remit by the 10th day of the month following the month in which the taxable event occurs. EUR 360 of the taxable amount may be exempt from income tax withholding (see below).
 
 - Maximum Income Tax Rate: 45% on annual income greater than EUR 265,327 (single taxpayer)
@@ -28,16 +28,16 @@ GitLab must withhold income tax on the taxable amount and remit by the 10th day 
 
 An employee may be able to deduct EUR 360 per year from the taxable amount provided the equity award was offered in a uniform manner to all employees working for the employer for at least one year and the employee has not already used this deduction in connection with other acquisitions of GitLab shares during the calendar year. GitLab should confirm whether this tax deduction applies to the employee to determine the appropriate tax withholding amount. Income tax is imposed at a rate of 14% to 42% on annual income between EUR 9,169 to EUR 265,326.
 
-## Social Insurance Contribution Withholding?
+### Social Insurance Contribution Withholding?
 Yes (capped)
 
-## Employer Social Insurance Contribution Requirement?
+### Employer Social Insurance Contribution Requirement?
 Yes (capped)
 
-## Employee Maximum Combined Tax Withholding Rate
+### Employee Maximum Combined Tax Withholding Rate
 51.525%
 
-## Social Insurance Contribution Withholding/Payment detail
+### Social Insurance Contribution Withholding/Payment detail
 GitLab must withhold estimated employee social insurance contributions and remit both employee and employer estimated social insurance contributions by the third bank working day before the end of the month in which the taxable event occurs; any unpaid social insurance contributions should be remitted with the following month's contributions.
 
 Employee Rate:
@@ -56,7 +56,7 @@ Employer Rate:
 - Home Care Insurance 1.525%
 - Health Insurance 7.3% (+ 50 % of additional contribution if levied by the Health Insurance carrier)
 
-## Employer Compliance/Tax Reporting
+### Employer Compliance/Tax Reporting
 Monthly Tax Reporting:
 - GitLab must report the amount of tax withheld generally by the tenth day of the month following the month in which the taxable event occurs.
 
