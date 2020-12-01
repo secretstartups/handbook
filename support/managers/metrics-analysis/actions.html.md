@@ -144,6 +144,56 @@ If tickets have increased in difficulty:
  - Examine documentation for problem areas, and additional content to help customers self-serve answers
 
 ---
+### Time-Off impacting performance
+
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-14: Folks on PTO over summer and F&F days have caused lags in performance](https://gitlab.com/gitlab-com/support/metrics/-/issues/3)
+**Evidence Gathered:**
+ - [Ticket update volume](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/41841912)
+ - [Summary spreadsheet showing active contributions to ZD tickets (over 20 ticket updates per engineer per month)](https://docs.google.com/spreadsheets/d/1vEJ2ks8pNeR2HVUn1actQcGEHH1ERxct7_kIDasOWDo/edit#gid=960486526)
+ - [Zapier enabled PTO calcualtor spreadsheet](https://docs.google.com/spreadsheets/d/1EFpF6_ixLtxaffd9hurvtnbXGpZuXrYAYx-5U4u3M40/edit#gid=1429709856)
+ 
+**Approach:**
+- Examine SLA performance indicators such as FRT/NRT achievement rate and median response times and identify the months or weeks where there was a downward trend.
+- Narrow down the performance decline using ticket forms and other attributes.
+- Using the Ticket update volume report 
+   - Correlate the dates with the number of active engineers that were shown to be active that month/week (for example 20 tickets worked on per month per engineer can be considered the target volume).
+- Using the Zapier enabled PTO calculator spreadsheet
+   - Correlate the dates with the number of IC's on PTO
+#### Shaping Actions
+{:.no_toc}
+
+If it was identified that PTO impacted our results:
+
+ - Determine if additional headcount should be applied on certain dates / days of week.
+ - Examine our time-off policy and see if it needs to be adjusted - [handbook](https://about.gitlab.com/handbook/support/support-time-off.html).
+ ---
+
+### A single portion of tickets is responsible for decreased FRT results
+
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-14: A single portion of tickets is responsible for the overall sag in FRT](https://gitlab.com/gitlab-com/support/metrics/-/issues/2)
+**Evidence Gathered:**
+ - 6 Months breakdown per ticket form and problem type [spreedsheet](https://docs.google.com/spreadsheets/d/1kp1VVorywEgYu0_YuMKDMpitSGo4Hjb7zXu-DOt3e0I/edit#gid=169305821)
+ 
+**Approach:**
+- Examine SLA breaches in %, SLA median TTR (Time To Resolve) and the total volume of tickets for each problem type (under the relevant ticket form).
+- Compare the results and identify trends and spikes.
+
+#### Shaping Actions
+{:.no_toc}
+
+If it was identified that a single portion of our problem types exhibits poor performance (compared to the other problem types).
+
+ - Attempt to identify the dates where the volume increased, or the SLA started to decline.
+ - Identify potential issues that might have impacted our customers or our ability to provide support for these problem types.
+ - Discuss the decreased performance with the relevant IC's and work with them to try and identify possible blockers and explanations as to why this specific problem type decreased in performance.
+ ---
+ 
 ### Hypothesis 2 for FRT 
 #### Past Analysis
 {:.no_toc}
@@ -169,24 +219,5 @@ If tickets have increased in difficulty:
 
 #### Shaping Actions
 {:.no_toc}
+---
 
-### Hypothesis 3 for Time-Off impacting performance
-
-#### Past Analysis
-{:.no_toc}
-
-##### [2020-09-14: Folks on PTO over summer and F&F days have caused lags in performance](https://gitlab.com/gitlab-com/support/metrics/-/issues/3)
-**Evidence Gathered:**
- - [Ticket update volume](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/41841912)
- - [Summary spreadsheet showing active contributions to ZD tickets (over 20 ticket updates per engineer per month)](https://docs.google.com/spreadsheets/d/1vEJ2ks8pNeR2HVUn1actQcGEHH1ERxct7_kIDasOWDo/edit#gid=960486526)
- - [Zapier enabled PTO calcualtor spreadsheet](https://docs.google.com/spreadsheets/d/1EFpF6_ixLtxaffd9hurvtnbXGpZuXrYAYx-5U4u3M40/edit#gid=1429709856)
- 
-**Approach:**
-- Examine SLA performance indicators such as FRT/NRT achievement rate and median response times and identify the months or weeks where there was a downward trend.
-- Narrow down the performance decline using ticket forms and other attributes.
-- Using the Ticket update volume report 
-   - Correlate the dates with the number of active engineers that were shown to be active that month/week (for example 20 tickets worked on per month per engineer can be considered the target volume).
-- Using the Zapier enabled PTO calculator spreadsheet
-   - Correlate the dates with the number of IC's on PTO
-#### Shaping Actions
-{:.no_toc}
