@@ -18,7 +18,6 @@ Team member engagement is important to the overall continued success of GitLab. 
 
 In October 2018 GitLab launched it's annual enagement survey via CultureAmp.  The survey was benchmarked against 2018 New Tech - Mid Size Companies (200-500 team members).   
 
-
 * 94% participation rate
 * Overall engagement scores - 83% favorable, 12% neutral and 5% unfavorable
 
@@ -47,6 +46,7 @@ The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ te
 * Functional results engineering, sales, etc will be made available to the entire company to review.
 
 For those that participate in future survey's, please note, once you hit submit you are unable to go in and edit your answers or add additional comments. It will show that you have completed the survey. Please use the "save and exit" option until you are ready to submit your final answers.
+
 # Highest 3 Scores
 
 * I am proud to work for GitLab - 95% favorable response
