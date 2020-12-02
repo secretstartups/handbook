@@ -71,6 +71,10 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
 1. ***Experience***: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day.
 
+#### Team Member Actions
+
+As a departing team member, it is good to know that there are some tasks that you will need to take care before your offboarding takes place and things you do not need to worry about. Take a look at the [Offboarding FAQ's](/handbook/people-group/offboarding/faq.html) which will help provide additional information regarding your offboarding. 
+
 #### Exit Survey
 
 The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.

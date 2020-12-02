@@ -14,11 +14,29 @@ description: "Common Questions about the Offboarding Process"
 
 **When will my offboarding issue be created?**
 
-It will be created on your last day, the People Experience Associate assigned to your offboarding is responsible for confirming your log-off time with you.
+It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at either 5 pm your local time or 12 pm PST, whichever comes first. 
 
 **When will my access be deactivated?**
 
-Your access will be deactivated on your last day, after the team member has logged off for the day. The People Experience Associate will communicate with the departing team member a day or two before their last day to confirm their final logoff time.
+Your access will be deactivated on your last day, after you have logged off for the day. The People Experience Associate will communicate with the departing team member on their last day to confirm their final logoff time (the time is generally confirmed by the People Business Partner during offboarding notification). 
+
+**Do I need to wipe my laptop?**
+
+A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address.
+
+**Is there anything I need to do to get my offboarding issue created?**
+
+No, there is nothing you need to action. The People Experience Associate handling your offboarding will be responsible. 
+
+**Is there anything I need to do before my last day?** 
+
+The following can be used as a guide on what actions could need to be taken before your last day:
+
+- Unassign / Reassign any open projects, issues or merge requests to other team members or your manager.
+- [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
+- Prepare a handover document for your team / manager. 
+- Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
+- If you feel comfortable, send a message in the `tema-member-updates` Slack channel notifying everyone of your departure. 
 
 **When will I receive my final pay?**
 
