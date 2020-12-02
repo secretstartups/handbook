@@ -196,7 +196,7 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
       1. This takes it out of the 'Needs assignee' view so other engineers won't waste
          time on it
       1. *NOTE: The SLA clock continues to run!*
-   1. Work on the ticket and aim to get a helpful reply out to the customer. Work with the team if needed as described above.
+   1. Work on the ticket and aim to get a helpful reply out to the user. Work with the team if needed as described above.
    1. If you're not able to get a reply out to the customer even after seeking
       help, please speak with a manager to determine an appropriate course of
       action.
