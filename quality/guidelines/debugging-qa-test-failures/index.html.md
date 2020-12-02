@@ -284,7 +284,7 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 If you've found that the test is the cause of the failure (either because the application code was changed or there's a bug in the test itself), it will need to be fixed. This might be done by another SET or by yourself. However, it should be fixed as soon as possible. In any case, the steps to follow are as follows:
 
 - Create a merge request (MR) with the fix for the test failure.
-- Apply the ~"Pick into auto-deploy" and ~"priority::1" labels.
+- Apply the ~"Pick into auto-deploy", ~"priority::1", and ~"severity::1" labels.
 
 If the test was flaky:
 
