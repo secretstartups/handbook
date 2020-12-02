@@ -47,6 +47,8 @@ First Order and Connected New can be reported on via the Order Type fields in Sa
 | (WIP) Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
 | (WIP) Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
+Order Type (all iterations) runs on a nightly job, please allow 24 hours after a relevant change for the fields to update. [Technical documentation here](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#order-type-system).
+
 #### Order Type 2.0 Field Values
 
 Order Type 2.0 introduced additional values that relate back to our [ARR defintion framework](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#arr-analysis-framework)
