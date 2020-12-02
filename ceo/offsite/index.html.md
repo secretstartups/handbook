@@ -220,13 +220,13 @@ Live streaming will further engage team members while promoting trust in leaders
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book. 
 This also allows team members to engage in the book.
 
-Employees may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
+Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
 
 Books that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 
 ### Previous Reads
 
-* [Current] [So You want to Talk about Race](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) by Ijeoma Oluo
+* [So You want to Talk about Race](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race) by Ijeoma Oluo
 * [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brené Brown
 * [Better Allies](https://www.goodreads.com/book/show/43545460-better-allies) by Karen Catlin
 * [Great at Work](https://www.goodreads.com/book/show/35297611-great-at-work) by Morten Hansen
