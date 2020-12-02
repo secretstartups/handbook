@@ -92,12 +92,22 @@ During the second week of a milestone, in addition to resolving any questions or
 
 #### Issue triage
 
-Issue triage starts with reviewing rollover (unplanned issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
+Issue triage starts with reviewing rollover (issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
 
 Aside from rollover issues, the remaining backlog issues will be reviewed in the following order
 1. Work deferred due to rollover is still accurately prioritized and scheduled in the appropriate milestone
 1. Open issues labeled `team::Core-Infra` and `workflow-infra::triage` will have an initial `core-infra::pX` priority added and move to `workflow-infra::ready`
 1. New issues labeled `team::Reliability`
+
+##### Issue weights
+
+During issue triage, we estimate the complexity of a task and time required for completion. Based on that assessment, we assign weight values according to the following matrix.
+
+| Time / Complexity | *simple* | *average* | *complex* |
+|:---:|---|---|---|
+| *<4 hrs* | 1 | 2 | 3 |
+| *4-8 hrs* | 5 | 8 | 13 |
+| *>8 hrs* | 13 | 20 | 40 |
 
 #### Planning discussion
 
