@@ -73,7 +73,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 
 ### Release Post Manager
 
-Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
+Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. 
 
 Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
@@ -96,11 +96,30 @@ whole process. If you take it, you're responsible for the entire process and mus
 available to carry it out until the end.
 {:.alert .alert-warning}
 
-The Release Post Manager is accountable for:
+#### Release Post Manager Shadow 
+
+Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
+
+Shadows should remain engaged with the release process by:
+* Following the activity in the slack channels
+* Attending the weekly standups
+* Assist the Release Post Manager with content reviews and any other tasks they ask for help on
+
+In order to properly onboard the shadow, the Release Post Manager should: 
+
+* Set up an initial coffee chat with your shadow the week after the previous release ships to get to know each other and clarify any initial questions from the shadow
+* Point the shadow to this page 
+* Include the shadow in the initial release post MR creation 
+* Include the shadow on all meetings and as much as possible on activities like reviews or other opportunities where you can work synchronously together
+
+Remember - the goal of the shadow is to get them engaged and aware of the process so they can run one on their own. Include the shadow as much as possible so they can learn and be prepared!
+
+#### Release Post Manager Responsibilities
 
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Supporting and checking in with the TW lead and Messaging lead via Slack and a brief weekly standup
+- Including the Release Post Manager Shadow as much as possible on activities 
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
