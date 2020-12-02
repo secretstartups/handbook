@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Growth Marketing Handbook
-description: Growth Marketing Handbook
+title: Inbound Marketing Handbook
+description: Inbound Marketing Handbook
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
@@ -47,7 +47,7 @@ Inbound Marketing is responsible for:
 ## Teams
 Inbound Marketing is comprised of these Marketing Teams. Visit their handbooks to learn more. 
 * [Global Content](/handbook/marketing/inbound-marketing/content/#what-does-the-global-content-team-do)
-* [Marketing Website](/handbook/marketing/inbound-marketing/digital-experience/) 
+* [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) 
 * [Search Marketing](/handbook/marketing/inbound-marketing/search-marketing/)
 
 ## Managed Channels

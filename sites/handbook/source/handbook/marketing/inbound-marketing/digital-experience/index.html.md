@@ -46,7 +46,7 @@ Contribute and execute on the strategy for the marketing site.
 3. Set the long-term strategy for website to continue to see the content, design, and processes refreshed
 4. Establish SEO partnership
 
-View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/](https://about.gitlab.com/handbook/inbound-marketing/digital-experience/foundations-agenda/)
+View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/)
 
 ### Principles (WIP)
 
