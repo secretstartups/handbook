@@ -9,7 +9,7 @@ title: "Tax Treatment of Stock Options as Employee of GitLab Inc"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Award Types
+### Award Types
 
 For USA employees the following stock option treatments have been identified:
 
@@ -39,20 +39,20 @@ Non-Statutory Stock Option
 - If the employee's supplemental wages exceed USD 1 million: the combined (federal) maximum withholding tax rate is 39.35%
 The combined maximum withholding rate does not consider state and/or local tax withholding obligations, if any.
 
-## Equity Award
+### Equity Award
 Stock Option Plan
 
-## When taxed?
+### When taxed?
 - ISO Disqualifying Disposition: Sale
 - ISO Qualifying Disposition: Sale
 - Non-Statutory Stock Option: Exercise
 
-## What is taxed?
+### What is taxed?
 - ISO Disqualifying Disposition: Ordinary Income, lesser of the Spread at exercise or the sale proceeds. Capital Gain: Sale proceeds less fair market value (e.g. buying price) at exercise
 - ISO Qualifying Disposition: Long-Term Capital Gain: Sale proceeds less exercise price
 - Non-Statutory Stock Option: The "spread": Difference between the Offer Price and Exercise Price 
 
-## Subject to tax withholding?
+### Subject to tax withholding?
 - ISO Disqualifying Disposition: No
 - ISO Qualifying Disposition: No
 - Non-Statutory Stock Option: Yes
@@ -60,22 +60,22 @@ Stock Option Plan
   - Maximum Income Tax Rate: 37% on annual income greater than USD 510,300 (USD 612,350 married filing jointly). However, equity award income is subject to withholding as supplemental wages at a flat statutory rate of 22% (unless the employee has elected a higher withholding rate via Form W-4). Federal supplemental withholding rate increases to 37% to the extent total supplemental wages exceed USD 1 million.
   - State and/or local income taxes also may be due.
 
-## Social Insurance Contribution Withholding?
+### Social Insurance Contribution Withholding?
 - ISO Disqualifying Disposition: No
 - ISO Qualifying Disposition: No
 - Non-Statutory Stock Option: Yes (partially uncapped)
 
-## Employer Social Insurance Contribution Requirement?
+### Employer Social Insurance Contribution Requirement?
 - ISO Disqualifying Disposition: No
 - ISO Qualifying Disposition: No
 - Non-Statutory Stock Option: Yes (partially uncapped)
 
-## Employee Maximum Combined Tax Withholding Rate
+### Employee Maximum Combined Tax Withholding Rate
 - ISO Disqualifying Disposition: N/A
 - ISO Qualifying Disposition: N/A
 - Non-Statutory Stock Option: 24.35%
 
-## Social Insurance Contribution Withholding/Payment detail
+### Social Insurance Contribution Withholding/Payment detail
 - ISO Disqualifying Disposition: N/A
 - ISO Qualifying Disposition: N/A
 - Non-Statutory Stock Option:
@@ -88,7 +88,7 @@ Stock Option Plan
   - 1.45% (uncapped) Medicare
   - State disability insurance tax also may be due
 
-## Employer Compliance/Tax Reporting
+### Employer Compliance/Tax Reporting
 - ISO Disqualifying Disposition: Yes
   - GitLab is required to report the Incentive Stock Option (ISO) exercise details on Form 3921
   - Copy B of this form is due to the employee by January 31
