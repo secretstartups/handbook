@@ -38,7 +38,8 @@ Infrastructure performance is scoped to the performance of GitLab SaaS Infrastru
 
 * **DRI**: [Steve Loyd](https://gitlab.com/sloyd), VP of Infrastructure. 
 * Performance Indicators:
-  * [GitLab.com known application scaling bottlenecks](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-known-application-scaling-bottlenecks)
+  * [GitLab.com Availability](handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability)
+  * [GitLab.com known application scaling bottlenecks](handbook/engineering/infrastructure/performance-indicators/#gitlabcom-known-application-scaling-bottlenecks)
 
 ## Other Related Pages
 {:.no_toc}
