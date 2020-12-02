@@ -287,7 +287,7 @@ Any demos or announcements that need to be shared with the entire team should be
 |:---------:|:---------:|:---------------------:|:-----------------------------------------------------------------------------------:|
 |  Tuesday  |    APAC   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
 |  Tuesday  |    AMER   |  Casual Catch up |         Agendaless, a space for the team to banter and chat. If you have work to talk about, feel free.        |
-| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone who is interested in (or has a point of interest for) those who work with GitLab.com customers and processes - rotates through regions |
+| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone  interested in GitLab.com customers and processes - rotates day/time through regions |
 |  Thursday  |    EMEA   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
 
 The regions listed above are the regions for which each call may be the most convenient, but all are welcome on any call. Every call is recorded and notes are taken on the agenda for each one. If you miss a meeting or otherwise can't make it, you can always get caught up.
@@ -297,6 +297,14 @@ All Zoom and agenda links can be found on the relevant calendar entry in the Sup
 #### Support Leadership Meetings
 
 The Support management team meet regularly. Details of these calls are on the [Support Managers page](/handbook/support/managers)
+
+#### Support Regional Team Meetings
+
+Some regional Support teams have meetings oriented around company news, Support initiatives, training plans, and connectedness.
+
+| Weekday | Region | Meeting Name | Purpose |
+|:-------:|:------:|:------------:|:-------:|
+| Wednesday | AMER-E | Weekly News | For team members reporting to Rebecca S |
 
 #### Senior Support Engineer Office Hours
 
