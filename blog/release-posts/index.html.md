@@ -388,11 +388,11 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 ##### Process for merging late additions
 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The RPM will do their best to accommodate the request, but it is not guaranteed.
-- If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with:
+- If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with but keep in mind **option 3 is hight risk and NOT recommended**:
   1. PM closes the original MR and creates a new MR from the `release-X-Y` branch.
-  2. PM manually rebase their MR and updates the target branch to `release-X-Y` branch **and** move image files to the release-specific folder on the `release-X-Y` branch.
-  3. PM closes the original MR, and PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR.
-- PM notifies the RPM to merge if option 1 or 2 was implemented 
+  2. PM closes the original MR, and PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR.
+  3. PM manually rebase their MR and updates the target branch to `release-X-Y` branch **and** move image files to the release-specific folder on the `release-X-Y` branch. (Avoid this options if possible!)
+- PM notifies the RPM to merge (for option 1 and 3) or just review (for option 2).
 - If the release post item is a top feature or part of the release post theme, the RPM and Messaging Lead will work together to update the release post.
 
 For options 1 and 2 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
