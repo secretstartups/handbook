@@ -55,6 +55,10 @@ graph LR
     step_manager_final-->stop
 ```
 
+### Eligibility
+
+All team members hired on or before October 31st will be eligible to be evaluated as part of the Annual Compensation Review cycle. Team members hired after this date will be reviewed to ensure their salary does not fall below the bottom of their compensation band based on increases to benchmark or location factor. If this does occur, the team member will be adjusted to the bottom of the band during the Annual Compensation Review cycle.
+
 ### Annual Compensation Review Timeline
 
 1. A member of the Total Rewards team will join the People Business Partner sync on a monthly basis at least one month before Annual Compensation Review begins. 
