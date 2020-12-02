@@ -405,13 +405,34 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 - Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
 
 ## Co-Selling
-Co selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account. 
+Co-selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account. 
 Area Sales Managers have an expectation to log a minimum of 5 co-selling calls per rolling 7 days, although we are aiming to achieve closer to 10-12 calls over a rolling 7 days.
 
-### Co-Selling Roles
+### Co-Selling Roles when working with your ASM
 * Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
-* Co- Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
+* Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
 For additional invormation please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
+
+### Selling with Channel Partners
+The goal of selling with a Partner is to extend the customer selling and services capacity/coverage for GitLab Commercial AEs. This is also a form of co-selling which involves building a simple aligned plan establishing “who will do what, when?” and execution of that plan, led by the AE, and supported by the Partner and Channel Manager.  
+
+Note, this is different than the routine co-selling practice however it could include co-selling with your manager. In most cases, a member of the GitLab Channel team will also be engaged to help manage the Partner actions agreed up in an aligned co-selling plan. 
+
+#### Key AE Benefits from Partner Co-selling
+- Extended team delivering extended AE selling capabilities: GitLab trained Partner AE’s and SA’s are standing by to execute on some the selling tasks as part of an agreed upon plan. 
+- Accelerated reach to new customer logos “Land”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
+- Increased customer “Expand” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.   
+
+#### How do AEs become active Partner opportunities?
+1. [Approved Partner GitLab Deal Registrations (PIO’s)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
+1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
+
+#### More resources on selling with Partners
+- LevelUp video starts with a basic understanding of the Channel Partner landscape in [Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U). 
+- LevelUp video on [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2), specifically for AE’s to learn more about co-selling success.
+- Learn more about co-selling best practices, and how Partners can help build out key elements of an AE’s  R7 & Command Plans. This is found in the "Channel Partner Co-Selling" document.  
+- Slack `#channel-sales` with any questions or requests for assistance. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.  
+
 
 ## Center of Excellence
 
