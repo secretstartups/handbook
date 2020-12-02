@@ -12,12 +12,6 @@ title: "Education Services"
 ### Education Services Overview
 Education Services are part of the Professional Services (PS) Team within GitLab Customer Success. 
 
-There is a wealth of online content available today on You Tube, the GitLab Handbook, GitLab Docs, and even through EdTech platforms such as Udemy. These content pieces are created by some of the best experts in the GitLab ecosystem, and they are effective for explaining the main concepts, principles, and procedures for using GitLab. Indeed, the GitLab Docs site are considered the Single Source of Truth (SSOT) for the procedures covered in Education Services learning offerings.
-
-Education Services recognizes that learning happens beyond the “explaining” stage in the journey to mastery. Checking for understanding, getting timely feedback, practicing new skills, and applying those skills on the job are each critical stages in the learning cycle.  To facilitate this journey, learning experiences must be interesting, positive, and relevant to maintain the learner's attention and motivation towards mastery.
-
-With these learning quality pillars in mind, Educatin Services has formulated a [comprehensive strategy](https://docs.google.com/presentation/d/1rnSauSssTeYGNd9KAcgPGJNw0cWQ9g5nWs0lMZjiV74/edit?usp=sharing) and [curriculum plan](https://docs.google.com/document/d/1p4u9aRK7_pbErQYyHcC2EBrFPeQI9BBJzWZqqOUqU1Y/edit?usp=sharing) to efficiently offer GitLab customers effective and scalable online learning experiences. The forward-looking plan may include considerations for more prescriptive, formalized learning paths leading to GitLab certifications.
-
 #### Mission
 
 The primary mission is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. 
