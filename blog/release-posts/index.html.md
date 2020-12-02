@@ -395,7 +395,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 - PM notifies the RPM to merge (for option 1 and 3) or just review (for option 2).
 - If the release post item is a top feature or part of the release post theme, the RPM and Messaging Lead will work together to update the release post.
 
-For options 1 and 2 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
+For options 1 and 3 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
 
 #### Accountability
 
