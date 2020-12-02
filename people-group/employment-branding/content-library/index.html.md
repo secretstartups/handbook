@@ -26,9 +26,9 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 ## Key messages about life at GitLab
 
-- We're the largest all-remote company in the world, and we've built our culture this way from our founding year.
-- GitLab is a place where you can contribute from almost anywhere. 
-- You’ll be part of an ambitious, productive team that embraces a [set of shared ​values](/handbook/values/)​ in everything we do.
+- We're the largest all-remote company in the world, and we've intentionally built our culture this way from our founding year.
+- GitLab is a place where you can contribute from almost anywhere around the globe. 
+- We have an incredibly unique culture and working environment that's unlike any company you've experienced. This is an ambitious, productive team that embraces a [set of shared ​values and behaviors](/handbook/values/)​ in everything we do.
 - More about [life at GitLab and our culture](/company/culture/).
 
 ## Key messages about our oubound hiring model 
@@ -71,12 +71,17 @@ Here's a curated list of the latest and greatest articles about GitLab. These ar
 
 ## Remote work
 
+
+
 ## Diversity, inclusion, and belonging
+
+
 
 ## Company and product success
 
 
 
+For a daily digest of press about GitLab, as well as more detailed regional content, please follow the #newswire channel on Slack. 
 
 # Blogs
 
@@ -103,13 +108,18 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 
 ## Team-specific videos
 
-
-
-# Department-level messaging
+# Team-specific messaging
 
 
 ## Sales team 
 
+# Resources
+
+## Logos, company description, team photos
+
+If you're in need of an official GitLab logo, company description, green screens, or other press-related assets, refer to [the press kit](/press/press-kit/) on the GitLab website.
+
+## Graphics and images
 
 
 # Contribute to the content library 
