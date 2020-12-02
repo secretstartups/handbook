@@ -20,25 +20,28 @@ We categorize performance into 3 facets
 
 Backend performance is scoped to response time of API, Controllers and command line interfaces (e.g. git). 
 
-* **DRI**: [Christopher Lefelhocz](https://gitlab.com/clefelhocz1), VP of Development. 
-* Performance Indicators:
-  * [Memory Utilization (backlog)](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8841)
+**DRI**: [Christopher Lefelhocz](https://gitlab.com/clefelhocz1), VP of Development. 
+
+Performance Indicators:
+- [Memory Utilization (backlog)](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8841)
 
 ### Frontend performance
 
 Frontend performance is scoped to response time of the visible pages and UI components of GitLab.
 
-* **DRI**: [Christopher Lefelhocz](https://gitlab.com/clefelhocz1), VP of Development.
-* Performance Indicators:
-  * [Largest Contentful Paint (LCP)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp)
+**DRI**: [Christopher Lefelhocz](https://gitlab.com/clefelhocz1), VP of Development.
+
+Performance Indicators:
+- [Largest Contentful Paint (LCP)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp)
 
 ### Infrastructure performance
 
 Infrastructure performance is scoped to the performance of GitLab SaaS Infrastructure.
 
-* **DRI**: [Steve Loyd](https://gitlab.com/sloyd), VP of Infrastructure. 
-* Performance Indicators:
-  * [GitLab.com known application scaling bottlenecks](handbook/engineering/infrastructure/performance-indicators/#gitlabcom-known-application-scaling-bottlenecks)
+**DRI**: [Steve Loyd](https://gitlab.com/sloyd), VP of Infrastructure. 
+
+Performance Indicators:
+- [GitLab.com known application scaling bottlenecks](handbook/engineering/infrastructure/performance-indicators/#gitlabcom-known-application-scaling-bottlenecks)
 
 ## Other Related Pages
 {:.no_toc}
