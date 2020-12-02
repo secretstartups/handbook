@@ -259,7 +259,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 
 *February*
 * 2021-02-01: Performance factors viewable to team members in BHR on the "Job" tab of a team member's profile
-* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2020-02-15 so managers have an opportunity to communicate prior)
+* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2021-02-15 so managers have an opportunity to communicate prior)
 * 2021-02-04: Total Rewards to upload all approved changes to BHR for payroll to process
 * 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
 * 2021-02-15: Salary increases visible to team members in BambooHR
