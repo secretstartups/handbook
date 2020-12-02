@@ -44,10 +44,12 @@ First Order and Connected New can be reported on via the Order Type fields in Sa
 | SFDC Field Name       | Source of Truth for Time Period | Description                                                                                                    |
 |-----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
 | Order Type 1.0        | FY21                            | Value stamped at close.                                                                                        |
-| Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
-| Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
+| (WIP) Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
+| (WIP) Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
 #### Order Type 2.0 Field Values
+
+Order Type 2.0 introduced additional values that relate back to our [ARR defintion framework](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#arr-analysis-framework)
 
 | Value                | Definition                                                                                       |
 |----------------------|--------------------------------------------------------------------------------------------------|
