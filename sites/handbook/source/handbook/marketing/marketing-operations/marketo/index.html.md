@@ -232,4 +232,4 @@ The Field Marketing and Marketing Program teams use targeted email lists as a to
 * Final Smart List is available 2 days prior to email deployment - MOps
 
 ## Mailchimp sends
-In some cases, we will use Mailchimp for sending emails. This is the case for security alert emails. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 
+Our Mailchimp subscription is currently paused to prevent being billed while we deprecate. We are allowed to unpause 2x a year. We can unpause only in the rare case of needing to send a large security alert email. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 
