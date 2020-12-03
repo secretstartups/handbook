@@ -85,7 +85,7 @@ If we don't have confidence in the MVC or what success looks like, we should con
 
 #### Description
 
-The growth of a world class product is built from a well maintained backlog. Product Managers are responsible for refining a group's backlog to ensure validation opportunities are scoped and [prioritized](https://about.gitlab.com/handbook/product/product-processes/#prioritization) in line with category direction and stage or section level strategy. The backlog is also the single source of truth for [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) to understand and engage with your group. An issue position in the backlog, along with the description, discussion, and metadata on those issues are key pieces of data necessary to keep stakeholders up to date.
+The growth of a world class product is built from a well maintained backlog. Product Managers are responsible for refining a group's backlog to ensure validation opportunities are scoped and [prioritized](https://about.gitlab.com/handbook/product/product-processes/#prioritization) in line with category direction, stage, and/or section level strategy. The backlog is also the single source of truth for [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) to understand and engage with your group. An issue position in the backlog, along with the description, discussion, and metadata on those issues are key pieces of data necessary to keep stakeholders up to date.
 
 #### Outcomes and Activities
 
