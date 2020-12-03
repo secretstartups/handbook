@@ -22,7 +22,7 @@ The quick format includes:
 ### Process
 1. Email is sent out by 9 am CT on the 22nd (or first business day) of each month
    1. Sent to sales-all and SDR email groups
-   1. Reminder in #sales-all Slack channel
+   1. Reminder in #sales-all Slack channel, cross-post to #sdr_global 
 1. Email is also uploaded to [Outreach](/handbook/marketing/marketing-operations/outreach/) for any team members who prefer to use this tool to send to customers. 
 
 ### Helpful Resources
