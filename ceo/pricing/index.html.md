@@ -298,18 +298,9 @@ The disadvantages are:
 
 We currently think the disadvantages outweigh the advantages.
 
-## Multiple plans for one customer
+## One plan for one customer
 
 We considered selling multiple plans to the same customer, allowing them to have some users on every plan.
-
-The advantages are:
-
-1. Gradual upgrading to more expensive features per team; improving rollout when only portions of the organization are well suited to the higher tiers.
-1. Pay only for the features you use.
-1. Consistency with GitLab.com pricing where you can have different subscriptions for different groups.
-1. Consolidation of all users in a single instance rather then separate instances with separate licenses.
-1. Increased transparency on license and usage; reducing renewal risk.
-1. Less negotiation.
 
 The disadvantages are:
 
@@ -320,7 +311,16 @@ The disadvantages are:
 1. Some features can't be disabled on a per user basis, like High Availability (HA).
 1. The customer has to administer a process for how users can get a higher plan.
 
-We currently think the disadvantages outweigh the advantages.
+The advantages are:
+
+1. Gradual upgrading to more expensive features per team; improving rollout when only portions of the organization are well suited to the higher tiers.
+1. Pay only for the features you use.
+1. Consistency with GitLab.com pricing where you can have different subscriptions for different groups.
+1. Consolidation of all users in a single instance rather then separate instances with separate licenses.
+1. Increased transparency on license and usage; reducing renewal risk.
+1. Less negotiation.
+
+We currently think that offering multiple plans to one customers doesn't work because the disadvantages outweigh the advantages.
 
 Counting different types of users, roles for users, or other modifications of a user definition tends to lead to the same problems as above.
 
