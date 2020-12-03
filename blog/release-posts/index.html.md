@@ -280,7 +280,7 @@ The Community Advocates team will reach out to the release post manager in Slack
 
 #### Content reviews
 
-The due dates for various reviews across all participants can be found on the release post MR and [release post item MR templates](#templates). PM contributors are encouraged to cease attempts to add new content blocks after the final merge deadline of the 17th, and especially after final content assembly happens at 8 AM PT (3 PM UTC). But if highly impactful features are released it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
+The due dates for various reviews across all participants can be found on the [release post MR template](#templates) and the [release post item MR template](#templates). PM contributors are encouraged to cease attempts to add new content blocks after the content merge deadline on the 17th, and especially after final content assembly happens on the 18th at 8 AM PT (3 PM UTC). Exceptions can be made for highly impactful features but it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
 Keeping an eye on the various content reviews (TW, PMM and Director) for the individual release post items (content block MRs) is the responsibility of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear. It's also important to do this because this page is LIVE to users and should be error free.
 
@@ -288,9 +288,16 @@ The content review of the Performance Improvements and Bug Fixes MRs are the res
 
 The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
 
-After the release post MR has been generated, additional feedback is solicited by the RPM from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Consistency in messaging when they can expect to start their review about 24 hours in advance is appreciated, especially when this review may be over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
+After the Review App for the release post has been generated, the Release Post Manager solicits additional feedback from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Clearly communicate when they can expect to start their review 24 hours in advance; this is especially important when the review must happen over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
 
-The review of all content for quality, including the marketing intro, is recommended for the Release Post Manager to keep things smooth, since it is the Release Post Manager's responsibility to make sure all content is completed until by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
+It is the Release Post Manager's responsibility to make sure all content is completed by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
+
+##### What Release Post Manager should look for when reviewing content blocks
+
+It is recommended for the Release Post Manager to review all content for quality, including the marketing intro. But when reviewing content blocks in each relase post item MRs, the RPM should look for the following:
+
+1. Is the what/why clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
+1. Does the filenames follow the recommended file-naming convention? See **Important note on naming files** under [Instructions](#instructions) for PM contributors.
 
 #### Next steps
 
