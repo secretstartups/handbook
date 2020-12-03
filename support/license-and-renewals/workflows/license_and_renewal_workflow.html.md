@@ -42,7 +42,7 @@ The [Fulfillment](https://about.gitlab.com/direction/fulfillment/) Stage manages
 
 ## How does this queue align with the "Growth" Stage?
 
-When we look at the product [Growth](/handbook/product/product-categories/#growth-stage) stage, we can see that the team owns responsibilities that align with some of the types of requests we generally see in the L&R queue, in particular the `Conversion` group.
+When we look at the product [Growth](/handbook/product/categories/#growth-stage) stage, we can see that the team owns responsibilities that align with some of the types of requests we generally see in the L&R queue, in particular the `Conversion` group.
 
 - Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate) 
 - Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)

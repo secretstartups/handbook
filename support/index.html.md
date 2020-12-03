@@ -368,7 +368,7 @@ You can read about how we got this started
 As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
-- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
 - Each section should have a Support manager counterpart.
 - Each group should have an individual contributor counterpart.
 - Currently (2019-11) to make it easier for product managers, each PM will get the same individual contributor counterpart for all the parts of the product they manage. That might mean a whole stage, multiple groups, or just a single group.
@@ -396,7 +396,7 @@ There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=pa
 
 Tips:
 - Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.
-- There are [labels for each section (devops::) and group (group::)](/handbook/product/product-categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
+- There are [labels for each section (devops::) and group (group::)](/handbook/product/categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
 - [Subscribe to labels](/blog/2016/04/13/feature-highlight-subscribe-to-label/) and [set up email notifications.](https://docs.gitlab.com/ee/user/profile/notifications.html)
 - For issues only (not MRs or Epics) RSS is also an option. From the issue search results, you can select the RSS feed button to get a custom RSS feed.
 - [Engineering team pages](/handbook/engineering/#engineering-departments-sections--teams) usually have information about their labels, slack channels, boards, and meetings under 'useful links' at the end.

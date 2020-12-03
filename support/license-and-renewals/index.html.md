@@ -21,7 +21,7 @@ are:
    or [trial](https://gitlab.com/gitlab-com/internal-audit/internal-audit/-/issues/212)
    licenses for SOX compliance purposes.
 1. [Business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
-   mean that the [Fulfillment product section](https://about.gitlab.com/handbook/product/product-categories/#fulfillment-section)
+   mean that the [Fulfillment product section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
    will not have sufficient capacity to address and resolve major pain points
    within the next 12 months.
 1. The effort to stand up an entirely new team would be considerable; Support
