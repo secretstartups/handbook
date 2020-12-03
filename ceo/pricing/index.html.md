@@ -302,7 +302,7 @@ We currently think the disadvantages outweigh the advantages.
 
 The advantages are:
 
-1. Users can use more features from more stages uniformally. Taking advantage of the power the one DevOps application mean more ROI for the customer.
+1. Users can use more features from more stages uniformally. Taking advantage of the power the one DevOps application results in better ROI for the customer.
 1. Buyers do not have to estimate how much of each tier they will need.
 1. There will not be confusion on what users can or can't use.
 1. Simple pricing and true-up process.
@@ -311,7 +311,7 @@ The advantages are:
 
 The disadvantages are:
 
-1. Customers may be paying for feature that aren't used. 
+1. Customers may be paying for feature they feel not enough users are using.
 1. May lead to multiple instances with separate licenses for different groups.
 1. More negotiation up front.
 1. Increased renewal risks.
