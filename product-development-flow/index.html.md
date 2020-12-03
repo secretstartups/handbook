@@ -252,7 +252,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | Engineering Manager <br/>Product Designer <br/>Software Engineers in Test <br/>Engineers |
-| Informed      | PMM <br/>TAM <br/>Technical Writer |
+| Informed      | PMM <br/>TAM <br/>Technical Writer <br/> Application Security Engineers|
 
 #### Description
 
