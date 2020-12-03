@@ -40,9 +40,9 @@ If you would like to be included in the announcement but would prefer not to hav
 
 ## Significant Life Events
 ### Flowers and Gift Ordering
-The GitLab People Experience Team is able to send Gifts and Flowers on behalf of the Company or a specific Team in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery or the loss of a loved one.
+The GitLab People Experience Team is able to send Gifts and Flowers on behalf of the Company or a specific Team in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery or the loss of a loved one. Only one order will be sent for a significant life event, if multiple requests are made, the People Experience Team will communicate this further with the manager. 
 
-The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**.
+The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
 
 We are able to facilitate the ordering of Flowers or Gifts for deliver however are unable to support the purchase of Gift Cards at this time.  In an instance where team members would like to extend the offer of a meal or food delivery service this would need to be expensed by the recipient for reimbursement.
 

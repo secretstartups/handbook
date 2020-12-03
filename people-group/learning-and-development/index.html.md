@@ -26,7 +26,7 @@ Our mission is to provide resources to enable our team members to enhance succes
 ## GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx12cYLIHGZluHlc7fqO9hYu9UqCc22vy8kx1p_ZGZnvAoDTm5UbI8ptlPdTuJDZKGdd7fIb_F3oUp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ## Handbook First Training Content
@@ -300,7 +300,7 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 We are currently in the process of implementing the [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-groundworks). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 
 We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [
-Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/)
+Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/)
 
 
 ## Compliance Courses 

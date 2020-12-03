@@ -13,7 +13,7 @@ title: "Group Conversations"
 
 Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). 
 
-The [People Experience Associates](/job-families/people-ops/people-experience-associate/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
+The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -70,7 +70,7 @@ If you have questions around an upcoming Group Conversation or would like to sta
 
 ### Scheduling and Selecting an Alternate Host
 
-Calls are scheduled by [People Experience Team](/handbook/people-group/people-experience-team/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. People Experience Associates are not responsible for finding a replacement for your day. If you've agreed to switch, please do the following:
+Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-business-administrator/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. The Executive Business Administrator team is not responsible for finding a replacement for your day. If you've agreed to switch, please do the following:
   - Go to the *GitLab Team calendar* invite
   - Update the date of your and the other invite to be switched
   - Choose to send an update to the invitees
@@ -78,15 +78,15 @@ Calls are scheduled by [People Experience Team](/handbook/people-group/people-ex
 
 If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/people-group/group-conversations/#schedule--dri) to Host:
 - Please update the Alternate Host line in the Group Conversation Agenda document.
-- Please notify any of the People Experience Associates in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
+- Please notify any of the Executive Business Administrator Team or your functional EBA in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
 If your Group Conversation falls on a day where you feel that a large percentage of the company may be OOO (for example, a Public Holiday observed by a number of countries). In such instances:
 - In the #group-conversations channel, ask channel members if they agree that a Group Conversation should not occur on a particular date.
 - If there is consensus, look at the Group Conversation [Schedule & DRI](/handbook/people-group/group-conversations/#schedule--dri). Find the next open slot and check on the GitLab Team Meetings calendar to be certain there is no meeting schedule on that day at the GC time (8am PT).
-- Ping the People Experience team (`@people-exp`) in Slack in your thread and ask them to move your regularly scheduled GC to the open slot you have found. This will be a one-time move and all other instances of your GC will stay as scheduled.
+- Ping the EBA team (`@exec-admins`) in Slack in your thread and ask them to move your regularly scheduled GC to the open slot you have found. This will be a one-time move and all other instances of your GC will stay as scheduled.
 
-All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom (in the People Operations Zoom account) prior to this rule, please update the GC event in Zoom and in the GitLab Team Meetings calendar.
-  - Log into the People Operations Zoom account, go to Meetings, find the relevant Group Conversation, then click Edit this Meeting, click the Require meeting password checkbox, Save.
+All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom (in the EBA Zoom account) prior to this rule, please update the GC event in Zoom and in the GitLab Team Meetings calendar.
+  - Log into the EBA Zoom account, go to Meetings, find the relevant Group Conversation, then click Edit this Meeting, click the Require meeting password checkbox, Save.
   - Update the GitLab Team Meetings calendar event with the new longer URL which adds ?pwd= and then 20 random letters and numbers.  
 
 ### Preparation Tips
@@ -96,7 +96,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. Make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation,  and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. People Operations will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
+1. The host of the GC needs to make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation,  and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. The EBA Team will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
 1. Post links to the Group Conversation Agenda Document and the slides or video in the #whats-happening-at-gitlab channel 24 hours before the call.
 1. Consider blocking off the 30 minutes before your scheduled to lead a Group Conversation
 
@@ -125,7 +125,7 @@ There are three layers of content in a presentation:
 
 We try not to cancel a GC. 
 We prefer to have half-prepared GCs over delaying them, but occasionally there may be a last-minute cancellation. 
-If a Group Conversation is cancelled, the People Operations and People Experience teams should ask a member of the E-Group to host a Pop-up AMA. 
+If a Group Conversation is cancelled, the EBA Team should ask a member of the E-Group to host a Pop-up AMA. 
 These should be called Pop-up AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a GC cancellation.  
 
 #### Additional Consideration for Functional Presentations
@@ -149,7 +149,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 ## For Moderators
 
-The `People Experience and People Specialist` teams are responsible for moderating the following calls on a rotational basis:
+The `EBA` team are responsible for moderating the following calls on a rotational basis:
 
 - AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)) 
 - Group Conversations 
@@ -171,7 +171,7 @@ Additional links which may be useful when preparing to moderate a call include:
 2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 3. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
 4. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
-5. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `People Operations Zoom Account' if you are successfullly logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the upper right hand corner of your Zoom screen.
+5. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `EBA Zoom Account' if you are successfullly logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the upper right hand corner of your Zoom screen.
 6. Ensure that you as the moderator hold the Zoom hosting rights as you will not be able to livestream the call otherwise i.e. co-hosting rights are not sufficient so please be sure to request a handover from the DRI using the `manage participants feature` if necessary.
 7. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and selecting `Display the Time with Seconds`.
 
@@ -270,13 +270,13 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 
 - Review existing Group Conversation schedule and find an empty time slot.
 - Create an MR to add new Group Conversation session to this empty slot. Include GC Name, link to the handbook page, and also include DRI name.
-- Assign the MR to the [People Experience Team](/handbook/people-group/people-experience-team/) for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
+- Assign the MR to the [EBA Team](/handbook/eba/) for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
 
 ## Request an AMA
 
-- People Experience Associates (with support as needed from People Operations Specialists) manage the GitLab Team Meetings calendar and their events.
-- People Experience Associates moderate Group Conversations and AMAs. If an AMA is created with short notice (less than 24 hours) and there are no People Operations team members available, then People Operations will not be able to moderate or livestream.
-- As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends." To arrange this, reach out to your EBA team member and ask them to update the calendar invite to show "open to family and friends". In the event your EBA is OOO, please reach out to the People Experience Associate team to add it. 
+- The EBA Team manages the GitLab Team Meetings calendar and their events.
+- The EBA Team moderate Group Conversations and AMAs.
+- As part of designated Bring Your Family and Friends to Work events, some AMAs will be open to family members (including kids) and friends. These AMAs will be a subset of AMAs that do not contain sensitive data (sensitive data includes: information we usually don't share publicly). These events will be publicized ahead of time through #whats-happening-at-gitlab. The calendar invite for these AMAs will specify that they are "open to family and friends." To arrange this, reach out to your EBA team member and ask them to update the calendar invite to show "open to family and friends". In the event your EBA is OOO, please reach out in slack to '@exec-admins' to add it. 
 
 We suggest each person attend via their own device to avoid [hybrid meetings](/handbook/communication/#hybrid-calls-are-horrible). We encourage you to follow up with your guest after to debrief and share call impressions. For this it might be good to be in the same room but only if you are sure not to get echo's.
 
@@ -289,14 +289,14 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
     - Public or Private Livestream
     - Date & Time (YYYY-MM-DD PST)
     - Moderator 
-    - Select EBA/PeopleOps/PEA/Other 
+    - Select EBA/Other 
     - Agenda Link
     - Confirm if this call is "open to friends and family"
-- The People Experience Associate will create the event in the PeopleOps Zoom account and add it to the GitLab team meetings calendar. The PEA will add the AMA document link in the description and invite `everyone@gitlab.com` to the meeting.
+- The EBA will create the event in the EBA Zoom account and add it to the GitLab team meetings calendar. The EBA will add the AMA document link in the description and invite `everyone@gitlab.com` to the meeting.
 
-## Creating Events in PeopleOps Zoom Account
+## Creating Events in EBA Zoom Account
 
-1. Open the PeopleOps Zoom account. Any call that is being moderated by the People Operations team should be created in this account to allow for necessary streaming permissions, and to have the large capacity. 
+1. Open the EBA Zoom account. Any call that is being moderated by the EBA team should be created in this account to allow for necessary streaming permissions, and to have the large capacity. 
    - Topic: Fill in the title, include if this is a Public or Private stream. 
    - When:Select the date and time the meeting will occur, the time is PST. 
    - Security: select passcode and unselect waiting room 

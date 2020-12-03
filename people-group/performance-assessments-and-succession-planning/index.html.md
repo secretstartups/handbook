@@ -246,17 +246,21 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 
 *December*
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
-* 2020-12-04: Performance assessment finalized for all team members and approved through the e-group level
+* 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
 * 2020-12-14: Communication training and guidance shared with managers
 * 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
 *January*
+* 2021-01-07: Manager Review to [Open in Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas)
+* 2021-01-11 and 2021-01-12: Manager Review Training to be scheduled and run by Total Rewards/PBPs on how to use Compaas and think about increases for team members
+* 2021-01-22: Manager Review to close in Compaas
+* 2021-01-27: E-group leaders to confirm and approve Manager Review output
 * 2021-01-29: Final day to for managers to communicate Performance Factor result to team members
-* 2021-01: Manager review will open in Compaas for managers to advise on dollar amounts for increase (guided by Performance Factor results)
 
 *February*
 * 2021-02-01: Performance factors viewable to team members in BHR on the "Job" tab of a team member's profile
-* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2020-02-15 so managers have an opportunity to communicate prior)
+* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2021-02-15 so managers have an opportunity to communicate prior)
+* 2021-02-04: Total Rewards to upload all approved changes to BHR for payroll to process
 * 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
 * 2021-02-15: Salary increases visible to team members in BambooHR
 
@@ -274,7 +278,7 @@ The Performance/Potential Matrix typically takes 4-6 weeks to complete from begi
 
 In most companies the Performance/Potential Matrix is used exclusively as a management tool and results are not typically shared with team members. In the spirit of our transparency value, we want to encourage feedback with team members. **Discussion topics that arise during calibration sessions (or at any other point during the assessment process) are confidential. Please do not share with anyone other than each individual team member.**
 
-The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups*. For example, we have some departments that have used the Performance/Potential Matrix in previous quarters. These groups may feel comfortable and ready to communicate potential at this stage. We do, however, recommend that there is _consistency in what is being communicated within each department_. 
+The guidelines below are general guidelines and recommendations. However, *each department is at liberty to determine what works best for their groups in collaboration with their People Business Partner*. For all groups we recommend at a minimum that managers communicate Performance Factors. Managers can use discretion regarding communicating Potential and if that is preferred, we recommend for managers align across the division/department on that approach. 
 
 We hope to increase the scope of our communication company-wide as we iterate on the Performance/Potential Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY21.
 

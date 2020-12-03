@@ -23,7 +23,7 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. The LXP will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
-- **Curate & Create** content that is [handbook first with interactivity](/handbook/sales/field-operations/field-enablement/interactive-learning/)
+- **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
 - **Recommend** learning based on individual community member preferences
 - **Learn & Guide** community members on how to develop new skills through step-by-step guides through individual learning styles
 - **Automate** learning for personalized learning recommendations
@@ -36,7 +36,7 @@ GitLab has invested in the LXP to enable our team members, partners, customers, 
 
 ## Handbook first approach to the LXP
 
-The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/sales/field-operations/field-enablement/interactive-learning/) relevant content that exists in the handbook using a structured process. 
+The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/people-group/learning-and-development/interactive-learning/) relevant content that exists in the handbook using a structured process. 
 
 
 ## Governance
@@ -89,20 +89,29 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | ----- | ----- |
 | Phil Encarnacion | IT|
 | Christopher Nelson | IT |
-| David Somers | Field Enablement |
-| Kris Reynolds | Field Enablement |
-| Monica Jacob | Field Enablement |
-| John Blevins | Field Enablement |
-| Tanuja Paruchuri | Field Enablement |
-| Issac Abbasi | Field Enablement |
-| Christine Yoshida | Customer Education |
-| Kendra Marquart | Customer Education |
-| Ed Cepulis | Partner Enablement |
-| Alvaro Warden | Partner Enablement |
-| Christina Hupy | Community Relations |
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
 | Samantha Lee | Learning and Development |
+| David Somers | Field Enablement |
+| John Blevins | Field Enablement |
+| Kris Reynolds | Field Enablement |
+| Eric Brown | Field Enablement |
+| Monica Jacobs | Field Enablement |
+| Tanuja Paruchuri | Field Enablement |
+| Kelley Shirazi | Field Enablement |
+| Issac Abbasi | Field Enablement |
+| Christina Hupy | Marketing Enablement |
+| Christopher Wang | Marketing Enablement |
+| Alvaro Warden | Partner Enablement |
+| Christine Yoshida | Education Services |
+| Laci 'Lah tsi' Videmsky | Professional Services |
+| Kendra Marquart | Professional Services |
+| Joe Brady | Professional Services |
+| Ed Cepulis | Channel Enablement |
+| Kim Jaeger | Channel Enablement |
+| Honora Duncan | Channel Enablement |
+| Evon Collett | Channel Enablement |
+| Boughty Canton | Channel Enablement |
 | Dan Gordon | Technical Marketing |
 | Julia Lake | Security/Legal |
 | Lynsey Sayers | Security/Legal |

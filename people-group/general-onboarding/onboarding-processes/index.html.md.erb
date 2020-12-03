@@ -200,16 +200,23 @@ The CES team will complete the following [steps](/handbook/hiring/recruiting-fra
 1. Update the onboarding issue (if created)
 1. Ensure the email is filed in BHR with new hire date adjusted
 
-##### New team member rejects offer
-- If a new team member has already been marked as hired in Greenhouse and the sync has taken place, and the candidate thereafter rejects our offer, the CES team will notify the Senior Director, People Success in the `#people-group-confidential` Slack channel, also tagging the People Experience team for visibility. 
-1. Once confirmed, verify that the profile has been deleted and updating the People Exp team onboarding tracker to remove this candidate. 
-1. If a GitLab email address has already been created, proceed with deleting the email address from GSuite account. 
+- If a new hires start date falls on a holiday, that is observed by the new hire or the People Experience Team. 
+1. People Experience will coordinate with CES to adjust the start date to the next business day. Ensure the Hiring Manager is apart of this communication. 
+1. The BambooHR dates will not be adjusted. 
+1. Update the Onboarding Issue title to reflect the "New Start Date". This date is used for the onboarding email automation. 
+
+
+#### New team member rejects offer
+If a new team member has already been marked as hired in Greenhouse and the sync has taken place, and the candidate thereafter rejects our offer, the CES team will notify the Senior Director, People Success in the #people-group-confidential Slack channel, also tagging the People Experience team for visibility.
+1. Once confirmed, verify that the profile has been deleted and updating the People Exp team onboarding tracker to remove this candidate.
+1. If a GitLab email address has already been created, proceed with deleting the email address from GSuite account.
+
 
 **It is important that this step is completed as soon as possible to prevent any issues with the automation**
 
 #### Personal Tab
 
-1. **Name:**  Enter the team member's full legal name (as much as it is known before seeing legal ID) and preferred name if known. The custom sync will have filled in a name, this might not be the legal name, so you still need to check. The sync will import middle name as part of first name, you will need to seperate them if that was the case. There's an [issue](https://ops.gitlab.net/gitlab-people-engineering/employment-automation/-/issues/11) to fix that.
+1. **Name:**  Enter the team member's full legal name (as much as it is known before seeing legal ID) and preferred name if known. The custom sync will have filled in a name, this might not be the legal name, so you still need to check. The sync will import middle name as part of first name, you will need to seperate them if that was the case. There's an [issue](https://ops.gitlab.net/gitlab-people-engineering/employment-automation/-/issues/11) to fix that. Once you have seen the team member's legal ID (either through work eligibility confirmation or employee upload), please edit the 3 Name fields (First Name(s), Middle Name(s), Last Name(s)) to ensure that the team member's full and complete legal name is shown in BambooHR.
 1. **Address:** Enter full address, including Street address, City, Region, Zip/Post Code and Country. Only the country is pre-filled by the custom sync.
 1. **Locality:** ([geo area](/handbook/total-rewards/compensation/compensation-calculator/#geographical-areas), country). This information should be visible in the offer details. If you have any questions, please reach out to the Total Rewards team.
   * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
@@ -351,13 +358,13 @@ The People Experience Associate will then create an onboarding issue with a Chat
 1. Copy and paste the link into the People Exp/Ops Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Experience and People Operation Specialist Teams due to personal information.
 1. If you are part of the People Experience team, IT Ops team, new team members's manager or onboarding buddy please note there are additional steps to complete directly in the new hire's onboarding issue in the 'Before Starting at GitLab' section.
 
-- **Request Signature for Code of Conduct Acknowledgment document**<a name="request-code"></a>
+### Request Signature for Code of Ethics Acknowledgment
 
-Each assigned People Experience Associate will send their new team members our Code of Conduct Acknowledgment for review and signature.
+Each assigned People Experience Associate will send their new team members our Code of Ethics Acknowledgment for review and signature.
 
 1. In BambooHR, go to the Files section.
 1. Be sure you are in the Signature Templates section.
-1. To the right of the Code of Conduct Acknowledgment, click on the triangle to the right of the gear icon and click Request Signature.
+1. To the right of the Code of Ethics Acknowledgment 2020, click on the triangle to the right of the gear icon and click Request Signature.
 1. Choose "Send a signature request to: Only some people"
 1. Type in the name of your assigned team members. Please note that an employee must have access to BambooHR in order for us to request a signature, and our team members only get access Day 1.
 1. Message to Signers: Dear new team member, we are so happy you are part of the GitLab team. Please take a moment to sign this document. Thank you!
@@ -452,6 +459,30 @@ After Week 1
 1. Audit the BambooHR Entry. Download a copy of the contract from the Documents Tab. Verify the information (start date, title, stock, etc) matches the entries in BambooHR as outlined in [Adding a New Team Member to BambooHR](/handbook/people-group/general-onboarding/onboarding-processes/#bamboohr-profile-data). Add US team members to the appropriate Benefit Group.
 1. If all the information is correct, mark the new hire as complete on the "Payroll Changes Report" in BambooHR.
 1. At the end of each week a Total Rewards Analyst will review all data entered into BambooHR through the Payroll Change Report for audit purposes. Once a month an audit should be conducted from all payroll providers to ensure the salary information matches BambooHR
+
+## Onboarding Process for Rehires
+
+In the event that a former team member is rehired with the company, they will still need to go through standard onboarding. There are different factors that need to be considered and actioned prior to the team member joining. For example, the team member will still need to complete all Security and Compliance pieces to ensure that as a company we are remaining compliant (Code of Conduct, Security training, Employment Verification). 
+
+### CES Team
+
+- Ensure that the team members Greenhouse profile is linked to their original profile to ensure that a duplicate BambooHR profile is not created. 
+- Notify the People Experience team as soon as possible that a former team member has been rehired in the private `people-exp_ces` Slack channel.
+
+### People Experience Team
+
+- Check when the team member was offboarded previously. Depending on the time that has passed, open a new onboarding issue if the team member was offboarded more than 3 months ago, or open a customised onboarding issue if offboarding took place in the last 3 months. 
+  - If a custom onboarding issue is created, ensure to include the default onboarding template table as the employment automation relies on the information.
+- Verify whether any employment verification specific to the team members location (example: US team member needs to complete I-9 verification).
+- Reactivate the team members previous BambooHR profile to avoid duplicates from being created, as well as update any new employment terms.
+    - Status on Personal tab: set to Active.
+    - Employment Status: add new entry with new start date and set to Active.
+    - Update Job Information with start date and role as per details in Greenhouse / contract.
+    - Verify that a Hire Date and Original Hire Date exists on the Job tab. 
+    - Download a copy of the new signed contract from Greenhouse and upload to Documents section in BambooHR.
+    - Enable Employee Self-Service.  
+- Ping IT Ops once onboarding issue has been created to ensure that no issues are experienced on the team members first day back with any previous systems. 
+- Notify Payroll and Total Rewards team in the onboarding issue on the team members first day in order to be added back to payroll and relevant systems. This should be done at the latest on day 3. 
 
 ## Onboarding Process for Interns
 

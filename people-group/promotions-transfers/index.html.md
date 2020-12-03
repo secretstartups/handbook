@@ -90,11 +90,15 @@ For any transfer being submitted through Greenhouse [hiring process](/handbook/h
 - Change in Territory, Segment, or Specialty:
     - Reviewed and approved through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) for any change in territory, segment, or specialty when there is no change to the job family or level, there is no compensation or stock adjustment and no backfill request.
     - Apply and approval through the Greenhouse [hiring process](/handbook/hiring/) for any change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request.
-- **Promotions to Director and above**: approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
+
+### Promotions to Director and Above
+
+- Approval through the [BambooHR Approval Process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) to ensure the CFO/CEO have insight and approval into leadership promotions.
     - The [e-group](https://about.gitlab.com/company/team/structure/#e-group) will review any promotion at Director level (or above) in their weekly meeting 3 months before the promotion is intended to take place and feedback may be provided to the individual and their manager to work on. This is to ensure consistent leadership qualities across the company. Exceptions to this timeline can be made at the e-group's discretion. We do not yet have a similar method to ensure consistency in external hires for Director (and above) roles but we hope to add it soon.
-    - All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
+    - All Director level (or above) promotions will be reviewed by the [e-group](/company/team/structure/#e-group) on a quarterly basis at the e-group offsite. Proposed promotions must be added to the promotion tracker by the PBP no later than 10 business days before the e-group offsite is [scheduled](https://about.gitlab.com/handbook/ceo/offsite/#schedule) to occur. Proposed promotion will be assessed against the criteria outlined in our [Team Structure](/company/team/structure/), as well as the business need for the promotion, each of the [Values](/handbook/values/), [our competencies](/handbook/competencies/), and considerations.
     - The only exception to this process is when filling an open Director and above role with an existing GitLab team member for a role posted publicly that an internal team member applies for. If external candidates have been considered and interviewed, and the internal candidate earns the role through a standard hiring process (screening, full interview process) then the recruiter may make an offer to the candidate as soon as the offer is approved. There should be no difference in the timing or process of making and accepting an offer for open roles between internal and external candidates.
-    - Please [use this template](https://docs.google.com/document/d/1VcQK1Uci2VSnbX0BP8QIYKHcsJi0Fvwl9u79S8W1mpM/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review.
+    - Please [use this template](https://docs.google.com/document/d/1VcQK1Uci2VSnbX0BP8QIYKHcsJi0Fvwl9u79S8W1mpM/edit#heading=h.o7rctrz9uxl7) for Director or above promotions, and share the final version with your People Business Partner so the promotion is added to the tracker for the e-group to review. If the promotion is approved and announced, update sharing access to the promotion doc to be accessible by anyone at GitLab.
+    - Please also ensure that the team member's [job family](https://about.gitlab.com/handbook/hiring/job-families/#job-families) has been updated to include the new level and the role responsibilities in advance of the promotion going to the e-group for review.
 
 ## Interim and Acting Roles
 
@@ -141,8 +145,9 @@ _Interviews are not required role Acting roles as they generally do not end in p
 - Upcoming Acting roles will be discussed over Staff meetings.
 - Leadership can gather interest from their team members for the upcoming acting roles.
 - The hiring manager will determine the most suitable team member for the acting role.
+- *Please make sure that the department head is in the loop and supportive of the acting period and candidate selected before moving forward.*
 
-_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for the team member._
+_When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
 
 ## For Managers: Requesting a Promotion or Compensation Change
 
@@ -177,6 +182,7 @@ Tips for creating a promotion document:
 - [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions.
 - For People Management roles - the team member should be prepared for management. This includes, at a minimum, the ability and willingness to provide honest and direct performance feedback and coaching, interviewing candidates with an ability to be decisive, ability to have difficult conversations, the ability to set direction, inspire, and motivate the team.
     - Note: People manager applications must be applied for through [Greenhouse](/handbook/hiring/interviewing/#internal-applicants).
+- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 For compensation changes Only:
 
@@ -189,6 +195,8 @@ The general promotion document serves as a baseline to outline what should be in
 - [General Promotion Document: Template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#)
 
 While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion.
+
+- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 ### Recommend a Compensation Increase
 
@@ -229,8 +237,23 @@ This section describes the approval chain after a manager submits a promotion or
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
 1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
 1. HelloSign will prompt the manager to discuss the promotion with the team member and announce on the Slack **#team-member-updates** channel where the manager describes how the individual met the promotion criteria and includes a link to the merge request where the individual's title is updated on the team page.
-1. When announcing or discussing a promotion on Slack **#team-member-updates** channel, please include a link the promotion Google Doc to increase visibility for the reasons behind the promotion.
+1. When announcing or discussing a promotion in the Slack **#team-member-updates** channel, *please include the link to the promotion Google Doc* to increase visibility for the reasons behind the promotion.
 1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
+
+#### Rolling 12-Month Promotion Business Justification Process
+
+As part of the [BambooHR promotion approval process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process) outlined above, Total Rewards checks that the department is within the 12% rolling promotion rate before approving the promotion from the Total Rewards side. This information is also accessible to all GitLab team members and can be [reviewed in Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate).
+
+If a department is over the 12% promotion rolling rate, the following process should be followed:
+
+1. Total Rewards will alert the People Business Partner (PBP) that the department or division requesting the promotion is over the 12% rolling rate.
+1. PBP requests an overview of all promotions from the last rolling 12 months from Total Rewards provided in a Google sheet.
+1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided. 
+1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable). 
+1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
+1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
+1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibilty and ensure it is accessible by Total Rewards, CFO, and CEO. 
+
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
@@ -258,7 +281,6 @@ This section describes the approval chain after a manager submits a promotion or
 1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the Letter of Adjustment whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the letter has been signed. If this is the case, only data systems will need to be updated.
 1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts and job information. Also, ensure to add stock options to the benefits tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
-1. Update the compensation calculator backend spreadsheet.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
 1. Make a copy of the Letter of Adjustment template and enter all applicable information based on the BambooHR request. The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
@@ -313,7 +335,6 @@ Job information changes are anything that requires an update to the team member'
 
 1. Audit the team member's department, division and cost center against the new manager's.
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
-1. Update the Expensify Job Information Changes sheet.
 1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers

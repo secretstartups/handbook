@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Slack
-description: "Information on Slack automations created by the People Engineering team."
+description: Information on Slack automations created by the People Engineering team.
 ---
 
 ## On this page
@@ -48,13 +48,13 @@ When there is no missing data, the message is posted directly to `#team-member-u
 Currently, the pipeline is scheduled to be run at 08:00 AM UTC every
 Thursday.
 
-#### Parental Leave Welcome Back 
+#### Parental Leave Welcome Back
 
-A scheduled pipeline runs every day to check who's coming back from parental leave in 3 days. 
-For those team members we send them a Direct Message reminding them that they can take more 
+A scheduled pipeline runs every day to check who's coming back from parental leave in 3 days.
+For those team members we send them a Direct Message reminding them that they can take more
 PTO if needed and links to the handbook related to coming back after parental leave.
 
-For this pipeline we have a direct integration with PTO by Roots. 
+For this pipeline we have a direct integration with PTO by Roots.
 
 #### Informing People Experience Associates about details missing in BambooHR for upcoming new hires
 
@@ -88,9 +88,7 @@ People Experience team can discuss and take action.
 ### Nominator
 
 We're using a custom Slack app, the [Nominatorbot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/)
-that team members can use to nominate others for discretionary bonuses. This is currently
-in a test phase with the People Group. Although the bot is technically available for everyone,
-its's only been communicated with the People Group.
+that team members can use to nominate others for discretionary bonuses.
 
 To nominate someone you type in `/nominate name of team member`. The bot will open a dialog
 with additional details to fill in. Once filled in, you can submit the dialog. This data

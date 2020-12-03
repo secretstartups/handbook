@@ -11,6 +11,9 @@ description: "GitLab contract information and procedures."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+This page contains GitLab's Team Member contracts and many other things around how we have scaled team members in ~65 countries. 
+The DRI for all GitLab Team Member contracts are the [People Operations Specialist team](https://about.gitlab.com/job-families/people-ops/people-operations/). Any changes to any contracts should be requested to the People Operations Specialist team and will require approval from our Director of Legal, Employment. 
+
 ## Team Member Types at GitLab
 
 | Team Member Type | Abbreviation | Location |
@@ -54,10 +57,11 @@ More information related to payroll processes can be found on the [Payroll handb
 
 There are multiple options for PEO (Professional Employer Organizations), also known as Employers of Record, in the market. This is not the exact list of providers GitLab uses, but is intended to help the wider community when looking for vendors:
 
-- Safeguard (mostly used as the Employer of Record for permanent employment)
-- CXC (mostly used in locations where it is socially acceptable to be a Company to Company Contractor)
-- Global Upside (mostly used as the Employer of Record for permanent employment)
-- Remote.com (mostly used as the Employer of Record for permanent employment)
+- Safeguard (Mostly used as the Employer of Record for permanent employment.)
+- CXC (Mostly used in locations where it is socially acceptable to be a Company to Company Contractor. Workers can usually choose to be contracted through their own limited company, or as a individual contractor, however in Russia we can only support Company to Company Contractors.)
+- Global Upside (Mostly used as the Employer of Record for permanent employment.)
+- Remote.com (Mostly used as the Employer of Record for permanent employment.)
+
 This table reflects where we use PEO's currently:
 
 | Country | Agreement Type(s) | Hiring Partner | Entity to Invoice (for AP only) | Pay Frequency | Paid By | BambooHR Profile (Y/N) |
@@ -70,15 +74,15 @@ This table reflects where we use PEO's currently:
 | India | Employed via a PEO | Global Upside | GitLab IT BV | 12 | PEO | Y |
 | Italy | Employed via a PEO | Safeguard | GitLab IT BV | 14 | PEO | Y |
 | Philippines | Employed via a PEO | Global Upside | GitLab IT BV | 24 | PEO | Y |
-| Poland | Contractor Company Agreement | CXC | GitLab IT BV | 12 | PEO | Y |
+| Poland | Contracted via a PEO | CXC | GitLab IT BV | 12 | PEO | Y |
 | Portugal | Contracted via a PEO | CXC | GitLab IT BV | 12 | PEO | Y |
-| Romania | Contractor Company Agreement | CXC | GitLab IT BV | 12 | PEO | Y |
-| Russia | Contractor Company Agreement | CXC | GitLab IT BV | 12 | PEO | Y |
+| Romania | Contracted via a PEO | CXC | GitLab IT BV | 12 | PEO | Y |
+| Russia | Contracted via a PEO | CXC | GitLab IT BV | 12 | PEO | Y |
 | Spain | Employed via a PEO | Safeguard | GitLab IT BV | 12 | PEO | Y |
 | South Africa | Employed via a PEO | Remote.com | GitLab IT BV | 12 | PEO | Y |
 | South Korea | Employed via a PEO | Safeguard | GitLab IT BV | 12 | PEO | Y |
 | Switzerland | Employed via a PEO | Safeguard | GitLab IT BV | 12 | PEO | Y |
-| Ukraine | Contractor Company Agreement | CXC | GitLab IT BV| 12 | PEO | Y |
+| Ukraine | Contracted via a PEO | CXC | GitLab IT BV| 12 | PEO | Y |
 | Mexico | Employed via a PEO | Remote.com | GitLab IT BV | 12 | PEO | Y |
 | Israel| Contracted via a PEO | CXC | GitLab IT BV| 12 | PEO | Y |
 | Turkey | Contracted via a PEO | CXC | GitLab IT BV| 12 | PEO | Y |
@@ -355,9 +359,7 @@ Each country has unique and complex rules, laws, and regulations, that can affec
 We are growing rapidly and continuously expanding our hiring capabilities in other geographies.
 However, at this time we are unable to hire employees and contractors in the specified countries below:
 
-<% Gitlab::Homepage::Jobs::HiringStatus.no_hiring_list.map {|no_hirable| no_hirable['country'] }.sort.each do |country_name| %>
-- <%= country_name %>
-<% end %>
+WIP: This will be added with this [issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/239)
 
 ## Country Conversions
 
@@ -387,7 +389,7 @@ The People Operations Specialist is responsible for managing the country convers
 1. The DRI for Country Conversion decisions is our Director of Tax. All requests for converting a country will be sent by the Director of Tax to countryconversions@gitlab.com email alias and confirm the conversion priority (High-1 or High-2).
 1. The People Operations Specialists will update the conversion status and link to the issue on the [Country Conversion and Entity Creation Tracking](https://gitlab.com/gitlab-com/people-group/General/-/issues/367) issue. Add the statement **HIRING PAUSED*** to the Status of all converting countries.
 1. The People Operations Specialists will notify the Recruiting team of the pause in hiring by pinging `@gl-recruiting` in the Country Conversion and Entity Creation Tracking issue.
-1. The People Operations Specialist team will rotate which member of the team will be the country owner for the requested country. The assigned People Ops team member will send an [email](https://gitlab.com/gitlab-com/people-group/General/-/tree/master/.gitlab/issue_templates) to all of our country vendors using the [Country Conversions Quote Request](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/cc_emailtemplate_quote.md) template to request a quote from all current country vendors to compare benefits, cost, and ability to scale. The countryconversions@gitlab.com email alias should also be copied on this email for full transparency and visibility.
+1. The People Operations Specialist team will rotate which member of the team will be the country owner for the requested country. The assigned People Ops team member will send an [email](https://gitlab.com/gitlab-com/people-group/General/-/tree/master/.gitlab/issue_templates) to all of our country vendors using the [Country Conversions Quote Request](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/peo_vendor_quote.md) template to request a quote from all current country vendors to compare benefits, cost, and ability to scale. The countryconversions@gitlab.com email alias should also be copied on this email for full transparency and visibility.
 1. As the People Operations Specialist receives requested information from vendors, they should proceed with the following steps:
 
 - Save all quotes in the appropriate vendor folder within the [Country Vendor Information](https://drive.google.com/drive/u/0/folders/14nhToiahmt5ANKoHGTbJztjaQ3jEVP6r) folder in Google Drive
@@ -556,13 +558,13 @@ The total rewards and people ops specialist team should also review alignment to
 
 This process is managed by the People Operations Specialist team as the DRI, in partnership with Total Rewards and the People Business Partners.
 
-### Short-Term Relocation
+### Short-Term Stay
 
 If you are not changing your permanent location (where you pay taxes and maintain residency), but instead are traveling to different locations over a period of time, you are responsible for maintaining your health insurance, visas, and any other item directly relating to your travel.
 
-Since any short-term relocation is your decision and not required by GitLab as part of your role, you will not be eligible to utilize the Business Accident Travel Policy or submit any expenses related to your travel. If you are hired in a role requiring a time zone alignment, you must still be able to fulfill that requirement.
+Since any short-term stay is your decision and not required by GitLab as part of your role, you will not be eligible to utilize the Business Accident Travel Policy or submit any expenses related to your travel. If you are hired in a role requiring a time zone alignment, you must still be able to fulfill that requirement.
 
-If your short-term relocation is for less than 6 months in a new location, there is no need to update your address in BambooHR. If you plan on staying in a location for more than 6 months, that becomes your residence and you must complete the long-term relocation process described below before any transition to that location. Team members must confirm with the people specialist team before they plan on working from a new location for 6 months or less.  In most countries, tax residency is determined by the place where a GitLab Team Member keeps its vital interests. This is the place where you are registered, where your SO and/or dependents live, the place where you work, where you live, where you keep your subscriptions etc.
+If your short-term stay is for less than 6 months in a new location, there is no need to update your address in BambooHR. If you plan on staying in a location for more than 6 months, that becomes your residence and you must complete the long-term relocation process described below before any transition to that location. Team members must confirm with the people specialist team before they plan on working from a new location for 6 months or less.  In most countries, tax residency is determined by the place where a GitLab Team Member keeps its vital interests. This is the place where you are registered, where your SO and/or dependents live, the place where you work, where you live, where you keep your subscriptions etc.
 
 ### Long-Term Relocation
 
@@ -605,31 +607,32 @@ _Please start this process more than 3 months before your ideal relocation date,
 
 **People Ops, Total Rewards, PBP's & Payroll**
 
-1. If the relocation request is to a country where we currently do not have team members, the People Operations Specialist will check the [Country Conversion and Entity Creation Tracking issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/367) whether the location is blocked for hiring. If the location is not included in either table on the main issue, the People Operations Specialist will reach out to the Director of Legal and the Director of Tax, to confirm whether the country is blocked or open for hiring.
-1. People Ops will confirm eligibility, documentation, timing and any other information as applicable. If the team member is not eligible to relocate, the People Operations Specialist team will communicate this fact to the team member at this time.
-1. If there is uncertainty on eligibility or any other questions, the People Operations Specialist can escalate to the Senior Manager, People Operations, Director of Tax, and Director of Legal for further review from a legal and/or tax perspective.
+1. If the relocation request is to a country where we currently do not have team members, the Employment Solutions Specialist will check the [Country Conversion and Entity Creation Tracking issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/367) whether the location is blocked for hiring. If the location is not included in either table on the main issue, the Employment Solutions Specialist will reach out to the Director of Legal and the Director of Tax, to confirm whether the country is blocked or open for hiring.
+1. People Ops will confirm eligibility, documentation, timing and any other information as applicable. If the team member is not eligible to relocate, the Employment Solutions Specialist team will communicate this fact to the team member at this time.
+1. If there is uncertainty on eligibility or any other questions, the Employment Solutions Specialist can escalate to the Senior Manager, People Operations, Director of Tax, and Director of Legal for further review from a legal and/or tax perspective.
 1. If the relocation is within the exact same geographical location as linked to their current [location factor](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml), no approval is needed, but the team member's manager and relevant People Business Partner are still notified, and the notification email is saved in the team member's BambooHR profile. Direct the team member to update their address in the Personal tab in their BambooHR profile.
-    - The People Operations Specialist will confirm that the address has been updated in BambooHR and confirm to all team members involved that the relocation process is complete and that there are no other steps.
-1. If the team member is eligible to work in their requested relocation location and there are no employment barriers, the People Operations Specialist will request written approval from the team member's manager and relevant People Business Partner. This still applies if the relocation is within the same location factor in the same country.
+    - The Employment Solutions Specialist will confirm that the address has been updated in BambooHR and confirm to all team members involved that the relocation process is complete and that there are no other steps.
+1. If the team member is eligible to work in their requested relocation location and there are no employment barriers, the Employment Solutions Specialist will request written approval from the team member's manager and relevant People Business Partner. This still applies if the relocation is within the same location factor in the same country.
 1. If the relocation request relates to a _higher location factor_, forward both approvals to the team member's Division's E-Group leader for their written approval. Where applicable, copy in the Director and VP of the Division in the email to the E-Group Leader, as they are closer to the process. This is to create visibility for them and an opportunity for them to halt the relocation if need be.
 1. If the relocation request relates to a _lower location factor_ or _equivalent location factor (even if it is in the same country)_, continue to the next step.
 1. If the relocation is declined at any step, the People Operations Specialist will relay this to the team member and explain the reasoning.
-1. The People Operations Specialist will forward all approvals to the Total Rewards team at total-rewards@ gitlab.com so that they may review and approve any compensation change, with feedback from the manager and the People Business Partner.
-1. Total Rewards will communicate final compensation information by email to the People Operations Specialist team in the email thread.
-1. The People Operations Specialist will convert the approved compensation from USD to the local pay currency of the team member's new location, use the [rounding best practice](/handbook/total-rewards/compensation/compensation-calculator/#rounding-best-practice) method, and then request approval from Total Rewards of this final compensation amount.
+1. The Employment Solutions Specialist will forward all approvals to the Total Rewards team at total-rewards@ gitlab.com so that they may review and approve any compensation change, with feedback from the manager and the People Business Partner.
+1. Total Rewards will communicate final compensation information by email to the Employment Solutions Specialist team in the email thread.
+1. The Employment Solutions Specialist will convert the approved compensation from USD to the local pay currency of the team member's new location, use the [rounding best practice](/handbook/total-rewards/compensation/compensation-calculator/#rounding-best-practice) method, and then request approval from Total Rewards of this final compensation amount.
 _Ex. Team member is approved $50,000 USD as their new comp and they are relocating to the Netherlands. Team members in the Netherlands are paid in Euro. Using the Jan 1, 2020 conversion, this converts to 44,577.20 Euro. Using the rounding best practice, the team member's comp will be 44,600 Euro, with Total Rewards approval._
-1. The People Operations Specialist will convey to the team member that their relocation has been approved and relay their new compensation, if applicable. cc the relevant Payroll team (`uspayroll @gitlab.com` or `nonuspayroll @gitlab.com`) for visibility on any upcoming changes.
+1. The Employment Solutions Specialist will convey to the team member that their relocation has been approved and relay their new compensation, if applicable. cc the relevant Payroll team (`uspayroll @gitlab.com` or `nonuspayroll @gitlab.com`) for visibility on any upcoming changes.
 1. The People Operations Specialist will ensure that all approval documents including email threads are saved in the team member's BambooHR `Contracts & Changes` folder.
+1. The Employment Solutions Specialist will reach out to the People Experience team to prepare a Letter of Adjustment/ New contract where applicable.
 
 ##### Relocation within the Same Country
 
-**People Operations Specialists**
+**People Experience Associate**
 
 1. Create a [letter of adjustment](https://docs.google.com/document/d/1lxx92gGXL6hltRxKn0I6D8a8dHtvFBnElDf7dAlxkkQ/edit) confirming the new location, location factor, and effective date in the `Employee and Contracts Templates and Staging` folder in the shared drive.
 
 - A letter is only needed if there is a compensation change. If there is no change in compensation, then the People Operations Specialist should direct the team member to update their address in the Personal tab in their BambooHR profile.
 
-1. Once the letter of adjustment has been created, ping the People Specialist team for auditing.
+1. Once the letter of adjustment has been created, ping the People Experience Associate or People Specialist team for auditing.
 1. Stage the letter in HelloSign and send for signature first to the Senior Manager, Total Rewards and subsequently to the team member.
 1. Upload the signed document to the team member's `Contracts & Changes` folder in BambooHR.
 1. Make any necessary updates to the team member's BambooHR profile and email Total Rewards `total-rewards@ gitlab.com` and Payroll `uspayroll@ gitlab.com` or `nonuspayroll@ gitlab.com` to notify them of the changes.
@@ -651,19 +654,20 @@ _Ex. Team member is approved $50,000 USD as their new comp and they are relocati
 
 ##### Relocation to a New Country
 
-**People Operations Specialists**
+**People Experience Team**
 
 1. Create a new contract for the team member confirming new compensation (if applicable) and effective date.
   - If the team member is relocating to the Netherlands ask them for their preferred method of administering their Holiday Allowance
   - There are two options:
         - Spread across 12 months which means their pay frequency will be 12 months
         - To be paid out in the month of May, which means their pay frequency will be 12.96
-1. Once the contract has been created, ping the People Specialist or Senior Manager, People Operations for auditing.
+1. Once the contract has been created, ping the People Experience Associate or Manager, People Operations for auditing.
 1. Stage the contract in HelloSign and send for signature first to the Senior Director, People Success and subsequently to the team member.
 1. Upload the signed document to the team member's `Contracts & Changes` folder in BambooHR.
+  -If the team member is relocating to the Netherlands, People Experience team will prepare another letter stating that it’s of economic importance that the team member is travelling to the Netherlands, and why it’s of economic importance. Besides this, the letter needs to state a reason why this work must be done from the Netherlands at this moment and not from abroad and why the travel can’t be postponed. The letter is for the airline and not for the IND.The airline decides based on the letter from the IND and employer’s letter if the person can go on the plane.The following [template](https://docs.google.com/document/d/1aZRfcPLAGbd4QnaO92iyOLVZayagPjCrVTPMQwDkH_c/edit#)shall be used.
 1. If applicable, create a Mutual Termination Agreement. Stage in HelloSign and send for signature first to the Senior Director, People Success and subsequently to the team member. Upload the signed document to the team member's `Contracts & Changes` folder in BambooHR.
 1. Make any necessary updates to the team member's BambooHR profile and email Total Rewards `total-rewards@ gitlab.com` and Payroll `uspayroll@ gitlab.com` or `nonuspayroll@ gitlab.com` to notify them of the changes.
-1. Update the hiring manager and PBP in the original email thread that all tasks assigned to the DRI People Operations Specialist relating to the relocation process are complete, for clarity. Other teams, such as Total Rewards and Payroll may still be updating their systems.
+1. Employment Solutions Specialist - Update the hiring manager and PBP in the original email thread that all tasks assigned to the DRI: Employment Solutions Specialist relating to the relocation process are complete, for clarity. Other teams, such as Total Rewards and Payroll may still be updating their systems.
 
 **Team Member**
 
