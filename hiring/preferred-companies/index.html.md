@@ -356,7 +356,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * [Barracuda Networks](https://www.barracuda.com/products/webapplicationfirewall)
 * [Capsulate Protect](https://capsule8.com/resource/capsule8-protect-product-overview/)
 * [Check Point Container Security](https://www.checkpoint.com/solutions/container-security/)
-* [Citrix Web App Firewall](/handbook/product/product-categories/#protect-stage)
+* [Citrix Web App Firewall](/handbook/product/categories/#protect-stage)
 * [Cloudflare](https://www.cloudflare.com/waf/)
 * [CloudPassage Container Secure](https://pages.cloudpassage.com/rs/857-FXQ-213/images/Container-Secure-data-sheet_03082018-1.pdf?_ga=2.80309470.834074949.1589860053-306212359.1589860053)
 * [Comodo](https://www.comodo.com/)
