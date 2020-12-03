@@ -32,7 +32,8 @@ Here are the individuals who work as part of one of the Ops Section groups.
 <% section = Gitlab::Homepage::Section.all!.find{|section| section.key == section_id} %>
 <% section.stage_list.each do |stage| %>
    <% stage.group_list.each do |group| %>
-      <%= group.link %>
+<%="#### #{group.name}" %>
+<%= group.group_table() %>
    <% end %>
 <% end %>
 
