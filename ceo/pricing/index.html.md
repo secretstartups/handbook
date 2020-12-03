@@ -300,29 +300,23 @@ We currently think the disadvantages outweigh the advantages.
 
 ## Single plan for one customer
 
-We considered selling multiple plans to the same customer, allowing them to have some users on every plan.
+The advantages are:
+
+1. Users can use more features from more stages uniformally. Taking advantage of the power the one DevOps application mean more ROI for the customer.
+1. Buyers do not have to estimate how much of each tier they will need.
+1. There will not be confusion on what users can or can't use.
+1. Simple pricing and true-up process.
+1. There's no increased product complexity to turn features on/off on a per user basis.
+1. Simpler administration: the customer will not have to administer a process to move users between tiers.
 
 The disadvantages are:
 
-1. The current plans have a blended price, assuming 75% of users should pay for the 5x less expensive plan—so, plan prices would increase by 2.5x `1/(0.25+(0.75/5))`.
-1. It is hard for buyers to estimate how much of each tier they will need.
-1. For users, it is unclear which features they can use.
-1. The true-up process becomes more complex.
-1. Some features can't be disabled on a per user basis, like High Availability (HA).
-1. The customer has to administer a process for how users can get a higher plan.
+1. Customers may be paying for feature that aren't used. 
+1. May lead to multiple instances with separate licenses for different groups.
+1. More negotiation up front.
+1. Increased renewal risks.
 
-The advantages are:
-
-1. Gradual upgrading to more expensive features per team; improving rollout when only portions of the organization are well suited to the higher tiers.
-1. Pay only for the features you use.
-1. Consistency with GitLab.com pricing where you can have different subscriptions for different groups.
-1. Consolidation of all users in a single instance rather then separate instances with separate licenses.
-1. Increased transparency on license and usage; reducing renewal risk.
-1. Less negotiation.
-
-We currently think that offering multiple plans to one customers doesn't work because the disadvantages outweigh the advantages.
-
-Counting different types of users, roles for users, or other modifications of a user definition tends to lead to the same problems as above.
+We believe having a single plan for one customer works because the advantages outweigh the disadvantages.
 
 For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](/handbook/sales/training/)
 
