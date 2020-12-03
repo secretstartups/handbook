@@ -119,7 +119,7 @@ long internship might look like.
 ## Upcoming Slots
 
 | Time frame | Mentor |
-| October-November 2020 | @stkerr |
+| January-July 2021 | @stkerr |
 
 ### Interns
 
