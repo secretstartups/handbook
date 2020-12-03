@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Plan:Product Planning Backend Team
+title: Plan:Product Planning & Plan:Certify Backend Team
 ---
 
 ## On this page
@@ -9,15 +9,16 @@ title: Plan:Product Planning Backend Team
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Plan:Product Planning backend team
+## Plan:Product Planning & Plan:Certify backend team
 
-The Plan:Product Planning backend team works on the backend part of
-GitLab's [Product Planning category] in the [Plan stage].
+The Plan:Product Planning & Plan:Certify backend team works on the backend part of
+GitLab's [Product Planning] and [Certify] categories in the [Plan stage].
 
 For more details about the vision for this area of the product, see the
 [Plan stage] page.
 
-[Product Planning category]: /handbook/product/product-categories/#portfolio-management-group
+[Product Planning]: /handbook/product/product-categories/#product-planning-group
+[Certify]: /handbook/product/product-categories/#certify-group
 [Plan stage]: /direction/plan/
 
 ### Team members
@@ -46,7 +47,6 @@ This chart shows the progress we're making on hiring. Check out our
 ## OKRs
 
 <%= partial("handbook/engineering/development/dev/plan/product_planning_backend_okrs") %>
-
 
 ## Work
 
@@ -108,7 +108,9 @@ any PoC MRs produced.
 
 <%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825, 7693879] }) %>
 
-#### Working with Frontend
+### Working with Frontend
+
+#### Workflow Labels
 
 Most issues, especially features, involve working with other disciplines. A 
 single issue will often be shared between frontend and backend and it
@@ -125,9 +127,31 @@ We value [velocity over predictability](/handbook/engineering/#velocity-over-pre
 so use your own judgement on whether you should wait for a frontend engineer to
 get involved before proceeding with development.
 
+#### Documentation
+
+Documentation should accompany code for any [new or changed functionality] as per our 
+[definition of done]. This can become tricky when collaborating on a feature that is 
+behind a feature flag.
+
+Since all feature flags start as disabled by default, we should aim to document the
+feature as soon as it's safe for testing by users using the [feature flag template].
+Don't wait until a feature is performant and stable to document it, instead do so once
+it's secure and won't leave data in a corrupt, interim state. 
+
+Try to include docs with the first MR to introduce usable functionality. If this is 
+an API addition with no UI, document that and allow the FE engineers to update it as 
+work proceeds. As the feature flag rollout proceeds, the [documentation should be updated].
+
+This avoids the rush to provide documentation that often accompanies the release cutoff.
+
+[new or changed functionality]: https://about.gitlab.com/handbook/engineering/ux/technical-writing/workflow/#for-a-product-change
+[definition of done]: https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done
+[feature flag template]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-disabled-by-default
+[documentation should be updated]: https://docs.gitlab.com/ee/development/documentation/feature_flags.html#features-that-became-enabled-by-default
+
 ### Picking something to work on
 
-The [Plan:Product Planning Build Board] always shows work in the current
+The team [Build Board] always shows work in the current
 release, with [workflow columns] relevant to implementation. Filtering it by
 ~backend shows issues for backend engineers to work on.
 
@@ -136,7 +160,7 @@ it, but please post in [#s_plan] if that's the case, as this probably
 means the issue should be better specified.
 
 [workflow columns]: /handbook/product-development-flow/
-[Plan:Product Planning Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1569369
+[Build Board]: https://gitlab.com/groups/gitlab-org/-/boards/1569369
 [#s_plan]: https://gitlab.slack.com/archives/s_plan
 
 ### Working on unscheduled issues

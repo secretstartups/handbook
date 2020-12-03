@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Build Machines - Distribution Team Infrastructure and Maintenance"
-description: "View details of the build machines node as well as the maintenance tasks"
+title: "Distribution Team Infrastructure and Maintenance - Build Machines"
+description: "Details and maintenance tasks for the Distribution Team's build nodes"
 ---
 
 ## On this page
