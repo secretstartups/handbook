@@ -182,6 +182,7 @@ Tips for creating a promotion document:
 - [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions.
 - For People Management roles - the team member should be prepared for management. This includes, at a minimum, the ability and willingness to provide honest and direct performance feedback and coaching, interviewing candidates with an ability to be decisive, ability to have difficult conversations, the ability to set direction, inspire, and motivate the team.
     - Note: People manager applications must be applied for through [Greenhouse](/handbook/hiring/interviewing/#internal-applicants).
+- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 For compensation changes Only:
 
@@ -194,6 +195,8 @@ The general promotion document serves as a baseline to outline what should be in
 - [General Promotion Document: Template](https://docs.google.com/document/d/1SavyZeQRXY4fOzv0Y7xMv4TiuWQIf51YtMptr_ZWFQs/edit#)
 
 While this varies, most promotion documents should be roughly 4-6 pages in length (though it is possible to have a solid document with less!). Quality is more important than quantity for promotion documents; 20 pages of documentation should not be necessary if the team member is truly ready for a promotion.
+
+- **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 ### Recommend a Compensation Increase
 
