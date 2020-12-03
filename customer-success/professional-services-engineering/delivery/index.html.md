@@ -108,22 +108,14 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
   1. You can see a list of previously created invitation codes and links to relevant details.
   1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel   
 
-3. **Share the invitation code and access instructions with attendees**: Once the invitation code is generated, a new Slack channel is automatically created for that class for demo systems support purposes. Here is an example of the message that’s posted in the channel with the instructions for you to share with course attendees.
+3. **Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know they expiration date (which is 14 days from the date you generated the code). 
 
-*Example lab instructions message*
 
-```Invitation Redemption Code - xxxxxx
-Course Title: ACME Company - CI/CD
-Course Date(s): 2020-04-08
-Max Redemptions: 30
-Redemption End Date: 2020-04-10
-Days before account expiration: 14
-
-Instructions:
-As an instructor or as a student, visit gitlabdemo.com
-Click the blue button for redeeming the code above. An anonymous user account and password will be created.
-Click on the red button to download your credentials (very important, don’t forget to do this since you will not be able to access this page again).
-Click the blue button to access your group and create your first project.
+**Demo Cloud Access Instructions:**
+1. Visit gitlabdemo.com
+1. Click the blue button for redeeming the code above. An anonymous user account and password will be created.
+1. Click on the red button to download your credentials (very important, don’t forget to do this since you will not be able to access this page again).
+1. Click the blue button to access your group and create your first project.
 ```
 #### Post-course instructor workflow
 
