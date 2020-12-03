@@ -292,11 +292,11 @@ After the Review App for the release post has been generated, the Release Post M
 
 It is the Release Post Manager's responsibility to make sure all content is completed by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
-##### What Release Post Manager should look for when reviewing content blocks
+##### What RPM should look for when reviewing content blocks
 
 It is recommended for the Release Post Manager to review all content for quality, including the marketing intro. But when reviewing content blocks in each relase post item MRs, the RPM should look for the following:
 
-1. Is the what/why clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
+1. Is the why (problem) and the what (solution) clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
 1. Does the filenames follow the recommended file-naming convention? See **Important note on naming files** under [Instructions](#instructions) for PM contributors.
 
 #### Next steps
