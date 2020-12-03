@@ -104,7 +104,6 @@ title: "Gainsight: Go-To-Market Technical Documentation"
    *  [GS] Architecture Diagram Link
    *  [GS] Customer Type
    *  [GS] Support Issues Measure
-   *  [GS] Product Risk Measure
    *  [GS] Summary
    *  [GS] Triage Issue URL
 *  This rule also pushes back to contacts in Salesforce in the event that anyone in Gainsight marks them as someone who has Opted out of marketing communication
