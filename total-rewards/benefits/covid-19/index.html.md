@@ -148,8 +148,8 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
      * 24/7 Advice Line: 866-454-8855
      * Mail order prescriptions can be requested via the online portal or by calling the number at the top of your prescription label.
      * Emotional Support
-       * [Wellness Resources](kp.org/selfcare).
-       * [MyStrength](kp.org/selfcareapps) is an app for Kaiser members who may be experiencing anxiety or emotional distress and is available at no additional cost. This app provides a personalized, cognitive behavioral therapy-based program that includes interactive activities, in-the-moment coping tools, inspirational resources, and community support.
+       * [Wellness Resources](https://kp.org/selfcare).
+       * [MyStrength](https://kp.org/selfcareapps) is an app for Kaiser members who may be experiencing anxiety or emotional distress and is available at no additional cost. This app provides a personalized, cognitive behavioral therapy-based program that includes interactive activities, in-the-moment coping tools, inspirational resources, and community support.
      * [Treatment Costs](https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information)
        * $0 out-of-pocket costs for COVID-19 screening or testing if referred by a Kaiser Permanente doctor.
        * If you test positive with COVID-19, out-of-pocket treatment costs will be waived through May 31, 2020.
@@ -170,7 +170,7 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
 * Emergency Dental Care - Cigna
    * Many dental offices are limiting appointments for emergency needs only or have closed due to state and local mandates. In the event of a dental emergency (severe pain, acute infection, swelling, and/or persistent bleeding), here’s how to get help:
      * First, contact your dentist to determine their care options.
-     * If the dental office is closed, Cigna can help you find care. Call 1-800-244-6224 or go to [mycigna.com](mycigna.com).
+     * If the dental office is closed, Cigna can help you find care. Call 1-800-244-6224 or go to [my.cigna.com](https://my.cigna.com/).
      * View additional details from [Cigna](http://images.connecting.cigna.com/Web/CIGNACorporation/%7B639647dd-3a01-4125-b82d-c7ab21d09604%7D_Receiving_Emergency_Dental_Care_-_FOR_PDF.PDF).
 * All US Team Members are automatically enrolled in [UHC's Employee Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#employee-assistance-program) by being enrolled in the Life/Disability insurance. This program offers help for difficult times including counseling services.
 
