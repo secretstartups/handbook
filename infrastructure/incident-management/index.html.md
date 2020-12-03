@@ -326,6 +326,22 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-Scheduled`   | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
+#### Root Cause Labeling
+Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service Attribution, improved understanding of Service behavior. Indicating a single root cause is desirable, however when a single cause cannot be decided it is acceptable to indicate multiple causes.
+
+The EOC, as DRI of the incident, is responsible for determining root cause.
+
+The current Root Cause labels are listed below. In order to support trend awareness these labels are meant to be high-level, not too numerous, and as consistent as possible over time.
+
+   | Root Cause | Description |
+   | ---------- | ----------- |
+   | `~RootCause::Software-Change` | feature or other code change |
+   | `~RootCause::Config-Change` | configuration change (either in code or through other control mechanisms, including feature flags) |
+   | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
+   | `~RootCause::Abuse` | deliberate abuse such as DDoS |
+   | `~RootCause::Inadequate-Scaling` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
+   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as SPoF or Inadequate-Scaling should be strongly considered for most incidents.
+
 #### Required Labeling
 These labels are always required on incident issues.
 
@@ -334,6 +350,7 @@ These labels are always required on incident issues.
 | `~incident` | Label used for metrics tracking and immediate identification of incident issues. |
 | `~Service::*` | Scoped label for service attribution. Used in metrics and error budgeting. |
 | `~Severity::*` | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
+| `~RootCause::*` | Scoped label indicating root cause of the incident. 
 
 
 #### Optional Labeling
