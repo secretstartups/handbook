@@ -880,6 +880,10 @@ If a customer requires POs, they will typically reject any invoice sent to them 
 
 2. If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
 
+**What if "PO Required" = "YES," and the customer has provided a PO number but not a PO document?**
+
+1. If the customer provides a PO number, not not a PO document, please attach the email (containing the PO number) to the opportunity. If all other booking requirements are met, the opportunity will be closed.
+
 **What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
 
 If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
