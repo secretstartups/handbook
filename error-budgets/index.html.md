@@ -134,7 +134,7 @@ Notable items to be addressed in future iterations include:
 [motivation]: https://landing.google.com/sre/sre-book/chapters/embracing-risk/#id-na2u1S2SKi1
 [infradev]: /handbook/engineering/workflow/index.html#availability-and-performance-refinement
 [architecture]: /handbook/engineering/architecture/workflow/
-[categories]: /handbook/product/product-categories/
+[categories]: /handbook/product/categories/
 [infra teams]: /handbook/engineering/infrastructure/team/
 [severity]: /handbook/engineering/quality/issue-triage/#availability
 [okr]: /handbook/engineering/#engineering-okr-process
