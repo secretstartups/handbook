@@ -298,7 +298,7 @@ The disadvantages are:
 
 We currently think the disadvantages outweigh the advantages.
 
-## One plan for one customer
+## Single plan for one customer
 
 We considered selling multiple plans to the same customer, allowing them to have some users on every plan.
 
