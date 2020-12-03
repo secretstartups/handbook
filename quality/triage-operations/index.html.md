@@ -143,7 +143,7 @@ so that the relevant Product Manager or Engineering Manager can be pinged later 
 
 ### Group level bugs, features, and UX debt
 
-This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/product-categories/#devops-stages).
+This report contains the relevant bugs, feature requests, and UX debt issues that belong to a group in our [DevOps stages](/handbook/product/categories/#devops-stages).
 The goal is to achieve [complete-triage](/handbook/engineering/quality/issue-triage#complete-triage) by the Product Manager, Engineering Manager, UX team member in that area.
 
 The report itself is divided into 4 main parts.
@@ -205,7 +205,7 @@ This section contains bugs which has past our targeted SLO based on the severity
 ### Group level merge requests that may need attention
 
 This report contains merge requests that belong to a group in our
-[DevOps stages](/handbook/product/product-categories/#devops-stages).
+[DevOps stages](/handbook/product/categories/#devops-stages).
 It's composed of three sections:
 
 1. Idle merge requests authored by team members.
