@@ -5,13 +5,29 @@ title: Product Investment
 
 This page is meant to provide insight into how we consider and allocate our investment across our [Product Hierarchy](/handbook/product/product-categories/#hierarchy).
 
-## Investment by Stage
+## Investment Types
 
-We have a framework we use to assess the investment level for each stage.  The three investment drivers are as follows:
+We track product investment across three types:
 
-1. <span class="colour" style="color:rgb(0, 0, 0)">Product Usage Driver Score is a measure of the number of active users per month for that stage</span>
-2. <span class="colour" style="color:rgb(0, 0, 0)">Revenue Driver score is a measure of the ability of that stage to increase revenue through higher ASP or seat adds</span>
-3. <span class="colour" style="color:rgb(0, 0, 0)">SAM (Served Addressable Market) Driver score is a measure of the size of the DevOps market that stage enables GitLab to serve over the next three years</span>
+1. Revenue investments:  Direct impact on our ability to drive revenue within the next 12 months. Some examples of this investment type are: ARR drivers prioritized by the sales team, improved usability of core high use workflows that drive SUS, improvements that help with retention, expansion and product supportability.
+1. Usage investments:  Demonstrated customer adoption traction (>5% of monthly active usage), and on path to driving revenue within 12-36 months.  The goal in the next 12 months is to drive additional product usage and maturity. Examples of this type of investment type are: Building good usability and embracing the working-by-default principle to spur adoption, gain feedback and reduce cycle time. 
+1. New markets investments:  Limited customer adoption.  These are long term bets to help us expand our Serviceable Addressable Market (SAM) over a 3-5 year time horizon.  The goal for the next 12 months is to establish demonstrated customer adoption. Examples of this are our investment in [Incident Management](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/), [Protect stage](https://about.gitlab.com/handbook/product/product-categories/#protect-stage), and [Single-Person groups](https://about.gitlab.com/handbook/product/product-categories/#single-person-groups-section)
+
+The investment mix between these three categories will shift over time as our business matures.  By 2024 we would expect the investment mix to look like:
+
+1. Revenue - 65%-75%
+1. Usage - 20-25%
+1. New markets - 5-10%
+
+## Investment by DevOps and Enabling Stages
+
+### DevOps Stage Scoring Framework
+
+We have a framework we use to assess the investment level for each DevOps stage.  The three investment drivers are as follows:
+
+1. Product Usage Driver Score is a measure of the number of active users per month for that stage
+2. Revenue Driver score is a measure of the ability of that stage to increase revenue through higher ASP or seat adds
+3. SAM (Served Addressable Market) Driver score is a measure of the size of the DevOps market that stage enables GitLab to serve over the next three years
 
 Each driver is scored on a 1-5 basis.  Here is a description of how each driver is scored.
 
@@ -23,82 +39,140 @@ Each driver is scored on a 1-5 basis.  Here is a description of how each driver
 | 4 | 100k-200k SMAU | Key element in Premium+ sales | 1B-2B SAM over the next 3 years |
 | 5 | >200k SMAU | Key element in Ultimate sales | >2B SAM over the next three years |
 
-The following table provides scores for each of our DevSecOps stages and a comparison of the total score to our current development spend allocation.
+### Enabling Stage Scoring Framework
 
-| Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Development Spend % | Score/Spend Difference |
-|-|-|-|-|-|-|-|-|
+We score enabling groups differently. Their Criticality of Use score replaces their Usage score and their Degree of Enablement replaces their SAM Score. Enabling groups utilize the same scoring methodology as DevOps stage groups for their Revenue Driver score.
+
+1. Criticality of Use score is a measure of how critical the enabling categories are to the usage of GitLab. 
+2. Degree of Enablement score is a measure of much the enabling categories expand the enablement of GitLab to the DevOps market in terms of percent of the SAM it enables.
+
+As for DevOps stage scores - each driver is scored on a 1-5 basis.  Here is a description of how each driver is scored.
+
+| Score | Criticality of Use | Degree of Enablement |
+| ----- | ---------------- | ------------------ |
+| 1 | Non-essential to use of GitLab |  Enables < 25% of the DevOps Market|
+| 2 | Non-essential but becoming more critical | Enables > 25% of the DevOps Market |
+| 3 | Essential but not required | Enables >50% of the DevOps Market |
+| 4 | Heavily recommmended for use of GitLab or GitLab.com | Enables >70% of the DevOps Market |
+| 5 | Required for use of GitLab or GitLab.com | Enables entire DevOps Market |
+
+### Scoring Results
+
+The following table provides scores for each of our DevOps stages and a comparison of the total score to our current development spend allocation as defined by the percentage of total individual contributor developers in product groups.
+
+| Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Dev | Stage Dev % | Score/Spend Difference |
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
-<% totalScore = 0 %>
+<% totalMarketingScore = 0 %>
+<% totalMarketingDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
-    <% totalScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% totalMarketingScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% totalMarketingDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+    <% end %>
   <% end %>
 <% end %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
+    <% stage_devs = 0 %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% stage_devs += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+    <% end %>
     <% stageLine=[] %>
     <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
-    <% percent_of_total = (combinedScore.to_f/totalScore.to_f)*100 %>
-    <% difference = stage.stage_development_spend_percent.to_f - percent_of_total%>
+    <% next if combinedScore == 0 %>
+    <% percent_of_total = (combinedScore.to_f/totalMarketingScore.to_f)*100 %>
+    <% percent_of_developers = (stage_devs.to_f / totalMarketingDevelopers.to_f)*100 %>
+    <% difference = percent_of_developers - percent_of_total%>
     <% stageLine << "#{stage.display_name}"%>
-    <% stageLine << "#{stage.usage_driver_score}" if stage.usage_driver_score %>
-    <% stageLine << "#{stage.revenue_driver_score}" if stage.revenue_driver_score %>
-    <% stageLine << "#{stage.sam_driver_score}" if stage.sam_driver_score %>
+    <% stageLine << stage.usage_driver_score ? "#{stage.usage_driver_score}" : "0" %>
+    <% stageLine << stage.revenue_driver_score ? "#{stage.revenue_driver_score}" : "0"%>
+    <% stageLine << stage.sam_driver_score ? "#{stage.sam_driver_score}" : "0" %>
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
-    <% stageLine << "#{stage.stage_development_spend_percent}%" if stage.stage_development_spend_percent %>
-    <% stageLine << "#{difference.round(1)}%" %>
+    <% stageLine << "#{stage_devs}" %>
+    <% stageLine << "#{percent_of_developers.round(2)}%" %>
+    <% stageLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>
     <%= "| #{stageLine.join(' | ')} |" if stageLine %>
   <% end %>
 <% end %>
 
-## Investment by Group
+### Investment by Group
 
-To be added.
+*Note: Enablement and Growth stages and groups aren't included, as they don't have specific target markets, and don't have a dedicated SAM.  Therefore, they can't be compared directly with feature-function stages and aren't included in this analysis.*
 
-<!--
-| Section - Stage:Group | Value |
-|-----------------------|-------|
+| Stage: Group | Usage Driver | ASP Driver | SAM Driver | Total | % of Total | Group Devs | Group Dev % | Score/Spend Difference |
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+<% totalDevOpsEnableScore = 0 %>
+<% totalDevOpsEnableDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% next if !stage.marketing && !stage.enabling %>
     <% stage.groups.each do |groupKey, group| %>
+      <% totalDevOpsEnableScore += group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
+      <% totalDevOpsEnableDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+    <% end %>
+  <% end %>
+<% end %>
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% next if !stage.marketing && !stage.enabling %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
+      <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
+      <% next if combinedScore == 0 %>
+      <% percent_of_total = (combinedScore.to_f/totalDevOpsEnableScore.to_f)*100 %>
+      <% percent_of_developers = (group_developers.to_f / totalDevOpsEnableDevelopers.to_f)*100 %>
+      <% difference = percent_of_developers - percent_of_total %>
       <% groupLine=[] %>
-      <% groupLine << "#{section.name} - #{stage.display_name}:#{group.name}" %>
-      <% groupLine << " " %>
+      <% # groupLine << "#{section.name} : #{stage.display_name}: #{group.name}" %>
+      <% groupLine << "[#{stage.display_name}: #{group.name}](/handbook/#{group.group_link})" if group&.group_link %>
+      <% groupLine << group.usage_driver_score ? "#{group.usage_driver_score}" : "" %>
+      <% groupLine << group.asp_driver_score ? "#{group.asp_driver_score}" : "" %>
+      <% groupLine << group.sam_driver_score ? "#{group.sam_driver_score}" : "" %>
+      <% groupLine << "#{combinedScore}" %>
+      <% groupLine << "#{percent_of_total.round(1)}%" %>
+      <% groupLine << "#{group_developers}" %>
+      <% groupLine << "#{percent_of_developers.round(2)}%" %>
+      <% groupLine << "#{"+" if difference > 0}#{difference.round(1)}%" %>  
       <%= "| #{groupLine.join(' | ')} |" if groupLine %>
     <% end %>
   <% end %>
 <% end %>
--->
 
-## Investment by Category
+## All Investment
+For non-DevOps and Enabling stages we still track our overall investment, but don't attribute score or score/spend differences.
 
-To be added.
-
-<!--
-| Section - Stage:Group - Category | [Priority Level](/handbook/marketing/website/#category-attributes) |
-|----------------------------------|----------------|
+| Stage: Group | Group Devs | Group Dev % |
+|:-|:-:|:-:|
+<% totalAllDevelopers = 0 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
-      <% if group.categories %>
-        <% group.categories.each do |categoryKey| %>
-          <% category = data.categories[categoryKey] %>
-          <% puts categoryKey unless category%>
-          <% categoryLine=[] %>
-          <% categoryLine << "#{section.name} - #{stage.display_name}:#{group.name} - #{category.name}" %>
-          <% categoryLine << "#{category.priority_level}" if category.priority_level %>
-          <%= "| #{categoryLine.join(' | ')} |" if categoryLine %>
-        <% end %>
-      <% end %>
+      <% totalAllDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
     <% end %>
   <% end %>
 <% end %>
--->
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+    <% stage.groups.each do |groupKey, group| %>
+      <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
+      <% percent_of_developers = (group_developers.to_f / totalAllDevelopers.to_f)*100 %>
+      <% groupLine=[] %>
+      <% groupLine << "#{stage.display_name}: #{group.name}" %>
+      <% groupLine << "#{group_developers}" %>
+      <% groupLine << "#{percent_of_developers.round(2)}%" %>
+      <%= "| #{groupLine.join(' | ')} |" if groupLine %>
+    <% end %>
+  <% end %>
+<% end %>
 
 ## Changes
 
-Changes to this page are made by adding new values to the single sources of truth ([categories.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml) and [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)) and then editing this page in order to display those values in table form. Be sure the definition for any column value is defined in [stage](/handbook/marketing/website/#stage-attributes) and [category attributes](/handbook/marketing/website/#category-attributes) and that the column headers link to those definitions.
+Changes to this page are made by adding new values to the single sources of truth ([categories.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml) and [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)) and then editing this page in order to display those values in table form. Be sure the definition for any column value is defined in [stage](/handbook/marketing/inbound-marketing/digital-experience/website/#stage-attributes) and [category attributes](/handbook/marketing/inbound-marketing/digital-experience/website/#category-attributes) and that the column headers link to those definitions.
+
+The process for making changes requires you to submit a merge request to the [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) for the specific keywords that have changed and provide the data source for that change. Assign the merge request to the EVP or VP of Product and slack `#product` for approval/merge. You can reference the [Release Stage update](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62103) for an example.
     

@@ -4,7 +4,7 @@ title: "Ops Section"
 ---
 
 <% section_name = 'Ops Section' %>
-<% section_groups = ['Verify:CI Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release:Progressive Delivery Group','Release:Release Management Group','Configure Group','Monitor:APM','Monitor:Health'] %>
+<% section_groups = ['Verify:CI Group','Verify:Pipeline Authoring Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release:Progressive Delivery Group','Release:Release Management Group','Configure Group','Monitor:Health'] %>
 
 #### On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -21,7 +21,7 @@ title: "Ops Section"
 There are XX team members in the Ops Section.
 
 ### Ops Section Wide
-The following people work as part of the Ops Section but outside a specific product group. 
+The following people work as part of the Ops Section but outside a specific product group.
 
 <%= department_team(base_department: section_name, remove_departments: section_groups) %>
 
@@ -40,13 +40,13 @@ The section is covered by groups from teams across two primary departments, Engi
 * Engineering
    * [Development](/engineering/development/)
       * [Configure & Monitor Sub-department](/handbook/engineering/development/ops/)
-      * [CI/CD Sub-department](/handbook/engineering/development/ci-cd/) 
+      * [CI/CD Sub-department](/handbook/engineering/development/ops/)
    * [UX](/handbook/engineering/ux/#team-structure)
-      * [Verify and Release UX](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/)
+      * [CI/CD UX](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/)
          * [Verify UX](/handbook/engineering/ux/stage-group-ux-strategy/verify/)
          * [Release UX](/handbook/engineering/ux/stage-group-ux-strategy/release/)
-      * Package, Configure and Monitor UX
          * [Package UX](/handbook/engineering/ux/stage-group-ux-strategy/package/)
+      * Configure and Monitor UX
          * Configure UX (TBD)
          * Monitor UX (TBD)
    * [Quality](/handbook/engineering/quality/#quality-engineering-structure)
@@ -63,8 +63,37 @@ The product department determines our [investment](/handbook/product/investment/
 
 ## Meetings
 
+## Ops Section Product Group AMAs (Expiremental)
+Every other Tuesday at 9am Pacific a [product group](#product-groups) from the Ops Section hosts a 30 minute, public, synchronous and live-streamed AMA.
+
+### Intent
+The intent of these AMAs is to:
+1. Encourage interaction with interested stakeholders and community members
+1. Encourage understanding of recent accomplishments and exciting things coming from each group
+1. Celebrate successes and communicate the group's vision
+
+### Process
+
+#### Content
+No content prep is required. We will host an AMA with an agenda that has a single link to the groups handbook page followed by questions from attendees.
+
+#### Schedule 
+
+The schedule for upcoming Ops Section Product Group AMAs is:
+
+|Date          | Group               |
+|--------------|---------------------|
+| 2020-12-01   | Package:Package     |
+| 2020-12-15   | Monitor:Monitor     |
+| 2021-01-12   | Configure:Configure |
+
+You can find the [recurring event](https://calendar.google.com/event?action=TEMPLATE&tmeid=N245M3BjdXNmM2Y0MDg1czJoZWw2MTcxOWZfMjAyMDEyMDFUMTcwMDAwWiBnaXRsYWIuY29tXzZlZXFmZXJyM3UxZnI3MjZzcTM1MmNkOG5jQGc&tmsrc=gitlab.com_6eeqferr3u1fr726sq352cd8nc%40group.calendar.google.com&scp=ALL) in the [Ops Section Calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV82ZWVxZmVycjN1MWZyNzI2c3EzNTJjZDhuY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). 
+
+### Success
+We'll measure the succes of this expiremental meeting based on the number of attendees and number of questions asked from outside the group during the AMAs.
+
 ## Ops Section Manager Meetings
-Every Monday at 8:30am Pacific, the Managers in [Ops Section Wide](#ops-section-wide) roles for the Development, UX, Quality and Product Management Departments are invited to attend the Ops Section Manager Meeting. The invite is in the [Ops Section calendar - GitLab internal](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV82ZWVxZmVycjN1MWZyNzI2c3EzNTJjZDhuY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+Every Monday at 9:00am Pacific, the Managers in [Ops Section Wide](#ops-section-wide) roles for the Development, UX, Quality and Product Management Departments are invited to attend the Ops Section Manager Meeting. The invite is in the [Ops Section calendar - GitLab internal](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV82ZWVxZmVycjN1MWZyNzI2c3EzNTJjZDhuY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ### Intent
 The intent of this meeting is to:
@@ -83,10 +112,8 @@ The agenda for the meeting is [here - GitLab internal](https://docs.google.com/d
 On a monthly basis we discuss each department's (Product, Development, Quality, UX) performance indicators with an eye towards enabling department performance improvements by improving how we interact across departments.
 The content and scheduling for these monthly reviews are:
 
-* Product PIs ([Handbook Page](/product/ops-section-performance-indicators/) / [Presentation - internal](https://docs.google.com/presentation/d/1pN_KMw7Ds7Lvl7kZ3c9tpvGYaY3RJv-rDw-ldcM0NBc/edit#slide=id.g8355638a39_2_0)) - Next Review 2020-06-29
-* Development PIs ([CI/CD](https://app.periscopedata.com/app/gitlab/556687/CI-CD-Section-Metrics) / [Ops](https://app.periscopedata.com/app/gitlab/694012/Ops-Sub-department-Metrics) / [All Sub-Departments](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics)) - Next Review 2020-07-20
-* Quality PIs - Next Review 2020-07-06 
-* UX PIs - Next Review 2020-06-22
+* Product PIs ([Handbook Page](/product/ops-section-performance-indicators/) / [Notes](https://docs.google.com/document/d/1ff7V_SRdJDYWzfCMAFLGYWxrMHAlTds4No6ROQZP2jo/edit#)) - First Monday
+* Engineering (Development, UX, Quality) PIs ([Handbook Page](https://about.gitlab.com/handbook/engineering/development/performance-indicators/ops/)) - Second Monday
 
 ### 5x5s
 In order to satisfy intent `#1` - we'll start the meeting series by doing a weekly rotation of 5x5s - five minute presentations on five slides introducing yourself to the rest of the team.
@@ -109,6 +136,22 @@ In order to satisfy the above intent, we:
 1. Provide read-only content for upcoming features and exciting recently delivered features
 1. Voice over what is working well or tips-and-tricks to share with other groups (with the desire to provide handbook homes for them)
 1. Have an open agenda for discussion of section wide concerns
+
+## Ops Section Recent News, Milestones, Accomplishments and Exciting Things
+
+### Recent News
+1. Jackie Porter was [promoted to Group Manager of Product, Verify](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues/2395)!
+1. As part of a [recent re-alignment we consolidated our Release stage groups into one](https://gitlab.com/gitlab-com/Product/-/issues/1698#ops).
+
+### Recent PI Milestones Achieved
+A list of important milestones achieved as part of our [Ops Section Product Performance indicators](/handbook/product/ops-section-performance-indicators/).
+1. Attained our [Q3 TMAU Goal](/handbook/product/ops-section-performance-indicators/#ops---section-tmau---sum-of-ops-section-smau)!
+1. [Verify](/handbook/product/ops-section-performance-indicators/#verify-verifyci---gmau-smau---unique-users-triggering-pipelines) and [Release](/handbook/product/ops-section-performance-indicators/#release-releaseprogressive-delivery-releaserelease-management---smau-gmau---count-of-users-triggering-deployments-using-gitlab) SMAU attained their Q3 Goal
+1. [Package usage](/handbook/product/ops-section-performance-indicators/#packagepackage---other---packages-published-using-the-package-registry) (while not userfied) continues to increase
+1. We're seeing a large increase in our [Monitor SMAU](/handbook/product/ops-section-performance-indicators/#monitormonitor---smau-gmau---unique-users-that-interact-with-alerts-and-incidents)
+
+### Recent Accomplishments
+<%= partial("includes/product/highlights", :locals => { :stages => ['verify','package','release','configure','monitor'] }) %>
 
 ## References
 * [Product categories](/handbook/product/product-categories/#ops-section)

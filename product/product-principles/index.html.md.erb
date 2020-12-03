@@ -2,9 +2,7 @@
 layout: handbook-page-toc
 title: Product Principles
 ---
-
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -87,7 +85,7 @@ actual users. This is a much more informative mechanism than the intuition
 of a product person (this doesn't mean we should just build
 whatever feedback tells us, however.)
 
-When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
+When considering how to scope a feature for a release remember it is ok to ship an "incomplete" feature to customers - assuming it still offers value and is not broken. For example, you could ship a feature that lacks a completed interface but still adds value if the user **chooses** to use it. [See this MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62038) as a great example of a release post item [shipping a truly minimal feature](https://gitlab.com/gitlab-org/gitlab/-/issues/241164). Consider existing workflows and understand the impact on overall user experience as you release your feature. In terms of talking about your feature, it's ok to add a release post item that announces your incomplete feature (making clear that it is an early iteration, and points to the direction for the feature) and follow-on in a later release post with a new item when you've completed more of the functionality.
 
 ### Iteration
 
@@ -154,11 +152,15 @@ Avoid unnecessary configuration. Avoid configuration to support fragile workflow
 When considering adding new configuration, we follow the following principles:
 
 - **Ensure a great experience by default** - GitLab should work perfectly right out of the box for most users. While it should be resisted, sometimes configuration is inevitable or preferable. Your configuration must not make that [experience worse](https://gitlab.com/gitlab-org/gitlab/issues/14432) and should always _get out of the way of the user_.
+  - **GitLab.com values should be the default** - the settings used on GitLab.com should be the defaults for self-managed. Not only does this provide a consistent experience for users, but we get the highest fidelity feedback via GitLab.com. If we find that the GitLab.com setting is wrong, it is usually wrong for self-managed too. If you believe you have a strong case for using custom (non-default) settings for Gitlab.com, please document the justification in alignment with your Product Section Lead. Any custom (non-default) settings for GitLab.com need to be [tracked here](https://docs.gitlab.com/ee/user/gitlab_com/).
 - **Encourage favorable behaviors by limiting configuration** - Convention also implies that we're encouraging our customers to do things
 in a certain way. A very concrete example of this is the ability to disable pipelines. We believe that our integrated solution will give a superior user experience and we're motivated to encourage this behavior. For this reason, adding a configuration to allow disabling this permanently (be that in a template or instance-wide), is something that should be avoided.
 - **Design for users not intermediaries** - GitLab should avoid falling into the [Blackboard trap](https://twitter.com/random_walker/status/1182637292869115904) of building a product that administrators of GitLab love because it is configurable, but developers and other users of GitLab hate because it is overly complex and confusing.
-- **Default to ON** - In addition to encouraging behavior by limiting the ability to toggle features, new features, when introduced, should default to turning things ON (if they are configurable at all - preferably they should not be), and when necessary, automatically migrate existing users/groups/projects to have the new features ON. Similarly, feature flags should be consistently ON for both GitLab.com and self-managed users whenever possible. It is important to remember that vocal proponents of an issue that a Product Manager might interact with would likely be inclined to take the extra effort to enable a feature, but most users will not.
-    - Default to ON can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance enterprises need like we need to do for [Container Network Security](https://about.gitlab.com/direction/defend/container_network_security/).
+- **Working by Default** - From the perspective of someone using GitLab, the feature does not exist until it works by default. This means, with few exceptions, features should simply work on GitLab.com and self-managed installations of GitLab without any configuration. This is more difficult than "on by default," which implies that features may be enabled by default but then require additional effort to set up. Working by default is worth this extra thoughtfulness and effort, because it enables an extremely important outcome: It allows customers to easily adopt our entire platform and experience the benefits of a single app for the entire DevOps lifecycle. In order to be properly working by default a feature needs two things:
+   - **On-by-default** - it must not be behind a feature flag or off by default. In addition to encouraging behavior by limiting the ability to toggle features, new features, when introduced, should default to turning things ON (if they are configurable at all - preferably they should not be), and when necessary, automatically migrate existing users/groups/projects to have the new features ON. Similarly, feature flags should be consistently ON for both GitLab.com and self-managed users whenever possible. It is important to remember that vocal proponents of an issue that a Product Manager might interact with would likely be inclined to take the extra effort to enable a feature, but most users will not.
+   - On-by-default can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance and visibility enterprises need.
+   - **Setup-by-default** - it should not require the admin or user to setup or configure the feature before it can be used. We should ensure every feature has sensible defaults where value can be extracted from the start.
+
 - **Avoid Limits** - Limits should be in place to [protect the system](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5617) but not to "slowly try out" a feature. By limiting the usefulness of a feature right from the start the only thing you are achieving is limiting its adoption and usefulness. If you are going to default to OFF or limited, you must have a good, documented reason for this.
 - **Avoid configuration completely when possible** - Requests for configuration can be a proxy for trying to support a fragile workflow. Rather than enabling bad habits and incurring product debt, effort should be spent helping customers adopt best practices.
     - **Configuration builds up over time** - Every configuration option in GitLab multiplies its complexity, which means the application is harder to use, harder to develop, and less friendly to users.
@@ -174,6 +176,8 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 </figure>
 
 #### Deciding whether to add configuration
+
+##### For a GitLab instance in `gitlab.yml`
 
 Product Managers at GitLab are frequently confronted with the choice of whether to add new configurations or not. These can frequently be times where an outside perspective is important. That's why we've created the option to request a [New Config Review](/handbook/product/product-processes/#mvc-and-new-config-reviews).
 
@@ -197,6 +201,10 @@ the Omnibus-GitLab. Newly introduced services probably need to be configured
 here.
 
 When you have to add a new configuration, make sure that the features and services are on by default. Only add a configuration line to either of these configuration files if the feature or service cannot be fully disabled from the admin UI.
+
+##### For a GitLab CI configuration in `.gitlab-ci.yml`
+
+If the decision to add a configuration follows the [principles above](https://about.gitlab.com/handbook/product/#principles), add it to the repository-specific CI configuration options and be sure to default it to the option that results in the best user experience. We are much more liberal with additions to CI configurations than Instance configurations.
 
 ### User Experience
 
@@ -290,6 +298,16 @@ consistent and the user has zero chance of seeing that banner again.
 
 ![pipelines_empty_state.png](/handbook/product/banner_customize_experience.png)
 
+#### Alerts
+
+[Alerts](https://design.gitlab.com/components/alert) allow the application to pass along relevant system information to the user without impeding their journey. Alerts should guide the reader to an actionable next step. Alerts without actionable next steps induce anxiety and can slow down resolution.
+
+Some important considerations when adding alerts:
+
+- Alerts should generally be targeted at users who are capable of taking action on that alert.
+- Alerts should only be targeted at wider audiences if they will be impacted by the condition. For example if the repository is about to exceed the storage limit.
+- Alerts should be dismissable at the appropriate level (dismiss a CI related warning for the entire namespace (i.e. project or (sub)group), and a user settings related warning for the user).
+
 #### Navigation
 
 Leveraging navigation is an effective design paradigm to introduce a user to a new
@@ -314,6 +332,97 @@ GitLab having a prioritized list of blue dots stored in the backend.
 - It should show the highest priority blue dot that has not already been dismissed.
 
 ![tooltip_boards.png](/handbook/product/tooltip_boards.png)
+
+### Product Qualified Leads (PQLs)
+
+As the GitLab userbase and team members who work on GitLab continue to grow we need to support both our users and team members by helping to connect users who may be interested in speaking with a member of the sales team to that particular person. We can call this a Product Qualified Lead or a PQL.
+
+#### A PQL can be further broken down into two types, usage and hand-raise
+ - Usage: A usage-based PQL is a user or a team (group or instance) that adopted the product to the level that we had data to support that they are statistically more likely to upgrade to a subscription compared to our remaining userbase. When this level of product adoption is achieved by the user or team an alert is triggered for the sales team to follow up with the user and/or team. The level of usage that triggers a usage-based PQL is something that will be determined and agreed upon between Product, Marketing, and Sales as the goal is to generate quality leads for the sales team. When the usage-based definition is agreed upon it will be added here. 
+- Hand-Raise: A hand-raise PQL is a user who requests to speak to sales from within the product. Our goal is to introduce these hand-raise moments throughout the product at feature discovery moments, or moments where a user is learning more about a paid feature or tier of GitLab that they may find valuable. These moments should be contextually relevant to their usage and non-obtrusive [see Discoverability Without Being Annoying](https://about.gitlab.com/handbook/product/product-principles/#discoverability-without-being-annoying). A hand-raise moment in the product should be accompanied by either a trial CTA or a touchless upgrade CTA or both. We want to always provide options to our users as we want them to decide the path that best suits their needs.  
+
+#### Clarifiying out what a PQL is not
+- A PQL is not a user that has only signed up for the product, they have not achieved a qualified status.
+- A PQL is not a trial, a trial is a separate user adoption path. It’s important to note that a user could start a trial and then become a PQL or vice versa. 
+
+#### The future vision of PQLs within the GitLab product
+
+Our goal is to develop a world-class PQL system whereby we monitor product usage to understand and constantly iterate on what constitutes a usage-based PQL and provide a unified intelligent interface in the product where users can submit a hand-raise, start a trial or upgrade touchlessly. 
+
+By monitoring product usage, usage PQL volume, SAO rate, and ASP we will be able to work in partnership with marketing and sales to ensure we’re sending high quality leads to the sales team.
+
+In the product experience, we will develop an intelligent module for feature discovery moments whereby we help recommend what we believe should be the preferred option for the user whether it’s a hand-raise, trial or touchless upgrade by updating the default CTA based on their usage of the product along with demographic and firmographic data. This experience will be present on both SaaS and self-managed instances for air-gapped instances the CTAs will provide the user with external URLs to visit to complete the associated step. This experience should be able to be deployed by any stage to further their paid adoption rate.
+
+### Drive Product Usage
+Users can only experience GitLab's value when they actively use the product features. Therefore the Product team's mission isn't only shipping features and building products, but also driving usage and delivering value. 
+
+There are two frameworks we use to think about driving GitLab's product usage: we use the AARRR framework to think about how to drive a single feature's usage, and use the Customer Adoption Journey to think about cross-adoption of product features. These two frameworks are also interconnected with each other. 
+
+
+#### Single Feature usage: AARRR framework
+
+AARRR stands for _Acquisition_, _Activation_, _Retention_, _Revenue_, and _Referral_ which is often referred to as ["Pirate Metrics"](https://amplitude.com/blog/2016/02/25/actionable-pirate-metrics). These five words represent the customer journey and the various means a product manager may apply Product Performance Indicators to drive a desired behavior in the funnel.
+
+While the AARRR framework is commonly used to drive overall active users, it is also a great way for PMs to think about how to drive feature usage.
+
+
+- Acquisition measures user actions that show awareness of the feature
+- Activation illustrates a user has begun to apply the feature
+- Retention is the continued use of the feature over time
+- Revenue captures the monetary value acquired from feature usage
+- Referral focuses on measuring behaviors that drive users to encourage others to consume the feature
+
+``` mermaid
+classDiagram
+  Acquistion --|> Activation
+	Acquistion : Are users aware of the product or feature set?
+	Acquistion: Measurement (Insert Metric)
+  Activation --|> Retention
+	Activation : Are users applying the feature?
+	Activation: Measurement (Insert Metric) 				
+  Retention --|> Revenue
+	Retention : Are users applying the feature over time?
+	Retention: Measurement (Insert Metric)
+  Revenue --|> Referral
+	Revenue : Are users paying for the features?
+	Revenue: Measurement (Insert Metric)
+  Referral --|> Acquistion
+	Referral : Are users encouraging others to use the feature?
+	Referral: Measurement (Insert Metric)
+```
+
+Add AARRR funnels for your stage or group's Product Performance Indicators directly with mermaid markdown. It's easy if you use this [live editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIEFjdGl2YXRpb24gLS18PiBSZXRlbnRpb25cblx0QWN0aXZhdGlvbiA6IEFyZSB1c2VycyBhcHBseWluZyB0aGUgZmVhdHVyZT9cblx0QWN0aXZhdGlvbjogTWVhc3VyZW1lbnQgKEluc2VydCBNZXRyaWMpIFx0XHRcdFx0XG4gIFJldGVudGlvbiAtLXw-IFJldmVudWVcblx0UmV0ZW50aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlIG92ZXIgdGltZT9cblx0UmV0ZW50aW9uOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoSW5zZXJ0IE1ldHJpYykgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKEluc2VydCBNZXRyaWMpICIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9).
+
+Product managers can use these various states to prioritize features that drive a desired action. This could mean focusing on the Activation metric to drive awareness and generate more `top of funnel` leads. As an example, in the [Release stage](https://about.gitlab.com/direction/ops/#release) the Release Management group tracks actions on the Release Page in GitLab. Users that view a Release Page have been `acquired` and those that create a release on a Release Page are `activated` users. The Product Manger can choose to target features that drive users to view the Release Page more, resulting in a greater interest in the number of users that become activated and create their own Releases.
+
+#### Multi-feature usage: Adoption Journey
+
+GitLab is a complete DevOps platform. Our customers get the most value out of the GitLab product when they use multiple features together. Below is the most common path our customers follow to adopt GitLab's product stages. 
+
+As PMs, in addition to driving usage of individual features, we should also proactively think about how to design product and user experiences to help users adopt more stages and features, therefore benefiting more from using GitLab. 
+
+``` mermaid
+graph LR;
+    Create --> Plan
+    Verify --> Secure
+    Create --> Manage
+    Create --> Verify
+    Verify --> Release
+    Verify --> Package
+    Release --> Monitor
+    Release --> Configure
+    Release --> Protect
+```
+
+The foundational user journey is from Create -> Verify. This is the most common combination of stages, and we believe when users experience these two stages they begin to understand the broader power of a single application for the entire DevOps lifecycle. We are working on several projects to increase the number of users enjoying Create and Verify together. Examples:
+
+- [Get up and running quickly using GitLab CI](https://gitlab.com/groups/gitlab-org/-/epics/2072)
+- [Make CI Runner easy for self-managed GitLab users](https://gitlab.com/groups/gitlab-org/-/epics/2778#solutions-roadmap)
+- [Encourage users to try out CI pipelines](https://gitlab.com/groups/gitlab-org/growth/-/epics/14)
+- [Improve experience migrating from Jenkins to GitLab](https://gitlab.com/groups/gitlab-org/-/epics/2735#urgency-and-next-steps)
+
+Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.
+
 
 ### Flow One
 
@@ -340,10 +449,6 @@ Flow One should cover the first iteration of a particular workflow.
 After this, individual MVCs can be introduced to expand the use-cases
 or loosen the assumptions (e.g. from a feature that can only be used
 if you're using feature branches, to one that works for other git strategies).
-
-### Breadth over depth
-
-See our thoughts on breadth over depth [on our strategy page](/company/strategy/#breadth-over-depth). While we prioritize breadth over depth, Product Managers should not lose sight of maturing each product category, with the ultimate goal of each category moving into a lovable state. A good rule of thumb to consider when planning product improvements, is that over time, approximately 70% of engineering effort should be allocated on breadth, and 30% on depth.
 
 ### Data-driven work
 
@@ -373,9 +478,21 @@ to manage multiple boards such as supporting the navigation interface, and all t
 
 This principle does not apply to our SaaS offering as limits are occasionally introduced to limit our hosting costs and protect other users from potential abuse. As an example we have [shared runner](https://docs.gitlab.com/ee/user/gitlab_com/#shared-runners) minute quotas and implement [rate limiting](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits).
 
-### No enforced workflows
+### Avoid instance-level features
 
-We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab-ee/issues/2059).
+After making a tier decision on a new feature, we should strive to maximize the number of users who can use it. 
+
+As part of this objective, we should avoid building instance-level features when possible. Building at the instance level (in the [admin area](https://docs.gitlab.com/ee/user/admin_area/)) leads to 
+[a separation between GitLab.com and self-managed](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/324#note_394401193) and limits 
+your audience to self-managed customers only:
+
+> Historically (and even net-new proposed features) we've often started with an "instance-wide" mindset which then means we need to iterate and adjust features to work at a group-level. This often delays functionality for our SaaS customers and makes GitLab.COM feel like a second-class citizen.
+
+There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249), but we should always have a clear view on how we might bring the feature to GitLab.com and clearly document why we started with the instance-level in the issue.
+
+### Avoid enforced workflows but allow enterprise flexibility
+
+We're discussing enforced workflows [in this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/2059).
 
 Enforced workflows should be avoided in GitLab. For example, there are three issue
 states (`Open`, `In Progress` (as of 10.2), and `Closed`), and any issue should be
@@ -422,12 +539,14 @@ When considering a customer need for enforcement or limitations:
 As an example, customers requested instance-wide enforcement through required CI jobs. Doing this would have been a mistake. Instead:
 
 - We understood their problem more deeply, and realized we could build capabilities to perform these checks in existing primitives (like [external rules](https://gitlab.com/groups/gitlab-org/-/epics/3869) in MR approvals).
-- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework-premium).
+- We limited the scope of the problem, and avoided any limitations at the instance-level. Instead, we planned to keep the impact as small as possible by requiring customers to scope this feature to only projects with a particular [compliance framework](https://docs.gitlab.com/ee/user/project/settings/#compliance-framework).
 - We intentionally planned for workarounds. A developer should be able to override these limitations inside merge requests, such as with [two-person approvals](https://gitlab.com/gitlab-org/gitlab/-/issues/219386). They should also be able to create subgroups that aren't subject to these controls.
 
 <figure class="video_container">
  <iframe src="https://www.youtube.com/embed/QCfOQs8S4OQ" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
+
+While workflow enforcement should be avoided in most cases, there are organizations that rely on enforced workflows for a variety of reasons. These organizations have problems adapting existing workflows as they move to GitLab and as a result, we should consider allowing some enforcement at the group level in order to balanace team efficiency and organizational policy. Page 79 of [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) outlines "teams that reported no approval process or used peer review achieved higher software delivery performance." As we implement features to allow organizations to enforce workflows, we should do so at the group level and default them off. GitLab should be a product teams use to accelerate product development, but flexible enough to solve for requirements of all sizes of organizations.
 
 ### Prefer small primitives
 
@@ -489,9 +608,11 @@ With this in mind, below are some product guidelines to consider:
 - **Be transparent about the data source**
     - When data is populated from an external source, make it clear that it comes from elsewhere. This prevents confusion, reduces cognitive load, and ensures that users are well informed about the choices they're making when interacting with the application.
 
-#### Avoid plugins and marketplaces
+#### Avoid plugins and commercial marketplaces
 
-Closed source software vendors commonly depend on plugins and marketplaces because:
+_Note_ - We intend to provide a place where everyone can contribute, such as [code snippets](https://gitlab.com/gitlab-examples), [project templates](https://about.gitlab.com/community/contribute/project-templates/) and CI/CD [templates](https://docs.gitlab.com/ee/ci/examples/#cicd-templates). Marketplaces are traditionally transaction based, where users are purchasing solutions. GitLab CI/CD templates on the other hand, will offer an in product experience for consuming templates for YAML configuration from a library of GitLab maintained templates. 
+
+Closed source software vendors commonly depend on plugins and commercial marketplaces because:
 
 1. These allow third parties the ability to add functionality without needing access to the underlying codebase.
 1. Third parties can charge for the plugins, which gives them an incentive to build them.
@@ -558,3 +679,13 @@ use eventually, even if they're not ready to today.
 By focusing on next-generation development flows, personas, and use cases - we build features and experiences where our initial users are in the relatively small population of early adopters. While we might build experiences to support them today, we presume there will always be a much larger population of future users of these experiences. Therefore, we optimize GitLab to support the larger number of current and future adopters of next-generation principles - those who are beginning to operate in the workflow (modern), team setup (developer first), or application architectures (cloud native) we support. We focus our investment in the most modern workflows that will best support those current adopters. This will come at the cost of sustained investment in initial workflows for early adopters.
 
 For example - we first provided an application log experience based on direct scraping of logs via kubectl. After adding support for installing Elasticsearch to your Kubernetes cluster, we should not continue to invest in the kubectl log view as we'd recommend newcomers to use Elasticsearch.
+
+#### Customer Support on all features
+{: #support-all-features}
+
+We provide customer support to paying customers on all features that are in the tier of their paid license as well as any lower tiers.
+This means a feature in Core, should get customer support in all paid tiers.
+For example, when there is a feature that is available in the lowest paid tier, but only has customer support in higher tiers,
+the feature should be removed from that lowest paid tier.
+In accordance with our [stewardship policy](/company/stewardship/) we can never remove features from Core into paid tiers,
+but we can build additional features around it which are available to paying customers only.

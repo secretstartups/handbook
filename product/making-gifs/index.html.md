@@ -46,7 +46,7 @@ If you want to create professional gifs, you want to start from a video file. Th
 
 ### Step 3
 
-Reduce the amount of colors visible. You can do this either be thinking beforehand what exactly you will capture or by limiting the amount of output colors exported in the resulting gif (see options [gifify](#gifify) ). Check your result to see if it fits your needs.
+Reduce the amount of colors visible. You can do this either be thinking beforehand what exactly you will capture or by limiting the amount of output colors exported in the resulting gif (see options [gifify](#gifify-cli) ). Check your result to see if it fits your needs.
 
 Another step could be to drop duplicate frames by manually searching through all frames. For more information on this, look [here](http://blog.invisionapp.com/7-tips-for-designing-awesome-gifs/). This additional step can take a lot of time. As with anything: "Only use it if you need to".
 

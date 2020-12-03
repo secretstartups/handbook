@@ -162,7 +162,7 @@ You can copy/paste this to make sure you don't miss anything:
 - Link to request:
 - Why interested:
 - Current solution for this problem:
-- How important to them:
+- Impact to the customer of not having this:
 - Questions:
 - PM to mention:
 ```

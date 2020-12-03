@@ -10,15 +10,13 @@ title: "Plan Stage"
 {:toc .hidden-md .hidden-lg}
 
 ### Plan
-
 {: #welcome}
 
 Plan teams:
 
-* [Plan:Project Management Backend Team](/handbook/engineering/development/dev/plan-project-management-be/)
-* [Plan:Portfolio Management Backend Team](/handbook/engineering/development/dev/plan-portfolio-management-be/)
-* [Plan:Certify Backend Team](/handbook/engineering/development/dev/plan-certify-be/)
-* [Plan Frontend Team](/handbook/engineering/development/dev/fe-plan/)
+- [Plan:Project Management Backend Team](/handbook/engineering/development/dev/plan-project-management-be/)
+- [Plan:Product Planning Team](/handbook/engineering/development/dev/plan-product-planning-be/)
+- [Plan Frontend Team](/handbook/engineering/development/dev/fe-plan/)
 
 The responsibilities of this collective team are described by the [Plan stage](/handbook/product/product-categories/#plan-stage). Among other things, this means
 working on GitLab's functionality around issues, issue boards, milestones, todos, issue lists and filtering, roadmaps, time tracking, requirements management, and notifications.
@@ -27,7 +25,7 @@ working on GitLab's functionality around issues, issue boards, milestones, todos
 
 In GitLab issues, questions should start by @ mentioning the Product Manager for the [corresponding Plan stage group](/handbook/product/product-categories/#plan-stage). GitLab team-members can also use [#s_plan](https://gitlab.slack.com/messages/C72HPNV97).
 
-For UX questions, @ mention the Product Designers on the Plan stage. Currently that is [Holly Reynolds](https://gitlab.com/hollyreynolds) for Plan:Project Management, [Alexis Ginsberg](https://gitlab.com/uhlexsis) for Plan:Portfolio Management, and [Nick Brandt](https://gitlab.com/nickbrandt) for Plan:Certify.
+For UX questions, @ mention the Product Designers on the Plan stage. Currently that is [Holly Reynolds](https://gitlab.com/hollyreynolds) for Plan:Project Management and [Alexis Ginsberg](https://gitlab.com/uhlexsis) for Plan:Product Planning and Plan:Certify.
 
 ### How we work
 
@@ -46,8 +44,8 @@ We work in a continuous Kanban manner while still aligning with Milestones and [
 When we're planning capacity for a future release, we consider the following:
 
 1. Availability of the teams during the next release. (Whether people are out of the office, or have other demands on their time coming up.)
-2. Work that is currently in development but not finished.
-3. Historical delivery (by weight) per group.
+1. Work that is currently in development but not finished.
+1. Historical delivery (by weight) per group.
 
 The first item gives us a comparison to our maximum capacity. For instance, if the team has four people, and one of them is taking half the month off, then we can say the team has 87.5% (7/8) of its maximum capacity.
 
@@ -85,11 +83,11 @@ Team-members work together to continuously refine the iterations as complexity i
 Examples of successful themes:
 
 1. **Requirements Management** ([#f_requirements-management](https://app.slack.com/client/T02592416/CUEQBQ7K8), [Epic](https://gitlab.com/groups/gitlab-org/-/epics/2703))
-2. **Jira Importer** ([#f_jira-importer](https://app.slack.com/client/T02592416/CUS6GB2JH), [Epic](https://gitlab.com/groups/gitlab-org/-/epics/2738))
+1. **Jira Importer** ([#f_jira-importer](https://app.slack.com/client/T02592416/CUS6GB2JH), [Epic](https://gitlab.com/groups/gitlab-org/-/epics/2738))
 
 #### Roadmap Organization
 
-```mermaid
+``` mermaid
 graph TD;
   A["devops::plan"] --> B["group::*"];
   B --> C["Category:*"];
@@ -108,9 +106,9 @@ graph TD;
 
 ### Talking With Customers
 
-In a perfect world, we would have cross-functional representation in every conversation we have with customers. To help work towards realizing this, anyone who is scheduling a call with a customer via sales, conducting usabiity reasearch, or generally setting up a time to speak with customers or prospects is encouraged to post the details to `#s_plan-customer-interviews`. Anyone that wants to participate can respond in a threaded comment and the scheduling individual will add them to the calendar event. 
+In a perfect world, we would have cross-functional representation in every conversation we have with customers. To help work towards realizing this, anyone who is scheduling a call with a customer via sales, conducting usabiity reasearch, or generally setting up a time to speak with customers or prospects is encouraged to post the details to `#s_plan-customer-interviews`. Anyone that wants to participate can respond in a threaded comment and the scheduling individual will add them to the calendar event.
 
-We are also working on trying to figure out the ideal way to automatically populate a shared Google Calendar with interview dates and details so it is easier to join any interview without needed to explicitly ask to be added to each individual event. The Plan customer interview calendar can be located via gitlab.com_5icpbg534ot25ujlo58hr05jd0@group.calendar.google.com. 
+We are also working on trying to figure out the ideal way to automatically populate a shared Google Calendar with interview dates and details so it is easier to join any interview without needed to explicitly ask to be added to each individual event. The Plan customer interview calendar can be located via gitlab.com_5icpbg534ot25ujlo58hr05jd0@group.calendar.google.com.
 
 ### Board Refinement
 
@@ -120,12 +118,12 @@ in the [Plan project]. The policies for these issues are defined in
 boards:
 
 1. [Plan backend / frontend check][befecheck] - engineering managers
-   check that issues on the current milestone have ~backend and
-   ~frontend labels correctly assigned. If they don't, they won't show
-   up on a team's build board.
-2. [Plan group check][groupcheck] - engineering managers check that
-   issues on the current milestone have a group label. Again, if they
-   don't, they won't show up on a group-specific build board.
+check that issues on the current milestone have ~backend and
+~frontend labels correctly assigned. If they don't, they won't show
+up on a team's build board.
+1. [Plan group check][groupcheck] - engineering managers check that
+issues on the current milestone have a group label. Again, if they
+don't, they won't show up on a group-specific build board.
 
 Other issues just define that, for instance, anything in or to the left
 of ~"workflow::ready for development" should be moved as a milestone
@@ -140,19 +138,19 @@ comes to a close. A full list of refinement issues is available by
 
 ### Tracking Committed Work for an Upcoming Release
 
-While we operate in a continuous Kanban manner, we want to be able to report on and communicate if an issue or epic is on track to be completed by a Milestone's due date. To provide insight and clarity on status we will leverage [Issue/Epic Health Status](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status-ultimate) on priority issues. 
+While we operate in a continuous Kanban manner, we want to be able to report on and communicate if an issue or epic is on track to be completed by a Milestone's due date. To provide insight and clarity on status we will leverage [Issue/Epic Health Status](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status) on priority issues.
 
-At the beginning of the Milestone, Product and Engineering Managers will assign the 'On Track' status to agreed-upon priority issues. As the Milestone progresses, anyone contributing to the work should update the Health Status as appropriate to surface risk or concerns as quickly as possible, and to jumpstart collaboration on getting an issue back to "On Track". 
+At the beginning of the Milestone, Product and Engineering Managers will assign the 'On Track' status to agreed-upon priority issues. As the Milestone progresses, anyone contributing to the work should update the Health Status as appropriate to surface risk or concerns as quickly as possible, and to jumpstart collaboration on getting an issue back to "On Track".
 
 #### Health Status Definitions for Plan :
 
-- *On Track* - We are confident this issue will be completed and live for the current milestone
-- *Needs Attention* - There are concerns, new complexity, or unanswered questions that if left unattended will result in the issue missing its targeted release. Collaboration needed to get back On Track
-- *At Risk* - The issue in its current state will not make the planned release and immediate action is needed to rectify the situation 
+- _On Track_ - We are confident this issue will be completed and live for the current milestone
+- _Needs Attention_ - There are concerns, new complexity, or unanswered questions that if left unattended will result in the issue missing its targeted release. Collaboration needed to get back On Track
+- _At Risk_ - The issue in its current state will not make the planned release and immediate action is needed to rectify the situation
 
 #### Flagging Risk is not a Negative
 
-We feel it is important to document and communicate, that changing of any item's Health Status to "Needs Attention" or "At Risk" is not a negative action or something to be cause anxiety or concern. Raising risk early helps the team to respond and resolve problems faster and should be encouraged. 
+We feel it is important to document and communicate, that changing of any item's Health Status to "Needs Attention" or "At Risk" is not a negative action or something to be cause anxiety or concern. Raising risk early helps the team to respond and resolve problems faster and should be encouraged.
 
 ### Retrospectives
 
@@ -178,58 +176,48 @@ YouTube in the [Plan group playlist][youtube].
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoceqcTneOVmAzhEp6NinY0
-
 #### Weekly group meeting
 
-The only regular meeting we have is a Wednesday group-wide
-meeting. Because of timezone constraints, not everyone is able to
-attend, and the meeting is currently more suitable for people in EMEA
-and the eastern side of the Americas.
+We hold a weekly team meeting where all team members across all functions are invited. We currently alternate the meeting time each week to be inclusive of our distributed team. The meeting is either EMEA (+Eastern US) friendly or APAC (+Western US) friendly. Regardless of the timezone we always record each meeting and post it to our youtube playlist.
 
 The [agenda] follows this format:
 
 1. Team updates: new hires, transfers, promotions, people leaving, etc.
-2. Big-picture updates: these are typically either forward-facing
-   (vision statements), or backwards-looking (how a feature impacted
-   users, sales, etc.).
-3. Issue-specific discussion and demos: any issues that people want to
-   share with the wider group, that can't be handled using our normal
-   asynchronous workflow.
-4. Workflow: how we improve how we work together in future (including
-   updating this page).
-5. Anything else.
+1. Big-picture updates: these are typically either forward-facing
+(vision statements), or backwards-looking (how a feature impacted
+users, sales, etc.).
+1. Issue-specific discussion and demos: any issues that people want to
+share with the wider group, that can't be handled using our normal
+asynchronous workflow.
+1. Workflow: how we improve how we work together in future (including
+updating this page).
+1. Anything else.
 
 If there are no agenda items eight hours prior to the call, we skip the call entirely.
 
 [agenda]: https://docs.google.com/document/d/1cbsjyq9XAt9UYLIxDq5BYFk47VA5aaTeHfkY2dttqfk/edit
 
 #### Links / References
-
-- `~devops::plan`
-    - [Kanban Board](https://gitlab.com/groups/gitlab-org/-/boards/1226305)
-    - [Frontend Board](https://gitlab.com/groups/gitlab-org/-/boards/654688)
-    - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan)
 - `~group::project management`
-    - [Kanban Board](https://gitlab.com/groups/gitlab-org/-/boards/1235826)
-    - [Build Board](https://gitlab.com/groups/gitlab-org/-/boards/1285239)
-    - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Aproject%20management)
-- `~group::portfolio management`
-    - [Kanban Board](https://gitlab.com/groups/gitlab-org/-/boards/1226305?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Aportfolio%20management)
-    - [Backend Board](https://gitlab.com/groups/gitlab-org/-/boards/1290228)
-    - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Aportfolio%20management)
-- `~group::certify`
-    - [Kanban Board](https://gitlab.com/groups/gitlab-org/-/boards/1235846)
-    - [Backend Board](https://gitlab.com/groups/gitlab-org/-/boards/1290309)
-    - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Acertify)
+  - [Board](https://gitlab.com/groups/gitlab-org/-/boards/1285239)
+  - [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&label_name[]=group%3A%3Aproject%20management)
 
-### Process Improvements We're Working Towards
 
-- **Smaller Iterations:** A 4-6 weeks release cycle is helpful from a marketing perspective, but it is too long of a time horizon for continuously delivering working software incrementally and iteratively. We can accomplish this by breaking bigger features into smaller vertical feature slices. If an Issue has a `weight` of `> 3`, it is a good signal it should be [broken down into smaller pieces](https://www.youtube.com/watch?v=EDT0HMtDwYI). The larger the weight, the more risk and likelihood the Issue will take longer than the estimate.
-- **Cycle Time of One Week:** For the purposes here, cycle time means an issue going into ~"workflow::In dev" to exiting ~"workflow::In review". In order to keep our continuous Kanban process moving, we're aiming to ensure issues don't stay in any stage for an extended amount of time.
-- **Limit Work In Progress:** [Context switching is expensive](https://blog.codinghorror.com/the-multi-tasking-myth/). By limiting the amount of Issues in progress at any given time, the less frequently you will have to incur this cost. You may think multitasking is inevitable, but by adhering to a work in progress limit, you will more quickly surface the parts of our process that are inefficient; enabling us to collectively fix them as a team.
-- **Product Shadowing for Engineers:** There can be a gap in understanding between Engineering and Product on a team. We are experimenting with a pilot programme that will allow engineers to spend time in the world of Product, with the goal of greater mutual communication, understanding and collaboration. It helps us work more effectively as a team for better features.
+### Team Process
 
-### Product Shadowing schedule
+Each group within the Plan stage follows GitLab's [product development flow](https://about.gitlab.com/handbook/product-development-flow/) and [process](https://about.gitlab.com/handbook/product/product-processes/). This allows for consistency across the stage, enables us to align with other stages and stable-counterparts, and enables us to clearly understand our throughput and velocity. We're currently focused on strictly following the process stated in the handbook, as opposed to creating our own local optimizations. 
+    
+In some cases we need to dogfood a new Plan feature that may adjust our adherence to the GitLab's process. If that happens we assign a DRI responsible for setting the objective, reporting on the outcomes and facilitating feedback to ensure we prioritize improvements to our own product. This ensures we're not making a change for the sake of making changes, and gives us clarity into our own evaluation of a change to the product. 
+
+There are a couple of process-related improvements we'll continue to adopt:
+
+- **Iterations:** We've recently started organizing the prioritized work in a given milestone into weekly iterations. This doesn't change any of the canonical process, and allows us to break a months worth of work into sizeable timeboxes. Intended outcome: Dogfood iterations (the feature), improve velocity and give more granular visibility into the progress of issues. DRI: @donaldcook 
+
+### Product Outreach
+
+There can be a gap in understanding between Engineering and Product on a team. We are experimenting with a pilot programme that will allow engineers to spend time in the world of Product, with the goal of greater mutual communication, understanding and collaboration. It helps us work more effectively as a team for better features. 
+
+#### Product Shadowing schedule
 
 Engineering team-members can shadow a product stable-counterpart. Shadowing sessions last two working days, or the equivalent split over multiple days to maximize experience with different functions of the role. To shadow a counterpart on the team:
 
@@ -238,24 +226,21 @@ Engineering team-members can shadow a product stable-counterpart. Shadowing sess
 1. When your counterpart is assigned to the issue, add their name, remove WIP status and assign to your manager for review.
 
 | Month | Engineering counterpart | Product counterpart | Issue link |
-|---|---|---|---|
+| ----- | ----------------------- | ------------------- | ---------- |
 | 2020-07 | Charlie Ablett ([@cablett](https://gitlab.com/cablett)) | Keanon O'Keefe ([@kokeefe](https://gitlab.com/kokeefe)) | [gitlab-org/plan#118](https://gitlab.com/gitlab-org/plan/-/issues/118) |
-| 2020-08 | | | |
+| 2020-10 | Jan Provaznik ([@jprovaznik](https://gitlab.com/jprovaznik)) | Gabe Weaver ([@gweaver](https://gitlab.com/gweaver)) | [gitlab-org/plan#185](https://gitlab.com/gitlab-org/plan/-/issues/185) |
 
 ### Speed Runs
 
 - Labels
-  * [Scoped Labels](https://youtu.be/ebyCiKMFODg)
-  
+    - [Scoped Labels](https://youtu.be/ebyCiKMFODg)
 - Issues
-  * [Description Change History](https://youtu.be/-JgfJSSLYlI)
-  
+    - [Description Change History](https://youtu.be/-JgfJSSLYlI)
 - Epics
-  * [Organize sub-Epics with the Epic Tree](https://youtu.be/TzRCan5ki6o) 
-
+    - [Organize sub-Epics with the Epic Tree](https://youtu.be/TzRCan5ki6o)
 - Requirements Management
-  * [Requirements MVC](https://youtu.be/uSS7oUNSEoU)
-  * [Satisfy Requirements from CI Pipeline](https://youtu.be/4m1mSEb2ywU)
+    - [Requirements MVC](https://youtu.be/uSS7oUNSEoU)
+    - [Satisfy Requirements from CI Pipeline](https://youtu.be/4m1mSEb2ywU)
 
 ### Plan's "Jobs To Be Done"
 
@@ -266,6 +251,7 @@ A list of the current JTBD that Plan is targeting can be found on the [Dev Direc
 Our [stage level dashboard](https://app.periscopedata.com/app/gitlab/493126/Plan-Stage) (internal) is a work in progress and is where we keep track of SMAU, feature usage, and other metrics we care about.
 
 #### Plan SMAU
+
 We have two versions for SMAU, with the "loose" version currently taking precedence as our Stage's externally communicated "North Star". It is our hope and long term goal to move away from defining our success according to vanity metrics and move towards a more congruent model that is based upon actual feature usage and adoption.
 
 ##### Loose Definition
@@ -287,7 +273,7 @@ The definitive metric is driven by _total count of unique users with one or more
 
 ##### Strict Definitions
 
-We are currently in the process of implementing the necessary telemetry instrumentation to properly track the "strict" definition. The definitive metric is driven by _total count of unique users with one or more actions_ over a given reporting period, where actions attributable to the Plan Stage are being derived from the following [events](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/app/models/event.rb):
+We are currently in the process of implementing the necessary product analytics instrumentation to properly track the "strict" definition. The definitive metric is driven by _total count of unique users with one or more actions_ over a given reporting period, where actions attributable to the Plan Stage are being derived from the following [events](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/app/models/event.rb):
 
 ###### Project Management - Issue Tracking
 
@@ -297,7 +283,7 @@ We are currently in the process of implementing the necessary telemetry instrume
 - **Labels** - User creates or updates a group or project label; or applies or removes a label on an issue.
 - **Markdown** - Issue or epic descriptions added or updated.
 - **Milestones** - A user associates an issue to a milestone, creates a milestone, updates a milestone, removes a milestone, or toggles the burndown view type on a milestone.
-- **Notifications** -  A user disables or enables on an issue, or updates their global notification settings.
+- **Notifications** - A user disables or enables on an issue, or updates their global notification settings.
 - **Quick Actions** - A quick action is used.
 - **Todos** - A Todo is manually added or marked as done
 
