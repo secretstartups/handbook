@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Secure and Defend Internship Program"
+title: "Secure and Protect Internship Program"
 ---
 
 ## On this page
@@ -16,7 +16,7 @@ we have the opportunity to get more direct product feedback and help folks
 learn more about security at the same time.
 
 We will begin offering the opportunity for folks interested in learning more
-about security an internship focused on adding our Secure and Defend features
+about security an internship focused on adding our Secure and Protect features
 to open source projects hosted on GitLab.com.
 
 ## Internship scope
