@@ -26,15 +26,11 @@ title: " Noria Aidam's README"
 
 <!-- Add 5-10 bullets on how you prefer to work, interact with others, and learn. You may optionally include intel from Strength Deployment Inventory, Myers—Briggs, etc. This is most effective when you are precise and specific about your norms, assumptions, and expectations. If you are unsure what would be helpful here, ask your colleagues for their input. You may learn something from listening to outside perspective! -->
 
-**Response time for emails and meeting follow-ups**: I will always do my best to provide same-day responses to customer inquiries and follow-ups unless otherwise noted. I like to provide customers top-notch service, but interruptions can impact that target. I will use my out-of-office when traveling so customers can expect delayed responses during those times. 
+**Response time for emails and meeting follow-ups**: I will always do my best to provide same-day responses to customer inquiries and follow-ups unless otherwise noted.  
 
-**Calendar**: Schedule things as necessary right on my calendar during working hours — I'll do my best to keep my calendar up to date. However, if you see only one empty slot for a day or if it looks like the meeting would be back to back with something else, please check with me before confirming dates and times with the customer. If you want me at my best for you, I will need time to prepare and follow-up. If we schedule back to back, I've found I'm often late to arrive due to the last meeting, flustered as I context shift, lacking answers for known questions, unprepared with demo environments that were altered in the last call, etc.
+**Calendar**: Schedule things as necessary right on my calendar during working hours — I'll do my best to keep my calendar up to date. However, if you see only one empty slot for a day or if it looks like the meeting would be back to back with something else, please check with me before confirming dates and times.
 
-**Synchronous Communication for Ongoing Efforts**: If I have an ongoing effort with individuals, they should feel encouraged to setup weekly strategy 25-minute calls with me and others involved. If more frequent synchronous communication is desirable or required, we should work together as a team to identify a viable cadence, required attendees, convenient time and agenda for those calls.
-
-**Where Information is Stored**: You can assume that all information is kept in the `Customers & Prospects` folder in Google Drive under the appropriately designated letter. This folder will be linked in Salesforce. Email communication with customers will also be bcc'd to Salesforce. If you prefer to record notes and actions differently, please let me know what that collaborative method is.
-
-**Continuous Learning**: Things at GitLab move really fast, and I need time to keep up. I like to be in touch with the people I am working with, even if it's 2 every 2 or 3 days just so I m sure I am going to the right direction. 
+**Continuous Learning**: Things at GitLab move really fast, and I need time to keep up. I like to be in touch with the people I am working with, even if it's every 2 or 3 days, just so I m sure I am going to the right direction. 
 Having clear instructions and being direct
 
 ## What I assume about others
