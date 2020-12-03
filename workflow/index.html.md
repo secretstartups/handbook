@@ -300,7 +300,7 @@ Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab
 
 GitLab Inc has to be selective in working on particular issues. We have a limited capacity to work on new things. Therefore, we have to schedule issues carefully.
 
-Product Managers are responsible for scheduling all issues in their respective [product areas](/handbook/product/product-categories/#devops-stages), including features, bugs, and tech debt. Product managers alone determine the [prioritization](/handbook/product/product-processes/#how-we-prioritize-work), but others are encouraged to influence the PMs decisions. The UX Lead and Engineering Leads are responsible for allocating people making sure things are done on time. Product Managers are _not_ responsible for these activities, they are not project managers.
+Product Managers are responsible for scheduling all issues in their respective [product areas](/handbook/product/categories/#devops-stages), including features, bugs, and tech debt. Product managers alone determine the [prioritization](/handbook/product/product-processes/#how-we-prioritize-work), but others are encouraged to influence the PMs decisions. The UX Lead and Engineering Leads are responsible for allocating people making sure things are done on time. Product Managers are _not_ responsible for these activities, they are not project managers.
 
 Direction issues are the big, prioritized new features for each release. They are limited to a small number per release so that we have plenty of capacity to work on other important issues, bug fixes, etc.
 
@@ -310,7 +310,7 @@ Any scheduled issue should have a team label assigned, and at least one type lab
 
 ### Requesting Something to be Scheduled
 
-To request scheduling an issue, ask the [responsible product manager](/handbook/product/product-categories/#devops-stages)
+To request scheduling an issue, ask the [responsible product manager](/handbook/product/categories/#devops-stages)
 
 We have many more requests for great features than we have capacity to work on.
 There is a good chance we’ll not be able to work on something.
@@ -378,7 +378,7 @@ When the issue has been verfied and everything is working, it can be closed.
 
 ## Kickoff
 
-At the beginning of each release, we have a kickoff meeting, publicly livestreamed to YouTube. In the call, the Product Development team (PMs, Product Designers, and Engineers) communicate with the rest of the organization which issues are in scope for the upcoming release. The call is structured by [product area](/handbook/product/product-categories/#devops-stages) with each PM leading their part of the call.
+At the beginning of each release, we have a kickoff meeting, publicly livestreamed to YouTube. In the call, the Product Development team (PMs, Product Designers, and Engineers) communicate with the rest of the organization which issues are in scope for the upcoming release. The call is structured by [product area](/handbook/product/categories/#devops-stages) with each PM leading their part of the call.
 
 The notes are available in a publicly-accessible [Google doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). Refer to the doc for details on viewing the livestream.
 
@@ -583,8 +583,8 @@ Not everything is urgent. See below for a non-exclusive list of things that are 
 ### Process
 
 1. Person requesting Rapid Engineering Response creates an issue supplying all known information and applies [priority and severity](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/issue_workflow.md#priority-labels) (or [security severity and priority](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues)) to the best of their ability.
-1. Person requesting Rapid Engineering Response raises the issue to their own manager and the [subject matter domain](/handbook/product/product-categories/index.html) engineering manager (or the delegation if OOO).
-   1. In case a specific group cannot be determined, raise the issue to the Director of Engineering (or the delegation if OOO) of the [section](/handbook/product/product-categories/index.html).
+1. Person requesting Rapid Engineering Response raises the issue to their own manager and the [subject matter domain](/handbook/product/categories/index.html) engineering manager (or the delegation if OOO).
+   1. In case a specific group cannot be determined, raise the issue to the Director of Engineering (or the delegation if OOO) of the [section](/handbook/product/categories/index.html).
    1. In case a specific section cannot be determined, raise the issue to the Sr. Director of Development (or the delegation if OOO).
 1. The engineering sponsor (subject matter Manager, Director, and/or Sr. Director) invokes all stakeholders of the subject matter as a rapid response task force to determine the best route of resolution:
    1. Engineering manager(s)
