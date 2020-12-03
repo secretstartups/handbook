@@ -339,7 +339,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::Config-Change` | configuration change (either in code or through other control mechanisms, including feature flags) |
    | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
    | `~RootCause::Abuse` | deliberate abuse such as DDoS |
-   | `~RootCause::Inadequate-Scaling` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
+   | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
    | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as SPoF or Inadequate-Scaling should be strongly considered for most incidents.
 
 #### Required Labeling
