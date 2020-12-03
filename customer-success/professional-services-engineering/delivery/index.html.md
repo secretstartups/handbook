@@ -93,22 +93,22 @@ PSEs who deliver GitLab Education Services instructor-led courses can use the fo
 
 PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environment for hands-on course lab activities and hands-on certification assessments. Follow these steps to set up your course attendees for lab access.
 
-1. **Register your account**
+**1. Register your account**
 
     * Self-register at [gitlabdemo.com](http://gitlabdemo.com/) to create your credentials on the GitLab instance during the automated provisioning process. This will provide you with your own user account and organization group for your own projects. This step is not specific course session, but is a required step as a GitLab team member.
 
     * Credentials for your course attendees will be generated  when they redeem an invitation code that you’d provide to them. In essence, we create a unique invitation code for each course session that attendees redeem on [gitlabdemo.com](http://gitlabdemo.com/) on Day 1 of the course session, and their GitLab instance credentials are generated after they enter their code.
 
-1. Generate invitation codes
-  1. Visit gitlabdemo.com
-  1. Sign in with Okta
-  1. Click `Invitation Codes` in the top navigation.
-  1. Click the `Create Invitation Code` button in the top right corner.
-  1. Fill out the form. Your invitation code is generated and GitLab group is created when you click the green button.
-  1. You can see a list of previously created invitation codes and links to relevant details.
-  1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel   
+**2. Generate invitation codes**
+1. Visit gitlabdemo.com
+1. Sign in with Okta
+1. Click `Invitation Codes` in the top navigation.
+1. Click the `Create Invitation Code` button in the top right corner.
+1. Fill out the form. Your invitation code is generated and GitLab group is created when you click the green button.
+1. You can see a list of previously created invitation codes and links to relevant details.
+1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel   
 
-3. **Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know they expiration date (which is 14 days from the date you generated the code). 
+**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know they expiration date (which is 14 days from the date you generated the code). 
 
 
 **Demo Cloud Access Instructions:**
