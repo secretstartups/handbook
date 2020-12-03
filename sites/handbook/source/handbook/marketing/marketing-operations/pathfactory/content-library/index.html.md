@@ -133,7 +133,7 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Webcast | A live broadcast & recording that includes a presenter, slides, and a live audience. | [Cloud Native Transformation with Ask Media Group](https://www.youtube.com/watch?v=3ED5NrVoVzk) |
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution. Whitepapers are academic and authoritative in tone. Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. | [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
 
-### Content topics
+## Content topics
 
 Unsure what content topics align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -186,7 +186,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | VSM | Content that relates to the topic of value stream mapping and management. Topics that fall under this tag may include cycle time, cycle analytics, and software delivery strategies and metrics. | [The Forrester Value Stream Management Report](/analysts/forrester-vsm/index.html) |
 | Workflow | Content that relates to understanding and implementing workflows throughout the software development lifecycle. Likely uses are content that explains a particular workflow or how to set up a workflow in GitLab. For example: how a workflow might change when a level of automation is introduced. | [Planning for success](/resources/downloads/gitlab-planning-for-success-whitepaper.pdf) |
 
-### Industry Verticals
+## Industry Verticals
 
 Industry verticals are set using a standard list in SFDC per [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2500). 
 
