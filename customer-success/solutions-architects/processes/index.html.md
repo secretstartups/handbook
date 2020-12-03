@@ -161,7 +161,7 @@ When technical staff is required for a marketing event, follow the process outli
 ## Request Solutions Support from Product
 
 When a prospect or customer have required capabilities that do not map directly to our product offering, Solutions Architect’s first step is to explore solutions or work-arounds that would satisfy their requirements with our current toolset.
-If the SA is unable to determine an approach that works for the prospect, the next best action is to reach out to the Product Manager. To determine what Product Manager is appropriate, review the [Product Categories handbook page](/handbook/product/product-categories/).
+If the SA is unable to determine an approach that works for the prospect, the next best action is to reach out to the Product Manager. To determine what Product Manager is appropriate, review the [Product Categories handbook page](/handbook/product/categories/).
 
 To be efficient as possible, this is the recommended approach:
 
