@@ -312,7 +312,7 @@ To update the [release post managers list](managers/), edit the data file below.
 
 ### PM Contributors
 
-Product Managers are responsible for [raising MRs for their content blocks](#content-blocks) and ensuring they are reviewed by necessary contributors by the due date. These are mostly added by the Product Managers, each filling up the sections they are [accountable for](/handbook/product/product-categories/#devops-stages), but anyone can contribute, including community contributors. Content blocks should also be added for any epics or notable community contributions that were delivered.
+Product Managers are responsible for [raising MRs for their content blocks](#content-blocks) and ensuring they are reviewed by necessary contributors by the due date. These are mostly added by the Product Managers, each filling up the sections they are [accountable for](/handbook/product/categories/#devops-stages), but anyone can contribute, including community contributors. Content blocks should also be added for any epics or notable community contributions that were delivered.
 
 #### Contribution instructions
 
@@ -884,7 +884,7 @@ to the docs.
 
 ### Features
 
-The most relevant features of the release are included in the post by [product managers](/handbook/product/product-categories/#devops-stages). Classify the feature according to its relevance and to where you want to place it in the blog post:
+The most relevant features of the release are included in the post by [product managers](/handbook/product/categories/#devops-stages). Classify the feature according to its relevance and to where you want to place it in the blog post:
 
 #### Top feature
 
@@ -1023,7 +1023,7 @@ It is a required field.
   - [`monitor`](/stages-devops-lifecycle/monitor/)
   - [`secure`](/stages-devops-lifecycle/secure/)
   - [`protect`](/stages-devops-lifecycle/protect/)
-  - [`enablement`](/handbook/product/product-categories/#enablement-stage).
+  - [`enablement`](/handbook/product/categories/#enablement-stage).
 
 The stages display as an icon next to the product tiers' badges linking
 to the stage webpage using a regex:

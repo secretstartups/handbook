@@ -144,7 +144,7 @@ If you have already followed those directions in the [PR handbook](/handbook/mar
 
 #### Who to assign your MR to – urgent posts
 
-Please assign first to @rebecca. If she is OOO, assign to @skassabian. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/product-categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
+Please assign first to @rebecca. If she is OOO, assign to @skassabian. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
 
 Continuous delivery mindset: With time-sensitive posts, don't wait to publish a post if you have enough information to go live. It's OK to publish a headline and paragraph to get the news out in a timely matter and add more details later (e.g. add more graphics, charts, etc.). We don't want to miss out on a news cycle because we're waiting for an image or supplementary information.
 {: .alert .alert-info}
