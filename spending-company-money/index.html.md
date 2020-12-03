@@ -96,8 +96,7 @@ Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.
 1.  **Repairs to company issued equipment.**
     * If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed.
     * Please get approval from your Manager if your equipment appears to be damaged, defective, or in need of repair. Business Operations can advise on next steps to ensure you have the proper equipment to work.
-    * With GitLab being in [55 countries and growing](/company/team/#countries), please share your experiences in getting your laptops repaired at an authorized dealer in this [issue](https://gitlab.com/gitlab-com/business-ops/it-ops/issue-tracker/issues/6)
-    * For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor and share your experiences in this [issue](https://gitlab.com/gitlab-com/business-ops/it-ops/issue-tracker/issues/6)
+    * For loaner laptops: Do not hesitate when expensing a loaner laptop while your primary laptop is being repaired. Use your best judgment identifying a local vendor. Please check out our [laptop repair](Since these items are company property, you do not need to buy insurance for them unless it is company policy to do so (for example, at the moment we do not purchase Apple Care).) page for more info.
 
 ## English lessons
 
