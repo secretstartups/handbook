@@ -162,7 +162,7 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 |---------------|----------|
 | DRI           | Product Designer |
 | Collaborators | Product Manager <br/>Engineering |
-| Informed      | Technical Writing <br/>Software Engineers in Test <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Technical Writing <br/>Software Engineers in Test <br/>Application Security Engineers <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
