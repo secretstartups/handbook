@@ -13,6 +13,7 @@ title: Secure Technical Documentation
 
 - [Overview](./overview/)
 - [Severity Levels](./severity-levels/)
+- [Feedback](./feedback)(Dismiss, create an issue or a Merge Request)
 
 ## Researches
 
