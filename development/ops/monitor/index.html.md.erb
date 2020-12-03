@@ -37,7 +37,7 @@ Previously the stage also had this group:
 
 - [APM](apm/)
 
-These groups map to the [Monitor Stage product category](/handbook/product/product-categories/#monitor-stage).
+These groups map to the [Monitor Stage product category](/handbook/product/categories/#monitor-stage).
 
 ## How to be successful in this stage
 
@@ -148,10 +148,10 @@ Such an approach helps us to communicate better not only between the engineers b
 
 #### Cases where namespace was selected properly
 
-1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](/handbook/product/product-categories/#monitor-group) product category.
-1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
-1. Model: [`Metrics::Dashboard::Annotation`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/dashboard/annotation.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
-1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](/handbook/product/product-categories/#apm-group) product category.
+1. Worker: [`IncidentManagement::ProcessAlertWorker`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/workers/incident_management/process_alert_worker.rb) was properly placed under `IncidentManagement` namespace which relates to [Incident Management](/handbook/product/categories/#monitor-group) product category.
+1. Model: [`Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/users_starred_dashboard.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/categories/#apm-group) product category.
+1. Model: [`Metrics::Dashboard::Annotation`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/app/models/metrics/dashboard/annotation.rb) was properly placed under `Metrics` namespace which relates to [Metrics](/handbook/product/categories/#apm-group) product category.
+1. Grape API instance: [`API::Metrics::UsersStarredDashboard`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/api/metrics/user_starred_dashboards.rb) was properly placed in `lib/api` dicrectory under `API` top-level namespace and than in `Metrics` subnamespace which relates to [Metrics](/handbook/product/categories/#apm-group) product category.
 
 #### Cases where better namespace could be selected
 

@@ -40,11 +40,11 @@ The results of the scans are exported as JSON reports that must follow [Secure R
 
 This part is mainly covered by the following groups:
 
-- [Composition Analysis](/handbook/product/product-categories/#composition-analysis-group)
-- [Dynamic Analysis](/handbook/product/product-categories/#dynamic-analysis-group)
-- [Fuzz Testing](/handbook/product/product-categories/#fuzz-testing-group)
-- [Static Analysis](/handbook/product/product-categories/#static-analysis-group)
-- [Vulnerability Research](/handbook/product/product-categories/#vulnerability-research-group)
+- [Composition Analysis](/handbook/product/categories/#composition-analysis-group)
+- [Dynamic Analysis](/handbook/product/categories/#dynamic-analysis-group)
+- [Fuzz Testing](/handbook/product/categories/#fuzz-testing-group)
+- [Static Analysis](/handbook/product/categories/#static-analysis-group)
+- [Vulnerability Research](/handbook/product/categories/#vulnerability-research-group)
 
 ## 2. Processing, visualization, and management
 
@@ -57,5 +57,5 @@ Once the data is available as Report Artifact, it can be processed by the [GitLa
 
 Depending on the context, the security reports can be stored in the database or stay as Report Artifacts for on-demand access.
 
-This part is mainly covered by the [Threat Insights group](/handbook/product/product-categories/#threat-insights-group).
+This part is mainly covered by the [Threat Insights group](/handbook/product/categories/#threat-insights-group).
 Though, the boundaries can sometimes be a bit blurry so [we're trying to delineate this as clearly as possible](https://about.gitlab.com/handbook/engineering/development/threat-management/delineate-secure-threat-management.html#technical-boundaries).
