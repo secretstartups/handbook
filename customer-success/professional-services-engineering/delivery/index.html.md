@@ -77,7 +77,7 @@ PSEs who deliver GitLab Education Services instructor-led courses can use the fo
 
 1. The Education Practice Manager or Project Coordinator will set up a Zoom Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Webinar session.
 
-1. At least 3 business days prior to the training session, email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers they will receive an automated confirmation email with a Zoom Webinar join link unique to each person, along with a link to add the session to their calendar.
+1. At least 2 weeks prior to the training session, email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers they will receive an automated confirmation email with a Zoom Webinar join link unique to each person, along with a link to add the session to their calendar.
 
 1. Contact the PS Instructional Designer to confirm you have the latest versions of course slides and other materials.
 
@@ -91,7 +91,7 @@ PSEs who deliver GitLab Education Services instructor-led courses can use the fo
 
 ##### Training lab pre-course instructor workflow
 
-Starting in Q1FY21 PS is incorporating the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environment for hands-on course lab activities and hands-on certification assessments. Follow these steps to set up your course attendees for lab access.
+PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environment for hands-on course lab activities and hands-on certification assessments. Follow these steps to set up your course attendees for lab access.
 
 1. **Register your account**
 
@@ -99,7 +99,14 @@ Starting in Q1FY21 PS is incorporating the [GitLab Demo Cloud](http://gitlabdemo
 
     * Credentials for your course attendees will be generated  when they redeem an invitation code that you’d provide to them. In essence, we create a unique invitation code for each course session that attendees redeem on [gitlabdemo.com](http://gitlabdemo.com/) on Day 1 of the course session, and their GitLab instance credentials are generated after they enter their code.
 
-2. **Add your class dates**: When you have confirmed your course session dates, you will need to add them to [this spreadsheet](https://docs.google.com/spreadsheets/d/1iVsVa5GtKkNJyipz3TQ-0NjZIOlMUr1NhflvqYUFOaM/edit?usp=sharing) and assign the provision field to the [Demo System Engineer](https://about.gitlab.com/job-families/sales/demo-systems-engineer/) to start the process of creating an invitation code (same day turn around before 12pm US Pacific).
+1. Generate invitation codes
+  1. Visit gitlabdemo.com
+  1. Sign in with Okta
+  1. Click `Invitation Codes` in the top navigation.
+  1. Click the `Create Invitation Code` button in the top right corner.
+  1. Fill out the form. Your invitation code is generated and GitLab group is created when you click the green button.
+  1. You can see a list of previously created invitation codes and links to relevant details.
+  1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel   
 
 3. **Share the invitation code and access instructions with attendees**: Once the invitation code is generated, a new Slack channel is automatically created for that class for demo systems support purposes. Here is an example of the message that’s posted in the channel with the instructions for you to share with course attendees.
 
