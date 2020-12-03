@@ -53,7 +53,7 @@ For new ideas where the customer problem and solution isn't well understood, Pro
 
 **When:** When our confidence about the proposed problem or solution isn't high. For example, if we aren't reasonably sure that the problem is important to a significant number of users, or that the solution is easy to understand and use.
 
-**Who:** Product Manager, Product Designer, UX Research, Engineering Manager
+**Who:** Product Manager, Product Designer, UX Researcher, Engineering Manager
 
 **What:**
 
