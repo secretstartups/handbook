@@ -35,15 +35,16 @@ The Talent Brand Manager monitors reviews on a weekly basis, and responds direct
 
 1. Open an issue in the Talent Brand project using the "Glassdoor" issue template.
 1. Determine the team or department the review is talking about, the status of the poster (current team member or former team member), and where the person is located. 
-1. Based on the department, tag the appropriate People Business Partner in the issue for review. 
-1. Determine the right escalation path within leadership of that specific department so that the leaders can be tagged and made aware.
-1. Draft a response in a Google Doc (link in the issue) to the review in partnership with the People Business Partner and other DRIs within the impacted department. 
-1. Get feedback and approval from the impacted department, and work with the People Business Partner to determine who is going to respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
+1. Draft a proposed response for review.
+1. Based on the department, tag the appropriate People Business Partner or recruiting lead in the issue to offer additional context and review the response draft.
+1. Determine the right escalation path within that specific department so that the leaders can be tagged and made aware.
+1. Tag the Chief People Officer, VP of Recruiting, and Senior Director of People Success for awareness. 
+1. Get feedback and approval from the impacted department, and work with the People Business Partner or recruiting lead to determine who is going to respond on behalf of the team. See [Who Should Respond](/#who-should-respond) section below.  
 
 ## Escalating and responding to interview reviews
 
-1. We do not currently respond to interview reviews unless there is negative feedback that can be addressed with a response. If necessary, use the same issue template we use for company reviews.
-1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the same issue template we use for company reviews. 
+1. We do not currently respond to interview reviews unless there is negative feedback that can be addressed with a response. If necessary, use the same issue template and process we use for company reviews.
+1. When there is an interview review that contains feedback that may be helpful for iterating on our internal processes, the Talent Brand Manager will escalate this feedback by tagging the approproate hiring team, Recruiting team (CES), or People Business Partner via the issue. 
 
 # How to post a response
 
