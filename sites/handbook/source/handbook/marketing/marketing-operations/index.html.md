@@ -389,9 +389,10 @@ Status in the table below means:
 | Virtual Sponsorship | paid demand gen |  | Active |
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
-| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Active |
+| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Inactive |
+| Channel Qualified Lead | referral| GitLab partner sourced, previously `partner`| Active|
 | Word of Mouth | referral |  | Active |
-| Event Partner | referral |  | Active |
+| Event Partner | referral |  | Inactive |
 | Existing Client | referral |  | Active |
 | External Referral | referral |  | Active |
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
