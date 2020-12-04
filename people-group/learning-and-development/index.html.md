@@ -124,7 +124,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>September - <a href="/handbook/people-group/learning-and-development/manager-challenge/#pilot-program">Manager Challenge Pilot</a></li>
 <li>November - <a href="https://www.youtube.com/watch?v=WZun1ktIQiw">Belonging</a></li>
 <li>November - <a href="/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge">One Week Challenge - Psychological Safety</a></li>
-<li>December - <a href="add url">Introduction to Coaching</a></li>
+<li>December - <a href="/handbook/leadership/coaching/#introduction-to-coaching-1">Introduction to Coaching</a></li>
 </ul>
 
 <b>2019</b>
