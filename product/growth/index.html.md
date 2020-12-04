@@ -22,7 +22,7 @@ rapid experimentation.
 - [Product Analytics](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
-Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. To do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model and identify the highest ROI lever at this moment to have as a focus. In the [Growth direction page](https://about.gitlab.com/direction/growth/), we outline the Growth section's long term direction and near term focus areas.
+Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/direction/growth/) we outline the Growth section's long term direction and near term focus areas.
 
 ## How the Growth team works
 
@@ -107,7 +107,7 @@ We will use the label `~Growth-Deliverable` to differentiate this from a typical
 - Able to stand on its own (can be potentially released/launched on its own)
 - Expected to directly impact KPI or improve internal/external user experience on its own
 - Typically should be a product change, but can include emails etc. if it meet 1) AND 2)
-- Growth deliverables can also be UX research or data analysis if these are large in scope and require significant amount of effort from the Product Manager, OR if they provide valuable insight for growth experiments
+- Growth deliverables can also be UX research or data analysis if these are large in scope and require a significant amount of effort from the Product Manager, OR if they provide valuable insight for growth experiments.
 
 ## How Growth launches experiments 
 
