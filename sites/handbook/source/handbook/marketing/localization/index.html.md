@@ -41,7 +41,7 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 ### Priority Countries
 
-Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an [internal document](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit?usp=sharing). 
+Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: Priority Country Analysis. 
 
 Our current localization capabilities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lightweight translations that don't require internal development or design resources.
 
