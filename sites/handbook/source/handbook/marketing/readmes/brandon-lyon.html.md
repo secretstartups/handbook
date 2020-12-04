@@ -22,7 +22,7 @@ Hi 👋 my name is Brandon Lyon. I'm a marketing web developer and designer at G
 
 ## Current work
 
-[Brandon is currently working on these projects](https://bit.ly/3eNe8I7).
+[Brandon is currently working on these projects](https://bit.ly/3q0slrl).
 
 ## About Me
 
