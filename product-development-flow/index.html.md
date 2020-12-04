@@ -289,7 +289,7 @@ To ensure that a Software Engineer in Test (SET) will have ample time to contrib
 | Role          | Function |
 |---------------|----------|
 | DRI           | Assigned engineer |
-| Collaborators | Product Manager <br/>Software Engineer in Test <br/>Technical Writer <br/>Product Designer |
+| Collaborators | Product Manager <br/>Software Engineer in Test <br/>Technical Writer <br/>Product Designer <br/> Application Security Engineer|
 | Informed      | Product Marketing <br/>Engineering Manager <br/>Cross-stage PM <br/>Sales <br/>Customer Support |
 
 #### Description
