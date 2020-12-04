@@ -179,9 +179,6 @@ Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archive
 ![Incident Declaration Slack window](incident-declare-slack.png)
 _Incident Declaration Slack window_
 
-![Incident Declaration Results](incident-declare-results.png)
-_Incident Declaration Results_
-
 | Field | Description |
 | ----- | ----------- |
 | Title | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD |
@@ -189,11 +186,10 @@ _Incident Declaration Results_
 | Tasks: page the on-call engineer | If you'd like to page the on-call engineer, please check this box. If in doubt, err on the side of paging if there is significant disruption to the site. |
 | Tasks: page on-call managers | You can page the incident and/or communications managers on-call. |
 
-As well as opening a GitLab incident issue, a dedicated incident Slack channel
-will be opened. The "woodhouse" bot will post links to all of these resources in
-the main `#incident-management` channel. Please note that unless you're an SRE,
-you won't be able to post in `#incident-management` directly. Please join the dedicated
-Slack channel to discuss the incident with the on-call engineer.
+![Incident Declaration Results](incident-declare-results.png)
+_Incident Declaration Results_
+
+As well as opening a GitLab incident issue, a dedicated incident Slack channel will be opened. The "woodhouse" bot will post links to all of these resources in the main `#incident-management` channel. Please note that unless you're an SRE, you won't be able to post in `#incident-management` directly. Please join the dedicated Slack channel, created and linked as a result of the incident declaration, to discuss the incident with the on-call engineer.
 
 #### Report an Incident via Email
 
