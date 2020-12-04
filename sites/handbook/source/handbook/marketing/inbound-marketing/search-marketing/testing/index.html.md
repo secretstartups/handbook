@@ -66,6 +66,8 @@ This is where we plan to do the bulk of our testing. We can run several of these
 
 Launch Darkly measures tests with click data which is a more accurate method of measuring interactions than cookie-based analytics. It's important to remember this data won't reconcile with cookie-based analytics like Google Analytics or Snowplow.
 
+You can review each the control and test variant in review apps or live on about.gitlab.com with either `?experiment-review-control` or `?experiment-review-test` respectively.
+
 ### Feature flag best practices
 
 Feature flags should be implemented in code similarly to the includes system. Example:
