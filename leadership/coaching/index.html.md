@@ -351,6 +351,22 @@ A recording of the first of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jvjBgC3Bi2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+### Introduction to Coaching 
+
+We held 50 minute Introduction to Coaching [Live Learning](/handbook/people-group/learning-and-development/#live-learning) sessions on 2020-12-03. The recording follows along with the [slide deck](https://docs.google.com/presentation/d/1jOAZQkIJq9iU7ho6a09AOANKJs7W7IwnbVYBIlX9kmk/edit?usp=sharing) and [agenda](https://docs.google.com/document/d/1UIyIeyCcWCtNcOR2Wz5jvbSdKHI2OanLoM-WR7Gtknw/edit?usp=sharing).
+
+A recording of the first session can be found here:
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9qUlp8LrduM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+The slide deck for the session can be found here: 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ30H13ty28FlATR6iZUVwsYWwhAd3jGrGM3MBKFKSWb_t8RqTf9NhVAqMCwLhKk72bYFbWkjKiXGN4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ## Additional coaching resources
 
 * [The Leader as Coach - Harvard Business Review Article](https://hbr.org/2019/11/the-leader-as-coach)
