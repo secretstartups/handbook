@@ -42,7 +42,7 @@ If you require a group of your own to have a paid tier, please submit an access 
 
 ## Testing Environment License
 
-For a test license you can log into LicenseDot with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/1449) or if you need special add-ons, such as geo, you can generate a new one.
+For a test license you can log into LicenseDot with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/) or if you need special add-ons, such as geo, you can generate a new one.
 
 Please keep in mind *you can't generate licenses for customers* only for testing
 purposes. To generate a new license, log in to LicenseDot and click on the
