@@ -22,9 +22,7 @@ Nothing on my calendar is urgent unless specifically noted as such.
 ### Communication preferences
 1. **GitLab**: I'm very responsive on GitLab issues when pinged, and have notifications turned on for most trackers
 in `gitlab-com/support`.
-1. **Slack**: I prefer Slack for most short interactions and questions. Avoid private messages when you can. As of
-Feb 2020, I started experimenting with a public channel `#mgr_spt-eng-amer-w`. If you're in it, and there's been
-no new messages for >30 days, please ping me to remove this sentence from my readme. 
+1. **Slack**: I prefer Slack for most short interactions and questions. Avoid private messages when you can.
 1. **Zoom**: As noted above, I'm always available for a video call.
 1. **Email**: Email is my notification channel. I've sent less than 500 emails and received more than 40,000 in the 2+ years between Jan 2018 and Feb 2020. Nearly all of those emails were to people outside of GitLab.
 1. **Phone**: I have a phone, but often reject or screen calls from unknown numbers. This isn't the best way to get in touch.
