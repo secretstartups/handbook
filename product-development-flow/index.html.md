@@ -300,6 +300,8 @@ This phase begins after work has been broken down, and prioritized in Phase 1. W
 
 When an issue is in development the Software Engineer in Test ([SET](https://about.gitlab.com/handbook/engineering/quality/#stable-counterparts)) will ensure the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process is being followed regarding test plans, regression jobs, end to end tests, etc. Coordination is key between the assigned development engineer and the SET during this phase.
 
+When an issue is in `workflow::in review`, the Application Security Engineer would help validate the risk mitigations through the non-blocking [application security review process](https://about.gitlab.com/handbook/engineering/security/application-security/appsec-reviews.html). 
+
 Documentation for the work will be developed by the engineer and the Technical Writer. The Technical Writer should review the documentation as part of the development process. Items discovered during a documentation review should not block issues moving into the next phase. This may drive the creation of follow-on improvement MRs for the documentation, after release.
 
 *Note: Work deemed out-of-scope or incomplete by engineering is taken back into the [plan phase](#build-phase-1-plan) for refinement and rescheduling for completion.*
@@ -309,7 +311,8 @@ Documentation for the work will be developed by the engineer and the Technical W
 | Outcomes | Activities | DRI |
 |----------|------------|-----|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is built** | - Engineering manager checks that [definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done) is met<br/>- Provide regular status updates to stakeholders<br/>- Provide asynchronous updates to avoid status check-ins and synchronous stand-ups<br/> - Engineers follow the [engineering process](https://about.gitlab.com/handbook/engineering/workflow/#basics) to implement assigned issues. | Engineer |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done)).<br/>- SET sets testing requirements on the issue.<br/>- SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning. <br/>- Technical Writers complete a review of any developed documentation. | Engineer |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Feature is tested** | - Engineers test features they implement (see [Definition of done](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/contributing/merge_request_workflow.md#definition-of-done)).<br/>- SET sets testing requirements on the issue.<br/>- SET follows up on any specific test coverage changes necessary as an outcome of Quad Planning. <br/>- Technical Writers complete a review of any developed documentation. <br/>- Application Security Engineer validates the risk mitigations through the non-blocking [application security review process](https://about.gitlab.com/handbook/engineering/security/application-security/appsec-reviews.html). | Engineer |
+
 
 ### Build phase 3: Launch
 
