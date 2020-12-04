@@ -276,7 +276,7 @@ graph LR;
   click eng:spdm "/job-families/engineering/ux-management/";
   click eng:dpd "/job-families/engineering/ux-management/";
   click eng:uxrc "/job-families/engineering/ux-research-coordinator/";
-  click eng:suxrc "/job-families/engineering/senior-ux-research-coordinator/";
+  click eng:suxrc "/job-families/engineering/ux-research-coordinator/";
   click eng:uxr "/job-families/engineering/ux-researcher/";
   click eng:suxr "/job-families/engineering/ux-researcher/";
   click eng:stuxr "/job-families/engineering/ux-researcher/";
