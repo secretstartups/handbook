@@ -17,7 +17,7 @@ Support Engineer's need testing environments to learn how to support GitLab and 
 This page explains the main choices available to you. Some guidelines:
 
 1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
-1. Testing locally is also recommended - configure a Docker / VM based system (details below) to your taste the lets you quickly spin up a specific GitLab version.
+1. Testing locally is also recommended - configuring a Docker / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
 1. If you need a more complex environment (e.g. with a runner configured) [support resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) can help you.
