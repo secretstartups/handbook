@@ -22,6 +22,10 @@ A video band is a slider with videos on a subject. An example of this can curren
 
 ![Screenshot of a video band](/images/handbook/growth-marketing/screenshot-video-band.png)
 
+## Editing an existing video band
+
+You don't have to create a new carousel identifier, it's alright to edit a preexisting carousel. You can add more items to a group or replace/remove existing items in the list.
+
 ## Code implementation
 
 ### Defining video groups
@@ -59,7 +63,7 @@ To grab the existing image from youtube videos you can use the browser developer
 
 ### Include file
 
-An example implementation of the video bands can currently be seen in the [homepage code](https://bit.ly/3jeRP0n). Note that you'll want to switch out the `include?("Homepage Carousel 1")` with the video group you defined above. You might also want to update the H2 tag `Featured videos` title, depending on the situation.
+An example implementation of the video bands can currently be seen in the [homepage code](https://bit.ly/3jeRP0n). Note that you'll want to switch out the `include?("Homepage Carousel 1")` with the carousel identifier that you defined above. You might also want to update the H2 tag `Featured videos` title, depending on the situation.
 
 ```haml
 .container.u-margin-top-40
