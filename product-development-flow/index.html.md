@@ -366,7 +366,7 @@ After launch, the Product Manager and Product Designer should pay close attentio
 
 ## Editing this page
 
-All substantive merge requests to this page require cross-functional alignment prior to merging. To make updates such as grammatical
+All merge requests to this page require informing Product Operations prior to merging. To make updates such as grammatical
 fixes and typos, you can create an MR and tag in the [Product Operations DRI](https://about.gitlab.com/company/team/#fseifoddini)
 for reference. There's no need to wait for feedback on these types of updates.
 
