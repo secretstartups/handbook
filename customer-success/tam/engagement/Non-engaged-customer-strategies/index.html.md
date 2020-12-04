@@ -20,7 +20,7 @@ The playbook contains the following steps:
 1. Create Triage Issue If no engagement in step 2
    1. Escalate via the triage issue: At this point the tracking of engagement strategies will live in the Triage Issue. In this issue, loop in a more senior Gitlab resource (decide level based on size of customer with TAM Manager) to reach out to someone on the customer side if still no response after 1 month.  Craft the email and provide any context on business objectives available to the Gitlab senior resource.
 
-## Additional strategies that have worked for our TAM team to consider
+## Additional strategies to consider
 
 ### List of sources to review
 
