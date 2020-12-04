@@ -18,7 +18,7 @@ twitter_creator: "@gitlab"
 
 ## CREDIT
 
-GitLab's six values are
+GitLab's six core values are
 [**🤝 Collaboration**](#collaboration),
 [**📈 Results** ](#results),
 [**⏱️ Efficiency**](#efficiency),
