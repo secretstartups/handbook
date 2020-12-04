@@ -205,7 +205,7 @@ Our goal is to have the whole company use the the Matrix [Assessment Tool](https
 ## Identifying Action 
 
 There is an overview of recommended actions to take after the calibration session included in the [Performance/Potential Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g88f412eeb7_1_13) from slide 26- 35. Additionally, this matrix can facilitate: 
-* [Career Development Conversations](https://about.gitlab.com/handbook/people-group/leadership-toolkit/career-development-conversations/)
+* [Career Development Conversations](https://about.gitlab.com/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 * Promotion planning 
 
 ## Timeline

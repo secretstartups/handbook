@@ -14,12 +14,12 @@ description: "Information on GitLab's Talent Development Program to ensure ongoi
 
 As we continue to scale, we want to be intentional about Talent Development. Investing in a Talent Development Program creates the opportunity for GitLab to build diverse, flexible and versatile teams, as well as of the utmost importance to ongoing success across all teams.
 
-GitLab's Talent Development Program includes the following initiatives: 
+GitLab's Talent Development Program includes the following initiatives:
 - [Talent Assessment Tool](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [360 Feedback](/handbook/people-group/360-feedback/)
 - [Organisational Structure and gaps](https://about.gitlab.com/company/team/structure/)
 - [Performance Assessments and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
-- [Career Development Conversations](/handbook/people-group/leadership-toolkit/career-development-conversations/)
+- [Career Development Conversations](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 - [Performance Enablement Plans (PEP) and Performance Improvement Plans (PIP)](/handbook/leadership/underperformance/#options-for-remediation)
 - [Performance Enablement Review](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
 - [Individual Growth Plan](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
@@ -34,9 +34,9 @@ graph LR
   Bid1([Org Structure<br> & Gaps]):::classA --> Eid1([Succession<br> Planning]):::classB
   Cid1([Critical<br> Roles]):::classA --> Eid1([Succession<br> Planning]):::classB
   Did1([360<br> Feedback]):::classA --> Eid1([Succession<br> Planning]):::classB
-  Eid1([Succession<br> Planning]):::classB --> Fid1([Assess Hiring<br> Implications & Requirements]):::classC 
+  Eid1([Succession<br> Planning]):::classB --> Fid1([Assess Hiring<br> Implications & Requirements]):::classC
   Eid1([Succession<br> Planning]):::classB --> Gid1([Career Development<br> Conversations]):::classC
-  Gid1([Career Development<br> Conversations]):::classC --> Hid1([Individual<br> Growth Plan]):::classD 
+  Gid1([Career Development<br> Conversations]):::classC --> Hid1([Individual<br> Growth Plan]):::classD
   Gid1([Career Development<br> Conversations]):::classC --> Iid1([Performance<br> Enablement Plan]):::classD
   Gid1([Career Development<br> Conversations]):::classC --> Jid1([Performance<br> Improvement Plan]):::classD
 
@@ -45,7 +45,7 @@ click Bid1 "/company/team/structure/"
 click Did1 "/handbook/people-group/360-feedback/"
 click Eid1 "/handbook/people-group/performance-assessments-and-succession-planning/"
 click Fid1 "/handbook/hiring/"
-click Gid1 "/handbook/people-group/leadership-toolkit/career-development-conversations/"
+click Gid1 "/handbook/leadership/1-1/#career-development-discussion-at-the-1-1"
 click Hid1 "/handbook/people-group/learning-and-development/career-development/#internal-resources"
 
 classDef classA fill:#dcf3f5, stroke:#20757d
