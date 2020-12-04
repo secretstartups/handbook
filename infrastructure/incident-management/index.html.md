@@ -187,7 +187,10 @@ _Incident Declaration Slack window_
 | Tasks: page on-call managers | You can page the incident and/or communications managers on-call. |
 
 ![Incident Declaration Results](incident-declare-results.png)
+
 _Incident Declaration Results_
+
+
 
 As well as opening a GitLab incident issue, a dedicated incident Slack channel will be opened. The "woodhouse" bot will post links to all of these resources in the main `#incident-management` channel. Please note that unless you're an SRE, you won't be able to post in `#incident-management` directly. Please join the dedicated Slack channel, created and linked as a result of the incident declaration, to discuss the incident with the on-call engineer.
 
