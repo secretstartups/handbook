@@ -139,7 +139,21 @@ The People Experience Team will complete a quarterly audit of which team members
 
 - Anniversary Gift Stock Audit
 
-The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. If the stock is low, we will proceed with placing an order for new stock to the warehouse. 
+The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. To check to see what the current stock levels are, follow this process:
+
+- Log into [Printfection](https://app.printfection.com/account/secure_login.php)
+- Click on `Inventory`
+- Then select the `Inventory levels` tab
+- Scroll to find the applicable items (Tanuki Confetti Socks, Box Cut Vest, Travel Bag / Backpack)
+- Once you click on the specific item, it will let you know how many stock items are currently available for the specific swag
+
+If the stock is low/depleted, we will proceed with placing an order for new stock to the warehouse as follows:
+
+- Log in to [Printfection](https://app.printfection.com/account/secure_login.php)
+- Click on `Inventory`
+- Select `Replenish Inventory`
+- Click on `Green Replenish Inventory` button
+- Complete the normal online ordering process (will be further updated when we need to order replenished stock)
 
 ### Pulling of BambooHR Onboarding Data
 
@@ -198,9 +212,28 @@ In the same survey, new team members are able to provide a score and feedback on
 
 ### Anniversary Period Gift Queries
 
-*New Process*
+People Experience Team process:
 
-Will be updated soon :) 
+- Log into [Printfection](https://app.printfection.com/account/secure_login.php)
+- Click on `Campaigns` and select `Congrats on your (blank) anniversary`. There are 3 options, 1st, 3rd, 5th.  
+- Select `Giveaways` and scroll to `Campaign summaries` section
+- Click on the relevant campaign and then select the `Manage` tab
+- Select the `Generate More Links` green button - Ensure you are in the correct Campaign - (1st, 3rd or 5th Year)
+- Enter the number of links you would like to generate and click `Add links`
+- Download the CSV of the links generated
+
+- Import the CSV to the People Experience Team Google Drive `Anniversary Gifts 2020` folder
+- Name the CSV to the applicable month that you are generating for
+- Pull a report from BambooHR for all team members that only shows anniversary dates for the current month, utilizing filters within the BambooHR. 
+- Add the list of names to the generated links sheet
+- Select Add-Ons in the sheet > select Document Studio from the dropdown > open
+- Select `Mail Merge with Gmail` and use the visual editor option to see the current text 
+- Edit the relevant text applicable to the specific gift option and ensure that the fields are all correct
+- Ensure to mark the ones that are not applicable to the email with an X in the Document Studio columns
+- Once ready, click on `Ready to Merge` > Send emails now > Save 
+- That's it! All team members will now be able to claim their anniversary swag
+
+Tip for Printfection Site: Star and bell the relevant campaigns applicable to our team for further ease to search for. 
 
 ### Gift Requests
 
