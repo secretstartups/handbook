@@ -157,7 +157,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 ### GitLab Mini and Extended Challenges
 
-All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. 
+All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. In November of 2020, we launched a [One Week Challenge on Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge). 
 
 **Sample structure of a challenge:**
 - Length of challenge: 1 week (But can be for as long as 4 weeks)
