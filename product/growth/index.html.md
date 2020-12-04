@@ -149,10 +149,10 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 
 1. Growth reaches out to have a sync or async kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
 
-* Inform the Product feature owner that growth is planning to experiment in this area;
-* Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
-* Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
-* Ideally, establish understanding of both teams' KPIs and objectives 
+   * Inform the Product feature owner that growth is planning to experiment in this area;
+   * Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
+   * Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
+   * Ideally, establish understanding of both teams' KPIs and objectives 
 
 3. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as key meetings, GC, and potentially a monthly summary video.
 
