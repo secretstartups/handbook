@@ -49,7 +49,7 @@ Everyone is welcome to suggest improvements.
 #### Sub-values as substantiators
 {:.no_toc}
 
-The "sub" in sub-value is not in reference to "subordinate," but rather, "**substantiate** the [core-values](#CREDIT)."
+The "sub" in sub-value is not in reference to "subordinate," but rather, "**substantiate** the [core-values](#credit)."
 
 Sub-values clarify what a given core-value means and looks like *at GitLab*.
 Understanding this distinction is critical to thriving at GitLab,
