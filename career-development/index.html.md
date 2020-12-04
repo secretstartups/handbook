@@ -252,7 +252,7 @@ graph LR;
   eng:spdm(Senior Product Design Manager)-->eng:dpd(Director of Product Design);
   eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
 
-  eng:uxrc(UX Research Coordinator)-->eng:uxr(UX Researcher);
+  eng:uxrc(UX Research Coordinator)-->eng:suxrc(Senior UX Research Coordinator);
   eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
   eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
 
@@ -275,7 +275,8 @@ graph LR;
   click eng:pdm "/job-families/engineering/ux-management/";
   click eng:spdm "/job-families/engineering/ux-management/";
   click eng:dpd "/job-families/engineering/ux-management/";
-  click eng:uxrc "/job-families/engineering/ux-researcher/";
+  click eng:uxrc "/job-families/engineering/ux-research-coordinator/";
+  click eng:suxrc "/job-families/engineering/senior-ux-research-coordinator/";
   click eng:uxr "/job-families/engineering/ux-researcher/";
   click eng:suxr "/job-families/engineering/ux-researcher/";
   click eng:stuxr "/job-families/engineering/ux-researcher/";
