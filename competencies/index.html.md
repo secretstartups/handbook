@@ -125,6 +125,6 @@ In addition to our values, remote work, and functional competencies, we have ide
 
 1. [Emotional Intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
 2. [Modeling a Culture of Feedback](/handbook/people-group/guidance-on-feedback/#modeling-a-culture-of-feedback-manager-competency)
-3. [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/#coaching-manager-competency)
-4. [Conflict Resolution](/handbook/people-group/leadership-toolkit/managing-conflict/#conflict-resolution-competency)
+3. [Coaching](/handbook/leadership/coaching/)
+4. [Conflict Resolution](/handbook/leadership/managing-conflict/)
 5. [Building High Performing Teams](/handbook/leadership/#building-high-performing-teams)
