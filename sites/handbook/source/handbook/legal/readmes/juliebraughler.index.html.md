@@ -49,7 +49,7 @@ I sometimes forget that legal terms which make sense to me will not always make 
 ## The Legal Team's World Famous "Two Truths & a Lie" Segment 
 
 - I won a silver medal in a Mid-Atlantic Collegiate Rowing Association’s rowing regatta.
-- I was once detained and questioned by Heathrow Customs for about six hours.
+- I was taught to shoot a handgun by a member of the British Territorial Army.
 - I am a dual-citizen of the US and UK.
 
 

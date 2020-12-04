@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Privacy"
-title: "This page helps GitLab Team Members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our Team Members and users"
+description: "This page helps GitLab Team Members understand the privacy practices at GitLab and to facilitate a culture that respects and prioritizes the privacy of our Team Members and users"
 ---
 
 ## On this page
