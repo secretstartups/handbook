@@ -936,6 +936,7 @@ To help keep our pipeline clean and ensure that early stage deals are moving thr
 2. If there's no activity between the warning day and auto closure day:
    - The opportunity gets automatically closed (`Closed Lost`) with a `Closed Lost/Unqualified Reason` of "Stale Opportunity" 
    - Email notification goes out to the Opportunity Owner, Opportunity Owner Manager and Marketing of this change
+   - In scenarios where an opportunity is still vialbe but has been moved to Closed Lost through this automated process, the Opportunity Owner must create a new opportunity.   
 3. If there IS activity against the opportunity OR it progresses to Stage `2-Scoping`, the Warning and Auto Closure Day process starts over
 
 **Process for Stage 2-Scoping:**
