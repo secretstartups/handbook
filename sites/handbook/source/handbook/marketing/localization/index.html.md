@@ -47,17 +47,21 @@ To ensure translated content makes contextual and technical sense, we have inter
 1. Canada
 1. UK/Ireland 
 1. Australia/New Zealand 
-1. Germany
+1. DACH
 1. France
 1. Japan
 
 #### P1: Tier 2 Countries that provide the most opportunity for GitLab
 
 1. Netherlands
-1. Switzerland
 1. Nordics
 1. South Korea
 1. Singapore
+1. Brazil
+1. Italy
+1. Mexico
+1. Spain
+1. Russian Federation
 
 Our current localization capabilities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our integrated campaign strategy. Additionally, we are enabling our field marketing teams to get lightweight translations that don't require internal development or design resources.
 
