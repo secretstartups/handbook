@@ -269,7 +269,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Nordics | NO | **MM-EMEA-Nordics-NO** | Sophia Simunec | Johan Rosendahl |
 | Nordics | DK | **MM-EMEA-Nordics-DK** | Israa Mahros | Johan Rosendahl |
 | Nordics | SE | **MM-EMEA-Nordics-SE** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
-| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Hans Frederiks | Johan Rosendahl |
+| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Sophia Simunec | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Chris Willis | Johan Rosendahl |
