@@ -915,6 +915,35 @@ For example, if a prospect had previously signed off on GitLab from a technical 
 However, if at any point during the negotiations, additional technical questions or requirements arise that result in a re-evaluation of GitLab's technical capabilities, you would revert the opportunity back to `3-Technical Evaluation`.
 After the opportunity has once again met the stage completion criteria, you are able to move the opportunity to either `4-Proposal` if a new order form was created as a result of the additional technical requirements, or back to `5-Negotiating` if no changes were made to the original order form.
 
+##### Early Stage Deals: Progression Requirements & Automation
+
+To help keep our pipeline clean and ensure that early stage deals are moving through the pipe at the desired velocity, all opportunities in stage `1-Discovery` and `2-Scoping` are governed under the below process
+
+**Timelines:**  Inactivity Warning Day & Auto Closure Day by Segment
+- Large: Day 45/Day 90
+- Mid-Market: Day 21/Day 45
+- SMB: Day 7/Day 15
+
+**Definitions**: SFDC actions that constitute an **activity** include: 
+- Stage Progression, 
+- Command Plan Entries, 
+- Next Steps updated 
+
+
+**Process for Stage 1-Discovery:**
+ 1. At (Segment Specific) Warning day the Opportunity Owner and Opportunity Owner's Manager receive an email notification alerting both of inactivity
+    - To avoid auto closure, the Opportunity Owner must progress the stage or add an activity to the opportunity
+2. If there's no activity between the warning day and auto closure day:
+   - The opportunity gets automatically closed (`Closed Lost`) with a `Closed Lost/Unqualified Reason` of "Stale Opportunity" 
+   - Email notification goes out to the Opportunity Owner, Opportunity Owner Manager and Marketing of this change
+3. If there IS activity against the opportunity OR it progresses to Stage `2-Scoping`, the Warning and Auto Closure Day process starts over
+
+**Process for Stage 2-Scoping:**
+1. Same process for steps 1 & 2 above
+2. Step 3: If the opportunity progresses to Stage `3-Technical Evaluation`, there are no longer any activity requirements due to aging
+
+
+ 
 ##### Locking Opportunities as a result of their "At Risk" potential
 
 In order to be in compliance with US Regulations there is a need to screen opportunities against known individuals and organizations with whom we are not allowed to do business.
