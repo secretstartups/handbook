@@ -117,7 +117,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 
 **Examples of Criticality 1:**
 
-1. Any changes to Postgres hosts that affect DB functionality - quantity of nodes, changes to backup or replication strategy.
+1. Any changes to Postgres hosts that affect DB functionality (e.g. quantity of nodes, changes to backup strategy, changes to replication strategy, configuration changes, etc.).
 1. Architectural changes to Infra as code (IaC).
 1. IaC changes to pets - Postgres, Redis, and other Single Points of Failure.
 1. Changes of major vendor - CDN, mail, DNS.
