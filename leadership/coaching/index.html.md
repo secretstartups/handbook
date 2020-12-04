@@ -16,7 +16,7 @@ On this page, we are going to review the GitLab coaching framework and approach 
 ## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
-[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/people-group/leadership-toolkit/career-development-conversations/), [leading teams](/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
+[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams](/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
 
 ## Selecting a coach
 
