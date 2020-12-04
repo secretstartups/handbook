@@ -105,9 +105,19 @@ During issue triage, we estimate the complexity of a task and time required for 
 
 | Time / Complexity | *simple* | *average* | *complex* |
 |:---:|---|---|---|
-| *<4 hrs* | 1 | 2 | 3 |
-| *4-8 hrs* | 5 | 8 | 13 |
-| *>8 hrs* | 13 | 20 | 40 |
+| *<1 day* | 1 | 2 | 3 |
+| *1-3 days* | 5 | 8 | 13 |
+| *2+ days* | 15 | 20 | 40 |
+
+Point distribution/examples:
+1. Basic user management tasks would have a weight of 1; this includes resetting a user's password, provisioning a new account, adding a user's SSH key to a chef data bag, scaling a node pool, updating firewall rules, etc.
+1. Tasks of average complexity should be sized so that they can be completed within 1-1.5 days. This can account for issues that require information gathering, some final requirement validation, or data analysis before implementing a technical change. For example, reviewing a changelog for syntax changes before updating a terraform module for new syntax or new provider support.
+1. Triage and planning issues themselves should account for ~5 points of effort. Team members will each need at least a couple hours each week to review issue weights for the upcoming milestone, and participate in discussions around both issue sizing, scheduling, and relative priority. Planning team members will also spend additional time on backlog grooming, initial issue triage, and milestone planning.
+1. Most production changes will be ~5-13 points, depending on the amount of time needed for planning and testing. Taken independently, most production changes are planned, tested, and executed in less than a half day for each step, but require intense or uninterrupted focus for the duration.
+
+Anything assessed at more than a 13 should be broken down further into smaller, more manageable tasks, or prompt serious discussion within the team about why that can't be accomplished. Large tasks can be scheduled into a milestone, but some additional effort should be scheduled to account for further planning and task breakdown.
+
+Ideally milestones will be populated entirely with issues under 5 points, and for very large efforts we will spread the planning, breakdown, scheduling, and implementation of smaller, more manageable tasks across multiple milestones.
 
 #### Planning discussion
 
