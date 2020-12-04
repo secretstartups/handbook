@@ -329,9 +329,9 @@ dataLayer.push(
 
 ## Initial Source
 
-`Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#ktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
+`Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#mktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
 
-The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please slack the appropriate team member(s) listed in the [Tech Stack](/handbook/business-ops/tech-stack-applications/#tech-stack-applications).
+The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team.
 
 The `Initial Source` table below is current as of 7 July 2020.
 
