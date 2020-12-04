@@ -100,8 +100,6 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <b>The upcoming Live Learning schedule is as follows:</b>
 
 <ul>
-<li>November - One Week Challenge - Psychological Safety (2020-11-16 - 2020-11-20)</li>
-<li>December - Introduction to Coaching (2020-12-03)</li>
 <li>January - 3 Week Manager Challenge</li>
 </ul>
 
