@@ -52,11 +52,13 @@ The following data cleanup is required for any list prior to sending it to the M
      - Duplicates must be reviewed and reduced
      - Address separated into individual fields (`Street`, `City`, `State/Province`, `Zip/Postal Code`, `Country`)
      - `Country` that **are not** `United States` or `Canada` *must* have `State` field deleted or cleared as it will create conflicts and will not sync to SFDC
+- Please use the correct member statuses based on the definitions and type [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status). They must be exact matches, no abbreviations.
 - Preferred format for Marketo upload is .csv, but will accept an .xls, or .xlsx. Provide as Google Sheet in the upload issue. **DO NOT** upload the file directly on the issue. Uploading files to the issue exposes ALL collected personal data to the internet and opens GitLab up to litigation
 - Record ownership will be assigned using established lead routing, which is [controlled by LeanData](/handbook/marketing/marketing-operations/leandata/)
 - In order to mark leads as `Opt-in = TRUE`, a record of the terms and conditions the leads agreed to upon having their data collected must be recorded. Check the `terms of service` wording has been recorded in the upload issue **before** opting in leads to receive marketing communications. No ToS, no `Opt-in`. Period. To find the appropriate language, refer to [Marketing Rules and Consent Language](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language)
 - If there are any records who have opted out of contact for any reason, define that on the spreadsheet by selecting `Opt-in = FALSE`
 - Leave `Opt-In` empty if no other option is available
+
 
 **Steps (also documented in *How it Works* tab of the spreadsheet):**
 1.	Use the "Lead Data for upload" tab to drop your relevant data into the matching blue columns in the left-most rows (i.e. copy the column in your file for "First Name" and paste it in the column "First Name"). This tab will remain locked and untouched by MktgOps as they will `Duplicate` into a new tab for additional cleaning
@@ -91,6 +93,7 @@ Video of how this works tbd.
 1. Remove all [embargoed country](https://about.gitlab.com/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) records. 
 1. `Washington DC` is a `State` value and is not to be split up between `City` `State`. 
 1. `Zip Codes` contain five (5) numbers, States in US East may start with a `0`, make sure the `Zip/Postal Code` field is **plain text** and the leading `0` appears. 
+1. Member Statuses must match exactly to the program type and member status [listed](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status).
 1. If list contains non-Latin characters (ex. Asian languages), it must be uploaded to Marketo using UTF-8 and UTF-16. [Marketo instructions here](https://docs.marketo.com/display/public/DOCS/Import+a+Non-Latin+Characters+List). Salesforce Data Loader requires UTF-8 encoding, [instructions here](https://help.salesforce.com/articleView?id=faq_import_dataloader_specialchars.htm&type=5).
 
 #### Required Data and Recommended Data
@@ -102,7 +105,7 @@ Video of how this works tbd.
      - Email Address
      - Country
      - State (United States and Canada only)
-     - Campaign Member Status
+     - [Campaign Member Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-type--progression-status)
      - Opt-In status: `True`, `False`, or `leave blank` (determines if leads are **legally** signed up for GitLab's marketing emails)
 - Additionally, there is data required for leads to be successfully routed to SDRs. While this information is not mandatory, it is strongly preferred and requested by the `Director of Marketing Department` to be included. GitLab employs tools that enrich leads and `Accounts`, but those tools are not guaranteed to work, so if the data can be found at the source it is preferred. Lastly, while it is less likely to have an upload refused due to missing this data, **missing this data is still considered grounds for refusal by the MktgOps team**. The recommended information is as follows:
      - Employee Bucket or Number of Employees
@@ -143,8 +146,8 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
 - Review the components of the campaign. The needed components include:
      - `Static List(s)` in which to load lead list(s). The `static list(s)` should be renamed to resemble the program name. Depending on the campaign template, there may be more than one `static list` available. Some templates have been automated in a way that will fully launch relevant `Smart Campaigns` to append all relevant data, including `Campaign Member Statuses` and other important fields
      - `Smart List` for finding loading errors, or leads Marketo perceives as `duplicates`. If the `Smart List` list is not present, create a `Smart List` with the following filters: `Member of Program = current program name` and `SFDC Created Date = is empty`
-     - `Smart Campaign` that triggers a `flow` when leads are added to the campiagn's static list(s). This flow should set to append data to all of the following fields **if the fields are empty ONLY**: `Acquisition Program`, `Acquisition Date` and `Person Source` (same as `Initial Source`). This `Smart Campaign` should end with a `Wait 5 Minutes` followed by `Change Program Status: Registered -> No Show`
-     - `Smart Campaign` to add an `Interesting Moment`. Check there are enough `triggers` and `flows` to activate for each `Campaign Member Status` that appears on the list. Usually these include, but are not limited to: `Attended`, `Attended On-Demand`, `Visited Booth` and `No Show`. A genereal rule is to not include `Registered`, `Sales Nominated` or `Marketing Nominated`. The previously mentioned `tokens` will be used to apply the full event data of the `Interesting Moments` to the leads. Depending on the template, sometimes this `Smart Sampaign` and the previously mentioned campaign are one and the same
+     - `Smart Campaign` that triggers a `flow` when leads are added to the campiagn's static list(s). This flow should set to append data to all of the following fields **if the fields are empty ONLY**: `Acquisition Program` and `Person Source` (same as `Initial Source` in SFDC). This `Smart Campaign` should end with a `Wait 5 Minutes` followed by `Change Program Status: Registered -> No Show`
+     - `Smart Campaign` to add an `Interesting Moment`. Check there are enough `triggers` and `flows` to activate for each `Campaign Member Status` that appears on the list. Usually these include, but are not limited to: `Attended`, `Attended On-Demand`, `Visited Booth` and `No Show`. A general rule is to not include `Registered`, `Sales Nominated` or `Marketing Nominated`. The previously mentioned `tokens` will be used to apply the full event data of the `Interesting Moments` to the leads. Depending on the template, sometimes this `Smart Sampaign` and the previously mentioned campaign are one and the same
 
 #### Best Practices and Procedure
 1. Remove all unecessary data from `Job Title`, `Company`, `Names` and `Locations` columns, such as punctuation, `self`, etc, from the Google sheet before uploading. Check for any remaining duplicates and missing `Required Data`, pinging the `campaign owner` to fix, as needed
@@ -160,7 +163,6 @@ In order to assure proper attribution of `MQL Scoring` and `Last Interesting Mom
      - Check the `Person Details` on any leads that show up on the smart list and correct the error. If Marketo indicates a `duplicate`, change the name on the lead by adding random but easily identifiable characters to the last name and manually force the lead to sync with SFDC. Find the lead in SFDC and merge it with the pre-existing duplicate. If there is a differing `email address` between the records, add the new `email address` as a secondary email. Add to SFDC campaign with the appropriate `Campaign Member Status`, if necessary
 1. Once the Marketo --> Salesforce sync has completed, use the [Upload checking template - do not erase](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004tTvd) lead view to check data has been applied correctly, scoring has occurred and leads have routed. Note that routing will only occur if the adequate `MQL Score` has been met. Plug the `campaign tag`, or Marketo program name, into the lead view's `campaign name` field to view leads as a list
 1. Ensure the number of leads present in the Salesforce campaign matches the total number of leads from the original spreadsheet
-1. Use the [Campaign Type and Progression Status](https://about.gitlab.com/handbook/marketing/marketing-operations/#campaign-type--progression-status) page of the handbook and label the appropriate `Successful` leads with `Bizible Touchpoints`
 1. Announce the upload in either the `event_list_upload` or `pub-sector-isr` Slack channels, depending on the campaign's intended `Sub-Region`. Include `Region` labels for private sector posts 
 1. After verified completion of all tasks, remove ~"List Upload: Ready" label and notify in the issue of upload completion. Add ~"Lead Data::Active" label. Adjust the "MktgOps" label and apply a milestone
 1. Close list upload issue 
@@ -207,9 +209,8 @@ In the event that a manual upload needs to occur for operational needs:
 - Double check the lead list is cleaned to Marketing Ops standards for list import and load to static list in Marketo
 - Full attendee list gets marked as `Attended` and X amount who visited our booth get marked `Visited Booth`
 - Only `Visited Booth` and `Follow Up Requested` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
+- Update empty `person source` by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
 - If attendee is not marked as `Visited Booth` or `Follow Up Requested`, update empty status/contact status to `Raw` 
-- If attendee is marked `Visited Booth`, update empty status/contact status as `Inquiry`
 - If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
 - Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
@@ -223,8 +224,7 @@ In the event that a manual upload needs to occur for operational needs:
 - Update attendees campaign status to `Attended`
 - Run a workflow to change left over `Registered` to `No Show`
 - Only `Attended` get Bizible touchpoints
-- Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
-- Update empty status/contact status to `Inquiry` unless `Follow Up Requested`
+- Update empty Person Source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
 - If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
 - Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
@@ -238,7 +238,6 @@ In the event that a manual upload needs to occur for operational needs:
 - Only leads who have attended one of our speakers get marked as `Attended`
 - Only `Attended` get Bizible touchpoints
 - Update empty initial source by running a Smart Campaign with logic "If Person Source `is empty` change Person Source to `event type`"
-- Update empty status/contact status to `Inquiry` unless `Follow Up Requested`
 - If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
 - Post announcement to [`#event_list_upload`](https://gitlab.slack.com/archives/CQ8ADJMHT) Slack channel
 
@@ -253,7 +252,6 @@ In the event that a manual upload needs to occur for operational needs:
 - All leads `Visited Booth` or `Follow Up Requested` get Bizible touchpoints
 - Update empty initial source by running a Smart Campaign with logic "If Person Source **is empty** change Person Source to `event type`"
 - If attendee is not marked as `Visited Booth` or `Follow Up Requested`, update empty status/contact status to `Raw`
-- If attendee is marked `Visited Booth`, update empty status/contact status as `Inquiry`
 - If marked `Follow Up Requested`, Marketo scoring should automatically `MQL` lead
 - Post announcement to `#public-sector` and `#public-sector-isr` Slack channels
 

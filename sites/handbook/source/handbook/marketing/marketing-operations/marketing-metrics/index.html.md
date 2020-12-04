@@ -32,7 +32,8 @@ The [Marketing Linear Attribution Dashboard](https://app.periscopedata.com/app/g
 
 ### Marketing trial sign up flow
 
-We use a variety of methods and systems to collect leads and understand how people discover GitLab. This is a basic overview of these visitors move through marketing systems.
+We use a variety of methods and systems to collect leads and understand how people discover GitLab. This is a basic overview of these visitors move through marketing systems. 
+Note: The time delay between a record being added to SFDC and the time it takes to process in Marketo, get a score, and get pushed back to SFDC as a MQL causes a discrepancy between Inquiries and MQLs for trials on a given day or in a given month (when the trial occurs on the first/last day of the month) when viewed on the [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/431555/Marketing-Metrics).
 
 ![Trial sign up flow](/images/handbook/marketing/marketing-operations/trial-sign-up-flow.png)
 

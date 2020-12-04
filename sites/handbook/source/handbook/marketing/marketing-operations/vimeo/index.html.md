@@ -10,15 +10,15 @@ description: "Vimeo is a video hosting, sharing, and services platform. "
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### About Vimeo
+## About Vimeo
 
 Vimeo is a video hosting, sharing, and services platform. 
 
-### Acesss
+## Acesss
 
 Everyone in GitLab will have access to Vimeo through Okta ([see related issue](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/-/issues/201#note_438418851)). If a higher permission set is required, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
-#### User Roles
+### User Roles
 
 [Managing team members on your account](https://vimeo.zendesk.com/hc/en-us/articles/224818687-Managing-team-members-on-your-account)
 
@@ -42,22 +42,50 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
    - Delete live events
    - Access Developer API and create and manage developer apps for their account
 
-### Support
+## Support
 
 1. [Contact Support](https://vimeo.com/help/contact)
 1. [Help Center](https://vimeo.com/help)
 
-### Training
+## Training
 
 1. [Onboarding Call (GitLab team - internal use only) 202005](https://drive.google.com/file/d/1k61AoPcGBNtXIUltYEHOk6_9vFBUDGYB/view?usp=sharing)
 1. [Training Call (GitLab team - internal use only) 202006](https://drive.google.com/file/d/14jHp_nZGVBml7ipz1ZpeCvuAJInrADdk/view?usp=sharing)
 1. [Video School](https://vimeo.com/blog/category/video-school)
 
-### Live Events
+## Video Manager
 
-#### Create a live event
+The [video manager](https://vimeo.zendesk.com/hc/en-us/articles/115004610668-The-video-manager) is where all the video uploads are stored and managed. 
 
-##### Step 1
+When you navigate to Vimeo.com, you first land in the video manager (when logged in). The video manager houses all videos uploaded, both public and private, as well as video drafts, showcases, and any live events.
+
+You can also navigate to the `Videos` sidebar menu option to access the video manager. 
+
+### Create a Folder
+
+1. Click the `+` icon next to the `Videos` sidebar menu option. 
+1. Enter a descriptive name for the folder. 
+1. If you want to share this folder with specific team members, add them by email address or by selecting them from the team members in the account list.
+1. In the `Notifications` tab, you can toggle the ability to connect to Slack to send folder notifications so you can track team activity on videos, review pages, and more.
+1. When done inputting your folder info and options, click `Create`. 
+
+## Create
+
+[Vimeo Create](https://vimeo.zendesk.com/hc/en-us/articles/360037832151-Vimeo-Create-overview) is Vimeo’s new video maker tool. It allows you to easily and quickly create your own video from stock videos, photos, and personal videos. [See the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/360037832151-Vimeo-Create-overview) for a full tutorial. 
+
+## Live Events
+
+For more information about conducting virtual events, see the [virtual events handbook page](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/).
+
+### Best Practices
+
+- [Streaming Best Practices](https://vimeo.zendesk.com/hc/en-us/articles/360040590272-Streaming-Best-Practices)
+- [Recommended network configuration for streaming](https://vimeo.zendesk.com/hc/en-us/articles/360040960091-Recommended-network-configuration-for-streaming)
+- [Network and browser requirements for viewing streams](https://vimeo.zendesk.com/hc/en-us/articles/360040394231-Network-and-browser-requirements-for-viewing-streams)
+
+### Create a live event
+
+#### Step 1
 
 1. Select `Live Events` in the left sidebar menu.
 1. Click `Create live event` under the list of events in the table. You can also click the `New video` button in the top-left corner and select `Create live event`. 
@@ -68,7 +96,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Choose the privacy for this event. The available options are: `Public`, `Only me`, `Password`, `People I follow`, `Private link`, or `Hide from Vimeo`. See detailed explanations of these options in the [privacy settings overview](#privacy-settings-overview).
 1. Click `Next`.
 
-##### Step 2
+#### Step 2
 
 1. On the next page, choose settings for your live event. Under the `Event` tab in the left-hand sidebar, toggle the `Chat` functionality on or off (appears only on Vimeo where you choose to embed). [See more info on enabling, disabling, and moderating chat](https://vimeo.zendesk.com/hc/en-us/articles/360040771772-Enabling-disabling-and-moderating-chat).
 1. In `Viewing privacy` you can select different privacy options for your live event.
@@ -81,7 +109,7 @@ Everyone in GitLab will have access to Vimeo through Okta ([see related issue](h
 1. Vimeo will ask permission to use your device's microphone and camera. After acceptance, a low-res preview will be made available to test audio/video input/output. Notice a new sidebar menu available to manage the stream including: [Destinations](#destinations), [Chat](#chat), [Polls](#polls), [Q&A](#q--a), [Graphics](#graphics), and [Stream Health](#stream-health). One or more of these features may not be enabled based on the set up of your live event. 
 1. Once you've configured all your live stream settings and have successfully completed a dry-run, click the `Go Live` button in the top-right corner.
 
-### Stream Health
+## Stream Health
 
 [See how well your stream is performing in real time](https://vimeo.zendesk.com/hc/en-us/articles/360034657071-Stream-health-monitoring). The information displayed in this tool comes directly from the Ingest server logs, which is the first point of contact your stream has with the Vimeo Live back-end.
 
@@ -94,25 +122,25 @@ The indicator bar at the top displays one of the following statuses:
 1. `Unstable connection`: Vimeo servers detect more than a 15% drop in frame rate/bitrate from the intended configuration. This means there may be a problem with your network connection or encoder.
 1. `Offline`: Stream has disconnected from Vimeo servers.
 
-#### Stream Metrics
+### Stream Metrics
 
 Stream metrics display the incoming bitrate and frame rate data. The graph updates in real time and details the changes in bitrate/frame rate over the last ten minutes of your stream.
 
 Below the graph you’ll find the bitrate, average bitrate, frame rate, average frame rate, and video resolution for your stream. These metrics update in real time as well.
 
-#### Advanced Analytics
+### Advanced Analytics
 
 Below stream metrics, click `Advanced Analytics` to see additional information about your stream, namely Video codec, Audio codec, AVC profile, and AVC level. These inform you of your stream’s video and audio compression format (AVC stands for Advanced Video Coding), and the Session ID is a unique string that identifies your stream for Vimeo.
 
-### Sharing your screen while live
+## Sharing your screen while live
 
 You can [share your screen with your audience](https://vimeo.zendesk.com/hc/en-us/articles/360031406392-Sharing-your-screen-while-live) using the browser-based encoder. This is available as an input alongside your webcam on the `Vimeo Live Settings` page for your live events.
 
-### Graphics
+## Graphics
 
 With [Graphics](https://vimeo.zendesk.com/hc/en-us/articles/360029427951-Graphic-overlays), you can add lower third graphics, fullscreen graphics, and logos to your live broadcast right from the Vimeo live preview page.
 
-#### Lower Thirds
+### Lower Thirds
 
 The name “lower third” specifically refers to the bottom one-third of the screen. [These graphics](https://vimeo.zendesk.com/hc/en-us/articles/360029427951-Graphic-overlays#h_01EKZD4FKSH76E84VWZXXHE03Q) are typically used to introduce a speaker or participant on your stream or identify the location of your event, among other uses.
 
@@ -122,7 +150,7 @@ The name “lower third” specifically refers to the bottom one-third of the sc
 1. Preview the lower third on our browser encoder preview window for 5 seconds (only you can see).
 1. Click the `"show" (eye)` icon to put the lower third on the live player indefinitely, and access the menu (three dots) to edit, duplicate, or delete the lower third. You can create additional lower thirds using the `+` button. The duplicate option is a quick way to create multiple lower thirds with the same image. Lower thirds will only appear on the bottom left corner of the stream.
 
-#### Fullscreen Graphics
+### Fullscreen Graphics
 
 Fullscreen graphics work the same way as lower thirds, except they cover the entire screen. This is ideal for displaying information prior to any action taking place or during any breaks in your event (e.g. “Stay Tuned,” “We’ll be right back.”)
 
@@ -133,7 +161,7 @@ Fullscreen graphics work the same way as lower thirds, except they cover the ent
 1. Click `Preview` to see the graphic on the browser encoder preview window for 5 seconds.
 1. `Replace` to select a new image, or the `delete (trash) icon` to remove the image. You then also have the option to `show (eye icon)` the fullscreen indefinitely, after which you can then hide the fullscreen, and access the menu to edit, duplicate, or delete the fullscreen. **Note:** Fullscreen covers video but it does not cover audio.
 
-#### Logos
+### Logos
 
 A logo is a small icon that appears in the lower right corner of the screen and as a subtle way to keep your brand visible at all times during your event.
 
@@ -143,27 +171,27 @@ A logo is a small icon that appears in the lower right corner of the screen and 
 1. The image you upload should be a square at 200 x 200 pixels and no more than 5MB in size. Logos can only be added to the bottom right corner of the stream, but will also appear above fullscreen graphics or to the right of lower third graphics.
 1. Click `Preview` to see the logo on the browser encoder preview window for 5 seconds, `Replace` to select a new image, or the `delete (trash) icon` to remove the image. You then also have the option to `show (eye icon)` the fullscreen indefinitely, after which you can then hide the fullscreen, and access the menu to edit, duplicate, or delete the logo.
 
-### Q & A
+## Q & A
 
 [Live Q&A](https://vimeo.zendesk.com/hc/en-us/articles/360044207351-Live-Q-A) allows you to accept questions, have viewers vote to order questions based on popularity, publish the question to the stream, and ultimately answer them.
 
-#### Setting up Q&A
+### Setting up Q&A
 
 1. Once you have set up your live event, select `Q&A` from the sidebar menu.
 1. Click `Start Q&A` to open your event up to questions. You can do this before your stream or while you're live. **Note:** You cannot take action on a question until your event is broadcasting. Chat users are notified that they can begin to submit questions through [Live Chat](#chat). Questions they ask will be posted to the Q&A window immediately upon submission. They can also click the thumbs-up icon to vote on questions they like. Under the `Active` tab, questions will populate, which you can sort either by `Recent` or `Popular`.
 
-#### Publishing Questions
+### Publishing Questions
 
 1. To answer a question, hover over the question and click `Answer`. A graphic overlay will appear as a lower third with the question automatically. **Note:** You are expected to address the question within the stream; there is no option to type in an answer into the Q&A module. 
 1. You can hide (and re-show) the graphic overlay by clicking `Hide (Show)` in the `Active Questions` list.
 1. When you’ve finished answering the question, click `Archive` to remove the question from the list. You may also archive questions without answering them or publishing them to the stream. If you've archived a question by mistake, you can switch over to the `Archived` tab, hover over the questions and click `Unarchive`. This will put the question back in the `Active` tab.
 
-#### Ending Q&A
+### Ending Q&A
 
 1. To end your Q&A session, click `End Q&A` below the list of questions. **Note:** Ending Q&A does not end the [live chat](#chat). Live chat will end as soon as the broadcast ends and will not be available afterward. Once you end the Q&A, you can export a CSV log of the Q&A by clicking `Export` at the top of the page. 
 1. If you're streaming from a recurring event, this button opens a drop-down menu with a list of the date/times of all streams in the last 30 days that you can archive; select `Current event` for the active event.
 
-#### Q&A Export
+### Q&A Export
 
 The CSV includes the following information:
 
@@ -176,11 +204,11 @@ The CSV includes the following information:
 - Approved (yes/no/N/A)
 - Q&A number (if you held multiple Q&A sessions within one stream, i.e. you started a Q&A, then ended it, then started it again prior to ending your broadcast; this lets you know if the question was asked during which Q&A session during the course of the stream).
 
-### Polls
+## Polls
 
 [Live polls](https://vimeo.zendesk.com/hc/en-us/articles/360002126447-Live-polls) allows you to insert questions into your live stream for viewers to respond to via [live chat](#chat). Polls can be used to gather feedback from viewers (answers ranked by percentage) or as a quiz (one option being the correct response). You can have as many polls as you’d like per stream, but only one poll may be open at a time.
 
-#### Create a poll
+### Create a poll
 
 1. Once you have set up your live event, click `Polls` in the left sidebar menu.
 1. Click the `Create Poll` button.
@@ -188,23 +216,23 @@ The CSV includes the following information:
 1. Once your poll has been created and you are live, select `Open poll` to show this poll and allow viewers to participate. Polls can be created before going live, but they cannot be opened until you are streaming. Opened polls are pinned to the beginning of the live chat and visible to all viewers. You can keep your poll open for as long as you’d like. While open, you can choose to `Show graphic` which will show the poll options on the stream itself. The percentages for each option will continue to changes as more viewers partake.
 1. Once viewers have had enough time to submit their response, click `Publish results` to close the poll so no more responses can be accepted. You can continue to use the `Show graphic/Hide graphic` button to display or hide the final results. Once your poll has concluded and you no longer need the results, you can remove it by clicking `Archive`. **Note:** Poll results will not be stored anywhere on the Vimeo account after the event so take note of them before removing them.
 
-### Chat
+## Chat
 
 Chat is disabled by default. You can enable it in [step 2 of creating a live event](#step-2). As the event owner, you have the ability to moderate chat including comment deletion and banning capabilities. 
 
 [See more info on enabling, disabling, and moderating chat](https://vimeo.zendesk.com/hc/en-us/articles/360040771772-Enabling-disabling-and-moderating-chat).
 
-### Destinations
+## Destinations
 
 Vimeo supports [simulcasting](https://vimeo.zendesk.com/hc/en-us/articles/360000352508-Simulcast-overview) which allows for simultaneous streaming on Facebook Live, YouTube, LinkedIn, and any custom RTMP destination.
 
 [Coming soon.](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872)
 
-### Interaction tools
+## Interaction tools
 
 [Interaction tools](https://vimeo.zendesk.com/hc/en-us/articles/115007469788-Video-interaction-tools-overview) allow you to engage with your audience at meaningful points within the video, and give them the opportunity to connect to additional external sites or resources.
 
-#### Email capture 
+### Email capture 
 
 [Email capture](https://vimeo.zendesk.com/hc/en-us/articles/224819147-Email-capture) can appear before, during, or after a video, with the option to "gate" your video behind the email capture field, or let viewers skip it.
 
@@ -235,15 +263,15 @@ Once you accept, the CSV will download.
 
 If you only want the email addresses from one particular video, you can download that CSV by navigating to your video manager. Select the desired video then navigate to `Analytics` > `Interaction` and click `Download email addresses`.
 
-#### Cards
+### Cards
 
 [Cards](https://vimeo.zendesk.com/hc/en-us/articles/115007469808-Cards) are a customizable, notification-style layer that you can set to appear during playback and remain on the screen for six seconds. 
 
-#### End screens
+### End screens
 
 [End screens](https://vimeo.zendesk.com/hc/en-us/articles/115007893267-End-screens) allow you to determine exactly what appears when videos finish playing. 
 
-### Privacy settings overview
+## Privacy Settings Overview
 
 1. `Anyone` - Allow anyone to see this video.
 1. `Only me` - Make this video visible to me and no one else
@@ -255,7 +283,7 @@ If you only want the email addresses from one particular video, you can download
 
 [See more info on privacy settings](https://vimeo.zendesk.com/hc/en-us/articles/224817847-Privacy-settings-overview).
 
-#### Live event privacy settings
+### Live Event Privacy Settings
 
 1. `Anywhere` is fully open privacy.
 1. `Nowhere` disables embedding completely.
@@ -263,7 +291,36 @@ If you only want the email addresses from one particular video, you can download
 
 [See more info on changing the privacy settings of live videos](https://vimeo.zendesk.com/hc/en-us/articles/360001205427-Changing-the-privacy-settings-of-your-Live-videos).
 
-### Implementation
+## Showcases
+
+With a [showcase](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcases), you can organize videos together to share publicly or privately. A showcase is a great way to distribute a collection of videos to any audience. And with password-protection, you can control exactly who gets to see each one.
+
+### Create a Showcase
+
+1. Click the `+` icon in the left sidebar menu next to `Showcases`.
+1. Input a title and description for your showcase.
+1. Select the [privacy level](/handbook/marketing/marketing-operations/vimeo/#privacy-settings-overview) for your showcase. The privacy level you select will determine whether you toggle `SEO: Show in Google results` on or off.
+1. In the right window pane, click the `Add video` button to add on-demand videos to your showcase. You can also create a [live event](/handbook/marketing/marketing-operations/vimeo/#live-events) for the showcase. 
+1. In the left sidebar menu, click `Assets`. Here you can add branded assets to your showcase including a logo, thumbnail, and accent color.
+1. In the left sidebar menu, click `SEO`. If you toggled `SEO: Show in Google results` off in step 3, disregard this step. If you toggled `SEO: Show in Google results` on, input the site title, description and meta keywords for this showcase. [More on SEO with showcases here](https://vimeo.zendesk.com/hc/en-us/articles/360032785152-Search-Engine-Optimization-SEO-with-showcases).
+1. In the left sidebar menu, click `Web`. Toggle on/off the various layout options for your showcase. The right window pane shows a preview of how your showcase will look as you toggle your options. 
+1. In the `Domain` tab, select `Vimeo URL`. In the right window pane, you can customize the URL of your showcase and then copy the link. 
+1. In the left sidebar menu, select `Embed` if you are embedding your showcase on the website. Toggle on/off the embed options for your showcase before copying the embed code. 
+1. Once you've finalized your showcase options, click the `Share` button in the top right navigation. You can copy the link or send it via email with an optional message.   
+
+### Custom Domains 
+
+A [custom domain](https://vimeo.zendesk.com/hc/en-us/articles/228908367-Showcases#customdomain) can be created for your showcase. If you are interested, please open an issue in marketing ops. 
+
+## Analytics
+
+Analytics allow you to access in-depth insights about your videos and your Vimeo account. All members can track overall video performance, and advanced analytics and functionality.
+
+To access video [analytics](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview), hover over `Manage Videos` in the top left navigation menu and click `Analytics`. 
+
+[View the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview) for a full tutorial. 
+
+## Implementation
 
 [See epic for more info](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1100). 
 
@@ -272,6 +329,10 @@ If you only want the email addresses from one particular video, you can download
 #### Okta
 
 [In progress](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/-/issues/201). 
+
+#### Slack
+
+If there is an interest to pursue the [Slack integration](https://vimeo.zendesk.com/hc/en-us/articles/360001939888-Slack-integration) for your team or project, please open an issue in marketing ops. 
 
 #### Social Media
 

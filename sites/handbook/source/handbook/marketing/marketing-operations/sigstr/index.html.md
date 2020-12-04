@@ -194,7 +194,7 @@ Campaigns created in Sigstr should align to GTM motions and our [current marketi
 
 ### Create a campaign
 
-Before creating a Sigstr campaign, you need to [request a Sigstr banner ad](https://about.gitlab.com/handbook/marketing/growth-marketing/#brand-and-design-issue-templates) from the growth marketing team. All Sigstr banner ads should use the same dimensions (900 wide x 240 pixels tall; 8px radius corners) and be delivered in a `.png` or `.gif` format.
+Before creating a Sigstr campaign, you need to [request a Sigstr banner ad](https://about.gitlab.com/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) from the growth marketing team. All Sigstr banner ads should use the same dimensions (900 wide x 240 pixels tall; 8px radius corners) and be delivered in a `.png` or `.gif` format.
 
 1. Select `Campaigns` from the side menu (flag icon).
 1. Click the `Create Campaign` button in the top right.

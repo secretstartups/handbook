@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketo"
-description: "Marketo is utilized as our marketing automation platform for email marketing, lead management, and revenue attribution."
+description: "Marketo is our marketing automation platform used for email marketing, lead management, and program management."
 ---
 
 ## On this page
@@ -101,28 +101,28 @@ Some leads are exluded from scoring if they:
 
 #### Behavior Scoring
 
-Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the programs page and progression statuses to see what constitues a `success`.
+Behavior scoring is based on the actions that person has taken. The cadence of how often they can be scored is listed below. For campaign scoring, there must be a success in order to capture the score, those below are marked with a *. Refer to the [programs page and progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs) to see what constitues a `success`.
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
-|Registered |Registered <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
+|Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
-|* Online  - High|Workshop <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Online  - Med| Webcast <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Online  - High|Workshop, <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Online  - Med| Webcast, <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
-|* Offline  - Med|Speaking Session<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
-|* Offline  - Low|Field Event<br> Vendor Arranged Meetings<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
-|* Content - High|Gated Content <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
+|* Offline  - Med|Speaking Session,<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
+|* Offline  - Low|Field Event,<br> Vendor Arranged Meetings,<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
+|* Content - High|Gated Content, <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
 |* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
-|* Survey - Low|Googleforms <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
+|* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request <br> Demo <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+40|{{my.Inbound - Med}}	|	Trigger	|1/day|
-|* Trial | SaaS<br>Self-Managed   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
@@ -130,11 +130,11 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Web: Visits Low Value	Visits Low Value Webpages|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
 |Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
-|Re-MQL Score|	Status changes to Nurture<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+|Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 
 #### Demographic Scoring
 
-For Job role/function and seniority descriptions go [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing).
+For Job role/function and seniority descriptions can be found [here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing).
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
@@ -160,22 +160,30 @@ Below is the folder structure to hold and categorize different operational progr
 - Active Marketing Programs
     - Account Based Marketing (ABM)
     - Conference
+    - Direct Mail
     - Emails
         - Adhoc Emails
         - General Newsletter (Bi-weekly)
         - Remote Newsletter (Monthly)
         - Security Releases
+        - Webcast Newsletter
     - Field Event
     - Gated Content
+        - Content Marketing
+        - Content Syndication
+        - PathFactory Listening
     - Integrated Campaigns
     - Nurtures
     - Owned Events
     - Virtual Events
-        - GitLab Webcasts
+        - Executive Roundtables
+        - GitLab-Hosted Campaign Webcasts
+        - GitLab-Hosted Workshops
         - On Demand Reseller Webcasts
+        - Self-Service Events
         - Sponsored Virtual Conference
         - Sponsored Webcast
-        - Self-Service Events
+        - Vendor Arranged Meetings
     - Web Forms
 - Operational - Do not edit
     - Data Management
@@ -191,12 +199,12 @@ Below is the folder structure to hold and categorize different operational progr
 Marketo segmentations are used similar to a smartlist, but they are permanent and can only be changed by marketing ops. They are used to create dynamic content (emails and landing pages) and are used for faster processing of lists. Segmentations are constantly running in the background in Marketo, so they never need to be refreshed for current numbers. We can only have 20 total segmentations in Marketo. Segmentation criteria waterfalls down based on the order of the segment lists that make up the segmentation. You can only be in one segment of a segmentation. 
 
 These are the current segmentations that are alive and approved.
-- [Compliant and Emailable(https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
+- [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 - [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
 
 ### Account Based Marketing List   
 
-ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. 
+ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. You can find these lists in the DMA folder in the [Marketo Database](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52943077A1).
 The **MktgOps** team is responsible for creating & maintaining these lists. 
 
 If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).

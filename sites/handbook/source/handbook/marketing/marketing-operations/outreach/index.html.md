@@ -207,6 +207,7 @@ SDRs are asked by SDR Leadership to periodically remove their older, unsued and 
 - There are no active prospects in the sequence
 - If there are active prospects in the sequence, check the date when the prospects were added. If prospects have been stuck on a step or paused for a prolonged period of time, consider those prospects inactive
 - The sequence has not been used in 13 months or longer
+- The sequences must be marked by corresponding and correct tags and collections for ease of team cooperation, according to their data (market, account size, etc..). If there is a need, new collections and tags are to be created after consulting managers.
 
 Outreach sequences are a useful source of a/b testing data for customer responses, so the best course of action is not to outright delete sequences. Instead, follow these steps:
 - Deactivate/pause the sequence. If there are prospects still in the sequence, there will be a warning regarding the outcome of those prospects' path through the sequence. Assuming the prospects have been deemed inactive, proceed in deactivating the sequence
