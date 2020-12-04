@@ -133,7 +133,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 |---------------|----------|
 | DRI           | Product Designer |
 | Collaborators | Product Manager <br/>Engineering team <br/>UX Researcher <br/>Software Engineer in Test <br/>Technical Writer|
-| Informed      | Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Application Security Engineer <br/>  Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
