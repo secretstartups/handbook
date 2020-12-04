@@ -178,6 +178,10 @@ Type `/incident declare` in the [`#production`](https://gitlab.slack.com/archive
 
 ![Incident Declaration Slack window](incident-declare-slack.png)
 _Incident Declaration Slack window_
+
+![Incident Declaration Results](incident-declare-results.png)
+_Incident Declaration Results_
+
 | Field | Description |
 | ----- | ----------- |
 | Title | Give the incident as descriptive as title as you can. Please prepend the title with a date in the format YYYY-MM-DD |
