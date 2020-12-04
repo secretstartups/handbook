@@ -34,6 +34,8 @@ One might ask why we are doing this. Our reasoning involves these important poin
  * Being a secure company with a mature and robust code base is our goal, and this helps with that effort
  * We already have a large code base - instead of trying to rewrite and re-analyze everything from scratch, threat modeling gives us a tool to evaluate new changes to help mitigate future risks. As we triage security issues or introduce new security-related features, we have a tool that will allow us to work off some of the organization and technical debt associated with security and risk is easier-to-digest pieces. 
 
+*The overall goal is not to create a rigid structure that must be strictly followed, but an adaptive tool that proactively helps uncover security risks before they occur and even chart out solutions based upon the likelihood of the risk.*
+
 After evaluation of several popular frameworks, we elected to use the [PASTA](https://www.wiley.com/en-us/Risk+Centric+Threat+Modeling%3A+Process+for+Attack+Simulation+and+Threat+Analysis-p-9780470500965#) framework as a base, and with a few minor tweaks for GitLab's environment, we've completed the framework. An overview from the author of the original book can be found [here](https://www.youtube.com/watch?v=hHIgW8ZUi4A).
 
 *We still welcome changes to the framework and deem it to be as much of a living document as the rest of the handbook.*
@@ -174,6 +176,7 @@ More samples will be added later.
 
 Here are some helpful links.
 
+ * [Excerpt from a Security Department "Show and Tell" discussing Threat Modeling](https://www.youtube.com/watch?v=bySfiuk5iHg).
  * [Blog post](https://michenriksen.com/blog/drawio-for-threat-modeling/) by [Michael Henriksen](https://www.gitlab.com/mhenriksen) that talks about using Draw.io [available via diagrams.net](https://www.diagrams.net/index.html) to construct diagrams and flowcharts, and using them during threat modeling. Included is a [link](https://github.com/michenriksen/drawio-threatmodeling) to useful libraries for threat model diagrams.
  * In addition to [Elevation of Privilege](https://www.microsoft.com/en-us/download/details.aspx?id=20303) there is also [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/), which leans more towards web-based applications.
  * [MITRE ATT&CK](https://attack.mitre.org/). This is not a framework used for threat modeling per se, but it could be adapted to and mapped to an existing threat modeling framework.
