@@ -165,7 +165,7 @@ These are changes with either no or very-low risk of negative impact, but where 
 
 1. IaC changes that require manual intervention (e.g. Terraform state manipulation).
 1. Changes that are manual (e.g. Adding a plugin to Grafana, uploading a new SSL cert).
-1. Changes in configuration for current systems serving customers related to DNS or CDN.
+1. Changes in configuration for service provider (e.g. CDN, transactional mail provider, DNS, etc.).
 
 #### Approval
 
