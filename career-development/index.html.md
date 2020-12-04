@@ -45,18 +45,15 @@ substitutes for each other.
 Most career opportunities involve stepping into a position of informal or formal leadership. As such, the initiative
 of the individual is a necessary component, as well as a qualification. However, for the sake of inclusion we do ask that
 managers periodically bring up the possibilities for advancement so that individuals know the avenues available to them
-and receive encouragement to pursue them.  Managers and team members should strive to have a career development
+and receive encouragement to pursue them. Managers and team members should strive to have a career development
 conversation at least once a quarter.
 
 ### Opportunity
 
-GitLab is a fast-growing startup. As such, there is no shortage of opportunity for advancement along either the
-individual contributor or management tracks. We're fortunate that this is the easiest component. And internal
-promotions are generally our first option.
+The GitLab Engineering career track offers a full path of opportunity for individuals to contribute. The availability of senior engineering roles starting at Staff Engineer will be governed by the IC Gearing Ratios (TBD).  
+There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.  
 
-Sometimes a position must become available on the management track before a promotion can occur. But at our
-rate of growth in 2017 and 2018, it is usually only a matter of 6 months or less before something opens up for a prepared candidate.
-
+These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.  
 
 ## Individual Contribution vs. Management
 
@@ -71,7 +68,7 @@ It's important that team members interested in the people management track have 
 In order to facilitate the transition, we recommend any person moving from an Individual Contributor role to a Engineering Manager role work with their manager to create a focused transition plan. The goal is to provide a concentrated look into the responsibilities and challenges of people management with the understanding that, if the role is not for them, they can return to the IC track. A good example of how to build such a plan can be found in [this article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/). Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6).
 
 ### Temporary Management Positions
-We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role, experimenting with the role as they work on determining their career path or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term. This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
+We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager)), experimenting with the role as they work on determining their career path ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) or [Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)) or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term ([Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)). This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
 
 When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in an temporary position.
 
@@ -82,21 +79,37 @@ Those interested in these roles must:
 - have experience in the individual contributor role for which they would be managing
 - have been employed at GitLab for at least 6 months and thriving in our remote-only context
 - exemplify [GitLab Values](/handbook/values)
-- be subject to a talent review depending on the length of appointment
+- For Acting Manager roles: be subject to a talent review depending on the length of appointment
+- For Interim Manager roles: Apply through [Greenhouse](https://about.gitlab.com/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
 
 Process for selection:
-- Upcoming Interim roles will be discussed over the Engineering and Development Staff meetings.
-- Leadership can gather interest from their team members for the upcoming interim roles.
-- Based on the above criteria the assessment will take place and most suitable team member will be selected for the interim role.
+- Upcoming Interim and Acting manager roles will be discussed over the Engineering and Development Staff meetings.
+- Leadership can gather interest from their team members for the upcoming roles.
+- Based on the above criteria the assessment will take place and most suitable team member will be selected for the role.
 
 #### Types of Interim Roles
 ##### Acting Manager
 An Acting Manager is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
+When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances: 
+
+| Current level      | Desired level  | Previous Management experience (6+ months) | Application of interim period |
+|--------------------|----------------|--------------------------------------------|-------------------------------|
+| Senior             | Manager        | No                                         | Yes                           |
+|                    |                | Yes                                        | Yes                           |
+| Staff              | Manager        | No                                         | Yes                           |
+|                    |                | Yes                                        | No                            |
+| Manager            | Senior Manager | No (managing managers)                     | Yes                           |
+|                    |                | Yes (managing managers)                    | No                            |
+| Manager/Sr Manager | Director       | No (managing managers)                     | Yes                           |
+|                    |                | Yes (managing managers)                    | No                            |
+
+For Director+ positions no interim is required. 
+
 Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
-In some cases it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
+In some cases, or for Director level interim roles, it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
 - Performing career development conversations with direct reports successfully;
@@ -112,8 +125,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 ```mermaid
   graph LR;
   %% frontend roles
-  eng:jfe(Intern Frontend Engineering);
-  click eng:jfe "/job-families/engineering/development/frontend#junior-frontend-engineer";
+  eng:jfe(Intern Frontend Engineer);
+  click eng:jfe "/job-families/engineering/development/frontend#intern-frontend-engineer";
 
   eng:ife(Intermediate Frontend Engineer);
   click eng:ife "/job-families/engineering/development/frontend/#intermediate-frontend-engineer";
@@ -128,8 +141,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fem "/job-families/engineering/development/frontend/manager";
 
   %% backend roles
-  eng:jbe(Intern, Backend Engineering);
-  click eng:jbe "/job-families/engineering/development/backend/#junior-backend-engineer";
+  eng:jbe(Intern Backend Engineer);
+  click eng:jbe "/job-families/engineering/development/backend/#intern-backend-engineer";
 
   eng:ibe(Intermediate Backend Engineer);
   click eng:ibe "/job-families/engineering/development/backend/#backend-engineer";
@@ -164,10 +177,17 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click eng:fel "/job-families/engineering/engineering-management/#engineering-fellow";
 
   %% career progression
-  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem;
-  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  subgraph Based on Merit &amp; Company Need
+  eng:stf & eng:fem
+  eng:stb & eng:bem;
+  
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stb & eng:stf-->eng:dis-->eng:fel;
+  end
+  subgraph Merit Based
+  eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem
+  eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
+  end
 
 ```
 
@@ -175,11 +195,16 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  sec:s(Intern, Security Engineering)-->sec:se(Security Engineer) 
-  sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
-  sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
-  sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
-  sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
+  
+  subgraph Merit Based
+    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
+    sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
+  end
+  subgraph Based on Merit &amp; Company Need
+    sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
+    sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
+    sec:sem(Security Engineering Manager)-->sec:ds(Director of Security);
+  end
 
   click sec:s "LINK"
   click sec:se "/job-families/engineering/security-engineer/#intermediate-security-engineer";
@@ -192,21 +217,26 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 #### Quality Department
 
 ```mermaid
-graph LR;
-  qual:jset(Intern, Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
-  qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
-  qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
-  qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
+  graph LR;
+  subgraph Merit Based
+    qual:inbeep(Intern, Backend Engineer, Engineering Productivity)-->qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)
+    qual:jset(Intern Software Engineer in Test)-->qual:iset(Intermediate Software Engineer in Test);
+    qual:iset(Intermediate Software Engineer in Test)-->qual:sset(Senior Software Engineer in Test);
+    qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
+  end
 
-  qual:inbeep(Intern, Backend Engineer, Engineering Productivity)-->qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)
-  qual:ibeep(Intermediate Backend Engineer, Engineering Productivity)-->qual:sbeep(Senior Backend Engineer, Engineering Productivity);
-  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
-  qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
+  subgraph Based on Merit &amp; Company Need
+    qual:sset(Senior Software Engineer in Test)-->qual:stset(Staff Software Engineer in Test);
+    qual:sset(Senior Software Engineer in Test)-->qual:qem(Quality Engineering Manager);
 
-  qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
-  qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
+    qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:stbeep(Staff Backend Engineer, Engineering Productivity);
+    qual:sbeep(Senior Backend Engineer, Engineering Productivity)-->qual:bemep(Backend Engineering Manager, Engineering Productivity);
 
-  click qual:jset "/job-families/engineering/software-engineer-in-test#junior-software-engineer-in-test";
+    qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
+    qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
+  end
+
+  click qual:jset "/job-families/engineering/software-engineer-in-test#intern-software-engineer-in-test";
   click qual:iset "/job-families/engineering/software-engineer-in-test#intermediate-software-engineer-in-test";
   click qual:sset "/job-families/engineering/software-engineer-in-test#senior-software-engineer-in-test";
   click qual:stset "/job-families/engineering/software-engineer-in-test#staff-software-engineer-in-test";
@@ -221,15 +251,20 @@ graph LR;
 #### Support Department
 
 ```mermaid
-    graph LR;
-  supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
-  supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
+  graph LR;
+  
+  subgraph Merit Based
+    supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
+    supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
+  end
 
-  supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
-  supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
+  subgraph Based on Merit &amp; Company Need
+    supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
+    supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
 
-  supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
-  supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
+    supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
+    supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
+  end
 
   click supe:se "/job-families/engineering/support-engineer#support-engineer";
   click supe:sse "/job-families/engineering/support-engineer#senior-support-engineer";
@@ -243,8 +278,14 @@ graph LR;
 
 ```mermaid
   graph LR;
-  eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
+  subgraph Merit Based
+    eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
+    eng:uxrc(UX Research Coordinator)-->eng:uxr(UX Researcher);
+    eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
+    eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
+  end
 
+subgraph Based on Merit &amp; Company Need
   eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
 
   eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
@@ -260,14 +301,12 @@ graph LR;
   eng:muxr(Manager of UX Research)-->eng:smuxr(Senior Manager of UX Research);
   eng:smuxr(Senior Manager of UX Research)-->eng:duxr(Director of UX Research);
   eng:duxr(Director of UX Research)-->eng:vpux(VP of User Experience);
-
-  eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
-
+  
   eng:stw(Senior Technical Writer)-->eng:sttw(Staff Technical Writer);
-
   eng:stw(Senior Technical Writer)-->eng:mtw(Technical Writing Manager);
   eng:mtw(Technical Writing Manager)-->eng:stwm(Senior Technical Writing Manager);
   eng:stwm(Senior Technical Writing Manager)-->eng:dtw(Director of Technical Writing);
+end
 
   click eng:pd "/job-families/engineering/product-designer/";
   click eng:spd "/job-families/engineering/product-designer/";
@@ -297,35 +336,45 @@ graph LR;
 ```mermaid
   graph LR;
 
+  subgraph Merit Based
   %% Backend Engineers
-  eng:abe(Intern, Backend Engineer)-->eng:be(Senior Backend Engineer);
-  eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
-  eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
-  eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
-  eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
-
+    eng:abe(Intern, Backend Engineer)-->eng:be(Senior Backend Engineer);
+    eng:be(Backend Engineer)-->eng:sbe(Senior Backend Engineer);
   %% Site Reliability Engineer
-  eng:asre(Intern, Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
-  eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
-  eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
-  eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:asre(Intern, Site Reliability Engineer)-->eng:sre(Site Reliability Engineer);
+    eng:sre(Site Reliability Engineer)-->eng:srsre(Senior Site Reliability Engineer);
+  %% Database Reliability Engineer track
+    eng:adbre(Intern, Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
+    eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
+  %% Infrastructure Analyst
+    eng:ia(Infrastructure Analyst)
+  end
+
+subgraph Based on Merit &amp; Company Need
+  %% Backend Engineers
+    eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
+    eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
+  
+  %% Site Reliability Engineer
+    eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
+    eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
 
   %% Database Reliability Engineer track
-  eng:adbre(Intern, Database Reliability Engineer)-->eng:dbre(Database Reliability Engineer);
-  eng:dbre(Database Reliability Engineer)-->eng:srdbre(Senior Database Reliability Engineer);
-  eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
-  eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
+    eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
 
-  %% Management
-  eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
-  eng:srsre(Senior Site Reliability Engineer)-->eng:em(Engineering Manager);
-  eng:srdbre(Senior Database Reliability Engineer)-->eng:em(Engineering Manager);
-  eng:em(Engineering Manager)-->eng:sem(Senior Engineering Manager);
-  eng:sem(Senior Engineering Manager)-->eng:di(Director of Infrastructure);
-  eng:di(Director of Infrastructure)-->eng:vpi(VP of Infrastructure);
+    %% Management
+    eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
+    eng:srsre(Senior Site Reliability Engineer)-->eng:em(Engineering Manager);
+    eng:srdbre(Senior Database Reliability Engineer)-->eng:em(Engineering Manager);
+    eng:em(Engineering Manager)-->eng:sem(Senior Engineering Manager);
+    eng:sem(Senior Engineering Manager)-->eng:di(Director of Infrastructure);
+    eng:di(Director of Infrastructure)-->eng:vpi(VP of Infrastructure);
 
-  %% Infrastructure Analyst
-  eng:ia(Infrastructure Analyst)-->eng:vpi(VP of Infrastructure);
+    %% Infrastructure Analyst
+    eng:ia(Infrastructure Analyst)-->eng:vpi(VP of Infrastructure);
+  end
 
   %% Backend engineer
   click eng:abe "/job-families/engineering/infrastructure/backend-engineer/";
@@ -395,8 +444,9 @@ With the roll out of the intern level in Engineering we have decided to deprecat
 
 Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
 
-Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/backend-engineer/#distinguished-backend-engineer) positions extend the Senior Engineer role.
+The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position. 
 
+Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/backend-engineer/#distinguished-backend-engineer) positions extend the Senior Engineer role.
 
 ## Promotion
 
