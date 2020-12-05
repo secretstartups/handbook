@@ -145,7 +145,7 @@ These are changes that are not expected to cause downtime, but which still carry
 1. Load Balancer Configuration - major changes to backends or front ends, fundamental to traffic flow.
 1. IaC changes to cattle / quantity when there is a decrease.
 1. Minor version upgrades (**minor** definition following semver.org) of tools or components (e.g HAProxy, AlertManager, Chef, etc.).
-1. Removing old hosts from IaC (like removals of legacy infrastructure).
+1. Removing old hosts from IaC (e.g. removals of legacy infrastructure).
 1. Changes to alerting routing or integrations.
 1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using `gitlab-rails` or `gitlab-rake`.
 
