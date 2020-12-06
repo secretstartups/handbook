@@ -327,7 +327,7 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-Completed`   | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
 #### Root Cause Labeling
-Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service Attribution, improved understanding of Service behavior. Indicating a single root cause is desirable, however when a single cause cannot be decided it is acceptable to indicate multiple causes.
+Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service Attribution, improved understanding of Service behavior. Indicating a single root cause is desirable and in cases where there appear to be multiple root causes, indicate the root cause which precipitated the incident.
 
 The EOC, as DRI of the incident, is responsible for determining root cause.
 
@@ -340,7 +340,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
    | `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
-   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as SPoF or Inadequate-Scaling should be strongly considered for most incidents.
+   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::saturation`) should be strongly considered for most incidents.
 
 #### Required Labeling
 These labels are always required on incident issues.
