@@ -272,15 +272,11 @@ The left hand side represents your style while the top represents your counterpa
 | **Amiable** | Shift Focus more toward the goal, less generalities | Pick up the pace, focus less on the relationship | Focus more on the issues at hand and less on popularity and networking | Focus less on the relationship and more on details | 
 | **Analytical** | Pick up the pace and focus less on details and more on the goal | Focus a little less on detail. Be a little more causal | Focus a little more on the relationship. Be more casual | Try to look at ideas more objectively. You both need to be right. |
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgSbOLpusk0gMSSEKd6WqIq-QXgR3AnDrKRYPzgDzTwmqw8kS8rZlSYoVWucF9yVG6zuBp1nGLYeof/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
 ## Discover Your SOCIAL STYLE
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
 
-1. Teams can inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. GitLab L&D has been trained on SOCIAL STLYEs, please contact them to learn more about the assessment.  
+1. Teams can inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. GitLab L&D has been trained and certified on SOCIAL STLYEs, please contact them to learn more about the assessment. 
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
@@ -297,16 +293,6 @@ Once you know your team's SOCIAL STYLE, what do you do next?
 - Reference the language of SOCIAL STYLEs when working together
 - Develop and invest in your team members individual style
 
-## Example of putting styles into practice
-
-Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
-
-Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
 ## SOCIAL STYLES and crucial conversations
 
 There are three factors that distinguish a [crucial conversation](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) form a normal conversation: 
@@ -317,14 +303,6 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 [Managing Underperformance](/handbook/leadership/underperformance/) is an example of having a crucial conversation. Team members and managers can apply the social styles framework to managing underperformance. Managers can break down barriers by getting to know their people on personal level. Different team members (different styles) have different cues when addressing a difficult conversation. Let's take Underperformance, for example, a Manager (Expressive) style has a direct report with an Analytical style. During a meeting to address the underperformance, the Manager shares data on the underperformance while providing tasks with details on how to resolve. The direct report can seem withdrawn and detached. Since the Manager knows this is an attribute of the Analytical style, they can be more likely to resolve the underperformance in a crucial conversation. 
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
-
-During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#week-1), we had a course covering how to Manage Underperformance Using SOCIAL STYLEs. The [slide deck](https://docs.google.com/presentation/d/1Cjx6UJ4p4lvOM780GaThx9CwHG0txGAWt829LaiqFq0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1Y2tLbuqvlIZmSGjND1nJeNnKdvDS7rZUCcAvu8dWx8Y/edit?usp=sharing) follow along with the session. In addition, we used an interactive polling tool called [Mentimeter](https://www.mentimeter.com/) to ask participants what is the hardest part about [having difficult conversations](https://docs.google.com/document/d/1rUZgYNgnWJqENKHC0VOdUEAJeJOX8lrOmg0lh-pLVeA/edit) with team members at GitLab.
-
-A recording of the first of two sessions can be found here: 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/96F___ZpanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
 
 ## Additional Resources on SOCIAL STYLES
 
