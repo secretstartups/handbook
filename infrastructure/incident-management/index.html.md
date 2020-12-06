@@ -340,7 +340,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
    | `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
-   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents.
+   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
 
 #### Required Labeling
 These labels are always required on incident issues.
