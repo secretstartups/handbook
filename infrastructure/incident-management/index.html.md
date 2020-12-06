@@ -336,7 +336,8 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | Root Cause | Description |
    | ---------- | ----------- |
    | `~RootCause::Software-Change` | feature or other code change |
-   | `~RootCause::Config-Change` | configuration change (either in code or through other control mechanisms, including feature flags) |
+   | `~RootCause::Feature-Flag` | a feature flag toggled in some way (off or on or a new percentage or target was chosen for the feature flag)  |
+   | `~RootCause::Config-Change` | configuration change, other than a feature flag being toggled |
    | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
    | `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
