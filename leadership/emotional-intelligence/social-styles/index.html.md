@@ -13,9 +13,6 @@ title: Understanding SOCIAL STYLES
 
 On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectivess and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/). As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](https://about.gitlab.com/company/culture/all-remote/management/). Use this page as a frame of reference to help [build trust](/about.gitlab.com/handbook/people-group/learning-and-development/building-trust) within your teams. 
 
-## Copyright/Trademark Recognition Statement
-Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademark of TRACOM Group. The phrase SOCIAL STYLEs is required to be capaitalized when used due to copyright rules. 
-
 ## Drawbacks of Using Personality & Behavioral Assessments
 
 Personality assessments are one of many tools to help team members build trust. They are not intended to type-cast team members into boxes based on their results. It is important to remember that it is up to all of us to get to know one another on a personal and professional level instead of using the results of an assessment to make assumptions. Please use this page as a frame of reference when interacting with team members based on their assessed style. The results of an assessment should not put anyone in a box as we all have qualities that make us unique. The assessment does not take the place of Managers getting to know team members, appreciate their unique strengths and full personhood, and explore the ups-and-downs within the relationship. SOCIAL STYLEs is only a tool and we should not resort to type-casting team members based on their results.
@@ -283,7 +280,7 @@ The left hand side represents your style while the top represents your counterpa
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
 
-1. **Complete the Self-Assessment** - Discover yourself using the [web based self-assessment](https://samdbeckham.gitlab.io/social-styles/). Teams can also inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. 
+1. Teams can inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. GitLab L&D has been trained on SOCIAL STLYEs, please contact them to learn more about the assessment.  
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
@@ -292,10 +289,6 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 4. **Share** - Share the assessment with teammates who have not taken the assessment.
 
 5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLEs. 
-
-**Sample Slack Message for Managers to send to their team to complete the assessment:**
-
-> Hi Team, I wanted to introduce you to a personality assessment called SOCIAL STYLEs. This is a great way to help us strengthen relationships and improve communication. Take some time to read the [Understanding SOCIAL STYLES handbook page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). When you are ready, take the [free assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf) to learn about your own unique style. We will come together as a group later in the week or during our regular meeting cadence to discuss our results. The more we know about each other, the better we can operate as a team! 
 
 Once you know your team's SOCIAL STYLE, what do you do next?
 - Talk to your team members about their style
