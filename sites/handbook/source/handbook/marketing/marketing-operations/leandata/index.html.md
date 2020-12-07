@@ -32,10 +32,18 @@ Records that meet all [record validation](#record-validation) criteria and can b
 - **`SDR Assigned` match** - The custom account object field `SDR Assigned` is populated with SDR responsible for engaging and qualifying the lead. When a lead is matched to a PubSec account or there is not an owner mapping available, LeanData references the `SDR Assigned` field on the matched account record and routes the lead to the SDR listed, if the field is populated. This field is used as a secondary routing mechanism for leads that match to Salesforce accounts because the `SDR Assigned` field is not maintained by an automated workflow and therefore relies on manual updates by the SDR organization or Marketing Operations team.
 
 ### Unmatched lead
-Leads that match to accounts but are not able to be routed via owner mappings or the SDR Assigned field as well as leads that do not match to accounts are routed using LeanData's [territory management functionality](https://learn.leandata.com/datasheets-how-leandata-works-its-magic/territory-management-datasheet).
+Leads that match to accounts but are not able to be routed via owner mappings or the `SDR Assigned` field as well as leads that do not match to accounts are routed using LeanData's [territory management functionality](https://learn.leandata.com/datasheets-how-leandata-works-its-magic/territory-management-datasheet).
 
 ## Account routing workflow
 The account routing flowbuilder leverages LeanData's territory management functionality to populate or update the `[TSP] Territory`, `[TSP] Region`, `[TSP] Sub-Region`, `[TSP] Area`, and `[TSP] Approved Next Owner` fields on the account object. LeanData monitors for changes to the `[TSP] Last Update Timestamp` field to know when an account record is ready to be processed. Details about the TSP process can be found on the [Sales Operations handbook page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp). 
 
-## Need to make a change to lead routing? 
-Open an issue using our [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
+## Lead routing request or question?
+
+### Request an SDR alignment update
+New hire? Territory change needed? If requesting a proactive update to the lead routing workflow, open an issue using the [LeanData change request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment).
+
+### Experiencing a lead routing problem?
+Lead volume low? Receiving leads from an account or territory you're not assigned to? If you think you've found a bug :bug: in existing lead routing logic, open an issue using the [bug request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request). 
+
+### General questions
+Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) following the format in the issue template.

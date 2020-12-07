@@ -104,15 +104,20 @@ This is when a package or piece of mail is sent out.
 | Gift is being researched | Alyce Gift Created |  |
 | Need more information for gift| Alyce needs more information on the recipient |  |
 | Gift options ready| Gift options ready to be viewed  |  |
+| Gift invitation scheduled|Gift invitation scheduled| |
 | Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
+| Gift out for delivery | Gift out for delivery| |
+| Email invitation bounced | Email invitation bounced| | 
+| Physical invitation returned | Physical invitation returned | | 
 | Gift invitation sent by email | Alyce gift invitation sent with email | |
 | Physical gift invitation sent | Alyce physical gift invitation sent|  |
 | Gift invitation delivered | Alyce physical gift invitation delivered|  |
-| Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
 | Gift accepted | Alyce gift accepted by the recipient| Yes |
 | Gift expired | Alyce gift expired|  |
 | Gift declined | Alyce gift declined by the recipient|  |
 | Gift disabled | Alyce gift disabled or deleted|  |
+| Invite Bounced | Invite Bounced | | 
+| Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
 
 
 #### Executive Roundtables

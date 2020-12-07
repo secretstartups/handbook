@@ -23,7 +23,7 @@ Nurture is a channel to bring an individual to the content. Just like ads, socia
 **What are the differing goals of PathFactory and Marketo?**
 
 - **Marketo nurture:** To keep the GitLab top of mind and deliver relevant content (via PathFactory)
-- **PathFactory:** To increase consumption/engagemet with GitLab content
+- **PathFactory:** To increase consumption/engagement with GitLab content
 
 **Can records be in Marketo nurture and PathFactory nurture at the same time? If not, is 1 prioritized over the other?**
 

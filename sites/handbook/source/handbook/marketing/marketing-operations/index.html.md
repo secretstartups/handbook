@@ -131,6 +131,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Tweetdeck
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Zapier](/handbook/marketing/marketing-operations/zapier)
 
 ### Requesting access to an existing tool
 
@@ -300,7 +301,7 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 ## Website Form Management
 
-The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md).
+The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). For form field requirements, please refer to this [page](/handbook/marketing/marketing-operations/marketo/#forms).
 
 Each Marketo form should push an event after successful submission to trigger events in Google Analytics. We use the following event labels to specify which events to fire.
 
@@ -328,9 +329,9 @@ dataLayer.push(
 
 ## Initial Source
 
-`Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#ktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
+`Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#mktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
 
-The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please slack the appropriate team member(s) listed in the [Tech Stack](/handbook/business-ops/tech-stack-applications/#tech-stack-applications).
+The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team.
 
 The `Initial Source` table below is current as of 7 July 2020.
 
@@ -388,9 +389,10 @@ Status in the table below means:
 | Virtual Sponsorship | paid demand gen |  | Active |
 | Purchased List | purchased list |  | Active |
 | Employee Referral | referral |  | Active |
-| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Active |
+| Partner | referral | GitLab partner sourced name either through their own prospecting and/or events | Inactive |
+| Channel Qualified Lead | referral| GitLab partner sourced, previously `partner`| Active|
 | Word of Mouth | referral |  | Active |
-| Event Partner | referral |  | Active |
+| Event Partner | referral |  | Inactive |
 | Existing Client | referral |  | Active |
 | External Referral | referral |  | Active |
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
