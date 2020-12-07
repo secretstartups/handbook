@@ -74,7 +74,7 @@ If you took one of our certifications or knowledge assessments and did not recie
    * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to recieve their certificate. 
    * For email templates for different scenarios, check out our [Certification Request Responses doc](https://drive.google.com/drive/search?q=title:%22Certificate%20Request%20Responses%22). 
 
-**Notes for the Remote Foundations Certificaation**
+**Notes for the Remote Foundations Certification**
 * If they have not completed one or multiple of the knowledge assessments, it will show up with a “0” in the column that is incomplete in the "pass_all" tab. 
 * If the email doesn’t show up in the "pass_all" tab, check the tabs for each KA. If they don’t complete the Handbook First documentation knowledge assessment, they won’t show up in the “pass_all” tab at all (even if they have completed the other 9 KAs). The Handbook First Documentation knowledge assessment is the anchor for the "pass_all" tab. 
 
