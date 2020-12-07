@@ -237,7 +237,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Three  | Wed  | [People](/handbook/people-group/)  | Wendy Barnes  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
@@ -257,7 +257,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Seven  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Seven  | Wed  | [People](/handbook/people-group/)  | Wendy Barnes |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|
