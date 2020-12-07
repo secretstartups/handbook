@@ -200,7 +200,7 @@ This field inherits data from other fields in the following priority: 1. Admin M
 2. **Indisputable:** Requestor must provide evidence with supporting links.
 3. **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
 4. **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
-5. **Timing for Submitting Requests:** Requests can be submitted at any time but note that accounts won’t actually be moved into the new agreed upon owner’s name until the next fiscal quarter. The last week of the current fiscal quarter will be a black out week for reviewing new cases in order for Sales Operations to do a final review the current Fiscal Quarter requested changes and move accounts and opportunities. The [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work) will show the review, blackout and account move dates.
+5. **Timing for Submitting Requests:** Requests can be submitted at any time but note that accounts won’t actually be moved into the new agreed upon owner’s name until the next fiscal quarter. The last week of the current fiscal quarter will be a black out week in order for Sales Operations to do a final review of the cases submitted for the the current Fiscal Quarter and to move accounts and opportunities. The [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work) shows the review, blackout period and account move dates. Any cases submitted during the black out period will be reviewed the following quater.
 
 **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
@@ -208,8 +208,11 @@ This field inherits data from other fields in the following priority: 1. Admin M
 2. **Sales Operations Quarterly Account Review Process**
 
     a. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).  Opportunities Stages 4 and above will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+
     b. **Holdover Accounts/Opportunities** that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+
     c. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
+
     d. Accounts that would move segment or region must be approved by Sales Operations based on TAM and quota prior to a quarterly move. If the move will negatively affect TAM or quota it will be moved during the annual review process.
 
 3. **Annual Review Process**
@@ -241,9 +244,9 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
     b. **Government Holding Entity - Child Accounts:**
 
-        * AMER: PubSec
+          1. AMER: PubSec
 
-        * ROW: ______
+          2. ROW: ______
 
     c. **Franchises or Consultants  - Child Accounts:** Defined as an account that____. Franchises do not count towards HQ Total Employee Count
 
