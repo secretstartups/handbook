@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: How growth team works
+title: How the growth team works
 ---
 
 ## On this page
