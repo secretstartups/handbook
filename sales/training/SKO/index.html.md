@@ -17,7 +17,9 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
 # Sales Kick Off 2021
-SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021. More details coming soon!
+SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021. Our theme is Peak Performance. Check out our [SKO 2021 Theme Reveal Video](https://vimeo.com/487653102) for a preview of the brand design. 
+
+More details coming soon!
 
 ## High-level SKO 2021 Agenda 
 Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. Below is a high-level agenda: 
