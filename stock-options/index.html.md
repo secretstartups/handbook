@@ -220,7 +220,7 @@ There are two methods to exercise your shares:
    - Complete the form, sign, and return as PDF to `stockadmin@gitlab.com`
    - Send payment in US dollars by wire transfer. You will be provided the wire transfer info.
 
-**Note for US residents:** whichever method you choose, be sure to download the **83-b election form** provided by Carta and file with the IRS within 30 days of exercise. Send a copy of the signed and dated election form to `stockadmin@gitlab.com`. The Stock Plan Administrator will file it within Bamboo/HR.
+**Note for US residents:** whichever method you choose, if you early exercise unvested shares, be sure to download the **83-b election form** provided by Carta and file with the IRS within 30 days of exercise. Send a copy of the signed and dated election form to `stockadmin@gitlab.com`. The Stock Plan Administrator will file it within Bamboo/HR.
 
 See on Carta: [What and where is my 83(b) form?](https://support.carta.com/s/article/what-and-where-is-my-83-b-form) or [download the 83-b election form template](https://carta.my.salesforce.com/sfc/p/#f4000000nrKS/a/0H000000Xm1Z/H0r8oAMKO54MeOPha6Y2ej8zlCnIrPzVyQsFP5XdboU)
 
