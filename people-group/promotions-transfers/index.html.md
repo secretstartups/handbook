@@ -36,6 +36,10 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 - Migration from Manager to Individual Contributor
 - Migration of Team
 
+When a career mobility may not be needed (but can be requested);
+- Team/Speciality change but no access request needed
+
+
 ## Career Mobility Issue Creation Process
 
 The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
