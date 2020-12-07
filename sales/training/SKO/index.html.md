@@ -33,7 +33,7 @@ Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the 
 All subject to change. 
 
 ## SKO 2021 Tickets 
-You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please try to register before Dec 15. You can edit your pass after registering up until Jan 31. At this point, registration changes will be locked for planning purposes.
+You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration in January 2021. 
 
 We will be validating all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event.
 
