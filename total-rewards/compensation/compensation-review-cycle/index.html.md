@@ -378,7 +378,7 @@ We have now completed two compensation reviewed utilizing Compaas. Based on some
 
 All increases for Annual Compensation Review will be finalized by Feb 1st. FY 2022 compensation will be uploaded into BambooHR no later than Feb 4th for payroll to make changes in all subsequent systems. The Total Rewards team will turn off the ability to see compensation in BambooHR using Employee or Contractor Self Service from Jan 25th until Feb 12th for Employees and until Feb 5th for Contractors. Managers will have the ability to communicate any increases to their team before end of day on the 5th for Contractors and end of day on the 12th for Employees.
 
-Communication Guidelines can be found in the [Leadership Toolkit](/handbook/people-group/leadership-toolkit/compensation-review/).
+Communication Guidelines can be found in the [Leadership Toolkit](/handbook/leadership/compensation-review-conversations/).
 
 Please note, the % increases in Compaas are rounded up to the nearest whole number. Please either communicate the amount increase or calculate the % increase to at least the hundredths place for communication: `((FY22 Salary-FY21 Salary)/FY21 Salary)`.
 
