@@ -192,3 +192,6 @@ The reports JSON schemas are maintained by the relevant Secure groups (Backend t
 For instance, the Static Analysis group is responsible for the SAST category, so its backend team is responsible for the `sast` report JSON schema.
 Additionally, any modification of the shared definitions and structure must be approved by each group's backend team.
 
+#### Comparison and tracking logic
+
+All types of vulnerabilities follow the same generic comparison and tracking logic in the rails application based on the report type, primary identifier, and location fingerprint. While the way to generate the location fingerprint may vary from one type of report to another, the logic to compare and track is still generic and managed by Threat Insights. Any improvement of that logic that is specific to a given report type is under the responsibility of the corresponding group (e.g. Static Analysis group would be the maintainer of any improvement to track SAST vulnerabilities).
