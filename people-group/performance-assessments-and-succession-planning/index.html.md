@@ -224,7 +224,7 @@ While there are exceptions, this is the general rule of thumb.
 
 ### Initial Launch Timeline
 
-GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the exericse is as follows:
+GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the Performance Factor exericse is as follows:
 
 *September*
 * 2020-09-30: Review and iterate based on feedback provided in the [issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/965)
@@ -251,18 +251,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
 *January*
-* 2021-01-07: Manager Review to [Open in Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas)
-* 2021-01-11 and 2021-01-12: Manager Review Training to be scheduled and run by Total Rewards/PBPs on how to use Compaas and think about increases for team members
-* 2021-01-22: Manager Review to close in Compaas
-* 2021-01-27: E-group leaders to confirm and approve Manager Review output
-* 2021-01-29: Final day to for managers to communicate Performance Factor result to team members
-
-*February*
-* 2021-02-01: Performance factors viewable to team members in BHR on the "Job" tab of a team member's profile
-* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2021-02-15 so managers have an opportunity to communicate prior)
-* 2021-02-04: Total Rewards to upload all approved changes to BHR for payroll to process
-* 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
-* 2021-02-15: Salary increases visible to team members in BambooHR
+* In January the Performance factors feed into the Annual Compensation review. Review the timeline for that process on the Annual Compensation Review page, [here](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline). 
 
 ### Matrix Assessment Timeline 
 
