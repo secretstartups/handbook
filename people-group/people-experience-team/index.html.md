@@ -166,6 +166,7 @@ Every Monday and Wednesday, the Associate in the rotation will pull the report t
 1. Paste the data into the People Experience Onboarding Tracker at the bottom 
 1. If a name is highlighted, this means the name is already on the tracker. Review that the hire date is the same and delete the highlighted field you just added. 
 1. If the name is not highlighted this is a new add and keep the name on the tracker. 
+1. **Important, if the team member is located in Japan, please immediately proceed with sending the required payroll documentation to the new hires personal email address.**
 
 ### Weekly Moo Report
 
