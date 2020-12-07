@@ -76,9 +76,12 @@ The possibilities for volunteering at re:learn will initially start with Firesid
 
 GitLab Contact: [Roos Takken](https://gitlab.com/rtakken)
 
-| Volunteer   | Start  | End |
-|-------------|--------|-----|
-| TBD         |        |     |
+| Volunteer                                | Start        | End   |
+|------------------------------------------|--------------|-------|
+| [Christina Hupy](/company/team/#c_hupy)  | January 2021 |TBD    |
+| [Daniel Parker](/company/team/#djparker) | January 2021 |TBD    |
+| [Lindsay Kerr](/company/team/#lkerr)     | January 2021 |TBD    |
+| [Tom Quirk](/company/team/#tomquirk)     | January 2021 |TBD    |
 
 ### Free top-tier GitLab for qualifying partners
 
