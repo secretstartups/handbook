@@ -292,7 +292,7 @@ subgraph Based on Merit &amp; Company Need
   eng:pdm(Product Design Manager)-->eng:spdm(Senior Product Design Manager);
   eng:spdm(Senior Product Design Manager)-->eng:dpd(Director of Product Design);
   eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
-  eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
+
   eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
 
   eng:suxr(Senior UX Researcher)-->eng:muxr(Manager of UX Research);
