@@ -10,6 +10,7 @@ The following resources can be used by learners in the EdCast platform to help n
 
 ## EdCast User Documentation
 
+
 ### First time login to the EdCast platform
 
 When you first log into the LXP, a series of questions will lead you through your account setup. It's important to answer these questions, as the platform will use your answers to suggest new learning content based on your interests and expertice.
@@ -58,8 +59,6 @@ This navgation bar links to the following support resources:
 
 Use the search bar to find new content and other learner profiles in the LXP.
 
-#### Skillcoins
-
 #### Notification
 
 View notifications to see when new content is assigned to you, when users have commented on something you follow, and more.
@@ -71,8 +70,41 @@ The top navigation can help you get to your [EdCast profile page](/handbook/peop
 
 ### Setting up your profile page
 
+You can edit and customize your profile page from within the EdCast platform using the following steps.
+
+1. In the top navigation bar, locate your name and profile image. This will link to your profile page.
+1. On your profile, you can review your dashboard, content, learning plan, and more.
+1. In the top right corner of the screen, click `Edit Profile`
+1. Confirm you are viewing the `Account Details` tab.
+1. From this page, you can edit and update the following information:
+     - First and last name
+     - Bio
+     - Login information
+     - EdCast handle
+     - Preferred language
+     - Profile and banner image
+     - Job title
+1. You alos have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab.
+
+### Navigating the Discover Page
+
+When you first log into the EdCast platform, you'll arrive on the Discover page. This page is aimed to:
+
+- introduce you to trending topic among other GitLab learners
+- provide quick access to your learning path and content you've started
+- explore new groups and channels to discover content you might be interested in
+- highlight initiatives from the GitLab L&D team and other content creators
+
+
 ### Finding new learning content
 
+There are 2 ways to search EdCast for new learning content.
+
+1. Use the search bar. This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
+
+1. Use the `More` option in the top navigation bar. This waffle icon will allow you to sort through EdCast content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute)
+
+### Accessing a learning journey, pathway, and smartcard
 
 
 
