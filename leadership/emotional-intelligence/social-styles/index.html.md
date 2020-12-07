@@ -304,6 +304,16 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
 
+## Example of putting styles into practice
+
+Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
+
+Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 ## Additional Resources on SOCIAL STYLES
 
 Below are additional resources on social styles for review
