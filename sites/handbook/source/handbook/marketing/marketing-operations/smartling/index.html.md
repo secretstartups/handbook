@@ -17,10 +17,8 @@ Smartling is our localization platform that is used to translate pages on our we
 
 ## Support
 
-- Technical assistance: Slack (`#mktgops`), `@sdaily`, `support@smartling.com` 
-  - This will create a ticket for the Support Team (teams in NY and Dublin, Ireland).
-- Translation assistance: `translation@smartling.com`
-  - This will go to the Language Services Team who manages the translations
+1. Technical assistance: Slack (`#mktgops`), `support@smartling.com` - This will create a ticket for the Support Team (teams in NY and Dublin, Ireland).
+1. Translation assistance: `translation@smartling.com` - This will go to the Language Services Team who manages the translations
 
 ### Quick Links
 
@@ -78,6 +76,10 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 ### Marketo
 
 **Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance.
+
+### PathFactory 
+
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
 
 ## Projects
 
