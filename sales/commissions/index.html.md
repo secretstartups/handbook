@@ -80,6 +80,26 @@ Given the fiscal period for public sector, our seasonality assumptions differ:
 ## **Commissions Overview**
 Most commission plans are paid monthly; however there are some plans that are paid on a quarterly basis. Most commissions plans are calculated in CaptivateIQ. 
 
+### **Base / Variable Split by Role**
+
+| Job Family | Split Base| Split Variable|
+| ----- | ----- | ----- |
+| SMB Account Executive| 50| 50|
+| Account Executive - Mid Market| 50| 50|
+| Strategic Account Leader| 50| 50|
+| Area Sales Manager| 50| 50|
+|Manager, Public Sector Inside Sales| 50| 50|
+|Inside Sales Rep| 50| 50|
+|Channel Sales Manager| 60| 40|
+|Channel Services Manager| 70| 30|
+|Solutions Architect| 75| 25|
+|Technical Account Manager| 75| 25|
+|Professional Services Engineer| 90| 10|
+|Demo Systems Engineer| 90| 10|
+|Professional Services Practice Manager| 85| 15|
+|Professional Services Technical Instructor| 85| 15|
+|Professional Services Engagement Manager| 80| 20|
+
 ### **Commission Rates**
 You can find the definitions of **Base Commission Rate (BCR)** and **Super Commission Rates (SCR)** in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#definitions) page under the Definitions section.
 
