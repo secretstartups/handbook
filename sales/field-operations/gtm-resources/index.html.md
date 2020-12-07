@@ -241,9 +241,9 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
     b. **Government Holding Entity - Child Accounts:**
 
-        i. AMER: PubSec
+        * AMER: PubSec
 
-        ii. ROW: ______
+        * ROW: ______
 
     c. **Franchises or Consultants  - Child Accounts:** Defined as an account that____. Franchises do not count towards HQ Total Employee Count
 
@@ -251,6 +251,8 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 10. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. These accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help).
 
+
+### Account Assignment Sources, Routing and Other Requirements
 
 ##### Website
 
