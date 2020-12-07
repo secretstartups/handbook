@@ -11,7 +11,7 @@ title: "Paid time off at GitLab"
 
 ## Paid Time Off
 
-Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership](/handbook/people-group/leadership-toolkit/) to set the example by taking time off when needed, and ensuring their reports do the same.
+Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership](/handbook/leadership/) to set the example by taking time off when needed, and ensuring their reports do the same.
 
 Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's sub-value [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second), but it is vital to maintaining [mental health](/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
 
