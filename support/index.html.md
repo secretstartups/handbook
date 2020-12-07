@@ -9,7 +9,7 @@ description: The GitLab Support Team Handbook is the central repository for why 
 
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
-| Your Role | Your Need | Where You Should Look |
+| If you are | Your Need | Where You Should Look |
 | --------- | --------- | --------------------- |
 | A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
