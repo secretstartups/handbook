@@ -116,7 +116,6 @@ These are added to the "All Team Member" Template
 - [Production and Database Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#production-and-database-engineering)
 - [Database Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#database-engineering)
 - [Support](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_support.md)
-- [Community advocates](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_community_relations/role_community_advocate.md)
 - [Product Design](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#product-designers)
 - [Product Design Managers](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#product-design-managers)
 - [Frontend Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md#frontend-engineers)
