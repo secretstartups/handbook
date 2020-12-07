@@ -280,7 +280,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   graph LR;
   subgraph Merit Based
     eng:pd(Product Designer)-->eng:spd(Senior Product Designer);
-    eng:uxrc(UX Research Coordinator)-->eng:uxr(UX Researcher);
+    eng:uxrc(UX Research Coordinator)-->eng:uxrc(Senior UX Research Coordinator);
     eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
     eng:tw(Technical Writer)-->eng:stw(Senior Technical Writer);
   end
@@ -292,8 +292,6 @@ subgraph Based on Merit &amp; Company Need
   eng:pdm(Product Design Manager)-->eng:spdm(Senior Product Design Manager);
   eng:spdm(Senior Product Design Manager)-->eng:dpd(Director of Product Design);
   eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
-
-  eng:uxrc(UX Research Coordinator)-->eng:suxrc(Senior UX Research Coordinator);
   eng:uxr(UX Researcher)-->eng:suxr(Senior UX Researcher);
   eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
 
