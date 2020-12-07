@@ -537,6 +537,6 @@ There are a variety of analytics and reports available in PathFactory that show 
 
 An iframe, or inline frame, is a tag `<iframe> </iframe>` that is used to embed an HTML document inside another HTML document on a website. The iframe HTML element can be used to insert content from another source, such as an advertisement, into a web page.
 
-PathFactory uses iframes to serve content inside Content Tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
+PathFactory uses iframes to serve content inside content tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
 
 - [About iFrame Blocking](https://nook.pathfactory.com/nook/s/article/about-iframe-blocking)
