@@ -423,19 +423,16 @@ You are able to change the appearance of the following components of a content t
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
 
-## Language Configuration
+## PathFactory Localization
 
-The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within Content Tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
+The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within content tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
 
 ### Create a New Language Config
-
-There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. 
 
 1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
 1. Click the `Add Language` button in the top right or in the left sidebar under the other language configurations.
 1. Select the language from the drop down menu.
-1. Create a Google or Word doc and copy/paste the text to translate from each promoter (Bottom Bar, Card, Content Types, etc.). Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign).
-1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling) to submit your doc for translations.
+1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling/#pathfactory) to submit your CSV for translations. Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign). 
 
 ## PathFactory Tracking
 
