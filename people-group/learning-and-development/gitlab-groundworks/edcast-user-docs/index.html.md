@@ -32,21 +32,48 @@ EdCst first time logn Steps:
 ### Getting familiar with the platform
 
 
-### Finding support within the platform
+### Using the top navigation bar
 
-You'll find resources for support in the platform in the top navigation bar. 
+The top navigation bar is helpful for users to navigate the EdCast platform. There are many resources you can access from any page using this top navigation.
 
 <img src="top-nav-bar.png" alt="EdCast Top Navigation Bar">
 
-This navgation bar links to the following resourcesh:
+#### My Learning Plan
+
+In your learning planm you can see
+
+- courses assigned to you
+- courses you've enrolled in or followed
+
+#### EdCast Support Resources
+
+This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
 1. EdCast Trainings on this page
+1. [GitLab Handbook](https://about.gitlab.com/handbook/)
+
+#### Search bar
+
+Use the search bar to find new content and other learner profiles in the LXP.
+
+#### Skillcoins
+
+#### Notification
+
+View notifications to see when new content is assigned to you, when users have commented on something you follow, and more.
+
+#### Your Profile
+
+The top navigation can help you get to your [EdCast profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
+
 
 ### Setting up your profile page
 
 ### Finding new learning content
+
+
 
 
 
