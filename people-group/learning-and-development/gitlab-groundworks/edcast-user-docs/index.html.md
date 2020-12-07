@@ -31,6 +31,8 @@ EdCst first time logn Steps:
 1. Click `Next Step`
 1. At this point, you will be dropped into the EdCast platform on the Discover page, and can begin to explore GitLab learning content! 
 
+
+
 ### Getting familiar with the platform
 
 [Add platform video tour here]
@@ -44,6 +46,7 @@ When you first log into the EdCast platform, you'll arrive on the Discover page.
 - provide quick access to your learning path and content you've started
 - explore new groups and channels to discover content you might be interested in
 - highlight initiatives from the GitLab L&D team and other content creators
+
 
 
 
@@ -82,6 +85,7 @@ View notifications to see when new content is assigned to you, when users have c
 Access your [EdCast profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
 
 
+
 ### Setting up your profile page
 
 You can edit and customize your profile page from within the EdCast platform using the following steps.
@@ -99,6 +103,28 @@ You can edit and customize your profile page from within the EdCast platform usi
      - Profile and banner image
      - Job title
 1. You alos have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab.
+
+
+### Understanding content in the LXP
+
+Learning material is built and organized in the LXP to help you as a learner follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [EdCast contribution page](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute)
+
+| EdCast Content | Purpose | Example |
+| ----- | ----- | ----- |
+| Journey | A collection of learning pathways | The Field Enablement team uses a journey to organize all content in the field certification. |
+| Pathway | A single learning pathway | In the DIB certification, one required piece includes the reivew of a YouTube Video, reading 1 handbook page, and answering a short quiz. All 3 steps are contained in one pathway |
+| Smartcard | A single unit of learning content | One video, a 5 minute handbook read, a poll, and more. These are the basic units of learning content in the LXP and are used to build pathways and journeys |
+
+In addition, learing content and users are organized in the LXP to help you discover new learning materla and follow learners interested in similar topics. EdCast uses the following strucutres to organize content and users.
+
+| EdCast Content | Purpose | Example |
+| Carousel | Carousels are horizontal containers of related channels or content assets.
+ | On the Discover page, you might see a carousel of featured DevOps pathways and smartcards |
+| Channel | Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcast to learners throughout the LXP. Channels can be customizable based on the vision of the learners using the LXP. 
+ | A series of SmartCards, Pathways, and Journeys on Agile Project Management
+|
+| Group | Organize learners with a common job title, team, or interest | A group is organized for all GitLab team members to access the correct anti-harassment course | 
+
 
 
 ### Finding new learning content
