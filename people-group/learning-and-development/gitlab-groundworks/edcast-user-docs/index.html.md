@@ -3,34 +3,48 @@ layout: handbook-page-toc
 title: EdCast User Documentation
 ---
 
-
-GitLab uses [EdCast](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/) as a learning experience platform to create engaging learning opportunities. 
-
-The following resources can be used by learners in the EdCast platform to help navigate the login process, explore new content, and more.
+The following resources can be used by learners in the [EdCast](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/) platform to help navigate the login process, explore new content, and more.
 
 ## EdCast User Documentation
+
+### Have additional questions about EdCast?
+
+If you can't find the answer to your question below or you need additional support, please reach out to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W).
 
 
 ### First time login to the EdCast platform
 
-When you first log into the LXP, a series of questions will lead you through your account setup. It's important to answer these questions, as the platform will use your answers to suggest new learning content based on your interests and expertice.
+When you first login to the EdCast LXP, you'll be prompted through your account setup. The platform uses your answers to suggest new learning content based on your interests and expertice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 EdCst first time logn Steps:
 
-1. GitLab team members will choose `LogIn with SSO option`
+1. GitLab team members should choose `LogIn with SSO option`
 1. Enter your first and last name
-1. Upload a profile photo. This step is optional at this phase of the sign on process and can be added and edited from within the platform at a later date.
+1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
 1. Add up to 5 learning goals to your profile. Use the search bar to locate learning goals in the platform. These learning goals can be about any topic you are interested in learning about. Some examples could be `product marketing`, `technical writing`, or `leadership`
-1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This idnciates that the goal you've entered does not yet exist in the EdCast database. In this case, consider using a different learning goal or phrase.
+1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This idnciates that the goal you've entered does not yet exist in the EdCast database. In this case, consider using a different learning goal or phrase
 1. Click `Next Step`
-1. Add skills to your profile. These skills should be areas that you are already an expert in. There is an option to skip this step if preferred.
+1. Add skills to your profile. These skills should be areas that you are already an expert in. There is an option to skip this step if preferred
 1. Click `Next Step`
 1. At this point, you will be dropped into the EdCast platform on the Discover page, and can begin to explore GitLab learning content! 
 
 ### Getting familiar with the platform
+
+[Add platform video tour here]
+
+
+#### Navigating the Discover Page
+
+When you first log into the EdCast platform, you'll arrive on the Discover page. This page is aimed to:
+
+- introduce you to trending topic among other GitLab learners
+- provide quick access to your learning path and content you've started
+- explore new groups and channels to discover content you might be interested in
+- highlight initiatives from the GitLab L&D team and other content creators
+
 
 
 ### Using the top navigation bar
@@ -52,12 +66,12 @@ This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
-1. EdCast Trainings on this page
 1. [GitLab Handbook](https://about.gitlab.com/handbook/)
+1. EdCast Trainings on this page
 
 #### Search bar
 
-Use the search bar to find new content and other learner profiles in the LXP.
+Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#finding-new-learning-content) are outlined below.
 
 #### Notification
 
@@ -65,7 +79,7 @@ View notifications to see when new content is assigned to you, when users have c
 
 #### Your Profile
 
-The top navigation can help you get to your [EdCast profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
+Access your [EdCast profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
 
 
 ### Setting up your profile page
@@ -86,15 +100,6 @@ You can edit and customize your profile page from within the EdCast platform usi
      - Job title
 1. You alos have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab.
 
-### Navigating the Discover Page
-
-When you first log into the EdCast platform, you'll arrive on the Discover page. This page is aimed to:
-
-- introduce you to trending topic among other GitLab learners
-- provide quick access to your learning path and content you've started
-- explore new groups and channels to discover content you might be interested in
-- highlight initiatives from the GitLab L&D team and other content creators
-
 
 ### Finding new learning content
 
@@ -104,7 +109,10 @@ There are 2 ways to search EdCast for new learning content.
 
 1. Use the `More` option in the top navigation bar. This waffle icon will allow you to sort through EdCast content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute)
 
+
 ### Accessing a learning journey, pathway, and smartcard
+
+[Add video walkthrough here]
 
 
 
@@ -128,7 +136,6 @@ In addition to GitLab learning material stored in the handbook, GitLab team memb
 The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/contribute/).
 
 ### How often should I access the LXP?
-
 
 
 
