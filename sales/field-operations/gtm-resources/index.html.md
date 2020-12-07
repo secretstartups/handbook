@@ -207,14 +207,14 @@ This field inherits data from other fields in the following priority: 1. Admin M
 1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `QR-Approved to move` on the  `Account Reassignment Status` field. Approved accounts can be tracked in the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
 2. **Sales Operations Quarterly Account Review Process**
 
-     a. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).  Opportunities Stages 4 and above will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
-     b. **Holdover Accounts/Opportunities** that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
-     c. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
-     d. Accounts that would move segment or region must be approved by Sales Operations based on TAM and quota prior to a quarterly move. If the move will negatively affect TAM or quota it will be moved during the annual review process.
+    a. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).  Opportunities Stages 4 and above will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+    b. **Holdover Accounts/Opportunities** that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+    c. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
+    d. Accounts that would move segment or region must be approved by Sales Operations based on TAM and quota prior to a quarterly move. If the move will negatively affect TAM or quota it will be moved during the annual review process.
 
 3. **Annual Review Process**
 
-     a. Accounts will still be reviewed annually that need to be moved across segments as part of the annual territory carving process. The process may also happen pro-actively mid-year if the operations team feels that there are too many accounts that are misaligned and would affect quota significantly.
+    a. Accounts will still be reviewed annually that need to be moved across segments as part of the annual territory carving process. The process may also happen pro-actively mid-year if the operations team feels that there are too many accounts that are misaligned and would affect quota significantly.
 
 **Understanding Account Assignment, Rules and Definitions**
 
@@ -228,7 +228,7 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 5. **Locally Managed:** Defined as an account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Managed Locally` check box on the account.
 
-     a. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
+    a. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
 
 
 6. **Strategic Accounts:** Defined as an account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
@@ -237,15 +237,15 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 8. **Stand-alone Child Account:** Defined as an account that clearly has their own buying authority and purchasing process.
 
-     a. **Private Equity or Holding Company - Child Accounts:** These accounts will have the `Holding Company` check box marked. These accounts will not be parented but the name of the holding company will be listed in the `Holding Company Name` field.
+    a. **Private Equity or Holding Company - Child Accounts:** These accounts will have the `Holding Company` check box marked. These accounts will not be parented but the name of the holding company will be listed in the `Holding Company Name` field.
 
-     b. **Government Holding Entity - Child Accounts:**
+    b. **Government Holding Entity - Child Accounts:**
 
-         i. AMER: PubSec
+        i. AMER: PubSec
 
-         ii. ROW: ______
+        ii. ROW: ______
 
-     c. **Franchises or Consultants  - Child Accounts:** Defined as an account that____. Franchises do not count towards HQ Total Employee Count
+    c. **Franchises or Consultants  - Child Accounts:** Defined as an account that____. Franchises do not count towards HQ Total Employee Count
 
 9. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
 
