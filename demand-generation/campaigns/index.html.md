@@ -40,7 +40,7 @@ _Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](
 
 **OKRs = Objective + Key Result**
 
-- **Objective:** Meet/Exceed outbound Marketing Qualified Leads ([MQL]((/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria))) generation targets
+- **Objective:** Meet/Exceed outbound Marketing Qualified Leads ([MQL]) (/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria) generation targets
 - **Key Results:**
     - TBD
 
