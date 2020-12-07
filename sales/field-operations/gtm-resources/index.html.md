@@ -920,13 +920,13 @@ After the opportunity has once again met the stage completion criteria, you are 
 To help keep our pipeline clean and ensure that early stage deals are moving through the pipe at the desired velocity, all opportunities in stage `1-Discovery` and `2-Scoping` are governed under the below process
 
 **Timelines:**  Inactivity Warning Day & Auto Closure Day by Segment
-- Large: Day 45/Day 90
-- Mid-Market: Day 21/Day 45
-- SMB: Day 7/Day 15
+- Large: Day 45 / Day 90
+- Mid-Market: Day 21 / Day 45
+- SMB: Day 7 / Day 15
 
 **Definitions**: SFDC actions that constitute an **activity** include: 
 - Stage Progression, 
-- Command Plan Entries, 
+- Command Plan Entries 
 - Next Steps updated 
 
 
