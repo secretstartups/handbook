@@ -20,14 +20,14 @@ The following resources can be used by learners in the EdCast platform to help n
 ### Finding new learning content
 
 
+
+
 ## Frequently asked questions
 
 
 ### When will content in EdCast be available for the entire GitLab team, customers, and community members?
 
-### How often should I access the LXP?
-
-### Is there a limit to the amount of content I can learn on the LXP?
+The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Progress and additional information can be found on the [LXP implementation issue board](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards)
 
 ### Where is the content in the LXP stored?
 
@@ -37,7 +37,16 @@ In addition to GitLab learning material stored in the handbook, GitLab team memb
 
 ### How can I contribute to the LXP?
 
+The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/contribute/).
 
-## Questions about EdCast
+### How often should I access the LXP?
+
+
+
+
+
+## Have additional questions about EdCast?
 
 Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W).
+
+
