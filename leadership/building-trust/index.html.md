@@ -80,7 +80,7 @@ The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/
 
 Use the '#thanks' [Slack channel](/handbook/communication/#say-thanks/) to give recognition to team members in a public setting. Review team accomplishments weekly, monthly, and quarterly. Meet with each team member to review their accomplishments. 
 
-Take a [coaching approach](/handbook/people-group/learning-and-development/career-development/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for [executives](/company/team/structure/#executives) to recognize the team. They should also look for opportunities to recognize the team in front of executives. 
+Take a [coaching approach](/handbook/leadership/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for [executives](/company/team/structure/#executives) to recognize the team. They should also look for opportunities to recognize the team in front of executives. 
 
 **How to apply giving credit to team members:** Managers can set a weekly reminder to review team accomplishments and areas for individual recognition. Scheduling a regular cadence of giving credit will show team members that leaders are playing an active role in their career. 
 
