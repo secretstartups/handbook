@@ -27,11 +27,13 @@ The current coverage includes:
 
 - Full outpatient cover
 - £0 Excess (meaning that employees are fully covered)
-- Extra covers (added to the plan as upgrades)
+- Extra covers (all included)
    - Therapies cover option
    - Mental Health cover option
    - Extra Care option includes hospital at home, cash benefit, oral surgery, chiropody
    - Extra Cancer care option
+
+- **Note:** Optical and dentist cashback option **is not** included.
 
 Please also note that this is a taxable benefit. The underwriting is on a Moratorium basis, meaning that team members will not have cover for treatment of medical problems they may have had in the five years before joining. Please refer to page 14 in the AXA PPP Brochure for more information.
 
