@@ -10,41 +10,41 @@ description: "All roles and permissions have access to reporting functionality i
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## PathFactory analytics
+## PathFactory Analytics
 
 All roles and permissions have access to reporting functionality in PathFactory. Feel free to peruse `Path Analytics` or view insights in the content library and content tracks. If you would like a scheduled report or have a different PathFactory data request, create an issue in the Marketing Operations project. All of the below links lead to PathFactory's knowledgebase, _The Nook_. The Nook requires a separate password from PathFactory but you should use the same email address used to login to PathFactory.
 
 - [Glossary](https://lookbookhq.force.com/nook/s/article/glossary)
 - [Diving into content analytics](https://customer.pathfactory.com/success-series/youtube-3?lx=v-9_uV&search=analytics)
 
-### Target track analytics
+### Target Track Analytics
 
 1. [Analytics for a Specific Target Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-target-track)
 1. [Analytics for All Target Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-target-tracks)
 
-### Recommended track analytics
+### Recommend Track Analytics
 
 1. [Analytics for a Specific Recommend Track](https://lookbookhq.force.com/nook/s/article/analytics-for-a-specific-recommend-track)
 1. [Analytics for All Recommend Tracks](https://lookbookhq.force.com/nook/s/article/analytics-for-all-recommend-tracks)
 
-### Explore page analytics
+### Explore Page Analytics
 
 1. [Explore Page Analytics](https://lookbookhq.force.com/nook/s/article/explore-page-analytics)
 
-### ABM analytics
+### ABM Analytics
 
 1. [Understanding Account Based Analytics](https://lookbookhq.force.com/nook/s/article/understanding-account-based-analytics)
 1. [Understanding Route Analytics](https://lookbookhq.force.com/nook/s/article/understanding-route-analytics)
 
-### Website promoter analytics
+### Website Promoter Analytics
 
 1. [Website Promoter Analytics](https://lookbookhq.force.com/nook/s/article/website-promoter-analytics)
 
-### Defining visitor activities
+### Defining Visitor Activities
 
 1. [Understanding Visitor Activities](https://lookbookhq.force.com/nook/s/article/understanding-visitor-activities)
 
-### Path analytics
+### Path Analytics
 
 1. [Introducing: Path Analytics](https://lookbookhq.force.com/nook/s/article/path-analytics-intro)
 1. [Path Analytics: Overview Dashboard](https://lookbookhq.force.com/nook/s/article/pa-overview)
@@ -56,6 +56,10 @@ All roles and permissions have access to reporting functionality in PathFactory.
 1. [Types of Path Analytics Reports](https://lookbookhq.force.com/nook/s/article/looker-reports)
 1. [Path Analytics Reports FAQ](https://lookbookhq.force.com/nook/s/article/looker-reports-faq)
 
-### Using account-based analytics
+### Using Account-Based Analytics
 
 1. [Using Account Based Analytics](https://lookbookhq.force.com/nook/s/article/account-based-analytics)
+
+## Google Analytics
+
+PathFactory is integrated with our Google Analytics instance via the Google Analytics Tracking ID in PathFactory's `Organization Settings` menu. The integration sends visitor engagement data to Google Analytics. See more info about this integration in the [knowledgebase article](https://nook.pathfactory.com/nook/s/article/google-analytics-pathfactory-integration).
