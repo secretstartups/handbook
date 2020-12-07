@@ -110,7 +110,7 @@ We use **On track**, **Needs attention**, and **At risk** to define the requisit
 
 If the recruiter needs to add an additional week to the issue, please copy and paste the following markdown guide at the very end of the markdown in the issue:
 
-`
+```
 #### <summary>20xx/mo/day</summary>
 
 <table >
@@ -135,7 +135,7 @@ If the recruiter needs to add an additional week to the issue, please copy and p
 		</tr>
 
 </table>
-`
+```
 
 
 ### **Step 6: Interview Stages**
