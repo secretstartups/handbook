@@ -36,6 +36,7 @@ interest, skills, and availability to then figure out specific goals to drive to
 
 General goals of this internship are:
 
+1. Identify and help an open-source project move from a non-GitLab SCM to GitLab
 1. Identify a GitLab-hosted open-source project that would benefit from
   security scanning.
 1. Integrate various GitLab security scanners into the projects CI pipelines.
@@ -134,6 +135,8 @@ during the allotted time. This is the critical piece that
 helps the intern learn, provides GitLab good feedback, and that benefits the
 open source project.
 
+Submit your final list of goals to the section leader for approval. The most effective way to do this is to work with your selected mentor and [create an issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issue).
+
 ### Deliver on the goals
 The majority of the internship should be spent _doing_, rather than talking
 about doing. To that end, for the open source track, a big piece of the
@@ -175,7 +178,7 @@ long internship might look like.
 
 ## How to apply
 
-To apply, please reach out to both David Desanto (@ddesanto) and the mentor for listed below for the open timeslot.
+To apply, please reach out to both David DeSanto (`@david`) and the mentor for listed below for the open time slot.
 
 ## Upcoming Slots
 
