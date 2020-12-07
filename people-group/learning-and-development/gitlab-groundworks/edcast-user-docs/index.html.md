@@ -20,6 +20,8 @@ If you can't find the answer to your question below or you need additional suppo
 
 When you first login to the EdCast LXP, you'll be prompted through your account setup. The platform uses your answers to suggest new learning content based on your interests and expertice.
 
+Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 EdCst first time logn Steps:
