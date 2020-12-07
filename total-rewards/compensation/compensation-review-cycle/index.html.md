@@ -61,20 +61,38 @@ All team members hired on or before October 31st will be eligible to be evaluate
 
 ### Annual Compensation Review Timeline
 
+##### November: 
 1. A member of the Total Rewards team will join the People Business Partner sync on a monthly basis at least one month before Annual Compensation Review begins. 
 1. Benchmarks and Location Factors
   * The Total Rewards team will review all benchmarks and location factors associated with the Compensation Calculator and propose revised inputs to the Compensation Group for approval/implementation.
 1. Performance Factors
    * The Total Rewards team will reach out the managers and People Business Partner to obtain performance factors for each active team member with a hire date on or before October 31st.
-   * Once all performance factors have been reviewed and approved the executive leaders of each group will review the breakdown with the Total Rewards team along with the People Business Partner for their group. TODO: Build in review for each department leader along with indirect managers before executive reviews.
-     * In this breakdown, leaders will be able to analyze all individual performance factors, the distribution of performance factors overall and by department, as well as a gender and ethnicity distribution audit. Total Rewards will outline any concerns based on the aggregated data for the leader and people business partner to review.
    * Remember that this is also a good time to update your team’s position description if it does not reflect the role.
-   * Performance Factors should be confirmed in the assessment tool no later than November 30th.
-1. Using the revised inputs, the Total Rewards team will calculate a minimum market increase for each team member using the exchange rate as of 2020-01-01.
-1. [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
-  * Each division leader is responsible for making sure their group stays within budget. The company has a 6% budget for all Market and Performance increases.
+   * Performance Factors should be confirmed in the assessment tool/BambooHR no later than November 30th.
+
+##### December: 
+1. Once all performance factors have been reviewed and approved the executive leaders of each group will review the breakdown with the Total Rewards team along with the People Business Partner for their group. 
+     * In this breakdown, leaders will be able to analyze all individual performance factors, the distribution of performance factors overall and by department, as well as an [underrepresented group audit](/handbook/total-rewards/compensation/compensation-review-cycle/#underrepresented-group-audit). Total Rewards will outline any concerns based on the aggregated data for the leader and people business partner to review.
+1. Using the revised inputs above, the Total Rewards team will calculate a minimum market increase for each team member to stay at the minimum of the FY22 range using the exchange rate as of 2020-12-01.
+1. Anyone on a formal Performance plan (PEP, PIP) will be excluded from the Annual Compensation review. December 15th is the due date for emailing Total Rewards with PBP in CC about team members on a formal performance plan. 
+1. Anyone who is departing from GitLab, with an end date in until February 1, will be excluded from the Annual review cycle. The People Business Partner will make sure to loop in Total Rewards on any terminations. 
+1. December 15 - December 18: People Business Partners bring any preliminary budgets concerns to Divisional leaders (or department leaders as applicable). 
+
+##### January: 
+1. January 7th - January 22nd: [Manager Review](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review) in Compaas
+  * Each division leader is responsible for making sure their group stays within budget. The company has a [6% budget](/handbook/total-rewards/compensation/compensation-review-cycle/#fy-2022-annual-compensation-review-budget) for all Market (location factor and benchmark) and Performance increases.
   * Managers and indirect managers will review the minimum increase from Total Rewards and then propose an increase based on the performance factor for their team members.
-  * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
+  * Depending on budget constraints, the increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards. 
+1. The People Business Partner team would advise managers to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before Submitting. 
+  * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable). 
+1. January 14th: People Business Partner check on the progress/Budget impact. 
+1. January 15th: Due date for justification approval for increases above 10% up to department head level via notes in Compaas. 
+1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates.
+1. January 20 - January 22nd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group. 
+1. January 22nd - January 27th: For E-Group to review and approve final compensation changes. 
+1. January 27th - February 1st: Total Rewards will present all compensation changes to the Compensation Group for final approval. 
+
+##### February: 
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance.
 1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Letters of adjustment are not necessary for annual compensation review changes.
 
@@ -338,9 +356,26 @@ While some GitLab team-members may not receive an increase due to already being 
 1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
 * ![approver locked](/images/handbook/people-group/11_Compaas.png)
 
-##### Determining an Increase in Compaas
+#### Determining the total increase in Compaas
 
-When you review your team member's card in Compaas, you will see the recommended % increase for [performance factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review), the % increase in [benchmark](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark) (if applicable), and the % increase in [location factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#location-factor) (if applicable). These should be reviewed and used to develop a holistic increase. The recommendation is not to add these together to determine the increase, but use them as a factor in developing what the increase should be. If in doubt please discuss with your manager and/or People Business Partner to ensure a consistent allocation of the budget. 
+When you review your team member's card in Compaas, you will see the recommended % increase for [performance factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review), the % increase in [benchmark](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark) (if applicable), and the % increase in [location factor](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#location-factor) (if applicable). Also, if applicable, there will be a minimum recommended increase to ensure team members end up within their compensation band (Minimum increase by Total Rewards). All the factors should be reviewed and used to develop a holistic increase. We recommend the following steps and best practices:  
+
+1. Managers to take a holistic view: The recommendation is not to add the percentage compensation factors together to determine the increase, rather to use them as an overall factor in developing what the increase should be.
+1. Managers should use the minimum increase of Total Rewards to make sure the team member is within their band. As a manager you can review the Compensation band in the [Compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/). 
+1. Hereafter managers should review the Performance factor ranges recommendations: 
+Developing in role = 0-3% increase
+Performing in role = 3-7% increase
+Exceeding in role = 6-10% increase
+1. Is the recommended minimum increase from Total Rewards within the recommended range of the Performance factor? 
+  * Yes: The total recommended increase would be within the performance factor range. 
+E.g. The minimum increase to stay in range is 6% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 6-7% total increase. 
+  * No, it’s below: We would recommend a total increase within the Performance factor range. 
+E.g. The minimum increase to stay in range is 0% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 3-7% total increase. 
+  * No it’s above: We recommend a total increase which is aligned with the minimum recommended increase of Total Rewards. 
+E.g. The minimum increase to stay in range is 15% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 15% total increase. 
+1. Use placement within the compensation range and previous increases/start date to finalise the increase. 
+1. Important note: Any increase above 10% must come with additional justification and approval by Department Head before January 15th. This should happen in the notes section of Compaas. 
+1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th. 
 
 ###### Examples
 
