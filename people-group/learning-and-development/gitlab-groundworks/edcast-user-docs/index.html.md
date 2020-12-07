@@ -31,6 +31,19 @@ EdCst first time logn Steps:
 
 ### Getting familiar with the platform
 
+
+### Finding support within the platform
+
+You'll find resources for support in the platform in the top navigation bar. 
+
+<img src="top-nav-bar.png" alt="EdCast Top Navigation Bar">
+
+This navgation bar links to the following resourcesh:
+
+1. [GitLab Docs](https://docs.gitlab.com/)
+1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
+1. EdCast Trainings on this page
+
 ### Setting up your profile page
 
 ### Finding new learning content
