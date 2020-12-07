@@ -98,10 +98,11 @@ To optimize productivity, GitLab field team members must be able to consistently
 
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
+| Qualification Best Practices | - [Figuring out if you truly have an opportunity](https://youtu.be/S2MpIS18noM) (Dec 2020, 25 minutes)|
 | What are the critical skills and behaviors needed to succeed in a field role at GitLab? | - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/) |
 | What is social selling? | - [Social Selling Handbook page](/handbook/sales/training/social-selling/)<br>- [Social Selling Basics presentation](https://docs.google.com/presentation/d/1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A/edit?usp=sharing) |
 | How do I find out what version of GitLab my customers are using? <br> How do I find organizations in my patch using GitLab CE? | - [Version.GitLab.Com Walk-Through](https://www.youtube.com/watch?v=lBWwlbd1J5k) (Jul 2019, 8.5 minutes) |
-| What does a good discovery call look like? | - [Anatomy of a Successful Discovery Call](https://youtu.be/maai4tuDtoM) video (Jul 2019, 21 minutes) |
+| What does a good discovery call look like? | - [Anatomy of a Successful Discovery Call](https://youtu.be/maai4tuDtoM) (Jul 2019, 21 minutes) |
 | How do I lead with insights? | - [Pipeline Creation - Leading with Insights](https://www.youtube.com/watch?v=fNiGq5uOxgo) (Nov 2019, 10 minutes) |
 | How can I successfully engage with Channel Partners? | - [Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U) (Jul 2020, 30 minutes) <br> - [Maximizing Value of Partners in a Deal](https://youtu.be/ndrNX8fIIqs) (Nov 2020, 30 minutes |
 | How can I accelerate my pipeline with AWS? | - [Accelerating Your Pipeline with AWS for GitLab Sellers](https://youtu.be/iPDPtOUuNls) (Sep 2020, 30 minutes) |
