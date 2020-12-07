@@ -3,9 +3,13 @@ layout: handbook-page-toc
 title: EdCast User Documentation
 ---
 
-The following resources can be used by learners in the [EdCast](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/) platform to help navigate the login process, explore new content, and more.
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
-## EdCast User Documentation
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The following resources can be used by learners in the [EdCast](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/) platform to help navigate the login process, explore new content, and more.
 
 ### Have additional questions about EdCast?
 
