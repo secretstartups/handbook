@@ -150,6 +150,7 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
+| [December 2020: 2020-12-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-12-07) | NEW ⚡️ GitLab Field Flash: December Edition ⚡️ | Gartner Market Guide, Strategic Marketing Asset Inventory, GitLab AnswerBase, Field Certification |
 | [November 2020: 2020-11-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-11-02) | NEW ⚡️ GitLab Field Flash: November Edition ⚡️ | Developer-Led Landscape, New ABM Lists, Partner Deal Registration System, Updated Competitor Comparison Charts |
 | [October 2020: 2020-10-08](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-10-08) | NEW ⚡️ GitLab Field Flash: October Edition ⚡️ | Q3 Cannonball Run, ROI Calculators, APAC Momentum, Public Competitive Resources |
 | [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |
