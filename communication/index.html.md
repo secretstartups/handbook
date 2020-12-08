@@ -962,7 +962,7 @@ Consider using Slack's **[Starred channel](https://slack.com/help/articles/20133
 
 An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with **[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)** to visibly raise or lower their priority level, giving you control over what you see first.
 
-1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`.)
+1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
 2. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`)
 3. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
 
