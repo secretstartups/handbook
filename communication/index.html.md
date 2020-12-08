@@ -398,7 +398,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 ## Social Call
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
 
-These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood which team members need not be a part of to join in.
+These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
 
 Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.
 
@@ -954,7 +954,7 @@ Earlier in our history, 50% of all communication *was* in public channels.
 
 Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
 
-While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing slack channels, consider blocking a set period of time to review channels that makes the most sense for you (i.e. multiple times a day, daily, weekly, etc). 
+While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly). 
 
 #### Organizing your Slack sidebar by priority
 
