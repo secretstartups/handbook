@@ -20,11 +20,17 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 ## Meet the Team
 
-- Claudia Beer, Manager - Oversees business partners
-- Beth Peterson, Senior - SDR business partner
-- Amy Waller, Senior - Campaign business partner
-- Sarah Daily, Senior - Content business partner
-- Jameson Burton, Associate
+- Claudia Beer - Manager, Marketing Operations
+- Beth Peterson - Senior Marketing Operations Manager
+- Amy Waller - Senior Marketing Operations Manager
+- Sarah Daily - Senior Marketing Operations Manager
+- Jameson Burton - Marketing Operations Associate
+
+### Business Partners
+
+- SDRs - Beth Peterson
+- Campaigns - Amy Waller
+- Content - Sarah Daily
 
 ## Teams We Work Closely With
 
@@ -43,67 +49,9 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
   </div>
 
-## Important Resources
+## How to Communicate with Us
 
-- [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
-- [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
-
-## [List Imports](/handbook/marketing/marketing-operations/list-import)
-
-## Tech Stack
-
-For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company.
-
-The main tools used by Marketing and integrated with Salesforce are:
-
-- [Marketo](/handbook/marketing/marketing-operations/marketo)
-- [Outreach.io](/handbook/marketing/marketing-operations/outreach)
-- [Drift](/handbook/marketing/marketing-operations/drift)
-- [LeanData](/handbook/marketing/marketing-operations/leandata)
-- [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
-- [Sigstr](/handbook/marketing/marketing-operations/sigstr)
-- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
-- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
-- LinkedIn Sales Navigator
-- [Bizible](/handbook/marketing/marketing-operations/bizible/)
-
-Other tools directly used by Marketing and maintained by Marketing Operations:
-
-- [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
-- [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
-- Disqus
-- Eventbrite
-- Figma
-- Frame.io
-- Google Adwords
-- Google Analytics
-- Google Search Console
-- Google Tag Manager
-- Hotjar
-- Keyhole
-- [Litmus](/handbook/marketing/marketing-operations/litmus)
-- MailChimp
-- Rev
-- Screaming Frog
-- SEMrush
-- [Smartling](/handbook/marketing/marketing-operations/smartling)
-- Sprout Social
-- Swiftype
-- Survey Monkey
-- Tweetdeck
-- [YouTube](/handbook/marketing/marketing-operations/youtube/)
-- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
-- [Zapier](/handbook/marketing/marketing-operations/zapier/)
-
-### Requesting access to an existing tool
-
-To request access to an existing tool in the stack, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
-
-If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
-
-### Requesting a new tool
-
-If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
+1. Slack - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. 
 
 ## How We Work
 
@@ -171,11 +119,11 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `SDR-HB Update` | `hbupdate-sdr` |
 | `ABM-HB Update` | `hbupdate-abm` |
 
-## Marketing Ops Calendar
+### Marketing Ops Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_c_u3gaaimqhrc3d753nbol3houkg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Operations Work Cadence
+### Milestones
 
 The MktgOps team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
@@ -183,11 +131,11 @@ The MktgOps team will only create a milestone one beyond the current iteration, 
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
-## Focus Fridays
+### Focus Fridays
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to Focus Fridays. Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. Thanks!
 
-## Office Hours
+### Office Hours
 
 Marketing Operations has weekly office hours on each Tuesdays. The team will be available for 30 min to answer any quick and easy tool related questions. We are alternating between 9am PST and Noon PST. Meaning every other Tuesday we will either have a morning or noon session, but not both. The office hour is for quick and easy questions, and it is not meant for issue related questions.
 
@@ -196,6 +144,68 @@ See the [Marketing Operations Office Hour Calendar](https://calendar.google.com/
 ### Operational Timeline of Changes
 
 Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
+
+## Important Resources
+
+- [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
+- [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
+
+## [List Imports](/handbook/marketing/marketing-operations/list-import)
+
+## Tech Stack
+
+For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company.
+
+The main tools used by Marketing and integrated with Salesforce are:
+
+- [Marketo](/handbook/marketing/marketing-operations/marketo)
+- [Outreach.io](/handbook/marketing/marketing-operations/outreach)
+- [Drift](/handbook/marketing/marketing-operations/drift)
+- [LeanData](/handbook/marketing/marketing-operations/leandata)
+- [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
+- [Sigstr](/handbook/marketing/marketing-operations/sigstr)
+- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
+- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
+- LinkedIn Sales Navigator
+- [Bizible](/handbook/marketing/marketing-operations/bizible/)
+
+Other tools directly used by Marketing and maintained by Marketing Operations:
+
+- [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
+- [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
+- Disqus
+- Eventbrite
+- Figma
+- Frame.io
+- Google Adwords
+- Google Analytics
+- Google Search Console
+- Google Tag Manager
+- Hotjar
+- Keyhole
+- [Litmus](/handbook/marketing/marketing-operations/litmus)
+- MailChimp
+- Rev
+- Screaming Frog
+- SEMrush
+- [Smartling](/handbook/marketing/marketing-operations/smartling)
+- Sprout Social
+- Swiftype
+- Survey Monkey
+- Tweetdeck
+- [YouTube](/handbook/marketing/marketing-operations/youtube/)
+- [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Zapier](/handbook/marketing/marketing-operations/zapier/)
+
+### Requesting access to an existing tool
+
+To request access to an existing tool in the stack, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
+
+If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
+
+### Requesting a new tool
+
+If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
 ## Marketing Expense Tracking
 
