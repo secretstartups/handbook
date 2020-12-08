@@ -22,15 +22,24 @@ SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021.
 More details coming soon!
 
 ## High-level SKO 2021 Agenda 
-Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. Below is a high-level agenda: 
+Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
 
+### AMER/EMEA Time Zone
 *  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
 *  Mon, 2021-02-08: Keynotes, Q&As
 *  Tue, 2021-02-09: Keynotes, Q&As
 *  Wed, 2021-02-10: Awards ceremony, role-based breakout sessions, Partner Summit
 *  Thu, 2021-02-11: Role-based breakout sessions
 *  Fri, 2021-02-12: Role-based breakout sessions, regional team building
-All subject to change. 
+
+### APAC Time Zone (Based on AEDT)
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
+*  Tue, 2021-02-09: Keynotes, Q&As
+*  Wed, 2021-02-10: Keynotes, Q&As
+*  Thu, 2021-02-11: Awards ceremony, role-based breakout sessions, Partner Summit
+*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
+
+** Note that agenda details are subject to change. 
 
 ## SKO 2021 Tickets 
 You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration in January 2021. 
