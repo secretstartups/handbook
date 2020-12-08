@@ -177,7 +177,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-11-30 | 2020-12-04 | [Kevin Chu](https://gitlab.com/kbychu) - Group Product Manager, Release, Configure, Monitor | [Lis Vinueza](https://gitlab.com/lisvinueza) - Business Systems Analyst |
 | 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Kevin Chu](https://gitlab.com/kbychu) - Group Product Manager, Release, Configure, Monitor |
 | 2021-01-04 | 2021-01-08 | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
 | 2021-01-11 | 2021-01-15 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement |
@@ -914,3 +913,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-10-26 | 2020-11-06 | [David Fisher](https://gitlab.com/dfishis1) | Acceleration SDR |  |
 | 2020-11-06 | 2020-11-13 | [Fernando Diaz](https://gitlab.com/fjdiaz) | Technical Marketing Manager | [4 Things I've Learned as a CEO Shadow](https://awkwardferny.medium.com/4-things-ive-learned-as-a-ceo-shadow-gitlab-3dc0604f24cd) |
 | 2020-11-09 | 2020-11-20 | [Dan Parry](https://gitlab.com/dparry) | Mid-Market Account Executive |
+| 2020-11-16 | 2020-12-04 | [Lis Vinueza](https://gitlab.com/lisvinueza) | Business Systems Analyst |
