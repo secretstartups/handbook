@@ -72,9 +72,13 @@ A: Please stay tuned for more information on our virtual event platform!
 
 A: The SKO core team will reach out via email with registration links and update this page with registration details once they are available.  
 
-**Q: How are we accommodating different timezones?**
+**Q: How are we accommodating different time zones?**
 
-A: We will have live and interactive sessions for all timezones. All sessions will be recorded and available for team members on-demand after the event.
+A: We will have live and interactive sessions for all time zones. All sessions will be recorded and available for team members on-demand after the event.
+
+**Q: Which time zone should I attend?**
+
+A: You will be added to the registration for the time zone that coordinates with the country where you are based – AMER/EMEA or APAC. If you'd like to view the Save the Date invites for the alternate time zone, you can do so on the [Field Enablement Calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV81bjNnNjBsNTh0aHVtOWFvdnA4aWlzYXYzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (navigate to the week of February 8, 2021).
 
 **Q: Will there be any pre-work?**
 
@@ -86,7 +90,7 @@ A: SKO is a great opportunity for our team to come together to both celebrate ou
 
 **Q: I just got hired – how do I attend SKO?**
 
-A: All new hires after Oct 21 will have 2 weeks from their start date to register and book travel. This info will be included in all new hire welcome packets if they are expected to attend.
+A: All new hires after TBD date will have 2 weeks from their start date to register and book travel. This info will be included in all new hire welcome packets if they are expected to attend.
 
 **Q: How will we make SKO 2021 exciting even though it's virtual?**
 
