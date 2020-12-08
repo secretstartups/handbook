@@ -55,7 +55,7 @@ Employee referrals are made through issues based on details mentioned [here](/ha
     * Input the number of openings to be hired for this role.
     * Under "Employment Type", select if the vacancy is a full-time, part-time, intern, or contract role.
     * Under "Salary"
-        * For roles in the [Compensation Calculator Tool](/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](/handbook/people-operations/global-compensation/#exchange-rate)
+        * For roles in the [Compensation Calculator Tool](/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](/handbook/total-rewards/compensation/#exchange-rates)
         * For roles not in the compensation calculator (Sales/Director/Exec): Leave blank if not known. The People Operations Analyst will edit as the first level of approval. People Ops Analysts will pull survey data in San Francisco for this role then apply the same formula for 0.25 on the low end and 0.8 on the high end.
     * If the vacancy is eligible for a bonus, input the range of the bonus amount under the "Bonus" field. If there are no bonuses associated with this vacancy, then the field is to be left blank.
     * If this vacancy is eligible for stock options, input the range of offered stock options under the "Options" field.
