@@ -4,19 +4,21 @@ title: "Marketing Operations"
 description: "Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well."
 ---
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## **Charter**
+## Charter
 
 Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well. MktgOps works closely with Sales Operations (SalesOps) to ensure information between systems is seamless, data is as accurate as possible and terminology is consistent in respective systems. Not only are we assisting with marketing operations but we are also involved in the operations of marketing, such as the budget and strategies.
 
 Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
 
-## **Meet the Team**
+## Meet the Team
 
 - Claudia Beer, Manager - Oversees business partners
 - Beth Peterson, Senior - SDR business partner
@@ -24,7 +26,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Sarah Daily, Senior - Content business partner
 - Jameson Burton, Associate
 
-## **Teams We Work Closely With** 
+## Teams We Work Closely With
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
@@ -41,14 +43,14 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
   </div>
 
-## **Important Resources**
+## Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
 - [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
 
 ## [List Imports](/handbook/marketing/marketing-operations/list-import)
 
-## **Tech Stack**
+## Tech Stack
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company.
 
@@ -71,6 +73,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
 - Disqus
 - Eventbrite
+- Figma
 - Frame.io
 - Google Adwords
 - Google Analytics
@@ -80,7 +83,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
-- Rev.com
+- Rev
 - Screaming Frog
 - SEMrush
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
@@ -92,19 +95,19 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 - [Zapier](/handbook/marketing/marketing-operations/zapier/)
 
-### **Requesting access to an existing tool**
+### Requesting access to an existing tool
 
 To request access to an existing tool in the stack, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
 
-### **Requesting a new tool**
+### Requesting a new tool
 
 If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
-## **Working with Marketing Operations**
+## How We Work
 
-### **Our Motto: If it isn't an Issue, it isn't OUR issue.**
+### Our Motto: If it isn't an Issue, it isn't OUR issue.
 
 ### **Use of Issues**
 
@@ -120,11 +123,11 @@ MktgOps uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/board
 
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
-### **Use of Epics**
+### Use of Epics
 
 In order to categorize various related issues, we will make use of epics to help a team member organize our work, especially if it crosses multiple milestones. If it is a MktgOps epic, we will add the `In Epic` label to it, so that we can easily see that it is part of an epic on our kanban board.
 
-### **Labeling**
+### Labeling
 
 We use labels for several purposes. One is to categorize the tool or area that is affected. Another is to show priority. And lastly, we may use them to identify the stage they are in, either before or after being put into a milestone/iteration. We generally use the stage labels for our kanban Columns.
 
@@ -161,7 +164,6 @@ _In Milestone_
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
-
 | Label you add | Slack channel the merged MR pushes to  |
 | ------ | ------ |
 | `MktgOps-HB Update` | `hbupdate-mktgops` |
@@ -169,11 +171,11 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `SDR-HB Update` | `hbupdate-sdr` |
 | `ABM-HB Update` | `hbupdate-abm` |
 
-## **Marketing Ops Calendar**
+## Marketing Ops Calendar
 
 <iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_c_u3gaaimqhrc3d753nbol3houkg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## **Operations Work Cadence**
+## Operations Work Cadence
 
 The MktgOps team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
@@ -181,21 +183,21 @@ The MktgOps team will only create a milestone one beyond the current iteration, 
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
-## **Focus Fridays**
+## Focus Fridays
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to Focus Fridays. Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. Thanks!
 
-## **Office Hours**
+## Office Hours
 
 Marketing Operations has weekly office hours on each Tuesdays. The team will be available for 30 min to answer any quick and easy tool related questions. We are alternating between 9am PST and Noon PST. Meaning every other Tuesday we will either have a morning or noon session, but not both. The office hour is for quick and easy questions, and it is not meant for issue related questions.
 
 See the [Marketing Operations Office Hour Calendar](https://calendar.google.com/calendar/u/0?cid=Y19yOTcxcGRvM2xtamVxMTZuYWEyZnB2cDVrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for more details on the alternating times and meeting links.
 
-### **Operational Timeline of Changes**
+### Operational Timeline of Changes
 
 Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
 
-## **Marketing Expense Tracking**
+## Marketing Expense Tracking
 
 | GL Code | Account Name | Purpose |
 | ------- | ------------ | ------- |
@@ -209,27 +211,27 @@ Periodically Marketing Operations makes significant changes to our system and pr
 | 6150 | Brand | All PR, AR, content, swag and branding costs |
 | 6160 | Prospecting | Not used - All costs related to prospecting efforts |
 
-### **Invoice Approval**
+### Invoice Approval
 
 Marketing Operations approves any invoices that have not already been coded and approved through a Finance issue or that exceed the original cost estimate. We make use of Tipalti for this process. Team leads will confirm that services were performed or products were received also through Tipalti. Campaign tags are used to track costs related to events and campaigns.
 
-## **Lead Scoring, Lead Lifecycle, and MQL Criteria**
+## Lead Scoring, Lead Lifecycle, and MQL Criteria
 
 A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The `Person Score` is comprised of various actions and/or profile data that are weighted with positive or negative point values. `Person Score` is one of the indicators used by LeanData to determine whether a lead needs to be assigned. Details about this process can be found on the [LeanData page](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow). 
 
-## **Campaigns and Programs**
+## Campaigns and Programs
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaigns aligns our efforts across Marketing, Sales and Finance.
 
 Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) to view all of the campaign types, their progression statuses and cost tracking. That page also includes directions for set up in Marketo and Salesforce.
 
-## **Email Management**
+## Email Management
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.
 
 Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Campaign Managers. To request an email of any kind, please see the [instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture/#ad-hoc-one-time-emails---requesting-an-email) in the revenue marketing section of the handbook.
 
-### **Email Communication Policy**
+### Email Communication Policy
 
 Please [visit the legal page](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) to view all of the Marketing Rules and Consent Language.
 
@@ -243,7 +245,7 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 
 In Marketo, we have communication limits set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. This does not include `operational` emails. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold.
 
-### **Types of Email**
+### Types of Email
 
 **Breaking Change Emails**
 These are transactional emails, almost always to our user base, that provide very selective needed information. This is an`operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
@@ -261,7 +263,7 @@ Invitation and/or notification emails sent about future webcasts.
 **Live Events**
 Invitation emails to attend a live event, meet-up, or in-person training. These emails are sent to a geo-locational subset of the overall segment. This type of email is also used when we are attending a conference and want to make people aware of any booth or event we may be holding and/or sponsoring.
 
-## **Website Form Management**
+## Website Form Management
 
 The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md).
 
@@ -289,7 +291,7 @@ dataLayer.push(
 });
 ```
 
-## **Initial Source**
+## Initial Source
 
 `Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#ktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
 
@@ -360,7 +362,7 @@ Status in the table below means:
 | Webinar | virtual event |  | Active |
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
 
-## **Lead and Contact Statuses**
+## Lead and Contact Statuses
 
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
 
