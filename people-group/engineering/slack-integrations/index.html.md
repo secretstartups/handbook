@@ -79,11 +79,18 @@ people need to be offboarded, it will post a message saying so with a link to th
 Google Sheet. This is posted to the private Slack channel `people_exp_ops` with no
 personal information in the message.
 
-### Onboarding survey
+### Employment survey
 
-Onboarding survey: whenever a team member fills in the onboarding survey, the form entrance
-is put into a slack message to the private Slack channel `onboarding-survey`. This way the
+ 
+Whenever a team member fills in on of the following surveys, the form entrance
+is put into a slack message to the private Slack channel `employment-survey`. This way the
 People Experience team can discuss and take action.
+- Onboarding Survey
+- Values Check-In
+- Career Mobility Value Check-In
+- Career Mobility Satisfactory Survey
+
+
 
 ### Nominator
 
