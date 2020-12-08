@@ -15,7 +15,7 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 {:toc .hidden-md .hidden-lg}
 
 ## Other related pages
-- [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
+- [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements) 
 - [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/inbound-marketing/content/editorial-team/)
@@ -684,7 +684,9 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **Content marketing:** Examples, education, reporting, storytelling, thought leadership, and use cases.
 1. **Corporate:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
 1. **Product:** Release posts, critical updates, and partnership announcements.
-1. **dev-evangelism:** Blog posts authored by members of the Developer Evangelism team
+1. **dev-evangelism:** Blog posts authored by members of the [Developer Evangelism](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/) team.
+1. **Product Marketing:** Blog posts authored by members of the [Product Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/pmmteam/) team.
+1. **Technical Marketing:** Blog posts authored by members of the [Technical Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/technical-marketing/) team.
 
 Use the `postType` frontmatter option to set the content definition.
 
