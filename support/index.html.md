@@ -250,7 +250,7 @@ When naming channels, "spt" is meant for internal channels, meaning those that w
 | [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
 | [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Allow other teams to interact with support managers       |
 | [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
-| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)           | Support Manager tactical and coordination discussions              |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Support Manager tactical and coordination discussions     |
 
 #### User Groups
 {: .no_toc}
@@ -292,7 +292,7 @@ Any demos or announcements that need to be shared with the entire team should be
 |  Weekday  |   Region  |      Meeting Name     |                                        Purpose                                      |
 |:---------:|:---------:|:---------------------:|:-----------------------------------------------------------------------------------:|
 |  Tuesday  |    APAC   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
-|  Tuesday  |    AMER   |  Casual Catch up |         Agendaless, a space for the team to banter and chat. If you have work to talk about, feel free.        |
+|  Tuesday  |    AMER   |      Support Call     |  Semi-structured agenda to welcome new members, discuss meta issues, get thoughts on tickets, socialize  |
 | Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone  interested in GitLab.com customers and processes - rotates day/time through regions |
 |  Thursday  |    EMEA   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
 
