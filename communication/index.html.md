@@ -1014,7 +1014,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | Channel | Purpose |
 | ------  | ------ |
 | `#company-fyi` | Official company announcements, [restricted permission levels](#posting-in-company-fyi) to ensure high-signal; all GitLab team members are automatically added to this channel. |
-| `#whats-happening-at-gitlab` | Open to posts from all team members including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
+| `#whats-happening-at-gitlab` | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
 | `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive. |
 | `#expense-reporting-inquiries` | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify). |
 | `#git-help` | Specific questions about using Git in the terminal. |
