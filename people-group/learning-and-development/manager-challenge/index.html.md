@@ -121,7 +121,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
-     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. Each SSOT page for material covered will be linked on this page. The live learning recordings will be on the respective SSOT page (ex. the recording for the Week 3 Coaching live learning will be on the [Coaching page](/handbook/people-group/learning-and-development/career-development/coaching/)). 
+     - If you miss a challenge or live learning session you can go back and complete the challenge anytime. Each SSOT page for material covered will be linked on this page. The live learning recordings will be on the respective SSOT page (ex. the recording for the Week 3 Coaching live learning will be on the [Coaching page](/handbook/leadership/coaching/)). 
 1. **What if I am out of the office for part of the program?**
      - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of the office during the program. 
 1. **I'm not a Manager, can I still participate?**
