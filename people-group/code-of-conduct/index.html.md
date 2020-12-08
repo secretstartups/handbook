@@ -33,7 +33,7 @@ GitLab values and wishes to hold its Team Members to a code of conduct that seek
 
 Collaboration is one of the Company’s core values. It encompasses kindness, respect, positive intent, and fostering a supportive environment among other key beliefs.  Collaboration means that we value people equally, regardless of their seniority level in the Company, race, religion, ethnic background, gender or other personal attributes such as age, physical appearance and so on. People are to be treated with dignity, kindness and common courtesy.
 
-Collaboration also pertains to truthfulness and transparency of motives. By being transparent, we reduce the threshold to contribution and make collaboration easier. We want to be truthful always, but most so when the other party needs to know the truth, regardless of how it may disadvantage us. We wish to be upfront about the motives that drive our goals, strategies and behaviors.
+Collaboration also pertains to truthfulness and transparency of motives. By being transparent, we reduce the threshold to contribution and make collaboration easier. We want to be truthful always, but most so when the other party needs to know the truth, regardless of how it may disadvantage us. We wish to be upfront about the motives that drive our goals, strategies, and behaviors.
 
 ### Results, Efficiency & Iteration
 
