@@ -14,8 +14,8 @@ title: "Career Development in the Infrastructure Department"
 There are a number of tools we use to plot and manage career development:
 
 * Role descriptions, which outline role responsibilities, requirements and nice-tohaves for each level in the role.
-  * [DBRE](/job-families/engineering/database-reliability-engineer/)
-  * [SRE](/job-families/engineering/site-reliability-engineer/)
+  * [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)
+  * [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)
   * [Backend Developer, Delivery](/job-families/engineering/backend-engineer/)
   * [Backend Developer, Infrastructure](/job-families/engineering/backend-engineer/)
 * [Compa Ratios](/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio), which reflects demonstrated ability to drive projects and deliverables from the position description in a quantifiable manner.
@@ -56,7 +56,7 @@ Cross reference for [Internship for Learning](/handbook/people-group/promotions-
 
 There is a reasonable amount of interest to intern with Infrastructure so we wanted to put a brief landing section in the handbook.  If you are interested in interning with Infrastructure, we would ask that you talk to your current manager and create an issue per the mentioned process.  This can help us track who is helping on what and what they would like to learn.  Mention the Reliability Engineering team members and managers to help us know you are interested.  One note, in some cases, you may need to submit access-requests to get access to certain systems to help with work.
 
-Don't know what to learn? Talk with us! We have a broad set of technical skills listed in the [job description for SRE](/job-families/engineering/site-reliability-engineer/) if you are looking for ideas on what to learn.  Set up a coffee chat with a team member or one of the managers.
+Don't know what to learn? Talk with us! We have a broad set of technical skills listed in the [job description for SRE](/job-families/engineering/infrastructure/site-reliability-engineer/) if you are looking for ideas on what to learn.  Set up a coffee chat with a team member or one of the managers.
 If you're interested in learning more about SREs in general, you may wish to read Alice Goldfuss's blog post, "[How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)." This blog post is an overview of all sorts of SRE related things, some of which may not be in use here at GitLab. However, it can be a valuable tool to learn more about SREs in general, and it links to many resources that you can use to learn more about a variety of SRE related topics.
 
 Specific ways to work in the internship:
