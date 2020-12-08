@@ -300,7 +300,7 @@ This phase begins after work has been broken down, and prioritized in Phase 1. W
 
 When an issue is in development the Software Engineer in Test ([SET](https://about.gitlab.com/handbook/engineering/quality/#stable-counterparts)) will ensure the [quad planning](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process) process is being followed regarding test plans, regression jobs, end to end tests, etc. Coordination is key between the assigned development engineer and the SET during this phase.
 
-When an issue is in `workflow::in review`, the Application Security Engineer would help validate the risk mitigations through the non-blocking [application security review process](https://about.gitlab.com/handbook/engineering/security/application-security/appsec-reviews.html). 
+When an issue is in `workflow::in review`, the Application Security Engineer would help validate the risk mitigations through the non-blocking [application security review process](/handbook/engineering/security/application-security/appsec-reviews.html). 
 
 Documentation for the work will be developed by the engineer and the Technical Writer. The Technical Writer should review the documentation as part of the development process. Items discovered during a documentation review should not block issues moving into the next phase. This may drive the creation of follow-on improvement MRs for the documentation, after release.
 
