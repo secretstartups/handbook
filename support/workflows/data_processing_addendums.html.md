@@ -13,7 +13,7 @@ description: "Support Engineering workflow detailing what to do with signed Data
 
 ## Overview
 
-[Data Processing Addendums](https://drive.google.com/file/d/1M490zeSVnlTkjCpMm1KiyjlxoZc4NMKq/view) are available to paid subscribers of GitLab.com. This workflow details what to do with fully executed (signed) DPAs received from customers.
+Data Processing Addendums are available to paid subscribers of GitLab.com through their Sales representatives. This workflow details what to do with fully executed (signed) DPAs received from customers.
 
 ## Workflow
 
