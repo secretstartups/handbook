@@ -216,7 +216,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### CTAs
 
-[Call-to-action (CTA)]((https://nook.pathfactory.com/nook/s/article/using-cta)) buttons encourage further engagement from your visitors within your Content Tracks. CTAs can be added to any Target or Recommend Content Track. These CTA buttons can link to either a form or a URL. 
+[Call-to-action (CTA)](https://nook.pathfactory.com/nook/s/article/using-cta) buttons encourage further engagement from your visitors within your Content Tracks. CTAs can be added to any Target or Recommend Content Track. These CTA buttons can link to either a form or a URL. 
 
 **Create a CTA**
 
