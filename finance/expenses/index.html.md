@@ -79,7 +79,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 
 ### Other
 1. Business cards ordered from Moo as per the [instructions](https://about.gitlab.com/handbook/people-group/frequent-requests/#business-cards) provided by the People Experience team.
-	* Urgent Business cards needed for day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service.
+	*Urgent Business cards needed for day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service.*
 1. Work-related books.
 
 ### Transport/Delivery of free procurements
