@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure, Composition Analysis
+description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Dependency Scanning and License Compliance."
 ---
 
 ## On this page
@@ -12,8 +13,8 @@ title: Secure, Composition Analysis
 ## Composition Analysis
 
 The Composition Analysis group at GitLab is charged with developing solutions which perform
-[Dependency Scanning](((/direction/secure/composition-analysis/dependency-scanning/))),
-and [License Compliance](((/direction/secure/composition-analysis/license-compliance/))).
+[Dependency Scanning](/direction/secure/composition-analysis/dependency-scanning/),
+and [License Compliance](/direction/secure/composition-analysis/license-compliance/).
 See [the exhaustive list of projects](#projects) the group maintains.
 
 ## Common Links
