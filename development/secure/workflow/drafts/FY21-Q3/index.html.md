@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure Workflow
+noindex: true
 ---
 
 ## On this page
