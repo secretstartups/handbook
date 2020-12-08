@@ -142,7 +142,7 @@ If you feel like the customer should be contacted:
         measurements of reopen rate and time to resolution.
 1. When reaching out to the customer, make sure you do the following:
    1. introduce yourself, describing who you are and your role at GitLab
-   1. note the specifics of the situation, including ticket ID
+   1. note the specifics of the situation, including ticket ID - you can include a link using the format `https://support.gitlab.com/hc/requests/<ticket number>`
    1. restate and validate the customer's comments
    1. offer any apologies or clarifications required, including links to relevant documentation
    1. offer your Calendly link to schedule a video call
