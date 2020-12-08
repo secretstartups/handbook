@@ -478,7 +478,7 @@ We strive to hire globally at GitLab, and the Security Department is very much f
 * Wavefront by VMware
 * WeWork
 
-#### Sales -  in addition to Devops Competitors 
+#### Sales -  in addition to [Devops Competitors](/devops-tools/) 
 
 * AppDynamics
 * AWS
