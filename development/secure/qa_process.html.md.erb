@@ -23,7 +23,7 @@ The test projects reside in the Secure [tests subgroup](https://gitlab.com/gitla
 
 If a change to an analyzer changes the report output, then the expected report must change as well.
 
-In `SAST`, `Dependency Scanning`, `Secret Detection` the expected reports are stored with the analyzer in a path corresponding to the test project in a subdirectory for the language/framework. For example, the expected report for scanning the dependencies of `java-maven` is stored in [gemnasium-maven/qa/expect]([qa/expect/java-maven](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven/-/tree/master/qa/expect/java-maven)). This way if an analyzer's behavior changes, the expectation can be changed and packaged in the same commit.
+In `SAST`, `Dependency Scanning`, `Secret Detection` the expected reports are stored with the analyzer in a path corresponding to the test project in a subdirectory for the language/framework. For example, the expected report for scanning the dependencies of `java-maven` is stored in [gemnasium-maven/qa/expect](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven/-/tree/master/qa/expect/java-maven). This way if an analyzer's behavior changes, the expectation can be changed and packaged in the same commit.
 
 For `License Compliance`, expectations are stored in the test project's `qa/expect` directory (e.g. [ruby-bundler/qa/expect](https://gitlab.com/gitlab-org/security-products/tests/ruby-bundler/-/tree/master/qa/expect)).
 
