@@ -332,6 +332,24 @@ In order to help with attribution, we also label each incident with a scoped lab
 | `~Incident::Review-Scheduled` | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
 | `~Incident::Review-Completed` | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
 
+#### Root Cause Labeling
+Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service attribution, improved understanding of Service behavior. Indicating a single root cause is desirable and in cases where there appear to be multiple root causes, indicate the root cause which precipitated the incident.
+
+The EOC, as DRI of the incident, is responsible for determining root cause.
+
+The current Root Cause labels are listed below. In order to support trend awareness these labels are meant to be high-level, not too numerous, and as consistent as possible over time.
+
+   | Root Cause | Description |
+   | ---------- | ----------- |
+   | `~RootCause::Software-Change` | feature or other code change |
+   | `~RootCause::Feature-Flag` | a feature flag toggled in some way (off or on or a new percentage or target was chosen for the feature flag)  |
+   | `~RootCause::Config-Change` | configuration change, other than a feature flag being toggled |
+   | `~RootCause::SPoF` | the failure of a service or component which is an architectural SPoF (Single Point of Failure) |
+   | `~RootCause::Malicious-Traffic` | deliberate malicious activity targeted at GitLab or customers of GitLab (e.g. DDoS) |
+   | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
+   | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
+   | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
+
 #### Required Labeling
 
 These labels are always required on incident issues.
@@ -341,6 +359,7 @@ These labels are always required on incident issues.
 | `~incident` | Label used for metrics tracking and immediate identification of incident issues. |
 | `~Service::*` | Scoped label for service attribution. Used in metrics and error budgeting. |
 | `~Severity::*` | Scoped label for severity assignment. Details on severity selection can be found in the [availability severities](/handbook/engineering/quality/issue-triage/#availability) section. |
+| `~RootCause::*` | Scoped label indicating root cause of the incident. |
 
 #### Optional Labeling
 
@@ -350,7 +369,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | ----- | ------- |
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
-| `~incident-type::deployment related` | Indictes that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
+| `~incident-type::deployment related` | Indicates that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
 | `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
