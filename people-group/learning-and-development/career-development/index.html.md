@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Career Development
+description: "It is the lifelong process of managing learning, work, leisure and transitions in order to move toward a personally determined and evolving preferred future."
 ---
 
 ## On this page
