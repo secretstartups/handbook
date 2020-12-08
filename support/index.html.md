@@ -238,13 +238,19 @@ issue trackers or customer tickets.
 #### Channels
 {: .no_toc}
 
+### spt_ vs. support_ prefix
+
+When naming channels, "spt" is meant for internal channels, meaning those that will be of use to the Support Team mainly. They should be public so others may join if they choose. If a channel has a "support" prefix, it is meant as a public interface where other teams will interact with the Support Team.
+
+
 | Channel                                                                | Purpose                                                   |
 |------------------------------------------------------------------------|-----------------------------------------------------------|
 | [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
 | [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG)     | Discuss GitLab.com tickets and customer issues            |
 | [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
-| [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Discuss matters which require support managers' attention |
+| [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Allow other teams to interact with support managers       |
 | [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)           | Support Manager tactical and coordination discussions              |
 
 #### User Groups
 {: .no_toc}
