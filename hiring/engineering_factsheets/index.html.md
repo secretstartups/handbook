@@ -576,8 +576,8 @@ Anthony Sandoval, Engineering Manager - Reliability Engineering, Secure and Prot
 Jose Finotto, Engineering Manager - Reliability Engineering, Dev and Ops
 **Useful links:**
 [Infrastructure handbook](/handbook/engineering/infrastructure/team/)
-[Site Reliability Engineer job family](/job-families/engineering/site-reliability-engineer/)
-[Database Reliability Engineer job family](/job-families/engineering/database-reliability-engineer/)
+[Site Reliability Engineer job family](/job-families/engineering/infrastructure/site-reliability-engineer/)
+[Database Reliability Engineer job family](/job-families/engineering/infrastructure/database-reliability-engineer/)
 [SRE stable counterparts and areas of ownership](/handbook/engineering/infrastructure/#sre-stable-counterparts-and-areas-of-ownership)
 
 Team vision: We are a blend of operations gearheads and software crafters that apply sound engineering principles, operational discipline and mature automation to make GitLab.com ready for mission-critical customer workloads. We strive for excellence every day by living and breathing GitLab's values as our guiding operating principles in every decision we make and every action we take. 
