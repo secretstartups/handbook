@@ -288,13 +288,6 @@ More details on [GitLab Profiler](http://redash.gitlab.com/dashboard/gitlab-prof
 - [log.gprd.gitlab.net](https://log.gprd.gitlab.net/) has production logs
 - [prometheus.gitlab.com](https://prometheus.gitlab.com/alerts) has alerts for the [production team](/handbook/engineering/infrastructure/#production-team)
 
-### Feature Flags
-
-If you've built feature flags into your code, be sure to read about [how to use the feature flag to test a feature on GitLab.com](https://docs.gitlab.com/ee/development/feature_flags.html).
-
-#### Feature Flag Removal
-
-Once a feature has been thoroughly tested the [feature flag](https://docs.gitlab.com/ee/development/feature_flags/index.html) should be removed. The engineer who implemented the feature flag should ensure that it gets removed.
 
 ## Scheduling Issues
 
