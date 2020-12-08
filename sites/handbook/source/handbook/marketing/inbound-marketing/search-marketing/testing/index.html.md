@@ -110,5 +110,5 @@ Channels we share original update:
 1. `#marketing`
 1. `#sales`
 1. `#ceo`
-1. `#support`
+1. `#support_team-chat`
 1. `#s_growth`
