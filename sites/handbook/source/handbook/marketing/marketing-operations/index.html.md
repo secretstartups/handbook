@@ -102,7 +102,7 @@ The main tools used by Marketing and integrated with Salesforce are:
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Sigstr](/handbook/marketing/marketing-operations/sigstr)
 - [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
-- ZoomInfo
+- [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 - LinkedIn Sales Navigator
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 
@@ -131,6 +131,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - Tweetdeck
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
+- [Zapier](/handbook/marketing/marketing-operations/zapier/)
 
 ### Requesting access to an existing tool
 
