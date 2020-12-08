@@ -82,8 +82,6 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 - Sales Development
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y191M2dhYWltcWhyYzNkNzUzbmJvbDNob3VrZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23C0CA33&amp;color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
@@ -211,6 +209,10 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `FMM-HB Update` | `fieldmarketing-FYI` |
 | `SDR-HB Update` | `hbupdate-sdr` |
 | `ABM-HB Update` | `hbupdate-abm` |
+
+## Marketing Ops Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_c_u3gaaimqhrc3d753nbol3houkg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Operations Work Cadence
 
