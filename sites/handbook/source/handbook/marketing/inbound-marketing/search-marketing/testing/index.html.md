@@ -100,3 +100,15 @@ To enable Google Optimize on any page you add `google_optimize: true` to the fro
 New heatmaps will record data until the page has reached 2,000 pageviews. An Inbound Marketing Manager will ping you when the results are complete (Duration depends on average traffic to the page. Some tests can take up to a month or more.)
 
 **Note:** Every page viewed by a visitor is counted as a single pageview.
+
+### Test launch checklist
+
+When launching a test there are many GitLab team members that the Inbound Marketing team needs to notify. For the best coverage we'll post one message in `#whats-happening-at-gitlab` and then crosspost to the following channels. Please add any additional channels and ping the Search Marketing team in `#search-marketing-team` to make sure we notify everyone who wants to track tests.
+
+Channels we share original update:
+
+1. `#marketing`
+1. `#sales`
+1. `#ceo`
+1. `#support`
+1. `#s_growth`
