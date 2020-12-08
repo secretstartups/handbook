@@ -406,7 +406,10 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and providing a verbal 5-minute warning to the meeting participants so that they can comfortably wrap up the meeting. Don't wait for a break in the conversation, just say 'we have 5 minutes left.' Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._
+Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ The notification can be verbal or non-verbal.
+
+- Verbal (encouraged): Don't wait for a break in the conversation, just say 'we have 5 minutes left'.
+- Non-verbal: If you prefer, you can also ping in the Zoom chat.
 
 Shadows should also notify meeting participants if a meeting is running over the allocated time by saying "we're in overtime".
 
