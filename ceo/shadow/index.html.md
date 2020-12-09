@@ -408,14 +408,13 @@ Tips:
 
 Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left in the allotted block." 
 
-Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. 
-
-_Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ 
-
-- Verbal (encouraged): Don't wait for a break in the conversation, just say 'we have 5 minutes left'.
-- Non-verbal: If you prefer, you can also ping in the Zoom chat.
+Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings).
+While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
+Shadows should provide a 5-minute, 1-minute and overtime warnings.
 
 Shadows should also notify meeting participants if a meeting is running over the allocated time by saying "we're in overtime".
+
+_Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ 
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if not argument is provided).
 
