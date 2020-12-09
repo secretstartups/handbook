@@ -153,6 +153,7 @@ A post on the GitLab blog is used during the Awareness or Consideration stage of
 #### Blog repurpose
 
 A blog can and should be repurposed as a web article/cluster page if the content is evergreen and awareness stage. The blog should also be older than six months and not GitLab-centric. 
+
 **Blog repurpose workflow**
 1. Work with the SEO team to identify existing, older blogs that are the best options for repurposing.
 2. Ensure that the editorial team is aware of the intention and has approved the redirect.
