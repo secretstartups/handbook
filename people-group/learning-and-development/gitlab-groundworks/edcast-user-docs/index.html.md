@@ -112,9 +112,9 @@ You can edit and customize your profile page from within the EdCast platform usi
 
 ### Understanding content in the LXP
 
-[Add video training reviewing different kinds of content and organization in the LXP]
 
-Learning material is built and organized in the LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [EdCast contribution page](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute) and in [this video training](ADD TRAINING LINK)
+
+Learning material is built and organized in the LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [EdCast contribution page](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
 
 | EdCast Content | Purpose | Example |
 | ----- | ----- | ----- |
