@@ -60,7 +60,7 @@ Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/hand
 
 **Example**
 
-* **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/product-categories/#create-stage) development group.
+* **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/product-categories/#source-code-group) development group.
 * **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/geo/).
 
 #### Category Channels (c_)
