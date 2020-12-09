@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: GitLab Groundworks Implementation
+title: GitLab Learn Implementation
 ---
 
 
