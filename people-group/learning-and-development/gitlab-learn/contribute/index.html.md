@@ -1,9 +1,9 @@
 ---
 layout: handbook-page-toc
-title: Contribute to GitLab Groundworks
+title: Contribute to GitLab Learn
 ---
 
-# Contribute to GitLab Groundworks
+# Contribute to GitLab Learn
 
 ## Handbook First Learning Content
 
