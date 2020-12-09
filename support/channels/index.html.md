@@ -40,7 +40,7 @@ When in doubt, please be very patient with these reports. Do not say 'there is n
 
 Issues created from reports to `security@gitlab.com` must follow the [security issue triage](/handbook/engineering/security/#issue-triage) process.
 
-Reports that are PGP-encrypted will be handled by the [security team](/handbook/engineering/security/#external-contact-information).
+Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/engineering/security/#external-contact-information).
 
 ### HackerOne
 
