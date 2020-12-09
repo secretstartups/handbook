@@ -41,5 +41,5 @@ Based on the above terminology, the resources in the staging environment are lis
 | Geo deployment | `gitlab-staging-1` |
 | Primary site | `staging.gitlab.com` |
 | Secondary site | `geo.staging.gitlab.com`|
-| Multi-node site | `NAME` |
+| Multi-node site | `geo-dr.staging.gitlab.com` |
 | Single-node site | `geo-secondary-01-sv-gstg.c.gitlab-staging-1.internal` |
