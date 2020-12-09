@@ -1,10 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Communication Chat"
-extra_js:
-  - libs/moment.min.js
-  - libs/moment-timezone-with-data.min.js
-  - team-call.js
 ---
 
 ## On this page
@@ -47,7 +43,7 @@ These channels (prefixed with a `a_`) are for team members to collaborate and co
 
 Many customers that require coordination across GitLab teams have dedicated channels in slack to discuss that customer's needs internally. Those channels are all postfixed with `-internal`.
 
-Commercial (Mid-Market and SMB) accounts have specific [guidelines](/handbook/customer-success/comm-sales/#customer-engagements) around having Slack channels with customers.
+Commercial (Mid-Market and SMB) accounts have specific [guidelines](/handbook/customer-success/comm-sales/sales-term-glossary-engagements) around having Slack channels with customers.
 
 #### Feature Channels (f_)
 
@@ -64,7 +60,7 @@ Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/hand
 
 **Example**
 
-* **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/product-categories/#create-stage) development group.
+* **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/product-categories/#source-code-group) development group.
 * **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/geo/).
 
 #### Category Channels (c_)
@@ -107,7 +103,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-* **[`#sd_threat_mgmt`](https://gitlab.slack.com/archives/sd_threat_mgmt)**: For the [Threat Management sub-department](handbook/engineering/development/threat-management/).
+* **[`#sd_threat_mgmt`](https://gitlab.slack.com/archives/sd_threat_mgmt)**: For the [Threat Management sub-department](/handbook/engineering/development/threat-management/).
 
 
 #### Values Feed Channels (values-feed-)

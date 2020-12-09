@@ -1,10 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Communication"
-extra_js:
-  - libs/moment.min.js
-  - libs/moment-timezone-with-data.min.js
-  - team-call.js
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -69,13 +65,13 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 
 1. Always **open** an MR for things you are suggesting and/or proposing. Whether something is not working right or we are iterating on new internal process, it is worth opening a merge request with the minimal viable change instead of opening an issue encouraging open feedback on the problem without proposing any specific change directly. Remember, an MR also invites discussion, but it's specific to the proposed change which facilitates focused decision.
 1. Never ask someone to create an issue when they can default to the merge request.
-1. Starting with a Merge Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for [Everyone to Contribute](/company/strategy/#mission). This is true, not just for updating the handbook for updating all things.
-1. Merge Requests, by default are **non-confidential**. However, for [things that are not public by default](/handbook/communication/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
+1. Starting with a Merge Request is part of [Handbook First](/handbook/handbook-usage/#why-handbook-first) and helps ensure the handbook is up-to-date when a decision is made. It is also how we make it possible for [Everyone to Contribute](/company/strategy/#mission). This is true, not just for updating the handbook but for updating all things.
+1. Merge Requests, by default, are **non-confidential**. However, for [things that are not public by default](/handbook/communication/#not-public) please open a confidential issue with suggestions to specific changes that you are proposing. The ability to create [Confidential Merge Requests](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html#merge-requests-for-confidential-issues) is also available. When possible, consider not including sensitive information so the wider community can contribute.
 1. Not every solution will solve the problem at hand. Keep discussions focused by **defining the problem first** and **explaining your rationale** behind the [Minimal Viable Change (MVC)](/handbook/values/#minimal-viable-change-mvc) proposed in the MR.
 1. Be proactive and consistent with communication on discussions that have external stakeholders such as customers. It's important to keep communication flowing to keep everyone up to date. MRs can appear stale if there aren't recent discussions and no clear definition on when another update will be provided, based on feedback. This leaves those subscribed in the dark, causing unnecessary surprise if something ends up delayed and suddenly jumps to the next milestone. It is important that MRs are closed in a timely manner through approving or rejecting the open requests.
 1. Have a **bias for action** and [don't aim for consensus](/handbook/leadership/#making-decisions). Every MR is a [proposal](/handbook/values/#make-a-proposal), if an MRs author isn't responsive take ownership of it and complete it. Some improvement is better than none.
 1. **Cross link** issues or other MRs with related conversations. E.g. if there’s a Zendesk ticket that caused you to create a GitLab.com MR, make sure to document the MR link in the Zendesk ticket and vice versa. And when approving or rejecting the MR, include reason or response from Zendesk. Put the link at the top of each MR's description with a short mention of the relationship (Report, Dependency, etc.) and use one as the central one and ideally close the alternate if duplicate.
- 1. When providing links to specific lines of code relevant to the MR, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.gitlab.com/ee/development/documentation/styleguide.html#link-to-specific-lines-of-code).
+ 1. When providing links to specific lines of code relevant to the MR, **always use a permalink** (a link to a specific commit for the file). This ensures that the reference is still valid if the file changes. For more information, see [Link to specific lines of code](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html#link-to-specific-lines-of-code).
 1. If submitting a change for a feature, **update the description with the final conclusions** (Why an MR was rejected or why it was approved). This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
 1. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate issues/MRs and link them. An MR can start off as only a [problem description and TODO comments](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/35239/diffs?diff_id=97449459). If you're new to GitLab and are writing documentation or instructions, submit your first merge request for at most 20 lines.
 1. Do not leave MRs open for a long time. MRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
@@ -89,8 +85,8 @@ When fast decisions are needed, [we'll have to accept that people listened to us
 1. For GitLab the product merge request guidelines are in the [Contribution
 guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines) and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 1. Even when something is not done, share it internally so people can comment early and prevent rework.
-1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is not good enough to go out.
-1. If any follow up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
+1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected, just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
+1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/index.html#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
 1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
@@ -192,6 +188,10 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Optional AMA.
     If desired and appropriate, offer a companywide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a companywide call, please make a request in the #peopleops Slack channel, and include a Google Doc in the invite for questions.
 
+### Ask Me Anything Meetings
+
+[Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.  
+
 ### Posting in #company-fyi
 
 Our companywide announcements channel is **#company-fyi**.
@@ -251,7 +251,7 @@ Some things are **internal**, available internally but not externally. The follo
 
 1. Security vulnerabilities are not public since it would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   1. the specific [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) of an opportunity;
+   1. the specific [IACV](/handbook/sales/sales-term-glossary/acv-in-practice) of an opportunity;
    1. total monthly cash inflow/outflow for GitLab.com;
    1. spend of more than 10%;
    1. a department's cost;
@@ -301,7 +301,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 **Skills and behavior of applying effective communication as a Team Member**:
 *  Effectively practices communication via text.
 *  Uses asynchronous communication when possible: merge requests (preferred) or issues.
-*  Directs all communication to the appropiate channels (Slack, GitLab, email).
+*  Directs all communication to the appropriate channels (Slack, GitLab, email).
 *  Recognises when synchronous communication is the more appropriate option.
 *  Directs all decisions and discussions to the Handbook as a single source of truth.
 *  Records videos to communicate information when that is the most efficient and effective way to consume the content.
@@ -350,6 +350,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 1. Please allow anyone at GitLab to edit the presentation (preferred) or at least comment on the presentation.
 1. If the content can be public use File > Publish to the web > Publish to get a URL and paste that in the speaker notes of the first slide (commonly the title slide).
 1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
+1. If there are introductions being performed please make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
 1. At the end of the presentation when you go to Q&A stop presenting in Zoom. This way the other people can see the person who is speaking much better.
 1. All presentations at GitLab should be based on screenshots of the handbook, issues, merge requests, review apps, and data from GitLab Insights and SiSense charts. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
 1. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Merge Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [MR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
@@ -397,7 +398,7 @@ out to any of the other [C-level GitLab team members](/company/team/org-chart/) 
 ## Social Call
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
 
-These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. #gaming, #fitlab and #intheparenthood which team members need not be a part of to join in.
+These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part.  We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
 
 Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.
 
@@ -435,7 +436,7 @@ _Using call attendance data along with feedback and suggestions provided by team
 ## Walk and Talk Calls
 A Walk and Talk call is when team members step away from their computers and get outside for a meeting. The difference between a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and a Walk and Talk call is that a Walk and Talk call be held with people that you interact with frequently at GitLab. It could be social in nature or focused on a specific problem/topic that needs to be discussed. If it's a problem-solving focused discussion, the outcome should be captured in a merge request. It should not be used if the problem being discussed requires screen sharing or detailed note taking. There are great physical and mental health benefits to a walk and talk call. There are also benefits with [increased focus and creativity](https://www.quora.com/What-are-the-advantages-of-a-walking-1-1-meeting). A Walk and Talk can also help prevent [Zoom fatigue](https://news.northeastern.edu/2020/05/11/zoom-fatigue-is-real-heres-why-youre-feeling-it-and-what-you-can-do-about-it/).
 
-The team members can use Zoom on their mobile device with the audio only function, or call one another from their preferred mobile device.  A walk and talk call should be agreed to in advance to ensure that the local weather is compatible for a walk in both locations and that the walk and talk call fits into both team members’ schedules. 
+The team members can use Zoom on their mobile device with the audio only function, or call one another from their preferred mobile device.  A walk and talk call should be agreed to in advance to ensure that the local weather is compatible for a walk in both locations and that the walk and talk call fits into both team members’ schedules. We’ve created a Slack channel #walk-and-talk-meetings where, if you'd like, you can share pictures from your walking meetings.
 
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
@@ -661,7 +662,7 @@ This guidance should be followed in all places links are provided, whether in th
 Avoid writing GoogleDocs content which states - `Zoom Link [Link]`.
 Rather, paste the full link directly following the word `Zoom`.
 This makes the link more prominent and makes it easier to follow while viewing the document.
-1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/). Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard. For months use `yyyy-mm`, so 2018-01 for January. Refer to a year with CY18 (never with 2018) and a quarter with CY18-Q1 to prevent confusion with fiscal years and quarters.
+1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/). Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard. For months use `yyyy-mm`, so 2018-01 for January. Refer to a year with CY18 (never with 2018) and a quarter with CY18-Q1 to prevent confusion with fiscal years and quarters. If the year is obvious from the context it is OK to use Dec 4, but not 12/4, since the ordering isn't obvious when using two numbers but when naming the month it is clear that the number of the day of the month.
 1. GitLab operates on a [Fiscal Year](/handbook/finance/#fiscal-year) offset from the calendar year. When referring to a fiscal year or quarter, please use the following abbreviations:
    1. "FY20" is the preferred format and means: Fiscal Year 2020, the period running from February 1, 2019 through January 31, 2020
    1. "Q1" = the first quarter of the current Fiscal Year, so on Feb 1, 2020, "Q1" is the period from Feb. 1, 2020 through April 30, 2020. Note that Epics in GitLab follow Calendar Years and Quarters.
@@ -754,7 +755,7 @@ We use it for activities in GitLab, even ones not implemented in software.
 
 By having ubiquitous words to identify concepts we prevent confusion over what is meant, for example we refer to [parts of our organization](/company/team/structure/) as a function, department, or group depending on exactly what is meant.
 
-Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](/handbook/sales/#deal-sizes) don't reuse words to prevent overlap.
+Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](/handbook/sales/sales-term-glossary) don't reuse words to prevent overlap.
 
 If a term is ambiguous don't use it, for example our [hiring definitions](/handbook/hiring/#definitions) have roles and vacancies but avoid the ambiguous word job.
 
@@ -949,16 +950,39 @@ Earlier in our history, 50% of all communication *was* in public channels.
    1. Use `@channel` to notify _ALL_ members in the room, irrespective of away status. Please only use `@channel` if the message is important _and_ urgent.
 1. If you are aware that your teammate is on vacation, avoid mentioning them in a high volume channel. It will be difficult to find the information or question when they return. If you need to ensure they refer back to the thread, ensure to send them a link to the relevant Slack message through a direct message.
 
-### Managing noise in Slack
-Here are some helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what IS important/relevant to you, and less of what isn't.
+### Managing noise and creating focus in Slack
+
+Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
+
+While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly). 
+
+#### Organizing your Slack sidebar by priority
+
+Consider using Slack's **[Starred channel](https://slack.com/help/articles/201331016-Star-channels-and-direct-messages)** function to spotlight three categories of channels, its **[Mute function](https://slack.com/help/articles/204411433-Mute-channels-and-direct-messages)** to quiet channels which are pulling your focus away too often, and most importantly, its **Mark all messages as read** function (easily toggled by pressing `Shift` and `Esc` simultaneously while on a desktop) to achieve an instantly clear slate. 
+
+An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with **[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)** to visibly raise or lower their priority level, giving you control over what you see first.
+
+1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
+2. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`)
+3. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
+
+#### Manage your Slack notifications
+
+Below are helpful links to best practices and tips on managing your notifications and reducing noise in Slack. We encourage you to regularly check your notification settings to ensure you get more notifications of what _is_ important/relevant to you, and less of what _isn't_.
 
 - [Reduce noise in Slack](https://slack.com/intl/en-gb/help/articles/218551977-Reduce-noise-in-Slack)
 - [Configure Your Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#configure-your-notifications)
 - [Guide to Desktop Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
 - [Channel-specific and group DM Notifications](https://slack.com/intl/en-gb/help/articles/201355156-Guide-to-desktop-notifications#channel-specific-and-group-dm-notifications)
+- [Display only unread conversations](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections-Organize-your-sidebar-with-custom-sections#manage-conversation-display)
+- [GitLab team member Brendan O'leary on how he uses Slack](https://boleary.dev/blog/2020-05-27-how-i-slack.html)
+
+#### Set aside time to work through notifications
+
+Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reimnder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
 
 ### General Guidelines
-1. If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
+1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](https://about.gitlab.com/handbook/values/#make-a-proposal) and [iteration](https://about.gitlab.com/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
 1. Use the `:white_check_mark:` emoji or similar to indicate an inquiry has been answered. Anyone can add the emoji. If you're not sure, then feel free to leave it up to the person who asked. An emoji indicator is particularly helpful in channels where lots of questions are posted, such as `#questions`, and `#git-help`.
 1. In general, you can think of emoji reactions as equivalent to body-language responses we use in real-life conversations, such as nodding your head as encouragement when a verbal (or in Slack, written) response might be too much.
 1. In public channels, [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-threads) are valuable for keeping conversations together. If you want to respond to a question or comment in a channel, please start a thread instead of responding below them in the channel. This helps to keep the discussion in one place where it is easy to follow, and reduces noise as each message in a thread does not result in an unread message for everyone in the channel.
@@ -998,7 +1022,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | Channel | Purpose |
 | ------  | ------ |
 | `#company-fyi` | Official company announcements, [restricted permission levels](#posting-in-company-fyi) to ensure high-signal; all GitLab team members are automatically added to this channel. |
-| `#whats-happening-at-gitlab` | Open to posts from all team members including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
+| `#whats-happening-at-gitlab` | Open to all team members for unofficial updates which are important and/or useful to **most or all** of GitLab, including reminders, events, project updates, etc.; all GitLab team members are automatically added to this channel. |
 | `#diversity_inclusion_and_belonging` | Stay up to date on GitLab’s latest [Diversity, Inclusion and Belonging](/company/culture/inclusion/) initiatives and share feedback and thoughts about how we can make our environment even more inclusive. |
 | `#expense-reporting-inquiries` | For questions pertaining to [expenses](/handbook/spending-company-money/) (e.g. Expensify). |
 | `#git-help` | Specific questions about using Git in the terminal. |
@@ -1136,6 +1160,7 @@ The recommended defaults when sharing a document for GitLab internal purposes is
 1. You can find a template of the [GitLab letterhead](https://docs.google.com/document/d/1gN1Z2FHPIfPk7QLIey1KF9dR1yTl0R7QrMSb5_Iqfh4/edit) on the shared Google Drive. Please be sure to make a copy of the document to your Google Drive before customizing the template for your use.
 1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
 1. In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
+1. Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
 
 ### How to publish a Google Doc
 
