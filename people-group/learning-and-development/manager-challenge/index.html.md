@@ -13,6 +13,8 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books). L&D will be rolling out a **three-week iteration of the program** during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
+One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
+
 We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program."
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
@@ -83,7 +85,7 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics |
 | Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
 | Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations, a bias for async, feedback, and 1-1's |
+| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
 | Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation  |
 
 
@@ -94,10 +96,11 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
 - [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [Building Trust](/handbook/leadership/building-trust/)
+- [Iteration](/handbook/values/#iteration)
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------| ---------|
-| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance  |
+| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance <br> *Applying Iteration  |
 | Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
@@ -187,7 +190,7 @@ Approximate times for the live sessions to ensure timezone coverage include: 10:
 
 ### Retrospective Sessions
 
-After the 20-day challenge has been completed, it is suggested to have a live retrospective where participants can come and share any feedback about the program. The time(s) this is scheduled for can be the same as the live learning sessions were during the challenge. 
+After the challenge has been completed, it is suggested to have a live retrospective where participants can come and share any feedback about the program. The time(s) this is scheduled for can be the same as the live learning sessions were during the challenge. 
 
 For the pilot Manager Challenge program, the Learning & Development team held a [retrospective session](https://docs.google.com/document/d/1ecuYFRA2oMqpXbGeaK-VIB8AeX98dJJ2-W-wcYUzaXg/edit?userstoinvite=nadia%40gitlab.com&ts=5f7eb88b) to discuss with participants how we can iterate and improve the program moving forward. [Anonymous feedback and ratings](https://docs.google.com/spreadsheets/d/1iUqcs-kSmXf1ol_lio7TJYcn7VHEGHrNcacW3KQwyKg/edit#gid=314035882) were captured throughout the pilot challenge. Each week participants filled out a learning evaluation form for the weekly challenges and overall program.  
 
