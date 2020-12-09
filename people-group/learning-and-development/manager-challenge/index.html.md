@@ -96,7 +96,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
 - [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [Building Trust](/handbook/leadership/building-trust/)
-- [Iteration](/handbook/values/#iteration/)
+- [Iteration](/handbook/values/#iteration)
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------| ---------|
@@ -129,7 +129,7 @@ L&D is continuing to iterate on continuing education opportunities to build mana
 1. **What skills will I be building?**
      - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team, and much more!  
 1. **How does this complement our values?**
-     - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies/) that you can expect to improve upon. 
+     - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#list) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
