@@ -41,8 +41,9 @@ EdCst first time login steps:
 
 ### Getting familiar with the platform
 
-[Add platform video tour here]
+Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the EdCast platform to get familiar with what you'll see upon logging into EdCast.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1AtZPxpauiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
