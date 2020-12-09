@@ -67,7 +67,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 {:.no_toc}
 
-- **NA East - Named Accounts**: Adam Johnson
+- **NA East - Named Accounts**: TBD
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
