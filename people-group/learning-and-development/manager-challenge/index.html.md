@@ -15,7 +15,7 @@ Welcome to the GitLab Manager Challenge page. The Learning and Development Team 
 
 One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
 
-We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program."
+We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
