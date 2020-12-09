@@ -199,6 +199,7 @@ graph TB
   important{{"How important is it?"}}
   permission{{"Do you have permission<br>to post in #company-fyi?"}}
   urgent{{"Is it urgent?"}}
+  reconsider{{"Are you sure you can't reach the people you need by posting in topic channels?"}}
 
   channel-important>"Post in #company-fyi"]
   channel-important-ask>"Ask your function's executive<br>to post in #company-fyi"]
@@ -209,7 +210,7 @@ graph TB
   no-repost(["Don't repost"])
 
   classDef question fill: #ECECFF
-  class everybody,important,permission,urgent question;
+  class everybody,important,permission,urgent,reconsider question;
 
   classDef action fill: #a2f2a9
   class channel-important,channel-important-ask,channel-general,channel-topic,repost,no-repost action;
@@ -221,10 +222,13 @@ graph TB
   everybody -- No  --> channel-topic
 
   important -- need-to-know --> permission
-  important -- good-to-know --> channel-general
+  important -- good-to-know --> reconsider
 
   permission -- Yes --> channel-important
   permission -- No  --> urgent
+
+  reconsider -- Yes --> channel-general
+  reconsider -- No --> channel-topic
 
   urgent -- No  --> channel-important-ask
   urgent -- Yes --> channel-general
