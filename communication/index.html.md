@@ -255,7 +255,7 @@ In order to post or have a message posted in #company-fyi, please reach out to y
 
 #### Posting in #whats-happening-at-gitlab
 
-Due to the volume of posts in the slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important annoucements as information might get lost or muted. Examples of important items include but are not limited to:
+Due to the volume of posts in the slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important announcements as information might get lost or muted. Examples of important items include but are not limited to:
 
 1. Anything involving GitLab team member policy, such as changes in benefits, laws, review cycles, etc.
 1. Urgent matters that can't wait for #company-fyi but still need to be communicated to everyone such as service outages or last minute event changes.
