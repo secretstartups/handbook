@@ -72,7 +72,7 @@ If you are interested in market positioning, typical pain points and the way Git
 
 If you are interested in market positioning, typical pain points and the way GitLab addresses them, customer stories and analyst coverage review [additional material related to this usecase](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/).
 
-### Custom CI Piplelines
+### Custom CI Pipelines
 
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVzNFXLucWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
