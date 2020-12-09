@@ -160,9 +160,6 @@ In addition to GitLab learning material stored in the handbook, GitLab team memb
 
 The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/contribute/).
 
-### How often should I access the LXP?
-
-[ADD RESPONSE HERE]
 
 
 
