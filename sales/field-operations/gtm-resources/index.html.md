@@ -206,10 +206,10 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `QR-Approved to move` on the  `Account Reassignment Status` field. Approved accounts can be tracked in the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
 1. **Sales Operations Quarterly Account Review Process**
-   1. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).  Opportunities Stages 4 and above will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
-   1. **Holdover Accounts/Opportunities** that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+   1. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+   1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
    1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
-   1. Accounts that would move segment or region must be approved by Sales Operations based on TAM and quota prior to a quarterly move. If the move will negatively affect TAM or quota it will be moved during the annual review process.
+   1. Accounts that would move segment or region must be approved by Sales Operations based on quota prior to a quarterly move. If the move will negatively affect quota it will be moved during the annual review process.
 1. **Annual Review Process**
    1. Accounts will still be reviewed annually that need to be moved across segments as part of the annual territory carving process. The process may also happen pro-actively mid-year if the operations team feels that there are too many accounts that are misaligned and would affect quota significantly.
 
@@ -218,7 +218,8 @@ This field inherits data from other fields in the following priority: 1. Admin M
 1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Territory Success Planning (TSP)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain `Unknown` until resolved through manual research and a link to reputable data is provided to the Sales Operations team to confirm. Follow the process to [request changes to the TSP inputs](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) if missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process.
 1. **Account Ownership:** Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`.
 1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s Systems Terminology Definitions.
-1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account.
+1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
+This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
 1. **Locally Managed:** Defined as an account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Managed Locally` check box on the account.
    1. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
 1. **Strategic Accounts:** Defined as an account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
@@ -226,14 +227,14 @@ This field inherits data from other fields in the following priority: 1. Admin M
 1. **Stand-alone Child Account:** Defined as an account that clearly has their own buying authority and purchasing process.
    1. **Private Equity or Holding Company - Child Accounts:** These accounts will have the `Holding Company` check box marked. These accounts will not be parented but the name of the holding company will be listed in the `Holding Company Name` field.
    1. **Government Holding Entity - Child Accounts:**
-      1. AMER: PubSec
-      1. ROW: ______
+      1. AMER: PubSec (Needs more definition)
+      1. ROW: Needs defined
       1. **Franchises or Consultants  - Child Accounts:** Defined as an account that____. Franchises do not count towards HQ Total Employee Count
 1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
 1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. These accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help).
 
 
-### Account Assignment Sources, Routing and Other Requirements
+### Account Sources, Routing and Other Requirements
 
 ##### Website
 
@@ -389,11 +390,7 @@ It is important to note that by following this process that all contacts must me
 1. All of the contacts will be assigned a contact role on the opportunity.
 1. There already is a primary contact, or one of the new contacts will be the primary contact on the opportunity.
 
-#####
 
-Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
-This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
-See [global ownership and named accounts](#account-ownership-rules-of-engagement) descriptions above.
 
 Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through LeanData](/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow).
 
