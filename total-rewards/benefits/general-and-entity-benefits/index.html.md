@@ -77,7 +77,7 @@ If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-
 * If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis.
 
 **What courses are eligible for reimbursement?**
-* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
+* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university, an industry-recognized certification body, or effective online education such as [Udacity](https://www.udacity.com/).
 * There is no limit to the number of years a team member can participate in the program.
 * Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
 * A completed [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (per the process below) along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
