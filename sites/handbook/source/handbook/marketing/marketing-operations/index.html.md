@@ -57,7 +57,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 ### Our Motto: If it isn't an Issue, it isn't OUR issue.
 
-### **Use of Issues**
+### Use of Issues
 
 The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
