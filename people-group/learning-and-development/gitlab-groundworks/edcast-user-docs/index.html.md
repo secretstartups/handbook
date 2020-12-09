@@ -18,20 +18,20 @@ GitLab team members can reach out to the Learning and Development team via the [
 
 ### First time login to the EdCast platform
 
-When you log on to the EdCast LXP for the first time, you'll be prompted through the account setup process. EdCast will use your answers to suggest new learning content based on your interests and expertice.
+When you log on to the EdCast LXP (Learning Experience Platform) for the first time, you'll be prompted through the account setup process. EdCast will use your answers to suggest new learning content based on your interests and expertise.
 
 Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-EdCst first time login steps:
+EdCast first time login steps:
 
-1. GitLab team members should choose `LogIn with SSO option`
+1. GitLab team members should choose `LogIn with SSO option` via Okta
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
 1. Add up to 5 learning goals to your profile. Use the search bar to locate learning goals in the platform. These learning goals can be about any topic you are interested in learning about. Some examples could be `product marketing`, `technical writing`, or `leadership`
-1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This indicates that the goal you've entered does not yet exist in the EdCast database. Consider using a different learning goal or phrase
+1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This indicates that the goal you've entered does not yet exist in the EdCast database. Consider using a different learning goal or phrase. 
 1. Click `Next Step`
 1. Add skills to your profile. These skills should reflect your own expertise
 1. Click `Next Step`
@@ -49,10 +49,10 @@ Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the EdCast platform to 
 
 When you first log into the EdCast platform, you'll arrive on the Discover page. This page will:
 
-- introduce you to trending topics on the platform and among other GitLab learners
-- provide quick access to your learning paths and assigned content
-- explore content channels to discover content you might be interested in
-- highlight initiatives from the GitLab L&D team and other content creators
+- Introduce you to trending topics on the platform and among other GitLab learners
+- Provide quick access to your learning paths and assigned content
+- Explore content channels to discover content you might be interested in
+- Highlight initiatives from the GitLab L&D team and other content creators
 
 
 ### Using the top navigation bar
@@ -107,7 +107,7 @@ You can edit and customize your profile page from within the EdCast platform usi
      - Preferred language
      - Profile and banner image
      - Job title
-1. You alos have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab
+1. You also have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab
 
 
 ### Understanding content in the LXP
@@ -152,7 +152,7 @@ The LXP implementation team is planning a phased rollout of the platform to mult
 
 ### Where is the content in the LXP stored?
 
-Content in the LXP is developed using a [handbook first](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate360 and Rise to build interactive courses.
+Content in the LXP is developed using a [handbook first](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate 360 and Rise to build interactive courses.
 
 In addition to GitLab learning material stored in the handbook, GitLab team members will have access to off the shelf learning opportunity from other vendors and organizations, like LinkedIn Learning and WILL Learning.
 
