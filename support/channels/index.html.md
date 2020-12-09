@@ -44,19 +44,19 @@ Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/
 
 ### HackerOne
 
-We also use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security team. The complete workflow for handling HackerOne reports can be found on the [Security team page](/handbook/engineering/security/#hackerone-reports).
+We also use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/engineering/security/#hackerone-reports).
 
-If a team member requires access to HackerOne, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
+If a Team Member requires access to HackerOne, create an [access request](https://gitlab.com/gitlab-com/Team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
 
 ## Support Tickets for customers on paid plans
 
-Customer can submit support tickets via the Support Portal. The Support team follows our [workflow for Zendesk tickets](/handbook/support/workflows) to manage these.
+Customer can submit support tickets via the Support Portal. The Support Team follows our [workflow for Zendesk tickets](/handbook/support/workflows) to manage these.
 
 Tickets can be submitted by customers on paid plans for either gitlab.com or self-managed.
 
 ## Support for customers on free plans
 
-For customers on free plans (.com 'Free' and self-managed 'core'), there is the [GitLab forum](https://forum.gitlab.com). The Support team does not currently work with the forum - the Community Relations team aims to answer questions there on a best-effort basis in conjunction with the wider community.
+For customers on free plans (.com 'Free' and self-managed 'core'), there is the [GitLab forum](https://forum.gitlab.com). The Support Team does not currently work with the forum - the Community Relations Team aims to answer questions there on a best-effort basis in conjunction with the wider community.
 
 ## Partner Support
 
@@ -70,8 +70,8 @@ Select Partners will create and manage a ticket, acting as the go between for th
 
 When an issue is confirmed (bug, regression etc), it will be reported on the [GitLab project issue tracker](https://gitlab.com/gitlab-org/gitlab/issues).
 
-For issues specific to GitLab.com (e.g. bug with payments), that are not related to site availability, we have the [gitlab.com issue tracker](https://gitlab.com/gitlab-com/support-forum/issues). As a Support team member, you might open an issue there based on a .com customer ticket. Ensure that you assign the issue to yourself to enable you to keep track of the issue and also to enable other Support Engineers to easily pick on unassigned tasks at a glance. Some people use this issue to report issues they are having with their self-hosted installation. In that case, you should refer them to the [issue tracker](https://gitlab.com/gitlab-org/gitlab/issues) or to our [get help](/get-help/) page, depending on the issue they are having.
+For issues specific to GitLab.com (e.g. bug with payments), that are not related to site availability, we have the [gitlab.com issue tracker](https://gitlab.com/gitlab-com/support-forum/issues). As a Support Team member, you might open an issue there based on a .com customer ticket. Ensure that you assign the issue to yourself to enable you to keep track of the issue and also to enable other Support Engineers to easily pick up on unassigned tasks at a glance. Some people use this issue to report issues they are having with their self-hosted installation. In that case, you should refer them to the [issue tracker](https://gitlab.com/gitlab-org/gitlab/issues) or to our [get help](/get-help/) page, depending on the issue they are having.
 
 ## Non Channel Work
 
-The Support team also works to improve GitLab: write documentation, fix bugs, add features, and polish the website.
+The Support Team also works to improve GitLab: write documentation, fix bugs, add features, and polish the website.
