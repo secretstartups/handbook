@@ -244,62 +244,12 @@ Engineering team-members can shadow a product stable-counterpart. Shadowing sess
 
 ### Plan's "Jobs To Be Done"
 
-A list of the current JTBD that Plan is targeting can be found on the [Dev Direction](/direction/dev/#plan-1) page.
+A list of the current JTBD that Plan is targeting can be found on the [Dev Direction](/direction/plan/#problem-and-jobs-to-be-done) page.
 
 ### Metrics
 
-Our [stage level dashboard](https://app.periscopedata.com/app/gitlab/493126/Plan-Stage) (internal) is a work in progress and is where we keep track of SMAU, feature usage, and other metrics we care about.
+#### Plan xMAU
 
-#### Plan SMAU
-
-We have two versions for SMAU, with the "loose" version currently taking precedence as our Stage's externally communicated "North Star". It is our hope and long term goal to move away from defining our success according to vanity metrics and move towards a more congruent model that is based upon actual feature usage and adoption.
-
-##### Loose Definition
-
-The definitive metric is driven by _total count of unique users with one or more page views_ over a given reporting period, where views attributable to the Plan Stage are being derived from the following paths:
-
-- Issue List - `~/issues`
-- Issue - `~/issues/(.*?)`
-- Issue Board - `~/boards/(.*?)`
-- Epic List - `~/epics`
-- Epic - `~/epics/(.*?)`
-- Roadmap - `~/roadmap`
-- Labels - `~/labels`
-- Milestones List - `~/milestones`
-- Milestone - `~/milestones/(.*?)`
-- Todos - `~/dashboard/todos`
-- Personal Issues - `~/dashboard/issues(.*?)`
-- Notification Settings - `~/profile/notifications`
-
-##### Strict Definitions
-
-We are currently in the process of implementing the necessary product analytics instrumentation to properly track the "strict" definition. The definitive metric is driven by _total count of unique users with one or more actions_ over a given reporting period, where actions attributable to the Plan Stage are being derived from the following [events](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/app/models/event.rb):
-
-###### Project Management - Issue Tracking
-
-- **Filter Bar** - A user adds a filter (applies to issue lists, issue boards, epics list...anywhere the filter bar is used).
-- **Issue Weight** - An issue weight is added, removed, or updated.
-- **Issues** - A user creates an issue, updates an issue, or interacts with an issue via a comment, emoji award.
-- **Labels** - User creates or updates a group or project label; or applies or removes a label on an issue.
-- **Markdown** - Issue or epic descriptions added or updated.
-- **Milestones** - A user associates an issue to a milestone, creates a milestone, updates a milestone, removes a milestone, or toggles the burndown view type on a milestone.
-- **Notifications** - A user disables or enables on an issue, or updates their global notification settings.
-- **Quick Actions** - A quick action is used.
-- **Todos** - A Todo is manually added or marked as done
-
-###### Project Management - Issue Boards
-
-- A user creates a board, adds a list, or manually moves a card across lists or changes the priority order of the card within the same list by dragging it up or down.
-
-###### Project Management - Time Tracking
-
-- A user adds a time estimate, updates a time estimate, or records time spent.
-
-###### Portfolio Management - Agile Portfolio Management
-
-- **Epics** - An epic is created or update. An epic or issue is associated to an epic. A user comments on an epic or adds an emoji award.
-- **Roadmap** - Since we don't have a ton of specific interaction events yet. In the interim, we can fallback on unique roadmap views.
-
-###### Certify - Service Desk
-
-- The number of inbound requests and outbound responses.
+- [Project Management Performance Indicators](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/#plan-planproject-management---smau-paid-gmau---mau-interacting-with-issues), [Issue Interactions Dashboard](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))
+- [Product Planning Performance Indicators](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/#planproduct-planning---paid-gmau---mau-creating-epics-each-month)
+- [Certify Performance Indiactors](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/#plancertify---paid-gmau---mau-interacting-with-requirements)
