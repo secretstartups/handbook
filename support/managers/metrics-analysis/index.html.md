@@ -16,7 +16,7 @@ description: "Support team metrics analysis workgroup overview"
 | **Property** | **Value** |
 | -- | -- |
 | Date Created | 2020-08-13 | 
-| Date Ended | |
+| Date Ended | 2020-12-08 |
 | Slack | [#spt_metrics-analysis](https://gitlab.slack.com/archives/C018W4ZFGP5) (only accessible from within the company) |
 | Google Doc | [Metrics Analysis Workgroup Agenda](https://docs.google.com/document/d/12rzBFFpA5y6xH5PkPcRQF5eSHR03TaAH1JP2jp395VY/edit#heading=h.i3kbcfpbwgta) (only accessible from within the company) | 
 | Playlist of Meetings | [Support - Metrics Analysis](https://www.youtube.com/playlist?list=PL05JrBw4t0KoxMP7DvN_U7O2NORo4slPL) |
