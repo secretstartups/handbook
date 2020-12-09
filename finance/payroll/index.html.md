@@ -34,7 +34,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
+1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com).
    - To access pay statements, go to Myself -> Pay -> Pay Statements.
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
@@ -274,7 +274,7 @@ Payroll changes will be send by the 10th of the month.  Global Upside will send 
 
 - Hungary
 - Austria
-- Mexico 
+- Mexico
 - South Africa
 
 #### Payroll cut off date
