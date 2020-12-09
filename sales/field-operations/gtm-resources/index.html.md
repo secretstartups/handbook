@@ -188,7 +188,7 @@ The Location of each account used to determine its Sales Territory is determined
 This address is stored in "Account - Territory" on the Account object in SalesForce.
 This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. Zoominfo 4. Shipping Address 5. Billing Address.
 
-### Account Ownership Rules of Engagement (Effecctive FY22-Q1)
+### Account Ownership Rules of Engagement (Effective FY22-Q1)
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership.**
 
@@ -292,7 +292,7 @@ Rest of the World
 
 - **Any** University = appropriate regional Sales Development Representative
 
-##### Record Ownership
+##### Lead and Contact Record Ownership
 
 Contact Ownership follows the rules as laid out below:
 - Large Accounts
@@ -321,36 +321,7 @@ All other records (owned by non-public sector team members) maintain their stand
 This is important as it relates to inbound records or accounts in a sales reps name.
 If you believe you have been incorrectly assigned a record that should belong to the public sector team member please coordinate with your manager, the sales-ops team or a member of the public sector team to review the record.
 
-## Changing Ownership in Salesforce
-
-##### Changing Account Ownership in Salesforce
-
-Everyone in Salesforce has **some** ability to change the ownership of accounts.
-When accounts have their owners changed, by anyone other then an admin, there will be an email notification go out to both the previous account owner and the new account owner.
-This is to allow individuals to change ownership of accounts if they think they should belong to them.
-If there are any questions in regards to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
-It's also important that just because a user can change the owner of an account does not mean that they should own the account.
-Please refer to the criteria for reassigning accounts and our account territories for more information.
-
-Criteria for Reassigning Accounts:
-
-- The account must have its address in the account owners territory.
-If the account has a parent account or the parent account also has a parent account the address that determines the final owner of the account is the address of the ultimate parent.
-This address follows our data hierarchy - with Datafox being our primary source of data (Link to come).
-- The account must also have a matching sales segmentation that the owner should be working.
-Any Account adopts the highest sales segment that exists within an account hierarchy.
-Segment is determined by our data hierarchy - with Datafox being our primary source of data (Link to come).
-- Any owner of an account must follow our guidelines for [Record Ownership](#record-ownership)
-
-1. Any account owner can reassign their own account to someone else
-1. Any RD can reassign any account
-1. Any Team Lead can reassign any account that is located within their region
-1. Anyone can reassign any account as long as the following criteria is met
-A. The account does not have a parent account
-B. The account is located in the same region as the individual transferring ownership of the account
-C. Datafox has enriched the number of employees on the account
-D. The sales segment of the account is the same as the segment that the user is working on (SALs/Large,AEs/Mid-Market)
-1. Any Admin can reassign any account
+ 
 
 ##### Changing Contact Ownership in Salesforce
 
@@ -418,7 +389,7 @@ It is important to note that by following this process that all contacts must me
 1. All of the contacts will be assigned a contact role on the opportunity.
 1. There already is a primary contact, or one of the new contacts will be the primary contact on the opportunity.
 
-##### Rules of Engagement
+#####
 
 Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
 This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
