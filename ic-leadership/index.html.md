@@ -15,11 +15,25 @@ At GitLab, it is expected that everyone is [a manager of one](/handbook/leadersh
 
 Just like moving into management, also moving from Senior to Staff changes the day-to-day work and expectations placed on ICs.
 
-Engineering IC Leaders exert technical leverage in their [scope of influence](/handbook/engineering/career-development/career-matrix.html#scope-of-influence).
+Engineering IC Leaders exert [technical leverage](#technical-leverage) in their [scope of influence](/handbook/engineering/career-development/career-matrix.html#scope-of-influence).
 Like any other leadership role, the focus should be on helping others to improve.
 Their impact multiplies with every person they help grow, and the company gets more value when they're not investing time in doing things themselves.
 
 Technical skills developed in their career up until now are still very important, and the role is still hands-on technical. Their technical skills are vast and are developing at a lower rate of change now, but they also get new skills that will drive their career from now on: Communication, Collaboration, and Leadership.
+
+### Technical Leverage
+
+Technical leverage could be described as doing technical work that has a multiplicative impact. In other words,
+the impact of the work has an effect on more than just your personal scope. Ideally the
+technical impact is positive, and helps those around you and in your team, group,
+or department operate and iterate more efficiently.
+
+Examples of this could be
+
+- Seeing and implementing generic solutions to problems that can be easily reused in the future
+- Identifying commonalities to multiple problems and solving several at once
+- Sharing knowledge via trainings or presentations to boost efficiency
+- Identifying and removing roadblocks to the development process to help the entire organization iterate more efficiently
 
 ### The four archetypes
 
