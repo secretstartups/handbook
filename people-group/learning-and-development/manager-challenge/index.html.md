@@ -11,9 +11,9 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books). 
+Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books). L&D will be rolling out a **three-week iteration of the program** during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
-L&D will be rolling out a three-week iteration of the program during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program."
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -48,7 +48,7 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
 ### Week 1
 
@@ -57,13 +57,15 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 - [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
 - [SOCIAL STYLES](/handbook/leadership/emotional-intelligence/social-styles/)
 - [All Remote Management](/company/culture/all-remote/management/)
+- [Building Trust](/handbook/leadership/building-trust/)
+- [Effective Delegation](/handbook/leadership/effective-delegation/)
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |
 |---------|-----------------|------------------|---------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Complete the SOCIAL STYLES assessment <br> * Define what it means to be a manager at GitLab |
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> * Define what it means to be a manager at GitLab |
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team |
+| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
 | Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan <br> *Complete the weekly evaluation 
 
 ### Week 2
@@ -74,13 +76,14 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 - [Guidance on Feedback](/handbook/people-group/guidance-on-feedback/)
 - [GitLab Communication](/handbook/communication/)
 - [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- [Embracing Asynchronous Communication](/company/culture/all-remote/asynchronous/)
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics |
 | Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
 | Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations at GitLab |
+| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations, a bias for async, feedback, and 1-1's |
 | Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation  |
 
 
@@ -89,7 +92,8 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 During week three we will discuss **Peak Performance & Coaching**. Information covered in week three can be found on the following handbook pages: 
 - [Coaching](/handbook/leadership/coaching/)
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
-- [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) 
+- [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
+- [Building Trust](/handbook/leadership/building-trust/)
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------| ---------|
@@ -99,19 +103,24 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
 | Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge certification
 
+### Post Manager Challenge
+
+L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab management & leadership best practices. 
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
 1. **When is the next session?**
      - The next session will be launched on 2020-01-11 for any people leader interested in attending.
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. 
 1. **Have we done this program in the past?**
-    - We launched the pilot in September. 
+    - We launched the pilot in September 2021. 
 1. **What is required of me?**
      - Monday to Wednesday there will be a series of daily challenges that a manager can complete asynchronously on their own time that will cover a range of topics. On Thursday's we will come together as a group in a live learning session to apply the challenges to real scenarios managers face in a remote environment; as well as network as a cohort! 
+1. **Is there an async option for the live learnings?**
+     - Yes, the program will include async learning options for those that are unable to make the live learning sessions. 
 1. **I have a lot of management experience, will this help?**
      - No matter your level or tenure as a manager, we can all take time out of our busy days to grow our management and leadership skills. The more practice the better and we hope that you will find the program applicable to your job.
 1. **What skills will I be building?**
