@@ -112,7 +112,7 @@ You can edit and customize your profile page from within the EdCast platform usi
 
 ### Understanding content in the LXP
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pJzj4l3tG-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Learning material is built and organized in the LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [EdCast contribution page](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
 
