@@ -64,7 +64,7 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / Anniversary Period 
+- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / GSuite License Reminder
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
