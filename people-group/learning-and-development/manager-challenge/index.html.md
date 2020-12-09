@@ -11,7 +11,7 @@ title: Manager Challenge
 
 ## Introduction
 
-Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](https://about.gitlab.com/handbook/leadership/#books). L&D will be rolling out a **three-week iteration of the program** during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). L&D will be rolling out a **three-week iteration of the program** during the month of January 2021. **The program will start 2021-01-11 If you are interested in participating in January, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
 One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
 
@@ -96,7 +96,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
 - [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [Building Trust](/handbook/leadership/building-trust/)
-- [Iteration](/handbook/values/#iteration)
+- [Iteration](/handbook/values/#iteration/)
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------| ---------|
@@ -104,7 +104,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate)! 
+| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
 
 ### Post Manager Challenge
 
@@ -129,7 +129,7 @@ L&D is continuing to iterate on continuing education opportunities to build mana
 1. **What skills will I be building?**
      - You will be building a range of skills that include: coaching, managing performance, crucial conversations, feedback, building an inclusive culture, developing high performing teams, getting to know your team, and much more!  
 1. **How does this complement our values?**
-     - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies) that you can expect to improve upon. 
+     - All of the challenges will reinforce our values by applying management techniques to lead teams in a remote environment. In the weekly charts above, each day or topic will have a [values competency](/handbook/competencies/#values-competencies/) that you can expect to improve upon. 
 1. **Is the content in the slides in the Handbook?**
      - Yes! All of the content will be in the Handbook. We are creating Google Slides to visualize the content for the challenges but all of it will live in the handbook. 
 1. **What if I can’t attend a Live Learning session or complete a challenge?**
