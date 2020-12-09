@@ -410,9 +410,7 @@ Shadows are responsible for being aware of the current time and providing timeke
 
 Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings).
 While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
-Shadows should provide a 5-minute, 1-minute and overtime warnings.
-
-Shadows should also notify meeting participants if a meeting is running over the allocated time by saying "we're in overtime".
+Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime".
 
 _Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ 
 
