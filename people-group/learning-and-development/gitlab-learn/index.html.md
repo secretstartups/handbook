@@ -1,9 +1,15 @@
 ---
 layout: handbook-page-toc
-title: GitLab Groundworks
+title: GitLab Learn
 ---
 
-# GitLab Groundworks
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# GitLab Learn
 
 ## What is EdCast?
 

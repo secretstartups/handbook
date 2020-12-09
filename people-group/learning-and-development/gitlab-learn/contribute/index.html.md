@@ -3,6 +3,13 @@ layout: handbook-page-toc
 title: Contribute to GitLab Learn
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
 # Contribute to GitLab Learn
 
 ## Handbook First Learning Content
