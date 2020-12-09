@@ -23,17 +23,20 @@ Technical skills developed in their career up until now are still very important
 
 ### Technical Leverage
 
-Technical leverage could be described as doing technical work that has a multiplicative impact. In other words,
-the impact of the work has an effect on more than just your personal scope. Ideally the
-technical impact is positive, and helps those around you and in your team, group,
-or department operate and iterate more efficiently.
+Technical leverage could be described as doing technical work that has a
+multiplicative impact.
+
+In other words, the impact of the work has an effect on more than just
+your personal scope and the immediate or near-term time frame. Ideally the
+technical impact is positive, and helps those around you and in your team,
+group, or department operate and iterate more efficiently.
 
 Examples of this could be
 
-- Seeing and implementing generic solutions to problems that can be easily reused in the future
+- Implementing generic solutions to problems that can be easily reused in the future
 - Identifying commonalities to multiple problems and solving several at once
 - Sharing knowledge via trainings or presentations to boost efficiency
-- Identifying and removing roadblocks to the development process to help the entire organization iterate more efficiently
+- Identifying and removing roadblocks to the development process
 
 ### The four archetypes
 
