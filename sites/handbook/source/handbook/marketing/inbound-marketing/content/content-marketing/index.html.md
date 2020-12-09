@@ -150,6 +150,18 @@ A post on the GitLab blog is used during the Awareness or Consideration stage of
 3. Once blog copy has been reviewed by the required SMEs/strategic marketing counterparts, close the Content Marketing issue, [create a merge request](/handbook/marketing/blog/#when-your-post-is-formatted-and-youre-ready-to-create-your-merge-request) from your www-gitlab-com issue, and when ready, assign it to the Editorial team member who reviewed your pitch. They will then schedule your blog post for the next available date on the [Editorial calendar](/handbook/marketing/inbound-marketing/content/#editorial-calendar). 
 1. The Editorial team member will review your draft and may leave feedback for you to resolve before publishing. When you have done so, reassign the MR to the Editorial team member for final review and merging.
 
+#### Blog repurpose
+
+A blog can and should be repurposed as a web article/cluster page if the content is evergreen and awareness stage. The blog should also be older than six months and not GitLab-centric. 
+
+**Blog repurpose workflow**
+1. Work with the SEO team to identify existing, older blogs that are the best options for repurposing.
+2. Ensure that the editorial team is aware of the intention and has approved the redirect.
+3. In a Google doc, copy and paste the existing blog. From there, use the keyword spreadsheets to identify the best possible updates -- this can include changing the title to a better keyword phrase, identifying areas of copyediting improvements, adding links, adding a 'More On' section, and elaborating on longtail keywords throughout the content.  
+5. Create a merge request and tag @bmatturro for review of the content. 
+6. Once the web article is edited and merged, open an [issue to redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new#) the blog URL to the new web article. Select set-up-a-new-redirect template and add the new URL and old URL in the issue. This will directly assign.
+7. After the web article is merged and the blog redirected, add the web article link to the associated Topics page in the sidebar.
+
 #### Whitepaper
 
 A whitepaper is a technical and focused topic study intended to educate a prospective buyer during the Consideration or Purchase stages of a campaign. The whitepaper offers a problem and solution instance in a granular, technical tone. The content team member should collaborate closely with their product marketing counterpart when researching and writing the asset so that the content reaches appropriate technical standards for the intended audience.
