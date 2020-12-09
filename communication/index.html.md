@@ -226,8 +226,8 @@ graph TB
   permission -- Yes --> channel-important
   permission -- No  --> urgent
 
-  urgent -- Yes --> channel-general
   urgent -- No  --> channel-important-ask
+  urgent -- Yes --> channel-general
 
   channel-topic --> repost
   channel-general --> repost
