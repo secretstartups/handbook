@@ -406,7 +406,11 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). _Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ The notification can be verbal or non-verbal.
+Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left in the allotted block." 
+
+Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings). While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. 
+
+_Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ 
 
 - Verbal (encouraged): Don't wait for a break in the conversation, just say 'we have 5 minutes left'.
 - Non-verbal: If you prefer, you can also ping in the Zoom chat.
