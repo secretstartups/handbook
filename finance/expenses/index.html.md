@@ -17,6 +17,8 @@ Welcome to the Expenses page!  You should be able to find answers to most of you
 
 GitLab utitilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
 
+As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any reciepts containing personal information should be rejected and sent back to be corrected.
+
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
 For general information and guidelines regarding the company expense policy, check out the section of our team handbook on [Spending Company Money](/handbook/spending-company-money). Managers and Accounts Payable team will review the expenses for compliance with the company travel policy.  The CEO will review selected escalations at least annually.
