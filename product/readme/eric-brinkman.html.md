@@ -23,9 +23,9 @@ I joined GitLab in 2018 and created this [README deck](https://docs.google.com/p
     1. Responsibility
     1. Maximizer
 
-## My role as a Director of Product
+## My role as a Senior Director of Product
 
-As a Director of Product at GitLab, it's my job to build and lead a high functioning team of product managers. The [job description](https://about.gitlab.com/job-families/product/director-of-product/) for product directors is well defined, however, there are a few responsibilities that are near and dear to me, related to building our team. I really get excited by:
+As a Senior Director of Product at GitLab, it's my job to build and lead a high functioning team of product managers. The [job description](https://about.gitlab.com/job-families/product/director-of-product/) for product directors is well defined, however, there are a few responsibilities that are near and dear to me, related to building our team. I really get excited by:
 
 - Sourcing, recruiting, and hiring the best talent we can find for any open roles we have.
 - Ensuring fantastic onboarding experiences in order to ramp up team members as quickly as possible.
