@@ -104,7 +104,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge certification
+| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate)! 
 
 ### Post Manager Challenge
 
