@@ -79,6 +79,10 @@ Below is a list of the different technical skill sets found on the Sales System 
 #### Process Deprecation 
 * Deprecating aprocess often includes a change in team behavior as well as updates to any processes. The Systems team is wokring on detailed documentation to address these changes and more info will be coming soon! 
 
+#### Deactivate Service User
+* This deactivation process is made to deactivate service user profiles. Service accounts are accounts that are used as integration Users, Connection users etc., in order to deactivate the service user account follow the [template](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). Please note deactivating standard users will be done by Sales Operations.
+
+
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
 *  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
