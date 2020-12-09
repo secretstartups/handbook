@@ -31,9 +31,9 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 
 ### Upcoming
 
-In FY21 we plan to roll out the additional certification(s) listed below. 
+In FY22 we plan to roll out the additional certification(s) listed below. 
 
-* GitLab Tool Training 301 (for non-technical roles)
+* Diversity, Inclusion, and Belonging Certification
 
 ## Knowledge Assessments 
 
