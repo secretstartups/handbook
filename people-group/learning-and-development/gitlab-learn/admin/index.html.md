@@ -24,19 +24,25 @@ The following processes are used by administrators of the EdCast platform.
 1. In the `setup` tab, define the following for your channel:
      - Name: This is the name users will see on the discover page and across the top of the content channel
      - Description: Provide a short text description to inform the learner on what kind of content this channel will broadcast
-     - Profile image: Refer to the image guidelines below when choosing a Channel image
-     - Topics: Add at least 3 topics to categorize content that will be in this Channel. This will help users discover the Channel in the platform
+     - Profile image: Refer to the image guidelines below when choosing a channel image
+     - Topics: Add at least 3 topics to categorize content that will be in this channel. This will help users discover the channel in the platform
      - Provider: Define who is creating the channel or where the content is coming from. For example, 'GitLab Field Enablement Team'. This step is not required.
      - Provider Image: Add an image to correspond with the provider above. This step is not required.
-     - Private, Open, Allow Follow, and Automated Pin Cards: Decine on the following permissions for your Channel
+     - Private, Open, Allow Follow, and Automated Pin Cards: Decine on the following permissions for your channel
 1. Click `save channel`
 1. After you click `save channel`, the following tabs will open for editing: `content`, `people` and `carousels`
 1. These tabs will allow you to further define permissions for your channel. These are not required to create your channel, but will help customize and organize content. 
 
-Note: For the purposes of an MVP of documentation, the L&D team will stop Channel documentation here and iterate in the future as we discover how these additional tabs can be leveraged.
+Note: For the purposes of an MVP of documentation, the L&D team will stop channel documentation here and iterate in the future as we discover how these additional tabs can be leveraged.
 
 ### Editing an existing channel
 
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content`
+1. Click on `channels`
+1. Here, you can turn the `promotion` tab on or off if you'd like to promote the channel to users
+1. Locate the channel you'd like to edit in the list. Click on the small penctil button to edit. Here, you can also delete or view the history of the channel, see the title, and related user information
+1. From here, follow the steps above for Creating a new channel to make any edits or updates to the existing channel
 
 
 ## Carousels
