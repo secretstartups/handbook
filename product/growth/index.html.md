@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: How the growth team works
+title: How the growth section works
 ---
 
 ## On this page
@@ -19,12 +19,12 @@ help with this mission:
 
 - Activation, Conversion, Expansion, and Adoption connect users to the existing value that GitLab already delivers by
 rapid experimentation.
-- [Product Analytics](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Product Intelligence](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/direction/growth/) we outline the Growth section's long term direction and near term focus areas.
 
-## How the Growth team works
+## How the Growth section works
 
 ### Growth ideation and prioritization
 
@@ -64,7 +64,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Attendees: Growth team members
     1. Goals: Discuss anything Growth engineering related.
     1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20Engineering%20Weekly%22)
-1. Weekly Product Analytics and Data Weekly Sync
+1. Weekly Product Intelligence and Data Weekly Sync
     1. Attendees: Product Analytics and Data
     1. Goals: Stay in-sync for work across product analytics, data engineering, and data analysis.
     1. Agenda: [link](https://docs.google.com/document/d/1csx0ZLhRIu_JcG2mXsmB14RA9oQfTtfO-p0Dywi9w9I/edit?usp=sharing)
@@ -76,7 +76,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Attendees: Growth PMs
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
     1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
-1. Bi-weekly sync with Product Analytics, Data, Customer Success, and Sales
+1. Bi-weekly sync with Product Intelligence, Data, Customer Success, and Sales
     1. Product Analytics, Data, Customer Success, and Sales
     1. Goals: Stay in-sync for work across Product Analytics, Data, Customer Success, and Sales
     1. Agenda: [link](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit?usp=sharing)
@@ -111,7 +111,7 @@ We will use the label `~Growth-Deliverable` to differentiate this from a typical
 
 ## How Growth launches experiments 
 
-Since the Growth team is among the first teams to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below to help other teams interested in experimentation to get started faster.  
+Since the Growth section is among the first groups to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below to help other teams interested in experimentation to get started faster.  
 
 - [Experiment guide for Product managers](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/14)
 - [Experiment ideation Process](https://gitlab.com/gitlab-org/growth/experiment-design-repo/-/issues/1)
@@ -119,7 +119,7 @@ Since the Growth team is among the first teams to launch product experiments and
 - [Growth Engieering Handbook page on running experiments](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments)
 - [A way for GitLab team members to view currently active experiments on GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/issues/262725)
 
-## How Growth collaborates with other teams
+## How Growth collaborates with other groups
 
 The hypotheses explored by Growth will span across groups and stages. How do other groups interact with Growth?
 
