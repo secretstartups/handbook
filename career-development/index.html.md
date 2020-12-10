@@ -78,7 +78,7 @@ Those interested in these roles must:
 - show managerial interest
 - have experience in the individual contributor role for which they would be managing
 - have been employed at GitLab for at least 6 months and thriving in our remote-only context
-- exemplify [GitLab Values](/handbook/values)
+- exemplify [GitLab Values](/handbook/values/)
 - For Acting Manager roles: be subject to a talent review depending on the length of appointment
 - For Interim Manager roles: Apply through [Greenhouse](https://about.gitlab.com/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
 
