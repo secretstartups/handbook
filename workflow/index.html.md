@@ -18,6 +18,27 @@ Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/
 
 We have [specific rules around code review](/handbook/engineering/workflow/code-review/).
 
+## Reverting a merge request
+
+In line with our values of [short toes](/handbook/values/#short-toes), [making two-way-door decisions](handbook/values/#make-two-way-door-decisions)
+and [bias for action](/handbook/values/#bias-for-action), anyone can
+propose to revert a merge request. When deciding whether an MR should be reverted,
+the following should be true:
+
+* Something broke and there is no acceptable work around. Examples of this include:
+  * A feature broke and is categorized as `~severity::1` or `~severity::2`.
+  [See severity labels](/handbook/engineering/quality/issue-triage/#severity)  
+  * [Master broke](#broken-master)
+  * There are failing migrations
+* There are no dependencies on the change. For example, a database
+migration has not been run on production.
+
+Reverting merge requests that add non-functional changes and don't remove any existing capabilities
+should be avoided in order to prevent designing by committee.
+
+The intent of a revert is never to place blame on the original author. Additionally, it is helpful
+to inform the original author so they can participate as a DRI on any necessary follow up actions.
+
 ## Broken `master`
 
 If you notice that pipelines for the `master` branch of [GitLab] or [GitLab FOSS] is failing (red) or broken (green as a false positive), returning the build to a passing state takes priority over everything else development related, since everything we do while tests are broken may break existing functionality, or introduce new bugs and security issues.
