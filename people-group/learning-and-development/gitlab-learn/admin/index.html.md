@@ -18,7 +18,7 @@ The following processes are used by administrators of the EdCast platform.
 ### Creating a new channel
 
 1. Login to Edcast and navigate to the `admin` panel
-1. Click on the `content`
+1. Click on the `content` tab
 1. Click on `channels`
 1. Click on `add channel`
 1. In the `setup` tab, define the following for your channel:
@@ -38,16 +38,40 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
 ### Editing an existing channel
 
 1. Login to Edcast and navigate to the `admin` panel
-1. Click on the `content`
+1. Click on the `content` tab
 1. Click on `channels`
 1. Here, you can turn the `promotion` tab on or off if you'd like to promote the channel to users
 1. Locate the channel you'd like to edit in the list. Click on the small penctil button to edit. Here, you can also delete or view the history of the channel, see the title, and related user information
-1. From here, follow the steps above for Creating a new channel to make any edits or updates to the existing channel
+1. From here, follow the steps above for `Creating a new channel` to make any edits or updates to the existing channel
 
 
 ## Carousels
 
+
+### Managing existing custom carousels
+
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Click on `custom carousels`
+1. Here, you can edit and enable/disable carousels. Disabled carousels will not be visible on the Discover page
+1. Cick on the pencil icon
+1. In editing a carousel, you can change the style and add channels, users, or cards. When you're done editing, click the `done` button to save your changes 
+1. You can update the name of your carousel. Be sure to click the `update carousel name` button to save your changes.
+
 ### Creating a custom carousel
+
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Click on `custom carousels`
+1. Choose `select type` and decide on the type of channel you'd like to create. You can feature users, smart cards, or channels in a carousel.
+1. Add a name to the carousel. This name will appear on the discover page above the carousel and should indicate what the learner will find or be able to achieve in this carousel.
+1. Click `create carousel`
+1. This will open up a tab where you can further build the carousel.
+1. If you create a carousel of smart cards, use the `default` rectangular shape for display. If you create a carousel of channels, use the `classic icon` shape for display.
+1. Add relevant channels or smart cards by searching and clicking on the content you'd like to feature. You can drag and drop these items to arrange the order, and delete unnecessary conent using the trash icon.
+1. When you've completed your carousel, click the `done` button.
+1. Return to the `custom carousels` tab and be sure the enable/disable tab is `on` for it to appear on the discover page. If you'd like to save the carousel to be featued at a later date, leave this tab in the `off` mode
+
 
 ### Adding a channel to a carousel
 
