@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Custom domain verification on GitLab.com
 category: GitLab.com
+description: How Support will verify a custom domain if required for GitLab.com.
 ---
 
 ## On this page

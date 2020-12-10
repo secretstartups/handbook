@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Service Desk Troubleshooting
 category: GitLab.com
+description: Basic process on troubleshooting Service Desk within GitLab.com.
 ---
 
 ## On this page

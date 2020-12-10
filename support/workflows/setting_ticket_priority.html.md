@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Setting ticket priority
 category: Zendesk
+description: How to set and change priority for a ZenDesk ticket.
 ---
 
 ## On this page
