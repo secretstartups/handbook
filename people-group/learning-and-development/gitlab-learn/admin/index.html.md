@@ -48,16 +48,6 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
 ## Carousels
 
 
-### Managing existing custom carousels
-
-1. Login to Edcast and navigate to the `admin` panel
-1. Click on the `content` tab
-1. Click on `custom carousels`
-1. Here, you can edit and enable/disable carousels. Disabled carousels will not be visible on the Discover page
-1. Cick on the pencil icon
-1. In editing a carousel, you can change the style and add channels, users, or cards. When you're done editing, click the `done` button to save your changes 
-1. You can update the name of your carousel. Be sure to click the `update carousel name` button to save your changes.
-
 ### Creating a custom carousel
 
 1. Login to Edcast and navigate to the `admin` panel
@@ -72,12 +62,28 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
 1. When you've completed your carousel, click the `done` button.
 1. Return to the `custom carousels` tab and be sure the enable/disable tab is `on` for it to appear on the discover page. If you'd like to save the carousel to be featued at a later date, leave this tab in the `off` mode
 
+### Editing existing custom carousels
 
-### Adding a channel to a carousel
-
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Click on `custom carousels`
+1. Here, you can edit and enable/disable carousels. Disabled carousels will not be visible on the Discover page
+1. Cick on the pencil icon
+1. In editing a carousel, you can change the style and add channels, users, or cards. When you're done editing, click the `done` button to save your changes 
+1. You can update the name of your carousel. Be sure to click the `update carousel name` button to save your changes.
 
 
 ## Editing the Discover page
+
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `settings` tab
+1. Click on `configuration`
+1. Navigate to the `discover` tab
+1. On this page, you can
+     - Drag and drop carousels to edit their arrangement on the discover page
+     - Rename built in carousels
+     - Toggle built in carousels to be on or off
+
 
 ## Image guidelines
 
@@ -89,6 +95,11 @@ When image guidelines are set, this section will be udpated to reflect how the t
 ### Images for Channels
 ### Images for Groups
 ### Photograph Resources
+
+The GitLab team will use the following photographers on [Unsplash.com](https://unsplash.com/) for images in the LXP.
+
+- [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
+- [WOCintech](https://unsplash.com/@wocintechchat)
 
 ## Creating a badge
 
