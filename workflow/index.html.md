@@ -632,7 +632,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
 
 1. To participate in the bi-weekly refinement, ask your engineering director to forward the invite of the *Performance Refinement* meeting which is at 15:00 UTC every other Thursday. Here is the [meeting agenda](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#).
 1. To nominate issues to the board:
-   1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
+   1. Assign [a performance severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
    1. Use the label `performance-refinement`.
 1. For the issues under the **Open** column:
