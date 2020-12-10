@@ -14,6 +14,8 @@ description: "Marketo is our marketing automation platform used for email market
 
 [Marketo](https://www.marketo.com/) is our marketing automation platform used for email marketing, lead management, and program management. 
 
+To see the different systems that are connected to Marketo, please visit the [Marketo System Infrastructure Mapping Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1604947309706/7aec5684a2fa4671823c5acd352348b04562950f).
+
 ### Marketo <> Salesforce.com Connection
 You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
 
@@ -35,7 +37,7 @@ Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded fo
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
-**Translated Forms Available**: Spanish, French, Italian, German, Portuguese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for P0 countries.
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -47,6 +49,7 @@ All forms should follow these guidelines:
 - When `Country` = `Ukraine` there is an additional checkbox for the submitter to confirm they do not belong to the Crimean region of the Ukraine
 - Country should not include [embargoed countries ](/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) 
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
+- Do not use lightboxes
 
 For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
 
@@ -57,15 +60,15 @@ There is a set limit of 250,000 records that can be processed through a given sm
 
 #### Standardization of Country &/or State values
 
-There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. All of the standardization smart campaigns are contained in:  
+There are several workflows that clean the `Country` &/or `State` fields to ensure the value meets required Salesforce format. States should be spelled out, not using abbreviations (ex. CA should be California). If a `Country` &/or `State/Province` standardization does not match SFDC exactly, the lead will not sync. If a new standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). 
+
+All of the standardization smart campaigns are contained in:  
 
 `Marketing Activities` -> `Operational - Do not edit` -> `Data Management` -> `01 Data Management` -> `04-Normalize Data`   
 
 - These countries are the only ones that accept a state value: United States, Canada, Ireland, India, Brazil, Australia, China, Italy, Mexico
 - All 50 US states and all Canadian Provinces have standardization campaigns to set them from their two letter abbreviation to their full spelling.
 - The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
-
-If a `Country` &/or `State/Province` standardization is needed, please open an issue in the [Marketing Operations project](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
 
 
 ### MQL Definition
@@ -127,7 +130,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
 |Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
-|Web: Visits Low Value	Visits Low Value Webpages|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
+|Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
 |Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
@@ -229,4 +232,4 @@ The Field Marketing and Marketing Program teams use targeted email lists as a to
 * Final Smart List is available 2 days prior to email deployment - MOps
 
 ## Mailchimp sends
-In some cases, we will use Mailchimp for sending emails. This is the case for security alert emails. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 
+Our Mailchimp subscription is currently paused to prevent being billed while we deprecate. We are allowed to unpause 2x a year. We can unpause only in the rare case of needing to send a large security alert email. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 
