@@ -11,7 +11,7 @@ title: "GitLab Unfiltered blog handbook"
 
 The GitLab Unfiltered blog is inspired by the spirit of [transparency](/handbook/values/#transparency) and "[everyone can contribute](/company/strategy/#mission)." Team members can publish posts without going through the Editorial team for review, and we may choose some posts to feature on the main blog. You can publish as often as you like, get your posts up much faster, and don't need to ensure that they align with our content strategy.
 
-Any GitLab team member can publish to the GitLab Unfiltered blog, provided they follow the process below, the post is relevant to GitLab or your work at GitLab (i.e. don't treat it as your personal blog), is in keeping with our [values](/handbook/values), and would not cast GitLab in a negative light. If you're not sure if your topic is appropriate for GitLab Unfiltered, please share your issue or merge request in #content on Slack to get feedback. If any team member publishes a post that is unsuitable they may have their right to publish revoked.
+Any GitLab team member can publish to the GitLab Unfiltered blog, provided they follow the process below, the post is relevant to GitLab or your work at GitLab (i.e. don't treat it as your personal blog), is in keeping with our [values](/handbook/values/), and would not cast GitLab in a negative light. If you're not sure if your topic is appropriate for GitLab Unfiltered, please share your issue or merge request in #content on Slack to get feedback. If any team member publishes a post that is unsuitable they may have their right to publish revoked.
 
 ## Is my blog post right for Unfiltered?
 
