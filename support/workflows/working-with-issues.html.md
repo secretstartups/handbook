@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Working with Issues
 category: Handling tickets
-description: The support team uses the processes and escalation points described on this page when creating, updating and escalating with GitLab issues.
+description: The support team uses the processes and escalation points described on this page when creating, updating and escalating GitLab issues.
 
 ---
 
