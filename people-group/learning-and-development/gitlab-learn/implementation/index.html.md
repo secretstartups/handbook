@@ -1,7 +1,13 @@
 ---
 layout: handbook-page-toc
-title: GitLab Groundworks Implementation
+title: GitLab Learn Implementation
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 
 # Implementation of the EdCast LXP
