@@ -209,9 +209,18 @@ This field inherits data from other fields in the following priority: 1. Admin M
    1. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
    1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
    1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
-   1. Accounts that would move segment or region must be approved by Sales Operations based on quota prior to a quarterly move. If the move will negatively affect quota it will be moved during the annual review process.
 1. **Annual Review Process**
-   1. Accounts will still be reviewed annually that need to be moved across segments as part of the annual territory carving process. The process may also happen pro-actively mid-year if the operations team feels that there are too many accounts that are misaligned and would affect quota significantly.
+   1. Accounts will still be reviewed annually prior to the Fiscal Year planning process and territory carving.
+
+   <details>
+<summary markdown='span'>
+  Sales Ops Operators Guide for Account Review and Moves
+</summary>
+ 
+ 1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
+ 1. Update any of the data on the account if needed to reflect what was provided
+ 1. Select the Picklist Value
+</details>
 
 **Understanding Account Assignment, Rules and Definitions**
 
