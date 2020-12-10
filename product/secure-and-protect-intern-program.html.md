@@ -184,7 +184,7 @@ To apply, please reach out to both David DeSanto (`@david`) and the mentor for l
 
 | Time frame | Mentor | Track |
 | January-July 2021 | @stkerr | Open Source |
-| January 15, 2021 - February 19, 2021 | @sam.white | PM Shadow |
+| January 18, 2021 - February 19, 2021 | @sam.white | PM Shadow |
 
 ### Interns
 
