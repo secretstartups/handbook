@@ -425,13 +425,13 @@ Note, this is different than the routine co-selling practice however it could in
 
 #### How do AEs become active Partner opportunities?
 1. [Approved Partner GitLab Deal Registrations (PIO’s)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
-1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
+1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` or to your Channel Account Manager with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
 
 #### More resources on selling with Partners
 - LevelUp video starts with a basic understanding of the Channel Partner landscape in [Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U). 
 - LevelUp video on [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2), specifically for AE’s to learn more about co-selling success.
 - Learn more about co-selling best practices, and how Partners can help build out key elements of an AE’s  R7 & Command Plans. This is found in the "Channel Partner Co-Selling" document.  
-- Slack `#channel-sales` with any questions or requests for assistance. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.  
+- Slack `#channel-sales` with any questions or requests for assistance or reach out to your Channel Account Manager. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.  
 
 
 ## Center of Excellence
