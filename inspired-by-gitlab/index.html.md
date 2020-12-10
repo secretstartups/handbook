@@ -13,7 +13,7 @@ title: "Inspired by GitLab"
 
 Any company that has been inspired by GitLab's culture and/or by any part of our handbook can be listed here.
 
-[Transparency](/handbook/values/#transparency) is one of [GitLab's values](/handbook/values), and so we encourage you and your company to read our handbook and use the parts that make sense to your business, or even adapt it to your context.
+[Transparency](/handbook/values/#transparency) is one of [GitLab's values](/handbook/values/), and so we encourage you and your company to read our handbook and use the parts that make sense to your business, or even adapt it to your context.
 
 With that, we want to know what on GitLab's culture or on GitLab's handbook inspired you, and how are you and your company using it to the benefit your business?
 
