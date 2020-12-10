@@ -215,7 +215,7 @@ Then the E-Group decides on the book. They will occassionally choose a book with
 The book will be finalized no less than 1 month prior to the offsite.
 
 When possible, the book discussion will be live streamed to the GitLab Unfiltered account in order to provide transparency and insight into action items that come from the discussion. 
-Live streaming will further engage team members while promoting trust in leadership's commitment to the [GitLab values](/handbook/values).
+Live streaming will further engage team members while promoting trust in leadership's commitment to the [GitLab values](/handbook/values/).
 
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book. 
 This also allows team members to engage in the book.
