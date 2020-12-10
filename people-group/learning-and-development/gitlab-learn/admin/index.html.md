@@ -82,10 +82,23 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
      - Toggle built in carousels to be on or off
 
 
-## Journeys, Pathways, and Smart cards
+## Editing journeys, pathways, and smart cards
 
-Journeys, pathways, and smart cards are created in the front end of EdCast, as all learners have the option to contribute. This content is edited and moderated in the admin section of EdCast. The following steps outline how to manages journeys, pathways, and smart cards in this admin section. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
+Journeys, pathways, and smart cards are created in the front end of EdCast, as all learners have the option to contribute. This content is edited and moderated in the admin section of EdCast. The following steps outline how to manages journeys, pathways, and smart cards in this admin section. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
 
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Choose either the `smartcards`, `journeys`, or `pathways`
+1. In each tab, you'll find a list display of all the content in each type. From this list, you can:
+     - View data about the content, like creation date, creator, title, tags, realted channels, and state
+     - Promote content using the toggle on/off option
+     - Delete content using the trash icon
+     - Edit backend content information by clikcing on the pencil icon
+
+Note: Edits that you'd like to made related to arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
+
+- Arrangement of smartcards in a pathway, or pathways in a journey
+- Badging information
 
 ## Image guidelines
 
