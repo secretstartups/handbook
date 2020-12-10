@@ -16,7 +16,7 @@ To add a contact please follow these steps:
 ## Process Following Contact Role Assignment:
 1. There is a campaign in Gainsight via the Journey Orchestrator that listens on a daily basis for new contacts
 1. The conditions of this campaign are:
-    1. Subscription start date =<30 days
+    1. Customer Since =<30 days
     1. Segment = MM, SMB
     1. Territory excludes PubSec
     1. Contact role = technical
