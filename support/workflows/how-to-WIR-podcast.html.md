@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: How to do a WIR Podcast
 category: References
+description: General guide for creating a Support Week-in-Review Podcast
 ---
 
 ## On this page

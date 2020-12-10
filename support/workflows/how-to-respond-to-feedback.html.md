@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: How to Respond to Feedback (for Managers)
 category: Handling tickets
+description: Discusses the Support Team's Support Satisfaction review process, and actions which Managers take to respond to customer feedback
 ---
 
 ## On this page

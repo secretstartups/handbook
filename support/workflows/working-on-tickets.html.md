@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Working on Tickets
 category: Handling tickets
+description: How to resolve users' problems by solving tickets on a daily basis. Covers the Support Process, Zendesk views, assignment, escalation
 ---
 
 ## On this page
