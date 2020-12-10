@@ -202,6 +202,8 @@ PTO by Roots provides an experience that allows you to set roles and tasks for c
 you’re away. Accepted roles then become a part of a Slack away message that appears as
 co-workers try to tag you in discussions while you’re OOO.
 
+**Don't assign a `#channel`** to a role, because that causes several reminder messages to that channel.
+
 ##### Bulk Add holidays
 
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Roots in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
