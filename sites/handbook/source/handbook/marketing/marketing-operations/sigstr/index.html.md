@@ -61,6 +61,8 @@ The [integration between Sigstr and Salesforce](https://help.sigstr.com/en/artic
 
 Sigstr appends campaign banners to Outreach signatures every 24 hours. If they are changed from Sigstr, campaign banners in Outreach update in real-time. There must be an employee in Sigstr with an email address that matches the user or mailbox in Outreach in order for a campaign banner to be appended.
 
+**Please note:** Outreach only supports sender-based campaigns at this time.
+
 #### PathFactory
 
 Each Sigstr campaign banner only points to one link. With PathFactory, you can use one link while providing additional content for the receipient to consume.
