@@ -151,3 +151,13 @@ Email communication with customers can be recorded in Salesforce within the acco
 
 - Question: Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
 - Answer: It is not required to automatically log your calls via the Salesforce-Google calendar plugin and we aren't currently planning to analyze that information.
+
+### Troubleshooting steps (with Troops)
+
+**Troops didn't send me a notification after the call, what may have been the cause?**
+
+It can take 0-8 minutes for the system to ping you. After that, here are several QA steps:
+- Zero external persons listed as invitees on the calendar; the invite was sent by the customer, but the attendee list only has internal GitLab employees
+- Invitees do no exist in Salesforce (e.g., the call cannot be logged against anything in SFDC)
+- The invitees are listed in SFDC, but under a different email address (e.g., email does not match)
+- While we have a primary Email field and another field called something like Email #2, Troops only looks to the primary Email field.
