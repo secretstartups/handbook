@@ -227,16 +227,16 @@ For some incidents, we may figure out that the usage patterns that led to the is
 
 ### Summary of Backup Strategy
 
-- Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service, paralelly. These backups are of course encrypted.
-- Our current backup policy is the following:
-  - Initial 14 days: we keep the backups in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) Storage class in GCS.
-  - After 14 days our backup is moved to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class in GCS.
-  - After 40 days our backup is moved to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class in GCS.
-  - After 120 days our backups are deleted.
+- Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service in parallel. These backups are encrypted, and follow the lifecycle:
+  - Initial 14 days in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) storage class.
+  - After 14 days migrated to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class.
+  - After 40 days migrated to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class.
+  - After 120 days, backups are deleted.
 
-- Additionally, backups of our filesystems are taken via GCP snapshots every 4 hours.
-- Our current snapshot retention policy is 30 days.
+- Snapshots of filesystems are taken every 4 hours; this is primarily git repository data but also includes other transient operational data
+  - These are retained for 30 days.
 
+Data stored in Object Storage (GCS) such as artifacts, the container registry, and others have no additional backups, relying on the [99.999999999% annual durability](https://cloud.google.com/storage/docs/storage-classes#descriptions) and multi-region buckets.
 
 For details see the runbooks, particularly for [GCP snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/uncategorized/gcp-snapshots.md) and [Database backups using WAL-E/WAL-G (encrypted)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/postgresql-backups-wale-walg.md)
 
