@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Infrastructure: ARM"
+description: "Describes the hardware and use of infrastructure for building ARM packages."
 ---
 
 ## On this page

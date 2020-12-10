@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Distribution Team Merge Request Handling"
+description: "Workflow and responsibilities for Merge Requests performed by Distribution Engineers."
 ---
 
 ## On this page

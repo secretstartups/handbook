@@ -49,7 +49,7 @@ We focus on validating ideas with data across the following four Groups:
 
 The Growth groups also provide development input into two Growth product areas of focus:
 
-1. [New user flow](https://gitlab.com/groups/gitlab-org/-/epics/4745)
+1. [First Mile](https://gitlab.com/groups/gitlab-org/-/epics/4745) (New user flow)
 2. [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817)
 
 We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/product-categories/#growth-stage)
@@ -68,15 +68,14 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 | [Expansion](expansion/)                    | `~"group::expansion"`         |
 
 
-## Members
+## People leaders in development
 
-The following people are permanent members of the Growth sub-department:
 
 <%=
 departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Analytics']
 department_regexp = /(#{Regexp.union(departments)})/
 
-direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth')
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Threat Management and Growth')
 %>
 
 ## All Team Members
@@ -96,7 +95,7 @@ The following people are permanent members of groups that belong to the Growth s
 <%= department_team(base_department: "Expansion Team") %>
 
 ### Product Analytics Backend
-<%= department_team(base_department: "Product Analytics BE Team") %>
+<%= department_team(base_department: "Product Analytics Team") %>
 
 <!--
 ### Product Analytics Frontend
@@ -109,9 +108,9 @@ The following table shows who will provide cover if one or more of the Growth En
 
 | Team Member     | Coverered by           | Escalation     |
 | -----           | -----                  | -----          |
-| Bartek Marnane  | Christopher Lefelhocz  | Eric Johnson   |
-| Jerome Ng       | Phil Calder            | Bartek Marnane |
-| Phil Calder     | Jerome Ng              | Bartek Marnane |
+| Wayne Haber     | Christopher Lefelhocz  | Eric Johnson   |
+| Jerome Ng       | Phil Calder            | Wayne Haber    |
+| Phil Calder     | Jerome Ng              | Wayne Haber    | 
 
 If an Engineer is unavailable the Engineering Manager will reassign open issues and merge requests to another engineer, preferably in the same [group](#all-team-members).
 
@@ -223,6 +222,10 @@ To support [Iteration](/handbook/values/#iteration) Growth engineering:
 #### Work affecting Salesforce.com
 
 In an effort to prevent accidental outages to business critical processes, whenever we touch code which may have a direct or indirect impact on data flowing into Salesforce.com, we should assign @jbrennan1 to the MR as a reviewer and add the `~"Affects Salesforce"` label.
+
+### Team performance indicators
+
+[Team performance indicators](/handbook/engineering/development/performance-indicators/growth/)
 
 ## Running Experiments
 

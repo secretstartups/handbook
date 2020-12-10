@@ -33,31 +33,31 @@ This funnel represents the customer journey and the various means a product mana
 ```mermaid
 classDiagram
   Acquistion --|> Activation
-    Acquistion: Awareness
-    Acquistion: Measurement (# of page views on https://docs.gitlab.com/ee/ci/pipelines/settings.html#test-coverage-parsing)
   Activation --|> Retention
-    Activation : Use
-    Activation: Measurement (# of page views of Project Code Coverage Graph)
   Retention --|> Revenue
-    Retention : Continued Use
-    Retention: Measurement (# of projects that have viewed code coverage graph by day)
   Revenue --|> Referral
-    Revenue : Payment
-    Revenue: Measurement (# of projects that have viewed group code coverage graph by day)
   Referral --|> Acquistion
+    Acquistion : Awareness
+    Acquistion : Measurement (page views on test coverage parsing docs)
+    Activation : Use
+    Activation : Measurement (page views of Project Code Coverage Graph)
+    Retention : Continued Use
+    Retention : Measurement (projects that have viewed code coverage graph by day)
+    Revenue : Payment
+    Revenue : Measurement (projects that have viewed group code coverage graph by day)
     Referral : Talk about
-    Referral: Measurement (Insert Metric)
+    Referral : Measurement (TBD)
 ```
 
 ## Team Members
 The following people are permanent members of the Verify:Testing group:
 
-<%= shared_team_members(role_regexps: [/Verify(?!:)/, /Verify:Testing/]) %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
 
 ## Stable Counterparts
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify.*Testing/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Continuous Integration', 'Backend Engineering Manager, Verify:Runner']) %>
 
 #### JTBD
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/testing/JTBD/#jobs-to-be-done).
@@ -119,6 +119,7 @@ Engineering managers apply the `Deliverable` label on issues that meet the follo
 * It is delivering value that is visible to the user
 * It is near the top of the issue board (high priority)
 * The issue is well-defined
+* UX DoD is applied 
 * The issue is weighted
 * The engineering manager believes we have the capacity to complete the work in the assigned milestone
 * The team has accepted the issue into the milestone and moved it to ~"workflow::ready for development" status
@@ -136,6 +137,7 @@ Before the team will accept an issue into a milestone for work it must meet thes
 * Issues labeled ~bug include steps to reproduce
 * Designs are in the design tab if needed
 * If the issue will be worked on by Verify:Testing engineers, it has a [weight](https://about.gitlab.com/handbook/engineering/development/dev/create-source-code-be/#weights)
+* Design proposal satisfies the [UX Definition of Done (DoD)](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/#definition-of-done-for-ux-pilot)
 
 #### Definition of Blocked
 Issues that depend on another issue to be completed before they can be validated on `Canary` are considered blocked, and should have the `~workflow::blocked` label applied. The issues should also be marked as blocked within the [related issues section](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue) of the issues.

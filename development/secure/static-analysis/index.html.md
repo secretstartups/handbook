@@ -24,7 +24,10 @@ The Static Analysis group at GitLab is charged with developing solutions which p
 ## How We Work
 
 The Static Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as
-[Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/).
+[Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/). Where we differ in approach is that we assign engineers to 
+epics rather than issues. Engineers are empowered to identify the next issue which should be worked to achieve the objectives of the epic and pull issues through the workflow states.
+
+Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's frontend team if UI changes are required. We will [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us) for initiatives like these.
 
 ### Product Prioritization Labels
 
@@ -111,8 +114,7 @@ from the community. Each backend engineer in the group will serve as the [Commun
 
 ## Issue Boards
 
-* [Static Analysis Planning Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1590105?label_name[]=group%3A%3Astatic%20analysis)
-* [Static Analysis Delivery Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis)
+* [Static Analysis Delivery Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
 * [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
 * [Static Analysis Next X-Y Release Board](https://gitlab.com/groups/gitlab-org/-/boards/1702880?label_name[]=group%3A%3Astatic%20analysis)
 * [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
