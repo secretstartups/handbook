@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Inbound Marketing"
-description: "The Inbound Marketing focuses on growing revenue for GitLab by increasing traffic and improving conversion rates on GitLab's public websites"
+title: "Search Marketing"
+description: "The Search Marketing focuses on growing revenue for GitLab by increasing traffic and improving conversion rates on GitLab's public websites"
 ---
 
 ## On this page
@@ -10,26 +10,26 @@ description: "The Inbound Marketing focuses on growing revenue for GitLab by inc
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Inbound Marketing
+## Search Marketing
 
-The Inbound Marketing team focuses on helping grow revenue for GitLab by increasing traffic to GitLab public websites and improving conversion paths for visitors to become MQLs (Marketing Qualified Leads). We use research and data to help improve organic discovery and make sure our offers match visitor expectations across about.gitlab.com.
+The Search Marketing team focuses on helping grow revenue for GitLab by increasing traffic to GitLab public websites and improving conversion paths for visitors to become MQLs (Marketing Qualified Leads). We use research and data to help improve organic discovery and make sure our offers match visitor expectations across about.gitlab.com.
 
-## Meet the Inbound Marketing team
+## Meet the Search Marketing team
 
 [**Shane Rice**](https://about.gitlab.com/company/team/#shanerice)
 
-* Title: Manager, Inbound Marketing
+* Title: Manager, Search Marketing
 * GitLab handle: shanerice
 * Slack handle: @shanerice
 
 [**Niall Cregan**](https://about.gitlab.com/company/team/#niallcregan)
 
-* Title: Inbound Marketing Associate
+* Title: Search Marketing Manager
 * GitLab handle: ncregan
 * Slack handle: @Niall Cregan
 
 [**Hanif Smith-Watson**](https://about.gitlab.com/company/team/#hsmith-watson)
-* Title: Inbound Marketing Manager
+* Title: Search Marketing Manager
 * GitLab handle: hsmith-watson
 * Slack handle: @Hanif Smith-Watson 
 
@@ -45,7 +45,7 @@ The Inbound Marketing team focuses on helping grow revenue for GitLab by increas
 
 ## Total conversion rate
 
-The Inbound Marketing team focuses on growing revenue for GitLab by increasing traffic that generates new accounts for sales and our self-service workflows. To arrive at our total conversion rate we divide unqiue form submit events by unique pagevies on about.gitlab.com.
+The Search Marketing team focuses on growing revenue for GitLab by increasing traffic that generates new accounts for sales and our self-service workflows. To arrive at our total conversion rate we divide unqiue form submit events by unique pagevies on about.gitlab.com.
 
 We publish our total conversion rate monthly in dataStudio.
 
@@ -63,7 +63,7 @@ Most people entering gitlab.com and all sub-domains start their journey on a sea
 We don't engage in any dark patterns to trick people or search engine bots. We focus on improving the technical signals our site sends by limiting broken pages, adding redirects, updating metadata, removing duplicate content, and providing relevant research to teams across GitLab. The rest of this page is devoted to the processes we follow to improve overall organic discovery.
 
 ### SEO slack channel
-If you notice something in search and have a question about why it is happening, bring your questions to [#seo-improvement](https://gitlab.slack.com/archives/CPAPAKKA7). The Inbound Marketing team is active there and happy to investigate search issues.
+If you notice something in search and have a question about why it is happening, bring your questions to [#seo-improvement](https://gitlab.slack.com/archives/CPAPAKKA7). The Search Marketing team is active there and happy to investigate search issues.
 
 ### Setting canonical URLs
 

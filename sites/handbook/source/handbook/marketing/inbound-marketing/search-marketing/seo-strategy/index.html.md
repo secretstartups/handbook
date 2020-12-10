@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab SEO strategy"
-description: "The Inbound Marketing team is repsonsible for the creation and execution of GitLab's SEO strategy."
+description: "The Search Marketing team is repsonsible for the creation and execution of GitLab's SEO strategy."
 ---
 
 # GitLab SEO strategy
@@ -40,7 +40,7 @@ Blog visitors don’t convert at the same rate as product page visitors
 
 We will help the blog attract visitors and help those visitors discover product pages.
 
-The Inbound Marketing team will focus our support on pages with the most valuable marketing motions and focus most of our on-page optimization efforts product pages.
+The Search Marketing team will focus our support on pages with the most valuable marketing motions and focus most of our on-page optimization efforts product pages.
 
 ## What we prioritize
 
@@ -95,15 +95,15 @@ GitLab will give search engines relevant signals to help them understand when ou
 
 We use site health tools and web analytics to understand how search engines and visitors navigate our site.
 
-The Inbound Marketing team is responsible for the execution of technical SEO for marketing pages on about.gitlab.com and help identify and coach responsible teams for SEO execution in the handbook, docs site, and product.
+The Search Marketing team is responsible for the execution of technical SEO for marketing pages on about.gitlab.com and help identify and coach responsible teams for SEO execution in the handbook, docs site, and product.
 
 ## Creating a culture of SEO
 
-### Goal: The Inbound Marketing team will create a culture of SEO to grow best practices with teams across GitLab to help manage SEO for the handbook, docs site, and product.
+### Goal: The Search Marketing team will create a culture of SEO to grow best practices with teams across GitLab to help manage SEO for the handbook, docs site, and product.
 
-At GitLab, we believe that everyone can contribute. This leads the Inbound Marketing team to focus on teaching what we know so that every aspect of GitLab's business can reach its full organic search potential.
+At GitLab, we believe that everyone can contribute. This leads the Search Marketing team to focus on teaching what we know so that every aspect of GitLab's business can reach its full organic search potential.
 
-For our initial focus, the Inbound Marketing team will create videos to share best practices for on-page content and long-term care of URLs, including managing internal redirects.
+For our initial focus, the Search Marketing team will create videos to share best practices for on-page content and long-term care of URLs, including managing internal redirects.
 
 ## How our SEO strategy impacts content strategy
 We want to build content clusters that match the intent of our target visitors with relevant content with a depth designed to engage people as they land on a page. 
