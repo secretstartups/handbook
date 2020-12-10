@@ -59,7 +59,9 @@ Any use of third-party trademarks should be covered by a Trademark Use Agreement
 
 ## Contests and Sweepstakes
 
-From time to time, GitLab runs contests and sweepstakes. While these seem simple enough and may be an effective marketing tactic, there are quite a few factors to consider when planning such an event. If you are planning such an event, you will need legal approval for the proposed event. Please use the [Sweepstakes Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) housed in the Marketing Ops repo. 
+From time to time, GitLab runs contests and sweepstakes. While these seem simple enough and may be an effective marketing tactic, there are quite a few factors for Legal to consider when planning such an event. Because of this, requests for Terms and Conditions should be submitted at least 2 weeks prior to the date you need a decision. 
+
+If you are planning such an event, you will need legal approval for the proposed event. Please use the [Sweepstakes Legal Template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=sweepstakes_legal_template) housed in the Marketing Ops repo. 
 
 The following explanations will help you fill out the form completely. This is essential, as all of the questions were developed based on legal requirements. Issues that do not answer all the questions will not be approved.
 
