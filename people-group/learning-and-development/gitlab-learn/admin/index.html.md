@@ -82,6 +82,11 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
      - Toggle built in carousels to be on or off
 
 
+## Journeys, Pathways, and Smart cards
+
+Journeys, pathways, and smart cards are created in the front end of EdCast, as all learners have the option to contribute. This content is edited and moderated in the admin section of EdCast. The following steps outline how to manages journeys, pathways, and smart cards in this admin section. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
+
+
 ## Image guidelines
 
 The L&D team is collaborating with the GitLab brand team to determine our best approach to using image in the LXP. Internal team members can refer to this [confidential issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/606#note_463614873) during the collaboration.
