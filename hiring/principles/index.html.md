@@ -48,7 +48,7 @@ We've intentionally crafted our hiring and recruiting practices to align with th
 
 Equal Employment Opportunity
 
- Diversity, Inclusion & Belonging  is one of GitLab's core [values](/handbook/values) and
+ Diversity, Inclusion & Belonging  is one of GitLab's core [values](/handbook/values/) and
  GitLab is dedicated to providing equal employment opportunities (EEO) to all team members
  and candidates for employment without regard to race, color, religion, gender,
  national origin, age, disability, caste, class, or genetics. One example of how we put this into practice

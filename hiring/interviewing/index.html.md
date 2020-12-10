@@ -244,7 +244,7 @@ If the manager has a question about compensation, please ping the People Ops Ana
     | ------ | ------ | ------ |------ |
     |Screening Interview with Recruiter|Within 5 days of Screening Interview|Email OR Verbally during the Screening Interview |Standard Template by default, may provide specific feedback, but not required|
     |Assessment|Within 5 days of Asessment Submission|Email |Standard Template by default, may provide specific feedback, but not required|
-    |Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
+    |Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values/). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
 
 1. If people argue with the feedback that we provided:
     * Do not argue with or acknowledge the validity of the contents of the feedback.
