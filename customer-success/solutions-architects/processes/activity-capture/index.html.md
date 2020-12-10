@@ -88,6 +88,7 @@ While all of these fields can be updated and changed anytime as an opportunity e
     - **Win** - The technical evaluation has ended, and the prospect or customer agrees the GitLab solution meets their requirements.
     - **Loss** - The technical evaluation has completed, but the prospect or customer is choosing an alternative solution or not changing their current process due to deficiencies with the evaluated GitLab solution.
     - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation-related activities for at least two weeks.
+- **SA Validated Tech Evaluation Close Details** - The close details are to include a short 1-2 line description of the Close Status
 
 Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the soltuion, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is mimimal.
 
