@@ -31,7 +31,6 @@ The best way to view Seat Counts for a Gitlab.com customer is to access the Cust
     1. Seats in Subscription is what was paid for 
     1. Seats Currently in Use is what is active 
 
-Alternatively, you can see this information on [this Sisense report](https://app.periscopedata.com/app/gitlab/505939/Renewals-Dashboard?widget=8483799&udv=919439) 
 
 It's important to note that ultimately the Customer Portal admin will have the most accurate and up-to-date view of this information. 
 
