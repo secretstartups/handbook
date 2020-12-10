@@ -8,3 +8,20 @@ title: EdCast Admin Documentation
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+
+The following processes are used by administrators of the EdCast platform.
+
+
+## Creating a channel
+
+## Creating a carousel
+
+## Editing the Discover page
+
+## Image guidelines
+
+## Creating a badge
+
+### Badge guidelines
+

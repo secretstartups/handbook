@@ -30,7 +30,7 @@ EdCast first time login steps:
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
-1. Add up to 5 learning goals to your profile. Use the search bar to locate learning goals in the platform. These learning goals can be about any topic you are interested in learning about. Some examples could be `product marketing`, `technical writing`, or `leadership`
+1. Add up to 3 learning goals to your profile. Use the search bar to locate learning goals in the platform. These learning goals can be about any topic you are interested in learning about. Some examples could be `product marketing`, `technical writing`, or `leadership`
 1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This indicates that the goal you've entered does not yet exist in the EdCast database. Consider using a different learning goal or phrase. 
 1. Click `Next Step`
 1. Add skills to your profile. These skills should reflect your own expertise
