@@ -9,9 +9,7 @@ title: EdCast Admin Documentation
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 The following processes are used by administrators of the EdCast platform.
-
 
 ## Channels
 
@@ -46,7 +44,6 @@ Note: For the purposes of an MVP of documentation, the L&D team will stop channe
 
 
 ## Carousels
-
 
 ### Creating a custom carousel
 
@@ -104,10 +101,10 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 - [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
 - [WOCintech](https://unsplash.com/@wocintechchat)
 
+
 ## Creating a badge
 
 Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast plaform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/#requesting-design-help) to request a new badge.
-
 
 ### Adding a badge to EdCast
 
