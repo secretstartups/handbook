@@ -11,6 +11,8 @@ title: EdCast Admin Documentation
 
 The following processes are used by administrators of the EdCast platform.
 
+## Content Management
+
 ## Channels
 
 ### Creating a new channel
@@ -134,6 +136,16 @@ Badges are used in the EdCast platform to award learners who have finished a pat
 1. Click on the badge you'd like to associate with the course
 1. Add a badge name
 1. Click the `done` button
+
+
+## Contribution Approvals
+
+Admin process for approving content contributed to the LXP is coming soon.
+
+## Reporting
+
+Admin process for reporting from EdGraph is coming soon.
+
 
 
 
