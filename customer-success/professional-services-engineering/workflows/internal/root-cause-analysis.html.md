@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Blameless Root Cause Analyses
 category: Internal
 ---
-At the conclusion of each project, we will conduct a root cause analysis using the template below.  The purpose of these is to identify areas for improvement, as well as wins to make sure to highlight.  The team generally works on independent projects and with diverse customer groups, so mutual learning is important to how the Professional Services Engineering team lives up to the [GitLab values](/handbook/values) of Collaboration and Iteration.
+At the conclusion of each project, we will conduct a root cause analysis using the template below.  The purpose of these is to identify areas for improvement, as well as wins to make sure to highlight.  The team generally works on independent projects and with diverse customer groups, so mutual learning is important to how the Professional Services Engineering team lives up to the [GitLab values](/handbook/values/) of Collaboration and Iteration.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -28,7 +28,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
 #### Meeting Purpose
 1. This is a blameless root causes analysis.
 1. We will not focus on the past events as they pertain to "could've," "should've," etc. However, we can make suggestions for what to do "next time."
-1. We will focus on reinforcing [GitLab Values](/handbook/values), specifically items such as
+1. We will focus on reinforcing [GitLab Values](/handbook/values/), specifically items such as
   - **Address behavior, but don't label people**
   - **People are not their work** Always make suggestions about examples of work, not the person. Say, "you didn't respond to my feedback about the design," instead of, "you never listen." And, when receiving feedback, keep in mind that feedback is the best way to improve and that others want to see you succeed.
   - **Directness** is about being transparent with each other. We try to channel our inner Ben Horowitz by being both straightforward and kind, an uncommon cocktail of no-bullshit and no-asshole. Feedback is always about your work and not your person. That doesn't mean will be easy to give nor receive it.
