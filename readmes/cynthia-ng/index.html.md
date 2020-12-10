@@ -19,7 +19,7 @@ I used to be a manager, and I clearly still have a fairly manager-like outlook o
 but I purposely went back to being an individual contributor,
 especially for the collaboration with other teams.
 
-I believe I've come to really embrace the [GitLab Values](/handbook/values) but it still took me months to really internalize,
+I believe I've come to really embrace the [GitLab Values](/handbook/values/) but it still took me months to really internalize,
 and I'm still working on excelling in some areas.
 
 Aside from work, you'll hear me talk about alls sorts of things, but namely
@@ -27,7 +27,7 @@ books, movies, food, birds (and birding), puzzles, Lego, Canada, languages, trav
 
 ### My assumptions
 
-Being at GitLab, I generally assume that people are following or embody the [GitLab Values](/handbook/values).
+Being at GitLab, I generally assume that people are following or embody the [GitLab Values](/handbook/values/).
 In particular, the assumptions I have about others tend to be the same things people say about me:
 
 - You'll [do what you say you will](/handbook/values/#ownership).

@@ -17,7 +17,7 @@ job: "Support Engineering Manager"
 
 ### I Expect...
 - **honesty, integrity and professionalism**
-- that you share and will act in accordance with [GitLab's Values](/handbook/values)
+- that you share and will act in accordance with [GitLab's Values](/handbook/values/)
 - understanding of GitLab's business and goals
 - full participation
 - creative thinking
