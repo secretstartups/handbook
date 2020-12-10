@@ -108,7 +108,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 
 ### Post Manager Challenge
 
-L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. 
+L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we will be piloting [Trust Metryx](https://www.xmetryx.com/) to participants that are interested in trying out the tool. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
