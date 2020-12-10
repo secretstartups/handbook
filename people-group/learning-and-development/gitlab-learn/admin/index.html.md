@@ -31,7 +31,9 @@ The following processes are used by administrators of the EdCast platform.
      - Private, Open, Allow Follow, and Automated Pin Cards: Decine on the following permissions for your Channel
 1. Click `save channel`
 1. After you click `save channel`, the following tabs will open for editing: `content`, `people` and `carousels`
+1. These tabs will allow you to further define permissions for your channel. These are not required to create your channel, but will help customize and organize content. 
 
+Note: For the purposes of an MVP of documentation, the L&D team will stop Channel documentation here and iterate in the future as we discover how these additional tabs can be leveraged.
 
 ### Editing an existing channel
 
