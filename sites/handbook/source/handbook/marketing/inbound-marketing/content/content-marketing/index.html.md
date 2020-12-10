@@ -182,14 +182,14 @@ A whitepaper is a technical and focused topic study intended to educate a prospe
 
 An eBook tends to be broader in scope than a whitepaper and provides a clear definition of the topic, along with various industry standard best practices. eBooks typically provide awareness-level content, but can dive deeper into GitLab if it's intended for late-stage consumption. These are identified in the design template as Beginner, Intermediate, or Advanced ebooks.
 
-The content team member takes the lead on developing eBook content, with input and review from their product marketing counterpart. More technical or instructive eBooks might require more collaboration with product marketing.
+The content team member takes the lead on developing eBook content, with input and review from their product marketing counterpart. More technical or instructive eBooks might require more collaboration with product marketing. Use this [content template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) to write the eBook. Use this [content request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for the eBook content issue. 
 
 **Examples:**
 1. [An intermediate guide to GitOps, Kubernetes, and GitLab](/resources-ebook-gitops-kubernetes-gitlab.html)
 2. [The GitLab Remote Playbook](/resources/ebook-remote-playbook/)
 3. [The benefits of single application CI/CD](/resources/ebook-single-app-cicd/)
 
-**Timeline:** 1-3 weeks to plan, research, and draft an eBook. Use [the content resource request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for planning with team members and to define a specific deadline. All eBooks should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
+**Timeline:** 1-3 weeks to plan, research, and draft an eBook. Use [the design resource request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for planning with team members and to define a specific deadline. All eBooks should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
 
 **Deliverables:**
 * Week 1: Share a detailed outline with involved team members.
