@@ -34,6 +34,15 @@ The best way to view Seat Counts for a Gitlab.com customer is to access the Cust
 
 It's important to note that ultimately the Customer Portal admin will have the most accurate and up-to-date view of this information. 
 
+#### Self-managed 
+
+###### License Usage App
+The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/) 
+
+###### Version App
+An alternative to License Usage Salesfore App is the [Version App](https://version.gitlab.com). You will need developer access to this application to log in. Once logged in navigate to the Hosts tab. There you will be able to filter by license tier and see active user counts, historical max user counts, and other important information including last usage ping and version.
+
+
 ## Communicating Number of Seats Owed / Helping Customers Find Information - GitLab.com 
 Sometimes customers can get confused as to what they owe because they have both a personal subscription and a group subscription. To make it easy for them to find the correct group billing information, you can send them a link with a URL in this format: 
 
@@ -42,11 +51,4 @@ Sometimes customers can get confused as to what they owe because they have both 
 To find the `group-path-name`, go to the `GitLab Groups` page in the Customers Portal admin (see instructions above) and copy the value under the `Path` column. 
 
 
-#### Self-managed 
-
-###### License Usage App
-The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/) 
-
-###### Version App
-An alternative to License Usage Salesfore App is the [Version App](https://version.gitlab.com). You will need developer access to this application to log in. Once logged in navigate to the Hosts tab. There you will be able to filter by license tier and see active user counts, historical max user counts, and other important information including last usage ping and version.
 
