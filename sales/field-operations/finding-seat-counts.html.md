@@ -48,5 +48,5 @@ To find the `group-path-name`, go to the `GitLab Groups` page in the Customers P
 The best way to understand seat utilization for self-managed customers is by using the [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/) 
 
 ###### Version App
-An alternative to License Usage Salesfore App is the [Version App](https://version.gitlab.com) you'll need developer access to this application to log in. Once logged in navigate to the Hosts tab. There you will be able to filter by license tier and see active user counts, historical max user counts among other important information as well like, last usage ping, version etc. 
+An alternative to License Usage Salesfore App is the [Version App](https://version.gitlab.com). You will need developer access to this application to log in. Once logged in navigate to the Hosts tab. There you will be able to filter by license tier and see active user counts, historical max user counts, and other important information including last usage ping and version.
 
