@@ -675,17 +675,17 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 
 #### Review required Salesforce fields
 
-1. On the Account record:
+1. On the **Account** record:
   * Industry
   * Complete Billing and Shipping Address
   * In the Special Terms field, add any non-standard terms related to the subscription (ramps, special pricing), support (non-standard SLAs), finance (special billing/payment terms), or legal.
 
-1. On the Opportunity record:
+1. On the **Opportunity** record:
   * Go to the Contact Roles related list and add a Primary Contact. Ideally, you'll add Contact Roles much earlier in the sales cycle.
   * If the opportunity involved a partner, meaning partner will get credit for the opportunity, please click new in the partner section and add partner. There should only be one partner selected for each opportunity.
   * Add the Competitor(s). Note that this is only required for New Business; it is not required for Renewals or Add On Business.
   * Make sure your Close Date is for the date you are submitting the opportunity for approval.
-  * Provide the Closed Won Details- a few sentences on highlighting why we won the deal (pricing, packages, feature set, etc.) should do.
+  * Provide the Closed Won Reason and Closed Won Details (a few sentences highlighting why we won the deal, that supports your Closed Won Reason selection).
   * Once these steps are completed, save the record and submit the opportunity for approval.
 
 #### Opportunity Booking Requirements
@@ -1033,7 +1033,7 @@ Go to the right team who can support you with your request. **NOTE** It is so im
 
 #### When to contact Sales-Support:
 
-Be sure to review the (common questions after a deal has closed)[### Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed-Won opportunity. 
+Be sure to review the (common questions after a deal has closed)[### Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed Won opportunity. 
 
 ##### Out of Scope for Sales-Support
 
