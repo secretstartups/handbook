@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: 'Digital Experience: Foundations Agenda'
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -30,7 +35,7 @@
 | **Switch Static Site Generator (SSG)** | - Align with GitLab's technology strengths (Ruby & VueJS)<br>- Optimize and focus on efficiency for the right group (Digital Experience development team)<br>- Allows Marketing to use better tools to unlock our potential to scale and deliver |
 | **Implement a Design System** | - Lower the cost of iteration and release<br>- Creates a common design language everyone can contribute too, and also supports our commitment to efficient "boring" solutions vs slow and expensive custom solutions.<br>- Allows us to onboard, ramp up, and scale quicker - both team members and vendors |
 | **Incorporate a build process (Gulp or Webpack)** | - Decrease human error<br>- Boring solution that has been industry standard years<br>- Faster page load times<br>- Automate image compression<br>- Minimize CSS + JS<br>- Identify duplicate code<br>- Automatically add above the fold styles to increase perceived load times |
-| **Remove images form GIT and push directly to CDN** | - Reduces repo size<br>- Makes the repo faster to work with<br>- Faster to push changes |
+| **Remove images from GIT and push directly to CDN** | - Reduces repo size<br>- Makes the repo faster to work with<br>- Faster to push changes |
 | **Customer Data Platform** | - Gather an accurate understanding of our user segments<br>- Enables a single source of truth accessible by all GitLab team members<br>- Increases transparency by making information public within GitLab<br>- Enable us to make informed lead decisions (we appear to be good with lag/data informed decisions)<br>- Activate our thinking and opportunities for experimentation<br>- Lay groundwork for an Experimentation Platform/Program and Personalization |
 | **Experimentation Platform/Program** | Using LaunchDarkly and an agile/ spring based approach aim to significantly increase the amount of tests released and running on our marketing platform |
 | **Personalization** | - Increase MQLs<br>- Increase conversion rate<br>- Increase engagement<br>- Guide users towards IATV and LTV |
