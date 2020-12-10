@@ -137,6 +137,16 @@ This run happens nightly and results are outputted to the [wiki on the GPT proje
 
 Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
+### Transient bugs
+A transient bug is unexpected, unintended behavior that does not always occur in response to the same action. 
+
+Transient bugs give users conflicting impressions about what is happening when they take action, may not consistently occur, and last for a short period of time. While these bugs may not block a user's workflow and are usually resolved by a total page refresh, they are detrimental to the user experience and can build a lack of trust in the product. Users can become unsure about whether the data they are seeing is stale, fresh, or has even updated after they took an action. Examples of transient behaviors include:
+- Clicking the "Apply Suggestion" button and the page not getting updated with the applied suggestion 
+- Updating the milestone of an issue by using a quick action, but the sidebar not updating to reflect the new milestone
+- Merging a merge request and the merge request page still showing as "Open"
+
+In order to define an issue as a "transient bug," use the `~"bug::transient"` label
+
 ## Triaging Issues
 
 Initial triage involves (at a minimum) labelling an issue appropriately, so un-triaged issues can be discovered by searching for issues without any labels.

@@ -313,6 +313,15 @@ Issues which have a severity label and missed the [SLO target](/handbook/enginee
 * Example: <https://gitlab.com/gitlab-org/gitlab-ce/issues/61662>
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-missed-slo.yml>
 
+### Bug priority label inference
+
+Bugs which have a severity 1 or severity 2 label without a priority label will be labeled with the equal priority label. For example, a `~severity::1` `~bug` without a priority label will have `~priority::1` applied.
+
+* Automation Condition: `~bug` issue with `~severity::1` or `~severity::2` without a `~priority::*` label.
+* Automation Action:
+  * Apply the `~priority::*` label of the same level
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/set-priority-from-severity.yml>
+
 ### Accepting merge requests
 
 When milestone is present on an issue but there is not an assignee. The milestone being present indicates the product team has reviewed and scheduled the issue. This encourages open source contributions for planned features.
