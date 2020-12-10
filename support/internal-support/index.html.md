@@ -197,7 +197,7 @@ If you've been contacted by a prospect whose evaluation of GitLab includes evalu
 
 1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
 1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
-1. Instruct your prospect to select `Sales assisted trial` as their subscription level when [submitting a support ticket](https://support.gitlab.com).
+1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
 
 **Important Additional Notes**
 
