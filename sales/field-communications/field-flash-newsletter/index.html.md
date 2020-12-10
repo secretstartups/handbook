@@ -86,7 +86,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
    - Short, written Q&A highlighting a member of the Sales/CS/SDR teams or supporting teams (can be new or tenured). They answer these questions:
       - Where did you grow up, and where are you based now?
       - What is your favorite thing about your job? 
-      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values) resonates most with you? 
+      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values/) resonates most with you? 
       - Do you have a helpful tip for working at GitLab and/or in the Field org to share?
       - What is a hobby or skill you have that the team might not know about?
       - Icebreaker question of the month (i.e. What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?)
