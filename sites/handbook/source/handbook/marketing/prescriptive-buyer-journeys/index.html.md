@@ -58,29 +58,36 @@ The following documentation covers how to design a full-funnel content journey i
 
 1. Create an Epic. Provide target audience detail and campaign requirements. Include campaign strategy, channels, and any major event or news dependencies. 
 1. Host & record a cross-functional kick-off call to introduce the project requirements and discuss timeline. Focus the kick-off call discussion on themes and surfacing potential cross-functional alignment; set aside 30 minutes for creative brainstorming. The kick-off call should be scheduled a quarter ahead of the campaign launch date. This gives content creators time to storyboard and produce content. 
-1. Create a copy of the full-funnel storyboard template. 
-1. 
-1. Perform a content gap analysis. Create/repurpose/update content to fill the storyboard with content. 
+1. Fill out the positioning matrix (TODO add link to tab in campaign GNATT template). Time box to seven working days. 
+1. Complete the storyboard. Strategic marketing writes the first draft, content marketing provides sub-edits (big picture/structural review) and feedback, strategic marketing revises, and finally, content marketing copyedits the final draft. Time box to seven working days. 
+1. Perform a content gap analysis to fill the storyboard with content. First, identify your "big rock" assets to be used as digital offers (eBooks, webinars, white papers, reports). Identify existing content that can be used as-is or revised for the campaign and net new content needs. Try to limit the amount of net new content per campaign. Focus on one or two impactful assets that can enjoy a long shelf life and be easily repackaged. Time box to seven working days. 
+1. Content pods create/repurpose/update content to fill the storyboard with content. This work will take the bulk of the quarter. 
 1. Create PathFactory tracks, nurture emails, and update web pages with new offers. 
 1. Launch the campaign. 
 
-### Content Creation Pods 
+### Content Working Groups 
+
+A content [working group](https://en.wikipedia.org/wiki/Working_group) is a cross-functional team aligned to messaging, content strategy, and content creation for a single campaign. The members of a content working group can vary based on the campaign but a standard group may include: a program manager, a subject matter expert, a content strategist, a technical expert, and a designer. More complex, web-based projects may include a UX strategist and a web developer. 
 
 #### Roles and Responsibilities
 
-The following lists the different teams involved and their role in the process:  
+##### Content Strategist 
+The of the content strategist is responsible for the overall content experience. They are focused on 
 
-#### Content Marketing
-The role of content marketing is content strategist. The content strategist focuses on the packaging and polishing of content. They participate in the brainstorming 
+The content strategist focuses on the packaging and polishing of content. They participate in the brainstorming 
 
 The content marketing team leads the storyboarding exercise and awareness-stage content, writes nurture emails, and is the final approver of the content journey map. 
 
-### Marketing Programs
+#### Designer
+
+### Program Manager 
 The role of marketing programs is campaign manager. The marketing programs team leads the digital tactics strategy, sets the project requirements, and implements the content journey map into the appropriate channels and systems. 
 
 ## Product Marketing
 
 The role of product marketing is subject matter expert. The product marketing team leads the messaging strategy, approves messaging and leads consideration and purchase stage content.
+
+focused on positioning. 
 
 ## Content journey mapping
 
