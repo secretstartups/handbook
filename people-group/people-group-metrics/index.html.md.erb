@@ -161,27 +161,9 @@ Promotion Rate = Number of promotions over a rolling 12 month period / Current H
 
 The promotion rate metric can be found in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate), which is aggregated at a company, division, and department level. 
   * The report itself can be found in the google drive with the title `Promotion Report` and is only shared with Total Rewards and the data team as it contains sensitive compensation data. This report and Spend per Team Member can be pulled from snowflake. 
-  * The next iteration of this report is to have all related promotions and promotion budgets available in SiSense as well for the e-group leader and people business partner to review budgetary impacts of any promotions instantly.
+  * The next iteration of this report is to have all related promotions and promotion budgets available in SiSense as well for the e-group leader and people business partner to review budgetary impacts of any promotions instantly. 
 
-## Spend Per Team Member
-
-The spend per team member metric is intended to track variances across the company in compensation and transfers. Over time, other spend per team member metrics have become their own KPIs (for example, promotion rate). This metric does not have an associated goal as the purpose is not to reduce costs, but instead understand the early indicators of something going wrong or what may be going well. Consistency should be the key evaluator of the KPI.
-
-The spend per team member monthly metrics can be found in the `Spend Per Team Member` folder on the google drive which is accessible to the [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) team, [Compensation Group](/handbook/total-rewards/compensation/#gitlabs-compensation-principles), and the associated Financial Planning and People Business Partner team. Access is limited as these documents contain sensitive, confidential data.   
-
-### Transfers
-
-* Run the Point in Time Report from BambooHR with the following columns: "Employee Name" "Employee #" "Division" "Department" "Job Title" as of the start of the month
-* Run the same report with the end of the month.
-* Remove the data from the month no longer part of the rolling 12 month period.
-* Add Columns in for Division Match,	Department Match,	Job Title Match and Filter by which line items are false based on the two reports
-* Add all Transfers to the "Transfer Analysis Tab" and add the Effective Date by looking it up in the job information table in BambooHR.
-* Exclude any data related to organizational moves that the person had no control over. For example, the recruiting department being separated out of People Ops is not a transfer for internal mobility into new roles.
-* Create a pivot table to outline the number of transfers into the division in the last rolling 12 months. Add a line for the headcount as of the last day of the rolling 12 month period. Add one more line to take the percentage of transfers into the department.
-
-TODO Next iterations: Outline divisions those are transferring out of, generate a way to analyze compensation implications of transfers (Difficult to report since not all transfers come with a comp change).
-
-### Compensation
+## Compensation (Pay Eqaulity)
 
 1. Generate a chart for the compa ratio distribution by Division.
   * Using the "Comp Data Analysis & Modeling" Google spreadsheet, copy over the employee ID, first name, last name, and Comp Compa Ratio columns.
