@@ -658,7 +658,7 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 
 ### A Guide to Effective Infradev Triage
 
-Infradev triage takes place in a synchronous call with time constraints. Many of the participants may not not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
+Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
 
 
 1. **Clearly state the scope of the problem, and how it affects GitLab.com**. Examples could include:
