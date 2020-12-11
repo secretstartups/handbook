@@ -233,7 +233,7 @@ Prior to running the content assembly script (described in the next section), th
 
 **What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar. 
 
-#### Merge individual items in to your branch
+#### Content assembly: merging release post items (content blocks) to your branch
 
 **Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation on how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
 {:.alert .alert-info}
@@ -249,20 +249,15 @@ each PM creates for each feature.
 The `bin/release-post-assemble` script makes this easy to do:
 
 ```bash
-# Checkout the release branch
-git checkout release-X-Y
-
-# Pull any updates to the release branch
-git pull
-
-# Fetch and merge updates from master, including new unreleased features
-git pull origin master
-
-# Move release post items and images to the release director
-bin/release-post-assemble
-
-# Push the changes
-git push
+  git checkout master
+  git pull
+  git checkout release-X-Y
+  git checkout release-x-y
+  git pull
+  git merge master
+  bin/release-post-assemble
+  git push
+  git push origin release-x-y
 ```
 
 If for some reason `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
