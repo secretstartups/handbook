@@ -275,7 +275,28 @@ If for some reason `bin/release-post-assemble` fails use the following steps to 
 
 #### Communication
 
-The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
+The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration. 
+
+The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example: 
+
+- Make a clear, descriptive statement of what's being post and why
+- If you need someone to take an action, say so explicity and tag that person
+- If the action requested is time senstive, give a clear due date
+- If there are known issues they need to be aware of, list them out
+
+Sample post to executive stakehlders for review:
+
+_`@Sid @Scott Williamson @Anoop Dawar` The 13.6 Release Post has been generated and can be reviewed at https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html
+
+Please share your feedback by 10am PT on Friday November 20 (tomorrow). Thank you for your review!
+
+Currently there are no known issues/adjustments to the content but I know of 1 deprecation that needs added and will happen with my first wave of edits. We do still need to add social links and a reminder that the YouTube videos do not load in review apps but we have verified the proper /embed/ URLs.
+
+Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
+
+Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`_
+
+
 
 The Community Advocates team will reach out to the release post manager in Slack #release-post when they are using the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) and need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
