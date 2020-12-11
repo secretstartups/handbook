@@ -655,3 +655,28 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 1. Issues are nominated to the board through the inclusion of the label `infradev`
 1. Issues in the **Open** column require triage by Development Engineering Management to identify and/or refine the correct assignment.
 1. All Issues should be prioritized into the appropriate workflow stage.
+
+### A Guide to Effective Infradev Triage
+
+Infradev triage takes place in a synchronous call with time constraints. Many of the participants may not not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
+
+
+1. **Clearly state the scope of the problem, and how it affects GitLab.com**. Examples could include:
+   1. Reliability issues: the problem could cause a widespread outage or degradation on GitLab.com. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/244865)
+   1. Saturation issues: the problem could leave to increased saturation, latency issues due to resource over-utilization. [example](https://gitlab.com/gitlab-org/charts/gitlab/-/issues/2458)
+   1. Service-level degradation: the problem is causing our service-level monitoring to degrade, impacting the overall SLA of GitLab.com and potentially leaving to SLA violations. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/292732)
+   1. Unnecessary alerts: the problem does not have a major impact on users, but is leading to extraneous alerts, impacting the ability of SREs to effectively triage incidents due to alerting noise. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/292732)
+   1. Problems which extend the time to diagnosis of incidents: for example, issues which degrade the observability of GitLab.com, swallow user-impacting errors or logs, etc. These could lead to incidents taking much longer to clear, and impacting availability. [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10933#note_464394760)
+   1. Deficiencies in our public APIs which lead to customers compensating by generating substantially more traffic to get the required results. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/232887)
+1. **Quantify the effect of the problem** to help ensure that correct prioritization occurs.
+   1. Include costs to availability. The [Incident Budget Explorer](https://dashboards.gitlab.net/d/general-incident-budget-explorer/general-incident-budget-explorer?orgId=1) dashboard can help here. 
+   1. Include the number of times alerts have fired owing to the problem, how much time was spent dealing with the problem, and how many people were involved. 
+   1. Include screenshots of visualization from Grafana or Kibana. 
+   1. **Always include a permalink to the source of the screenshot so that others can investigate further**.
+1. **Provide a clear, unambiguous, self-contained solution to the problem**. Do not add the `infradev` label to architectural problems, vague solutions, or requests to investigate an unknown root-cause. 
+1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best. 
+1. **Ensure a realistic severity is applied**: review the [availability severity label guidelines](/handbook/engineering/quality/issue-triage/#availability) and ensure that applied severity matches. Always ensure all issues have a severity, even if you are unsure.
+1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to. 
+1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data. 
+1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
+1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**. 
