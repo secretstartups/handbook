@@ -657,6 +657,9 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
       1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~severity::1 ~priority::1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
    1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
 1. Issues in the **Open** column require triage by Development Engineering Management to identify and/or refine the correct assignment.
+   1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
+   1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
+   1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
 1. All Issues should be prioritized into the appropriate workflow stage.
 
 ### A Guide to Effective Infradev Triage
