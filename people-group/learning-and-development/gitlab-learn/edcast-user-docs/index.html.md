@@ -107,7 +107,6 @@ You can edit and customize your profile page from within the EdCast platform usi
      - Preferred language
      - Profile and banner image
      - Job title
-1. You also have the option to integrate learning you might be doing in an external platform, which can be done in the `Integrations` tab
 
 
 ### Understanding content in the LXP
