@@ -177,10 +177,11 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 
 GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) with employment verifications.
 
-- Once a candidate is moved to the reference check and background check stage, the recruiter should ping `@ces` to kick off the reference check process
-   - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initate the background check process.
-- CES will send the References and Background Check emails via Guide
-- CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email utilizing the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
+- Once a candidate is moved to the reference check stage, the recruiter should ping `@ces` to kick off the reference check process
+- CES will send the Reference Check email via Guide
+   - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email utilizing the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
+- The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initate the background check process.
+   - CES will send the Background Check email via Guide
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) for the candidate. CES will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
 - Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
