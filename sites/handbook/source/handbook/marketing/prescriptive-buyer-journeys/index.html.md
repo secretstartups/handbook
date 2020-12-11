@@ -52,7 +52,7 @@ Designing a full-funnel content journey enables us to serve more relevant conten
 
 The following documentation covers how to design a full-funnel content journey including who is involved and what needs to be done at each step.
 
-**This can and should be expanded to retention after a marketing proof of concept cycle is completed.*  
+**This can be expanded to retention after a marketing proof of concept cycle is completed.*  
 
 ## Sequence of Actions
 
@@ -65,9 +65,7 @@ The following documentation covers how to design a full-funnel content journey i
 1. Create PathFactory tracks, nurture emails, and update web pages with new offers. 
 1. Launch the campaign. 
 
-## Roles and Responsibilities
-
-### Content Working Groups 
+## Content Working Groups 
 
 A content [working group](https://en.wikipedia.org/wiki/Working_group) is a cross-functional team aligned to messaging, content strategy, and content creation for a single campaign or event. The members of a content working group can vary based on the campaign but a standard group may include: a program manager, a subject matter expert, a content strategist, a technical expert, and a designer. More complex, web-based projects may include a UX strategist and a web developer. 
 
@@ -109,8 +107,18 @@ TODO strategic marketing fill in
 
 Through storyboarding we look at the end to end content journey and outline the story we want to tell. This narrative is our blueprint for content creation. Start by making a copy of the storyboard template. Write the sequence of messaging that will move the prospect across the stages of the buyer’s journey. Each message should clearly state the key takeaway you want to provide.  
 
-#### How to use the storyboard template
-The first step to creating a full-funnel content journey is to storyboard the narrative. Using the template below, write down the message you want to convey at each stage of the funnel. 
+### How to use the storyboard template
+The first step to creating a full-funnel content journey is to storyboard the narrative. The audience you are targeting the the main character of the narrative and the content you create is the plot.  Use the following story arc as a guideline for creating the narrative:
+
+#### Story Arc Template
+
+| Stage | Problem |  Plan |  Success |
+| ------ | ------ | ------ | ------ |
+| **Awareness**| 1. Define and describe the business problem they are facing.  Help them realize that their pain is actually a problem that can be solved. | 2. Their peers have successfully solved the problem - they too can have a plan.  Give them hope that a solution is in reach. | 3. Show them the path to overcoming the problem (process, tools, etc).   They now can take action and start to address their challenge. |
+|  **Consideration** | 4. Where should I get started solving this problem? There are so many choices. | 5. How can I compare the different options.  What's the best approach?  Is there a best solution?| 6. I need to be positive that this is the right solution / approach.  Are there proof points where others like myself have overcome this problem |
+|  **Purchase** | 7. Convince my boss (procurement, legal, etc.) of the choice. | 8. Demonstrate and prove the business value of changing.  ROI of investing and making a change. | 9. How can I quickly get started and showcase immediate wins. |
+
+Using the template below, write down the message you want to convey at each stage of the funnel.
 
 Each stage has three message columns. When reading across the columns a story should emerge. The last column, labeled _bridge_ and closing message should unite the current and next stage messages. A *bridge* message can also be used to introduce a new use case. For example:
 
