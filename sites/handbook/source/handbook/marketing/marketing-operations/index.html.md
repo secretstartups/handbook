@@ -20,7 +20,7 @@ Marketing Operations (MktgOps) supports the entire Marketing team to streamline 
 
 Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
 
-## Meet the Team
+## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
 - Claudia Beer - Manager, Marketing Operations
 - Beth Peterson - Senior Marketing Operations Manager
@@ -34,7 +34,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Campaigns - Amy Waller
 - Content - Sarah Daily
 
-## Teams We Work Closely With
+## <i class="fas fa-users" id="biz-tech-icons"></i> Teams We Work Closely With
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
