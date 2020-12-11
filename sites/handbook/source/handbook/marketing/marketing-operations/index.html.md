@@ -28,7 +28,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Sarah Daily - Senior Marketing Operations Manager
 - Jameson Burton - Marketing Operations Associate
 
-### Business Partners
+**Business Partners**
 
 - SDRs - Beth Peterson
 - Campaigns - Amy Waller
