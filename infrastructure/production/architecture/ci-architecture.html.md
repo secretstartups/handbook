@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Production Architecture"
+title: "CI Service Architecture"
 ---
 
 This document only covers our shared and GitLab shared runners, which are
