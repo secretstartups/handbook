@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Sentry
 category: Infrastructure for troubleshooting
+description: How to use Sentry to investigate errors
 ---
 
 ## On this page
@@ -12,10 +13,7 @@ category: Infrastructure for troubleshooting
 
 ## Sentry
 
-*Note*: Sentry organizes applications into "Sentry Teams". To investigate errors
-across different applications or environments, our primary teams used are `#gitlab`
-(for the production rails application) and `#gitlab-internal` (for non-production
-environments). By joining said Sentry Team, the application errors should be viewable.
+*Note*: Sentry organizes applications into "Sentry Teams". To investigate errors across different applications or environments, our primary teams used are `#gitlab` (for the production rails application) and `#gitlab-internal` (for non-production environments). By joining said Sentry Team, the application errors should be viewable.
 
 1. Obtain the full URL the user was visiting when the error occurred along with their user ID, if needed for searching.
 1. [Log in to Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/).

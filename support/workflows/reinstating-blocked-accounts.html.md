@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Reinstating blocked accounts
 category: Security
+description: How to determine if a blocked user can be re-instated if it has been blocked
 ---
 
 ## On this page
@@ -28,7 +29,7 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 
 ## NOTE
 
-1. All decisions about account reinstantion are final and there is no process for appeals.
+1. All decisions about account reinstation are final and there is no process for appeals.
 1. These criteria are to be taken as examples **only**, and **not** as binding principles.
 1. If the account violates our ToS again within a 12 month period, it could result in being permanently banned.
 
