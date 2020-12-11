@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Testing for conversion at GitLab"
-description: "The Growth Marketing team run tests to improve visitor experience and conversion rate across about.gitlab.com."
+description: "The Inbound Marketing team run tests to improve visitor experience and conversion rate across about.gitlab.com."
 ---
 
 # Testing for conversion at GitLab
@@ -97,7 +97,7 @@ To enable Google Optimize on any page you add `google_optimize: true` to the fro
 
 [Use this link](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=hotjar-heatmap-request) to request a heatmap test or results for a page on `about.gitlab.com`.
 
-New heatmaps will record data until the page has reached 2,000 pageviews. An Inbound Marketing Manager will ping you when the results are complete (Duration depends on average traffic to the page. Some tests can take up to a month or more.)
+New heatmaps will record data until the page has reached 2,000 pageviews. An Search Marketing Manager will ping you when the results are complete (Duration depends on average traffic to the page. Some tests can take up to a month or more.)
 
 **Note:** Every page viewed by a visitor is counted as a single pageview.
 

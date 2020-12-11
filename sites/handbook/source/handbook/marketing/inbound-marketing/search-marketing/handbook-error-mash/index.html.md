@@ -16,7 +16,7 @@ noindex: true
 
 As we get close to the end of spooky season, the Inbound Marketing team wants to ask for your help to fix SEO errors across the handbook. For the next two weeks, we're asking teams to look at their section of the handbook and fix duplicate or missing page titles, descriptions, and missing pages. 
 
-To help you get started the Inbound Marketing team recorded a few videos to show how to fix these types of errors and collected errors in a Google Sheet.
+To help you get started the Search Marketing team recorded a few videos to show how to fix these types of errors and collected errors in a Google Sheet.
 
 As you fix errors, please add the `~handbook-error-mash` label so we can track how many MRs we complete in this iteration and help us improve as we do future iterations of this error mash.
 
@@ -30,7 +30,7 @@ The broken link tab lists the link location (where a broken link occurs), the br
 
 ## Videos
 
-The Inbound Marketing team made a series of videos showing why fixing these errors will help GitLab's SEO and how to fix each type of issue in the WebIDE. You can find all of these in the [2020 Handbook error mash](https://www.youtube.com/playlist?list=PL05JrBw4t0Kob8oW0viUnFPOvHk_Ki4EX) playlist on GitLab Unfiltered.
+The Search Marketing team made a series of videos showing why fixing these errors will help GitLab's SEO and how to fix each type of issue in the WebIDE. You can find all of these in the [2020 Handbook error mash](https://www.youtube.com/playlist?list=PL05JrBw4t0Kob8oW0viUnFPOvHk_Ki4EX) playlist on GitLab Unfiltered.
 
 ### Handbook error mash kickoff video
 
