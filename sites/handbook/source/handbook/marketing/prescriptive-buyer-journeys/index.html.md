@@ -44,7 +44,7 @@ The prescriptive buyer journeys are the foundation for our top-funnel demand gen
 
 The first iteration of building these prescriptive buyer journeys was a highly collaborative effort of mapping existing content. The process has helped to identify content gaps and reasoning for persona storyboards to dig into the perspective of the buyer, and *then* build content to the needs of the buyer in the given stages.
 
-# Content Mapping   
+## Content Mapping   
 
 In today’s digital-first world, customers expect flawless omnichannel experiences. From seeing an ad on their mobile phone to interacting with our website to speaking with a sales representative, we need to ensure that there is cohesion across every interaction. By creating a full-funnel content journey map, we look at the lifecycle of a customer—from first interaction to closing a sale*—and outline the narrative we want to tell. This narrative is our blueprint for content creation and campaign planning. 
 
@@ -105,12 +105,12 @@ TODO strategic marketing fill in
 
 ## Storyboarding the content journey map
 
-Through storyboarding we look at the end to end content journey and outline the story we want to tell. This narrative is our blueprint for content creation. Start by making a copy of the storyboard template. Write the sequence of messaging that will move the prospect across the stages of the buyer’s journey. Each message should clearly state the key takeaway you want to provide.  
+Through storyboarding we look at the end to end content journey and outline the story we want to tell. This narrative is our blueprint for content creation. Start by making a copy of the [content journey mapping template](https://docs.google.com/spreadsheets/d/1zij_-GEF1t50N_vdCN58agnyDSvLBel9rftkSxaA2U8/edit#gid=1908591985). Write the sequence of messaging that will move the prospect across the stages of the buyer’s journey. Each message should clearly state the key takeaway you want to provide.  
 
 ### How to use the storyboard template
 The first step to creating a full-funnel content journey is to storyboard the narrative. The audience you are targeting the the main character of the narrative and the content you create is the plot.  Use the following story arc as a guideline for creating the narrative:
 
-#### Story Arc Template
+#### Story Arc Guide
 
 | Stage | Problem |  Plan |  Success |
 | ------ | ------ | ------ | ------ |
@@ -119,6 +119,8 @@ The first step to creating a full-funnel content journey is to storyboard the na
 |  **Purchase** | 7. Convince my boss (procurement, legal, etc.) of the choice. | 8. Demonstrate and prove the business value of changing.  ROI of investing and making a change. | 9. How can I quickly get started and showcase immediate wins. |
 
 Using the template below, write down the message you want to convey at each stage of the funnel.
+
+
 
 Each stage has three message columns. When reading across the columns a story should emerge. The last column, labeled _bridge_ and closing message should unite the current and next stage messages. A *bridge* message can also be used to introduce a new use case. For example:
 
