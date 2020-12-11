@@ -644,7 +644,7 @@ The [Performance Refinement issue board](https://gitlab.com/groups/gitlab-org/-/
 
 ## Infradev
 
-The infradev process is established to identify Issues requiring priority attention in support of availability and reliability of the GitLab SaaS services. These escalations are intended to primarily be asyncronous as timing triage and attention is required. In addition to primary management through the Issues, any gaps, concerns, or critical triage is handled in the weekly [GitLab SaaS Infrastructure](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) meeting.
+The infradev process is established to identify Issues requiring priority attention in support of SaaS availability and reliability. These escalations are intended to primarily be asyncronous as timely triage and attention is required. In addition to primary management through the Issues, any gaps, concerns, or critical triage is handled in the weekly [GitLab SaaS Infrastructure](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) meeting.
 
 ### Scope
 
@@ -654,4 +654,4 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 
 1. Issues are nominated to the board through the inclusion of the label `infradev`
 1. Issues in the **Open** column require triage by Development Engineering Management to identify and/or refine the correct assignment.
-1. All Issues should be prioritizes into the appropriate workflow stage.
+1. All Issues should be prioritized into the appropriate workflow stage.
