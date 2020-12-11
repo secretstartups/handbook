@@ -15,16 +15,16 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## Overview
 
-A success plan is a roadmap that connects a customer's business outcomes to GitLab solutions. It is a living document, developed by the TAM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the commend plan, focusing on business needs and metrics. The success plan echoes these goals and metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
+A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the TAM.  The input for a success plan comes in the first instance from the value-based conversations with the customer in the presales process and documented in the [command plan](/handbook/sales/command-of-the-message/command-plan/), focusing on articulated business needs and including metrics where available. The success plan echoes these goals and further articulates metrics, and creates a roadmap for implementation via milestones.  It is the strategic vision for the customer to realize success and value with GitLab.
 
 These are some of the reasons we use a success plan:
 
 - Document the customer’s desired outcomes (e.g., KPIs, problems to solve, benefits to achieve)
 - Align GitLab’s product adoption plan to customer outcomes
-- Define activity (e.g., change management, training) roadmaps and timeframes for a successful adoption journey
+- Define key activity (e.g., change management, training) milestones and timeframes for a successful adoption journey
 - Develop shared understanding and commitment to the plan between GitLab and customer stakeholders
 - Serve as baseline to [track delivery of outcomes and adoption](/handbook/customer-success/tam/stage-adoption/)
-- Provide foundation for supporting processes like [health checks](/handbook/customer-success/tam/health-score-triage/) and [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
+- Provide a foundation for the [TAM cadence call](/handbook/customer-success/tam/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
 
 ## Understand the Customer’s Motivation
 
