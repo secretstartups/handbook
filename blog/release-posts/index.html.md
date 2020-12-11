@@ -279,7 +279,7 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 
 The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example: 
 
-- Make a clear, descriptive statement of what's being post and why
+- Make a clear, descriptive statement of what's being shared and why
 - If you need someone to take an action, say so explicity and tag that person
 - If the action requested is time senstive, give a clear due date
 - If there are known issues they need to be aware of, list them out
