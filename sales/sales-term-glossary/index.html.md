@@ -331,6 +331,45 @@ The number of contracted users on active paid subscriptions. Excludes OSS, Educa
 
 A unique deal that is set to `Closed Won` in SalesForce.
 
+### Closed Deal - Won Reasons
+
+The opportunity owner's primary reason as to why GitLab won the deal.
+
+- **Accelerate Software Delivery:** Enable teams to deliver new code/code updates faster
+- **Competitor Product Support/Performance:** Competitor missing a key feature the customer needed or the cutomer was not happy with competitors product performance
+- **Expanding Use-Case:** Customer already using GitLab for one UseCase (CI for example) now they are expanding that to another (SCM for example)
+- **GitLab Incumbency:** GitLab user already (most cases Core) and now they are moving to another Tier for more features
+- **GitLab Champion:** Either someone tried GitLab for the first time and loved it or they used GitLab previously and they want their exisiting team/company to use GitLab
+- **Performance/Great Features:** GitLab out performed the competition - customer felt we just had a better product than the competitor
+- **Reduce Tooling Cost:** Customer paying for many multiple tools, wanted to reduce DevOps tooling cost with a single tool
+- **Reduce Tooling Count:** Customer tool chain too complex, wanted to transition to a simple DevOps solution
+- **Channel Deal:** A Channel Deal where we do not have a specified Clsoed Won Reason
+- **Web Direct:** A Web Portal purchase where we do not have a specified Closed Won Reason
+- **Other:** The deal was won due to reasons other than noted above
+
+### Closed Deal - Lost
+
+A unique deal that is set to `8-Closed Lost` in SalesForce.
+
+### Closed Deal - Lost Reasons
+
+The opportunity owner's primary reason as to why GitLab lost the deal
+
+- **Budget/Value Unperceived:** Prospect's overall evaluation of product or service did not have the ability to meet their needs and expectations or there was a loss of budget
+- **Competitive Loss:** Lost to a competitor
+- **Competitor Incumbent:** Prospect is staying with existing competitor product
+- **Do Nothing:** Prospect has chosen to take no action 
+- **Duplicate:** Opportunity is a duplicate to another in SFDC
+- **Legal Blocker:** Could not come to agreement on legal related items
+- **Merged into another opportunity:** Associated licenses have been merged into another opportunity
+- **No Relationship:** Evangelist /Champion Left or was not present
+- **Operational Silos:** Departments or management groups do not share information, goals, tools, priorities and processes with other departments
+- **Performance/Missing Features:** Prospect's overall evaluation of product or service meet some of their needs and expectations, but majorly lacked specific areas
+- **Product Maturity:** For the customers specific need, the product is not mature enough in certain areas. This should include large feature sets or large areas of capabilities that the customer believes is missing or not fully developed as opposed to one missing feature. 
+- **Went Silent:** Prospect has ceased communication 
+- **Other:** The deal was lost due to reasons other than noted above
+
+
 ### Utilization
 
 Utilization is defined as `Seats currently in use / Seats in license`.
