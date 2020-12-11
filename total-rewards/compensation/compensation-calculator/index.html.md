@@ -54,7 +54,7 @@ The calculator will output the amount as `base + variable = total target cash (T
 
 Your options can be found on [stock options](/handbook/stock-options/) and benefits can be found on relevant [entity specific benefits pages](/handbook/total-rewards/benefits/general-and-entity-benefits/).
 
-The compensation calculator is updated in January and July with the proper exchange rate, keeping compensation levels in line with local purchasing power.
+The compensation calculator is updated in December and June with the proper exchange rate, keeping compensation levels in line with local purchasing power.
 
 ### Disclaimer
 

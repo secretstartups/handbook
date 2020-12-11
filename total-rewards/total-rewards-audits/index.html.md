@@ -48,7 +48,7 @@ Only audit once team members have started and added their birthdate under the pe
    * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
    * For Non-Sales, “On Target Earnings” should say “No”, no need to add the date
    * Effective Date should be the hire date.
-   * Exchange Rate Effective Date is going to be 2020-07-01 until we revisit this again in 2021
+   * Exchange Rate Effective Date is going to be 2020-12-01 until we revisit this again in 2021
    * Equity: Audit Shares field against contract or Greenhouse details.
    * Job Information: cross-check against contract. 
    * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
@@ -124,7 +124,7 @@ Process:
      * OTE USD: Returns TRUE if the Annual Amount (USD) plus the Variable Pay Amount (USD) equals the OTE Amount (USD). 
      * OTE Local: Returns TRUE if the Annual Amount (local) plus the Variable Pay Amount (local) equals the OTE Amount (local).
      * Variable Pay Frequency: Returns TRUE if the Variable Pay Frequency aligns with the [correct Variable Pay Frequency for the role](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/7c94f8338163f782919a689a871724c48439c575/data/variable_pay_frequency.yml).
-     * Conversion Effective Date: Returns TRUE if the correct Effective Date for the currency conversion is being used depending on when the last currency conversion refresh took place, either January 1 or July 1. 
+     * Conversion Effective Date: Returns TRUE if the correct Effective Date for the currency conversion is being used depending on when the last currency conversion refresh took place, either December 1 or June 1. 
      * Currency Conversion Factor: Returns TRUE if the correct [Exchange Rate](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates) is being used. This will also check that the correct Currency is in BambooHR.  
      * Conversion: Returns TRUE if the Currency Conversion Factor multiplied by the Local Annual Salary equals the USD Annual Salary.
      * USD: Audits based on the conversion inherently check whether the correct local currency is being used. This audit returns TRUE if the USD currency is being used in all fields in BambooHR denoted USD.  
