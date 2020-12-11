@@ -79,28 +79,35 @@ A content [working group](https://en.wikipedia.org/wiki/Working_group) is a cros
 
 This list can be expanded to include brand awareness after a successful proof of concept. 
 
-## Content journey mapping
+## Scheduling a Kick-Off Call 
+The Marketing Programs Manager is responsible for scheduling and leading the kick-off call. The call should be scheduled no later than 2 weeks before the start of the quarter and three months before the campaign launch date. This ensures the teams have time to review and provide feedback on the proposed requirements and audience targeting information before starting the work, and it ensures enough time for content creation.
 
-By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](/handbook/use-cases/), which are the building blocks for our [content creation strategy](/handbook/marketing/inbound-marketing/content/content-marketing/#content-creation-strategy). 
+The kick-off call should include at least one contributing representative from each team and the team leads. Marketing Program Managers are responsible for creating the agenda and preparing the following ahead of the meeting:
 
-We can tailor a content journey based on the following targeting information: 
+- Campaign brief including detailed targeting information
+- Proposed project timeline including key delivery dates 
+- Digital journey map 
+- Links to storyboard and content journey workspaces 
 
-1. **Segment:** What size company are we targeting?
-1. **Persona(s):** Who are we talking to and when do we talk to them in the journey? 
-1. **Use case(s):** Which use cases are most relevant to this persona? 
-1. **Region:** Where are we targeting? Is this a US-centric campaign or a localized campaign? 
+Record the call and share the recording in the #marketing channel in Slack. 
 
-If there are multiple personas to target, the digital journey map should identify who we are speaking to per channel.
+## Identifying your Audience
+The storyboard template is intended to make it simple to adapt our messaging and use cases to specific audiences. Each new content journey we create should be rooted in a use case and targeted to a specific persona. We can tailor a content journey based on the following targeting information: 
 
-## Performing a content gap analysis
-A content gap analysis enables us to identify the message and content for a each perscriptive buyer's journey. It also exposes gaps where no content exists. The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production. 
+- Segment: What size company are targeting? 
+- Persona(s): Who are we talking to? 
+- Use Case(s): Which use cases are most relevant to this persona? 
+- Region: Where are we targeting? Is this a US-specific campaign or a localized campaign? 
 
-The content gap analysis is done in two steps: 
+If there are multiple personas to target, the digital journey map should identify who we are speaking to per channel. 
 
-1. **Storyboarding:** Make a copy of the storyboard template. Write the sequence of messaging that will move the prospect across the stages of the buyer’s journey. Each message should clearly state the key takeaway you want to provide. 
-1. **Content journey mapping:** Make a copy of the content journey template. Start by matching existing content to each message in the storyboard. The key takeaway of the suggested content should match the key takeaway of the message. If not content exists, make a plan to create it. 
+## Positioning and messaging
 
-It’s critical that the message and content are tailored specifically to the target audience. Avoid diluting the message and experience by loosely fitting existing content in the journey. The content should suit the message exactly. If content does not exist, notify the Marketing Program Manager (project manager) and make a plan to create that content. This may affect the project timeline. 
+TODO strategic marketing fill in 
+
+## Storyboarding the content journey map
+
+Through storyboarding we look at the end to end content journey and outline the story we want to tell. This narrative is our blueprint for content creation. Start by making a copy of the storyboard template. Write the sequence of messaging that will move the prospect across the stages of the buyer’s journey. Each message should clearly state the key takeaway you want to provide.  
 
 #### How to use the storyboard template
 The first step to creating a full-funnel content journey is to storyboard the narrative. Using the template below, write down the message you want to convey at each stage of the funnel. 
@@ -110,6 +117,13 @@ Each stage has three message columns. When reading across the columns a story sh
 1. An awareness stage bridge message may show how someone can solve a problem using GitLab technology. It doesn’t explicitly call out the benefits of GitLab. 
 2. A consideration stage bridge message may show how a customer achieved success with GitLab. It explicitly calls out the benefits of GitLab. 
 3. A purchase stage closing message may calculate the ROI of implementing GitLab. It explicitly demonstrates why their purchase is a good investment. 
+
+1. **Content journey mapping:** Make a copy of the content journey template. Start by matching existing content to each message in the storyboard. The key takeaway of the suggested content should match the key takeaway of the message. If not content exists, make a plan to create it. 
+
+It’s critical that the message and content are tailored specifically to the target audience. Avoid diluting the message and experience by loosely fitting existing content in the journey. The content should suit the message exactly. If content does not exist, notify the Marketing Program Manager (project manager) and make a plan to create that content. This may affect the project timeline.
+
+### Performing a content gap analysis
+The content gap analysis determines which content will be used in the campaign and guides new content production. Missing campaign content is prioritized for production. 
 
 ### How to use the content journey template
 Once you have completed the storyboard exercise, it’s time to find content that maps to the story. Make a new tab in your spreadsheet so that you have the two templates side by side. 
