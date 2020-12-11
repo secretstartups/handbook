@@ -52,11 +52,11 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
     </div>
 
-## How to Communicate with Us
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
 
 1. Slack - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. 
 
-## How We Work
+## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
 ### Our Motto: If it isn't an Issue, it isn't OUR issue.
 
