@@ -14,7 +14,7 @@ description: "Marketing Operations (MktgOps) supports the entire Marketing team 
 
 {::options parse_block_html="true" /}
 
-## Charter
+## <i class="far fa-newspaper" id="biz-tech-icons"></i> Charter
 
 Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well. MktgOps works closely with Sales Operations (SalesOps) to ensure information between systems is seamless, data is as accurate as possible and terminology is consistent in respective systems. Not only are we assisting with marketing operations but we are also involved in the operations of marketing, such as the budget and strategies.
 
