@@ -14,7 +14,7 @@ title: "Labor and Employment Notices"
 Since GitLab is an [all remote](/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
 
 <details>
-<summary>United States</summary>
+<summary markdown="span">United States</summary>
 
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
@@ -84,7 +84,7 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 </details>
 
 <details>
-<summary>Canada</summary>
+<summary markdown="span">Canada</summary>
 
 ### Ontario
 * [Occupational Health & Safety Poster](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
@@ -104,7 +104,7 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 </details>
 
 <details>
-<summary>Europe</summary>
+<summary markdown="span">Europe</summary>
 * [European Agency for Safety and Health at Work](https://osha.europa.eu/en)
 
 ### Netherlands
