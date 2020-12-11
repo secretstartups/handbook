@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Ticketing Style Guide
 category: Handling tickets
+description: Guidelines on structuring ticket responses.
 ---
 
 ## On this page
@@ -55,7 +56,7 @@ So far we've established that you're facing a 500 error intermittently when load
 ```
 
    This will ensure that the customer and you remain on the same page regarding what the issue is.
- 
+
    This will also help other support engineers to jump into the ticket and catch up on the context more efficiently.
 
 ## Technical Content

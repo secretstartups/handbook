@@ -2,6 +2,7 @@
 layout: markdown_page
 title: Sidekiq support
 category: Self-managed
+description: How to contact Sidekiq support.
 ---
 
 ## Sidekiq support
