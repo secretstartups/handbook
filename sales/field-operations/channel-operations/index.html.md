@@ -220,7 +220,7 @@ _Why is this important?_
    </td>
   </tr>
   <tr>
-   <td><strong>00-Pre Opportunity</strong> 
+   <td><strong>0-Pending Acceptance</strong> 
    </td>
    <td><strong>X</strong>
    </td>

@@ -504,7 +504,7 @@ Opportunities should be moved to new stage within 48 hours of IQM.
 ##### How to create an Opportunity
 
 An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT.
-**All opportunities** should be created with a Stage = `00-Pre Opportunity` regardless of how you create the OPPORTUNITY.
+**All opportunities** should be created with a Stage = `0-Pending Acceptance` regardless of how you create the OPPORTUNITY.
 Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages) can updated based on the criteria below.
 
 ##### Creating a New Business Opportunity from CONTACT record
@@ -517,7 +517,7 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
     - Type = `New Business`
     - Initial Source = DO NOT CHANGE
     - Close Date = if no time frame defined, **SDR** set close date rolling 9-months
-    - Stage = `00-Pre Opportunity` - starting stage for ALL opportunities
+    - Stage = `0-Pending Acceptance` - starting stage for ALL opportunities
     - Add as much detail on the OPPORTUNITY record as you can.
     - Click `SAVE`
 1. Scroll down OPPORTUNITY record to the `Contact Roles` section, **click** `New`. CONTACTS associated to the ACCOUNT will be listed (up to 50 records). You must select a CONTACT as **Primary** and define the `Role`.
@@ -527,7 +527,6 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
     - Click `Save`
-1. Update the OPPORTUNITY Stage from `00-Pre Opportunity` to the correct stage -> normally `0-Pending Acceptance`.
 1. Update the 'NEXT STEP DATE FIELD' with the date of the next action step (most often an IQM).
 1. Enter in 'NEXT STEPS' with details that correlate to the NEXT STEP DATE FIELD.
 
@@ -557,7 +556,6 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAL/AM should have and review _before_ taking the scheduled meeting.
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
-1. Update the OPPORTUNITY Stage from `00-Pre Opportunity` to the correct stage -> normally `0-Pending Acceptance`.
 1. Update the 'NEXT STEP DATE FIELD' with the date of the next action step (most often an IQM).
 1. Enter in 'NEXT STEPS' with details that correlate to the NEXT STEP DATE FIELD.
 
@@ -577,7 +575,7 @@ This creates a parent-child relationship between the _original_ `New Business` O
 1. Define:
     - `Initial Source` = see the [definition table](#initial-source) to choose the most correct source. It is important to be accurate as this does impact reporting and marketing attribution.
     - Close Date = if no timeframe defined input close date on a rolling 9-months.
-    - Stage = All opportunities start as `00-Pre-Opportunity`
+    - Stage = All opportunities start as `0-Pending Acceptance`
 1. Add any additional details on the OPPORTUNITY record
 1. Click `Save`
 
@@ -631,7 +629,7 @@ See [Working with Professional Services](/handbook/customer-success/professional
     - Type = do not change it will populate from parent OPPORTUNITY
     - Initial Source = do not change it will populate from parent OPPORTUNITY
     - Close Date = if no timeframe defined input close date on a rolling 9-months.
-    - Stage = All opportunities start as `00-Pre-Opportunity`
+    - Stage = All opportunities start as `0-Pending Acceptance`
     - Professional Services Value (ProServe Value) = enter dollar value, which is defined as the total value of all consulting, training, integration, or other professional services as outlined in the Statement of Work.
     - ACV = **do not populate** an automated workflow will fill this information
     - Amount = **do not populate** an automated workflow will fill this information
@@ -790,23 +788,13 @@ For example, a customer starts January 1st for 12 months, but wants to reset sta
 
 To help move sales through the sales process, [here](https://docs.google.com/document/d/1ag7YY9aJ93j0CRZb-DrbfgH3vmHprTEdjG7l3O57xEk/edit) is a list of questions to ask at each stage
 
-**00-Pre Opportunity**- This stage should be used when an opportunity does not meet our opportunity criteria. However, there is a potential for business, and it should be tracked for possible business.
-
-- What to Complete in This Stage:
-    - Schedule a discovery call with prospect to determine if there is an opportunity to pursue; or
-    - If there is no opportunity then the stage would be updated to 9-Unqualified.
-- Creating an Opportunity in this stage from Contacts
-    - If you are qualifying a contact for a new business opportunity, open an opportunity in this stage and use the qualification questions in the qualification section on the opportunity while qualifying the contacts.
-    - "Convert" Opportunities from this stage to **0-Pending Acceptance** when the opportunity meets [our criteria for an opportunity](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao)
-    - Follow [our process](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) on creating opportunities from a contact record.
-
 **0-Pending Acceptance**: This is the initial stage once an opportunity is created.
 
 - What to Complete in This Stage:
     - For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao).
     - The SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
     - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
-    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `8-Unqualified` stage (this is the only time an opportunity can move into `8-Unqualified` stage) or to `00-Pre Opportunity` if passed back to an SDR for further qualification.
+    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `8-Unqualified` stage (this is the only time an opportunity can move into `8-Unqualified` stage) or to `0-Pending Acceptance` if passed back to an SDR for further qualification.
     - All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
     - For renewal opportunities, `0-Pending Acceptance` is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Leader.
 
@@ -905,7 +893,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 
 ##### Opportunity Stage Movement Considerations
 
-Note that once you qualify an opportunity via our standard qualification process, you cannot revert an opportunity back to the following stages: `00-Pre Opportunity`, `0-Pending Acceptance`, or `9-Unqualified`.
+Note that once you qualify an opportunity via our standard qualification process, you cannot revert an opportunity back to the following stages: `0-Pending Acceptance`, or `9-Unqualified`.
 If you need to revert an opportunity you've previously qualified to one of these stages, please contact Sales Operations and we can determine why the opportunity (once qualified) is no longer qualified.
 
 ##### Reverting an Opportunity to a Previous Stage

@@ -160,7 +160,7 @@ Once you have conducted the initial qualifying meeting. You and your team should
 *   **Timing (How Soon Will They Buy?)**
     *   After the initial qualifying meeting with the account leader/executive, there must be a next step that is set to occur within a _60 day timeframe_. (If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0).
 
-Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 00-Pre Opportunity regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](/handbook/business-ops/resources/#opportunity-stages) can be updated within Salesforce. 
+Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 0-Pending Acceptance regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](/handbook/business-ops/resources/#opportunity-stages) can be updated within Salesforce. 
 
 ## Step 6. Pipeline Management and Forecasting
 
@@ -172,7 +172,6 @@ Your goal is to close deals and the best way to do that is to track where your s
 ### Pipeline Management
 
 **Pipeline Management** is typically done in **Salesforce** and forecasting is done in **Clari**. The common pipeline stages within Salesforce are the following:
-*   00- Pre Opportunity
 *   0 - Pending Acceptance
 *   1 - Discovery
 *   2 - Scoping
@@ -185,7 +184,7 @@ Your goal is to close deals and the best way to do that is to track where your s
 
 Below are **DAILY TASKS** you’ll need to perform within Salesforce.
 
-1. Accurately document each stage of the sales cycle using the list above. This requires you to assess each opportunity based on what tasks have taken place. For example, if you have created a lead, you have moved into the 00- Pre Opportunity stage of the sales cycle. If you have gathered data and the deal meets the criteria in step 5, the deal can then be designated as 0 - Pending Acceptance. 
+1. Accurately document each stage of the sales cycle using the list above. This requires you to assess each opportunity based on what tasks have taken place. If you have gathered data and the deal meets the criteria in step 5, the deal can then be designated as 0 - Pending Acceptance. 
     *  When you have scheduled a follow up meeting to interview and obtain in depth [MEDDPPICC](/handbook/sales/meddppicc/) data the opportunity should be designated as stage 1 - Discovery. 
     *   **Pipeline Hygiene: Generally review your accounts DAILY, but depending on the size of your book of business, it should be at least once per week.**
         *  Identify prospects who have been in your sales pipeline longer than your average sales cycle.
