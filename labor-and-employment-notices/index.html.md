@@ -9,28 +9,59 @@ title: "Labor and Employment Notices"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Introduction
+## Introduction
 
 Since GitLab is an [all remote](/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
 
-## United States
+<details>
+<summary>United States</summary>
 
-### City of Philadelphia
-* [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
+### California
+* [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
+* [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
+* [Your Rights and Obligations as a Pregnant Employee](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/RightsObligationsPregnantEe_ENG.pdf)
+* [Family Care & Medical Leave & Pregnancy Disability Leave](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2017/06/CFRA_PregnancyLeave_English.pdf) 
+* [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle17.pdf)
+* [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2019.pdf)
+* [Paid Sick Leave](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
+* [Safety and Health Protection on the Job](https://www.dir.ca.gov/dosh/dosh_publications/shpstreng012000.pdf)
+* [Notice to Employees - Injuries Caused by Work](https://www.dir.ca.gov/dwc/NoticePoster.pdf)
+* [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
+* [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
 
-### City of Pittsburgh
-* [Paid Sick Days Act](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
-
-### City of San Francisco
+#### City of San Francisco
 * San Francisco Minimum Wage increases to $15.59 per hour [(June 2019)](ttps://gitlab.com/gitlab-com/people-ops/Compensation/uploads/e261b0f24e1b2d5bf382366bb400cf53/sf-minimum-wage-2019-06.pdf).
 * [Fair Chance Ordinance](https://sfgov.org/olse/fair-chance-ordinance-fco)
 
 ### Massachusetts
 * [Paid Family and Medical Leave](https://www.mass.gov/doc/paid-family-and-medical-leave-mandatory-workplace-poster/download)
 * [Earned Sick Time](https://www.mass.gov/doc/earned-sick-time-notice-of-employee-rights/download)
+* [Massachusetts Wage and Hours Laws](https://www.mass.gov/doc/massachusetts-wage-hour-laws-poster/download)
+* [Fair Employment Law](https://www.mass.gov/doc/fair-employment-poster/download)
+* [Parental Leave Act](https://www.mass.gov/service-details/parental-leave-in-massachusetts)
+* [Information on Employees Unemployment Insurance Coverage](https://www.mass.gov/doc/information-on-employees-unemployment-insurance-coverage-form-2553a/download)
+
+### New York
+* [New York Correction Law, Article 23-A](https://labor.ny.gov/formsdocs/wp/correction-law-article-23a.pdf)
+* [New York State Human Rights Law](https://dhr.ny.gov/sites/default/files/doc/poster.pdf)
+* [Equal Pay Provision](https://labor.ny.gov/formsdocs/wp/LS603.pdf)
+* [Minimum Wage](https://labor.ny.gov/formsdocs/wp/LS207.pdf)
+
+### Pennsylvania
+* [Minimum Wage Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-1.pdf)
+* [Abstract of Equal Pay Law](https://www.dli.pa.gov/Documents/Mandatory%20Postings/llc-8.pdf)
+* [Employment Provisions of the PA Human Relations Act](https://www.phrc.pa.gov/About-Us/Publications/Documents/Required%20Posters/Fair%20Employment.pdf)
+
+#### City of Philadelphia
+* [Promoting Healthy Families and Workplaces](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
+
+#### City of Pittsburgh
+* [Paid Sick Days Act](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
 
 ### Washington
 * [Paid Family and Medical Leave Act](https://paidleave.wa.gov/app/uploads/2019/12/Employer-poster.pdf)
+* [Job Safety and Health Law](https://www.lni.wa.gov/forms-publications/f416-081-909.pdf)
+* [Your Rights as a Worker](https://www.lni.wa.gov/forms-publications/F700-074-000.pdf)
 
 ### EEOC (U.S. Equal Employment Opportunity Commission) Notices
 Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employers/poster.cfm).
@@ -50,8 +81,10 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ### OSHA Job Safety and Health
 * [Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
+</details>
 
-## Canada
+<details>
+<summary>Canada</summary>
 
 ### Ontario
 * [Occupational Health & Safety Poster](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
@@ -68,8 +101,10 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ### Manitoba 
 * [Safe Work Manitoba](https://www.safemanitoba.com/Page%20Related%20Documents/resources/BR_EveryonesResponsibilityLong_15SWMB.pdf)
+</details>
 
-## Europe
+<details>
+<summary>Europe</summary>
 * [European Agency for Safety and Health at Work](https://osha.europa.eu/en)
 
 ### Netherlands
@@ -79,3 +114,4 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ## Germany
 * [Working Hours Act](https://www.gesetze-im-internet.de/arbzg/index.html) 
+</details>
