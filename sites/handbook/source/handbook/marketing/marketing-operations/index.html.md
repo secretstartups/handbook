@@ -94,7 +94,7 @@ We use labels for several purposes. One is to categorize the tool or area that i
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 
 **Priorities:**
