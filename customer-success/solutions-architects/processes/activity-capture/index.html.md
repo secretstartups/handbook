@@ -162,3 +162,11 @@ It can take 0-8 minutes for the system to ping you. After that, here are several
 - Invitees do no exist in Salesforce (e.g., the call cannot be logged against anything in SFDC)
 - The invitees are listed in SFDC, but under a different email address (e.g., email does not match)
 - While we have a primary Email field and another field called something like Email #2, Troops only looks to the primary Email field.
+
+**Error message when logging a call to a Lead and Opportunity**
+
+Because Leads are a separate object and unrelated to Opportunities, you cannot log a call to a Lead and Opportunity. Instead, best practice is to log it to the Contact and Opportunity. You may need to convert the Lead to a Contact first. In that case, check with your SDR.
+
+**Error message: "CannotUpdateConvertedLead"**
+
+This error message occurs when the call happened, the Lead was converted to a Contact, and then the call was logged. In this case, it is a caching issue. Run the `/troops` command to manually log the call.
