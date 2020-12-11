@@ -1009,3 +1009,7 @@ We researched and selected three vendors and conducted a cost analysis with Fina
 ### SafetyWing
 
 SafetyWing is a global medical benefits provider. At this time we will not be offering this benefit globally as we are focused on entity specific benefits (which many have medical plans already in place) and the ongoing international expansion process (where a team member is converted to an employee of either a PEO or a GitLab Entity). Further information, survey results, and corresponding discussion are available under [Total Rewards Issue #124](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/124) (internal).
+
+### Family Planning
+
+At this time, GitLab is not yet at a stage or size to offer a self funded plan for FY21, but will be revisited when we evaluate benefits, budget and size for the next fiscal year. Further information and corresponding discussion are available under [Total Rewards Issue #196](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/196#note_465129810) (internal).
