@@ -43,6 +43,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Strategic Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
     </div>
+</div>    
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
@@ -51,6 +52,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
     </div>
+</div>    
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
 
@@ -68,6 +70,7 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request" class="btn btn-purple" style="width:170px;margin:5px;">Report a bug</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
+</div>
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
@@ -149,7 +152,7 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
 
 ### Focus Fridays
 
-The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to Focus Fridays. Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. Thanks!
+The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
 
 ### Office Hours
 
