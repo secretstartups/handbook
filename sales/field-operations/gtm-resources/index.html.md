@@ -217,14 +217,13 @@ This field inherits data from other fields in the following priority: 1. Admin M
   Sales Ops Operators Guide for Account Review and Moves
 </summary>
  
- ## Case Review Process
+ **Case Review Process**
  1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
  1. Update any of the data on the account if needed to reflect what was provided
  1. Select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
  1. Close the case and idicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
 
- ## Quarterly Review Process
-
+ **Quarterly Review Process**
 1. Use the reports on the **Sales Operations Quarterly Account Review Dashboard** to review the requested account moves. 
    1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately along with all open Opportunities Stage 3 and below.
    1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota.
