@@ -56,6 +56,14 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 1. Slack - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. 
 
+## How to Get Help
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request" class="btn btn-purple" style="width:170px;margin:5px;">Report a bug</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
+  </div>
+
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
 **Our Motto: If it isn't an Issue, it isn't OUR issue.**
