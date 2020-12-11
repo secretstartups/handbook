@@ -290,7 +290,7 @@ _`@Sid @Scott Williamson @Anoop Dawar` The 13.6 Release Post has been generated 
 
 Please share your feedback by 10am PT on Friday November 20 (tomorrow). Thank you for your review!
 
-Currently there are no known issues/adjustments to the content but I know of 1 deprecation that needs added and will happen with my first wave of edits. We do still need to add social links and a reminder that the YouTube videos do not load in review apps but we have verified the proper /embed/ URLs.
+Currently there are no known issues/adjustments to the content but I know of one deprecation that needs to be added and will happen with my first wave of edits. We do still need to add social links and a reminder that the YouTube videos do not load in review apps but we have verified the proper /embed/ URLs.
 
 Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
 
