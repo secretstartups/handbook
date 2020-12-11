@@ -44,6 +44,44 @@ The prescriptive buyer journeys are the foundation for our top-funnel demand gen
 
 The first iteration of building these prescriptive buyer journeys was a highly collaborative effort of mapping existing content. The process has helped to identify content gaps and reasoning for persona storyboards to dig into the perspective of the buyer, and *then* build content to the needs of the buyer in the given stages.
 
+## Process for Creating Full-Funnel Content Journeys 
+
+In today’s digital-first world, customers expect flawless omnichannel experiences. From seeing an ad on their mobile phone to interacting with our website to speaking with a sales representative, we need to ensure that there is cohesion across every interaction. By creating a full-funnel content journey map, we look at the lifecycle of a customer—from first interaction to closing a sale*—and outline the narrative we want to tell. This narrative is our blueprint for content creation and campaign planning. 
+
+Designing a full-funnel content journey enables us to serve more relevant content to our potential customers resulting in faster conversion times. Creating a repeatable process for this ensures we can quickly iterate and create new content journeys for specific personas and industries. 
+
+The following documentation covers how to design a full-funnel content journey including who is involved and what needs to be done at each step.
+
+*This can and should be expanded to retention after a marketing proof of concept cycle is completed.  
+
+### Sequence of Actions
+
+1. Create an Epic. Provide target audience detail and campaign requirements. Include campaign strategy, channels, and any major event or news dependencies. 
+1. Host & record a cross-functional kick-off call to introduce the project requirements and discuss timeline. Focus the kick-off call discussion on themes and surfacing potential cross-functional alignment; set aside 30 minutes for creative brainstorming. The kick-off call should be scheduled a quarter ahead of the campaign launch date. This gives content creators time to storyboard and produce content. 
+1. Create a copy of the full-funnel storyboard template. 
+1. 
+1. Perform a content gap analysis. Create/repurpose/update content to fill the storyboard with content. 
+1. Create PathFactory tracks, nurture emails, and update web pages with new offers. 
+1. Launch the campaign. 
+
+### Content Creation Pods 
+
+#### Roles and Responsibilities
+
+The following lists the different teams involved and their role in the process:  
+
+#### Content Marketing
+The role of content marketing is content strategist. The content strategist focuses on the packaging and polishing of content. They participate in the brainstorming 
+
+The content marketing team leads the storyboarding exercise and awareness-stage content, writes nurture emails, and is the final approver of the content journey map. 
+
+### Marketing Programs
+The role of marketing programs is campaign manager. The marketing programs team leads the digital tactics strategy, sets the project requirements, and implements the content journey map into the appropriate channels and systems. 
+
+## Product Marketing
+
+The role of product marketing is subject matter expert. The product marketing team leads the messaging strategy, approves messaging and leads consideration and purchase stage content.
+
 ## Content journey mapping
 
 By creating a full-funnel content journey map, we look at the entire lifecycle of a customer and outline the story we want to tell. This narrative is our blueprint for content creation. Content journey mapping is based on our [content stage/buyer journey defintions](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) and [use cases](/handbook/use-cases/), which are the building blocks for our [content creation strategy](/handbook/marketing/inbound-marketing/content/content-marketing/#content-creation-strategy). 
