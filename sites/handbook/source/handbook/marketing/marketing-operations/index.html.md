@@ -12,6 +12,8 @@ description: "Marketing Operations (MktgOps) supports the entire Marketing team 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 ## Charter
 
 Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well. MktgOps works closely with Sales Operations (SalesOps) to ensure information between systems is seamless, data is as accurate as possible and terminology is consistent in respective systems. Not only are we assisting with marketing operations but we are also involved in the operations of marketing, such as the budget and strategies.
@@ -40,7 +42,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Strategic Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
-</div>
+    </div>
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
@@ -112,12 +114,12 @@ _In Milestone_
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
-| Label you add       | Slack channel the merged MR pushes to |
-| ------------------- | ------------------- |
-| `MktgOps-HB Update` | `hbupdate-mktgops` |
-| `FMM-HB Update`     | `fieldmarketing-FYI` |
-| `SDR-HB Update`     | `hbupdate-sdr` |
-| `ABM-HB Update`     | `hbupdate-abm` |
+| **Label you add**       | **Slack channel the merged MR pushes to** |
+| ----------------------- | ----------------------------------------- |
+| `MktgOps-HB Update`     | `hbupdate-mktgops`                        |
+| `FMM-HB Update`         | `fieldmarketing-FYI`                      |
+| `SDR-HB Update`         | `hbupdate-sdr`                            |
+| `ABM-HB Update`         | `hbupdate-abm`                            |
 
 ### Marketing Ops Calendar
 
@@ -209,17 +211,17 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ## Marketing Expense Tracking
 
-| GL Code | Account Name | Purpose |
-| ------- | ------------ | ------- |
-| 6060 | Software Subscriptions | All software subscriptions |
-| 6100 | Marketing | Reserved for Marketing GL accounts |
-| 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
-| 6120 | Advertising | All media buying costs as well as agency fees and software subscriptions related to media buying |
-| 6130 | Events | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
-| 6135 | Swag | Any swag related expense |
-| 6140 | Email | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation |
-| 6150 | Brand | All PR, AR, content, swag and branding costs |
-| 6160 | Prospecting | Not used - All costs related to prospecting efforts |
+| **GL Code** | **Account Name**       | **Purpose**                                                                                                                                  |
+| ----------- | -----------------------| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 6060    | Software Subscriptions     | All software subscriptions                                                                                                                       |
+| 6100    | Marketing                  | Reserved for Marketing GL accounts                                                                                                               |
+| 6110    | Marketing Site             | All agency fees and contract work intended to improve the marketing site                                                                         |
+| 6120    | Advertising                | All media buying costs as well as agency fees and software subscriptions related to media buying                                                 |
+| 6130    | Events                     | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
+| 6135    | Swag                       | Any swag related expense                                                                                                                         |
+| 6140    | Email                      | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation         |
+| 6150    | Brand                      | All PR, AR, content, swag and branding costs                                                                                                     |
+| 6160    | Prospecting                | Not used - All costs related to prospecting efforts                                                                                              |
 
 ### Invoice Approval
 
