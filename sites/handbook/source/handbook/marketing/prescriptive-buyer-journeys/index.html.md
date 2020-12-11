@@ -44,7 +44,7 @@ The prescriptive buyer journeys are the foundation for our top-funnel demand gen
 
 The first iteration of building these prescriptive buyer journeys was a highly collaborative effort of mapping existing content. The process has helped to identify content gaps and reasoning for persona storyboards to dig into the perspective of the buyer, and *then* build content to the needs of the buyer in the given stages.
 
-## Process for Creating Full-Funnel Content Journeys 
+# Content Mapping   
 
 In today’s digital-first world, customers expect flawless omnichannel experiences. From seeing an ad on their mobile phone to interacting with our website to speaking with a sales representative, we need to ensure that there is cohesion across every interaction. By creating a full-funnel content journey map, we look at the lifecycle of a customer—from first interaction to closing a sale*—and outline the narrative we want to tell. This narrative is our blueprint for content creation and campaign planning. 
 
@@ -52,9 +52,9 @@ Designing a full-funnel content journey enables us to serve more relevant conten
 
 The following documentation covers how to design a full-funnel content journey including who is involved and what needs to be done at each step.
 
-*This can and should be expanded to retention after a marketing proof of concept cycle is completed.  
+**This can and should be expanded to retention after a marketing proof of concept cycle is completed.*  
 
-### Sequence of Actions
+## Sequence of Actions
 
 1. Create an Epic. Provide target audience detail and campaign requirements. Include campaign strategy, channels, and any major event or news dependencies. 
 1. Host & record a cross-functional kick-off call to introduce the project requirements and discuss timeline. Focus the kick-off call discussion on themes and surfacing potential cross-functional alignment; set aside 30 minutes for creative brainstorming. The kick-off call should be scheduled a quarter ahead of the campaign launch date. This gives content creators time to storyboard and produce content. 
@@ -65,29 +65,19 @@ The following documentation covers how to design a full-funnel content journey i
 1. Create PathFactory tracks, nurture emails, and update web pages with new offers. 
 1. Launch the campaign. 
 
+## Roles and Responsibilities
+
 ### Content Working Groups 
 
-A content [working group](https://en.wikipedia.org/wiki/Working_group) is a cross-functional team aligned to messaging, content strategy, and content creation for a single campaign. The members of a content working group can vary based on the campaign but a standard group may include: a program manager, a subject matter expert, a content strategist, a technical expert, and a designer. More complex, web-based projects may include a UX strategist and a web developer. 
+A content [working group](https://en.wikipedia.org/wiki/Working_group) is a cross-functional team aligned to messaging, content strategy, and content creation for a single campaign or event. The members of a content working group can vary based on the campaign but a standard group may include: a program manager, a subject matter expert, a content strategist, a technical expert, and a designer. More complex, web-based projects may include a UX strategist and a web developer. 
 
-#### Roles and Responsibilities
+- **Content Strategist:** The content strategist is responsible for the overall content experience; they are focused on the flow and packaging of content. The content strategist is the DRI for content strategy, for final content asset output, and for finalizing content offers & tracks.  
+- **Designer:** The designer is responsible for the visual experience; they are focused on the look and feel of content. The designer is the DRI for brand strategy, for creative themes, and for creative assets.
+- **Program Manager** The program manager is responsible for the overall digital experience; they are focused on the delivery and tracking of content. The program manager is the DRI for the campaign strategy, for channel distribution, and for reporting. 
+- **Product Marketer:** The product marketer is responsible for the go to market strategy; they are focused on the targeting and positioning of content. The product marketer is the DRI for messaging, for content creation, and for subject matter expertise. 
+- **Technical Marketer:** The technical marketer is responsible for practical application strategy; they are focused on the technical depth and accuracy of content. The technical marketer is the DRI for practical application scenarios, for content creation, and for product education. 
 
-##### Content Strategist 
-The of the content strategist is responsible for the overall content experience. They are focused on 
-
-The content strategist focuses on the packaging and polishing of content. They participate in the brainstorming 
-
-The content marketing team leads the storyboarding exercise and awareness-stage content, writes nurture emails, and is the final approver of the content journey map. 
-
-#### Designer
-
-### Program Manager 
-The role of marketing programs is campaign manager. The marketing programs team leads the digital tactics strategy, sets the project requirements, and implements the content journey map into the appropriate channels and systems. 
-
-## Product Marketing
-
-The role of product marketing is subject matter expert. The product marketing team leads the messaging strategy, approves messaging and leads consideration and purchase stage content.
-
-focused on positioning. 
+This list can be expanded to include brand awareness after a successful proof of concept. 
 
 ## Content journey mapping
 
