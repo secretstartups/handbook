@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Deal Desk"
+title: "Deal Desk Handbook"
+description: "The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales."
 ---
 
 ## On this page

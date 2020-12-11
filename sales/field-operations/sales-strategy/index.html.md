@@ -1,6 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Sales Strategy"
+title: "Sales Strategy and Analytics Handbook"
+description: "To drive sales success by providing data, reporting, analytics, and actionable insights to leadership across GitLab"
+
+
 ---
 
 ## On this page
