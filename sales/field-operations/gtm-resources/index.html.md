@@ -204,22 +204,34 @@ This field inherits data from other fields in the following priority: 1. Admin M
 
 **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
-1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `QR-Approved to move` on the  `Account Reassignment Status` field. Approved accounts can be tracked in the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
 1. **Sales Operations Quarterly Account Review Process**
-   1. **Approved accounts** will be moved in the last week of the fiscal quarter. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+   1. **Approved accounts** will be moved in the last week of the fiscal quarter for Q1 & Q2. Requests received during Q3 & Q4 will roll into the annual review process and be moved in Q1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
    1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Global Account owner. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
    1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
 1. **Annual Review Process**
    1. Accounts will still be reviewed annually prior to the Fiscal Year planning process and territory carving.
 
-   <details>
+<details>
 <summary markdown='span'>
   Sales Ops Operators Guide for Account Review and Moves
 </summary>
  
+ ## Case Review Process
  1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
  1. Update any of the data on the account if needed to reflect what was provided
- 1. Select the Picklist Value
+ 1. Select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
+ 1. Close the case and idicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
+
+ ## Quarterly Review Process
+
+1. Use the reports on the **Sales Operations Quarterly Account Review Dashboard** to review the requested account moves. 
+   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately along with all open Opportunities Stage 3 and below.
+   1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota.
+   1. Once account and opportunity ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
+   1. Review the Account and Opportunity Holdover Expiration reports and move the expired accounts and opportunities to the 
+
+ 
 </details>
 
 **Understanding Account Assignment, Rules and Definitions**
