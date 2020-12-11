@@ -365,7 +365,7 @@ The opportunity owner's primary reason as to why GitLab lost the deal
 - **No Relationship:** Evangelist /Champion Left or was not present
 - **Operational Silos:** Departments or management groups do not share information, goals, tools, priorities and processes with other departments
 - **Performance/Missing Features:** Prospect's overall evaluation of product or service meet some of their needs and expectations, but majorly lacked specific areas
-- **Product Maturity:** For the customers specific need, the product is not mature enough in certain areas. This should include large feature sets or large areas of capabilities that the customer believes is missing or not fully developed as opposed to one missing feature.
+- **Product Maturity:** For the customers specific need, the product is not mature enough in certain areas. This should include large feature sets or large areas of capabilities that the customer believes is missing or not fully developed as opposed to one missing feature. 
 - **Went Silent:** Prospect has ceased communication 
 - **Other:** The deal was lost due to reasons other than noted above
 
