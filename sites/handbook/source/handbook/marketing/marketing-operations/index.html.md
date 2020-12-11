@@ -211,8 +211,8 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ## Marketing Expense Tracking
 
-| **GL Code** | **Account Name**       | **Purpose**                                                                                                                                  |
-| ----------- | -----------------------| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GL Code** | **Account Name**       | **Purpose**                                                                                                                                      |
+| ----------- | -----------------------| ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 6060    | Software Subscriptions     | All software subscriptions                                                                                                                       |
 | 6100    | Marketing                  | Reserved for Marketing GL accounts                                                                                                               |
 | 6110    | Marketing Site             | All agency fees and contract work intended to improve the marketing site                                                                         |
