@@ -58,7 +58,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
-### Our Motto: If it isn't an Issue, it isn't OUR issue.
+**Our Motto: If it isn't an Issue, it isn't OUR issue.**
 
 ### Use of Issues
 
