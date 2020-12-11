@@ -115,10 +115,6 @@ In some cases, we may choose not to post to status.io, the following are example
 1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
 1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 
-To page the Incident Manager on call, see [Reporting an incident](#reporting-an-incident)
-
-1. Run a [response play](/handbook/on-call/#site-reliability-engineers-sres)
-1. Type `/pd trigger` in the `#production` channel
 
 #### Communications Manager on Call (CMOC) Responsibilities
 
