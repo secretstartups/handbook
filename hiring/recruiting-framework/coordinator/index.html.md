@@ -277,6 +277,9 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
+
+_It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name is usually provided for the [background check](/handbook/people-group/people-policy-directory/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name. This reiterates our Diversity, Inclusion and Belonging values and also prevents audit fails down the line when the [People Experience Associates](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) onboard the team member, and the [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) audits all personal data._
+
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
       - Is it clear how many (if any) stock options this person should receive?
