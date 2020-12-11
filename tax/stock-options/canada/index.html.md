@@ -9,7 +9,7 @@ title: "Tax Treatment of Stock Options as employee in Canada"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page describes the taxation of your stock options in Canada when you have transfered to GitLab Canada Corp. as your employer.
+This page describes the taxation of your stock options in Canada when you have transfered to GitLab Canada Corp. as your employer. Please note that when an option-holder was engaged as a consultant at the time the option was granted, refer to the paragraph Team members converted from contractor status to employee status.
 
 ### Equity Award
 Stock Option Plan
@@ -58,5 +58,5 @@ Annual Tax Reporting: GitLab must report the equity award income on Form T4, whi
 
 For employees in Quebec: Form RL-1 also is due by the end of February of the year following the year in which the taxable event occurs.
 
-### Employees converted from contractor status to employee status
+### Team members converted from contractor status to employee status
 Please note that if the option holder was engaged as a consultant at the time the option was granted, GitLab Canada Corp. is not required to withhold federal and provincial income taxes or Canada Pension Plan (or Quebec Pension Plan) contributions due upon exercise. is required to report the taxable amount at exercise to the option holder on a Form T4A, which will be filed with the Canada Revenue Agency.
