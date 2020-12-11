@@ -181,7 +181,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
    1. In `sites/marketing/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
-   1. Create a new directory `X_Y` in the `data/release_posts` directory.
+   1. Create a new directory `X_Y` in the `data/release_posts` directory. 
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
    1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
    1. Edit [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) and change the GitLab version, and the link of the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
@@ -252,12 +252,11 @@ The `bin/release-post-assemble` script makes this easy to do:
   git checkout master
   git pull
   git checkout release-X-Y
-  git checkout release-x-y
   git pull
   git merge master
   bin/release-post-assemble
   git push
-  git push origin release-x-y
+  git push origin release-X-Y
 ```
 
 If for some reason `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
