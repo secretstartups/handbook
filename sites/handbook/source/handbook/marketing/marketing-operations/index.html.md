@@ -47,7 +47,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
-  </div>
+</div>
 
 ## How to Communicate with Us
 
@@ -112,12 +112,12 @@ _In Milestone_
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
-| Label you add | Slack channel the merged MR pushes to  |
-| ------ | ------ |
+| Label you add       | Slack channel the merged MR pushes to |
+| ------------------- | ------------------- |
 | `MktgOps-HB Update` | `hbupdate-mktgops` |
-| `FMM-HB Update` | `fieldmarketing-FYI` |
-| `SDR-HB Update` | `hbupdate-sdr` |
-| `ABM-HB Update` | `hbupdate-abm` |
+| `FMM-HB Update`     | `fieldmarketing-FYI` |
+| `SDR-HB Update`     | `hbupdate-sdr` |
+| `ABM-HB Update`     | `hbupdate-abm` |
 
 ### Marketing Ops Calendar
 
