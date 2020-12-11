@@ -27,9 +27,9 @@ Technical leverage could be described as doing technical work that has a
 multiplicative impact.
 
 In other words, the impact of the work has a positive effect on more than
-your personal scope and the immediate or near-term time frame. The impact of
-technical leverage should help those around you and in your team,
-group, or department operate and iterate more efficiently.
+your personal scope and the immediate or near-term time frame. It should help
+those around you and in your team, group, or department operate and iterate
+more efficiently.
 
 Examples of this could be
 
