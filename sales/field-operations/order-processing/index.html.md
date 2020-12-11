@@ -714,11 +714,11 @@ For all Direct Deals (Sales Assisted Opportunities) the customer must sign the A
 
     * If an Order Form is executed by the Customer, GitLab review of a submitted purchase order will be minimal, the purchase order must include: a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form. 
 
-    1. In rare circumstances, where a Prospect/Client is unwilling to sign the Order Form, the Sales Team Member must attach to the Opportunity: 
+    1. In rare circumstances, where a Prospect/Client is unwilling to sign the Order Form, approvals are required from Legal and PAO and the Sales Team Member must attach to the Opportunity: 
         - Reason(s) why the Customer is refusing to execute the Order Form; and
         - Documentation (i.e., email thread) of the customer refusal
 
-    1. If the Customer's purchase order **DOES NOT** include any legal or finance terms, as determined and approved by GitLab finance and legal, and includes a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form (without signature block), GitLab may accept the Order Form and      purchase order without changes.   
+    1. If the Customer's purchase order **DOES NOT** include any legal or finance terms, as determined and approved by GitLab finance and legal, and includes a) the correct GitLab entity, b) the Quote No. found within the applicable Order Form, c) payment terms matching the Order Form, and d) line item descriptions that match the Order Form (without signature block), GitLab may accept the Order Form and purchase order without changes.   
 
     1. If the Customer's purchase order **DOES** include any legal or finance terms, as determined and approved by GitLab finance and legal, the Sales Team Member will be guided to direct the customer to either:
 
