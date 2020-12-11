@@ -82,11 +82,11 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. If you have received any feedback or questions on your MR, try to acknowledge comments as [that's how we ensure we create an environment of belonging for all team members](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Merging your MR as-is without giving an answer or any response makes the commenters feel their opinions are unheard. If you are the DRI who does not have to make a fast decision, you can choose not to change your MR, but you should acknowledge the comments or feedback, consider if they warrant a change to your MR, and [say why, not just what](/handbook/values/#say-why-not-just-what).
 If there are many comments, you can choose to summarize key feedback areas and share your response at a high level. We appreciate that [if you force a DRI to explain too much, you'll create incentives to ship projects under the radar. The fear of falling into a perpetual loop of explaining can derail a DRI, and cause people to defer rather than working with a bias for action](/handbook/people-group/directly-responsible-individuals/#empowering-dris). This is something we want to avoid.
 When fast decisions are needed, [we'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input](/handbook/leadership/#making-decisions). The goals are to be transparent and collaborative--not to lose efficiency. Not everyone will agree, but we expect all people to [disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree).
-1. For GitLab the product merge request guidelines are in the [Contribution
+1. For GitLab, the product merge request guidelines are in the [Contribution
 guide](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#merge-request-guidelines) and code review guidelines for reviewers and maintainers are described in our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 1. Even when something is not done, share it internally so people can comment early and prevent rework.
-1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse, in this case don't use WIP, if someone merges it earlier than you expected, just create a new merge request for additional items. Never ask someone to do a final review or merge something that still have WIP status, at that point you should be convinced it is good enough to go out.
-1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto closing the issue.
+1. Create a **[Work In Progress (WIP)](/blog/2016/01/08/feature-highlight-wip/)** merge request to prevent an accidental early merge. Only use WIP when merging it would **make things worse**, which should rarely be the case when contributing to the handbook. Most merge requests that are in progress don't make things worse. In this case, don't use WIP; if someone merges it earlier than you expected just create a new merge request for additional items. Never ask someone to do a final review or merge something that still has WIP status. At that point you should be convinced it is good enough to go out.
+1. If any follow-up actions are required on the issue after the merge request is merged (like reporting back to any customers or writing documentation), avoid auto-closing the issue.
 1. If a project requires multiple approvals to accept your MR, feel free to assign multiple reviewers concurrently. This way the earliest available reviewer can start right away rather than being blocked by the preceding reviewer.
 1. If the MR involved gets a lot of comments, you can turn it into a [Manager Mention MR](/handbook/communication/index.html#scaling-merge-requests-through-manager-mention-mrs-formerly-consolidated-mrs).
 1. Consider recording a concise video or audio file outlining the merge request and uploading it to the GitLab [Unfiltered channel](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) on YouTube. This will make content more accessible, prevent future confusion, allow for multitasking (e.g. cooking dinner and listening to the video), and increase participation for folks who digest audio information better than visual.
@@ -154,16 +154,16 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 ## Top Tips and Best Practices
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
-1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
+1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate Slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
 1. Discussion in issues or Merge Requests is preferred over everything else. If you need a response urgently, you can Slack someone with a link to your comment on an issue or merge request, asking them to respond there, however be aware that they still may not see it straight away. See [Slack](/handbook/communication#slack) for more.
 1. If you choose to email instead of chat it is OK to send an _internal_ email that contains only a short message, similar as you would use in chat.
 1. You are not expected to be available all the time. There is no expectation to respond to messages outside of your planned working hours.
 1. Sometimes synchronous communication is the better option, but do not default to it. For example, a video call can clear things up quickly when you are blocked. See the [guidelines on video chats](#video-calls) for more detail.
 1. It is very OK to ask as many questions as you have. Please ask them so many people can answer them and many people see the answer. Use issues or public chat channels (like #questions) instead of direct messages or one-on-one emails. If you have researched in the handbook and could not find the answer or need clarity, include the handbook link you were reviewing and state "while looking in the handbook I could not find x,y,z".
 1. If someone sends you a handbook link they are proud that we have the answer documented, they don't mean that you should have found that yourself or that this is the complete answer, feel free to ask for clarification.
-1. If the answer to a question isn't documented please immediately make a merge request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A merge request is the best way to say thanks for help.
+1. If the answer to a question isn't documented, please immediately make a merge request to add it to the handbook in a place you have looked for it. It is great for the person who answered the question to see you leading by example to ensure that question only needs to be answered once. A merge request is the best way to say thanks for help.
 1. If you mention something (a merge request, issue, commit, webpage, comment, etc.) please include a link to it.
-1. All company data should be **shareable** by default. Don't use a local text file but rather leave comments on an issue.
+1. All company data should be **shareable** by default. Don't use a local text file, but rather leave comments on an issue.
 1. When someone asks something, give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small it's better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
 1. It is OK to bring an issue to someone's attention with a CC ("cc @user"), but CCs alone are not enough if specific action is needed from someone. The mentioned user may read the issue and take no further action. If you need something, please explicitly communicate your need along with @ mentioning who you need it from.
 1. Avoid creating private groups for internal discussions:
@@ -171,7 +171,7 @@ To learn more on when to use asynchronous and synchronous communication, example
     1. It's not searchable.
     1. It's not shareable: there is no way to add people in the group (and this often leads to multiple groups creation).
     1. They don't have a subject, so everyone has to remember the topic of each private group based on the participants, or open the group again to read the content.
-    1. History is lost when leaving the group.
+    1. History is lost when leaving the group or [after 90 days](https://about.gitlab.com/handbook/communication/#slack).
 1. It is perfectly fine to create a channel, even for a single customer meeting. These channels should be named "a_&lt;customer-name&gt;-internal" to indicate their "internal" nature (not shared with customers).
 1. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a remote-only company, located all over the world. Provide as much context as possible to avoid confusion. Relatedly, we use [ubiquitous language](#ubiquitous-language) for communication efficiency.
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
@@ -179,8 +179,8 @@ To learn more on when to use asynchronous and synchronous communication, example
 ### How to make a Companywide Announcement
 
 1. Consider the subject and the audience.
-    Questions you might want to ask yourself; is this relevant to all team members globally?
-    is this something important, urgent and high priority? is there a better place for this communication, such as a more informal slack channel?
+    Questions you might want to ask yourself: Is this relevant to all team members globally?
+    Is this something important, urgent and high priority? Is there a better place for this communication, such as a more informal Slack channel?
 1. Keep it simple, brief and summarize what is important. Cover the 5 W's. What, Why, Who, When, Where (you can also add How, if required as a call to action). The majority of information should still be in the Handbook which you include links to.
 1. Common companywide announcements include (but are not limited to): organization changes, policy iterations, requests to participate in a company survey,     unveiling the next GitLab Contribute location, codebase migrations, process improvement and security/safety announcements.
 1. Remember Handbook First.
@@ -202,9 +202,9 @@ In order to post or have a message posted in #company-fyi, please reach out to y
 1. Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
     1. Competition prize winner announcements.
     1. Org change or new team member announcements (unless they are E-group).
-    1. Promotion of a optional non-company-wide internal event.
+    1. Promotion of an optional non-companywide internal event.
 
-**The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel)
+**The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel).
 
 ### Top misused terms
 
