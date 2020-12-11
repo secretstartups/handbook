@@ -294,7 +294,7 @@ Currently there are no known issues/adjustments to the content but I know of one
 
 Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
 
-Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`_
+Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`
 
 
 
