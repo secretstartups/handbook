@@ -29,7 +29,6 @@ if an item will ship in the current or a future iteration.
 1. Milestone
   - If an issue is tagged against a milestone, that is the GitLab release it is
   targeted to be shipped in. These aren't promises; milestones are subject to change, and we [plan ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning). This is not a commitment to a customer to deliver a certain scope or at a certain time, nor should it be treated as such.
-  and milestones are subject to change.
 1. `workflow::<current state>` labels
   - The `workflow::<current state>` label shows what state the Issue is currently
   at in the Product Development Workflow. The [various states](https://about.gitlab.com/handbook/product-development-flow/#workflow-summary)
