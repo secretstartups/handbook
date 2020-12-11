@@ -67,7 +67,9 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 
 ## Using Smartling 
 
-Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. If there is no campaign finance tag associated with your job submission, please use the follow naming convention: `Language Abbreviation - Campaign Name - Date`. This is only applicable to the `Documents` project as the `GDN` and `Marketo` job submissions are handled differently. Where possible, please include as much detail as you can.
+Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. 
+
+Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. If there is no campaign finance tag associated with your job submission, please use the follow naming convention: `Language Abbreviation - Campaign Name - Date`. This is only applicable to the `Documents` project as the `GDN` and `Marketo` job submissions are handled differently. Where possible, please include as much detail as you can.
 
 ### Field Marketing use of Smartling
 
@@ -83,7 +85,9 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 ### Marketo
 
-**Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance.
+**Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. 
+
+When you submit Marketo jobs, the jobs will be available in the general `Jobs` tab in the platform and within the Marketo connector. Marketo jobs will not have the same name as jobs submitted through the `Documents` since these jobs are automated.
 
 ### PathFactory 
 
