@@ -248,9 +248,9 @@ When naming channels, "spt" is meant for internal channels, meaning those that w
 | [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
 | [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG)     | Discuss GitLab.com tickets and customer issues            |
 | [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
-| [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Allow other teams to interact with support managers       |
+| [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48)    | Discuss customer/ticket matters which require support managers' attention. Allow other teams to interact with support managers. |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Discuss support team internal matters which require support managers' attention |
 | [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
-| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Support Manager tactical and coordination discussions     |
 
 #### User Groups
 {: .no_toc}
@@ -415,9 +415,9 @@ Tips:
 
 Some functions don't fit as cleanly into the Support Stable Counterparts model.  As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups.
 
-If you're missing from this list (and want to be on it) please let the Support Managers know in `#support_managers`
+If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`
 
-If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#support_managers`.
+If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
 
 | Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
@@ -485,7 +485,7 @@ which then sends the information to a Slack workflow.
 
 Providing information by reacting to a message with a specific emoji.
 
-- `#support_managers`
+- `#support_escalations`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 - `#support_gitlab-com`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
