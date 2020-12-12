@@ -5,6 +5,7 @@ title: "Labor and Employment Notices"
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
+{::options parse_block_html="true" /}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
@@ -14,6 +15,7 @@ title: "Labor and Employment Notices"
 Since GitLab is an [all remote](/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
 
 <details>
+
 <summary markdown="span">United States</summary>
 
 ### California
@@ -64,10 +66,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Your Rights as a Worker](https://www.lni.wa.gov/forms-publications/F700-074-000.pdf)
 
 ### EEOC (U.S. Equal Employment Opportunity Commission) Notices
-Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employers/poster.cfm).
 * ["EEO is the Law" English poster for screen readers.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
 * ["EEO is the Law" English poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf)
 * ["EEO is the Law" Spanish poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf)
+* All ["EEO is the Law"](https://www1.eeoc.gov/employers/poster.cfm) poster links.
 
 ### E-Verify 
 * [Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
@@ -81,9 +83,11 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ### OSHA Job Safety and Health
 * [Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
+
 </details>
 
 <details>
+
 <summary markdown="span">Canada</summary>
 
 ### Ontario
@@ -101,10 +105,13 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ### Manitoba 
 * [Safe Work Manitoba](https://www.safemanitoba.com/Page%20Related%20Documents/resources/BR_EveryonesResponsibilityLong_15SWMB.pdf)
+
 </details>
 
 <details>
+
 <summary markdown="span">Europe</summary>
+
 * [European Agency for Safety and Health at Work](https://osha.europa.eu/en)
 
 ### Netherlands
@@ -114,4 +121,5 @@ Information related to the [EEO is the Law poster](https://www1.eeoc.gov/employe
 
 ## Germany
 * [Working Hours Act](https://www.gesetze-im-internet.de/arbzg/index.html) 
+
 </details>
