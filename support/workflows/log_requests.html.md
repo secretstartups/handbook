@@ -19,7 +19,7 @@ Due to privacy issues, GitLab cannot provide a copy of the logs without a court 
 
 Always include a link to the log as an internal note, with additional information if needed.
 
-If required, post in the #support_managers channel for a senior engineer or manager review.
+If required, post in the `#support_escalations` channel for a senior engineer or manager review.
 
 A standard response is available in ZenDesk as a macro `GitLab.com::Audit logs access request`.
 

@@ -54,7 +54,7 @@ Sometimes, we might find organizations with multiple subscriptions associated wi
 
 ## Other Requests
 
-We also receive non Support requests in our queue - if you see something not listed below or something you are unsure about, ask in the #support_managers slack channel and make a MR to update the list below when you find out the answer.
+We also receive non Support requests in our queue - if you see something not listed below or something you are unsure about, ask in the `#support_escalations` slack channel and make a MR to update the list below when you find out the answer.
 
 |Request|Workflow|
 |--|--|

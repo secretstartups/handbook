@@ -36,20 +36,20 @@ If a subpoena or court order that is not covered by another workflow (e.g. DMCA,
 
 These workflows should be used when a user question is addressed in a [specific Support policy](https://about.gitlab.com/support/#gitlabcom-specific-support-policies).
 
-#### Namespace and Trademark claims 
+#### Namespace and Trademark claims
 
 Respond to the ticket with the `Legal::Namespace and Trademarks` macro.
 
 
 
-#### Ownership Disputes 
+#### Ownership Disputes
 *Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](https://about.gitlab.com/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
 
 Respond to the ticket with the `Legal::Ownership disputes` macro.
 
 
 
-#### Log Requests 
+#### Log Requests
 
 Please see [Log requests workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html)
 
@@ -60,7 +60,7 @@ A request may come in that you believe needs legal input but does not fit into o
 1. Respond to the ticket with the `Legal::General` macro
 
 
-1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer. 
+1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer.
 1. If Legal requests more time, respond to the ticket with the `Legal::Handover` macro.
 
 
@@ -71,4 +71,4 @@ A request may come in that you believe needs legal input but does not fit into o
 
 Support should be handling responses to any inquiries for clarifications. In most cases, an existing customer will be referred to their account manager.
 
-If you're unsure on how to respond, post in the #support_managers Slack channel for guidance.
+If you're unsure on how to respond, post in the `#support_escalations` Slack channel for guidance.

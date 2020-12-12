@@ -71,7 +71,7 @@ A GitLab.com admin is required to correctly map users in GitLab, [per our docume
 
 #### Other Cases
 
-If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
+If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_escalations Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ### Identify Import Errors
 

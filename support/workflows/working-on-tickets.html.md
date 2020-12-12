@@ -270,7 +270,7 @@ Sometimes, you might require help from senior support engineers, subject matter 
    1. If you now have some new ideas to try, make sure you have a clear plan of action and engage with the user.
 1. If you still require further assistance, reach out in the Slack channel of the appropriate [stage/group](https://about.gitlab.com/features/).
    1. If the situation demands (bug, regression, feature request etc) and an issue doesn't already exist, a new issue must have been filed related to the ticket and linked in all appropriate places.
-1. If you are unable to get assistance from a developer through the previous step, a Product Manager might need to be involved - reach out to a Support Engineering Manager via the [#support_managers](https://gitlab.slack.com/app_redirect?channel=support_managers) Slack channel for assistance.
+1. If you are unable to get assistance from a developer through the previous step, a Product Manager might need to be involved - reach out to a Support Engineering Manager via the [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48) Slack channel for assistance.
 
 ### Understanding Ticket Status
 
@@ -341,7 +341,7 @@ Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articl
 
 ### Removing Information From Tickets
 
-We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app. 
+We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app.
 
 To delete text or attachments from a ticket:
 
