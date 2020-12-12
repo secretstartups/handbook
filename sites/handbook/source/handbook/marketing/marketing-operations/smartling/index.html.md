@@ -167,6 +167,10 @@ If any strings are rejected from the translation job, those would appear as issu
 
 The `History` tab on a job provides detailed information about the activity that has occured with the job. You also have the option to `Download Translation Activity Report`. The same history is available on the individual string level.
 
+## Provide Translation Feedback for Translation Memory
+
+To provide feedback about a particular translation to store in our [translation memory](#translation-memory), send an email with the translation job and detailed feedback to translations@smartling.com and copy our customer success manager.  
+
 ## Terminology 
 
 ### Translation Memory
