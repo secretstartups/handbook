@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: Developer Cheatsheet
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
