@@ -42,8 +42,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Strategic Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
-    </div>
-</div>    
+    </div>   
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
@@ -51,8 +50,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
     <a href="/handbook/legal/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Legal</a>
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
     <a href="/handbook/engineering/infrastructure/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Infrastructure</a>
-    </div>
-</div>    
+    </div>   
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
 
