@@ -77,14 +77,12 @@ We anticipate that our quarterly trading window will open the third trading day 
 We distribute a quarterly investor email, which consists of the following five parts:
 
 1. CEO foreword: This narrative will provide a high level overview of company operations from the most recently ended quarter as well as key initiatives and expectations for upcoming quarters. A curated set of financial highlights and supplemental metrics will also be included in this section.
-1. Thanks: We express gratitude for investors who have assisted us with making introductions, providing feedback, or offering assistance. Investing is a type of social engagement, and we like to celebrate people who set aside time to help us.
-1. Asks: We ask our investors to help us connect with people or organizations, introduce us to hiring candidates, or provide some other assistance. Investors can be extremely helpful and often say they want to add value when they invest, so this area of the update gives them the opportunity to drive our business forward.
 1. Expectations: We discuss what we are looking forward to, conferences we are attending, and what we are planning in the next month.
 1. Financial statements: Income, balance sheet, and cash flow.
 
 We distribute the quarterly investor update approximately five weeks after the close of a fiscal quarter.
 
-The draft email is created in a google doc that is shared in #investor-update on slack. The google doc should not have any html as the document is pasted into an email for distribution by the CEO. 
+The draft email is created in a google doc that is shared in #investor-update on slack. The google doc should not have any html as the document is pasted into an email for distribution by the CEO. All urls should be free of any parentheses or extra characters like a comma. 
 
 ## Performance Indicators (assuming publicly traded)
 
