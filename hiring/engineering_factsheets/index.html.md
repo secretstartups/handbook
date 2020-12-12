@@ -321,7 +321,7 @@ Craig Gomes	(Engineering Manager, Memory)
 **Hiring Managers:**
 Jerome Ng (Engineering Manager, Growth:Conversion and Product Analytics)
 Bartek Marnane (Director of Engineering, Growth)
-[Product Vision page](/direction/product-analytics/)
+[Product Vision page](/direction/product-intelligence/)
 **How the team works** The overall vision for the Product Analytics group is to ensure that we have a robust, consistent and modern product analytics data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/product-categories/#ops-section)
