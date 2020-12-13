@@ -184,42 +184,6 @@ To start the Solution Validation phase, the Product Designer or Product Manager 
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **High confidence in the proposed solution**: Confidence that the jobs to be done outlined within the problem statement can be fulfilled by the proposed solution. | - Gather feedback from relevant stakeholders. <br>- Follow [solution validation guidance](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/solution-validation-and-methods/) to gather feedback. | Product Designer |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Documented Solution validation Learnings**: The results of the solution validation is communicated to and understood by team members. | - Document solution validation findings as [insights in Dovetail](/handbook/engineering/ux/ux-research-training/documenting-research-findings/). <br>- Update the [opportunity canvas](/handbook/product/product-processes/#opportunity-canvas) (if used) with relevant insights. <br>- Update issue or epic description to contain or link to the findings. | Product Designer |
 
-## Review track (optional*)
-
-The (iteration) Review track is an **optional step** in the flow that brings peer PMs in to help
-you hone your skills at _iteration_, _clarity_, and _strategy_. Keeping issues small and iterative
-is core to how GitLab maintains [velocity](/handbook/engineering/#the-importance-of-velocity),
-writing a "small" issue is often (counterintuitively) more difficult than writing a bigger one, and
-understanding the _entire strategy_ of how GitLab operates is a herculean task. Having a helping
-hand with these tasks is important to professional development, and it ensures that our entire
-Product organization continues to improve.
-
-You should consider requesting a review when:
-
-1. You're having specific challenges defining the problem, identifying the affected personas, or breaking down the solution to small chunks of work.
-1. There are potential design or technical dependencies across Sections, Stages, or Groups.
-1. This issue takes the product in a novel direction or adds functionality unlike anything else in the product
-
-_*Note: **If you're a new GitLab team member**, you should request reviews of the first 3 issues you create. It will help familiarize you with what we're looking for in an iteration, get more comfortable with our process, and meet your fellow team members. After you've completed a few reviews, this track can be considered optional._
-
-If you would like a peer to review one of your issues (or epics):
-
-1. Add the `issue::needs review` label to your issue
-1. Post a link to the issue in the [**#issue-reviews**](https://gitlab.slack.com/archives/CSX3RHE4C) channel in Slack
-   1. _Note: If you need a review to be completed quickly, be sure to mention when it needs to be done by._
-1. The issue gets picked up by a Reviewer PM, who adds a ✅ reaction on the Slack message.
-1. Reviewer PM reads through the issue and leaves feedback on these criteria:
-   1. **Iteration**: Has the solution been broken down as much as possible? Is it small enough to be completed in one milestone rather than spanning multiple milestones? Have implementation risks been considered and minimized?
-   1. **Clarity**: Is the problem well versed and the personas identified? Could someone outside the group or category understand the issue? Is the value being delivered to the users articulated?
-   1. **Strategy**: How will it work in GitLab as whole? Does it tie back to category strategy or stage direction?
-1. Things for the reviewer to **not** do:
-   1. Don't just _enforce the template_. Instead, give contextual feedback with the appropriate template as a reference point.
-   1. Don't treat this as another task to check off, but instead, take this opportunity to engage in conversation and improve our organizations ability to iterate.
-   1. Don't assume that the other PM will do exactly what you say. You're providing recommendations, not edicts.
-1. When complete, the Reviewer PM adds the `issue::reviewed` label and lets the original PM know that the review is complete.
-
-You can view all of the work happening in this track [on this board](https://gitlab.com/groups/gitlab-org/-/boards/1569699).
-
 ## Build track
 
 The build track is where we plan, develop, and deliver value to our users by building [MVCs](/handbook/product/product-principles/#the-minimal-viable-change-mvc), fixing defects, patching security vulnerabilities, enhancing user experience, and improving performance. DRIs across engineering disciplines involving [Design, Backend, Frontend and Quality](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) work closely together to implement MVCs while in close collaboration with the Product Manager. Decisions are made quickly if challenges arise. We instrument [usage](https://about.gitlab.com/handbook/product/performance-indicators/#instrument-tracking) and track [product performance](handbook/product/product-processes/#product-metrics), so after MVCs are delivered to customers, feedback is captured quickly for learnings to refine the next iteration.
@@ -275,7 +239,7 @@ To ensure that a Software Engineer in Test (SET) will have ample time to contrib
 
 | Outcomes 	| Activities 	| DRI 	|
 |-        	|-	          |-	    |
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc) 	| - Product Manager 	|
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc)<br>- Request an [issue review](/handbook/product/product-processes/#issue-reviews) to ensure communication is clear and have proposed the right iteration plan to execute on the solution. | - Product Manager 	|
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone - PM creates a planning issue| - Product Manager and Engineering Manager |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - Software Engineer in Test |
 
