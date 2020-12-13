@@ -1587,6 +1587,37 @@ Consider the following to improve iteration:
 * Consider a quick POC that can be enabled for small portion of our user base, especially on GitLab.com. An example of this was search, where it was originally enabled just for a few groups to start, then slowly rolled out.
 * Great collaboration leads to great iteration. Amazing MVCs are rarely created simply by product managers, they often arise out of collaboration and discussion between product, engineering, design, quality, etc.
 
+### Issue Reviews
+
+Issue reviews are an **optional step** in the [product development flow](/handbook/product-development-flow/) that brings peer PMs in to help you hone your skills at _iteration_, _clarity_, and _strategy_. Keeping issues small and iterative is core to how GitLab maintains [velocity](/handbook/engineering/#the-importance-of-velocity),
+writing a "small" issue is often (counterintuitively) more difficult than writing a bigger one, and understanding the _entire strategy_ of how GitLab operates is a herculean task. Having a helping hand with these tasks is important to professional development, and it ensures that our entire product organization continues to improve.
+
+You should consider requesting a review when:
+
+1. You're having specific challenges defining the problem, identifying the affected personas, or breaking down the solution to small chunks of work.
+1. There are potential design or technical dependencies across Sections, Stages, or Groups.
+1. This issue takes the product in a novel direction or adds functionality unlike anything else in the product
+
+_*Note: **If you're a new GitLab team member**, you should request reviews of the first 3 issues you create. It will help familiarize you with what we're looking for in an iteration, get more comfortable with our process, and meet your fellow team members. After you've completed a few reviews, this track can be considered optional._
+
+If you would like a peer to review one of your issues (or epics):
+
+1. Add the `issue::needs review` label to your issue
+1. Post a link to the issue in the [**#issue-reviews**](https://gitlab.slack.com/archives/CSX3RHE4C) channel in Slack
+   1. _Note: If you need a review to be completed quickly, be sure to mention when it needs to be done by._
+1. The issue gets picked up by a Reviewer PM, who adds a ✅ reaction on the Slack message.
+1. Reviewer PM reads through the issue and leaves feedback on these criteria:
+   1. **Iteration**: Has the solution been broken down as much as possible? Is it small enough to be completed in one milestone rather than spanning multiple milestones? Have implementation risks been considered and minimized?
+   1. **Clarity**: Is the problem well versed and the personas identified? Could someone outside the group or category understand the issue? Is the value being delivered to the users articulated?
+   1. **Strategy**: How will it work in GitLab as whole? Does it tie back to category strategy or stage direction?
+1. Things for the reviewer to **not** do:
+   1. Don't just _enforce the template_. Instead, give contextual feedback with the appropriate template as a reference point.
+   1. Don't treat this as another task to check off, but instead, take this opportunity to engage in conversation and improve our organizations ability to iterate.
+   1. Don't assume that the other PM will do exactly what you say. You're providing recommendations, not edicts.
+1. When complete, the Reviewer PM adds the `issue::reviewed` label and lets the original PM know that the review is complete.
+
+You can view all of the work happening in this track [on this board](https://gitlab.com/groups/gitlab-org/-/boards/1569699).
+
 ### Community participation
 
 Engaging directly with the community of users is an important part of a PM's job. We
