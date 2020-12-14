@@ -418,6 +418,21 @@ _NOTE: Though the Total Rewards and People Experience team may have visibility i
 
 Company priorities can change and occasionally some or all members of a team may be asked to transfer to high priority vacancies within other teams.
 
+##### Realignment Considerations 
+
+Early and ongoing communication with affected teams is key to ensuring a successful realignment. Hiring managers should clearly articulate the businesss need and quantifiable benefits from the realignment, as well as position a team focus and roadmap that gives affected teams an understanding of how their future contributions will benefit GitLab.
+
+Relevant items that can assist include:
+
+* Links to Team handbook page outlining goals and vision
+* Roadmap, issue backlog, and links to key Epics.
+* Staffing allocation plans
+* Expected impact or success criteria
+
+Realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
+
+##### Realignment Process
+
 In cases where multiple individuals are asked to transfer to high priority roles:
 
 1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the team member realignment.
@@ -435,6 +450,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. Move the confidential issue to the [Product project](https://gitlab.com/gitlab-com/Product), and label it with ~"realignment".
 1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
 1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
+1. After the realignment the DRI opens a retrospective issue to gather feedback from affected teams in order to improve this process.  
 
 #### For People Success & Recruiting Team
 
