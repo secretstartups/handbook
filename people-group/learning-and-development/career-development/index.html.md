@@ -145,4 +145,4 @@ The output from these quarterly meetings will be one of the below performance fa
 
 **Compensation reviews**
 
-When conducting compensation reviews for the E-Group, GitLab will review two items: 1) alignment to market rates 2) performance factors from each quarter.
+When conducting compensation reviews for the E-Group, GitLab will review two items: 1) alignment to market rates 2) performance factors 
