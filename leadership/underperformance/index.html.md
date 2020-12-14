@@ -47,6 +47,10 @@ Managing underperformance is very important because it reinforces acceptable sta
 It is hard because frequently the underperformance is due to a mistake we made in hiring, on boarding, and/or coaching.
 It is also hard because it is a hard message to give and receive that someone's performance is not adequate.
 
+### Loop in your People Business Partner (PBP)
+
+Looping in your [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) early is essential. PBPs can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your PBP prior to delivering any formal action plan to team members. 
+
 ## Frequency and Metrics
  
 We expect above 5% of our team members to experience explicit performance management on an annual basis, and we expect greater than 50% to be successful. We track this in meetings like the People Group Key Review and [People Group Metrics](/handbook/people-group/people-group-metrics/#performance-management) to make sure we're managing performance consistently and fairly across all divisions, and in all circumstances. However, we don't enforce any hard thresholds.
