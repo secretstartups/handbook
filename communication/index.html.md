@@ -684,7 +684,7 @@ This makes the link more prominent and makes it easier to follow while viewing t
 1. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
 1. Always write "GitLab" with "G" and "L" capitalized, even when writing "GitLab.com", except within URLs. When "gitlab.com" is part of a URL it should be lowercase.
 1. Always capitalize the names of GitLab products, [product tiers](/pricing/), and [features](/features/).
-1. Write a [group](/handbook/product/product-categories/#hierarchy) name as ["Stage:Group"](/handbook/product/product-categories/#naming) when you want to include the stage name for extra context.
+1. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
 1. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
 1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. If an email needs a response, write the answer at the top of it.
