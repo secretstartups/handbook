@@ -106,7 +106,7 @@ We rolled out a One week challenge in November 2020. All details relating to the
 
 The [One Week Challenge](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
 
-Once the challenge launches, it will be organized in [an Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/19). Each day of the challenge will be an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
+The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/19). Each day of the challenge was an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
 
 ### Program Overview 
 
