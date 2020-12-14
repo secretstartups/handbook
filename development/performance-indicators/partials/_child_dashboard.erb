@@ -1,0 +1,15 @@
+<% header = "#{filter_value} #{filter_type.capitalize}" %>
+
+### <%= filter_type == 'stage' ? "<a href='#{filter_value.downcase}'>#{header}</a>" : header %>
+
+#### <%= header %> development indicators
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
+
+#### <%= header %> quality indicators
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
+
+#### <%= header %> UX indicators
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/ux_dashboard.erb", locals: { filter_type: filter_type_for("ux", filter_type), filter_value: filter_value_for('ux', filter_type, filter_value) } %>
