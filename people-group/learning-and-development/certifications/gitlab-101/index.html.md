@@ -218,7 +218,7 @@ As you learned in the technical terminology portion, a GitLab Merge Request (MR)
 To create a merge request:
 
 1. Find the page of the [handbook](/handbook/) that you want to make the change to. (ex. [Learning & Development](/handbook/people-group/learning-and-development/))
-1. Once you are on the page you want to make a change to, scroll all the way to the bottom and select "Edit this page"
+1. Once you are on the page you want to make a change to, scroll all the way to the bottom and select "View page source"
 1. This will redirect you to the file on the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project
 1. Then you will need to click the blue "Edit" button
 1. Select the soft wrap/no wrap button in the top right (just above the text box) to how you prefer
