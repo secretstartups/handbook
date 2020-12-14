@@ -16,20 +16,21 @@ twitter_creator: "@gitlab"
 ---
 
 # Webcasts Calendar
-
+{:#calendar .gitlab-purple}
 
 
 
 
 # BrightTALK Webcasts
-
+{:#brighttalk .gitlab-purple}
 
 
 ### Quick Links
 * [BrightTALK Support Portal](https://support.brighttalk.com/hc/en-us)
 * [BrightTALK Academy](https://business.brighttalk.com/academy/)
 
-## Types of BrightTALK Webcasts:
+## Types of BrightTALK Webcasts
+{:#bt-types}
 * **PRO (Live):** traditional live webcast with live speakers and Q&A.
    - Pre-event registration takes place
    - The event automatically converts to on-demand upon completion
@@ -41,6 +42,7 @@ twitter_creator: "@gitlab"
    - No pre-registration
 
 ## BrightTALK Webcast Calendar
+{:#bt-calendar}
 
 The Campaigns Team manages the [BrightTALK webcast calendar](), which will be used to log all planned and scheduled BrightTALK hosted webcasts and their related dry runs. **The purpose of the BrightTALK webcast calendar is to avoid scheduling overlapping webcasts and to provide executive visibility into all BrightTALK webcasts being hosted.**
 
@@ -57,11 +59,11 @@ The Campaigns Team manages the [BrightTALK webcast calendar](), which will be us
    * Add BrightTALK login information for presenters
 
 ## Project Management for BrightTALK Webcasts
-
+{:#bt-project-management .gitlab-purple}
 Campaign webcasts are hosted on BrightTALK, and project management is organized by Campaign Managers.
 
 ### Organizing BrightTALK webcast epics and issues
-
+{:#bt-epics-issues}
 * **Confirm Date:** The webcast idea issue (date request issue) must be complete and confirmed before creation of the epic, issues, and workback.
 * **Campaign Webcast Epic:** campaign manager creates webcast epic (using code below)
 * **Related Issues:** campaign manager creates the issues as designated in the GANTT sheet, and associates to the campaign webcast epic
