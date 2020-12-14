@@ -202,8 +202,8 @@ PTO by Roots provides an experience that allows you to set roles and tasks for c
 you’re away. Accepted roles then become a part of a Slack away message that appears as
 co-workers try to tag you in discussions while you’re OOO.
 
-Before assigning a `#channel` to a role, please obtain confirmation of that plan from that channel.
-Esp. in large channels and during popular vacation times, PTO's role reminders could create a lot of noise. 
+Before assigning a `#channel` to a role, please obtain confirmation of a plan from that channel.
+Especially in large channels and during popular vacation times, PTO's role reminders could create a lot of noise, so some teams may recommend against using it until there is an option to allow turning off the PTO notifications.
 
 ##### Bulk Add holidays
 
