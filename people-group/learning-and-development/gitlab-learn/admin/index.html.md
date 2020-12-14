@@ -11,6 +11,11 @@ title: EdCast Admin Documentation
 
 The following processes are used by administrators of the EdCast platform.
 
+
+## Best Practices for Content Organization
+
+
+
 ## Content Management
 
 ### Channels
