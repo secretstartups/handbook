@@ -24,6 +24,7 @@ title: "Technical Account Management Handbook"
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
+- [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
 ### Customer journey
 
