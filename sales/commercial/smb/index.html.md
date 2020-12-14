@@ -69,7 +69,7 @@ True-ups are conversations that often come to the table with customers during re
 * [True Up Policy](/handbook/ceo/pricing/#true-up-pricing)
 * [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 * [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
-* [Licensing and Subscription Troubleshooting ](/handbook/support/workflows/license_troubleshooting.html#licensing)
+* [Licensing and Subscription Troubleshooting ](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#licensing)
 *  If you still have questions about a specific true up case, please write in the [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU) channel for further assistance
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement

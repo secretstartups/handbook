@@ -86,7 +86,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
    - Short, written Q&A highlighting a member of the Sales/CS/SDR teams or supporting teams (can be new or tenured). They answer these questions:
       - Where did you grow up, and where are you based now?
       - What is your favorite thing about your job? 
-      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values) resonates most with you? 
+      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values/) resonates most with you? 
       - Do you have a helpful tip for working at GitLab and/or in the Field org to share?
       - What is a hobby or skill you have that the team might not know about?
       - Icebreaker question of the month (i.e. What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?)
@@ -150,6 +150,7 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
+| [December 2020: 2020-12-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-12-07) | NEW ⚡️ GitLab Field Flash: December Edition ⚡️ | Gartner Market Guide, Strategic Marketing Asset Inventory, GitLab AnswerBase, Field Certification |
 | [November 2020: 2020-11-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-11-02) | NEW ⚡️ GitLab Field Flash: November Edition ⚡️ | Developer-Led Landscape, New ABM Lists, Partner Deal Registration System, Updated Competitor Comparison Charts |
 | [October 2020: 2020-10-08](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-10-08) | NEW ⚡️ GitLab Field Flash: October Edition ⚡️ | Q3 Cannonball Run, ROI Calculators, APAC Momentum, Public Competitive Resources |
 | [September 2020: 2020-09-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-09-01) | NEW ⚡️ GitLab Field Flash: September Edition ⚡️ | Gitlab Virtual Commit 2020 recap, President's Club 2021, Sales Ops updates |

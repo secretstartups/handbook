@@ -29,17 +29,39 @@ A First Order customer is a customer within an Account Family that makes the fir
 
 A connected new customer is the first new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy) and the iACV related to this new customer is considered "Connected New".
 
+### Growth Customers
+
+A Growth Customer is a customer within an Account Family when it is a subsequent subscription (not the first) or when a parent account consolidates new and existing subscriptions together. 
+
+| **Situation** | **Marketing View** | **Sales & Finance View** |
+| :------ | :------ | :------ |
+| First Order | New | New |
+| Connected New | New | Growth |
+| Add-on Order | Growth  | Growth  |
+
 First Order and Connected New can be reported on via the Order Type fields in Salesforce. We have iterated on this field so please use the following guide:
 
 | SFDC Field Name       | Source of Truth for Time Period | Description                                                                                                    |
 |-----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
 | Order Type 1.0        | FY21                            | Value stamped at close.                                                                                        |
-| Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
-| Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
+| (WIP) Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
+| (WIP) Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
-### Growth Customers
+Order Type (all iterations) runs on a nightly job, please allow 24 hours after a relevant change for the fields to update. [Technical documentation here](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#order-type-system).
 
-A Growth Customer is a customer within an Account Family when it is a subsequent subscription (not the first) or when a parent account consolidates new and existing subscriptions together. 
+#### Order Type 2.0 Field Values
+
+Order Type 2.0 introduced additional values that relate back to our [ARR defintion framework](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#arr-analysis-framework)
+
+| Value                | Definition                                                                                       |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| 1. New - First Order | Same as definition above                                                                         |
+| 2. New - Connected   | Same as definition above                                                                         |
+| 3. Growth            | Same as definition above                                                                         |
+| 4. Contraction       | A renewal transaction that closes at a lower value then its prior value                          |
+| 5. Churn - Partial   | The inverse of New - Connected. When an Account churns, but the family is still a customer.      |
+| 6. Churn - Final     | The inverse of New - First Order. The final churn in an account family.                          |
+| 7. PS / Other        | Non-recurring deals. Currently implemented as any deal value < $48 and is not coded as Pro Serv. |
 
 ### Additional customer definitions for internal reporting
 
@@ -58,24 +80,6 @@ The default description is parent. When the default is used, no further descript
 When account or subscription is being reported then the title or field description on the chart must be added to call out the basis for reporting.
 
 Metrics that are based on customer data should also carry a clarifying description. For clarity parent will be the only customer type used for external reporting.
-
-### Connected New Customers
-
-A connected new customer is a new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy). Sales tends to see Connected New as Growth whereas Marketing manages them as New. This table illustrates that difference.
-
-| **Situation** | **Marketing View** | **Sales & Finance View** |
-| :------ | :------ | :------ |
-| First Order | New | New |
-| Connected New | New | Growth |
-| Add-on Order | Growth  | Growth  |
-
-First Order and Connected New can be reported on via the Order Type fields in Salesforce. We have iterated on this field so please use the following guide:
-
-| SFDC Field Name       | Source of Truth for Time Period | Description                                                                                                    |
-|-----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Order Type 1.0        | FY21                            | Value stamped at close.                                                                                        |
-| Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
-| Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
 ### Customer Segmentation
 
@@ -330,6 +334,45 @@ The number of contracted users on active paid subscriptions. Excludes OSS, Educa
 ### Closed Deal - Won
 
 A unique deal that is set to `Closed Won` in SalesForce.
+
+### Closed Deal - Won Reasons
+
+The opportunity owner's primary reason as to why GitLab won the deal.
+
+- **Accelerate Software Delivery:** Enable teams to deliver new code/code updates faster
+- **Competitor Product Support/Performance:** Competitor missing a key feature the customer needed or the cutomer was not happy with competitors product performance
+- **Expanding Use-Case:** Customer already using GitLab for one UseCase (CI for example) now they are expanding that to another (SCM for example)
+- **GitLab Incumbency:** GitLab user already (most cases Core) and now they are moving to another Tier for more features
+- **GitLab Champion:** Either someone tried GitLab for the first time and loved it or they used GitLab previously and they want their exisiting team/company to use GitLab
+- **Performance/Great Features:** GitLab out performed the competition - customer felt we just had a better product than the competitor
+- **Reduce Tooling Cost:** Customer paying for many multiple tools, wanted to reduce DevOps tooling cost with a single tool
+- **Reduce Tooling Count:** Customer tool chain too complex, wanted to transition to a simple DevOps solution
+- **Channel Deal:** A Channel Deal where we do not have a specified Clsoed Won Reason
+- **Web Direct:** A Web Portal purchase where we do not have a specified Closed Won Reason
+- **Other:** The deal was won due to reasons other than noted above
+
+### Closed Deal - Lost
+
+A unique deal that is set to `8-Closed Lost` in SalesForce.
+
+### Closed Deal - Lost Reasons
+
+The opportunity owner's primary reason as to why GitLab lost the deal
+
+- **Budget/Value Unperceived:** Prospect's overall evaluation of product or service did not have the ability to meet their needs and expectations or there was a loss of budget
+- **Competitive Loss:** Lost to a competitor
+- **Competitor Incumbent:** Prospect is staying with existing competitor product
+- **Do Nothing:** Prospect has chosen to take no action 
+- **Duplicate:** Opportunity is a duplicate to another in SFDC
+- **Legal Blocker:** Could not come to agreement on legal related items
+- **Merged into another opportunity:** Associated licenses have been merged into another opportunity
+- **No Relationship:** Evangelist /Champion Left or was not present
+- **Operational Silos:** Departments or management groups do not share information, goals, tools, priorities and processes with other departments
+- **Performance/Missing Features:** Prospect's overall evaluation of product or service meet some of their needs and expectations, but majorly lacked specific areas
+- **Product Maturity:** For the customers specific need, the product is not mature enough in certain areas. This should include large feature sets or large areas of capabilities that the customer believes is missing or not fully developed as opposed to one missing feature. 
+- **Went Silent:** Prospect has ceased communication 
+- **Other:** The deal was lost due to reasons other than noted above
+
 
 ### Utilization
 
