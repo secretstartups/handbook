@@ -167,6 +167,93 @@ Watch the August 2020 Level Up session [Channel Partner Success for GitLab Selle
     *   Escalate to your manager
     *   No customer collisions: Strive to stay aligned \ on customer calls - take differing POVs offline
 
+### **Partner Co-selling best practices, and how Partners can help with R7 and Command plans**
+
+In general Partners do not want to be told _generally_ “how to sell” but they **_do value _**tips and tricks about _selling GitLab_ (from your experience, what to watch out for, what are the effective sales motions, etc.). 
+
+Partners often will have their own best practices selling methodologies in place, so it is <span style="text-decoration:underline;">not</span> recommended AEs expect Partners to embrace the entire R7 approach, nor build out an entire Command Plan. However **_Partners can be valuable_** for collecting and sharing key elements of both.  
+
+
+
+*   As a best practice, with support of the Channel Mgr if/as needed, AEs should be sure the Partner is pre-briefed prior any joint call with the customer. 
+*   Be sure the Partner is clear on the talk track and the desired outcomes of the call. 
+*   One efficient way to do this is schedule a call with the Partner 10 minutes just before the joint customer call.
+*   Of course if schedules do not allow that, a brief email to the partner should also be effective. 
+
+
+### **Required 7 & Partner Co-selling**
+
+
+<table>
+  <tr>
+   <td><strong>Required component</strong>
+   </td>
+   <td><strong>Detail</strong>
+   </td>
+   <td><strong>Partner Co-selling Guidance</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Logging call notes with (ii) in the title</strong>
+   </td>
+   <td>Every verbal interaction with an account is logged.
+   </td>
+   <td>Whether AE captures directly the notes from Partner co-selling engagement calls/emails, or Chan Mgr collects and documents them separately and shares with  the AE, all call notes should be captured noting it’s ‘via the Partner’.  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Rank/tier all of your accounts</strong>
+   </td>
+   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered
+   </td>
+   <td>Partner/Chan Mgr may uncover customer information that would impact a customer’s tiering. Anything they learn will be promptly shared with the AE.   
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Keep your next steps up to date</strong>
+   </td>
+   <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span>
+   </td>
+   <td>To lay the foundation for success, always capture Partner tasks in the opp with a due date agreed upon by the Partner (at least a goal date). 
+<p>
+If a Partner task becomes overdue, The AE should reach out to the Partner & Channel Manager requesting an update. The Channel Manager becomes DRI to get an update from the Partner.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Your opportunities have to be up to date</strong>
+   </td>
+   <td>$ amount, opp name, type, stage & close dates must be accurate at all times
+   </td>
+   <td>The Partner and/or Channel Manager will proactively share key learnings/updates on deals that may be useful for the AE’s potential forecast update.
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong>
+   </td>
+   <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not IACV) or $10k in Mid-Market. Full for deals over $10k IACV in SMB or $20k in Mid-Market
+   </td>
+   <td>The AE is still DRI for Command plan construction <em>however, </em>the Partner may be able to collect and share inputs to some of its elements. The <a href="https://docs.google.com/document/d/1_Sm88mak9vs1pPMC_HhIE-1sq4Tv_NvDpUj_0GNsWbE/edit?usp=sharing">template</a> can be useful for this part of the co-selling motion. 
+<p>
+<strong>Regarding close plan: </strong>If this is a deal reg, often the Partner has sold to the customer below and will have knowledge of how this works.  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Custom pitch deck built for all opps over $5k amount (SMB) or $10k amount (Mid-Market)</strong>
+   </td>
+   <td><a href="https://about.gitlab.com/handbook/sales/commercial/#custom-deck-requirements">Requirements</a>
+   </td>
+   <td>As noted in other sections of R7 co-selling, Partners may be helpful collecting elements of the AE’s development of the customer pitch deck.  
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Capture key information</strong>
+   </td>
+   <td>What is the customer’s understanding of what GitLab does should be captured in call notes. We also record why we won / lost a deal
+   </td>
+   <td>As noted in other sections of R7 co-selling, Partners may be helpful collecting and sharing key information. AEs should capture any learnings in the opportunity noted as ‘via Partner’    
+   </td>
+  </tr>
+</table>
 
 ## **Partner Portal and Locator**
 
