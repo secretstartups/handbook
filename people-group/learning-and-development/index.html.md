@@ -307,6 +307,12 @@ Handbook-first approach to interactive learning](/handbook/people-group/learning
 
 GitLab has a number of compliance courses and resources. Explore the drop downs below to learn more. 
 
+| Training     | Tool  | Frequency   |  Responsible Team   | 
+|---------|-----------------|------------------|------------------|  
+| Anti-Harassment Training    | WILL Interactive | Varies based on Location | Learning & Development | 
+| Security    | KnowBe4 | Yearly | Security | 
+| Compliance Training    | Navex | Yearly | Legal | 
+
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
