@@ -243,12 +243,12 @@ More details can be seen [here](/handbook/engineering/quality/guidelines/#qualit
 
 ## Refinement processes
 
-We currently have 2 venues of collaboration with [Development](/handbook/engineering/development/) and [Infrastructure](/handbook/engineering/infrastructure/) departments.
+We currently have 2 venues of collaboration with [Development](/handbook/engineering/development/) department.
 
-### Availability and performance issues
+### Performance issues
 
-To mitigate performance issues, Quality Engineering will triage and refine performance issues for Product Management and Development via a weekly
-[Availability & Performance Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1233204). The goal is to make the performance of various aspects of our application empirical with tests, environments, and metrics.
+To mitigate performance issues, Quality Engineering will triage and refine performance issues for Product Management and Development via a bi-weekly
+[Performance Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1233204). The goal is to make the performance of various aspects of our application empirical with tests, environments, and metrics.
 
 Quality Engineering will ensure that performance issues are identified and/or created on the board with the label `~performance-refinement`.
 These issues that are surfaced to the refinement meeting will be severitized according to our definitions.
@@ -263,14 +263,15 @@ Quality Engineering will focus in identifying issues in the following areas:
 #### Refinement
 {:.no_toc}
 
-A manager in the Quality Engineering department will lead refinement with issues populated before hand in the board. Issues are walked through from high to low severity covering `~severity::1`, `~severity::2` and `~severity::3` performance bugs.
+A manager in the Quality Engineering department will lead refinement with issues populated beforehand in the board.
 
-Deliverable of refinement each issue:
-* A product manager of a stage or group is assigned to prioritize performance mitigation with a scheduled milestone.
-* Long running issues that do not have meaningful activity can be considered for closure if no longer actionable.
-* If additional test coverage is needed, a follow up issue to close the performance test gap will be created in [Performance test issue tracker](https://gitlab.com/gitlab-org/quality/performance).
+Before each meeting:
+* For issues that are not yet fully triaged, the QEM meeting lead will assign the product manager of the appropriate stage or group to prioritize performance mitigation with a scheduled milestone.
+* The QEM meeting lead should review the board for long running issues that do not have meaningful activity and add them to the agenda to be considered for closure if no longer actionable.
+* Any high impact performance issues which need wider awareness should be added to the agenda for discussion by the relevant stakeholder. This includes urgent performance issues as well as those that have been surfaced as important for customers.
+* Guest attendees who may be relevant for a topic on the agenda (product group engineering managers or product managers, technical account managers, support engineers, or others) should be added to the calendar invite.
 
-Please see the [Development department's Infrastructure and Quality collaboration](/handbook/engineering/development/#continuous-delivery-infrastructure-and-quality-collaboration) handbook section.
+During the meeting, if additional test coverage is identified as needed, a follow up issue to close the performance test gap will be created in [Performance test issue tracker](https://gitlab.com/gitlab-org/quality/performance).
 
 ### Development request issues
 
@@ -299,7 +300,7 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 | Group conversation             | `@meks`      |  Rotation between: `@at.ramya` <br /> `@tpazitny` <br /> `@kwiebers` <br />  `@jo_shih` <br /> `@vincywilson`         | Every 8 weeks | [Group Conversations](#group-conversations)
 | Product Stage Group conversation Content | `@at.ramya` Dev  <br /> `@jo_shih` Ops  <br /> `@tpazitny` Enablement  <br /> `@tpazitny` Secure <br /> `@vincywilson` Growth <br /> `@vincywilson` Protect  | | Every 8 weeks | [Quality team OKR slide contributions](#counterpart-product-stage-gcs) to the counterpart product section
 | Self-manage environment triage | `@tpazitny`  | `TBD`       | Every 2 weeks | Sync stand-up
-| Performance issue triage       | `@meks`      | `@tpazitny` | `TBD`         | Sync stand-up
+| Performance issue triage       | `@tpazitny`  | `@tpazitny` | `TBD`         | Sync stand-up
 | Security Vulnerability review  | `@meks`      | `TBD`       | Every 4 weeks | Review meeting
 | GitLab SaaS Triage             | `@meks`      | `TBD`       | Weekly          | Review meeting
 | Quality Engineering Staff      | `@meks`      | `TBD`       | Weekly | Review meeting
