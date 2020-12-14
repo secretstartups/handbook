@@ -863,8 +863,10 @@ Note: This policy is supplemental to the other booking requirements listed on th
 
 **How can I determine whether a customer requires POs?**
 
-1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO.
-2. *PLACEHOLDER FOR ADDITIONAL SALESFORCE FIELD ON OPPORTUNITY OR QUOTE OBJECT - CURRENTLY BEING IMPLEMENTED*
+This information can be reviewed in several places within Salesforce:
+
+1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO. If the field is marked as "NO" or if the field is blank, the customer does not require a PO.
+2. Review the relevant quote object. Unique quotes created and tied to existing billing accounts will display the "PO Required?" field from that relevant billing account.
 
 **How does GitLab know that a customer requires POs?**
 
