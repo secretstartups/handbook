@@ -12,9 +12,12 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-# Standard Desk Package
+    The Digital Production department has organized several options for GitLab employees who will need to record quality video content. Links have been provided to the relevant piece of equipment. If you find that a link is no longer functioning, or the item is no longer available, contact the Digital Production department about substutions    
 
- This package is sufficient for the majority of GitLab employees. It contains all the fundamentals to record video at an elevated quality while at your desk. 
+# Standard Desk Package
+---
+
+ Most GitLab employees will find everything they need in this package. It contains all the fundamentals to record video at an elevated quality while at your desk. 
 
 ##### Camera Options (Choose One)
 
@@ -41,23 +44,13 @@ twitter_creator: "@gitlab"
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 # Advanced Desk Packages
+---
 
- This package is for GitLab Employees in need of higher level production equipment for elevated content such as conferences and video packages. 
+ These packages are for GitLab Employees in need of higher level production equipment for elevated content such as conferences and video packages. Select only one of the packages below, based on your needs. 
 
 ## Professional Camera Package
+---
 
 #### Camera
 
@@ -104,6 +97,7 @@ twitter_creator: "@gitlab"
 - Green screen (optional for use only while seated at a desk) - [US](https://www.bhphotovideo.com/c/product/844696-REG/Westcott_579K_X_Drop_Kit_5_x.html/overview)
 
 ## Webcam Package
+---
 
 #### Camera
 
@@ -137,6 +131,7 @@ twitter_creator: "@gitlab"
 - Green screen (optional for use only while seated at a desk) - [US](https://www.bhphotovideo.com/c/product/844696-REG/Westcott_579K_X_Drop_Kit_5_x.html/overview)
 
 ## Press Package
+---
 
 This package is very advanced and intended for those with a high need of professional flexibility, including recording footage away from their desk and media interviews. 
 
@@ -163,7 +158,8 @@ This package is very advanced and intended for those with a high need of profess
 
 #### Teleprompter
 
-- Teleprompter - [US](https://www.amazon.com/Glide-Gear-TMP100-Adjustable-Teleprompter/dp/B019AJOLEM)
+- Teleprompter - [US](https://www.amazon.com/Glide-Gear-TMP100-Adjustable-Teleprompter/dp/B019AJOLEM).  
+_This camera 
 
 #### Camera Support
 
@@ -173,11 +169,13 @@ This package is very advanced and intended for those with a high need of profess
 
 #### Production Switcher
 
-- Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher [US](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html/overview)
+- Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher [US](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html/overview).  
+_This is a production switcher that will allow you to mix multiple feeds into your webcam output, as well as provide industry grade green screen effects and outputs for media._ 
 
 #### Optional Outdoor Light Managment
 
-- Reflector Kit [US](https://www.bhphotovideo.com/c/product/1378889-REG/impact_5_in_1_collapsible_circular_reflector.html)
+- Reflector Kit [US](https://www.bhphotovideo.com/c/product/1378889-REG/impact_5_in_1_collapsible_circular_reflector.html).  
+_This kit will allow you to create shade for yourself wherever you're shooting (to prevent unflattering shadows), or possibly reflect light into your face in order to smooth out lighting._ 
 
 #### Miscellanious 
 
