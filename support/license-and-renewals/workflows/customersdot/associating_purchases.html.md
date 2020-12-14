@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Associating purchases with additional accounts
 category: CustomersDot
+description: Associating subscription with another account on CustomersDot account. 
 ---
 
 {:.no_toc}
