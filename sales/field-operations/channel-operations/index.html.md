@@ -184,6 +184,8 @@ If creating new, the applicable details from the Deal Registration will map to t
       needs to be filled out before moving forward.
       If approved, then a notification will be sent to the Partner, the Deal Registration system updated, and the Registration status updated to Approved.
 
+When a customer account is created by "User Vartopia" during a deal registration, that customer account should be reassigned to the appropriate sales rep. For more information, [click here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement).
+
 **Deal Registration System Status and Information:**
 
 *   Deal Registration details will never override any information that the sales team forecasts on the Opportunity.
@@ -369,9 +371,10 @@ When you have an MSP opportunity, the Sales Reps need to follow these ***additio
 **Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
 
 **Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
-DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
-DR-Deal type: “Resale”
-DR-Engagement: “PIO”
+- DR-Partner: this must list the MSP’s _Partner_ account (same as the opportunity is created under) 
+- DR-Deal type: "MSP"
+- DR-Engagement: Select applicable answer
+  - _If there is an approved Deal Registration, the Partner data will automatically be added when the Deal Registration is linked to the Opportunity. The DR-Engagement will be the only piece that needs to be filled out._
 
 **Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
 - Invoice owner: The MSP Partner (same as DR-Partner referenced above).
