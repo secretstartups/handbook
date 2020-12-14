@@ -181,9 +181,10 @@ The manual way can be done either locally or using the GitLab Web IDE:
    1. In `sites/marketing/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
-   1. Create a new directory `X_Y` in the `data/release_posts` directory.
+   1. Create a new directory `X_Y` in the `data/release_posts` directory. 
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
    1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
+   1. Edit [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) and change the GitLab version, and the link of the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
 
 **Important!** Please use the **most recent templates** for each of these files.
 They can be found when browsing the repository in the `master` branch.
@@ -232,7 +233,7 @@ Prior to running the content assembly script (described in the next section), th
 
 **What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar. 
 
-#### Merge individual items in to your branch
+#### Content assembly: merging release post items (content blocks) to your branch
 
 **Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation on how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
 {:.alert .alert-info}
@@ -248,20 +249,14 @@ each PM creates for each feature.
 The `bin/release-post-assemble` script makes this easy to do:
 
 ```bash
-# Checkout the release branch
-git checkout release-X-Y
-
-# Pull any updates to the release branch
-git pull
-
-# Fetch and merge updates from master, including new unreleased features
-git pull origin master
-
-# Move release post items and images to the release director
-bin/release-post-assemble
-
-# Push the changes
-git push
+  git checkout master
+  git pull
+  git checkout release-X-Y
+  git pull
+  git merge master
+  bin/release-post-assemble
+  git push
+  git push origin release-X-Y
 ```
 
 If for some reason `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
@@ -274,7 +269,28 @@ If for some reason `bin/release-post-assemble` fails use the following steps to 
 
 #### Communication
 
-The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
+The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration. 
+
+The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example: 
+
+- Make a clear, descriptive statement of what's being shared and why
+- If you need someone to take an action, say so explicity and tag that person
+- If the action requested is time senstive, give a clear due date
+- If there are known issues they need to be aware of, list them out
+
+Sample post to executive stakehlders for review:
+
+_`@Sid @Scott Williamson @Anoop Dawar` The 13.6 Release Post has been generated and can be reviewed at https://release-13-6.about.gitlab-review.app/releases/2020/11/22/gitlab-13-6-released/index.html
+
+Please share your feedback by 10am PT on Friday November 20 (tomorrow). Thank you for your review!
+
+Currently there are no known issues/adjustments to the content but I know of one deprecation that needs to be added and will happen with my first wave of edits. We do still need to add social links and a reminder that the YouTube videos do not load in review apps but we have verified the proper /embed/ URLs.
+
+Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66652
+
+Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`
+
+
 
 The Community Advocates team will reach out to the release post manager in Slack #release-post when they are using the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) and need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
@@ -580,7 +596,7 @@ The messaging lead shares the selected theme for review from the EVP and VP of p
 - The Messaging Lead should be online and on call to receive Slack messages from 1300 UTC through 1500 UTC (or until the release post ships).
 - The Messaging Lead must be informed by the Release Post Manager if the release gets delayed so that they can coordinate timing with the press or any other team involved in the given release.
 - **Social Media specific coordination**
-  - The Messaging Lead should inform the social team that the release post has published and it's time to schedule social media posts. Use @social on Slack in the #release-post Slack channel, include the release post link and the summary used for the social caption. The social team will schedule posts across channels at the next available best time of day in order to maximize awareness, as well as, schedule a second "in case you missed it" post ~72 hours after the first posts publish. Any further coordination can occur in this Slack conversation.
+  - The Messaging Lead should inform the social team that the release post has published and it's time to schedule social media posts. Use @social on Slack in the #release-post Slack channel, include the release post link and the summary used for the social caption. The social team will schedule posts across channels at the next available best time of day in order to maximize awareness. Any further coordination can occur in this Slack conversation.
 
 ### PMM Reviewers
 
@@ -1321,9 +1337,7 @@ For entries that support Markdown, use regular [Markdown Kramdown](/handbook/mar
   - If the original image already has shadow applied, don't use `{:.shadow}`.
   - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks) right after `image_url`.
 - {:#social-sharing-image} **Social sharing image**:
-  It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. The image is created in coordination with the social media team.
-  - Around the 20th, the messaging lead should tag @social in the release post issue, link to the blog hero chosen image, and provide the blog title. A member of the social team will then create the image needed, adding two commits to the MR: 1 for uploading the image to the directory, and 1 adding the image URL in the `twitter_image` section of the frontmatter in the blog post.
-  - Images used for release posts will be placed under `source/images/opengraph/release-posts/` directory and named after the post's filename release number (xx-x in the title).
+  It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. This is fulfillled by adding the [cover image](#cover-image) to the release post. 
 
 #### Videos
 
