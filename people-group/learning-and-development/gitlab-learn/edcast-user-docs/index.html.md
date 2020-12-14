@@ -31,25 +31,25 @@ Review the following terms to get familiar with language used in this documentat
 
 ### First time login to GitLab Learn
 
-When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The EdCast platform will use your answers to suggest new learning content based on your interests and expertise.
+When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
 
 Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-EdCast first time login steps:
+GitLab Learn first time login steps:
 
 1. GitLab team members should choose `LogIn with SSO option` via Okta
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
 1. Add up to 3 learning goals to your profile. Use the search bar to locate learning goals in the platform. These learning goals can be about any topic you are interested in learning about. Some examples could be `product marketing`, `technical writing`, or `leadership`. If you need help determining your learning goals, reach out to the [L&D team in slack](https://app.slack.com/client/T02592416/CMRAWQ97W)
-1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This indicates that the goal you've entered does not yet exist in the EdCast database. Consider using a different learning goal or phrase. 
+1. When adding learning goals, you may get an error that reads `The goal you are trying to add does not exist`. This indicates that the goal you've entered does not yet exist in the database. Consider using a different learning goal or phrase. 
 1. Click `Next Step`
 1. Add skills to your profile. These skills should reflect your own expertise
 1. Click `Next Step`
-1. At this point, you will be dropped into the EdCast platform on the Discover page, and can begin to explore GitLab learning content! 
+1. At this point, you will be dropped into the GitLab Learn platform on the Discover page, and can begin to explore GitLab learning content! 
 
 
 

@@ -9,11 +9,12 @@ title: GitLab Learn Admin Documentation
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The following processes are used by administrators of the EdCast platform.
+The following processes are used by administrators of GitLab Learn.
 
 
 ## Best Practices for Content Organization
 
+Outline of best practices for how to upload and organize content in GitLab Learn is coming soon.
 
 
 ## Content Management
