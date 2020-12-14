@@ -65,6 +65,10 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 1. Italian
 1. Spanish (LATAM)
 
+## Per-Word Rates
+
+You can access the per-word rates by language in [this Google sheet](https://docs.google.com/spreadsheets/d/1ZRZkfvboxwc-TPUCPvdn8-M_DvGNEGRcwfbxIvSpXMM/edit#gid=0). **Do not share these rates publicly.**
+
 ## Using Smartling 
 
 Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. 
