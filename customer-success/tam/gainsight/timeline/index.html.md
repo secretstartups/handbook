@@ -88,6 +88,23 @@ Attendees will only appear if they are a) a Salesforce user for internal attende
 
 If you would like to see the activity logging process in action, please watch the [enablement video that covers logging](https://youtu.be/PL9shBdCMmo).
 
+## Syncing Salesforce Activities
+
+Gainsight Timeline also displays the following Salesforce activities. While these are synced, they do **not** impact TAM health scorecards, `Last Activity Date`, or `Last Timeline Activity` since Salesforce activities are typically sales-related.
+
+* Source:
+   * Opportunities
+   * Accounts
+* Type:
+   * Included: `Call`, `Demo`, `Workshop
+   * Purposefully **excluded**: `Email` and `Other`
+      * There are certain email activities classified as `Other` thus why they're excluded (noise to signal)
+
+### Limitations
+
+* Any Salesforce activity that does **not** have any content in the description
+   * Example: a call with a subject and no body will [fail to sync](https://support.gainsight.com/Gainsight_NXT/Timeline/02Admin_Guides/Integrate_Salesforce_Activities_in_Gainsight_Timeline#Limitations)
+
 ## BCCing Emails
 
 While we recommend BBCing emails to Salesforce instead of to Gainsight, you can do the same with Gainsight. To get your personalize email address, navigate to your settings:
