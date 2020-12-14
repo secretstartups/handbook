@@ -17,7 +17,7 @@ defined on our [team structure page](/company/team/structure/).
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
-1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values) and protectors of our [culture](/company/culture/).
+1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values/) and protectors of our [culture](/company/culture/).
 1. Behavior should be consistent inside and outside the company, just do the right thing inside the company, and don't fake it outside.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.

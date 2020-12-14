@@ -91,7 +91,7 @@ Skills and behavior of the emotional intelligence [manager competency](/handbook
 
 ## How to understand your EQ
 
-In order to develop your EQ, you need to understand your current baseline of how developed the skill is. Take one or more of the many free EQ assessments below to gain a better understanding of where you stand. Share the results with your team. If you are a [manager](/handbook/people-group/leadership-toolkit/), encourage your team to take one of the assessments. Use the results to tailor discussions and interactions with them. The more you know about your team personally and professionally, the more you can strengthen your EQ.
+In order to develop your EQ, you need to understand your current baseline of how developed the skill is. Take one or more of the many free EQ assessments below to gain a better understanding of where you stand. Share the results with your team. If you are a [manager](/handbook/leadership/), encourage your team to take one of the assessments. Use the results to tailor discussions and interactions with them. The more you know about your team personally and professionally, the more you can strengthen your EQ.
 
 ### Emotional intelligence (EQ) assessments
 

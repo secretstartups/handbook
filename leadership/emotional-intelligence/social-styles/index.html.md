@@ -13,9 +13,6 @@ title: Understanding SOCIAL STYLES
 
 On this page, we will detail a unique approach developed by the [TRACOM Corporation](https://tracom.com/social-style-training/model#) called SOCIAL STYLES&reg; that can be used by Managers and Individual Contributors. It is a framework to improve interpersonal effectivess and [emotional intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/). As a Manager, you can be more effective in your relationships with team members if you learn to focus on their behavior in an objective fashion. SOCIAL STYLES is a structured approach for observing, understanding, and anticipating an individual's behavior. Managing in an all-remote company comes down to trust, communication, and [company-wide support of shared goals](https://about.gitlab.com/company/culture/all-remote/management/). Use this page as a frame of reference to help [build trust](/about.gitlab.com/handbook/people-group/learning-and-development/building-trust) within your teams. 
 
-## Copyright/Trademark Recognition Statement
-Used with permission of TRACOM Group. All rights reserved. SOCIAL STYLE is a service mark of TRACOM GROUP. The SOCIAL STYLE MODEL is a registered trademark of TRACOM Group. The phrase SOCIAL STYLEs is required to be capaitalized when used due to copyright rules. 
-
 ## Drawbacks of Using Personality & Behavioral Assessments
 
 Personality assessments are one of many tools to help team members build trust. They are not intended to type-cast team members into boxes based on their results. It is important to remember that it is up to all of us to get to know one another on a personal and professional level instead of using the results of an assessment to make assumptions. Please use this page as a frame of reference when interacting with team members based on their assessed style. The results of an assessment should not put anyone in a box as we all have qualities that make us unique. The assessment does not take the place of Managers getting to know team members, appreciate their unique strengths and full personhood, and explore the ups-and-downs within the relationship. SOCIAL STYLEs is only a tool and we should not resort to type-casting team members based on their results.
@@ -275,15 +272,11 @@ The left hand side represents your style while the top represents your counterpa
 | **Amiable** | Shift Focus more toward the goal, less generalities | Pick up the pace, focus less on the relationship | Focus more on the issues at hand and less on popularity and networking | Focus less on the relationship and more on details | 
 | **Analytical** | Pick up the pace and focus less on details and more on the goal | Focus a little less on detail. Be a little more causal | Focus a little more on the relationship. Be more casual | Try to look at ideas more objectively. You both need to be right. |
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgSbOLpusk0gMSSEKd6WqIq-QXgR3AnDrKRYPzgDzTwmqw8kS8rZlSYoVWucF9yVG6zuBp1nGLYeof/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
 ## Discover Your SOCIAL STYLE
 
 Interested in learning about your own SOCIAL STYLE and those of your team? Below are five steps you can take as an individual contributor or a people manager to better understand your people. 
 
-1. **Complete the Self-Assessment** - Discover yourself using the [web based self-assessment](https://samdbeckham.gitlab.io/social-styles/). Teams can also inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. 
+1. Teams can inquire about the SOCIAL STYLEs comprehensive assessment from [TRACOM](https://tracom.com/) for a fee, that provides a comprehensive styles profile for each team member. GitLab L&D has been trained and certified on SOCIAL STLYEs, please contact them to learn more about the assessment. 
 
 2. **Reflection** - Reflect briefly on your result. What is your Social Style?
 
@@ -293,26 +286,12 @@ Interested in learning about your own SOCIAL STYLE and those of your team? Below
 
 5. **Aggregate Results** - Maintain a centralized location where exisiting and new team members can view individual SOCIAL STYLEs. 
 
-**Sample Slack Message for Managers to send to their team to complete the assessment:**
-
-> Hi Team, I wanted to introduce you to a personality assessment called SOCIAL STYLEs. This is a great way to help us strengthen relationships and improve communication. Take some time to read the [Understanding SOCIAL STYLES handbook page](/handbook/people-group/learning-and-development/emotional-intelligence/social-styles/). When you are ready, take the [free assessment](https://www.iths.org/wp-content/uploads/SELF-ASSESSMENT_OF_SOCIAL_STYLES.pdf) to learn about your own unique style. We will come together as a group later in the week or during our regular meeting cadence to discuss our results. The more we know about each other, the better we can operate as a team! 
-
 Once you know your team's SOCIAL STYLE, what do you do next?
 - Talk to your team members about their style
 - Give them opportunities to apply their styles in their day-to-day work
 - Consider style based partnering opportunities
 - Reference the language of SOCIAL STYLEs when working together
 - Develop and invest in your team members individual style
-
-## Example of putting styles into practice
-
-Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
-
-Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
 
 ## SOCIAL STYLES and crucial conversations
 
@@ -325,12 +304,14 @@ There are three factors that distinguish a [crucial conversation](https://www.am
 
 There are many applications of the SOCIAL STYLES model for working with teams. From managing conflict to coaching & mentoring, to managing up, to having crucial conversations. The applications are endless. 
 
-During Week 1 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/#week-1), we had a course covering how to Manage Underperformance Using SOCIAL STYLEs. The [slide deck](https://docs.google.com/presentation/d/1Cjx6UJ4p4lvOM780GaThx9CwHG0txGAWt829LaiqFq0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1Y2tLbuqvlIZmSGjND1nJeNnKdvDS7rZUCcAvu8dWx8Y/edit?usp=sharing) follow along with the session. In addition, we used an interactive polling tool called [Mentimeter](https://www.mentimeter.com/) to ask participants what is the hardest part about [having difficult conversations](https://docs.google.com/document/d/1rUZgYNgnWJqENKHC0VOdUEAJeJOX8lrOmg0lh-pLVeA/edit) with team members at GitLab.
+## Example of putting styles into practice
 
-A recording of the first of two sessions can be found here: 
+Below is an example of Persona that is used to show how SOCIAL STYLEs can be put into practice as a Manager within GitLab. **Personas's are a tool to show a representation of the target audience**. In this example, we've applied the SOCIAL STYLES framework to a ficitious manager at GitLab and how they could use the assessment within their team to personalize a management approach. Personas are archetypical users whose goals and characteristics represent the needs of a larger group. In this example, Managers. However, we can use personas for any audience at GitLab and beyond.  
+
+Use the persona as a roadmap to implementing the SOCIAL STYLEs assessment within your team. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/96F___ZpanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6HxchUNNbwIYpZY2feMs8GFY080DaZZgxTZrZlCyo3QYgCPGD6oH68myqUFExrjta350ZVORwBG5E/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ## Additional Resources on SOCIAL STYLES

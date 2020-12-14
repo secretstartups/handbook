@@ -16,7 +16,7 @@ On this page, we are going to review the GitLab coaching framework and approach 
 ## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. The Gitlab coaching framework has both a coach and coachee side, and each side is a reflection of the other. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during 
-[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/people-group/leadership-toolkit/career-development-conversations/), [leading teams](/handbook/people-group/leadership-toolkit/leading-teams-through-adversity-or-challenging-times/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
+[one-on-one meetings](/handbook/leadership/1-1/) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams](/handbook/leadership/managing-conflict/leading-through-adversity/), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more. 
 
 ## Selecting a coach
 
@@ -343,12 +343,28 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 
 ## Live Learning Session 
 
-During Week 2 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering [Building Trust](/handbook/people-group/learning-and-development/building-trust/) and [Coaching](/handbook/people-group/learning-and-development/career-development/coaching/). The [slide deck](https://docs.google.com/presentation/d/1PT8x7lUR0-X-M_H7n_tvYKsC1HRtKTiMy0BtmtPcO4Q/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1eHhOfgqllzAiGOf6gI98wegaxm5-8eLnZ8Qpq7KOLaY/edit?usp=sharing) follow along with the session. 
+During Week 2 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering [Building Trust](/handbook/people-group/learning-and-development/building-trust/) and [Coaching](/handbook/leadership/coaching/). The [slide deck](https://docs.google.com/presentation/d/1PT8x7lUR0-X-M_H7n_tvYKsC1HRtKTiMy0BtmtPcO4Q/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/1eHhOfgqllzAiGOf6gI98wegaxm5-8eLnZ8Qpq7KOLaY/edit?usp=sharing) follow along with the session. 
 
 A recording of the first of two sessions can be found here:
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jvjBgC3Bi2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Introduction to Coaching 
+
+We held 50 minute Introduction to Coaching [Live Learning](/handbook/people-group/learning-and-development/#live-learning) sessions on 2020-12-03. The recording follows along with the [slide deck](https://docs.google.com/presentation/d/1jOAZQkIJq9iU7ho6a09AOANKJs7W7IwnbVYBIlX9kmk/edit?usp=sharing) and [agenda](https://docs.google.com/document/d/1UIyIeyCcWCtNcOR2Wz5jvbSdKHI2OanLoM-WR7Gtknw/edit?usp=sharing).
+
+A recording of the first session can be found here:
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9qUlp8LrduM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+The slide deck for the session can be found here: 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ30H13ty28FlATR6iZUVwsYWwhAd3jGrGM3MBKFKSWb_t8RqTf9NhVAqMCwLhKk72bYFbWkjKiXGN4/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ## Additional coaching resources

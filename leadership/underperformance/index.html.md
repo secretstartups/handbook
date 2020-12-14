@@ -71,7 +71,7 @@ This results in a lower rate of involuntary attrition than comparable companies,
 
 ### Coaching
 
-[Coaching](/handbook/people-group/learning-and-development/career-development/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
+[Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
 Managers are expected to address performance concerns (poor results and/or behavior issues) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations should be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be shared with the team member within 24 hours of the verbal discussion.
 
