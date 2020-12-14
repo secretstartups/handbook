@@ -295,7 +295,7 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 </figure>
 
 
-## GitLab Learn: EdCast Learning Experience Platform (LXP) 
+## [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
 
 We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 

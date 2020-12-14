@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: EdCast Admin Documentation
+title: GitLab Learn Admin Documentation
 ---
 
 ## On this page

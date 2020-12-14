@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: EdCast User Documentation
+title: GitLab Learn User Documentation
 ---
 
 ## On this page
@@ -9,16 +9,30 @@ title: EdCast User Documentation
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The following resources can be used by learners in the [EdCast](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/) platform to help navigate the login process, explore new content, and more.
 
-**Have additional questions about EdCast?**
+## GitLab Learn Users
 
-GitLab team members can reach out to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for additional support in the EdCast platform.
+The following resources can be used by learners in the [GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
+
+**Have additional questions?**
+
+GitLab team members can reach out to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for additional support with GitLab Learn.
+
+#### A note about naming
+
+Review the following terms to get familiar with language used in this documentation.
+
+| Term | Definition |
+| ----- | ----- |
+| EdCast | The vendor we're collaborating with to create GitLab Learn. |
+| GitLab Learn | GitLab's EdCast instance |
+| Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
 
-### First time login to the EdCast platform
+### First time login to GitLab Learn
 
-When you log on to the EdCast LXP (Learning Experience Platform) for the first time, you'll be prompted through the account setup process. EdCast will use your answers to suggest new learning content based on your interests and expertise.
+When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The EdCast platform will use your answers to suggest new learning content based on your interests and expertise.
+
 
 Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
 
@@ -41,13 +55,13 @@ EdCast first time login steps:
 
 ### Getting familiar with the platform
 
-Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the EdCast platform to get familiar with what you'll see upon logging into EdCast.
+Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1AtZPxpauiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
-When you first log into the EdCast platform, you'll arrive on the Discover page. This page will:
+When you first log into GitLab Learn, you'll arrive on the Discover page. This page will:
 
 - Introduce you to trending topics on the platform and among other GitLab learners
 - Provide quick access to your learning paths and assigned content
@@ -57,7 +71,7 @@ When you first log into the EdCast platform, you'll arrive on the Discover page.
 
 ### Using the top navigation bar
 
-There are many EdCast resources you can access using this top navigation from any page in the platform.
+There are many resources you can access using this top navigation from any page in the platform.
 
 <img src="top-nav-bar.png" alt="EdCast Top Navigation Bar">
 
@@ -68,18 +82,18 @@ In your learning plan, you can view:
 - courses assigned to you
 - courses you've enrolled in or followed
 
-#### EdCast Support Resources
+#### GitLab Learn Support Resources
 
 This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
 1. [GitLab Handbook](https://about.gitlab.com/handbook/)
-1. EdCast Trainings (on this page)
+1. User Documentation and Trainings (on this page)
 
 #### Search bar
 
-Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#finding-new-learning-content) are outlined below.
+Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-learn/edcast-user-docs/#finding-new-learning-content) are outlined below.
 
 #### Notifications
 
@@ -87,13 +101,13 @@ View notifications to see when new content is assigned to you, when users have c
 
 #### Your Profile
 
-Access your [EdCast profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
+Access your [GitLab Learn profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
 
 
 
 ### Setting up your profile page
 
-You can edit and customize your profile page from within the EdCast platform using the following steps.
+You can edit and customize your profile page from within the platform using the following steps.
 
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
@@ -103,27 +117,27 @@ You can edit and customize your profile page from within the EdCast platform usi
      - First and last name
      - Bio
      - Login information
-     - EdCast handle
+     - Handle
      - Preferred language
      - Profile and banner image
      - Job title
 
 
-### Understanding content in the LXP
+### Understanding content in GitLab Learn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJzj4l3tG-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Learning material is built and organized in the LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [EdCast contribution page](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
+Learning material is built and organized in the GitLab Learn LXP to help you follow a clear path. This is created using Smartcards, Pathways, and Journeys. More information on this content can be found on the [GitLab Learn contribution page](/handbook/people-group/learning-and-development/gitlab-learn/contribute) and in [this video training](https://youtu.be/pJzj4l3tG-4)
 
-| EdCast Content | Purpose | Example |
+| Content Type | Purpose | Example |
 | ----- | ----- | ----- |
 | Journey | A collection of learning pathways | The Field Enablement team uses a journey to organize all content in the field certification. |
 | Pathway | A single learning pathway | In the DIB certification, one required piece includes the reivew of a YouTube Video, reading 1 handbook page, and answering a short quiz. All 3 steps are contained in one pathway. |
 | Smartcard | A single unit of learning content | One video, a 5 minute handbook read, a poll, and more. These are the basic units of learning content in the LXP and are used to build pathways and journeys. |
 
-In addition, learing content and users are organized in the LXP to help you discover new learning material and follow learners interested in similar topics. EdCast uses the following strucutres to organize content and users.
+In addition, learing content and users are organized in the LXP to help you discover new learning material and follow learners interested in similar topics. The following strucutres organize content and users.
 
-| EdCast Content | Purpose | Example |
+| Content Type | Purpose | Example |
 | ----- | ----- | ----- |
 | Carousel | Carousels are horizontal containers of related channels or content assets.
  | On the Discover page, you might see a carousel of featured DevOps pathways and smartcards |
@@ -134,35 +148,35 @@ In addition, learing content and users are organized in the LXP to help you disc
 
 ### Finding new learning content
 
-There are 2 ways to search EdCast for new learning content.
+There are 2 ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
-1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through EdCast content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-groundworks/contribute)
+1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
 
 
 ## Frequently asked questions
 
 
-### When will content in EdCast be available for the entire GitLab team, customers, and community members?
+### When will content in GitLab Learn be available for the entire GitLab team, customers, and community members?
 
 The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Progress and additional information can be found on the [LXP implementation issue board](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards)
 
 ### Where is the content in the LXP stored?
 
-Content in the LXP is developed using a [handbook first](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate 360 and Rise to build interactive courses.
+Content in GitLab Learn is developed using a [handbook first](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate 360 and Rise to build interactive courses.
 
 In addition to GitLab learning material stored in the handbook, GitLab team members will have access to off the shelf learning opportunity from other vendors and organizations, like LinkedIn Learning and WILL Learning.
 
-### How can I contribute to the LXP?
+### How can I contribute?
 
-The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-groundworks/contribute/).
-
-
+The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/).
 
 
-## Have additional questions about EdCast?
+
+
+## Have additional questions about GitLab Learn?
 
 Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W).
 
