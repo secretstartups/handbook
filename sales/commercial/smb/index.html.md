@@ -69,7 +69,7 @@ True-ups are conversations that often come to the table with customers during re
 * [True Up Policy](/handbook/ceo/pricing/#true-up-pricing)
 * [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 * [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
-* [Licensing and Subscription Troubleshooting ](/handbook/support/workflows/license_troubleshooting.html#licensing)
+* [Licensing and Subscription Troubleshooting ](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#licensing)
 *  If you still have questions about a specific true up case, please write in the [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU) channel for further assistance
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement
@@ -108,7 +108,7 @@ Please use the following analysis of your pipeline to get the most accurate mont
 * [Clari](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
 * [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
-* [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
+* [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording 
 *  [Crayon ](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 *  [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
 
@@ -142,6 +142,10 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 - [Adapting Command of the Message for SMB, part 1](https://docs.google.com/presentation/d/1ct5FksWRDtnsQeYkvceZLwi5IBlnZVx2dsA8tSzMHuY/edit?usp=sharing)
 - [Adapting Command of the Message for SMB, part 2](https://docs.google.com/presentation/d/1EWXuIwFQ20r6-Efb4xdwTBBRFaqgzT7xjnqpEK3F9z0/edit?usp=sharing)
 - [Mastering difficult conversations](https://docs.google.com/presentation/d/1M3PrP_h72qM7dPVIl8E1N98zYQR4-cKf51G3RCyXiDw/edit?usp=sharing) (video [here](https://youtu.be/6nCAyIIW_pE))
+- [Why Now? training](https://docs.google.com/presentation/d/11gjYDTYSYPffDnaDXjYXtXuQWi6ZZIotAWDKV86VIaQ/edit?usp=sharing) (video [here](https://youtu.be/bUls9lJh9P8))
+- [Expanding webstore customers](https://docs.google.com/presentation/d/1xPCEV8XCEkN493Jfz6DtbKGTV_t72FdkRPZX-RZbEwI/edit?usp=sharing)
+- [Account management: starting the relationship](https://docs.google.com/presentation/d/1ZvxdJEZIH8Cr7U2R_rF9gGlh_CjzUHyAz69ljo3zhTg/edit?usp=sharing) (video [here](https://youtu.be/GbET3hZrajk))
+- [Upselling Premium & Ultimate](https://docs.google.com/presentation/d/1u93b2TC3NDXQI1Ej8wKFOacBbfzra4wAgz5A2q2Ny_A/edit?usp=sharing) (video [here](https://youtu.be/XcTi8lWWnnI))
 
 ### Resources
 *  [Recommended books for SMB team](https://docs.google.com/document/d/19KOw5A84uUvKLBI9zdspbGpP4t3OOqsQLLKj6eTBjFw/edit) 
@@ -150,6 +154,7 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 
 ### Compensation
 *  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
+* The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/acv-in-practice/#gross-incremental-annual-contract-value-gross-iacv).
 *  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 

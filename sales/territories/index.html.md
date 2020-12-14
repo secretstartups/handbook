@@ -67,7 +67,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 {:.no_toc}
 
-- **NA East - Named Accounts**: Adam Johnson
+- **NA East - Named Accounts**: TBD
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
@@ -110,13 +110,14 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
-| NA West | NorCal | **ENT-NC-Named SF1** | Moses Mederos | TBD |
+| NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
 | NA West | NorCal | **ENT-NC-Named SF2** | Mike Nevolo | James Altheide |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 1** | Nico Ochoa | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal | Alan Cooke** | Alan Cooke* | Isaac Mondesir |
 
 #### Public Sector
 
@@ -233,7 +234,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **MM-APAC-ANZ** | Julie Manalo | Glenn Perez |
+| ANZ | ANZ | **MM-APAC-ANZ** | Ian Chiang | Glenn Perez |
 | Asia Central | Asia Central | **MM-APAC-Central Asia** | Ishan Padgotra | Glenn Perez |
 | China | China | **MM-APAC-China** | Ian Chiang | Aletha Alfarania |
 | Japan | Japan | **MM-APAC-Japan** | Ian Chiang | Minsu Han |
@@ -264,15 +265,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | Rest Of | **MM-EMEA-France-R** | Israa Mahros | Camille Dios |
-| Nordics | FI | **MM-EMEA-Nordics-FI** | Hans Frederiks | Johan Rosendahl |
-| Nordics | NO | **MM-EMEA-Nordics-NO** | Hans Frederiks | Johan Rosendahl |
-| Nordics | DK | **MM-EMEA-Nordics-DK** | Hans Frederiks | Johan Rosendahl |
-| Nordics | SE | **MM-EMEA-Nordics-SE** | Hans Frederiks | Johan Rosendahl |
-| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Hans Frederiks | Johan Rosendahl |
+| Nordics | FI | **MM-EMEA-Nordics-FI** | Lisa VdKooij | Johan Rosendahl |
+| Nordics | NO | **MM-EMEA-Nordics-NO** | Sophia Simunec | Johan Rosendahl |
+| Nordics | DK | **MM-EMEA-Nordics-DK** | Israa Mahros | Johan Rosendahl |
+| Nordics | SE | **MM-EMEA-Nordics-SE** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
+| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Sophia Simunec | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Hans Frederiks | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Hans Frederiks | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Chris Willis | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Conor Brady | Johan Rosendahl |
 | Benelux | BE/LU | **MM-EMEA-Benelux-BeLu** | Lisa VdKooij | Camille Dios |
 | Central Europe | DE | **MM-EMEA-Central-DE 0x** | Chris Willis | Rahim Abdullayev |
 | Central Europe | DE | **MM-EMEA-Central-DE 1x** | Chris Willis | Rahim Abdullayev |
@@ -337,10 +338,10 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-South Germany** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |

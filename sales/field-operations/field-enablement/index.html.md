@@ -33,6 +33,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
      - [Sales Training Resources](/handbook/sales/training/)
      - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+-  [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
 -  [Field Certification Program](/handbook/sales/training/field-certification)
      - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
      - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
@@ -74,7 +75,7 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
     - Those who never go through the formal platform may also benefit from the materials
     - The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 
-Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/sales/field-operations/field-enablement/interactive-learning/).
+Learn how Field Enablement takes a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
 
 ## Six Critical Questions
 

@@ -124,11 +124,23 @@ description: "This page serves as the Channel Operations team page and includes 
    <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>   
    </td>
   </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXj">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXo">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXt">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aUMP">Channel Renewals - Current & Next Fiscal Quarter</a>
+   </td>
+  </tr>
 </table>
 
+For a global view of current and next fiscal quarter channel renewals, [click here](https://gitlab.my.salesforce.com/00O4M000004aWY3).
 
 *All required team reporting is included above. In the event you need a special report, please open an issue and tag Channel Ops.*
 
+**[SFDC Channel Training Cheat Sheet](https://docs.google.com/document/d/1F1O3BUX80SJIqaFD9TF2RuyZ7DXB865AuiwaGctHnGo/edit?usp=sharing):** _Refer to this document for the training video hosted by the Channel Operations team, as well as quick reference "cheats" to help with your Salesforce reporting._
 
 ## Managing Channel Opportunities
 
@@ -307,11 +319,15 @@ _Why is this important?_
 *   _DR - Partner Deal Type:_
     *   _Resale:_ Partner is actually transacting the deal on their paper
     *   _Referral:_ Partner is bringing us the lead/opportunity but will either transact direct with GitLab or through another partner
-    *   _Services Attach_: Partner-delivered services provided to the end user related to their use of the GitLab software
-*   _DR - Partner Engagement_: How the deal was sourced or the value the partner is bringing
+    *   _Services Attach:_ Partner-delivered services provided to the end user related to their use of the GitLab software
+*   _DR - Partner Engagement:_ How the deal was sourced or the value the partner is bringing
     *   _PIO:_ Partner has “initiated” the opportunity. They have either found the original opportunity or an upsell to a current customer. 
-    *   _Assisted_: GitLab-sourced opportunity where the partner assists our sales team in closing the deal
+    *   _Assisted:_ GitLab-sourced opportunity where the partner assists our sales team in closing the deal
     *   _Fulfillment:_ Partner only processes the order and doesn’t provide additional support to close the deal
+*   _Distributor:_ If the _DR - Partner_ are buying from a GitLab authorized distributor.
+*   _Fulfillment Partner:_ Only applicable if the _DR - Partner Deal Type_ is "Referral" and the deal is being transacted through another partner.
+*   _Platform Partner:_ Customer's platform that GitLab is being deployed.
+*   _Influence Partner:_ Other partners, generally GSIs or alliances that have helped influence a deal.
 
 
 _For more details on Partner Engagement definitions go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)_
@@ -326,6 +342,16 @@ _For more details on Partner Engagement definitions go [here.](https://about.git
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
 *   In the event the engagement is dissolved, the GitLab Sales Rep will generally notify the partner by phone or email. GitLab will reconsider other qualified deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab sales rep will typically initiate engagement with a reseller of the GitLab sales rep’s choosing.
 
+
+### Quoting Requirements for Channel Deals
+
+Any time a deal is being transacted via the Channel, a GitLab quote is **<span style="text-decoration:underline;">required</span>** to be created in SFDC if any pricing is being offered other than MSRP (List Price). 
+
+At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-draft-proposal) needs to be created and provided to the Partner. If a Partner has an approved Deal Registration, then an approved quote needs to be created and provided to that Partner. 
+
+Discounted quotes that are not in the system and sent to a Partner are not permitted at this time. This includes providing product and pricing quotes details in email. This applies to all GEO’s and Segments. 
+
+Any questions or issues, please reach out to either Channel-Ops or Deal Desk. 
 
 
 
@@ -401,17 +427,135 @@ For more informaiton on quoting or the Partner Program, please visit:
 
 [Partner Program](https://about.gitlab.com/handbook/resellers/)
 
+## SFDC Opportunity Source Field Values for Channel
+
+**SFDC Opportunity Fields**:
+
+-  _Initial Source:_ 
+   - **Channel Qualified Lead (CQL):** GitLab Channel Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work
+-  _Sales Qualified Source:_
+   - **Channel:** Channel Partner has converted the Lead/CQL to a Qualified Opportunity. This field defaults to Channel when Initial Source = _CQL_
+- _DR - Deal Engagement:_
+   - **PIO:** Partner Initiated or Partner Incremental Opportunity
+   - **Assist:** Partner Assisted Opportunity
+   - **Fulfillment:** Partner Fulfillment Opportunity
+
+*For additional definition and qualification of Deal Engagement type go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) 
+
+**For additional Source definition please visit the [Marketing Handbook Page. ](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) 
+
+**Examples:**
+
+
+<table>
+  <tr>
+   <td><strong>Use Case</strong>
+   </td>
+   <td><strong>Use Case Details</strong>
+   </td>
+   <td><strong>Lead/Initial Source</strong>
+   </td>
+   <td><strong>Sales Qualified Source</strong>
+   </td>
+   <td><strong>Deal Engagement Program Tagging on the Opp</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Campaign in a Box
+   </td>
+   <td>Partners driving customer outreach/marketing activities
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Deal Reg = PIO
+   </td>
+   <td>Deal submitted via our Deal Reg process and no lead exists in our system
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry - bring partner in to work
+   </td>
+   <td>We have an inquiry and we pass it to the partner to qualify
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Deal Reg = PIO
+   </td>
+   <td>Deal submitted via our Deal Reg process and a lead/opp (00-1) already exists in our system
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>MQL Non BANT
+   </td>
+   <td>We have an MQL that is worked but opp doesn’t come to fruition so it needs to be reworked and Channel brings it back to qualified
+   </td>
+   <td>MQL -> CQL
+   </td>
+   <td>AE or SDR or Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry  to  SDR 
+   </td>
+   <td>We have an inquiry that we pass to the AE or SDR to work and the channel provides value by assisting on the deal. I.e. helps expedite the timelines
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>Assist
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry to SDR 
+   </td>
+   <td>We have an inquiry that we pass to the AE or SDR to work and is just transacted thru the channel
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>Fulfillment
+   </td>
+  </tr>
+</table>
 
 
 
 ##  Program and Incentive Definitions
 
-**Partner Program Discounts**
+### Partner Program Discounts 
 - The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
 - Partners are not eligible for discounts on sales or renewals of Bronze / Starter licenses.
 - GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
-**Partner Initiated Opportunity - PIO**
+### Partner Initiated Opportunity - PIO
 - A PIO is any initiated sales opportunity that was brought to GitLab via a Deal Registration. A PIO could be:
     -  An opportunity with new customer to GitLab
     -  An opportunity with a customer/prospect with which GitLab is already engaged, but was not aware of the specific partner identified opportunity
@@ -430,17 +574,17 @@ For more informaiton on quoting or the Partner Program, please visit:
 - The determination of PIO is per GitLab sales rep & CAM determination and tracked via Salesforce opportunities.
 
 
-**Partner Assist Opportunity**
+### Partner Assist Opportunity
 - Any opportunity where the partner assists our sales team in closing the deal.
 - This assistance may include any or all of the following: a customer demo/POV, an executive introduction meeting, delivery of services, helping with the transaction, financing.  Often this is leveraging the partner's incumency.
 - Partners need to submit a Deal Registration for Partner Assist.  Since it is for a GitLab sourced opportunity, it does not qualify for PIO, but should be tagged as Partner Assist in Salesforce.
 - The determination of Partner Assist is at the sales rep & CAM determination and tracked via SFDC opportunities. 
 
-**Partner Fulfill Opportunity**
+### Partner Fulfill Opportunity
 - Any opportunity that was fulfilled by a partner but closed independently via the GitLab sales team.
 - The partner has only processed the order and didn’t provide any meaningful support to close the deal.
 
-**Services Attach Opportunity**
+### Services Attach Opportunity
 - Any partner delivered services that are provided to the end user in support of a GitLab deployment.
 - This will result in a 2.5% upfront discount from the product for resales opportunities and a rebate if partner is not involved in resale.
 - The resale discount will be administered as an upfront discount from the GitLab license price on the most recent product sale net license price.
@@ -454,27 +598,27 @@ For more informaiton on quoting or the Partner Program, please visit:
 - Rebate payments are paid out at the end of each GitLab fiscal quarter.
 - Rebates and referral fees may require CRO approval.
 
-**Services Resale**
+### Services Resale
 - Partners can earn a program discount for reselling GitLab Professional Services delivered services.
 - To qualify for the Services discount, the services must be included on the order of a deal registered opportunity.
 
-**Incumbency Renewals**
+### Incumbency Renewals
 - Incumbent partners qualify for program renewal discounts.  The partners that transacts the most recent sale (IACV) are considered the incumbent
 - A different partner can earn an incumbency discount only through formal written communications from the customer.  This can be provided via email from an authorized representative from the customer.
 - In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal. Partners are encouraged to engage with these customers, but their first renewal of a formerly direct customer will not be discounted for partners. 
 - To earn partner discounts, partners will be required to meet compliance requirements (i.e. in good credit standing, have provided quarterly updates on customer, review within 30 days of renewal, etc).
 
-**Tender Offers**
+### Tender Offers
 - Tender offers are ones where the customers are requesting multiple bids for a project.  
 - Each partner bidding should register the deal. Since all partners would be engaged in the sales process and would be creating a bid, all partners qualify for Partner Assist discount (% based on their program track). If the first partner registering the deal was early in with the customer (pre-tender) and introduces the opportunity to GitLab, that partner could earn a Partner Initiated Opportunity (PIO) discount. If the partner earning the PIO is not awarded the deal, they would not receive additional referral compensation.
 Any partner offering services would qualify for Services-Attach incentives in addition to any sales discounts for which they would qualify.
 
-**Program Compliance**
+### Program Compliance
 - For partners to transact according to program discounts, they must agree to the GitLab Partner Agreement.
 - To earn partner discounts, partners will be required to be program compliant.
 - Non Contracted partners may transact on a one-off basis, only with approval of channel leadership.
 
-**Unauthorized Partners** 
+### Unauthorized Partners
 - Unauthorized partners are ones that have not signed a GitLab Partner Agreement.  
 - A key goal of the GitLab Channel Program is the success of our authorized partners.  We are developing our channel to provide coverage across geos, customer segments and vertical markets.  Since the program was just launched in April 2020, we have not onboarded enough partners to support every sales opportunity.  As we continue to build out our channel coverage, there will still be a need to utilize one-off, unauthorized partners for specific sales opportunities.  
 - For Developed Regions - Most P0 and many P1 countries.  GitLab Sales teams, work with your CAM to identify authorized partners in your region.

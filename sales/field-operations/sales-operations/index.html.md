@@ -296,7 +296,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. Check the Data in the [Provided Report](https://gitlab.my.salesforce.com/00O4M000004aGGo):
    - Make sure the last login date is set to LESS than or equal to 90 Days ago.
    - Verify that no integration users or users that might be tied to an external system are not included in the access removal. If there are questions, error on the cautious side and work with Sales Systems.
-1. Create an [Access Change Request](handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
+1. Create an [Access Change Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
    - List the users that will be removed so that we have record of reason and users if needed in the future.
 1. Email Notification:
 
@@ -366,6 +366,8 @@ Click the “Related Chatter Object” link to view the original request.
    - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to reassign an account owned by the Impartner Integration user:
    -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to reassign an account owned by the Vartopia Integration user:
+   -  These customer accounts are OK to move and should follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) .
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move an account to a Public Sector SAL. 
