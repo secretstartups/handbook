@@ -247,7 +247,7 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 *December*
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
 * 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
-* 2020-12-14: Communication training and guidance shared with managers
+* 2020-12-15: Program approval and communication guidance shared with managers
 * 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
 *January*
@@ -361,7 +361,7 @@ This change will impact both team members and managers.
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
-### Performance/Potential Communication FAQs:
+#### Performance/Potential Communication FAQs:
 * **Q:** “Can my performance factor be changed?”
 * **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
 * **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
@@ -383,6 +383,8 @@ Regardless if your organization assessed potential, it is ok for you to discuss 
 * **A:** If your organization did decide to assess and communicate potential ratings, your potential factor cannot be changed. You should note that at this point in time, the potential factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
 * **Q:** “What can I do to change my potential rating in the future?”
 * **A:** There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
+* **Q:** “My team member is currently on a performance remediation plan; how should I handle?”
+* **A:** You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
  
 
 ## Succession Planning
