@@ -18,7 +18,7 @@ Account Plans are executable and structured plans to help understand the custome
 To learn more, check out the [Account Plan Page](/handbook/sales/account-planning/).
 
 ## Opportunity Planning 
-Good Account Plans, simplify the Oppiortunity Planning since they identify key information and leads to more productive [Opportunity Consults](handbook/sales/command-of-the-message/opportunity-consults/). 
+Good Account Plans, simplify the Opportunity Planning since they identify key information and leads to more productive [Opportunity Consults](handbook/sales/command-of-the-message/opportunity-consults/). 
 To learn more check out the [Command Plan page](/handbook/sales/command-of-the-message/command-plan/).
 
 ## Success Planning 
