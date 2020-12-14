@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Career Development"
+title: "Engineering Management Career Development"
+description: "Career development information and process to follow for Engineering Managers at GitLab."
 ---
 
 ## On this page

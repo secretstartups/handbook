@@ -43,13 +43,20 @@ You may apply a second throughput label such as `~"bug"` or `~"feature"` to indi
 1. `~"security"`: Security-related MRs.
 1. `~"bug"`: Defects in shipped code. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
 1. `~"feature"`: Any MR that contains work to support the implementation of a feature and/or results in an improvement in the user experience. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
-  - `~"feature::addition"`: Refers to the first MVC that gives users a foundation of new capabilities that were previously unavailable. For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
-  - `~"feature::enhancement"`: Refers to user-facing improvements that refine the initial MVC to make it more useful and usable. For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
-  - `~"feature::maintenance"`: Refers to refinements to an existing feature that are not user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example: [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
+  - `~"feature::addition"`: Refers to the first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
+  - `~"feature::enhancement"`: Refers to GitLab user-facing improvements that refine the initial MVC to make it more useful and usable. For example, these issues enhance the existing Reviewer feature: [Show MRs where user is designated as a Reviewer on the MR list page](https://gitlab.com/gitlab-org/gitlab/-/issues/237922), [Display which approval rules match a given reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/233736), [Add Reviewers quick action](https://gitlab.com/gitlab-org/gitlab/-/issues/241244)
+  - `~"feature::maintenance"`: Refers to refinements to an existing feature that are not GitLab user-facing and not related to `~bug` resolution. This could include `~"technical debt"` and industry-standard updates such as work towards Rails upgrade. For example: [Updating software versions in our tech stack](https://gitlab.com/gitlab-org/ci-cd/codequality/-/issues/22), [Recalculating UUIDs for vulnerabilities using UUIDv5](https://gitlab.com/gitlab-org/gitlab/-/issues/212322)
 1. `~"tooling"`: MRs related to engineering tooling.
   - `~"tooling::pipelines"`: MRs related to pipelines configuration.
   - `~"tooling::workflow"`: MRs related to improvements of the engineering workflow and release tooling like Danger, RuboCop, linters, etc.
 1. `~"documentation"`: For documentation-only MRs, use `~"documentation"` only unless the work is attributable to code changes for a feature or bug, and in that case, use `~"feature"` or `~"bug"`, even if the doc change is being made late for a feature/bug from a previous milestone.
+
+Note that users of GitLab internal development tools do not count as GitLab
+users. Example projects are:
+
+- [release-tools](https://gitlab.com/gitlab-org/release-tools)
+- [gitlab-qa](https://gitlab.com/gitlab-org/gitlab-qa)
+- [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops)
 
 If it does not have any of these, it will be tracked in the 'undefined'
 bucket instead. The Engineering Manager for each team is ultimately

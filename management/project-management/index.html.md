@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Project Management"
+title: "Engineering Management Project Management"
+description: "Project Management information and process to follow for Engineering Managers at GitLab."
 ---
 
 ## On this page
