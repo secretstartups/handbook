@@ -2,7 +2,7 @@
 layout: markdown_page
 title: Troubleshooting EULAs
 category: CustomersDot
-description: THE EULA PROCESS HAS BEEN DECOMMISIONED AS OF 13 OCTOBER 2020
+description: The EULA process has been decommissioned as of 13 OCTOBER 2020
 ---
 
 ### On this page
