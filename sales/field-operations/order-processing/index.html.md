@@ -699,8 +699,6 @@ A Direct Deal is a deal between GitLab and the Customer. There are no Distributo
 
 For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk. 
 
-** Some customers will require a Signed Order Form as well as a PO for Invoicing purposes. Please reach out to Billing Ops to determine if the Account requires a PO to book the order. 
-
 <details>
 <summary markdown="span"><b>GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM</b></summary>
 
@@ -860,7 +858,57 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-### How to Submit an Opportunity for Approval (Booking)
+#### Purchase Order Policy
+
+Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
+
+Note: This policy is supplemental to the other booking requirements listed on this page. It does not replace any other booking requirements.
+
+**How can I determine whether a customer requires POs?**
+
+This information can be reviewed in several places within Salesforce:
+
+1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO. If the field is marked as "NO" or if the field is blank, the customer does not require a PO.
+2. Review the relevant quote object. Unique quotes created and tied to existing billing accounts will display the "PO Required?" field from that relevant billing account.
+
+**How does GitLab know that a customer requires POs?**
+
+If a PO is not provided during the booking process, customers who require POs will typically notify the Billing team of their requirement once an invoice has been issued. In many of these cases, the invoice is rejected and Billing works with the customer to obtain their PO and manually reissue the invoice with the PO number included. The Billing team then updates Zuora to denote the customer's PO requirement.
+
+**Why does the customer PO requirement matter?**
+
+If a customer requires POs, they will typically reject any invoice sent to them that does not include a PO number. Additional billing and collection efforts become required to engage with the customer, to obtain the PO, and to manually issue a new invoice once the PO has ultimately been received. In addition, this scenario often produces significant delays to cash collection. 
+
+**What if "PO Required" = "YES," but the customer states that they do not require a PO?**
+
+1. If the customer does not require a PO for a *specific transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached.
+
+2. If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
+
+**What if "PO Required" = "YES," and the customer has provided a PO number but not a PO document?**
+
+1. If the customer provides a PO number, not not a PO document, please attach the email (containing the PO number) to the opportunity. If all other booking requirements are met, the opportunity will be closed.
+
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
+
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
+
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met and the customer's license grace period is about to end?**
+
+If the customer's license has expired, and the customer's grace period is nearing its end, please open an [Issue to request a grace period extension](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans) for the related license. A grace period extension will prevent the customer from losing functionality while the opportunity is pending approval due to a delayed PO.
+
+**End of Quarter Exceptions**
+
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, exceptions will be considered at quarter end if the following requirements are met:
+
+1. The opportunity is submitted for approval no more than 5 days before the last day of the quarter, and all other booking requirements have been met.
+2. The customer provides written confirmation that the PO will be issued to GitLab within 10 days. This written confirmation is attached to the opportunity.
+3. Approval is obtained in chatter from both the Deal Desk Manager and Senior Billing Manager.
+
+Note: If an exception is granted and the PO is not received within 10 days, on the 11th day the opportunity will be decommissioned, reversing all credit given for the booking. 
+
+
+### Finally, submit the opportunity for approval (booking)
 
 When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have a **signed order form from** the customer, you are ready to submit the opportunity for approval. 
 
