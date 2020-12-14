@@ -89,7 +89,7 @@ Communicate broadly when you will be away so other people can manage time effici
 
 ### Returning from PTO
 
-Returning from PTO of any length can feel overwhelming. Consider implementing these stratgies when returning from time off in order to make the most of the rest and reflection you've been able to achieve.
+Returning from PTO of any length can feel overwhelming. Consider implementing these strategies when returning from time off in order to make the most of the rest and reflection you've achieved.
 
 1. Remember that it's normal to take extra time to catch up after returning from paid time off. Taking time off doesn't mean that you need to work extra hours before or after your vacation. When taking extended time off, expect to have reduced capacity to take on new work the week of your return while you're catching up on the work that happened while you were away. Remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). 
 
