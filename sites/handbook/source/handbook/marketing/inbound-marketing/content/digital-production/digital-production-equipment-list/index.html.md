@@ -33,6 +33,26 @@ twitter_creator: "@gitlab"
 **OR**
 - Elgato Key Light - [US](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
 
+&nbsp; 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Advanced Desk Packages
 
  This package is for GitLab Employees in need of higher level production equipment for elevated content such as media interviews and external conferences. 
@@ -100,8 +120,25 @@ twitter_creator: "@gitlab"
 
 #### Lighting
 
-_Optional if additional lighting is needed:_.  
- - Panel Light With Stands - [US](https://www.bhphotovideo.com/c/product/1492249-REG/gvm_800d_rgb_3l_800d_rgb_led_video_studio.html)
+- Elgato Key Light - [US](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
+- _Optional if additional lighting is needed:_ Panel Light With Stands - [US](https://www.bhphotovideo.com/c/product/1492249-REG/gvm_800d_rgb_3l_800d_rgb_led_video_studio.html).  
+
+#### Prompter
+
+- Teleprompter for Laptops - [US](https://www.amazon.com/Glide-Gear-Laptop-Smartphone-Teleprompter/dp/B07X9VSZMM/)
+
+#### Miscellanious 
+
+- Rosco Diffusion Filter Kit (12 x 12") - [US](https://www.bhphotovideo.com/c/product/1100312-REG/rosco_110120120001_diffusion_filter_kit_12.html).   
+ _This a plastic-like material that is placed over panel lights to create a softer and more flattering look._       
+
+- Mini Clamps - [US](https://www.bhphotovideo.com/c/product/1428232-REG/impact_abs_3_75_small_spring.html).  
+ _These are used to secure the diffusion filters over the light panels._   
+
+- Gaffer Tape - [US](https://www.bhphotovideo.com/c/product/812203-REG/General_Brand_001UPCG255MBLA_General_Brands_Pro_Gaffer_s.html).     
+  _This is specialized tape for securing cords against tripping (saftey first!). It has a light grip and will not leave marks when pulled up._
+
+- Green screen (optional for use only while seated at a desk) - [US](https://www.bhphotovideo.com/c/product/844696-REG/Westcott_579K_X_Drop_Kit_5_x.html/overview)
 
 
 
