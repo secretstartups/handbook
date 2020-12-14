@@ -49,7 +49,6 @@ description: "Operations, Procedures, Documentation"
 | EMEA | Europe, Middle East and Africa |
 | EULA | End User Licence Agreement |
 | High intent | an event, webcast, demo that is a strong indicator of purchase or evaluation |
-| Holdover Account | Account ownership retained by someone other than the territory owner |
 | Inquiry | an Inbound request or response to an outbound marketing effort |
 | IQM | Initial Qualifying Meeting |
 | LATAM | Latin America (includes all of Central & South America) |
