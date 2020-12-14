@@ -134,11 +134,11 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 
 ### Creating a badge
 
-Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast plaform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/#requesting-design-help) to request a new badge.
+Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast plaform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
 
 #### Adding a badge to EdCast
 
-1. If necessary, collaborate with the brand team to [create a new badge](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
+1. If necessary, collaborate with the brand team to [create a new badge](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
 1. Email EdCast account rep with the request to upload the file to the platform
 1. Navigate to the pathway or journey you'd like to add the badge to. In the `create` or `edit` tab, navigate to the `badge` setting
 1. Mark the check box to indciate that `Upon completing this pathway/journey, assignee will get a badge`
