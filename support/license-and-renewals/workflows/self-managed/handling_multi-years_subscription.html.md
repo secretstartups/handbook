@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Handling a multi years subscription
+title: Handling multi-year subscriptions
 category: GitLab Self-Managed licenses
 ---
 
@@ -20,7 +20,7 @@ From time to time, you will run into cases where customer has a multi years subs
 
 ### Confirm customer subscription
 
-To check whether the customer has a multi year subscription or not:
+To check whether the customer has a multi-year subscription:
 
 1. Navigate to Saleforce and locate the relevant opportunity which generally has a `Close date` in the recent past
 1. Click on the opportunity → search for `quotes` → click on the most recent quote
@@ -28,7 +28,7 @@ To check whether the customer has a multi year subscription or not:
 
 ### Handling the request
 
-After confirmation, before we can [generate a new license](creating_licenses.html) with a proper `Start date` and `End date` for the customer, please ask the customer for their system information using ZenDesk macros `Subscriptions::Active Users`.
+After confirmation and before [generating a new license](creating_licenses.html) with a proper `Start date` and `End date` for the customer, please ask the customer for their system information using the ZenDesk `Subscriptions::Active Users` macro.
 
-1. If there isn't any `Users over license`, please proceed to generate the new license
-1. If there's any `Users over license`, please confirm that they are accounted for in the quote. Otherwise, follow the [Working with sales workflow](../working_with_sales.html). We can generate a new license once the `Users over license` has been paid for/
+1. If there aren't any `Users over license`, please proceed to generate the new license
+1. If there's any `Users over license`, please confirm that they are accounted for in the quote. Otherwise, follow the [Working with sales workflow](../working_with_sales.html). We can generate a new license once the `Users over license` has been paid for.
