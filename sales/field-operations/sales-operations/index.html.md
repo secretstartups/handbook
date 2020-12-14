@@ -437,22 +437,23 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 **SMB AMER**
 
 1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+2. [SMB AMER Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **SMB EMEA & APAC**
-
-2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+1. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+2. [SMB EMEA & APAC Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market East**
-
-3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+1. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+2. [Mid Market-East Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market West**
-
-4. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+1. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+2. [Mid Market-West Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market EMEA**
-
-5. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+1. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+2. [Mid Market EMEA Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 </details>
 
