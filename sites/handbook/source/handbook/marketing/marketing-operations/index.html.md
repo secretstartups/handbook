@@ -129,12 +129,12 @@ _In Milestone_
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
 
-| **Label you add**       | **Slack channel the merged MR pushes to** |
-| ----------------------- | ----------------------------------------- |
-| `MktgOps-HB Update`     | `hbupdate-mktgops`                        |
-| `FMM-HB Update`         | `fieldmarketing-FYI`                      |
-| `SDR-HB Update`         | `hbupdate-sdr`                            |
-| `ABM-HB Update`         | `hbupdate-abm`                            |
+| Label you add | Slack channel the merged MR pushes to |
+| ----------------------- | --------------------------- |
+| `MktgOps-HB Update` | `hbupdate-mktgops` |
+| `FMM-HB Update` | `fieldmarketing-FYI` |
+| `SDR-HB Update` | `hbupdate-sdr` |
+| `ABM-HB Update` | `hbupdate-abm` |
 
 ### Marketing Ops Calendar
 
