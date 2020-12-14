@@ -337,7 +337,7 @@ _For more details on Partner Engagement definitions go [here.](https://about.git
 
 ### Rules of Engagement on Channel Deals
 
-*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Sales.
+*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
 *   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that requests a quote, will receive the fulfillment discount rate.
 *   Any partner opportunity can be a registered deal.  These opportunities can be either Partner Initiated, Partner Assist, Partner Fulfilled or Partner Services Attach.  Visit [Program and Incentive Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) to learn what deals qualify for each category.  
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
