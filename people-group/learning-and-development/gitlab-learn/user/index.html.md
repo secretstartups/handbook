@@ -153,7 +153,13 @@ There are 2 ways to search GitLab Learn for new learning content.
 
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
+## Sharing your GitLab Learn Badges
 
+When completing our pathways and journeys on the GitLab Learn platform, you will have opportunity to earn badges. 
+
+For a video walkthrough on sharing your badge to LinkedIn watch the following video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zej2pLuwCok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Frequently asked questions
 
