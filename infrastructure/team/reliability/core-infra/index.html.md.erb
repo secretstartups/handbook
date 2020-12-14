@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Core Infra Team"
+title: Core Infra Team
 ---
 
 ## On this page
@@ -12,71 +12,82 @@ title: "Core Infra Team"
 ## Who We Are
 
 The Core Infra teams owns:
-* infrastructure tooling like:
-  * [Terraform](https://gitlab.com/gitlab-com/gitlab-com-infrastructure)
-  * [Chef](/handbook/engineering/infrastructure/production/architecture/#chef-architecture)
-* network ingress/egress
-  * [Networking](/handbook/engineering/infrastructure/production/architecture/#internal-networking-scheme)
-* [CDNs and DNS](/handbook/engineering/infrastructure/production/architecture/#dns--waf)
-* [Secrets management](/handbook/engineering/infrastructure/production/architecture/#secrets-management) 
-* Helping with Fulfillment Stage assets like subscription and license management apps.
 
-Need help?  [How to get something on our backlog](#asks-of-the-infra-team-and-unplanned-work)
+- infrastructure tooling like:
+    - [Terraform](https://gitlab.com/gitlab-com/gitlab-com-infrastructure)
+    - [Chef](/handbook/engineering/infrastructure/production/architecture/#chef-architecture)
+- network ingress/egress
+    - [Networking](/handbook/engineering/infrastructure/production/architecture/#internal-networking-scheme)
+- [CDNs and DNS](/handbook/engineering/infrastructure/production/architecture/#dns--waf)
+- [Secrets management](/handbook/engineering/infrastructure/production/architecture/#secrets-management)
+- Helping with Fulfillment Stage assets like subscription and license management apps.
+
+Need help? [How to get something on our backlog](#asks-of-the-infra-team-and-unplanned-work)
 
 <%= partial "handbook/engineering/infrastructure/team/reliability/core-infra/_core_infra_team.html" %>
 
 ## Tenets
+
 Our guiding principles center around implementing [boring solutions](https://about.gitlab.com/handbook/values/#boring-solutions) to infrastructure problems. We work to simplify interfaces and build robust workflows for other engineers within GitLab who utilize our platform to provide support for and deliver new features to the gitlab.com SaaS product. Over time this continues to expand to include additional/related applications, sites, and systems.
 
-In practice, this means that we 
+In practice, this means that we
+
 1. Manage all infrastructure resources via Infrastructure as Code or auditing tools
-    * GCP [by Terraform](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure)
-    * Cloudflare / CDN [audited by a tool](https://ops.gitlab.net/gitlab-com/gl-infra/cloudflare-audit-log)
+    - GCP [by Terraform](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure)
+    - Cloudflare / CDN [audited by a tool](https://ops.gitlab.net/gitlab-com/gl-infra/cloudflare-audit-log)
 1. Develop automated workflows ensuring consistency, repeatability, predictability, and reliability
 1. [Use GitLab to deploy and manage our infrastructure](https://about.gitlab.com/handbook/values/#dogfooding)
 1. [Maintain a user-centric focus](https://about.gitlab.com/handbook/values/#customer-results), and [enable self-service functionality](https://about.gitlab.com/handbook/values/#self-service-and-self-learning) whenever possible
 1. Work with other SRE teams to ensure common principles are upheld and services are maintained according to our [production readiness standards](https://gitlab.com/gitlab-com/gl-infra/readiness)
 1. [Focus on small changes](https://about.gitlab.com/handbook/values/#iteration) and [embrace experimentation](https://about.gitlab.com/handbook/values/#accepting-uncertainty)
 
-
 ## Vision
-* Help with moving compute to GKE
-  * Smaller Chef footprint
-  * More Autoscaling 
-  * Secure and setup best practices for GKE cluster
-* Create tools and processes for external teams to service requests themselves
-* Move all Growth Stage apps to AutoDevops
+
+- Help with moving compute to GKE
+    - Smaller Chef footprint
+    - More Autoscaling
+    - Secure and setup best practices for GKE cluster
+- Create tools and processes for external teams to service requests themselves
+- Move all Growth Stage apps to AutoDevops
 
 ## How we work:
 
 #### Epics
+
 We have 3 types of epics:
-1.  The [main team epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326).  This stores the roadmap/radar for the team. 
+
+1. The [main team epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326). This stores the roadmap/radar for the team.
 There are then lists of epics of the next 2 types for what we are working on now, what is up next and what is on the radar.
-2.  Grouping or Backlog Epics (Themes).  These epics are things on our radar/roadmap. They are meant to group together related areas of work.
-They are not commitments to work.  They are a way to help organize related areas into themes on our backlog.
-3.  Project Epics.  These will usually sub-epics of the Grouping or Backlog Epics.  We'll create these epics for work that is 
-["Up Next"](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326#up-next-arrow_forward).  These epics will be used to 
+1. Grouping or Backlog Epics (Themes). These epics are things on our radar/roadmap. They are meant to group together related areas of work.
+They are not commitments to work. They are a way to help organize related areas into themes on our backlog.
+1. Project Epics. These will usually sub-epics of the Grouping or Backlog Epics. We'll create these epics for work that is
+["Up Next"](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/326#up-next-arrow_forward). These epics will be used to
 scope the work of what is next and will be in progress.
 
 #### Milestones
+
 We use two types of milestones that can overlap:
-1. Planned work milestones.  These correspond to the Project Epics above.  They give us a timebox in which we plan to do the work.
+
+1. Planned work milestones. These correspond to the Project Epics above. They give us a timebox in which we plan to do the work.
 We can then watch burndowns for that work.
-2. Unplanned milestones.  These are short 2 week timeboxes in which we schedule external/unplanned asks of the team that were
-not in Project Epics.  They allow us to help set a budget for the incoming requests we do in a given timebox.  
+1. Unplanned milestones. These are short 2 week timeboxes in which we schedule external/unplanned asks of the team that were
+not in Project Epics. They allow us to help set a budget for the incoming requests we do in a given timebox.
 
 #### Workflow
-* We use a [Kanban board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&label_name[]=team%3A%3ACore-Infra) to track work
-* If you assign yourself to an issue, it goes in a Milestone, gets the team::CoreInfra label. It will then appear on the Board.
-* We use a Geekbot standup daily to talk about what we are working on
-* We do Core-Infra team retros monthly async via Geekbot put into the #sre_coreinfra channel
+
+- We use a [Kanban board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&label_name%5B%5D=team%3A%3ACore-Infra) to track work
+- If you assign yourself to an issue, it goes in a Milestone, gets the team::CoreInfra label. It will then appear on the Board.
+- We use a Geekbot standup daily to talk about what we are working on
+- We do Core-Infra team retros monthly async via Geekbot put into the #sre_coreinfra channel
 
 #### Asks of the infra team and unplanned work:
+
 When external asks come in:
-* they can be commented on, but get a Workflow-Infra::triage Label to start
-* When added to the board, the should get labels ~unplanned, AssistType::x and AssistingTeam::x, and be assigned to the next
-  unplanned work milestone.
+
+- they can be commented on, but get a Workflow-Infra::triage Label to start
+- We make 2 week long milestones to have ["iterations" with the unplanned work](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?utf8=%E2%9C%93&search_title=core+unplanned&state=&sort=).  This gives us a view to map out the unplanned work coming in and approximately when we can start that work.
+- When added to the board, the should get labels ~unplanned, ~AssistType::x and ~AssistingTeam::x, and be assigned to the next
+unplanned work milestone with capacity to take on work with the ~Workflow-infra::Ready label.
 
 ### Planning
 
@@ -92,12 +103,33 @@ During the second week of a milestone, in addition to resolving any questions or
 
 #### Issue triage
 
-Issue triage starts with reviewing rollover (unplanned issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
+Issue triage starts with reviewing rollover (issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
 
 Aside from rollover issues, the remaining backlog issues will be reviewed in the following order
+
 1. Work deferred due to rollover is still accurately prioritized and scheduled in the appropriate milestone
 1. Open issues labeled `team::Core-Infra` and `workflow-infra::triage` will have an initial `core-infra::pX` priority added and move to `workflow-infra::ready`
 1. New issues labeled `team::Reliability`
+
+##### Issue weights
+
+During issue triage, we estimate the complexity of a task and time required for completion. Based on that assessment, we assign weight values according to the following matrix.
+
+| Time / Complexity | *simple* | *average* | *complex* |
+|:---:|---|---|---|
+| *<1 day* | 1 | 2 | 3 |
+| *1-2 days* | 5 | 8 | 13 |
+| *2+ days* | 15 | 20 | 40 |
+
+Point distribution/examples:
+1. Basic user management tasks would have a weight of 1; this includes resetting a user's password, provisioning a new account, adding a user's SSH key to a chef data bag, scaling a node pool, updating firewall rules, etc.
+1. Tasks of average complexity should be sized so that they can be completed within 1-1.5 days. This can account for issues that require information gathering, some final requirement validation, or data analysis before implementing a technical change. For example, reviewing a changelog for syntax changes before updating a terraform module for new syntax or new provider support.
+1. Triage and planning issues themselves should account for ~5 points of effort. Team members will each need at least a couple hours each week to review issue weights for the upcoming milestone, and participate in discussions around both issue sizing, scheduling, and relative priority. Planning team members will also spend additional time on backlog grooming, initial issue triage, and milestone planning.
+1. Most production changes will be ~5-13 points, depending on the amount of time needed for planning and testing. Taken independently, most production changes are planned, tested, and executed in less than a half day for each step, but require intense or uninterrupted focus for the duration.
+
+Anything assessed at more than a 13 should be broken down further into smaller, more manageable tasks, or prompt serious discussion within the team about why that can't be accomplished. Large tasks can be scheduled into a milestone, but some additional effort should be scheduled to account for further planning and task breakdown.
+
+Ideally milestones will be populated entirely with issues under 5 points, and for very large efforts we will spread the planning, breakdown, scheduling, and implementation of smaller, more manageable tasks across multiple milestones.
 
 #### Planning discussion
 
@@ -117,7 +149,7 @@ At the conclusion of each milestone, a retrospective issue will be created in th
 The Core-Infra team routinely uses the following set of labels:
 
 1. The team label, `team::Core-Infra`.
-1. Priority labels  `Core-Infra::P1` through `Core-Infra::P4`.
+1. Priority labels `Core-Infra::P1` through `Core-Infra::P4`.
 1. Scoped `workflow-infra` labels.
 1. Scoped `Service` labels.
 
@@ -141,9 +173,9 @@ The standard progression of workflow is from top to bottom in the table below:
 | State Label | Description |
 | ----------- | ----------- |
 | `workflow-infra::Triage` | Problem is identified and effort is needed to determine the correct action or work required. |
-| `workflow-infra::Proposal` | Proposal is created and put forward for discussion and review. <br/>SRE looks for clarification and writes up a rough high-level execution plan if required. SRE highlights what they will check and along with soak/review time and developers can confirm. <br/>If there are no further questions or blockers, the issue can be moved into "Ready". |
+| `workflow-infra::Proposal` | Proposal is created and put forward for discussion and review.<br>SRE looks for clarification and writes up a rough high-level execution plan if required. SRE highlights what they will check and along with soak/review time and developers can confirm.<br>If there are no further questions or blockers, the issue can be moved into "Ready". |
 | `workflow-infra::Ready` | Proposal is complete and the issue is waiting to be picked up for work. |
-| `workflow-infra::In Progress` | Issue is assigned and work has started. <br/>While in progress, the issue should be updated to include steps for verification that will be followed at a later stage.|
+| `workflow-infra::In Progress` | Issue is assigned and work has started.<br>While in progress, the issue should be updated to include steps for verification that will be followed at a later stage. |
 | `workflow-infra::Under Review` | Issue has an MR in review. |
 | `workflow-infra::Verify` | MR was merged and we are waiting to see the impact of the change to confirm that the initial problem is resolved. |
 | `workflow-infra::Done` | Issue is updated with the latest graphs and measurements, this label is applied and issue can be closed. |
@@ -156,16 +188,13 @@ There are three other workflow labels of importance:
 | `workflow-infra::Stalled` | Work is not abandoned but other work has higher priority. After applying this label, team Engineering Manager is mentioned in the issue to either change the priority or find more help. |
 | `workflow-infra::Blocked` | Work is blocked due external dependencies or other external factors. Where possible, a [blocking issue](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) should also be set. After applying this label, issue will be regularly triaged by the team until the label can be removed. |
 
-
 #### Priority labels
 
 The Core-Infra team uses priority labels as a means to indicate order under which work is next to be picked up. Priorities are roughly defined as:
 
-| Priority level  | Definition |
-| --------------- | ---------- |
-| `Core-Infra::P1` | Issue is blocking other team-members, or blocking other work.  As soon as possible after completing ongoing task unless directly communicated otherwise. |
+| Priority level | Definition |
+| -------------- | ---------- |
+| `Core-Infra::P1` | Issue is blocking other team-members, or blocking other work. As soon as possible after completing ongoing task unless directly communicated otherwise. |
 | `Core-Infra::P2` | Issue has a large impact, or will create additional work. |
 | `Core-Infra::P3` | Issue should be completed once other urgent work is done. |
 | `Core-Infra::P4` | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. |
-
-
