@@ -277,6 +277,9 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
+
+_It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name is usually provided for the [background check](/handbook/people-group/people-policy-directory/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name. This reiterates our Diversity, Inclusion and Belonging values and also prevents audit fails down the line when the [People Experience Associates](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) onboard the team member, and the [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) audits all personal data._
+
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
       - Is it clear how many (if any) stock options this person should receive?
@@ -299,7 +302,7 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
    1. Once the new hire's profile in BambooHR is generated, The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
-   1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops and the hiring manager.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
+   1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) are included with this email.
    1. Should the start date change after the welcome email is sent please see the required steps [here](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist can notify the People Experience team in the private Slack channel `people-exp_ces`. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date.  

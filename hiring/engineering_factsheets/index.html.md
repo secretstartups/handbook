@@ -321,7 +321,7 @@ Craig Gomes	(Engineering Manager, Memory)
 **Hiring Managers:**
 Jerome Ng (Engineering Manager, Growth:Conversion and Product Analytics)
 Bartek Marnane (Director of Engineering, Growth)
-[Product Vision page](/direction/product-analytics/)
+[Product Vision page](/direction/product-intelligence/)
 **How the team works** The overall vision for the Product Analytics group is to ensure that we have a robust, consistent and modern product analytics data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/categories/#ops-section)
@@ -576,8 +576,8 @@ Anthony Sandoval, Engineering Manager - Reliability Engineering, Secure and Prot
 Jose Finotto, Engineering Manager - Reliability Engineering, Dev and Ops
 **Useful links:**
 [Infrastructure handbook](/handbook/engineering/infrastructure/team/)
-[Site Reliability Engineer job family](/job-families/engineering/site-reliability-engineer/)
-[Database Reliability Engineer job family](/job-families/engineering/database-reliability-engineer/)
+[Site Reliability Engineer job family](/job-families/engineering/infrastructure/site-reliability-engineer/)
+[Database Reliability Engineer job family](/job-families/engineering/infrastructure/database-reliability-engineer/)
 [SRE stable counterparts and areas of ownership](/handbook/engineering/infrastructure/#sre-stable-counterparts-and-areas-of-ownership)
 
 Team vision: We are a blend of operations gearheads and software crafters that apply sound engineering principles, operational discipline and mature automation to make GitLab.com ready for mission-critical customer workloads. We strive for excellence every day by living and breathing GitLab's values as our guiding operating principles in every decision we make and every action we take. 

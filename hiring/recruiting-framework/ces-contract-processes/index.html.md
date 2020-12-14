@@ -246,6 +246,10 @@ Effective dates for a letter of adjustment should be the first (1st) of the mont
 
 The Candidate Experience Specialist needs to tag the Recruiting Operations and Insights team to have the candidate profiles merged while the candidate is in Team Interview before the candidate is in the offer stage. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
 
+## Rehires
+
+In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Experience team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
+
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn). 
 
@@ -303,7 +307,7 @@ To create the contract:
 1. CXC will inform the Candidate Experience Specialist when the contract is signed.
 1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract). See steps 10-12.
 
 
 
