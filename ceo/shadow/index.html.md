@@ -177,7 +177,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-12-07 | 2020-12-11 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  | [Kevin Chu](https://gitlab.com/kbychu) - Group Product Manager, Release, Configure, Monitor |
 | 2021-01-04 | 2021-01-08 | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
 | 2021-01-11 | 2021-01-15 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
@@ -187,6 +186,20 @@ Exceptional community members may be able to participate, as well.
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
 | 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-29 | 2021-04-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-05 | 2021-04-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-03 | 2021-05-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
+| 2021-05-17 | 2021-05-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
