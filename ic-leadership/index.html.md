@@ -33,6 +33,7 @@ more efficiently.
 
 Examples of this could be
 
+- Taking part in our [architecture process](/handbook/engineering/architecture/workflow/)
 - Implementing generic solutions to problems that can be easily reused in the future
 - Identifying commonalities to multiple problems and solving several at once
 - Sharing knowledge via trainings or presentations to boost efficiency
