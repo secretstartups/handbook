@@ -14,17 +14,6 @@ description: Refer to this page when a user has questions/issues related to tran
 
 Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com. Note the information on this page applies to both Self-Managed and GitLab.com users/products unless specifically indicated as an exception.
 
-## Issue Trackers
-
-The list of common requests/issues below is reference for internal support engineers. Unless specifically noted, utilize the following issue tracker decision table for submitting issues.
-
-| Issue Tracker |Use Case |
-|------|-------|
-| [GitLab Issue Tracker](https://gitlab.com/gitlab-org/gitlab/issues) |   Issue related to self-managed or GitLab.com functionality or backend processing  |
-| [Support Engineer Escalations](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) | CustomersDot issue which may be billing or bad data related    |
-| [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/issues) | Issue is caused specifically by something within the CustomersDot    |
-| [LicenseDot](https://gitlab.com/gitlab-org/license-gitlab-com/issues) | Issue is affecting self-managed license generation or generated licenses    |
-
 ## License Vs Subscription Explained
 
 For self managed, a license is an artefact that customers need to upload to their instance to have access to the paid features in their subscription. This doesn't exist and is not needed for Gitlab.com subscriptions.
@@ -70,10 +59,3 @@ If you want access to [CustomersDot staging](https://customers.stg.gitlab.com/cu
 Once you create a user account, you can use the [stripe test cards](https://stripe.com/docs/testing#cards) for testing.
 
 Note: access to CustomersDot staging as an admin will require an Access Request.
-
-## Additional Reference
-
-1. [Licensing and Subscription Faq](https://about.gitlab.com/pricing/licensing-faq/) _(user facing)_
-2. [Subscription Setup and Management](https://docs.gitlab.com/ee/subscriptions/) _(user facing)_
-3. [CustomersDot Admin Docs](/handbook/internal-docs/customers-admin/) _(internal audience)_
-4. [Sales Enablement Reference: GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/) _(internal audience)_
