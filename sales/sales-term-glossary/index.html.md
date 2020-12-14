@@ -191,7 +191,7 @@ The potential value of everyone worldwide that could purchase our product.
 
 ### Landed Addressable Market (LAM)
 
-A subset of TAM, the annual revenue opportuntiy of the entirety of GitLab's market within our current customer base.
+A subset of TAM, the annual revenue opportunity of the entirety of GitLab's market within our current customer base.
 The potential value of all users that could purchase our product within existing customer base.
 
 ### Customer Acquisition Cost (CAC)
