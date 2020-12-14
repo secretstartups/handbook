@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing Website Handbook"
+description: "GitLab's Marketing Website (about.gitlab.com) is led by the Inbound Marketing Team and anyone can contribute."
 ---
 
 ## On this page
@@ -492,7 +493,7 @@ It is the single source of truth for multiple pages across the website including
 - [Product pages](/product/) e.g. [continuous integration](/stages-devops-lifecycle/continuous-integration/)
 - [Pricing](/pricing/)
 - [Compare](/devops-tools/)
-- [ROI](/roi/)
+- [ROI](/calculator/)
 - [Features](/features/)
 
 To add a new feature, add a feature block to under the `features:` section of the page. Add the following attributes:
