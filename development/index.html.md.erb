@@ -128,11 +128,10 @@ The following is a non exhaustive list of daily duties for engineering directors
   * Action items in agenda documents
   * Issue boards
   * Slack channel
-* [Availability & Performance refinement](/handbook/engineering/workflow/#availability-and-performance-refinement)
+* [Performance refinement](/handbook/engineering/workflow/#performance-refinement)
   * Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
-  * [Agenda document](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit)
-  * [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev)
-  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204?label_name[]=performance-refinement)
+  * [Agenda document](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#)
+  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204)
 * Follow active [Engineering Rapid Action(s)](#rapid-action-issue) that the director sponsors
   * Standup/status update document
   * Issue board
@@ -140,12 +139,12 @@ The following is a non exhaustive list of daily duties for engineering directors
 
 ### Developing and Tracking OKRs
 
-In general, OKRs flow top-down and align to the company and upper level organization goals. 
+In general, OKRs flow top-down and align to the company and upper level organization goals.
 
 #### Managers and Directors
 For managers and directors, please refer to a good [walk-through example of OKR format](/company/okrs/#example-developments-approach-to-okrs) for developing team OKRs. Consider stubbing out OKRs early in the last month of the current quarter, and get the OKRs in shape (e.g. fleshing out details and making them [SMART](https://en.wikipedia.org/wiki/SMART_criteria)) no later than the end of the current quarter.
 
-It is recommended to assess progress **weekly**. 
+It is recommended to assess progress **weekly**.
 
 1. Append the percentage score to the subject of Objective epics and Key Result issues.
 1. Set the [Health status](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs) of epics and issues.
@@ -211,7 +210,7 @@ The shared services and components below are extracted from the GitLab [product 
 | GitLab Rails |  |  |  |  |  |
 | GitLab Shell |  |  |  |  |  |
 | HAproxy |  |  |  |  |  |
-| Jaeger |  |  |  |  |  |
+| Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
 | LFS |  |  |  |  |  |
 | Load Balancer |  |  |  |  |  |
 | Logrotate |  |  |  |  |  |
@@ -222,7 +221,8 @@ The shared services and components below are extracted from the GitLab [product 
 | Object Storage |  |  |  |  |  |
 | Patroni |  |  |  |  |  |
 | PgBouncer |  |  |  |  |  |
-| PostgreSQL |  |  |  |  |  |
+| PostgreSQL | PostgreSQL Framework and Tooling |  Centralized with Specific Team  | @Craig Gomes | [Database](https://about.gitlab.com/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
+| | GitLab Product Features |  Decentralized  | | | Examples like feature specific schema changes and/or performance tuning, etc. |
 | Prometheus |  |  |  |  |  |
 | Puma |  |  |  |  |  |
 | Redis |  |  |  |  |  |
@@ -257,7 +257,7 @@ Here is the information of a PostgreSQL query optimization bot at GitLab - Joe: 
 
 #### Frontend Masters
 
-[Frontend Masters](frontendmasters.com) allows you to advance your skills with in-depth, modern frontend engineering courses.
+[Frontend Masters](https://frontendmasters.com) allows you to advance your skills with in-depth, modern frontend engineering courses.
 
 GitLab has an account with Frontend Masters and team members can gain access to it by creating an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and select the best option for your situation ([single user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), [bulk user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Bulk_Access_Request), etc.) and, once approved by your manager, assign to the Access Request Provisioner listed in the [Tech Stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0) for this system. Once your access has been provisioned, you will receive an email to activate your account.
 
@@ -295,13 +295,9 @@ changes that are regularly introduced in the environment and the monthly
 development cadence.
 
 To reduce this, infrastructure and quality will engage development via
-[Availability & Performance
-Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1193197) which
-represents critical issues to be addressed in development from infrastructure
-and quality. Issues on this board are tagged with `gitlab.com` and `infradev`
-labels. A director from development will be assigned to refine the board, work
-with product/infrastructure/quality to set priority/severity of issues, make sure they
-are assigned and worked, and escalate where necessary for resolution.
+[SaaS Infrastructure Weekly](https://docs.google.com/document/u/1/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit) and [Performance refinement](/handbook/engineering/workflow/#performance-refinement) which
+represent critical issues to be addressed in development from infrastructure
+and quality.
 
 Refinement will happen on a weekly basis and involve a member of infrastructure,
 quality, product management, and development.

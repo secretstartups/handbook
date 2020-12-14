@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure, Composition Analysis
+description: "The Composition Analysis group at GitLab is charged with developing solutions which perform Dependency Scanning and License Compliance."
 ---
 
 ## On this page
@@ -12,8 +13,8 @@ title: Secure, Composition Analysis
 ## Composition Analysis
 
 The Composition Analysis group at GitLab is charged with developing solutions which perform
-[Dependency Scanning](((/direction/secure/composition-analysis/dependency-scanning/))),
-and [License Compliance](((/direction/secure/composition-analysis/license-compliance/))).
+[Dependency Scanning](/direction/secure/composition-analysis/dependency-scanning/),
+and [License Compliance](/direction/secure/composition-analysis/license-compliance/).
 See [the exhaustive list of projects](#projects) the group maintains.
 
 ## Common Links
@@ -80,9 +81,9 @@ You can leverage quick actions to add the necessary labels.
     /label ~"Category:License Compliance"
     /label ~"Category:SAST"
 
-It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](handbook/engineering/security/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
+It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](handbook/engineering/security/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
 
-If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](handbook/engineering/development/secure/#stable-counterparts) section, or ping them on slack.
+If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) section, or ping them on slack.
 
 ### Community contributions triaging process
 

@@ -10,6 +10,11 @@ description: The Ecosystem BE team is responsible for the backend engineering wo
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+<!-- Common Links -->
+[engineering workflow]: /handbook/engineering/workflow/
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[#g_ecosystem]: https://gitlab.slack.com/archives/g_ecosystem
+
 ## About
 
 The Ecosystem Backend team is a part of the [Ecosystem Group](/handbook/engineering/development/dev/ecosystem/) group in the [Create Stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
@@ -22,80 +27,57 @@ Slack Channel (internal): [#g_ecosystem-be](https://gitlab.slack.com/archives/C0
 
 <%= direct_team(manager_role: 'Backend Engineering Manager, Ecosystem') %>
 
+## OKRs
+
+Each quarter we have a series of Objectives and Key Results (OKRs) for our team. To find the current OKRs for this quarter, use [this issue list](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OKR&label_name[]=group%3A%3Aecosystem&label_name[]=backend).
+
 ## Metrics
 
-You can find our team metrics in the [Ecosystem BE Metrics Dashboard](https://app.periscopedata.com/app/gitlab/741726/Ecosystem-BE-Metrics)
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/metrics.erb") %>
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 741726, chart: 9701945, embed: 'v2') %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
+## Work
 
-## Process
+In general, we use the standard GitLab [engineering workflow]. To get in touch with the Ecosystem BE team, it's best to create an issue in the relevant project (typically [GitLab]) and add the `~"group::ecosystem"` and `~backend` labels, along with any other appropriate labels. Then, feel free to ping the relevant Product Manager and/or Engineering Manager.
 
-### Issue boards
+For more urgent items, feel free to use [#g_ecosystem] on Slack.
+
+[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createecosystem-group)
+
+### Collaborating with Counterparts
+
+You are encouraged to work as closely as needed with stable counterparts including our PM. We should be sure to include documentation, UX, quality engineering, and application security in the planning process.
+
+Quality engineering is included in our workflow via the [Quad Planning Process](/handbook/engineering/quality/quad-planning/).
+
+### What to work on
+
+<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Ecosystem", slack_channel: 'g_ecosystem' }) %>
+
+[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem
+[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2168283
+
+### Issue Boards
 
 The work for the Ecosystem Backend team can be tracked on the following issue boards:
 
-- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&utf8=%E2%9C%93&label_name%5B%5D=backend&label_name%5B%5D=group%3A%3Aecosystem&milestone_title=%23started) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
+- [Ecosystem BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Aecosystem&label_name[]=backend) - Tracks the workflow progress of issues
+- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
+- [Deliverable Board]([issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem) - Tracks `~Deliverable` and `~Stretch` issues
 
-### Issue Labels
+### Workflow labels
 
-To organize, plan, and track our work, we use the following sets of labels:
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::ecosystem' }) %>
 
-- Use `workflow` labels as defined in [the handbook](https://about.gitlab.com/handbook/product-development-flow). These labels help increase transparency into the current state of each issue. As an engineering team, we will typically use the following labels during development:
-  - `workflow::ready for development`
-  - `workflow::in dev`
-  - `workflow::in review`
-  - `workflow::verification`
-- Use `Deliverable` label and `Stretch` labels as defined in [the handbook](https://about.gitlab.com/handbook/product/interpreting-release-dates.html#intepreting-issue-states). These labels show what we have committed to for a given milestone.
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
 
 ### Backlog Refinement
 
-Every week the backend engineering team completes a backlog refinement process to review upcoming issues and provide weights so the issues can be planned and scheduled for upcoming milestones.
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/backlog_refinement.erb") %>
 
-This process happens in three steps over the course of one week.
+### Retrospectives
 
-#### Step 1: Identifying Issue for Refinement
-
-Every Wednesday the engineering manager will identify issues that need to be refined the following week. On average we will try to refine 3-6 issues per week. When picking issues to refine, here are some places to look:
-
-- [Issues that have been recently updated but have no weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None)
-- [Issues that are scheduled for the next milestone with no weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None&milestone_title=13.8)
-- [Backend Performance issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None&label_name[]=backend&label_name[]=performance)
-- [Backend bugs](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None&label_name[]=backend&label_name[]=bug)
-- [Application Limits](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None&label_name[]=backend&label_name[]=Application%20Limits)
-- [All backend issues without weight](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aecosystem&weight=None&label_name[]=backend)
-
-Once identified, the engineering manager will apply the `Backlog Refinement::Ecosystem` and `workflow::planning breakdown` label, which will indicate the issues are ready for refinement.
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/retrospectives.erb") %>
 
 
-#### Step 2: Refining Issues
-
-Over the couse of the next week, each backend engineer on the team will look at the list of issues selected for backlog refinement:
-
-[Current backlog refinement issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Backlog%20Refinement%3A%3AEcosystem)
-
-For each issue, each team member will review the issue and provide the following information:
-
-- Estimated weight
-- Documentation that needs to be updated
-- Testing that needs to take place
-- Any security concerns
-- How you would use iteration to break down the issue into MRs
-
-During this process the issue description should be updated as more information is gathered.
-
-#### Step 3: Finalizing Refinement
-
-On the following Wednesday, after engineers have had a chance to provide input, the engineering manager will use the input to update the following information:
-
-- Apply a final weight. This could be the average of weights provided by the engineers, but the final decision is up to the engineering manager
-- Backend engineers update the description of the issue as needed to add information the came up during the refinement process
-- Inform stable counterparts if there are any testing or security concerns
-- Remove the `Backlog Refinement::Ecosystem` label and change the `workflow::planning breakdown` label to be `workflow::scheduling`
-
-For any issues that were not discussed and given a weight, the engineering manager will work with the engineers to see if we need to get more information from PM or UX.
