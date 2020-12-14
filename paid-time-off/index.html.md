@@ -89,6 +89,12 @@ Communicate broadly when you will be away so other people can manage time effici
    * Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
    * Note - remove the vacation delegate after your PTO
 
+### Returning from PTO
+
+Returning from PTO of any length can feel overwhelming. Consider implementing these stratgies when returning from time off in order to make the most of the rest and reflection you've been able to achieve.
+
+1. Recognize that [rest and time off is productive](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive). Upon returning from PTO, don't feel rushed to catch up on everything right away. Remember that[it's impossible to know everything](https://about.gitlab.com/handbook/values/#its-impossible-to-know-everything). Taking time off provides opportunity to reflect and think about the bigger picture of your contributions. When you're back to work, consider setting aside the first few days to return to the projects you were working on and take action based on these reflections before catching up on all missed emails and Slack messages. In our [interview about managing burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive), John Fitch described this approach as spending time working _on_ your projects, rather than _in_ your projects. 
+
 ### Sick Time - Taking and Reporting
 
 In keeping with our [values](/handbook/values/) of freedom, efficiency, transparency, kindness, and boring solutions, we have crafted the following protocol around sick time for all GitLab team-members.
