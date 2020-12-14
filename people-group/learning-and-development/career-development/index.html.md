@@ -132,8 +132,6 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 ### Performance Enablement Review
 
 Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
-
-These meetings may include their [Executive Stable Counterpart](/handbook/board-meetings/#executive-stable-counterparts) and their [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to provide guidance and feedback as part of this conversation.
  
 The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#). 
 
