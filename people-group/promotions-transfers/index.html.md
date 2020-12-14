@@ -429,7 +429,7 @@ Relevant items that can assist include:
 * Staffing allocation plans
 * Expected impact or success criteria
 
-Realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
+When possible, realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
 
 ##### Realignment Process
 
