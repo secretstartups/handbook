@@ -77,7 +77,7 @@ A team member **looking for the next issue to work on** should look at:
 ### Issues and definition of done:
 We use the following [definition of done](https://www.agilealliance.org/glossary/definition-of-done). Your contribution is not done until you have made sure it meets all of the requirements stated in the issue/epic _Acceptance Criteria_ section, as in this basic [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10451).
 
-Please make sure you include this section in every issue/epic you create. Worst case this section has to be there strictly before the issue is being worked/progressed. And also make sure the checkboxes are ticked before you call the issue/epic "done".
+Every issue/epic must include this. If at the time of creation the criteria is not clear, or if the issue is being created by an external reporter from whom we don't expect that level of specificity, the definition of done should be included before starting work on the issue/epic. Make sure all the checkboxes are ticked before you call the issue/epic "done".
 
 ### Iteration planning: 
 Our fortnight planning process looks like this:
