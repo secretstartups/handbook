@@ -310,8 +310,8 @@ GitLab has a number of compliance courses and resources. Explore the drop downs 
 | Training     | Tool  | Frequency   |  Responsible Team   | 
 |---------|-----------------|------------------|------------------|  
 | Anti-Harassment Training    | WILL Interactive | Varies based on Location | Learning & Development | 
-| Security    | KnowBe4 | Yearly | Security | 
-| Compliance Training    | Navex | Yearly | Legal | 
+| Security    | KnowBe4 | Annual | Security | 
+| Compliance Training    | Navex | Annual | Legal | 
 
 <details>
   <summary markdown='span'>
