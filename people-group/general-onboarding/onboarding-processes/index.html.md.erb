@@ -176,9 +176,9 @@ The People Experience Associate will create the GSuite account first.
 
 ### **Google Suite Account Creation**<a name="Google"></a>
 
-1. Log into the Google Admin console and click on the Users tile.
 1. People Experience Associates create email addresses for new team members using the convention of `firstinitiallastname@gitlab.com`. To make sure that we create new GitLab.com GSuite emails according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
-1. Before creating the email account, verify that the proposed email is not conflicting with a current account. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address.
+1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in GSuite Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. Check the email within the Admin GSuite Console. 
+1. Add the email address to the BambooHR profile under work email. The Okta and BambooHR sync will then create the email address automatically in GSuite. 
 
 Examples:
   * If a team member's legal name is "Joseph D. Doe" but their application and emails are signed "Joe Doe", then we create the GitLab email as Joe Doe, `jdoe@gitlab.com`.
@@ -221,7 +221,7 @@ If a new team member has already been marked as hired in Greenhouse and the sync
 1. **Locality:** ([geo area](/handbook/total-rewards/compensation/compensation-calculator/#geographical-areas), country). This information should be visible in the offer details. If you have any questions, please reach out to the Total Rewards team.
   * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
 1. **Region:** If not: the three options are Americas, EMEA, or JAPAC.
-1. **Work Email** Add the GitLab email created previously in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created.
+1. **Work Email** Add the GitLab email created previously in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created. Once added, this will sync from BambooHR to Okta and allow the team member to access their Google Mail via Okta. 
 
 #### Jobs Tab
 
@@ -238,7 +238,7 @@ If a new team member has already been marked as hired in Greenhouse and the sync
    * Employee-PEO - Employe employed via a Professional Employer Org
    * Contractor-PEO - Contractor contracted via a Professional Employer Org
 1. **Exception to IP Agreement:** Not filled in by the sync.
-   * Enter Yes if they answered Yes in the PIAA section of their contract. Send an email to VP of Engineering and VP of Product for approval, include the following information:
+   * Enter Yes if they answered Yes in the PIAA section of their contract. Send an email to VP of Engineering, VP of Product and VP of Legal (Employment) for approval, include the following information:
        - Team Member Name
        - Job Title
        - Information listed by the team member, this information should be specific and not a general web address.
@@ -266,8 +266,7 @@ If a new team member has already been marked as hired in Greenhouse and the sync
    * **Frequency:** at which the variable component is paid out. This can be found in the contract and in the BambooHR Calculator tab "Frequency"
 1. **Currency Conversion**
    * **Effective Date:** Hire date for new hires.
-   * **Exchange Rate Effective Date:** is either January 1 or July 1, whichever is more recent. Every January and July, the Total Rewards Analyst will conduct a currency conversion for all team members.
-     * Due to the current economic climate, we will continue to use January 1st rates for currency conversion until further notice. July 1 is currently being used as the Exchange Rate Effective Date.
+   * **Exchange Rate Effective Date:** is either December 1 or June 1, whichever is more recent. Every December and June, the Total Rewards Analyst will conduct a currency conversion for all team members.
    * Use [Oanda](https://www.oanda.com/currency/converter/) for the currency conversion. Always convert the currency from local currency into USD so that we remain consistent. Let Total-Rewards know if there is a difference between Oanda and the BambooHR Calculator
    * **Currency Conversation:** enter factor from Oanda with all 5 decimal places.
    * **Local Annual Salary** with the appropriate currency code and the converted salary in USD.
@@ -358,50 +357,40 @@ The People Experience Associate will then create an onboarding issue with a Chat
 1. Copy and paste the link into the People Exp/Ops Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Experience and People Operation Specialist Teams due to personal information.
 1. If you are part of the People Experience team, IT Ops team, new team members's manager or onboarding buddy please note there are additional steps to complete directly in the new hire's onboarding issue in the 'Before Starting at GitLab' section.
 
+## People Experience Pre-Start Onboarding Tasks
+
+### Update BambooHR self-service option for the team member
+
+Once you have logged into BambooHR, locate the team members profile, go to top right corner, and set access level to **"Employee Self-Service"**. This should only be completed one day prior to the team members start date. 
+
 ### Request Signature for Code of Ethics Acknowledgment
 
-Each assigned People Experience Associate will send their new team members our Code of Ethics Acknowledgment for review and signature.
+Each assigned People Experience Associate will send their new team members our Code of Ethics Acknowledgment for review and signature. 
 
 1. In BambooHR, go to the Files section.
 1. Be sure you are in the Signature Templates section.
 1. To the right of the Code of Ethics Acknowledgment 2020, click on the triangle to the right of the gear icon and click Request Signature.
 1. Choose "Send a signature request to: Only some people"
-1. Type in the name of your assigned team members. Please note that an employee must have access to BambooHR in order for us to request a signature, and our team members only get access Day 1.
+1. Type in the name of your assigned team members. Please note that self-service option needs to have been activated in BambooHR in order for us to request a signature.
 1. Message to Signers: Dear new team member, we are so happy you are part of the GitLab team. Please take a moment to sign this document. Thank you!
 1. Click Send Request.
-1. On a bi-weekly basis, set a reminder to go to the Signed Documents link of the Reports section in BambooHR.
+1. The People Experience Associate in the respective [bi-weekly rotation](https://about.gitlab.com/handbook/people-group/people-experience-team/#bi-weekly-rotations) will check to see whether the team members that started during those weeks have signed the Code of Ethics Acknowledgment.  
 1. Click on Code of Conduct Acknowledgment.pdf and notice the team members who were sent the document and have still not signed.
 1. If a team member was sent the document for signature or reminder over 2 weeks in the past, click the Bell icon on their line at the far right. Clicking on the bell will send them a notification to sign.
 
-## Day 1 Onboarding Tasks
+## People Experience Day 1 Onboarding Tasks
 
-- The new team member will automically recieve an "Welcome to Onboarding" email. The People Experience team will be CCd on this process. More information about this email is [here.](handbook/people-group/engineering/email-automation/)
+### Onboarding Welcome Email
 
-- **Update BambooHR self-service option for the team member<a name="self-service"></a>
+The new team member will automically recieve a "Welcome to Onboarding" email. The People Experience team will be CCd on this process. More information about this email automation can be found [here](https://about.gitlab.com/handbook/people-group/engineering/email-automation/#onboarding-email). The team member will follow the instructions in the welcome email to access Okta and their GSuite account (this is no longer a manual process).
 
-Once you have logged into BambooHR, locate the team members profile, go to top right corner, and set access level to **"Employee Self-Service"**.
-
-- **Send password reset email**<a name="request-code"></a>
-
-<i><b>Important:<b><i> This email can only be sent a maximum of 48 hours prior to the new team member's start date/time. If it is sent more than 48 hours prior the link will no longer be valid. (I.E. If a new team member is starting on Monday, the earliest the People Experience Associate can send this email is on Saturday).
-
-1. The assigned People Experience Associate should access the [Google Admin Console](https://admin.google.com/ac/users) and search for the new team member's GitLab email address.
-1. Once on the new team member's profile, click `reset password` on the lefthand side of the page.
-1. Click `reset`
-1. Click `email password`
-1. The People Experience Associate should insert their email address and click `send` (do not insert the new team member's email address here).
-1. Once the email is received, the People Experience Associate should forward to the new team member's `personal email address`. Please add the new team member's GitLab email address in the body of the email where it says "Hello [new team member name], [_____@gitlab.com].
-
-
-- **Invite to swag store**<a name="swag-store"></a>
-
-
+### New Hire Swag Email
 
 The "New Hire Swag" email is [automatically](https://about.gitlab.com/handbook/people-group/engineering/email-automation/#swag-email) sent to the new hire on their first day with GitLab, with people-exp @gitlab.com cc'ed in the email. The email will state that the team members need to access the [GitLab Swag Store](https://shop.gitlab.com/), choose goods and use the new hire discount code provided in the email at checkout. New hires must use their GitLab email at checkout.
 
 The People Experience Associates assigned to the respective team members onboarding is responsible for ensuring that the email is successfully sent on Day 1 and will be checked off in the onboarding issue as part of the tasks list.
 
-- **Add to Moo**<a name="moo"></a>
+### Invite to Moo
 
 We expect every team member to be an advocate for GitLab and we offer every team member the opportunity to have business cards, to make GitLab feel real to people around them despite not having an office.
 
@@ -409,18 +398,15 @@ Every week, the assigned People Experience Associate pulls a report, which will 
 
 Business cards should be ordered by the team member themselves using the Moo platform. Self-help instructions are [here](/handbook/people-group/frequent-requests/#business-cards).
 
-#### Create Interview Training Issue
+### Create Interview Training Issue
 
-1. The Interview Training Issue will be created automatically with the pops command. [Information about this automation.](/handbook/people-group/engineering/employment-issues/#interview-training--becoming-a-manager)
+1. The Interview Training Issue will be created automatically one week after the team members start date. [Information about this automation](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/#interview-training--becoming-a-manager).
 2. This task is _only applicable for new team members that are people managers_.
-3. The People Experience Associate who is assigned to the new team member's onboarding issue will need to go into the Manager Issue and assign the issue to the new team member.
 
+### Create Becoming a GitLab Manager Issue
 
-#### Create Becoming a GitLab Manager Issue
-
-1. This task is _only applicable for new team members that are people managers_.[Information about this automation.](/handbook/people-group/engineering/employment-issues/#interview-training--becoming-a-manager)
-2. the Manager Issue will be created automatically with the pops command.
-3. The People Experience Associate who is assigned to the new team member's onboarding issue will need to go into the Manager Issue and assign the issue to the new team member.
+1. The Becoming a Manager Issue will be created automatically one week after the team members start date. [Information about this automation](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/#interview-training--becoming-a-manager).
+2. This task is _only applicable for new team members that are people managers_.
 
 ## Compliance and Ownership
 The People Experience Team is responsible for monitoring and facilitating the completion of the onboarding issue.

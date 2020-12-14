@@ -11,7 +11,7 @@ title: "Group Conversations"
 
 ## Introduction
 
-Group Conversations are optional recurring meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). 
+Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Meeting](/handbook/finance/key-meetings/#invitees) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
 
 The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please submit a merge request to this page. 
 
@@ -102,7 +102,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides.
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Meetings should not create a new deck for a Group Conversation but should use their [Key Meeting deck](handbook/finance/key-meetings/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
 
@@ -237,7 +237,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Three  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Three  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Three  | Wed  | [People](/handbook/people-group/)  | Wendy Barnes  |
 | Three  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
@@ -257,7 +257,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Six  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Seven  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
 | Seven  | Tue  | [Support](/handbook/support/)  | Tom Cooney  |
-| Seven  | Wed  | [People](/handbook/people-group/)  | Carol Teskey and Dave Gilbert  |
+| Seven  | Wed  | [People](/handbook/people-group/)  | Wendy Barnes |
 | Seven  | Thur  | [Finance](/handbook/finance/)  | Brian Robins  |
 | Seven | Fri | Do Not Schedule  | Do Not Schedule  |
 | Eight | Mon  | [Product](/handbook/product/) |Scott Williamson|

@@ -205,7 +205,7 @@ Our goal is to have the whole company use the the Matrix [Assessment Tool](https
 ## Identifying Action 
 
 There is an overview of recommended actions to take after the calibration session included in the [Performance/Potential Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g88f412eeb7_1_13) from slide 26- 35. Additionally, this matrix can facilitate: 
-* [Career Development Conversations](https://about.gitlab.com/handbook/people-group/leadership-toolkit/career-development-conversations/)
+* [Career Development Conversations](https://about.gitlab.com/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 * Promotion planning 
 
 ## Timeline
@@ -224,7 +224,7 @@ While there are exceptions, this is the general rule of thumb.
 
 ### Initial Launch Timeline
 
-GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the exericse is as follows:
+GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the Performance Factor exericse is as follows:
 
 *September*
 * 2020-09-30: Review and iterate based on feedback provided in the [issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/965)
@@ -247,22 +247,11 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 *December*
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
 * 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
-* 2020-12-14: Communication training and guidance shared with managers
+* 2020-12-15: Program approval and communication guidance shared with managers
 * 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
 
 *January*
-* 2021-01-07: Manager Review to [Open in Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas)
-* 2021-01-11 and 2021-01-12: Manager Review Training to be scheduled and run by Total Rewards/PBPs on how to use Compaas and think about increases for team members
-* 2021-01-22: Manager Review to close in Compaas
-* 2021-01-27: E-group leaders to confirm and approve Manager Review output
-* 2021-01-29: Final day to for managers to communicate Performance Factor result to team members
-
-*February*
-* 2021-02-01: Performance factors viewable to team members in BHR on the "Job" tab of a team member's profile
-* 2021-02-01: Annual compensation review changes are effective, approved, and in BambooHR (increase amounts will be visible to team members on 2021-02-15 so managers have an opportunity to communicate prior)
-* 2021-02-04: Total Rewards to upload all approved changes to BHR for payroll to process
-* 2021-02-08 _through_ 2021-02-12: Managers communicate salary increases to team members
-* 2021-02-15: Salary increases visible to team members in BambooHR
+* In January the Performance factors feed into the Annual Compensation review. Review the timeline for that process on the Annual Compensation Review page, [here](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline). 
 
 ### Matrix Assessment Timeline 
 
@@ -294,7 +283,7 @@ After calibration sessions are done and performance factors are determined, it�
     * Provide specific examples for both strengths and improvement areas. The [SBI](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation - Behavior - Impact) model can be effective for delivering examples structured in a way that makes impact clear to team members. 
     * Think about recommendations and/or focus areas for a team member’s development
 
-_To help facilitate the conversations we have put together a [Performance Review Template])(https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
+_To help facilitate the conversations we have put together a [Performance Review Template](https://docs.google.com/document/d/1XT1l1STUBilDdVGHXlCcmSE5ApxwVqO1Ln4Wk8e1Fpk/edit) which can be shared with the team member. The use of the template is highly recommended, but optional._
 
 1. **Schedule a separate call or repurpose your [1:1](https://about.gitlab.com/handbook/leadership/1-1/) to discuss a team member’s performance factor**. The performance factor should be communicationed at the beginning of the meeting. This allows the team member time to ask questions, discuss their assessment, and most importantly, determine next steps.
 
@@ -372,7 +361,7 @@ This change will impact both team members and managers.
 
     If you have any questions, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
-### Performance/Potential Communication FAQs:
+#### Performance/Potential Communication FAQs:
 * **Q:** “Can my performance factor be changed?”
 * **A:** At this point, the performance factor cannot be changed. You should work with your manager to develop a plan to develop your performance for future assessments. We plan to evaluate performance factors every 6 months.
 * **Q:** “Does this mean I am getting an X% increase in the upcoming Annual Salary Review?”
@@ -394,6 +383,8 @@ Regardless if your organization assessed potential, it is ok for you to discuss 
 * **A:** If your organization did decide to assess and communicate potential ratings, your potential factor cannot be changed. You should note that at this point in time, the potential factor does not tie to any other programs (like the Annual Compensation Review) so this would be an opportunity for you and your manager to align on how you see your growth opportunity and how that compares to their assessment. This discussion can be an input into your career development discussion. 
 * **Q:** “What can I do to change my potential rating in the future?”
 * **A:** There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
+* **Q:** “My team member is currently on a performance remediation plan; how should I handle?”
+* **A:** You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
  
 
 ## Succession Planning

@@ -57,7 +57,7 @@ If you have questions as you work your way through this checklist please ask the
 
 #### Coaching remote work practices
 
-Do not assume that team members understand good remote work practices. GitLab managers are [expected](/company/team/structure/#management-group) to [coach](/handbook/people-group/learning-and-development/career-development/coaching/) their reports to utilize [asyncronous communication](/company/culture/all-remote/management/#asynchronous), be [handbook-first](/handbook/handbook-usage/#why-handbook-first), design an [optimal workspace](/company/culture/all-remote/workspace/), and understand the importance of [self-learning and self-service](/company/culture/all-remote/self-service/). 
+Do not assume that team members understand good remote work practices. GitLab managers are [expected](/company/team/structure/#management-group) to [coach](/handbook/leadership/coaching/) their reports to utilize [asyncronous communication](/company/culture/all-remote/management/#asynchronous), be [handbook-first](/handbook/handbook-usage/#why-handbook-first), design an [optimal workspace](/company/culture/all-remote/workspace/), and understand the importance of [self-learning and self-service](/company/culture/all-remote/self-service/). 
 
 Leaders should ensure that new remote hires read a [getting started guide](/company/culture/all-remote/getting-started/), and make themselves available to answer questions throughout one's journey with the company. 
 

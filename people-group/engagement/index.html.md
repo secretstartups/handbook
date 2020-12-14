@@ -14,19 +14,14 @@ description: "GitLab uses engagement surveys to allow team members to provide fe
 
 Team member engagement is important to the overall continued success of GitLab.  Engagement strategies have been shown to reduce attrition, improve productivity and efficiency, enhances the company values and enhanced job satisfaction.  One of the ways that GitLab tracks team member engagement is through the bi-annual Team Member Engagement Survey administered by CultureAmp.  Engagement surveys are an important tool that gives team members an opportunity to provide feedback.  It also allows GitLab leadership to gain insight into what is important to team members.  
 
-## October 2019 Engagement Survey results 
+## 2018 GitLab overall results
 
+In October 2018 GitLab launched it's annual enagement survey via CultureAmp.  The survey was benchmarked against 2018 New Tech - Mid Size Companies (200-500 team members).   
 
-87% of the GitLab Team participated in the Engagement Survey in October 2019.  
-GitLab had an Overall Favorable score of 88% - up slightly from 83% in 2018.
-[Overall Engagement Survey results slide](https://docs.google.com/presentation/d/19ZkIizrtEMmmOqMkIPTU2VxU01mKvArYoVPMmdXXdFs/edit#slide=id.g4792064fe5_0_4).
+* 94% participation rate
+* Overall engagement scores - 83% favorable, 12% neutral and 5% unfavorable
 
-The E Group has chosen to focus on the following 3 areas over the next 8 weeks (the results were releases on November 12, 2019):
-* Taking action from the survey
-* Team member development 
-* Total Compensation
-
-The survey consisted of 46 questions divided into the following sections:
+The survey consists of 46 questions divided into the following sections:
 
 * GitLab Overall
 * Company Confidence
@@ -41,7 +36,7 @@ The survey consisted of 46 questions divided into the following sections:
 
 ## Benchmark and reporting
 
-The 2019 survey will be benchmarked against New Tech Mid Size Companies (500+ team members).  The survey is completely anonymous! There are no names collected with any responses or comments.  
+The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ team members).  The survey is completely anonymous! There are no names collected with any responses or comments.  
 
 # Results
 
@@ -51,15 +46,6 @@ The 2019 survey will be benchmarked against New Tech Mid Size Companies (500+ te
 * Functional results engineering, sales, etc will be made available to the entire company to review.
 
 For those that participate in future survey's, please note, once you hit submit you are unable to go in and edit your answers or add additional comments. It will show that you have completed the survey. Please use the "save and exit" option until you are ready to submit your final answers.
-
-
-## 2018 GitLab overall results
-
-In October 2018 GitLab launched it's annual enagement survey via CultureAmp.  The survey was benchmarked against 2018 New Tech - Mid Size Companies (200-500 team members).   
-
-
-* 94% participation rate
-* Overall engagement scores - 83% favorable, 12% neutral and 5% unfavorable
 
 # Highest 3 Scores
 
@@ -87,7 +73,20 @@ In October 2018 GitLab launched it's annual enagement survey via CultureAmp.  Th
 
 
 
-The survey consists of 46 questions divided into the following sections:
+## October 2019 Engagement Survey results 
+
+87% of the GitLab Team participated in the Engagement Survey in October 2019.  
+GitLab had an Overall Favorable score of 88% - up slightly from 83% in 2018.
+Overall engagement scores - 88% favorable, 9% Neutral and 3% unfavorable
+Feel free to follow the [2019 Team Member Engagement Survey Plan](https://gitlab.com/gitlab-com/people-group/General/-/issues/503)
+[Overall Engagement Survey results slide](https://docs.google.com/presentation/d/19ZkIizrtEMmmOqMkIPTU2VxU01mKvArYoVPMmdXXdFs/edit#slide=id.g4792064fe5_0_4).
+
+The E Group has chosen to focus on the following 3 areas over the next 8 weeks (the results were releases on November 12, 2019):
+* Taking action from the survey
+* Team member development 
+* Total Compensation
+
+The survey consisted of 46 questions divided into the following sections:
 
 * GitLab Overall
 * Company Confidence
@@ -123,10 +122,6 @@ Quick tips on Culture Amp and exporting reports or utilizing the tool.
 * Filtering: On the far left side you will see +Add Filter.  This option will allow managers and leaders to view results based on various demographics like tenure, division and department.
 * Take Action:  Managers do have the option to build an action plan and track progress via CultureAmp based on their results.  
 
-## 2019 GitLab overall results
-
-*  87% overall participation rate
-*  Overall engagement scores - 88% favorable, 9% Neutral and 3% unfavorable
 
 ## Highest 3 scores
 
@@ -147,8 +142,28 @@ Quick tips on Culture Amp and exporting reports or utilizing the tool.
 *  Total compensation
 
 ## 2020 Engagement Survey Dates
-We are opening the survey from 16th November 2020 to 15th December 2020. The link to the Survey will be sent to you via email from Culture Amp.
+We are opening the survey from 16th November 2020 to 15th December 2020. The survey will be made available to current team members who joined on or before 31st October 2020. The link to the Survey will be sent to you via email from Culture Amp.
 
-Please feel free to reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
+Feel free to follow the [2020 Engagement Survey Plan](https://gitlab.com/gitlab-com/people-group/General/-/issues/931) 
+
+Please reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
+
+
+## Benchmark and reporting
+
+
+# Results
+
+
+## Reporting
+
+
+## Highest 3 scores
+
+
+## Lowest 3 Scores
+
+
+## 2020 E Team focus areas
 
 

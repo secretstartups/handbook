@@ -154,7 +154,7 @@ Interested in what other mentorship opportunities exist at GitLab? Check out the
 
 **The Reverse AMA format** - Questions asked by a facilitator (typically a member of the leadership team), answered by the group.
 
-In Sales, we piloted this format with our Black team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing a lot of emotions in different ways as a result of domestic and global events. Our [values](/handbook/values/) promote being inclusive and being an [ally](/handbook/communication/ally-resources/), and we need to lean into these values.
+In Sales, we piloted this format with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this underrepresented group to acknowledge that our Black team members may be processing emotions in different ways, in response to domestic and global events. Our [values](/handbook/values/) promote being inclusive and being an [ally](/handbook/communication/ally-resources/), and this is a direct and engaging approach to support those values.
 
 **Benefits**
 * Improve efforts at driving inclusion and belonging at every level
@@ -177,8 +177,7 @@ In Sales, we piloted this format with our Black team members. We wanted to start
 * A 50 minute closed Zoom call
 * Attendees: CRO and interested Sales Team members who identify as Black
 * Questions asked by CRO, answered by Black Sales team members
-* Call will be hosted by People Business Partners
+* Call hosted by People Business Partners
 
 **Schedule**
-* Thursday, July 23rd, 2020 / 1:30pm - 2:20pm ET
-* Thursday, October 22nd, 2020 / 1:00pm - 1:50pm ET
+* Quarterly

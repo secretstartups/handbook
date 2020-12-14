@@ -100,8 +100,6 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <b>The upcoming Live Learning schedule is as follows:</b>
 
 <ul>
-<li>November - One Week Challenge - Psychological Safety (2020-11-16 - 2020-11-20)</li>
-<li>December - Introduction to Coaching (2020-12-03)</li>
 <li>January - 3 Week Manager Challenge</li>
 </ul>
 
@@ -123,6 +121,8 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 <li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li>
 <li>September - <a href="/handbook/people-group/learning-and-development/manager-challenge/#pilot-program">Manager Challenge Pilot</a></li>
 <li>November - <a href="https://www.youtube.com/watch?v=WZun1ktIQiw">Belonging</a></li>
+<li>November - <a href="/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge">One Week Challenge - Psychological Safety</a></li>
+<li>December - <a href="/handbook/leadership/coaching/#introduction-to-coaching-1">Introduction to Coaching</a></li>
 </ul>
 
 <b>2019</b>
@@ -155,7 +155,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 ### GitLab Mini and Extended Challenges
 
-All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. 
+All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. In November of 2020, we launched a [One Week Challenge on Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge). 
 
 **Sample structure of a challenge:**
 - Length of challenge: 1 week (But can be for as long as 4 weeks)
@@ -295,9 +295,9 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 </figure>
 
 
-## Learning Experience Platform (LXP) 
+## [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
 
-We are currently in the process of implementing the [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-groundworks). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
+We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn). This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 
 We are also in the process of evaluating several content libraries to accompany the LXP to provide curated and off-the-shelf courses for our team members. The content will be supplemental to GitLab customized content and apply a [
 Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/)

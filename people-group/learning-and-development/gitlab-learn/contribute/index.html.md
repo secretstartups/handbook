@@ -1,9 +1,16 @@
 ---
 layout: handbook-page-toc
-title: Contribute to GitLab Groundworks
+title: Contribute to GitLab Learn
 ---
 
-# Contribute to GitLab Groundworks
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+# Contribute to GitLab Learn
 
 ## Handbook First Learning Content
 
