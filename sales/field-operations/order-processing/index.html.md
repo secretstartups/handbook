@@ -378,8 +378,8 @@ If GitLab agrees to customized subscription terms with a customer, all quotes, S
  
 To update the terms of a quote, follow these steps:
 1. Delete the reference in the quote to GitLab’s URL terms.  
-1. Replace the reference with the following language - “By accepting this Quote, you and the Entity that you represent (collectively, “Customer”) unconditionally agree to be bound by and a party to the GitLab Subscription Terms executed between Customer and GitLab on mm/dd/yyyy.”
-1. Insert the date that the customized agreement was signed.  
+1. Replace the reference with the following language - “By accepting this Quote, you and the entity that you represent (collectively, “Customer”) unconditionally agree to be bound by and a party to the GitLab Subscription Agreement signed by Customer and GitLab with an effective date of mm/dd/yyyy.”
+1. Insert the effective date of the customized agreement signed by both parties. The effective date should be set forth in the agreement, but if not specifically set forth, use the date the last party signed.  
 
 #### Adding Custom Terms to a Quote
 
