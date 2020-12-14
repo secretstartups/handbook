@@ -88,6 +88,7 @@ While all of these fields can be updated and changed anytime as an opportunity e
     - **Win** - The technical evaluation has ended, and the prospect or customer agrees the GitLab solution meets their requirements.
     - **Loss** - The technical evaluation has completed, but the prospect or customer is choosing an alternative solution or not changing their current process due to deficiencies with the evaluated GitLab solution.
     - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation-related activities for at least two weeks.
+- **SA Validated Tech Evaluation Close Details** - The close details are to include a short 1-2 line description of the Close Status
 
 Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the soltuion, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is mimimal.
 
@@ -151,3 +152,21 @@ Email communication with customers can be recorded in Salesforce within the acco
 
 - Question: Should I also be adding calls to Salesforce using the Salesforce specific Google calendar plugin as we've done in the past or should we only be using the Troops.ai integration.
 - Answer: It is not required to automatically log your calls via the Salesforce-Google calendar plugin and we aren't currently planning to analyze that information.
+
+### Troubleshooting steps (with Troops)
+
+**Troops didn't send me a notification after the call, what may have been the cause?**
+
+It can take 0-8 minutes for the system to ping you. After that, here are several QA steps:
+- Zero external persons listed as invitees on the calendar; the invite was sent by the customer, but the attendee list only has internal GitLab employees
+- Invitees do no exist in Salesforce (e.g., the call cannot be logged against anything in SFDC)
+- The invitees are listed in SFDC, but under a different email address (e.g., email does not match)
+- While we have a primary Email field and another field called something like Email #2, Troops only looks to the primary Email field.
+
+**Error message when logging a call to a Lead and Opportunity**
+
+Because Leads are a separate object and unrelated to Opportunities, you cannot log a call to a Lead and Opportunity. Instead, best practice is to log it to the Contact and Opportunity. You may need to convert the Lead to a Contact first. In that case, check with your SDR.
+
+**Error message: "CannotUpdateConvertedLead"**
+
+This error message occurs when the call happened, the Lead was converted to a Contact, and then the call was logged. In this case, it is a caching issue. Run the `/troops` command to manually log the call.

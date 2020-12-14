@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Communities of Practice"
+title: "Solution Architect (SA) Communities of Practice"
+description: "This is a collection of best practices collected from working with customers on each stage of the Software Development Lifecycle"
 ---
 
 # Communities of Practice

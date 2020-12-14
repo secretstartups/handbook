@@ -23,7 +23,7 @@ Stage expansion is the process of helping a customer adoption a new stage, inclu
 ### Stage Adoption:  Key TAM Strategies
 
 1. Improve Onboarding, Reduce Time to Value
-1. Product Analytics led insights & digital enablement
+1. Product Intelligence led insights & digital enablement
 1. Contribute to 'How To' in Gitlab Docs and Blogs
 1. Enablement workshops & onboarding content, use case adoption teams
 

@@ -12,6 +12,8 @@ title: "Technical Account Management Handbook"
 
 ## Handbook directory
 
+[TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+
 ### TAM responsibilities
 
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
@@ -29,6 +31,7 @@ title: "Technical Account Management Handbook"
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
+  * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)

@@ -176,8 +176,13 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 - [Proof of Value Guidelines](/handbook/sales/POV/)
 - [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
 - [Sales Demo](/handbook/marketing/strategic-marketing/demo/)
+<<<<<<< HEAD
 - [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
 - [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/categories/#devops-stages)
+=======
+- [Sales Development Group Handbook](/handbook/marketing/revenue-marketing/sdr/)
+- [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/product-categories/#devops-stages)
+>>>>>>> c33ed414c5afb88b5efb06f023f23131b45843c6
 - [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 
 ### Customer Success Meetings
