@@ -24,7 +24,7 @@ Technical skills developed in their career up until now are still very important
 ### Technical Leverage
 
 Technical leverage could be described as doing technical work that has a
-multiplicative impact.
+multiplicative impact. It frequently involves activities that are not writing code.
 
 In other words, the impact of the work has a positive effect on more than
 your personal scope and the immediate or near-term time frame. It should help
