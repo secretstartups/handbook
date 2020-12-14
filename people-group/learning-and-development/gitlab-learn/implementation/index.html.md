@@ -26,6 +26,12 @@ GitLab has created a three phase plan for the implementation of the EdCast LXP.
 
 ## Business Readiness
 
+Review the slides below to understand how the GitLab team is organizing our business readiness plan for the LXP launch.
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/1TY-gmS_-IPvYBh1FeJyK6qAyNtcikLx799UMluwUYnQ/edit#slide=id.gaedb85dfe7_1_98" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 
 ## Project Management using GitLab
 
