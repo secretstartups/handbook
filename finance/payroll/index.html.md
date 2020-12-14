@@ -34,7 +34,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
+1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com).
    - To access pay statements, go to Myself -> Pay -> Pay Statements.
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
@@ -246,8 +246,9 @@ If you have not received an invitation to create an account, visit the [register
 - Israel
 - Ukraine
 - Greece
+- Czech Republic
 
-Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
+Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc.) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format. Team members should ensure their expenses are approved on Expensify by the 8th of each month so they can include them on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual workdays from the hire date`
 
 ### PEO
 
@@ -274,7 +275,7 @@ Payroll changes will be send by the 10th of the month.  Global Upside will send 
 
 - Hungary
 - Austria
-- Mexico 
+- Mexico
 - South Africa
 
 #### Payroll cut off date
