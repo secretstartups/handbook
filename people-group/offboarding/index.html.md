@@ -119,9 +119,12 @@ Involuntary offboarding of any team member is never easy. We've created some gui
 
 If the need for Involuntary offboarding arises, the process is as indicate below:
 
-#### Leave of Absence or Garden Leave
+#### Last Working Day or Garden Leave
 
-In some cases a team member will go on a Leave of Absence or Garden Leave prior to their actual offboarding date from GitLab.  Team members on LOA or Garden leave will have no access to GitLab systems and may not be required to do any work on GitLab's behalf. The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the People Business Partner. Once the LOA or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  The PBP will complete the following:
+Team members on `Last Working Date` or `Garden leave` will have no access to GitLab systems and may not be required to do any work on GitLab's behalf, but will still be active on payroll through the termination date. The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the People Business Partner. Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  The PBP will complete the following:
+
+`Last Working Day` - Only for US Team members
+
 
 *  ***PBP***: PBP will have a legal/CPO review of the planned offboarding.
 *  ***PBP***: PBP will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The PBP can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
@@ -181,23 +184,21 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 This section will define key terms in offboarding slack workflow forms. 
 
 ### Offboarding Form 
-- **Team Name**: Full Legal Name 
-- **Job Title**: Fill in job title
-   - Key Stakeholders: Security
-- **Offboarding Effective Date**:	Termination Date for BHR (YYYY-MM-DD)
-- **Garden Leave Effective Date**: The date a issue will be created and access will be turned off. The TM will stay on payroll through their offboarding effective date. (YYYY-MM-DD)
-- **Issue Create Date and Time**:	When access should be turned off and offboarding processes will begin. (YYYY-MM-DD PST)
-- **Type of Offboarding**:	Voluntary / Involuntary 
-- **Offboarding Reason**:	Reasons available for review in the `Offboarding Reasons & Re-Hire Eligibility` section 
-- **Eligible for Rehire, Alumni Channel**:	
-   - Yes- Rehire, Yes- Alumni Channel
-   - No- Rehire, No- Alumni Channel 
-   - Yes- Rehire, No- Alumni Channel
-   - No- Rehire, Yes- Alumni Channel
-- **Team Member Location**:	Location
-   - Key Stakeholder: Payroll 
--**Exit Interview Owner**: PBP / Specialist
-   - Key Stakeholder: Specialists 
+
+| Questions                     | Definitions                                                                           |
+|-------------------------------|---------------------------------------------------------------------------------------|
+| Team Name                     |                                                                                       |
+| Job Title                     |                                                                                       |
+| Termination Effective Date    | Termination Date for BambooHR                                                         |
+| Garden Leave Start Date       | Last working day before access is turned off                                          |
+| Last Working Day              | Last working day before access is turned off **US only**                              |
+| Type of Offboarding           | Voluntary / Involuntary                                                               |
+| Offboarding Reason            | Reasons available for review in the Offboarding Reasons & Re-Hire Eligibility section |
+| Eligible for Rehire           |                                                                                       |
+| Eligible for Alumni Channel   |                                                                                       |
+| Team Member Location          |                                                                                       |
+| Payroll -Exit Interview Owner | PBP / Specialist                                                                      |
+
 
 ### Hold for In-Vol Offboarding
 This form is used to help 
