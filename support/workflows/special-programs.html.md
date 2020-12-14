@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: "GitLab Special Programs: EDU & OSS"
 category: License and subscription
+description: Redirecting EDU or OSS subscription inquiries.
 ---
 
 ## On this page

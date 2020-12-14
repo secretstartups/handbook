@@ -194,8 +194,44 @@ If it was identified that a single portion of our problem types exhibits poor pe
  - Identify potential issues that might have impacted our customers or our ability to provide support for these problem types.
  - Discuss the decreased performance with the relevant IC's and work with them to try and identify possible blockers and explanations as to why this specific problem type decreased in performance.
  
- ---
- 
+---
+
+## Other
+
+### FRT+NRT are below target
+
+### Our staffing isn't spread appropriately vs. the number of tickets that are raised/will breach per hour. We're not asking folks to work the right set of hours
+
+#### Past Analysis
+{:.no_toc}
+
+##### [2020-09-15: Our staffing isn't spread appropriately vs. the number of tickets that are raised/will breach per hour. We're not asking folks to work the right set of hours](https://gitlab.com/gitlab-com/support/metrics/-/issues/4)
+
+**Evidence Gathered:**
+
+- [SLA achievement by hour](https://gitlab.zendesk.com/explore/dashboard/3C721536831F0900DBAEBF0052B94FF8D8F3B83114E2D7C27135AA93A31F74FA/tab/12867812)
+- [Total number of SLA targets by hour](https://gitlab.zendesk.com/explore/dashboard/3C721536831F0900DBAEBF0052B94FF8D8F3B83114E2D7C27135AA93A31F74FA/tab/12867822)
+
+**Approach:**
+
+- Examine the total number of ticket responses required through the count of achieved SLA updates + breached SLA updates. This takes into account the basic unit of work (a ticket response) and gives a higher-resolution view than a count of tickets.
+- Segment ticket responses by hour and by breached/achieved.
+- Segment ticket responses by hour and by preferred region of support.
+
+#### Shaping Actions
+{:no_toc}
+
+If it was identified that we're not asking folks to work the right set of hours:
+
+- Ask support engineers to pay more attention to the queues during problematic time periods (e.g. spend the last hour of your day clearing out tickets that will breach in the next 4 hours, encourage crush sessions during that time period, etc.).
+
+If it was identified that our staffing isn't spread appropriately:
+
+- Focus hiring efforts on geographical areas with appropriate daylight coverage to target problematic time periods.
+- Consider rebalancing team member ratio between the three major geographic regions (AMER, APAC, EMEA).
+
+---
+
 ### Hypothesis 2 for FRT 
 #### Past Analysis
 {:.no_toc}

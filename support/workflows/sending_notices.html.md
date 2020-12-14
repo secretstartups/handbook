@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Sending Notices
 category: GitLab.com
+description: How to send notices out to GitLab.com users and customers to inform them of various actions on namespaces under their control
 ---
 
 ## On this page

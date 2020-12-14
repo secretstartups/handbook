@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Troubleshoot Errors While Making Purchases on CustomersDot
 category: CustomersDot
+description: Troubleshooting guide on errors on CustomersDot
 ---
 
 ## On this page

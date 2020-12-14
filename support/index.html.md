@@ -9,7 +9,7 @@ description: The GitLab Support Team Handbook is the central repository for why 
 
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
-| Your Role | Your Need | Where You Should Look |
+| If you are | Your Need | Where You Should Look |
 | --------- | --------- | --------------------- |
 | A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
@@ -238,12 +238,18 @@ issue trackers or customer tickets.
 #### Channels
 {: .no_toc}
 
+### spt_ vs. support_ prefix
+
+When naming channels, "spt" is meant for internal channels, meaning those that will be of use to the Support Team mainly. They should be public so others may join if they choose. If a channel has a "support" prefix, it is meant as a public interface where other teams will interact with the Support Team.
+
+
 | Channel                                                                | Purpose                                                   |
 |------------------------------------------------------------------------|-----------------------------------------------------------|
 | [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
 | [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG)     | Discuss GitLab.com tickets and customer issues            |
 | [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
-| [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Discuss matters which require support managers' attention |
+| [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48)    | Discuss customer/ticket matters which require support managers' attention. Allow other teams to interact with support managers. |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Discuss support team internal matters which require support managers' attention |
 | [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
 
 #### User Groups
@@ -286,7 +292,7 @@ Any demos or announcements that need to be shared with the entire team should be
 |  Weekday  |   Region  |      Meeting Name     |                                        Purpose                                      |
 |:---------:|:---------:|:---------------------:|:-----------------------------------------------------------------------------------:|
 |  Tuesday  |    APAC   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
-|  Tuesday  |    AMER   |  Casual Catch up |         Agendaless, a space for the team to banter and chat. If you have work to talk about, feel free.        |
+|  Tuesday  |    AMER   |      Support Call     |  Semi-structured agenda to welcome new members, discuss meta issues, get thoughts on tickets, socialize  |
 | Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone  interested in GitLab.com customers and processes - rotates day/time through regions |
 |  Thursday  |    EMEA   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
 
@@ -409,9 +415,9 @@ Tips:
 
 Some functions don't fit as cleanly into the Support Stable Counterparts model.  As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups.
 
-If you're missing from this list (and want to be on it) please let the Support Managers know in `#support_managers`
+If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`
 
-If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#support_managers`.
+If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
 
 | Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
@@ -479,7 +485,7 @@ which then sends the information to a Slack workflow.
 
 Providing information by reacting to a message with a specific emoji.
 
-- `#support_managers`
+- `#support_escalations`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 - `#support_gitlab-com`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.

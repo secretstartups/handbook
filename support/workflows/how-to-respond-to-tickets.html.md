@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: How to Respond to Tickets
 category: Handling tickets
+description: Advice for providing human, helpful responses to support tickets to improve customer experience and excellence
 ---
 
 ## On this page

@@ -33,10 +33,10 @@ advance of the production upgrade.
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
-   (upgrade documentation, architecture diagram, etc.). 
+   (upgrade documentation, architecture diagram, etc.).
    * This should occur within 24 hours of the request's creation. Should the
      TAM notice this has not been done, the TAM should escalate the issue via
-     the #support_managers slack channel.
+     the `#support_escalations` slack channel.
    * If the request meets the [minimum notice period](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#how-much-advanced-notice-must-i-give):
      * Assign the issue to a Support Engineer in the same region as the
        customer and, if possible, the same region as the Support Engineer that

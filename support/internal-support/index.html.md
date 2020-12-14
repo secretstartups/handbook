@@ -32,7 +32,7 @@ The following channels are where GitLab Support can be found on Slack and are th
 - [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
 - [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
-- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support managers including escalations.
+- [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support escalations and other items which require support managers' attention.
 - [#feed_zd-gitlab-com](https://gitlab.slack.com/messages/CADGU8CG1/) - Feed of all GitLab.com Zendesk ticket activities.
 - [#feed_zd-self-managed](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
@@ -172,14 +172,14 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 #### The Following instructions apply for both Zendesk tickets and Internal Support issues
 {: .no_toc}
 
-1. Go to the [support escalation form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/)  
+1. Go to the [support escalation form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/)
 
      * Complete the information requested on the form and click on `Submit`
         ![alt text](images/escalation_form.png "Escalation Form")
      * All fields are required.
 
      * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
-     Additionally a thread will be created in` #support_managers` slack channel. 
+     Additionally a thread will be created in` #support_escalations` slack channel.
 
 1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
 
@@ -187,7 +187,7 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
 
-If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
+If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
 
 #### Trials and Prospect Support
 
@@ -197,7 +197,7 @@ If you've been contacted by a prospect whose evaluation of GitLab includes evalu
 
 1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
 1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
-1. Instruct your prospect to select `Sales assisted trial` as their subscription level when [submitting a support ticket](https://support.gitlab.com).
+1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
 
 **Important Additional Notes**
 
