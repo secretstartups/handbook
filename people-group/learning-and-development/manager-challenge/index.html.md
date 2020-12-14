@@ -110,6 +110,19 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 
 L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we will be piloting [Trust Metryx](https://www.xmetryx.com/) to participants that are interested in trying out the tool. 
 
+Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. 
+
+The tool accelerates your development as a manager/leader by: 
+- Helping you to identify behaviors that get in the way of team performance wellbeing
+- Making it easy for leaders to excel at guiding your team to create the small behavioral nudges that drive continuous improvement
+- Enabling you to track your progress creating an inclusive team culture built on trust by providing a specific measurable outcome in terms of team relationship strength
+- Also includes **Coach in the Cloud** - a library of behavioral science-based micro-courses and team relationship coaching. Coach in the Cloud helps you develop the skills to navigate relationship challenges and lead with Trust. 
+
+TrustMetryx compliments and builds on the basic principles of what it means to be a manager using the whole-person approach to leadership covered in the Manager Challenge. TrustMetryx gives you a data driven approach to ensuring that you’re embracing GitLab values and creating an inclusive team culture built on trust.
+
+**What do I need to do?**
+More information will be included as the January challenge approaches!
+
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
