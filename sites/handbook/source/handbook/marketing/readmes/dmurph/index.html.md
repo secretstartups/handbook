@@ -50,6 +50,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 * Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
+* The Org — [The Hottest New Title in Tech: Head of Remote Work](https://theorg.com/insights/the-hottest-new-title-in-tech-head-of-remote-work)
 * Make The Leap Digital — [Remote Work Tips From GitLab's Head of Remote And Guinness World Record Top Publisher](https://www.linkedin.com/pulse/remote-work-tips-from-gitlabs-head-guinness-world-record-mandy-fransz/)
 * Ceridian — [Intentionally remote: Why this isn’t just a big experiment](https://www.ceridian.com/blog/intentionally-remote-why-this-isn-t-just-a-big-experiment-according-to-gitlab)
 * Unito — [GitLab’s Darren Murph on Building Remote Company Culture](https://unito.io/blog/remote-company-culture-darren-murph-gitlab/)
