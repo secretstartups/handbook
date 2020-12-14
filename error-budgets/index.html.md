@@ -46,7 +46,7 @@ At the moment of writing this document in Q3 FY21, GitLab has several specific o
 All of the above items contribute to the complexity of the already complex task of
 delivering a highly available SaaS platform. Over the years, several processes have been introduced to address some of the challenges of maintaining feature delivery velocity while ensuring that the SaaS reliability continues to increase.
 
-[The Availability and Performance Refinement process][infradev], also known as the `Infradev Process`, was created to prioritize resolving an issue after an incident or degradation has happened. While the process has proven to be successful, it is _event-focused_ and _event-driven_.
+The `Infradev Process` (now deprecated), was created to prioritize resolving an issue after an incident or degradation has happened. While the process has proven to be successful, it is _event-focused_ and _event-driven_.
 
 In reality, the events causing reliability issues are often a culmination of a trend; this can be driven by the complexity of the feature but also by lack of insight into how the feature performs.
 
