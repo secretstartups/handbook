@@ -1012,4 +1012,4 @@ SafetyWing is a global medical benefits provider. At this time we will not be of
 
 ### Family Planning
 
-At this time, GitLab is not yet at a stage or size to offer a self funded plan for FY21, but will be revisited when we evaluate benefits, budget and size for the next fiscal year. Further information and corresponding discussion are available under [Total Rewards Issue #196](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/196#note_465129810) (internal).
+GitLab has reviewed adding more comprehensive family planning benefits. We did a introductory call with a company that provides fertility benefits who advised the company would pay claims out of pocket which integrates better with self funded medical plans. Since we are not yet at the size or stage to be self funded it would currently be difficult to offer this benefit. At the time we are able to be self funded we will reevaluate. Further information and corresponding discussion are available under [Total Rewards Issue #196](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/196) (internal).
