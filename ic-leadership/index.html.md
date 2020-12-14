@@ -31,7 +31,7 @@ your personal scope and the immediate or near-term time frame. It should help
 those around you and in your team, group, or department operate and iterate
 more efficiently.
 
-Examples of this could be
+Examples of this are:
 
 - Taking part in our [architecture process](/handbook/engineering/architecture/workflow/)
 - Implementing generic solutions to problems that can be easily reused in the future
