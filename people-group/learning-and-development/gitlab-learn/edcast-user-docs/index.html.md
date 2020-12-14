@@ -93,7 +93,7 @@ This navgation bar links to the following support resources:
 
 #### Search bar
 
-Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-learn/edcast-user-docs/#finding-new-learning-content) are outlined below.
+Use the search bar to find new content and other learner profiles in the LXP. [Additional search strategies](/handbook/people-group/learning-and-development/gitlab-learn/user/#finding-new-learning-content) are outlined below.
 
 #### Notifications
 
@@ -101,8 +101,7 @@ View notifications to see when new content is assigned to you, when users have c
 
 #### Your Profile
 
-Access your [GitLab Learn profile page](/handbook/people-group/learning-and-development/gitlab-groundworks/edcast-user-docs/#setting-up-your-profile-page).
-
+Access your [GitLab Learn profile page](/handbook/people-group/learning-and-development/gitlab-learn/user/#setting-up-your-profile-page).
 
 
 ### Setting up your profile page

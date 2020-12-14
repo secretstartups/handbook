@@ -13,9 +13,11 @@ title: GitLab Learn
 
 ## What is EdCast?
 
-GitLab uses EdCast, a Learning Experience Platform (LXP). At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/strategy/#mission), and our LXP is no different. Everyone can contribute to the LXP! 
+GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named GitLab Learn. At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/strategy/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
 
 You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/)
+
+Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
 
 ### What is a LXP?
 
@@ -23,10 +25,22 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 
 ## GitLab's Long Term Strategic Vision for the LXP
 
+Additional information about the long term strategie vision for GitLab Learn is coming soon.
 
-### What will the LXP do for the GitLab community
+#### A note about naming
 
-GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. The LXP will do the following for GitLab: 
+Review the following terms to get familiar with language used in this documentation.
+
+| Term | Definition |
+| ----- | ----- |
+| EdCast | The vendor we're collaborating with to create GitLab Learn. |
+| GitLab Learn | GitLab's EdCast instance |
+| Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
+
+
+### What will GitLab Learn do for the GitLab community
+
+GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
 - **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
