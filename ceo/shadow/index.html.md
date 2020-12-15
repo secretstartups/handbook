@@ -381,7 +381,17 @@ At the conclusion of the call, the CEO Shadows should remove themselves from doc
 
 #### Responsibilities
 
-Meetings come in many different formats, as listed above. Your responsibilities will change based on the kind of meeting. Here are the responsibilities shadows have during meetings:
+Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting. Here are the responsibilities shadows have during meetings:
+
+| Meeting type                     | Notes?         | Timekeeping?   |
+| -------------------------------- | -------------- | -------------- |
+| 1-1                              | Only if stated | Only if stated |
+| Legal meeting                    | No notes       | Timekeeping    |
+| GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
+| Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
+| Anything else (unless specified) | Notes          | Timekeeping    |
+
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO.
 
 ##### Taking notes
 
@@ -389,9 +399,10 @@ Meetings come in many different formats, as listed above. Your responsibilities 
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is a [1:1](/handbook/leadership/1-1/) between the CEO and his direct reports, a board meeting, an internal meeting where the CEO is not the host, legal discussions in any meeting, or it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO. The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
+The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
 In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information. It is critical that any legal discussions are not put in notes since notes are frequently not reviewed for errors but that status might not be clear to people outside the company.
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
+CEO Shadows are not always the DRI for notes and everyone can contribute to taking notes when in a meeting.
 
 Tips:
 
@@ -410,8 +421,6 @@ Shadows are responsible for being aware of the current time and providing timeke
 Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings).
 While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
 Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime".
-
-_Note: Just like notes, timekeeping is **not** required for 1-1s between the CEO and direct reports._ 
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if not argument is provided).
 
