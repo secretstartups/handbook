@@ -16,6 +16,22 @@ The following processes are used by administrators of GitLab Learn.
 
 Outline of best practices for how to upload and organize content in GitLab Learn is coming soon.
 
+### Creating new learning content
+
+#### Journeys and pathways
+
+### Badges and certifications
+
+
+### Sharing content with learners
+
+#### Using Groups
+
+#### Broadcasting on Channels
+
+
+### Designing the discover page
+
 
 ## Content Management
 
