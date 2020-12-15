@@ -63,7 +63,7 @@ When we look at the product [Growth](/handbook/product/categories/#growth-stage)
 
 #### [GitLab.com Billable Members List](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md)
 
-Use the [rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl#rollcall) and obtain a list of members for the group. If the script doesn’t work, or shows discrepancies, involve someone with console escalation access by applying the `Console escalation::GitLab.com` label in the issue.
+When a list of billable members is required, please open an internal issue using [Billable members template](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billable%20Members.md) and follow the instruction in the issue. 
 
 #### Assistance with License & SaaS Subscription Issues
 
