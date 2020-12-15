@@ -12,7 +12,7 @@ title: GitLab Learn Admin Documentation
 The following processes are used by administrators of GitLab Learn.
 
 
-## Best Practices for Content Organization
+## Best practices for content creation and organization in GitLab Learn
 
 Outline of best practices for how to upload and organize content in GitLab Learn is coming soon.
 
@@ -20,7 +20,28 @@ Outline of best practices for how to upload and organize content in GitLab Learn
 
 #### Journeys and pathways
 
-### Badges and certifications
+#### Choosing between a badge or certification
+
+##### Badges
+
+Badges are available with the creation of both pathways and journeys and are awareded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
+
+Teams should choose to use a badge to recognize learners acheivements when:
+
+- Short learning pathways
+- Journeys that do not required an official certification
+- Unpaid learning opportunities
+
+Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
+
+##### Certifications
+
+Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
+
+Teams shoiuld choose to use a certification to recognize learners achievements when:
+
+- Learners required an official certification upon completition 
+- Paid learning opportunities
 
 
 ### Sharing content with learners
