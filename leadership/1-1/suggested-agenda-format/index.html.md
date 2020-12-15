@@ -68,7 +68,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
 1. Add items to the end of the agenda. This is easier to do when using a numbered list.
 1. The order going thought the agenda is last-to-first, this way things that are still top of mind get handled first.
 1. Prefix a new item with your name. Do the same for all responses/follow-ups.
-1. Use `=>` to indicate a response/followup to an agenda item and prefix with your name. One example is at the bottom of this page and one is given here: `DISCUSS` Sid: Should we look into a collaboration with Walmart? => Kate: I think so, I created https://gitlab.com/gitlab-org/gitlab-ce/issues/101
+1. Use `=>` to indicate a response/followup to an agenda item and prefix with your name. For example: `DISCUSS` Sid: Should we look into a collaboration with Walmart? => Kate: I think so, I created https://gitlab.com/gitlab-org/gitlab-ce/issues/101
 1. Use sub-bullets (a, b, c) if there sub topics .
 1. Include a link to the agenda in calendar invite of the 1-1 meeting
 1. Use comments with +mentions in Google Docs only to signal urgency, don't write content down that way since it tends to get lost. Example: +person@example.com urgent because xyz
@@ -82,7 +82,7 @@ For example, the very first discussion item in the call should be the last item 
 
 ## Example Agenda
 
-[Example Agenda](https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#heading=h.je87mj6quia2)
+Consider this [example agenda](https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#heading=h.je87mj6quia2) between a manager (Martina) and her direct report (Andre):
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#"></iframe>
