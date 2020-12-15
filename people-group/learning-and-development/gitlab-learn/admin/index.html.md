@@ -63,15 +63,18 @@ It's important to have another member of your team review your content before ma
 #### Content review checklist items
 
 To review in the front end of GitLab Learn
+
+1. Click into the `edit` mode to review content in each journey or pathway
 1. Content is organized in a pathway or journey
 1. Name is clear and identifies what the learner will achieve upon completion
-1. Description clearly defines content in the pathway or journey
+1. Description of the pathway or journey clearly defines content
 1. Images are branded based on correct image guidelines
-1. Click into the `edit` mode to review content in each smartcard or pathway
-1. Confirm learning level
-1. Confirm badge status
+1. Learning level is set
+1. Badge status is set and uploaded
+1. Each smart card has a clear description
 
 To review in the EdCast backend
+
 1. Language is specified
 1. Tags are added based on related content keywords
 1. Relevant channels are included
