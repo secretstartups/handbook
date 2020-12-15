@@ -67,8 +67,11 @@ To review in the front end of GitLab Learn
 1. Name is clear and identifies what the learner will achieve upon completion
 1. Description clearly defines content in the pathway or journey
 1. Images are branded based on correct image guidelines
+1. Click into the `edit` mode to review content in each smartcard or pathway
+1. Confirm learning level
+1. Confirm badge status
 
-To review in the EdCast backent
+To review in the EdCast backend
 1. Language is specified
 1. Tags are added based on related content keywords
 1. Relevant channels are included
