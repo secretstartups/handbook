@@ -10,12 +10,16 @@ title: "Education Services"
 {:toc .hidden-md .hidden-lg}
 
 ### Education Services Overview
-Education Services are part of the Professional Services (PS) Team within GitLab Customer Success. The Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
-
+Education Services are part of the Professional Services (PS) Team within GitLab Customer Success. 
 
 #### Mission
 
 The primary mission is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. 
+
+#### Approach
+
+The Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
+
 
 ### Current Offerings
 
