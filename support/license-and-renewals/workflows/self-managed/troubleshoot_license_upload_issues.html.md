@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Troubleshoot license upload issues
+title: Troubleshooting license upload errors
 category: GitLab Self-Managed licenses
 ---
 
@@ -8,7 +8,14 @@ category: GitLab Self-Managed licenses
 
 ----
 
-A license key will error if any of the following 3 values are incorrect:
+Customers may report encountering the following error message when uploading a
+licence to their GitLab Self-Managed instance:
+
+> During the year before this license started, this GitLab installation had 286
+> active users, exceeding this license's limit of 250 by 36 users. Please
+> upload a license for at least 286 users or contact sales at [redacted]@gitlab.com.
+
+This error will be shown if any of the following 3 values are incorrect:
 
 | Key Field | Definition & source of truth |
 |------|-------|
@@ -18,7 +25,10 @@ A license key will error if any of the following 3 values are incorrect:
 
 Note that for Ultimate licenses, guest users are not counted in the licensed user count. Therefore, the `User.active.count` will be a greater number than the `Active Users` count displayed in the Admin UI dashboard. This can be confusing in a situation where the customer is downgrading from Ultimate or if they have an Ultimate trial, as they'll need a license for `User.active.count` rather than what's displayed for `Active Users`.
 
-Consider the following examples:
+You can use the Zendesk `Subscriptions::Active Users` macro to ask the customer
+for this information.
+
+## Examples
 
 **EXAMPLE 1**
    - Subscription for 10 users
