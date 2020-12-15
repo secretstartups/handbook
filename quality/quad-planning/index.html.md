@@ -28,7 +28,7 @@ The quad planning has two aspects attached to it, which is as follows:
 The DRIs collaboratively work on new features to ensure we ship quality software. 
 The SET owns the completion of the `Availability and Testing` section in the Feature Proposal to complete the definition of done. As we grow to reach our [desired ratio](/handbook/engineering/quality/#staffing-planning), we will only have the quad approach in groups where we have an assigned SET in place.
    1. The SET will review the issues around the 16th of each milestone and apply the `quad-planning::ready` label. If necessary, the SET will coordinate with the PM/EM to discuss specific issues as needed. Those issues satisfying the below conditions are considered for `quad-planning` and the `quad-planning::ready` label is applied:
-      1. Issue has the label `workflow:ready for development` and `group::*` (this corresponding to the product group to which the SET is aligned to.)
+      1. Issue has the label `workflow:ready for development`, `Deliverable` and `group::*` (this corresponding to the product group to which the SET is aligned to.)
       1. Issue should not have `bug` label
       1. Issue should have an upcoming release milestone added and it should not have any of `Backlog` or `Next x releases` milestones.
    1. After revewing each issue, the SET adds the testing requirements for each issue:
