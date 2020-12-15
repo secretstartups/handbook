@@ -121,7 +121,7 @@ The tool accelerates your development as a manager/leader by:
 TrustMetryx compliments and builds on the basic principles of what it means to be a manager using the whole-person approach to leadership covered in the Manager Challenge. TrustMetryx gives you a data driven approach to ensuring that you’re embracing GitLab values and creating an inclusive team culture built on trust.
 
 **What do I need to do?**
-More information will be included as the January challenge approaches!
+More information will be included as the January challenge approaches! Learn more about Building Trust with Remote Teams from the co-founder of Trust Metryx by [watching the recording of the Learning Speaker Series](/handbook/leadership/building-trust/#learner-speaker-series---building-trust-with-remote-teams). 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
