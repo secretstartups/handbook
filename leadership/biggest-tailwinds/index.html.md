@@ -8,7 +8,7 @@ title: "Biggest Tailwinds"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle is [several billion dollars and expanding](/handbook/sales/tam/#:~:text=Total%20Addressable%20Market%20(TAM)%20is,revenue%20per%20user%20(ARPU).&text=Additional%20potential%20users%3A,Product%20managers). There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business.
+We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle is [several billion dollars and expanding](https://about.gitlab.com/handbook/sales/tam/#:~:text=Total%20Addressable%20Market%20(TAM)%20is,revenue%20per%20user%20(ARPU).&text=Additional%20potential%20users%3A,Product%20managers). There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business.
 We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 ## 1. [Digital Transformation](/blog/2019/03/19/reduce-cycle-time-digital-transformation/)
