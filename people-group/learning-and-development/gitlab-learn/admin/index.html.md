@@ -50,17 +50,30 @@ Teams shoiuld choose to use a certification to recognize learners achievements w
 - Paid learning opportunities
 
 
-### Content review checklist
+### Reviewing content before going live
 
 It's important to have another member of your team review your content before making it live on the platform. Each team in the LXP may have a preferred method of collaborating and reviewing content. Consider using this process that the L&D team uses to review content in the LXP. If you team decides on a different review process, please document on this page.
 
-1. The content creator or curated builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
-1. Content is initially marked as `private`
-1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
-1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
+#### Prior to content review
 
+- The content creator or curated builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
+- Content is initially marked as `draft`
+- Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
+- Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
 
+#### Content review checklist items
 
+To review in the front end of GitLab Learn
+1. Content is organized in a pathway or journey
+1. Name is clear and identifies what the learner will achieve upon completion
+1. Description clearly defines content in the pathway or journey
+1. Images are branded based on correct image guidelines
+
+To review in the EdCast backent
+1. Language is specified
+1. Tags are added based on related content keywords
+1. Relevant channels are included
+1. User taxonomy topics are chosen
 
 ### Sharing content with learners
 
