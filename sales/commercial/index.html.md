@@ -413,25 +413,62 @@ Area Sales Managers have an expectation to log a minimum of 5 co-selling calls p
 * Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
 For additional invormation please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
 
-### Selling with Channel Partners
-The goal of selling with a Partner is to extend the customer selling and services capacity/coverage for GitLab Commercial AEs. This is also a form of co-selling which involves building a simple aligned plan establishing “who will do what, when?” and execution of that plan, led by the AE, and supported by the Partner and Channel Manager.  
+### **AEs Working with Partners for Increased Customer Value **
 
-Note, this is different than the routine co-selling practice however it could include co-selling with your manager. In most cases, a member of the GitLab Channel team will also be engaged to help manage the Partner actions agreed up in an aligned co-selling plan. 
 
-#### Key AE Benefits from Partner Co-selling
-- Extended team delivering extended AE selling capabilities: GitLab trained Partner AE’s and SA’s are standing by to execute on some the selling tasks as part of an agreed upon plan. 
-- Accelerated reach to new customer logos “Land”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
-- Increased customer “Expand” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.   
+#### **What is “Working with Channel Partners? **
 
-#### How do AEs become active Partner opportunities?
-1. [Approved Partner GitLab Deal Registrations (PIO’s)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
-1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` or to your Channel Account Manager with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
 
-#### More resources on selling with Partners
-- LevelUp video starts with a basic understanding of the Channel Partner landscape in [Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U). 
-- LevelUp video on [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2), specifically for AE’s to learn more about co-selling success.
-- Learn more about co-selling best practices, and how Partners can help build out key elements of an AE’s  R7 & Command Plans. This is found in the "Channel Partner Co-Selling" document.  
-- Slack `#channel-sales` with any questions or requests for assistance or reach out to your Channel Account Manager. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.  
+
+*   GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources.
+*   The GitLab partner network is ready to work with GitLab AEs: our approach to this is Partner Co-selling.
+*   The goal of AEs working with channel partners is to extend their selling and professional services capacity/coverage to help provide our prospects and customers with the software and services they need to be successful.
+*   Working with partners  involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”. 
+*   AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. 
+*   The plan should be [tracked in SFDC with tasks and action items](https://docs.google.com/document/d/1r97a-3xb0nwYIsb38Iix6R_eTDA2GUgqLdOEXxfb3jA/edit?usp=sharing). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
+*   Channel Managers will engage with AE’s in the following ways:
+    *   When a new deal registration arrives in the AE’s pipeline
+    *   To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
+        *   The Channel Manager will bring the possibilities forward during this call
+        *   2 examples of working with Partners are featured in this **[this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)**
+        *   AEs should share their thoughts about prioritizing which Partner activities would be best for which of their customers
+*   Commercial AEs are encouraged to ‘lean in’ to the above channel partner engagement activities - **[the Channel Partner Team are committed to AE success](https://docs.google.com/presentation/d/11rLo8gIkO5hqtQSqUS9luHmFJkDXt9FLwp0-V4EhZg8/edit#slide=id.g809d33e617_0_0)**
+
+
+#### **What are the key AE benefits from working within partners?  **
+
+
+
+*   Extended reach and capabilities via Partner sales and services capacity and reach via  GitLab-trained Partner AE’s,  SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.   
+*   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
+*   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
+*   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
+*   In the case of OPEN partners via distributors, dramatically reduction in the admin steps associated with [quote-to-close process](https://docs.google.com/presentation/d/1ij9_k7Xui8-8GRuU5r2siw0q9Z9cwQw8sNqEvvzNZ-4/edit#slide=id.g98d4945706_0_192).
+
+
+#### **How do AEs learn more about teaming with Channel Partners? **
+
+
+
+*   We recognize many commercial AE’s are new to working with partners, they haven’t personally experienced the benefits of working with [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5).
+*   [This Levelup](https://youtu.be/OeykHQetd7U) starts with a basic understanding of the Channel Partner landscape. 
+*   [This Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)  Is specifically for AE’s to learn more about co-selling success.
+*   [Learn more about Partner co-selling best practices,  how Partners can help build out key elements of an AE’s R7 & Command Plans ](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans)and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/). 
+*   
+*   Slack [# channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR)  with any questions or requests for assistance. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can. **Just in case, here’s a list of channel team contacts that you can reach out to directly. **
+
+
+#### **How do AEs work with partners for customer Success?  **
+
+
+
+*   [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) New PIO’s and PAOs continue to increase. As they are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner.   \
+*GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by  slacking channel-sales or via the contacts linked above. 
+*   If AEs find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”... \
+- If this is a first time for an AE, please watch [this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) to learn more about these motions.   \
+- The AE can slack [# channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way. 
+
+ Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)** ** ** 
 
 
 ## Center of Excellence
