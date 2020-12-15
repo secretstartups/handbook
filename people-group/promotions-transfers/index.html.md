@@ -451,6 +451,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
 1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
 1. After the realignment the DRI opens a retrospective issue to gather feedback from affected teams in order to improve this process.  
+1. After the realignment the DRI makes the realignment issue public and closes it.  This is because only planned reorganizations are [not public](https://about.gitlab.com/handbook/communication/#not-public).  In cases where the issue contains not public information the DRI may chose to leave the issue confidential with a comment explaining the reason.  
 
 #### For People Success & Recruiting Team
 
