@@ -77,11 +77,14 @@ This list of topics can be used as a starting point for brainstorming content an
 Check out recordings of previous Learning Speaker Series calls!
 
 - 2020-11-19 [Building Trust with Remote Teams Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=youtu.be)
+- 2020-12-10 [Managing Burnout with Time Off] (/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)
 
 
 ### Hosting a Learning Speaker Series call
 
-The following process outlines steps for the L&D team to take when planning and implementing the calls.
+The following process outlines steps for the L&D team to take when planning and implementing the calls. 
+
+Anyone or any team can host a Learning Speaker Series for the organization! If interested and their is a topic & speaker lined up.  Please reach out to the L&D team via the #learninganddevelopment team via the Slack Channel for support. 
 
 **Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps outlined below are also included in the issue template and are included here as reference.
 
