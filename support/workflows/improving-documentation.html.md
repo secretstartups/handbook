@@ -5,7 +5,7 @@ description: "Workflow for submitting GitLab documentation improvements from the
 category: Handling tickets
 ---
 
-Whenever possible, include a link to the applicable documentation as part of your response to a ticket. If the documentation does not exist yet, then _make_ the documentation and send the link to the Draft MR in the response. For those situations in which making documentation is a more time-consuming exercise, we have set up a process to automatically create an issue in [the GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) to track documentation tasks that need to be completed:
+Whenever possible, include a link to the applicable documentation as part of your response to a ticket. If the documentation does not exist yet, then _make_ the documentation and send the link to the Draft MR in the response. For those situations in which making documentation is a more time-consuming exercise, we have set up a process to automatically create an issue in [the GitLab issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) to track documentation tasks that needs to be completed:
 
 - Click the "Document this" checkbox (found on the left-hand side of the ticket)
 - Enter an ["internal note"](https://support.zendesk.com/hc/en-us/articles/213519318-Adding-comments-to-tickets#topic_bpn_sbd_bv) describing the documentation requirements. Always start your private note with the word `Docs:`, include the title of your issue after the colon (:) and the description of your issue in a new line after four slashes (that are used to delimit the title from the description). Example:
