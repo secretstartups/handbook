@@ -182,6 +182,31 @@ You should be able to access it with your dev.gitlab.org account. If a customer 
 you can verify it in the portal by appending the ID to the link https://license.gitlab.com/licenses/, so the final link
 to the license will look like https://license.gitlab.com/licenses/LICENSE_ID
 
+### Finding the existing license when a customer includes the full license file
+
+Sometimes a customer may include the full license file to prove their support entitlement. You can determine the license ID (and thus organization) by
+extracting the ID.
+
+First, trim the carriage returns and/or new lines:
+
+```
+tr -d '\r\n' < file_name.gitlab-license
+```
+
+Then, from the Rails console on your own self-managed instance:
+
+```
+license = ::License.new(data: "<paste entire license key without the carriage returns>")
+"https://license.gitlab.com/licenses/".concat(license.license_id.to_s)
+```
+
+This will return nice URL that will take you the relevant license in LicenseDot.
+
+```
+=> "https://license.gitlab.com/licenses/<license_id>"
+```
+
+
 ### Adding the domain (Zendesk Admins only)
 
 > **Important**: Be extra careful here. If a large company has multiple
