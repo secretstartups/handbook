@@ -135,8 +135,10 @@ To open a GitLab issue:
 
 #### Video: How to open a GitLab Issue (~8 minutes)
 
+
+
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/iGNVJ3D0XnI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/484212044" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### How to move a GitLab Issue
@@ -155,7 +157,7 @@ To move a GitLab issue:
 #### Video: How to move a GitLab Issue (~2 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/nQ4llM12GP8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491217472" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### How to comment on a GitLab Issue
@@ -184,7 +186,7 @@ This [resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on sea
 #### Video: How to search for a GitLab Issue (~4 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3Zpcg5MFaaw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491221700" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### GitLab Issue Labels and Issue Boards
@@ -196,7 +198,7 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 #### Video: GitLab Issue Labels and Issue Boards (~4 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/vjccjHI7aGI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491218462" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### Other Helpful Tips for Issues
