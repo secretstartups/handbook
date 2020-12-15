@@ -781,7 +781,7 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 
 ##### Cultural lens
 {:.no_toc}
-We should all be aware that cultural differences mens iteration can be a different experience for some. In some cultures, expressions like "fail often, and fail fast!", and "it doesn't have to be perfect..." can challenge individual cultural norms. Bring your authentic self and seek shared understanding when iterating. Some tips on how GitLab managers can encourage psychological safety during iteration process will be available in the Manager Toolkit. 
+We should all be aware that cultural differences can bring a different experience to iteration. For some, expressions like "fail often, and fail fast!", and "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](https://about.gitlab.com/handbook/leadership/#giving-feedback) and ensuring [psychological safety](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt. 
 
 ##### Focus on Improvement
 {:.no_toc}
