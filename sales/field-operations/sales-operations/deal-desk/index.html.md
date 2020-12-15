@@ -120,8 +120,9 @@ Supported topics include:
 
 #### Deal Desk AMA
 
-Feel free to invite a Deal Desk member to your team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting. For specific questions related to in-flight opporutnities, it is best to join Deal Desk Office Hours. 
-Chatter or Slack #sales-support if you are interested in having Deal Desk join a team call. 
+Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opporutnities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+
+Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
 
 ### IACV + Renewals
@@ -387,7 +388,7 @@ The imgage below highlights a common 12 month ramp schedule. The frequency in wh
 
 <div class="panel-body">
 
-[![Example Ramp Deal]()*Example Ramp Structure*]
+[![Example Ramp Deal](/images/handbook/sales/Ramp-deal-visual.png)*Example Ramp Structure*]
 
 </div>
 </div>
