@@ -212,7 +212,7 @@ _Why is this important?_
 
 <table>
   <tr>
-   <td><strong><a href="https://about.gitlab.com/handbook/business-ops/resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
+   <td><strong><a href="https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
    </td>
    <td><strong>Partner Initiated (PIO)</strong>
    </td>
