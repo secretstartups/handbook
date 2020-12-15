@@ -58,7 +58,7 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 
 ## Supported Languages
 
-1. French
+1. French (Europe)
 1. German
 1. Japanese
 1. Russian
@@ -89,9 +89,19 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 ### Marketo
 
+The Marketo project is where you will submit Marketo assets (emails, landing pages, forms) to Smartling for translation. The Marketo connector is a mirror-image of our Marketo instance and is updated in real-time.
+
 **Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. 
 
 When you submit Marketo jobs, the jobs will be available in the general `Jobs` tab in the platform and within the Marketo connector. Marketo jobs will not have the same name as jobs submitted through the `Documents` since these jobs are automated.
+
+In the right side pane window shows the various Marketo assets that are either approved to be submitting for translation or in draft. Clicking the link icon opens a new tab to login into Marketo to view that particular asset.
+
+You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. **Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases.
+
+Auto-authorize - automatically approves any Marketo job submission for translation (currently turn off).
+
+When the translation job is complete, Smartling will automatically download those translated assets back to Marketo. The chron scheduler in Smartling looks for completed Marketo jobs every hour and pushes them to Marketo. The original source language asset is not changed, a translated copy is created and the file name is appended with the abbreviated language code (e.g. French = fr).
 
 ### PathFactory 
 
@@ -115,6 +125,8 @@ Smartling categorizes translation jobs by the integration type (Marketo, documen
 Each job should only be translating to one language pair. For instance, if you have a whitepaper that you would like to translate to French and German, you would create two separate jobs: one for the German version and one for the French version.
 
 Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
+
+Due dates are automatically generated based on the total word-count.
 
 ### Request a job
 
