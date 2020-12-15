@@ -152,12 +152,6 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
 
-### Office Hours
-
-Marketing Operations has weekly office hours on each Tuesdays. The team will be available for 30 min to answer any quick and easy tool related questions. We are alternating between 9am PST and Noon PST. Meaning every other Tuesday we will either have a morning or noon session, but not both. The office hour is for quick and easy questions, and it is not meant for issue related questions.
-
-See the [Marketing Operations Office Hour Calendar](https://calendar.google.com/calendar/u/0?cid=Y19yOTcxcGRvM2xtamVxMTZuYWEyZnB2cDVrOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for more details on the alternating times and meeting links.
-
 ### Operational Timeline of Changes
 
 Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
