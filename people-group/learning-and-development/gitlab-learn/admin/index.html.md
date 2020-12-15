@@ -20,6 +20,10 @@ If EdCast admin have questions about best pracitces in the LXP, or need support 
 
 #### Journeys and pathways
 
+##### Journeys
+
+##### Pathways
+
 #### Choosing between a badge or certification
 
 ##### Badges
@@ -44,14 +48,30 @@ Teams shoiuld choose to use a certification to recognize learners achievements w
 - Paid learning opportunities
 
 
+### Reviewing content before going live
+
+
 ### Sharing content with learners
 
-#### Using Groups
+#### Using groups
+
+Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group
+
+1. Consider if your group is private or public. Private groups cannot be discovered by learners who are not members of the group. These are best used when you want to organize a group of only your direct team members. Public groups are discoverable by any learner on the platform. These are best used when you'd like to broadcast the group to a wide audience
+1. Groups can be used to assign content to a specific group of people. Learning can be assigned to all members of a group
+1. Groups offer a space to create a community of learners around a similar topic or goal
+1. All groups must have a group administrator that will take responsbility for managing content in the group, curating new content for the group, and creating new ways to maintain community. Group admin are encouraged to open an MR to this page and add best practices for group management
+
+##### Sharing groups
 
 #### Broadcasting on Channels
 
 
 ### Designing the discover page
+
+
+
+
 
 
 ## Content Management
