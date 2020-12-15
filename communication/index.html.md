@@ -194,6 +194,53 @@ To learn more on when to use asynchronous and synchronous communication, example
 [Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.  
 
 ### Posting in #company-fyi
+```mermaid
+graph TB
+  everybody{{"Do you want to reach the entire company?"}}
+  important{{"How important is it?"}}
+  permission{{"Do you have permission<br>to post in #company-fyi?"}}
+  urgent{{"Is it urgent?"}}
+  reconsider{{"Are you sure you can't reach the people you need by posting in topic channels?"}}
+
+  channel-important>"Post in #company-fyi"]
+  channel-important-ask>"Ask your function's executive<br>to post in #company-fyi"]
+  channel-general>"Post in #whats-happening-at-gitlab"]
+  channel-topic>"Post in the most topical channel"]
+
+  repost(["Repost in the 1-2 most appropriate channel(s) based on your topic/audience"])
+  no-repost(["Don't repost"])
+
+  classDef question fill: #ECECFF
+  class everybody,important,permission,urgent,reconsider question;
+
+  classDef action fill: #a2f2a9
+  class channel-important,channel-important-ask,channel-general,channel-topic,repost,no-repost action;
+
+  classDef repost fill: #f2d3a2
+  class repost,no-repost repost;
+
+  everybody -- Yes --> important
+  everybody -- No  --> channel-topic
+
+  important -- need-to-know --> permission
+  important -- good-to-know --> reconsider
+
+  permission -- Yes --> channel-important
+  permission -- No  --> urgent
+
+  reconsider -- Yes --> channel-general
+  reconsider -- No --> channel-topic
+
+  urgent -- No  --> channel-important-ask
+  urgent -- Yes --> channel-general
+
+  channel-topic --> repost
+  channel-general --> repost
+  channel-important --> no-repost
+  channel-important-ask --> no-repost
+```
+
+#### Posting in #company-fyi
 
 Our companywide announcements channel is **#company-fyi**.
 It is an **announcement only** channel, meaning that communications need to be approved before they can be posted.
@@ -206,6 +253,13 @@ In order to post or have a message posted in #company-fyi, please reach out to y
     1. Promotion of an optional non-companywide internal event.
 
 **The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel).
+
+#### Posting in #whats-happening-at-gitlab
+
+Due to the volume of posts in the slack channel, we recommend that you do not use #whats-happening-at-gitlab as a sole location for important announcements as information might get lost or muted. Examples of important items include but are not limited to:
+
+1. Anything involving GitLab team member policy, such as changes in benefits, laws, review cycles, etc.
+1. Urgent matters that can't wait for #company-fyi but still need to be communicated to everyone such as service outages or last minute event changes.
 
 ### Top misused terms
 
