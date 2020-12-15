@@ -287,8 +287,6 @@ Documentation for the work will be developed by the engineer and the Technical W
 
 ### Build phase 3: Launch
 
-Label: `workflow::production` (The production label is recommended but not required at this phase because issues may have valid reason to close with differing labels)
-
 Issue Status: `Closed`
 
 #### Key Participants
