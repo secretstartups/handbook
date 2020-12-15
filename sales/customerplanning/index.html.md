@@ -25,12 +25,12 @@ To learn more, check out the [Account Plan Page](/handbook/sales/account-plannin
 
 **DRI: Strategic Account Leader/Account Executive**
 
-Good Account Plans, simplify the Opportunity Planning since they identify key information and leads to more productive [Opportunity Consults](handbook/sales/command-of-the-message/opportunity-consults/). 
+Good Account Plans, simplify the Opportunity Planning since they identify key information and leads to more productive [Opportunity Consults](/handbook/sales/command-of-the-message/opportunity-consults/). 
 To learn more check out the [Command Plan page](/handbook/sales/command-of-the-message/command-plan/).
 
 ## Success Planning
 
 **DRI: Technical Account Manager**
 
-Success Plans happen after the deal is signed and the Technical Accouunt Manager partners with the Strategic Account Leader/ Account Executive and the Customer to identify their positive business outcomes and milestones to achieve those goals. 
+Success Plans happen after the deal is signed and the Technical Account Manager partners with the Strategic Account Leader/ Account Executive and the Customer to identify their positive business outcomes and milestones to achieve those goals. 
 To learn more, check out the [Success Plan Page](/handbook/customer-success/tam/success-plans/).
