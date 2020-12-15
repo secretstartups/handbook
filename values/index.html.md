@@ -781,7 +781,7 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 
 ##### Cultural lens
 {:.no_toc}
-We are also aware of how iteration can be viewed in a cultural perspective. Expressions like “Fail often, and fail fast!”, and “It doesn’t have to be perfect...” can have different cultural contexts for a globally diverse team and can challenge cultural norms. We say bring your authentic self and iterate! 
+Consider cultural differences when iterating and [use simple language](/handbook/communication/#simple-language). Expressions like "Fail often, and fail fast!", and "It doesn't have to be perfect..." can have different cultural contexts for a global, diverse team and can challenge cultural norms. Bring your authentic self and seek shared understanding when iterating.  
 
 ##### Focus on Improvement
 {:.no_toc}
