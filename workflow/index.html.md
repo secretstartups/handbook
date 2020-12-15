@@ -643,19 +643,23 @@ The infradev process is established to identify Issues requiring priority attent
 
 The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process. 
 
-### Process
+### Triage Process
 
-1. Issues are nominated to the board through the inclusion of the label `infradev`
-   1. Assign [a severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to help asses the priority assignment for the refinement session.
-      1. When assigned severity is the highest and the issue is potentially preventing the Infrastructure department from performing regular operations, additionally apply the `~production request` label. When an issue has `~infradev ~severity::1 ~priority::1 ~production request` labels applied, it is required to work on immediate resolution.  In the case of a `~production request`, please engage Development management based on group assignment to further the process along.
-   1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
-1. Issues in the **Open** column require triage by Development Engineering Management to identify and/or refine the correct assignment.
-   1. An engineering manager will be assigned if either the `Milestone` or the label `workflow::ready for development` is missing.
+(To be completed primarily by Development Engineering Management)
+
+Issues are nominated to the board through the inclusion of the label `infradev` and will appear on the [infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev).
+
+1. Review issues in the Open column. Look for issues within your Stage/Group/Category, but also for those which lack a clear assignment or where the assignment may need correction.
+1. Review the [severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to validate appropriate prirotization.
+1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
+1. Assign an engineering manager to any issue where the `Milestone` or the label `workflow::ready for development` is missing.
    1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
    1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
-1. All Issues should be prioritized into the appropriate workflow stage.
+1. All Issues should be prioritized into the appropriate workflow stage. It is the intent to maintain no Open (un-triaged) items.
 
-### A Guide to Effective Infradev Triage
+Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.
+
+### A Guide to Creating Effective Infradev Issues
 
 Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
 
