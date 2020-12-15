@@ -46,7 +46,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 
 ## Support Engineer Area of Focus Pathway
 
-When you have completed the basic modules, work with your manager to decide you initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
 ## Gitlab Product Support 
 
