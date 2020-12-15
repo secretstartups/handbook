@@ -782,7 +782,7 @@ After a change has been [approved](/handbook/product/categories/#changes), we ma
 
 There are a few common scenarios we may encounter during these transition periods:
 
-- Splitting a Stage into multiple Groups
+- Creating new Groups
 - Changing the Categories in a Stage
 - Adding a new Stage
 - Moving an existing categories to a different Group
@@ -790,26 +790,28 @@ There are a few common scenarios we may encounter during these transition period
 In each of these scenarios, a Group may become temporarily responsible for a future Group's issues and backlog. During this time, the responsible Group should
 balance the needs of our users and organization, prioritizing across the common backlog. Consider creating a transition issue following [this format](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Product_Transition) to create a series of tasks related to the transition.
 
-##### Splitting a Stage into multiple Groups
+##### Creating new Groups
 
 As the group(s) working on a Stage grow in size, a new Group may need to be formed so group sizes remain manageable. For example, today
-there is a single group for `Manage`, but will be splitting into `control` and `framework` groups.
+there is a single group for `Manage`, but new groups were created for `control` and `framework`.
 
-To prepare for splitting a Stage into multiple Groups, we should:
+To prepare for creating multiple Groups, we should:
 
 1. Update `categories.yml` and `stages.yml`, assigning each Group a set of Categories
 1. Ensure all issues remain labelled with the Stage name, like `devops::manage`
 1. Ensure all issues also have a group label, like `Control` or `Framework`
 1. Prior to the new groups being formed, the PM and EM prioritize the shared `devops::manage` backlog
 
-Once the first PM or EM is hired, the new Group should be formed:
+Once the first PM or EM is hired, the new Groups should be formed:
 
 1. The other PM/EM's will need to continue working across both Groups. For example if a backend EM is hired, the frontend EM and PM will continue to work across both Groups until additional hires are made.
 1. EM's and engineers should work together and divide the existing engineering team to staff the new groups, like `Control` and `Framework`. Ideally, each group would have at least two backend engineers, but that is not always possible.
-1. Update `stages.yml` and `team.yml` to reflect the current group members. You may need to add a member to the end of `_categories.erb`.
+1. Update `stages.yml` and `team.yml` to reflect the new group members. You may need to add a member to the end of `_categories.erb`.
 1. Create a Slack channel for each group, like `g_control` and `g_framework`, and close the previous Slack channel (e.g. `g_manage`)
 
 As the rest of the EM/PM's are hired, they take over that role for the respective group.
+
+_Note_: We used to call this "splitting" a group. However, we adjusted it because it's important to emphasize with group members that they are forming new independent groups and should feel free to independently create their new norms and processes. 
 
 ##### Adding a new category to a Stage
 
