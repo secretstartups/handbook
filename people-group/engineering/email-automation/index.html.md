@@ -17,7 +17,7 @@ People Operations team sends out several emails for different reasons. When poss
 
 ### Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/email_templates/onboarding_email.md) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
 
 Every day we run 3 scheduled pipelines. They are each setup for a specific region:
 
@@ -38,6 +38,18 @@ We fetch some other data besides the region as well:
 - their name
 
 This data is used to populate the email that we then send to them. The email address used to send the email is `onboarding@domain` and is set with a `reply-to: people-exp@domain` as nobody monitors replies to `onboarding@`.  The email address is strictly used for automation.
+
+#### Updating the onboarding email template
+
+If changes are required to the onboarding email template, proceed with following the steps below:
+
+- Browse to the MJML [page](https://mjml.io/try-it-live/)
+- Open the MJML onboarding [template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/onboarding_email.mjml), as well as the html [version](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/onboarding_email.html)
+- Copy and paste the template into MJML website on the left
+- Make the relevant changes and then select `View HTML` on the top left hand side of the website. 
+- Copy the HTML version to the HTML template. 
+- Copy and pasted the MJML version from the browser to the MJML template. 
+- Submit Merge Request like normal with the updates.
 
 ### Values-check in Email
 
