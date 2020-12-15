@@ -8,15 +8,16 @@ title: "Biggest Tailwinds"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
-We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle is [several billion dollars and expanding](https://about.gitlab.com/handbook/sales/tam/#:~:text=Total%20Addressable%20Market%20(TAM)%20is,revenue%20per%20user%20(ARPU).&text=Additional%20potential%20users%3A,Product%20managers). There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business.
+We believe that the market opportunity for a complete DevSecOps platform designed as a single application for the software development lifecycle is [several billion dollars and expanding](/handbook/sales/tam/#:~:text=Total%20Addressable%20Market%20(TAM)%20is,revenue%20per%20user%20(ARPU).&text=Additional%20potential%20users%3A,Product%20managers). There are three primary trends outlined below that we have identified as the most significant to supporting the long term success of our business.
 We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
+
 ## [1. Digital Transformation](/blog/2019/03/19/reduce-cycle-time-digital-transformation/)
 [Customer Experience](https://docs.gitlab.com/ee/ci/review_apps/index.html#visual-reviews)
 
 [Software is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
 ## [2. DevOps](/devops)
+
 [Developers as the New Kingmakers](https://dzone.com/articles/developers-are-the-new-kingmakers)
 
 [DevOps Tooling Consolidation](https://devops.com/challenges-devops-standardization/)
@@ -25,7 +26,7 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 [Open Source](/20-years-open-source/)
 
-## [3. Multicloud](https://about.gitlab.com/topics/multicloud/)
+## [3. Multicloud](/topics/multicloud/)
 [Cloud Native and the Adoption of Kubernetes](/cloud-native/)
 
 [Microservices](/topics/microservices/)
@@ -35,3 +36,17 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 [Progressive Delivery](/blog/2019/04/19/progressive-delivery-using-review-apps/)
 
 [Workloads Moving to the Cloud](https://www.synopsys.com/blogs/software-security/cloud-migration-business/)
+
+## 4. [All-Remote](/company/culture/all-remote/)
+
+GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](/company/culture/all-remote/handbook-first-documentation/), operating [transparently](/handbook/values/#transparency), and [usage of GitLab](/solutions/gitlab-for-remote/) to drive results creates tailwinds for the organization.
+
+GitLab's adherence to all-remote makes the company an attractive destination for people who are on the [B-team in hybrid-remote firms](/company/culture/all-remote/hybrid-remote/#all-remote-upgrade), or feel limited by the inflexibility of a fully colocated role. 
+
+[GitLab Guide to All-Remote](/company/culture/all-remote/guide/)
+
+[Work where you want, when you want](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8) 
+
+[All-Remote Upgrade](/company/culture/all-remote/hybrid-remote/#all-remote-upgrade)
+
+[Our Work-From-Anywhere Future](https://hbr.org/2020/11/our-work-from-anywhere-future)
