@@ -20,11 +20,10 @@ These best practices are an iterative work in progress. As the LXP implementatio
 
 ### Creating new learning content
 
-#### Journeys and pathways
+#### Smart cards, pathways, and journeys
 
-##### Journeys
+- Create smartcards independenlty from a journey or pathway if you plan to reuse that content outside of the journey or pathway in the future
 
-##### Pathways
 
 #### Choosing between a badge or certification
 
