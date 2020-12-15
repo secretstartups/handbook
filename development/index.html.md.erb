@@ -232,7 +232,7 @@ The shared services and components below are extracted from the GitLab [product 
 | Email - Outbound |  |  |  |  |  |
 | GitLab K8S Agent |  | Centralized with Specific Team | @nicholasklick | Configure |  |
 | GitLab Pages |  | Centralized with Specific Team | @nicolewilliams | Release |  |
-| GitLab Rails |  |  |  |  |  |
+| GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | GitLab Shell |  |  |  |  |  |
 | HAproxy |  |  |  |  |  |
 | Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
@@ -252,7 +252,7 @@ The shared services and components below are extracted from the GitLab [product 
 | Puma |  |  |  |  |  |
 | Redis |  |  |  |  |  |
 | Sentry |  |  |  |  |  |
-| Sidekiq |  |  |  |  |  |
+| Sidekiq |  | Decentralized |  |  | DRI for each worker is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
 | Workhorse |  | Centralized with Specific Team | Sean Carroll | Create: Source Code BE  | Team does not work on most Workhorse features and has reduced development capacity |
 
 ## Learning Resources
