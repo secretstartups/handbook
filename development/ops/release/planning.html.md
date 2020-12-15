@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Release Management Planning'
+title: 'Release Team Planning'
 description: 'How the Release Team Operates'
 ---
 
@@ -12,14 +12,6 @@ description: 'How the Release Team Operates'
   {:toc .hidden-md .hidden-lg}
 
 ## Planning
-
-### Think Big sessions
-
-Our team meets every two weeks synchronously to discuss and align on the Release Management direction, user research findings, and brainstorm on product design and engineering proposals.
-
-Think Big sessions allow our team to stay aligned on our medium to long-term goals, and ensure that our short-term goals and deliverables are leading us in that direction. Some of the goals of this meeting revolve around discussing possible ideas and solutions for feature implementation, discuss open questions the team DRIs had that research could answer, share research results as they came in to keep the entire team informed, and capture new ideas to be discussed asyncrhonously.
-
-Watch all Release Management Think Big recordings on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpu857Z8gKR_BiPI-EXln1X).
 
 ### Kanban
 
@@ -39,19 +31,19 @@ We use the following boards are used to monitor this process
 
 ### Planning Board
 
-- [Release Management : Plan](https://gitlab.com/groups/gitlab-org/-/boards/1486424?&label_name[]=cicd%3A%3Aplanning&label_name[]=group%3A%3Arelease%20management)
+- [Release : Plan](https://gitlab.com/groups/gitlab-org/-/boards/1489550?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=cicd%3A%3Aplanning&label_name[]=group%3A%3Arelease)
 
 ### Scheduling Board
 
-- [Release Management : Schedule](https://gitlab.com/groups/gitlab-org/-/boards/1488068?&label_name[]=group%3A%3Arelease%20management&label_name[]=workflow%3A%3Ascheduling)
+- [Release : Schedule](https://gitlab.com/groups/gitlab-org/-/boards/1488068?&label_name[]=group%3A%3Arelease&label_name[]=workflow%3A%3Ascheduling)
 
 ### Build Board
 
-- [Release Management : Build](https://gitlab.com/groups/gitlab-org/-/boards/1488065?&label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Arelease%20management)
+- [Release : Build](https://gitlab.com/groups/gitlab-org/-/boards/1489558?&label_name[]=cicd%3A%3Aactive&label_name[]=group%3A%3Arelease)
 
 #### Plan
 
-We use the [Planning Boards](#planning-board) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label _group::release management_.
+We use the [Planning Boards](#planning-board) to triage issues that are not yet planned for a milestone. Issues in this board are labeled _cicd::planning_ and the group label _group::release_.
 
 The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
 
@@ -117,7 +109,7 @@ The agenda for the meeting is:
 1. Bugs list
 1. Technical debt items arising
 
-In Release Management we use three labels to indicate product priorities: 
+In Release we use three labels to indicate product priorities: 
 
 - `Release::P1`, which is the current milestone's top focus and will often have a `~Deliverable` label as well. 
 - `Release::P2`, is the next milestone's top focus and will be assigned a `~Release::P1` in the following milestone.
@@ -125,7 +117,7 @@ In Release Management we use three labels to indicate product priorities:
 
 #### Build
 
-We use the [Build boards](#build-board) to look at _cicd::active_ issues in the current milestone labeled with _group::release management_.
+We use the [Build boards](#build-board) to look at _cicd::active_ issues in the current milestone labeled with _group::release_.
 
 Because of the way that the boards in GitLab work, we needed to limit this to the started milestone, but are looking at how to have this roll in a more continuous manner.
 
@@ -226,7 +218,7 @@ team can do in a milestone. This metric also aligns with the throughput metric c
 
 While entering the approximate weight, take a moment to confirm issues have the correctly added labels:
 
-- `group::release management`
+- `group::release`
 - `category`
 - `feature` or `bug`
 - `frontend`
