@@ -183,6 +183,7 @@ There will always be competitive products.
 We tend to be much more cost effective because we build on open source, iterate quickly, get open source contributions, and only have to integrate new features with GitLab instead of a large number of tool combinations.
 
 ### GitHub
+
 {:#github}
 
 After GitLab core and home-grown DIY devops platforms, GitHub is GitLab's biggest competitor. After the Microsoft acquisition they have started to follow the single application strategy pioneered by GitLab.
@@ -265,14 +266,26 @@ To ensure we avoid this risk, we:
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
 ## 15. Key people leave
+
 {:#key-people-leave}
+
+GitLab's success will create growth opportunities for team members inside *and* outside of the company. 
+
+### Vesting
+
+{:#vesting}
 
 Key people may leave as they vest and achieve their economic goals.
 
 As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. For team members who have been at GitLab for 3.5 years, we offer an [option refresh program](/handbook/stock-options/#option-refresh-program) through which team members are granted a new option grant.
 
+### Company size
+
+{:#company-size}
+
 Alternatively, early team members may leave because working at a company the size of GitLab today or the size of GitLab in a year is different than working at an early-stage startup.
 Big companies are organizationally different than small startups, but there are many things about the spirit of a startup that we can maintain, notably:
+
 * our [high ambition](#high-ambition)
 * our [iteration value](/handbook/values/#iteration)
 * [keeping up velocity](#loss-of-velocity)
@@ -280,7 +293,20 @@ Big companies are organizationally different than small startups, but there are 
 
 Keeping the _feel_ of a small startup, despite a growing headcount, may help retain employees who would otherwise leave.
 
+### Remote proliferation
+
+{:#remote-proliferation}
+
+Key people may leave as remote opportunities proliferate. Remote work is a [diminishing competitive advantage](/company/culture/all-remote/vision/#diminishing-competitive-advantage) for GitLab, which is a net positive for the world but creates unique pressures to retain team members.
+
+GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator. 
+
+Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
+
+At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy. 
+
 ## 16. Innovation and creativity are stifled
+
 {:#innovation-and-creativity-are-stifled}
 
 As the number of layers increase and middle management layers increase, innovation and creativity are stifled.
@@ -363,7 +389,8 @@ If we don't set targets appropriately and communicate about those expectations e
 Missing a super-high goal while acheiving really, really high results is still something to be acknowledged and celebrated.
 We need to set and communicate targets that both drive the highest possible results and also ensure constituents understand the business results and in context.
 
-## 24. Inability to respond to technological change.
+## 24. Inability to respond to technological change
+
 {:#inability-to-respond-to-technical-change}
 
 Our value of iteration keeps us from marrying ourselves to timelines and product features that get planned years before development.
