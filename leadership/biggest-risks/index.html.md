@@ -183,6 +183,7 @@ There will always be competitive products.
 We tend to be much more cost effective because we build on open source, iterate quickly, get open source contributions, and only have to integrate new features with GitLab instead of a large number of tool combinations.
 
 ### GitHub
+
 {:#github}
 
 After GitLab core and home-grown DIY devops platforms, GitHub is GitLab's biggest competitor. After the Microsoft acquisition they have started to follow the single application strategy pioneered by GitLab.
@@ -265,14 +266,26 @@ To ensure we avoid this risk, we:
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
 ## 15. Key people leave
+
 {:#key-people-leave}
+
+GitLab's success will create growth opportunities for team members inside *and* outside of the company. 
+
+### Vesting
+
+{:#vesting}
 
 Key people may leave as they vest and achieve their economic goals.
 
 As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. For team members who have been at GitLab for 3.5 years, we offer an [option refresh program](/handbook/stock-options/#option-refresh-program) through which team members are granted a new option grant.
 
+### Company size
+
+{:#company-size}
+
 Alternatively, early team members may leave because working at a company the size of GitLab today or the size of GitLab in a year is different than working at an early-stage startup.
 Big companies are organizationally different than small startups, but there are many things about the spirit of a startup that we can maintain, notably:
+
 * our [high ambition](#high-ambition)
 * our [iteration value](/handbook/values/#iteration)
 * [keeping up velocity](#loss-of-velocity)
@@ -280,7 +293,20 @@ Big companies are organizationally different than small startups, but there are 
 
 Keeping the _feel_ of a small startup, despite a growing headcount, may help retain employees who would otherwise leave.
 
-## 16. Innovation and creativity are stifled
+## 16. Remote proliferation
+
+{:#remote-proliferation}
+
+Remote work is a [diminishing competitive advantage](/company/culture/all-remote/vision/#diminishing-competitive-advantage) for GitLab, which is a net positive for the world but creates unique pressures to retain team members. Key people may leave as remote opportunities proliferate, impacting talent retention, recruitment, team continuity, and financial pressures related to total rewards.
+
+GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator. 
+
+Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
+
+At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy. 
+
+## 17. Innovation and creativity are stifled
+
 {:#innovation-and-creativity-are-stifled}
 
 As the number of layers increase and middle management layers increase, innovation and creativity are stifled.
@@ -291,7 +317,8 @@ We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/business-ops/data-team/kpi-index/#gitlab-kpis).
 
-## 17. More layers of middle management creating problems
+## 18. More layers of middle management creating problems
+
 {:#more-layers-of-middle-management-creating-problems}
 
 As a company expands, you get more layers of middle management.
@@ -311,7 +338,8 @@ Each one of the problems above has a specific solution:
 1. Incent folks to take calculated risks. Make failure acceptable. There is a thin line between incentivizing risk and recklessness, so draw the line carefully. For example, when [team-member1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
 1. Focus on [customer centricity](/handbook/leadership/biggest-risks/#loss-of-customer-centricity).
 
-## 18. Technical debt ineffectively managed
+## 19. Technical debt ineffectively managed
+
 {:#technical-debt-ineffectively-managed}
 
 This is especially a problem if there are acquisitions of new technologies.
@@ -319,7 +347,8 @@ We address this for acquired technology by having [acquired organizations](/hand
 
 Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
-## 19. Loss of great end-to-end experience
+## 20. Loss of great end-to-end experience
+
 {:#loss-great-end-to-end-experience}
 
 Due to the breadth of our product scope, and the fact that our product and engineering teams work in isolation in stages and groups, there is a risk that the end-to-end experience in the application will break down.
@@ -328,7 +357,8 @@ In order to avoid this negative outcome, we:
 * Have [research team interview personas](/handbook/engineering/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
 * Ensure adequate [product leadership](/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
 
-## 20. Enterprise product management
+## 21. Enterprise product management
+
 {:#enterprise-product-management}
 
 While building enterprise software, we run the risk of optimizing the software for the buyer only while creating a bad experience for the end-users of the software.  This is seen in the [Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12)
@@ -337,7 +367,8 @@ In order to prevent this effect, we will:
 * Create and maintain [UX scorecards](/handbook/engineering/ux/ux-scorecards/) and interviews from UX
 * [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
-## 21. Frankenstein product
+## 22. Frankenstein product
+
 {:#frankenstein-product}
 
 Not following our acquisition strategy, not rebuilding what we acquire, could lead to poorly integrated acquisitions.
@@ -346,7 +377,8 @@ In order to manage this risk:
 * Follow our [acquisition strategy](/handbook/acquisitions/#acquisition-strategy)
 * For Engineering, the deciding factor is whether the senior-most technical stakeholder--who is not a founder--is on board or not. Because this person will either get the engineers on board or foment resistance.
 
-## 22. Ineffective Management
+## 23. Ineffective Management
+
 {:#ineffective-management}
 
 Ineffective management could lead to decreased [team member retention](/handbook/people-group/people-group-metrics/#team-member-retention) and team member [satisfaction](/handbook/business-ops/data-team/metrics/#satisfaction), as well as make functioning difficult.
@@ -356,19 +388,22 @@ In order to address this, we:
 * Train, coach, and publicly recognize good management
 * Set goals for management success (helping managers become great managers)
 
-## 23. Setting expectations incorrectly
+## 24. Setting expectations incorrectly
+
 {:#setting-expectations-incorrectly}
 
 If we don't set targets appropriately and communicate about those expectations effectively, team members, investors, and other community members may not understand how we're performing.
 Missing a super-high goal while acheiving really, really high results is still something to be acknowledged and celebrated.
 We need to set and communicate targets that both drive the highest possible results and also ensure constituents understand the business results and in context.
 
-## 24. Inability to respond to technological change.
+## 25. Inability to respond to technological change
+
 {:#inability-to-respond-to-technical-change}
 
 Our value of iteration keeps us from marrying ourselves to timelines and product features that get planned years before development.
 
-## 25. GitLab.com Reliability
+## 26. GitLab.com Reliability
+
 {:#gitlab-com-reliability}
 
 As more customers depend on GitLab.com instead of self-managed instances, the reliability and security of GitLab.com is crucial to the success of the organization.
@@ -389,7 +424,7 @@ We mitigate this risk in a number of ways:
 * the [Red Team](/handbook/engineering/security/#red-team), who emulate adversary activity to improve the security of GitLab.com.
 * the [Threat Intelligence team](/handbook/engineering/security/#threat-intelligence) who research and provide information about specific threats to help us protect GitLab.com from attacks.
 
-## 26. Functional Silos
+## 27. Functional Silos
 
 GitLab is a [functionally organized company](/company/team/structure/#gitlabcom-isnt-a-role).
 Projects in Sales are worked on by Sales.
