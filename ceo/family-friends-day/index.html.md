@@ -17,7 +17,6 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 
 ## Upcoming Family and Friends Days
 
-1. `2020-11-25`
 1. `2020-12-18`
 1. `2021-01-15`
 
@@ -29,6 +28,7 @@ We will look at scheduling future dates at the end of December 2020 pending the 
 1. Due to its success in reinforcing our message and supporting team member wellness, the second Family and Friends Day was celebrated on `2020-06-12`.
 1. A third Family and Friends Day was celebrated on `2020-08-14`.
 1. A fourth Family and Friends Day was celebrated on `2020-10-09`.
+1. A fifth Family and Friends Day was celebrated on `2020-11-25`. 
 
 
 ## FAQ about Family and Friends Day
