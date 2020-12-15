@@ -93,7 +93,7 @@ The Marketo project is where you will submit Marketo assets (emails, landing pag
 
 **Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. 
 
-When you submit Marketo jobs, the jobs will be available in the general `Jobs` tab in the platform and within the Marketo connector. Marketo jobs will not have the same name as jobs submitted through the `Documents` since these jobs are automated.
+When you submit Marketo jobs, the jobs will be available in the general `Jobs` tab in the platform and within the Marketo connector. Marketo jobs will not have the same name as jobs submitted through the `Documents` since these jobs are automated. 
 
 In the right side pane window shows the various Marketo assets that are either approved to be submitting for translation or in draft. Clicking the link icon opens a new tab to login into Marketo to view that particular asset.
 
@@ -105,7 +105,7 @@ When the translation job is complete, Smartling will automatically download thos
 
 #### Translation Progress
 
-In the Marketo connector within Smartling, `Translation Progress` will show you all the Marketo jobs submitted for translation. The `Applied` column is a date stamp showing when Smartling pushed that particular asset back to Marketo. If a Marketo translation job is completed and it's still showing up in the `Translation Progress` queue, you can select it from this menu and click the `Export to Marketo` button. Completed Marketo translation will get pushed back to Marketo every hour. The asset should will be pushed to wherever the source file is located within Marketo. 
+In the Marketo connector within Smartling, `Translation Progress` will show you all the Marketo jobs submitted for translation. The `Applied` column is a date stamp showing when Smartling pushed that particular asset back to Marketo. If a Marketo translation job is completed and it's still showing up in the `Translation Progress` queue, you can select it from this menu and click the `Export to Marketo` button. Completed Marketo translation will get pushed back to Marketo every hour. The asset should will be pushed to wherever the source file is located within Marketo. It will not overwrite the original file. A translated copy is created and the locale code will be appended to translated asset.
 
 ### PathFactory 
 
@@ -132,7 +132,7 @@ Each jobs is parsed differently in Smartling depending on the file type. So if a
 
 Due dates are automatically generated based on the total word-count.
 
-### Request a job
+### Request a job (Documents)
 
 You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
 
@@ -148,6 +148,17 @@ You can request a translation job either from the main `Jobs` tab in the top nav
 1. Click `Save Job and Continue`.
 
 All saved jobs must be authorized before they are submitted for translation.
+
+### Request a job (Marketo)
+
+The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
+
+1. Click `Projects` and choose `GitLab - Marketo`.
+1. Click the `Marketo` tab under `Account Settings`.
+1. From the `Translate` drop down, select the type of Marketo asset you wish to translate (snippets, forms, landing pages, emails, programs). 
+1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
+1. Once you have selected the assets you want translated, click the `Request Translation` button. 
+1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
 
 ### Attachments
 
