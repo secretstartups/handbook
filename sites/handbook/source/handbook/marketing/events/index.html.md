@@ -327,7 +327,7 @@ cc @jburton to create list upload issue and DMA request as required
 1. Leads and Campaign Setup
     - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with the MPM and MktgOps within 24 hours of event close or as soon as received by event coordinators.
     - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
-    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/#list-imports).
+    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce).
 
 ### Ancillary Events
 
@@ -564,7 +564,7 @@ If an offline event is cancelled after the MPM set up the issues, epic, and trac
 
 #### Event Types
 
-For a full breakdown of our various types of events, please review [this list](/handbook/sales/field-operations/gtm-resources/#campaign-type--progression-status).
+For a full breakdown of our various types of events, please review [this list](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
 
 #### Important Planning Note
 {:.no_toc}
@@ -776,7 +776,7 @@ Common lead questions:
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
-- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Business Ops handbook
+- Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
 
