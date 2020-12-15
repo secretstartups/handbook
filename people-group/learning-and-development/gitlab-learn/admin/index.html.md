@@ -14,7 +14,7 @@ The following processes are used by administrators of GitLab Learn.
 
 ## Best practices for content creation and organization in GitLab Learn
 
-Outline of best practices for how to upload and organize content in GitLab Learn is coming soon.
+If EdCast admin have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 ### Creating new learning content
 
