@@ -769,7 +769,7 @@ Here's how to do this:
    This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
 1. During meetings, in the upper-right side of the window for a Google document, double-click on the picture (or first initial) of the person speaking to see where their cursor currently is in the document being discussed.
-1. To add additional rows to a numbered list in a google document, add additional spaces under the existing numbered list in the document, highlight those spaces and click the numbered list icon in the tab (or command + shift + 7) to create a numbered list from the spaces. See video from McB on how to do this in your google doc https://www.youtube.com/watch?v=dgyttEJi-ZQ
+1. To add additional rows to a numbered list in a google document, add additional spaces under the existing numbered list in the document, highlight those spaces and click the numbered list icon in the tab (or command + shift + 7) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial. 
 
 ### Google Forms
 
