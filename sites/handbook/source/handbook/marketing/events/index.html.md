@@ -327,7 +327,7 @@ cc @jburton to create list upload issue and DMA request as required
 1. Leads and Campaign Setup
     - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with the MPM and MktgOps within 24 hours of event close or as soon as received by event coordinators.
     - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
-    - Use template to standardize the data following the [list import guidelines](/handbook/business-ops/resources/#list-imports).
+    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/#list-imports).
 
 ### Ancillary Events
 
@@ -564,7 +564,7 @@ If an offline event is cancelled after the MPM set up the issues, epic, and trac
 
 #### Event Types
 
-For a full breakdown of our various types of events, please review [this list](/handbook/business-ops/resources/#campaign-type--progression-status).
+For a full breakdown of our various types of events, please review [this list](/handbook/sales/field-operations/gtm-resources/#campaign-type--progression-status).
 
 #### Important Planning Note
 {:.no_toc}
@@ -759,7 +759,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 #### Event List
 
 1. List received by event DRI from event organizers
-1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/business-ops/resources/#list-imports)
+1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/sales/field-operations/gtm-resources/#list-imports)
 1. List is sent to Marketing Ops for upload to Marketo & associate to related Campaign (w/in 24hrs of receipt from event)
     - Marketo will match based on `Email Address` to existing records regardless if LEAD or CONTACT object.
 1. Marketo will sync to SFDC automatically. LeanData assigns records based on Territory ownership.
@@ -772,10 +772,10 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](/handbook/business-ops/resources/#account-ownership-rules-of-engagement) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/business-ops/resources/#lead--contact-statuses) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Business Ops handbook
 
 #### Onsite registration form & landing page
