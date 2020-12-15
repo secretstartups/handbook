@@ -336,7 +336,7 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Stage level - SMAU, Paid SMAU, Other PI
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
-1. Determine the right [collection framework](/direction/product-analytics/#collection-framework) to utilize. Some guidance for considering collection frameworks:
+1. Determine the right [collection framework](/direction/product-intelligence/#collection-framework) to utilize. Some guidance for considering collection frameworks:
   * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
    * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
    * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
@@ -462,5 +462,10 @@ All of the prior steps have been completed and a PI is successfully implemented.
 | [Event Dictionary](/handbook/product/product-analytics-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
 | [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
 | [Implementing Product Performance Indicators](/handbook/product/product-analytics-guide#implementing-product-performance-indicators)                                   | The workflow for putting product performance indicators in place   |
+<<<<<<< HEAD:sites/handbook/source/handbook/product/product-intelligence-guide/index.html.md.erb
 | [Product Intelligence Direction](/direction/product-analytics/)                                                                              | The roadmap for Product Intelligence at GitLab                       |
 | [Product Intelligence Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Intelligence groups         |
+=======
+| [Product Intelligence Direction](/direction/product-intelligence/)                                                                              | The roadmap for Product Analytics at GitLab                       |
+| [Product Analytics Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Analytics groups         |
+>>>>>>> 2ab6caffa70988234bfbe0c0df4066f7e93ea433:sites/handbook/source/handbook/product/product-analytics-guide/index.html.md.erb
