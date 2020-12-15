@@ -97,11 +97,15 @@ When you submit Marketo jobs, the jobs will be available in the general `Jobs` t
 
 In the right side pane window shows the various Marketo assets that are either approved to be submitting for translation or in draft. Clicking the link icon opens a new tab to login into Marketo to view that particular asset.
 
-You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. **Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases.
+You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. **Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases but you will still need to follow the regular process for submitting Marketo jobs through the connector for those other languages. If you were to authorize translation for the other languages on a particular Marketo job in Smartling, it will translate those assets, but it will **not** return them to Marketo per the connector. You must submit any Marketo assets from the connector and not via the jobs menu.
 
 Auto-authorize - automatically approves any Marketo job submission for translation (currently turn off).
 
 When the translation job is complete, Smartling will automatically download those translated assets back to Marketo. The chron scheduler in Smartling looks for completed Marketo jobs every hour and pushes them to Marketo. The original source language asset is not changed, a translated copy is created and the file name is appended with the abbreviated language code (e.g. French = fr).
+
+#### Translation Progress
+
+In the Marketo connector within Smartling, `Translation Progress` will show you all the Marketo jobs submitted for translation. The `Applied` column is a date stamp showing when Smartling pushed that particular asset back to Marketo. If a Marketo translation job is completed and it's still showing up in the `Translation Progress` queue, you can select it from this menu and click the `Export to Marketo` button. Completed Marketo translation will get pushed back to Marketo every hour. The asset should will be pushed to wherever the source file is located within Marketo. 
 
 ### PathFactory 
 
