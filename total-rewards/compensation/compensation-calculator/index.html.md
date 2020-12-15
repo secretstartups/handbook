@@ -48,7 +48,7 @@ You can use the calculator to determine the overall Total Rewards Package Offere
 
 ### The Compensation Calculator Formula
 
-Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Contract Factor](#contract-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
+Your compensation = [SF benchmark](#sf-benchmark) x [Location Factor](#location-factor) x [Level Factor](#level-factor) x [Exchange Rate](/handbook/total-rewards/compensation/#exchange-rates)
 
 The calculator will output the amount as `base + variable = total target cash (TTC)`
 
@@ -263,10 +263,6 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 7			|                 | Mid Market                      |
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
 | 5			|                 | Analyst/ SDR  |
-
-## Contract Factor
-
-Contract Factor distinguishes between employee (1) or contractor (1.17). A contractor may bear the costs of their own health insurance, social security taxes and so forth, leading to a 17% higher compensation for the contractor. Visit our [contracts page](/handbook/contracts/) to learn more about the different types of contracts we offer.
 
 ## Compa Ratio
 

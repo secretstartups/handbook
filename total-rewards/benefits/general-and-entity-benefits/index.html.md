@@ -34,7 +34,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 ### Benefits Available to Contractors
 
-Contractors of GitLab BV are eligible for the [general benefits](/handbook/total-rewards/benefits/#general-benefits), but are not eligible for entity specific benefits as they have an additional 17% added to the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator). A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, tax details and so forth, leading to a 17% higher compensation for the contractor within the calculator.
+Contractors of GitLab BV are eligible for the [general benefits](/handbook/total-rewards/benefits/#general-benefits), but are not eligible for entity specific benefits. A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, or tax details. 
 
 Our contractor agreements and employment contracts are all on the [Contracts](/handbook/contracts/) page.
 
