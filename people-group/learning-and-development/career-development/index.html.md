@@ -129,7 +129,7 @@ As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/compa
 
 As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
 
-### Performance Enablement Review
+### E-Group Performance Enablement Review
 
 Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
  
@@ -137,12 +137,12 @@ The E-Group will follow a similar process to our GitLab team member process with
 
 **Performance Factors**
 
-The output from these quarterly meetings will be one of the below performance factors
-
 - Developing in role i.e. you are new to company / new to role  or there is performance development required
 - Performing in role i.e. you are meeting all requirements
 - Exceeding in role i.e. you are knocking it out of the park
 
-**Compensation reviews**
+**Compensation Reviews**
 
-When conducting compensation reviews for the E-Group, GitLab will review two items: 1) alignment to market rates 2) performance factors 
+When conducting compensation reviews for the E-Group, GitLab will review two items: 
+1. Alignment to market rates 
+1. Performance factors 
