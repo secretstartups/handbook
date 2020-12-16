@@ -63,7 +63,7 @@ description: "Operations, Procedures, Documentation"
 | SAL | Strategic Account Leader |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO] | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -72,7 +72,6 @@ description: "Operations, Procedures, Documentation"
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | Won Opportunity | Contract signed to Purchase GitLab |
 
-[SAO]: /handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao
 ## Customer Lifecycle
 
 A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams.
