@@ -84,7 +84,7 @@ Check out recordings of previous Learning Speaker Series calls!
 
 The following process outlines steps for the L&D team to take when planning and implementing the calls. 
 
-Anyone or any team can host a Learning Speaker Series for the organization! If interested and there is a topic & speaker lined up,  please reach out to the L&D team via the `#learninganddevelopment` Slack Channel for support. 
+Anyone or any team can host a Learning Speaker Series for the organization! If interested and there is a topic & speaker lined up,  please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process. 
 
 **Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps outlined below are also included in the issue template and are included here as reference.
 
