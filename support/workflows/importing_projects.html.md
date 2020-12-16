@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Importing Projects for Customers
+description: "Provides guidance on when GitLab Team members might offer to import projects on behalf of customers or prospects, and the process for doing so."
 category: GitLab.com
 ---
 
@@ -70,7 +71,7 @@ A GitLab.com admin is required to correctly map users in GitLab, [per our docume
 
 #### Other Cases
 
-If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
+If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_escalations Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ### Identify Import Errors
 
@@ -114,7 +115,7 @@ If the customer requires that all issues, merge requests, and commits be mapped 
 
 #### 1. Create Admin Account Access Request
 
-1. Open an issue using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request) template and fill it out in its entirety (replace any instances of `group` with the group name).
+1. Open an issue using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) template and fill it out in its entirety (replace any instances of `group` with the group name).
 1. Add the `AR-Priority::1` (24 hour turnaround) label.
 1. Comment on the issue and tag your manager requesting their approval.
 1. Tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.

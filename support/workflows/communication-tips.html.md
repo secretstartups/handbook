@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Communication tips
 category: References 
+description: "Provides general communication tips for the Support Engineering team"
 ---
 
 ## On this page
@@ -28,6 +29,7 @@ In addition to `:white_check_mark:` emoji that is mentioned in [General Guidelin
 
 1. `:idontknow:` - when another Support Engineer is asking a question which you don't know the answer to
 1. `:red_circle:` - when another Support Engineer is asking for others to take a look at something or similar, but you are unable to do that within reasonable time (Example is when another engineer is asking for someone to replace them for their on-call shift, but you are unavailable at the time they asked for. Another example is when [SLAH](/handbook/support/workflows/meeting-service-level-objectives.html#what-is-the-sla-hawk-role) is asking whether someone can respond to ticket breaching in one hour, but you have no bandwidth to do that within the SLA.)
+1. `:eyes:` - to signal that you are looking into the request. It serves as an indication that someone is acting upon the request, and prevents multiple people duplicating work. If you were unable to answer the request you should remove the `:eyes:` so other people know the request is not yet handled.
 
 Note that it is better to send some signal (even though it might mean you cannot help) than to ignore the message that has been sent. This helps the person who started the thread as it avoids the situation where they still hope someone will chime in and makes them focus on searching for help elsewhere.
 

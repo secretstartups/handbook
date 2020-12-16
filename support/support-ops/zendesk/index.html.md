@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Overview
+title: Zendesk Overview for Support Operations
+description: Overview of how ZenDesk is managed by Support Operations.
 ---
 
 # Zendesk Overview
@@ -13,6 +14,18 @@ Pages to read for more information:
 * [Tags](tags.html)
 * [Tickets](tickets.html)
 * [Users](users.html)
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Current Important Things to Know
+
+If at any point you see an agent reply in a Zendesk ticket that does not have a
+signature, please do not reply to or edit the ticket. Instead, immediately
+escalate this to the Support Operations Manager, Jason Colyer.
 
 ## Macros
 

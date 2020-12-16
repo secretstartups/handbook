@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Organizations
+description: Purpose and configuration of Zendesk organizations and related fields.
 ---
 
 # Zendesk Organizations
@@ -8,6 +9,12 @@ title: Zendesk Organizations
 Organizations are simply a collection of users in Zendesk (much like groups).
 We use them to also store metadata (synced from Salesforce), which is used to
 determine such things as SLA, ARR, etc.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Organization Fields
 
@@ -57,6 +64,11 @@ plan tags on newly created tickets. As an example:
 >
 > To ensure they get the proper support (and the ticket routes properly), we
 > need to manually apply the starter tag on the organization.
+
+Support engineers can [request tags and notes be added to the org](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request).
+
+Once a ticket comes in, it may show in multiple views. The non-applicable tag
+needs to be removed so that it only shows in a single queue.
 
 ## Organization Permissions
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Looking up customer account details
+description: "How to look up customer account details within Zendesk, Salesforce, and customers.gitlab.com"
 category: Handling tickets
 ---
 

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Incident Management for Self-Managed Customers
 category: Support Workflows
+description: How to manage high level incidents for self-managed customers.
 ---
 
 ## On this page

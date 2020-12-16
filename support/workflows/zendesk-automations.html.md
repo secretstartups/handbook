@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Automations
 category: Zendesk
+description: Automations are similar to triggers because both define conditions and actions that modify ticket properties and optionally send email notifications to customers and agents.
 ---
 
 ## On this page

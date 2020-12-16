@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Team
+description: Introduction to the responsiblities of the Support Operations Team.
 ---
 
 # Introduction to Support Operations Team (Support-Ops):
@@ -15,6 +16,12 @@ Further details and responsibilities are explained [here](#responsibilities).
 
 You can locate us in GitLab issues or via the `#support_operations` channel
 in slack.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Mission:
  

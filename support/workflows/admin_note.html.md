@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Use of Admin Notes
 category: GitLab.com
+description: "Workflow for when and how to add admin notes to a GitLab.com account"
 ---
 
 ## On this page

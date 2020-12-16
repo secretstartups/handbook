@@ -2,6 +2,8 @@
 layout: handbook-page-toc
 title: Working with Issues
 category: Handling tickets
+description: The support team uses the processes and escalation points described on this page when creating, updating and escalating GitLab issues.
+
 ---
 
 ## On this page
@@ -48,26 +50,24 @@ Using the appropriate labels is _critical_ to ensuring visibility of issues and 
 
 Required:
 
-- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/product-categories/#devops-stages), [features list by stage](/features) or similar existing issue.
+- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
-  - On the [GitLab.com Support Forum](https://gitlab.com/gitlab-com/support-forum/), add `~support request`.
-- `~customer`, if appropriate `~customer+`: [see list](https://drive.google.com/drive/u/0/search?q=title:%20%22Customer%2B%20Accounts%22) (internal)
+- `~customer` (if a ZenDesk link is added, the bot will add this automatically if you forget)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
 
-For `~customer`+`~bug` labeled issues, a Severity estimate is required. If it is missing, please add them to attract PM attention to the issue:
-- [Severity](/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~severity::1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
+For `~customer`+ any label that allows severity (most commonly `~bug`) labeled issues, a Severity estimate is required. If it is missing, please add them to attract PM attention to the issue:
 
-**Note:** The use of `~customer+` is under discussion and may change in the near future. Please refer to [sales #302](https://gitlab.com/gitlab-com/sales/issues/302).
+- [Severity](/handbook/engineering/quality/issue-triage/#severity): Follow the definitions to the best of your ability when assigning severity. If it's an `~severity::1`, mention the PM and consider posting in the appropriate Slack channel as well.  As Support often has a better idea of the impact on the customer(s), please explain the impact in a comment when you assign the Severity label. Feel free to have the customer add a comment as well, adding any other context they feel might be important.
 
 Optional, but highly recommended:
 
-- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels)
+- [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels)
 - [Subject](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#subject-labels)
 - `~Reproduced on GitLab.com` if applicable
 
 ## Escalate New and Existing Issues
 
-The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/product-categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
+The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
 
 ## Creating Issues
 
@@ -113,11 +113,10 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product  | Escalation Types                 | Escalation Point                                        | Assignment      |
 |------------------|--------------------------------|-----------------------------------------------------------|------------------
-| GitLab           | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab/issues/new           |
-| GitHost.io       | Bug reports, Feature proposals | https://gitlab.com/gitlab-com/githost/issues/new          | Maintainer of GitHost.io
-| Omnibus GitLab   | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new   | Omnibus GitLab specialist
-| GitLab Runner    | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab-runner/new  | GitLab CI specialist
-| GitLab Workhorse | Bug reports, Feature proposals | https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new | Maintainer of gitlab-workhorse
+| GitLab           | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/issues/new>           |
+| Omnibus GitLab   | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new>   | Omnibus GitLab specialist
+| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/new>  | GitLab CI specialist
+| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new> | Maintainer of gitlab-workhorse
 
 **See the [GitLab team page](/company/team/) for assignments**
 
@@ -125,16 +124,11 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
-| GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | https://gitlab.com/gitlab-com/infrastructure/issues/new | Production Lead/Senior Production Engineer
-| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | https://gitlab.com/gitlab-com/support/internal-requests/issues/new | Use `~"GitLab.com Console Escalation"` label |
-| GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | https://gitlab.com/gitlab-com/support/support-team-meta/issues/new        | Support Team Lead/Senior Support Engineer
+| GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | <https://gitlab.com/gitlab-com/infrastructure/issues/new> | Production Lead/Senior Production Engineer
+| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | <https://gitlab.com/gitlab-com/support/internal-requests/issues/new> | Use `~"GitLab.com Console Escalation"` label |
+| GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](/company/team/) for assignments**
-
-### GitHost.io
-
-- GitHost [project](https://dev.gitlab.org/gitlab/GitHost)
-- GitHost [service](http://githost.io)
 
 ### Omnibus GitLab
 

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Processing Signed Data Processing Addendums (DPAs)
 category: Legal
+description: "Support Engineering workflow detailing what to do with signed Data Processing Addendums"
 ---
 
 ## On this page
@@ -12,7 +13,7 @@ category: Legal
 
 ## Overview
 
-[Data Processing Addendums](https://drive.google.com/drive/u/0/folders/1LXCx7kaXk1eooIPixF3R-ujNhIOtsv1H) are available to paid subscribers of GitLab.com. This workflow details what to do with fully executed (signed) DPAs received from customers.
+Data Processing Addendums are available to paid subscribers of GitLab.com through their Sales representatives. This workflow details what to do with fully executed (signed) DPAs received from customers.
 
 ## Workflow
 

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Working with federal tickets
 category: Handling tickets
+description: "Support Engineering workflow detailing how to work on US Federal Tickets"
 ---
 
 ## On this page
@@ -31,6 +32,10 @@ Only our US Citizen Support Engineers have access to the
 Issues relating to tickets received in the US Federal Zendesk Instance may be discussed outside of the federal instance with caveats.  Identifying information that includes system names, organisation names, customer names, specific infrastructure details and logfiles should be limited to internal tickets. Technical problem specifics are fine to discuss in chat or forums. When in doubt, ask a manager or the customer's TAM if the information is acceptable to be communicated to non-US citizens. 
 
 For any assistance with log review or confidential information within a ticket please CC other engineers with access to the federal instance within Zendesk using an internal comment.
+
+Federal tickets can be linked publicly, such as in an issue or merge request as the link itself
+does not reveal any information, just avoid naming the link with any identifiable information. For
+example: `[Federal internal ticket](<ticket_link>)`.
 
 When pairing over video chat, be sure you only pair with engineers that have access to the federal
 instance and avoid screensharing.

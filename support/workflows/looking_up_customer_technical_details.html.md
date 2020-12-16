@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Looking up customer technical details
+description: "How to look up customer technical details within Zendesk and the Architecture integration, or the Account Management Group"
 category: Handling tickets
 ---
 

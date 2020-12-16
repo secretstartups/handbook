@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Using Kibana
+description: "Information on what Kibana is, how to search it, interpret its results, and tips and tricks for getting specific information from it."
 category: Infrastructure for troubleshooting
 ---
 

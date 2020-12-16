@@ -1,22 +1,20 @@
 ---
 layout: handbook-page-toc
-title: Handling Mergeing or Splitting Subscription Request
-category: License and subscription
+title: Merging or splitting licence/subscription requests
+category: General
+description: This is a guide on how to handle requests to merge or split subscription(s).
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Overview
+## Overview
 
-This is a detail guide of how to handle requests to merge or split subscription(s).
+This is a guide on how to handle requests to merge or split subscription(s).
 
 **Short answer: No, support do not merge or split subscription(s). We cannot even if we want to.**
 
-### Merging subscriptions
+## Merging subscriptions
 
 Generally, we do not support mixed license or multiple subscriptions for a single GitLab instance or GitLab.com group. Only one license can be used on a GitLab instance at a time; similarly, only one subscription can be associated to a GitLab.com group namespace at a time. If customers have multiple subscriptions and they wish to use the subscription on a GitLab instance/GitLab.com group, the latest subscription needs to be submitted as add-on to the existing subscription.
 
@@ -34,14 +32,14 @@ This is being actively discussed in [Route to Market Mid-Term Change Alignment](
 
 Interesting to note: Reseller subscriptions and direct-purchased subscriptions should not be on the same customer account. Which means that in some cases you will be generating a license for the sum of 2 subscriptions across 2 customer accounts.
 
-### Splitting subscription
+## Splitting subscription
 
 This is quite similar but reverse to merging the subscriptions. If customer purchase multiples seats and wish to use those seats in a subscription to multiple GitLab instances or multiple GitLab.com groups, they would need two different subscriptions.
 
 Example case: https://gitlab.zendesk.com/agent/tickets/126634 (internal)
 More context: https://gitlab.com/gitlab-com/support/internal-requests/-/issues/450#note_192403894
 
-### How to move the ticket forward
+## How to move the ticket forward
 
 To move the ticket forward, please check whether the new subscription was purchased through a new reseller. This can be done by:
 

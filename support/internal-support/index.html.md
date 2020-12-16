@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Working With GitLab Support
+description: How GitLab team members can work with and best ways to contact Support.
 ---
 
 ## Overview
@@ -31,7 +32,7 @@ The following channels are where GitLab Support can be found on Slack and are th
 - [#support_gitlab-com](https://gitlab.slack.com/messages/C4XFU81LG/) - This channel is specifically for the GitLab.com support team. They handle GitLab.com related tickets. It should be used if you have a quick question about the GitLab.com Support Team specifically.
 - [#support_self-managed](https://gitlab.slack.com/messages/support_self-managed/) - This channel is specifically for the self-managed support team. They handle self-managed production issues, triage bugs, and self-managed emergencies, among other things.
 - [#support_licensing-subscription](https://gitlab.slack.com/messages/support_licensing-subscription/) - This channel handles license and subscription issues.
-- [#support_managers](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support managers including escalations.
+- [#support_escalations](https://gitlab.slack.com/messages/CBVAE1L48/) - This channel is for support escalations and other items which require support managers' attention.
 - [#feed_zd-gitlab-com](https://gitlab.slack.com/messages/CADGU8CG1/) - Feed of all GitLab.com Zendesk ticket activities.
 - [#feed_zd-self-managed](https://gitlab.slack.com/messages/C1CKSUTL5/) - Feed of all self-managed Zendesk ticket activities.
 
@@ -64,7 +65,7 @@ All GitLab Team Members can request a 'Light Agent' account so that you can see 
 
 To request a Light Agent Zendesk account, please send an email to `gitlablightagent.5zjj2@zapiermail.com` - you'll receive an automated reply with the result of your request. **You must send your request from your GitLab Google / Gmail account. No other addresses will work.** The Subject and Body fields of the email can be empty. Once set up, you'll need to wait 24 hours for your account to be assigned Zendesk in Okta. Once Zendesk is assigned, you should be able to [log in](https://gitlab.zendesk.com/agent). If you don't get your account assigned within this period, please reach out to #support-operations in Slack. In most cases, people who don't get access within the 24 hours already had an end-user account which prevents the automation from working as expected.
 
-You cannot send public replies to customers with a Light Agent account - if you need to do this, please submit a [new Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request) for a paid full agent account. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
+You cannot send public replies to customers with a Light Agent account - if you need to do this, please submit a [new Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for a paid full agent account. If needed, you can [read more information](https://www.zendesk.com/company/collaboration-add-on-additional-features/) on Light Agent accounts from Zendesk.
 
 ## Common Requests
 
@@ -111,6 +112,52 @@ Please consider the following:
 | Assistance With License Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=License%20Issue) using the `License Issue` template.
 | Assistance With a SaaS Subscription Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template |
 
+#### GitLab.com Billable Members List
+
+As Product has implemented the minimal viable versions of [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) and [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454), Support is beginning to deprecate this process. You can also see [epic 4547](https://gitlab.com/groups/gitlab-org/-/epics/4547) for improvements that product is working on and their progress.
+
+##### Self-serve options for GitLab team members
+
+Here are some options to get basic seat count information:
+
+1. *Plan* and *Seats Currently in Use*:
+    - [chatops](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html#chatops-on-gitlabcom) (requires dev.gitlab.org account) with the command: `/chatops run namespace find group-path`
+2. Info from 1 plus Subscription (or trial) *End Date*
+    - [Sisense dashboard](https://app.periscopedata.com/app/gitlab/576469/Namespace-Overview) (changing the namespace ID filter)
+3. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
+    - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
+
+##### Options for customer
+
+> **Note:** The public facing version of this information is on the [Licensing and subscription FAQ page](https://about.gitlab.com/pricing/licensing-faq/#how-can-i-get-a-list-of-billable-users-for-my-plan).
+
+Customers can get their subscription information and a list of users using a seat on their group's **Billing** page (under the group **Settings**) .
+
+Alternative methods:
+
+1. [Billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group)
+1. [glgl tool's rollcall script](https://gitlab.com/gitlab-com/support/toolbox/glgl) which will provide the subgroup or project where a user has been added.
+*Note:* This project has been archived and will no longer be updated.
+
+If none of those options work and a report detailing which users are a part of the group is required, the request **MUST** be made directly by the customer through the [Support Portal](https://support.gitlab.com).
+
+The Support Engineer working the ticket will:
+
+1. Authenticate their identity by asking them to perform an action (such as create a Snippet with specific text).
+1. Generate the report.
+1. Password protect the report and send it along in the ticket.
+1. Send the password in a separate email.
+
+##### Billable members internal request
+
+If *none* of these above are options for your case, open a [billable members internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) with the `Billable members` template.
+
+> **Note:** Support will only provide you with a screenshot of the billing page's subscription info. This includes:
+
+- Plan, and if it is a trial
+- Seats in subscription, currently in use, max used, owed
+- Subscription Start and End dates
+
 ### Other
 
 #### I want to escalate a ticket
@@ -122,33 +169,25 @@ GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets 
 
 1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
 
-1. From the `#support_managers` channel the Slack ticket escalation workflow can be initiated by following the steps below:
-
-    * While on the `#support_managers`, click on the small `lightning` icon as shown in the image.
-        ![alt text](images/slack_workflow_escalation.png "Start Workflow")
-
-    * Click on `Ticket Escalation`
-
-        ![alt text](images/workflow_menu.png "Start Workflow")
-
-     * Complete the information requested on the form and click on `Submit`
-        ![alt text](images/form.png "Escalation Form")
-
-     * After clicking `submit` the workflow will be sent and automatically tag the support managers. You will also receive a private message with a confirmation.
-
-     * All fields are required.
-
-1. Understand that we'll do our best to prioritize appropriately taking into account all of the tickets in the queues - there may be more pressing items.
-
-##### Issues in `internal-requests`
+#### The Following instructions apply for both Zendesk tickets and Internal Support issues
 {: .no_toc}
 
-1. Post in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) with a link to the issue and a short explanation of why it requires urgent attention. Please also keep in mind that issues in `internal-requests` have no SLA.
+1. Go to the [support escalation form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/)
+
+     * Complete the information requested on the form and click on `Submit`
+        ![alt text](images/escalation_form.png "Escalation Form")
+     * All fields are required.
+
+     * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
+     Additionally a thread will be created in` #support_escalations` slack channel.
+
+1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
+
 
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
 
-If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
+If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
 
 #### Trials and Prospect Support
 
@@ -158,7 +197,7 @@ If you've been contacted by a prospect whose evaluation of GitLab includes evalu
 
 1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
 1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
-1. Instruct your prospect to select `Sales assisted trial` as their subscription level when [submitting a support ticket](https://support.gitlab.com).
+1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
 
 **Important Additional Notes**
 
@@ -187,8 +226,9 @@ If you'd like to enable this, please:
 
 #### My customer needs a report of all the users within their group(s) structure
 
-To view the group's number of billable members, a member of the group with `Owner` permissions may visit the **Settings -> Billing** section of it to see a breakdown. The number of billable members is the amount listed under `Seats currently in use` and this is the amount that will come up whenever they link their group to a paid subscription. Billable members [consist of every member](https://about.gitlab.com/pricing/licensing-faq/#who-gets-counted-in-the-subscription) who is added to a group, subgroup, or project within a paid namespace with the only exception being Guest users within a namespace on a Gold subscription.
+To view the group's number of billable members, a member of the group with `Owner` permissions may visit the **Settings -> Billing** section of it to see a breakdown. The number of billable members is the amount listed under `Seats currently in use` and this is the amount that will come up whenever they link their group to a paid subscription. Billable members [consist of every user](https://about.gitlab.com/pricing/licensing-faq/#who-gets-counted-in-the-subscription) who is added to a group, subgroup, or project within a paid namespace with the only exception being Guest users within a namespace on a Gold subscription.
 
-Currently, there is no single API call or section of the UI that shows a full list of users. Customers can run the [GitLab Group Leader](https://gitlab.com/gitlab-com/support/toolbox/glgl) tool, which will generate a report detailing where specific users have been added within their group(s) and any of its subgroups and projects. If the customer does not want to run this report themselves, they may submit a support ticket and we'll run it for them.
+We have a [billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group) that will produce a list of all the billable members for the group. This must be run with your own PAT.
 
-We have a couple of issues, [27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) and [7771](https://gitlab.com/gitlab-org/gitlab/-/issues/7771), that are being implemented soon to better view how seat counts are being used.
+All the billable members are also currently displayed on the group billing page in an unsorted list. This is a first iteration; if interested, you can view the [epic](https://gitlab.com/groups/gitlab-org/-/epics/4547) to see the planned work. If you have any feedback on the billable members list or want to request functionality or UI changes that are not planned in the epic, please feel free to leave a comment on the epic.
+

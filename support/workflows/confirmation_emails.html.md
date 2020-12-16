@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Confirmation Emails
 category: GitLab.com
+description: "Workflow for cases when a customer reports they are not receiving their confirmation email"
 ---
 
 ## On this page

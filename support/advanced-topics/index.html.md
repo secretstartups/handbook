@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Advanced Support Topics
+description: Training modules that Support team members can complete to gain expert skills.
 ---
 
 ## On this page
@@ -32,7 +33,7 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 - [High Availability](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/HA.md)
 - [Git LFS Docs](https://docs.gitlab.com/ee/topics/git/lfs/index.html)
 - [Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/user/project/import/svn.html)
-- [GitLab Pages Docs](https://docs.gitlab.com/ee/pages/administration.html)
+- [GitLab Pages Docs](https://docs.gitlab.com/ee/administration/pages/index.html)
 
 ### Deep Dives
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Live Upgrade Assistance workflow
+description: "Support team Workflow for providing Live Upgrade Assistance to customers"
 category: Live Upgrade Assistance
 ---
 
@@ -32,10 +33,10 @@ advance of the production upgrade.
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
-   (upgrade documentation, architecture diagram, etc.). 
+   (upgrade documentation, architecture diagram, etc.).
    * This should occur within 24 hours of the request's creation. Should the
      TAM notice this has not been done, the TAM should escalate the issue via
-     the #support_managers slack channel.
+     the `#support_escalations` slack channel.
    * If the request meets the [minimum notice period](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#how-much-advanced-notice-must-i-give):
      * Assign the issue to a Support Engineer in the same region as the
        customer and, if possible, the same region as the Support Engineer that
@@ -68,13 +69,15 @@ advance of the production upgrade.
    1. Post call, the Support Engineer will comment on the issue with a post-mortem
       of sorts. This should detail any issues that occurred or comments that might
       be relevant for the TAM or Support.
+1. If the live upgrade assistance call needs to be rescheduled, the new date
+   must also meet the minimum notice period.
 1. The Support Engineer will close out the upgrade request issue.
 
 #### What to do if issues occur during the course of upgrade assistance
 
 Should issues occur, the Support Engineer should encourage the user to initiate
 the reviewed rollback plan. If the Support Engineer feels confident they can
-resolve the issues they have encoutered, they may do so. However, the planned
+resolve the issues they have encountered, they may do so. However, the planned
 maintenance window of the user should be taken into consideration. Ensure there is
 enough time to rollback should it be required.
 

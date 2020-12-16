@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Testing Environment
 category: Infrastructure for troubleshooting
+description: "Support Engineer test environment setup options and guidelines"
 ---
 
 ## On this page
@@ -17,7 +18,7 @@ Support Engineer's need testing environments to learn how to support GitLab and 
 This page explains the main choices available to you. Some guidelines:
 
 1. You should choose a way to spin up a specific version of GitLab quickly so that you can replicate customer issues. The current recommended way to do this is to use [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
-1. Testing locally is also recommended - configure a Docker / VM based system (details below) to your taste the lets you quickly spin up a specific GitLab version.
+1. Testing locally is also recommended - configuring a Docker / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
 1. If you need a more complex environment (e.g. with a runner configured) [support resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) can help you.
@@ -26,12 +27,26 @@ This page explains the main choices available to you. Some guidelines:
 
 Have fun!
 
+## Testing on GitLab.com
+
+You can always create a group.
+As usual, public projects get Gold features, but if you need to test paid group features or in a private project, Support has groups for each paid tier.
+
+- [gitlab-gold](https://gitlab.com/gitlab-gold)
+- [gitlab-silver](https://gitlab.com/gitlab-silver)
+- [gitlab-bronze](https://gitlab.com/gitlab-bronze)
+
+Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
+If you require access, please ask an existing owner.
+
+If you require a group of your own to have a paid tier, please submit an access request.
+
 ## Testing Environment License
 
-For a test license you can log into the license app with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/1449) or if you need special add-ons, such as geo, you can generate a new one.
+For a test license you can log into LicenseDot with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/) or if you need special add-ons, such as geo, you can generate a new one.
 
 Please keep in mind *you can't generate licenses for customers* only for testing
-purposes. To generate a new license, log in to the license app and click on the
+purposes. To generate a new license, log in to LicenseDot and click on the
 'New License' green button on the right side of the screen. Click on "You can also manually create a license
 without a Zuora subscription" at the bottom of the screen and fill out all non-optional
 fields.
@@ -62,7 +77,7 @@ You should have access to this as a baseline entitlement. If you do not, please 
 
 **Note:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
 
-You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly GitLab and Runner instances as well as regular Basic server instances (for which you can follow the steps in [Creating GitLab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install GitLab).
+You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly spin up GitLab and Runner instances, as well as regular Basic server instances (for which you can follow the steps in [Creating GitLab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install GitLab).
 
 #### GKE Cluster
 

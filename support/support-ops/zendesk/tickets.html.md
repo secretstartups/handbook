@@ -1,11 +1,18 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Tickets
+description: Tickets are the core part of what we use Zendesk for
 ---
 
 # Zendesk Tickets
 
 Tickets are the core part of what we use Zendesk for.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Ticket Settings
 

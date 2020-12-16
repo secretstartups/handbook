@@ -2,6 +2,7 @@
 layout: markdown_page
 title: Patching an instance
 category: Self-managed
+description: How to patch GitLab (Rails application) manually
 ---
 
 ## Patching an instance
@@ -30,5 +31,5 @@ To revert the patch, use the `.orig` files the `patch` program generates.
 
 Please note that if GitLab is upgraded, the patch will need to be reapplied.
 
-**Note**: this process only applies to the Rails application (the gitlab 
-repository). Other components may need additional steps.
+**Note**: this process only applies to the Rails application ([the GitLab 
+repository](https://gitlab.com/gitlab-org/gitlab)). Other components may need additional steps.

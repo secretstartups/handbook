@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: DMCA Removal Requests
 category: Legal
+description: "Support Engineering workflow for DMCA requests"
 ---
 
 ## On this page
@@ -12,9 +13,9 @@ category: Legal
 
 ## Workflow change March 2019
 
-As of March 2019, the Abuse Team has taken ownership of DMCA Requests.
+As of March 2019, the Trust and safety Team has taken ownership of DMCA Requests.
 
-Read more about the Abuse Workflow here: [Abuse DMCA Request](/handbook/engineering/security/operations/abuse/dmca-removal-requests.html).
+Read more about the DMCA Workflow here: [Abuse DMCA Request](/handbook/engineering/security/operations/trustandsafety/dmca-removal-requests.html).
 
 ## Submitting a DMCA Request
 

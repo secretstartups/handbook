@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Support Instances
 category: Zendesk
+description: Our main GitLab Support Zendesk Instance is the instance where we receive and work on most of our customers' tickets.
 ---
 
 ## On this page

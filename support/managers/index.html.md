@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Managers
+description: "Support managers activities and references"
 ---
 
 ## On this page
@@ -36,66 +37,8 @@ For global team issues for which the Director is responsible, see the `Customer 
 
 ## Support Leadership Meetings
 
-As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing.
+As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync.html)
 
-**Note:** It is worth reiterating though that these meetings are not for making decisions or discussing things that could be discussed within issues.
-
-### Purpose
-
-Support leadership (Managers, Senior Managers and Director) meet in cross-regional synchronous meetings weekly.
-
-The purpose of these meetings is to:
-- build relationships, trust and context between regional managers
-- explain context for issues and explore creative ideas in real time
-- ensure that each issue has a DRI for issues that do not yet have them
-- refine the problem statement of each raised issue by clarifying intent
-
-The purpose of these meetings is **not** to:
-- figure out the priority of issues
-- refine solutions or merge requests related to issues
-- make decisions
-
-### Organization of Support Leadership Meetings
-
-1. The agenda and notes are in a Google Doc: [Support leadership calls agenda and notes](https://drive.google.com/drive/u/0/search?q=%22Support%20leadership%20calls%20agenda%20and%20notes%20%282020%29%22%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5) (internal only)
-1. Most agenda items should be linked to an existing issue. If an item does not have an existing issue, raise one before putting it in the agenda.
-1. Agenda items that do not need to be linked to an existing issue are:
-   - Discussion surrounding a specific individual's promotion, performance or individual situation
-   - Discussion about sensitive or confidential issues and processes
-1. Every effort should be made to add agenda topics before the first meeting of
-   the week, as this gives all managers an equal opportunity to participate in
-   discussing the topics in at least one meeting. No topics should be added to
-   the agenda between the start of the week’s second meeting and the end of the
-   week’s last meeting.
-1. Each meeting has a chairperson to ensure that voices are heard equally and we
-   make progress through the agenda.
-1. All participants should be familiar with the [Video Calls Section](/handbook/communication/#video-calls)
-   of the Communication page in the Handbook.
-1. See this video, [Managing Support Leadership Sync Agendas and Meetings](https://drive.google.com/drive/u/0/search?q=managing%20support%20leadership%20sync%20agendas%20and%20meetings%20parent:1h1iaTgBbZJZG7CBNYUCRQPhMXe1xXlbM),
-for more information, including how to edit and use the agenda and notes document. 
-
-### Call Procedure
-#### As a chair
-1. Review the meeting agenda and familiarize yourself with each item. 
-1. Review the hiring data and be aware of anything that is of note for the regions that are meeting.
-1. Review the upcoming support events. Be sure to mention anything that may have an action item, or may need an action item such as:
-   1. *Group Conversation*: _Please take a look at the slides, and add any points of interest for the general company_
-   1. *Holiday*: _Do we have (or need) a coverage plan for this holiday?_
-   1. *Metrics Review*: _Is there anything that needs to be highlighted to the executive team?_ 
-1. Be aware of when people unmute - this is an indication that they have something to say. If necessary, please interrupt and pass the
-floor. We want everyone to contribute, so it's your job to make sure that this can happen.
-1. Assign any action items - including summarizing the discussion in an issue.
-
-#### As a manager
-* Before the meeting: 
-    * add agenda items no later than the start of the week's second meeting
-    * review each agenda item. If you have any feedback, don't hold it for the meeting but comment directly on the issue.
-* During the meeting:
-    * be brief: everyone should be familiar with the discussion
-    * be clear: why did you bring this item to this meeting?
-    * be polite: avoid interrupting when possible (For more on this see point 13 in the [Video Calls Section](/handbook/communication/#video-calls) of the Communication page)
-* After the meeting: 
-   * note any points that you made during the meeting that were relevant to the discussion.
 
 ## Working with your team
 1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you.html)
@@ -156,13 +99,41 @@ Additionally, Sisense data is a secondary source so it can contain errors.
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
 
 ### What happens if metrics aren't where they should be?
-If metrics are below a certain threshold (yet to be defined) a manager may call to form a [Metrics Analysis Workgroup](metrics-analysis/index.html). This action
-is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
+Each week in the [Support Leadership Meetings](#support-leadership-meetings) we'll review the key metrics.
+
+If the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
+
+1. Combined First Reply Time (L&R, GitLab SM and GitLab SaaS) at or below 93%
+1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
+1. Combined NRT (L&R, GitLab SM and GitLab Saas) at or below 83%
+
+This action is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](/company/team/structure/working-groups/). 
 
 The purpose of the group will be unique to each situation that triggers it, but generally the members will:
 - form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
 - gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
 - build a set of recommendations based on the data for how we can achieve consistent results
+- document _how_ they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
+
+These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html). 
+
+### Forming a Group
+1. A manager opens an issue using the [Metrics Workgroup Template](https://gitlab.com/gitlab-com/support/metrics/-/issues/new?issuable_template=Metrics%20Workgroup)
+1. Identify 2-3 Managers/ICs who will take part in the workgroup by asking for volunteers in a leadership meeting.
+1. Determine hypothesis, gather data and propose temporary or permanent process changes as a result.
+
+## OKR's
+
+All Support Engineering Managers have at least 1 [OKR](https://about.gitlab.com/company/okrs/#what-are-okrs) each quarter. Each managers' OKR should align with one of the department level OKR's, although the scope may be smaller (confined to a region/team of direct reports rather than globally impactful). While OKR's are important, they are not the most important thing for managers to work on. To the end of effectively managing Support Engineers, a managers focus should be on:
+
+
+1. [KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
+2. Team Growth (Hiring and Development)
+3. [OKRs](https://about.gitlab.com/handbook/engineering/#engineering-okr-process)
+
+Having a project that is time bound to a quarter is completely acceptable as an OKR, and adjusting an OKR during the quarter (especially in light of other priorities) is also acceptable.
+
+New managers will establish their own OKR after they have been in their role for a full financial quarter, allowing time for them to complete onboarding and see the OKR process in action.
 
 ## Support Engineering Manager READMEs
 

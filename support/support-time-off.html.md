@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Team Member Time Off
+description: Guidelines for how time off applies to Support team members and what actions needs to be taken.
 ---
 
 ## Support Team Member Time Off
@@ -36,7 +37,7 @@ time off, please:
 - consider a different time off schedule if the
   [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
   calendar shows that on any of the days you would be absent the regional team
-  would be short by 20% or more of its people 
+  would be short by 20% or more of its people
 - schedule your time off as far in advance as you can, especially for days that
   may be popular or that are particularly important to you
 - don't lock yourself into nonrefundable travel itineraries before you've taken
@@ -54,14 +55,14 @@ team calendar.
 if you don't have it, please ask for help in the `#support_team_chat` channel
 on Slack and someone will share the calendar with you.
 
-1. We recommend you set up the Google Calendar integration with PTO Ninja so that you do not need to populate your personal and "Support - Time Off" calendars manually.
+1. We recommend you set up the Google Calendar integration with PTO by Roots so that you do not need to populate your personal and "Support - Time Off" calendars manually.
    1. In Slack, click the `+` sign next to 'Apps' at the bottom of the left sidebar
-   1. Search for 'PTO Ninja' and click 'View'
+   1. Search for 'PTO by Roots' and click 'View'
    1. Under 'Home', click on 'Your Events' to show a dropdown
    1. Click on 'Calendar Sync' under the Settings break
-   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO Ninja
+   1. Click on 'Connect your Calendar' and complete the actions to sync your calendar to PTO by Roots
       - You will see a 'Success! Your calendar has been connected.' message and
-        your calendar listed under 'Your synced calendar' in PTO Ninja on Slack
+        your calendar listed under 'Your synced calendar' in PTO by Roots on Slack
       - ***NOTE: this also serves to block your availability in Calendly***
    1. After your personal calendar is linked, click 'Add calendar' under
    'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
@@ -74,14 +75,14 @@ Please take time off whenever you need it.
 This page covers only considerations that are in addition to the company's [communicating time off guidelines](/handbook/paid-time-off/#communicating-your-time-off). So please familiarize yourself with those guidelines and in particular note the information regarding:
 
 - rescheduling meetings
-- using PTO Ninja
+- using PTO by Roots
 
-If you're taking off less than half of a day, you do not need to make entries in PTO Ninja or the Support Time Off Calendar, but please consider updating your Slack status.
+If you're taking off less than half of a day, you do not need to make entries in PTO by Roots or the Support Time Off Calendar, but please consider updating your Slack status.
 
 Half day or more:
 
-- Please enter the time off in PTO Ninja.
-- If you didn't configure [Calendar integration with PTO Ninja](#one-time-setup-actions), 
+- Please enter the time off in PTO by Roots.
+- If you didn't configure [Calendar integration with PTO by Roots](#one-time-setup-actions),
 block off your own calendar and add full day or longer absences as a Free (not Busy) event to the Support Time Off calendar.
 
 ### Coverage for roles
@@ -146,7 +147,7 @@ truly make the most of your time off, and make it easier to return to work:
 1. Set up some email filters to move emails into buckets that you can address
    one-at-a-time when you return.
 1. Disconnect yourself from Slack and Gmail in any of these ways:
-   *NOTE: PTO Ninja is supposed to turn off Slack notifications on your phone and
+   *NOTE: PTO by Roots is supposed to turn off Slack notifications on your phone and
    set DND mode. But just in case, you may want to do one of these:*
    1. log out from Slack and Gmail on your phone, or
    1. remove Slack and Gmail from your phone, or

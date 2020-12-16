@@ -1,12 +1,19 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Processes
+description: Support operations process descriptions and references.
 ---
 
 # Support Operations Processes
 
 For a general overview of the day to day processes, see the
 [Support Operations Responsibility Checklist](responsibility_checklist.html).
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## GitLab
 
@@ -20,6 +27,10 @@ For Pagerduty specific processes, see [Pagerduty Processes](pagerduty.html).
 ## Zendesk
 
 For Zendesk specific processes, see [Zendesk Processes](zendesk.html).
+
+## Audits
+
+For information on Audit processes, see [Audit PRocesses](audits.html).
 
 ### Reviewing Feedback
 

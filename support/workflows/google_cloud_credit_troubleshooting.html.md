@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Google Cloud Credit Troubleshooting
 category: License and subscription
+description: "Support Engineering workflow when a customer reports an inability to utilize their Google Cloud Credit (GCP Credit)"
 ---
 
 ## On this page
@@ -22,8 +23,8 @@ ______________
     1. If no, ask them to try the link and report any issues.
     2. If yes, follow the below directions.
 1. Ask user for the following information related to their GCP account
-    1. Google Billing ID 
-    1. Complete name 
+    1. Google Billing ID
+    1. Complete name
     1. Email address
 1. Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLScKgwz-P8wcBpQ-SprEEQDzxHoVyoBlaYqStlP9LsVUvHTTQQ/viewform) on behalf of the user
     FIRST PAGE:

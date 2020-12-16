@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Calendly for Self-Managed Support
 category: Self-managed
+description: "Workflow for setting up and using Calendly in Support Engineering"
 ---
 
 ## On this page
@@ -32,7 +33,7 @@ In order to participate in the [round-robin support call](#self-managed-round-ro
 
 To get added to the group account:
 
-1. [open a Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single_Person_Access_Request)
+1. [open a Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 1. Title it as `Your Name, Support, Calendly`, list Calendly as the "System Name" and mention that you'll be scheduling customer calls.
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Triggers
 category: Zendesk
+description: Triggers are business rules we have defined to run immediately after tickets are created or updated.
 ---
 
 ## On this page
@@ -14,13 +15,12 @@ category: Zendesk
 
 [Triggers](https://support.zendesk.com/hc/en-us/articles/203662246-About-triggers-and-how-they-work) are business rules we have defined to run immediately after tickets are created or updated.
 
-We could categorize our triggers under:
+Triggers include:
 
 - **Autoresponders**
     - Tickets created by Customer
     - Tickets created by Agents
     - 2FA Recovery
-    - GDPR
     - Adding private comments to a ticket
 - **Change ticket information**
     - Changing Priority 
@@ -38,7 +38,7 @@ We could categorize our triggers under:
     - Create issues for negative CSAT
     - Create issues for topics that need to be documented
 
-Triggers can only be changed by administrators or agents with special permissions. If you notice a trigger isn't running as expected, please let the Support Operations Specialist know. 
+Triggers can only be changed by administrators. For a full list of triggers or to file an issue, please see the [ZenDesk Triggers project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers).
 
 ### Creating triggers
 

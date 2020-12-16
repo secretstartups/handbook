@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Debugging LDAP
 category: Self-managed
+description: "Support Engineering workflow describing how to debug LDAP problems"
 ---
 
 ## On this page

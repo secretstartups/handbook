@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Support Engineer Responsibilities
+description: The motto of this page is to help us know how to carry out our responsibilities as a Support Engineer.
+
 ---
 
 ## On this page
@@ -32,7 +34,9 @@ We also have one area of focus that is more specific:
 1. License and Renewals - helping customers with License and Renewals problems
      - Currently there are about four Support Engineers who are focused primarily on this area. These Support Engineers help both .com and self-managed customers.
 
-During onboarding your initial area of focus will be made clear.
+To view the team's current distribution among Areas of Focus, see our internal [Support Team info site](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html).
+
+During onboarding, your initial area of focus will be made clear.
 
 When reading this page keep in mind your current area of focus. This will help you locate the correct workflows and roles.
 
@@ -62,13 +66,14 @@ Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-se
 
 1. The [First Response Time Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#first-response-time-hawk) makes sure that new tickets are triaged and get a reply as soon as possible.
 1. The [SLA Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#sla-hawk) draws attention to tickets that are near SLA breach.
+1. The [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew) replaces both FRT Hawk and SLA Hawk. The Response Crew system is currently being used by Support Engineers in EMEA and being trialled in AMER.
 
 **You should balance your time supporting the SLA hawk with the ['Solve Support Tickets'](#1-solve-support-tickets-daily) responsibility above.**
 
 **What does success look like?**
 
-1. Carrying out the [hawk roles](/handbook/support/workflows/meeting-service-level-objectives.html) when it's your turn in the rotation.
-1. Aim for around 40% to 50% of public replies each week to be on tickets that are assigned to someone else. You'll usually make these replies on tickets that are 'near the top of the queue' to help meet our Service Level Objectives.
+1. Carrying out the [hawk roles or participating in the response crew](/handbook/support/workflows/meeting-service-level-objectives.html) when it's your turn in the rotation.
+1. Aim for around 40% to 50% of public replies each week to be on tickets that are assigned to someone else. You'll usually make these replies on tickets that are 'near the top of the queue' to help meet our Service Level Objectives. Engineers working in the US Federal on-call rotation should aim for at least 15% of public replies within the general tickets to be assigned to someone else since they are not part of the hawk rotations.
 
 ## 3. Join customer calls (Weekly)
 
@@ -130,7 +135,7 @@ You are encouraged to [update documentation](/handbook/support/workflows/improvi
 
 [Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
-We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
+We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
@@ -141,11 +146,11 @@ We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/
 
 Experienced Support Engineers and those familiar with programming are encouraged to [fix GitLab bugs and create features](/handbook/support/#support-fixes).
 
-We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=support-fix) every week using a bot.
+We [summarize Support team bug fixes and feature requests](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
 **What does success look like?**
 
-There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=support-fix). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=support-fix` (replace `YOUR_USERNAME`)
+There's no goal for this area. You can see how you're doing using the 'Support Fix' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=dblessing&label_name[]=Support%20Team%20Contributions). The format is: `https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&author_username=YOUR_USERNAME&label_name[]=Support%20Team%20Contributions&not[label_name][]=documentation` (replace `YOUR_USERNAME`)
 
 
 ## 9. Improve GitLab and Support processes (Occasionally)
@@ -178,7 +183,7 @@ Support Engineers are also encouraged to complete courses and certification from
 
 **What does success look like?**
 
-1. Aim to complete a modiles every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
+1. Aim to complete a module every quarter (3 months). You can see how you're doing using the 'Support Training' [activity link](/handbook/support/managers/support-1-1s.html) in your 1:1 notes. Here's an [example link](https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=cynthia). The format is `https://gitlab.com/gitlab-com/support/support-training/-/issues?scope=all&utf8=%E2%9C%93&state=closed&assignee_username[]=YOUR_USERNAME` (replace `YOUR_USERNAME`)
 
 An important focus for the Support Team in 2020 is to [improve our Learning and Training resources](https://gitlab.com/groups/gitlab-com/support/-/epics/49) to help you have a clear route to improving your skills and a better way to make your expertise visible to the team.
 

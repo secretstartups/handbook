@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Real Time Blocklist Delisting 
+title: Real Time Blocklist Delisting
 category: GitLab.com
+description: How to reach out to Mailgun support to remove our IP addresses from a Real-time Blocklist (RBL)
 ---
 
 ## On this page
@@ -14,9 +15,9 @@ category: GitLab.com
 
 In some rare cases, you may need to reach out to Mailgun support to remove our IP addresses from a Real-time Blocklist (RBL). This workflow will cover how to verify and resolve these issues.
 
-### Check for Supression in Mailgun
+### Check for Suppression in Mailgun
 
-If a customer is reporting that they are not receiving a confirmation email, you'll want to go through the [confirmation email](/handbook/support/workflows/confirmation_emails.html) workflow first. When in the Mailgun panel, [check for a supression](/handbook/support/workflows/confirmation_emails.html#check-mailgun).
+If a customer is reporting that they are not receiving a confirmation email, you'll want to go through the [confirmation email](/handbook/support/workflows/confirmation_emails.html) workflow first. When in the Mailgun panel, [check for a suppression](/handbook/support/workflows/confirmation_emails.html#check-mailgun).
 
 ### Verify the RBL listing
 

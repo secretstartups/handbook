@@ -1,6 +1,9 @@
 ---
 layout: handbook-page-toc
 title: GitLab Support On-Call Guide
+description: >-
+  For customers that have Priority Support, the Support Engineering Team is
+  on-call and available to assist with emergencies
 ---
 
 ## On this page
@@ -206,13 +209,14 @@ Support Managers also have an on-call rotation. During their rotation, the manag
 
 - to act as an escalation point for missed customer emergency pages
 - find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
-- to provide ownership and assignment for tickets that are escalated in `#support_managers`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket
-- to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_managers` channel
-- to act as a notification point for security incidents
-- to coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests
+- to triage and investigate tickets that are escalated in `#support_escalations` to the end of understanding the scope of what is being asked for _(business days only)_
+- to provide ownership and assignment for tickets that are escalated in `#support_escalations`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket _(business days only)_
+- to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_escalations` channel _(business days only)_
+- to act as a notification point for [security incidents](/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact)
+- to coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests _(business days only)_
 - to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
     1. asking a specific manager to cover, and then if necessary,
-    1. posting a request in `#support_managers` for any manager to volunteer to cover if their specific request goes unanswered.
+    1. posting a request in `#spt_managers` for any manager to volunteer to cover if their specific request goes unanswered.
 
 ### Seeing which manager is on-call
 
@@ -224,7 +228,7 @@ To see who the current manager on-call is you can:
     - [Support Manager - AMER](https://gitlab.pagerduty.com/schedules/PTI56V1)
     - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
-- Ask in `#support_managers` (where you may or may not be referred to the above steps!)
+- Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
 
 ### Paging the on-call manager
 
@@ -232,6 +236,9 @@ To see who the current manager on-call is you can:
 - If it's important and urgent, you can:
     - Use the `/pd-support-manager` command to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
+
+### Resolving issues as the support manager on-call
+We currently consider :green_check_mark: in slack on the original slack request as a signal that the escalation has been resolved.
 
 ## Mobile phone service and data reimbursement
 
@@ -243,23 +250,6 @@ We understand you may have plans outside of your normal workspace while you're o
 
 ## US Federal on-call
 
-[US Federal](/handbook/support/support-ops/processes/us-federal-zendesk.html) on-call support is provided 7 days a week between the hours of 1:00PM and 1:00AM UTC time.
+[US Federal](/handbook/support/support-ops/processes/us-federal-zendesk.html) on-call support is provided 7 days a week between the hours of 0600 and 1800 Pacific Time.
 
-Currently, there are five Support Engineers working an on-call rotation consisting of 6 hour shifts, 7 days a week: one week on, two weeks off, one week on, one week off, alternating mornings and evenings.
-
-For example:
-
-| Week - Shift | Support Engineer |
-| ------------ | ---------------- |
-| 1 - AM | John |
-| 1 - PM | Nathan |
-| 2 - AM | Aric |
-| 2 - PM | Harish |
-| 3 - AM | Nathan |
-| 3 - PM | David |
-| 4 - AM | Harish |
-| 4 - PM | John |
-| 5 - AM | David |
-| 5 - PM | Aric |
-| 6 - AM | John |
-| 6 - PM | Nathan |
+The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(Public Link). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0600 Pacific Time and runs until 1200 Pacific Time. The PM shift starts at 1200 Pacific Time and runs until 1800 Pacific Time.

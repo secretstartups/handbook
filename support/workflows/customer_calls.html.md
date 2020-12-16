@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Customer calls
 category: Handling tickets
+description: "Workflow for conducting customer calls in Support Engineering"
 ---
 
 ## On this page
@@ -24,6 +25,7 @@ A few point to consider when sending a customer the invite to call link.
 
 * Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link) to invite customers to a call so that we can avoid ghost-calls.
 * Ensure the [event title](https://calendly.com/event_types) [includes the word `Support`](/handbook/support/workflows/calendly.html#support-calls-in-the-team-calendar) (case insensitive), this is necessary for the event to appear in the `GitLab Support` Calendar.
+* Make sure your calendly event includes a required Invitee Question asking for the Zendesk ticket number.
 * If you know your availability is limited, or you need additional backup, check with another engineer to see if they might also be available to take the call.
 * If you're not comfortable enough to take the call, **you should shadow any call that does take place** to upskill.
 

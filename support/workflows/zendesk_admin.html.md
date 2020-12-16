@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Zendesk Admin
 category: Zendesk
+description: To add or remove "full" agents from our Zendesk account, contact Zendesk support through the email address contained in the Support vault on 1Password titled "Zendesk Account Manager".
 ---
 
 ## On this page
@@ -70,7 +71,7 @@ At this stage, we have SLAs defined for First Reply Time (FRT) and Next Reply Ti
     - High: 4h
     - Normal: 8h
     - Low: 24h
-- **Bronze SLA**, **Starter SLA**, & **GitHost SLA**
+- **Bronze SLA**, **Starter SLA** 
 
     FRT:
     - Urgent: 24h

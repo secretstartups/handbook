@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Personal Data Requests
+title: Personal Data Access Requests
 category: Legal
+description: "Support Engineering workflows for non-deletion requests relating to personal data"
 ---
 
 ## On this page
@@ -36,19 +37,19 @@ The request may look something like:
 
 When a request is received through Zendesk as a ticket, do the following:
 
-1. Apply the [**Account::GDPR Article 15 - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro and mark the ticket as solved.
+1. Apply the [**General::Personal Data Access Request Instructions - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360043149613) macro and mark the ticket as solved.
 
-This macro will simply advise the user as follows and close the ticket:This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
+This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
 
 The request will then be serviced when received in the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) (process detailed below).
 
-### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com`)
+### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com` or `personal-data-request@gitlab.com`)
 
 When a user emails `gdpr-request@gitlab.com` or `personal-data-request` an issue is automatically created in the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/issues) via the [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) feature, meaning comments made on the issue will be emailed to the submitter.
 
 When a request is received in this manner, do the following:
 
-1. Create a new confidential issue in the `gdpr-request` issue tracker using the [`gdpr_section_15_request` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=gdpr_section_15_request) (click the link to create one) and populate the title with the email address of the original requestor.
+1. Create a new confidential issue in the `gdpr-request` issue tracker using the [`personal_data_request` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=personal_data_access_request) (click the link to create one) and populate the title with the email address of the original requestor.
 1. Link the original issue in the **Related issue** field.
 1. Complete each step in the issue template that begins with `Support Engineer:`.
 
@@ -56,5 +57,5 @@ When a request is received in this manner, do the following:
 
 **Macros**
 
-* [Account::GDPR Article 15 - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693)
+* [General::Personal Data Access Request Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360043149613)
 

@@ -1,11 +1,19 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Users
+description: Describes the roles and related rights of Zendesk users.
+
 ---
 
 # Zendesk Users
 
 Zendesk users are the people within Zendesk.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Groups
 

@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Overview
+title: Zendesk Overview for Support
 category: Zendesk
+description: Overview of how Support has set up Zendesk includes Apps, Business Rules, Emails, Organizations, Macros, Reporting and many more.
 ---
 
 ## On this page
@@ -50,7 +51,7 @@ All apps can be found on the left-hand nav bar when you view a ticket. The apps 
 
 ## Organizations
 
-[Organizations](handbook/support/workflows/zendesk_organizations_and_users_overview.html) are collections of your users (both customers and Zendesk agents). Users can belong to multiple organizations, up to 300. Organizations help us keep track of what our customers are requesting. We can also enable users within an organization to see each other’s tickets.
+[Organizations](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) are collections of your users (both customers and Zendesk agents). Users can belong to multiple organizations, up to 300. Organizations help us keep track of what our customers are requesting. We can also enable users within an organization to see each other’s tickets.
 
 ## Macros
 
@@ -134,7 +135,6 @@ A ticket form is a set of predefined ticket fields for a specific support reques
 - License Renewals and Upgrades
 - Accounts Receivable/Refunds
 - Security Issue
-- GitLab Hosted (GitHost.io)
 - Other Request
 - GitLab Community Edition (CE) - *Agent only*
 

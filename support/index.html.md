@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Team Handbook
+description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 ---
 
 ## Welcome to the GitLab Support Team Handbook
@@ -8,15 +9,17 @@ title: Support Team Handbook
 
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
-If you are a customer or advocating for a customer who needs technical assistance, please take a look at the dedicated [Support Page](/support) which describes the best way to get the help you need and lists GitLab's paid service offerings.
+| If you are | Your Need | Where You Should Look |
+| --------- | --------- | --------------------- |
+| A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
+| GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
+| New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
 
-If you are a GitLab team-member looking for some help, please see the [Internal Support for GitLab Team Members page](internal-support).
+Know someone who might be a great fit for our team? Please refer them to the job-family descriptions below.
 
-If you are a new Support Team member looking to get started, please take a look at the [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and the [onboarding section](#onboarding).
-
-Know someone who might be a great fit for our team? Please refer them to the job descriptions below.
-
-- [Support Engineer job description](/job-families/engineering/support-engineer).
+- [Support Engineering Job Family](https://about.gitlab.com/job-families/engineering/support-engineer/overview/)
+- [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
+- [Support Operations Job Family](https://about.gitlab.com/job-families/engineering/support-operations-specialist/)
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -186,7 +189,7 @@ GitLab.com.
 | [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
 | [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
 | [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with GitLab.com admin access |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with primary SaaS focus and GitLab.com admin access |
 | [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
 | [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with CustomersDot console access |
 | [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
@@ -235,12 +238,18 @@ issue trackers or customer tickets.
 #### Channels
 {: .no_toc}
 
+### spt_ vs. support_ prefix
+
+When naming channels, "spt" is meant for internal channels, meaning those that will be of use to the Support Team mainly. They should be public so others may join if they choose. If a channel has a "support" prefix, it is meant as a public interface where other teams will interact with the Support Team.
+
+
 | Channel                                                                | Purpose                                                   |
 |------------------------------------------------------------------------|-----------------------------------------------------------|
 | [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
 | [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG)     | Discuss GitLab.com tickets and customer issues            |
 | [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
-| [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48)       | Discuss matters which require support managers' attention |
+| [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48)    | Discuss customer/ticket matters which require support managers' attention. Allow other teams to interact with support managers. |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Discuss support team internal matters which require support managers' attention |
 | [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
 
 #### User Groups
@@ -283,8 +292,8 @@ Any demos or announcements that need to be shared with the entire team should be
 |  Weekday  |   Region  |      Meeting Name     |                                        Purpose                                      |
 |:---------:|:---------:|:---------------------:|:-----------------------------------------------------------------------------------:|
 |  Tuesday  |    APAC   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
-|  Tuesday  |    AMER   |  Casual Catch up |         Agendaless, a space for the team to banter and chat. If you have work to talk about, feel free.        |
-| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone who is interested in (or has a point of interest for) those who work with GitLab.com customers and processes - rotates through regions |
+|  Tuesday  |    AMER   |      Support Call     |  Semi-structured agenda to welcome new members, discuss meta issues, get thoughts on tickets, socialize  |
+| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone  interested in GitLab.com customers and processes - rotates day/time through regions |
 |  Thursday  |    EMEA   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
 
 The regions listed above are the regions for which each call may be the most convenient, but all are welcome on any call. Every call is recorded and notes are taken on the agenda for each one. If you miss a meeting or otherwise can't make it, you can always get caught up.
@@ -294,6 +303,14 @@ All Zoom and agenda links can be found on the relevant calendar entry in the Sup
 #### Support Leadership Meetings
 
 The Support management team meet regularly. Details of these calls are on the [Support Managers page](/handbook/support/managers)
+
+#### Support Regional Team Meetings
+
+Some regional Support teams have meetings oriented around company news, Support initiatives, training plans, and connectedness.
+
+| Weekday | Region | Meeting Name | Purpose |
+|:-------:|:------:|:------------:|:-------:|
+| Wednesday | AMER-E | Weekly News | For team members reporting to Rebecca S |
 
 #### Senior Support Engineer Office Hours
 
@@ -357,7 +374,7 @@ You can read about how we got this started
 As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
-- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/product-categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
 - Each section should have a Support manager counterpart.
 - Each group should have an individual contributor counterpart.
 - Currently (2019-11) to make it easier for product managers, each PM will get the same individual contributor counterpart for all the parts of the product they manage. That might mean a whole stage, multiple groups, or just a single group.
@@ -385,7 +402,7 @@ There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=pa
 
 Tips:
 - Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.
-- There are [labels for each section (devops::) and group (group::)](/handbook/product/product-categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
+- There are [labels for each section (devops::) and group (group::)](/handbook/product/categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
 - [Subscribe to labels](/blog/2016/04/13/feature-highlight-subscribe-to-label/) and [set up email notifications.](https://docs.gitlab.com/ee/user/profile/notifications.html)
 - For issues only (not MRs or Epics) RSS is also an option. From the issue search results, you can select the RSS feed button to get a custom RSS feed.
 - [Engineering team pages](/handbook/engineering/#engineering-departments-sections--teams) usually have information about their labels, slack channels, boards, and meetings under 'useful links' at the end.
@@ -398,9 +415,9 @@ Tips:
 
 Some functions don't fit as cleanly into the Support Stable Counterparts model.  As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups.
 
-If you're missing from this list (and want to be on it) please let the Support Managers know in `#support_managers`
+If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`
 
-If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#support_managers`.
+If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
 
 | Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
@@ -409,7 +426,7 @@ If you're on the Support Team and have something you'd like to surface, or would
 | UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng & Greg Myers    | weekly team meeting |
 | Production | .com Infrastructure | Dave Smith          | Lyle Kozloff        | Vlad Stoianovici           | every 2 weeks |
 | Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | TBD                        | N/A |
-| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | TBD                        | N/A |
+| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | Brie Carranza              | N/A |
 | Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
 | Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
 | Finance    | Budget              | Chase Wright        | Tom Cooney          | N/A                        | 1x Qtr on budget + once per month |
@@ -447,12 +464,28 @@ Artifacts of approval can include:
    - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
+- [License & Renewals Workflows](/handbook/support/license-and-renewals/workflows)
 
-### Slack Emoji Reaction Workflows
+### Slack Workflows
 
-Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users by reacting to their message with a specific emoji. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
+Each Slack channel within Support has a number of [Workflows](https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder) attached to them that are used to provide information to users. The source files for each workflow live in the [slack-workflows](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows) project.
 
-- `#support_managers`
+#### Issue Notification
+
+Some workflows are meant to notify the team of new issues created in the relevant project.
+In these cases, a [project webhook](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) passes information to [Zapier](https://zapier.com/app/zaps/folder/210292),
+which then sends the information to a Slack workflow.
+
+- `#support_gitlab-com`
+    - CMOC [Gitlab Project](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/), [Zap](https://zapier.com/app/zap/100087156), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/cmoc_handover.slackworkflow)
+- `#support_licensing-subscription`
+    - L&R related internal requests [Gitlab Project](https://gitlab.com/gitlab-com/support/internal-requests/), [Zap](https://zapier.com/app/zap/98925072), [Slack workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_internal_requests.slackworkflow)
+
+#### Emoji Reaction
+
+Providing information by reacting to a message with a specific emoji.
+
+- `#support_escalations`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 - `#support_gitlab-com`
   - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
@@ -466,11 +499,16 @@ Each Slack channel within Support has a number of [Workflows](https://slack.com/
 
 ### Support Fixes
 
-When working on merge requests for code or for documentation, apply the
-`support-fix` label so that we can track product contributions by support team
-members. An issue is created in the `support-team-meta` issue tracker at the
-end of each week with a list of support fixes merged in the past week. View the
-[list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=support-fix).
+When working on merge requests (on the gitlab-org group) for code or for documentation, apply the
+`Support Team Contributions` label so that we can track product contributions by support team
+members.
+
+Additionally, if the code change is specifically to improve the team's efficiency
+(such as changes to admin for faster support), then add the `~"Support Efficiency"` label.
+
+An issue is created in the `support-team-meta` issue tracker at the
+end of each week with a list of support team contributions merged in the past week. View the
+[list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=Support%20Team%20Contributions).
 
 ### Zendesk Instances
 At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/handbook/support/workflows/zendesk-instances.html):
@@ -589,7 +627,7 @@ sb s # GitLab.com queues
 - [Support Toolbox](https://gitlab.com/gitlab-com/support/toolbox) - Includes tools such as `json_stats` (analyze JSON logs), `strace_parser` (analyze `strace` output), `gitlabsos` (get all logs and other data from customers), etc.
 - [Dev Resources](https://gitlab.com/gitlab-com/dev-resources) - Create a test instance
 - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-- [License App](https://license.gitlab.com/) - Details of all licenses
+- [LicenseDot](https://license.gitlab.com/) - Details of all licenses
 - [CustomersDot admin](https://customers.gitlab.com/admins)
 - [GitLab Regressions](https://regressions.gitlab.io/)
 

@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Customer Console
-category: License and subscription
+category: CustomersDot
+description: Using the customer console for internal requests is only for special cases where the existing tools won't allow us to complete the task at hand.
 ---
 
 ## On this page
@@ -52,6 +53,8 @@ The more we use a function the more we should ask ourselves why we haven't autom
 ## Search methods
 
 ### view_namespace
+
+> **Note**: This functionality is mostly covered by namespace search in UI and [customers #2163](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2163).
 
 Provides a unified view for the namespace including orders and customer account linked to the orders.
 
@@ -108,6 +111,8 @@ trial                             true
 ```
 
 ### Manual Lookup
+
+> *Note*: Customer name, email, company, and group name searching is available in UI. Subscription name has been requested in [customer #1030](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1030).
 
 If required, you can search for an order based on any existing order attribute. Use `find_by` if you believe there is only one, or `where` if you believe there may be multiple matching orders.
 
@@ -167,6 +172,8 @@ irb(main):005:0> pp Order.where(customer_id: 000000)
 
 ### find_namespace
 
+> **Note**: Finding an account based on group name is available in the UI. However, accounts with trials typically do not show up due to [customers #978](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
+
 Find a given GitLab.com namespace.
 
 #### Parameters
@@ -188,7 +195,9 @@ irb(main):421:0> find_namespace('test')
 
 ## Plan Methods
 
-### **change_plan**
+### change_trial
+
+> *Note*: This can be deprecated when this is available in the UI which will require [showing expired trials (customers #1173)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1173), [ability to extend (customers #1643)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), and for [the Gitlab account to be tied to customers portal to show GitLab Groups after a trial is initiated (customers #973)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
 
 This function will change the plan for a customer with an active or expired **trial** and output the namespace information after completing the change.
 
@@ -203,7 +212,7 @@ This function will change the plan for a customer with an active or expired **tr
 #### Sample
 
 ```ruby
-irb(main):001:0> change_plan('example','silver','2020-05-25')
+irb(main):001:0> change_trial('example','silver','2020-05-25')
 {"id"=>0000000,
  "name"=>"example",
  "path"=>"example",
@@ -224,7 +233,10 @@ irb(main):001:0> change_plan('example','silver','2020-05-25')
 
 ### update_gitlab_plan
 
+> *Note*: Changing the plan is available via GitLab.com admin, but not changing the date. Both should be possible via API. Feature request: [customers #2164](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2164).
+
 Change the plan of a namespace on GitLab.com **directly**, bypassing CustomersDot completely.
+This includes potentially extending the expiry date.
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
@@ -291,7 +303,9 @@ irb(main):021:0> force_attr("A-S00000000")
 
 ### fix_expired_subscription
 
-This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already.
+> *Note*: This should no longer be required as the main use cases were fixed in [customer #1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) and [customers #1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174).
+
+This function sets the subscription name and ID to `nil`. This was typically done because in the past, customers could not purchase a new subscription for a group if there was an expired one tied to it already. Similar to `unlink_sub`.
 
 Note: Now that [customers#1446](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1446) is fixed and [customers#1174](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1174) should be fixed soon. This function shouldn't be required.
 
@@ -310,6 +324,8 @@ irb(main):021:0> fix_expired_subscription("A-S00000000")
 
 ### force_reassociation
 
+> *Note*: The ability to do this in the UI is [customers #2165](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2165).
+
 Force a .com group to be associated with a given subscription. This is typically done to associate a group without charging additional seats.
 
 #### Parameters
@@ -317,17 +333,39 @@ Force a .com group to be associated with a given subscription. This is typically
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:group_id` | *Yes* | The Gitlab namespace ID|
 | `:group_name` | *Yes* | The Gitlab namespace _`name`_ (not to be confused with its `path`)|
 
 #### Sample
 
 ```ruby
-irb(main):021:0> force_reassociation("A-S00000000", "0000000", "example")
+irb(main):021:0> force_reassociation("A-S00000000", "example")
+=> {:success=>true}
+```
+
+### unlink_sub
+
+> *Note*: See [note in fix_expired_subscription](#fix_expired_subscription).
+
+This function sets the group ID and name to `nil` to the order and downgrades the group to Free.
+This is typically done if there are issues associating a different subscription but the existing subscription should show for user.
+Similar to `fix_expired_subscription`.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:subscription_name` | *Yes* | Subscription name in the order to update |
+
+#### Sample
+
+```ruby
+irb(main):021:0> unlink_sub("A-S00000000")
 => {:success=>true}
 ```
 
 ### unlink_customer
+
+> *Note*: Ability to do this in UI is [customers #2166](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2166).
 
 Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Use the customer ID (from customers portal, not GitLab.com).
 
@@ -346,6 +384,8 @@ irb(main):021:0> unlink_customer(0000000)
 => {:success=>true}
 ```
 ### associate_full_user_count_with_group
+
+> *Note*: Feature request is [customers #2167](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2167).
 
 When the subscription has multiple products listed, then the quantity (seats) is only pulled from the product plan line. Add-on seats are not automatically added. The function adds the seat count for all products listed for the subscription and copies it over to .com.
 
@@ -371,6 +411,8 @@ irb(main):021:0> associate_full_user_count_with_group(order)
 
 ### send_eula
 
+> *Note:* As EULAs are not sent anymore, this should no longer be required.
+
 Generates an EULA for a subscription.
 
 #### Parameters
@@ -388,7 +430,26 @@ irb(main):021:0> send_eula("A-S00000000")
 
 ## GitLab.com Group methods
 
-These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in CustomersDot.
+These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the CustomersDot.
+
+### Billable Members
+
+> *Note*: This should no longer be required as there is now an API endpoint and customers can see the list on their billing page.
+
+Provides a list of billable members for a given namespace. This is using the [members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group).
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:group_path` | *Yes* | Path of namespace |
+
+#### Sample
+
+```ruby
+irb(main):021:0> send_eula("A-S00000000")
+=> (sample output not copied here as it is very long)
+```
 
 ### showGroups2FAStatus
 
@@ -415,6 +476,8 @@ irb(main):180:0>  showGroups2FAStatus 'some_user'
 
 ### fix_dotcom_seats
 
+> *Note*: Relevant bug issue [gitlab #260307](https://gitlab.com/gitlab-org/gitlab/-/issues/260307).
+
 In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitlab/-/issues/220010), you can use this function to update the number of seats in GitLab.com to the quantity listed in the associated CustomersDot order.
 
 #### Parameters
@@ -430,9 +493,11 @@ irb(main):180:0>  fix_dotcom_seats 'some_namespace'
 => {:success=>true}
 ```
 
-### update_group
+### update_group_mins
 
-Update a groups shared runner minutes
+> *Note*: Possible through GitLab.com admin. Additional minutes can be changed via chatops.
+
+Update a group's shared runner minutes.
 
 #### Parameters
 

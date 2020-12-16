@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Metrics Analysis Workgroup
+description: "Support team metrics analysis workgroup overview"
 ---
 
 ## On this page
@@ -15,7 +16,7 @@ title: Metrics Analysis Workgroup
 | **Property** | **Value** |
 | -- | -- |
 | Date Created | 2020-08-13 | 
-| Date Ended | |
+| Date Ended | 2020-12-08 |
 | Slack | [#spt_metrics-analysis](https://gitlab.slack.com/archives/C018W4ZFGP5) (only accessible from within the company) |
 | Google Doc | [Metrics Analysis Workgroup Agenda](https://docs.google.com/document/d/12rzBFFpA5y6xH5PkPcRQF5eSHR03TaAH1JP2jp395VY/edit#heading=h.i3kbcfpbwgta) (only accessible from within the company) | 
 | Playlist of Meetings | [Support - Metrics Analysis](https://www.youtube.com/playlist?list=PL05JrBw4t0KoxMP7DvN_U7O2NORo4slPL) |
@@ -31,7 +32,7 @@ title: Metrics Analysis Workgroup
 ## Exit Criteria
 - Define conditions under which a metrics workgroup will be formed. => 100%
 - Create a dashboard that exposes metrics and targets that will trigger actions on part of the support team (including forming this group) => 100%
-- Document common hypothesis and expose the data to support/refute them. => 70%
+- Document common hypothesis and expose the data to support/refute them. => 100%
 
 ## Roles and Responsibilities
 
@@ -50,3 +51,4 @@ title: Metrics Analysis Workgroup
 1. [Metrics Hypothesis Board](https://gitlab.com/gitlab-com/support/metrics/-/boards/2007128) to track outstanding hypothesis
 1. [FY21-Q3 Working Group Milestone](https://gitlab.com/gitlab-com/support/metrics/-/milestones/1) to show a burndown chart.
 1. [Metrics Workgroup Issue Template](https://gitlab.com/gitlab-com/support/metrics/-/blob/master/.gitlab/issue_templates/Metrics%20Workgroup.md) to provide instructions for how a metrics workgroup is formed.
+1. [Metrics Hypothesis and Actions](/handbook/support/managers/metrics-analysis/actions.html) to track common hypotheses, data collection methodologies and actions.

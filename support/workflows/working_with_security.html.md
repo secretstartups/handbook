@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Working with Security
 category: Security
+description: Identifying tickets which should be handled by the Security team, or Security issues which are better handled by support, and transferring each way.
 ---
 
 ## On this page
@@ -29,13 +30,14 @@ same caution as any other suspicious email:
 
 ### Identifying Issues for Transfer to Security
 
- * Reports of phishing or malicious content, regardless of hosting source. Keywords:
-   * malware/malicious
-   * phish
-   * campaign
- * Sender claims to be a security related employee at a non-associated company.
- * DMCA Takedown requests
- * Security questionnaires or other requests for documentation.
+- blocked accounts. Do not transfer, see [relevant workflow](reinstating-blocked-accounts.html) instead.
+- Reports of phishing or malicious content, regardless of hosting source. Keywords:
+  - malware/malicious
+  - phish
+  - campaign
+- Sender claims to be a security related employee at a non-associated company.
+- DMCA Takedown requests
+- Security questionnaires or other requests for documentation.
 
 ### Identifying Issues for Transfer to Support
 
@@ -48,10 +50,11 @@ same caution as any other suspicious email:
 ### AppSec and Vulnerability Reports
 
 The primary channel we currently receive vulnerability reports is through our
-[HackerOne Bug Bounty](/handbook/engineering/security/application-security/hackerone-process.html), but we still
+[HackerOne Bug Bounty](/handbook/engineering/security/application-security/runbooks/hackerone-process.html), but we still
 make `security@gitlab.com` available for reporting as well. Triaging and
 responding to these tickets in a timely manner is a responsibility of the
-[AppSec Rotation](/handbook/engineering/security/#triage-rotation).
+[Field Security team](/handbook/engineering/security/#external-contact-information)
+and they will reach out to AppSec when needed.
 
 If any team member has *any* concern about a report and an Application Security
 engineer is not available, [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call).
@@ -86,7 +89,7 @@ The contents of the confidential issue should not be shared.
 
 #### Triage Workflow
 
-Triage vulnerability reports in a similar manner to our [HackerOne proccess](/handbook/engineering/security/application-security/hackerone-process.html).
+Triage vulnerability reports in a similar manner to our [HackerOne proccess](/handbook/engineering/security/application-security/runbooks/hackerone-process.html).
 
 * If the report would be Not Applicable, reply with the reason why and close as "Solved."
 * If the report would be Informative or would be an ~feature, you may ask the requester to

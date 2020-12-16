@@ -2,6 +2,7 @@
 layout: markdown_page
 title: How to Perform CMOC Duties
 category: GitLab.com
+description: "Describes the role and responsibilities for CMOC rotation in Support Engineering"
 ---
 
 - TOC
@@ -19,11 +20,30 @@ The basics of how to create, update, and close incidents in Status.io are covere
 
 Before getting into the actual process of managing an incident, the following sections should be noted.
 
-### Frequency of Updates
+### How Are Incidents Declared?
+
+Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) to [declare incidents through Slack](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). Doing so will:
+
+1. Automatically page the EOC, IMOC, and CMOC.
+1. Create an issue for the incident in the [gl-infra/production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker.
+1. Provide a link to the Zoom call for the incident.
+1. Create a dedicated Slack channel for the incident.
+
+This information will all be posted to Slack in the #incident-management channel by Woodhouse and it'll look similar to the following example.
+
+![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png)
+
+GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
+
+### Status.io Updates
+
+The following should be noted specifically regarding making updates to Status.io.
+
+#### Frequency of Updates
 
 Status.io should be updated whenever we have new information about an active incident that our stakeholders should be aware of. Outside of that, it should be updated at a consistent rate depending on the severity of the incident as outlined in the table below.
 
-When you enter the situation room, take note of any updates that have been made to Status.io and the time they were made at. Set a timer to remind yourself and stick to the time intervals below unless you make a note of how long it will be until the next status update. For example, if you're in "monitoring" it may be appropriate to specify an hour before the next update.
+Once you join the incident Zoom call, take note of any updates that have been made to Status.io and the time they were made at. Set a timer to remind yourself and stick to the time intervals below unless you make a note of how long it will be until the next status update. For example, if you're in "monitoring" it may be appropriate to specify an hour before the next update.
 
 | Incident Status | severity::1 Update Frequency | severity::2 Update Frequency | severity::3/severity::4 Update Frequency |
 |--|--|
@@ -33,12 +53,14 @@ When you enter the situation room, take note of any updates that have been made 
 | Resolved | No further updates required |
 
 #### What to do if you don't know what to say
+
 - Provide a generic update based on the best information you have:
-   - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
-   - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
+
+- _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
+- _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
 - Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
    - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
-   - _In my next update I'm going to move the status to "monitoring"_ 
+   - _In my next update I'm going to move the status to "monitoring"_
 - Bias to action - you can post another update if there was an error in your last update.
 
 - If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
@@ -65,7 +87,7 @@ Whether related to an ongoing incident or not, infra or security may ask you to 
 
 As the CMOC you'll guide the incident through the following three stages.
 
-1. Stage 1: **Incident Creation** - During this stage we're creating the actual incident in Status.io, linking up with Reliability via *The Situation Room* Zoom call, and notifying the Community Advocacy team, if necessary.
+1. Stage 1: **Incident Creation** - During this stage we're creating the actual incident in Status.io, linking up with Reliability via the incident Zoom call, and notifying the GitLab Social team, if necessary.
 1. Stage 2: **Incident Updates** - During this stage we're following along with the work being performed by the EOC and any assisting engineers to resolve the incident and making updates to Status.io along the way while adhering to the [Frequency of Updates](#frequency-of-updates) schedule.
 1. Stage 3: **Incident Resolution** - During this stage we're focused on setting the incident to **Monitoring** in Status.io for a period of time to ensure that the issue does not recur before we close it out, eventually setting the incident to **Resolved**, and adding a link to the post-mortem issue in Status.io.
 
@@ -76,23 +98,24 @@ The following sections outline how to perform each of the steps within these sta
 The following steps should be taken immediately after receiving a PagerDuty page for an incident.
 
 1. Acknowledge the PagerDuty page.
-1. Join **The Situation Room** Zoom call.
+1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
-1. Notify the Community Advocacy team.
+1. Notify the GitLab Social team, if necessary.
 1. Resolve the PagerDuty page.
 
 #### PagerDuty Status
+
 {:.no_toc}
+
 - **Triggered** - "An incident exists that requires the attention of a CMOC"
 - **Acknowledged** - "I have seen the page and am on my way to the incident room"
 - **Resolved** - "A tracking issue has been created, the status page has been updated and I am actively engaged in the incident management process"
 
-**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved. 
+**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
 
+#### 1. Join The Incident Zoom Call
 
-#### 1. Join *The Situation Room*
-
-Before you create an incident in Status.io, or immediately afterward, you should be joining **The Situation Room**, a permanent Zoom room that is used by the EOC, IMOC, CMOC, and anyone else within GitLab that is assisting with the resolution of an incident. A Zoom link to the room can always be found in the channel topic of [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1).
+Before you create an incident in Status.io you should join the Zoom call that will be used by all GitLab team members involved in the incident. A link to the call is provided in the incident declaration by Woodhouse in the #incident-management channel.
 
 Your role as CMOC while in this room is to follow along while the incident is worked and make updates to Status.io either when asked or when it's necessary. Oftentimes chatter in this room will be lively, especially in the early stages of an incident while the source of the issue is being discovered. Use your best judgment on when it's appropriate to speak up to avoid vocalizing at inopportune times. You can always ping anyone on the call through Slack if you need to ask a non-urgent question about the situation.
 
@@ -122,9 +145,9 @@ Change the following values:
 
 `Affected Infrastructure` - This should almost always be unchecked so that the value of the `Incident Status` field is only applied to the specific aspects of the platform that are affected by the incident. In the example above we're only experiencing an issue with job processing so only `CI/CD` is selected.
 
-#### 3. Notify Community Advocates
+#### 3. Notify Community Relations team
 
-The CMOC should make the [Community Advocacy](/handbook/marketing/community-relations/community-advocacy/) team aware of the incident by mentioning them with the `@advocates` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
+The CMOC should make the [Community Relations](/handbook/marketing/community-relations/) team aware of the incident by mentioning them with the `@community-team` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
 
 - The incident is an **severity::1**
 - The incident is an **severity::2**

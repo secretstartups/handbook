@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk SLAs
+description: A Service Level Agreement[SLA] is an agreed upon measure of the response and resolution times that your support team delivers to your customers.
 ---
 
 # Zendesk SLA Policies
@@ -15,6 +16,12 @@ From Zendesk:
 
 Keep in mind only 1 SLA policy can be in place for a ticket. As such, it will
 use the top most SLA based on the list of our SLAs (see below).
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Current SLA Policies
 
@@ -59,20 +66,6 @@ use the top most SLA based on the list of our SLAs (see below).
 | Next reply time | 4h | 4h | 8h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### GitHost SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `GitLab Hosted (Githost.io)
-    * `Received at` is `support@githost.io`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
 ### Bronze SLA
 
 * Conditions:
@@ -110,7 +103,7 @@ use the top most SLA based on the list of our SLAs (see below).
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
+| First reply time | 8h | 8h | 8h| 8h |
 | Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 

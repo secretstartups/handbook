@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Unbabel Translation in Zendesk
 category: Zendesk
+description: Implementation and use of Unbabel in Support's ZenDesk.
 ---
 
 ## On this page
@@ -12,7 +13,7 @@ category: Zendesk
 
 ### Overview
 
-Whenever a user submits a ticket in a language other than English, our integrated translation tool (Unbabel) in Zendesk automatically translates the content as an internal note. 
+Whenever a user submits a ticket in a language other than English, our integrated translation tool (Unbabel) in Zendesk automatically translates the content as an internal note.
 
 To use Unbabel effectively, please refer to the following when responding to tickets.
 
@@ -28,11 +29,11 @@ Within Unbabel
 
 ### Configuring Unbabel in Zendesk
 
-Every Agent profile in Zendesk needs to be individually configured so that only tickets submitted in the supported languages are translated. 
+Every Agent profile in Zendesk needs to be individually configured so that only tickets submitted in the supported languages are translated.
 
-To do this, open a ticket in Zendesk and navigate to and open the Apps sidebar. 
+To do this, open a ticket in Zendesk and navigate to and open the Apps sidebar.
 
-Scroll to the Unbabel app and click on Settings. 
+Scroll to the Unbabel app and click on Settings.
 
 ![App](/images/support/Unbabel_App.png)
 ![Settings](/images/support/Unbabel_Settings.png)
@@ -41,12 +42,12 @@ Click on Languages and check the box on all languages in the list _except_ for t
 
 ![Languages](/images/support/Unbabel_Languages.png)
 
-You can also use [a javascript snippet](https://gitlab.com/gitlab-com/support/toolbox/snippets/snippets/1971515) created internally to automatically uncheck the languages we support, and check the others. 
+You can also use [a javascript snippet](https://gitlab.com/gitlab-com/support/toolbox/snippets/snippets/1971515) created internally to automatically uncheck the languages we support, and check the others.
 
 
 ### Replying with a Translation
 
-To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. As per our [working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) workflow, please remember to assign yourself to the ticket if the ticket doesn't currently have an assignee when you respond. 
+To request a translation automatically, simply reply as you normally would as an internal note with the #unbabel hashtag included at the top of your content. As per our [working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) workflow, please remember to assign yourself to the ticket if the ticket doesn't currently have an assignee when you respond.
 
 Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`, `unbabeled` tags are included, otherwise your response might not be translated automatically.
 Should this happen, you will need to add the missing tags, and create a new internal note with the #unbabel hashtag included at the top of your content.
@@ -69,7 +70,7 @@ The above can also be used to protect sensitive information from a human transla
 ### Disabling Unbabel in a Specific Ticket
 
 Sometimes Unbabel is triggered if a customer's signature was written in a language
-that requires translation but the customer replies in English, and the translation is not needed. 
+that requires translation but the customer replies in English, and the translation is not needed.
 In this case, there is a way to disable Unbabel in this specific ticket:
 
 - Open the ticket in question.

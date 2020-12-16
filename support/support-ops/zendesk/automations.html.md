@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Zendesk Automations
+description: Description of configured Zendesk automations.  
 ---
 
 # Zendesk Automations
@@ -15,6 +16,12 @@ All automations run once every hour on all **non-closed tickets**. They execute,
 or fire, on all tickets where conditions are met. This does not mean they fire
 at the top/bottom of the hour though. They fire sometime _during_ the hour. They
 should all fire during the same time period though.
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Note about Zendesk Automations
 

@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: GitLab.com Overview
 category: GitLab.com
+description: "Provides a general overview of how the GitLab.com (SaaS) context is different from other GitLab instances for Support Engineering"
 ---
 
 ## On this page

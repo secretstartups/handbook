@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Troubleshoot Errors While Making Purchases on CustomersDot
-category: License and subscription
+category: CustomersDot
+description: Troubleshooting guide on errors on CustomersDot
 ---
 
 ## On this page
@@ -12,7 +13,16 @@ category: License and subscription
 
 ### Overview
 
-This guide for troubleshooting for error on [CustomersDot](https://customers.gitlab.com/customers/sign_in). 
+This guide for troubleshooting for error on [CustomersDot](https://customers.gitlab.com/customers/sign_in).
+
+### Error about an address or credit card
+
+When purchasing a subscription via the CustomersDot if a user receives an error
+about an address or credit card, check the address listed in the `My Account`
+section of the CustomersDot. This is typically due to a bad address
+(city/state/zip code). If the address is correct and the error persists, check
+Sentry for a relevant error and file an issue in the
+[CustomersDot tracker](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/) as necessary.
 
 ### Getting error message from Sentry
 

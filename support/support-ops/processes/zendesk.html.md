@@ -1,9 +1,16 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Zendesk Processes
+derscription: Support Operations Zendesk processes for Users, Organizations, Suspended and Deleted Tickets.
 ---
 
 # Zendesk Processes
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Users
 
@@ -30,6 +37,46 @@ that user's page in Zendesk and do the following:
 After doing so, take a screenshot of the user page (the screenshot should show
 that the user is now an end-user and suspended). Post this screenshot in the
 offboarding issue to verify they have been deprovisioned. 
+
+### Deleting end-users
+
+In these cases, the end-user wants their support portal account removed, but
+not everything GitLab-related removed. To be sure, we should first ask if that
+is the case or if they are wanting a full deletion.
+
+If the user wants full account deletion, we need to refer them to the
+[Support GDPR Process](https://about.gitlab.com/handbook/support/workflows/gdpr_account_deletion.html).
+
+If the user wants only the support account deleted, an issue should be made to
+support-ops via the
+[End-user Account Deletion template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=End-user%20Account%20Deletion)
+After doing so, note the issue in the original ticket.
+
+From there, Support-ops will do the following:
+
+* Reply to the ticket using macro `Support-ops::Deletion Forthcoming`
+* Delete the support account of the end-user
+
+Please refer to the below flowchart to help illustrate this.
+
+```mermaid
+graph TD;
+  A-->B;
+  B--Full Deletion-->C;
+  B--Support Portal Only Deletion-->D;
+  D-->E;
+  E-->F;
+  F-->G;
+  G-->H;
+  A(End-user requests account deletion using macro<br />Support-ops::Confirm Deletion)
+  B(We ask if they want just support portal deletion or full deletion)
+  C(Refer them to GDPR process using Macro<br />GitLab.com::GDPR Deletion - GitLab.com)
+  D(Create a support-ops issue using the template<br />End-user Account Deletion)
+  E(Assign the ticket to support-ops group)
+  F(Note the support-ops issue in the ticket)
+  G(Support-ops replies informing user account is being deleted using macro<br />Support-ops::Deletion Forthcoming)
+  H(Support-ops deletes the user account)
+```
 
 ## Organizations
 

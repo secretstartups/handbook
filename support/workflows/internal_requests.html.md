@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Servicing Internal Requests
+description: "Various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the internal requests issue tracker"
 category: GitLab.com
 ---
 
@@ -16,7 +17,7 @@ For GitLab team members wanting to file an internal request, please see the [Sup
 
 This document details the various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
 
-Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/workflows/#License%20and%20subscription), or [CustomersDot console workflow](/handbook/support/workflows/customer_console.html).
+Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/workflows/#License%20and%20subscription), or [CustomersDot console workflow](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html).
 
 ## General Workflow
 
@@ -81,9 +82,3 @@ Common issues include the following when the UI and API methods are not working:
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request.
 
 Any request requiring disk access requires an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues).
-
-## Soft-Deleted Project
-
-See the [Project deletion workflow](hard_delete_project.html) for information on when this template is used.
-
-Engineers with GitLab.com console access will attempt to delete the project.

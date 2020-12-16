@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Unverified Email Requests
 category: GitLab.com
+description: Process for removing an unverified email from a user account for GitLab.com.
 ---
 
 ## On this page

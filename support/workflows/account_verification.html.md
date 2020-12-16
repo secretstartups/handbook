@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Account Ownership Verification
 category: GitLab.com
+description: "Workflow detailing how and when to disable 2FA for a customer and verifying account ownership"
 ---
 
 ## On this page
@@ -51,7 +52,7 @@ In these cases, please use the workflow below.
 
 As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
 
-1. Apply the **"Account::2FA Removal Challenges"** macro if they have not answered the challenges already.
+1. Apply the **"GitLab.com::2FA::2FA Challenges"** macro if they have not answered the challenges already.
 1. The macro marks the ticket as "Pending"
 
 #### If the user responds with the need for further verification (by answering the challenges)
@@ -62,7 +63,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 
    - For almost all cases, the originating email should be the same as the one listed on the account.
 
-1. Use the macro **"Account::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
+1. Use the macro **"GitLab.com::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
 
 1. Request that your decision be peer-reviewed by another member of the team via Slack.
 
@@ -74,16 +75,17 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 1. For disabling 2FA: If you agree with the decision; log into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
       1. Under the account tab, click `Edit`, add an [Admin Note](/handbook/support/workflows/admin_note.html), and save.
       1. On the account tab, click on `Disable 2FA`.
-      1. Use the **"Account::2FA::2FA Removal Verification - Successful"** macro.
+      1. Use the **"GitLab.com::2FA::2FA Removal Verification - Successful"** macro.
 
 #### User Fails to Prove Account Ownership
 
 > **Note**: Do _not_ provide hints to answers. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
-   - Most commonly, an `Owner in the top level namespace` vouch is requested. For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
+   - Most commonly, an `Owner in the top level namespace` vouch is requested. The originating email of this request should match a verified email of the Owner's account.
+   - For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
 1. If the user is unable to pass the selected challenges:
-   1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **Account::2FA::2FA Removal Verification - GitLab.com - Failed** macro.
+   1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **"GitLab.com::2FA::2FA Removal Verification - GitLab.com - Failed"** macro.
    1. Mark the ticket as "Solved"
 
 ### GitLab Team Members
@@ -105,6 +107,7 @@ For customers who are large enough to have an account management project, an iss
    ```
 
 1. Create a list of Slack handles in a file called `2FA Reset Owners.md` that lists individuals who are authorized to request a 2FA reset.
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to add a note to the appropriate ZenDesk Organization's `Notes`, such as `2FA owner vouch: [link]`.
 
 #### Usage
 
