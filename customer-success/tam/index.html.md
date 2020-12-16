@@ -136,7 +136,7 @@ Why do we use a prioritization system?
 - Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
 - TAMs have more insight into their portfolio and where they should be spending their time
 - TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
-- Used to further segment customers, beyond the [Sales Segmentation](/handbook/business-ops/resources/#segmentation)
+- Used to further segment customers, beyond the [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 
 Criteria to apply includes:
 
