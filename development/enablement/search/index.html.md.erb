@@ -16,7 +16,7 @@ The Global Search team is focused on bringing world class search functionality t
 
 The team will be responsible for improving and expanding upon our current global search implementations using Elasticsearch, PostgreSQL, and Gitaly. Areas of responsibility will include global search functionality, UI, ingestion mechanisms, optimal indexing, administrative tools and installation mechanisms for self-managed installations.
 
-This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](/handbook/product/product-categories/#project-management-group).
+This team doesn't own custom searches for specific features, such as the "filter bar" on issues which is part of the [Issue Tracking](https://about.gitlab.com/direction/plan/issue_tracking/) category owned by the [Project Management group](/handbook/product/categories/#project-management-group).
 
 ## Team Members
 
@@ -28,7 +28,7 @@ The following people are permanent members of the Global Search Team:
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Search|Enablement.*Search/, direct_manager_role: 'Backend Engineering Manager, Global Search') %>
+<%= stable_counterparts(role_regexp: /Global Search|Enablement.*Search/, direct_manager_role: 'Backend Engineering Manager, Global Search') %>
 
 ## Meetings
 
@@ -47,7 +47,7 @@ Below are a few guidelines the team follows in the day-to-day work.
 - We encourage all backend engineers in our team to get a review of their changes by someone else in our team. It's great for knowledge sharing.
 
 * We organize our tasks under Epics and Issues. Product Manager and Engineering Manager go through backlog at the planning phase of each release and put issues into next one or two milestones. The issues on the [milestone board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search) are sorted based on priority. The higher priority issues are put on the top.
-* We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research, and `workflow::design` for UI design and prototyping. For minor UX/UI changes, we contact the UX manager to request a review for fast iterations.
+* We work with the UX team for features that need their design input by labeling the issues with a UX workflow label and adding the corresponding UX team counterpart as assignee. We use `workflow::problem validation` and `workflow::solution` validation for user research, and `workflow::design` for UI design and prototyping. Once the design is finished, `workflow::ready for development` label will be added as an indicator that development can start. For minor UX/UI changes, we contact our UX counterpart or the UX manager to request a review for fast iterations.
 * We work with Quality team for issues that require input from testing perspective by labeling the issues with `workflow::planning breakdown` and adding the SET counterpart as assignee. Once SET reviews the issue, they acknowledge back with label [`quad-planning::complete-action` or `quad-planning::complete-no-action`](/handbook/product-development-flow/#build-phase-1-plan)
 * We work with Technical Writing team for issues that need documentation change by labeling the issues with `documentation` and adding our counterpart in Technical Writing team as assignee. Our technical writer helps us update the corresponding document. The documentation change normally happens together with code change.
 * We work with our stable counterpart in Security team for issues that need input from security perspective. We suggest to use team planning issue, for example [this one](https://gitlab.com/gitlab-org/search-team/team-tasks/-/issues/17), for communication.

@@ -16,7 +16,7 @@ title: Fulfillment Sub-department
 
 The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot) and [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot) systems.
 
-We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Analytics group](/handbook/product/product-categories/#product-analytics-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
+We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Intelligence group](/handbook/product/categories/#product-intelligence-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
 
 ### Groups
 
@@ -45,9 +45,10 @@ Subscription management and reporting. Systems: [CustomersDot](/handbook/enginee
 
 
 ## What are we working on?
-* [Milestone 13.6](https://gitlab.com/groups/gitlab-org/-/boards/2095858?milestone_title=13.6&scope=all&utf8=%E2%9C%93&label_name[]=devops%3A%3Afulfillment) _in progress_
+* [Milestone 13.7](https://gitlab.com/groups/gitlab-org/-/boards/2079284?milestone_title=13.7&label_name[]=devops%3A%3Afulfillment) _in progress_
+* [Milestone 13.6](https://gitlab.com/groups/gitlab-org/-/boards/2095858?milestone_title=13.6&scope=all&utf8=%E2%9C%93&label_name[]=devops%3A%3Afulfillment) _Complete_
 * [Milestone 13.5](https://gitlab.com/groups/gitlab-org/-/boards/1828610?milestone_title=13.5&label_name[]=group%3A%3Afulfillment) _Complete_
-* [Milestone 13.4](https://gitlab.com/groups/gitlab-org/-/boards/1775156?milestone_title=13.4&label_name[]=group%3A%3Afulfillment) _Complete_
+
 
 ## How we work
 
@@ -76,11 +77,46 @@ Before work can begin on an issue, we should estimate it first after a prelimina
 | 8 | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements.
 | 13| A significant change that may have dependencies (other teams or third-parties) and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller Issues.
 
-In planning and estimation, we value [velocity over predictability](/handbook/engineering/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (MR throughput) enables our Growth teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
+In planning and estimation, we value [velocity over predictability](/handbook/engineering/#velocity-over-predictability). The main goal of our planning and estimation is to focus on the [MVC](/handbook/values/#minimal-viable-change-mvc), uncover blind spots, and help us achieve a baseline level of predictability without over optimizing. We aim for 70% predictability instead of 90%. We believe that optimizing for velocity (MR throughput) enables our Fulfillment teams to achieve a [weekly experimentation cadence](/handbook/product/growth/#weekly-growth-meeting).
 
 - If an issue has many unknowns where it's unclear if it's a 1 or a 5, we will be cautious and estimate high (5).
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
+
+#### Estimation Template
+
+The following is a guiding mental framework for engineers to consider when contributing to estimates on issues. 
+
+```
+### Refinement / Weighting
+**Weight**: X
+**Reasoning**:
+<-- 
+Add some inital thoughts on how you might breakdown this issue. A bulleted list is fine. 
+
+This will likely require the code changes similar to the following:
+
+- replace the hexdriver with a sonic screwdriver
+- rewrite backups to magnetic tape
+- send up semaphore flags to warn others
+
+Links to previous example. Discussions on prior art. Notice examples of the simplicity/complexity in the proposed designs. 
+--> 
+
+
+**MR Count**: Y
+<-- 
+- 1 MR to update the driver worker
+- 1 MR to update docs regarding mag tape backups 
+
+Let me draw your attention to potential caveats.
+-->
+
+**Testing considerations**:
+<-- 
+- ensure that rotation speed of sonic screwdriver doesn't exceed rotational limits
+--> 
+```
 
 ### Picking something to work on
 
@@ -104,7 +140,7 @@ The following table will be used as a guideline for scheduling work within the m
 We generally follow the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 1. `workflow::problem validation` - needs clarity on the problem to solve
 1. `workflow::design` - needs a clear proposal (and mockups for any visual aspects)
-1. `workflow::solution validation` - needs refinement and acceptance from engineering
+1. `workflow::solution validation` - designs need to be evaluated by customers, and/or other GitLab team members for usability and feasibility
 1. `workflow::planning breakdown` - needs a Weight estimate
 1. `workflow::scheduling` - needs a milestone assignment
 1. `workflow::ready for development`
@@ -183,7 +219,7 @@ graph TD;
 
 If something goes wrong at the `Verification` stage, we could create an issue with the label `production::blocker`, which will prevent deployment to production. The issue cannot be confidential.
 
-For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
+For MRs with significant changes, we should consider using [feature flags](https://gitlab.com/gitlab-org/customers-gitlab-com/#feature-flags-unleash) or create an issue with the `production::blocker` label to pause deployment and a allow for longer testing.
 
 
 #### LicenseDot
@@ -222,9 +258,7 @@ Any issues not merged on the current milestone post feature freeze, will need to
 
 One of our main engineering metrics is [throughput](/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](/handbook/values/#iteration). Read more about [why we adoped this model](/handbook/engineering/management/throughput/#why-we-adopted-this-model).
 
-We aim for 12 MRs per engineer per month which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559055/WIP:-Backend-Growth:Fulfillment-Development-Metrics).
-
-We also have a general [quality dashboard](https://quality-dashboard.gitlap.com/groups/gitlab-org/sections/group::fulfillment) for the whole Fulfillment team.
+(Fulfillment Section Performance Indicators)[https://about.gitlab.com/handbook/engineering/development/performance-indicators/fulfillment/]
 
 ### Meetings (Sync)
 
@@ -245,7 +279,7 @@ After the `8th`, the Fulfillment team conducts an [asynchronous retrospective](/
 
 ## Common links
 
- * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Afulfillment)
+ * [All open Fulfillment epics](https://gitlab.com/groups/gitlab-org/-/epics?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment)
  * [Issue Tracker](https://gitlab.com/gitlab-org/fulfillment-meta/issues)
  * [Slack channel #s_fulfillment](https://gitlab.slack.com/app_redirect?channel=s_fulfillment)
  * [Daily standup channel #s_fulfillment_daily](https://gitlab.slack.com/app_redirect?channel=s_fulfillment_daily)

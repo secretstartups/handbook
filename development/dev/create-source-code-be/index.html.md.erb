@@ -11,15 +11,15 @@ title: "Create:Source Code BE Team"
 
 The Create:Source Code BE team is responsible for all backend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
-[group]: /handbook/product/product-categories/#source-code-group
-[stage]: /handbook/product/product-categories/#create-stage
-[lifecycle]: /handbook/product/product-categories/#devops-stages
+[group]: /handbook/product/categories/#source-code-group
+[stage]: /handbook/product/categories/#create-stage
+[lifecycle]: /handbook/product/categories/#devops-stages
 
 ## Team Members
 
 The following people are permanent members of the Create:Source Code BE Team:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Create:Source Code') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager (Interim), Create:Source Code') %>
 
 ## Stable Counterparts
 
@@ -48,7 +48,7 @@ Engineering Manager as listed above.
 
 For more urgent items, feel free to use [#g_create_source_code] on Slack.
 
-[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createsource-code-group)
+[Take a look at the features we support per category here.](/handbook/product/categories/features/#createsource-code-group)
 
 [engineering workflow]: /handbook/engineering/workflow/
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
@@ -111,8 +111,18 @@ To assign weights to issues in a future milestone, on every 4th of the developme
 1. If there's a need to collaborate with stable counterpart to devise a solution/plan, add a comment and tag relevant counterparts.
 1. Give issue a weight if there's none yet or update if the existing weight isn't appropriate anymore. Leave a comment why a certain weight is given.
 1. It's strongly encouraged to spend no more than 2 hours per issue. Give it your best guess and move on if you run out of time.
-1. Label the issue as ~"workflow::ready for development".
+1. Label the issue as ~"workflow::ready for development" if you feel we can make progress on it in the next milestone.
 1. Unassign yourself or keep it assigned if you want to work on the issue.
+
+#### Follow-up issues
+
+You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
+* Add an appropriate future milestone to the follow-up issue(s) with a weight and good description on the importance of working this issue
+* Add the issue(s) to the relevant [planning issue](https://gitlab.com/gitlab-org/create-stage/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=source+code+group+planning)
+ 
+You should generally take on follow-up work that is part of our [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), preferably in the same milestone as the original work, or the one immediately following. If this represents a substantial amount of work, bring it to your manager's attention, as it may affect scheduling decisions.
+
+If there are many follow-up issues, consider creating an epic.
 
 #### Backend and Frontend issues
 

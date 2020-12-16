@@ -22,7 +22,10 @@ overall vision.
 The Configure group is responsible for developing Ops-focused features of GitLab
 that relate to the "Configuration" and "Operations" stages of the DevOps
 lifecycle. These refer to the configuration of infrastructure, and the running
-of applications deployed via GitLab.
+of applications deployed via GitLab. 
+
+Our mission is to make the everyday work of the Platform Engineer more pleasant and enable Software 
+Developers and Application Operators to deploy to company infrastructures without barriers.
 
 This team is currently building out more features for our Kubernetes integration,
 including the [Auto DevOps](/product/auto-devops/) feature set, and making it easier for
@@ -108,11 +111,27 @@ The following members of other functional teams are our stable counterparts:
 ## Common Links
 
 - [Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/1223426?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Aorchestration)
-- [Slack Team Channel](https://gitlab.slack.com/archives/g_configure_orchestration)
+- [Slack Team Channel](https://gitlab.slack.com/archives/s_configure)
 - [Slack Standup Channel](https://gitlab.slack.com/archives/s_configure_standup)
 - [How we structure our day](https://gitlab.com/gl-retrospectives/configure/issues/17)
 
+Some dedicated Slack channels:
+
+* Kubernetes Agent: `f_kubernetes_agent`
+* Secrets management: `f_secrets_management`
+* Vault integration: `f_vault_integration_secrets_mgmt`
+
 ## Processes
+
+### Roadmap
+
+We review our roadmap on a monthly basis. The roadmap is [maintained in Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1603196180832/a0fbe8a5eb174a4b5dda15b44728ecbc7a4b377d).
+
+### Issue refinement
+
+Refinement in the Configure group happens by focusing on a few issues every week. These issues are being prepared for discussion in the week before with the active involvement of the PM, UX and EM. Based only on the description of the issue, the EM decides if the issue has enough context to invite the development team to discuss it during the next week. We aim to propose two issues by end of day every Friday, so people with any time zone can start their week by looking at the "to be discussed" issues.
+
+The `~configure::discussion-candidate` and the `~cconfigure::discussion` labels are used to mark issues that are currently being prepared for discussion or are currently being discussed, respectively.
 
 ### Planning
 
@@ -128,7 +147,7 @@ Example planning issue: [https://gitlab.com/gitlab-org/configure/general/issues/
 #### GitLab Terraform Provider
 
 The GitLab Terraform Provider is managed by the Configure team. We are working together with the community and are supporting other GitLab departments to add new functionalities to the provider. Work planned on the provider is part of the planning issue.
-For each milestone, we take on one PR/MR that we want to ship in the provider, and we collect a list of PRs and issues where we see active community work to support. Each month a dedicated engineer or the EM pays works on delivering the listed items.
+For each milestone, we take on one PR/MR that we want to ship in the provider, and we collect a list of PRs and issues where we see active community work to support. Each month a dedicated engineer or the EM works on delivering the listed items.
 
 ### Scheduling
 

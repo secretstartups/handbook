@@ -11,21 +11,21 @@ title: "Create:Source Code FE Team"
 
 The Create:Source Code FE team is responsible for all frontend aspects of the product categories that fall under the [Source Code group][group] of the [Create stage][stage] of the [DevOps lifecycle][lifecycle].
 
-[group]: /handbook/product/product-categories/#source-code-group
-[stage]: /handbook/product/product-categories/#create-stage
-[lifecycle]: /handbook/product/product-categories/#devops-stages
+[group]: /handbook/product/categories/#source-code-group
+[stage]: /handbook/product/categories/#create-stage
+[lifecycle]: /handbook/product/categories/#devops-stages
 
 ## Team Members
 
 The following people are permanent members of the Create:Source Code FE Team:
 
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Delivery & Scalability') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Code Review)Source Code/) %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code', other_manager_roles: ['Frontend Engineering Manager, Create:Source Code, Delivery & Scalability']) %>
+<%= stable_counterparts(role_regexp: /[,&] (Create(?!:)|Create:Source Code)/, direct_manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability') %>
 
 ## KPIs
 
@@ -52,12 +52,12 @@ Engineering Manager as listed above.
 
 For more urgent items, feel free to use [#g_create_source_code] or [[#g_create_source_code_fe] on Slack.
 
-[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createsource-code-group)
+[Take a look at the features we support per category here.](/handbook/product/categories/features/#createsource-code-group)
 
 [engineering workflow]: /handbook/engineering/workflow/
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
 [#g_create_source_code]: https://gitlab.slack.com/archives/g_create_source-code
-[#g_create_source_code_fe]: https://gitlab.slack.com/archives/g_create_source-code-fe
+[#g_create_source_code_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
 
 ## Working with product
 
@@ -65,72 +65,19 @@ Weekly calls between the product manager and engineering managers (frontend and 
 
 ### Middle of milestone check-in
 
-Expanding on the concept of Middle of milestone check-in:
-
-The way we try to grasp how well we are doing according to the scheduled and commited set of Deliverables is simply trying to calculate the level of completeness of all of them.
-
-We do this by tallying up:
-
-<dl class="dl-horizontal">
-  <dt>Closed/Verification</dt>
-  <dd>100% done</dd>
-
-  <dt>In review</dt>
-  <dd>80% done</dd>
-
-  <dt>In dev</dt>
-  <dd>40% done</dd>
-
-  <dt>Unstarted</dt>
-  <dd>0% done</dd>
-</dl>
-
-We then compile a small report like this:
-
-
-<pre>
-Done + Verification: 		1 	w1 	2.27%
-In review: 		        6 	w15 	34.09%
-In dev: 		        6 	w20 	45.45%
-Unstarted: 		        3 	w8 	18.18%
-Progress: 				        47.73%
-Conclusion: ...
-</pre>
-
-Progress is calculated with: 
-
-<pre>100% * 2.27 + 80% * 34.09 + 40% * 45.45 + 0% * 18.18</pre>
-
-In the conclusion we write an interpretation of what this means and what we'll be doing to correct course, if needed.
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/midmilestone.erb") %>
 
 ## Capacity planning
 
-We use weights to forecast the complexity of each given issue aimed at being scheduled into a given milestone. These weights help us ensure that the amount of scheduled work in a cycle is reasonable, both for the team as a whole and for each individual. The "weight budget" for a given cycle is determined based on the team's recent output, as well as the upcoming availability of each engineer.
-
-Before each milestone, the Engineering Manager takes a pass and sets weights on all issues currently aimed at the next milestone by Product and triaging processes. On occasion, specific ICs can be brought to review the assigned weight. This is aimed at helping the ICs stay focused on Deliverables while working in the last week of the activ milestone.
-
-We understand weights are mere forecasts and we accept the uncertainty that comes with this.
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/capacity_planning_fe.erb") %>
 
 ### Weights
 
-These are the broad definition for each of the weights values. We don't use a Fibonnacci-based progression but we do try to split up large issues as we understand they are by definition less accurate predictions.
-
-When issues are Frontend only, we use the Weight feature of Issues.
-
-When issues are both Frontend and Backend we use specific labels to support both weights in the same issue: `~frontend-weight::1` through `~frontend-weight::8`.
-
-| Weight | Description  |
-| --- | --- | --- |
-| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required. |
-| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. |
-| 3: Medium | Features that are well understood and relatively straightforward. Bugs that are relatively poorly understood and may not yet have a suggested solution. |
-| 4: Medium | Features that are well understood and relatively straightforward but still need a good deal of work. Bugs that are relatively poorly understood and may not yet have a suggested solution. Includes some tasks that might be hard to test. |
-| 5: Large | Features that are well understood, but known to be hard. Bugs that are very poorly understood, and will not have a suggested solution. |
-| 8: Very large | Very large features that usually require the dedication of a FE for the full length of the milestone. — Very rare, usually split into smaller issues |
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/weights_fe.erb") %>
 
 ## Workflow labels
 
-<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::source code' }) %>
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: "group::source code" }) %>
 
 ## Async standup
 
@@ -148,14 +95,4 @@ We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc
 
 #### Per Milestone
 
-The Create:Source Code group conducts [monthly retrospectives in GitLab issues][retros]. These include
-the frontend team, the backend team, UX, and PM who have worked with
-that team during the release being retrospected.
-
-These are confidential during the initial discussion, then made public in time
-for each month's [GitLab retrospective]. For more information, see [team
-retrospectives].
-
-[retros]: https://gitlab.com/gl-retrospectives/create-stage/source-code/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
-[GitLab retrospective]: /handbook/engineering/workflow/#retrospective
-[team retrospectives]: /handbook/engineering/management/team-retrospectives/
+<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Source Code", group_slug: "source-code" }) %>

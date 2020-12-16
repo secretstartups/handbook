@@ -19,7 +19,7 @@ vision](/direction/verify/) and the [Category direction of Pipeline Authoring](h
 The Verify:Pipeline Authoring Group is focused on all the functionality with respect to
 Pipeline Authoring.
 
-This team maps to [Verify](/handbook/product/product-categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
 ## Performance Indicator
 
@@ -75,7 +75,7 @@ The following members of other functional teams are our stable counterparts:
 
 <%= partial("handbook/engineering/development/ops/verify/includes/dev_workflow.erb", locals: { group: 'Pipeline Authoring', board_id: '2019514' }) %>
 
-### Spikes
+### Spikes 
 
 <%= partial("handbook/engineering/development/ops/verify/includes/spikes.erb") %>
 
@@ -92,13 +92,13 @@ The Pipeline Authoring group supports the product marketing categories described
 
 | Label                 | |  | Description |
 | ----------------------| -------| ----|------------|
-| `ci::persistence` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::persistence) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::persistence) | Issues related to Persistence (workspaces, caching). Does not include artifacts, which is its own label. |
-| `ci::rules` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::rules) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::rules) | Issues related to CI rules syntax. |
-| `ci::integrations` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::integrations) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::integrations) | Issues related to supporting different CI targets directly (for example, Java or Mobile). | Pipeline Authoring |
-| `ci::bridge-pipelines` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::bridge-pipelines) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::bridge-pipelines) | Issues related to visualizing how pipelines start and depend on each other. Includes visualizations for triggering, cross-project pipelines, and child/parent pipelines. For job execution, please use `ci::processing`. |
-| `ci::dag` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::dag) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::dag) | Issues related to [Directed Acyclic Graphs](https://docs.gitlab.com/ee/ci/directed_acyclic_graph/) visualization only. For job execution, please use `ci::processing`. |
-| `ci::pipeline-graphs` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::pipeline-graphs) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::pipeline-graphs) | Issues related to pipeline graphs and visualization. |
-
+| `CI persistence` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20persistence) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20persistence) | Issues related to Persistence (workspaces, caching). Does not include artifacts, which is its own label |
+| `CI rules` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20rules) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20rules) | Issues related to CI rules or linting |
+| `CI integrations` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%20ntegrations) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%20integrations) | Issues related to supporting different CI targets directly (for example, Java or Mobile). | Pipeline Authoring |
+| `bridge pipelines` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=bridge%20pipelines) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=bridge%20pipelines) | Issues related to visualizing how pipelines start and depend on each other. Includes visualizations for triggering, cross-project pipelines, and child/parent pipelines. For job execution, please use `~pipeline processing` |
+| `pipeline dag` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=pipeline%20dag) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=pipeline%20dag) | Issues related to [Directed Acyclic Graphs](https://docs.gitlab.com/ee/ci/directed_acyclic_graph/) visualization only. For job execution, please use `~pipeline processing` |
+| `pipeline graphs` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=pipeline%20graphs) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=pipeline%20graphs) | Issues related to pipeline graphs and visualization |
+| `pipeline authoring` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=pipeline+authoring) | [MRs](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=pipeline+authoring) | Issues related to authoring the .gitlab-ci.yml file and CI YAML configuration (https://docs.gitlab.com/ee/ci/yaml/) but excludes issues handled by another label such as "CI rules" |  
 
 #### Other Notable Labels
 
@@ -142,11 +142,12 @@ UX should not be seen as a "gate" for reviewing Merge Requests. To avoid blockin
 
 Tips to avoid blocking reviews:
 - Product Designers should point Engineers to the needed patterns to ensure product consistency and speed up development time. (example: Pajamas components for Frontend engineers, API documentation for Back-end engineers)
-- Whenever Engineering DRI submits a Merge Request that is causing changes to UI or user experience - Engineering DRI should tag the appropriate Product Designer for visibility. However, no UX approval on Merge Requests is expected at the review stage (except when the funtionality was not designed by the UX department).
+- Whenever Engineering DRI submits a Merge Request that is causing changes to UI or user experience - Engineering DRI should tag the appropriate Product Designer for visibility. However, no UX approval on Merge Requests is expected at the review stage (except when the functionality was not designed by the UX department).
+- Use UX debt labels to follow up implementations that are not fully aligned with the UX specification. This should be scheduled within 30 days of the initial feature release. 
 
 #### Dealing with Community Merge Requests
 
-TBD
+For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/). 
 
 #### Aligning on feature development
 
@@ -172,6 +173,17 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 <%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_pipeline-authoring', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group::pipeline authoring', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+authoring&scope=all', gitlab_subgroup: 'pipeline-authoring-group' }) %>
 
+### Feature channels
+We use [feature channels](https://about.gitlab.com/handbook/communication/chat/#feature-channels-f_) (e.g. #f_awesome_feature) for our larger features.
+These slack channels are for internal discussions on ideation, requests for general suggestions, and context. For any product related updates, the Product Manager is responsible for documenting summaries from Slack discussions directly in the issue. For any other discussions relating to the technical details, the Engineering DRI is responsible for documenting these summaries from relevant Slack discussions in the issue and/or making changes in the appropriate merge request.
+
+Discussions about definition and implementation should still happen in merge requests or issues.  By encapsulating summaries of any discussions outside of these documents (e.g. Slack channels/threads or sync calls), we ensure we keep a single source of truth driving our decisions about an implementation.
+This ensures the information persists and is visible to a wider audience.
+
 ## Developer Onboarding
 
 <%= partial("handbook/engineering/development/ops/verify/includes/developer_onboarding.erb") %>
+
+## Team Resources
+
+See [dedicated page](/handbook/engineering/development/ops/verify/pipeline-authoring/team-resources/).

@@ -1,0 +1,272 @@
+---
+layout: handbook-page-toc
+title: Editor Team
+---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The Editor Team is part of [Create Stage][hb-create] in the [Dev Sub-department][hb-dev]. We focus on multiple [categories][hb-categories]: `Web IDE`, `Snippets`, `Static Site Editor`, and `Wiki`.
+
+Abbrevations used on this page:
+* **BE** ➡️ Backend
+* **FE** ➡️ frontend
+* **SSE** ➡️ Static Site Edtior
+
+## 🚀 Team Members
+
+The following people are permanent members of the Editor Engineering Team:
+
+**Engineers & Engineering Manager**
+<%= direct_team(manager_slug: 'roman-kuba') %>
+
+**Product, Design & Quality**
+<%= stable_counterparts(role_regexp: /Create:Editor/, direct_manager_role: 'Engineering Manager, Create:Editor') %>
+
+## ☎️ How to reach us
+
+Depending on the context here are the most appropriate ways to reach out to the Editor Group:
+
+- GitLab epics/issue/MRs: `@gl-editor`
+- Slack: [`#g_create_editor`][slack] and `@create-editor-team`
+
+You can view the team members' current time here: [timezone.io/team/gitlab-createeditor][timezones]
+
+## 🛠 How we work
+
+Following you will find all details how our team operates in all aspects of our work!
+
+### ⏰ Meetings
+
+Following meetings are regularly had at our team to ensure we work well as a team.
+For Team meetings we use Thursdays, and if anyone outside of Editor wants to join one of these meetings, just give us a headsup.
+
+**❗️Important**: For every meeting, the [Editor team's meeting document][gdoc] should be used, and filled with the meeting notes, as well as references to any other sync meeting agendas/notes/recordings which have recently occurred. This will make it easier for people to find any meeting notes.
+
+#### 📆 Team Meetings
+
+This are regular meetings where the majority of the team will be participating. The main meeting day is *Thursday*.
+
+**Social Meeting**
+* **When:** Every 1st Thursday in a month.
+* **What:** This is the perfect time for the team to talk about anything they like. It's focused on allowing people to share their personal lives with others, to the extent they feel comfortable, and allow us to get to know each other better.
+
+**Monthly Meeting**
+* **When:** Every 2nd Thursday in a month.
+* **What:** This meeting is mostly a strategic one which gives the whole team an outlook to learn about what's coming in the next few releases, strategic updates within the group, and to discuss `crazy-not-crazy` ideas members in our Team have.
+
+**Milestone Kickoff Meeting**
+* **When:** Every 3rd Thursday in a month.
+* **What:** We'll discuss the results of our planning Issue, and make sure the whole team is on the same page when it comes to work load that's coming towards us. If there are any last minute things to discuss for the Milestone, this is the right venue to do so.
+
+**Retro Meeting**
+* **When:** Every last Thursday in a month.
+* **What:** We'll discuss the feedback of our async Team Retro, and decide on `Action Items` and `Next Steps` as applicable. The goal is to make our team more efficient and learn from our mistakes of the past, or continue doing really well on things that succeeded.
+
+**Product/UX Weekly**
+* **When:** Every Thursday
+* **What:** Weekly sync about the Editor group's Product, Design, and UX Research efforts
+
+#### 🗒 Other Meetings
+
+**Backlog Refinement**
+* **When:** Every other Tuesday
+* **What:** Every other week we'll do a up-to-90min **Backlog Refinement** session where a few people of the team come together in reviewing some of our Epics and other Backlog Tasks, to make sure we have up-to-date Epics. The goal is to ensure people can take work from them at any point in time. We'll focus on different Epics in each meetings, in line with our team priorities. Read more about it in the [Backlog Refinement](#backlog-refinement) section.
+
+**Design, Product & Engineering Sync**
+* **When:** TBU
+* **What:** A meeting allowing to sync the three departments about current and upcoming work.
+
+### 👟 Iteration
+
+[Iteration][iteration] is key to success for GitLab and every developer inside the company. In our team we try to work as iteratively as possible. Following the [company's key metrics][key-metrics] we aim for small and focused MRs.
+
+Some examples of successful Iteration Work
+- [Remove staging from commit workflows in the WebIDE](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/26151)
+- [Design View Zooming capabilities](https://gitlab.com/gitlab-org/gitlab/-/issues/13217)
+- [Split up work to replace ACE with Monaco](https://gitlab.com/groups/gitlab-org/-/epics/498)
+- Design Upload Additions [Drag-n-Drop](https://gitlab.com/gitlab-org/gitlab/-/issues/39452)[Copy-Paste](https://gitlab.com/gitlab-org/gitlab/-/issues/202634)
+- [Initial implementation of Static Site Editor config file](https://gitlab.com/gitlab-org/gitlab/-/issues/241164)
+
+The approach can be summarized like so:
+
+> GitLab.com is the source of truth. Everything that is not shipped and live is not done.
+
+👏👏👏
+
+### 🤝 Collaboration
+
+> "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
+
+#### PM - EM
+
+Our team follows the general [Product Development Flow][product-development-flow] but this guide is intended to elaborate on a few elements to represent the team's internal flavor, emphasise certain points, and smooth the collaboration.
+
+#### Workflow labels
+
+Let's look at a few of the workflow labels we should take as important cornerstones of our development workflow.
+
+
+`workflow::planning breakdown`
+
+This is the point where EM’s join the efforts, unless requested earlier. For work that requires UI or UX changes it’s expected that they have gone through the design phase already. More details can be found on this [handbook page][planning-breakdown].
+
+Should a feature require `backend` and `frontend` work that issue will receive its weight based on relevant child issues that are created as part of the breakdown. The labels `frontend-weight::x` and `backend-weight::x` will help keep track of these.
+
+If needed we will create a Technical Discovery issue for features that have a higher level of complexity.  A Technical Discovery Issue should produce either an Epic, another Issue or feedback into the spawning Issue.
+
+**Epic**
+
+If the team determines that multiple issues must be created. An Epic should be created. All of the new issues created including the Technical Discovery issue, will be assigned to the Epic. The issues will be displayed on the Epic in order of priority. The issues will include dependencies so that the order the issues must be completed in is transparent. An Epic can be spread over multiple releases to support the GitLab Core Values around Iteration
+
+Consider creating nested epics to create logical structures and don't lose track of delivering value to customers whenever possible.
+
+**Issue**
+
+If only one issue is created, the Technical Discovery proved that a simple solution can be implemented. The traditional Product Workflow should be followed.
+
+
+`workflow::scheduling`
+
+For an Issue to reach the scheduling phase, its weight must be set. It can be treated similar to the `workflow::ready for development` state, except it's in a holding pattern using the `%Backlog%` milestone, until a proper milestone gets assigned.
+
+
+`workflow::ready for development`
+
+A feature that is ready for development should be able to be picked up at any point by an Engineer and should have a provisional milestone assigned. If such a feature requires BE and FE, the corresponding features should also be in this state.
+
+#### Directional, Deliverable, Stretch and Discovery
+
+Product will provide the directional items for upcoming milestones and the EM will make sure that these get prioritized accordingly. To account for enough resource planning time it's recommended to have `direction` items ready ~10 days prior the next milestone. We need to account for engineers, who might be critical for scheduling the work, might be Out of Office (OOO) or live in the APAC zone.
+
+Engineering will use the `~Deliverable` label on any issue the team commits to during the milestone. Only features that reached the `scheduling` or `ready for development` phase can receive the `~Deliverable` label.
+Issues that might be in the planning breakdown phase, but on track for an upcoming Milestone, might receive the `~Discovery` label to indicate that Engineering discovery needs to happen on it.
+
+Should issues be added during the milestone (unexpected work), they will not receive the `~Deliverable` label.
+
+> As Engineer, plan accordingly and communicate changes early.
+
+
+### 📊 Weekly Status Update
+
+The weekly status update is something that happens asynchronously, by posting a comment on the current milestone's planning issue. The current planning issue is always linked in the Slack Channel description, or the [meeting document][gdoc].
+
+A template for the status update can be [found here](https://gitlab.com/-/snippets/1991770#status-update-2020-00-00).
+
+### 🔖 Triage
+
+Triaging is a team-effort. Every week our engineers are pinged on the GitLab Triage Issue. This lists a lot of issues that have no weight or details on it. Every Engineer should look at triaging **2 Issues / week** and follow these guidelines:
+
+* If it's a high priority bug, please assign it to the current or next Milestone right away so we can address it within time
+* If the issue seems very specific, or it's something that's probably not being addressed anytime soon please apply the `%"Awaiting further demand"` Epic
+* If the issue seems like a duplicate, please look for a similar issue, link them and close the newer one.
+* If the issue fits for a [Backlog Refinement](#backlog-refinement) session, please apply the appropriate label.
+* In any other case, it's probably fine to apply the `%Backlog` epic, and making sure all appropriate labels are assigned.
+
+
+### 🔎 Backlog Refinement
+
+This practice is very important for our team to make sure our backlog is actually triaged and properly structured.
+In this meeting we'll start by looking at any issue in our group that has the `~"Backlog Refinement::Editor"` [label applied][list-refinement] and make sure to triage it based on any current directions, or with our two backlog epics.
+
+* [Tech Debt Epic][epic-tech-debt]
+* [Improvements Epic][epic-improvements]
+
+All issues going into these Epics need to fulfill our general Issue guideline.
+
+### 📝 Issue Guidelines
+
+These guidelines apply to all issues we use for planning and scheduling work within our group. Our Engineers can define specific implementation issues when needed, but the overall goal for our issues are as follows:
+
+* Provide a meaningful **title** that describes a deliverable result.
+    * ✅ `Add a cancel button to the wiki page editing view`
+    * ✅ `Automatically save SSE Drafts after 2 seconds of inactivity`
+    * ❌ `Make WebIDE better`
+
+* Provide a meaningful description that clearly explains the goal of the issue, and provide some technical details if necessary.
+* Should there be critical implementation steps, or other useful ways to create small tasks as part of the issue, please use a checklist as part of the issue descriptions.
+* The issue should have a weight assigned
+
+It's okay to create specific engineering driven implemention issues for more complex features. These would be called **Child Issues** and they should always link back to their parent. If one issue would spawn many child issues, consider creating an Epic.
+
+### 🏋️‍♂️ Capacity planning
+
+We use weights to plan capacity in our team for any given milestone. Our [planning sheet][planning-sheet] uses following formula to calculate the teams capacity:
+
+`FLOOR((AverageDaysPerCycle - DaysOff) * AverageCapacity/AverageDaysPerCycle * CapacityKey )`
+
+Using this formula, we can calculate different capacities per engineer, and this should give us an overall feel for how much work we can commit to as a team. The goal here is definitely not to squeeze every last second out of people, but to make sure we as a team do not overcommit to work. The work we commit to is communicated to customers and other stakeholders within the company.
+
+#### What Weights to use
+
+The weight on any given issue will always reflect the sum of potential FE and BE work. On shared issues we use the `~"frontend-weight::X"` or `~"backend-weight::X"` labels for clear communication.
+
+The department weight keys, while abstract, can roughly be thought about like this:
+* Weight 1: Work can be done in a day or less as the goals are quite clear
+* Weight 2: Work might take upto 3 days
+* Weight 3: Work likely takes up to 1 full week
+
+❗️Any weight going above 3 is usually a warning sign that the work is quite complex, and should probably be broken down into smaller issues.
+
+## Communication
+
+The Editor Team communicates based on the following guidelines:
+
+1. Always prefer async communication over sync meetings.
+1. Don't shy away from arranging a [sync call](#ad-hoc-sync-calls) when async is proving inefficient, however always record it to share with team members.
+1. By default communicate in the open.
+1. All work related communication in Slack happens in the [#g_create_editor][slack] channel.
+1. We use the following emoji reactions in Slack for conveying action when writing a response is unnecessary:
+    1. `:ack:` = acknowledgement as in I have taken note of the message/request and will action - not appropriate for questions (see `:thumbsup:`)
+    1. `:thumbsup: ` = acknowledgement as in I agree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one)
+    1. `:thumbsdown:` = acknowledgement as in I disagree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one) - encouraged to follow up with a text response
+    1. `:white_check_mark:` = acknowledgement as in I have taken action on a request
+    1. `:speech_balloon:` = acknowledgement as in I have added to the conversation with a comment/question outside of Slack.
+        * e.g.: Added comment on an GitLab Issue, Left a note on a Google Doc.
+
+### Ad-hoc sync calls
+
+We operate using async communication by default. There are times when a sync discussion can be beneficial and we encourage team members to schedule sync calls with the required team members as needed.
+
+When scheduling a sync call consider doing the following:
+
+1. Add it to the team's shared calendar and make sure to attach an agenda doc. This agenda doc should also be referenced in the [Editor team's meeting document][gdoc].
+1. Notify the team of the call in the [#g_create_editor][slack] Slack channel.
+1. Record the call and upload the recording to the [Create:Editor][youtube] playlist on the GitLab Unfiltered YouTube channel.
+1. Remember to add a link to the recording in the agenda document.
+1. Notify the team of the new available recording in the [#g_create_editor][slack] Slack channel.
+
+
+## 🔗 Other Useful Links
+
+#### Developer Cheatsheet
+
+[Developer Cheatsheet][cheatsheet]: This is a collection of various tips, tricks, and reminders which may be useful to engineers on (and outside of) the team.
+
+#### GitLab Unfiltered Playlist
+
+The Editor Group collates all video recordings related to the group and its team members in the [Editor playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
+
+
+<!-- LINKS START -->
+[hb-create]: /handbook/engineering/development/dev/create/
+[hb-dev]: /handbook/engineering/development/dev/
+[hb-categories]: https://about.gitlab.com/direction/create/#categories-in-create
+[timezones]: https://timezone.io/team/gitlab-createeditor
+[product-development-flow]: /handbook/product-development-flow/
+[planning-breakdown]: /handbook/product-development-flow/#build-phase-1-plan
+[iteration]: /handbook/values/#iteration
+[key-metrics]: /handbook/engineering/management/engineering-metrics/#universal-team-metrics-dashboard-in-sisense
+[list-refinement]: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Backlog%20Refinement%3A%3AEditor
+[epic-tech-debt]: https://gitlab.com/groups/gitlab-org/-/epics/4274
+[epic-improvements]: https://gitlab.com/groups/gitlab-org/-/epics/5005
+[planning-sheet]: https://docs.google.com/spreadsheets/d/1EjfFXk3Ux6o0v5AFcicyIZzuchWJdJbuCxnxWJb2zVg/edit#gid=0
+[gdoc]: https://docs.google.com/document/d/1b-dgL0ElBf_I3pbBUFISTYBG9VN02F1b3TERkAJwJ20/edit#
+[slack]: https://gitlab.slack.com/archives/CJS40SLJE
+[youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KrRQhnSYRNh1s1mEUypx67-
+[cheatsheet]: /handbook/engineering/development/dev/create-editor/developer-cheatsheet/
+<!-- LINKS END -->

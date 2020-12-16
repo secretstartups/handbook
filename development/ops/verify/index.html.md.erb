@@ -11,11 +11,11 @@ title: "Verify Stage"
 
 ## Vision
 
-To enable software teams around the world to be confident in their delivery by providing a [comprehensive CI platform](https://about.gitlab.com/direction/ops/#verify) that enables them to [Do Powerful Things Easily](https://about.gitlab.com/direction/ops/#do-powerful-things-easily).
+To enable software teams around the world to be confident in their delivery by providing a [comprehensive CI platform](/direction/ops/#verify) that enables them to [Do Powerful Things Easily](/direction/ops/#do-powerful-things-easily).
 
 ## Mission
 
-As engineers in Verify we know our customers because we _are_ our customers, and we are constantly striving make our platform better for everyone. We do this through [iteration](/handbook/values/#iteration), [dogfooding](/handbook/values/#dogfooding), and being involved in our open source community. We innovate, we collaborate, and we challenge assumptions to arrive at great results.
+As engineers in Verify we know our customers because we _are_ our customers, and we are constantly striving to make our platform better for everyone. We do this through [iteration](/handbook/values/#iteration), [dogfooding](/handbook/values/#dogfooding), and being involved in our open source community. We innovate, we collaborate, and we challenge assumptions to arrive at great results.
 
 We take ownership of the things we build, with a focus on stability and availability. We do this by having a deep technical understanding of the operation and performance characteristics of our platform, and a proactive perspective to future growth.
 
@@ -28,20 +28,41 @@ The Verify stage is made up of 4 groups:
 1. [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 1. [Verify:Testing](/handbook/engineering/development/ops/verify/testing/)
 
+## UX Strategy
+
+For of our UX Vision and Strategy, take a look at the [Verify UX Strategy](/handbook/engineering/ux/stage-group-ux-strategy/verify/) page.
+
+### Jobs to be done (JTBD)
+
+A [Job to be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) is a framework, or lens, for viewing products and solutions in terms of the jobs customers are trying to achieve.
+
+* [Verify:Continuous Integration JTBD](/handbook/engineering/development/ops/verify/continuous-integration/jtbd/)
+* Verify:Pipeline Authoring JTBD - _coming soon_
+* Verify:Runner JTBD - _coming soon_
+* [Verify:Testing JTBD](/handbook/engineering/development/ops/verify/testing/JTBD/)
+
+### Continuous Integration and Pipeline Authoring Collaboration
+
+Pipeline Authoring and Continuous Integration are closely related but they also represent different stages in the cycle of a user's interaction with a pipeline. At a very high-level, this image illustrates the main focus of each group and how they can both support a better pipeline experience.
+
+![Verify Groups](/images/handbook/engineering/verify/verify_groups_banner.jpg)
+
 ### Verify:Continuous Integration
+
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', role_regexp: /Continuous Integration/) %>
+
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Continuous Integration/) %>
 
 ### Verify:Pipeline Authoring
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', role_regexp: /Pipeline Authoring/) %>
+
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Authoring/) %>
 
 ### Verify:Runner
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Runner') %>
 
 ### Verify:Testing
 <%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
-
-### Verify Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify') %>
 
 ## How we work
 
@@ -83,6 +104,22 @@ Everyone is welcome to sign up or view previous issue on the [newsletter page](h
 
 Each issue of the newsletter is planned using individual issues linked in the [newsletter epic](https://gitlab.com/groups/gitlab-com/-/epics/1148). Content is generally contributed by managers, but everyone is encouraged to contribute topics for the newsletter.
 
+## Verify Technical Discussions
+
+Verify Technical Discussions is a Zoom meeting hosted bi-weekly by Verify Team. Everyone is invited, however paricipation of Verify stage members is especially encouraged.
+
+During the meeting we discus a variety of technical aspects related to the Verify stage roadmap.
+
+Everyone can add their points to the [agenda document](https://docs.google.com/document/d/1SEydi30hYjqZ5ellZgwcijUesRnWjQVd___h3J9SSKY).
+
+Below you can find a table with links to recordings of Verify Technical Discussions and Technical Deep Dives.
+
+| Date       | Title                                                          | Recording                                 |
+|------------|----------------------------------------------------------------|-------------------------------------------|
+| 2020-12-10 | Technical Deep Dive - Observability at GitLab with demos       | [Recording](https://youtu.be/DVNyH3zQWBo) |
+| 2020-11-19 | Technical Deep Dive - Cloud Native Build Logs feature overview | [Recording](https://youtu.be/Fq1ecmb_zk0) |
+| 2020-05-08 | Technical Deep Dive - Using Prometheus with GitLab Compose Kit | [Recording](https://youtu.be/y9NW7A_XJrU) |
+
 ## Common Links
 
 ### Slack Channels
@@ -94,3 +131,4 @@ Each issue of the newsletter is planned using individual issues linked in the [n
   * Verify:Testing [#g_testing](https://gitlab.slack.com/archives/CPANF553J)
 * Verify Engineering Managers [#s_verify-em](https://gitlab.slack.com/archives/C014UTH4W02)
 * Verify Frontend Engineering [#s_verify_fe](https://gitlab.slack.com/archives/CUYH1MP0Q)
+* CI/CD UX [#ux_ci-cd](http://gitlab.slack.com/archives/CL9STLJ06)

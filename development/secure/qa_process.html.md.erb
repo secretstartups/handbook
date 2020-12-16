@@ -1,0 +1,30 @@
+---
+layout: handbook-page-toc
+title: Secure QA Process
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Secure QA Process
+
+The secure analyzers verify merge requests by running a new commit against downstream test projects for their supported languages/frameworks (i.e. the [`gemnasium` analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium) of `Dependency Scanning` will trigger tests against `php`, `go`, and [several other](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium/-/blob/v2.21.0/.gitlab-ci.yml#L35-89) test projects). The verification is done by comparing the generated report output against an expected report committed to the analyzer's repository. If analyzer behavior has changed, then the pipeline will fail because the contents of the expected and generated reports will no longer match.
+
+The expectations for the `Dependency Scanning`, `SAST`, and `Secrets Detection` analyzers are stored in the project's `qa/expect` directory with a sub-directory for each particular framework/language type.
+
+### Test Projects
+
+The test projects reside in the Secure [tests subgroup](https://gitlab.com/gitlab-org/security-products/tests/) and their use and best practices are found in the [common README](https://gitlab.com/gitlab-org/security-products/tests/common/-/blob/master/README.md).
+
+### Changing Analyzer Behavior
+
+If a change to an analyzer changes the report output, then the expected report must change as well.
+
+In `SAST`, `Dependency Scanning`, `Secret Detection` the expected reports are stored with the analyzer in a path corresponding to the test project in a subdirectory for the language/framework. For example, the expected report for scanning the dependencies of `java-maven` is stored in [gemnasium-maven/qa/expect](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven/-/tree/master/qa/expect/java-maven). This way if an analyzer's behavior changes, the expectation can be changed and packaged in the same commit.
+
+For `License Compliance`, expectations are stored in the test project's `qa/expect` directory (e.g. [ruby-bundler/qa/expect](https://gitlab.com/gitlab-org/security-products/tests/ruby-bundler/-/tree/master/qa/expect)).
+
+More information about can be found in the [Security Products test projects repository](https://gitlab.com/gitlab-org/security-products/tests/common/-/blob/master/README.md).

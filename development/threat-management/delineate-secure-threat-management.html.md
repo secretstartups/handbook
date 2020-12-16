@@ -21,7 +21,7 @@ Displays summary of vulnerabilities and allows management of the list of vulnera
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/dashboard/?project_id=17172530&scope=dismissed&page=1&days=90)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 
@@ -31,7 +31,7 @@ Displays and allows management of a list of vulnerabilities.
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 ###	Vulnerability detail
@@ -40,7 +40,7 @@ Allows user to view detail of vulnerability and manage it.
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/vulnerabilities/870888)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 
@@ -50,7 +50,7 @@ Displays statistics and other related information on container security enabled 
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/waf-enablement-demo/-/threat_monitoring)
 * Product Manager: Sam White
-* Primary Development Group: [Protect:Container Security](/handbook/product/product-categories/#container-security-group)
+* Primary Development Group: [Protect:Container Security](/handbook/product/categories/#container-security-group)
 * Engineering sub-department: Threat Management
 
 
@@ -60,7 +60,7 @@ Secure: Composition Analysis, Displays vulnerability findings for a specific pip
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/pipelines/121635847/security)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 
@@ -70,7 +70,7 @@ Allows users to see their dependencies detected.
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/dependencies)
 * Product Manager: Nicole Schwartz
-* Primary Development Group: [Secure:Composition Analysis](/handbook/product/product-categories/#composition-analysis-group)
+* Primary Development Group: [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group)
 * Engineering sub-department: Secure
 
 
@@ -80,7 +80,7 @@ Allows users to see their licenses detected and policies set
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/licenses)
 * Product Manager: Nicole Schwartz
-* Primary Development Group: [Secure:Composition Analysis](/handbook/product/product-categories/#composition-analysis-group)
+* Primary Development Group: [Secure:Composition Analysis](/handbook/product/categories/#composition-analysis-group)
 * Engineering sub-department: Secure
 
 
@@ -92,7 +92,7 @@ View and configure scanners for a project.
 
 * [Example](https://gitlab.com/gitlab-org/threat-management/webgoat/-/security/configuration)
 * Product Manager: Secure PMs by their categories
-* Primary Development Group: [Secure by their categories](/handbook/product/product-categories/#secure-stage)
+* Primary Development Group: [Secure by their categories](/handbook/product/categories/#secure-stage)
 * Engineering sub-department: Secure
 
 
@@ -102,7 +102,7 @@ Display comparison of source branch results with target branch results. Also inc
 
 * [Example](https://docs.gitlab.com/ee/user/project/merge_requests/#security-reports)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 
@@ -112,7 +112,7 @@ Secure: Composition Analysis, Technical details about how to build a scanner tha
 
 * [Example](https://docs.gitlab.com/ee/development/integrations/secure.html)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure by their categories](/handbook/product/product-categories/#secure-stage)
+* Primary Development Group: [Secure by their categories](/handbook/product/categories/#secure-stage)
 * Engineering sub-department: Secure
 
 
@@ -122,7 +122,7 @@ Overview of how to partner with GitLab to build a scanner
 
 * [Example](https://docs.gitlab.com/ee/development/integrations/secure_partner_integration.html#secure-partner-integration---onboarding-process)
 * Product Manager: Sam Kerr
-* Primary Development Group: [Secure by their categories](/handbook/product/product-categories/#secure-stage)
+* Primary Development Group: [Secure by their categories](/handbook/product/categories/#secure-stage)
 * Engineering sub-department: Secure
 
 
@@ -132,7 +132,7 @@ View, Dismiss, or Confirm (and create related Issue) vulnerability findings the 
 
 * [Example](https://docs.gitlab.com/ee/user/application_security/index.html#interacting-with-the-vulnerabilities)
 * Product Manager: Matt Wilson
-* Primary Development Group: [Secure:Threat Insights](/handbook/product/product-categories/#threat-insights-group)
+* Primary Development Group: [Secure:Threat Insights](/handbook/product/categories/#threat-insights-group)
 * Engineering sub-department: Threat Management
 
 
@@ -140,8 +140,8 @@ View, Dismiss, or Confirm (and create related Issue) vulnerability findings the 
 
 Ownership of the end-to-end technical solution spans multiple groups. This section clarifies
 cross-group maintainership of code artifacts between [Threat
-Insights](/handbook/product/product-categories/#threat-insights-group) and the remaining groups in
-the [Secure Stage](/handbook/product/product-categories/#secure-stage).
+Insights](/handbook/product/categories/#threat-insights-group) and the remaining groups in
+the [Secure Stage](/handbook/product/categories/#secure-stage).
 
 The diagram below is an over-simplified representation of the architecture but helps understand the
 delineation.
@@ -192,3 +192,6 @@ The reports JSON schemas are maintained by the relevant Secure groups (Backend t
 For instance, the Static Analysis group is responsible for the SAST category, so its backend team is responsible for the `sast` report JSON schema.
 Additionally, any modification of the shared definitions and structure must be approved by each group's backend team.
 
+#### Comparison and tracking logic
+
+All types of vulnerabilities follow the same generic comparison and tracking logic in the rails application based on the report type, primary identifier, and location fingerprint. While the way to generate the location fingerprint may vary from one type of report to another, the logic to compare and track is still generic and managed by Threat Insights. Any improvement of that logic that is specific to a given report type is under the responsibility of the corresponding group (e.g. Static Analysis group would be the maintainer of any improvement to track SAST vulnerabilities).

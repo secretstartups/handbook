@@ -1,0 +1,83 @@
+---
+layout: handbook-page-toc
+title: Ecosystem Backend Team
+description: The Ecosystem BE team is responsible for the backend engineering work for the Ecosystem group in the Create stage.
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+<!-- Common Links -->
+[engineering workflow]: /handbook/engineering/workflow/
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[#g_ecosystem]: https://gitlab.slack.com/archives/g_ecosystem
+
+## About
+
+The Ecosystem Backend team is a part of the [Ecosystem Group](/handbook/engineering/development/dev/ecosystem/) group in the [Create Stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
+
+This page covers processes and information specific to the Ecosystem Backend team.
+
+Slack Channel (internal): [#g_ecosystem-be](https://gitlab.slack.com/archives/C01E55XNCEA)
+
+## Backend Team Members
+
+<%= direct_team(manager_role: 'Backend Engineering Manager, Ecosystem') %>
+
+## OKRs
+
+Each quarter we have a series of Objectives and Key Results (OKRs) for our team. To find the current OKRs for this quarter, use [this issue list](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OKR&label_name[]=group%3A%3Aecosystem&label_name[]=backend).
+
+## Metrics
+
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/metrics.erb") %>
+
+## Work
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch with the Ecosystem BE team, it's best to create an issue in the relevant project (typically [GitLab]) and add the `~"group::ecosystem"` and `~backend` labels, along with any other appropriate labels. Then, feel free to ping the relevant Product Manager and/or Engineering Manager.
+
+For more urgent items, feel free to use [#g_ecosystem] on Slack.
+
+[Take a look at the features we support per category here.](/handbook/product/product-categories/features/#createecosystem-group)
+
+### Collaborating with Counterparts
+
+You are encouraged to work as closely as needed with stable counterparts including our PM. We should be sure to include documentation, UX, quality engineering, and application security in the planning process.
+
+Quality engineering is included in our workflow via the [Quad Planning Process](/handbook/engineering/quality/quad-planning/).
+
+### What to work on
+
+<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Ecosystem", slack_channel: 'g_ecosystem' }) %>
+
+[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem
+[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2168283
+
+### Issue Boards
+
+The work for the Ecosystem Backend team can be tracked on the following issue boards:
+
+- [Ecosystem BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Aecosystem&label_name[]=backend) - Tracks the workflow progress of issues
+- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
+- [Deliverable Board](https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem) - Tracks `~Deliverable` and `~Stretch` issues
+
+### Workflow labels
+
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::ecosystem' }) %>
+
+### Capacity Planning
+
+<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+
+### Backlog Refinement
+
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/backlog_refinement.erb") %>
+
+### Retrospectives
+
+<%= partial("handbook/engineering/development/dev/ecosystem/ecosystem-be/retrospectives.erb") %>
+
+

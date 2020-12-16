@@ -9,7 +9,7 @@ title: Threat Management sub-department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Threat Management engineering sub-department contributes to development in the [Secure & Protect sections](/handbook/product/product-categories/#secure--protect-section).
+The Threat Management engineering sub-department contributes to development in the [Sec section](/handbook/product/categories/#sec-section).
 
 ```mermaid
 erDiagram
@@ -21,7 +21,7 @@ erDiagram
     Secure-Stage ||--|| Threat-Insights-Group  : contains
 ```
 
-We are responsible for protecting applications, networks and infrastructure from security intrusions via giving users insights into threats at the vulnerability, network, container, operating system, and application layers. Our sub-department consists of all groups in the [Protect Stage](/handbook/product/product-categories/#protect-stage) and the [Threat Insights Group](/handbook/product/product-categories/#threat-insights-group) in the [Secure Stage](/handbook/product/product-categories/#secure-stage).
+We are responsible for protecting applications, networks and infrastructure from security intrusions via giving users insights into threats at the vulnerability, network, container, operating system, and application layers. Our sub-department consists of all groups in the [Protect Stage](/handbook/product/categories/#protect-stage) and the [Threat Insights Group](/handbook/product/categories/#threat-insights-group) in the [Secure Stage](/handbook/product/categories/#secure-stage).
 
 You can learn more about our approach on the direction pages for [Secure](/direction/secure/) and [Protect](/direction/protect/).
 
@@ -48,19 +48,23 @@ Provide features to allow customers to manage their security risks effectively a
 
 For more details, see the [Secure stage](/stages-devops-lifecycle/secure/) and [Protect stage](/stages-devops-lifecycle/protect/).
 
-## Sub-department Members
+## Sub-department development people leaders
 
-The following people are permanent members of this sub-department.
 
-<%= direct_team(manager_role: 'Director of Engineering, Threat Management') %>
 
+<%=
+departments = ['Threat Management']
+department_regexp = /(#{Regexp.union(departments)})/
+
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Threat Management and Growth')
+%>
 ### Backend
 
-#### [Secure Stage: Threat #Insights](/handbook/product/product-categories/#threat-insights-group)
+#### [Secure Stage: Threat #Insights](/handbook/product/categories/#threat-insights-group)
 
 <%=  direct_team(role_regexp: /Threat Insights/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
-#### [Protect Stage: Container #Security](/handbook/product/product-categories/#container-security-group)
+#### [Protect Stage: Container #Security](/handbook/product/categories/#container-security-group)
 
 <%=  direct_team(role_regexp: /Container Security/, manager_role: 'Backend Engineering Manager, Threat Management') %>
 
@@ -101,7 +105,7 @@ You can watch the Threat Management Sub-Department playlist below.
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL05JrBw4t0KpqY7EwA_JaCtb9YrfPLA6d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PL05JrBw4t0KpqY7EwA_JaCtb9YrfPLA6d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
@@ -140,7 +144,8 @@ Because we have a wide range of domains to cover, it requires a lot of different
 | -------------------|---------------------------|
 | Ruby on Rails      | Backend development       |
 | Go                 | Backend development       |
-| Vue, Vuex, GraphQL | Frontend development      |
+| Vue, Vuex          | Frontend development      |
+| GraphQL            | _Various_                 |
 | SQL (PostgreSQL)   | _Various_                 |
 | Docker/Kubernetes  | Threat Detection          |
 | Network Security   | Container network security |
@@ -159,7 +164,7 @@ As the product evolves, it is important to maintain accurate and up to date docu
 To update the documentation, follow this process:
 
 1. When an issue has been identified as needing documentation, add the `~Documentation` label and outline in the description of the issue what documentation is needed.
-1. Assign a Backend Engineer and Technical Writer to the issue. To find the appropriate TW, search the [product categories](/handbook/product/product-categories/).
+1. Assign a Backend Engineer and Technical Writer to the issue. To find the appropriate TW, search the [product categories](/handbook/product/categories/).
 1. For documentation around features or bugs, a Backend Engineer should write the documentation and work with the technical writer for editing. If the documentation only needs styling cleanup, clarification, or reorganization, the Technical Writer should lead the work, with support from a Backend Engineer as necessary. The availability of a technical writer should in no way hold up work on the documentation.
 
 [Further information on the documentation process](https://docs.gitlab.com/ee/development/documentation/feature-change-workflow.html).
@@ -169,7 +174,6 @@ To update the documentation, follow this process:
 
 * We [disagree and commit](/handbook/values/#transparency) when necessary.
 * We decide on a [**D**irectly **R**esponsible **I**ndividual](/handbook/people-group/directly-responsible-individuals/) for a project or decision.
-* We primarily rely on [asynchronous communication](/handbook/communication/).  However, we will rely on synchronous communication (such as [fast boot](/handbook/engineering/fast-boot/) or similar) when asynchronous communication is not proving to be effective to make a decision.
 * We document how decisions are made on which features will be in the secure stage and which will be in the protect stage in order to avoid confusion.  _(Documentation WIP by product management)_
 * We prefer asynchronous communication (merge request/issue threads) over synchronous communication (meetings).  In fact, when we cancel a meeting because everything that would have been discussed in the agenda was handled asynchronously, we cancel the meeting and celebrate by posting ["Another One Bites The Dust"](https://www.youtube.com/watch?v=rY0WxgSXdEE) in the team's slack channel .
 
@@ -182,16 +186,19 @@ To update the documentation, follow this process:
 
 ### Product Documentation Links
 
-* [Protect](https://docs.gitlab.com/ee/README.html#protect)
 * [Web Application Firewall with ModSecurity](https://docs.gitlab.com/ee/topics/web_application_firewall/#web-application-firewall---modsecurity)
 * [Network Policies with Cilium](https://docs.gitlab.com/ee/topics/autodevops/#network-policy)
 * [Install Cilium Network Policies](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
+* [Install Falco](https://docs.gitlab.com/ee/user/clusters/applications.html#install-falco-using-gitlab-cicd)
+* [Install AppArmor](https://docs.gitlab.com/ee/user/clusters/applications.html#install-apparmor-using-gitlab-cicd)
+* [Configure Pod Security Policies](https://docs.gitlab.com/ee/user/clusters/applications.html#using-podsecuritypolicy-in-your-deployments)
 * [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
-* [Standalone Vulnerabilities](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/#standalone-vulnerability-pages)
+* [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
+* [Security scanner integration](https://docs.gitlab.com/ee/development/integrations/secure.html)
 * [Securing your deployed applications](https://docs.gitlab.com/ee/user/project/clusters/securing)
+* [Secure and Protect terminology](https://docs.gitlab.com/ee/user/application_security/terminology/)
 
 ### Slack
-
 
 * [Stage #s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
 * [Stage #s_protect](https://gitlab.slack.com/archives/s_protect)
@@ -214,4 +221,6 @@ Community Contributions are welcome! Please follow these [general GitLab intruct
 
 While we love to get contributions from our users in the community, we also strive to attract talents in the Engineer teams of this stage to bring our product to the next level.
 
-Our open positions are listed on the GitLab [Jobs page](/jobs/apply/): Select "Threat Management" Under "Engineering", then "Developement".
+* Our open positions are listed on the GitLab [Careers page](/jobs/careers/).
+
+Threat Management sub-department Office Hours are scheduled fortnightly. Details can be found on the GitLab Team Meetings, [Threat Mgmt Sub-Department](https://calendar.google.com/calendar/u/0?cid=Y18yMmhjaGJwcDFzcnQxN243Y2F2dnJrZ2dmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), and [Community Office Hours](https://calendar.google.com/calendar/u/0?cid=Y191c2MyNGJ0MHNvZ3Q0N2FoMDJxMHFkNDhra0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) shared calendars. This is a chance for internal and exteral GitLab contributors to ask questions about topics related to the any of the groups or categories listed above.

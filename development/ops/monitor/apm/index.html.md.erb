@@ -12,7 +12,7 @@ title: "APM Group"
 
 ## Group Change
 
-##### As of September 2020, the Monitor:APM group will not exist in its current form. The responsibilities of the Monitor:APM team are moving to the [Monitor:Health group](/handbook/engineering/development/ops/monitor/health/) for now.
+##### As of September 2020, the Monitor:APM group will not exist in its current form. The responsibilities of the Monitor:APM team are moving to the [Monitor:Monitor group](/handbook/engineering/development/ops/monitor/monitor/) for now.
 
 ## APM
 
@@ -41,17 +41,17 @@ We expect to track the journey of users through the following funnel:
 classDiagram
   Acquistion --|> Activation
 	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Total Count of metrics and log Views) 
+	Acquistion: Measurement (Total Count of metrics and log Views)
   Activation --|> Retention
 	Activation : Are users applying the feature?
 	Activation: Measurement (Count of Projects with active Prometheus)
-  Activation: Measurement (Count of Projects with active Elastic stack) 	 				
+  Activation: Measurement (Count of Projects with active Elastic stack)
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
-	Retention: Measurement (Count of projects where custom dashboards are been created) 
+	Retention: Measurement (Count of projects where custom dashboards are been created)
   Revenue --|> Referral
 	Revenue : Are users paying for the features?
-	Revenue: Measurement (Total count of projects with multiple Prometheus) 
+	Revenue: Measurement (Total count of projects with multiple Prometheus)
   Referral --|> Acquistion
 	Referral : Are users encouraging others to use the feature?
 	Referral: Measurement (TBD)
@@ -89,7 +89,7 @@ The APM group is responsible for:
 - Packaging these tools to enable all customers to manage their instances easily and completely
 - Building integrated monitoring solutions for customers apps into GitLab, including: metrics, logging, and tracing
 
-This team maps to the [APM Group](/handbook/product/product-categories/#apm-group) category.
+This team maps to the [APM Group](/handbook/product/categories/#apm-group) category.
 
 ## How to work with APM
 

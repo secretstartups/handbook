@@ -12,14 +12,14 @@ title: "Verify:Continuous Integration Group"
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/) and the [Category direction of Continuous Integration](https://about.gitlab.com/direction/verify/continuous_integration/)
+vision](/direction/verify/) and the [Category direction of Continuous Integration](/direction/verify/continuous_integration/)
 
 ## Mission
 
 The Verify:Continuous Integration Group is focused on all the functionality with respect to
-Continuous Integration.
+Continuous Integration. A key focus for the CI group is delivering features that achieve the outcome we track in our performance indicator.
 
-This team maps to [Verify](/handbook/product/product-categories/#verify-stage) devops stage.
+This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
 ## Performance Indicator
 
@@ -31,6 +31,13 @@ This team maps to [Verify](/handbook/product/product-categories/#verify-stage) d
 - Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related
   to operations performed by and for Runners.
 - Job artifacts: storage and management of artifacts is the gateway for many CI/CD features.
+
+Not included in CI group's domain:
+
+- Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
+- Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
+- Compliance in Pipelines, see the [direction page](https://about.gitlab.com/direction/manage/compliance-management/)
+
 
 ## Team Members
 
@@ -84,22 +91,22 @@ The Continuous Integration group supports the product marketing categories descr
 
 | Label                 | |  | | |
 | ----------------------| -------| ----|------------| ---|
-| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](https://about.gitlab.com/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
-| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](https://about.gitlab.com/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) |
+| `Category:Continuous Integration` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AContinuous%20Integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AContinuous%20Integration) | [Direction](/direction/verify/continuous_integration/) | [Documentation](https://docs.gitlab.com/ee/ci/) |
+| `Category:Merge Trains` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Category%3AMerge%20Trains) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=Category%3AMerge%20Trains) | [Direction](/direction/verify/merge_trains/) | [Documentation](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) |
 
 #### Feature Labels
 
 | Label                 | |  | Description |
 | ----------------------| -------| ----|------------|
-| `ci::artifacts` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::artifacts) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::artifacts) | Issues related to [CI build artifacts](http://doc.gitlab.com/ce/ci/build_artifacts/README.html). Formerly `~artifacts` |
-| `ci::variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::variables) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::variables) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
-| `ci::usage` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::usage) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::usage) | All issues and MRs related to how we count continuous integration minutes and calculate usage. Formely `~ci minutes` |
-| `ci::processing` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::processing) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::processing) | Issues related to the execution of pipeline jobs, including DAG, child pipelines, and matrix build jobs |
-| `ci::permissions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::permissions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::permissions) | Issues related to `CI_JOB_TOKEN` and CI authentication |
-| `ci::api-interactions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::api-interactions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::api-interactions) | Issues related to API endpoints for CI features. |
-| `ci::notifications` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::notifications) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::notifications) | Issues related to the notifications related to CI features. |
-| `ci::merge-request` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::merge-request) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::merge-request) | Issues related to CI functionality within the Merge Request. |
-| `ci::metrics` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=ci::metrics) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=ci::metrics) | Issues related to CI statistics and dashboards. |
+| `api` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=api) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=api) | Issues related to API endpoints for CI features. |
+| `artifacts` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=artifacts) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=artifacts) | Issues related to [CI build artifacts](http://doc.gitlab.com/ce/ci/build_artifacts/README.html). Formerly `~artifacts` |
+| `CI permissions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+permissions) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+permissions) | Issues related to `CI_JOB_TOKEN` and CI authentication |
+| `CI usage` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+usage) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+usage) | All issues and MRs related to how we count continuous integration minutes and calculate usage. Formely `~ci minutes` |
+| `CI variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+variables) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+variables) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
+| `MR related to CI` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=MR+related+to+CI) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=MR+related+to+CI) | Issues related to CI functionality within the Merge Request. |
+| `notifications` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=notifications) | [MRs](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=notifications) | Issues related to various forms of notifications related to CI features. |
+| `pipeline analytics` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=pipeline+analytics) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=pipeline+analytics) | Issues related to CI pipeline statistics and dashboards. |
+| `pipeline processing` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=pipeline+processing) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=pipeline+processing) | Issues related to the execution of pipeline jobs, including DAG, child pipelines, and matrix build jobs |
 
 #### Other Notable Labels
 
@@ -108,9 +115,9 @@ The Continuous Integration group supports the product marketing categories descr
 
 ### Collaboration with UX and Engineering
 
-To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development.
+To create a high-quality product that is functional and useful – Engineering, PM and Product Designer need to work closely together, combine methodologies, and often connect throughout the product development. Product Management and Product Designers aim to work 3 months in advance of Engineering proposals to ensure the problem definition and solution has been adequately validated prior to building. 
 
-Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
+Product Designers play a critical role in the product development of user-facing issues. They collaborate with the Engineering and the Product Manager to design the user experience for the features. Once the design solution is proposed, agreed and validated, the Engineering [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to implement that design and functionality during the milestone for which the issue is planned.
 
 Product Designer, PM, and Engineering use `workflow::design` to discuss possible complexities, challenges, and uncover blockers around the proposed solution. To avoid blocking reviews later in the product development flow, the Product Designer, PM, and Engineering should work collaboratively throughout the feature design and development process to check-in often, so that the UX approval on merge requests is not required.
 
@@ -131,12 +138,13 @@ Note: A good practice when only wanting to inform rather than requesting a direc
 We suggest using the below steps to reach the best results in the shortest time:
 
 * Once, through user research, we have identified a user need and have generated the big idea to meet that need, Product Designer drives the process of moving that idea into a solution prototype involving PM and Engineering Team early and often.
+    * The [UX Definition of Done](/handbook/engineering/ux/stage-group-ux-strategy/ci-cd/continuous-integration/index.html#ci-ux-dod-objectives) can be applied in order to better break down design work and give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
 * We take that prototype through a user testing to validate it is solving the original problem.
 * When the solution is validated with users - it is time to break the big solution down into smaller issues involving a whole team (PM, Engineers, Product Designer, QA and Technical Writer).
 * Engineers, Product Designer, EM and PM are expected to work closely together to find the most technically feasible and smallest feature set to deliver value to early customers and provide feedback for future product development. Check out [iteration strategies](#iteration-strategies) for help.
 
 We aim to design broadly for an epic or full feature at least one milestone ahead of time and then break the big solution into smaller issues to pick up in the next milestones.
-Suppose working one milestone ahead to design the big solution is not possible. In that case, Engineering and Product Designer will define the first most technically feasible and smallest feature set ([MVC](https://about.gitlab.com/handbook/values/#minimal-viable-change-mvc)) to satisfy early customers that will be implemented in the same milestone.
+Suppose working one milestone ahead to design the big solution is not possible. In that case, Engineering and Product Designer will define the first most technically feasible and smallest feature set ([MVC](/handbook/values/#minimal-viable-change-mvc)) to satisfy early customers that will be implemented in the same milestone.
 
 #### Reviewing Merge Requests
 
@@ -148,19 +156,19 @@ Tips to avoid blocking reviews:
 
 #### Dealing with Community Merge Requests
 
-TBD
+For more details on how to contribute to GitLab generally, please see our [documentation](https://docs.gitlab.com/ee/development/contributing/). 
 
 #### Aligning on feature development
 
-The Engineering DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the Engineering DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
+The Engineering DRI works with the Product Designer throughout the `workflow:in dev` phase to uncover possible problems with the solution early enough that exhibit unexpected behaviour to what was originally agreed upon. If there are changes to be added that weren't agreed upon in the initial issue - a followup issue should be made and the Engineering DRI should work with the Product Manager to schedule that issue in a following milestone. This allows us to focus on [cleanup over signoff](/handbook/values/#cleanup-over-sign-off), iterate quickly on issues with [a low level of shame](/handbook/values/#low-level-of-shame), and still make sure we accomplish what we've agreed upon. We should be careful not to hold off on completing these followup issues so that we don't build up a significant amount of UX debt issues.
 
 If we find that solutions are consistently not matching the agreed upon design, we will hold a retrospective with the DRI, designer, and product manager to discuss where the gaps in communication are so that we can improve. It may be necessary to begin requiring a UX approval for merge requests on certain issues to help the Engineering DRI meet the requirements.
 
 #### Avoiding crunch times between UX and Engineering
 
-* Ideally, the Product Manager works ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
+* Ideally, the Product Manager works 3 months ahead of time with a Product Designer to validate the problem and work on the solution. See [Validation track](/handbook/product-development-flow/#validation-track) for more details. This allows us to come up with the bigger idea ahead of time, and work further with Engineering to break it down into smaller iterations. Ideally, this should be completed before the implementation milestone starts.
 * Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
-* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](https://about.gitlab.com/handbook/product-development-flow/#build-track) to avoid unplanned changes.
+* Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
 ### Technical debt
 

@@ -112,15 +112,21 @@ At times when cross-functional, or cross-departmental architectural collaboratio
 
 Development's headcount planning follows the Engineering [headcount planning](/handbook/engineering/#headcount-planning) and [long term profitability targets](/handbook/engineering/#long-term-profitability-targets).  Development headcount is a percentage of overall engineering headcount.  For FY20, the headcount size is 271 or ~58% of overall engineering headcount.
 
-We follow normal span of control both for our managers and directors of [4 to 10](/company/team/structure/#management-group).  Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/product-categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
+We follow normal span of control both for our managers and directors of [4 to 10](/company/team/structure/#management-group).  Our sub-departments and teams match as closely as we can to the [Product Hierarchy](/handbook/product/categories/#hierarchy) to best map 1:1 to [Product Managers](/handbook/product/).
 
 ### Daily Duties for Engineering Directors
 
 The following is a non exhaustive list of daily duties for engineering directors, while some items are only applicable at certain time, though.
-* Review engineering metrics boards in Sisense
-  * [Development KPIs](https://app.periscopedata.com/app/gitlab/504639/Development-KPIs)
-  * [Sub-department MR metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Section-MR-Metrics)
-  * Sub-department and group specific boards, for example [Dev Sub-department Overview Board](https://app.periscopedata.com/app/gitlab/561630/Dev-Section-Overview-Dashboard)
+* Review engineering metrics
+  * [Development Department Performance Indicators](/handbook/engineering/development/performance-indicators/)
+  * Sub-department Performance Indicators
+     * [Dev](/handbook/engineering/development/performance-indicators/dev/)
+     * [Enablement](/handbook/engineering/development/performance-indicators/enablement/)
+     * [Fulfillment](/handbook/engineering/development/performance-indicators/fulfillment/)
+     * [Growth](/handbook/engineering/development/performance-indicators/growth/)
+     * [Ops](/handbook/engineering/development/performance-indicators/ops/)
+     * [Secure](/handbook/engineering/development/performance-indicators/secure/)
+     * [Threat management](/handbook/engineering/development/performance-indicators/threat-management/)
 * Review hiring dashboards
 * Personal todo list
 * Personal GitLab board(s) if any
@@ -128,24 +134,42 @@ The following is a non exhaustive list of daily duties for engineering directors
   * Action items in agenda documents
   * Issue boards
   * Slack channel
-* [Availability & Performance refinement](/handbook/engineering/workflow/#availability-and-performance-refinement)
+* [Performance refinement](/handbook/engineering/workflow/#performance-refinement)
   * Follow up open questions and ensure appropriate handling of issues with regard to priority and severity
-  * [Agenda document](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit)
+  * [Agenda document](https://docs.google.com/document/d/1icG6yrW2oebXz8iXvgfM5JjtMqpsDBCn1v3_VO2ghS0/edit#)
+  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204)
+* [Infrastructure Development Escalations](/handbook/engineering/workflow/#infradev)
+  * Triage new issues, enhance Issue details and ensure appropriate handling based on priority and severity
+  * Sync discussions for infradev Issues are part of the [GitLab SaaS Weekly Meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure)
+  * [Agenda document](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#)
   * [Infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev)
-  * [Performance board](https://gitlab.com/groups/gitlab-org/-/boards/1233204?label_name[]=performance-refinement)
 * Follow active [Engineering Rapid Action(s)](#rapid-action-issue) that the director sponsors
   * Standup/status update document
   * Issue board
+* Holiday Emergency Contact Rotations
 
+#### Holiday Coverage of Year 2020
+The schedule below covers the period from 2020-12-18 to 2021-01-04. To reach the emergency contacts, please send Slack as well as Text(when possible) messages for timely responses. The phone numbers can be found in Slack profiles.
+
+| Name | Time Zone | Available Dates |
+| :--- | :-------: | :-------------: |
+| Chun Du | PST - GMT-8 (Portland, OR) | December 18, 24 - 27, January 4 |
+| @dcroft | PST - GMT-8 (San Diego, CA) | December 18th - 23rd, December 29th - January 3rd |
+| Bartek Marnane | AEDT - GMT+11 (Sydney, AU) | December 19-23, 28-January 3rd |
+| Christopher Lefelhocz | GMT-6 (Central timezone) | December 19-23, 28-January 3rd |
+| Wayne Haber | GMT-5 (Eastern US timezone) | December 27-January 3 |
+| Sam Goldstein | GMT-8 (Portland, OR) | December 18-19, 26-January 3rd |
+| Tim Zallmann | GMT+1 (Vienna, Austria) | December 21-22, 28 - January 3rd |
+|      |           |                 |
 
 ### Developing and Tracking OKRs
 
-In general, OKRs flow top-down and align to the company and upper level organization goals. 
+In general, OKRs flow top-down and align to the company and upper level organization goals.
 
 #### Managers and Directors
 For managers and directors, please refer to a good [walk-through example of OKR format](/company/okrs/#example-developments-approach-to-okrs) for developing team OKRs. Consider stubbing out OKRs early in the last month of the current quarter, and get the OKRs in shape (e.g. fleshing out details and making them [SMART](https://en.wikipedia.org/wiki/SMART_criteria)) no later than the end of the current quarter.
 
-It is recommended to assess progress **weekly**. 
+It is recommended to assess progress **weekly**.
 
 1. Append the percentage score to the subject of Objective epics and Key Result issues.
 1. Set the [Health status](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs) of epics and issues.
@@ -164,6 +188,72 @@ Below are tips for developing individual's OKRs:
 #### Examples
 1. [Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7253)
 1. [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7148)
+
+### Ownership of Shared Services and Components
+
+The GitLab application is built on top of many shared services and components, such as PostgreSQL database, Redis, Sidekiq, Prometheus and so on. These services are tightly woven into each feature's rails code base. Very often, there is need to identify the DRI when demand arises, be it feature request, incident escalation, technical debt, or bug fixes. Below is a guide to help people quickly locate the best parties who may assist on the subject matter.
+
+#### Ownership Models
+
+There are a few available models to choose from so that the flexibility is maximized to streamline what works best for a specific shared service and component.
+
+1. Centralized with Specific Team
+   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+   1. The single group is a specific team, meaning there is an engineering manager and all domain owner individuals reside in this team. The DRI is the engineering manager.
+   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+   1. This model may require consensus from the Product Management counterpart.
+   1. This model may fit a subject domain that experiences active development.
+1. Centralized with Virtual Team
+   1. A single group owns the backlog of a specific shared service including new feature requests, bug fixes, and technical debt. There may or may not be a counterpart Product Manager.
+   1. The single group is a virtual team, meaning it consists of engineers from various engineering teams, for example maintainers or subject matter experts. Typically there isn't an engineering manager for this virtual team. The DRI is an appointed person in the group who may not necessarily be an engineering manager.
+   1. This single group is expected to collaborate closely and regularly in grooming and planning backlog.
+   1. This model may fit a subject domain that's in maintenance mode.
+1. Collectives
+   1. Collectives consist of individuals from existing teams who voluntarily rally around a shared interest or responsibility, but unlike Working Groups may exist in perpetuity. The shared interest could be a specific technology or system. Collective members feel a collective responsiblity to weakly own, improve upon or otherwise steer the subject they govern.
+   1. This is a weaker form of the Virtual Team but introduces more structure than a fully decentralized model. It can be appropriate when some form of ownership is desirable where the subject has cross-cutting impact and wide reach and cannot clearly be allocated to any specific team.
+   1. Collectives do not have product or engineering managers, they are fully self-governed.
+   1. Members of the Collective sync regularly and keep each other informed about the shared interest. Problem areas are identified and formalized in the Collective, but are not logged into a Collective backlog. Instead a DRI is assigned who should put the task forward to the team with the greatest need for the problem to be resolved. This is to ensure that work is distributed fairly and that there are no two backlogs that compete with each other for priorities.
+   1. Collectives work best when they consist of a diverse set of individuals from different areas of product and engineering. They double as knowledge sharing hubs where information is exchanged from across teams in the Collective first, and then carried back by the individuals to their specific teams.
+1. Decentralized
+   1. The team who implements specific functions or utilizes certain features of the shared services is responsible for their changes from local development environment to production deployment to continued maintenance post-deployment. There is not a development-wide single DRI who owns a portion or the entirety of a shared service.
+   1. A specialty team may exist for specific subject domains, however their role is to enable scalability, availability, and performance by building a solid foundation and great tools for testing and troubleshooting for other engineering teams, while they are not responsible for gating every single change in the subject domain.
+
+#### Shared Services and Components
+
+The shared services and components below are extracted from the GitLab [product documentation](https://docs.gitlab.com/ee/development/architecture.html).
+
+| Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) |  Ownership Group (Centralized Only) | Additional Notes |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Alertmanager |  |  |  |  |  |
+| Certmanager |  |  |  |  |  |
+| Consul |  |  |  |  |  |
+| Container Registry |  | Centralized with Specific Team | @jhampton | Package |  |
+| Email - Inbound |  |  |  |  |  |
+| Email - Outbound |  |  |  |  |  |
+| GitLab K8S Agent |  | Centralized with Specific Team | @nicholasklick | Configure |  |
+| GitLab Pages |  | Centralized with Specific Team | @nicolewilliams | Release |  |
+| GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
+| GitLab Shell |  |  |  |  |  |
+| HAproxy |  |  |  |  |  |
+| Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
+| LFS |  |  |  |  |  |
+| Load Balancer |  |  |  |  |  |
+| Logrotate |  |  |  |  |  |
+| Mattermost |  |  |  |  |  |
+| MinIO |  |  |  |  |  |
+| NFS |  |  |  |  |  |
+| NGINX |  |  |  |  |  |
+| Object Storage |  |  |  |  |  |
+| Patroni |  |  |  |  |  |
+| PgBouncer |  |  |  |  |  |
+| PostgreSQL | PostgreSQL Framework and Tooling |  Centralized with Specific Team  | @Craig Gomes | [Database](https://about.gitlab.com/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
+| | GitLab Product Features |  Decentralized  | | | Examples like feature specific schema changes and/or performance tuning, etc. |
+| Prometheus |  |  |  |  |  |
+| Puma |  |  |  |  |  |
+| Redis |  |  |  |  |  |
+| Sentry |  |  |  |  |  |
+| Sidekiq |  | Decentralized |  |  | DRI for each worker is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
+| Workhorse |  | Centralized with Specific Team | Sean Carroll | Create: Source Code BE  | Team does not work on most Workhorse features and has reduced development capacity |
 
 ## Learning Resources
 
@@ -192,7 +282,7 @@ Here is the information of a PostgreSQL query optimization bot at GitLab - Joe: 
 
 #### Frontend Masters
 
-[Frontend Masters](frontendmasters.com) allows you to advance your skills with in-depth, modern frontend engineering courses.
+[Frontend Masters](https://frontendmasters.com) allows you to advance your skills with in-depth, modern frontend engineering courses.
 
 GitLab has an account with Frontend Masters and team members can gain access to it by creating an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and select the best option for your situation ([single user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), [bulk user](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Bulk_Access_Request), etc.) and, once approved by your manager, assign to the Access Request Provisioner listed in the [Tech Stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0) for this system. Once your access has been provisioned, you will receive an email to activate your account.
 
@@ -230,13 +320,9 @@ changes that are regularly introduced in the environment and the monthly
 development cadence.
 
 To reduce this, infrastructure and quality will engage development via
-[Availability & Performance
-Refinement](https://gitlab.com/groups/gitlab-org/-/boards/1193197) which
-represents critical issues to be addressed in development from infrastructure
-and quality. Issues on this board are tagged with `gitlab.com` and `infradev`
-labels. A director from development will be assigned to refine the board, work
-with product/infrastructure/quality to set priority/severity of issues, make sure they
-are assigned and worked, and escalate where necessary for resolution.
+[SaaS Infrastructure Weekly](https://docs.google.com/document/u/1/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit) and [Performance refinement](/handbook/engineering/workflow/#performance-refinement) which
+represent critical issues to be addressed in development from infrastructure
+and quality.
 
 Refinement will happen on a weekly basis and involve a member of infrastructure,
 quality, product management, and development.
