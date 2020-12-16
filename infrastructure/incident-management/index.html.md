@@ -32,7 +32,7 @@ resolution. To that end, incident management provides:
 1. a **root-cause analysis** (RCA),
 1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
-When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
+When an [incident starts](#reporting-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
 
 ### Ownership
 
@@ -83,7 +83,7 @@ These definitions imply several on-call rotations for the different roles.
 1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
-1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#Corrective-Actions) are added to the issue description, regardless of the incident severity. If it is an S1/S2 incident, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), presenting the incident review in the synchronous review meeting if the incident is an S1 or a review has been requested via the `~review-requested` label. It is expected that the incident review is completed within 14 days of the incident.
+1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it is an S1/S2 incident, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), presenting the incident review in the synchronous review meeting if the incident is an S1 or a review has been requested via the `~review-requested` label. It is expected that the incident review is completed within 14 days of the incident.
 
 #### Guidelines on Security Incidents
 
@@ -386,7 +386,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 | `~incident-type::deployment related` | Indicates that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
-| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#Corrective-Actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
+| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](#corrective-actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
 ### Workflow Diagram
 
