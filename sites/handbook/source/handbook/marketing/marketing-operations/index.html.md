@@ -1,4 +1,4 @@
-/---
+---
 layout: handbook-page-toc
 title: "Marketing Operations"
 description: "Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well."
