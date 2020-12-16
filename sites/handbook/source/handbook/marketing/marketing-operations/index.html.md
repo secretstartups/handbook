@@ -61,7 +61,7 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
 
-## How to Get Help
+## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
 
 <div class="flex-row" markdown="0">
   <div>
