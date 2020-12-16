@@ -50,7 +50,7 @@ GitLab will [pay for the items you need to get your job done](/handbook/spending
 ## Life Insurance
 
 In the unfortunate event that a GitLab team member passes away, GitLab will provide a [$20,000](/handbook/total-rewards/compensation/#exchange-rates) lump sum to anyone of their choosing. This can be a spouse, partner, family member, friend, or charity.
-* This benefit is not applicable if there is a separate life insurance policy as part of the [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) package.
+* This benefit is not applicable if there is a separate life insurance policy as part of the [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) package.
 * For all other GitLab team members, the following conditions apply:
   * The team member must be either an employee or direct contractor.
   * The team member must have indicated in writing to whom the money should be transferred. To do this you must complete the [Expression of wishes](https://docs.google.com/document/d/1bBX6Mn5JhYuQpCXgM4mkx1BbTit59l0hD2WQiY7Or9E/edit?usp=sharing) form. To do this, first copy the template to your Google Drive (File -> Make a copy), enter your information, sign electronically. To sign the document, use a free document signing program like [smallpdf](https://smallpdf.com/sign-pdf) or [HelloSign](https://app.hellosign.com/); or you can print it, sign and digitize. Sign, save as a pdf and upload to your Employee Uploads folder in BambooHR.
