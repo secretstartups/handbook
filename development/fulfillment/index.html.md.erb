@@ -20,14 +20,14 @@ We frequently collaborate with other teams. For example if we are making a chang
 
 ### Groups
 
-#### Provision
-Usage and licenses, licenses can come from purchasing, order forms, discounts, education program, trials, partners. Systems: [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot), [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab). Integration: Salesforce.
+#### License
+Responsible for retrieving and managing licenses, overall system architecture, data integrity. Systems: [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot). Integration: Salesforce.
 
 #### Purchase
-Purchase flows, payments, and trials. Systems: [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot), [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab). Integrations: [Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora), [Stripe](/handbook/engineering/development/fulfillment/architecture/#stripe), Salesforce, Marketo.
+Responsible for all purchase experiences. Trials, purchase flows, and account management (invoices, contact, billing info) Systems: [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot), [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab). Integrations: [Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora), [Stripe](/handbook/engineering/development/fulfillment/architecture/#stripe).
 
-#### Subscription
-Subscription management and reporting. Systems: [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot), [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab). Integrations: [Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora)
+#### Utilization
+Responsible for all consumables management, user management, usage reporting, and usage notifications. Systems: [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab).
 
 ## Want to know more about us?
 
@@ -37,9 +37,9 @@ Subscription management and reporting. Systems: [CustomersDot](/handbook/enginee
      * Purchase
           * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
           * [Backend](/handbook/engineering/development/fulfillment/be-purchase/)
-     * Provision
+     * License
           * [Backend](/handbook/engineering/development/fulfillment/be-provision/)
-     * Subscription
+     * Utilization
           * [Backend](#)
 * [Fulfillment Software Architecture](/handbook/engineering/development/fulfillment/architecture)
 
