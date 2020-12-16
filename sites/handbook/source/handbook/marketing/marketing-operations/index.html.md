@@ -94,24 +94,39 @@ In order to categorize various related issues, we will make use of epics to help
 
 ### Labeling
 
-We use labels for several purposes. One is to categorize the tool or area that is affected. Another is to show priority. And lastly, we may use them to identify the stage they are in, either before or after being put into a milestone/iteration. We generally use the stage labels for our kanban Columns.
+We use labels for three purposes:
 
-**Categories:**
+1. Categorize the tool or area that is affected
+1. Show priority
+1. Identify the stage they are in
+
+<details>
+<summary markdown='span'>
+Categories
+</summary>
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
 - `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 
-**Priorities:**
+</details>
+
+<details>
+<summary markdown='span'>
+Priorities
+</summary>
 
 - `MktgOps-Priority::1 - Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority.
 - `MktgOps-Priority::2 - Action Needed`: Issue has a specific action item for MktgOps to be completed with delivery date 90 days or less from issue creation date. This tag is to be used on projects/issues not owned by MktgOps (example: list upload).
 - `MktgOps-Priority::3 - Future Action Needed`: Issue has a specific action item for MktgOps, the project/issue is not owned by MktgOps and delivery or event date is 90 days or more from issue creation.
 
-**Stages:**
+</details>
 
-_Backlog_
+<details>
+<summary markdown='span'>
+Backlog
+</summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
 - `MktgOps::1 - Planning`: Issues assigned to a MktgOps team meber and are currently being scoped/considered but are not being actively worked on yet.
@@ -119,11 +134,18 @@ _Backlog_
 - `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current targets, or another department as deprioritized. May be a precursor to being closed out.
 - `MktgOps::6 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
 
-_In Milestone_
+</details>
+
+<details>
+<summary markdown='span'>
+In Milestone
+</summary>
 
 - `MktgOps::3 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
 - `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
 - `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
+
+</details>
 
 ### Handbook Updates
 
@@ -216,11 +238,9 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 
 ### Requesting access to an existing tool
 
-<details>
 To request access to an existing tool in the stack, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
 If you are working with a contractor or consultant that requires access to a tool in our stack, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
-</details>
 
 ### Requesting a new tool
 
