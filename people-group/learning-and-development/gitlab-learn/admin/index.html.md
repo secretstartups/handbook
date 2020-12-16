@@ -39,12 +39,12 @@ Best practices for journeys coming soon.
 
 #### Badges
 
-Badges are available with the creation of both pathways and journeys and are awareded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
+Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
 Teams should choose to use a badge to recognize learners acheivements when:
 
 - Short learning pathways
-- Journeys that do not required an official certification
+- Journeys that do not require an official certification
 - Unpaid learning opportunities
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
@@ -55,14 +55,14 @@ Certifications are available for content updated in the Leapest LMS Lite with th
 
 Teams shoiuld choose to use a certification to recognize learners achievements when:
 
-- Learners required an official certification upon completition 
+- Learners require an official certification upon completition 
 - Paid learning opportunities
 
 
 
 ### Peer review content before publishing
 
-It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If you team decides on a different peer review process, please document on this page.
+It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer review process, please document on this page.
 
 #### Prior to peer review
 
@@ -108,7 +108,7 @@ Groups are best utilized to organize learners around a specific quality. Example
 
 ##### Inviting new members to groups
 
-Engaged learners in groups using the following practices
+Engage learners in groups using the following practices
 
 1. Learners automaticlaly added by the HRIS integration from BambooHR to groups based on their role in the organization
 1. Manually adding users to groups by navigating to the group and clicking the `invite` option
