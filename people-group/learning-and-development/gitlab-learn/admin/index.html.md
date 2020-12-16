@@ -39,7 +39,7 @@ Best practices for journeys coming soon.
 
 #### Badges
 
-Badges are available with the creation of both pathways and journeys and are awareded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
+Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
 
 Teams should choose to use a badge to recognize learners acheivements when:
 
