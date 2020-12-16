@@ -72,7 +72,7 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
-**Our Motto: If it isn't an Issue, it isn't OUR issue.**
+**Our Motto:** _If it isn't an Issue, it isn't OUR issue!_
 
 ### Use of Issues
 
@@ -131,10 +131,10 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 | Label you add | Slack channel the merged MR pushes to |
 | ------------- | ------------------------------------- |
-| `MktgOps-HB Update`     | `hbupdate-mktgops`          |
-| `FMM-HB Update`         | `fieldmarketing-FYI`        |
-| `SDR-HB Update`         | `hbupdate-sdr`              |
-| `ABM-HB Update`         | `hbupdate-abm`              |
+| `MktgOps-HB Update` | `hbupdate-mktgops` |
+| `FMM-HB Update` | `fieldmarketing-FYI` |
+| `SDR-HB Update` | `hbupdate-sdr` |
+| `ABM-HB Update` | `hbupdate-abm` |
 
 ### Marketing Ops Calendar
 
@@ -222,17 +222,17 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ## Marketing Expense Tracking
 
-| **GL Code** | **Account Name**       | **Purpose**                                                                                                                                      |
-| ----------- | -----------------------| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 6060        | Software Subscriptions | All software subscriptions                                                                                                                       |
-| 6100        | Marketing              | Reserved for Marketing GL accounts                                                                                                               |
-| 6110        | Marketing Site         | All agency fees and contract work intended to improve the marketing site                                                                         |
-| 6120        | Advertising            | All media buying costs as well as agency fees and software subscriptions related to media buying                                                 |
-| 6130        | Events                 | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
-| 6135        | Swag                   | Any swag related expense                                                                                                                         |
-| 6140        | Email                  | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation         |
-| 6150        | Brand                  | All PR, AR, content, swag and branding costs                                                                                                     |
-| 6160        | Prospecting            | Not used - All costs related to prospecting efforts                                                                                              |
+| **GL Code** | **Account Name** | Purpose** |
+| ----------- | -----------------| --------- |
+| 6060 | Software Subscriptions | All software subscriptions |
+| 6100 | Marketing  | Reserved for Marketing GL accounts |
+| 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
+| 6120 | Advertising | All media buying costs as well as agency fees and software subscriptions related to media buying |
+| 6130 | Events | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
+| 6135 | Swag | Any swag related expense |
+| 6140 | Email | All 3rd party email sponsorships as well as agency fees and software costs related to mass email communications and marketing automation |
+| 6150 | Brand | All PR, AR, content, swag and branding costs |
+| 6160 | Prospecting | Not used - All costs related to prospecting efforts |
 
 ### Invoice Approval
 
