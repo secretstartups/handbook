@@ -209,6 +209,30 @@ If an issue is assigned a weight of 10, then the issue is too big and will need 
 
 If any issue is weighted above a 3, we should ask ourselves if it can be further broken down. We should do this even if the issue was already broken out from an even larger issue.
 
+### Bug Triage
+
+Every month, a Geo engineer is assigned to be the DRI for triaging issues labeled as `bug`. A different backend engineer is assigned to triage rotation each month and we schedule monthly shifts 3 to 6 months in advance.
+
+Process summary:
+1. Every week, the Engineering Manager assigns the automated triage issue to the triage DRI.
+1. The DRI will examine issues that do not yet have a `severity` applied yet. We have a [bug triage board](https://gitlab.com/groups/gitlab-org/-/boards/1077712?label_name[]=bug&label_name[]=group%3A%3Ageo) for easier viewing of bugs without `severity`. 
+1. For a given issue, the DRI will:
+    1. Determine if the bug is easily reproducible. If more information is required, follow up with the issue author. If the issue does not fall under the Geo team's domain, ping the EM of the appropriate team or ask for Quality team's help by mentioning `@gitlab-org/issue-triage` in the comments.
+        1. If you are awaiting feedback from an issue author, assign yourself and apply the `awaiting feedback` label.
+        1. If the author has not provided feedback at the end of your rotation, re-assign the issue to the next triager. If there is still no reply at the end of the next triager's rotation, that person may close the issue or assign to the EM or PM for further action.
+    1. Attempt to reproduce the bug if verification is needed.
+    1. Attempt to fix the bug if it meets the following criteria.
+        1. A weight less than 2, regardless of severity.
+        1. Severity of 1 or 2.
+    1. If the bug requires further investigation or implementing the fix will require significant effort, the DRI should:
+        1. Determine whether a workaround for the issue exists and document it.
+        1. Apply a `severity` label based on the impact of the bug and feasibility of any workarounds.
+        1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
+
+Expectations:
+- The DRI should spend 3-5 hours per week on triage/verification and a maximum of 20% work time (about 1 day per week) on resolving bugs.
+- If the DRI is unable to perform triage responsibilities due to PTO, they are expected to find a backup or notify the EM to find a backup.
+
 ## Retrospectives
 
 We do not have pre-defined dates for retrospectives. When there is something to be discussed, an issue should
