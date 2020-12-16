@@ -726,7 +726,7 @@ author_twitter: twitter-username
 categories: releases
 image_title: '/images/X_Y/X_Y-cover-image.ext'
 description: "GitLab X.Y Released with XXX, YYY, ZZZ, KKK, and much more!"
-twitter_image: '/images/tweets/gitlab-X-Y-released.jpg'
+twitter_image: '/images/X_Y/X_Y-cover-image.ext'
 layout: release
 featured: yes
 # header_layout_dark: true #uncomment if the cover image is dark
