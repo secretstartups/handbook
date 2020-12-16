@@ -184,14 +184,14 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 
 Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
 
-## Important Resources
+## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
 - [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
 
-## [List Imports](/handbook/marketing/marketing-operations/list-import)
+## <i class="fas fa-file-import" id="biz-tech-icons"></i> [List Imports](/handbook/marketing/marketing-operations/list-import)
 
-## Tech Stack
+## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Tech Stack
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company.
 
@@ -246,7 +246,7 @@ If you are working with a contractor or consultant that requires access to a too
 
 If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
-## Marketing Expense Tracking
+## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
 | **GL Code** | **Account Name** | Purpose** |
 | ----------- | -----------------| --------- |
