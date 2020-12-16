@@ -13,7 +13,7 @@ title: "Static Analysis Group"
 
 The Static Analysis group at GitLab is charged with developing solutions which perform [Static Analysis Software Testing (SAST)](/direction/secure/static-analysis/sast/),
 
-[Secrect Detection](/direction/secure/static-analysis/secret-detection/), and [Malware Detection](/direction/secure/#malware-scanning) for customer software repositories.
+[Secret Detection](/direction/secure/static-analysis/secret-detection/), and [Malware Detection](/direction/secure/#malware-scanning) for customer software repositories.
 
 ## Common Links
 
