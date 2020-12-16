@@ -37,6 +37,8 @@ Performance includes both results and behaviors, and is broken into three areas:
 
 ### Developing
 
+**Please note that `Developing` should not be automatically associated with underperformance. As highlighted below, `Developing` can also be used for new hires or newly promoted team members that are still ramping up in their new roles. Your manager will provide example and detail to ensure the rationale behind the `Developing` rating is communicated.**
+
 Around 10-15% of the team generally fall into the “Developing” category. Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
 
 - The team member has not been in the position/at GitLab long enough to adequately demonstrate performance.
