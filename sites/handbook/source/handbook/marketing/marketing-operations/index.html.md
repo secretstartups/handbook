@@ -148,6 +148,12 @@ The MktgOps team will only create a milestone one beyond the current iteration, 
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktgops&state=&sort=" class="btn btn-purple" style="width:170px;margin:5px;">View Milestones</a>
+  </div>
+</div>
+
 ### Focus Fridays
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
