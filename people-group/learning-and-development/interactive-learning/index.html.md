@@ -72,8 +72,8 @@ Below is an outlined example of how the field enablement team created a handbook
 
 1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
 1. **Video** Videos are embedded in the course from the GitLab Unfiltered YouTube channel
-1. **iframes** iFrames display content directly from the GitLab handbook. Before each iframe, a short desctiption sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
-1. **Intellectual property** Intellectual property is linked directly from the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
+1. **iframes** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
+1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
 
 ### Examples of what is not considered handbook first
