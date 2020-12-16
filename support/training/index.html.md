@@ -47,9 +47,9 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
 | [GitLab Intermediate Topics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab-Intermediate-Topics) | undetermined | Work with your manager to evaluate whether to continue with these topics |
 
-### Support Engineer Area of Focus Pathway
+## Support Engineer Area of Focus Pathway
 
-When you have completed the basic modules, decide with your manager about your [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
+When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
 
 1. For GitLab.com, move on to the [Gitlab.com SAAS Support Basics pathway](#gitlabcom-saas-support-learning-pathway).
 1. For Self-Managed, move on to the [Self Managed Support Basics pathway](#self-managed-support-learning-pathway).
@@ -73,13 +73,15 @@ When this Area of Focus module is complete, let your manager know that you are r
 
 When this Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
 
-#### License and Renewals Learning Pathway
+## License and Renewals Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 
-### Support Manager Onboarding Pathway
+---
+
+## Support Manager Onboarding Pathway
 
 Your primary Support Manager Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
 
@@ -94,7 +96,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 | [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
 
-When the Area of Focus module is complete, let your manager know that you are ready to join the appropriate On-Call rotations. (Your Support Manager Onboarding Issue contains the instructions for this step.)
+When this pathway is complete, let your manager know that you are ready to join the appropriate On-Call rotations. (Your Support Manager Onboarding Issue contains the instructions for this step.)
 
 ## Support Training Project
 
