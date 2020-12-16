@@ -66,7 +66,7 @@ Any large event run by Corporate Marketing that we have paid to sponsor, have a 
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
 | Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
+| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 
 #### Content Syndication
 
@@ -151,7 +151,7 @@ This is an event run by Field Marketing that we have paid to participate in (Dem
 | No Show | Registered but did not attend event |  |
 | Attended | Attended event |  |
 | Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
+| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 
 #### Gated Content
 
@@ -254,7 +254,7 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 | Registered | Registered or indicated attendance at the session |  |
 | No Show | Registered but did not attend event |  |
 | Attended | Attended speaking session event | Yes |
-| Follow Up Requested | Had conversation with speaker or requested additional details to be sent post event | Yes |
+| Follow Up Requested | Had conversation with speaker or requested to be followed up with by sales post event | Yes |
 
 #### Sponsored Webcast
 
@@ -280,7 +280,7 @@ A survey that we or a 3rd party sends out. Tracks respondents and new leads we r
 | ------------- | ---------- | ------- |
 | Member | default starting position for all records |  |
 | Invited | Was invited, but did not participate in survey |  |
-| Filled-out Survey | Filled out survey and opted-in to be contacted by GitLab | Yes |
+| Filled-out Survey | Filled out survey | Yes |
 | Follow Up Requested | Filled out survey and requested to be contacted by sales | Yes |
 
 #### Trial
@@ -326,7 +326,7 @@ Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponso
 | No Show | Registered but did not attend event |  |
 | Attended | Attended event |  |
 | Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
+| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
 
 #### Webcast
@@ -344,7 +344,7 @@ Any webcast that is hosted and held by GitLab.
 | Registered | Registered through online form |  |
 | No Show | Registered, but did not attend live webcast |  |
 | Attended | Attended the live webcast | Yes |
-| Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
+| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 | Attended On-demand | Watched the recorded webcast | Yes |
 
 #### Workshop
