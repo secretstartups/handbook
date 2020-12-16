@@ -107,6 +107,7 @@ The following Key Meetings are automated: (all links are internal)
 
 1. The functional owner will prepare a google slide presentation with the content to be reviewed.
 1. The finance business partner assigned to the functional area will meet with the owner at least one week in advance and ensure that follow-ups from last meeting have been completed and that data to be presented has proper definitions and is derived from a Single Source of Truth.
+1. The finance business partner / preparer of the key review deck will ensure that the google slide permissions are set to comment for all in the GitLab domain.
 1. The title of every slide should be the key takeaway
 1. A label on the slide should convey whether the metric result is "on-track" (green), "needs improvement" (yellow), or is an "urgent concern" (red).
 1. A [blank template](https://docs.google.com/presentation/d/1lfQMEdSDc_jhZOdQ-TyoL6YQNg5Wo7s3F3m8Zi9NczI/edit) still needs labels.
