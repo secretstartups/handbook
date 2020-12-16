@@ -108,7 +108,7 @@ Groups are best utilized to organize learners around a specific quality. Example
 
 ##### Inviting new members to groups
 
-Engaged learners in groups using the following practices
+Engage learners in groups using the following practices
 
 1. Learners automaticlaly added by the HRIS integration from BambooHR to groups based on their role in the organization
 1. Manually adding users to groups by navigating to the group and clicking the `invite` option
