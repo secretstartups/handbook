@@ -413,10 +413,10 @@ Area Sales Managers have an expectation to log a minimum of 5 co-selling calls p
 * Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
 For additional invormation please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
 
-### **AEs Working with Partners for Increased Customer Value **
+### AEs Working with Partners for Increased Customer Value & IACV
 
 
-#### **What is “Working with Channel Partners? **
+#### What is “Working with Channel Partners"?
 
 
 
@@ -425,7 +425,7 @@ For additional invormation please visit this [reinforcement module](https://rise
 *   The goal of AEs working with channel partners is to extend their selling and professional services capacity/coverage to help provide our prospects and customers with the software and services they need to be successful.
 *   Working with partners  involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”. 
 *   AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. 
-*   The plan should be [tracked in SFDC with tasks and action items](https://docs.google.com/document/d/1r97a-3xb0nwYIsb38Iix6R_eTDA2GUgqLdOEXxfb3jA/edit?usp=sharing). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
+*   The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
 *   Channel Managers will engage with AE’s in the following ways:
     *   When a new deal registration arrives in the AE’s pipeline
     *   To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
@@ -435,7 +435,7 @@ For additional invormation please visit this [reinforcement module](https://rise
 *   Commercial AEs are encouraged to ‘lean in’ to the above channel partner engagement activities - **[the Channel Partner Team are committed to AE success](https://docs.google.com/presentation/d/11rLo8gIkO5hqtQSqUS9luHmFJkDXt9FLwp0-V4EhZg8/edit#slide=id.g809d33e617_0_0)**
 
 
-#### **What are the key AE benefits from working within partners?  **
+#### What are the key AE benefits from working with partners? 
 
 
 
@@ -443,10 +443,10 @@ For additional invormation please visit this [reinforcement module](https://rise
 *   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
 *   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
 *   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
-*   In the case of OPEN partners via distributors, dramatically reduction in the admin steps associated with [quote-to-close process](https://docs.google.com/presentation/d/1ij9_k7Xui8-8GRuU5r2siw0q9Z9cwQw8sNqEvvzNZ-4/edit#slide=id.g98d4945706_0_192).
+*   In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process - when the opportunity is ready, AE's email partnersupport@gitlab.com with the link to the opportunity requesting quote-to-order support (chatter alias coming soon) 
 
 
-#### **How do AEs learn more about teaming with Channel Partners? **
+#### How do AEs learn more about teaming with Channel Partners?
 
 
 
@@ -454,21 +454,20 @@ For additional invormation please visit this [reinforcement module](https://rise
 *   [This Levelup](https://youtu.be/OeykHQetd7U) starts with a basic understanding of the Channel Partner landscape. 
 *   [This Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)  Is specifically for AE’s to learn more about co-selling success.
 *   [Learn more about Partner co-selling best practices,  how Partners can help build out key elements of an AE’s R7 & Command Plans ](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans)and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/). 
-*   
 *   Slack [# channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR)  with any questions or requests for assistance. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can. **Just in case, here’s a list of channel team contacts that you can reach out to directly. **
 
 
-#### **How do AEs work with partners for customer Success?  **
+#### How do AEs work with partners for increased customer value & IACV? 
 
 
 
 *   [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) New PIO’s and PAOs continue to increase. As they are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner.   \
 *GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by  slacking channel-sales or via the contacts linked above. 
-*   If AEs find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”... \
-- If this is a first time for an AE, please watch [this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) to learn more about these motions.   \
+*   If AEs find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”
+- If this is a first time for an AE, please watch [this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) to learn more about these motions.
 - The AE can slack [# channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way. 
 
- Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)** ** ** 
+ Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
 
 
 ## Center of Excellence
