@@ -24,7 +24,7 @@ Sales Operations main focus is on the Sales organization and supports this group
   <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
   <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
   <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -99,11 +99,11 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Updating or creating Opportunity Splits ](/handbook/sales/forecasting/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
-1. [Locked Deal](/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
+1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
@@ -461,7 +461,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Account Ownership Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ### **Sales Territories**
 

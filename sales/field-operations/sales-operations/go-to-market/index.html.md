@@ -15,7 +15,7 @@ The purpose of this page is to centralize and document all key Go To Market poli
 
 ## Account Ownership Rules of Engagement
 
-*  [Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+*  [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ## Territory Tables
 *  [Account Ownership Territory Tables Handbook](/handbook/sales/territories/)
