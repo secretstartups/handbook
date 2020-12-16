@@ -78,6 +78,43 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 - If an issue has many unknowns, we can break it into two issues. The first issue is for research, also referred to as a [Spike](https://en.wikipedia.org/wiki/Spike_(software_development)), where we de-risk the unknowns and explore potential solutions. The second issue is for the implementation.
 - If an initial estimate is incorrect and needs to be adjusted, we revise the estimate immediately and inform the Product Manager. The Product Manager and team will decide if a milestone commitment needs to be adjusted.
 
+#### Estimation Template
+
+The following is a guiding mental framework for engineers to consider when contributing to estimates on issues. 
+
+```
+### Refinement / Weighting
+**Weight**: X
+**Reasoning**:
+<-- 
+
+add some inital thoughts on how you might breakdown this issue. bulleted list is fine. 
+
+This will likely require the code changes similar to the following:
+
+- replace the hexdriver with a sonic screwdriver
+- rewrite backups to magnetic tape
+- send up semaphore flags to warn others
+
+Links to previous example. Discussions on prior art. Notice examples of the simplicity/complexity in the proposed designs. 
+--> 
+
+
+**MR Count**: Y
+<-- 
+- 1 MR to update the driver worker
+- 1 MR to update docs regardign mag tape backups 
+
+Let me draw your attention to potential caveats.
+-->
+
+**Testing considerations**:
+
+<-- 
+- ensure that rotation speed of sonic screwdriver doesn't exceed rotational limits
+--> 
+```
+
 ### Picking something to work on
 
 Engineers can find and open [the milestone board for Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/)
