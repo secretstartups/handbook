@@ -131,22 +131,9 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 
 ### Performance Enablement Review
 
-Effective from FY21-Q2, on a quarterly basis, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of every quarter. These performance conversations will enable the continued performance improvement and personal development for the E-Group member. These quarterly meetings may include their [Executive Stable Counterpart](/handbook/board-meetings/#executive-stable-counterparts) and their [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to provide guidance and feedback as part of this conversation. 
-
-Performance will be reviewed in three parts which are not all of equal weighting but together make up 100%:
-
-- **Results** has a 40% weighting and is split out to be 20% for KPIs, 10% for OKR Achievement, and 10% for OKR Ambitiousness. By including both OKR Achievement and OKR Ambitiousness, we encourage ambitious OKRs while also measuring the performance of OKRs. The goal is to avoid the negative experiences associated with [MBOs](https://www.investopedia.com/terms/m/management-by-objectives.asp), such as sacrificing quality for quantity. 
-- Each quarter a **personal development goal** will be agreed and will account for 20%
-- Each quarter there will be a focus on **Engagement** and will account for 20%
-- Each quarter our **Values** will account for 20%  
-- While each of these factors will help determine the appropriate Performance Factor, manager discretion will also be taken into account
-
-| Quarter | Values 20% | Results 40% | Professional Development 20% | Engagement 20% |      
-|-----------------------------------|-----------------|------------------|-----------------|-----------------|
-| Q1 (April) | Values | 20% KPI / 10% OKR Achievement / 10% OKR Ambition | Individual Growth Goal | Vol attrition and number of PDPs | 
-| Q2 (June) | Values | 20% KPI / 10% OKR Achievement / 10% OKR Ambition | Individual Growth Goal | 360 Results | 
-| Q3 (October) | Values | 20% KPI / 10% OKR Achievement / 10% OKR Ambition | Individual Growth Goal | DIB Score  |
-| Q4 (January) | Values | 20% KPI / 10% OKR Achievement / 10% OKR Ambition | Individual Growth Goal | Engagement Score | 
+Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
+ 
+The E-Group will follow a similar process to our GitLab team member process with the additional requirement of a [self review](https://docs.google.com/document/d/1pi-nv6NtMejosVOXlr1O4rZGxmGUzuN01OMnXn5dxKU/edit#). 
 
 **Performance Factors**
 
@@ -158,4 +145,4 @@ The output from these quarterly meetings will be one of the below performance fa
 
 **Compensation reviews**
 
-When conducting compensation reviews for the E-Group, GitLab will review two items: 1) alignment to market rates 2) performance factors from each quarter.
+When conducting compensation reviews for the E-Group, GitLab will review two items: 1) alignment to market rates 2) performance factors 
