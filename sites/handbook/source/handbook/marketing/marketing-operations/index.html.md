@@ -193,22 +193,30 @@ Periodically Marketing Operations makes significant changes to our system and pr
 
 ## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Tech Stack
 
-For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company.
+For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are primarily owned and managed by marketing operations.
 
-The main tools used by Marketing and integrated with Salesforce are:
+<details>
+<summary markdown='span'>
+Integrated with Salesforce
+</summary>
 
-- [Marketo](/handbook/marketing/marketing-operations/marketo)
-- [Outreach.io](/handbook/marketing/marketing-operations/outreach)
+- [Bizible](/handbook/marketing/marketing-operations/bizible/)
+- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
+- LinkedIn Sales Navigator
+- [Marketo](/handbook/marketing/marketing-operations/marketo)
+- [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
 - [Sigstr](/handbook/marketing/marketing-operations/sigstr)
-- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
-- LinkedIn Sales Navigator
-- [Bizible](/handbook/marketing/marketing-operations/bizible/)
 
-Other tools directly used by Marketing and maintained by Marketing Operations:
+</details>
+
+<details>
+<summary markdown='span'>
+Other tools directly used by Marketing and maintained by Marketing Operations
+</summary>
 
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
 - [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
@@ -235,6 +243,8 @@ Other tools directly used by Marketing and maintained by Marketing Operations:
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 - [Zapier](/handbook/marketing/marketing-operations/zapier/)
+
+</details>
 
 ### Requesting access to an existing tool
 
