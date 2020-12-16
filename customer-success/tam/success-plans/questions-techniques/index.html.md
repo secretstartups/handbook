@@ -15,6 +15,14 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 The questions and techniques described on this page will provide you with some ways to drive a strategic conversation with a customer, and explore the information you need to develop an [effective success plan](/handbook/customer-success/tam/success-plans/).  A Success Plan should always be a continuation of the [Command Plan](https://about.gitlab.com/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/#step-5-qualify-the-opportunity) where available.  The below questions are for further expanding on what we know from the Command Plan, or refreshing on objectives if it has been some time.
 
+## Open-ended questions
+
+Asking open-ended questions is the most effective way to get clarity from the customer about what they are trying to do, what their priorities are at the moment, and their plans for the future. Calling back to your Command of Message trainig, don't forget about TED. This acronym  provides a basic framework of open-ended questions to ask during customer calls.
+
+*T* Tell me about...  
+*E* Explain for me...  
+*D* Describe for me...  
+
 ## “Where do we go from here?”
 
 The most straightforward and open-ended approach to starting a conversation about stage adoption, growth, and strategic objectives is something to the effect of:
