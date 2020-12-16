@@ -91,7 +91,7 @@ To review in the EdCast backend
 1. Relevant channels are included
 1. User taxonomy topics are chosen
 
-When the peer review is complete, content should be switched on to the `published` state.
+When the peer review is complete, content should be switched on by the content creator to the `published` state.
 
 
 ### Sharing content with learners
