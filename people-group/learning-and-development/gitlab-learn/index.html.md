@@ -19,6 +19,8 @@ You can read more about the mission and vision of the LXP on the [EdCast About P
 
 Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
 
+Admin can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
+
 ### What is a LXP?
 
 A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (Ux).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
@@ -61,7 +63,7 @@ The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handboo
 
 ## Governance
 
-Implementation of the EdCast LXP at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
+[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
 
 Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
@@ -72,7 +74,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | David Sommers | Field Enablement | David Hong |
 | Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
 | Josh Zimmerman | L&D | Carol Teskey |
-| Phil Encarnacion | IT/Enterprise Applications | Christopher Nelson |
+| Christopher Nelson | IT/Enterprise Applications | Christopher Nelson |
 | Ed Cepulis | Channel/Partner Enablement | Michelle Hodges | 
 | Dan Gordon | Marketing | Todd Barr | 
 
@@ -100,14 +102,13 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Assessments | Standardization of assessment look and feel across the organization? | TBD-Core team |
 | Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | TBD-Core team |
 | Support | Determine how technical issues and questions about the LXP will be managed | TBD-Core team |
-| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Dan Gordon |
+| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
 
 
 ### Core Team Members and Roles
 
 | Name | Team at GitLab |
 | ----- | ----- |
-| Phil Encarnacion | IT|
 | Christopher Nelson | IT |
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
@@ -132,7 +133,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Honora Duncan | Channel Enablement |
 | Evon Collett | Channel Enablement |
 | Boughty Canton | Channel Enablement |
-| Dan Gordon | Technical Marketing |
+| Tye Davis | Technical Marketing |
 | Julia Lake | Security/Legal |
 | Lynsey Sayers | Security/Legal |
 
