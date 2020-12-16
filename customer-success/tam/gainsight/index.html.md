@@ -72,7 +72,7 @@ When logging in, TAMs will begin on their dashboard.
 
 Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
 
-This dashboard is likely to be a TAM's most-frequented page, as it shows a summary of their entire book of business, including last activity dates, health scores, at-risk customers, upcoming renewals, stage adoption statistics, success plan progress, and more.
+This dashboard is likely to be a TAM's most-frequented page, as it shows a summary of their entire book of business, including last activity dates, health scores, at-risk customers, [upcoming renewals](/handbook/customer-success/tam/renewals/), stage adoption statistics, success plan progress, and more.
 
 There are also other dashboards available to TAMs to look at, including the CS Leadership Dashboard which reviews aspects of all TAM-supported accounts, the Customer Onboarding Dashboard which shows the status of onboarding across all accounts, and the Stage Adoption Dashboard which goes into detail regarding which stages have been adopted and the success of adoption plays.
 
