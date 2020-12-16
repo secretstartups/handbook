@@ -39,12 +39,12 @@ Best practices for journeys coming soon.
 
 #### Badges
 
-Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
+Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
 Teams should choose to use a badge to recognize learners acheivements when:
 
 - Short learning pathways
-- Journeys that do not required an official certification
+- Journeys that do not require an official certification
 - Unpaid learning opportunities
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
