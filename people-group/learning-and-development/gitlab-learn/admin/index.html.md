@@ -55,14 +55,14 @@ Certifications are available for content updated in the Leapest LMS Lite with th
 
 Teams shoiuld choose to use a certification to recognize learners achievements when:
 
-- Learners required an official certification upon completition 
+- Learners require an official certification upon completition 
 - Paid learning opportunities
 
 
 
 ### Peer review content before publishing
 
-It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If you team decides on a different peer review process, please document on this page.
+It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer review process, please document on this page.
 
 #### Prior to peer review
 
