@@ -32,9 +32,11 @@ The L&D team hosts [Mini and Extended Challanges](https://about.gitlab.com/handb
 
 
 ## Interactivity in E-learning
+
 Interactivity such as games, drag-and-drop, matching, and other interactive components in a published elearning course will not be accessible via the Handbook; however, all information conveyed to learners through the elearning course will have an associated Handbook page as needed. This will make sure that despite the interactivity of the elearning course, learners will have access to all topics covered in the Field Certification program via the Handbook.
 
 ## Course Development Workflow
+
 Instructional designers will use the ADDIE instructional systems design (ISD) framework to design and develop Field Certification courses using Articulate 360. The workflow of course development will be as follows:
 1. Create learning objectives
 1. Design storyboard and get SME buy in
@@ -48,6 +50,7 @@ Instructional designers will use the ADDIE instructional systems design (ISD) fr
 1. Enroll learners (as needed)
 
 ## Handbook Course Documentation
+
 A thorough needs assessment will be conducted to determine what net-new Handbook pages are needed as new courses are developed. The goal is for each course to have an associated Handbook page that will include learning objectives, static learning content, quizzes, and applicable links. 
 
 ## Handbook-First Learning in the EdCast LXP
