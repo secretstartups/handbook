@@ -193,7 +193,7 @@ Periodically Marketing Operations makes significant changes to our system and pr
 
 ### PagerDuty
 
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](https://about.gitlab.com/handbook/engineering/security/security-incident-communication-plan.html). If a new, custom distribution list needs to be created, Marketing Ops will work closely with the [campaigns team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) and generate the distribution list for the incident-related email. In any given week, there will be at least 1-2 team members schedule for PagerDuty.
+If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](https://about.gitlab.com/handbook/engineering/security/security-incident-communication-plan.html). If a new, custom distribution list needs to be created, Marketing Ops will work closely with the [campaigns team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) and generate the distribution list for the incident-related email. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
 
 Contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 
@@ -271,8 +271,8 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
-| **GL Code** | **Account Name** | Purpose** |
-| ----------- | -----------------| --------- |
+| **GL Code** | **Account Name** | Purpose |
+| ----------- | -----------------| ------- |
 | 6060 | Software Subscriptions | All software subscriptions |
 | 6100 | Marketing  | Reserved for Marketing GL accounts |
 | 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
