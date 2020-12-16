@@ -67,7 +67,7 @@ It's important to have another member of your team review your content before ma
 #### Prior to peer review
 
 1. The content creator or curater builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
-1. Content is initially marked as `draft`
+1. Mark content to `save for later`, which leaves it in a draft state (not yet published)
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
 
