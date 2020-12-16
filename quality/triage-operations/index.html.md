@@ -40,10 +40,8 @@ There is a large amount of automation that uses stage, group, and category label
 
 ## Auto-labelling of issues and merge requests
 
-_Regarding legacy team labels, the mapping can be seen in [Automation to ensure that issues and MRs with legacy team labels have a 1:1 mapping to their devops stage or group label](https://gitlab.com/gitlab-org/quality/triage-ops/issues/201)._
-
 Our triage bot will automatically infer section, stage, and group labels based
-on the category/feature and team labels already set on an issue or MR. This is available for **open** issues/MRs.
+on the category/feature already set on an issue or MR. This is available for **open** issues/MRs.
 
 The most important rules are:
 
