@@ -14,7 +14,7 @@ description: "All elearning courses tied to the Field Certification Program will
 
 All elearning courses at GitLab to the will utilize the Handbook as the Single Source of Truth (SSOT). 
 
-![gitlab-learning-content-diagram](/handbook/sales/field-operations/field-enablement/interactive-learning/gitlab-learning-content-diagram.png)
+![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
 ### Handbook-First Approach to Interactive Learning in Action
 
