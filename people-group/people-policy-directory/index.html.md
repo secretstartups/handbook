@@ -182,7 +182,7 @@ For all adverse decisions, document each step taken. Keep copies of all consent 
 
 #### Record Retention
 
-All documents related to the background check process must be retained for the greater of five years or the minimum required by applicable law.
+All documents related to the background check process must be retained for the minimum period of time required by applicable law.
 
 #### Equal Employment Laws
 
