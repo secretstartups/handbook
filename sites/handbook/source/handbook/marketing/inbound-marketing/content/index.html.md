@@ -172,8 +172,8 @@ We use the [mktg-status:: labels](/handbook/marketing/#boards-and-labels) to wor
 
 ### GitLab.com group labels
 
-- `Corporate Marketing`: Department label. Add this label to all issues and epics.
-- `Global Content`: General team label to track all issues related to the content team. Add this label to all issues and epics.
+- `mktg-inbound`: Department label. Add this label to all issues and epics.
+- `mktg-content`: General team label to track all issues related to the content team. Add this label to all issues and epics.
 - `New Content Request`: Indicates a request for content creation, editing, or review.
 - `Stage::Awareness`: Indicates content creation for the awareness stage of the buyer's journey.
 - `Stage::Consideration`: Indicates content creation for the consideration stage of the buyer's journey.
@@ -226,11 +226,7 @@ The homepage hero is updated frequently to promote new content, events, and anno
 
 ### Requesting content and copy reviews
 
-1. If the content you're looking for doesn't exist and it's a:
-   1. Blog post: See the [blog handbook](/handbook/marketing/blog)
-   1. Digital asset (eBook, infographic, report, etc.): open an issue in the [corporate marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/) and label it `content marketing`
-   1. Video: open an issue in the [corporate marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/) and label it `video production`
-1. If you need a copyedit, ping @erica. Please give at least 3 days' notice.
+1. Use the [editing request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#). 
 
 ## Content production
 
