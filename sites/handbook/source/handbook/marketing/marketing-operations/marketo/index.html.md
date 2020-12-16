@@ -51,8 +51,33 @@ All forms should follow these guidelines:
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
 - Do not use lightboxes
 
-For more information on website form management [click here](/handbook/marketing/marketing-operations/#website-form-management).
+### Website Form Management
 
+The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). For form field requirements, please refer to this [page](/handbook/marketing/marketing-operations/marketo/#forms).
+
+Each Marketo form should push an event after successful submission to trigger events in Google Analytics. We use the following event labels to specify which events to fire.
+
+1. `demo` for static demos on `/demo/` and `/demo-leader/`
+1. `webcasts` for forms on any page in `/webcast/`
+1. `trial` for the form on `/free-trial/`
+1. `resources` for forms on any page in `/resources/`
+1. `events` for forms on any page in `/events/`
+1. `services` for form on `/services/`
+1. `sales` for form on `/sales/`
+1. `public-sector` for forms on `/solutions/public-sector/`
+1. `mktoLead` legacy custom event label used on Newsletter subscription form submission events. Currently used for primary, security, and all-remote newsletter form submissions.
+
+We add the following line above `return false` in the form embed code. Please update the event label from `demo` to reflect the appropriate form completion.
+
+```
+dataLayer.push(
+{
+  'event' : 'demo',
+  'mktoFormId' : form.getId(),
+  'eventCallback' : function()
+  {}, 'eventTimeout' : 3000
+});
+```
 
 ### Smart Campaigns - Operational 
 
