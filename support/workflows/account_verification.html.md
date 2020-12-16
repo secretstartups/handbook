@@ -41,7 +41,7 @@ If a user has added an SSH key to their account but receives a `Permission denie
 
 ## Disable 2FA with Support Intervention
 
-Support intervention for 2FA removal after the above steps have been attempted is only possible for users with a paid plan.
+Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an existing paid plan when the ticket was created.
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
