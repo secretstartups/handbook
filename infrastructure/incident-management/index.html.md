@@ -142,6 +142,25 @@ and then creating the new incident while picking **Incident Management - CMOC** 
 
 Important to clarify that the CMOC covering hours does not include the weekends. 24x7 coverage for CMOC is being worked in [support-team-meta#2822](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2822).
 
+### Corrective Actions
+Corrective Actions (CAs) are work items that we create as a result of an incident. They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence.
+
+##### Best practices and examples, when creating a Corrective Action issue:
+- They should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant and Time-bounded.
+- Avoid creating CAs that:
+  - Are too generic (most typical mistake, as oposed to Specific)
+  - Only fix incident symptoms.
+  - Introduce more human error.
+  - will not help to keep the incident from happening again.
+- Examples: (taken from several best-practices Postmortem pages)
+
+| Badly worded                                                        | Better                            |
+|-------------------------------------------------------|-----------------------------------------------------------|
+| Fix the issue that caused the outage  | (Specific) Handle invalid postal code in user address form input safely      |
+| Investigate monitoring for this scenario     | (Actionable) Add alerting for all cases where this service returns >1% errors |
+| Make sure engineer checks that database schema can be parsed before updating  | (Bounded) Add automated presubmit check for schema changes  |
+
+
 ### Runbooks
 
 [Runbooks](https://gitlab.com/gitlab-com/runbooks) are available for
