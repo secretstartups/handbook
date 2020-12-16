@@ -14,7 +14,7 @@ title: GitLab Learn Admin Documentation
 
 These best practices are an iterative work in progress. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. All admin should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform.
 
-If EdCast admins have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, 
+If EdCast admin have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, 
 please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 
