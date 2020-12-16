@@ -83,7 +83,7 @@ Metrics that are based on customer data should also carry a clarifying descripti
 
 ### Customer Segmentation
 
-Customer segmentation follows the segmentation as laid out in the [Business Operations Handbook](/handbook/business-ops/resources/#segmentation) at the [Parent Account level](#customers).
+Customer segmentation follows the segmentation as laid out in the [Business Operations Handbook](/handbook/sales/field-operations/gtm-resources/#segmentation) at the [Parent Account level](#customers).
 
 ### Customer Counts
 
@@ -382,7 +382,7 @@ All other uses, (e.g. CPU utilization), should be qualified and mentioned specif
 
 ### Sales Qualified Lead (SQL)
 
-[Sales Qualified Lead](/handbook/business-ops/resources/#customer-lifecycle)
+[Sales Qualified Lead](/handbook/sales/field-operations/gtm-resources/#customer-lifecycle)
 
 ### D300 (Account)
 

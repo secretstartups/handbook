@@ -34,7 +34,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)

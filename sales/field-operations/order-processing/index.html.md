@@ -30,7 +30,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [How to Work with Legal](/handbook/legal/#3-other-legal-requests)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
@@ -71,7 +71,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
 
 ## **Quote Configuration**
 
-The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/business-ops/resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
+The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/sales/field-operations/gtm-resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
 
 ### Standard Quote Types 
 
