@@ -1,4 +1,4 @@
----
+/---
 layout: handbook-page-toc
 title: "Marketing Operations"
 description: "Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well."
@@ -73,6 +73,13 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
 **Our Motto:** _If it isn't an Issue, it isn't OUR issue!_
+
+<div class="flex-row" markdown="0">
+  <div>
+    <a href="https://gitlab.com/groups/gitlab-com/-/boards/825719" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Ops Global issue board</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Operations project</a>
+  </div>
+</div>
 
 ### Use of Issues
 
