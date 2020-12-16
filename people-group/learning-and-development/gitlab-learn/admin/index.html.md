@@ -20,9 +20,14 @@ These best practices are an iterative work in progress. As the LXP implementatio
 
 ### Creating new learning content
 
-#### Smart cards, pathways, and journeys
+#### Smart cards
 
-- Create smartcards independenlty from a journey or pathway if you plan to reuse that content outside of the journey or pathway in the future
+- Smart cards created in a pathway or journey are only discoverable from within that pathway or journey. Create smart cards with quizzes, polls, or other action items from learners from within the journey or pathway to avoid confusion if these smart cards are discovered outside the desired path
+- Create content based smartcards independenlty from a journey or pathway so that content can be repurposed and discovered outside of the journey or pathway in the future
+
+#### Pathways
+
+#### Journeys
 
 
 #### Choosing between a badge or certification
@@ -55,10 +60,10 @@ It's important to have another member of your team review your content before ma
 
 #### Prior to content review
 
-- The content creator or curated builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
-- Content is initially marked as `draft`
-- Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
-- Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
+1. The content creator or curated builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
+1. Content is initially marked as `draft`
+1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
+1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
 
 #### Content review checklist items
 
@@ -88,17 +93,41 @@ Groups are best utilized to organize learners around a specific quality. Example
 
 1. Consider if your group is private or public. Private groups cannot be discovered by learners who are not members of the group. These are best used when you want to organize a group of only your direct team members. Public groups are discoverable by any learner on the platform. These are best used when you'd like to broadcast the group to a wide audience
 1. Groups can be used to assign content to a specific group of people. Learning can be assigned to all members of a group
+1. When new members are added to a group, they will automatically be assigned all content that has been assigned to that group in the past
 1. Groups offer a space to create a community of learners around a similar topic or goal
 1. All groups must have a group administrator that will take responsbility for managing content in the group, curating new content for the group, and creating new ways to maintain community. Group admin are encouraged to open an MR to this page and add best practices for group management
 
 ##### Sharing groups
 
+Engaged learners in groups using the following practices
+
+1. Learners automaticlaly added by the HRIS integration from BambooHR to groups based on their role in the organization
+1. Manually adding users to groups by navigating to the group and clicking the `invite` option
+1. Broadcast open groups on the Discover page to invite new members
+
 #### Broadcasting on Channels
 
+Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest
+
+1. Channels should have a clear title and description that defines what content the user will find in the channel
+1. Smart cards, pathways, and journeys can be shared to channels upon creation or can be added to relevant channels later on
+1. Channels can have multiple curators to encourage collaboration and content sharing
 
 ### Designing the discover page
 
+The discover page is the page where learners will land upon logging into the LXP. On this page, users can discover new content, navigate to their followed channels, find their groups, and more.
 
+The discover page can be leveraged by admin to 
+
+- advertise new learning opportunities
+- share new channels
+- highlight learning from specific users
+
+The discover page is also curated based on the user. For example, if a carousel appears on the discover page that includes private groups, only groups which the user is a part of will appear.
+
+Use these best practices when designing and updating the discover page in EdCast
+
+1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform 
 
 
 
