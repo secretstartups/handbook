@@ -59,6 +59,28 @@ Teams shoiuld choose to use a certification to recognize learners achievements w
 - Paid learning opportunities
 
 
+### Image guidelines
+
+The L&D team is collaborating with the GitLab Brand team to determine our best approach to using image in the LXP. Internal team members can refer to this [confidential issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/606#note_463614873) during the collaboration.
+
+When image guidelines are set, this section will be updated to reflect how the team will use images to communicate content in the LXP.
+
+#### Images for smartcards
+
+#### Images for channels
+
+#### Images for groups
+
+#### Finding photographs
+
+The GitLab team will use the following photographers on [Unsplash.com](https://unsplash.com/) for images in the LXP.
+
+- [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
+- [WOCintech](https://unsplash.com/@wocintechchat)
+
+
+
+
 
 ### Peer review content before publishing
 
@@ -245,26 +267,6 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 #### Moderating content
 
 Admin processing for moderating content will be outlined in future iterations.
-
-
-### Image guidelines
-
-The L&D team is collaborating with the GitLab Brand team to determine our best approach to using image in the LXP. Internal team members can refer to this [confidential issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/606#note_463614873) during the collaboration.
-
-When image guidelines are set, this section will be updated to reflect how the team will use images to communicate content in the LXP.
-
-#### Images for smartcards
-
-#### Images for channels
-
-#### Images for groups
-
-#### Finding photographs
-
-The GitLab team will use the following photographers on [Unsplash.com](https://unsplash.com/) for images in the LXP.
-
-- [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
-- [WOCintech](https://unsplash.com/@wocintechchat)
 
 
 ### Creating a badge
