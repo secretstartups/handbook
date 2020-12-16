@@ -9,30 +9,35 @@ title: GitLab Learn Admin Documentation
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The following processes are used by administrators of GitLab Learn.
-
 
 ## Best practices for content creation and organization in GitLab Learn
 
-If EdCast admin have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
+These best practices are an iterative work in progress. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. All admin should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform.
 
-These best practices are an iterative work in progress. As the LXP implementation discovers new ways to utilize EdCast, these best practices will be updated. All admin should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform.
+If EdCast admin have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, 
+please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
+
 
 ### Creating new learning content
 
 #### Smart cards
 
-- Smart cards created in a pathway or journey are only discoverable from within that pathway or journey. Create smart cards with quizzes, polls, or other action items from learners from within the journey or pathway to avoid confusion if these smart cards are discovered outside the desired path
-- Create content based smartcards independenlty from a journey or pathway so that content can be repurposed and discovered outside of the journey or pathway in the future
+1. Smart cards created in a pathway or journey are only discoverable from within that pathway or journey. Create smart cards with quizzes, polls, or other action items from learners from within the journey or pathway
+1. Create content based smart cards independenlty from a journey or pathway so that content can be repurposed and discovered
 
 #### Pathways
 
+Best practices for pathways coming soon.
+
 #### Journeys
 
+Best practices for journeys coming soon.
 
-#### Choosing between a badge or certification
 
-##### Badges
+
+### Choosing between a badge or certification
+
+#### Badges
 
 Badges are available with the creation of both pathways and journeys and are awareded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be shared by the learner on their LinkedIn profiles.
 
@@ -44,7 +49,7 @@ Teams should choose to use a badge to recognize learners acheivements when:
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
 
-##### Certifications
+#### Certifications
 
 Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
 
@@ -54,13 +59,14 @@ Teams shoiuld choose to use a certification to recognize learners achievements w
 - Paid learning opportunities
 
 
-### Reviewing content before going live
 
-It's important to have another member of your team review your content before making it live on the platform. Each team in the LXP may have a preferred method of collaborating and reviewing content. Consider using this process that the L&D team uses to review content in the LXP. If you team decides on a different review process, please document on this page.
+### Peer review content before publishing
 
-#### Prior to content review
+It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If you team decides on a different peer review process, please document on this page.
 
-1. The content creator or curated builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
+#### Prior to peer review
+
+1. The content creator or curater builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
 1. Content is initially marked as `draft`
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
@@ -85,25 +91,29 @@ To review in the EdCast backend
 1. Relevant channels are included
 1. User taxonomy topics are chosen
 
+When the peer review is complete, content should be switched on to the `published` state.
+
+
 ### Sharing content with learners
 
 #### Using groups
 
-Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group
+Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group:
 
-1. Consider if your group is private or public. Private groups cannot be discovered by learners who are not members of the group. These are best used when you want to organize a group of only your direct team members. Public groups are discoverable by any learner on the platform. These are best used when you'd like to broadcast the group to a wide audience
+1. Decide if your group is private or public. Private groups cannot be discovered by learners who are not members of the group. These are best used when you want to organize a group of only your direct team members. Public groups are discoverable by any learner on the platform. These are best used when you'd like to broadcast the group to a wide audience
 1. Groups can be used to assign content to a specific group of people. Learning can be assigned to all members of a group
-1. When new members are added to a group, they will automatically be assigned all content that has been assigned to that group in the past
+1. When new members are added to a group, they will automatically be assigned all content that has been assigned to that group
 1. Groups offer a space to create a community of learners around a similar topic or goal
 1. All groups must have a group administrator that will take responsbility for managing content in the group, curating new content for the group, and creating new ways to maintain community. Group admin are encouraged to open an MR to this page and add best practices for group management
 
-##### Sharing groups
+##### Inviting new members to groups
 
 Engaged learners in groups using the following practices
 
 1. Learners automaticlaly added by the HRIS integration from BambooHR to groups based on their role in the organization
 1. Manually adding users to groups by navigating to the group and clicking the `invite` option
 1. Broadcast open groups on the Discover page to invite new members
+
 
 #### Broadcasting on Channels
 
@@ -112,6 +122,7 @@ Channels are used to collect and broadcast information based on like content. Us
 1. Channels should have a clear title and description that defines what content the user will find in the channel
 1. Smart cards, pathways, and journeys can be shared to channels upon creation or can be added to relevant channels later on
 1. Channels can have multiple curators to encourage collaboration and content sharing
+
 
 ### Designing the discover page
 
@@ -128,11 +139,14 @@ The discover page is also curated based on the user. For example, if a carousel 
 Use these best practices when designing and updating the discover page in EdCast
 
 1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform 
+1. Use custom carousels to organize content by topic. Carousels can display either channels or users
+1. Custom carousels with channels should be clearly named and invite the learner to explore a specific topic
+1. Custom carousels with users should feature engaged learners and leadership in the platform 
 
 
+## Management and maintence of content using EdCast
 
-
-## Content Management
+This section docuemnts specific workflows in EdCast that admin will use when creating and maintaing content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
 
 ### Channels
 
