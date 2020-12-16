@@ -12,11 +12,11 @@ description: How to be an onboarding buddy to a new Support Engineer
 
 # Support Onboarding Buddy
 
-You've become an onboarding buddy to a new Support Engineer. In that case, congratulations! You've been granted a pivotal role in helping someone new learn about how to best contribute to our customers, our team, and our product.
+You've become an onboarding buddy to a new Support Engineer. Congratulations! You've been granted a pivotal role in helping someone new learn about how to best contribute to our customers, our team, and our product.
 
 ## Responsibilities
 
-These responsibilities of the Support onboarding buddy are an extension of [the onboarding buddy responsibilities](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/#buddy-responsibilities), so please review that page first.
+These responsibilities of the Support onboarding buddy are an extension of [the GitLab Onboarding Buddy responsibilities](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/#buddy-responsibilities), so please review that page first.
 
 1. Help the new Support Engineer through any sticking points they have in their onboarding module.
 1. Communicate often with the new hire and either help or direct them to get help when stuck.
@@ -36,7 +36,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 
 ## Ideas & Suggestions
 
-Note that everyone's needs are different so consider the following as a list of ideas to customize to their individual needs. Not everyone needs everything from the below lists, but everyone would find at least a few of the following helpful.
+Note that everyone's needs are different, so consider the following as a list of ideas to customize to their individual needs. Not everyone needs everything from the below lists, but everyone would find at least a few of the following helpful.
 
 ### First 1-2 weeks
 
@@ -46,24 +46,24 @@ Note that everyone's needs are different so consider the following as a list of 
   - Talk about how to use tools like Slack, Expensify, etc.
   - Show them some helpful Slack channels
   - Which Slack channels to keep track of daily
-  - Which google docs to keep track of (SWIR, etc.)
+  - Which Google docs to keep track of (SWIR, etc.)
   - Show them some helpful handbook pages to read during onboarding
-  - Show them the GitLab architecture diagram
+  - Show them the GitLab architecture diagrams
   - Show them some product or support-team-meta issues and clarify that they can contribute to anything
   - Remind them they can get reimbursed for any books or training, and show them the “spending company money” page. If it’s expensive, talk to their manager first.
   - Show them how to use dev-resources or support-resources
-  - Update the team page with their info
+  - Help them update the team page with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings
 
 - Introduction to Zendesk and how we use it:
   - Walk them through Zendesk and how to use it
-  - Answer any questions they have about the ticket workflow docs
+  - Answer any questions they have about the ticket workflow handbook pages
   - Walk through your process for choosing and answering tickets
   - Talk about [setting a signature](https://gitlab.com/gitlab-com/support/team/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&search=salutation)
-  - Create a ticket pairing issue
+  - Show them how to create a ticket pairing issue
 
-- Pair on a tickets:
+- Pair on tickets:
   - Share your screen and answer a few easy tickets with them
   - If they brought any tickets to the call, answer those first
   - Alternate who shares their screen and answers the tickets
