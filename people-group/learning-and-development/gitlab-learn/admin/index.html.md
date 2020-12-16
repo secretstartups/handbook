@@ -44,7 +44,7 @@ Teams should choose to use a badge to recognize learners achievements when:
 
 - Learning pathways are completed
 - Journeys that do not require an official certification or accrediation 
-- Unpaid learning opportunities
+- Seting goals, motivating behaviors, representing achievements and communicating success
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
 
@@ -55,7 +55,7 @@ Certifications are available for content updated in the Leapest LMS Lite with th
 Teams should choose to use certifications to recognize learners achievements when:
 
 - Learners require an official certification upon completion
-- For fee learning opportunities
+- Establishing credibility in a specific skill area, etc.
 
 
 ### Image guidelines
