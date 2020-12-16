@@ -759,7 +759,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 #### Event List
 
 1. List received by event DRI from event organizers
-1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/sales/field-operations/gtm-resources/#list-imports)
+1. Event DRI reviews and cleans up list following the guidelines for [list imports](/handbook/sales/field-operations/gtm-resources/)
 1. List is sent to Marketing Ops for upload to Marketo & associate to related Campaign (w/in 24hrs of receipt from event)
     - Marketo will match based on `Email Address` to existing records regardless if LEAD or CONTACT object.
 1. Marketo will sync to SFDC automatically. LeanData assigns records based on Territory ownership.
