@@ -85,7 +85,7 @@ It's important to have another member of your team review your content before ma
 
 #### Prior to peer review
 
-1. The content creator or curator builds the content in the LXP, including opening smart cards, branded images, and organizing Pathways and Journeys
+1. The content creator or curator builds the content in the LXP, including opening SmartCards, branded images, and organizing Pathways and Journeys
 1. Mark content to `save for later`, which leaves it in a draft state (not yet published)
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
@@ -101,7 +101,7 @@ To review in the front end of GitLab Learn
 1. Images are branded based on correct image guidelines
 1. Learning level is set
 1. Badge status is set and uploaded
-1. Each smart card has a clear description
+1. Each SmartCard has a clear description
 
 To review in the EdCast backend
 
@@ -207,7 +207,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 1. Login to Edcast and navigate to the `admin` panel
 1. Click on the `content` tab
 1. Click on `custom carousels`
-1. Choose `select type` and decide on the type of channel you'd like to create. You can feature users, smart cards, or channels in a carousel
+1. Choose `select type` and decide on the type of channel you'd like to create. You can feature users, SmartCards, or channels in a carousel
 1. Add a name to the carousel. This name will appear on the discover page above the carousel and should indicate what the learner will find or achieve in this carousel
 1. Click `create carousel`
 1. This will open a tab where you can further build the carousel
@@ -223,7 +223,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 1. Click on `custom carousels`
 1. Here, you can edit and enable/disable carousels. Disabled carousels will not be visible on the Discover page
 1. Click on the pencil icon
-1. In editing a carousel, you can change the style and add channels, users, or cards. When you're done editing, click the `done` button to save your changes 
+1. In editing a carousel, you can change the style and add channels, users, or SmartCards. When you're done editing, click the `done` button to save your changes 
 1. You can update the name of your carousel. Click the `update carousel name` button to save your changes
 
 
@@ -239,11 +239,11 @@ This section documents specific workflows in EdCast that admin will use when cre
      - Toggle built-in carousels to be on or off
 
 
-### Journeys, pathways, and smart cards
+### Journeys, Pathways, and SmartCards
 
 Journeys, Pathways, and SmartCards are initially created in the front end of EdCast. Moderation and limited editing occurs in the admin backend. The following steps outline how to access these limited edits and moderate journeys, pathways, and smart cards. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
 
-#### Editing journeys, pathways, and smart cards
+#### Editing Journeys, Pathways, and SmartCards
 
 1. Login to Edcast and navigate to the `admin` panel
 1. Click on the `content` tab
