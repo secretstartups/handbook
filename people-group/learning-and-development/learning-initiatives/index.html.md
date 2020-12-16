@@ -30,6 +30,7 @@ Check out recordings of previous Learning Speaker Series calls!
 
 - [2020-10-21 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=nfF9OI566uo&list=PL05JrBw4t0Kqz6UXFu_2ELLubpKzg_pOe&index=32)
 - [2020-11-18 Monthly Continuous Learning Call](https://youtu.be/tWZ3iVyb-4E)
+- [2020-12-16 Monthly Continuous Learning Call](https://www.youtube.com/watch?v=DQdzXFu9Nbc)
 
 ### Hosting a Monthly Continuous Learning Call
 
