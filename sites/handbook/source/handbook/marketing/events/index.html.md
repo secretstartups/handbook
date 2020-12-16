@@ -327,7 +327,7 @@ cc @jburton to create list upload issue and DMA request as required
 1. Leads and Campaign Setup
     - Field Marketing DRI is responsible for pulling, cleaning and sharing the lead list with the MPM and MktgOps within 24 hours of event close or as soon as received by event coordinators.
     - If the event had multiple parts (booth, happy hour, meetings, etc) each will have its own Salesforce campaign and [Member status progressions](/handbook/marketing/marketing-operations/#campaign-type--progression-status).
-    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce).
+    - Use template to standardize the data following the [list import guidelines](/handbook/sales/field-operations/gtm-resources/).
 
 ### Ancillary Events
 
