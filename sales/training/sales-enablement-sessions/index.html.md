@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Dec 17 | [Special Edition: AMA on Pricing Policy](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/101)  | Xiaohe Li & Scott Williamson |
 | Dec 24 | **Cancelled due to Holiday** |
 | Jan 7 | [Q4 FY21 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/82) | Mahesh Kumar |
 | Jan 14 | [Red Hat Partner Session](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/89) | Vick Kelkar |
