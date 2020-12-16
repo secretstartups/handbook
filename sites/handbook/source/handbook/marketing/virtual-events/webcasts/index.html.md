@@ -31,7 +31,7 @@ twitter_creator: "@gitlab"
 
 ## Types of BrightTALK Webcasts
 {:#bt-types}
-* **PRO (Live):** traditional live webcast with live speakers and Q&A.
+* **TALK (Live):** traditional live webcast with live speakers and Q&A.
    - Pre-event registration takes place
    - The event automatically converts to on-demand upon completion
 * **RP (Replay)**: recorded webcast that appears to be hosted live
@@ -145,8 +145,8 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 
 ### Create webcast in BrightTALK
 
-1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, schedule a webinar.
-1. **WEBCAST TITLE**: Insert the title of the webcast (public facing)
+1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, schedule a talk. _*Note: Only type: `talk` allows you to share videos_
+1. **TALK TITLE**: Insert the title of the webcast (public facing)
 1. **DESCRIPTION**: Enter here a brief synopsis of the webcast. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it.
 1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also.
 1. **DURATION**: Add how long the webcast will be.
@@ -157,7 +157,8 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. **IMAGE UPLOAD**: This will be used for the click to play overlay and thumbnail. Upload JPG/PNG image file of size 640x360. File upload limit 1MB.
 
 PUBLISHING
-1. **Public/Private webcast**: Select 'Public' to promote this webcast in your channel listing and via the BrightTALK email service. Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
+1. **Public/Private**: Select 'Public' to promote this webcast in your channel listing and via the BrightTALK email service. Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
+1. **Channel Survey**: Select 'Enabled' to allow surveys to go out for this webcast. Otherwise, select 'Disabled'.
 1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
 1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
 
