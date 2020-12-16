@@ -12,18 +12,17 @@ title: GitLab Learn Admin Documentation
 
 ## Best practices for content creation and organization in GitLab Learn
 
-These best practices are an iterative work in progress. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. All admin should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform.
+These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
 
-If EdCast admin have questions about best pracitces in the LXP, or need support in making decisions about how to upload and organize their contnet, 
-please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
+If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 
 ### Creating new learning content
 
-#### Smart cards
+#### SmartCards
 
-1. Smart cards created in a pathway or journey are only discoverable from within that pathway or journey. Create smart cards with quizzes, polls, or other action items from learners from within the journey or pathway
-1. Create content based smart cards independenlty from a journey or pathway so that content can be repurposed and discovered
+1. SmartCards created in a pathway or journey are only discoverable from within that pathway or journey. Create SmartCards with quizzes, polls, or other action items from learners from within the journey or pathway
+1. Create content based SmartCards independently from a journey or pathway so that content can be repurposed and discovered
 
 #### Pathways
 
@@ -41,10 +40,10 @@ Best practices for journeys coming soon.
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
-Teams should choose to use a badge to recognize learners acheivements when:
+Teams should choose to use a badge to recognize learners achievements when:
 
-- Short learning pathways
-- Journeys that do not require an official certification
+- Learning pathways are completed
+- Journeys that do not require an official certification or accrediation 
 - Unpaid learning opportunities
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
@@ -53,10 +52,10 @@ Follow the steps below for [creating a badge in EdCast](/handbook/people-group/l
 
 Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
 
-Teams shoiuld choose to use a certification to recognize learners achievements when:
+Teams should choose to use certifications to recognize learners achievements when:
 
-- Learners require an official certification upon completition 
-- Paid learning opportunities
+- Learners require an official certification upon completion
+- For fee learning opportunities
 
 
 ### Image guidelines
@@ -84,11 +83,11 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 
 ### Peer review content before publishing
 
-It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer review process, please document on this page.
+It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer-review process, please document on this page.
 
 #### Prior to peer review
 
-1. The content creator or curater builds the content in the LXP, including opening smart cards, branded images, and organzing pathways and journeys
+1. The content creator or curator builds the content in the LXP, including opening smart cards, branded images, and organizing pathways and journeys
 1. Mark content to `save for later`, which leaves it in a draft state (not yet published)
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
@@ -100,7 +99,7 @@ To review in the front end of GitLab Learn
 1. Click into the `edit` mode to review content in each journey or pathway
 1. Content is organized in a pathway or journey
 1. Name is clear and identifies what the learner will achieve upon completion
-1. Description of the pathway or journey clearly defines content
+1. Description of the pathway or journey clearly defines the content
 1. Images are branded based on correct image guidelines
 1. Learning level is set
 1. Badge status is set and uploaded
@@ -113,7 +112,7 @@ To review in the EdCast backend
 1. Relevant channels are included
 1. User taxonomy topics are chosen
 
-When the peer review is complete, content should be switched on by the content creator to the `published` state.
+When the peer-review is complete, content should be switched on by the content creator to the `published` state.
 
 
 ### Sharing content with learners
@@ -126,13 +125,13 @@ Groups are best utilized to organize learners around a specific quality. Example
 1. Groups can be used to assign content to a specific group of people. Learning can be assigned to all members of a group
 1. When new members are added to a group, they will automatically be assigned all content that has been assigned to that group
 1. Groups offer a space to create a community of learners around a similar topic or goal
-1. All groups must have a group administrator that will take responsbility for managing content in the group, curating new content for the group, and creating new ways to maintain community. Group admin are encouraged to open an MR to this page and add best practices for group management
+1. All groups must have a group administrator that will take responsibility for managing content in the group, curating new content for the group, and creating new ways to maintain a community. Group admin are encouraged to open an MR to this page and add best practices for group management
 
 ##### Inviting new members to groups
 
 Engage learners in groups using the following practices
 
-1. Learners automaticlaly added by the HRIS integration from BambooHR to groups based on their role in the organization
+1. Learners automatically added by the HRIS integration from BambooHR to groups based on their role in the organization
 1. Manually adding users to groups by navigating to the group and clicking the `invite` option
 1. Broadcast open groups on the Discover page to invite new members
 
@@ -156,19 +155,19 @@ The discover page can be leveraged by admin to
 - share new channels
 - highlight learning from specific users
 
-The discover page is also curated based on the user. For example, if a carousel appears on the discover page that includes private groups, only groups which the user is a part of will appear.
+The discover page is also curated based on the user. For example, if a carousel appears on the discover page that includes private groups, only groups that the user is a part of will appear.
 
 Use these best practices when designing and updating the discover page in EdCast
 
 1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform 
 1. Use custom carousels to organize content by topic. Carousels can display either channels or users
 1. Custom carousels with channels should be clearly named and invite the learner to explore a specific topic
-1. Custom carousels with users should feature engaged learners and leadership in the platform 
+1. Custom carousels with users should feature engaged learners and leaders in the platform 
 
 
-## Management and maintence of content using EdCast
+## Management and maintenance of content using EdCast
 
-This section docuemnts specific workflows in EdCast that admin will use when creating and maintaing content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
+This section documents specific workflows in EdCast that admin will use when creating and maintaining content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
 
 ### Channels
 
@@ -271,7 +270,7 @@ Admin processing for moderating content will be outlined in future iterations.
 
 ### Creating a badge
 
-Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast plaform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
+Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
 
 #### Adding a badge to EdCast
 
