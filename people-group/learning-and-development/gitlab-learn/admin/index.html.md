@@ -21,16 +21,16 @@ If EdCast admins have questions about best practices in the LXP or need support 
 
 #### SmartCards
 
-1. SmartCards created in a pathway or journey are only discoverable from within that pathway or journey. Create SmartCards with quizzes, polls, or other action items from learners from within the journey or pathway
-1. Create content based SmartCards independently from a journey or pathway so that content can be repurposed and discovered
+1. SmartCards created in a Pathway or Journey are only discoverable from within that pathway or Journey. Create SmartCards with quizzes, polls, or other action items from learners from within the Journey or Pathway
+1. Create content based SmartCards independently from a Journey or Pathway so that content can be repurposed and discovered
 
 #### Pathways
 
-Best practices for pathways coming soon.
+Best practices for Pathways coming soon.
 
 #### Journeys
 
-Best practices for journeys coming soon.
+Best practices for Journeys coming soon.
 
 
 
@@ -38,11 +38,11 @@ Best practices for journeys coming soon.
 
 #### Badges
 
-Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set pathway or journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
+Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
 Teams should choose to use a badge to recognize learners achievements when:
 
-- Learning pathways are completed
+- Learning Pathways are completed
 - Journeys that do not require an official certification or accrediation 
 - Seting goals, motivating behaviors, representing achievements and communicating success
 
@@ -64,11 +64,11 @@ The L&D team is collaborating with the GitLab Brand team to determine our best a
 
 When image guidelines are set, this section will be updated to reflect how the team will use images to communicate content in the LXP.
 
-#### Images for smartcards
+#### Images for SmartCards
 
-#### Images for channels
+#### Images for Channels
 
-#### Images for groups
+#### Images for Groups
 
 #### Finding photographs
 
@@ -79,15 +79,13 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 
 
 
-
-
 ### Peer review content before publishing
 
 It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer-review process, please document on this page.
 
 #### Prior to peer review
 
-1. The content creator or curator builds the content in the LXP, including opening smart cards, branded images, and organizing pathways and journeys
+1. The content creator or curator builds the content in the LXP, including opening smart cards, branded images, and organizing Pathways and Journeys
 1. Mark content to `save for later`, which leaves it in a draft state (not yet published)
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
@@ -96,10 +94,10 @@ It's important to have another member of your team review your content before ma
 
 To review in the front end of GitLab Learn
 
-1. Click into the `edit` mode to review content in each journey or pathway
-1. Content is organized in a pathway or journey
+1. Click into the `edit` mode to review content in each Journey or Pathway
+1. Content is organized in a Pathway or Journey
 1. Name is clear and identifies what the learner will achieve upon completion
-1. Description of the pathway or journey clearly defines the content
+1. Description of the Pathway or Journey clearly defines the content
 1. Images are branded based on correct image guidelines
 1. Learning level is set
 1. Badge status is set and uploaded
@@ -141,7 +139,7 @@ Engage learners in groups using the following practices
 Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest
 
 1. Channels should have a clear title and description that defines what content the user will find in the channel
-1. Smart cards, pathways, and journeys can be shared to channels upon creation or can be added to relevant channels later on
+1. SmartCards, Pathways, and Journeys can be shared to channels upon creation or can be added to relevant channels later on
 1. Channels can have multiple curators to encourage collaboration and content sharing
 
 
@@ -214,7 +212,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 1. Click `create carousel`
 1. This will open a tab where you can further build the carousel
 1. If you create a carousel of smart cards, use the `default` rectangular shape for display. If you create a carousel of channels, use the `classic icon` shape for display
-1. Add relevant channels or smart cards by searching and clicking on the content you'd like to feature. You can drag and drop these items to arrange the order and delete unnecessary content using the trash icon
+1. Add relevant channels or SmartCards by searching and clicking on the content you'd like to feature. You can drag and drop these items to arrange the order and delete unnecessary content using the trash icon
 1. When you've completed your carousel, click the `done` button
 1. Return to the `custom carousels` tab and be sure the enable/disable tab is `on` for it to appear on the discover page. If you'd like to save the carousel to be featured at a later date, leave this tab in the `off` mode
 
@@ -243,13 +241,13 @@ This section documents specific workflows in EdCast that admin will use when cre
 
 ### Journeys, pathways, and smart cards
 
-Journeys, pathways, and smart cards are initially created in the front end of EdCast. Moderation and limited editing occurs in the admin backend. The following steps outline how to access these limited edits and moderate journeys, pathways, and smart cards. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
+Journeys, Pathways, and SmartCards are initially created in the front end of EdCast. Moderation and limited editing occurs in the admin backend. The following steps outline how to access these limited edits and moderate journeys, pathways, and smart cards. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
 
 #### Editing journeys, pathways, and smart cards
 
 1. Login to Edcast and navigate to the `admin` panel
 1. Click on the `content` tab
-1. Choose either the `smartcards`, `journeys`, or `pathways`
+1. Choose either the `SmartCards`, `Journeys`, or `Pathways`
 1. In each tab, you'll find a list display of all the content in each type. From this list, you can:
      - View data about the content, like creation date, creator, title, tags, related channels, and state
      - Promote content using the toggle on/off option
@@ -260,7 +258,7 @@ Journeys, pathways, and smart cards are initially created in the front end of Ed
 
 Edits that you'd like to made related to the arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
 
-- Arrangement of smartcards in a pathway, or pathways in a journey
+- Arrangement of SmartCards in a Pathway, or Pathways in a Journey
 - Badging information
 
 #### Moderating content
@@ -270,7 +268,7 @@ Admin processing for moderating content will be outlined in future iterations.
 
 ### Creating a badge
 
-Badges are used in the EdCast platform to award learners who have finished a pathway or journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
+Badges are used in the EdCast platform to award learners who have finished a Pathway or Journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
 
 #### Adding a badge to EdCast
 
