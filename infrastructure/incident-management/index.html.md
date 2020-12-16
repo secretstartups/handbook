@@ -386,7 +386,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 | `~incident-type::deployment related` | Indicates that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
-| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
+| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#Corrective-Actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
 ### Workflow Diagram
 
