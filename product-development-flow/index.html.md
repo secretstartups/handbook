@@ -42,7 +42,7 @@ Examples:
 
 <img src="/handbook/product-development-flow/PDF-Diagram.svg" alt="Product Development Flow diagram">
 
-> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Workflow labels must be applied for each phase that's used to enable tracking and collaboration across teams.
+> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> We use workflow labels to efficiently communicate an issue's state. Using these labels enables collaboration across teams and communicates an issue's current state.
 
 ### Issue descriptions as the SSOT
 
@@ -112,7 +112,7 @@ The growth of a world class product is built from a well maintained backlog. Pro
 |---------------|----------|
 | DRI           | Product Manager |
 | Collaborators | UX Researcher |
-| Informed      | Product Designer <br/>Engineering Team <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Informed      | Product Designer <br/>Engineering team <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 
 #### Description
@@ -146,7 +146,7 @@ If the problem is nuanced, then it will likely take longer to validate with user
 
 After understanding and validating the problem, we can begin or continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. However, if the outcome from the problem validation phase confidently suggests an incremental modification to the existing solution, the aforementioned diverge/converge process could be skipped.
 
-The Product Designer leads the team (Product Manager, Engineering, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and Engineers evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, potential security risks, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
+The Product Designer leads the team (Product Manager, Engineering team, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and the Engineering team evaluate solutions by determining if they meet customer and business goals, and are technically feasible. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, potential security risks, and if the solution has the intended customer impact. After the team converges on the proposed solution or identifies a small set of options to validate, the issue moves into the Solution Validation phase.
 
 To start the Design phase, the Product Designer or Product Manager applies the `workflow::design` label to an existing issue or, if needed, creates a new issue with this label.
 
@@ -168,8 +168,8 @@ To start the Design phase, the Product Designer or Product Manager applies the `
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Designer |
-| Collaborators | Product Manager <br/>Engineering |
-| Informed      | Technical Writing <br/>Software Engineers in Test <br/>Application Security Engineers <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Collaborators | Product Manager <br/>Engineering team |
+| Informed      | Technical Writer <br/>Software Engineer in Test <br/>Application Security Engineer <br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
@@ -192,7 +192,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 **When:** As we build MVCs according to our [product development timeline](/handbook/engineering/workflow/#product-development-timeline)
 
-**Who:** Product Manager, Product Designer, Engineers, Software Engineers in Test
+**Who:** Product Manager, Product Designer, Engineering team, Software Engineer in Test
 
 **What:**
 
@@ -221,8 +221,8 @@ The build track is where we plan, develop, and deliver value to our users by bui
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Engineering Manager <br/>Product Designer <br/>Software Engineers in Test <br/>Engineers |
-| Informed      | PMM <br/>TAM <br/>Technical Writer <br/> Application Security Engineers|
+| Collaborators | Engineering Manager <br/>Product Designer <br/>Software Engineer in Test <br/>Engineering team |
+| Informed      | Product Marketing Manager <br/>Technical Account Manager <br/>Technical Writer <br/> Application Security Engineer|
 
 #### Description
 
@@ -239,7 +239,7 @@ To ensure that a Software Engineer in Test (SET) will have ample time to contrib
 | Outcomes 	| Activities 	| DRI 	|
 |-        	|-	          |-	    |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Well-scoped MVC issues** - Issues are the [SSOT](/handbook/values/#single-source-of-truth) for all feature development. | - Refine issues into something that can be delivered within a single milestone<br>- Open follow on issues to track work that is de-prioritized<br>- Promote existing issues to Epics and open implementation issues for the upcoming milestone<br>- Review feature issues with contributors<br>- Consider scheduling a POC or engineering investigation issue<br>- Make scope tradeoffs to reach for a [right-sized MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc)<br>- Request an [issue review](/handbook/product/product-processes/#issue-reviews) to ensure communication is clear and have proposed the right iteration plan to execute on the solution. | - Product Manager 	|
-|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - PM sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - EM applies `Deliverable` label signaling acceptance of issue in the next milestone - PM creates a planning issue| - Product Manager and Engineering Manager |
+|<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Prioritized Milestone** - The team should understand what issues should be delivered during the next milestone  | - Product Manager sets `workflow::ready for development` and a milestone signaling intent to prioritize <br> - Engineering Manager applies `Deliverable` label signaling acceptance of issue in the next milestone - Product Manager creates a planning issue| - Product Manager and Engineering Manager |
 |<i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> **Defined Quality Plan** - Involving SETs in this phase ensures they are able to understand and effectively plan their own capacity before engineering is truly underway.| - [Quad Planning](/handbook/engineering/quality/quad-planning/)<br>- [Test planning](/handbook/engineering/quality/test-engineering/#test-planning) 	| - Software Engineer in Test |
 
 ### Build phase 2: Develop & Test
@@ -322,8 +322,8 @@ Label: n/a
 | Role          | Function |
 |---------------|----------|
 | DRI           | Product Manager |
-| Collaborators | Product Designer <br/>Customer Success <br/>Sales <br/>Data Analysts <br/>UX Researcher <br/>Product Marketing <br/>Technical Writing |
-| Informed      | Engineering Team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
+| Collaborators | Product Designer <br/>Customer Success <br/>Sales <br/>Data Analysts <br/>UX Researcher <br/>Product Management Marketer <br/>Technical Writer |
+| Informed      | Engineering team <br/>Leadership<br/>Other [stakeholders](/handbook/product/product-processes/#whats-a-stakeholder) as appropriate |
 
 #### Description
 
