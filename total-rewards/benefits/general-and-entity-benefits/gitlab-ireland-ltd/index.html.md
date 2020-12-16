@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Ireland Ltd"
+description: "Discover GitLab's benefits for team members in Ireland"
 ---
 
 ## On this page
