@@ -117,10 +117,6 @@ Visit [this page](/handbook/customer-success/using-salesforce-within-customer-su
 
 Visit [this page](/handbook/customer-success/tam/gainsight/) for more information on using Gainsight within Customer Success.
 
-### Optimized Account Growth Program
-
-In order to evangelize and grow the use of GitLab in existing accounts, the [Optimized Account Growth Program](/handbook/customer-success/optimized-account-growth-program) has been developed to facilitate collaborative sessions and workshops within customer environments. The program is intended to improve the partnership between GitLab and the customer, solving complex business problems while reducing cycle times and improving workflow, ultimately resulting in the growth in adoption and usage of GitLab in customer environments.
-
 ### Dogfooding
 
 Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single DevOps platform. However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](/handbook/engineering/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).

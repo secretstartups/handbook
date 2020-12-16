@@ -16,18 +16,19 @@ Education Services are part of the Professional Services (PS) Team within GitLab
 
 The primary mission is to plan and implement effective and scalable educational offerings to accelerate customer time to value and drive expanding product adoption. 
 
+#### Approach
+
+The Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
+
+
 ### Current Offerings
 
-The GitLab Education Services team currently provides [live instructor-led training (ILT)](https://about.gitlab.com/services/education/) and [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings. The Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
+The GitLab Education Services team currently provides the following offerings:
+- [live instructor-led training (ILT)](https://about.gitlab.com/services/education/)
+- [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings. 
+- [Train-the-Trainer](https://about.gitlab.com/services/education/train-the-trainer/)
+- [Custom Training](https://about.gitlab.com/services/specialized/)
 
-- [GitLab with Git Basics](https://about.gitlab.com/services/education/gitlab-basics/)
-- [GitLab CI/CD](https://about.gitlab.com/services/education/gitlab-ci/)
-- [GitLab for Project Managers](https://about.gitlab.com/services/education/pm/)
-- [GitLab Seecurity Essentials](https://about.gitlab.com/services/education/security-essentials/)
-- [GitLab InnerSourcing](https://about.gitlab.com/services/education/innersourcing-course/)
-- [GitLab DevOps Fundamentals](https://about.gitlab.com/services/education/devops-fundamentals/)
-- [GitLab System Administration Basics](https://about.gitlab.com/services/education/admin/)
-- [GitLab Advanced System Administration](https://about.gitlab.com/services/education/adv-admin/)
 
 #### Immediate Priorities
 
