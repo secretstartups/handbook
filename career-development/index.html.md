@@ -72,7 +72,7 @@ We create temporary management positions when there is organizational need, and 
 
 When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in an temporary position.
 
-Once you have been designated as filling a temporary management role, the current manager should update all reports to in BambooHR with a job information change request and create an access level request to grant interim manager access in BambooHR.
+Once you have been designated as filling a temporary management role, the current manager should update all reports to in BambooHR with a job information change request and create an access level request to grant interim manager access in BambooHR. Note that direct reports in BambooHR generally are [not moved to Acting managers](/handbook/people-group/promotions-transfers/#acting).
 
 Those interested in these roles must:
 - show managerial interest
@@ -89,7 +89,7 @@ Process for selection:
 
 #### Types of Interim Roles
 ##### Acting Manager
-An Acting Manager is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
+An [Acting Manager](/handbook/people-group/promotions-transfers/#acting) is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
 When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances: 
