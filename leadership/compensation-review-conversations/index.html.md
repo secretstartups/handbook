@@ -14,7 +14,7 @@ title: Compensation Review Conversations
 
 ### Compensation Review cycles
 
-Check the most up to date information with regards to our [Annual Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Catch Up Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#catch-up-compensation-review-timeline) on the [Total Rewards page](/handbook/total-rewards/compensation/compensation-review-cycle).
+Check the most up to date information with regards to our [Annual Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Targeted Mid-Year Increase Review](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review) on the [Total Rewards page](/handbook/total-rewards/compensation/compensation-review-cycle).
 ### Communication recommendations
 
 * **Communicate the increase face-to-face over [Zoom](/handbook/communication/#zoom).** As a manager, this is an opportunity for you to have a conversation with your team member about their increase and the reason behind it.  Having the conversation over Zoom allows for you to have a dialogue with your team member (versus just sharing the number or percentage) and allows you to pick up other information like tone and non-verbal cues which can tell you more about how someone is feeling.
@@ -49,7 +49,7 @@ Check the most up to date information with regards to our [Annual Compensation R
 2. **Not receiving an increase:**   A team member is not receiving an adjustment:
     * Sample Script:
     * As you know, GitLab just went through our annual compensation review. I wanted to inform you that you are not getting a compensation adjustment at this time. This is due to (examples below)...
-        * A team member is new to the team and at the market range for your aligned role.  Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time. You may be eligible to participate in the [catch up comp review process](/handbook/total-rewards/compensation/compensation-review-cycle/#catch-up-compensation-review).
+        * A team member is new to the team and at the market range for your aligned role.  Your performance is good (if applicable), however, we hire new team members at market rate for compensation so we feel that you are compensated accurately for your role at this time. You may be eligible to participate in the the [Targeted Mid-year Increase Review process](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review).
         * A team member is not receiving because they are above range for their role.
         * A team member needs to improve performance. For questions on specific situations, please work with your People Business Partner.
     * Although informing a team member that they are not getting a compensation adjustment is a tough message to deliver, we are highly recommending that managers have this direct conversation. This is directly aligned with our transparency value. We want everyone to know why they may not have received an adjustment and give them the space to ask questions.
