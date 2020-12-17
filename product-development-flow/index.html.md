@@ -24,7 +24,7 @@ This page is an evolving description of how we expect our cross-functional devel
 Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the  workflow should be considered a set of best practices, tools, and recommendations. The goal of this page is to support teams in their workflows by highlighting the necessary **outcomes** to target in each phase as well as sharing strategies/tactics, **activities**, teams can employ to achieves these  outcomes. Additionally, this page aims to clarify the _minimal_ set of required actions, such as labels, needed across all phases to keep the the product system efficient in terms of tracking, searching and cross-functional collaboration. To maintain clarity and avoid confusion, we do not list optional actions on this page but teams may choose to employ additional actions, such as labels for planning, even if they are not mentioned on this page. 
 
 
-We welcome MRs to this page! Because this page needs to be concise and consistent, plese be sure to follow the [change process](#editing-this-page).
+As teams leverage the product development flow, they may find that certain strategies/tactics are serving their teams well toward success. Therefore, we welcome MRs to this page, so we can create a robust playbook of options to build valuable features for customers. All team members are encouraged to follow the [change process](#editing-this-page) for this page to share their best practices. 
 
 ## But Wait, Isn't This Waterfall?
 
