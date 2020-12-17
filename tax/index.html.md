@@ -81,7 +81,7 @@ GitLab Inc (USA 2014-09-10)
       ├── GitLab PTY Ltd (AUS 2018-08-06)
       ├── GitLab Canada Corp. (CA 2019-07-08)
       ├── GitLab Ireland Limited (IE 2020-07-30)
-      └── GitLab Singapore Holding PTE LTD (SG in information)
+      └── GitLab Singapore Holding PTE LTD (SG 2020-12-10)
 
   ```
 ## Establishment of a NewCo
