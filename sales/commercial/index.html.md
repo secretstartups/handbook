@@ -165,7 +165,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 - An Opportunity Consult happens when the opportunity IACV threshold is $10K +
 - A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month.
 
-#### Mid Market
+#### Mid-Market
 
 - An Opportunity Consult happens when the opportunity IACV threshold is $20K +
 - A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month.
@@ -289,7 +289,7 @@ GitLab.com Trials & Subscription Management
 
 #### Close Date Conventions
 
-<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and NET 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
 
 1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
 1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the iACV amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
@@ -424,7 +424,7 @@ Note, this is different than the routine co-selling practice however it could in
 - Increased customer “Expand” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.   
 
 #### How do AEs become active Partner opportunities?
-1. [Approved Partner GitLab Deal Registrations (PIO’s)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
+1. [Approved Partner GitLab Deal Registrations (PIOs)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
 1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` or to your Channel Account Manager with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
 
 #### More resources on selling with Partners
