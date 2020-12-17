@@ -44,6 +44,12 @@ the following in a CSV file:
 This CSV file is then uploaded to a S3 bucket that is maintained by Modern Health. They process the file
 so the team members can have access to Modern Health.
 
+## Parental leave PTO to BambooHR
+From 2020-12-18 we will do a daily check to see if any new Parental leave PTO was requested for the day before on PTO by Roots. If there are any PTO events created on that day, we will add 3 employment statuses to the team member's BambooHR profile:
+- One with the status `Parental Leave` with the date the start date of the PTO event
+- One with the status `End of Parental Leave` with the date the end of the PTO event
+- One with the status `Active` with the date the end date of the PTO event + 1
+
 ## CI Job Families
 
 Whenever a merge request is created on the [www-gitlab-com](<a href="https://gitlab.com/gitlab-com/www-gitlab-com/">https://gitlab.com/gitlab-com/www-gitlab-com/</a>) project, we run the following pipeline related to job families:
