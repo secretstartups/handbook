@@ -38,10 +38,11 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 
 #### Active Communities of Practice
 
-| Subject                             | Members                                                                                                                                                                   |
+| Subject                             | Facilitator                                                                                                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infrastructure As Code              | [@DarwinJS](https://gitlab.com/DarwinJS), [@jsandlin](https://gitlab.com/jsandlin), [@jrandazzo](https://gitlab.com/jrandazzo)                                                                                                                                            |
-| Gitlab/VMware TKGI (PKS) deployment | [@samer.akkoub](https://gitlab.com/samer.akkoub)                                                                                                                                                             |
+| Gitlab/VMware TKGI (PKS) deployment | [@samer.akkoub](https://gitlab.com/samer.akkoub) |     
+| Advanced Pipelines                  |  [@juliebyrne](https://gitlab.com/juliebyrne) |
 
 #### Suggested Communities of Practice
 
