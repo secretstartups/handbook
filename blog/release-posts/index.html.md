@@ -73,7 +73,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 
 ### Release Post Manager
 
-Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published. 
+Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published.
 
 Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
@@ -96,7 +96,7 @@ whole process. If you take it, you're responsible for the entire process and mus
 available to carry it out until the end.
 {:.alert .alert-warning}
 
-#### Release Post Manager Shadow 
+#### Release Post Manager Shadow
 
 Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
@@ -105,11 +105,11 @@ Shadows should remain engaged with the release process by:
 * Attending the weekly standups
 * Assist the Release Post Manager with content reviews and any other tasks they ask for help on
 
-In order to properly onboard the shadow, the Release Post Manager should: 
+In order to properly onboard the shadow, the Release Post Manager should:
 
 * Set up an initial coffee chat with your shadow the week after the previous release ships to get to know each other and clarify any initial questions from the shadow
-* Point the shadow to this page 
-* Include the shadow in the initial release post MR creation 
+* Point the shadow to this page
+* Include the shadow in the initial release post MR creation
 * Include the shadow on all meetings and as much as possible on activities like reviews or other opportunities where you can work synchronously together
 
 Remember - the goal of the shadow is to get them engaged and aware of the process so they can run one on their own. Include the shadow as much as possible so they can learn and be prepared!
@@ -119,7 +119,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Supporting and checking in with the TW lead and Messaging lead via Slack and a brief weekly standup
-- Including the Release Post Manager Shadow as much as possible on activities 
+- Including the Release Post Manager Shadow as much as possible on activities
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
@@ -181,7 +181,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
    1. In `sites/marketing/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
 1. On `release-X-Y` branch, create the release post data directory, to which features and other data will be added:
-   1. Create a new directory `X_Y` in the `data/release_posts` directory. 
+   1. Create a new directory `X_Y` in the `data/release_posts` directory.
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
    1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
    1. Edit [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) and change the GitLab version, and the link of the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
@@ -221,17 +221,24 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
 **Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions) or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
 {:.alert .alert-info}
 
-Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. 
+Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated.
 
 1. Open a terminal window and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
 1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
 
-**How do I know if I already have a Ruby Version Manager installed?** 
+**How do I know if I already have a Ruby Version Manager installed?**
 
-1. Open a terminal window and type `which asdf` or `which rbenv` or `which rvm` 
-1. If the output is something other than `asdf not found` or `rbenv not found` or `rvm not found` then you likely have one of these installed. A path to one of those tools is returned to the screen if a Ruby version manager is installed.
+Open a terminal window, and then run one of these commands:
 
-**What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar. 
+- `which asdf`
+- `which rbenv`
+- `which rvm`
+
+If the returned output is something other than `asdf not found`, `rbenv not found`,
+or `rvm not found`, you probably have one of these installed. A path to one of
+those tools is returned to the screen if a Ruby version manager is installed.
+
+**What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar.
 
 #### Content assembly: merging release post items (content blocks) to your branch
 
@@ -269,9 +276,9 @@ If for some reason `bin/release-post-assemble` fails use the following steps to 
 
 #### Communication
 
-The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration. 
+The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
 
-The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example: 
+The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
 
 - Make a clear, descriptive statement of what's being shared and why
 - If you need someone to take an action, say so explicity and tag that person
@@ -437,7 +444,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 - PM notifies the RPM to merge (for option 1 and 3) or just review (for option 2).
 - If the release post item is a top feature or part of the release post theme, the RPM and Messaging Lead will work together to update the release post.
 
-For options 1 and 3 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlabs-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
+For options 1 and 3 above, see documentation [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlab-release-posts) for instructions of how to create an MR on a release branch or how to rebase.
 
 #### Accountability
 
@@ -782,7 +789,7 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 
 #### Links to external blogs
 
-The introduction or other parts of the release post written may include links to external blogs posts. These links may be broken till the 21st but should still  be flagged by the TW lead during structural check so the Release post manager and Messaging lead  don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd. 
+The introduction or other parts of the release post written may include links to external blogs posts. These links may be broken till the 21st but should still  be flagged by the TW lead during structural check so the Release post manager and Messaging lead  don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd.
 
 ### TW Reviewers
 
@@ -849,7 +856,7 @@ Examples of previous release post intros written by PMM:
 
 #### Linking to external blogs
 
-The introduction or other parts of the release post written by the Messaging lead may include links to external blogs posts. It is important that the Messaging lead coordinates with authors of these external blogs to make sure they're live before the release post manager pushes the release post blog live on the 22nd. 
+The introduction or other parts of the release post written by the Messaging lead may include links to external blogs posts. It is important that the Messaging lead coordinates with authors of these external blogs to make sure they're live before the release post manager pushes the release post blog live on the 22nd.
 
 ### CTA
 
@@ -1337,7 +1344,7 @@ For entries that support Markdown, use regular [Markdown Kramdown](/handbook/mar
   - If the original image already has shadow applied, don't use `{:.shadow}`.
   - If you're inserting the image in the YAML file via `image_url` entry, add the `image_noshadow: true` [entry](#feature-blocks) right after `image_url`.
 - {:#social-sharing-image} **Social sharing image**:
-  It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. This is fulfillled by adding the [cover image](#cover-image) to the release post. 
+  It's required to add a [social sharing image](../index.html#social-media-info) to the blog post. It is the image that will display on social media feeds (and Slack) whenever the link to the post is shared. This is fulfillled by adding the [cover image](#cover-image) to the release post.
 
 #### Videos
 
