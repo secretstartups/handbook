@@ -16,6 +16,10 @@ These best practices are iterative and will continuously update. As the LXP impl
 
 If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
+If you're just getting started with the EdCast platform, watch this short overview of the user experience in the platform and how new learning content fits into this design.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hm7SLOiV08o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Creating new learning content
 
@@ -138,6 +142,7 @@ Engage learners in groups using the following practices
 
 Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest
 
+1. Use Channels to share content with a wider audience. For example, if the L&D team created a training on effective communication for the GitLab team and assigned it to the GitLab team group, the same content could be shared on a Remote Communication Channel so the wider community could train on this course as well
 1. Channels should have a clear title and description that defines what content the user will find in the channel
 1. SmartCards, Pathways, and Journeys can be shared to channels upon creation or can be added to relevant channels later on
 1. Channels can have multiple curators to encourage collaboration and content sharing
