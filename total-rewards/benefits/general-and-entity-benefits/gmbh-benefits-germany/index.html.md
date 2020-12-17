@@ -15,7 +15,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Specific to Employees Based in Germany
 
-Currently, GitLab does not provide additional benefits over and above the mandatory state requirements. [General GitLab benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-benefits) still apply. As part of the [guiding principles](/handbook/total-rewards/benefits/#guiding-principles) this will be reviewed.
+Currently, GitLab does not provide additional benefits over and above the mandatory state requirements. [General GitLab benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/) still apply. As part of the [guiding principles](/handbook/total-rewards/benefits/#guiding-principles) this will be reviewed.
 
 ## German Social Security System
 

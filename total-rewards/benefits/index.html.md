@@ -11,7 +11,7 @@ description: Find answers to your questions about GitLab's benefits.
 {:toc .hidden-md .hidden-lg}
 
 ## Related Benefits Pages
-* [General & Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits)
+* [General & Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/)
 * [Modern Health](/handbook/total-rewards/benefits/modern-health)
 * [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey)
 * [Resources for COVID-19](/handbook/total-rewards/benefits/covid-19)
@@ -64,7 +64,7 @@ When establishing a new co-employer or entity we will outline the following bene
 1. Pension
 1. Life Insurance
 
-We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) page.
+We do not have specific budgets around benefit costs, but instead look to increasing the ability to recruit and retain team members in favorable locations. We do not take a global approach to offering the same benefits in all countries, but will transparently outline why we do or do not offer the above benefits on their respective [entity specific benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits) page.
 
 ## Knowledge Assessment
 
