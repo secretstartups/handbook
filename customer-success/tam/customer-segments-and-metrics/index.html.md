@@ -5,11 +5,11 @@ title: "Customer Segments & Associated Metrics"
 
 ## Overview
 
-The following outlines the customer segments supported by the Technical Account Management organization, and the metrics for success for each segment:
+The following outlines the customer segments supported by the Technical Account Management organization and the metrics for success for each segment:
 
 ## TAM-Assigned Segment
 
-These accounts are those that pay >50k ARR, and are assigned a priority through TAM/SAL + [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)  alignment to ensure the strategic focus is aligned with outcomes.
+These accounts are those that pay >50k ARR and are assigned a priority through TAM/SAL + [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)  alignment to ensure the strategic focus is aligned with outcomes.
 
 #### Align
 
@@ -23,7 +23,7 @@ Completed EBRs in minimum 75% of PR 1 accounts.  These strategic touchpoints ens
 
 #### Enable
 
-The primary objective in enabling our customers is to get to value quickly, and to ensure that any roadblocks to adoption are removed for our customers.  These roadblocks can best be seen in our Time to 1st Value metric, whereby customers are delayed in inviting users in to their instance if stuck on setup and rollout issues.  As product analytics become available within Gainsight, these metrics will mature into being initial onboarding and stage maturity.
+The primary objective in enabling our customers is to get to value quickly, and to ensure that any roadblocks to adoption are removed for our customers.  These roadblocks can best be seen in our Time to 1st Value metric, whereby customers are delayed in inviting users into their instance if stuck on setup and rollout issues.  As product analytics become available within Gainsight, these metrics will mature into being initial onboarding and stage maturity.
 
 1. Metric: [Time to first engage](/handbook/customer-success/tam/onboarding/#time-to-engage) (14 days, moving to 10 days in FY22): Requires a smooth transition from pre to post sales, ensuring that the TAM is set up to quickly move the customer from pre-sales POV state to post-sales full instance established
 1. Metric: [Time to 1st Value](/handbook/customer-success/tam/onboarding/#time-to-first-value) (30 days) Indicates challenges in the account if not met in regard to initial roll-out; speaks to the success of the TAM in ensuring initial adoption roadblocks are removed
@@ -45,11 +45,11 @@ These accounts are 20-50k in ARR OR have lesser ARR and high [LAM](/handbook/sal
 
 One of the key outputs of this program is a Success Plan that goes beyond feature adoption, enabling a SAL or AE to engage with the customer in their post-onboarding checkpoints around desired business outcomes.
 
-1. Metric: Completed Success Plan per Scale-completed customer to drive SAL/AE account planning and growth initiatives
+1. Metric: Completed Success Plan per onboarding-completed customer to drive SAL/AE account planning and growth initiatives
 
 #### Enable
 
-The primary focus of this program is to improve Time to 1st Value ensuring that initial roadblocks to adoption are removed, and to avoid poor initial set-up scenarios where use cases then fail and the GitLab platform is blamed. In the end of scale hand-off, the TAM ensures that the customer knows where to go to find what they need to be successful (Docs, HB, Support, Sales).  This program is positioned as a weekly touchpoint (call) for 6 weeks, ensuring that the customer can quickly move to full-use case adoption.
+This program's primary focus is to improve Time to 1st Value, removing initial roadblocks to adoption and avoiding poor initial set-up scenarios where use cases then fail and the GitLab platform is blamed. In the onboarding hand-off, the TAM ensures that the customer knows where to find what they need to be successful (Docs, HB, Support, Sales) and that the SAL or AE is given a strategic success plan to drive their future touchpoints.  This program is positioned as a weekly touchpoint (call) for six weeks, ensuring that the customer can quickly move to full-use case adoption.
 
 1. Metric (leading): [Time to First Value](/handbook/customer-success/tam/onboarding/#time-to-first-value) as articulated above
 1. Metric (lagging): Gross Retention (ensured through successful set-up and activation)
