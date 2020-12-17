@@ -10,7 +10,7 @@ Currently the digital onboarding sequence is available to paying customers in Co
 To add a contact please follow these steps:
 1. Find the relevant contact in Salesforce
 1. Edit the 'Role' field 
-1. Scroll through the picklist and select 'Technical' 
+1. Scroll through the picklist and select 'GitLab Admin' 
 1. Save 
 
 ## Process Following Contact Role Assignment:
