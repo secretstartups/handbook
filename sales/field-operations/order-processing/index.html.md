@@ -866,6 +866,12 @@ Note: This policy is supplemental to the other booking requirements listed on th
 
 **How can I determine whether a customer requires POs?**
 
+**For new customers:**
+
+New business transactions for net new customers will require validation from the customer. Prior to closing a new business deal, Sales should validate with the customer whether they will issue a PO for the transaction and provide this information upon submitting the opportunity for approval. In addition, Sales should confirm with the customer whether there are any related special billing requirements prior to deal closure. 
+
+**For existing customers:** 
+
 This information can be reviewed in several places within Salesforce:
 
 1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO. If the field is marked as "NO" or if the field is blank, the customer does not require a PO.
