@@ -273,6 +273,23 @@ The guidelines below are general guidelines and recommendations. However, *each 
 
 We hope to increase the scope of our communication company-wide as we iterate on the Performance/Potential Matrix process and continue to define criteria and receive feedback after the first iteration in Q4 FY21.
 
+## Promotions During Assessment Cycle
+
+For the Q4 FY'21 performance factor assessment round, assessments were calibrated and finalized from October - early December 2020. As different divisions and departments took different approaches with different timelines, dates that performance factors were finalized vary.
+
+This can impact promotions in two ways:
+
+1. **If team members were promoted _after_ assessments were finalized for their groups, the pre-promotion performance assessment will remain.** 
+    * For example, if a Product Manager is promoted to Senior Product Manager during the talent assessment period _after_ performance factor assessments are finalized, their performance factor would remain the same. Their performance would then be reassesed at the newly promoted level for the next talent assessment round (Q2 or Q4). 
+1. **If team members were promoted _before_ assessments were finalized for their groups, the pre-promotion performance assessment will be reflective of their new role.** 
+    * For example, if a Backend Engineer is promoted to Senior Backend Engineer during the talent assessment period _before_ performance factor assessments are finalized, their performance factor would be re-evaluated based on the role and responsibility expectations against the Senior Backend Engineer role. 
+
+It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**. 
+
+Moving forward, we will align at the company level on a final assessment date for consistency. For this first iteration, if you have questions about specific dates during which finalization of ratings for your group occurred, please reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) or manager. 
+
+
+
 ## Best Practices for Communicating Performance Factors
 
 After calibration sessions are done and performance factors are determined, it’s time to communicate the final results with team members (after you have been notified that they have been approved by the E-Group). **Please refrain from communicating Performance factors until approval through the E-group level is communicated.** Having an extensive conversation on performance with your team members is a great way to set them up for success going forward. We also want to take the opportunity to give them a perspective on their career development. Below we will take you through some of the best practices, but remember, if you are even in doubt please reach out to your manager or [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for support. 
@@ -387,6 +404,8 @@ Regardless if your organization assessed potential, it is ok for you to discuss 
     * There are many things that a team member might do to change their potential rating in the future. Talk with your manager about how you might be able to develop a plan to take on more complex projects or learn a new skill. Do you currently possess all the skills needed for your current role? Have you identified what skills you’d like to learn and develop in? Have you determined what your career goals are and are you actively working towards those goals? These are some discussion questions that might help you and your manager align on a future plan for growth in potential. 
 * **My team member is currently on a performance remediation plan; how should I handle?**
     *  You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
+* **My team member has recently been promoted - but we assessed the Performance prior to the promotion. How do I communicate that to the team member?**
+    *  We recognise a timing of a promotion can sometimes coincide with a promotion. It's important to discuss with the team member whether the performance assessment was based on the previous or new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase and therefore a **promotion "resets" the performance factor evaluation** if assessed prior to the promotion. With the promotion the job responsibilities and scope can change significantly, therefore a new assessment should be made at the next talent assessment period. We would recommend to review the job responsibilities of the new role and identify focus points for growth in the new role. 
  
 
 ## Succession Planning
