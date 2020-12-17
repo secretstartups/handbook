@@ -17,15 +17,13 @@ turning an idea into something that offers customer value. Note that it's also i
 open source contributions at any point in the process from the wider GitLab community - these won't
 necessarily follow this process.
 
-This page is an evolving description of how we expect our cross-functional development teams to work, and reflects the current process being used. All required steps in this development flow are denoted as follows:
+This page is an evolving description of how we expect our cross-functional development teams to work, and reflects the current workflow being leveraged. All required actions or outcomes in this page are denoted as follows:
 
-> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Denotes a required aspect of the product development workflow.
+> <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Denotes a required aspect of the product development flow.
 
-Feature development is expected to pass through all required phases, while the rest of the development flow should be considered a set of best practices and tools to aid with completing these phases.
+Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the  workflow should be considered a set of best practices, tools, and recommendations. The goal of this page is to support teams in their workflows by highlighting  **outcomes** target for each phase as well as  sharing strategies/tactics, **activites**, teams can employ to achieves the outcomes. Addtinally, this page aims to clarify the minimal set of required actions, such as labels, needed across all phases to keep the the product system efficient in terms of tracking, searching and cross-functional colloaboration.  
 
-The goal is to have this page be the single source of truth, but it will take time to eliminate duplication elsewhere in the handbook. In the meantime, whenever there are conflicts, this page takes precedence.
-
-Because this page needs to be concise and consistent, be sure to follow the prescribed [change process](#editing-this-page).
+We welcome MRs to this page! Because this page needs to be concise and consistent, plese be sure to follow the [change process](#editing-this-page).
 
 ## But Wait, Isn't This Waterfall?
 
