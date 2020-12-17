@@ -632,7 +632,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. Updated the Role, Team and License Type. These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
 1. Click the **Send Invites** button to invite the user to Chorus.
 
-Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener.
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
 ### DataFox
 
