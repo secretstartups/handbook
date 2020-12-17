@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Quality Engineering Guidelines"
-description: "High-level directives on how we carry out operations and solve challenges in the Quality Engineering Department at GitLab"
+title: Quality Engineering Guidelines
+description: >-
+  High-level directives on how we carry out operations and solve challenges in
+  the Quality Engineering Department at GitLab
 ---
 
 ## On this page
@@ -13,22 +15,25 @@ description: "High-level directives on how we carry out operations and solve cha
 Guidelines are high-level directives on how we carry out operations and solve challenges in the Quality Engineering department.
 
 #### Child Pages
+
 ##### [Reliable tests](/handbook/engineering/quality/guidelines/reliable-tests/)
+
 ##### [Debugging QA Test Failures](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/)
+
 ##### [Tips and Tricks](/handbook/engineering/quality/guidelines/tips-and-tricks/)
 
 ## Weights
 
 We use Fibonacci Series for weights and limit the highest number to 8. The definitions are as below:
 
-| Weight      | Description                                                                                                                                                                               |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 - Trivial | Simple and quick changes (e.g. typo fix, test tag update, trivial documentation additions)                                                                                                |
-| 2 - Small   | Straight forward changes, no underlying dependencies needed. (e.g. new test that has existing factories or page objects)                                                                  |
-| 3 - Medium  | Well understood changes with a few dependencies. Few surprises can be expected. (e.g. new test that needs to have new factories or page object / page components)                        |
-| 5 - Large   | A task that will require some investigation and research, in addition to the above weights (e.g. Tests that need framework level changes which can impact other parts of the test suite)  |
-| 8 - X-large | A very large task that will require much investigation and research. Pushing initiative level                                                                                             |
-| 13 or more  | Please break the work down further, we do not use weights higher than 8.                                                                                                                  |
+| Weight | Description |
+| ------ | ----------- |
+| 1 - Trivial | Simple and quick changes (e.g. typo fix, test tag update, trivial documentation additions) |
+| 2 - Small | Straight forward changes, no underlying dependencies needed. (e.g. new test that has existing factories or page objects) |
+| 3 - Medium | Well understood changes with a few dependencies. Few surprises can be expected. (e.g. new test that needs to have new factories or page object / page components) |
+| 5 - Large | A task that will require some investigation and research, in addition to the above weights (e.g. Tests that need framework level changes which can impact other parts of the test suite) |
+| 8 - X-large | A very large task that will require much investigation and research. Pushing initiative level |
+| 13 or more | Please break the work down further, we do not use weights higher than 8. |
 
 ## Submitting and Reviewing code
 
@@ -39,25 +44,25 @@ For test automation only changes, the Quality Department alone is adequate to re
 
 ## Test Automation & Planning
 
-* **Test plans as collaborative design document**: Test Plans as documented in [Test Engineering](/handbook/engineering/quality/test-engineering/) are design documents that aim to flush out optimal test coverage.
+- **Test plans as collaborative design document**: Test Plans as documented in [Test Engineering](/handbook/engineering/quality/test-engineering/) are design documents that aim to flush out optimal test coverage.
 It is expected that engineers in every cross-functional team take part in test plan discussions.
-* **E2E test automation is a collective effort**: [SET]s should not be the sole responsible party that automates the End-to-end tests.
+- **E2E test automation is a collective effort**: [SET]s should not be the sole responsible party that automates the End-to-end tests.
 The goal is to have engineers contribute and own coverage for their teams.
-* **We own test infrastructure**: Test infrastructure is under our ownership, we develop and maintain it with an emphasis on ease of use, ease of debugging, and orchestration ability.
-* `Future` **Disable feature by default until E2E test merged**: If a feature is to be merged without a QA test,
+- **We own test infrastructure**: Test infrastructure is under our ownership, we develop and maintain it with an emphasis on ease of use, ease of debugging, and orchestration ability.
+- `Future` **Disable feature by default until E2E test merged**: If a feature is to be merged without a QA test,
 it **must** be behind a feature flag (disabled by default) until a QA test is written and merged as well.
 
 ## Test Failures
 
-* **Fix failing test in `master` first**: [Failing tests on `master` are treated as the highest priority](/handbook/engineering/workflow/#broken-master).
-* **Flaky tests are quarantined until proven stable**: A flaky test is as bad as no tests or in some cases worse due to the effort required to fix or even re-write the test.
+- **Fix failing test in `master` first**: [Failing tests on `master` are treated as the highest priority](/handbook/engineering/workflow/#broken-master).
+- **Flaky tests are quarantined until proven stable**: A flaky test is as bad as no tests or in some cases worse due to the effort required to fix or even re-write the test.
 As soon as detected it is quarantined immediately to stabilize CI, and then fixed as soon as possible, and monitored until it is fixed.
-* **Close issue when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
-* **Quarantine issues should be assigned and scheduled**: To ensure that someone is owning the issue, it should be assigned with a milestone set.
-* **Make relevant stage group aware**: When a test fails no matter the reason, an issue should be created and made known to the relevant product stage group as soon as possible.
+- **Close issue when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
+- **Quarantine issues should be assigned and scheduled**: To ensure that someone is owning the issue, it should be assigned with a milestone set.
+- **Make relevant stage group aware**: When a test fails no matter the reason, an issue should be created and made known to the relevant product stage group as soon as possible.
 In addition to notifying that a test in their domain fails, enlist help from the group as necessary.
-* **Failure due to bug**: If a test failure is a result of a bug, link the failure to the bug issue. It should be fixed as soon as possible.
-* **Everyone can fix a test, the responsibility falls on the last who worked on it**: Anyone can fix a failing/flaky test, but to ensure that a quarantined test isn't ignored,
+- **Failure due to bug**: If a test failure is a result of a bug, link the failure to the bug issue. It should be fixed as soon as possible.
+- **Everyone can fix a test, the responsibility falls on the last who worked on it**: Anyone can fix a failing/flaky test, but to ensure that a quarantined test isn't ignored,
 the last engineer who worked on the test is responsible for taking it out of [quarantine](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/README.md#quarantined-tests).
 
 ### Debugging Test Failures
@@ -68,13 +73,13 @@ See [Debugging QA Pipeline Test Failures](/handbook/engineering/quality/guidelin
 
 Test failure priorities are defined as follow:
 
-* ~priority::1: Tests that are needed to verify fundamental GitLab functionality.
-* ~priority::2: Tests that deal with external integrations which may take a longer time to debug and fix.
+- ~priority::1: Tests that are needed to verify fundamental GitLab functionality.
+- ~priority::2: Tests that deal with external integrations which may take a longer time to debug and fix.
 
 ## Building as part of GitLab
 
-* **GitLab features first**: Where possible we will implement the tools that we use as GitLab features.
-* **Build vs buy**: If there is a sense of urgency around an area we may consider buying/subscribing to a service to solve our Quality challenges in a timely manner.
+- **GitLab features first**: Where possible we will implement the tools that we use as GitLab features.
+- **Build vs buy**: If there is a sense of urgency around an area we may consider buying/subscribing to a service to solve our Quality challenges in a timely manner.
 This is where building as part of GitLab is not immediately viable. An issue will be created to document the decision making process in our [team task](https://gitlab.com/gitlab-org/quality/team-tasks) issue tracker.
 This shall follow our [dogfooding](/handbook/engineering#dogfooding) process.
 
@@ -91,70 +96,65 @@ and for [specific instructions on how to do an appropriate level of investigatio
 
 ### Responsibility
 
-* The Friday before the new rotation begins, one of the Quality Engineering Managers will create an issue in the [pipeline-triage](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/new?issuable_template=Pipeline%20Triage%20Report) project.
-* The Quality Engineering Manager also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week.
-* During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
-* Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
-* If there is a time constraint, the [DRI] should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the [DRI] will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
-* Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new  ~severity::1 regressions are found in non-reliable/smoke specs.
-* It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the [DRI] is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
-* Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
-* Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
-* Every day the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615).  This serves as an asynchronous handoff to the DRI in the other timezone.
-* Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
+- The Friday before the new rotation begins, one of the Quality Engineering Managers will create an issue in the [pipeline-triage](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/new?issuable_template=Pipeline%20Triage%20Report) project.
+- The Quality Engineering Manager also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week.
+- During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
+- Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
+- If there is a time constraint, the [DRI] should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the [DRI] will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
+- Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new ~severity::1 regressions are found in non-reliable/smoke specs.
+- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the [DRI] is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
+- Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
+- Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
+- Every day the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
+- Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
 
 ### Schedule
 
-**August 2020 | September 2020 | October 2020 | November 2020 | December 2020**
+**November 2020 | December 2020 | January 2021 | February 2021**
 
-| **Start Date** | **[DRI]**                                                         | **Secondary**                                                     |
-| -------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 2020-08-03     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br>  APAC: [Anastasia McDonald]             |
-| 2020-08-10     | AMER: [Jennie Louie] <br>  APAC: [Anastasia McDonald]             | AMER: [Chloe Liu] <br> EMEA: [Grant Young]                        |
-| 2020-08-17 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] |
-| 2020-08-24     | AMER: [Chloe Liu] <br> EMEA: [Grant Young]                        | AMER: [Dan Davison] <br> APAC: [Mark Lapierre]                    |
-| 2020-08-31     | AMER: [Dan Davison] <br> APAC: [Mark Lapierre]                    | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        |
-| 2020-09-07     | AMER: [Erick Banks] <br> EMEA: [Will Meek]                        | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               |
-| 2020-09-14 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] |
-| 2020-09-21     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         |
-| 2020-09-28     | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    |
-| 2020-10-05     | AMER: [Tiffany Rea] <br> APAC: [Mark Lapierre]                    | AMER: [Zeff Morgan] <br> EMEA: [Nick Westbury]                    |
-| 2020-10-12 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Vincy Wilson] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] |
-| 2020-10-19     | AMER: [Zeff Morgan] <br> EMEA: [Nick Westbury]                    | AMER: [Dan Davison] <br> EMEA: [Grant Young]                      |
-| 2020-10-26     | AMER: [Dan Davison] <br> EMEA: [Will Meek]                        | AMER: [Erick Banks] <br> EMEA: [Sofia Vistas]                     |
-| 2020-11-02     | AMER: [Erick Banks] <br> EMEA: [Sofia Vistas]                     | AMER: [Jennie Louie] <br> EMEA: [Tomislav Nikić]                  |
-| 2020-11-09     | AMER: [Jennie Louie] <br> EMEA: [Tomislav Nikić]                  | AMER: [Chloe Liu] <br> EMEA: [Will Meek]                          |
-| 2020-11-16 <br> (Planning week) | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Tanya Pazitny] | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] |
-| 2020-11-23     | AMER: [Chloe Liu] <br> APAC: [Anastasia McDonald]                 | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               |
-| 2020-11-30     | AMER: [Nailia Iskhakova] <br> APAC: [Sanad Liaquat]               | AMER: [Désirée Chevalier] <br> APAC: [Anastasia McDonald]         |
-| 2020-12-07     | AMER: [Désirée Chevalier] <br> EMEA: [Grant Young]                | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    |
-| 2020-12-14 <br> (Planning week) | APAC [EPE]: [Albert Salim] <br> EMEA [EPE]: [Mark Fletcher] <br> AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br> EMEA [EPE]: [Rémy Coutable] <br> AMER [QEM]: [Joanna Shih] |
-| 2020-12-21     | AMER: [Zeff Morgan] <br> APAC: [Mark Lapierre]                    | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    |
-| 2020-12-28     | AMER: [Tiffany Rea] <br> EMEA: [Nick Westbury]                    | AMER: [Jennie Louie] <br> EMEA: [Grant Young]                     |
-
+| **Start Date** | **[DRI]** | **Secondary** |
+| ---------- | ----- | --------- |
+| 2020-11-02 | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas] | AMER: [Jennie Louie] <br>EMEA: [Tomislav Nikić] |
+| 2020-11-09 | AMER: [Jennie Louie] <br>EMEA: [Tomislav Nikić] | AMER: [Chloe Liu] <br>EMEA: [Will Meek] |
+| 2020-11-16<br>(Planning week) | APAC [EPE]: [Jen-Shin Lin] <br>EMEA [EPE]: [Rémy Coutable] <br>AMER [QEM]: [Tanya Pazitny] | APAC [EPE]: [Albert Salim] <br>EMEA [EPE]: [Mark Fletcher] <br>AMER [QEM]: [Kyle Wiebers] |
+| 2020-11-23 | AMER: [Chloe Liu] <br>APAC: [Anastasia McDonald] | AMER: [Nailia Iskhakova] <br>APAC: [Sanad Liaquat] |
+| 2020-11-30 | AMER: [Nailia Iskhakova] <br>APAC: [Sanad Liaquat] | AMER: [Désirée Chevalier] <br>APAC: [Anastasia McDonald] |
+| 2020-12-07 | AMER: [Désirée Chevalier] <br>EMEA: [Grant Young] | AMER: [Zeff Morgan] <br>APAC: [Mark Lapierre] |
+| 2020-12-14<br>(Planning week) | APAC [EPE]: [Albert Salim] <br>EMEA [EPE]: [Rémy Coutable] <br>AMER [QEM]: [Kyle Wiebers] | APAC [EPE]: [Jen-Shin Lin] <br>EMEA [EPE]: [Mark Fletcher] <br>AMER [QEM]: [Joanna Shih] |
+| 2020-12-21 | AMER: [Zeff Morgan] <br>APAC: [Mark Lapierre] | AMER: [Tiffany Rea] <br>APAC:[Sanad Liaquat] |
+| 2020-12-28 | AMER: [Tiffany Rea] <br>APAC:[Sanad Liaquat] | AMER:[Kyle Wiebers] (28-29) <br>APAC: [Ramya Authappan] |
+| 2021-01-04 | AMER:[Jennie Louie] <br>EMEA: [Nick Westbury] | AMER: [Dan Davison] <br>EMEA: [Grant Young] |
+| 2021-01-11 | AMER: [Dan Davison] <br>EMEA: [Grant Young] | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas] |
+| 2021-01-18 | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas] | AMER: [Nailia Iskhakova] <br>EMEA: [Tomislav Nikić] |
+| 2021-01-25 | AMER: [Nailia Iskhakova] <br>EMEA: [Tomislav Nikić] | AMER: [Chloe Liu] <br>EMEA: [Will Meek] |
+| 2021-02-01 | AMER: [Chloe Liu] <br>EMEA: [Will Meek] | AMER: [Désirée Chevalier] <br>APAC: [Anastasia McDonald] |
+| 2021-02-08 | AMER: [Désirée Chevalier] <br>APAC: [Anastasia McDonald] | AMER: [Zeff Morgan] <br>APAC: [Mark Lapierre] |
+| 2021-02-15 | AMER: [Zeff Morgan] <br>APAC: [Mark Lapierre] | AMER: [Tiffany Rea] <br>APAC:[Sanad Liaquat] |
+| 2021-02-22 | AMER: [Tiffany Rea] <br>APAC:[Sanad Liaquat] | AMER:[Jennie Louie] <br>EMEA: [Nick Westbury] |
 
 ### Responsibilities of the DRI and Secondary for scheduled pipelines
-* The [DRI] does the [triage](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart [SET] know of the failure.
-* The [DRI] makes the call whether to fix or quarantine the test.
-* The fix/quarantine MR should be reviewed by either the Secondary or the counterpart [SET] (based on whoever is available). If both of them are not available immediately, then any other [SET] can review the MR.  In any case, both the Secondary and the counterpart [SET] are always CC-ed in all communications.
-* The [DRI] should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name[]=QA&label_name[]=bug) and work on them.
-* If the [DRI] is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the [DRI]'s unavailability during schedule is less than 2 days, the Secondary can help with the tasks.
+
+- The [DRI] does the [triage](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart [SET] know of the failure.
+- The [DRI] makes the call whether to fix or quarantine the test.
+- The fix/quarantine MR should be reviewed by either the Secondary or the counterpart [SET] (based on whoever is available). If both of them are not available immediately, then any other [SET] can review the MR. In any case, both the Secondary and the counterpart [SET] are always CC-ed in all communications.
+- The [DRI] should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name%5B%5D=bug) and work on them.
+- If the [DRI] is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the [DRI]'s unavailability during schedule is less than 2 days, the Secondary can help with the tasks.
 
 ### Responsibilities of the DRI and Secondary for deployment pipelines
-* The [DRI] helps the delivery team debug test failures that are affecting the release process.
-* The Secondary fills in when the [DRI] is not available.
+
+- The [DRI] helps the delivery team debug test failures that are affecting the release process.
+- The Secondary fills in when the [DRI] is not available.
 
 ### Engineering Productivity team rotation and escalation
 
 In order to provide better input during the planning phase of a release, the schedule will include a member of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) during the second week of the month.
 
-* The Engineering Productivity team will use [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) to signal assistance in triaging a failure.
-* The Engineering Productivity team will cover the backup responsibility of the Secondary if the assigned Engineering Productivity Engineer ([EPE]) is not able to fulfill the responsibilities.
+- The Engineering Productivity team will use [#quality](https://gitlab.slack.com/archives/C3JJET4Q6) to signal assistance in triaging a failure.
+- The Engineering Productivity team will cover the backup responsibility of the Secondary if the assigned Engineering Productivity Engineer ([EPE]) is not able to fulfill the responsibilities.
 
 ### New hire on-call shadowing
 
-To help a new hire prepare for their first on-call rotation, they should spend a few days during their first rotation as Secondary DRI shadowing the Primary DRI.  When the new hire is Primary DRI the following week, their Secondary DRI should pair with the new hire for a couple of days to answer questions and help triage/debug test failures.
-
+To help a new hire prepare for their first on-call rotation, they should spend a few days during their first rotation as Secondary DRI shadowing the Primary DRI. When the new hire is Primary DRI the following week, their Secondary DRI should pair with the new hire for a couple of days to answer questions and help triage/debug test failures.
 
 [Albert Salim]: https://about.gitlab.com/company/team/#caalberts
 [Anastasia McDonald]: https://about.gitlab.com/company/team/#a_mcdonald
