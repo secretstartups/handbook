@@ -21,7 +21,7 @@ If you have any feedback or questions about the compensation review cycle, pleas
 GitLab goes through 2 compensation reviews:
 
 1. **Annual Compensation Review** - Happens in the fourth quarter of each year. This is when Compensation Calculator inputs are reviewed and when majority of compensation is reviewed for team members. Any changes will be processed with an effective date of February 1st.
-1. **Catch-up Compensation Review** - For team members hired in November to January. The process starts in August with an effective date of September first.
+1. **Targeted Mid-Year Increase Review** - For team members hired in November to January. The process starts in August with an effective date of September first.
 
 ## Annual Compensation Review
 
@@ -129,7 +129,7 @@ Benchmarking review is an internal process completed by the Total Rewards team t
 1. Ensure the IC, Manager, Director, and Sales benchmark tabs have been updated with our currently used job codes. 
 1. Ensure formulas are in place for each row of the "Radford/Comptryx Job Codes" tab and that the median of the 50th and 75th are properly pulling into the benchmarks tabs. 
 1. Use the `Job Codes` sheet to refresh the current FY21 benchmarks. Compare our current benchmarks to the median of the 50th and 75th of the survey data (depending on the role) and make any recommendations based on market fluctuations. 
-1. Once the new benchmarks are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/job_families.yml).
+1. Once the new benchmarks are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/job_families.yml).
 
 ##### Timing
 
@@ -149,7 +149,7 @@ The location factor review is an internal process completed by the Total Rewards
     1. "Everywhere else" data may need to be reduced to take out the inflated data from the separated out metro area.
     1. "All" data that sees a significant increase may need to have the metro area separated. 
     1. If the formula is overwritten, notate the reasoning why. 
-1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/location_factors.yml). 
+1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml). 
 
 ###### Pulling Survey Data and Matching
 
@@ -224,7 +224,7 @@ This analysis will be conducted at the department level, for each department lea
 ##### Process
 
 The Total Rewards Team will audit with the following data breakdowns (as aligned in our [Identity Data Metrics](https://about.gitlab.com/company/culture/inclusion/identity-data/)): 
-* Ethnicity (only in the United States as we work on adding globally relevant [ethnicity categories to BambooHR](https://gitlab.com/gitlab-com/diversity-and-inclusion/-/issues/347) for self-identification)
+* Ethnicity (only in the United States as we work on adding globally relevant [ethnicity categories to BambooHR](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/347) for self-identification)
 * Tenure 
 * Gender (as self reported in BambooHR)
 * Geographic Region 
@@ -397,7 +397,7 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 
 #### Iterations to Compaas
 
-We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/Compensation/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
 * Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
 * Fields for recommended performance increase, percent change due to benchmark increases, percent change due to location factor increases.
@@ -451,14 +451,20 @@ In FY21, the budget was 6% of all team members as of October 31, 2019. For the n
 **Administering the Promotion Budget Quarterly**
 1. The data team is working to make the promotion budgets available in Sisense.
 
-## Catch-up Compensation Review
+## Targeted Mid-year Increase Review
 
-For team members hired between November 1st and January 31st, participating only in the annual compensation review may mean their compensation is not reassessed for up to 15 months. GitLab has incorporated a catch up review conducted in August for anyone hired in November, December, or January of the previous year. For example, any new hires in Nov 2019 - Jan 2020 would be reviewed in August 2020.
+Team members hired between November 1st and January 31st or team members who did not receive an increase during the most recent annual compensation review due to a recent promotion, compensation adjustment, or for performance may not have their compensation evaluated for more than a year. In order for GitLab to help Managers to be better equipped to retain team members and reward high performers who were not increased during the previous annual compensation review, Managers will be able to recommend team members for targeted mid-year increases.  
 
 During the [annual compensation review](#annual-compensation-review), the budget for these team members is separated out to be used in August. If anyone would fall out of the compensation range, the team member would be adjusted immediately, but this would be deducted from the budget used in August.
 
-This review will only take into account a performance alignment (if any). Team members should not expect an increase, but instead understand that their compensation is being reviewed to ensure alignment to market and performance.
+This review will only take into account a performance alignment (if any). Team members should not expect an increase, but instead understand that their compensation is being reviewed to ensure alignment to market and performance. 
 
-### Catch-up Compensation Review Timeline
+### Manager Process
+
+This section will be updated with more detailed steps in FY22. 
+
+In August, Managers can log into BambooHR and add a compensation adjustment for any eligible team member they would like to propose for an increase. Managers should complete and link the [Mid-year Increase Template](https://docs.google.com/document/d/1gNoCHIhRr0GKRL0L7Pq9UepJDrtIrezaAs1XfgLlZKA/edit?usp=sharing) in the comments of the request. All approved increases will be effective on September 1.
+
+### Targeted Mid-year Increase Review Timeline
 
 To be updated for FY22.
