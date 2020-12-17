@@ -17,7 +17,21 @@ Welcome to the Expenses page!  You should be able to find answers to most of you
 
 GitLab utitilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here.](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close)
 
-As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any reciepts containing personal information should be rejected and sent back to be corrected.
+### Redacting Personal Information from Receipts
+
+As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any reciepts containing personal information should be rejected and sent back to be corrected. Personal information inclues:
+* Your shipping and billing address(es)
+* Your credit card information
+* Your full name
+* Any other data that is personal to you that you would not want publicly known
+
+At a minimum, information about the items/products purchased and the total purchase amount should be visiable so managers can validate the expesnes reimbursement amount requested along with the actual items and total purchase price.
+
+<details>
+<summary>Instructions for redacting information</summary>
+The best way to capture only the necessary receipt information is to take a screenshot of your receipt. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
+
+</details>
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
