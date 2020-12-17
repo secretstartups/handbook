@@ -130,7 +130,11 @@ Each job should only be translating to one language pair. For instance, if you h
 
 Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
 
-Due dates are automatically generated based on the total word-count.
+## Preparing Files
+
+### [CSV](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files)
+
+Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
 
 ### Request a job (Documents)
 
@@ -174,7 +178,7 @@ Total word count (word count of the source file/language, not the translated fil
 
 ### Due Date
 
-Automatically generated based on the word count. Anything under 5,000 words is typically ready in 2 business days.
+Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
 
 ### Document Project Jobs
 
@@ -192,7 +196,7 @@ To download a translated job from the `GitLab Documents` project:
 
 ### Issues
 
-If any strings are rejected from the translation job, those would appear as issues. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. Once the issue is resolved, please mark the issue as `Resolved`.
+If any strings are rejected from the translation job, those would appear as `issues`. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. Once the issue is resolved, please mark the issue as `Resolved`.
 
 ### History
 
@@ -234,5 +238,3 @@ Computer assisted translation tool. This is where all of the translating, editin
 
 1. [Word Count and Processed Words Reports](https://help.smartling.com/hc/en-us/articles/115003148233-Word-Count-and-Processed-Words-Reports)
 1. [Issues Report](https://help.smartling.com/hc/en-us/articles/115003152794-Issues-Report)
-
-
