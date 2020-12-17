@@ -21,7 +21,7 @@ This page is an evolving description of how we expect our cross-functional devel
 
 > <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> Denotes a required aspect of the product development flow.
 
-Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the  workflow should be considered a set of best practices, tools, and recommendations. The goal of this page is to support teams in their workflows by highlighting  **outcomes** target for each phase as well as  sharing strategies/tactics, **activites**, teams can employ to achieves the outcomes. Addtinally, this page aims to clarify the minimal set of required actions, such as labels, needed across all phases to keep the the product system efficient in terms of tracking, searching and cross-functional colloaboration.  
+Feature development is expected to pass through all phases to achieve specified outcomes, while the rest of the  workflow should be considered a set of best practices, tools, and recommendations. The goal of this page is to support teams in their workflows by highlighting  **outcomes** to target for each phase as well as  sharing strategies/tactics, **activities**, teams can employ to achieves the outcomes. Additionally, this page aims to clarify the minimal set of required actions, such as labels, needed across all phases to keep the the product system efficient in terms of tracking, searching and cross-functional collaboration.  
 
 We welcome MRs to this page! Because this page needs to be concise and consistent, plese be sure to follow the [change process](#editing-this-page).
 
