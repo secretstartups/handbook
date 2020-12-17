@@ -28,7 +28,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 
 | Week (estimated)     | Task |
 | ----------- | ----------- |
-| [Weeks 1-2](#first-1-2-weeks) | Call to meet the new Support Engineer, help them get acclimated, answer any general questions they may have, discuss schedules, and share anything they can find useful as they get started.       |
+| [Weeks 1-2](#first-1-2-weeks) | Call to meet the new Support Engineer, help them get acclimated, answer any general questions they may have, discuss schedules, and share anything else they may find useful as they get started.       |
 |   | Open the lines of communication in Slack. Throughout this process, check in with them periodically to see how their onboarding module is progressing and ask if they need help.        |
 | |Call to help them update the team page, support-resources, dev-resources, the GDK, or anything else they may have questions about or trouble with. |
 | [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
