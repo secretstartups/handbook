@@ -56,11 +56,24 @@ Smartling is our localization platform that is used to translate pages on our we
 
 See more details on [Smartling's help article](https://help.smartling.com/hc/en-us/articles/115003066573-User-Permissions) regarding user permissions. 
 
+## Supported Languages
+
+1. French (Europe)
+1. German
+1. Japanese
+1. Russian
+1. Italian
+1. Spanish (LATAM)
+
+## Per-Word Rates
+
+You can access the per-word rates by language in [this Google sheet](https://docs.google.com/spreadsheets/d/1ZRZkfvboxwc-TPUCPvdn8-M_DvGNEGRcwfbxIvSpXMM/edit#gid=0). **Do not share these rates publicly.**
+
 ## Using Smartling 
 
-We currently support French, German, and Japanese languages in Smartling. We are working on adding support for Russian, Italian, and Spanish at an additional cost per language pair. 
+Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. 
 
-Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. If there is no campaign finance tag associated with your job submission, please use the follow naming convention: `Language Abbreviation - Campaign Name - Date`. This is only applicable to the `Documents` project as the `GDN` and `Marketo` job submissions are handled differently. Where possible, please include as much detail as you can.
+Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. If there is no campaign finance tag associated with your job submission, please use the follow naming convention: `Language Abbreviation - Campaign Name - Date`. This is only applicable to the `Documents` project as the `GDN` and `Marketo` job submissions are handled differently. Where possible, please include as much detail as you can.
 
 ### Field Marketing use of Smartling
 
@@ -76,7 +89,27 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 ### Marketo
 
-**Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance.
+The Marketo project is where you will submit Marketo assets (emails, landing pages, forms) to Smartling for translation. The Marketo connector is a mirror-image of our Marketo instance and is updated in real-time.
+
+**Important:** The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. 
+
+When you submit Marketo jobs, the jobs will be available in the general `Jobs` tab in the platform and within the Marketo connector. Marketo jobs will not have the same name as jobs submitted through the `Documents` since these jobs are automated. 
+
+In the right side pane window shows the various Marketo assets that are either approved to be submitting for translation or in draft. Clicking the link icon opens a new tab to login into Marketo to view that particular asset.
+
+You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. **Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases but you will still need to follow the regular process for submitting Marketo jobs through the connector for those other languages. If you were to authorize translation for the other languages on a particular Marketo job in Smartling, it will translate those assets, but it will **not** return them to Marketo per the connector. You must submit any Marketo assets from the connector and not via the jobs menu.
+
+Auto-authorize - automatically approves any Marketo job submission for translation (currently turn off).
+
+When the translation job is complete, Smartling will automatically download those translated assets back to Marketo. The chron scheduler in Smartling looks for completed Marketo jobs every hour and pushes them to Marketo. The original source language asset is not changed, a translated copy is created and the file name is appended with the abbreviated language code (e.g. French = fr).
+
+#### Translation Progress
+
+In the Marketo connector within Smartling, `Translation Progress` will show you all the Marketo jobs submitted for translation. The `Applied` column is a date stamp showing when Smartling pushed that particular asset back to Marketo. If a Marketo translation job is completed and it's still showing up in the `Translation Progress` queue, you can select it from this menu and click the `Export to Marketo` button. Completed Marketo translation will get pushed back to Marketo every hour. The asset should will be pushed to wherever the source file is located within Marketo. It will not overwrite the original file. A translated copy is created and the locale code will be appended to translated asset.
+
+### PathFactory 
+
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
 
 ## Projects
 
@@ -97,7 +130,13 @@ Each job should only be translating to one language pair. For instance, if you h
 
 Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
 
-### Request a job
+## Preparing Files
+
+### [CSV](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files)
+
+Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
+
+### Request a job (Documents)
 
 You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
 
@@ -114,6 +153,17 @@ You can request a translation job either from the main `Jobs` tab in the top nav
 
 All saved jobs must be authorized before they are submitted for translation.
 
+### Request a job (Marketo)
+
+The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
+
+1. Click `Projects` and choose `GitLab - Marketo`.
+1. Click the `Marketo` tab under `Account Settings`.
+1. From the `Translate` drop down, select the type of Marketo asset you wish to translate (snippets, forms, landing pages, emails, programs). 
+1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
+1. Once you have selected the assets you want translated, click the `Request Translation` button. 
+1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
+
 ### Attachments
 
 You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
@@ -128,7 +178,7 @@ Total word count (word count of the source file/language, not the translated fil
 
 ### Due Date
 
-Automatically generated based on the word count. Anything under 5,000 words is typically ready in 2 business days.
+Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
 
 ### Document Project Jobs
 
@@ -146,11 +196,15 @@ To download a translated job from the `GitLab Documents` project:
 
 ### Issues
 
-If any strings are rejected from the translation job, those would appear as issues. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. Once the issue is resolved, please mark the issue as `Resolved`.
+If any strings are rejected from the translation job, those would appear as `issues`. If the translators have any difficulties or questions about the source file, these would appear as issues as well. If an issue is raised on a job, all account owners and project managers for that project will be notified. Translators will wait for a day for a response but will continue the job if no response is provided. Once the issue is resolved, please mark the issue as `Resolved`.
 
 ### History
 
 The `History` tab on a job provides detailed information about the activity that has occured with the job. You also have the option to `Download Translation Activity Report`. The same history is available on the individual string level.
+
+## Provide Translation Feedback for Translation Memory
+
+To provide feedback about a particular translation to store in our [translation memory](#translation-memory), send an email with the translation job and detailed feedback to translations@smartling.com and copy our customer success manager.  
 
 ## Terminology 
 
@@ -184,5 +238,3 @@ Computer assisted translation tool. This is where all of the translating, editin
 
 1. [Word Count and Processed Words Reports](https://help.smartling.com/hc/en-us/articles/115003148233-Word-Count-and-Processed-Words-Reports)
 1. [Issues Report](https://help.smartling.com/hc/en-us/articles/115003152794-Issues-Report)
-
-

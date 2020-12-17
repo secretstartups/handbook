@@ -80,7 +80,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 ## Training
 
-1. [The Path to Understanding: Onboarding Training](https://lp.pathfactory.com/PathFactory-Onboarding.html)
+1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/lm-training-videos)
 1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
@@ -179,7 +179,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Configure Content Track Settings
 
-1. Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset. **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience. If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
+1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset. **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience. If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
 1. Set the appearance for the track. 
 1. Set the language for the track.
@@ -423,19 +423,16 @@ You are able to change the appearance of the following components of a content t
 1. When you are done making changes click `Add Appearance`.
 1. Once you’ve created your `Appearance` groups, you can apply this styling to any of your content tracks. Simply select the appearance group from the drop-down menu under `Experience Settings`.
 
-## Language Configuration
+## PathFactory Localization
 
-The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within Content Tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
+The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within content tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
 
 ### Create a New Language Config
-
-There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. 
 
 1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
 1. Click the `Add Language` button in the top right or in the left sidebar under the other language configurations.
 1. Select the language from the drop down menu.
-1. Create a Google or Word doc and copy/paste the text to translate from each promoter (Bottom Bar, Card, Content Types, etc.). Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign).
-1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling) to submit your doc for translations.
+1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling/#pathfactory) to submit your CSV for translations. Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign). 
 
 ## PathFactory Tracking
 
@@ -537,6 +534,6 @@ There are a variety of analytics and reports available in PathFactory that show 
 
 An iframe, or inline frame, is a tag `<iframe> </iframe>` that is used to embed an HTML document inside another HTML document on a website. The iframe HTML element can be used to insert content from another source, such as an advertisement, into a web page.
 
-PathFactory uses iframes to serve content inside Content Tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
+PathFactory uses iframes to serve content inside content tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
 
 - [About iFrame Blocking](https://nook.pathfactory.com/nook/s/article/about-iframe-blocking)

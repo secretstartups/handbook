@@ -93,3 +93,7 @@ All reports are visible to all users who have access to the account, opportunity
 **Can I export or download this data?**
 
 Engagement data is only available for download from within [PathFactory Analytics](/handbook/marketing/marketing-operations/pathfactory/#pathfactory-analytics), and not via Salesforce.
+
+**Does a content track have to be activated for PathFactory for Sales in order for data to flow through to PathFactory for Sales analytics?**
+
+All content track analytics will appear in PathFactory for Sales even if it is not activated for PathFactory for Sales. 

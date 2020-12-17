@@ -362,6 +362,8 @@ Included on the `event-list-upload` issue template is the `Lead Data: Active` sc
 In Marketo there is a an option to choose trusted or non-trusted sources. Non-trusted sources are for list uploads that we are not confident in the data points given to us. For example, if we are loading a list with inferred country data from IP, we do not want it to overwrite our current location data that is more accurate. Blocking updates allows for a field to be updated if blank, but will not overwrite a field that already has a value.
 
 Here is the list of fields that are blocked during a non-trusted import. If you would like to add more fields, please file an issue with the mops team.
+- First Name
+- Last Name
 - Country
 - City
 - State
