@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: PII Removal Requests
-category: Legal
+category: GitLab.com
+subcategory: Legal
 description: General guide to resolve personally identifiable information removal requests
 ---
 

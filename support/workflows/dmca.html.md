@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: DMCA Removal Requests
-category: Legal
+category: GitLab.com
+subcategory: Legal
 description: "Support Engineering workflow for DMCA requests"
 ---
 
@@ -19,13 +20,13 @@ Read more about the DMCA Workflow here: [Abuse DMCA Request](/handbook/engineeri
 
 ## Submitting a DMCA Request
 
-All new `DMCA` requests can be sent to dmca@gitlab.com for review by Legal and Abuse. 
+All new `DMCA` requests can be sent to dmca@gitlab.com for review by Legal and Abuse.
 
-The Abuse team will continue to maintain a single channel of communication with the requestor through the open `Abuse Issue` created when the request is received via dmca@gitlab.com. 
+The Abuse team will continue to maintain a single channel of communication with the requestor through the open `Abuse Issue` created when the request is received via dmca@gitlab.com.
 
 ## DMCA Requirements
 
-Recommended template of requirements when submitting a DMCA request to dmca@gitlab.com 
+Recommended template of requirements when submitting a DMCA request to dmca@gitlab.com
 
 1.  A description of the copyrighted work that you claim is being infringed;
 
@@ -39,6 +40,6 @@ Recommended template of requirements when submitting a DMCA request to dmca@gitl
 
 6.  An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
-## GitLab.com 
+## GitLab.com
 
 Read more about [DMCA Policy](/handbook/dmca/)

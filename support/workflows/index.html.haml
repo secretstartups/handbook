@@ -2,23 +2,25 @@
 layout: default
 title: Support Workflows
 ---
+
 - pages = sitemap.resources.select { |resource| resource.path.start_with?("handbook/support/workflows")  }
-- pages = pages.reject {|page| page.data.category.nil?}.group_by { |page| page.data.category }.sort_by { |category| category }
+- pages = pages.reject { |page| page.data.category.nil? }.group_by { |page| page.data.category }.sort_by { |category| category }
 
-%ol.breadcrumb
-  %li You are here:
-  = breadcrumbs(current_page)
-  = partial "includes/layout/handbook_search.html.haml"
+.wrapper.sidebar-layout-wrapper.clearfix
+  %aside.tocs-sidebar
+    = partial "includes/layout/codeowners.html.haml"
+    = partial "includes/layout/edit_page.html.haml"
+    = partial "handbook/support/workflows/toc.html.haml", locals: {pages: pages}
 
-.container
-  .row
-    .col-md-3
-      = partial "handbook/support/workflows/toc.html.haml", locals: {pages: pages}
+  .container.md-page{ class: (current_page.data.page_class if current_page.data.page_class) }
+    %ol.breadcrumb
+      %li.meta-signage-header You are here:
+      = breadcrumbs(current_page)
+    = partial "includes/layout/handbook_search.html.haml"
+    .hidden-md.hidden-lg
+      = partial "includes/layout/codeowners.html.haml"
 
-    .col-md-9
-      = partial "handbook/support/workflows/workflows.html.haml", locals: {pages: pages}
+    - pages.each do |category, pages|
+      = partial "handbook/support/workflows/category", locals: { category: category, pages: pages }
 
-.container
-  .col-md-12
-    .row
-      = partial "quick-reference.html.md"
+    = partial "quick-reference.html.md"

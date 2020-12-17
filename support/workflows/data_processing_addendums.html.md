@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Processing Signed Data Processing Addendums (DPAs)
-category: Legal
+category: GitLab.com
+subcategory: Legal
 description: "Support Engineering workflow detailing what to do with signed Data Processing Addendums"
 ---
 

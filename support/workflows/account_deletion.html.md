@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Account Deletion
-category: Legal
+category: GitLab.com
+subcategory: Legal
 description: "Support Engineering workflows for account deletion requests"
 ---
 

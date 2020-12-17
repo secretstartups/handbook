@@ -2,7 +2,8 @@
 layout: handbook-page-toc
 title: Log and audit requests
 description: "Overview of agrigated information which GitLab Support may provide to customers, from the gitlab.com logs. Details beyond a summary require a Security request."
-category: Legal
+category: GitLab.com
+subcategory: Legal
 ---
 
 ## On this page

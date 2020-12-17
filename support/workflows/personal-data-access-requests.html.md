@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Personal Data Access Requests
-category: Legal
+category: GitLab.com
+subcategory: Legal
 description: "Support Engineering workflows for non-deletion requests relating to personal data"
 ---
 
