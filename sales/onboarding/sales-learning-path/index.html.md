@@ -67,7 +67,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ### 3. Our Customers
 *  **Customer Segments (Material - Handbook - 15 minutes)**
    - Sales Segmentation is based on Total Employee count of the Global Account. If a Global Account has a lower segment than any of its child accounts, the Global Account will adopt the largest sales segment of any of its child accounts.
-   - To learn more read the [Handbook](/handbook/business-ops/resources/#segmentation)
+   - To learn more read the [Handbook](/handbook/sales/field-operations/gtm-resources/#segmentation)
 *  **Personas & Pain Points (Material - Video / Handbook - 20 Minutes)**
    - Introducing Personas and Pain Points. David Dulany, Sales Development Consultant, reviews the concepts of Personas and Pain Points and why they are important in setting the context for your messaging.
    - [You Tube - Introducing Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU)

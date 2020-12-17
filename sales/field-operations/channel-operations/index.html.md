@@ -172,7 +172,7 @@ Before approving or denying the Deal Registration the Channel Manager needs to c
 If an Opportunity already exists then SELECT the applicable one. 
 If not then select:
 ![create_new](/handbook/sales/field-operations/channel-operations/images/3-Create_New.png)
-If creating new, the applicable details from the Deal Registration will map to the Opportunity and automatically tag it as a Partner Initiated Opportunity (PIO). Any other system required fields will also need to be filled out.
+If creating new, the applicable details from the Deal Registration will map to the Opportunity and automatically tag it as a Partner Initiated Opportunity (PIO). Any other system required fields will also need to be filled out. Be sure to update the opportunity owner into the correct sales rep's name, and out of the channel manager's name. 
 6. After the Channel Manager either hits SELECT against a current Opportunity OR CREATE NEW, the Deal Registrations needs to either be approved or denied.
 7. Click
 ![approve_deny](/handbook/sales/field-operations/channel-operations/images/4-Approve_Deny_Red.png)
@@ -212,7 +212,7 @@ _Why is this important?_
 
 <table>
   <tr>
-   <td><strong><a href="https://about.gitlab.com/handbook/business-ops/resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
+   <td><strong><a href="https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
    </td>
    <td><strong>Partner Initiated (PIO)</strong>
    </td>
