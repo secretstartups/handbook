@@ -215,7 +215,7 @@ If a manager is unable to reach a team member via email or slack within a 24 hou
 * [Return of Property](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 * [Promotions and Transfers](/handbook/people-group/promotions-transfers/)
 * [General Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/)
-* [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits)
+* [Entity Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits)
 * [Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)
 * [Paid Time Off](/handbook/paid-time-off/)
 * [Probation Period](/handbook/contracts/#probation-period)
