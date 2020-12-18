@@ -40,6 +40,14 @@ To find the error specifically related to a customer on sentry, try the followin
    - Open sentry issue → Click on `EVENTS`
    - Use customer email to search for the relevant event
 
+### Troubleshooting Email Delivery From CustomerDot
+
+Sometimes a customer reports that they did not receive an email from the portal, such as a password reset request or new account confirmation.  GitLab uses Mailgun as a service to send outgoing mail. We can login to Mailgun to view the message logs, and when appropriate, remove suppressions.
+
+The general workflow that Support uses for this process is documented in the [Support handbook page on confirmation emails](/handbook/support/workflows/confirmation_emails.html#check-mailgun), and that page has a full description on navigating the Mailgun dashboard and searching through the logs.
+
+The process here is much the same, but since we are investigating mail from CustomerDot, in Step 4 of the general workflow ensure that `customers.gitlab.com` is selected as the domain to search under.
+
 ### Example of previous tickets:
 
 1. Customer cannot purchase new subscription because of an expired subscription:
