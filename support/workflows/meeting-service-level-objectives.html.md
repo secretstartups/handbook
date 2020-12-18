@@ -177,8 +177,10 @@ The response crew does **not** work with **Licensing and Subscription tickets**.
 Work with your crew to prevent breaches:
 
 1. Reply to tickets linked by bot alerts in Slack about imminent breaches
-    1. Add a `white_check_mark` emoji reaction to the bot message when you've replied to the ticket so the rest of your crew knows that it's been taken care of.
-1. Reply to tickets in the `SM with SLA` and `.com with SLA` views to get ahead of imminent breaches. Work in Zendesk from the top of these views - there's no need to wait for the bot!
+    1. Add the `:eyes:` emoji reaction to the bot message to show you're looking at a ticket (you can remove this if you've looked and don't know how to reply - though ideally at this point start a thread and ask your crew to collaborate with you)
+    1. Add the `:white_check_mark:` emoji reaction to the bot message when you've replied to the ticket so the rest of your crew knows that it's been taken care of.
+    1. At the end of your crew day, **all bot alerts should have an emoji response** to show that we've responded to all tickets
+1. Reply to tickets in the `SM with SLA` and `.com with SLA` views to get ahead of imminent breaches. Work in Zendesk from the top of these views - there's **no need to wait for the bot!** Try to anticipate future busy periods by looking at the time to next breach in Zendesk and getting replies out before the bot alert the channel.
  
 
 ```mermaid
@@ -191,7 +193,7 @@ Work with your crew to prevent breaches:
    E -->|No| G[Crew replies] --> H[Go to step 1] --> B
 ```
 
-**How to reply to tickets where 'Crew Replies':**
+**How to reply to tickets while in the crew:**
 
 1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.zendesk.com/agent/admin/macros/360093631494).
 1. If the ticket **has an assignee**:
@@ -224,11 +226,24 @@ The crew is responsible for [Triaging tickets](/handbook/support/workflows/ticke
 
 Chat with your crew and work on these tickets when there are no imminent breaches and you have some spare capacity.
 
+### Collaborate with your crew!
+
+You are responsible for collaborating with your crew. This is a key part of your crew day. Here's how you can do that:
+
+1. Let your crew know in the response crew Slack channel when you start your day (a wave emoji is good if you don't want to write a message).
+1. **Let your crew know when you need to step away** for food or another call and how long you think you'll be away for.
+1. **Use emoji responses to bot alerts** to show you are viewing a ticket and when you've replied (see 'Preventing Breaches' above).
+1. **Start a thread from a bot alert** if you have questions about a ticket or would like to collaborate on a reply.
+1. **Join the Zoom call** if you'd like to collaborate in real time - ask your crew in Slack if someone will join with you.
+1. **Reply to your crew when they ask for help** and be prepared to join the Zoom if someone wants to collaborate on a ticket.
+
+**These responsibilities are not optional!** You are expected to communicate and collaborate on your crew day.
+
 ### Response Crew FAQ
 
 #### How many hours do I have to do?
 
-Be available in the channel during your normal office hours - you don't have to be there for all 8 hours - make sure to be available for 'most of your day' and communicate with the rest of the crew in Slack or the Zoom room for some of the time.
+Be available in the channel during your normal office hours - you don't have to be there for all 8 hours - **make sure to be available for 'most of your day'** and communicate with the rest of the crew in Slack or the Zoom room for some of the time.
 
 It's OK if you need to go to another call for an hour or head out for your lunch break etc. By being a crew of several people there will usually be someone available. Keep the crew updated with your availability.
 
