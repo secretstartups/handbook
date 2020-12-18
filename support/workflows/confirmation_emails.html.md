@@ -70,9 +70,11 @@ Once the problem has been fixed, you can send the user a [new confirmation email
 
 Let the user know you've sent a new confirmation email and ask them to check their inbox and spam folders.
 
+Note: If a user changes their primary email, the form will also not work and they have to follow the process below for secondary email.
+
 ### Secondary email
 
-Instruct the user to sign in and trigger a new confirmation email through their profile: https://gitlab.com/profile/emails
+Instruct the user to sign in and trigger a new confirmation email through their profile: [https://gitlab.com/profile/emails](https://gitlab.com/profile/emails)
 
 ### Wacky state
 
