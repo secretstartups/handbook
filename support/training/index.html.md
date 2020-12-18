@@ -21,6 +21,8 @@ To create an issue for yourself with one of the module templates:
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
 
+**NOTE:** Contact your [Onboarding Buddy](https://about.gitlab.com/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
+
 ### Support Onboarding Pathway
 
 When you first join the team everything will be new to you. Don't worry! In order to get you started with GitLab quickly, apart from the company wide onboarding issue that will be assigned to you on Day 1 by PeopleOps, we also have an onboarding program in Support. There are two pathways:
