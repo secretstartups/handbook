@@ -10,6 +10,18 @@ description: "Support managers activities and references"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Role and Responsibilities
+
+As a Support Manager at GitLab, you will be focusing on the following things:
+- Meeting KPIs
+- Growing and managing your team's efforts in support ouf the KPIs
+- Mentoring and Coaching your team on our technologies and processes
+- Collaborate with other managers across regions
+- Enable our engineers to explore process change in a scalable way
+
+You can read more about the roles below:
+[Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
+
 ## How to see what the Support managers are working on
 
 ### Epics
@@ -48,28 +60,7 @@ As a larger leadership team, it's important that we remain in constant communica
 See [Support Hiring](hiring.html)
 
 ## Promotions
-
-### Support Engineer Promotion Process for Support Managers - Quick Guide
-
-The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](/handbook/people-group/promotions-transfers/#for-managers-requesting-a-promotion-or-compensation-change). The steps below are an addendum for notification and review for Support Engineering managers taking into account the Customer Support Department's organisational structure and is not meant as a replacement for any steps in the companywide people group process.
-
-#### Pre-submission
-* Complete Path to Promotion Document with Support Engineer.
-* Create a public Google Docs view link for everyone at Gitlab to allow sharing of the promotion document which will be used for promotion approval process.
-* Discuss the promotion candidate with your manager.
-* Make a copy of the promotion document and share it in the confidential doc used in the cross-regional sync with Support Managers (ensure Support Managers can Edit).
-* Gather feedback on the promotion document on the private copy shared with the Support Managers.
-* If necessary, update the public document based on feedback from Support Managers.
-* Get the approval to proceed from your manager.
-
-#### Submission
-* [Submit a Promotion request in BambooHR](/handbook/people-group/promotions-transfers/#submit-a-promotion-request-in-bamboohr)
-
-#### Announcement
-
-* Once approval has been received notify the engineer.
-* Send a message to the `#team-member-updates` Slack channel.
-* Share the message from `#team-member-updates` into the `#support-team-chat` channel for Support Team visibility.
+See [Promoting a team member](promoting-a-support-team-member.html)
 
 ## Metrics
 
@@ -98,7 +89,7 @@ Explore gives us an interface that is much easier to navigate and use.
 Additionally, Sisense data is a secondary source so it can contain errors. 
 By being comfortable using ZD Explore, a primary source, we can make sure that we have accurate data and insights.
 
-### What happens if metrics aren't where they should be?
+### What happens if we are not hitting our KPIs?
 Each week in the [Support Leadership Meetings](#support-leadership-meetings) we'll review the key metrics.
 
 If the metrics are at or below the following floors for 2 sustained weeks, managers should [form a group](#forming-a-group) to analyze the cause and suggest actions to correct the trend.
