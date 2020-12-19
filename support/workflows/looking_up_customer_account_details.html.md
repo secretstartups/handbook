@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: Looking up customer account details
 description: "How to look up customer account details within Zendesk, Salesforce, and customers.gitlab.com"
 category: Handling tickets
+subcategory: Triaging
 ---
 
 ## On this page
@@ -112,7 +113,7 @@ or `10-Duplicate`. This should generally be the first row.
 
 ![List of account opportunities](/handbook/support/workflows/assets/salesforce-account-team-list.png)
 
-The person responsible for the customer's license renewal is listed under 
+The person responsible for the customer's license renewal is listed under
 `Owner Full Name`.
 
 ### Within customers.gitlab.com
@@ -128,6 +129,6 @@ The person responsible for the customer's license renewal is listed under
 
    ![Search results in customers.gitlab.com customers section](/handbook/support/workflows/assets/customers-gitlab-com-search-results.png)
 
-4. You can *impersonate* an account to find out if they have a current 
+4. You can *impersonate* an account to find out if they have a current
    subscription through the customer's detail page or by clicking on the `home`
    icon in the search results.

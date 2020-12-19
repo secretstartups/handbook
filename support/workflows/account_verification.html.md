@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Account Ownership Verification
 category: GitLab.com
+subcategory: Accounts
 description: "Workflow detailing how and when to disable 2FA for a customer and verifying account ownership"
 ---
 
@@ -45,7 +46,7 @@ Support intervention for 2FA removal after the above steps have been attempted i
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
-If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult. 
+If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult.
 In these cases, please use the workflow below.
 
 ### Workflow

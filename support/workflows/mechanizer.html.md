@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Mechanizer
-category: GitLab.com
+category: References
 ---
 
 ## On this page
@@ -35,7 +35,7 @@ Optional fields:
 
 The [Add CI Minutes form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html) allows adding minutes to a customer namespace. The form has two required fields:
 
-- **Namespace**: The customer namespace as it appears in the URL. 
+- **Namespace**: The customer namespace as it appears in the URL.
 - **Extra minutes**: The number of minutes to add
 
 ### Force Associate
@@ -43,7 +43,7 @@ The [Add CI Minutes form](https://gitlab-com.gitlab.io/support/toolbox/forms_pro
 The [Force Associate form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) assoicates a group with a subscription. It's fields are:
 
 - **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (ex. `username` and not `@username`).
-- **Namespace**: The customer namespace as it appears in the URL. 
+- **Namespace**: The customer namespace as it appears in the URL.
 - **Subscription ID**: The unique ID of the purchased subscription in Salesforce
 
 ### Update GitLab Subscription

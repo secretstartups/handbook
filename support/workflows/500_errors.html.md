@@ -1,8 +1,9 @@
 ---
 layout: handbook-page-toc
 title: Diagnose Errors on GitLab.com
-description: This guide provides resources for diagnosing HTTP 5XX errors on GitLab.com. 
+description: This guide provides resources for diagnosing HTTP 5XX errors on GitLab.com.
 category: GitLab.com
+subcategory: Troubleshooting
 ---
 
 ## On this page
@@ -29,13 +30,13 @@ Check on the [#feed_alerts](https://gitlab.slack.com/messages/C12RCNXK5), [#prod
 
 Before you post to #production or make an issue, here are some helpful ways to capture data that help to narrow down the issue(s):
 
-1. Use the [performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html) by typing `pb` in your browser window.  Reload the page and grab the information from the server side.  
+1. Use the [performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html) by typing `pb` in your browser window.  Reload the page and grab the information from the server side.
 1. If using Chrome, open the Chrome developer tools (View > Developer > Developer Tools), reload the page, and look at the Network tab.  This will show all of the requests and times.
 1. If using Firefox, there is a similar network view under Tools > Web Developer > Network which will show requests and timing.
 
 Screenshots from any of these tools will greatly help any engineers looking into the problems.
 
-### Connection Troubleshooting 
+### Connection Troubleshooting
 
 If our customer is reporting problems connecting to GitLab.com, we should ask for the following:
 

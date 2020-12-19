@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Use of Admin Notes
 category: GitLab.com
+subcategory: Accounts
 description: "Workflow for when and how to add admin notes to a GitLab.com account"
 ---
 
@@ -44,7 +45,7 @@ DMCA Request:
 `2018-11-05 | DMCA Violation | Abuse | https://gitlab.zendesk.com/agent/tickets/123`
 
 Abuse Case:
-`2018-11-05 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123` 
+`2018-11-05 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123`
 
 User Blocked:
 `2019-07-07 | User blocked by infra | see https://gitlab.com/gitlab-com/support/internal-requests/issues/441`

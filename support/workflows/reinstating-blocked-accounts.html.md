@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Reinstating blocked accounts
-category: Security
+category: GitLab.com
+subcategory: Security
 description: How to determine if a blocked user can be re-instated if it has been blocked
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Working with Security
-category: Security
+category: GitLab.com
+subcategory: Security
 description: Identifying tickets which should be handled by the Security team, or Security issues which are better handled by support, and transferring each way.
 ---
 
