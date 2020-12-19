@@ -72,14 +72,14 @@ To create a new Datastores issue:
   1. **Summary**: Include here only a high level description of the problem and the work to do. 2-4 lines should suffice.
   1. **Current Situation**: Include this section if you need to explain what is broken or not working well. Please be succinct and to the point.
   1. **Desired Outcome**: Description, in some detail, of the end result to achieve when this issue is finished. Try not to be prescriptive on "how to implement it" but focused on "what to implement".
-  1. **Additional background and comments**: Here you can add broader information and context that can help to progres the issue, which has not been included in the before sections.
+  1. **Additional background and comments**: Here you can add broader information and context that can help to progres the issue, which has not been included in previous sections.
   1. **Acceptance Criteria**: This follows our [definition of done](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/datastores/#issues-and-definition-of-done). 
-     - As detail/atomic as possible.
+     - Try to be as detailed/atomic as possible.
 	 - It should cover the full scope of required work for the issue. In other words, the Datastores team member assigned should be confident that if they address the different points here the issue will be completed, ready to be closed.
-	 - If you don't know in detail leave a note: This section will need to be complete before the Datastores team starts working on this issue.
+	 - If you don't know in detail leave a temporary note: Be aware that this section should be complete before the team starts working on this issue.
   1. **Writting style**:
-	 - Express yourself in a way that others can understand and follow your train of thoughts easily; be empathetic.
-	 - Remember about our writing  style in GitLab: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
+	 - Express yourself in a way that others can understand and follow your train of thoughts easily. Be empathetic.
+	 - Remember about our writing style in GitLab: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
 	 - Some good advice in how to write simple and effective: [18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
 ### Issues lifecycle:
