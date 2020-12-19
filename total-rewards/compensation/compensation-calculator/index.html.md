@@ -184,7 +184,7 @@ The location factor depends on your [geographical area](#geographical-areas). To
 
 To determine your area:
 
-   1. Select the country you live in. This will filter out all areas outside of your country. Based on the remaining choices under "area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Everywhere else." If the only item listed for the country is "All," the country has the same location factor regardless of the city you live in. If applicable, a state or province might be listed instead of a city.
+   1. Select the country you live in. This will filter out all areas outside of your country. Then you will select your Province or State (if applicable). Based on the choices under "Metro Area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Not Applicable." If no additional boxes for State/Province and/or Metro Area generate for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if no additional box generates for Metro Area after selecting a State/Province, this State/Province has the same location factor regardless of the city you live in.
    1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
    1. When you move, [you have to inform People Ops and Total Rewards](/handbook/people-group/contracts-and-international-expansion/#relocation) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
 
@@ -194,22 +194,22 @@ GitLab will gather and analyze the data for each location factor annually as par
 
 1. Data Gathering
    * ERI: Review the Cost of Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
-   * Numbeo: use the Numbeo rent index normalized to San Francisco, or in math terms, `(.7 x (Rent Index/1.26) + 0.3)`.
-     * Numbeo's rent index is a valuable resource as we may not have proper data to conduct the analysis in all countries or geo areas.
    * Robert Half: For US and Canada, Robert Half has salary differential information based on each geo area. Normalize this data as a fraction of SF.
    * Dice: Using the Results from the Dice Tech Salary Report, take the differential of the geo area to SF.
    * Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential to market.
    * Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential to market.
    * In reviewing the data set, determine if a new geo area needs to be added to the list.
 1. Data Analysis
-   * Take the maximum of:
-     * the average of all data sources rounded down to the nearest 0.05 OR
-     * the current location factor (so as to not reduce location factors).
-   * Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.
-     * Reasons why the formula may be adjusted:
+   * For geographical areas:
+     * Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros. 
+   * For metro areas, take the maximum of:
+     * the average of all data sources rounded to the nearest 0.01 OR
+     * the current location factor or geographic area (so as to not reduce location factors).
+     * If the location factor for the metro area is higher than for the geographical area, pull this out as its own location factor.
+     * Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.
+   * Reasons why the formula may be adjusted:
         * Not enough number of data points for the output to be statistically relevant
         * Adjusted to align with other metros in geo
-        * Decreased to remove inflated metro data in everywhere else location factors
    * When analyzing: Focus on where we are having troubles recruiting, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
 
 ## Level Factor

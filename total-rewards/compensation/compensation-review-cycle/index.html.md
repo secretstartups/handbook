@@ -143,11 +143,11 @@ The location factor review is an internal process completed by the Total Rewards
 
 1. Create a copy of the `Location Factor Review` sheet for the upcoming FY. 
 1. Ensure all location factors, including ones added throughout the year and ones marked for further review, have been added to the analysis. 
-1. [Pull in refreshed data](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#pulling-survey-data-and-matching) for all data sources: ERI, Robert Half, Numbeo Rent Index, Dice, Radford, and Comptryx. 
-   1. Check these resources for new matches to our location factors. 
-1. Using the refreshed data, compare the new data to our current location factor for fluctuations noting that we will not decrease a location factor.
-    1. "Everywhere else" data may need to be reduced to take out the inflated data from the separated out metro area.
-    1. "All" data that sees a significant increase may need to have the metro area separated. 
+1. [Pull in refreshed data](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#pulling-survey-data-and-matching) for all data sources: ERI, Robert Half, Dice, Radford, and Comptryx. 
+   1. Check these resources for new matches to our location factors and pull data for all available metros. 
+1. Using the refreshed data, compare the new data to our current location factors for fluctuations noting that we will not decrease a location factor.
+    1. Analyze the average data for all locations in a geographical region to determine the location factor for that geographical region.
+    1. Analyze all data for metro areas and countries separately to determine which metro areas and countries will need to be separated from the location factor determined for the geographical region. 
     1. If the formula is overwritten, notate the reasoning why. 
 1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml). 
 
@@ -173,13 +173,6 @@ The location factor review is an internal process completed by the Total Rewards
     1. For the US and Canada, enter the location differential to the right of each location in the Robert Half tab. Create a new line for each location that isn't currently captured and match it to our data if we have the location as a locality. 
     1. For locations in other countries, the salaries by role will need to be compared between the country being reviewed and the US. The San Francisco differential reported by Robert Half should be applied to the salaries for the US and used to calculate a differential to the salary guides in other countries. 
 1. Once differentials have been calculated for each global location, any new locations that do not currently have a match to one of GitLab's localities should be matched.
-
-**Numbeo Rent Index**
-
-1. Navigate to [Numbeo](https://www.numbeo.com/cost-of-living/rankings_current.jsp).
-1. Copy and paste all of the data in the table from Numbeo into the Numbeo tab of the `Location Factor Review` sheet. 
-1. Pull in the previously matched GitLab localities from the previous year's location factor review into the Numbeo tab.
-1. Review Numbeo locations without a GitLab match to see if there's a relevant GitLab locality to map them to.
 
 **Dice**
 
@@ -397,16 +390,20 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 
 #### Iterations to Compaas
 
-We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas before the next cycle. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
+The following iterations are expected to be live for FY22 Annual Compensation Review:
 * Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
 * Fields for recommended performance increase, percent change due to benchmark increases, percent change due to location factor increases.
-* Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
 * Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab.
-* Ability to review who has/has not logged in with which ID and which permissions
 * Push notification so approvers know when a slate is waiting on their action.
 * Bulk approvals so approvers don't have to go in and approve slates individually.
-* Okta integration. Since the SSO using Google accounts is working, this update isn't prioritized for FY22 Annual Compensation Review.
+* Okta integration. Tentatively will be updated for FY22 Annual Compensation Review. 
+
+The following iterations will not be ready to ship in time for FY22 Annual Compensation Review, but we will continue to review having implemented in Compaas:
+* Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
+* Ability to review who has/has not logged in with which ID and which permissions
+* Proxy approval where People Business Partners can approve on behalf of their part of the organization.
 * Mobile responsive
 
 #### Communicating Compensation Increases
