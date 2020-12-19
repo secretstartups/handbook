@@ -71,7 +71,7 @@ To create a new Datastores issue:
 - Fill the template, following these guidelines:
   1. **Summary**: Include here only a high level description of the problem and the work to do. 2-4 lines should suffice.
   1. **Current Situation**: Include this section if you need to explain what is broken or not working well. Please be succinct and to the point.
-  1. **Desired Outcome**: Description, in some detail, of the end result to achieve when this issue is finished. Try not to be prescriptive on "how to implement it" but "what to implement".
+  1. **Desired Outcome**: Description, in some detail, of the end result to achieve when this issue is finished. Try not to be prescriptive on "how to implement it" but focused on "what to implement".
   1. **Additional background and comments**: Here you can add broader information and context that can help to progres the issue, which has not been included in the before sections.
   1. **Acceptance Criteria**: This follows our [definition of done](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/datastores/#issues-and-definition-of-done). 
      - As detail/atomic as possible.
