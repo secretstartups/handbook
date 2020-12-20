@@ -78,12 +78,13 @@ To create a new Datastores issue:
 	 - It should cover the full scope of required work for the issue. In other words, the Datastores team member assigned should be confident that if they address the different points here the issue will be completed, ready to be closed.
 	 - If you don't know in detail leave a temporary note: Be aware that this section should be complete before the team starts working on this issue.
   1. **Writting style**:
-	 - Express yourself in a way that others can understand and follow your train of thoughts easily. Be empathetic.
+	 - Express yourself in a way that others can understand and follow easily your train of thoughts. Be empathetic with your team members.
 	 - Remember about our writing style in GitLab: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
 	 - Some good advice in how to write simple and effective: [18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
 ### Issues lifecycle:
-1. We create issues and epics to represent the work that we are/will be doing, as soon as we notice the work is required or needed to execute our priorities (DB/Gitaly roadmap, OKRs). We also get external requests that have to be labeled with ~"team::Datastores"  for us to triage them. 
+1. We create issues and epics to represent the work that we are/will be doing, as soon as we notice the work is required or needed to execute our priorities (DB/Gitaly roadmap, OKRs).
+   - We also get external requests that have to be labeled with ~"**team::Datastores**"  for us to triage them. 
 2. All these issues can be found in our [Backlog Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/2024251?&label_name[]=team%3A%3ADatastores&label_name[]=workflow-infra%3A%3ATriage). Issues are normally ordered by descending priority in this board, so they can be brought in this fashion to our Iteration/s.
 3. An issue can be  promoted to our current or next planned iterations by applying the label ~"workflow-infra::Ready" and assigning the right Milestone to it (for current or next iterations). This is the [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores) to manage the current Iteration/Milestone.
     - This has to be agreed with the team lead, aligned with our priorities expressed in the Iteration Planning issue.
