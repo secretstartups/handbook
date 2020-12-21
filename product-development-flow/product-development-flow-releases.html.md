@@ -60,7 +60,7 @@ https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9241
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9237
 
-13.5 (2021-10-22)
+**13.5 (2021-10-22)**
 
 - New structure and core content to shift to an outcomes/activities model. 
 - Introduced key participants table to clarify collaborators at each phase
