@@ -3,6 +3,7 @@ layout: handbook-page-toc
 title: Name Squatting Policy
 description: "Workflow for releasing a namespace deemed dormant by GitLab's Name-squatting Policy"
 category: GitLab.com
+subcategory: Accounts
 ---
 
 ## On this page
@@ -76,15 +77,15 @@ In Zendesk:
 
 ### FAQs
 
-1. **Does a login in response to a name squatting request mean that the account is active?** 
-   
+1. **Does a login in response to a name squatting request mean that the account is active?**
+
    No, the user has to explicitly reply to the name squatting request saying "I want to keep my namespace". If the user hasn't responded and has just logged in, send a final message saying something like, "I see you logged in at X, but you need to let us know here if you want to keep your namespace".
-1. **What constitutes data in the account?** 
+1. **What constitutes data in the account?**
 
    A group, a project, etc. means data. Unless the project or group is empty, or there's been no activity for 2 or more years.
 2. **Is namespace squatting permitted?**
 
-   Namespace squatting is not permitted as explicitly stated in our [terms](https://about.gitlab.com/terms/). User and group names are provided on a first-come, first-served basis and may not be reserved. 
+   Namespace squatting is not permitted as explicitly stated in our [terms](https://about.gitlab.com/terms/). User and group names are provided on a first-come, first-served basis and may not be reserved.
 3. **Does using a trademark in a way that has nothing to do with the product or service for which the trademark was granted considered a violation of trademark policy?**
 
    Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a violation of trademark policy. Claiming trademark infringement is a legal process, and we will not release a namespace for trademark violation without a court order.

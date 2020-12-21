@@ -2,7 +2,8 @@
 layout: handbook-page-toc
 title: Associating needs-org tickets with appropriate organization
 description: "Guidance and instructions for associating a ticket with the requester's organization, when automatic methods fail."
-category: Zendesk
+category: ZenDesk
+subcategory: Triaging
 ---
 
 ## On this page
@@ -77,9 +78,9 @@ There are two types of users/organizations that have not yet purchased a GitLab 
 * **Prospect** = organization trialing GitLab that is sales assisted, also often
   referred to as a POC (proof of concept).
 
-How to define if a ticket is from a prospect or a trial? A long term solution is still in progress. 
+How to define if a ticket is from a prospect or a trial? A long term solution is still in progress.
 At the moment, the process is mostly manual: check the form content,
-check the ticket content, it can refer to POC or prospect, check if there were any sales representantives' posts in one 
+check the ticket content, it can refer to POC or prospect, check if there were any sales representantives' posts in one
 of the Support Slack channels. In the last case, please add an internal note on the ticket. Hints mentioned below should help
 you to identify prospects or trials correctly.
 
@@ -104,7 +105,7 @@ as described in [Finding the existing license in LicenseDot](#finding-the-existi
 
 **Trial** users do not get support as mentioned at [Free trial page](https://about.gitlab.com/free-trial/).
 If you find a ticket from the organization using trial, add `trial` tag to it.
-Once tagged, the ticket from trial 
+Once tagged, the ticket from trial
 will move to the view `Free/Self-Provisioned Trial Support` and will not get SLA.
 
 **Note:** due to the type of subscription/license they receive, trial users often identify themselves as
@@ -112,7 +113,7 @@ Ultimate or Gold customers. This form field does not need to be updated as SLA i
 
 #### Identifying prospects
 
-**Prospects** will get SLA if the conditions listed in [Trials and Prospect Support](https://about.gitlab.com/handbook/support/internal-support/#trials-and-prospect-support) are met: if an organization in SFDC has `Manual Support Upgrade` checked. In this case, an org with 
+**Prospects** will get SLA if the conditions listed in [Trials and Prospect Support](https://about.gitlab.com/handbook/support/internal-support/#trials-and-prospect-support) are met: if an organization in SFDC has `Manual Support Upgrade` checked. In this case, an org with
 the type `Prospect` or `Prospect - CE User` will be synced to Zendesk, it will be possible to associate a user with this org,
 and their ticket will then get SLA.
 
@@ -121,7 +122,7 @@ By default, such tickets will be shown both in SM and GitLab.com views. To make 
 only in the appropriate view, add either `prospect_saas` or `prospect_sm` tag to a ticket.
 
 If the steps described in [Trials and Prospect Support](https://about.gitlab.com/handbook/support/internal-support/#trials-and-prospect-support)
-were not done, a prospect organization will not be propagated from SFDC to Zendesk, and the prospect will not get SLA. 
+were not done, a prospect organization will not be propagated from SFDC to Zendesk, and the prospect will not get SLA.
 In this case, assign `prospect` tag to this ticket. It will be moved to the view `Free/Self-Provisioned Trial Support` without SLA.
 
 **Note:** there can be duplicate orgs or orgs incorrectly marked as prospects. If you see that the org is a prospect but other evidence shows that this is a valid customer, follow the workflow [Organization is incorrectly marked as a Prospect in SFDC](#organization-is-incorrectly-marked-as-a-prospect-in-sfdc).
@@ -129,7 +130,7 @@ In this case, assign `prospect` tag to this ticket. It will be moved to the view
 ##### Organization is incorrectly marked as a Prospect in SFDC
 
 In SFDC, you may notice an organization has the Type set to `Prospect` but associated with a non Expired support level,
-and the account in the CustomersDot shows that the org has a valid self-managed license or a GitLab.com subscription. 
+and the account in the CustomersDot shows that the org has a valid self-managed license or a GitLab.com subscription.
 In this case, it you may need to update the org in SFDC:
 
 - Check if `Subscriptions` section in SFDC contains information about a valid subscription and is not empty.
@@ -146,12 +147,12 @@ For GitLab.com, if a user cannot be identified as a customer, nor a
 
 * a user `username@domain.tld` submits a ticket to GitLab Support.
 * you search by the requester's e-mail i.e. `username@domain.tld`, the e-mail
-  specified in the field `Email associated with your subscription`, or using the 
+  specified in the field `Email associated with your subscription`, or using the
   customer's domain and you cannot find any related accounts in SFDC.
 * you search for the same data in the CustomersDot and cannot find any accounts there.
 * you view any groups the user is a member of and confirm that no subscriptions for their groups
   exist in the CustomersDot
-* if an account exists in the CustomersDot, no subscriptions are shown and you see 
+* if an account exists in the CustomersDot, no subscriptions are shown and you see
   `Choose a plan that suits your needs` when using `Impersonate` functionality.
 
 In such case, select `Free user` in `Tell us about your GitLab subscription` dropdown and
@@ -165,8 +166,8 @@ to check the user via the `#support_gitlab-com` Slack channel.
 that you are not aware of, and there can be large customers with multiple organizations using the same
 domain. Therefore, search by e-mail is more reliable.
 
-**Note:** in some cases you will need to search by e-mail and by domain. For example, 
-if the e-mail has previously been associated with a trial account it will still be visible 
+**Note:** in some cases you will need to search by e-mail and by domain. For example,
+if the e-mail has previously been associated with a trial account it will still be visible
 in SFDC but this might not be the same account that is used by the organization.
 
 ### Finding the existing organization in Zendesk
@@ -263,7 +264,7 @@ associated with the organizations. The current process for this is as follows:
 
    1. Ask the user to provide their license details and verify the license/e-mail is valid (e.g. in [Licenses portal](https://license.gitlab.com/)). If valid, it is OK to associate this particular user to the org that owns the license.
       * There is a field in the ticket titled **Email associated with your GitLab instance**. It is possible that it is already populated and that user already provided the e-mail that is owning the license, in which case we don't need to explicitly ask for it (or the screenshot).
-      * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**. 
+      * You can also ask the user to provide a screenshot of the `/admin/license` endpoint from their instance or to tell you the e-mail to which the license their organisation is using is associated to. To do this quickly, you can use the macro called **Self-Managed::Locating GitLab subscription**.
    1. Reach out to the TAM (Technical Account Manager) or Account Owner (sometimes referred to as AM / Account Manager) to confirm they should be added.  Do this in the `#account-management` slack channel and mention the TAM or AM if they are known.
          1. Ask the TAM / Account Owner to add the user under the contacts for that Salesforce Account. (You can find the TAM / Account Owner name in Zendesk on the Organization's screen - this is synced from SalesForce.)
    1. If the organization does not have a Technical Account Manager or Account Owner and we can't verify them via another method, then we need to ask the subscription owner if the user is eligible for support.
@@ -410,7 +411,7 @@ When you see the required tag in the dropdown list, select it.
 - Fix SFDC side first by following [the steps above](#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side).
   Sales Support will usually reply to your message in SFDC, and you will be able to see it in the feed at the organization's page there.
   `GitLab Plan` value on Zendesk side will change from `Expired` to the valid one after the sync is done.
-  After that new tickets from this orgination will be shown correctly. 
+  After that new tickets from this orgination will be shown correctly.
 - Fix the tags in the ticket you are working using [these steps](#fixing-tags-for-tickets-with-expired-organization). Note that
   you do not need to wait for fix on SFDC side, you may fix the tags right away. SLA will appear in the ticket after doing it.
 - Update the ticket with the internal comment describing what was done.
@@ -421,7 +422,7 @@ When you see the required tag in the dropdown list, select it.
 
 ### GitLab.com ticket is in `SM with SLA` queue
 
-If you're sure that the ticket is related to **GitLab.com**, but you see it in 
+If you're sure that the ticket is related to **GitLab.com**, but you see it in
 **SM with SLA queue**, do the following:
 
 1. Change the **Form** to **GitLab.com** (if it's not like that already)
@@ -442,7 +443,7 @@ If you're sure that the ticket is related to **GitLab.com**, but you see it in
 
 ### SM ticket is in `.com with SLA` queue
 
-If you're sure that the ticket is related to **Self-managed**, but you see it in 
+If you're sure that the ticket is related to **Self-managed**, but you see it in
 **.com with SLA queue**, do the following:
 
 1. Change the **Form** to **Self-managed** (if it's not like that already)

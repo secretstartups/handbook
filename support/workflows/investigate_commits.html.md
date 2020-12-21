@@ -2,7 +2,8 @@
 layout: handbook-page-toc
 title: Investigate Commits
 description: "Workflow to determine the cause of commits on gitlab.com attributed to incorrect or unknown emails"
-category: Security
+category: GitLab.com
+subcategory: Security
 ---
 
 ## On this page

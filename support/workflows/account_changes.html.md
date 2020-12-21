@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Making Changes and Taking Actions on an Account
 category: GitLab.com
+subcategory: Accounts
 description: "Workflow for when and how to make account changes on behalf of a customer"
 ---
 
@@ -56,7 +57,7 @@ Some sample phrases:
 
 > Could you please provide permission for staff to ... ?
 
-or 
+or
 
 > Could you please confirm that you would like us to ... ?
 
