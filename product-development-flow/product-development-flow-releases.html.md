@@ -25,9 +25,6 @@ https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579
 
-
-
-
 13.6 (2021-11-22)
 
 - Introduce interactive/improved visuals for workflow table and required items*
@@ -63,14 +60,12 @@ https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9241
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9237
 
-
 13.5 (2021-10-22)
 
 - New structure and core content to shift to an outcomes/activities model. 
 - Introduced key participants table to clarify collaborators at each phase
 - Replaced specific step by step instructions in each phase with potential activities to achieve specific outcomes
 - Specified what’s required in each phase to labels and outcomes, leveraging Required 🔎
-
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9053
 
