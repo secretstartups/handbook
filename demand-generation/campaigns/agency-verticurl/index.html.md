@@ -61,7 +61,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
    * The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Ashwin, the date of the issue will be scheduled 5 business days out to abide by SLAs.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
    * SLA: 24 hours (from day assigned to Verticurl team DRI to provide )
-   * [Tables to reference with email addresses of potential reviewers](/handbook/marketing/demand-generation/campaigns/agency-verticurl#team-members)
+   * [Tables to reference with email addresses of potential reviewers](/handbook/marketing/demand-generation/campaigns/agency-verticurl#team)
 1. **Verticurl**: Verticurl DRI comments into the issue tagging the reviewers/approvers and documenting that the test email was sent to their inbox.
 1. **Verticurl**: Verticurl DRI moves status to ~mktg-status::review
 1. **Verticurl**: Verticurl DRI posts a screenshot of the email in the issue description
