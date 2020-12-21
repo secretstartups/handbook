@@ -51,7 +51,7 @@ same caution as any other suspicious email:
 ### AppSec and Vulnerability Reports
 
 The primary channel we currently receive vulnerability reports is through our
-[HackerOne Bug Bounty](/handbook/engineering/security/application-security/runbooks/hackerone-process.html), but we still
+[HackerOne Bug Bounty](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html), but we still
 make `security@gitlab.com` available for reporting as well. Triaging and
 responding to these tickets in a timely manner is a responsibility of the
 [Field Security team](/handbook/engineering/security/#external-contact-information)
@@ -90,7 +90,7 @@ The contents of the confidential issue should not be shared.
 
 #### Triage Workflow
 
-Triage vulnerability reports in a similar manner to our [HackerOne proccess](/handbook/engineering/security/application-security/runbooks/hackerone-process.html).
+Triage vulnerability reports in a similar manner to our [HackerOne proccess](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html).
 
 * If the report would be Not Applicable, reply with the reason why and close as "Solved."
 * If the report would be Informative or would be an ~feature, you may ask the requester to
