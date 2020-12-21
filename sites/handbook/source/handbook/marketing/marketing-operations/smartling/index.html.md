@@ -60,9 +60,23 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 1. Italian
 1. Spanish (LATAM)
 
-## Per-Word Rates
+## Translation Costs and SLAs
+
+### Per-Word Rates
 
 You can access the per-word rates by language in [this Google sheet](https://docs.google.com/spreadsheets/d/1ZRZkfvboxwc-TPUCPvdn8-M_DvGNEGRcwfbxIvSpXMM/edit#gid=0). **Do not share these rates publicly.**
+
+### Cost Estimate
+
+Total word count (word count of the source file/language, not the translated file/language) multiplied by the per word rate (rate differs based on language) minus discounted rates from matches on previous translations (repetitions).
+
+### Due Date
+
+Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
+
+## How Smartling Works
+
+Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the integration type and know what type of document format you are translating.
 
 ## Using Smartling 
 
@@ -113,10 +127,6 @@ Projects are organized by the integration type:
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
 1. Documents (PDF files)
 
-## How Smartling Works
-
-Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the integration type and know what type of document format you are translating.
-
 ## Jobs
 
 Each job should only be translating to one language pair. For instance, if you have a whitepaper that you would like to translate to French and German, you would create two separate jobs: one for the German version and one for the French version.
@@ -158,18 +168,6 @@ The original source asset must be available in the same location from where the 
 ## Attachments
 
 You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
-
-## Additional Details 
-
-In the description of your job, ensure that you are including a link to the respective issue or epic related to your job. For the `Reference Number` please include the finance tag for your job so the finance team can allocate the spend accordingly. 
-
-## Cost Estimate
-
-Total word count (word count of the source file/language, not the translated file/language) multiplied by the per word rate (rate differs based on language) minus discounted rates from matches on previous translations (repetitions).
-
-## Due Date
-
-Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
 
 ## Document Project Jobs
 
