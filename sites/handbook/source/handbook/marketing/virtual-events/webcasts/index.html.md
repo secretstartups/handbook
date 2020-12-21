@@ -119,10 +119,10 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 
 ```
 
-## LIVE webcast registration and tracking - BrightTALK
+## BrightTALK LIVE webcast registration and tracking
 {:#bt-setup .gitlab-purple}
 
-### Create program in Marketo - BrightTALK
+### Create program in Marketo
 {:#bt-marketo-program}
 
 1. Create the webcast program in Marketo by navigating to the [Webcast program template for BrightTalk](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
@@ -132,7 +132,7 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Under "Folder", choose the appropriate quarter within the  `GitLab-Hosted Campaign Webcasts` folder.
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
-### Create campaign in Salesforce - BrightTALK
+### Create campaign in Salesforce
 {:#bt-sfdc-campaign}
 
 1. In the Marketo program Summary view, you will see `Salesforce Campaign Sync:` with a link that says "not set".
@@ -169,7 +169,7 @@ PUBLISHING
 1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
 1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
 
-#### Connect the Marketo program to BrightTALK
+### Connect the Marketo program to BrightTALK
 {:#bt-marketo-connect}
 
 1. Navigate to the [Connectors Tab](https://www.brighttalk.com/central/account/20277/channel/17523/connectors) in BrightTALK Demand Central
@@ -205,7 +205,7 @@ PUBLISHING
    * Schedule the `02 Set No-Show Stats` smart campaign for 3-4 hours AFTER the webinar will end.
    * Interesting moments are captured on a global level.
 
-### Schedule your practice session  - BrightTALK
+### Schedule your BrightTALK practice session (Dry Run)
 {:#bt-practice-session}
 
 * Create a Talk, following the [instructions above.](handbook/source/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#create-webcast-in-brighttalk)
@@ -213,7 +213,7 @@ PUBLISHING
 * After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
 * If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
 
-### Loading a video to replay
+### Loading a video to replay in BrightTALK
 {:#bt-video-replay}
 
 * You must upload the video you plan to play in a live talk prior to the event.
@@ -243,7 +243,7 @@ PUBLISHING
    * Note: We may uplevel this logic to include webcast invitations within active nurture programs to limit the overhead for invitation emails.
 4. Once you get approval on the sample email copy, schedule the email programs outlined in step 1.
 
-### Add the webcast to the /events/ and /resources/ pages  - BrightTALK
+### Add the webcast to the /events/ and /resources/ pages
 {:#bt-webpage-listings}
 
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
