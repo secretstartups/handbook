@@ -36,6 +36,48 @@ Best practices for Pathways coming soon.
 
 Best practices for Journeys coming soon.
 
+### Order of Operations for Content Creation
+
+#### Step 1: Determine if content is `public` or `private`
+
+
+| Content Type | Definition | Example Audience |
+| ----- | ----- | ----- |
+| `private` | Content is only visible to the assigned learner or assigned group | Content for the GitLab team or customers only |
+| `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
+
+
+#### Step 2: Build smartcards depending on content status 
+
+##### Building `public` content
+
+1. Build SmartCards independently of any Pathways or Journey
+1. Make sure the `private` content checkbox is unchecked for SmartCards, Pathways, and Journeys
+1. Add SmartCards to relevant Pathways, Journeys, Channels, and Groups
+
+Example: L&D creates a publicly available course called GitLab 101. The SmartCards for this course link to the handbook and should be public to all users in the platform. The team will create each SmartCard independently in the EdCast platform, then add them all to a Pathway. Quizzes for the course will be created within the Pathway to utilize progressive unlocking features. The course can be broadcasted on public channels for new learners to discover the content.
+
+##### Building `private` content 
+
+1. Build Smartcards within a Pathway or Journey
+1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
+1. Assign content directly to an individual user or group
+
+Example: L&D uploads a compliance course with graded content for a specific group of learners. Since there is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
+
+##### Building content with both `public` and `private` elements
+
+Option 3: If parts of content are for certain audience and parts are available to all learners
+
+1. Create a Pathway and confirm the `private` content checkbox is checked
+1. Create `private` content in SmartCards in a the Pathway
+1. Create `publicl` content in a SmartCard outside of the private Pathway
+1. Assign Pathway to specific learners or groups
+
+
+Example: L&D hosts a manager challenge course with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independelty of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
+
+There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
 
 ### Choosing between a badge or certification
