@@ -7,6 +7,27 @@ title: Product develoment flow releases
 
 - Incorporate feedback from 13.6 Gitlab [dogfooding] and broader Gitlab team post launch
 
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9252
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10101
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9308
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10095
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584
+
+https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579
+
+
+
+
 13.6 (2021-11-22)
 
 - Introduce interactive/improved visuals for workflow table and required items*
@@ -50,7 +71,6 @@ https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9237
 - Replaced specific step by step instructions in each phase with potential activities to achieve specific outcomes
 - Specified what’s required in each phase to labels and outcomes, leveraging Required 🔎
 
-Related Epics, Issues and MRs: 
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9053
 
