@@ -206,8 +206,6 @@ The `History` tab on a job provides detailed information about the activity that
 
 To provide feedback about a particular translation to store in our [translation memory](#translation-memory), send an email with the translation job and detailed feedback to translations@smartling.com and copy our customer success manager.  
 
-## Terminology 
-
 ### Translation Memory
 
 A translation memory is a saved record of previously translated content. Each time a translation is saved in Smartling, it is written to a translation memory.
