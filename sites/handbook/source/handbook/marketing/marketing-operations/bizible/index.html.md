@@ -55,6 +55,13 @@ There are two types of Bizible Touchpoints as explained below.
 | Does not relate to the Opportunity Object | Does not relate to the Lead Object |
 | Revenue is not associated to a Bizible Touchpoint |	Since a Bizible Attribution Touchpoint is associated to an Opportunity, all BATs have revenue associated to them |
 
+##### Sales Activity Tracking in Bizible
+Bizible looks at two key fields on a Task/Event to determine if a BT/BAT should be created for it, `Disposition` and `Type`. 
+`Type` will become what system/activity category (IQM for example) created the touchpoint.
+`Disposition` is used by Bizible to determine when a touchpoint should be created.    
+
+In an ideal scenario, all systems will use a single `Disposition` of `meaningful engagement` to tell Bizible when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
+
 ### Online vs. Offline Touchpoint Management
 Placeholder. 
 
