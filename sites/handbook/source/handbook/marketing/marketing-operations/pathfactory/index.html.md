@@ -80,7 +80,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 ## Training
 
-1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/lm-training-videos)
+1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/customer-onboarding)
 1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
