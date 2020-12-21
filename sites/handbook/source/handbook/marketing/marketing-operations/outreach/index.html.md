@@ -64,7 +64,7 @@ You may request new collections by opening an issue in the Marketing Operations 
 - `Variables` can also be used for setting `manual tasks` within an email template. However, these `manual tasks` function differently than a normal `variable`. After the brackets at the beginning of the `variable`, a "!" needs to be added or Outreach will attempt to populate the phrase inside the brackets. For example, a `manual task` should read {{! Edit this email before sending}}. If the "!" is not added, the sequence will fail with a "Template Syntax Error" message. 
 
 ### Outreach Meetings
-The current meeting templates will sync to an SFDC event. 
+The current meeting templates will sync to an SFDC event. Please be aware that Outreach will only create SFDC events for meetings `Booked from Outreach`. Per Outreach's [support documentation](https://support.outreach.io/hc/en-us/articles/360001407934-How-To-Configure-a-Meeting-Booked-Trigger-in-Outreach-), `Booked from Outreach` is defined as "The meeting was booked using the Outreach Public Calendar Link, insert availability, or by sending an invite through Outreach." This is important for SDRs to keep in mind to ensure any [Initial Qualified Meetings (IQMs)](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#qualified-meeting) are tracked appropriately.
 
 |Meeting Type|Use Case|Notes|
 |----|----|----|
