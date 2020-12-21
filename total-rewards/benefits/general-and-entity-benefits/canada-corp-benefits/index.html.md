@@ -102,6 +102,11 @@ GitLab team members enrolled in Canada Life have the option of Akira Virtual Car
 
 GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements).
 
+## Sick Pay
+Ontario - Employees are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
+ 
+Quebec - The Act Respecting Labour Standards (ALS) provides for two days of paid absence per calendar year (January 1 to December 31). This leave runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
+
 ## Parental Leave
 
 **Statutory General Entitlement:**
