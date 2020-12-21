@@ -116,7 +116,7 @@ The vacation premium is an additional cash benefit given to employees for use on
 * It can be paid right away when the vacation is taken, or as a lump sum upon completing one year of service (or employment ends). It is the employer’s choice which method to use.
 * Unused leave must also be paid when employment ends (in other words, the employee does not ‘forfeit’ unused vacation time)
 
-### Remote.com Mexico Leave Policy
+### Remote Technology - Mexico Leave Policy
 
 #### Statutory Maternity Leave
 
@@ -156,7 +156,7 @@ GitLab does not plan to offer pension benefit at this time as the Hungarian pens
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
 
-### Remote.com Hungary Leave Policy
+### Remote Technology - Hungary Leave Policy
 
 #### Statutory Maternity Leave
 
@@ -174,3 +174,38 @@ Additionally to parental leave, workers are entitled to extra vacation days base
 a) two working days for one child; 
 b) four working days for two children; 
 c) a total of seven working days for more than two children under sixteen years of age.
+
+
+## Austria
+
+### Social Security
+
+The Austrian Social Security Act General Social Insurance Act (Allgemeines Sozialversicherungsgesetz, ASVG) has employer and team member contributions to cover statutory requirements such as pension, health insurance, accident insurance and unemployment. 
+
+### Medical
+
+GitLab does not plan to offer Private Health Insurance at this time because team members in Austria can access the public Austrian health insurance system. This health insurance scheme covers all the team members and their family members.  
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Austria has their uniform pension system through The Act on the Harmonisation of Austrian Pension Systems. The amount of a pension is calculated on the basis of the duration of the pension insurance and amount of the contributions paid. In order to receive the pension a team member must have paid contributions for at least 180 months (15 years).
+
+### Life Insurance
+
+GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability.
+
+###  Bonus Payment
+
+The salary will be paid paid 14 times a year. This includes 12 months salary and two bonuses. 13th and 14th month salaries will be taxed at the rate of only 6 %.
+
+### Remote Technology - Austria Leave Policy
+
+#### Statutory Maternity Leave
+
+The statutory entitlement for maternity leave (Mutterschaftsurlaub) is 16 weeks. The leave must start **8 weeks prior to the scheduled delivery date**. For high-risk births, leave after the birth can be extended to 12 weeks. 
+
+#### Statutory Parental Leave
+
+Mothers and fathers are entitled to parental leave until the child reaches the age of 24 months (maximum), provided the parent in parental leave lives in the same household as the child. The minimum period of the parental leave is two months. The dismissal and termination protection ends four weeks after the end of the parental leave.
+
+During the time of parental leave, and provided the conditions are satisfied, parents are entitled to childcare allowance(Kinderbetreuungsgeld) under the Child Care Payment Act from social security. 
