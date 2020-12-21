@@ -16,7 +16,7 @@ These best practices are iterative and will continuously update. As the LXP impl
 
 If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
-If you're just getting started with the EdCast platform, watch this short overview of the user experience in the platform and how new learning content fits into this design.
+If you're just getting started using EdCast, watch this short overview of the user experience in the platform and how new learning content fits into this design.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hm7SLOiV08o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
