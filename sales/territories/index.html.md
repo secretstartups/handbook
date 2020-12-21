@@ -343,6 +343,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe South | Europe South | **SMB-EMEA-Greece** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
 | MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
