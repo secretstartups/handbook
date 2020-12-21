@@ -12,8 +12,8 @@ twitter_creator: '@gitlab'
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Verticurl Agency Overview
-{: #overview}
+## Verticurl Agency Overview
+{: #overview .gitlab-purple}
 
 The Verticurl team will be working with GitLab to execute email marketing setup and other tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@jgragnola` will be PM for GitLab Campaigns issues (including Partner Marketing and Corporate Marketing), while `@lblanchard` will be responsible for passing issues on behalf of Field Marketing. `@ashwin.raj` will be responsible for assignment to team members within Verticurl.
 
@@ -31,7 +31,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
 
 ## Project Management
-{: #project-management}
+{: #project-management .gitlab-purple}
 
 To assist with organizing prioritization and pipeline of issues for Verticurl, we utilize this [project planning doc](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=0). Issues will still be managed within GitLab with commentary taking place there.
 
@@ -40,6 +40,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Shortcut list views
 {: #list-views}
+
 * [All Verticurl Issues](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Verticurl)
 * [Verticurl Issues in Triage](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Verticurl&label_name[]=mktg-status%3A%3Atriage)
 * [Verticurl Issues in WIP](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Verticurl&label_name[]=mktg-status%3A%3Awip)
@@ -79,12 +80,14 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Review Process
 {: #review-process}
+
 Unless otherwise stated, only **ONE** of the people listed as "Reviewer/Approver" in the issue need to approve in order for the email to be set to send by Verticurl.
 
 As stated in "responsibilities of email requesters" section above, the reviewer is responsible for final QA of all copy, grammar, readability, LINKS, tracking, and formatting.
 
 #### Do not use `email.gitlab` links in email copy documents
 {: #email-links}
+
 Please  include **raw URLs** in the copy doc (never `email.gitlab.com...`) and beware not to copy links from previous emails since they are unique to those individual emails.
 
 `email.gitlab` is the CNAME for our Marketo instance, so When Marketo sends an email, it converts the url from `https://about.gitlab.com` or whatever URLs are present in the email to instead be `email.gitlab....` so that it can match up the **unique link clicked** to the **unique lead** and the **unique email** in Marketo. This allows for tracking to the individual clicks, and track click and engagement data back to the individual email.
