@@ -324,7 +324,6 @@ To accomplish these OKRs, we setup a seven step process to implement product met
 | [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Intelligence Support | The target value is in both the chart and in the Performance Indicator (PI) file. | 
 | [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Intelligence Support | :tada: |
 
-
 ### 1. Definition
 
 Determine what metrics are important for your specific section, stage, or group.
@@ -336,7 +335,7 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Stage level - SMAU, Paid SMAU, Other PI
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
-1. Determine the right [collection framework](/direction/product-intelligence/#collection-framework) to utilize. Some guidance for considering collection frameworks:
+1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
   * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
    * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
    * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
