@@ -279,7 +279,7 @@ Compared with people at low-trust companies, people at high trust companies repo
 - 29% more satisfaction with their lives
 - 70% more aligned with their companies purpose
 - 74% less stress
-- 40% more energy at work
+- 40% less burnout
 
 ## Planning for action
 
