@@ -979,6 +979,8 @@ Saying why does not mean justifying a decision against all other suggestions.
 The [DRI](/handbook/people-group/directly-responsible-individuals/) is reponsible for their decision. 
 The DRI is not responsible for convincing other people, but they should be able to articulate their reasoning for the change. 
 
+Lastly, when a GitLab Team Member discovers a place where the why is not provided, reach out to the DRI to get the why added.  It is easy, instead, to speculate the why which is inefficient when that speculation spreads across many team members.
+
 ##### Reproducibility
 {:.no_toc}
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
