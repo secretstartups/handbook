@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Product develoment flow releases
 ---
 
-13.7 (2021-12-22)
+**13.7 (2021-12-22)**
 
 - Incorporate feedback from 13.6 Gitlab [dogfooding] and broader Gitlab team post launch
 
