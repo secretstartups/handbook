@@ -10,9 +10,12 @@ description: "GitLab uses engagement surveys to allow team members to provide fe
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Engagement
+## Engagement
 
-Team member engagement is important to the overall continued success of GitLab.  Engagement strategies have been shown to reduce attrition, improve productivity and efficiency, enhances the company values and enhanced job satisfaction.  One of the ways that GitLab tracks team member engagement is through the bi-annual Team Member Engagement Survey administered by CultureAmp.  Engagement surveys are an important tool that gives team members an opportunity to provide feedback.  It also allows GitLab leadership to gain insight into what is important to team members.  
+Team member engagement is important to the overall continued success of GitLab.  Engagement strategies have been shown to reduce attrition, improve productivity and efficiency, enhances the company values and enhanced job satisfaction.  One of the ways that GitLab tracks team member engagement is through the bi-annual Team Member Engagement Survey administered by CultureAmp.  Engagement surveys are an important tool that gives team members an opportunity to provide feedback.  It also allows GitLab leadership to gain insight into what is important to team members. 
+
+### Survey Confidentiality 
+All survey responses are annonymous. Only managers with five or more respondents will be able to see the quantitative results from their team's responses but no comments will be shared. 
 
 ## 2018 GitLab overall results
 
@@ -34,11 +37,11 @@ The survey consists of 46 questions divided into the following sections:
 * Action
 * Comments
 
-## Benchmark and reporting
+### Benchmark and reporting
 
 The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ team members).  The survey is completely anonymous! There are no names collected with any responses or comments.  
 
-# Results
+### Results
 
 * The benchmark results from all companies who take the survey will be shared with leaders who have 5 or more direct reports who complete the survey. 
 * The E-team will identify one key action item to work during the 6 months between surveys. 
@@ -47,31 +50,29 @@ The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ te
 
 For those that participate in future survey's, please note, once you hit submit you are unable to go in and edit your answers or add additional comments. It will show that you have completed the survey. Please use the "save and exit" option until you are ready to submit your final answers.
 
-# Highest 3 Scores
+### Highest 3 Scores
 
 * I am proud to work for GitLab - 95% favorable response
 * I know how my work contribute to the goals of GitLab - 94% favorable response
 * GitLab is in a position to really succeed over the next three years - 93% favorable response
 
-# Highest 3 Scores vs Benchmark
+### Highest 3 Scores vs Benchmark
 
 * The leaders at GitLab have communicated a vision that motivates me - 88% favorable response and 22% above industry benchmark
 * GitLab effectively directs resources (funding, people and efforts) towards company goals - 74% favorable response and 20% above industry benchmark
 * At GitLab there is open and honest two-way communication - 84% favorable response and 20% above benchmark
 
-# Lowest 3 Scores
+### Lowest 3 Scores
 
 * I have seen positive changes taking place based on recent employee survey results - 32% favorable response
 * My manager or someone else has communicated clear actions based on recent team member survey results - 33% favorable response
 * I believe my total compensation (base salary+any bonus+benefits+equity) is fair relative to similar roles at other companies - 43% favorable response
 
-# Lowest 3 Scores vs Benchmark
+### Lowest 3 Scores vs Benchmark
 
 * I have seen positive changes taking place based on recent employee survey results - 32% favorable response and 12% below industry benchmark
 * My manager or someone else has communicated clear actions based on recent team member survey results - 33% favorable response and 11% below industry benchmark
 * I believe my total compensation (base salary+any bonus+benefits+equity) is fair relative to similar roles at other companies - 43% favorable response and 10% below industry benchmark
-
-
 
 ## October 2019 Engagement Survey results 
 
@@ -99,11 +100,11 @@ The survey consisted of 46 questions divided into the following sections:
 * Action
 * Comments
 
-## Benchmark and reporting
+### Benchmark and reporting
 
 The 2019 survey will be compared to the 2018 results.  The survey is completely anonymous! There are no names collected with any responses or comments.  
 
-# Results
+### Results
 
 * Survey results will be shared with leaders who have 5 or more direct reports who complete the survey. 
 * The E-team will identify one or two key action item to work during the 6 months between surveys. 
@@ -111,7 +112,7 @@ The 2019 survey will be compared to the 2018 results.  The survey is completely 
 * Functional results engineering, sales, etc will be made available to the entire company to review.
 
 
-## Reporting
+### Reporting
 
 Managers with 5+ reporting team members will receive an email from Culture Amp inviting them to review their results. Division and Department leaders will also receive an email from Culture Amp inviting them to review their departments or Divisions overall results. All demographics are pulled from BambooHR and there is not a way to add custom reporting options.  
 
@@ -122,20 +123,19 @@ Quick tips on Culture Amp and exporting reports or utilizing the tool.
 * Filtering: On the far left side you will see +Add Filter.  This option will allow managers and leaders to view results based on various demographics like tenure, division and department.
 * Take Action:  Managers do have the option to build an action plan and track progress via CultureAmp based on their results.  
 
-
-## Highest 3 scores
+### Highest 3 scores
 
 *  I would recommend GitLab as a great place to work - 95% favorable
 *  GitLab is in a position to really succeed over the next three years - 94%
 *  I am proud to work at GitLab - 94%
 
-## Lowest 3 Scores
+### Lowest 3 Scores
 
 *  I have seen positive changes since the previous engagement survey - 29%
 *  I have been provided an opportunity to see and discuss prior engagement survey results - 46%
 *  I believe action will take place as a result of this survey - 64%
 
-## 2019 E Team focus areas
+### 2019 E Team focus areas
 
 *  Taking action from the engagement survey
 *  Manager encouragement of team member development
@@ -148,22 +148,21 @@ Feel free to follow the [2020 Engagement Survey Plan](https://gitlab.com/gitlab-
 
 Please reach out to the People Operations Team should you have any questions or need any guidance with the process. You can reach us via email peopleops@domain or via slack #peopleops.
 
-
-## Benchmark and reporting
-
-
-# Results
+### Benchmark and reporting
 
 
-## Reporting
+### Results
 
 
-## Highest 3 scores
+### Reporting
 
 
-## Lowest 3 Scores
+### Highest 3 scores
 
 
-## 2020 E Team focus areas
+### Lowest 3 Scores
+
+
+### 2020 E Team focus areas
 
 
