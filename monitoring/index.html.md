@@ -31,7 +31,7 @@ A service is unavailable, if, for one minute:
 * Less than 95% of requests have a latency within their "satisfactory" threshold
 * **OR**, more than 0.5% of requests return a 5XX error status response.
 
-In other words, a service needs to simultaneously meet both of it's SLO targets in order to be considered available. If either target is not met, the service is considered unavailable.
+In other words, a service needs to simultaneously meet both of its SLO targets in order to be considered available. If either target is not met, the service is considered unavailable.
 
 The availability score for a service is then calculated as the percentage of time that it is available. The Availability score for _each_ service combined define the platform Service Level Availability (SLA). The SLA number indicates availability of GitLab.com for a select period of time.
 
@@ -40,7 +40,7 @@ For example, if service becomes unavailable for a 10 minute period, the availabi
 * 99.90% for the week (1 430 minutes of availability out of 1 440 minutes in a week)
 * 99.97% for the month (43 190 minutes of availability out of 43 200 minutes in the month)
 
-Finally, the availability metric for GitLab.com is calculated as a weighed average availability over the following services ([weights](https://gitlab.com/gitlab-com/runbooks/blob/master/services/service-catalog.yml) in brackets):
+Finally, the availability metric for GitLab.com is calculated as a weighted average availability over the following services ([weights](https://gitlab.com/gitlab-com/runbooks/blob/master/services/service-catalog.yml) in brackets):
 
 1. `web` (5)
 1. `api` (5)
@@ -83,7 +83,7 @@ We collect data using InfluxDB and Prometheus, leveraging available exporters li
 
 We have 3 prometheus clusters: main prometheus, prometheus-db, and prometheus-app. They provide an interface to query metrics using [PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/). Each prometheus cluster collects a set of related metrics:
 
-- [main prometheus](https://prometheus.gprd.gitlab.net/graph): It collects various [metrics](https://prometheus.gprd.gitlab.net/targets) such as consul, haproxy, etc.
+- [main prometheus](https://prometheus.gprd.gitlab.net/graph): It collects various [metrics](https://prometheus.gprd.gitlab.net/targets) such as consul and haproxy.
 - [prometheus-db](https://prometheus-db.gprd.gitlab.net/graph): It collects Postgresql database related [metrics](https://prometheus-db.gprd.gitlab.net/targets)  such as pg-bouncer exporter and postgres-exporter.
 - [prometheus-app](https://prometheus-app.gprd.gitlab.net/graph): It collects application related [metrics](https://prometheus-app.gprd.gitlab.net/targets).
 
@@ -110,12 +110,13 @@ can easily view the same data we see.
 
 #### Adding Dashboards
 
-To learn how to set up a new graph or dashboard using Grafana, take a look at the following resources
+To learn how to set up a new graph or dashboard using Grafana, take a look at the following resources:
 
 - [Guide to setting up Grafana dashboards by Grafana](http://docs.grafana.org/guides/getting_started/)
 - [YouTube video showing how to set up a dashboard](https://www.youtube.com/watch?v=sKNZMtoSHN4&index=7&list=PLDGkOdUX1Ujo3wHw9-z5Vo12YLqXRjzg2)
 - The [Grafana repo](https://gitlab.com/gitlab-org/grafana-dashboards) where we keep an archive of InfluxDB dashboards created in Grafana. Use these to see details in the file structure, but note that the repo is truly an archive (nothing populates _from_ it) and can be out of date.
-- Need access to add a dashboard? Ask any team lead within the infrastructure team.
+
+Need access to add a dashboard? Ask any team lead within the [infrastructure team](/company/team/?department=infrastructure-department).
 
 ### Selection of Useful Dashboards from the Monitoring
 
@@ -147,7 +148,7 @@ Elasticsearch cluster on GCP](https://www.elastic.co/gcp) and as such our only
 interface to this is through APIs, Kibana and the elastic.co web UI.  For
 monitoring system performance and metrics, Elastic's x-pack monitoring metrics are used. They are sent to a dedicated monitoring cluster. Long-term we intend to switch to Prometheus and Grafana as the preferred
 interface. As it is managed by Elastic they run the VMs and we do not have
-access to them. However, for investigating errors and incidents raw logs are
+access to them. However, for investigating errors and incidents, raw logs are
 available via [Kibana](https://log.gprd.gitlab.net).
 
 Staging logs are available via a separate [Kibana](https://nonprod-log.gitlab.net/) instance.
