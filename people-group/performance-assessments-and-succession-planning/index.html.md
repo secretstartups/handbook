@@ -39,7 +39,7 @@ Performance includes both results and behaviors, and is broken into three areas:
 
 **Please note that `Developing` should not be automatically associated with underperformance. As highlighted below, `Developing` can also be used for new hires or newly promoted team members that are still ramping up in their new roles. Your manager will provide example and detail to ensure the rationale behind the `Developing` rating is communicated.**
 
-Around 10-15% of the team generally fall into the “Developing” category. Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
+Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
 
 - The team member has not been in the position/at GitLab long enough to adequately demonstrate performance.
 - The team member has been recently promoted and needs time to ramp up performance in the new role. 
@@ -59,7 +59,7 @@ Examples:
 
 ### Performing
 
-Most team members (60-65%) fall into the “Performing” category. Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
+Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
 
 - The team member is consistent and stable in their performance.  
 - The team member has the required knowledge, skills and abilities to perform in the role successfully and also applies values and competencies in their work.
@@ -74,7 +74,7 @@ Examples:
 
 ### Exceeding
 
-A relatively small portion of team members (about 25%) generally fall into the “Exceeding” category. Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
+Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
 
 - Individual is developing more quickly than the demands of their current position. 
 - They rise to the challenge when give additional assignments and achieve significant results.
