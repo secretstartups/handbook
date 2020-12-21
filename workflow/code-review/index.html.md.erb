@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: "Code Review"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -50,41 +45,40 @@ As a reviewer, a great way to improve your reviewing skills is to participate in
 We have two guidelines for project maintainership, but no concrete rules:
 
 1. In general, the further along in their career someone is, the more we expect them to be capable of becoming a maintainer.
-2. Maintainers should have an advanced understanding of the GitLab project that they wish to maintain. Before applying for maintainership, a person should get a good feel for the project codebase, expertise in one or more domains, and deep understanding of our coding standards.
+1. Maintainers should have an advanced understanding of the GitLab project that they wish to maintain. Before applying for maintainership, a person should get a good feel for the project codebase, expertise in one or more domains, and deep understanding of our coding standards.
 
 Apart from that, someone can be considered as a project maintainer when both:
 
 1. The MRs they've reviewed consistently make it through maintainer review without significant additionally required changes.
-2. The MRs they've written consistently make it through reviewer and maintainer review without significant required changes.
+1. The MRs they've written consistently make it through reviewer and maintainer review without significant required changes.
 
 Once those are done, they should:
 
 1. Create a MR to add the maintainership for the project they wish to maintain to their team page entry.
-2. Explain in the MR body why they are ready to take on that responsibility.
-3. Use specific examples of recent "maintainer-level" reviews that they have performed. These include but are not limited to:
+1. Explain in the MR body why they are ready to take on that responsibility.
+1. Use specific examples of recent "maintainer-level" reviews that they have performed. These include but are not limited to:
     1. MRs that introduce non-trivial changes (architectural changes, refactors, developer experience upgrades)
-    2. MRs that improve our quality of the project (tests, performance)
-    3. MRs that deliver full features (ideally this is done iteratively, so a good maintainer can guide someone to break down large MRs to smaller ones)
-    4. **Note:** MRs that introduce very simple changes are good, but should not be the only source of reviews
-4. Assign the MR to their manager and mention the existing maintainers of the relevant project (GitLab, GitLab Shell, etc) and area (backend, frontend, etc.).
+    1. MRs that improve our quality of the project (tests, performance)
+    1. MRs that deliver full features (ideally this is done iteratively, so a good maintainer can guide someone to break down large MRs to smaller ones)
+    1. **Note:** MRs that introduce very simple changes are good, but should not be the only source of reviews
+1. Assign the MR to their manager and mention the existing maintainers of the relevant project (GitLab, GitLab Shell, etc) and area (backend, frontend, etc.).
 
 The approval process to follow is:
 
 1. The MR will remain open for 5 working days.
-   If **more than half** of the existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
-   **and** there are no blocking concerns raised during this period, we've got ourselves a new maintainer!
+If **more than half** of the existing maintainers of the relevant engineering group (e.g. backend) approve the MR,
+**and** there are no blocking concerns raised during this period, we've got ourselves a new maintainer!
 1. If the MR does not have enough approvals after this period, **and** no blocking concerns, then the manager
-   should mention the existing maintainers again in a new comment as well as in the relevant Slack channel (e.g. `#backend`) and keep the MR open for 5 more working days.
+should mention the existing maintainers again in a new comment as well as in the relevant Slack channel (e.g. `#backend`) and keep the MR open for 5 more working days.
 1. After the extra period, any missing feedback from a maintainer should be counted as a neutral response and the manager can merge the MR given no blocking concerns were raised!
 1. Normal non-blocking feedback should be submitted as comments to the MR. To support Gitlab Values and avoid [groupthink](https://en.wikipedia.org/wiki/Groupthink), any [blocking negative feedback](https://about.gitlab.com/handbook/values/#negative-feedback-is-1-1) should be instead submitted to the manager of the aspiring maintainer. The manager will then share the feedback with the aspiring maintainer and post a generic message with a "TL;DR" in the MR.
-1. If *there are blocking concerns* raised at any point in the approval process, the maintainers who raised the concern should actively work with the maintainer nominee's manager to develop a plan on how to resolve the concern.
+1. If _there are blocking concerns_ raised at any point in the approval process, the maintainers who raised the concern should actively work with the maintainer nominee's manager to develop a plan on how to resolve the concern.
 
 Since the manager of the new maintainer is the MR assignee, they should be the one merging the MR.
 
 It is helpful if the person merging the MR also leaves a comment with a summary, see [example 1](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22212#note_166997960) or [example 2](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29148#note_212342171) for reference.
 
 When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the ["Engineering Week-in-Review"](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit) Google doc.
-
 
 The existing maintainers of the relevant engineering group and project will also raise any areas for growth on the merge request. If there are many gaps, the reviewer will need to address these before asking for reconsideration.
 
@@ -108,20 +102,19 @@ Training and onboarding new maintainers is an important process. As the engineer
 
 [Recent research](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8504) has shown that the trainee process for new maintainers is hindered by several key factors:
 
-* Trainees self-perceived readiness and confidence
-* Trainees ability to review a substantial quantity of MRs
-* Trainees ability to review a diversity of MRs covering enough breadth across the codebase
+- Trainees self-perceived readiness and confidence
+- Trainees ability to review a substantial quantity of MRs
+- Trainees ability to review a diversity of MRs covering enough breadth across the codebase
 
 Structure
 
 1. Participation is voluntary for both Maintainers and Trainees.
-1. Maintainers may directly mentor up to 4 Trainees at a time. 
+1. Maintainers may directly mentor up to 4 Trainees at a time.
 1. Mentor / Trainee assignments are coordinated within a `maintainer_mentorship.yml` file.
 1. New Trainees need to locate an existing Maintainer that has an opening available in `maintainer_mentorship.yml` and contact the Maintainer directly.
 1. Every 6 weeks the Maintainer will check-in with each Trainee. This could happen async or via Coffee chat.
 1. The goal of the checkin is to: review MRs, answer questions, clarify any doubts, and track readiness toward graduating.
 1. Mentorship is capped at 12 months by which the Trainee should be prepared to graduate.
-
 
 Benefits
 
@@ -129,7 +122,6 @@ Benefits
 1. Gives trainees a regular touch point for skilling-up in deficient areas
 1. Creates stronger networks amongst trainees/maintainers than currently exists
 1. Mentoring directly under a maintainer should catalyze more competence and confidence in taking ownership of the GitLab codebase.
-
 
 #### After becoming a maintainer
 
@@ -144,13 +136,17 @@ If you’ve become a new maintainer, follow these instructions to request releva
 
 We aim to keep the engineer : maintainer ratio under 6, for both frontend and backend. We track this in the [Engineer : Maintainer Ratio dashboard][dashboard]:
 
+``` sse
 <embed width="100%" height="100%" style="min-height:850px;" src="<%= signed_periscope_url(dashboard: 475647, embed: 'v2') %>">
+```
 
 ### Maintainer load
 
-We aim to keep the merge request per maintainer type at a reasonable level as well.  We track this in the [Merge Requests: MR Count and Ratio by FE/BE/DB][ratio]:
+We aim to keep the merge request per maintainer type at a reasonable level as well. We track this in the [Merge Requests: MR Count and Ratio by FE/BE/DB][ratio]:
 
+``` sse
 <embed width="100%" height="100%" style="min-height:400px;" src="<%= signed_periscope_url(dashboard: 655064, embed: 'v2') %>">
+```
 
 ## Domain Experts
 
@@ -161,10 +157,12 @@ Our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.
 We currently don't provide rigid rules for what qualifies a team member as a domain expert and instead we use a boring solution of sensible defaults and self-identification.
 
 Sensible defaults:
+
 - Team members working in a specific stage/group (e.g. create: source code) are considered domain experts for that area of the app they work on
 - Team members working on a specific feature (e.g. search) are considered domain experts for that feature
 
 Self-identification:
+
 - Team members can self-identify as a domain expert for a specific feature (e.g. file uploads)
 - Team members can self-identify as a domain expert for a specific technology (e.g. GraphQL), product feature (e.g. file uploads) or area of the codebase (e.g. CI).
 
@@ -178,7 +176,8 @@ The only requirement to be considered a domain expert is to have substantial exp
 Example:
 
 **domain_expertise.yml**
-```yaml
+
+``` yaml
 webpack:
   display_name: Webpack
   link: https://webpack.js.org/
@@ -188,7 +187,8 @@ frontend_architecture:
 ```
 
 **team.yml**
-```yaml
+
+``` yaml
 domain_expertise:
     - webpack
     - frontend_architecture
@@ -204,7 +204,7 @@ The expertise of a team member can be seen on the [Engineering Projects](/handbo
 
 To ensure swift feedback to ready-to-review code, we maintain a `first-response` Service-level Objective (SLO). The SLO is defined as:
 
-> * first-response SLO = (time when first response is provided) - (time MR is submitted and no longer marked WIP) < 2 business days
+> - first-response SLO = (time when first response is provided) - (time MR is submitted and no longer marked WIP) < 2 business days
 
 ### Managing expectation
 
