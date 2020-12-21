@@ -41,6 +41,12 @@ Team members registered to the Social Insurance are also registered with the Emp
 
 ### GitLab GK Leave Policy
 
+#### Sick Leave
+
+When a person is unable to work because of injury or sickness, the Health Insurance Scheme provides 60% of the standard monthly remuneration (determined on the basis of the insured person's basic monthly salary/wage) as a sickness or injury benefit from the fourth day, for up to 18 months. In the case of the National Health Insurance Scheme, these benefits are voluntary under the law; in practice, however, most National Health Insurance Associations provide such sickness benefits.
+
+Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked. In the event that a team member is out sick for greater than three consecutive calendar days, the team member must then follow the process with regard to (Communicating Illness-Related Leave)[https://about.gitlab.com/handbook/paid-time-off/#communicating-illness-related-leave].
+
 #### Statutory Maternity Leave
 
 The statutory entitlement for maternity leave is 14 weeks. The leave must start **6 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 2/3 of her base salary, and is covered by social insurance.
