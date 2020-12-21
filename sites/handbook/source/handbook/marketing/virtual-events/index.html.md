@@ -19,13 +19,17 @@ At GitLab, we believe everyone can contribute. Because nearly anyone with an int
 ## Calendar
 {: #calendar .gitlab-purple}
 
+<figure>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%239E69AF&amp;color=%23009688&amp;title=All%20GitLab%20Virtual%20Events&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+</figure>
+
 We have 4 separate Google calendars to manage different types and platforms of virtual events in GitLab:
 * [GitLab-Hosted BrightTALK Webcasts](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [GitLab-Hosted Zoom Webcasts/Workshops](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Self-service](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [External/Sponsored Virtual Events](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-All 3 calendars are consolidated into a single GitLab virtual events calendar view (below - calendars are not public because they contain secure login for presenters). **The purpose of the consolidated view is to help event organizer(s) minimize topic overlap with other GitLab virtual events happening around the same time and to provide executive visibility into ALL virtual events that GitLab is running/participating in.**
+All 4 calendars are consolidated into a single GitLab virtual events calendar view (above - calendars are not public because they contain secure login for presenters). **The purpose of the consolidated view is to help event organizer(s) minimize topic overlap with other GitLab virtual events happening around the same time and to provide executive visibility into ALL virtual events that GitLab is running/participating in.**
 
 #### Glossary of calendar event naming convention:
 {: #calendar-glossary}
@@ -40,9 +44,7 @@ All 3 calendars are consolidated into a single GitLab virtual events calendar vi
 * `[Hold VC sponsored] Conference title` - Sponsored virtual conference still in planning
 * `[VC sponsored] Conference title` - Confirmed sponsored virtual conference
 
-<figure>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%239E69AF&amp;color=%23009688&amp;title=All%20GitLab%20Virtual%20Events&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
-</figure>
+
 
 ## Virtual events decision tree
 {: #decision-tree .gitlab-purple}
@@ -96,6 +98,7 @@ Note: these events are not included in the above decision tree as they are not G
 
 ### GitLab-hosted Virtual events details by type
 {: #detail-by-type}
+
 |                           |  Self-service |  Self-service w/ promotion   | Webcast | Virtual Conference  |
 |---------------------------|---------|----------------|------------------|----------|
 | Attendee Size             | 1-100              | 1-100                 | 201-1000 | 500+
