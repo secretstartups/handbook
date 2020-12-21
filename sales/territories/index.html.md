@@ -71,7 +71,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: James Roberts
+- **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
@@ -106,8 +106,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
 | NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
 | NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | John Williams | James Altheide |
-| NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
+| NA West | Southwest | **Named Accounts** | Steve Clark | Blake Chalfant-Kero |
+| NA West | SoCal | **Large-AMER-SoCal**TBD** | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
 | NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
