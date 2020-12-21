@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Gender and Sexual Orientation Identity Definitions and FAQ"
+description: "Gender and sexual identity definitions, frequently asked questions, and resources"
 ---
 
 ## On this page

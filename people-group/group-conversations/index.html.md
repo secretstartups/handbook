@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Group Conversations"
+description: "Everything you need to know about GitLab's daily, recurring Group Conversations"
 ---
 
 ## On this page

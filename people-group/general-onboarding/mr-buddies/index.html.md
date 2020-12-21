@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Merge Request Buddies"
+description: "Merge request buddies at GitLab"
 ---
 
 Merge Request buddies are available to help other team members who need help with merge requests that will update the GitLab handbook or website. Whether you are learning how to use the GitLab Web IDE, make updates to the handbook and website locally, or need answers to other Git and GitLab questions, Merge Request buddies are here to help.

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Frequently Requested"
+description: "Descriptions of frequent requests to the People Group and how to proceed"
 ---
 
 ## On this page
