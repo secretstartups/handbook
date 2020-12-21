@@ -107,6 +107,8 @@ Ontario - Employees are entitled to up to three full days of job protected unpai
  
 Quebec - The Act Respecting Labour Standards (ALS) provides for two days of paid absence per calendar year (January 1 to December 31). This leave runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
 
+Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv.qc.ca/fr/showdoc/cs/N-1.1) prévoit deux jours d'absence rémunérée par année civile (du 1er janvier au 31 décembre). Ce congé s'exécute simultanément avec les règles de congé de GitLab. Les employés doivent désigner tout congé pour maladie avec la catégorie «Out Sick» dans PTO par Roots pour s'assurer que le droit aux congés de maladie annuels est correctement suivi.
+
 ## Parental Leave
 
 **Statutory General Entitlement:**
