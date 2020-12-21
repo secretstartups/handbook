@@ -13,12 +13,12 @@ twitter_creator: '@gitlab'
 {:toc .hidden-md .hidden-lg}
 
 # Verticurl Agency Overview
-{: #overview .gitlab-purple}
+{: #overview}
 
 The Verticurl team will be working with GitLab to execute email marketing setup and other tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@jgragnola` will be PM for GitLab Campaigns issues (including Partner Marketing and Corporate Marketing), while `@lblanchard` will be responsible for passing issues on behalf of Field Marketing. `@ashwin.raj` will be responsible for assignment to team members within Verticurl.
 
 ### Team Members
-{: #team .gitlab-purple}
+{: #team}
 
 [View all team members with GitLab handles and email addresses here](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
 
@@ -31,7 +31,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
 
 ## Project Management
-{: #project-management .gitlab-purple}
+{: #project-management}
 
 To assist with organizing prioritization and pipeline of issues for Verticurl, we utilize this [project planning doc](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=0). Issues will still be managed within GitLab with commentary taking place there.
 
