@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing - Emergency Response"
+description: "GitLab's response process for marketing emergencies"
 ---
 
 ## On this page
