@@ -25,7 +25,7 @@ https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579
 
-13.6 (2021-11-22)
+**13.6 (2021-11-22)**
 
 - Introduce interactive/improved visuals for workflow table and required items*
 - Clarify required outcomes and optimize resources/links for activities as well as alternate issues types such as bugs
