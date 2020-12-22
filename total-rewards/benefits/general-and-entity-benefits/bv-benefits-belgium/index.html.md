@@ -32,6 +32,13 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
 
 ## GitLab B.V. Belgium Leave Policy
 
+* Sick Leave
+  - Every team member remains entitled to their remuneration to be paid by GitLab during the first 30-day period of incapacity for work, regardless of their seniority. This leave runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
+      * When two incapacities follow one another without interruption (e.g. successive sicknesses of a different nature), there is only one period of incapacity and the guaranteed remuneration is not due again.
+      * If a team member is incapacitated again after returning to work normally, the guaranteed remuneration is not due again if the new incapacity for work occurs within the first 14 days following the end of a period of incapacity for work that gave rise to the payment of the guaranteed remuneration. 
+        - If the entitlement to the guaranteed salary has not been fully exhausted during the first period of incapacity, the team member is entitled to the guaranteed salary for the remaining period of incapacity.
+        - A new guaranteed salary is also due again if the team member can prove by means of a medical certificate that this new incapacity for work was caused by another sickness or accident.
+        
 * Statutory Parental Leave
   - Maternity leave is 15 weeks, which can be split in prenatal leave, one week before the delivery date. Postnatally leave is at least nine weeks, allowing the mother to choose five weeks, either as prenatal as postnatally.
   - Dads are given 10 days, three of which are 100% paid. The remaining seven can be used during the baby's first four months.
