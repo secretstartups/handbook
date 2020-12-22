@@ -16,7 +16,7 @@ For the customers that have [Priority Support](/support/#priority-support), the 
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 
-## Expectations for on-call
+## Expectations for Support Engineer on-call
 
 ### Be alert and available
 
@@ -166,7 +166,7 @@ Remember to say only things that help the customer and that maintain their confi
 - _I'm working on finding someone who has specific expertise in this area._
 - _I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved._
 
-If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](#support-manager-on-call) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+If you're stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 ### Post-call
 
@@ -203,20 +203,30 @@ We're expecting, broadly that emergencies will fall into one of three categories
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
 
-## Support Manager On-call
+## Expectations for Support Manager On-call
 
-Support Managers also have an on-call rotation. During their rotation, the manager’s responsibilities are:
+Support Managers also have an on-call rotation. The support manager on-call is responsible for the below:
 
-- to act as an escalation point for missed customer emergency pages
-- find staff to work on emergencies during [multiple emergencies](#handling-multiple-simultaneous-emergencies)
-- to triage and investigate tickets that are escalated in `#support_escalations` to the end of understanding the scope of what is being asked for _(business days only)_
-- to provide ownership and assignment for tickets that are escalated in `#support_escalations`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find the right engineer to work the ticket _(business days only)_
-- to inform those who have posted an escalation request in the `#support_self-managed` or `#support_dot-com` channels to post their escalation request instead in the `#support_escalations` channel _(business days only)_
-- to act as a notification point for [security incidents](/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact)
-- to coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests _(business days only)_
-- to arrange for another manager to handle on-call responsibilities temporarily while they are engaged on a customer call by:
+### Customer emergency pages and other incidents
+
+- Act as an escalation point for missed customer emergency pages.
+- Find staff to help with [multiple emergencies](#handling-multiple-simultaneous-emergencies).
+- Act as a notification point for [security incidents](/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact).
+
+### Escalations, requests and questions in #support_escalations _(business days only)_
+
+- Triage and investigate tickets that are escalated in `#support_escalations` to understand the scope of the request.
+     - After initial triage of a new escalation in `#support_escalations`, if the determined action to take needs input and help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Loop in relevant engineers (support and/or dev) or groups there and let the person who raised the escalation in `#support_escalations` know that all technical ticket-related discussion will happen in the new thread. This helps avoid engineers being looped into multiple threads and channels, and helps keep the technical discussion in one place.
+- Provide ownership and assignment for tickets that are escalated in `#support_escalations`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find an appropriate engineer to work the ticket.
+- Inform those who have posted an escalation request in `#support_self-managed` or `#support_dot-com` to post their escalation request instead in `#support_escalations`. Do this by responding to their request with only the :escalate: emoji, which will send an automated and anonymous reply describing the correct process.
+- Coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests.
+
+If you will be unable to handle on-call for a few hours on a weekday due to being engaged in a customer call or otherwise, arrange for another manager to handle on-call responsibilities temporarily by:
+
     1. asking a specific manager to cover, and then if necessary,
-    1. posting a request in `#spt_managers` for any manager to volunteer to cover if their specific request goes unanswered.
+    1. posting a request in `#spt_managers` for any manager to volunteer to cover if the specific request goes unanswered.
+
+To swap your on-call duty with someone, follow the steps listed under [Swapping on-call duty](/handbook/support/on-call/#paging-the-on-call-manager).
 
 ### Seeing which manager is on-call
 
