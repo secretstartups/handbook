@@ -33,7 +33,7 @@ Here are the individuals who work as part of one of the Ops Section groups.
 <% section.stage_list.each do |stage| %>
    <% stage.group_list.each do |group| %>
 <%="#### #{group.name}" %>
-<%= group.group_table() %>
+<%= partial('includes/product/group_table', locals: {group: group} ) %>
    <% end %>
 <% end %>
 
