@@ -97,7 +97,24 @@ For information on how Field Marketing uses translations, please head to [that p
 
 You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles/115004480513-Respond-to-Questions-from-Linguists#h_6bb30780-12a1-4a55-a78b-55c40e14361f). 
 
-## Marketo
+## PathFactory 
+
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
+
+## Projects
+
+Projects are organized by the integration type:
+
+1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
+1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
+1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
+1. Documents (.docx, .pdf files)
+
+### Documents
+
+Coming soon.
+
+### Marketo
 
 The Marketo project is where you will submit Marketo assets (emails, landing pages, forms) to Smartling for translation. The Marketo connector is a mirror-image of our Marketo instance and is updated in real-time.
 
@@ -113,22 +130,27 @@ Auto-authorize - automatically approves any Marketo job submission for translati
 
 When the translation job is complete, Smartling will automatically download those translated assets back to Marketo. The chron scheduler in Smartling looks for completed Marketo jobs every hour and pushes them to Marketo. The original source language asset is not changed, a translated copy is created and the file name is appended with the abbreviated language code (e.g. French = fr).
 
-### Translation Progress
+#### Translation Progress
 
 In the Marketo connector within Smartling, `Translation Progress` will show you all the Marketo jobs submitted for translation. The `Applied` column is a date stamp showing when Smartling pushed that particular asset back to Marketo. If a Marketo translation job is completed and it's still showing up in the `Translation Progress` queue, you can select it from this menu and click the `Export to Marketo` button. Completed Marketo translation will get pushed back to Marketo every hour. The asset should will be pushed to wherever the source file is located within Marketo. It will not overwrite the original file. A translated copy is created and the locale code will be appended to translated asset.
 
-## PathFactory 
+#### Request a job (Marketo)
 
-There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
+The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
 
-## Projects
+<details>
+<summary markdown='span'>
+Request a job in the Marketo project
+</summary>
 
-Projects are organized by the integration type:
+1. Click `Projects` and choose `GitLab - Marketo`.
+1. Click the `Marketo` tab under `Account Settings`.
+1. From the `Translate` drop down, select the type of Marketo asset you wish to translate (snippets, forms, landing pages, emails, programs). 
+1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
+1. Once you have selected the assets you want translated, click the `Request Translation` button. 
+1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
 
-1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
-1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
-1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
-1. Documents (.docx, .pdf files)
+</details>
 
 ## Jobs
 
@@ -162,31 +184,10 @@ Request a job in the Documents project
 
 </details>
 
-## Request a job (Marketo)
-
-The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
-
 <details>
 <summary markdown='span'>
-Request a job in the Marketo project
+Download a translated job from the Documents project
 </summary>
-
-1. Click `Projects` and choose `GitLab - Marketo`.
-1. Click the `Marketo` tab under `Account Settings`.
-1. From the `Translate` drop down, select the type of Marketo asset you wish to translate (snippets, forms, landing pages, emails, programs). 
-1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
-1. Once you have selected the assets you want translated, click the `Request Translation` button. 
-1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
-
-</details>
-
-## Attachments
-
-You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
-
-## Document Project Jobs
-
-To download a translated job from the `GitLab Documents` project:
 
 1. Click the `Jobs` tab from the `GitLab Documents` project.
 1. Navigate to your job from the list and click the title link of your job.
@@ -197,6 +198,12 @@ To download a translated job from the `GitLab Documents` project:
  - `Languages in file names` - adds the locale code at the end of the file name
  - `Subfolders for languages and languages in file names` 
 1. Click `Confirm`.
+
+</details>
+
+## Attachments
+
+You can upload additional files, screenshots, etc. to provide context to the translators about the job. The more context you provide around a job the better.
 
 ## Issues
 
