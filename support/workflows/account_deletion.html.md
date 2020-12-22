@@ -28,7 +28,7 @@ This will simply advise the user to email `personal-data-request@gitlab.com` in 
 
 The request will then be serviced when received in the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) (process detailed below).
 
-### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com` and `personal-data-request@gitlab.com)
+### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com` and `personal-data-request@gitlab.com`)
 
 When a user emails `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` an issue is automatically created in the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/issues) via the [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) feature, meaning comments made on the issue will be emailed to the submitter.
 
