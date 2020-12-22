@@ -427,6 +427,8 @@ You are able to change the appearance of the following components of a content t
 
 The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within content tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
 
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
+
 ### Create a New Language Config
 
 1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
