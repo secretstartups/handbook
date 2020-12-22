@@ -63,7 +63,6 @@ The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.go
 
 ## Project Management for BrightTALK Webcasts
 {:#bt-project-management .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
-
 Campaign webcasts are hosted on BrightTALK, and project management is organized by Campaign Managers.
 
 ### Organizing BrightTALK webcast epics and issues
