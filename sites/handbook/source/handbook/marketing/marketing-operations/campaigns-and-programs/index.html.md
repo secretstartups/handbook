@@ -558,6 +558,9 @@ Currently any form starting with these are actively being added into a program a
 - singleappci
 - iacgitops
 - vccusecase
+- simplifydevops
+- cicdcmp2
+
 
 ##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
 - Use format `YYYY_Social_Name_Linkedin Lead Gen`
@@ -572,6 +575,7 @@ Currently any form starting with these are actively being added into a program a
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
