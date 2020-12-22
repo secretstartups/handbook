@@ -16,7 +16,7 @@ description: "Marketing Strategy and Performance supports the entire Marketing t
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Charter
 
-Marketing Strategy and Performance supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing also working with the data team.
+Marketing Strategy and Performance supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing working with the data team.
 
 We are a small team with a leader and data analysts.
 
@@ -76,7 +76,7 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
 
-Mktg Strategy uses a [local issue board](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660)within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
+Mktg Strategy uses a [local issue board](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
 
 ### Epics
 
@@ -132,7 +132,7 @@ If there are handbook updates that need to be made as a result of work done in a
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktgops&state=&sort=" class="btn btn-purple" style="width:170px;margin:5px;">View Milestones</a>
+    <a href="https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=sandp&state=&sort=" class="btn btn-purple" style="width:170px;margin:5px;">View Milestones</a>
   </div>
 </div>
 
@@ -142,7 +142,7 @@ The Marketing Strategy team has continued our experiment with MOps on 2020-04-20
 
 ### Operational Timeline of Changes
 
-Periodically Marketing Strategy and Performance becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and have tracking of the changes that were made.
+Periodically Marketing Strategy and Performance becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and can track the changes that were made.
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
