@@ -1,13 +1,18 @@
 ---
 layout: handbook-page-toc
 title: "Smartling"
+description: "Smartling is our localization platform that is used to translate pages on our website, emails and landing pages in Marketo, and various marketing collateral."
 ---
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
 
 ## Uses
 
@@ -120,7 +125,7 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 
 Projects are organized by the integration type:
 
-1. Marketo (snippets, forms, landing pages, emails, programs)
+1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
 1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
 1. Documents (.docx, .pdf files)
@@ -131,15 +136,20 @@ Each job should only be translating to one language pair. For instance, if you h
 
 Each jobs is parsed differently in Smartling depending on the file type. So if a similar string exists both in a web page (HTML) and a document (PDF), Smartling may not match those strings in the same way.
 
+You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
+
+All saved jobs must be authorized before they are submitted for translation.
+
 ## [CSV](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files)
 
 Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
 
 ## Request a job (Documents)
 
-You can request a translation job either from the main `Jobs` tab in the top navigation or from the project level the job will be conducted in based on the file type (Marketo, GDN, Documents).
-
-**From top-level navigation**
+<details>
+<summary markdown='span'>
+Request a job in the Documents project
+</summary>
 
 1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
 1. Click the `Request Translation` button in the top-right.
@@ -150,11 +160,16 @@ You can request a translation job either from the main `Jobs` tab in the top nav
 1. Select the target language for the source file (what language want your document to be translated to).
 1. Click `Save Job and Continue`.
 
-All saved jobs must be authorized before they are submitted for translation.
+</details>
 
 ## Request a job (Marketo)
 
 The original source asset must be available in the same location from where the translation was requested for the connector to successfully create the translated version in your Marketo instance. Only submit approved (not draft) Marketo assets. Check out the [help article](https://help.smartling.com/hc/en-us/articles/115004019794-Marketo-Connector-Request-Translations) for more info. 
+
+<details>
+<summary markdown='span'>
+Request a job in the Marketo project
+</summary>
 
 1. Click `Projects` and choose `GitLab - Marketo`.
 1. Click the `Marketo` tab under `Account Settings`.
@@ -162,6 +177,8 @@ The original source asset must be available in the same location from where the 
 1. The right-side pane refreshes depending on the asset type you chose because Smartling attempts to surface all assets of that type in our Marketo instance. You can select assets for translation on the right-side pane or navigate through the mirrored Marketo folder hierarchy to locate the assets you wish to translate. You can select multiple assets. **Assets must be created in Marketo using a predefined template. If a template is not used, you will not be able to submit the content to Smartling for translation.** 
 1. Once you have selected the assets you want translated, click the `Request Translation` button. 
 1. Select the lanaguges for which you want your asset translated, then click `Request Translation`. By default, the Marketo connector is configured to send your translation requests to your authorization queue. You will need to authorize the content to send it to Translation Resources.
+
+</details>
 
 ## Attachments
 
