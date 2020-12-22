@@ -80,7 +80,7 @@ Automatically generated based on the total word count. Anything under 5,000 word
 
 ## Using Smartling 
 
-Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the integration type and know what type of document format you are translating.
+Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the [integration type](#projects) and know what type of document format you are translating.
 
 **Field Marketing use of Smartling**
 
@@ -120,10 +120,10 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 
 Projects are organized by the integration type:
 
-1. Marketo (emails, landing pages)
+1. Marketo (snippets, forms, landing pages, emails, programs)
 1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
-1. Documents (PDF files)
+1. Documents (.docx, .pdf files)
 
 ## Jobs
 
