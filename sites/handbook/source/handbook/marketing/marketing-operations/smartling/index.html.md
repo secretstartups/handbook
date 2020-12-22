@@ -74,11 +74,9 @@ Total word count (word count of the source file/language, not the translated fil
 
 Automatically generated based on the total word count. Anything under 5,000 words is typically ready in 2 business days.
 
-## How Smartling Works
+## Using Smartling 
 
 Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the integration type and know what type of document format you are translating.
-
-## Using Smartling 
 
 Any assets being translated into the supported language pairs will be supported by the [localization budget](https://about.gitlab.com/handbook/marketing/localization/). Any assets outside of this support will need to be allocated from the requester team's budget and include a campaign finance tag in the `Reference Number` as well as links to any associated epics or issues in the `Description`. 
 
