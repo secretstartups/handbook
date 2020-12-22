@@ -50,14 +50,8 @@ If resignation is the only solution after you have discussed your concerns, plea
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***Specialist***: The People Specialist will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
 1. ***Specialist***: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
-1. ***PBP***:The PBP will post a message in the `#offboardings` confidential Slack channel and provide the name, last day, reason for resignation, rehire eligibility and location of the individual. To share this information, the PBP will use the Slack shortcut icon and follow the steps below:
+1. ***PBP***:The PBP will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9), which includes all information needed to process the termination for the team member. Once submitted, a summary of the response will be posted to the `#offboardings` Slack channel so all stakeholders can acknowledge the offboarding. 
 
-    * Click on the shortcut icon in the `#offboardings` slack channel 
-    * Select the `Offboarding Form` workflow from the menu 
-    * To ensure consistency amongst the PBPs for the `Offboarding Reason` and re-hire eligibilty alignment field, please reference the `Offboarding Reason & Re-Hire Eligibility` section of this page
-    * Submit the form and it will be posted to the `#offboardings` channel
-    * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
-    * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>
     
 1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).
     
@@ -146,13 +140,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
    _Note: For any severance that has less than 48 hours turn around the People Business Partners will handle._
 1. ***Manager***: Once the date and time is confirmed, the manager will schedule time with the team member and send the PBP a _private and separate calendar invite_ with the Zoom details for the meeting with the team member to share the news of the offboarding. 
 1. ***Payroll***: If the team member is employed by a PEO/entity with statutory leave requirements, review if any time off needs to be paid on the last paycheck by looking in BambooHR in the `Time Off` section.
-1. ***Specialist***: The Specialist will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the Specialist will use the Slack shortcut icon and follow the steps below:
-
-    * Click on the shortcut icon in the `#offboardings` slack channel ![Shortcut Icon](/handbook/people-group/offboarding/offboarding_guidelines/Shortcuticonoffboarding.png)
-    * Select the `InVol Hold Request` workflow from the menu ![Shortcut Menu](/handbook/people-group/offboarding/offboarding_guidelines/shortcutmenu.png )  
-    * Submit the form and it will be posted to the `#offboardings` channel
-    * Tag the People Experience team, IT Ops team, and Payroll directly after the form is posted to the `#offboardings` channel
-    * _Note_: If a change needs to be made to the form only an Admin or Owner of Slack can make this change.<br><br>  
+1. ***Specialist***: The Specialist will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the Specialist will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9). Once submitted a summary of the response will be posted to the `#offboarding` Slack channel. 
 
 1. ***Specialist***: Will send a private calendar request to the identified People Experience, PBP, Security, and Payroll lead blocking time on calendar to indicate when the offboarding will begin. 
 1. ***PBP/Manager***: Discuss best mode of communicating the bad news to the team member. This discussion can happen via a private chat-channel, but it is best to be done via video.
