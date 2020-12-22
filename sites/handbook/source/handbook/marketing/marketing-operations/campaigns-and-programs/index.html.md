@@ -588,13 +588,15 @@ Currently any form starting with these are actively being added into a program a
 
 ##### Step 4: Go back into Marketo Template
 - Update local program tokens 
-- Update the smart list with `contains` and the prefix
-- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the Flow
-- Turn on 
+- Update the campaign smart list filter with `contains` and the prefix
+   - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [prefix]` 
+   - Available prefixes are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
+- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
+- Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
 
 ##### Step 5: Update this Handbook page
-- Update this handbook page with the prefix you are now tracking to prevent duplication of programs in the future.
+- Update this [handbook page with the prefix](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) you are now tracking to prevent duplication of programs in the future.
 
 
 
