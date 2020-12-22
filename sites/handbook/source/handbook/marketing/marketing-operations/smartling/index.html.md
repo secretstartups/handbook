@@ -112,7 +112,40 @@ Projects are organized by the integration type:
 
 ### Documents
 
-Coming soon.
+## Request a job (Documents)
+
+<details>
+<summary markdown='span'>
+Request a job in the Documents project
+</summary>
+
+1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
+1. Click the `Request Translation` button in the top-right.
+1. Enter a name for the job. Use the following naming convention: `[Title of asset] - [Campaign tag name] - [Team/individual DRI]`
+1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
+1. Upload the file to be translated.
+1. In the `Description`, paste the link of the epic or issue related to the translation job.
+1. Select the target language for the source file (what language want your document to be translated to).
+1. Click `Save Job and Continue`.
+
+</details>
+
+<details>
+<summary markdown='span'>
+Download a translated job from the Documents project
+</summary>
+
+1. Click the `Jobs` tab from the `GitLab Documents` project.
+1. Navigate to your job from the list and click the title link of your job.
+1. Select the `Files` tab from within the job.
+1. Click the `Download Files` link.
+1. Select how you would like Smartling to download the file:
+ - `Subfolders for languages` - file name is not ammended, remains the same as the source file
+ - `Languages in file names` - adds the locale code at the end of the file name
+ - `Subfolders for languages and languages in file names` 
+1. Click `Confirm`.
+
+</details>
 
 ### Marketo
 
@@ -124,9 +157,13 @@ When you submit Marketo jobs, the jobs will be available in the general `Jobs` t
 
 In the right side pane window shows the various Marketo assets that are either approved to be submitting for translation or in draft. Clicking the link icon opens a new tab to login into Marketo to view that particular asset.
 
-You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. **Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases but you will still need to follow the regular process for submitting Marketo jobs through the connector for those other languages. If you were to authorize translation for the other languages on a particular Marketo job in Smartling, it will translate those assets, but it will **not** return them to Marketo per the connector. You must submit any Marketo assets from the connector and not via the jobs menu.
+You can submit one or multiple Marketo assets at a time to submit to Smartling for translation. Select the language you wish to translate your Marketo asset. 
 
-Auto-authorize - automatically approves any Marketo job submission for translation (currently turn off).
+**Please note:** If you only select one language to translate your Marketo asset, Smartling will queue up the other languages as well. 
+
+Only authorize the or approve the strings for the language you want. Smartling queues up the other languages for translation to account for future use cases but you will still need to follow the regular process for submitting Marketo jobs through the connector for those other languages. If you were to authorize translation for the other languages on a particular Marketo job in Smartling, it will translate those assets, but it will **not** return them to Marketo per the connector. You must submit any Marketo assets from the connector and not via the jobs menu.
+
+Auto-authorize - automatically approves any Marketo job submission for translation (currently turned off).
 
 When the translation job is complete, Smartling will automatically download those translated assets back to Marketo. The chron scheduler in Smartling looks for completed Marketo jobs every hour and pushes them to Marketo. The original source language asset is not changed, a translated copy is created and the file name is appended with the abbreviated language code (e.g. French = fr).
 
@@ -165,41 +202,6 @@ All saved jobs must be authorized before they are submitted for translation.
 ## [CSV](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files)
 
 Smartling does not support Google sheets as a file type. If you are working within Google sheets, you will need to export as an Excel file. After exporting, open the document in TextEdit or a similar application to check for any trailing commas. Any trailing commas should be removed because Smartling will not properly parse the file. 
-
-## Request a job (Documents)
-
-<details>
-<summary markdown='span'>
-Request a job in the Documents project
-</summary>
-
-1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
-1. Click the `Request Translation` button in the top-right.
-1. Enter a name for the job. Use the following naming convention: `[Title of asset] - [Campaign tag name] - [Team/individual DRI]`
-1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
-1. Upload the file to be translated.
-1. In the `Description`, paste the link of the epic or issue related to the translation job.
-1. Select the target language for the source file (what language want your document to be translated to).
-1. Click `Save Job and Continue`.
-
-</details>
-
-<details>
-<summary markdown='span'>
-Download a translated job from the Documents project
-</summary>
-
-1. Click the `Jobs` tab from the `GitLab Documents` project.
-1. Navigate to your job from the list and click the title link of your job.
-1. Select the `Files` tab from within the job.
-1. Click the `Download Files` link.
-1. Select how you would like Smartling to download the file:
- - `Subfolders for languages` - file name is not ammended, remains the same as the source file
- - `Languages in file names` - adds the locale code at the end of the file name
- - `Subfolders for languages and languages in file names` 
-1. Click `Confirm`.
-
-</details>
 
 ## Attachments
 
