@@ -108,6 +108,8 @@ Projects are organized by the integration type:
 
 ### Documents
 
+**Please note:** If you are translating a design-heavy `.pdf`, please convert the `.pdf` to a `.docx` before uploading to Smartling for translation.
+
 #### Request a job (Documents)
 
 <details>
