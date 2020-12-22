@@ -55,6 +55,12 @@ It's not [efficient](/handbook/values/#efficiency) for contributors to need to r
 
 For new ideas where the customer problem and solution isn't well understood, Product Managers (PMs) and the User Experience Department (UXers) should work together to validate new opportunities before moving to the Build track. The **Validation** track is an independent track from the always moving **Build** track. PMs and UXers should work together to get at least two months ahead, so that the Build track always has well-validated product opportunities ready to start. Milestone work should be prioritized with the understanding that some milestones may include more validation efforts than others. Validation cycles may not be necessary for things like bug fixes, well understood iterative improvements, minor design fixes, and technical debt.
 
+### Validation Spectrum 
+
+The types of activities and depth of research required in the validation track will depend on how well we understand the customer problem and solution. 
+
+<img src="/handbook/product-development-flow/validation-spectrum.png" alt="Validation Spectrum">
+
 ### Validation Goals & Outcomes
 
 **When:** When our confidence about the proposed problem or solution isn't high. For example, if we aren't reasonably sure that the problem is important to a significant number of users, or that the solution is easy to understand and use.
