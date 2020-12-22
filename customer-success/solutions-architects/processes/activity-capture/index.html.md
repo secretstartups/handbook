@@ -94,13 +94,13 @@ Whenever an SA engages a prospect/customer who has a specific problem to be addr
 
 ### Proof of Value (POV) Updates
 
-Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-in-salesforce) but can be added or updated through Troops by:
+Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
 
-- Clicking on the `Add a Proof of Value` button
+- **Create POV**: Clicking on the `Add a Proof of Value` button
     - on the Troops `You just had a meeting` notification in slack
     - after searching for and selecting an opportunity or account first using `/troops <search>` in Slack
     - after using `/troops-action`
-- Clicking on the `Update a Proof of Value` button
+- **Update POV**: Clicking on the `Update a Proof of Value` button
     - after searching for and selecting a POV first using `/troops <name of POV>` in Slack
 
 ### Updating Activity Summaries
