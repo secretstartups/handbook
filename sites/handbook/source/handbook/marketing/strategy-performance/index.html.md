@@ -68,7 +68,7 @@ We have not yet set up our own slack channel, but can be reached via the general
 
 ### Issues
 
-The team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgSandP::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to one of us to see if there is already a related issue that you can add your comments to. 
+The team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the `~MktgSandP::0 - To Be Triaged` label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to one of us to see if there is already a related issue that you can add your comments to. 
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Strategy team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Strategy issues in the following format.
 
@@ -94,9 +94,9 @@ We use labels for two purposes:
 Categories
 </summary>
 
-- `Bizible` used to highlight a data related tech stack tool; we are currently still administering this but it will be moving to MktgOps soon.
-- `MktgSandP- Reporting` used to highlight that the issue is one requiring or related to a report or dashboard.
-- `In Epic`: bright yellow label to show that it is part of a Mktg Strategy epic
+- `Bizible`: Used to highlight a data related tech stack tool; we are currently still administering this but it will be moving to MktgOps soon.
+- `MktgSandP- Reporting`: Used to highlight that the issue is one requiring or related to a report or dashboard.
+- `In Epic`: Bright yellow label to show that it is part of a Mktg Strategy epic.
 
 </details>
 
@@ -106,10 +106,10 @@ Categories
 Backlog
 </summary>
 
-- `MktgSandP::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgSandP::1 - Planning`: Issues assigned to a MktgOps team meber and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgSandP::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves Mktg Strategy ; no real discussion on the issue; generally unassigned.
+- `MktgSandP::1 - Planning`: Issues assigned to a Mktg Strategy team meber and are currently being scoped/considered but are not being actively worked on yet.
 - `MktgSandP::2 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
-- `MktgSandP::5 - On Hold/Blocked`: Issue that is not within existing scope of Mktg Strategy current focus, or another department as deprioritized. May be a precursor to being closed out. OR Issue that was being worked on by Mktg Strategy and at least one other team wherein Mktg Strategy is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
+- `MktgSandP::5 - On Hold/Blocked`: Issue that is not within existing scope of Mktg Strategy current focus, or another department as deprioritized. May be a precursor to being closed out. OR Issue that was being worked on by Mktg Strategy and at least one other team wherein Mktg Strategy is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by Mktg Strategy-related task/issue, or external (non-GitLab) blocker.
 
 </details>
 
@@ -126,7 +126,7 @@ In Milestone
 
 The Mktg Strategy team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. We use the same interval dates used by Mktg Ops, Sales Ops and Sales Systems. Each  individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
-The Mktg Strategy team generally create just one milestone beyond the current iteration, so at any given time there will be the **current** milestone and **upcoming** milestone. Any other issue that is not included will be added into future milestones &/or added as work is completed in the current milestone.
+The Mktg Strategy team generally creates just one milestone beyond the current iteration, so at any given time there will be the **current** milestone and **upcoming** milestone. Any other issue that is not included will be added into future milestones &/or added as work is completed in the current milestone.
 
 If there are handbook updates that need to be made as a result of work done in a given milestone, a separate MR should be included in that milestone.
 
