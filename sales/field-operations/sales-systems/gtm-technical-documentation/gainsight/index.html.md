@@ -145,18 +145,18 @@ title: "Gainsight: Go-To-Market Technical Documentation"
 
 Below are the Gainsight bundles (permission sets) and relevant access categories.
 
-|                                       |                                                              | `Default Bundle` (Admin role) | `SAL_Users` | `View_Group` | `TAM Journey Orchestrator` | `TAM_Users` | `GS Admin sans provisioning` |
+| Area                                  | Capability                                                   | `Default Bundle` (Admin role) | `SAL_Users` | `View_Group` | `TAM Journey Orchestrator` | `TAM_Users` | `GS Admin sans provisioning` |
 | ------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ----------- | ------------ | -------------------------- | ----------- | ----------- |
 | Home                                  | Dashboard view access                                        | ✓                             | ✓           |              | ✓                          | ✓           | ✓           |
 | Timeline                              | End user account Timeline history view                       | ✓                             | ✓           | ✓            |                            | ✓           | ✓           |
 | Cockpit                               | View and execute Calls to Action (CTAs)                      | ✓                             | ✓           | ✓            |                            | ✓           | ✓           |
 | C360 Account                          | View and edit customer Account data                          | ✓                             | ✓           |              | ✓                          | ✓           | ✓           |
 | Surveys                               | Access to create surveys                                     | ✓                             |             |              | ✓                          |             | ✓           |
-| Admin: Journey Orchestrator          | Administrative access to creating and deploying one-to-many email campaigns | ✓                             |             |              | ✓                          |             | ✓           |
-| Admin: Data / Integrations Operations | Administrative access for Gainsight customer data and integrations | ✓                             |             |              |                            |             | ✓           |
-| Admin: Email Configuration            | Admin access for backend of email domain, including CNAME setup | ✓                             |             |              |                            |             | ✓           |
-| Admin: Reporting                      | Admin access to build, share, and modify reports and dashboards | ✓                             |             |              |                            |             | ✓           |
-| Admin: Rules Engine                   | Admin access to create rules (workflows) to run CTAs and other operations | ✓                             |             |              |                            |             | ✓           |
+| Admin: Journey Orchestrator           | Administrative access to creating and deploying one-to-many email campaigns | ✓              |             |              | ✓                          |             | ✓           |
+| Admin: Data / Integrations Operations | Administrative access for Gainsight customer data and integrations | ✓                       |             |              |                            |             | ✓           |
+| Admin: Email Configuration            | Admin access for backend of email domain, including CNAME setup | ✓                          |             |              |                            |             | ✓           |
+| Admin: Reporting                      | Admin access to build, share, and modify reports and dashboards | ✓                          |             |              |                            |             | ✓           |
+| Admin: Rules Engine                   | Admin access to create rules (workflows) to run CTAs and other operations | ✓                |             |              |                            |             | ✓           |
 | Admin: User Provisioning              | Admin access: user provisioning and deprovisioning access    | ✓                             |             |              |                            |             |             |
 
 
