@@ -160,6 +160,7 @@ Below is a summary of the promotion plan for webcasts. MPMs will be responsible 
 
 #### Zoom capabilities
 {: #zoom-capabilities}
+
 When scheduling a self-service event, this table can help guide you towards the right event type to select based on the features you would like to use during the event. GitLab hosted virtual events will need to fit into either: Zoom Webcast type or Zoom Meeting type.
  
 |                                       | Zoom Webcast                | Zoom Meeting                                  |
