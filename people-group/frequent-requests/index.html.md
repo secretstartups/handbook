@@ -30,7 +30,6 @@ If you need a letter from GitLab verifying your employment/contractor status, pl
 If you need GitLab to create a letter confirming that you work remotely, please have the relevant company or organization request this by emailing `people-exp@gitlab.com`. You may also email the People Experience team directly if it is easier for you to provide the contact information of the organization requesting the letter. The People Experience team will complete this letter, sign it and email it to the company or organization who requested it.
 
 ## Employment Verification
-{: #emplyoment-verification}
 
 If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`. 
 
