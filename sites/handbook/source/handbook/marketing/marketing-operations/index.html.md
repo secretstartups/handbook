@@ -245,6 +245,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Keyhole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
+- [OneTrust](/handbook/marketing/marketing-operations/onetrust)
 - Rev
 - Screaming Frog
 - SEMrush
