@@ -40,12 +40,24 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
         - A new guaranteed salary is also due again if the team member can prove by means of a medical certificate that this new incapacity for work was caused by another sickness or accident.
         
 * Statutory Parental Leave
-  - Maternity leave is 15 weeks, which can be split in prenatal leave, one week before the delivery date. Postnatally leave is at least nine weeks, allowing the mother to choose five weeks, either as prenatal as postnatally.
-  - Dads are given 10 days, three of which are 100% paid. The remaining seven can be used during the baby's first four months.
+  - Pregnant team members are entitled to 15 weeks of maternity leave which consists of two periods: prenatal leave of 6 weeks and postnatal leave of 9 weeks.
+    * Prenatal Leave: At the pregnant team member's request, this leave starts, at the earliest, six weeks before the expected date of delivery and is comprised of the following:
+      - One week of obligatory rest before delivery. (It is prohibited for an employer to employ a pregnant team member from the seventh calendar day preceding the expected date of delivery)
+      - An optional period of rest during the first five weeks. This may be taken up, at the team member's choice, either:
+        * in full before the one-week obligatory prenatal rest,
+        * after the nine week obligatory postnatal rest, 
+        * or partly before the obligatory prenatal rest and partly after the obligatory postnatal rest.
+      - If the child is born later than the expected date of delivery, pre-natal leave is extended to the actual date of delivery.
+    * Postnatal Leave is comprised of the following: 
+      - Nine weeks obligatory leave immediately after delivery. In no case may an employer employ the team member concerned during this period, even if they ask for it or agree to it.
+      - Where appropriate, following this obligatory postnatal leave, the team member may take the whole or part of the period of five weeks of optional prenatal leave. This leave can be transferred only on condition that the team member resumed their work from the sixth week preceding the actual date of delivery.
+    * It is prohibited for employers to allow pregnant team members to work overtime.
+  - Paternity Leave: every team member is entitled to ten days of leave following the birth of a child to be used at the team member's discretion within four months following the date of child birth. The team member will receive 100% of their salary for the first three days of paternity leave.
     * To process a paternity leave, GitLab will notify the payroll provider who will conversely update the pay code and notify the social office.
-  - Parental leave should be requested by the employee and registered by three months before the start of leave.
-  * Statutory Vacation Leave
-  - Full time employees are entitled to 20 statutory vacation days per year. If a team member leaves GitLab, the company will prepare a vacation certificate with the number of unused vacation days in the current year and early vacation pay for the vacation days that were already accruied for the following year. The employee can then hand over these documents to their next employer to determine vacation entitlements. Similarly, GitLab requires the vacation certificate from new team member's previous employer to ensure vacation pay is properly calculated and added to June payroll.<br>
+  - Parental leave should be requested by the team member and registered by three months before the start of leave.
+  
+* Statutory Vacation Leave
+  - Full-time team members are entitled to 20 statutory vacation days per year. If a team member leaves GitLab, the company will prepare a vacation certificate with the number of unused vacation days in the current year and early vacation pay for the vacation days that were already accruied for the following year. The employee can then hand over these documents to their next employer to determine vacation entitlements. Similarly, GitLab requires the vacation certificate from new team member's previous employer to ensure vacation pay is properly calculated and added to June payroll.<br>
 
 
 ***Note: GitLab has a global [`no ask time off policy`](/handbook/paid-time-off/#paid-time-off), which is the guideline for all GitLab employees globally. We highlight statutory requirements for some countries as well to insure local compliance, but stress that our Paid Time Off policy is applicable for all GitLab team members globally irrespective of local policy.*** 
