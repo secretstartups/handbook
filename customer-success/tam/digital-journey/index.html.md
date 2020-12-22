@@ -16,19 +16,39 @@ The digital journey is designed to enable customers to better self-service the e
 
 Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.
 
-### MVC
+### Digital Onboarding
 
-Initially the digital journey will take the form of email templates in Gainsight which TAMs can send to customers based on knowing their unique requirements and needs. Each subject will have one or more email templates which can be delivered in a sequence to the individuals responsible for implementing a set of capabilities. These will include a survey of foundational materials, as well as specific advice to make implementations easy and relatively risk free.
+The following topics are covered through the digital onboarding series:
+1. Quick guide intro and authentication
+1. Setting up Group and Project hierarchy
+1. Import/Export
+1. GitLab Instance - Security Best Practices
+1. Monitoring GitLab
+1. Backing Up GitLab
+1. How we guarantee backups (GitLab.com)
+1. Alternative Backup Strategies
+1. Support information (self)
+1. Support information (GitLab.com)
+1. API Intro + Rate limits (self)
+1. API Intro + Rate limits (GitLab.com)
+1. Where to get training
 
-**Digital Journey** - [Epic](https://gitlab.com/groups/gitlab-com/account-management/commercial/-/epics/1)  
+The [digital onboarding email content](https://docs.google.com/document/d/1nOkcmbzKSsaLdJwZquGG8otrMHeZpqpYRTOmhw2kEYE/edit?usp=sharing) can be viewed here (GitLab only)
+
+
+**Digital Journey** - [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65)
 
 The email templates will leverage existing materials from YouTube, the GitLab blog, GitLab docs, and other GitLab and 3rd party resources to help customers. However a strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly. As such some longer form materials may need to be adapted to a shorter format for best results.
 
 ### Roadmap
 
-WIP - As the catalog of Email Templates grows, and TAMs learn what works, we plan to expand the digital journey to be less reliant on TAMs to send the content, and have more automated content flows based on triggers such as customer stage or use case. The goal is to help all customers equally, regardless of how much they spend on GitLab licenses or services.
+1. CI enablement (Verify Stage) [epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/69) for those customers who through product analytics are deemed to be using CI
+1. Security enablement (epic pending, Secure Stage)
+1. CD enablement (Release Stage)
 
 ### How To Use
+
+Instructions on adding contacts to the digital onboarding journey can be found [here](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
 
 TAMs who wish to send Digital Journey emails to their customers have 2 methods:
 
