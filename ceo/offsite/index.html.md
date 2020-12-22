@@ -83,14 +83,17 @@ Scheduling for a remote offsite generally follows:
 1. The following Monday after the offsite concludes, the E-Group hosts an [all-directs zoom call](#all-directs-zoom-call)
 
 It generally occurs in:
-* March
-* June
-* September
-* December or early January
+* March or early April
+* June or early July
+* October
+* January
 
-In 2020, the following offsite dates have been confirmed (starting dates):
-* 2020-08-17
-* 2020-11-16
+In 2021, the following offsite dates have been confirmed (starting dates):
+* 2021-01-11
+* 2021-03-29
+* 2021-06-28
+* 2021-10-12
+* 2021-01-10
 
 ## Timeline
 
