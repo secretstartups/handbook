@@ -109,6 +109,10 @@ SA's will be brought back into a customer account in the following situations
 
 ## Other Resources
 
+### Customer Workshops
+
+* [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+
 ### Using Salesforce within Customer Success
 
 Visit [this page](/handbook/customer-success/using-salesforce-within-customer-success/) for more info on using Salesforce within Customer Success.
