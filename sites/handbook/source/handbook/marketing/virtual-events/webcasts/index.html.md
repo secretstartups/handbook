@@ -14,7 +14,7 @@ twitter_creator: "@gitlab"
 ---
 
 ## GitLab-Hosted Webcasts Calendar
-{:#calendar .gitlab-purple}
+{:#calendar .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 <figure>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%239E69AF&amp;color=%23009688&amp;title=All%20GitLab%20Virtual%20Events&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
@@ -23,14 +23,16 @@ twitter_creator: "@gitlab"
 [See calendar glossary here](/handbook/marketing/virtual-events/#calendar-glossary)
 
 ## BrightTALK Webcasts
-{:#brighttalk .gitlab-purple}
+{:#brighttalk .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Quick Links
+{:#bt-quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
+
 * [BrightTALK Support Portal](https://support.brighttalk.com/hc/en-us)
 * [BrightTALK Academy](https://business.brighttalk.com/academy/)
 
 ### Types of BrightTALK Webcasts
-{:#bt-types}
+{:#bt-types} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **TALK (Live):** traditional live webcast with live speakers and Q&A.
    - Pre-event registration takes place
@@ -43,7 +45,7 @@ twitter_creator: "@gitlab"
    - No pre-registration
 
 ### BrightTALK Webcast Calendar
-{:#bt-calendar}
+{:#bt-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled BrightTALK webcasts and their related dry runs. **The purpose of the BrightTALK webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all BrightTALK webcasts.**
 
@@ -60,12 +62,12 @@ The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.go
    * Add BrightTALK login information for presenters
 
 ## Project Management for BrightTALK Webcasts
-{:#bt-project-management .gitlab-purple}
+{:#bt-project-management .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Campaign webcasts are hosted on BrightTALK, and project management is organized by Campaign Managers.
 
 ### Organizing BrightTALK webcast epics and issues
-{:#bt-epics-issues}
+{:#bt-epics-issues} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **Confirm Date:** The webcast idea issue (date request issue) must be complete and confirmed before creation of the epic, issues, and workback.
 * **Campaign Webcast Epic:** campaign manager creates webcast epic (using code below)
@@ -120,10 +122,10 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 ```
 
 ## BrightTALK LIVE webcast registration and tracking
-{:#bt-setup .gitlab-purple}
+{:#bt-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Create program in Marketo
-{:#bt-marketo-program}
+{:#bt-marketo-program} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Create the webcast program in Marketo by navigating to the [Webcast program template for BrightTalk](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
 1. Right-click and select "clone"
@@ -133,7 +135,7 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
 ### Create campaign in Salesforce
-{:#bt-sfdc-campaign}
+{:#bt-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. In the Marketo program Summary view, you will see `Salesforce Campaign Sync:` with a link that says "not set".
 1. Click on "not set" 
@@ -150,7 +152,7 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Click save
 
 ### Create webcast in BrightTALK
-{:#bt-create-webcast}
+{:#bt-create-webcast} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, schedule a talk. _*Note: Only type: `talk` allows you to share videos_
 1. **TALK TITLE**: Insert the title of the webcast (public facing)
@@ -170,7 +172,7 @@ PUBLISHING
 1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
 
 ### Connect the Marketo program to BrightTALK
-{:#bt-marketo-connect}
+{:#bt-marketo-connect} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Navigate to the [Connectors Tab](https://www.brighttalk.com/central/account/20277/channel/17523/connectors) in BrightTALK Demand Central
 1. Click to [Manage](https://www.brighttalk.com/central/account/20277/channel/17523/connector/1579/manage) under the Marketo Account
@@ -180,7 +182,7 @@ PUBLISHING
 1. You are now connected! The sync runs every hour.
 
 ### Update tokens in Marketo program
-{:#bt-marketo-tokens}
+{:#bt-marketo-tokens} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. There is no need to update ALL Tokens at this time, as all registration and emails are being sent from the BrightTALK platform. Update the following Tokens:
    * `{{my.bullet1}}` - bullet copy with approved [character limits](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=43971442)
@@ -199,22 +201,22 @@ PUBLISHING
    * `{{my.webcastTitle}}` token with the webcast title.
 
 ### Activate smart campaigns in Marketo
-{:#bt-marketo-smart-campaigns}
+{:#bt-marketo-smart-campaigns} <!-- DO NOT CHANGE THIS ANCHOR -->
 
    * Activate the `01 Processing` campaign.
    * Schedule the `02 Set No-Show Stats` smart campaign for 3-4 hours AFTER the webinar will end.
    * Interesting moments are captured on a global level.
 
 ### Schedule your BrightTALK practice session (Dry Run)
-{:#bt-practice-session}
+{:#bt-practice-session} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Create a Talk, following the [instructions above.](handbook/source/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#create-webcast-in-brighttalk)
+* Create a Talk, following the [instructions above.](handbook/source/handbook/marketing/virtual-events/webcast/#bt-create-webcast)
 * Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
 * After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
 * If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
 
 ### Loading a video to replay in BrightTALK
-{:#bt-video-replay}
+{:#bt-video-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * You must upload the video you plan to play in a live talk prior to the event.
 1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, Upload a Video. Videos are uploaded as Unpublished.
@@ -232,7 +234,7 @@ PUBLISHING
 1. You can now select the video to play from the presenter screen of your Talk.
 
 ### BrightTALK Webcast Invitations
-{:#bt-email-invitations}
+{:#bt-email-invitations} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 :exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
@@ -244,20 +246,20 @@ PUBLISHING
 4. Once you get approval on the sample email copy, schedule the email programs outlined in step 1.
 
 ### Add the webcast to the /events/ and /resources/ pages
-{:#bt-webpage-listings}
+{:#bt-webpage-listings} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 *  To add the webcast to the /events page follow this [step by step guide](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#add-new-content-to-the-resources-page).
 
 ### BrightTALK Webcast Testings / QA
-{:#bt-webcast-testing}
+{:#bt-webcast-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Submit a test lead using your gitlab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from BrightTALK.
 
 :stopwatch: It will take up to 2 hours to sync the regisration from BrightTalk to Marketo.
 
 ### Switching BrightTALK Webcasts to On-Demand
-{:#bt-ondemand-switch}
+{:#bt-ondemand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 BrightTALk will automatically convert the video to on-demand in the BrightTALK platform. The steps below allow us to further leverage the webcast in Pathfactory.
 
@@ -269,7 +271,7 @@ BrightTALk will automatically convert the video to on-demand in the BrightTALK p
 1. **Pathfactory**: Login to PathFactory and add the copied youtube link to Pathfactory as new content by following the instructions outlined [here](/handbook/marketing/marketing-operations/pathfactory).
 
 ### Rescheduling a BrightTALK webcast
-{:#bt-reschedule}
+{:#bt-reschedule} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event you need to change the date of your webcast, please follow the steps outlined below.
 
@@ -283,9 +285,9 @@ In the event you need to change the date of your webcast, please follow the step
    * *An email will automatically send from BrightTALK to the registrants.*
 
 ### Canceling a BrightTALK Webcast
-{:#bt-cancel}
+{:#bt-cancel} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In the event you need to cancel your webcast, please follow the steps outlined below.
+In the event you need to cancel your webcast, please follow the steps outlined below. Note that BrightTalk sets up promotional emails 24-48 hours in advance. This means that after you cancel a webcast, it may still appear in promotional emails (via webcast recommendations) from BrightTalk for up to 48 hours. However, they will not be able to register for the cancelled webcast.
 
 1. Remove the webcast from the BrightTALK calendar.
 1. Add [Cancelled] to the webcast epic title then close it out.
