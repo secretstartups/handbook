@@ -428,5 +428,5 @@ As [John Allspaw states](https://qz.com/504661/why-etsy-engineers-send-company-w
 When a near miss occurs, we should treat it in a similar manner to a normal incident.
 
 1. Open an [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) issue, if one is not already opened. Label it with the severity label appropriate to the incident it would have caused, had the incident actually occurred. Label the incident issue with the `~Near Miss` label.
-1. Corrective actions should be treated in the same way as those for an actual incident.
+1. [corrective actions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#Corrective-Actions) should be treated in the same way as those for an actual incident.
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
