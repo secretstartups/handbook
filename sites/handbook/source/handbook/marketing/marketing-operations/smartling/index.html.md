@@ -101,10 +101,10 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 Projects are organized by the integration type:
 
+1. [Documents](#documents) (.docx, .pdf files)
 1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
 1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
-1. Documents (.docx, .pdf files)
 
 ### Documents
 
