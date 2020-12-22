@@ -345,7 +345,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
    | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
    | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
-    | `~RootCause::Security` | the security team had to engage to help us mitigate/resolve the incident - explained in [these guidelines](#Guidelines-on-Security-Incidents) - for any other reason that `~RootCause::Malicious-Traffic` |
+    | `~RootCause::Security` | the security team had to be engaged to help us mitigate/resolve the incident - explained in [these guidelines](#Guidelines-on-Security-Incidents) - for any other reason that `~RootCause::Malicious-Traffic` |
 
 #### Required Labeling
 
