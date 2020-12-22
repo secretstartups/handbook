@@ -60,7 +60,13 @@ Bizible looks at two key fields on a Task/Event to determine if a BT/BAT should 
 `Type` will become what system/activity category (IQM for example) created the touchpoint.
 `Disposition` is used by Bizible to determine when a touchpoint should be created.    
 
-In an ideal scenario, all systems will use a single `Disposition` of `meaningful engagement` to tell Bizible when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
+In an ideal scenario, all systems will use one of two options for the `Disposition`. Either `meaningful engagement/move to SAO` or `meaningful engagement` to tell Bizible when to create a touchpoint. This will reduce the manual effort on the backend and simplify both reporting and system administration. 
+`meaningful engagement/move to SAO` will be used when there was a quality engagement with the prospect and this lead to the creation of a SAO whereas `meaningful engagement` will be used when there was a quality engagement that did not lead directly to a SAO (such as a meeting that was useful, but didn't indicate the prospect was ready for a sales accepted opportunity).
+
+Example: Initial Qualifying Meetings (IQMs)
+When an IQM is had, the `Type` is set to `IQM` and the disposition currently is set to `Quality Meeting` to indicate that the meeting/IQM should be counted as a touchpoint and was useful to the sales/marketing process.    
+Ideally, `Quality Meeting` would be changed to the more generic, `menaingful engagement`, so that we have parity between the tools and can use a tool-agnostic approach to touchpoint generation. 
+
 
 ### Online vs. Offline Touchpoint Management
 Placeholder. 
