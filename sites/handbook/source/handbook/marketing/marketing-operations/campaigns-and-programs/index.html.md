@@ -429,7 +429,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
 
-- Keep in mind, sometimes the interesting moment happens in the `01 processing` campaign. If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing`
+- If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 
 ##### Step 5: Update the Salesforce campaign
 
