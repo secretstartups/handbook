@@ -55,7 +55,7 @@ Best practices for Journeys coming soon.
 1. Make sure the `private` content checkbox is unchecked for SmartCards, Pathways, and Journeys
 1. Add SmartCards to relevant Pathways, Journeys, Channels, and Groups
 
-Example: L&D creates a publicly available course called GitLab 101. The SmartCards for this course link to the handbook and should be public to all users in the platform. The team will create each SmartCard independently in the EdCast platform, then add them all to a Pathway. Quizzes for the course will be created within the Pathway to utilize progressive unlocking features. The course can be broadcasted on public channels for new learners to discover the content.
+**Example:** L&D creates a publicly available course called GitLab 101. The SmartCards for this course link to the handbook and should be public to all users in the platform. The team will create each SmartCard independently in the EdCast platform, then add them all to a Pathway. Quizzes for the course will be created within the Pathway to utilize progressive unlocking features. The course can be broadcasted on public channels for new learners to discover the content.
 
 ##### Building `private` content 
 
@@ -63,7 +63,7 @@ Example: L&D creates a publicly available course called GitLab 101. The SmartCar
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
 1. Assign content directly to an individual user or group
 
-Example: L&D uploads a compliance course with graded content for a specific group of learners. Since there is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
+**Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since there is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
 
 ##### Building content with both `public` and `private` elements
 
@@ -71,11 +71,10 @@ Option 3: If parts of content are for certain audience and parts are available t
 
 1. Create a Pathway and confirm the `private` content checkbox is checked
 1. Create `private` content in SmartCards in a the Pathway
-1. Create `publicl` content in a SmartCard outside of the private Pathway
+1. Create `public` content in a SmartCard outside of the private Pathway
 1. Assign Pathway to specific learners or groups
 
-
-Example: L&D hosts a manager challenge course with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independelty of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
+**Example:** L&D hosts a [manager challenge course] (/handbook/people-group/learning-and-development/manager-challenge/) with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independelty of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
@@ -89,8 +88,8 @@ Badges are available with the creation of both pathways and journeys and are awa
 Teams should choose to use a badge to recognize learners achievements when:
 
 - Learning Pathways are completed
-- Journeys that do not require an official certification or accrediation 
-- Seting goals, motivating behaviors, representing achievements and communicating success
+- Journeys that do not require an official certification or accreditation 
+- Setting goals, motivating behaviors, representing achievements, and communicating success
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
 
@@ -182,7 +181,7 @@ Engage learners in groups using the following practices
 
 #### Broadcasting on Channels
 
-Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest
+Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest. 
 
 1. Use Channels to share content with a wider audience. For example, if the L&D team created a training on effective communication for the GitLab team and assigned it to the GitLab team group, the same content could be shared on a Remote Communication Channel so the wider community could train on this course as well
 1. Channels should have a clear title and description that defines what content the user will find in the channel
@@ -194,7 +193,7 @@ Channels are used to collect and broadcast information based on like content. Us
 
 The discover page is the page where learners will land upon logging into the LXP. On this page, users can discover new content, navigate to their followed channels, find their groups, and more.
 
-The discover page can be leveraged by admin to 
+The discover page can be leveraged by admin to: 
 
 - advertise new learning opportunities
 - share new channels
@@ -202,7 +201,7 @@ The discover page can be leveraged by admin to
 
 The discover page is also curated based on the user. For example, if a carousel appears on the discover page that includes private groups, only groups that the user is a part of will appear.
 
-Use these best practices when designing and updating the discover page in EdCast
+Use these best practices when designing and updating the discover page in EdCast:
 
 1. Consider multiple user perspectives when adding static content to the discover page. For example, the first iteration of the discover page includes links to EdCast user docs, which is relevant for all users in their first few times accessing the platform 
 1. Use custom carousels to organize content by topic. Carousels can display either channels or users
