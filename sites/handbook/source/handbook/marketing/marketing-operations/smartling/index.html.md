@@ -97,10 +97,6 @@ For information on how Field Marketing uses translations, please head to [that p
 
 You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles/115004480513-Respond-to-Questions-from-Linguists#h_6bb30780-12a1-4a55-a78b-55c40e14361f). 
 
-## PathFactory 
-
-There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
-
 ## Projects
 
 Projects are organized by the integration type:
@@ -217,9 +213,9 @@ The `History` tab on a job provides detailed information about the activity that
 
 ## Translation Memory
 
-A translation memory is a saved record of previously translated content. Each time a translation is saved in Smartling, it is written to a translation memory.
+A `translation memory` is a saved record of previously translated content. Each time a translation is saved in Smartling, it is written to a translation memory.
 
-To provide feedback about a particular translation to store in our [translation memory](#translation-memory), send an email with the translation job and detailed feedback to translations@smartling.com and copy our customer success manager. 
+To provide feedback about a particular translation to store in our [translation memory](#translation-memory), send an email with the translation job and detailed feedback to `translations@smartling.com` and copy our customer success manager. 
 
 ## SmartMatch
 
@@ -227,7 +223,7 @@ A string that perfectly matches a string in the translation memory, including an
 
 ## Transcreation
 
-The process of adapting content from one language to another without losing consistency in tone, intent, and style. Unlike translation, where words or phrases are converted from one language into another, transcreation is based on the conversion of the essence of a message from one language to another, rather than verbatim.
+The process of adapting content from one language to another without losing consistency in tone, intent, and style. Unlike translation, where words or phrases are converted from one language into another, transcreation is based on the conversion of the essence of a message from one language to another, rather than verbatim. [See the Transcreation Tool help article](https://help.smartling.com/hc/en-us/articles/360057363453-The-Transcreation-Tool-Beta-) for more info.
 
 ## Weighted Words
 
