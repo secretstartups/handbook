@@ -250,7 +250,9 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
 * 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
 * 2020-12-15: Program approval and communication guidance shared with managers
-* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
+* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members. 
+
+_If applicable (not required), upload the Performance Review document that was used to share the performance factor result with team members to BambooHR. The document can be loaded to the `Performance Reviews` folder in BambooHR._ 
 
 *January*
 * In January the Performance factors feed into the Annual Compensation review. Review the timeline for that process on the Annual Compensation Review page, [here](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline). 
