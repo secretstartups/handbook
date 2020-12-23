@@ -154,6 +154,15 @@ As a member of the Support Team at GitLab you should be:
 - comfortable explaining to customers when something is out of scope
 - cognizant of when you're intentionally going out of scope and conscious of articulating to the customer that you're doing so "as a courtesy"
 
+##### Is it in scope?
+**Greg's Razor** is a simple question that will help you determine what is in the scope of support.
+
+> Is it in the [docs](https://docs.gitlab.com)?
+
+If yes, we support it.
+
+If it's not in our docs, the first step before any customer uses it in production should be to get it in the docs.
+
 #### Documentation
 By using a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot), and that customers are more aware of where to find content on their own.
 
