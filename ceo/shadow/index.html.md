@@ -180,7 +180,6 @@ Exceptional community members may be able to participate, as well.
 | 2021-01-04 | 2021-01-08 | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
 | 2021-01-11 | 2021-01-15 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement |
 | 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
-| 2021-01-18 | 2021-01-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-01-25 | 2021-01-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-01 | 2021-02-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
