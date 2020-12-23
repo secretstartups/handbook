@@ -320,10 +320,9 @@ To accomplish these OKRs, we setup a seven step process to implement product met
 | [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Intelligence Support | Instrumentation is completed and feature flags are turned off so that data can be collected | 
 | [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Intelligence Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product_analytics/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed usage ping implementation, check the #g_product_analytics slack channel for the latest SaaS Usage Ping Payload. | 
 | [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Intelligence Support | There is a chart in Sisense. |
-| [Handbook](#handbook) | The handbook PI page describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Intelligence Support | Chart is embedded into the handbook. Target has been assigned based off the data. | 
+| [Handbook](#handbook) | The [Product PI handbook page](/handbook/product/performance-indicators/#how-to-work-with-pages-like-this) describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Intelligence Support | Chart is embedded into the handbook. Target has been assigned based off the data. | 
 | [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Intelligence Support | The target value is in both the chart and in the Performance Indicator (PI) file. | 
 | [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Intelligence Support | :tada: |
-
 
 ### 1. Definition
 
@@ -336,7 +335,7 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Stage level - SMAU, Paid SMAU, Other PI
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
-1. Determine the right [collection framework](/direction/product-intelligence/#collection-framework) to utilize. Some guidance for considering collection frameworks:
+1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
   * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
    * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
    * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
@@ -344,6 +343,18 @@ Determine what metrics are important for your specific section, stage, or group.
    * **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
+
+#### Deduplication of Aggregated Metrics
+Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-analytics/-/issues/421)
+
+
+| Term | Definition | Example | 
+| -----| -----------| --------|
+| Aggregated| Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. | 
+| Deduplicated | Metric counts each unit of measurement once. | Unique Monthly Active Users (UMAU) - each user_id is counted once | 
+| Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. |  UMAU is a deduplicated aggregated metric but TPV is not. | 
+
+
 
 ### 2. Instrumentation
 
@@ -454,17 +465,15 @@ All of the prior steps have been completed and a PI is successfully implemented.
 
 ## Quick Links
 
-| Resource                                                                                                                          | Description                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Product Intelligence Guide](/handbook/product/product-intelligence-guide)                                                                              | A guide to Product Intelligence                   |
-| [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)                                              | An implementation guide for Usage Ping                    |
-| [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html)                                                  | An implementation guide for Snowplow                      |
-| [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
-| [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
-| [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)                                   | The workflow for putting product performance indicators in place   |
-/handbook/source/handbook/product/product-intelligence-guide/index.html.md.erb
-| [Product Intelligence Direction](/direction/product-analytics/)                                                                              | The roadmap for Product Intelligence at GitLab                       |
-| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Intelligence groups         |
-| [Product Intelligence Direction](/direction/product-intelligence/)                                                                              | The roadmap for Product Analytics at GitLab                       |
+| Resource                                                              | Description                                               |
+|-----------------------------------------------------------------------|-----------------------------------------------------------|
+| [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence                   |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)  | An implementation guide for Usage Ping  |
+| [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html)   | An implementation guide for Snowplow        |
+| [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)  | A SSoT for all collected metrics and events       |
+| [Privacy Policy](/privacy/)      | Our privacy policy outlining what data we collect and how we handle it     |
+| [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)    | The workflow for putting product performance indicators in place   |
+| [Product Intelligence Direction](/direction/product-analytics/)   | The roadmap for Product Intelligence at GitLab                       |
+| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Intelligence groups   |
+| [Product Intelligence Direction](/direction/product-intelligence/)     | The roadmap for Product Analytics at GitLab                       |
 | [Product Analytics Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Analytics groups         |
-/handbook/source/handbook/product/product-intelligence-guide/index.html.md.erb
