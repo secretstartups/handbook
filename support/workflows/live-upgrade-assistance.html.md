@@ -2,7 +2,8 @@
 layout: handbook-page-toc
 title: Live Upgrade Assistance workflow
 description: "Support team Workflow for providing Live Upgrade Assistance to customers"
-category: Live Upgrade Assistance
+category: Self-managed
+subcategory: Live Upgrade Assistance
 ---
 
 ## On this page
