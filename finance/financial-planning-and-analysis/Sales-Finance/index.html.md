@@ -109,6 +109,6 @@ This file is intended to assess and forecast Professional Services department's 
 This dashboard provides a monthly trend view for Bookings, including dollar and count information. The 3 main sections of the dashboard are as follows:
 - Bookings Trend: high-level view of the last 14 months for Net IACV, Renewal ACV, Won ACV, MYB, PS/PS Attach Rate, and TCV
 - Net IACV Breakout: drill-down into the Net IACV components, such as FO, Growth, Expansion, Contraction, and Lost Renewals
-- Net 6 Months Pipe: view into the pipeline for the next 6 months
+- Next 6 Months Pipe: view into the pipeline for the next 6 months
 
 [File](https://gitlab.my.salesforce.com/01Z4M000000oXuF)
