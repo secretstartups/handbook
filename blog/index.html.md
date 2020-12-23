@@ -28,20 +28,20 @@ The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) th
 
 If you'd like to write about something for the GitLab blog, please use the guide below to decide which process to follow:
 
-### 📣 If you want to share news/an update or are seeking feedback 
+### 📣 If you want to share news/an update or are seeking feedback
 {: #if-you-want-to-share-newsan-update-or-are-seeking-feedback}
 
 If your proposed blog post includes any of the following:
 
 - A new product feature and capabilities
-- A partner integration 
+- A partner integration
 - A significant milestone achieved
-- A new initiative 
-- A customer case study 
+- A new initiative
+- A customer case study
 - Inclusion in an analyst report
 - A breaking change
 - A deprecation
-- A change in policy or pricing 
+- A change in policy or pricing
 - A product promotion (launching or ending)
 - A request for feedback from customers or our community
 
@@ -58,11 +58,11 @@ If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blo
 
 ## How to pitch a blog post
 
-Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly. 
+Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
 
 If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
-If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you. 
+If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you.
 
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
 
@@ -74,7 +74,7 @@ Data shows that more blog posts does not equal more views. In fact, too much con
 
 **If you don't want to pitch a blog post, but would rather publish directly to the GitLab Unfiltered blog, please visit the [Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/) to get started.**
 
-Note: All blog posts related to the Board must be reviewed by legal prior to publication. Please indicate if this applies to your pitch by checking the relevant box in your issue description. Ideally, Legal should be looped in as early as possible. 
+Note: All blog posts related to the Board must be reviewed by legal prior to publication. Please indicate if this applies to your pitch by checking the relevant box in your issue description. Ideally, Legal should be looped in as early as possible.
 {: .alert .alert-info .note}
 
 Note: If you're planning to write a tutorial post describing how to do something with GitLab, please ensure that the relevant [documentation](https://docs.gitlab.com/) exists _first_ before you write a blog post about it. A blog post should not replace documentation, but should add more information, context, and color around a technical subject, linking back to the documentation for full instructions.
@@ -124,7 +124,7 @@ Note for the Content team: If your blog post is already scheduled and appears on
 
 ### Process for time-sensitive posts
 
-First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue. 
+First, please see [If you want to share news/an update or are seeking feedback](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback) to check if you need to open an announcement request issue.
 
 If you have already followed those directions in the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) and the Corporate Communications and Editorial teams have decided that a blog post is the best way to communicate your announcement, please follow the process below.
 
@@ -172,9 +172,9 @@ Where error budget points are incurred, a member of the Editorial team will appl
 
 ### Preparing confidential blog posts
 
-It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. Please see below [Creating MRs for confidential issues](#creating-mrs-for-confidential-issues). 
+It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. Please see below [Creating MRs for confidential issues](#creating-mrs-for-confidential-issues).
 
-In exceptional circumstances, we can prepare a confidential MR in a private repository. Please leave a comment on your blog post issue to note that this is necessary, and see [The Private handbook](/handbook/handbook-usage/#the-private-handbook) for further instructions. 
+In exceptional circumstances, we can prepare a confidential MR in a private repository. Please leave a comment on your blog post issue to note that this is necessary, and see [The Private handbook](/handbook/handbook-usage/#the-private-handbook) for further instructions.
 
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
@@ -240,13 +240,13 @@ If the author of a guest post is not an official GitLab partner, they may link b
 
 ### Cross posts
 
-We do not republish posts from other publications verbatim. The same principles apply as in [Joint announcements](#joint-announcements): it's more impactful and valuable to cross-promote a story that appears on one platform than to publish the same post in two places. 
+We do not republish posts from other publications verbatim. The same principles apply as in [Joint announcements](#joint-announcements): it's more impactful and valuable to cross-promote a story that appears on one platform than to publish the same post in two places.
 
 #### If you're publishing a GitLab story on another site
 
-Please try to include 2-3 relevant links back to about.gitlab.com, where appropriate. This is advantageous for SEO and may send some new visitors back to our site. 
+Please try to include 2-3 relevant links back to about.gitlab.com, where appropriate. This is advantageous for SEO and may send some new visitors back to our site.
 
-If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please [open an issue to propose this](#publishing-process) if that's the case. 
+If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please [open an issue to propose this](#publishing-process) if that's the case.
 
 #### If you see a story we should feature on our blog
 
@@ -274,7 +274,7 @@ Our "[How to get your blog post pitch accepted](#how-to-get-your-blog-post-pitch
 
 ### Contextualize your post
 
-It's also important to consider the context of the post. Ask yourself why it matters to the reader, and, if possible, connect your story to a broader industry issue. Don't jump in straight away with what you want to tell the reader about without first giving some thought to and communicating why the reader should be interested. That type of context can "uplevel" your content and result in a better reader experience. 
+It's also important to consider the context of the post. Ask yourself why it matters to the reader, and, if possible, connect your story to a broader industry issue. Don't jump in straight away with what you want to tell the reader about without first giving some thought to and communicating why the reader should be interested. That type of context can "uplevel" your content and result in a better reader experience.
 
 There are generally two ways to go about this:
 
@@ -294,15 +294,39 @@ Example: "[The trouble with technical interviews? They aren't like the job you'r
 
 Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
 
+### Diversity, Inclusion, and Belonging (DIB) checklist for blog writers
+
+It is important that our blog content represents our company values of diversity, inclusion, and belonging. Not all of these points will be relevant to your blog post, but they are important values and practices to be mindful of throughout the writing process. The blog editorial team tries to check for these things, but it is better if all content is created with these values and practices in mind. Tag us if you have questions!
+
+#### Inclusive formatting
+
+- Did you select an [inclusive](/handbook/marketing/blog/#inclusive-photos) cover image and/or screengrab?
+- Write descriptive alternative text for all [inline images and screengrabs](/handbook/marketing/blog/#inline-images). Alternative text is important for SEO and accessibility. Read this [article from Moz to learn more about writing alternative text](https://moz.com/learn/seo/alt-text).
+- Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
+
+#### Inclusive writing
+
+- Write short and concise sentences. Clear writing with short sentences makes it easier for the reader to follow along.
+- Limit your use of jargon, and if you must use a jargon-y term, define it on the first instance.
+- GitLab is a global team with a global community, so you want to write for a global audience. This means limiting your use of regional metaphors and not writing in a manner that is United States-centric. 
+- Does the post use [inclusive language](/company/culture/inclusion/#inclusive-language)? An example of inclusive language: "Hi folks/Hi everyone/ Hi y'all" versus "Hi guys".
+- If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
+- Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/gender-pronouns/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/company/team/#close-modal) and Slack profile.
+
+### More DIB writing tips
+
+- Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
+- If you still have questions, don't hesitate to tag the editorial team (@skassabian, @rebecca), leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue or email diversityinclusionandbelonging@gitlab.com with your questions.
+
 ### Best practices for specific types of posts
 
 #### Technical posts
 
-Our audience loves a technical post, particularly when they are "how to" focused and include screenshots, code snippets, and more. 
+Our audience loves a technical post, particularly when they are "how to" focused and include screenshots, code snippets, and more.
 
-Although normally longer blog posts don't tend to perform as well, traffic-wise, a well-thought-out technical how-to post can be long and still attract enthusiastic readers. 
-  - A good rule of thumb is to keep it no longer than something you'd want to read yourself. 
-  - It's always a nice idea to break things up with subheads, screengrabs, code snippets, or the like. 
+Although normally longer blog posts don't tend to perform as well, traffic-wise, a well-thought-out technical how-to post can be long and still attract enthusiastic readers.
+  - A good rule of thumb is to keep it no longer than something you'd want to read yourself.
+  - It's always a nice idea to break things up with subheads, screengrabs, code snippets, or the like.
   - It can help to make sure the reader knows this will be a long post, as in "This is a _deep dive_ into xxx."  
   - Finally, it's important to make sure the headline and description set the expectation of a lengthy technical how-to.
 
@@ -327,26 +351,26 @@ If you want to share photos from the event such as the GitLab booth or social ev
 
 If GitLab has been included in an analyst report and you wish to share this news, please follow the [announcement request process](/handbook/marketing/corporate-marketing/#requests-for-announcements) before starting work on a blog post, as we may choose to share the news in a press release or on our social channels (for rare, big news items), for example. If it is decided that a blog post is the best way to share the news, please consider the following when drafting your blog post:
 
-**As always, please keep our (largely technical) audience in mind:** 
+**As always, please keep our (largely technical) audience in mind:**
 1. Why would someone reading our blog be interested in this news? What's in it for them?
 1. If GitLab has been recognized for specific features or capabilities, can you demonstrate how they work/help? What pain points do they address?
 1. A tutorial-style piece that shows how to get started with the relevant features is a great way to share the news while offering additional value to the reader.
 1. How do the features for which GitLab has been recognized fit into the overall product? What context for the features might be useful for someone unfamiliar with GitLab?
 1. If we are building on the features, can you share details around what our vision and roadmap are? Are there issues or epics where work is being done that you can link to? Bonus points for video demos or mockups of future iterations!
 
-**The blog post should have value for our audience beyond an announcement:** 
+**The blog post should have value for our audience beyond an announcement:**
 1. [Straightforward announcements do not draw much traffic](https://gitlab.com/gitlab-com/marketing/product-marketing/-/issues/733).
 1. The content of the blog post should not repeat information from the handbook or a landing page without offering more insight or detail.
 1. If the need for a blog post is only to direct people to a landing page, it's better to skip the blog post altogether and request promotion of the landing page directly.
-1. Think about it this way: would your blog post stand on its own without the news? If it would still make a great blog post if the award/designation was just a footnote or a CTA at the end, then you're on the right track. 
-1. A more substantive blog post may take longer to draft but should result in greater visibility for your news. 
+1. Think about it this way: would your blog post stand on its own without the news? If it would still make a great blog post if the award/designation was just a footnote or a CTA at the end, then you're on the right track.
+1. A more substantive blog post may take longer to draft but should result in greater visibility for your news.
 1. If the blog post consists of more than just an announcement it is less critical to publish straight away.
 
-#### Newsjacking 
+#### Newsjacking
 
-These are generally popular if GitLab genuinely has something meaningful or useful to contribute to the conversation. The point of a newsjacking post should not be self serving. 
+These are generally popular if GitLab genuinely has something meaningful or useful to contribute to the conversation. The point of a newsjacking post should not be self serving.
 
-This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, [contextualizes it](#contextualize-your-post), and then goes into a tutorial. 
+This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, [contextualizes it](#contextualize-your-post), and then goes into a tutorial.
 
 Examples of successful newsjacking posts:
 
@@ -360,9 +384,9 @@ Posts focusing on GitLab features or capabilities are most successful when we do
 
 - Be selective. Choose only the most popular/highly requested features or capabilities to highlight in a post.
 - Tell the back story. Often, sharing how we built something is more interesting to our audience than just showing them a new feature.
-- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. If there is a link to a demo on our branded or Unfiltered YouTube channel, link to that, or consider recording a video to accompany your blog post. 
-- Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then. 
-- Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page. 
+- Give a tutorial. Technical posts showing how to really use something get more traffic than simply announcing that it exists. If there is a link to a demo on our branded or Unfiltered YouTube channel, link to that, or consider recording a video to accompany your blog post.
+- Broaden the scope. Example: "How GitLab CI helps solve common DevSecOps challenges" could be "How CI helps solve common DevSecOps challenges." You might give examples using GitLab CI but the title doesn't limit the post to be about GitLab CI specifically, straight away. Someone who doesn't know about GitLab might be more inclined to click on the post then.
+- Consider a different format. Blog posts should have an opinion, a unique use case, or commentary on something newsy/timely, otherwise it may be perceived as marketing material. It may be more appropriate to share what you want to post on the relevant feature page.
 
 ### Trends
 
@@ -477,10 +501,10 @@ More information about each field can be found below.
 
 The title is the headline for your post. Headlines matter, both to the reader and when it comes to search engine optimization (SEO). Below are some best practices for writing headlines:
 
-- Try to craft a headline that tells the reader what your post is about using as few words as possible. The more specific a headline is, the better. 
-- The more "prescriptive" the headline is – using words like "how," "why," or "what" for example – the more clear it is to the reader and to Google what the post is about. 
+- Try to craft a headline that tells the reader what your post is about using as few words as possible. The more specific a headline is, the better.
+- The more "prescriptive" the headline is – using words like "how," "why," or "what" for example – the more clear it is to the reader and to Google what the post is about.
 - When all else fails, please put yourself in the position of the reader who is searching for something on Google (because that's the major way people find our blog). What do they care about? What would they be interested in? This is more important to communicate up front than whatever we as GitLab want to tell readers.
-- Try to avoid beginning with continuous verbs ("-ing"). Make them active and descriptive so that readers know what they can expect to gain from reading the post. 
+- Try to avoid beginning with continuous verbs ("-ing"). Make them active and descriptive so that readers know what they can expect to gain from reading the post.
 - If there's something clever, funny, or punny that you are tempted to include in your headline, it is probably better to use it in your [description](#description) or in the first paragraph of your post. Jokes generally aren't effective at communicating to readers or Google what to expect from your post (sadly!).
 - It helps to think about your headline as part of a package: the headline, description, and first paragraph (or introduction) are where your reader learns about what your post is about. You can tinker with all of these to optimize the whole package, so if something doesn't fit in your headline it could go into the description, or vice versa.
 - Consider coming back to write or tweak your headline and description when you've finished writing your post. You're more likely to capture what the post is about when you know this yourself!
@@ -488,14 +512,14 @@ The title is the headline for your post. Headlines matter, both to the reader an
 
 ##### Example headlines
 
-- A headline like "**How GitLab switched from Azure to GCP in 10 days**" clearly reflects what someone might be searching for: how to switch platforms, how to move from Azure, how to move to GCP, etc. 
+- A headline like "**How GitLab switched from Azure to GCP in 10 days**" clearly reflects what someone might be searching for: how to switch platforms, how to move from Azure, how to move to GCP, etc.
   - "**Switching from Azure to GCP**" on the other hand is vague, because it's not clear who is doing the switching, or if the post is going to cover how to switch or why to switch.
-- "**What's in your backpack?**" (an actual [post about tools for remote work](/blog/2019/10/10/whats-in-your-backpack/) isn't "findable" on SEO because it's not nearly specific enough. 
+- "**What's in your backpack?**" (an actual [post about tools for remote work](/blog/2019/10/10/whats-in-your-backpack/) isn't "findable" on SEO because it's not nearly specific enough.
   - If the headline had been "**GitLab's top tools for remote work**" or "**GitLab's round up of top remote work tools**" it would have been much more likely to be discovered by someone searching on Google for remote work tools. Some more examples:
 -  ~~Reducing DevOps costs~~ -> How to reduce DevOps costs
 -  ~~Beautifying our UI~~ -> What we're doing to beautify our UI
 
-If all this seems too much, we get it! And that's why the Editorial team will always review (and maybe tweak) your headline for SEO, style, and content. But, because you're writing a blog post as an SME (and we're not SMEs) we hope you'll put that expertise to work in the headline as much as possible. 
+If all this seems too much, we get it! And that's why the Editorial team will always review (and maybe tweak) your headline for SEO, style, and content. But, because you're writing a blog post as an SME (and we're not SMEs) we hope you'll put that expertise to work in the headline as much as possible.
 
 #### Author
 
@@ -532,14 +556,14 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 
 ##### Default cover image
 
-This is the image that appears on the blog homepage or as the thumbnail on social media for posts that do not have a custom cover image specified. 
+This is the image that appears on the blog homepage or as the thumbnail on social media for posts that do not have a custom cover image specified.
 
 If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
 
   ![default blog cover image](/images/handbook/marketing/default-blog-image-example.png){: .shadow.medium.center}
-  
+
   If you still want to use the default image, use the path `'/images/default-blog-image.png'` in the [frontmatter](#frontmatter).
-  
+
   Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
 
 #### Featured
@@ -816,7 +840,7 @@ merch_four:
   banner_image_source: "/images/merchandising-content/cloud-native-transformation.png"
   banner_body_title: "A Cloud Native Transformation"
   banner_body_content: "Learn how Ask Media Group modernized their architecture and development with microservices, containers, and Kubernetes."
-  
+
 -name: merch_six
   destination_url: "/resources/ebook-remote-playbook/"
   cta_text: "Download now"
@@ -848,7 +872,7 @@ merch_four:
   sidebar_body_content: "Learn more about infrastructure automation."
 ```
 
-#### Requesting new merchandise 
+#### Requesting new merchandise
 
 If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker or @rebecca on your issue.
 
@@ -1086,7 +1110,7 @@ Make sure you select the blog post template for your MR, as this contains some i
 
 You can assign the MR to yourself while you are working on it.
 
-#### Creating MRs for confidential issues 
+#### Creating MRs for confidential issues
 
 If your blog post issue is confidential, please don't create an MR using the button on your issue – instead follow the instructions below:
 
@@ -1144,7 +1168,7 @@ If the link to the review app results in the error shown below, please check tha
 
 #### If the review app is missing
 
-If you don't see `View app` button, you may need to restart the review app.* 
+If you don't see `View app` button, you may need to restart the review app.*
 
 Click on the last pipeline icon and retry the `review` job. This will re-deploy the environment and enable the review app in the MR again.
 
