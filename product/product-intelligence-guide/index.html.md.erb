@@ -347,7 +347,6 @@ Determine what metrics are important for your specific section, stage, or group.
 #### Deduplication of Aggregated Metrics
 Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-analytics/-/issues/421)
 
-For `term` clarity: 
 
 | Term | Definition | Example | 
 | -----| -----------| --------|
