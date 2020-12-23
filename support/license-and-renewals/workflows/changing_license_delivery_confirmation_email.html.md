@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Changing License Delivery Confirmation Email
-category: License and subscription
+category: General
 ---
 
 ## On this page
