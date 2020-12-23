@@ -29,7 +29,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
 - [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd)
-- [Remote (South Africa, Mexico and Hungary)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
+- [Remote Technology (South Africa, Mexico, Hungary and Austria)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
 - [Safeguard (Spain, Italy, France, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
 ### Benefits Available to Contractors
