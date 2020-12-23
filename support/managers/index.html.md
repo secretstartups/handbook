@@ -13,13 +13,13 @@ description: "Support managers activities and references"
 ## Role and Responsibilities
 
 As a Support Manager at GitLab, you will be focusing on the following things:
-- Meeting KPIs
-- Growing and managing your team's efforts in support ouf the KPIs
-- Mentoring and Coaching your team on our technologies and processes
+- Meeting the [Support KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
+- Growing and managing your team's efforts in support of the [Support KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
+- Mentoring and [coaching](https://about.gitlab.com/handbook/leadership/coaching/) your team on our technologies and processes
 - Collaborate with other managers across regions
 - Enable our engineers to explore process change in a scalable way
 
-You can read more about the roles below:
+You can read more about the role below:
 [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
 
 ## How to see what the Support managers are working on
