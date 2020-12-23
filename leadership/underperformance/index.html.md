@@ -98,6 +98,8 @@ When coaching a team member is not yielding the performance results desired the 
 
 You may reference this template as a guideline for [Communication to Team Member After Successful PIP/PEP Completion](https://docs.google.com/document/d/1USeIvAH7ND1Cw8mh1QQ0dY_Ym37Z3QFXbz98648pGRY/edit), and this template for [Successful PEP/PEP Template for Managers](https://docs.google.com/document/d/1hDdn4otiaXZrdmZRQe8Uc9oSVkmYU7SGG3l-NyLNd1c/edit).
 
+The People Business Partner (PBP) should stage the PEP document for the team members signature in HelloSign after the manager has delivered and reviewed the PEP with the team member. The team member's signature serves as an acknowledgement that they have received and understand the PEP. 
+
 
 ### Performance Improvement Plan (PIP)
 
