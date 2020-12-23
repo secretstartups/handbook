@@ -111,4 +111,4 @@ This dashboard provides a monthly trend view for Bookings, including dollar and 
 - Net IACV Breakout: drill-down into the Net IACV components, such as FO, Growth, Expansion, Contraction, and Lost Renewals
 - Next 6 Months Pipe: view into the pipeline for the next 6 months
 
-[File](https://gitlab.my.salesforce.com/01Z4M000000oXuF)
+[Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXuF)
