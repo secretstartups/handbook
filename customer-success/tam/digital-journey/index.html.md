@@ -12,7 +12,7 @@ title: "Customer Digital Journey"
 
 ### Digital Journey
 
-The digital journey is designed to enable customers to better self-service the educational and “best practices” consulting that Technical Account Managers (TAMs) (link) provide to paying customers. This material is designed to help speed up time-to-value with GitLab, and to help customers adopt workflows and best practices more quickly in order to deepen their return on investment.
+The digital journey is designed to enable customers to better self-service the educational and “best practices” consulting that Technical Account Managers (TAMs) provide in the [TAM-Assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment). This material is designed to help speed up time-to-value with GitLab, and to help customers adopt workflows and best practices more quickly in order to deepen their return on investment.
 
 Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.
 
