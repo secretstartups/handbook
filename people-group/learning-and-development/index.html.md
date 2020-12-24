@@ -167,7 +167,7 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-The L&D team host and organize multiple [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
+The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
 
 ## Additional Learning Opportunities
 
@@ -197,7 +197,7 @@ There is also a way to practice foreign languages and ask for advice in several 
 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
-We piloted the [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) program during the month of September to over 30 people leaders at GitLab. The Manager Challenge is to first step to building out a comprehensive manager enablement curriculum for People Leaders. We used daily challenges and the GitLab tool to facilitate async learning in a remote environment. This was the first program of its kind at GitLab and we look forward to rolling out more manager enablement initiatives in the future.  
+The [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) is one of the first steps to building out a comprehensive manager enablement curriculum for People Leaders. We use daily challenges and the GitLab tool to facilitate async learning in a remote environment. We encourage new and tenured managers to sign up for an upcoming program to develop their ability to lead remote teams while learning from others in a collaborative setting. 
 
 ## New Learning Content at GitLab
 
