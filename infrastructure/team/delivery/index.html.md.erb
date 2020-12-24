@@ -16,10 +16,8 @@ title: "Delivery Team"
 | **Issue Trackers** | [**Delivery**][issue tracker]|
 | **Slack Channels** | [#g_delivery] / `@delivery-team`
 | **Delivery Handbook** | [Team training][team training]|
-
-## Other Related pages
-
-- [Release Tools](/handbook/engineering/infrastructure/release-tools)
+| Release Tools Project | [Release tools](/handbook/engineering/infrastructure/release-tools) |
+| Release Manager Runbooks | [release/docs/runbooks](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/README.md) |
 
 ## Top-level Responsibilities
 
@@ -149,7 +147,7 @@ By default, an issue needs to have a:
 
 The Delivery team leverages scoped `workflow-infra` labels to track different stages of work.
 
-On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution. 
+On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution.
 
 The typical workflow is described below:
 
@@ -164,7 +162,7 @@ Note right of triage: Problem has been<br/> identified and a  possible solution 
 Note right of proposal: Proposal has been<br/>discussed and scoped.<br/>Issue is ready to implement.
 ```
 
-Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals. 
+Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals.
 
 The standard progression of workflow is described below:
 
@@ -201,6 +199,8 @@ The Delivery team uses priority labels to indicate order under which work is nex
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
+The team uses priority labels different to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+
 #### Other Labels
 
 Some of the labels related to the team management are defined as:
@@ -214,7 +214,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to. 
+The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
