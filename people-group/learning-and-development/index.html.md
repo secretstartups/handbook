@@ -413,7 +413,7 @@ Total number of [promotions](/handbook/people-group/promotions-transfers/) in a 
 
 - **12-month voluntary team member turnover related to growth < X%**
 
-This performance indicator is calculated the same as [12-month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but uses the number of team members actively choosing to leave GitLab for growth and development related reasons only. The target is to be determined.
+This performance indicator is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but uses the number of team members actively choosing to leave GitLab for growth and development related reasons only. The target is to be determined.
 
 - **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
 
