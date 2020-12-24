@@ -69,7 +69,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
     - Examples:
         - [The cloud adoption roadmap](/blog/2019/12/05/cloud-adoption-roadmap/)
         - [A brief guide to multicloud security](/blog/2019/11/21/multi-cloud-security/)
-        - [The DevOps tool landsacpe](/blog/2019/11/01/devops-tool-landscape/)
+        - [The DevOps tool landscape](/blog/2019/11/01/devops-tool-landscape/)
 1. **Product:** Articles that cover GitLab's product evolution, features, and capabilities. Includes release posts, integrations, feedback solicitations, and use case articles centered around how to use GitLab to do something.
     - Examples:
         - [Why GitLab CI/CD?](/blog/2019/04/02/why-gitlab-ci-cd/)
@@ -79,7 +79,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
     - Examples:
         - [The GitLab handbook by numbers](/blog/2019/04/24/the-gitlab-handbook-by-numbers/)
         - [Mastering the all-remote environment: My top 5 challenges and solutions](/blog/2019/12/30/mastering-the-all-remote-environment/)
-        - [6 Ways to improve communicationin your company](/blog/2019/12/23/six-key-practices-that-improve-communication/)
+        - [6 Ways to improve communication in your company](/blog/2019/12/23/six-key-practices-that-improve-communication/)
 1. **Corporate news:** Articles covering GitLab news and announcements such as:
     - Changes to GitLab policies, product, and services. Examples:
         - [Update on free software and telemetry](/blog/2019/10/10/update-free-software-and-telemetry/)
@@ -127,9 +127,9 @@ Below are some examples of types of posts that we have found not to be successfu
 
 For context, we aim for a blog post to achieve a minimum of >1,000 unique views in its first month.
 
-#### Promotional announcements 
+#### Promotional announcements
 
-With the exception of big news, for example a funding announcement or [making paid features open source](/blog/2020/03/30/new-features-to-core/), promotional announcements do not tend to draw lots of traffic. We encourage team members to check out our [best practices in the blog handbook](/handbook/marketing/blog/#writing-blog-posts--best-practices), which may help contributors to adjust the angle or substance of their post to be more appealing to our audience. In some cases a straightforward announcement is more appropriate than attempting to tell a story with the news, in which case the Editorial team member reviewing the draft will just do a light proofread and check for formatting rather than a more in-depth edit. 
+With the exception of big news, for example a funding announcement or [making paid features open source](/blog/2020/03/30/new-features-to-core/), promotional announcements do not tend to draw lots of traffic. We encourage team members to check out our [best practices in the blog handbook](/handbook/marketing/blog/#writing-blog-posts--best-practices), which may help contributors to adjust the angle or substance of their post to be more appealing to our audience. In some cases a straightforward announcement is more appropriate than attempting to tell a story with the news, in which case the Editorial team member reviewing the draft will just do a light proofread and check for formatting rather than a more in-depth edit.
 
 - [Celebrating 3,000 wider community contributors](/blog/2020/06/23/3000-contributors-post/)
 - [How recent acquisitions introduce fuzz testing to GitLab](/blog/2020/07/17/fuzz-testing/)
@@ -140,12 +140,12 @@ Please see [best practices documented in the blog handbook](/handbook/marketing/
 
 #### Operational announcements
 
-These posts don't form part of our editorial strategy as they serve only as communications to users or customers. We will only proofread these and check for formatting. 
+These posts don't form part of our editorial strategy as they serve only as communications to users or customers. We will only proofread these and check for formatting.
 
 - [Artifact and job meta data expiration settings are changing for GitLab.com](/blog/2020/06/18/job-artifact-meta-data-expiration-change/)
 - [GitLab will extend package signing key expiration by one year](/blog/2020/06/25/package-key-extension/)
 
-#### GitLab feature posts 
+#### GitLab feature posts
 
 [Posts focusing on GitLab features or capabilities](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues/42#gitlab-feature-focused-posts) don't consistently draw traffic.
 
@@ -314,7 +314,7 @@ Iteration, innovation, learning from mistakes
 
 With the exception of time-sensitive announcements and news, we are aiming to have blog posts scheduled two weeks ahead.
 
-- We will publish 2-3 posts per week, aiming to have a variety of topics covered within the same week. We have found that publishing more than this does not increase traffic, and can actually result in fewer unique views overall (see [blog traffic analyses](#blog-traffic-analyses) for links to previous quarters' traffic data). 
+- We will publish 2-3 posts per week, aiming to have a variety of topics covered within the same week. We have found that publishing more than this does not increase traffic, and can actually result in fewer unique views overall (see [blog traffic analyses](#blog-traffic-analyses) for links to previous quarters' traffic data).
 - We will stagger publishing, generally avoiding posting on Fridays and in the last few days of the month.
 - We don't consider operational posts (patch releases, for example) or announcements as conflicting with other publishing, so we may publish a post on the same day that one of those goes live.
 - We aim to ensure that posts that are likely to be popular are live in time to be included in the bi-weekly newsletter that goes out on the 10th and 25th of each month.
@@ -474,8 +474,8 @@ Most blog posts requiring approval are accounted for above, but occasionally the
 In these cases, please check the following box on the blog post issue and follow the instructions:
 
 > If wide-spread customer impacting or sensitive
-> 
-> 
+>
+>
 > - Add sensitive label
 > - Mention @nwoods to give her a heads up ASAP
 
@@ -526,7 +526,7 @@ This blog post was originally published on the [GitLab Unfiltered blog](/blog/ca
 ```
 - Remove Unfiltered disclaimers from [top](/handbook/marketing/blog/unfiltered/#link-to-disclaimer) and [bottom](/handbook/marketing/blog/unfiltered/#legal-disclaimer) of blog post
 - Change [category](/handbook/marketing/blog/#categories) from `unfiltered` to another
-- Add a custom [cover image](/handbook/marketing/blog/#cover-image) if the default Unfiltered image (`/images/blogimages/gitlab-values-cover.png`) has been used 
+- Add a custom [cover image](/handbook/marketing/blog/#cover-image) if the default Unfiltered image (`/images/blogimages/gitlab-values-cover.png`) has been used
 - Check if any [frontmatter](/handbook/marketing/blog/#frontmatter) is missing. It might be worth adding merchandising, for example.
 - Add links to related blog posts, where relevant
 - Keep filename the same. Do not update to the current date (this will change the URL for the blog post and result in a 404 for existing links to the original post)
@@ -546,11 +546,11 @@ Occasionally team members may notice something is missing from or could be impro
 
 Team members are strongly encouraged to work [handbook first](/handbook/handbook-usage/#why-handbook-first) and to [start with an MR](/handbook/communication/#everything-starts-with-a-merge-request). Whether a proposed change comes up in discussion on Slack, on GitLab, or in a meeting, or you just have an idea you would like to contribute, please open an MR to suggest the change, or open an issue in the [Editorial project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues) if you're not sure what change to make or want to put an idea up for discussion with the team first. 
 
-If you open an MR, please assign it to the managing editor to merge, and ping the rest of the Editorial team so everyone is aware of the change and can contribute to the discussion. Looping everyone in, even in cases where a change has been discussed and agreed on in a meeting, for example, is to ensure that the MR accurately captures what was agreed on, and that the whole team is aware of and understands any changes in case we need to explain anything to team members from other groups. 
+If you open an MR, please assign it to the managing editor to merge, and ping the rest of the Editorial team so everyone is aware of the change and can contribute to the discussion. Looping everyone in, even in cases where a change has been discussed and agreed on in a meeting, for example, is to ensure that the MR accurately captures what was agreed on, and that the whole team is aware of and understands any changes in case we need to explain anything to team members from other groups.
 
 If the managing editor is unavailable, you can assign to another Editorial team member to merge, but please cc the managing editor so they are aware of the changes.
 
-Note: This principle applies to process changes. Don't worry about pinging everyone if you open an MR to fix a typo or a broken link! 
+Note: This principle applies to process changes. Don't worry about pinging everyone if you open an MR to fix a typo or a broken link!
 {: .note}
 
 ## Blog style guide
@@ -715,7 +715,7 @@ Examples:
 
 #### Tense
 
-When including direct quotations from interviewees in blog posts, we prefer to use the feature journalism style of present tense for verbs such as "said," "explained" etc. 
+When including direct quotations from interviewees in blog posts, we prefer to use the feature journalism style of present tense for verbs such as "said," "explained" etc.
 
 > Example: "Ruby was optimized for the developer, not for running it in production," says Sid.
 
@@ -749,7 +749,7 @@ How to spell and style commonly used words.
     - when in reference to the GitLab Board or Directors or our Board members, Board is capitalized
     - a board in general does not need to be capitalized
 - built-in/built in
-   - always hyphenated when appearing before a noun e.g. "GitLab has built-in CI/CD." Two words when used as a verb e.g. "GitLab comes with CI/CD built in." 
+   - always hyphenated when appearing before a noun e.g. "GitLab has built-in CI/CD." Two words when used as a verb e.g. "GitLab comes with CI/CD built in."
 - cloud native
     - not capitalized, and no hyphen, regardless of how it is used
 - co-founder
@@ -771,8 +771,8 @@ How to spell and style commonly used words.
     - not capitalized
 - Kubernetes
     - always capitalized, never abbreviated to K8s (except on social)
-- lifecycle 
-    - always one word 
+- lifecycle
+    - always one word
 - Master
     - we no longer use this term to refer to branches...please use _main_ instead
 - multicloud
@@ -781,7 +781,7 @@ How to spell and style commonly used words.
     - no hyphen, regardless of how it is used
 - operations
     - use "ops" sparingly; do not capitalize
-- plugin 
+- plugin
    - always one word  
 - set up/setup
     - two words for the verb, one for the noun ("How to set up a Kubernetes cluster"/"Let's walk through the Kubernetes cluster setup process")
@@ -814,6 +814,27 @@ Here is another more DIY SEO option.
 Finally, digital marketing is putting together a searchable database of relevant keywords for GitLab that will be updated monthly. When that is ready a link will be available here.
 
 ## Editorial review checklist
+
+### Diversity, Inclusion, and Belonging
+
+We have a [checklist for writers in the blog handbook](/handbook/marketing/blog/#diversity-inclusion-and-belonging-dib-checklist-for-blog-writers) to help guide a more inclusive writing process. The checklist below is for editors to ensure that our published content reflects our values of Diversity, Inclusion, and Belonging (DIB).
+
+#### Are the images inclusive?
+
+- Are images (cover image and any screengrabs) [inclusive](/handbook/marketing/blog/#inclusive-photos)?
+- Is the alternative text descriptive (for SEO and accessibility)? If not, tag the author or make the change yourself. Here are some [tips on writing descriptive alternative text](https://moz.com/learn/seo/alt-text).
+
+#### Is the writing inclusive?
+
+- Does the post use [inclusive language](/company/culture/inclusion/#inclusive-language)?
+- Confirm that people featured in the post are referencing using their [preferred pronoun](/handbook/people-group/gender-pronouns/#how-do-i-know-which-pronouns-to-use)? You can do a quick check on the individual's [team page profile](/company/team/#close-modal) and Slack profile.
+- Whenever possible, edit to remove extra words to keep sentences short and concise. For example: "The family is excited to buy their very own house" can be edited to read "The family is excited to buy a house". These edits make the post easier for all readers to follow.
+- Check that the writing is appropriate for a global audience. Flag any regional metaphors or United States-centric language.
+- Ensure that all links are meaningful and descriptive (e.g. avoid link text such as "read here" or "this article"). Descriptive links are more useful and accessible for people using screen readers.
+
+#### Ask the DIB team
+
+- If you have a DIB question about the blog post, don't just guess. Reach out to the DIB team or tag the leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in the blog issue or merge request.
 
 ### Style and language
 
