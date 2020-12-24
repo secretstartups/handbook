@@ -136,8 +136,8 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 GitLab's Handbook pages grow every day. Each page serves as GitLab's primary source of [learning and development material](https://about.gitlab.com/handbook/people-group/learning-and-development/#handbook-first-training-content). Throughout FY22, the L&D team and the CEO will hold recorded interactive learning sessions to analyze Handbook pages. The goal of the sessions will be to incorporate more video-based learning into the handbook.  
 
 Two types of CEO handbook learning sessions: 
-1. Handbook Readout: Short recording where the L&D team and the CEO review what is on the page 
-2. Handbook Discussion: Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members with targeted Q&A on the material. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. 
+1. **Handbook Readout:** Short recording where the L&D team and the CEO review what is on the page 
+2. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members with targeted Q&A on the material. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. ()
 
 The video below from Sid and L&D further explains the concepts: 
 
@@ -145,11 +145,19 @@ The video below from Sid and L&D further explains the concepts:
   <iframe src="https://www.youtube.com/watch?v=cB301JaYnsw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+Steps for L&D Team when setting up a CEO Handbook Learning Session: 
+1. Review topic relevant Handbook pages. 
+2. Identify pages that need video and content update. 
+3. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion. 
+4. Set up a meeting with CEO through EBA. Invite other e-group members if applicable. 
+5. Create an agenda with talking points and areas to emphasize during video recording with CEO
+6. Hold a handbook learning session  and ensure the discussion is fluid and interactive with open and honest dialogue. 
+7. Determine if L&D can create bite-sized videos with the content. Post bite-sized and long-form video on YouTube Unfiltered channel
+8. Embed video on the related Handbook page. 
 
+List of CEO Handbook Learning Sessions: 
 
-
-
-
+- Coming Soon!
 
 
 
