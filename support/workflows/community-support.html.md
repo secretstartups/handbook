@@ -14,9 +14,9 @@ Community Support is sharing knowledge, answers, and solutions in a way that mak
 
 ## Docs-first Community Support
 
-GitLab employs a [Docs-first methodology](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) to ensure our documentation is a SSoT resource where users can find answers, solutions, and information on using GitLab.
-
 GitLab Documentation's library is vast, and some users may need assistance in finding what they need.
+
+GitLab employs a [Docs-first methodology](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) to ensure our documentation is a SSoT resource where users can find answers, solutions, and information on using GitLab.
 
 GitLab Support Engineers should default to using a **Docs-first approach to Community Support** in the GitLab Community Forum or elsewhere.
 
@@ -30,36 +30,23 @@ The critical points of the Docs-first approach for Community Support are:
 
 Beyond docs-first, there are several GitLab Support workflows helpful in getting answers and solutions available to all GitLab users.
 
+### Special types
+
+In our documentation styleguide we define ["special types"]((https://docs.gitlab.com/ee/development/documentation/styleguide.html#no-special-types)) of content that are not well-suited for our documentation - specifically Tutorials, How-to guides, and Explanations.
+
+This "no special types" policy restricts GitLab from shipping this content in our official docs.
+
+Examples of Community forum threads where answers and solutions are "special types" that don't "fit" into the docs:
+
+* Explanation - "I read the docs, but I don't understand."
+* Situation-specific Tutorials/How-tos - ("I'm running GitLab CE 11.0 as a Docker container, and I want to upgrade to GitLab 13.2 EE Omnibus with minimal downtime, how can I safely do this?")
+* Problem-specific Troubleshooting steps (I upgraded GitLab from 12.9 to 13.1 and now it's not working, I get 404 error on every page - please help!)
+
+In a troubleshooting context, a docs-first approach to Support in the Community Forum can act as mortar to fill "special type" gaps left in our documentation.
+
 ## GitLab Community Forum
 
 Opening a thread in the GitLab Community Forum is the official and most efficient way for users of our free products to receive Technical Support.
-
-### Community Support user journey
-
-```mermaid
-graph LR
-  A(GitLab technical problem question)
-  A --> C(Ask for help)
-  A --> D(Search for answer/solution)
-  C --> 1a(Support) --> 1b --> E
-  C --> 1b(Forum) --> E
-  D --> E(Find answer/solution)
-  D --> F(Don't find answer/solution) --> C(Ask for help)
-```
-
-### Optimal Community Support Experience
-
-```mermaid
-graph TD
-  A1(Question about GitLab) & B1(Problem using GitLab) --> D(Search for answer/solution)
-  D --> E(Find answer/solution)
-```
-
-Win-win-win - benefits GitLab community, customers, and team members.
-
-- [x] self-serve support
-- [x] docs-first
-- [x] ticket deflection
 
 ## GitLab Support Engineer Modes of Work in Community Forum
 
@@ -98,16 +85,64 @@ Specializes in picking "low-hanging fruit" by publicly sharing known answers or 
 
 ### Fishing Instructor
 
-> "give a [hu]man a fish, and you feed them for a day; teach a [hu]man to fish, and you feed them for a lifetime." - proverb
-
-TL;DR: It is more worthwhile to teach someone to do something (for themselves) than to do it for them (on an ongoing basis).
+It is more worthwhile to teach someone to do something (for themselves) than to do it for them (on an ongoing basis).
 
 The forum is like fishing, "Toss in a Q, get out an A".
 
-Fishing is "the activity of catching fish". To catch a fish, one must know how to fish, and where to find fish to catch.
-Some people hire fishing instructors or guides to help with this.
+Fishing is "the activity of catching fish". To catch a fish, one must know how to fish, and where to find fish to catch. Some people hire fishing instructors or guides to help with this.
 
-"Fishing instruction" in the forum is an opportunity to showcase the resources are available and how to find them. (docs, issues, MRs, codebase, forum threads). The forum is a pond with fish, and the goal of this role is to:
+"Fishing instruction" in this context is an opportunity to showcase the resources are available and how to find them. (docs, issues, MRs, codebase, forum threads).
+
+Currently we have a lot of folks reach out to Support without first looking for easy answers/solutions.
+
+```mermaid
+graph LR
+  A(GitLab technical problem question)
+  A --> C(Ask for help)
+  A --> D(Search for answer/solution)
+  C --> 1a(Support) --> E
+  C --> 1b(Forum) --> E
+  D --> E(Find answer/solution)
+  D --> F(Don't find answer/solution) --> C(Ask for help)
+```
+
+We also have folks who contact Support although they are not a customer. By showing free users where to fish, we can reduce any delay and friction in Community support options.
+
+```mermaid
+graph LR
+  A(Question/Problem)
+  B(Customer?)
+  C(Y)
+  D(N)
+  E(Support)
+  F(Forum)
+  A --> B
+  B --> C
+ B --> D
+  C --> E
+ D --> E
+ D --> F
+```
+
+The most efficient and effective way to connect users with appropriate support option is to act in a way that encourages and increases the following support-seeking user flow.
+
+```mermaid
+graph LR
+  A(Question/Problem)
+  B(Am I a Customer?)
+  C(Y)
+  D(N)
+  E(Support)
+  F(Forum)
+  G(Success)
+  A --> B
+  B --> C
+  B --> D
+  C --> E --> G
+  D --> F --> G
+```
+
+The forum is a pond with fish, and the goal of this role is to:
 
 - make sure free users know how to fish
 - direct free users to the best fishing spots
@@ -115,9 +150,7 @@ Some people hire fishing instructors or guides to help with this.
 
 "Fishing instructors" enable and empower GitLab users to catch their own fish - find solutions and answer questions without Support intervention.
 
-By directing incoming Free user tickets to the Community forum, where fishing instructors are available, users get in the habit of finding answers/solutions outside of GitLab Support.
-
-Self-serve support is the ability to find answers or solutions to technical problems by oneself. GitLab Support would consider self-serve support part of "ticket deflection."
+By directing incoming Free user tickets to the Community forum, where fishing instructors are available, users get in the habit of finding answers/solutions without relying on GitLab Support.
 
 ### Accepted Answers
 
@@ -139,3 +172,34 @@ Similar to GitLab Support ZenDesk tickets, unsolved GitLab technical support thr
 ### Flagging Posts
 
 If you see a form post that is clearly abuse or spam, flag the post by clicking the flag icon. This marks the post as abuse, which gets processed by GitLab Forum moderators.
+
+### Community Support Experience
+
+Through self-serve support, docs-first approach, and ticket deflection through community Support, we aim to optimize the Support experience for all users.
+
+#### Common Free User Support Experience
+
+```mermaid
+graph LR
+  A(GitLab technical problem question)
+  A --> C(Ask for help)
+  A --> D(Search for answer/solution)
+  C --> 1a(Support) --> 1b --> E
+  C --> 1b(Forum) --> E
+  D --> E(Find answer/solution)
+  D --> F(Don't find answer/solution) --> C(Ask for help)
+```
+
+#### Optimal Free User Support Experience
+
+Win-win-win - benefits GitLab community, customers, and team members.
+
+- [x] self-serve support
+- [x] docs-first
+- [x] ticket deflection
+
+```mermaid
+graph LR
+  A1(Question about GitLab) & B1(Problem using GitLab) --> D(Search for answer/solution)
+  D --> E(Find answer/solution)
+```
