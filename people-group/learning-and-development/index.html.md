@@ -11,7 +11,7 @@ title: Learning & Development
 
 ## Introduction
 
-Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success and overall business strategy. We want to support the growth of our GitLab team-members' competencies, skills and knowledge by providing them with the tools they need and also the opportunities to progress their own personal and professional development.  
+Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success, and overall business strategy. We want to support the growth of our GitLab team-members' competencies, skills, and knowledge by providing them with the tools they need and the opportunities to progress their own personal and professional development.  
 
 ## How to Communicate with Us
 
@@ -21,7 +21,7 @@ Email Us: `learning@gitlab.com`
 
 
 ## Mission
-Our mission is to provide resources to enable our team members to enhance success in their current roles as well as develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns with our strategic priorities as an organization. At GitLab, we are cultivating a culture of curiosity and continuous learning. 
+Our mission is to provide resources to enable our team members to enhance success in their current roles and develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns with our strategic priorities as an organization. At GitLab, we are cultivating a culture of curiosity and continuous learning. 
 
 ## GitLab Learning Strategy & Roadmap
 
@@ -39,11 +39,11 @@ All material in the handbook is considered training. The Learning & Development 
 
 ## GitLab Learning & Development Principles
 
-1. **Meaningful and relevant content.** We deliver learning solutions that drive the development and growth of team members throughout their life cycle at GitLab.
+1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to enable professional goals.
 
 1. **Values aligned.** Our learning solutions reinforce GitLab’s [values](/handbook/values/), and foster continuous learning and curiosity.
 
-1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions, and adapt to various learning needs.
+1. **Diverse approaches to learning.** We apply a blended learning model for learning solutions that adapt to various learning needs.
 
 1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
 
@@ -51,14 +51,14 @@ All material in the handbook is considered training. The Learning & Development 
 
 * Set learning strategy to develop and attract GitLab talent through a blend of immersive learning experiences
 * Identifies and develops strategic relationships across the organization to motivate and develop team members
-* Demostrate thought leadership and subject matter expertise in learning while applying adult learning theories
-* Design learning solutions and experiences in support of organization values and culture, leadership principles, people manager core capabilities, career development, and more
+* Demonstrate thought leadership and subject matter expertise in learning while applying adult learning theories
+* Design learning solutions and experiences in support of organizational values and culture, leadership principles, people manager core capabilities, career development, and more
 * Deliver and develop training content to meet our strategic goals
 * Perform learning needs analysis with leadership and e-group to understand and execute on learning and development opportunities
 
 ## L&D Organization
 
-We are a small team but we've got a big role to play at GitLab! 
+We are a small team, but we've got a big role to play at GitLab! 
 
 * [Learning and Development Partner ](/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
 * [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
@@ -67,7 +67,7 @@ We are a small team but we've got a big role to play at GitLab!
 ## Learning Sessions
 
 ### Live Learning
-Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions you will be asked to be engaged and participate with your full attention.
+Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
 
 <details>
   <summary markdown='span'>
@@ -155,7 +155,7 @@ Live Learning sessions will be conducted on a monthly basis. There will be a Zoo
 
 ### GitLab Mini and Extended Challenges
 
-All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. In November of 2020, we launched a [One Week Challenge on Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge). 
+All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics, and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. In November of 2020, we launched a [One Week Challenge on Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge). 
 
 **Sample structure of a challenge:**
 - Length of challenge: 1 week (But can be for as long as 4 weeks)
@@ -167,17 +167,17 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 
 ## Learning Initiatives 
 
-The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistantly iterating on and adding to these resources!
+The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
 
 ## Additional Learning Opportunities
 
 ### Certifications
 
-We provide our team members with certifications to demonstrate their knowledge on specific topics. We have [outlined](/handbook/people-group/learning-and-development/certifications/) our current certifications as well as planned and upcoming certifications for the year.
+We provide our team members with certifications to demonstrate their knowledge of specific topics. We have [outlined](/handbook/people-group/learning-and-development/certifications/) our current certifications as well as planned and upcoming certifications for the year.
 
 ### Career Development
 
-Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers with holding coaching discussions with their team. 
+Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
 
 ### Developing Emotional Intelligence
 
@@ -187,7 +187,7 @@ Another strategy to improve emotional intelligence is to apply the [Social Style
 
 ### Language Courses
 
-If you have any language courses you would like to recommend or links to websites please add them to this section.
+If you have any language courses, you would like to recommend or links to websites, please add them to this section.
 
  - [The 8 Best Interactive Websites for Adults to Learn English](https://www.fluentu.com/blog/english/best-websites-to-learn-english/)
 
@@ -208,7 +208,7 @@ If you have developed the learning content and would like the Learning & Develop
 Our team will review and set the priority for your content request or review based on the scale and impact across the organization. Learning items that will be applied and used across the company will take priority. 
 
 ### How the L&D team prioritizes requests: 
-*  Evaluate strategic impact of the learning session
+*  Evaluate the strategic impact of the learning session
 *  Determine the level of work associated with the learning requirement
 *  Assess the impacted audience groups of the session 
 *  Identify measures of success 
@@ -216,11 +216,11 @@ Our team will review and set the priority for your content request or review bas
 
 ### L&D team sprints
 
-The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on quartley sprints.
+The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on three-week sprints.
 
 * The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
-* The `L&D Ongoing` list is meant for long term projects the team is working on that cannot be accomplished in one sprint, but are a priority.
+* The `L&D Ongoing` list is meant for long term projects the team is working on that cannot be accomplished in one sprint but are a priority.
 * Following the ongoing list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
 * Issues can be moved from the `open` list to the correct sprint when they are ready to be assigned/addressed.
 * When an issue is closed, it should remain in the given milestone.
@@ -233,7 +233,7 @@ Additional planning and notes around the sprint board can be found in [this issu
 
 - Apply a burn-down chart with milestones to track time spent
 - Create the issue in the sprint where the work starts
-- When creating L&D contnet, apply one issue to one course when developing content. Maintain all course development material in the issue for organization. 
+- When creating L&D content, apply one issue to one course when developing content. Maintain all course development material in the issue for organization. 
 - Epics do not show up in the boards
 - Apply a Storyboard template for course development
 - Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
@@ -242,21 +242,21 @@ Additional planning and notes around the sprint board can be found in [this issu
 
 ### Top five training content development principles
 
-If you are devleoping content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
+If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
 
 1. **Know Your Audience** - Analyze and assess the course audience. Ensure that all audience needs are accounted for at every level in the organization you are delivering the training too. 
 
-2. **Define Learning Objectives** - Highlight what you want the learner to walk away from the session with. Consider developing two to three broad overall statements of what the audience will acheive. 
+2. **Define Learning Objectives** - Highlight the learner outcome. Consider developing two to three broad overall statements of what the audience will achieve. 
 
 3. **Break Down Complex Information** - Consider breaking down complex information into easy to digest visuals or text. Reference the handbook but do not be afraid to create a visual representation or use storytelling for the audience.
 
-4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There are a lot you can leverage! 
+4. **Engage the Learner** - Adults learn through practice and involvement. Consider using tools to engage learners in a virtual setting like [Mentimeter](https://www.mentimeter.com/) or [Kahoot](https://kahoot.com/business-u/) to stimulate interactivity. Ask the [L&D team](/handbook/people-group/learning-and-development/) for more insight on learning engagement tools. There is a lot you can leverage! 
 
-5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionmaires. 
+5. **Implement Blended Learning Course Content** - Give the audience some pre-course work to read and review before the learning session. Use off-the-shelf resources and ensure the content is applicable to what will be covered in the session. Follow up with the audience following the session to gauge how they've applied what they've learned on the job through surveys and questionnaires. 
 
 ### Application of Adult Learning Theory
 
-Adults learn differently in the workplace than they would in traditional learning environments or how they learned growing up. If you are developing training, consider applying principles related to Adult Learning Theories, those include: 
+Adults learn differently in the workplace than in traditional learning environments or how they learned growing up. If you are developing training, consider applying principles related to Adult Learning Theories, those include: 
 
 1. **Transformative learning:** The learning experience should aim to change the individual through transformative learning approaches. Start with learning experiences that appeal to your specific audience, and then move to activities that challenge assumptions and points of view.   
 
@@ -268,17 +268,17 @@ Adults learn differently in the workplace than they would in traditional learnin
 
 ### Developing Learning Objectives
 
-If you are developing training, add learning objectives to the beginning of the content to state a clear outcome of the training. A clear learning objective states what the learner will be able to do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
+If you are developing training, add learning objectives to the beginning of the content to state a clear training outcome. A clear learning objective describes what the learner will do upon completion of a learning/training activity. Good learning objectives are what you want team members to learn or achieve. 
 
 **Steps to creating learning objectives:** 
-1. Identify the level of knowledge necessary to achieve the objective of the training. Use [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) to assist with writing effective learning objectives. 
+1. Identify the level of knowledge necessary to achieve the aim of the training. Use [Bloom's Taxonomy](https://tips.uark.edu/using-blooms-taxonomy/) to assist with writing practical learning objectives. 
 2. Select an [action verb](https://www.bu.edu/cme/forms/RSS_forms/tips_for_writing_objectives.pdf). 
 3. Create your very own objective
 4. Check your objective. Make sure it includes these four pieces: audience, behavior, condition, and degree of mastery
 5. Repeat these steps for each objective
 
 **Sample learning objectives:** 
-- By the end of the session, team members will be able to accurately describe the steps take to address underperformance
+- By the end of the session, team members will be able to describe the steps taken to address underperformance
 - Team members will be able to apply the GROW coaching model framework to coaching sessions with members of their team 
 - After learning about the high-performance team-building model, team members will be able to determine the steps needed to reach high performance.
 
@@ -303,14 +303,14 @@ We are also in the process of launching LinkedIn Learning internally for all tea
 
 ## Compliance Courses 
 
-GitLab has a number of compliance courses and resources. Explore the drop downs below to learn more. 
+GitLab has several compliance courses and resources. Explore the drop-downs below to learn more. 
 
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
   </summary>
 
-All team members are required to take a harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+All team members are required to take harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using <a href="https://learning.willinteractive.com/">Will Interactive's Platform</a> within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
 <ol>
 <li>Log into BambooHR</li>
@@ -319,13 +319,13 @@ All team members are required to take a harassment prevention training. All new 
 <li>Enter in your name and GitLab email address</li>
 <li>Create a password</li>
 <li>You may be sent a link to verify your account</li>
-<li>Once you have logged in successfully you will be taken to the course you selected in BambooHR. (You can use the navigation bar at the top right-hand side of screen for volume and screen settings. To the left and right of the center screen you should see this symbol: > which you can click on to move forward and back through the training.)</li>
+<li>Once you have logged in successfully, you will be taken to the course you selected in BambooHR. (You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.)</li>
 <li>Once completed, please upload a copy of your certificate in BambooHR in the <i>Employee Uploads</i> folder</li>
 <li>You may also keep a record of the certificate for your own files. To create the certificate, click on <i>view</i> in the course title</li>
 <li>Scroll down to <i>users</i> then click on <i>completion certificates</i> to download the PDFs</li>
 </ol>
 
-If a Team Member moves from an individual contributer role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
+If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
 Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> outlines guidelines, reporting and disciplinary action.  
 
@@ -337,38 +337,38 @@ Our <a href="/handbook/anti-harassment/?private=1">Anti-Harassment Policy</a> ou
   </summary>
 
 
-The Compliance Next community offers free membership and comes with tons of amazing resources and tools for compliance professionals as well as people just wanting to learn more about the compliance space. 
+The Compliance Next community offers free membership and comes with tons of excellent resources and tools for compliance professionals and people interested in learning more about the compliance space.  
 
 You can create a free account on the [Compliance Next](https://www.navexglobal.com/compliancenext/) website using your own credentials. 
 
-One of the most unique and interesting aspects of Compliance Next is the ability to connect directly with experts and peers. The platform offers different types of educational resources that you can watch, read and use—all of which provide the ability to comment and ask questions to compliance professionals and other members of the community.
+One of the most unique aspects of Compliance Next is connecting directly with experts and peers. The platform offers different types of educational resources that you can watch, read, and use—all of which provide the ability to comment and ask questions to compliance professionals and communinity members.
 
 </details>
 
-If you have any questions or need further help please ping people ops in the `#peopleops` channel in slack.
+If you have any questions or need further help, please ping people ops in the `#peopleops` channel in slack.
 
 ### Compliance Processing Steps for L&D Team
 
 #### Checking Compliance for Offboarded Team Members
 
-When tagged in an offboarding issue, follow these steps to check completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
+When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
 
-It is important this step is completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check insures that GitLab is aware of, and making use of, all paid licenses.
+This step must be completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check ensures that GitLab is aware of, and making use of, all paid licenses.
 
 1. Navigate to the offboarding issue. Copy the user's email address.
 1. Collect Start Date: Linked to the offboarding issue is a merge request to remove the team member from relevant pages. Review the MR change log to check the start date of the team member. This start date will indicate which WILL Learning course the team member would have completed.
 1. Collect Location Information: On the same MR, make note of the team member's location.
-1. Collect Management Information: On the offboarding issue, check for the individuals title at GitLab and determine if they were a manager of people. If you cannot tell from the offboarding issue, check their Slack profile or refer to the GitLab Org Chart.
+1. Collect Management Information: On the offboarding issue, check for the individual's title at GitLab and determine if they were a manager of people. If you cannot tell from the offboarding issue, check their Slack profile or refer to the GitLab Org Chart.
 1. Open the WILL Learning platform.
-1. Based on the team member's location, management level, and start date, navigate to the WILL Learning course they would have been invited to take. For example, a team member who manages people, joined GitLab in 2019, and lives outside of the USA would have been invited to take the `2019 Anti-Harassment Training for Supervisors` course. Click the `MANAGE` button to enter the course.
-1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL Learning license - either `Finished`, `In Progress`, or `Not Started`. Please note - if the user does not appear in the first WILL Learning course you check, attempt to look for the user in other approriate courses. Note that at this time, there is no function in the WILL Learning platform to search all courses at once.
+1. Based on the team member's location, management level, and start date, navigate to the WILL Learning course, they would have been invited to take. For example, a team member who manages people joined GitLab in 2019, and lives outside of the USA would have been invited to take the `2019 Anti-Harassment Training for Supervisors` course. Click the `MANAGE` button to enter the course.
+1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL Learning license - either `Finished`, `In Progress`, or `Not Started`. Please note - if the user does not appear in the first WILL Learning course you check, attempt to look for the user in other appropriate courses. Note that at this time, there is no function in the WILL Learning platform to search all courses at once.
 
      1. If a search for the user's email address returns a `Finished` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning course finished, no license to revoke`
-     1. If a search for the user's email address returns an `In Progress` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account reresentative to request a refund of the license.
-     1. If a search for the user's email address returns a `Not Started` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account reresentative to request a refund of the license.
-     1. If a search for the user's email address returns a no results, follow the next steps to revoke the license.
+     1. If a search for the user's email address returns an `In Progress` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account representative to request a refund of the license.
+     1. If a search for the user's email address returns a `Not Started` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account representative to request a refund of the license.
+     1. If a search for the user's email address returns no results, follow the next steps to revoke the license.
 
-1. Revoke License: The following steps should be taken if you cannot find record of the course status for the offboarding team member.
+1. Revoke License: The following steps should be taken if you cannot find a record of the course status for the offboarding team member.
 
      1. Within the appripriate WILL Learning course, click `Invite Participants`
      1. Under the `Pending Invitations` section, click `View All`
@@ -395,10 +395,10 @@ When current team members transition to roles and become managers of people, the
 
 1. The employment bot will open a new issue for team members who are transitioning to managers of people
 1. Find the user's location using their Slack or GitLab profile
-1. In WILL Learning, navigate to the approripate training for supervisors based on this geographical area.
+1. In WILL Learning, navigate to the appropriate training for supervisors based on this geographical area.
 1. In the course, click `Invite Participants` and copy the sharable link
 1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
-1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow steps to revoke their license.
+1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow the steps to revoke their license.
 
 
 ## Performance Indicators
@@ -411,9 +411,9 @@ Questions related to growth and development on the semi-annual [Engagement Surve
 
 Total number of [promotions](/handbook/people-group/promotions-transfers/) in a rolling six month period/total number of employees. The target for this is to be determined.
 
-- **12 month voluntary team member turnover related to growth < X%**
+- **12-month voluntary team member turnover related to growth < X%**
 
-This is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but is using the number of team members actively choosing to leave GitLab to growth and development related reasons only. The target is to be determined.
+This performance indicator is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but uses the number of team members actively choosing to leave GitLab for growth and development related reasons only. The target is to be determined.
 
 - **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
 
