@@ -60,6 +60,34 @@ This process will ensure you are recording in the correct format. You will be se
 6. On the LCD Touch Screen, press the **FPS indicator** on the top left of the screen.
 7. Select **23.98** 
 
+## Connecting Microphones
+
+#### Connecting a 'Shotgun' Micrphone
+
+1. Connect the provided microphone mount to the top of the camera using the thread. 
+1. Slide the Rode Video Micro into the mount and secure.
+1. Connect the cable to the micrphone port located on the left side of the camera. 
+
+#### Connecting a Lavalier Microphone
+
+The wireless lav kit contains a transmitor and a reciever. The transmitor can by identified by the mute switch located on the top.  
+
+1. Attach the mirophone to the transmittor and the three pronged XLR cable to the reciever. 
+1. Turn on both the micrphone and the transmittor by opening the front facing panel and holding the **ON/OFF button** until the screen turns on. 
+1. Connect Mini XLR cable to the left side of the BlackMagic Camera. 1. Connect the reciever XLR cable to the Blackmagic Camera XLR cable. Connecting in this manner will allow you to use both the Rode Mic and the Lavalier mic simultaneously. 
+1. Connect the transmittor to your person (belt, pocket, boot)
+1. Use the clip to place the microphone near the center of your chest, as clothing allows. You should be able to easily see it when you look down. 
+
+### Select Audio Settings
+
+1. Power on the camera with the power switch located on the top of the camera. 
+1. Press the Menu button on the right side of the LCD Touch screen, directly above the Play button. It displays a traditional hamburger menu symbol. 
+1. Select AUDIO at the top of the LCD Touch Screen. 
+1. Use the LCD Touch Screen to adjust the channel sources. 
+1. For a lavalier microphone: set one channel to **XLR - Mic**
+1. For a 'shotgun' micrphone, set one channel to **3.5mm Mono - Mic**
+1. If you are only using one microphone, set the other channel to **Camera Mono** 
+
 ## Setting Your Image
 
  The following settings are best completed when the camera is placed where you intend to record and your subject is in frame, with any lighting or adjustments already in place. The settings can all be easily reached on the LCD Touch Screen. Revise these steps every time you move your camera or adjust your light. 
@@ -101,7 +129,6 @@ _Note: If your camera has been adjusted to display shutter speed instead, adjust
 2. Using the LCD Touch Screen, select the audio meters on the lower right side. 
 3. Use the headphones to listen for any unwelcome noise in your audio. Common examples are clicking jewelry or watches against a desk or table, fans and vents, kitchen appliances turning on, or traffic. 
 3. While your subject is speaking confidently, adjust the levels until they very gently enter the yellow portion of the meter. This will record at an appropriate level, while allowing room for futher noise should your subject laugh or exclaim something loudly. 
-
 
 
 
