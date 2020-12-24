@@ -136,8 +136,8 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 GitLab's Handbook pages grow every day. Each page serves as GitLab's primary source of [learning and development material](https://about.gitlab.com/handbook/people-group/learning-and-development/#handbook-first-training-content). Throughout FY22, the L&D team and the CEO will hold recorded interactive learning sessions to analyze Handbook pages. The goal of the sessions will be to incorporate more video-based learning into the handbook.  
 
 Two types of CEO handbook learning sessions: 
-1. **Handbook Readout:** Short recording where the L&D team and the CEO review what is on the page 
-2. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members with targeted Q&A on the material. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. ()
+1. **Handbook Readout:** Bit-sized recording where the L&D team and the CEO review what is on the page. (5 minute video)
+2. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members with targeted Q&A on the material. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. (25 minute video)
 
 The video below from Sid and L&D further explains the concepts: 
 
