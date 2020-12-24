@@ -196,7 +196,7 @@ GitLab does not plan to offer life insurance at this time as team members can ac
 
 ###  Bonus Payment
 
-The salary will be paid paid 14 times a year. This includes 12 months salary and two bonuses. 13th and 14th month salaries will be taxed at the rate of only 6 %.
+The salary will be paid paid 14 times a year. This includes 12 months salary and two bonuses. 
 
 ### Remote Technology - Austria Leave Policy
 
