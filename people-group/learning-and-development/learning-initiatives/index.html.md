@@ -142,7 +142,7 @@ Two types of CEO handbook learning sessions:
 The video below from Sid and L&D further explains the concepts: 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=cB301JaYnsw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cB301JaYnsw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Steps for L&D Team when setting up a CEO Handbook Learning Session: 
