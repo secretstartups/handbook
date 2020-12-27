@@ -9,7 +9,7 @@ The following outlines the customer segments supported by the Technical Account 
 
 ## TAM-Assigned Segment
 
-These accounts are those that pay >50k ARR and are assigned a priority through TAM/SAL + [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)  alignment to ensure the strategic focus is aligned with outcomes.
+These accounts are those that pay >50k ARR or are >5k and have high [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)
 
 #### Align
 
@@ -39,7 +39,7 @@ This phase is about going beyond a customer’s existing use cases, into additio
 
 ## Onboarding Segment
 
-These accounts are 20-50k in ARR OR have lesser ARR and high [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) that we want to ensure quickly moves through initial adoption roadblocks to enable the path to IACV growth
+These accounts are 20-50k in ARR. The focus of this program is ensuring these customers quickly move through initial adoption roadblocks to enable the path to IACV growth
 
 #### Align
 
@@ -60,7 +60,8 @@ The expand motion for these customers is about ensuring 1) we have documented de
 
 1. Metric: Faster time to IACV growth in year 1 compared to the FY21 cohort
 
-## Digital-Only (Sub-20k ARR,Low [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam))
+## Digital-Only
+These accounts are 5-20k ARR.  The focus of this program is ensuring successful set-up, scale and expansion through digital enablement campaigns.
 
 #### Align
 
