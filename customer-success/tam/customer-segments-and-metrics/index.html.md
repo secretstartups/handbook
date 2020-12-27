@@ -60,8 +60,8 @@ The expand motion for these customers is about ensuring 1) we have documented de
 
 1. Metric: Faster time to IACV growth in year 1 compared to the FY21 cohort
 
-## Digital-Only
-These accounts are 5-20k ARR.  The focus of this program is ensuring successful set-up, scale and expansion through digital enablement campaigns.
+## Digital
+These accounts are 5-20k ARR for onboarding, or 5-50k ARR for stage & use-case enablement.  The focus of this program is ensuring successful set-up, scale and expansion through digital enablement campaigns.
 
 #### Align
 
@@ -71,13 +71,15 @@ We will engage through carefully placed surveys to garner key information such a
 
 #### Enable
 
-We will seek to remove adoption roadblocks and poor setup scenarios (frequent issue) and enable use-case/stage adoption maturity through admin  enablement via email.  In FY22 we will augment this email program with other vehicles such as downloadable issue boards, guided video paths, guided blog series, and Slack Bots.
+We will seek to remove adoption roadblocks and poor setup scenarios (frequent issue) and enable use-case/stage adoption maturity through admin enablement via email.  In FY22 we will augment this email program with other vehicles such as downloadable issue boards, guided video paths, guided blog series, and Slack Bots.
 
+1. Metric: Open Rate
+1. Metric: Click-Through Rate
 1. Metric: [Time to 1st Value](/handbook/customer-success/tam/onboarding/#time-to-first-value)
 1. Metric: End of Onboarding NPS & CSAT results
 
 ### Expand
 
-We have legal permission to email users for enablement only, so will seek to drive expansion through suggested next-steps via the FY22 vehicles such as issue boards with task lists, while continuing to partner with the Growth team on use case adoption and maturity with key next steps into new stages via key points such as introducing SAST/DAST scanning (leading to Secure, Ultimate).
+We have legal permission to email users for enablement only, so will seek to drive expansion through suggested next-steps via the FY22 vehicles such as issue boards with task lists, while continuing to partner with other teams such as the Marketing and Growth teams on use case adoption and maturity with key next steps into new stages via key points such as introducing SAST/DAST scanning (leading to Secure, Ultimate).
 
 1. Metric: Faster time to IACV growth against FY21 cohort
