@@ -94,6 +94,6 @@ Avoiding these examples can help ensure that the content you're producing follow
 
 - iframes can break if the page or subsection of the linked handbook is updated
 - Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
-- Videos linked from the handbook cannot be played directly within the LXP
+- When iframes are not used, the user needs to navigate to text and video content in the handbook on a new internet tab
 - New handbook/docs pages may need to be created in cases where videos should be included in a learning path
 
