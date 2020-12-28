@@ -288,6 +288,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 - Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track. Please ensure that the link to the asset is not being used in any other marketing channels before deleting.
 
 ### Prescriptive Buyer Journey Content Tracks
+{: #pbj-content-tracks}
 
 **DRI for track creation: Campaign Managers**
 
@@ -295,7 +296,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 * These tracks live under [Target Tracks](https://gitlab.lookbookhq.com/authoring/content-library/target) > Demand Gen > `Segment Campaigns` (subject to change if the folders get massive - HB to update as needed)
 * These tracks align to the [Prescriptive Buyer Journeys ("PBJs")](https://about.gitlab.com/handbook/marketing/prescriptive-buyer-journeys/) which will be iterated on collaboratively across marketing
 * The Campaigns Team will iterate and test out different styles, form strategy, end promoter settings, and . 
-* The [Example "PBJ" Track](https://gitlab.lookbookhq.com/authoring/content-library/target/57384) has the following elements and settings applied (for easy cloning):
+* The [Example "PBJ" Track](https://gitlab.lookbookhq.com/authoring/content-library/target/57384) has the following elements and settings applied (for easy cloning) but only contains one asset when the future ones would have 3-4 assets:
    - *Reminder Campaigns Team: The example below is just a starting point. Experimentation and testing recommended!*
    - Track settings: (FYI) set to default according to [these instructions](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
    - Track Settings: Custom URL Slug (REQUIRED): `[motion]-[stage]-[persona][#]` (i.e. `ci-awareness-prac1` or `vcc-`) - [see more](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
