@@ -179,7 +179,10 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Configure Content Track Settings
 
-1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset. **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience. If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
+1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset.
+   - **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience.
+   - If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
+   - [Video description of where this is criticl in Marketo setup](https://www.youtube.com/watch?v=VHgR33cNeJg)
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
 1. Set the appearance for the track. 
 1. Set the language for the track.
@@ -284,6 +287,27 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 - You can add assets and adjust the position of assets to a `[LIVE]` content track.
 - Removing an asset or changing the custom URL slug of an asset in a `[LIVE]` track can disrupt the user experience for the visitor and activate the `#all` track or fallback URL (`about.gitlab.com`) instead of the intended content track. Please ensure that the link to the asset is not being used in any other marketing channels before deleting.
 
+### Prescriptive Buyer Journey Content Tracks
+
+**DRI for track creation: Campaign Managers**
+
+* [This GDoc](https://docs.google.com/spreadsheets/d/1MYGePezz7666yXJJNRkif0ekJwxnIoJMBgFPshOm1IY/edit#gid=1504719228) tracks progress toward all prescriptive buyer journeys being built out in Pathfactory, *including live links*.
+* These tracks live under [Target Tracks](https://gitlab.lookbookhq.com/authoring/content-library/target) > Demand Gen > `Segment Campaigns` (subject to change if the folders get massive - HB to update as needed)
+* These tracks align to the [Prescriptive Buyer Journeys ("PBJs")](https://about.gitlab.com/handbook/marketing/prescriptive-buyer-journeys/) which will be iterated on collaboratively across marketing
+* The Campaigns Team will iterate and test out different styles, form strategy, end promoter settings, and . 
+* The [Example "PBJ" Track](https://gitlab.lookbookhq.com/authoring/content-library/target/57384) has the following elements and settings applied (for easy cloning):
+   - *Reminder Campaigns Team: The example below is just a starting point. Experimentation and testing recommended!*
+   - Track settings: (FYI) set to default according to [these instructions](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
+   - Track Settings: Custom URL Slug (REQUIRED): `[motion]-[stage]-[persona][#]` (i.e. `ci-awareness-prac1` or `vcc-`) - [see more](/handbook/marketing/marketing-operations/pathfactory/#configure-content-track-settings)
+   - Flow: `ON` > `Start Free SaaS Trial`
+   - End Promoter: `ON`
+   - End Promoter Link: Set this to point to the next track in the prescriptive buyer journey. (i.e. if you're on `CI Awareness Practitioner 1`, set the end promoter to go to `CI Awareness Practitioner 2` to move them to the next stage and continue binging)
+   - End Promoter CTA Label: Add an enticing CTA, but keep it short... max characters TBD
+   - End Promoter Delay: 5 seconds
+   - Forms Strategy: Set to trigger to **Unknown Visitors** after EITHER 30 seconds on main offer OR 30 seconds overall on track.
+   - Forms Strategy: Not dismissable.
+
+
 ## PathFactory Forms
 
 The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
@@ -343,6 +367,8 @@ We use external forms (added by External URL or Custom HTML generated from Marke
 1. If your content track has a custom URL, you will notice the `?` in a different location than with content tracks that don't have a custom URL.
     - With no custom URL: `https://learn.gitlab.com/c/gcn-dev-sec-ops-how-?x=XOIXTl&lb_email=` (`x=XOIXTl` = content track ID)
     - With custom URL: `https://learn.gitlab.com/cicd/cloud-ci-tools-matur?lb_email={{lead.Email Address}}`
+
+*Note: for simplicity in tracking, we strongly urge you to use a custom URL slug on all tracks. [Video regarding custom URL slugs](https://www.youtube.com/watch?v=VHgR33cNeJg)
 
 ## Custom Query Strings
 
