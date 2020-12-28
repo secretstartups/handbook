@@ -96,7 +96,7 @@ Teams should choose to use a badge to recognize learners achievements when:
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
 
-#### Certifications
+#### Certification
 
 Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
 
@@ -108,22 +108,57 @@ Teams should choose to use certifications to recognize learners achievements whe
 
 ### Image guidelines
 
-The L&D team is collaborating with the GitLab Brand team to determine our best approach to using image in the LXP. Internal team members can refer to this [confidential issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/606#note_463614873) during the collaboration.
+Images in the LXP enable us to: 
 
-When image guidelines are set, this section will be updated to reflect how the team will use images to communicate content in the LXP.
+- maintain a look and feel that aligns with the GitLab brand
+- help users identify differnt kinds of content in the platform
 
-#### Images for SmartCards
+The following outlines best practices for choosing images to use in the LXP. When content is created in the LXP in any form, an image or placeholder is automatically generated. Follow these best practices to update these placeholder images before publishing new content.
 
-#### Images for Channels
+#### General guidelines
 
-#### Images for Groups
-
-#### Finding photographs
+##### Choosing photographs
 
 The GitLab team will use the following photographers on [Unsplash.com](https://unsplash.com/) for images in the LXP.
 
 - [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
 - [WOCintech](https://unsplash.com/@wocintechchat)
+
+
+
+#### Images for Journeys and Pathways
+
+Journeys and Pathways will be identified with a white graphic image overlay and the GitLab logo using either black or white text. Here's an example:
+
+![journey-pathway-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/journey-pathway.jpg)
+
+[Example of images in Canva](https://www.canva.com/design/DAEQ-5KGqe4/7JF_Fz8qV2a0owZDQGLlcw/view?utm_content=DAEQ-5KGqe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+#### Images for SmartCards
+
+Use the following chart to determine what image is best to use for your SmartCard content
+
+| Scenario | Image Guidelines |
+| ----- | ----- |
+| The SmartCard will be broadcasted on the Discover page | Follow guidlines for Journey and Pathway images |
+| The SmartCard links to the Handbook | Use the auto generated GitLab logo |
+| The SmartCard is stored within a Pathway or Journey | You may either update each image following the guidelines for Journey and Pathway images or use the auto generated images in the platform |
+
+#### Images for Channels
+
+Channels will be identified with a branded banner image with a custom Tanuki in the center. Here's an example:
+
+![channel-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/channel.jpg)
+
+This [basic Channel image in Canva](https://www.canva.com/design/DAEQ_HWFcFs/238nynM1dCJOSWUrrecCqA/view?utm_content=DAEQ_HWFcFs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) can be used for any Channel in the platform.
+
+The LXP implementation team will collaborate with the brand team to customize the Channel images to fit specific content when necessary.
+
+#### Images for Groups
+
+#### Finding photographs
+
+
 
 
 
