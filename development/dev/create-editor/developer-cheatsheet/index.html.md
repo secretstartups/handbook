@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: Developer Cheatsheet
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -117,7 +122,7 @@ Workaround: you can still connect to workhorse on port 3000 using a Ruby (NOT Ra
 
 When a branch has followed a merge instead of a rebase workflow, it can get very confusing to know what is going on, and you want to just squash it down to a single commit. But, you can't just do a regular interactive rebase relative to master if the branch has had master merged into it. Here's what you have to do instead.
 
-Note there may be more efficient ways of doing this, suggestions are welcome...
+Note there may be more efficient ways of doing this, suggestions are welcome. Also note that sometimes this doesn't work, you'll end up with almost all the changes from the branch uncommitted after step 5 - not sure why :(
 
 Assuming branch is named `branch` and upstream is named `master`:
 
