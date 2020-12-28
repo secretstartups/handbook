@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: Developer Cheatsheet
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -88,13 +83,14 @@ Then start a Rails debug server in RubyMine using the process below.
 **NOTE ON WORKHORSE USING TCP PORTS: It is not currently possible to use a standard "Rails" Run/Debug configuration because of this RubyMine bug: [https://youtrack.jetbrains.com/issue/RUBY-27404](https://youtrack.jetbrains.com/issue/RUBY-27404). You can use the workaround below to run it as a "Ruby" Run/Debug config. However, even with the bug, the workaround below may not be necessary since this MR was merged to allow configuration of Workhorse to use TCP ports instead of sockets: https://gitlab.com/gitlab-org/gitlab-development-kit/-/merge_requests/1693. TODO: Need to try it out...**
 
 Workaround: you can still connect to workhorse on port 3000 using a Ruby (NOT Rails) Run/Debug config:
+
 1. Make sure you have done `gdk stop rails-web`
-2. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
-    * Ruby Script (Note: This is actually from the `gitlab-puma` gem): `/Users/YOUR_USER/.asdf/installs/ruby/RUBY_VERSION/bin/puma`
-    * Script Arguments: `--config /Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/config/puma.rb --environment development start_foreground`
-    * Working Directory: `/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/`
-    * Environment Variables (Note: these are taken from the current GDK Procfile, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
-3. Start the config in Run or Debug.
+1. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
+    - Ruby Script (Note: This is actually from the `gitlab-puma` gem): `/Users/YOUR_USER/.asdf/installs/ruby/RUBY_VERSION/bin/puma`
+    - Script Arguments: `--config /Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/config/puma.rb --environment development start_foreground`
+    - Working Directory: `/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/`
+    - Environment Variables (Note: these are taken from the current GDK Procfile, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
+1. Start the config in Run or Debug.
 
 ## Git Tips
 
