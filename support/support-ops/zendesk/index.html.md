@@ -14,6 +14,7 @@ Pages to read for more information:
 * [Tags](tags.html)
 * [Tickets](tickets.html)
 * [Users](users.html)
+* [Sandbox](sandbox.html)
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
