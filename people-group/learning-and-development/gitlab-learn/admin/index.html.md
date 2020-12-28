@@ -10,7 +10,7 @@ title: GitLab Learn Admin Documentation
 {:toc .hidden-md .hidden-lg}
 
 
-## Best practices for content creation and organization in GitLab Learn
+## Best practices for content creation and organization
 
 These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
 
@@ -176,6 +176,7 @@ Groups will be identified with images that use a purple graphic overlay on the l
 Individual learners are responsible for uploading their own profile and banner photos.
 
 
+
 ### Peer review content before publishing
 
 It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer-review process, please document on this page.
@@ -210,6 +211,7 @@ To review in the EdCast backend
 When the peer-review is complete, content should be switched on by the content creator to the `published` state.
 
 
+
 ### Sharing content with learners
 
 #### Using groups
@@ -241,6 +243,7 @@ Channels are used to collect and broadcast information based on like content. Us
 1. Channels can have multiple curators to encourage collaboration and content sharing
 
 
+
 ### Designing the discover page
 
 The discover page is the page where learners will land upon logging into the LXP. On this page, users can discover new content, navigate to their followed channels, find their groups, and more.
@@ -259,6 +262,8 @@ Use these best practices when designing and updating the discover page in EdCast
 1. Use custom carousels to organize content by topic. Carousels can display either channels or users
 1. Custom carousels with channels should be clearly named and invite the learner to explore a specific topic
 1. Custom carousels with users should feature engaged learners and leaders in the platform 
+
+
 
 
 ## Management and maintenance of content using EdCast
