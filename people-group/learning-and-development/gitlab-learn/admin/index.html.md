@@ -22,7 +22,9 @@ If you're just getting started using EdCast, watch this short overview of the us
 
 
 ### Creating new learning content
+
 Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels, Channels, and Groups can be found in our [GitLab Learn contribution docs](/handbook/people-group/learning-and-development/gitlab-learn/contribute/#learning-content-in-the-lxp)
+
 #### SmartCards
 
 1. SmartCards created in a Pathway or Journey are only discoverable from within that pathway or Journey. Create SmartCards with quizzes, polls, or other action items from learners from within the Journey or Pathway
@@ -30,11 +32,12 @@ Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels,
 
 #### Pathways
 
-Best practices for Pathways coming soon.
+1. Badges can be awarded upon completion of a Pathway. If the Pathway is not part of a Journey, use the Pathway level badges
 
 #### Journeys
 
-Best practices for Journeys coming soon.
+1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge, and use a Journey level badge over Pathway level badges
+
 
 ### Order of Operations for Content Creation
 
