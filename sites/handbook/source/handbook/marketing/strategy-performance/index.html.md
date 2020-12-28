@@ -22,9 +22,9 @@ We are a small team with a leader and data analysts.
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
-- Dara Warde, Director
-- Robert Kohnke, Data Analst
-- Viki Juhasz, Data Analyst
+- [Dara Warde, Director](https://about.gitlab.com/company/team/#darawarde)
+- [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
+- [Viki Juhasz, Data Analyst](https://about.gitlab.com/company/team/#vikijuhasz)
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -164,8 +164,6 @@ Integrated with Salesforce
 </details>
 
 
-</details>
-
 ### Requesting access to an existing tool
 
 To request access to Bizible or Allocadia, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
@@ -206,4 +204,8 @@ The Lead & Contact objects in Salesforce have unified statuses with [set definit
 ## Touchpoints
 
 We use Bizible for tracking times when there is engagement with our prospects. Lots of details about how that works is on the [Bizible page itself](/handbook/marketing/marketing-operations/bizible/).
+
+## Web Traffic Analysis
+
+Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)
 
