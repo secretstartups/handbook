@@ -124,6 +124,15 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 - [LinkedIn Sales Navigator](https://unsplash.com/@linkedinsalesnavigator)
 - [WOCintech](https://unsplash.com/@wocintechchat)
 
+Future photographers will be added as needed.
+
+Keep the following in mind when choosing a photograph:
+
+1. Look for opportunities to demonstrate [GitLab culture](company/culture/) in the images. For example, consider choosing an image of learner working on their laptop to reflect [all-remote work](/company/culture/all-remote/), two people working together to demonstrate [collaboration](https://about.gitlab.com/handbook/values/#collaboration), or a family learning together to reflect [friends and family first, work second](/handbook/values/#family-and-friends-first-work-second). 
+1. Choose inclusive images that reflect our values of [Diversity, Inclusion, and Belonging](/company/culture/inclusion/)
+1. Look for opportunities to use images that demonstrate learning. This could include virtual classroom discussion, social learning/networking, working on a project, use of mobile, leadership talks, etc. 
+1. Avoid images of large groups as it could make content look out of date
+1. Keep the focal point of the image in the middle to enable better cropping and addition of the image overlays described below
 
 
 #### Images for Journeys and Pathways
