@@ -237,3 +237,8 @@ Slash commands such as the following can be used to expedite getting the meeting
 ```plain
 /zoom meeting CMOC Handover Briefing
 ```
+
+
+## CMOC Shadow PagerDuty Schedule
+
+The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by people who wish to shadow the CMOC as a learning process before acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username, and the days/hours that you wish to shadow.

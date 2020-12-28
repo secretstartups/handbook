@@ -284,6 +284,7 @@ The [Incident Management - CMOC Rotation](https://gitlab.pagerduty.com/escalatio
 - Incident Management - CMOC (AMER)
 - Incident Management - CMOC (APAC)
 - Incident Management - CMOC (EMEA)
+- _(Optional)_ CMOC Shadow
 
 >
 **Escalate after 5 minutes**
