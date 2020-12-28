@@ -88,7 +88,7 @@ Avoiding these examples can help ensure that the content you're producing follow
 | Example | Suggested handbook first improvement |
 | ----- | ----- |
 | Introducing new content within a course or Pathway | Add new content to an existing handbook page, or open a new page to document |
-| Uploading video that is not shared elsewhere | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and link to the handbook from the LXP|
+| Directly uploading a video to the LXP | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and either display in an Articulate course via iframe or link from a SmartCard in the LXP |
 
 ### Identified challenges with handbook first learning
 
