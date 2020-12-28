@@ -156,10 +156,15 @@ The LXP implementation team will collaborate with the brand team to customize th
 
 #### Images for Groups
 
-#### Finding photographs
+Groups will be identified with images that use a purple graphic overlay on the left side of the image, with the GitLab logo and white text. Here's an example of multiple Groups displayed on the Discover page:
 
+![groups-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/groups.jpg)
 
+[Example of images in Canva](https://www.canva.com/design/DAEQ-q4s2pY/soqq_hq3ND1oUNh7x6KPHA/view?utm_content=DAEQ-q4s2pY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+#### Profile photos
+
+Individual learners are responsible for uploading their own profile and banner photos.
 
 
 ### Peer review content before publishing
