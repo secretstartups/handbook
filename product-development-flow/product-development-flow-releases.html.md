@@ -21,7 +21,7 @@ title: Product develoment flow releases
 
 [Casing Consistency follow-up from "Draft: Product Development Flow v1.1 (Milestone 13.6) Changelog"](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10095)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584
+[Add responsibilities of a appsec engineer in Build phase 2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584)
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579
 
