@@ -26,6 +26,8 @@ title: Product develoment flow releases
 
 [Testing strategy for groups with no SET](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579)
 
+[Update intro to better reflect goal of latest pd-flow version](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70684)
+
 **13.6 (2021-11-22)** 
 
 - Introduce interactive/improved visuals for workflow table and required items*
