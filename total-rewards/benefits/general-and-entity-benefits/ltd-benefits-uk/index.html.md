@@ -198,7 +198,7 @@ Management charges vary by fund and are not on the fact sheets: use the charges 
 ## GitLab LTD United Kingdom Leave Policy
 
 *  Sick Leave
-     - Team members are entitled to Statutory Sick Pay (SSP) in the amount of £95.85 per week for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. A team member who is out sick for 7 days or less will need to complete a Company Self-Certification Form. Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.
+     - Team members are entitled to Statutory Sick Pay (SSP) for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. A team member who is out sick for 7 days or less will need to complete a Company Self-Certification Form. Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.
 
      - Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked. 
 
