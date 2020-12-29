@@ -11,18 +11,16 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Demand Generation Team Overview
-{:.no_toc}
 ---
 ### Demand Generation Key Metrics
-
+{: #key-metrics .gitlab-purple}
 - **North Star Metric:** Outbound MQLs
 - **Efficiency Metric:** Cost per MQL
 - **Business Impact Metric:** CWA/Spend (closed-won attribution)
 - **Supporting/Activity Metrics:** SAOs, Attributed Pipeline, Emails Sent
 
 ## Teams
-
+{: #teams .gitlab-purple}
 - [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
 - [Digital Marketing](/handbook/marketing/revenue-marketing/digital-marketing-programs/)
 - [Partner and Channel Marketing](/handbook/marketing/strategic-marketing/partner-marketing/)
