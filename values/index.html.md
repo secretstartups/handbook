@@ -1128,6 +1128,12 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](/company/team/) or in the [core team](/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
 
+### Number of contributors and updates over time
+
+To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. 
+
+<iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?embed=true" scrolling="auto"></iframe>
+
 ## How do we reinforce our values
 
 Whatever behavior you reward will become your values. We reinforce our values by:
