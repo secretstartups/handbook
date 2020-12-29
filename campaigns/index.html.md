@@ -12,23 +12,41 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 {:toc .toc-list-icons .hidden-md .hidden-lg}
 
 ## Integrated Campaigns
+{: #integrated-campaigns .gitlab-purple}
 
 The goal of GitLab integrated campaigns is to strategically land a cohesive message to a target audience across a variety of channels and offers dependent on the goals of the campaign. Content types include a combination of blog posts, webinars, whitepapers, reports, videos, case studies, and more. Channels include digital ads, social, paid social, SEO, PR, email, and more.
 
-**Marketing Program Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
+**Campaign Managers** are responsible for the strategizing of integrated campaigns and organizing timelines and DRIs for deliverables to execute on the campaigns.
 
 In an effort to continually improve our ability to derive success of campaigns, reporting is a focus using Bizible data in Sisense. [Issue here for more information on progress](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/982)
 
 **Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
 
 ## In Progress and Future Campaigns
-**[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**
+{: #upcoming-integrated-campaigns .gitlab-purple}
+
+FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**. 
 
 ## Active Integrated Campaigns
+{: #active-integrated-campaigns .gitlab-purple}
+
+### 🚀 Competitive campaign 3.0
+{: #competitive-campaign-3}
+
+**Campaign Manager: Agnes Oetama**
+
+**Launched (Original): 2020-11-16**
+
+* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
+* [Live landing page - Manager Persona](https://about.gitlab.com/compare/jenkins-alternative/)
+* [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
+* [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
+* [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
 
 ### 🚀 GitOps Use Case
+{: #gitops-use-case}
 
-**MPM Owner: Eirini Pan**
+**Campaign Manager: Eirini Pan**
 
 **Launched: 2020-06-22**
 
@@ -39,8 +57,9 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dgJ9)
 
 ### 🚀 Version Control & Collaboration (VC&C) Use Case
+{: #vcc-use-case}
 
-**MPM Owner: Jenny Tiemann**
+**Campaign Manager: Jenny Tiemann**
 
 **Launched: 2020-06-09**
 
@@ -51,8 +70,9 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfsw)
 
 ### 🚀 France CI Localized
+{: #ci-france-localized}
 
-**MPM Owner: Eirini Pan**
+**Campaign Manager: Eirini Pan**
 
 **Launched: 2020-05-15**
 
@@ -62,9 +82,10 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Slack](https://gitlab.slack.com/archives/C012N4QKYQY)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfjQ)
 
-### 🚀 German CI Localized
+### 🚀 Germany CI Localized
+{: #ci-germany-localized}
 
-**MPM Owner: Indre Kryzeviciene**
+**Campaign Manager: Indre Kryzeviciene**
 
 **Launched: 2020-04-29**
 
@@ -75,8 +96,9 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001dfqW)
 
 ### 🚀 DevSecOps Use Case
+{: #devsecops-use-case}
 
-**MPM Owner: Megan Mitchell**
+**Campaign Manager: Megan Mitchell**
 
 **Launched: 2020-04-29**
 
@@ -87,8 +109,9 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
 
 ### 🚀 CI Use Case
+{: #ci-use-case}
 
-**MPM Owner: Agnes Oetama**
+**Campaign Manager: Agnes Oetama**
 
 **Launched: 2020-04-27**
 
@@ -99,10 +122,11 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df8y)
 
 ### 🚀 AWS Partner
+{: #aws-partner}
 
-**MPM Owner: Nout Boctor-Smith**
+**Campaign Manager: Nout Boctor-Smith**
 
-**Launched: 2020-09-22**
+**Launched: 2019-09-22**
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/638)
@@ -110,50 +134,16 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Slack](https://gitlab.slack.com/archives/CRTE89C66)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001loj0)
 
-### 🚀 Competitive campaign
-
-**MPM Owner: Agnes Oetama**
-
-* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/10)
-* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/85)
-* [Live landing page](/compare/single-application-ci/)
-* [SFDC Campaign >>](https://gitlab.my.salesforce.com/70161000000VxvJ)
 
 ## Past Integrated Campaigns
-
-### 🚀 Increase operational efficiencies
-
-**MPM Owner: Jenny Tiemann**
-
-* *Note: this is being sunsetted in Q3 FY21 and existing records in nurture will continue until all emails have deployed.*
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
-* [Live landing page](/just-commit/lower-tco/)
-* [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
-
-### 🌄 Deliver better products faster
-
-**MPM Owner: Zac Badgley**
-
-* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/363)
-* [Live landing page](/just-commit/reduce-cycle-time/)
-* [Campaign brief](https://docs.google.com/document/d/1dbEf1YVLPnSpFzSllRE6iNYB-ntjacENRMjUxCt8WFQ/edit)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000Cyhm?srPos=0&srKp=701)
-
-### 🌄 Reduce security and compliance risk
-
-**MPM Owner: Megan Mitchell**
-
-* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the DevSecOps use case campaign nurture.*
-* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/368)
-* [Live landing page](/just-commit/secure-apps/)
-* [Campaign brief](https://docs.google.com/document/d/1NzFcUg-8c1eoZ1maHHQu9-ABFfQC65ptihx0Mlyd-64/edit)
-* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyeJ)
+{: #past-integrated-campaigns .gitlab-purple}
 
 ### 🌄 Operation OctoCat
+{: #operation-octocat}
 
-**MPM Owner: Jackie Gragnola**
+**Campaign Manager: Jackie Gragnola**
+
+**Launched: 2019-10-31**
 
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
@@ -163,9 +153,51 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
 
-### 🌄 CI Build & Test Auto
+### 🌄 Increase operational efficiencies
+{: #increase-operational-efficiencies}
 
-**MPM Owner: Agnes Oetama**
+**Campaign Manager: Jenny Tiemann**
+
+**Launched: 2019-08-23**
+
+* *Note: this is being sunsetted in Q4 FY21 and existing records in nurture will continue until all emails have deployed.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
+* [Live landing page](/just-commit/lower-tco/)
+* [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
+
+### 🌄 Deliver better products faster
+{: #deliver-better-products-faster}
+
+**Campaign Manager: Zac Badgley**
+
+**Launched: 2019-08-23**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/363)
+* [Live landing page](/just-commit/reduce-cycle-time/)
+* [Campaign brief](https://docs.google.com/document/d/1dbEf1YVLPnSpFzSllRE6iNYB-ntjacENRMjUxCt8WFQ/edit)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000Cyhm?srPos=0&srKp=701)
+
+### 🌄 Reduce security and compliance risk
+{: #reduce-security-compliance-risk}
+
+**Campaign Manager: Originally Jackie Gragnola, transitioned to Megan Mitchell**
+
+**Launched: 2019-08-23**
+
+* *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the DevSecOps use case campaign nurture.*
+* [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/368)
+* [Live landing page](/just-commit/secure-apps/)
+* [Campaign brief](https://docs.google.com/document/d/1NzFcUg-8c1eoZ1maHHQu9-ABFfQC65ptihx0Mlyd-64/edit)
+* [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyeJ)
+
+### 🌄 CI Build & Test Auto
+{: #ci-build-test-auto}
+
+**Campaign Manager: Agnes Oetama**
+
+**Launched: 2019-08-23**
 
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/379)
@@ -173,7 +205,24 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Live landing page](/compare/single-application-ci/)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lkp9)
 
+### 🚀 Competitive campaign
+{: #competitive-commit}
+
+**Campaign Manager: Agnes Oetama**
+
+**Launched (Original): 2019-04-02**
+
+* [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/10)
+* [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/85)
+* [Live landing page](/compare/single-application-ci/)
+* [SFDC Campaign >>](https://gitlab.my.salesforce.com/70161000000VxvJ)
+
 ### 🌄 Just Commit
+{: #just-commit}
+
+**Campaign Manager: Jackie Gragnola**
+
+**Launched: 2019-02-18**
 
 * [Parent epic with child epics and issues >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/7)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/50)
@@ -183,8 +232,9 @@ In an effort to continually improve our ability to derive success of campaigns, 
 * [Meeting slide deck >>](https://docs.google.com/presentation/d/1i2OzO13v77ACYo1g-_l3zV4NQ_46GX1z7CNWFsbEPrA/edit#slide=id.g153a2ed090_0_63)
 
 ## Campaign Planning
+{: #campaign-planning .gitlab-purple}
 
-**There will be an epic for every campaign - created by the Marketing Program Manager managing the campaign - and a content pillar will align to the campaign, including gated assets to be created, pages to be created/revamped, blog posts, etc.**
+**There will be an epic for every campaign - created by the Campaign Manager managing the campaign - and a content pillar will align to the campaign, including gated assets to be created, pages to be created/revamped, blog posts, etc.**
 
 * The campaign will have a clear launch date
 * The new resources and webpages will have a clear due date prior to the launch date or defined for a cascading roll-out of content post-launch
@@ -194,26 +244,30 @@ In an effort to continually improve our ability to derive success of campaigns, 
 Ideally, campaigns will be agreed at least a quarter in advance to allow for ample planning and execution, prep time with agencies, creative concepting, and communication internally. This is a collaborative effort to deliver a cohesive program.
 
 #### Overall Campaign Steps
+{: #campaign-steps}
+
 * **Campaign and launch date is determined by Marketing Leadership**
-* **Assign:** Marketing Progragm Manager (MPM) is assigned
+* **Assign:** Campaign Manager is assigned
 * **Assign:** Marketing team leaders assign DRIs from their teams
-* **Meeting:** MPM organizes campaign kickoff call with early-stage DRIs (MPM, DMP, PMM, TMM)
-* **Meeting:** MPM organizes campaign brief call with early-stage DRIs (MPM, DMP, PMM, TMM)
-* **Plan:** MPM creates project plan (GANTT chart) with timelines and DRIs
-* **Plan:** Marketing Program Manager creates the epic and related issues, including the due dates and DRIs from project plan
-* **Meeting:** MPM organizes the bi-weekly 30 minute check-in call to cover milestones met and determine any blockers/at-risk action items
+* **Meeting:** Campaign Manager organizes campaign kickoff call with early-stage DRIs (Campaign Manager, DMP, PMM, TMM)
+* **Meeting:** Campaign Manager organizes campaign brief call with early-stage DRIs (Campaign Manager, DMP, PMM, TMM)
+* **Plan:** Campaign Manager creates project plan (GANTT chart) with timelines and DRIs
+* **Plan:** Campaign Manager creates the epic and related issues, including the due dates and DRIs from project plan
+* **Meeting:** Campaign Manager organizes the bi-weekly 30 minute check-in call to cover milestones met and determine any blockers/at-risk action items
 * **Async:** *DRIs are responsible for delivering by their due dates, with timeline adherence being critical due to dependencies for later tasks to be completed by other teams*
-* **Reporting:** MPM organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
-* **Optimization:** MPM creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
+* **Reporting:** Campaign Manager organizes reporting issue with clear DRI to include overall metrics and more detailed drill-in by channel (one month post-launch)
+* **Optimization:** Campaign Manager creates issues for optimizing the landing page, channels, etc. and assigning to relevant DRIs
 
 #### Integrated Campaign Meetings
+{: #meetings}
 
+## Campaign Manager Epic Creation
+{: #epic-creation .gitlab-purple}
 
-## MPM Epic Creation
+#### Epic Code
+{: #epic-code}
 
-#### Overall Campaign Epic Creation
-
-***The Marketing Program Manager owner of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
+***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
 ```
 > NAME THIS EPIC: Name of Campaign [Integrated Campaign] (i.e. DevSecOps Use Case [Integrated Campaign])
@@ -238,7 +292,7 @@ _Please see related issues for details related to their respective purposes - th
 * SDR: 
 * Organic Social: 
 
-### [Campaign Execution Timeline >>]() - Owned by MPM
+### [Campaign Execution Timeline >>]() - Owned by Campaign Manager
 ### [Campaign Brief >>]() `to be added once created`
 ### [Live Campaign Page >>]() `to be added upon launch when live`
 ### [Google Drive >>]() `to be added once created`
@@ -258,12 +312,16 @@ _Please see related issues for details related to their respective purposes - th
 * **Function:** [to be filled in after kickoff call]
 
 
-/label ~"Marketing Programs" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"MPM Integrated" ~mktg-growtn ~tech-evangelism ~"MPM Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
+/label ~"Marketing Programs" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
 ```
 
 #### SDR Enablement Epic Creation
+{: #epic-creation-sdr-enablement}
 
-***The Marketing Program Manager owner of the integrated campaign will create the SDR enablement epic with the following structure - details and links to be added up on creation of documents and timeline defined. Name of the epic should be `Operation OctoCat - SDR & Sales Enablement`***
+<details>
+<summary>Hiding until discussed with SDR enablement for most scaled process moving forward</summary>
+
+***The Campaign Manager of the integrated campaign will create the SDR enablement epic with the following structure - details and links to be added up on creation of documents and timeline defined. Name of the epic should be `Operation OctoCat - SDR & Sales Enablement`***
 
 ```
 # [See parent epic >>]()
@@ -309,12 +367,13 @@ In an effort to keep you focused on the prioritized lead and contact views, an *
 ```
 
 Note: The Marketing Team owns content on marketing pages; do not change content or design of these pages without consulting the #dmpteam slack channel. Marketing will request help from product/UX when we need it, and work with them to ensure the timeline is reasonable.
-
+</details>
 
 ## Sales Lead Funnel Cross-Over with All-Remote
-
+{: #funnel-crossover-all-remote .gitlab-purple}
 
 #### Diagram of sales lead funnel cross-over with all-remote
+{: #funnel-crossover-all-remote-diagram}
 
 Below is a V1 visual in Mural of the sales lead funnel (pre-opportunity) on the left and the all-remote funnel on the right. Discussion of how and when to "bridge the gap" between the funnels - potentially sharing GitLab audience-targeted offers within All-Remote communications - is included [in this issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2590).
 
