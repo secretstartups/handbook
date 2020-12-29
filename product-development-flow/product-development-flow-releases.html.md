@@ -9,7 +9,8 @@ title: Product develoment flow releases
 
 [Improve content to support avoiding a waterfall process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130
+[Incorporate Current Quad Planning process as part of the new pd flow]
+(https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130)
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9252
 
