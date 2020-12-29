@@ -8,7 +8,7 @@ title: Product develoment flow releases
 - Incorporate feedback from 13.6 Gitlab [dogfooding](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9453) and [13.5 engineering review feedback](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9263)
 - Various topics including clarification of content, removal of optional labels and addressing processes for teams without SETs
 
-[Improve content to support avoiding a waterfall process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943)
+[Add additional information to explain why the PDF isn't waterfall](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70210)
 
 [Issue refinement suggestions for PD-workflow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70706)
 
