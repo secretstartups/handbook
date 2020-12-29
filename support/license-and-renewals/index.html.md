@@ -36,6 +36,54 @@ managers currently actively involved are:
 * Ronnie Alfaro
 * Wei-Meng Lee
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Systems you'll need access to
+
+To be effective with L&R work, you'll need access to systems and tools which you
+might not otherwise encounter working other Support problem types. This list
+supplements the baseline entitlements for the Support Engineer job family.
+
+### Salesforce
+
+A Salesforce.com (SFDC) account makes collaboration with Sales team members more
+efficient, primarily because you'll be able to receive notifications when you're
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/licence-and-renewals/workflows/working-with-sales.html)).
+
+When creating an individual/bulk access request, use the following information:
+
+* System name:
+  > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
+* Justification for this access:
+  > Support Engineers need their own Salesforce accounts to better collaborate
+  > with Sales team members as they work on customer licensing issues. For more
+  > information, see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#salesforce
+
+### Zuora
+
+Zuora is considered the [single source of truth](/handbook/handbook-usage/#single-source-of-truth)
+or [system of record](https://about.gitlab.com/handbook/handbook-usage/#system-of-record)
+for many L&R-related items, such as product SKUs, subscriptions and invoices
+(see the [Transition to Zuora as the SSOT issue](https://gitlab.com/groups/gitlab-org/-/epics/4664)
+for more information).
+
+Having access to Zuora will help with troubleshooting in situations where a
+customer's CustomersDot and Salesforce records present conflicting or confusing
+information.
+
+When creating an individual/bulk access request, use the following information:
+
+* System name:
+  > Zuora READ-ONLY access
+* Justification for this access:
+  > Support Engineers need read-only Zuora access to troubleshoot License and
+  > Renewal customer issues and support requests. For more information, see
+  > https://about.gitlab.com/handbook/support/license-and-renewals/index.html#zuora
+
 ## Workflows
 
 * [License & renewals workflows](workflows/index.html)
