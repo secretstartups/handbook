@@ -16,7 +16,7 @@ title: Product develoment flow releases
 
 [Move issue reviews from pdflow to product process page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70247)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813
+[Make workflow diagram clickable](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813)
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9308
 
