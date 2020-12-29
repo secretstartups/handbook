@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: Product develoment flow releases
 ---
 
-**13.7 (2021-12-22)**
+**13.7 (2020-12-22)**
 
 - Incorporate feedback from 13.6 Gitlab [dogfooding](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9453) and [13.5 engineering review feedback](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9263)
 - Various topics including clarification of content, removal of optional labels and addressing processes for teams without SETs
@@ -33,7 +33,7 @@ title: Product develoment flow releases
 [Product Development Flow: standardized job titles](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70389)
 
 
-**13.6 (2021-11-22)** 
+**13.6 (2020-11-22)** 
 
 - Introduce interactive/improved visuals for workflow table and required items*
 - Clarify required outcomes and optimize resources/links for activities as well as alternate issues types such as bugs
@@ -42,7 +42,7 @@ title: Product develoment flow releases
 
 [Product Development Flow v1.1 (Milestone 13.6) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69131)
 
-**13.5 (2021-10-22)** 
+**13.5 (2020-10-22)** 
 
 - New structure and core content to shift to an outcomes/activities model. 
 - Introduced key participants table to clarify collaborators at each phase
