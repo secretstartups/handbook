@@ -355,15 +355,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC1** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC2** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London SW** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London W** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |
