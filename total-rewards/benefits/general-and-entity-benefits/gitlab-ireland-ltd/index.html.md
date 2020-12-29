@@ -91,6 +91,11 @@ Once the total rewards team has approved the bike or ticket application, an invo
 
 ## GitLab Ireland LTD Leave Policy
 
+* Sick Leave
+
+  * Team members should refer to [GitLab's PTO Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) as there is no statutory requirement to provide sick pay or unpaid sick leave in Ireland. 
+  * Team members must designate all time off for illness as `Out Sick` to ensure that PTO is properly tracked. 
+
 * Paternity Leave in Ireland:
   *  The Paternity Leave and Benefit Act 2016 provides two weeks' statutory leave and benefit for employees who are the relevant parents of children born or adopted.
   *  Paternity leave generally must be taken in one block of two weeks within the first six months following the birth or adoption placement. The term "relevant parent" is defined broadly to provide for fathers, adoptive fathers, civil partners, cohabitants and same-sex couples.
