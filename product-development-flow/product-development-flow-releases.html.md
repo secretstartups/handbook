@@ -33,7 +33,6 @@ title: Product develoment flow releases
 [Product Development Flow: standardized job titles](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70389)
 
 
-
 **13.6 (2021-11-22)** 
 
 - Introduce interactive/improved visuals for workflow table and required items*
