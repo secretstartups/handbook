@@ -184,7 +184,7 @@ The issue requester is responsible for ensuring that appropriate `mktg-status` l
 
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
-Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas).
+Note on timelines: The campaigns team is focused on top-funnel campaign strategy, execution, and optimization. Team member milestones include work to support top funnel goals as part of [Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) and requests will be committed to as bandwidth permits. Please see section on [turnaround time & SLAs](/handbook/marketing/demand-generation/campaigns/#slas).
 
 #### Request Issue Templates
 {: #request-issue-templates}
@@ -253,7 +253,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#slas)
 - **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
 - **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
@@ -264,7 +264,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
 * Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
   - if yes, check that due date is at least 5 business days from date submitter details provided, move to `mktg-status::wip`, assign based on triage diagram, and put in current milestone (to be adjusted as needed by assignee)
-  - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#turnaround-time-and-slas)
+  - if no, comment to requester and move to `mktg-status::blocked` with reminder that SLA will begin when the details are submitted - [more details here](/handbook/marketing/demand-generation/campaigns/#slas)
 * Does the request align to FY21-22 segment marketing plan?
  - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
