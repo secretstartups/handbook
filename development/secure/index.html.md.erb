@@ -108,11 +108,6 @@ DAST is relying on [OWASP Zed Attack Proxy Project](https://gitlab.com/gitlab-or
 Because a large portion of the code shipped to production is actually coming from third-party libraries, it's important to monitor them as well.
 Dependency Scanning is relying mostly on the Gemnasium engine.
 
-##### Container Scanning
-
-[Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) is used when the application is shipped as a Docker image.
-It's very common to build the final image on top of an existing one, which must be checked like every other portion of the application.
-For that, Container Scanning is relying on [klar](https://github.com/optiopay/klar) and [clair server](https://github.com/quay/clair).
 
 ##### License Compliance
 
