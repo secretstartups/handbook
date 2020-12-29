@@ -30,7 +30,6 @@ We communicate respectfully and professionally at all times.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
 
-
 ## Everyone is a Moderator
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
@@ -151,7 +150,6 @@ In those cases, the DRIs may want to engage the [Internal Communications functio
 In an [all-remote setting](/company/culture/all-remote/terminology/), where team members are empowered to live and work where they're most fulfilled, mastering asynchronous workflows is vital to avoiding [dysfunction](/handbook/values/#five-dysfunctions) and enjoying outsized efficiencies and lifestyle flexibility. Asynchronous communication is the art of communicating and moving projects forward *without* the need for additional stakeholders to be available at the same time your communique is sent.
 
 To learn more on when to use asynchronous and synchronous communication, examples of async workflows in practice at GitLab, core async behaviors, and to take an async knowledge assessment, visit [GitLab's guide to embracing asynchronous communication](/company/culture/all-remote/asynchronous/).
-
 
 ## Top Tips and Best Practices
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
@@ -444,6 +442,47 @@ As a second iteration, we will begin tracking the number of emoji reactions for 
 
 When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](/handbook/values/#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
+
+## Effective Listening
+
+It is estimated that listeners will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
+
+**Myths about Listening**
+
+- Everybody knows how to listen.
+- Sending messages is more important than receiving them.
+- Listening is easy and passive.
+- Hearing and listening are the same thing.
+- An effective speaker commands audience attention.
+- Communication is the sender’s responsibility.
+- Listening is done with our ears.
+- Listening skills are practiced not learned.
+- Listening ability comes from maturity.
+
+**Tips for Effective Listening**
+
+- Concentrate.
+- Give unequivocal attention to the speaker.
+- Don’t anticipate what the speaker means.
+- Test the message not the messenger.
+- Respect cultural difference and boundaries.
+- Develop the fine art of empathy.
+- Try not to interrupt.
+- Focus on feelings and not grammar or vocabulary.
+- Silence is the golden rule.
+
+**Being Assertive**
+
+There is a delicate balance between being confident enough to be assertive of personal rights and boundaries while respectful of others.
+
+- Know the distinction between being assertive and being aggressive or arrogant.
+- Establish clear boundaries when dealing with others.
+- Politely but directly let people know your position.
+- Know what you want.
+- Avoid being timid.
+- Be willing to clearly say either yes or no and stand by your answer.
+- Avoid arrogance.
+- When opinions are in question give yourself permission to disclose yours.
 
 ## Not sure where to go?
 
