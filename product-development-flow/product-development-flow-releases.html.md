@@ -7,7 +7,7 @@ title: Product develoment flow releases
 
 - Incorporate feedback from 13.6 Gitlab [dogfooding](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9453) and broader Gitlab team post launch
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943
+[Improve content to support avoiding a waterfall process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943)
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130
 
