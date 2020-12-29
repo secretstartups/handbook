@@ -173,7 +173,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | China | China | **Large-APAC-China** | Danny Petronio | Aletha Alfarania |
 | China | Taiwan | **Large-APAC-Taiwan** | Danny Petronio | Aletha Alfarania |
 | Japan | Japan | **Large-APAC-Japan** | Eiji Morita | Minsu Han |
-| Korea | Korea | **Large-APAC-Korea** | Anthony McMahon | Minsu Han |
+| Korea | Korea | **Large-APAC-Korea** | Tae Ho Hyun | Minsu Han |
 
 #### EMEA
 
