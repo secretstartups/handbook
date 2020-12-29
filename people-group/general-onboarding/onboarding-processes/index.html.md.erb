@@ -18,11 +18,11 @@ In case this is a re-hire ping the ITOps team in the #it-help slack channel to e
 
 ### Timing
 
-On Mondays and Wednesday's the People Experience Associate in the `BHR Onboarding Report` [rotation](/handbook/people-group/people-experience-team/index.html#weekly-rotations) will pull a report from BambooHR which compiles a list of all new team members starting in 2 weeks. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the CES team updates the team member to `hired`. The onboarding team members will then be added to the People Exp/Ops tracker under `Onboarding`. In the event that a team member has already been synced and a new team members start date changes, it is **important** that the CES team notifies the People Experience team by submitting a Slack form in order to re-sync the team member and update the necessary systems (Onboarding issue, PEA tracker, BambooHR, etc).
+On Monday and Wednesday the People Experience Associate in the `BHR Onboarding Report` [rotation](/handbook/people-group/people-experience-team/index.html#weekly-rotations) will pull a report from BambooHR which compiles a list of all new team members starting in 2 weeks. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the CES team updates the team member to `hired`. The onboarding team members will then be added to the People Exp/Ops tracker under `Onboarding`. In the event that a team member has already been synced and a new team members start date changes, it is **important** that the CES team notifies the People Experience team by submitting a Slack form in order to re-sync the team member and update the necessary systems (Onboarding issue, PEA tracker, BambooHR, etc).
 
 People Experience Associates will create the onboarding issue, and start completing the onboarding tasks, no later than one week before the new team member joins. People Experience Associates require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. To ensure we create a smooth onboarding experience for new team members, provide enough time for the IT Ops team for laptop orders, and completing the I-9 process (for US-base hires) 4 days is the minimum amount of time needed. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
 
-If any changes are made or needed to the onboarding template, kindly notify team members of the People Experience team by ccing them in the MR with the `@gl-people-exp` handle. Also notify other teams if a change will impact them.
+If any changes or updates need to be made to the onboarding template, kindly notify team members of the People Experience team by ccing them in the MR with the `@gl-people-exp` handle. Also notify other teams if a change will impact them.
 
 All new hires will receive invitational access to their GitLab email, GitLab accounts, and any other work-related accounts on Day 1. No access is permitted before Day 1.
 
@@ -176,8 +176,10 @@ The People Experience Associate will create the GSuite account first.
 
 ### **Google Suite Account Creation**<a name="Google"></a>
 
-1. People Experience Associates create email addresses for new team members using the convention of `firstinitiallastname@gitlab.com`. To make sure that we create new GitLab.com GSuite emails according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
-1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in GSuite Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. Check the email within the Admin GSuite Console. 
+
+1. People Experience Associates create email addresses for new team members using the convention of `firstinitiallastname@gitlab.com`. 
+1. To make sure that we create new GitLab.com GSuite emails according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
+1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in GSuite Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. After confirming, check the email again within the Admin GSuite Console. Please note that you will not be creating the email address in GSuite. 
 1. Add the email address to the BambooHR profile under work email. The Okta and BambooHR sync will then create the email address automatically in GSuite. 
 
 Examples:
@@ -187,31 +189,29 @@ Examples:
 
 ### **BambooHR Profile Data**
 
-As part of [onboarding](/handbook/people-group/general-onboarding/), People Experience Associates will process new hires in BambooHR. Aside from the steps listed in the onboarding issue, this is a description of how to add the proper information into BambooHR.
+As part of [onboarding](/handbook/people-group/general-onboarding/), the People Experience Associates will process new team members in BambooHR. Aside from the steps listed in the onboarding issue, this is a description of how to add the proper information into BambooHR.
 
-***Note:*** All fields are pre-filled by the [custom sync](/handbook/people-group/engineering/gh-bhr-sync/) that exists between Greenhouse and BambooHR. If not, this is mentioned.
+***Note:*** All fields are pre-filled by the [custom sync](/handbook/people-group/engineering/gh-bhr-sync/) that exists between Greenhouse and BambooHR, unless noted in the sections below. 
 
 ***Note:*** If all of the necessary tabs in the new team member's BambooHR profile do not automatically populate, please go to the `Job` tab, scroll down to the `Job Information` section, click the pencil icon on the righthand side of the section, and ensure that the `Department` and `Division` fields are correctly populated. Save your changes and refresh the new team member's profile. All necessary tabs should now appear. Please also create an [issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) for the People Operations Fullstack Engineer to [investigate](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) why the sync did not auto complete the fields. 
 
 ##### Hire Date Changes
-- If a new team member needs to adjust their start date but a new contract is not created, the People Experience team will;
-The CES team will complete the following [steps](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
-1. Check that all **Hire Dates** in BHR
+- If a new team member needs to adjust their start date but a new contract is not created, the People Experience team will:
+1. Have the Candidate Experience Specialist team complete the following [steps](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
+1. Check all **Hire Dates** in BambooHR
 1. Update the onboarding issue (if created)
-1. Ensure the email is filed in BHR with new hire date adjusted
+1. Ensure the email with the updated start date is filed under the Contracts and Changes folder in BambooHR
 
-- If a new hires start date falls on a holiday, that is observed by the new hire or the People Experience Team. 
-1. People Experience will coordinate with CES to adjust the start date to the next business day. Ensure the Hiring Manager is apart of this communication. 
+- If a new team member start date falls on a holiday that is observed by the new hire or the People Experience Team:
+1. The People Experience Associate will coordinate with the Candidate Experience Associate to adjust the start date to the next business day. Ensure the Hiring Manager is included in this communication. 
 1. The BambooHR dates will not be adjusted. 
 1. Update the Onboarding Issue title to reflect the "New Start Date". This date is used for the onboarding email automation. 
 
 
 #### New team member rejects offer
-If a new team member has already been marked as hired in Greenhouse and the sync has taken place, and the candidate thereafter rejects our offer, the CES team will notify the Senior Director, People Success in the #people-group-confidential Slack channel, also tagging the People Experience team for visibility.
-1. Once confirmed, verify that the profile has been deleted and updating the People Exp team onboarding tracker to remove this candidate.
+If a new team member has already been marked as hired in Greenhouse and the sync has taken place, then they reject our offer, the Candidate Experience team will notify both the Senior Director, People Success and the People Experience team in the #people-group-confidential Slack channel. 
+1. Once confirmed, The People Experience Associate will verify that the profile has been deleted and then update the People Experience team onboarding tracker to remove the former team member.
 1. If a GitLab email address has already been created, proceed with deleting the email address from GSuite account.
-
-
 **It is important that this step is completed as soon as possible to prevent any issues with the automation**
 
 #### Personal Tab
