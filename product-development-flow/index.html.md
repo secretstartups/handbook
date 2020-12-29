@@ -367,3 +367,5 @@ The Product Operations DRI will ensure the MR gets included in product develomen
 1. [VP of Development](https://about.gitlab.com/company/team/#clefelhocz1)
 1. [Director of Quality Engineering](https://about.gitlab.com/company/team/#meks)
 1. [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure)
+
+In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may create [a draft page](https://about.gitlab.com/handbook/product-development-flow/product-development-flow-draft.html) and/or a [working group ](https://about.gitlab.com/company/team/structure/working-groups/) for multiple iterations prior to pushing changes to this page, to minimize disruption and distraction during product development. 
