@@ -160,30 +160,6 @@ If *none* of these above are options for your case, open a [billable members int
 
 ### Other
 
-#### I want to escalate a ticket
-
-GitLab Support targets a 95% SLA acheievement KPI. This means that some tickets breaching is expected. Our SLA is for a _First Reply_ but we also internally track next reply. Asking for eyes on or the escalation of a ticket in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) or [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) creates unnecessary stress on Support Engineers who may be in the midst of working on higher priority tickets. Depending on whether you want to draw attention to either a Zendesk ticket or an issue created in `internal-requests`, follow the steps below.
-
-##### Zendesk Tickets
-{: .no_toc}
-
-1. Review the SLA associated with the account and the amount of time left until a breach by logging into [Zendesk](https://gitlab.zendesk.com) using Okta. It's not typically necessary to escalate an issue that is hours away from a breach. If the ticket has had a first reply, then you are looking at an "internal breach".
-
-#### The Following instructions apply for both Zendesk tickets and Internal Support issues
-{: .no_toc}
-
-1. Go to the [support escalation form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor//support_escalation/)
-
-     * Complete the information requested on the form and click on `Submit`
-        ![alt text](images/escalation_form.png "Escalation Form")
-     * All fields are required.
-
-     * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
-     Additionally a thread will be created in` #support_escalations` slack channel.
-
-1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
-
-
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
 
