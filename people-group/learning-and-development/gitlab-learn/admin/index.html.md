@@ -34,7 +34,7 @@ Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels,
 
 1. SmartCards created in a Pathway or Journey are only discoverable from within that pathway or Journey. Create SmartCards with quizzes, polls, or other action items from learners from within the Journey or Pathway
 1. Create content based SmartCards independently from a Journey or Pathway so that content can be repurposed and discovered
-1. Always set an estimate time to finish for each SmartCard, as this is used to give an accurate guess on how long the content will take to consume
+1. Always set an estimated time to finish for each SmartCard, as this is used to give an accurate guess on how long the content will take to consume
 
 #### Pathways
 
@@ -42,7 +42,7 @@ Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels,
 1. Enable lock functions for pathways where you want learners to go through the content in a specific order. For locked pathways, leave the first SmartCard unlocked, and lock all subsequent Smartcards.
 1. End Pathways that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
-1. Enable leap functions for pathways were you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
+1. Enable leap functions for pathways where you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
 
 Here is an example where you might use lock and leap in a Pathway:
 
@@ -50,7 +50,7 @@ In the GitLab 101 certification, a user must first read the handbook page on tec
 
 #### Journeys
 
-1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge, and use a Journey level badge over Pathway level badges
+1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge and use a Journey level badge over Pathway level badges
 1. End Journeys that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
 
@@ -82,18 +82,18 @@ In the GitLab 101 certification, a user must first read the handbook page on tec
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
 1. Assign content directly to an individual user or group
 
-**Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since there is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
+**Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since it is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
 
 ##### Building content with both `public` and `private` elements
 
-Option 3: If parts of content are for certain audience and parts are available to all learners
+Option 3: If parts of the content are for a certain audience and parts are available to all learners
 
 1. Create a Pathway and confirm the `private` content checkbox is checked
-1. Create `private` content in SmartCards in a the Pathway
+1. Create `private` content in SmartCards in a Pathway
 1. Create `public` content in a SmartCard outside of the private Pathway
 1. Assign Pathway to specific learners or groups
 
-**Example:** L&D hosts a [manager challenge course](/handbook/people-group/learning-and-development/manager-challenge/) with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independelty of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
+**Example:** L&D hosts a [manager challenge course](/handbook/people-group/learning-and-development/manager-challenge/) with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independently of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
@@ -127,7 +127,7 @@ Teams should choose to use certifications to recognize learners achievements whe
 Images in the LXP enable us to: 
 
 - maintain a look and feel that aligns with the GitLab brand
-- help users identify differnt kinds of content in the platform
+- help users identify different kinds of content in the platform
 
 The following outlines best practices for choosing images to use in the LXP. When content is created in the LXP in any form, an image or placeholder is automatically generated. Follow these best practices to update these placeholder images before publishing new content.
 
@@ -144,7 +144,7 @@ Future photographers will be added as needed.
 
 Keep the following in mind when choosing a photograph:
 
-1. Look for opportunities to demonstrate [GitLab culture](company/culture/). For example, consider choosing an image of learner working on their laptop to reflect [all-remote work](/company/culture/all-remote/), two people working together to demonstrate [collaboration](https://about.gitlab.com/handbook/values/#collaboration), or a family or small group of friends learning together to reflect [friends and family first, work second](/handbook/values/#family-and-friends-first-work-second)
+1. Look for opportunities to demonstrate [GitLab culture](company/culture/). For example, consider choosing an image of a learner working on their laptop to reflect [all-remote work](/company/culture/all-remote/), two people working together to demonstrate [collaboration](https://about.gitlab.com/handbook/values/#collaboration), or a family or small group of friends learning together to reflect [friends and family first, work second](/handbook/values/#family-and-friends-first-work-second)
 1. Choose inclusive images that reflect our values of [Diversity, Inclusion, and Belonging](/company/culture/inclusion/)
 1. Look for opportunities to use images that demonstrate learning. This could include virtual classroom discussion, social learning/networking, working on a project, use of mobile, leadership talks, etc. 
 1. Avoid images of large groups as it could make content look out of date
@@ -165,9 +165,9 @@ Use the following chart to determine what image is best to use for your SmartCar
 
 | Scenario | Image Guidelines |
 | ----- | ----- |
-| The SmartCard will be broadcasted on the Discover page | Follow guidlines for Journey and Pathway images |
-| The SmartCard links to the Handbook | Use the auto generated GitLab logo |
-| The SmartCard is stored within a Pathway or Journey | You may either update each image following the guidelines for Journey and Pathway images or use the auto generated images in the platform |
+| The SmartCard will be broadcasted on the Discover page | Follow guidelines for Journey and Pathway images |
+| The SmartCard links to the Handbook | Use the auto-generated GitLab logo |
+| The SmartCard is stored within a Pathway or Journey | You may either update each image following the guidelines for Journey and Pathway images or use the auto-generated images in the platform |
 
 #### Images for Channels
 
