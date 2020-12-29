@@ -14,7 +14,7 @@ title: Product develoment flow releases
 
 [Clarify or remove workflow::scheduling and workflow::ready for development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9252)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10101
+[Move issue reviews from pdflow to product process page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70247)
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813
 
