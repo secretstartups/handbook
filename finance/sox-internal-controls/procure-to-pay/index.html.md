@@ -102,7 +102,7 @@ There are 3 contract templates to be used, depending on the type purchase.
     * Depending on public or non public data the boxes are checked off accordingly.
     * The results of the DPIA completed in the first step (red/yellow/orange) are entered here in the appropriate box. 
     * If Non Public Data will be shared, an NDA is filled out [here](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view) and attached.
-    * Additional Security Documentation is requested from the vendor outlined [here](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). After this data is requested and received, this box is checked off. 
+    * Additional Security Documentation is requested from the vendor outlined in the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). After this data is requested and received, this box is checked off. 
 <br>
 
 - STEP 4: 
@@ -113,7 +113,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the [Third Party Risk Management Procedure](handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
 
     * If no vendor security review is needed, the box is checked by the Security Team.
     * If a security review was performed, and there are no risks associated with the use of this vendor, the box is checked and no approval is required.
@@ -288,7 +288,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Vendor Security Review Process outlined [here](/handbook/engineering/security/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation). The Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Risk Management Procedure](/handbook/source/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
   * If no vendor security review is needed, the box is checked by the Security Team.
   * If a security review was performed, and there are no risks associated with the use of this vendor, this box is checked and no approval is required.
   * If a security review was performed, and risks were identified with compensating controls in place, the Security Manager checks the box of, giving approval.
