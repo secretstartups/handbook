@@ -1,8 +1,33 @@
 ---
-layout: markdown_page
-title: CI minutes not active
+layout: handbook-page-toc
+title: Handling CI minutes
 category: GitLab.com subscriptions & purchases
 ---
+
+## Adding additional CI minutes
+
+From time to time, you may need to grant additional CI minutes to a namespace
+_without_ affecting the namespace's usual monthly quota.
+
+<details>
+<summary>Using Support Forms Processor</summary>
+
+Use the
+<a href="https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html">
+Extra Minutes form
+</a>
+.
+</details>
+
+<details>
+<summary>Using GitLab.com ChatOps</summary>
+
+View the
+<a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
+Support ChatOps documentation
+</a>
+for more information.
+</details>
 
 ## Purchased CI minutes are not associated with customer's group
 
