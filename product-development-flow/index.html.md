@@ -9,6 +9,10 @@ title: Product Development Flow
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
+*_To see a list of the latest updates to this page, visit [product development flow releases](/handbook/product-development-flow/product-development-flow-releases.html)_*
+
+
 ## Overview & philosophy
 
 GitLab's product mission is to consistently create products and experiences that users love and
