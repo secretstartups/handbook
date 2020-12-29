@@ -1,8 +1,14 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: Handling trials for GitLab.com
 category: GitLab.com subscriptions & purchases
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ## Bronze and Silver trial subscriptions
 
@@ -19,17 +25,33 @@ If any fields in the issue description were filled out incorrectly by the submit
 
 > **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [CustomersDot console](customer_console.html#change_plan). Once those issues are resolved, these requests should be done via CustomersDot admin.
 
-### Steps
-
 1. Assign yourself to the issue.
 1. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
    1. The `GitLab.com Link to Namespace:` field contains a valid GitLab.com link to the namespace that holds the active trial. This should not be a Salesforce link or email address.
    1. The `Extend Until:` field contains a future date.
-1. Using the address provided in the `Contact Email:` follow the [customers admin docs](/handbook/internal-docs/customers-admin/index.html) to find the customer and action on the request.
-1. If there is an error while taking action, locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
+1. Use the [Update Trial form processor](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_trial.html) to process the request.
+   1. If successful, this should create a new internal request issue documenting the change action. Link this new issue to the one where the extension was requested.
+   1. If there is an error while taking action, locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 1. If namespace needs to be adjusted manually, then add the `~Admin Escalation` label, and if you do not have GitLab.com admin access, ping `gitlab-com/support/dotcom`.
 
-### Workflow diagram
+## Applying a trial to a namespace with an active subscription
+
+At present, a namespace cannot have a trial and an active subscription run
+concurrently. A customer may request this if they wish to give a higher-tier
+subscription a trial.
+
+There is an [open feature request #12186](https://gitlab.com/gitlab-org/gitlab/-/issues/12186)
+requesting to implement this functionality in GitLab. In the meanwhile, use the
+[Update GitLab Subscription](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
+form processor to directly modify the customer's subscription:
+
+1. Submit the form processor with the appropriate information filled out. This
+   will create an internal request issue if the change is successfully applied.
+1. Set a reminder for yourself at the end of the trial period to submit the form
+   processor again to downgrade the namespace back to its original plan.
+   * You can use the issue due date functionality for this.
+
+## Workflow diagram
 
 ```mermaid
 graph TD;
