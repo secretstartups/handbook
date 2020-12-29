@@ -1136,6 +1136,14 @@ To reinforce that GitLab's values are a living document, we [capture contributio
 
 <iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?widget=10573861&udv=0?embed=true" scrolling="auto"></iframe>
 
+  sisense_data:
+    chart: 10573860
+    dashboard: 796025
+
+  sisense_data:
+    chart: 10573861
+    dashboard: 796025
+
 ## How do we reinforce our values
 
 Whatever behavior you reward will become your values. We reinforce our values by:
