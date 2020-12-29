@@ -9,7 +9,9 @@ title: Product develoment flow releases
 - Various topics including clarification of content, removal of optional labels and addressing processes for teams without SETs
 
 [Improve content to support avoiding a waterfall process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9943)
+
 [Issue refinement suggestions for PD-workflow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70706)
+
 [Incorporate Current Quad Planning process as part of the new pd flow](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130)
 
 [Clarify or remove workflow::scheduling and workflow::ready for development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9252)
