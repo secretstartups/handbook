@@ -1132,9 +1132,9 @@ Our values are updated frequently and as needed. Everyone is welcome to make a s
 
 To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. 
 
-<iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?widget=10573860&udv=0?embed=true" scrolling="auto"></iframe>
+<iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?widget=10573860?embed=true" scrolling="auto"></iframe>
 
-<iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?widget=10573861&udv=0?embed=true" scrolling="auto"></iframe>
+<iframe id="ifm" name="ifm" width="100%" height="100%" frameborder="0" src="https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions?widget=10573861?embed=true" scrolling="auto"></iframe>
 
   sisense_data:
     chart: 10573860
