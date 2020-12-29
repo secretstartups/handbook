@@ -28,6 +28,12 @@ title: Product develoment flow releases
 
 [Update intro to better reflect goal of latest pd-flow version](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70684)
 
+[Product Development Flow: Add `workflow::refinement` as optional step to build phase 1](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70388/diffs)
+
+[Product Development Flow: standardized job titles](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70389)
+
+
+
 **13.6 (2021-11-22)** 
 
 - Introduce interactive/improved visuals for workflow table and required items*
