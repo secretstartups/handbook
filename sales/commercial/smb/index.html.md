@@ -153,9 +153,9 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 *  [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
 
 ### Compensation
-*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
+* The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
 * The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/acv-in-practice/#gross-incremental-annual-contract-value-gross-iacv).
-*  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
+* Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/values/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 
 *  AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
