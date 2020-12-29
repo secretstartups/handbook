@@ -1132,14 +1132,7 @@ Our values are updated frequently and as needed. Everyone is welcome to make a s
 
 To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. 
 
-<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
-  <div>
-    <embed width="100%" height="550" src="<%= signed_periscope_url({ dashboard: 796025, embed: 'v2'}) %>">
-  </div>
-  <% else %>
-    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
-<% end %>
-
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" height="700"> </iframe>
 
 ## How do we reinforce our values
 
