@@ -36,7 +36,7 @@ Here's what to do when you're actively working on tickets in Zendesk. Divide you
    current focus (see [Main Views](#main-views) table), and identifying and
    taking **first** steps on those tickets )in line with [Meeting Service Level Objectives](/handbook/support/workflows/meeting-service-level-objectives.html).
 
-If you are part of a [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew) this will influence how you divide your efforts as you will have more focus on incoming ticckets on your crew day.
+If you are part of a [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew) this will influence how you divide your efforts as you will have more focus on incoming tickets on your crew day.
 
 #### Main Views
 These views show all the unassigned tickets for their respective region and
@@ -287,7 +287,7 @@ Sometimes, you might require help from senior support engineers, subject matter 
 
 ### Working on emergency or escalated tickets
 
-At times the usual ticket workflow may be interrupted by a new customer [emergency ticket](/handbook/support/on-call/#sts=Taking%20an%20emergency%20customer%20call) or an [escalated situation](/handbook/support/internal-support/#i-want-to-escalate-a-ticket). There may be need to reprioritise workload to accomodate these. If you anticipate a problem with prioritization please let your manager know so that they can help with next steps.
+At times the usual ticket workflow may be interrupted by a new customer [emergency ticket](/handbook/support/on-call/#sts=Taking%20an%20emergency%20customer%20call) or an [escalated situation](/handbook/support/internal-support/#i-want-to-escalate-a-ticket). There may be a need to reprioritise workload to accomodate these. If you anticipate a problem with prioritization please let your manager know so that they can help with next steps.
 
 ### Understanding Ticket Status
 
