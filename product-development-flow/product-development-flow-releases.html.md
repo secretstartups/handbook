@@ -18,7 +18,6 @@ title: Product develoment flow releases
 
 [Make workflow diagram clickable](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9813)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9308
 
 https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10095
 
