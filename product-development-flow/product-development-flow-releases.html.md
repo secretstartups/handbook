@@ -23,7 +23,7 @@ title: Product develoment flow releases
 
 [Add responsibilities of a appsec engineer in Build phase 2](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69584)
 
-https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579
+[Testing strategy for groups with no SET](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69579)
 
 **13.6 (2021-11-22)**
 
