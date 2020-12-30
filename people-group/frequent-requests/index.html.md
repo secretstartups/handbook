@@ -124,7 +124,6 @@ All requests for BambooHR-related data or reports with personal people data shou
 
 1. The Access Request should define exactly what type of personal data is requested, and also define if:
 - This will be a one-time request.
-- This will be a regular request and the requestor does not need to have access needed to pull the data.
 - This will be an ongoing request and the requestor needs access to be able to run a report themselves.
-1. Please assign all such requests to Brittany Rohde and ping the People Operations Specialist group in the comments using the `@gl-peopleops` tag.
+1. Please assign all such requests to Total Rewards and ping the Total Rewards group in the comments using the `@gl-total-rewards` tag.
 
