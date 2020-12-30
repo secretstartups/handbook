@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GiveLab Volunteer Initiatives"
+description: "Discover GitLab's volunteering opportunities with GiveLab"
 ---
 
 ## On this page
