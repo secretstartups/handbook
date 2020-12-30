@@ -87,7 +87,7 @@ The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-
 
 #### Offboarding Reason & Re-Hire Eligibility 
 
-There are several different options for the `Offboarding Reason` field in the Slack offboarding form. Below is an overview of Offboarding Reason and the corresponding re-hire eligibility option that should be selected depending on the reason.
+There are several different options for the `Offboarding Reason` field in the offboarding google form. Below is an overview of Offboarding Reason and the corresponding re-hire eligibility option that should be selected depending on the reason.
 
 | Offboarding Reason | Re-Hire Eligibility |
 | ------ | ------ |
@@ -168,8 +168,8 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***Specialist***: Once the conversation is complete, the PBP will notify the Specialist to stage the severance document in HelloSign for review and signatures.
 1. ***Specialists***: If appropriate (default is that it is appropriate), send an [offboarding memo](#sample-offboarding-memo) to the departing team member.
 
-## Offboarding Slack Workflow 
-This section will define key terms in offboarding slack workflow forms. 
+## Offboarding Workflow 
+This section will define key terms in offboarding workflow google form. 
 
 ### Offboarding Form 
 
