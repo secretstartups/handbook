@@ -16,10 +16,8 @@ title: "Delivery Team"
 | **Issue Trackers** | [**Delivery**][issue tracker]|
 | **Slack Channels** | [#g_delivery] / `@delivery-team`
 | **Delivery Handbook** | [Team training][team training]|
-
-## Other Related pages
-
-- [Release Tools](/handbook/engineering/infrastructure/release-tools)
+| Release Tools Project | [Release tools](/handbook/engineering/infrastructure/release-tools) |
+| Release Manager Runbooks | [release/docs/runbooks](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/README.md) |
 
 ## Top-level Responsibilities
 
@@ -149,7 +147,7 @@ By default, an issue needs to have a:
 
 The Delivery team leverages scoped `workflow-infra` labels to track different stages of work.
 
-On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution. 
+On the [Planning board] problems are discussed and scoped so that we have enough information to prioritise and implement the solution.
 
 The typical workflow is described below:
 
@@ -164,7 +162,7 @@ Note right of triage: Problem has been<br/> identified and a  possible solution 
 Note right of proposal: Proposal has been<br/>discussed and scoped.<br/>Issue is ready to implement.
 ```
 
-Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals. 
+Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals.
 
 The standard progression of workflow is described below:
 
@@ -201,6 +199,8 @@ The Delivery team uses priority labels to indicate order under which work is nex
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
+The team uses priority labels different to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+
 #### Other Labels
 
 Some of the labels related to the team management are defined as:
@@ -214,7 +214,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to. 
+The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
@@ -231,14 +231,26 @@ It is encouraged to show and discuss:
 1. How an estabilished process breaks down.
 1. How challenging a problem being resolved might be.
 
-## Release runbooks
-
-Runbooks containing information on various scenarios that the release manager from the Delivery team needs to know are available at the [release/docs/runbooks repository](https://gitlab.com/gitlab-org/release/docs/-/blob/master/runbooks/README.md).
-
 ### Team training
 
 Every Delivery team member is responsible for sharing skills either through creating a training session for the rest of the team, or through paired work.
 See the page on [team training] for details.
+
+## History
+
+The Delivery team officially [came into existence on 2018-10-23](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/15348/). This was the culmination of a larger alignment that was happening throughout that year, exposed by the need to streamline releases for self-managed users and creating a better experience for GitLab.com users.
+
+All throughout GitLab's existence, Release Management had been a monthly rotating role served by developers. The idea behind it was to keep developers close to the whole lifecycle of the software they create, and ensure that they automate their work. This worked well until the number of application changes, and developer tasks grew too large for anyone to handle as a secondary task. The event that indicated the need for a change was a near miss event near the end of 2017, when the first Release Candidate was deployed to GitLab.com just 2 days before the 22nd. That whole month was riddled with challenges, from release managers struggling to deliver their day to day development tasks and RM tasks, to multiple unsuccessful deployments to GitLab.com. Most importantly, this was a first indication that the company was growing and that the processes that worked previously, might need to change to accommodate the larger growth that was planned.
+
+After some internal discussions, we entered 2018 with an attempt to [work on process improvements](https://gitlab.com/gitlab-org/release/tasks/-/issues/39), rather than changing everything in one go. We went from a monthly rotation to two month [release manager rotation](/community/release-managers/), started [noting down spent time](https://gitlab.com/gitlab-org/release/tasks/-/issues/1). Over the next several months we'd seen general stabilization of the process but it became apparent that spending 4 engineers time in Release Manager rotation was not getting us anywhere closer to improving the deployment process for GitLab.com, and with each developer we hired the task list grew bigger.
+
+The initial discussion on [what is in front of us to achieve Continuous Delivery](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1) on GitLab.com exposed a clear need for a team focused on this specific task.
+
+With the team created, we set out to work on the [release we designed](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/16028), [change the way we deploy to GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/17842/diffs), [merge GitLab Rails codebases](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/19037/diffs) and many more other tasks.
+
+After a successful [team onsite (aka Fast boot)](https://gitlab.com/groups/gitlab-org/release/-/epics/17) where we executed on our tasks while being in the same room together for the first time, [we announced the first step towards Continous Delivery on GitLab.com](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/345). This was a very large change that changed the deployment frequency from deploying from the default branch once per month (for the total of 4-6 deploys to include bug fixes), to taking commits from the default branch once per week.
+
+The team focus then shifted to getting deployment time measured in hours, and migration of GitLab.com to Kubernetes.
 
 [issue tracker]: https://gitlab.com/gitlab-com/gl-infra/delivery
 [team training]: /handbook/engineering/infrastructure/team/delivery/training/
