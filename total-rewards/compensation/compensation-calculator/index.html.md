@@ -18,8 +18,8 @@ For any questions relating to the compensation calculator, reach out to [Total R
 
 ## The Compensation Calculator
 
-As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles) outlined above and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values/)) we developed a Compensation Calculator.
-The compensation of executives and anyone on a quota is not set with the calculator. We use a Compensation Calculator because it help us align compensation to our values:
+As a natural extension of the [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles) and our commitment to transparency, sharing, efficiency, directness, and boring solutions (see our [values](/handbook/values/)) we developed a Compensation Calculator.
+The compensation of executives and anyone on a quota is not set with the calculator. We use a Compensation Calculator because it helps us align compensation to our values:
 
 1. **Transparency** - The calculator is open to GitLab team members and candidates in the pipeline. This means that at the time of hiring, candidates don’t have to blindly negotiate compensation. They simply need to enter the individual inputs on the Compensation Calculator and it comes up with a band consistent with the individual’s circumstance - where they live, level, currency, etc. When team members move across levels, departments and locations during their time at GitLab, they’ll also be able to see the appropriate band for the change.
 1. **Efficient** - There’s no need to have multiple back-and-forth conversations between team members, managers, recruiters and the Total Rewards team. For hiring managers and recruiters, they simply use the Compensation Calculator for the roles they’re hiring for rather than having multiple approval levels and conversations. Similar with promotions and any other changes with locations, benchmarks, levels, team members and managers can discuss compensation according to the inputs on the Compensation Calculator rather than having negotiations.
@@ -44,7 +44,7 @@ The goals of the calculator are:
 
 The calculator is available to internal team members using the following [link](https://comp-calculator.gitlab.net/users/sign_in).
 
-You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). You can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount. 
+You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). Internal team members can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount.
 
 ### The Compensation Calculator Formula
 
@@ -201,7 +201,7 @@ GitLab will gather and analyze the data for each location factor annually as par
    * In reviewing the data set, determine if a new geo area needs to be added to the list.
 1. Data Analysis
    * For geographical areas:
-     * Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros. 
+     * Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros.
    * For metro areas, take the maximum of:
      * the average of all data sources rounded to the nearest 0.01 OR
      * the current location factor or geographic area (so as to not reduce location factors).
