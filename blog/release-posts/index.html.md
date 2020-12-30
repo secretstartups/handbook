@@ -176,7 +176,7 @@ There are two ways to create the initial monthly release post in the [about.GitL
 
 The manual way can be done either locally or using the GitLab Web IDE:
 
-1. Create a new branch `release-X-Y` from `master`
+1. On `gitlab.com/gitlab-com/www-gitlab-com` create a new branch `release-X-Y` from `master`
 1. On `release-X-Y` branch, create the blog post file, containing the introduction and the blog post frontmatter information:
    1. In `sites/marketing/source/releases/posts/` directory, add a new file called `YYYY-MM-22-gitlab-X-Y-released.html.md` by copying the
       [monthly release blog template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md).
@@ -186,8 +186,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
    1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
    1. Edit [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) and change the GitLab version, and the link of the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
 
-**Important!** Please use the **most recent templates** for each of these files.
-They can be found when browsing the repository in the `master` branch.
+**Important!** Please be sure to use the **most recent templates** on `master` for the `mvp` and `cta` files you create, by clicking on the links provided in instructions. They can also be found when browsing the repository in the `master` branch.
 {:.alert .alert-info .text-center}
 
 #### Create the release post MR
