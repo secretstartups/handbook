@@ -184,7 +184,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
    1. Create a new directory `X_Y` in the `data/release_posts` directory.
    1. Copy [`data/release_posts/unreleased/samples/mvp.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/mvp.yml) into `data/release_posts/X_Y/mvp.yml`.
    1. Copy [`data/release_posts/unreleased/samples/cta.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_posts/unreleased/samples/cta.yml) into `data/release_posts/X_Y/cta.yml`.
-   1. Edit [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) and change the GitLab version, and the link of the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
+   1. Edit `sites/marketing/source/includes/home/ten-oh-announcement.html.haml` on the release-X-Y branch, changing all the GitLab version numbers and URLs referencing the release post to reflect the current one. Leave the title as is, it will be changed by the Messaging Lead later in the process.
 
 **Important!** Please be sure to use the **most recent templates** on `master` for the `mvp` and `cta` files you create, by clicking on the links provided in instructions. They can also be found when browsing the repository in the `master` branch.
 {:.alert .alert-info .text-center}
