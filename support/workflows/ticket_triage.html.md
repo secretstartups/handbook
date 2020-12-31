@@ -15,20 +15,19 @@ subcategory: Triaging
 
 ## Purpose of this page
 
-This page aims to walk you through some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk. While this will be useful for any Support Engineer or Support Manager when working on tickets, it is especially aimed to help those performing the FRT Hawk role.
+This page aims to walk you through some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk.
 
 ## Overall Flow
 
 ```mermaid
 graph TD
-    A{Is it a Support Ticket?}
+    G[Ensure correct form] --> A{Is it a Support Ticket?}
     A -->|Yes| B{Is the ticket tied to an org?}
-    A -->|No| G[Ensure correct form]
+    A -->|No| H[Check if it falls under 'Other Requests']
     B -->|Yes| D{Does the ticket have an SLA?}
-    B -->|No| E[Find the organizaton and associate it: Needs Org Workflow] --> B
+    B -->|No| E[Use Needs Org workflow: Find and associate the organizaton]
     D -->|Yes| C[Done]
-    D -->|No| F[Analyse why: use resources in this page] --> C
-    G -->H[Check if it falls under `Other Requests`]
+    D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
 ```
 
 ## Applying the Correct Form
@@ -37,9 +36,10 @@ A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/su
 
 Most of the forms are self-explanatory, but here are some extra considerations:
 
-- GitLab.com Account: user account issue only, all others go to GitLab.com
+- GitLab.com Account: single user account issue only, all others go to GitLab.com.
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
+- License Renewals and Upgrades: any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
 
 ## Needs Org Workflow
 
@@ -47,7 +47,7 @@ Use this [Needs Org workflow](/handbook/support/workflows/associating_needs_org_
 
 ## Looking up customer details
 
-Check out the [Looking up customer details](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
+Check out the [Looking up customer details](/handbook/support/workflows/looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
 
 ## Organizations with Multiple Subscriptions
 
@@ -59,10 +59,10 @@ We also receive non Support requests in our queue - if you see something not lis
 
 |Request|Workflow|
 |--|--|
-|Training|Redirect requester to [Education from Professional Services](https://about.gitlab.com/services/education/)|
+|Training|Redirect requester to [Education from Professional Services](/services/education/)|
 |New Set Up/Installation|Follow the [Passing a Lead to Sales](/handbook/support/workflows/passing_a_lead_to_sales.html) workflow|
 |Requests for swag|Ask in the #swag internal slack channel or direct to [the FAQ](https://shop.gitlab.com/pages/f-a-q) for existing orders. For general requests for free swag, use the `General::Free Swag Request` Macro.|
-|Questions related to jobs/openings|Redirect requester to [Outbound Recruiting Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-recruiting-model) page|
+|Questions related to jobs/openings|Redirect requester to [Outbound Recruiting Model](/jobs/faq/#gitlabs-outbound-recruiting-model) page|
 |Questions related to status of job application| Use the `General::Job Application Questions` [macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Job%20Application%20Questions.yaml) and send a note to the internal `#recruiting` Slack channel.|
 |Legal Questions and Concerns|Ask in the #legal internal slack channel|
-|Missing Learning and Development Certificates | Direct requester to review  [Missed Certificate](https://about.gitlab.com/handbook/people-group/learning-and-development/certifications/#missed-certificate) and contact `learning@` with a note about which certificate/knowledge assessment is missing. |
+|Missing Learning and Development Certificates | Direct requester to review  [Missed Certificate](/handbook/people-group/learning-and-development/certifications/#missed-certificate) and contact `learning@` with a note about which certificate/knowledge assessment is missing. |
