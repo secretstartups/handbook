@@ -120,7 +120,7 @@ Need access to add a dashboard? Ask any team lead within the [infrastructure tea
 
 #### Dashboards for stage groups
 
-We have a set of monitoring dashboards designed for [each stage group](https://about.gitlab.com/handbook/product/categories/#devops-stages). These dashboards are designed to give an insight, to everyone working in a feature category, into how their code operates at GitLab.com scale. They are grouped per stage group to show the impact of feature/code changes, deployments, and feature-flag toggles.
+We have a set of monitoring dashboards designed for [each stage group](/handbook/product/categories/#devops-stages). These dashboards are designed to give an insight, to everyone working in a feature category, into how their code operates at GitLab.com scale. They are grouped per stage group to show the impact of feature/code changes, deployments, and feature-flag toggles.
 
 - The list of dashboards for each stage group is accessible at <https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups> (GitLab team members only), or at the [public mirror](https://dashboards.gitlab.com/dashboards?tag=feature_category&tag=stage-groups) (accessible to everyone with a GitLab.com account, with some limitations).
 - [Guide to getting started with dashboards for stage groups](https://docs.gitlab.com/ee/development/stage_group_dashboards.html)
