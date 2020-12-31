@@ -340,4 +340,4 @@ Unless the corporation consents in writing to the selection of an alternative fo
 The undersigned, Secretary of GitLab Inc., a Delaware corporation, hereby certifies that the foregoing is a full, true and correct copy of the Amended and Restated Bylaws of said corporation, with all amendments to date of this Certificate.
 WITNESS the signature of the undersigned this 31st date of January, 2019.
 
-**/Paul Machle/, Secretary**
+**/Brian Robins/, Secretary**
