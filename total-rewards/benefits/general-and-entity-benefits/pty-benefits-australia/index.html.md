@@ -101,6 +101,21 @@ Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to 
 ### Accounting Fee Reimbursement
 New Zealand team members are eligible for a one time reimbursement of up to $750 NZD for accounting or tax-related fees. The purpose of this reimbursement is to help our team members reconcile any accounting activities and tax returns from when they were independent contractors through GitLab BV or contracted through CXC. Since tax-related activities will be less complex after the transition to our team members' employment under the PTY LTD entity, this reimbursement benefit will only be valid until December 2021. To get reimbursed for this expense, please follow the [Expense Reimbursement process](/handbook/spending-company-money/#expense-policy).
 
+### Sick Leave
+
+Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Team members in New Zealand are entitled to 5 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least five days’ sick leave. If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
+
+* Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
+
+* In accordance with the Holidays Act, GitLab may require a medical certificate if you have been absent due to illness. 
+
+* Unused sick leave will not be paid out to the team member upon termination of employment.
+
+**Injured Leave**
+* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify Total rewards (total-rewards@gitlab.com) as soon as possible when they will need to go out on injured leave.
+
+* If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
+
 ### Medical
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.
 
