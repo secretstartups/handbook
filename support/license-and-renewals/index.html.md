@@ -4,14 +4,19 @@ title: License & Renewals
 description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew a license (self-managed) or subscription (GitLab.com).
 ---
 
-## Introduction
+## Overview
 
 When customers purchase or renew a license (self-managed) or subscription
 (GitLab.com), they sometimes run into problems applying or making use of their
 purchase. License & Renewals (L&R) comprises efforts to resolve these problems.
 
 L&R work generally involves collaborating with customers and other GitLab teams,
-as well as checking internal GitLab systems and data validation.
+as well as checking internal GitLab systems and data validation. Some examples:
+
+* General license queries from a user.
+* Troubleshooting license upload errors and subscription association issues.
+* Assisting Sales team members with requests related to licensing and
+  subscriptions.
 
 In July 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
 for L&R work to be handled by Support for the foreseeable future. The reasons
@@ -35,20 +40,38 @@ managers currently actively involved are:
 * Shaun McCann (Overall DRI)
 * Ronnie Alfaro
 * Wei-Meng Lee
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Systems you'll need access to
+## Getting started
+
+The best way to get a guided start to L&R work is by working through the
+[L&R Support training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
+
+### What you'll be working on
+
+* The [License & Renewals ticket queue](https://gitlab.zendesk.com/agent/filters/360038103700) in Zendesk.
+* The [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) on GitLab.com.
+  See also the [working internal requests workflow page](http://localhost:4567/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
+* Creating and/or updating [marketing pages](#marketing-pages),
+  [product documentation](#product-documentation) and the
+  [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
+  L&R-related topics.
+* Helping the Product group understand and prioritize product issues,
+  specifically those in the
+  [Fulfillment section backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment).
+
+### Systems you'll need access to
 
 To be effective with L&R work, you'll need access to systems and tools which you
 might not otherwise encounter working other Support problem types. This list
 supplements the baseline entitlements for the Support Engineer job family.
 
-### Salesforce
+#### Salesforce
+{:.no_toc}
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
@@ -63,7 +86,8 @@ When creating an individual/bulk access request, use the following information:
   > with Sales team members as they work on customer licensing issues. For more
   > information, see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#salesforce
 
-### Zuora
+#### Zuora
+{:.no_toc}
 
 Zuora is considered the [single source of truth](/handbook/handbook-usage/#single-source-of-truth)
 or [system of record](https://about.gitlab.com/handbook/handbook-usage/#system-of-record)
@@ -84,11 +108,57 @@ When creating an individual/bulk access request, use the following information:
   > Renewal customer issues and support requests. For more information, see
   > https://about.gitlab.com/handbook/support/license-and-renewals/index.html#zuora
 
-## Workflows
+
+### Workflows
 
 * [License & renewals workflows](workflows/index.html)
 * [Internal policies and procedures wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home)
 
+### Teams you'll be working with
+
+#### Product
+{:.no_toc}
+
+As you work through the queue and on issues, if you spot something in the
+[Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
+that would makes things better for customers and Support, please don’t forget to
+label it with `Support Priority` - this helps the product team in prioritising
+for the next milestone.
+
+##### Fulfillment stage
+{:.no_toc}
+
+The [Fulfillment](https://about.gitlab.com/direction/fulfillment/) Stage manages
+Purchasing and Provisioning, CustomersDot Usage, and Subscription Management.
+These teams own responsibilities that align with the types of requests we
+generally see in the L&R queue.
+
+`#s_fulfillment` channel in Slack
+
+##### Growth stage
+{:.no_toc}
+
+When we look at the product [Growth](/handbook/product/categories/#growth-stage)
+stage, we can see that the team owns responsibilities that align with some of
+the types of requests we generally see in the L&R queue, in particular the
+`Conversion` group.
+
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+
+## What is **not in the scope** of L&R work in Support?
+
+The L&R queue should not be used for the following:
+
+* Billing related matters, such as payments, invoice generation, refunds, etc.
+* Product related questions
+* [New business requests](https://about.gitlab.com/sales/)
+* Requests related to the
+  [education program](https://about.gitlab.com/solutions/education/)
+* Requests related to the
+  [open source program](https://about.gitlab.com/solutions/open-source/join/)
 ## Useful links
 
 ### Product documentation
