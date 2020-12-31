@@ -179,9 +179,9 @@ GitLab will obtain references and complete a criminal [background check](https:/
 
 - Once a candidate is moved to the reference check stage, the recruiter should ping `@ces` to kick off the reference check process
 - CES will send the Reference Check email via Guide
-   - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email utilizing the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
-- The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initate the background check process.
-- The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, utlizing the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
+   - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email using the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
+- The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
+- The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
 - Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
 
@@ -231,13 +231,13 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Finally, scroll to the bottom of the page and click "Send"
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
-#### Escalating Criminal Charges or Employment Descrepencies 
+#### Escalating Criminal Charges or Employment Discrepancies 
 
-Once the CES team gets the background checks back, if there are criminal charges or any employment verification descrepencies - the CES team will escalate to the People Business Partners.
+Once the CES team gets the background checks back, if there are criminal charges or any employment verification discrepancies - the CES team will escalate to the People Business Partners.
 
 1. Gather all details you can from the Sterling report 
 1. Post (making sure to tag the [appropriate PBP](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)) all details in the shared Slack channel with the PBP's `employment-criminal-escalations` with PDF version of the report
-   - Make sure to include candidates name, the job applied for, and who the hiring manager is
+   - Make sure to include candidate's name, the job applied for, and who the hiring manager is
 1. The People Business Partners have their own criteria/process for providing their recommendation on how to proceed to the business 
 1. Once the PBP has come to a recommendation, they will share the details with that recommendation to the hiring manager
    - It is ultimately up to the business on whether they would like to proceed with the candidate
