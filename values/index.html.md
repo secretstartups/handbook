@@ -976,7 +976,7 @@ Saying why and not just what enables discussion around topics that may impact mo
 Articulating why also helps people understand how something changed when you [articulate that you changed your mind](/handbook/values/#articulate-when-you-change-your-mind).
 
 Saying why does not mean justifying a decision against all other suggestions. 
-The [DRI](/handbook/people-group/directly-responsible-individuals/) is reponsible for their decision. 
+The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for their decision. 
 The DRI is not responsible for convincing other people, but they should be able to articulate their reasoning for the change. 
 
 When a GitLab Team Member comes across an ask or material (MR, handbook, etc.) that does not provide a "why" with sufficient context, the Team Member is responsible for getting the why and, if needed, working with the DRI to ensure that it is adequately documented and communicated to give context to other team members.  In the absence of a why, team members may speculate the why. This is something that can lead to disruption and inefficiency.
@@ -1080,7 +1080,7 @@ As long as a team member is producing required results, they are empowered to de
 
 On the other hand, as GitLab grows in size, we need to make decisions and the decisions may not be agreed to by everyone.  
 If a decision or project is sensitive or controversial, and receives large amounts of feedback, it can be challenging for the project DRI to handle. 
-In these cases, it's best to have have time-boxed feedback built into timelines.
+In these cases, it's best to have time-boxed feedback built into timelines.
 
 In a hypothetical example where a DRI needs to decide between red and gold potatoes for a stew, they would create an issue with the following sentiment:
 
