@@ -53,7 +53,7 @@ A team member can have the pension value accrued at a former employer transferre
 Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by Brand New Day. Furthermore, you can choose to put all the contributions in a savings fund.
 
 **Waiver**: 
-If a team member does not want to participate in the GitLab BV (Netherlands) Pension Plan, they can submit a waiver using the following [form](https://docs.google.com/document/d/1nCH4hfptHp3TTs9Y7YE1Y8oRrZ9-en9nWcb3VYp1RJY/edit?usp=sharing) to not take part in the pension scheme. In doing so, your partner will also need to sign this waiver agreement. If your partner changes, your new partner will also need to sign a new waiver. You _may not be able to enroll_ after filing for a waiver in the future due to the pension provider's policies.
+If a team member does not want to participate in the GitLab BV (Netherlands) Pension Plan, they can submit a waiver to `total-rewards@gitlab.com` using the following [form](https://docs.google.com/document/d/1nCH4hfptHp3TTs9Y7YE1Y8oRrZ9-en9nWcb3VYp1RJY/edit?usp=sharing) to not take part in the pension scheme. In doing so, your partner will also need to sign this waiver agreement. If your partner changes, your new partner will also need to sign a new waiver. You _may not be able to enroll_ after filing for a waiver in the future due to the pension provider's policies.
 
 ## Life Insurance
 
