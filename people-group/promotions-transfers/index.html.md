@@ -426,7 +426,7 @@ Relevant items that can assist include:
 
 * Links to Team handbook page outlining goals and vision
 * Roadmap, issue backlog, and links to key Epics.
-* Staffing allocation plans
+* Team member allocation plans
 * Expected impact or success criteria
 
 When possible, realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
