@@ -420,13 +420,15 @@ Company priorities can change and occasionally some or all members of a team may
 
 ##### Realignment Considerations 
 
-Early and ongoing communication with affected teams is key to ensuring a successful realignment. Hiring managers should clearly articulate the businesss need and quantifiable benefits from the realignment, as well as position a team focus and roadmap that gives affected teams an understanding of how their future contributions will benefit GitLab.
+Early and ongoing communication with affected teams is key to ensuring a successful realignment. Hiring managers should clearly articulate the business need and quantifiable benefits from the realignment, as well as position a team focus and roadmap that gives affected teams an understanding of how their future contributions will benefit GitLab.
+
+Consideration should be given to impacts on [product category maturity](/direction/maturity/) commitments for teams with departing team members.
 
 Relevant items that can assist include:
 
 * Links to Team handbook page outlining goals and vision
 * Roadmap, issue backlog, and links to key Epics.
-* Team member allocation plans
+* Staffing allocation plans
 * Expected impact or success criteria
 
 When possible, realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
