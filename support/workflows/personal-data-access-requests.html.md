@@ -1,3 +1,13 @@
+---
+layout: handbook-page-toc
+title: Personal Data Access Requests
+category: GitLab.com
+subcategory: Legal
+description: >-
+  Support Engineering workflows for non-deletion requests relating to personal
+  data
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -6,7 +16,7 @@
 
 ## Overview
 
-Use the appropriate workflow on this page when a user is requesting information under GDPR Article 15, CCPA, or for other reasons either through a Zendesk ticket or via an email to `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` (both of which forwards to the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk)). **These requests must be filled within 30 days.**
+Use the appropriate workflow on this page when a user is requesting information under [GDPR Article 15](https://gdpr-text.com/read/article-15/), [CCPA](https://oag.ca.gov/privacy/ccpa), or for other reasons either through a Zendesk ticket or via an email to `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` (both of which forwards to the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk)). **These requests must be filled within 30 days.**
 
 The request may look something like:
 
