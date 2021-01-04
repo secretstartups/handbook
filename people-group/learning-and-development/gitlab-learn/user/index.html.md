@@ -55,9 +55,9 @@ GitLab Learn first time login steps:
 
 ### Getting familiar with the platform
 
-Watch this [video tour](https://www.youtube.com/watch?v=U3kxVu3sZCU&feature=youtu.be) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
+Watch this [video tour](https://youtu.be/hlChYGZcaNc) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U3kxVu3sZCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlChYGZcaNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
