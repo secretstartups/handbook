@@ -1,16 +1,8 @@
----
-layout: handbook-page-toc
-title: Access Request Issues
-description: "Information about GitLab's Access Request (AR) issue automation process."
----
-
 ## On this page
-
 {:.no_toc}
 
 - TOC
 {:toc}
-
 
 #### Access Request issue creation
 
@@ -41,7 +33,4 @@ is responsible for creating the templates for their roles. This is also explaine
 
 Here's a video with the People Group Engineer going over the AR automation. They discuss
 how it works and how a template can be added.
-
-<figure class='video_container'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/aPe77q23OE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/aPe77q23OE8" width="560" height="315"></iframe></figure>
