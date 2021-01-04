@@ -108,6 +108,10 @@ Access your [GitLab Learn profile page](/handbook/people-group/learning-and-deve
 
 You can edit and customize your profile page from within the platform using the following steps.
 
+If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://youtu.be/b1oy9_aN0Vk) or watch the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1oy9_aN0Vk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
 1. In the top right corner of the screen, click `Edit Profile`
@@ -152,6 +156,10 @@ There are 2 ways to search GitLab Learn for new learning content.
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
+
+Watch [this training](https://youtu.be/vGhtuY_gIEw) to review strategies for finding new learning content in GitLab Learn:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhtuY_gIEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sharing your GitLab Learn Badges
 
