@@ -41,17 +41,12 @@ Most of the forms are self-explanatory, but here are some extra considerations:
 - Accounts Receivable: refunds, VAT and invoices.
 - License Renewals and Upgrades: any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
 
-## Needs Org Workflow
+## After applying the correct form
 
-Use this [Needs Org workflow](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html) to tie a ticket to the right organization.
-
-## Looking up customer details
-
-Check out the [Looking up customer details](/handbook/support/workflows/looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
-
-## Organizations with Multiple Subscriptions
-
-Sometimes, we might find organizations with multiple subscriptions associated with them. Follow the solution described [in this section](/handbook/support/support-ops/zendesk/organizations.html#what-is-an-organization-has-multiple-subscriptions) in such cases.
+- Apply the correct `Problem type` if possible (this may need to happen after looking up the organization information).
+- Use the [Needs Org workflow](associating_needs_org_tickets_with_orgs.html) to tie a ticket to the right organization.
+- With help from the [Looking up customer details](looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
+- Check [SLA and Zendesk views page](sla_and_views.html) for after an org is assigned.
 
 ## Other Requests
 

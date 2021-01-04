@@ -24,6 +24,7 @@ In general, you should look for customer details in this order:
 1. Within Zendesk
 2. Within Salesforce
 3. Within customers.gitlab.com
+1. Within license.gitlab.com
 
 For an overview and runthrough of all three platforms, watch Amanda Rueda's
 [How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
@@ -75,6 +76,10 @@ the 1Password Support vault. Notes:
 
 3. Click the **Account Name** to view the customer's organization page.
 
+**Note:** in some cases you will need to search by e-mail and by domain. For example,
+if the e-mail has previously been associated with a trial account it will still be visible
+in SFDC but this might not be the same account that is used by the organization.
+
 #### Finding the customer's GitLab subscription information
 
 In the customer's organization page, look for the **GitLab Subscription Information**
@@ -116,7 +121,7 @@ or `10-Duplicate`. This should generally be the first row.
 The person responsible for the customer's license renewal is listed under
 `Owner Full Name`.
 
-### Within customers.gitlab.com
+## Within customers.gitlab.com
 
 1. Log in to [customers.gitlab.com](https://customers.gitlab.com/admin) admin area
    (sign in with Okta).
@@ -132,3 +137,38 @@ The person responsible for the customer's license renewal is listed under
 4. You can *impersonate* an account to find out if they have a current
    subscription through the customer's detail page or by clicking on the `home`
    icon in the search results.
+
+**Note:** be extra careful when searching using the customer's domain: there can be generic domains
+that you are not aware of, and there can be large customers with multiple organizations using the same
+domain. Therefore, search by e-mail is more reliable.
+
+## Within license.gitlab.com
+
+All self-managed licenses including trial ones should be available in [LicenseDot](http://license.gitlab.com) portal.
+You should be able to access it with your dev.gitlab.org account. If a customer provides you with their license ID,
+you can verify it in the portal by appending the ID to the link https://license.gitlab.com/licenses/, so the final link
+to the license will look like https://license.gitlab.com/licenses/LICENSE_ID
+
+### When full license file is provided
+
+Sometimes a customer may include the full license file to prove their support entitlement. You can determine the license ID (and thus organization) by
+extracting the ID.
+
+First, trim the carriage returns and/or new lines:
+
+```
+tr -d '\r\n' < file_name.gitlab-license
+```
+
+Then, from the Rails console on your own self-managed instance:
+
+```
+license = ::License.new(data: "<paste entire license key without the carriage returns>")
+"https://license.gitlab.com/licenses/".concat(license.license_id.to_s)
+```
+
+This will return nice URL that will take you the relevant license in LicenseDot.
+
+```
+=> "https://license.gitlab.com/licenses/<license_id>"
+```
