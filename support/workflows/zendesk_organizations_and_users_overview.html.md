@@ -20,7 +20,7 @@ Zendesk integration (as well as the GitLab built sync script). This integration
 allows agents to see a customer's full Salesforce Profile within a live ticket
 in Zendesk. You can read more about what information we send to Salesforce and
 what fields are populated with information from Zendesk in the
-[Support Ops handbook page](/handbook/support/support-ops/#salesforce---zendesk-sync).
+[Support Ops handbook page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
 
 > Please do not manually create organizations. This can break the ZD<>SFDC
 > integration and cause users to receive incorrect SLAs. If you notice an
@@ -31,7 +31,7 @@ what fields are populated with information from Zendesk in the
 If you notice an organization in Zendesk contains outdated information or the
 information doesn't match what Salesforce is displaying, this would indicate the
 sync integration has hit an issue. Luckily, we have the GitLab built sync script
-that runs every 4 hours to rectify such issues.
+that runs every hour to rectify such issues.
 
 In your due diligence, you would want to create an issue via the
 [support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new)

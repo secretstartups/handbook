@@ -216,10 +216,3 @@ For example:
 - you view `GitLab User Lookup` app in the Zendesk sidebar and none of the groups are on a paid plan
 - if an account exists in the CustomersDot, no subscriptions are shown and you see
   `Choose a plan that suits your needs` when using `Impersonate` functionality.
-
-## Reference
-
-### Associated triggers
-
-- [Add need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360001567348)
-- [Remove need-org tag](https://gitlab.zendesk.com/agent/admin/triggers/360017109414)

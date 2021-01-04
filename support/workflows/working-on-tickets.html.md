@@ -59,7 +59,7 @@ assigned when the first reply is made.
     <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</a></td>
   </tr>
   <tr>
-    <td rowspan="3">GitLab.com</td>
+    <td rowspan="3">SaaS</td>
     <td>AMER</td>
     <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</a></td>
   </tr>
@@ -72,8 +72,6 @@ assigned when the first reply is made.
     <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</a></td>
   </tr>
 </table>
-
-*NOTE*: For more information about views, see the [Views section of our Zendesk Overview page](/handbook/support/workflows/zendesk-overview.html#views).
 
 #### The Full Workflow
 1. Start your work at the top of your own view
@@ -297,10 +295,23 @@ Each ticket in Zendesk has a [status](https://support.zendesk.com/hc/en-us/artic
 | --- | --- | --- |
 |  New | The ticket has just been opened and has had no replies. |  |
 |  Open | The ticket has had one or more replies, and the user is waiting on GitLab Support to provide the next reply. |  |
-|  Pending | The ticket has been replied to and is waiting on the user to provide additional information. | After 3 days in "Pending", the user will receive a further response reminding them that the ticket exists. If there are no responses after a total of 7 days, the ticket will be moved to Solved. |
-|  On-Hold | GitLab support is working on the ticket and may be waiting for information from another team | Placing a ticket on-hold will assign it to the engineer. After four days the ticket will move back to open status, requiring an update to the user. On-hold is transparent to the user (they see the status as 'Open') so there is no need to inform the user that the ticket is being put on-hold. It's the engineer's responsibility to ensure timely replies or set the ticket back to 'Open' if they are no longer working on it. Setting a ticket to 'on-hold' while working on the ticket can be useful as it takes it out of the main view, thus saving other engineers from wasting time reading the ticket. |
-|  Solved | The ticket has been solved | A user who replies to a Solved ticket will re-open it. A Solved ticket will transition to 'Closed' after 4 days. |
-|  Closed | The ticket is archived | A user who replies to a Closed ticket will open a new ticket with a note that relates the new case to the closed ticket. |
+|  Pending | Support has replied to the ticket and is waiting on the user to provide additional information. | If there are no responses after a total of 20 days, Zendesk will move the ticket to Solved. |
+|  On-Hold | GitLab support is working on the ticket and may be waiting for information from another team | Placing a ticket on hold will assign it to the engineer. After four days Zendesk will move the ticket back to open status, requiring an update to the user. On-hold is transparent to the user (they see the status as 'Open') so there is no need to inform the user that the ticket is being put on-hold. It's the engineer's responsibility to ensure timely replies or to set the ticket back to 'Open' if they are no longer working on it. Setting a ticket to 'on-hold' while working on it can be useful as it takes it out of the main view, thus saving other engineers from wasting time reading it. |
+|  Solved | The ticket has been solved | When a user replies to a Solved ticket, Zendesk reopens it. A Solved ticket will transition to 'Closed' after 7 days. |
+|  Closed | The ticket is archived | When a user replies to a Closed ticket, Zendesk opens a new ticket with a note that relates the new ticket to the closed ticket. |
+
+### Avoiding status change automations
+
+By default, Zendesk will move a ticket from pending to solved after 20 days
+with no replies. It will also move a solved ticket to closed after 7 days with
+no replies. While this is normally the right workflow, there might be situations
+in which you need to prevent this from occurring. To do so, use the appropriate
+Zendesk labels:
+
+| Label | What it does |
+|-------|--------------|
+| skip_autosolve | This tells Zendesk to refrain from moving the ticket to `Solved` automatically |
+| skip_autoclose | This tells Zendesk to refrain from moving the ticket to `Closed` automatically |
 
 ### Handling Large Files
 
@@ -317,8 +328,6 @@ When using Slack to work with others or communicate internally regarding a suppo
 ### Understanding SLAs
 
 Our SLA workflow relies on end-users who submit tickets belonging to an organization and that organization having a GitLab Plan. Organization information is automatically added to Zendesk via a Salesforce Integration. We sync all records with Account Type equal to `Customer` from Salesforce to Zendesk. The information we get from Salesforce includes but is not limited to: Account Owner, Technical Account Manager, GitLab Plan and Salesforce ID. Organizations should never be created manually in Zendesk as that can cause our sync to be ineffective.  If you think an Account in Salesforce doesn't have an equivalent Organization in Zendesk, please let the [Support Operations Specialist](/handbook/support/support-ops/#introduction-to-support-operations-team-support-ops) know so a manual sync can be run.
-
-SLAs are set as Business Rules within Zendesk. For more information, please refer to the specific [Zendesk](/handbook/support/workflows/zendesk_admin.html) page.
 
 We have a Slack integration that notifies us of impending breaches:
 
