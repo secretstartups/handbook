@@ -200,8 +200,6 @@ Exceptional community members may be able to participate, as well.
 | 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
-The week of 2020-12-07 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
-
 If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
 ## Preparing for the Program
