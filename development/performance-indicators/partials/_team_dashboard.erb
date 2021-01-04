@@ -13,3 +13,7 @@
 ### Security indicators
 (<a href="https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard" target="_blank">Sisense↗</a>)
 <%= partial "handbook/engineering/development/performance-indicators/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
+
+### Infrastructure indicators
+(<a href="https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+<%= partial "handbook/engineering/development/performance-indicators/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
