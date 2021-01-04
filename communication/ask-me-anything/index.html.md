@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Ask Me Anything
+description: "Learn and ask questions at GitLab's Ask Me Anything (AMA) meetings"
 ---
 
 ## On this page
