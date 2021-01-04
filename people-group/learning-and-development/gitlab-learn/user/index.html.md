@@ -151,9 +151,11 @@ In addition, learing content and users are organized in the LXP to help you disc
 
 ### Finding new learning content
 
-There are 2 ways to search GitLab Learn for new learning content.
+There are many ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
+
+1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared.
 
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
 
