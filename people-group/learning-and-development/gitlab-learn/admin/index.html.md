@@ -228,14 +228,16 @@ When the peer-review is complete, content should be switched on by the content c
 
 
 
-### Sharing content with learners
+### Sharing content
 
 #### Using groups
 
 Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group:
 
 1. Decide if your group is private or public. Private groups cannot be discovered by learners who are not members of the group. These are best used when you want to organize a group of only your direct team members. Public groups are discoverable by any learner on the platform. These are best used when you'd like to broadcast the group to a wide audience
+1. If groups are not marked private, then members can click the option to join. If you want to make them visible and share with everyone, do not mark the group as private
 1. Groups can be used to assign content to a specific group of people. Learning can be assigned to all members of a group
+1. Content can be shared privatley with one or more groups. When its not shared with someone outside of that group, they won't discover it
 1. When new members are added to a group, they will automatically be assigned all content that has been assigned to that group
 1. Groups offer a space to create a community of learners around a similar topic or goal
 1. All groups must have a group administrator that will take responsibility for managing content in the group, curating new content for the group, and creating new ways to maintain a community. Group admin are encouraged to open an MR to this page and add best practices for group management
@@ -278,6 +280,7 @@ Use these best practices when designing and updating the discover page in EdCast
 1. Use custom carousels to organize content by topic. Carousels can display either channels or users
 1. Custom carousels with channels should be clearly named and invite the learner to explore a specific topic
 1. Custom carousels with users should feature engaged learners and leaders in the platform 
+1. Leverage a carousel of groups by creating SmartCards that link directly to groups that you want to highlight
 
 
 
