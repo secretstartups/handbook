@@ -68,7 +68,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan <br> *Complete the weekly evaluation 
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
 
@@ -86,7 +86,7 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
 | Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
 | Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation  |
+| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation <br> Catch up on weekly challenges  |
 
 
 ### Week 3
@@ -104,7 +104,7 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
+| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
 
 ### Post Manager Challenge
 
