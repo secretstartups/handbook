@@ -91,8 +91,6 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
 
-MktgOps uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/825719) and will capture any issue in any group/sub-group in the repo since we work with so many other teams. There is also a [`Marketing Operations` project](https://gitlab.com/gitlab-com/marketing/marketing-operations) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
-
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
 ### Epics
