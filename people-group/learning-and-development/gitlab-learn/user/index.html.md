@@ -34,7 +34,7 @@ Review the following terms to get familiar with language used in this documentat
 When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
 
-Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
+Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -55,9 +55,9 @@ GitLab Learn first time login steps:
 
 ### Getting familiar with the platform
 
-Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
+Watch this [video tour](https://youtu.be/hlChYGZcaNc) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1AtZPxpauiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlChYGZcaNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
@@ -108,6 +108,10 @@ Access your [GitLab Learn profile page](/handbook/people-group/learning-and-deve
 
 You can edit and customize your profile page from within the platform using the following steps.
 
+If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://www.youtube.com/watch?v=WkO-5_QfyPE&feature=youtu.be) or watch the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkO-5_QfyPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
 1. In the top right corner of the screen, click `Edit Profile`
@@ -147,11 +151,17 @@ In addition, learing content and users are organized in the LXP to help you disc
 
 ### Finding new learning content
 
-There are 2 ways to search GitLab Learn for new learning content.
+There are many ways to search GitLab Learn for new learning content.
 
 1. **Use the search bar.** This search feature will allow you to search by key word, username, or topic. This search bar is helpful if you're looking for material on a certain topic, or you're interested in seeing what your team members are learning.
 
+1. **Follow Channels** Channels organize content based on topic. Find Channels you're interested in by searchin for a specific topic or expertise. You can follow these channels and be notified when new contnet is shared.
+
 1. **Use the `More` option in the top navigation bar.** This waffle icon will allow you to sort through content based on users, groups, and more. If you'd like to learn more about the types of content in the LXP, reivew the [LXP contribution process](/handbook/people-group/learning-and-development/gitlab-learn/contribute)
+
+Watch [this training](https://youtu.be/vGhtuY_gIEw) to review strategies for finding new learning content in GitLab Learn:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhtuY_gIEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sharing your GitLab Learn Badges
 
