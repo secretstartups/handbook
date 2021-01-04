@@ -34,9 +34,9 @@ Review the following terms to get familiar with language used in this documentat
 When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
 
-Below is a [firt time login training video](https://youtu.be/U3kxVu3sZCU) to walk you through each step.
+Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 GitLab Learn first time login steps:
 
@@ -55,9 +55,9 @@ GitLab Learn first time login steps:
 
 ### Getting familiar with the platform
 
-Watch this [video tour](https://youtu.be/1AtZPxpauiw) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
+Watch this [video tour](https://www.youtube.com/watch?v=U3kxVu3sZCU&feature=youtu.be) of the GitLab Learn platform to get familiar with what you'll see upon logging in.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1AtZPxpauiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U3kxVu3sZCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Navigating the discover page
 
