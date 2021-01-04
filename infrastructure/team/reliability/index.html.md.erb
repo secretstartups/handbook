@@ -101,17 +101,18 @@ Issues in team backlogs come from two sources:
 
 #### Work Generated Internally by a Reliability Team
 1. The teams themselves derive ideas for work that align with their areas of ownership and their roadmap. An issue is created with the team's label and the `~"workflow-infra::Triage"` label, this automatically places it on the team's backlog board.
-2. The issue then takes one of several paths on the team's backlog:
+1. The issue then takes one of several paths on the team's backlog either:
     <br/>a. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
     <br/>b. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
     <br/>c. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
 
 #### Work Generated Externally to the Reliability Team
 1. Work is generated from a group outside of a specific Reliability team and an issue is created with the labels `~"team::Reliability"` and `~"workflow-infra::Triage"`. This places it on the `Reliability - Backlog` board and in a triage process for assignment to the correct subteam.
-2. The issue then takes one of several paths. Using the `Reliability - Backlog` board the issue is:
-    <br/>a. prioritized by reliability management and moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label. -OR-
-    <br/>b. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed.
-3. If the issue made it to a team backlog board, it will be processed by the team and:
+1. Using the `Reliability - Backlog` board, the daytime IMOC reviews the board for issues in the `~"workflow-infra::Triage"` column and the issue is either:
+    <br/>a. moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label. -OR-
+    <br/>b. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed. -OR-
+    <br/>c. brought to the Reliability managers sync meeting to be triaged by the group.
+1. If the issue made it to a team backlog board, it will be processed by the team and either:
     <br/>a. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
     <br/>b. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. -OR-
     <br/>c. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
