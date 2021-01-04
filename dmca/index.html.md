@@ -16,7 +16,7 @@ We take the intellectual property rights of others seriously and require that ou
 
 Submissions under this DMCA Policy should be sent to dmca@gitlab.com
 
-We will review your submission and take whatever action we deem appropriate under the DMCA, including removal of the challenged content from the website.  Further more, we may, in appropriate circumstances, disable or terminate the accounts of users as indicated in the [DMCA Workflow](/handbook/engineering/security/operations/trustandsafety/dmca-removal-requests.html).
+We will review your submission and take whatever action we deem appropriate under the DMCA, including removal of the challenged content from the website.  Further more, we may, in appropriate circumstances, disable or terminate the accounts of users as indicated in the [DMCA Workflow](/handbook/engineering/security/security-operations/trustandsafety/dmca-removal-requests.html).
 
 ## DMCA Counter Notice requirements
 
