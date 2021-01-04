@@ -108,9 +108,9 @@ Access your [GitLab Learn profile page](/handbook/people-group/learning-and-deve
 
 You can edit and customize your profile page from within the platform using the following steps.
 
-If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://youtu.be/b1oy9_aN0Vk) or watch the video below.
+If you'd rather watch a video of how to update your GitLab Learn profile, click [here](https://www.youtube.com/watch?v=WkO-5_QfyPE&feature=youtu.be) or watch the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b1oy9_aN0Vk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkO-5_QfyPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. In the top navigation bar, locate your name and profile image. This will link to your profile page
 1. On your profile, you can review your dashboard, content, learning plan, and more
