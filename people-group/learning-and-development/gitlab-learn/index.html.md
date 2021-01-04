@@ -39,6 +39,15 @@ Review the following terms to get familiar with language used in this documentat
 | GitLab Learn | GitLab's EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
+## Content Roadmap
+
+The GitLab team is excited about growing new learning opportunities for team members, partners, and our wider community on the GitLab Learn platform.
+
+Future learning content coming to GitLab Learn:
+
+1. Trainings for managers in an all-remote setting
+1. Advanced GitLab topics
+
 
 ### What will GitLab Learn do for the GitLab community
 
