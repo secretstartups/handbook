@@ -17,7 +17,7 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 ## Quick facts  
 
-| Quick fact | To date 2020-12 |
+| Fact | To date 2021-01 |
 | ------ | ------ |
 | Headcount | 1,200+ |
 | Countries | 68+ |
@@ -45,10 +45,11 @@ Use this content library as a resource whenever you're acting as a talent ambass
 - At GitLab, we have team member resource groups (TMRGs), inclusive benefits, training and development, an inclusive hiring process, outreach initiatives to underrepresented groups, a Global DIB Advisory Group, and more. 
 - More about [DIB at GitLab](/company/culture/inclusion/).
 
-# Awards recognizing GitLab as a great place to work
+# Awards and lists recognizing GitLab as a great place to work
 
-These awards recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest awards we've won. For company or product awards, see this list. 
+These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest: 
 
+- [Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes](https://www.forbes.com/sites/louiscolumbus/2020/12/20/the-best-tech-companies-for-remote-jobs-in-2021-according-to-glassdoor/?sh=2922f81c2ceb)
 - [Fortune's Best Small & Medium Workplaces in 2020](https://www.greatplacetowork.com/best-workplaces/smb/2020?category=medium)
 - [Great Place to Work Certified, 2020-2021](https://www.greatplacetowork.com/certified-company/7013799)
 - [Best Startup Employers in 2020, Forbes](https://www.forbes.com/americas-best-startup-employers/#46146ae96527)
@@ -67,31 +68,13 @@ These awards recognize GitLab's unique culture and help us spread the word about
 
 # Articles
 
-Here's a curated list of the latest and greatest articles about GitLab. These articles are organized by topic and theme.
-
-## Remote work
-
-
-
-## Diversity, inclusion, and belonging
-
-
-
-## Company and product success
-
-
+Coming soon: A curated list of the latest and greatest articles about GitLab, organized by topic and theme.
 
 For a daily digest of press about GitLab, as well as more detailed regional content, please follow the #newswire channel on Slack. 
 
 # Blogs
 
-Our team members have written blogs on numerous topics that are helpful to share with potential candidates and anyone interested in life at GitLab. Here's a curated list of some of the best blog posts to share, organized by topic and theme. 
-
-## Our culture and life at GitLab 
-
-## All-remote work  
-
-## Diversity, inclusion, and belonging at GitLab
+Coming soon: Our team members have written blogs on numerous topics that are helpful to share with potential candidates and anyone interested in life at GitLab. Here's a curated list of some of the best blog posts to share, organized by topic and theme. 
 
 # Videos
 
@@ -106,24 +89,15 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 - [What is GitLab?](https://youtu.be/MqL6BMOySIQ)
 - [Working remotely at GitLab](https://youtu.be/NoFLJLJ7abE)
 
-## Team-specific videos
-
-# Team-specific messaging
-
-
-## Sales team 
-
-# Resources
+Coming soon: Team-specific videos 
 
 ## Logos, company description, team photos
 
 If you're in need of an official GitLab logo, company description, green screens, or other press-related assets, refer to [the press kit](/press/press-kit/) on the GitLab website.
 
-## Graphics and images
-
 
 # Contribute to the content library 
 
-See something that's missing or want to contribute to this content library? Submit a merge request and tag @bchurch. 
+This content library is a work in progress. See something that's missing or want to contribute to it? Submit a merge request and tag @bchurch. 
 
 [Return to the main talent brand page.](/handbook/people-group/employment-branding/)
