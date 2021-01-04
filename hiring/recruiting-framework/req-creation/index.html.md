@@ -52,8 +52,8 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Under `Employment Type`, select if your vacancy is a *Full-Time*, *Part-Time*, *Intern*, or *Contract* role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that *Contract* refers to a true consultant, who works on short-term projects. This is seldom used.
 
 1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
-   - Take the `benchmark x level x 0.25` for the low end and `benchmark x level x 0.8` on the high end.
-   - For roles not in the compensation calculator (Sales/Director/Exec): Leave blank if not known. The Compensation & Benefits Team will edit as the first level of approval. The Compensation & Benefits Manager Team will pull survey data in San Francisco for this role then apply the same formula for `0.25` on the low end and `0.8` on the high end.
+   - Take the `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
+   - For roles not in the compensation calculator: Leave blank if not known. The Total Rewards team will edit as the first level of approval. The Total Rewards will pull survey data in San Francisco for this role then apply the same formula for `0.45` on the low end and `0.8` on the high end.
 
 1. Scroll down to the `Openings Secton`
 
