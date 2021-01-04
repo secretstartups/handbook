@@ -61,7 +61,7 @@ Not all accounts need an account plan, and the first step is determining which a
 
 Always start with the Customer's "Why?", and get clarity on the customer’s strategies, goals, and objectives.
 
-## Step 3: Start Building
+### Step 3: Start Building
 
 Account Planning needs a long term ‘vision’ for the account that both parties agree to work towards. A good place to start is with a 5 year plan. You can start yb asking the customer: “Where do you want to be with GitLab in 5 years?” Take that answer and make it the 1st point of the plan, then figure out a workback plan. 
 
