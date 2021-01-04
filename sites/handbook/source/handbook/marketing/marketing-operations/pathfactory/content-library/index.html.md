@@ -241,3 +241,7 @@ Because you do not own this web page, your options are limited. You will be unab
 When you enable the `End Promoter`, add the destination URL of the blocked content. When a visitor reaches the end of the Content Track, they will be prompted with your call to action `End Promoter`. If the visitor clicks on this promoter, the destination URL (of the blocked content) will open in a new tab.
 
 More on iFrame blocking can be found [here](/handbook/marketing/marketing-operations/pathfactory/#about-iframes).
+
+## Content Expiration Policy
+
+Two years from the day it was uploaded. Please review any assets in the library older than two years and consider expiring from the content library. 
