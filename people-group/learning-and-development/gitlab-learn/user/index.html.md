@@ -34,9 +34,9 @@ Review the following terms to get familiar with language used in this documentat
 When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
 
-Below is a [firt time login training video](https://www.youtube.com/embed/uE-1KRFArpA) to walk you through each step.
+Below is a [firt time login training video](https://youtu.be/U3kxVu3sZCU) to walk you through each step.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 GitLab Learn first time login steps:
 
