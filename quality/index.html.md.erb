@@ -366,21 +366,28 @@ More on our [Triage Operations](/handbook/engineering/quality/triage-operations/
 
 ### Test Automation Framework
 
-The GitLab test automation framework is distributed across three projects:
+The GitLab test automation framework is distributed across two projects:
 
 * [GitLab QA], the test orchestration tool.
-* The scenarios and spec files within the GitLab codebase under `/qa` in both GitLab [CE] and [EE].
-
-#### Architecture overview
-
-See the [GitLab QA Documentation](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs)
-and [current architecture overview](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs/architecture.md).
+* The scenarios and spec files within the GitLab codebase under `/qa` in [GitLab].
 
 #### Installation and execution
 
 * Install and set up the [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
 * Install and run [GitLab QA] to kick off test execution.
-  * The spec files (test cases) can be found in the [GitLab CE/EE codebase](https://gitlab.com/gitlab-org/gitlab-ce/tree/master/qa)
+  * The spec files (test cases) can be found in the [GitLab codebase](https://gitlab.com/gitlab-org/gitlab/tree/master/qa)
+
+#### Documentation and videos
+
+- [GitLab QA Documentation](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs)
+- [Architecture overview](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs/architecture.md)
+- [End-to-end testing at GitLab](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html)
+- [What tests can be run with GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
+- (Video) [GitLab Automated Test Suite Overview](https://youtu.be/r0ZicFxtfgI)
+- (Video) [Orchestrated end-to-end tests at GitLab - Part 1](https://youtu.be/wWC7r3l0u1Y)
+- (Video) [Orchestrated end-to-end tests at GitLab - Part 2](https://youtu.be/U8zCle_Up6I)
+- (Video) [How to use GitLab QA to test a self-managed GitLab instance](https://youtu.be/VpT6fF6kO_U)
+- (Video) [How to run an end-to-end test interactively (debugging)](https://youtu.be/SO2U8gpLSeM)
 
 ### Performance and Scalability
 
@@ -402,6 +409,5 @@ by GitLab customers to directly test their on-premise instances. More informatio
 [GitLab Insights]: https://gitlab.com/gitlab-org/gitlab-insights
 [GitLab Performance Tool]: https://gitlab.com/gitlab-org/quality/performance
 [GitLab Triage]: https://gitlab.com/gitlab-org/gitlab-triage
-[CE]: https://gitlab.com/gitlab-org/gitlab-ce
-[EE]: https://gitlab.com/gitlab-org/gitlab-ee
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
 [Reference Architectures]: https://docs.gitlab.com/ee/administration/reference_architectures/index.html
