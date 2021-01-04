@@ -176,9 +176,9 @@ Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gi
 
 ## CEO Performance Evaluation
 
-Every spring the Board does a CEO Evaluation, through which a number of areas for focus come up.
-The CoS is reponsible for a quarterly update to the board on the progress made  on those areas for focus.
-For example, if one area of focus is "set 3-year strategy", the CoS will review and refresh the strategy page, if appropriate, and share with the Board any updates made to the page.
+In Q1 of a new fiscal year, the Board does a CEO Evaluation. This Evaluation will flag specific areas for attention or improvement.
+The CoS is reponsible for an update every other quarter to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
+For example, if one area of focus is "set 3-year strategy", the CoS will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high level summary of relevant key activities.
 
 ## Fiscal Year Kickoff
 
