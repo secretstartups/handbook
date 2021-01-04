@@ -80,7 +80,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 ## Training
 
-1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/lm-training-videos)
+1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/customer-onboarding)
 1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
 1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
@@ -454,12 +454,20 @@ You are able to change the appearance of the following components of a content t
 
 The [Languages feature](https://nook.pathfactory.com/nook/s/article/getting-started-languages) gives you complete control over the text displayed to visitors on your promoters within content tracks and on website promoters. This feature also allows you to create language groups for languages other than English, and to customize the text that will be displayed for those languages.
 
+There is no native integration between [Smartling](/handbook/marketing/marketing-operations/smartling) and PathFactory. To create a new language configuration in PathFactory and submit the default English source text available in PathFactory's language configuration menu, you must create a CSV. You can only include/exclude columns for translation in CSV. [See the help center article](https://help.smartling.com/hc/en-us/articles/360008000593-CSV-Files) for more info on formatting CSV files to submit for translation.
+
+1. We currently have English, French, German, and Japanese configurations for `Appearances`.
+1. [Languages PathFactory currently supports](https://nook.pathfactory.com/s/article/using-languages)
+1. [Asset types (content types) support localization](https://nook.pathfactory.com/nook/s/article/2020-release-f)
+1. Explore Pages now have a dedicated tab within Language Settings where you can set localized text for the Featured Label, Search Button Title, Search Input Field Placeholder, Filter By Content Type Title, and Filter By Topic Title: https://nook.pathfactory.com/nook/s/article/2020-release-e
+1. You can see a list of the number of assets by language in the content library using the content tag filters.
+
 ### Create a New Language Config
 
 1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
 1. Click the `Add Language` button in the top right or in the left sidebar under the other language configurations.
 1. Select the language from the drop down menu.
-1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling/#pathfactory) to submit your CSV for translations. Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign). 
+1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling/#csv) to submit your CSV for translations. Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign). 
 
 ## PathFactory Tracking
 

@@ -10,7 +10,9 @@ description: "The MktgOps team is responsible for importing records into Marketo
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.    
+The MktgOps team is responsible for importing records into Marketo for both field events and prospecting. List imports are processed in **Marketo** which has native matching by `Email Address` functionality.
+
+#### [Video Explanation of list upload process](https://drive.google.com/file/d/1Q9KtQbitoBHszV46zslxcKVStA-V5avG/view?usp=sharing)
 
 **Field event list uploads are to be done *before* any kind of follow up or outreach is done so we can ensure proper order of operations & attribution is given correctly.**
 

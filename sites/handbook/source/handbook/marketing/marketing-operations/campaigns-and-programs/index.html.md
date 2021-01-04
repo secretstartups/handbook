@@ -429,7 +429,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
 
-- Keep in mind, sometimes the interesting moment happens in the `01 processing` campaign. If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing`
+- If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 
 ##### Step 5: Update the Salesforce campaign
 
@@ -558,6 +558,9 @@ Currently any form starting with these are actively being added into a program a
 - singleappci
 - iacgitops
 - vccusecase
+- simplifydevops
+- cicdcmp2
+
 
 ##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
 - Use format `YYYY_Social_Name_Linkedin Lead Gen`
@@ -572,6 +575,7 @@ Currently any form starting with these are actively being added into a program a
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
@@ -584,13 +588,15 @@ Currently any form starting with these are actively being added into a program a
 
 ##### Step 4: Go back into Marketo Template
 - Update local program tokens 
-- Update the smart list with `contains` and the prefix
-- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the Flow
-- Turn on 
+- Update the campaign smart list filter with `contains` and the prefix
+   - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [prefix]` 
+   - Available prefixes are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
+- Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
+- Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
 
 ##### Step 5: Update this Handbook page
-- Update this handbook page with the prefix you are now tracking to prevent duplication of programs in the future.
+- Update this [handbook page with the prefix](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) you are now tracking to prevent duplication of programs in the future.
 
 
 
