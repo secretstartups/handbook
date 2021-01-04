@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Access Request Issues
+description: Information about GitLab's Access Request (AR) issue automation process.
+---
+
 ## On this page
 {:.no_toc}
 
@@ -11,8 +17,18 @@ issue needs to created. To make sure our team members experience a good onboardi
 we automated this process by creating the AR Role based entitlement issue
 with the bot. This automation was enabled on 2020-04-01 (so on 2020-04-02 the pipeline ran the first time.)
 
-A scheduled pipeline is configured to fetch all the team members who started the day
-before. For all these members it will check if it is possible to create an Access Request
+Every day we run 3 scheduled pipelines. They are each set up for a specific region:
+- Americas at 10 AM UTC
+- EMEA at 4 AM UTC
+- JAPAC at 6 PM UTC
+
+For the JAPAC pipeline, it will fetch the team members with a start date for the current day (timezones).
+For the EMEA and Americas pipeline, it will fetch all the team members that have a start day equal
+to the previous day (so who started yesterday). The pipeline then filters out the ones for the region
+they need to send the email to. This all is to ensure we don't create the issue too late or too early.
+The region of the team member is determined from the region that is on their BambooHR profile.
+
+For all these members it will check if it is possible to create an Access Request
 issue. It will only work for the members with roles that have a set template in the
 [role baseline access requests tasks directory](https://gitlab.com/gitlab-com/team-member-epics/access-requests/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks).
 
