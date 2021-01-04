@@ -254,6 +254,12 @@ If you are interested in participating in the Chief of Staff Shadow program, ope
 |   |  |  |  |
 |   |  |  |  |
 
+### Important things to note
+1. This is not a performance evaluation
+1. Plan to observe and ask questions.
+1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
+1. Give feedback to and receive feedback from the Chief of Staff. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
+
 ## Resources on the CoS Role
 
 * [The Unrepentent Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
