@@ -52,7 +52,7 @@ Note that everyone's needs are different, so consider the following as a list of
   - Show them some helpful handbook pages to read during onboarding
   - Show them the GitLab architecture diagrams
   - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
-  - Remind them they can get reimbursed for any books or training, and show them the "spending company money" page. If it's expensive, talk to their manager first.
+  - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
   - Show them how to use [dev-resources](https://gitlab.com/gitlab-com/dev-resources) and [support-resources](https://gitlab.com/gitlab-com/support/support-resources)
   - Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
 
