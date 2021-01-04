@@ -10,11 +10,11 @@ title: "Technical Account Management Handbook"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Handbook directory
+## Handbook Directory
 
 [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
 
-### TAM responsibilities
+### TAM Responsibilities
 
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 - [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
@@ -26,7 +26,7 @@ title: "Technical Account Management Handbook"
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
-### Customer journey
+### Customer Journey
 
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
@@ -44,7 +44,7 @@ title: "Technical Account Management Handbook"
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Customer Health Assessment and Triage](/handbook/customer-success/tam/health-score-triage/)
 
-### TAM managers
+### TAM Managers
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
 - [TAM Manager QBR Template](https://docs.google.com/presentation/d/1P7Cao5xgILSSrpEGy7Sh09djilnbbIK91IuTs-Xq7mY/edit?usp=sharing) (Gitlab Internal)
