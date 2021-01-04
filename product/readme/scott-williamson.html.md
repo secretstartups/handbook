@@ -21,10 +21,3 @@ Tips for working & communicating with me:
 - I prefer to keep meetings between 8:30am and 5:30pm Mountain time. My early mornings are for workouts and my evenings are for family. I will make exceptions when necessary.
 - When I am on PTO, I typically do not check in on email or Slack and try to truly disconnect.  If something is urgent while I'm on PTO, please text or call me.
 
-Q3FY21 Priorities:
-
-1. Product metrics
-1. Tier pricing strategy
-1. Pricing and packaging projects
-1. FY22 planning
-1. Streamline Product Development Flow
