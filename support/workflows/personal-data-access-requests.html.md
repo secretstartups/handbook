@@ -1,11 +1,3 @@
----
-layout: handbook-page-toc
-title: Personal Data Access Requests
-category: GitLab.com
-subcategory: Legal
-description: "Support Engineering workflows for non-deletion requests relating to personal data"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -18,7 +10,7 @@ Use the appropriate workflow on this page when a user is requesting information 
 
 The request may look something like:
 
----
+- - -
 
 1. Please confirm to me whether or not my personal data is being processed. If it is, please provide me with the categories of personal data you have about me in your files and databases.
     - In particular, please tell me what you know about me in your information systems, whether or not contained in databases, and including e-mail, documents on your networks, or voice or other media that you may store.
@@ -30,7 +22,7 @@ The request may look something like:
 1. If you are making automated decisions about me, including profiling, whether or not on the basis of Article 22 of the GDPR, please provide me with information concerning the basis for the logic in making such automated decisions, and the significance and consequences of such processing.
 1. I would like to know whether or not my personal data has been disclosed inadvertently by your company in the past, or as a result of a security or privacy breach.
 
----
+- - -
 
 ## Workflows
 
@@ -54,9 +46,8 @@ When a request is received in this manner, do the following:
 1. Link the original issue in the **Related issue** field.
 1. Complete each step in the issue template that begins with `Support Engineer:`.
 
----
+- - -
 
 **Macros**
 
-* [General::Personal Data Access Request Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360043149613)
-
+- [General::Personal Data Access Request Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360043149613)
