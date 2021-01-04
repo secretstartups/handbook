@@ -102,7 +102,6 @@ We use the following [definition of done](https://www.agilealliance.org/glossar
 Every issue/epic must include this. If at the time of creation the criteria is not clear, or if the issue is being created by an external reporter from whom we don't expect that level of specificity, the definition of done should be included before starting work on the issue/epic. Make sure all the checkboxes are ticked before you call the issue/epic "done".
 
 ### Iteration planning: 
-### Iteration planning: 
 Our async fortnight planning process looks like this:
 1. Early **Tuesday**, every two weeks:
 	- We automatically create our Iteration Planning Issue [example](https://gitlab.com/gitlab-com/gl-infra/sre-datastores/datastores-team-activities/-/issues/4), and the conversation around  priorities and commitments for the next 2 weeks start.
@@ -118,7 +117,7 @@ Our async fortnight planning process looks like this:
 	- Our priorities and iteration plan for the next two weeks are decided: A detailed planning summary is captured in the Iteration Planning Issue description.
 	- If there are any issues left in the [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores) they have to be re-planned for future sprints, by assigning the right future Milestone to the issue.
 	- By Friday EOD the Iteration board will be pointed to the next Milestone.
-1. **Monday Morning**: A new 2-week sprint/iteration starts. The team will executed as planned in the Planning Issue.
+1. **Next Monday Morning**: A new 2-week sprint/iteration starts. The team will executed as planned in the Planning Issue.
 
 Every two Mondays the team has the "Datastores Team catch up (or iteration planning)" call, we where we can do sync iteration planning and refining - in addition to our Iteration Planning Issue async planning.
 
