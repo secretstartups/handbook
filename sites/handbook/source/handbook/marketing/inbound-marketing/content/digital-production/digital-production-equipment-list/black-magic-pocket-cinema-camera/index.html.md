@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Digital Production Equipment List: BLackmagic Pocket Cinema Camera"
-description: A guide for use of the Blackmagic Pocket Cinema Camera. 
+title: "Digital Production Equipment List: Equipment Use and Operation"
+description: A guide for use of the Digital Production Equipment. 
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
@@ -92,43 +92,66 @@ The wireless lav kit contains a transmitor and a reciever. The transmitor can by
 
  The following settings are best completed when the camera is placed where you intend to record and your subject is in frame, with any lighting or adjustments already in place. The settings can all be easily reached on the LCD Touch Screen. Revise these steps every time you move your camera or adjust your light. 
 
-### 1. Adjust Lens Zoom
+#### 1. Adjust Lens Zoom
 
 1. Rotate the middle of the lens to zoom in or out as you frame your subject. 
 
-### 2. Adjust Focus
+#### 2. Adjust Focus
 
 1. Using the LCD Touch Screen, touch the face of the subject to set the camera focus. 
 
-_Note: If the focus does not adjust, check that the auto focus switch, located on the lens, is set to ON. 
+_Note: If the focus does not adjust, check that the auto focus switch, located on the lens, is set to ON._ 
 
-### 3. Adjust Shutter Angle
+#### 3. Adjust Shutter Angle
 
 1. On the LCD Touch Screen, select **Shutter** near the top left of the screen. 
 1. Use the touch screen controls to select a shutter angle of **180**
 
 _Note: If your camera has been adjusted to display shutter speed instead, adjust the setting to **1/50**._
 
-### 4. Adjust F-stop
+#### 4. Adjust F-stop
 
  The f-stop adjusts how much light is allowed into the lens. 
 
 1. On the LCD Touch Screen, select **F-stop** near the top left of the screen. 
 1. Use the touch screen controls to select an f-stop of **4.0.**
 
-### 5. Adjust ISO
+#### 5. Adjust ISO
 
 1. With your camera in place and pointed at your subject, look at the Histogram at the bottom left of the LCD Screen. It looks like a horizontal bar with rolling white data. The left represents the darkest parts of your image and the right the brightest. 
 1. On the LCD Touch Screen, select **ISO** near the top right of the screen. 
 1. Adjust the **ISO** while referring to the Histogram. The contents of the histogram will shift right or left. Lower ISO values result in a better image, but require more light. 
 1. Continue to adjust the **ISO** until the Histogram shows a decreasing slope on both ends, avoiding a vertical drop off. 
 
-### 6. Adjust Audio Levels
+#### 6. Adjust Audio Levels
 
 1. Connect headphones to the camera using the port located on the left side of the camera, towards the top. 
 2. Using the LCD Touch Screen, select the audio meters on the lower right side. 
 3. Use the headphones to listen for any unwelcome noise in your audio. Common examples are clicking jewelry or watches against a desk or table, fans and vents, kitchen appliances turning on, or traffic. 
 3. While your subject is speaking confidently, adjust the levels until they very gently enter the yellow portion of the meter. This will record at an appropriate level, while allowing room for futher noise should your subject laugh or exclaim something loudly. 
+
+# Webcams
+
+The operation of webcams is plug and play. Connect the webcam to your computer via USB and use the clamp to position camera on your laptop or monitor. Logitech and Razr webcams include a thread that will allow you to attach it to a tripod, if necessary. 
+
+#### Recording Video with a Webcam
+
+The simplest way to record with your Webcam is with the QuickTime application. 
+
+1. Open the Finder
+1. Applications -> QuickTime Player
+1. File -> New Movie Recording
+1. A window will open showing your camera.
+1. Next to the record button, select the small arrow.
+1. Select your webcam.
+1. Select your desktop mic (if necessary)
+1. Set record quality to Maximum.
+1. When you've finished recording, the clip will open in QuickTime Player for your review.
+1. Select File -> Save to save the clip.
+
+# Audio
+
+If you are looking for the Rode Camera Microphone, or the lavalier microphone, please see the instructions for setting up the Blackmagic Pocket Cinema above. 
 
 ## Rode Desktop Microphone
 
@@ -143,6 +166,45 @@ The Rode Desktop microphone connects to your computer via the supplied USB cable
 1. To adjust the recording level, go to System Preferences -> Sound -> Input
      1. Select the microphone
      1. Adjust the input volume until you have eliminated excessive background noise. 
+
+# Lighting
+
+## Elgato Lights
+
+Elgato lights are packad with easy to follow directions on a cardboard sheet. Be careful you don't throw these out. 
+
+#### Setup Instructions
+
+1. Attach clamp to mounting pole. 
+1. Attach Elgato light to the other end. This can be done vertically or horizontally depending on what suits your workspace. 
+1. Connect Power Cable and plug it in. 
+1. Secure power cable using supplied fasteners to keep the cable tidy and prevent snags. 
+1. Download and install the Elgato Control Center application on your laptop or phone. 
+1. Power on your light and look for it to appear in your Wifi Options. 
+1. Connect to the light and use the Control Centre to input
+
+After setup, Elgato brand lights are controlled entirely via your computer or phone using the Elgato Control Center Software. 
+
+_Please note: On Macbooks, the Elgato Control Software appears only at the top right corner of the screen. This will occasionally make it appear as if attempting to open the control center via the applications menu did nothing. Click on the icon in the upper right corner to open the controls for the light._ 
+
+### External Resources
+
+Elgato has a guide to their desk lights [available here](https://help.elgato.com/hc/en-us/articles/360028244011-Key-Light-Quick-Start-Guide). 
+
+## GVM Lights
+
+#### Operation 
+
+GVM Panel lights should be operated in CCT mode only. In most cases, it will not be necessary to use any other features. 
+
+1. Unfold the light stand and place it where you desire your light to be. Secure by twisting the appropriate knob. 
+1. Place the light on top of the stand while it is in its lowest position and secure. 
+1. Power the light by pressing the power switch to the right. 
+1. Raise the light to desired hight and secure. 
+1. **Press the right knob** to cycle modes until the LED display shows **CCT** on the second line. 
+1. Use the left knob to adjust brightness.
+1. Use the right knob to adjust the colour temperature (CCT). A lower value represents warm light, such as candlelight. A higher value represents cool light, such as sunlight. In almost every case, the desired colour temperature is 5000k or higher because it will compliment the natural light from your windows. 
+1. Ensure that each GVM light displays an identical CCT value. 
 
 
 
