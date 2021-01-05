@@ -381,11 +381,11 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 
 **Timeline:**
 
-1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
-1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
-1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/product-analytics/-/issues/398) (bringing this down to +1 day instead).
+1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (up to 30 days)
+1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (up to 7 days)
+1. Usage Pings are collected in the Versions application. The Versions database is automatically imported into the Snowflake Data Warehouse every day (up to 1 day). 
 
-In total, plan for up to 51 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
+In total, plan for up to 38 day cycle times (30 days + 7 days + 1 day) for data to appear in our data warehouse. Cycle times are slow with monthly releases and weekly usage pings, so, implement your metrics early.
 
 **Instructions:**
 
