@@ -28,7 +28,7 @@ Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform 
 
 ### Growth ideation and prioritization
 
-Anyone is welcome to submit ideas to the [experiment idea backlog](https://gitlab.com/groups/gitlab-org/-/boards/2028884?&label_name[]=experiment%20idea&label_name[]=growth%20experiment) using the [experiment template](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+Anyone is welcome to submit ideas to the [experiment idea backlog](https://gitlab.com/groups/gitlab-org/-/boards/2028884?&label_name[]=experiment%20idea&label_name[]=growth%20experiment) using the [experiment template](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment).
 
 To prioritize, the growth groups will use the [ICE framework](https://blog.growthhackers.com/the-practical-advantage-of-the-ice-score-as-a-test-prioritization-framework-cdd5f0808d64), which consists of the following elements, scored on a scale of 1-10:
 
