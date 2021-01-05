@@ -111,7 +111,11 @@ SA's will be brought back into a customer account in the following situations
 
 ### Customer Workshops
 
+TAM-Created, Enablement Focus:
 * [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+
+SA-Created, Hands-On Focus:
+* [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
 
 ### Using Salesforce within Customer Success
 
