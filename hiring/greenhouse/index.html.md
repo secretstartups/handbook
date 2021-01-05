@@ -136,6 +136,10 @@ After you click on a requisition, you will be brought to the job dashboard for t
 
 If you want to review the candidates for multiple jobs at the same time, click `All Candidates` instead, and then use the filter on the left sidebar, `Jobs` > `Filter by Job` > select the appropriate jobs. You can use the filters to further narrow down candidates.
 
+### How do I review candidates in the Talent Community prospect pool?
+
+As a non-recruiting team member, you would need to be added as a `Pool Admin` in a specific prospect pool within Greenhouse. You can reach out to your recruiter or [create an issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to request access.
+
 ### Configuring notifications
 
 Notifications are configured as part of the [requisition creation process](/handbook/hiring/recruiting-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove yourself for that section.
