@@ -64,6 +64,22 @@ The work for the Ecosystem Backend team can be tracked on the following issue bo
 - [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
 - [Deliverable Board](https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem) - Tracks `~Deliverable` and `~Stretch` issues
 
+### Monitoring
+
+This is a collection of links for monitoring Ecosystem features.
+
+#### Grafana dashboards
+
+- [Worker queues](https://dashboards.gitlab.net/d/sidekiq-queue-detail/sidekiq-queue-detail?orgId=1&var-PROMETHEUS_DS=Global&var-environment=gprd&var-stage=main&var-queue=jira_connect:jira_connect_sync_branch): Switch queues with the `queue` dropdown.
+
+#### Sentry errors
+
+##### JiraConnect workers
+
+- [`JiraConnect::SyncMergeRequestWorker`](https://log.gprd.gitlab.net/goto/309f97d4a5c3e918e2c07754fefc94ee) errors.
+- [`JiraConnect::SyncBranchWorker`](https://log.gprd.gitlab.net/goto/96364e957898896c4dc7e9ee5534b6de) errors.
+- [`JiraConnect::SyncProjectWorker`](https://log.gprd.gitlab.net/goto/5f0e03847ddc1b074d6346199c8bc4d2) errors.
+
 ### Workflow labels
 
 <%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::ecosystem' }) %>
