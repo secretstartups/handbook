@@ -52,6 +52,6 @@ If you have have requested a license be provisoned to you from the L&D team, you
 
 ## Coordination with EdCast
 
-[add info here]
-[Integration Guide](https://docs.microsoft.com/en-us/linkedin/learning/lms-integrations/integration-docs/edcast)
-[Configuration Guide](https://business.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-Learning-EdCast-configuration-guide.pdf)
+### Set Up 
+
+Our integration and confiburation was set up in conjunction with our partners from both EdCast and LinkedIn Learning using the [Integration Guide](https://docs.microsoft.com/en-us/linkedin/learning/lms-integrations/integration-docs/edcast) and the [Configuration Guide](https://business.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-Learning-EdCast-configuration-guide.pdf). 
