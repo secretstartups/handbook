@@ -347,73 +347,8 @@ You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
 ### Support Stable Counterparts
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
-How do we align Support Team people to the product?
-- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role, and what vacancies there are.
-- Each section should have a Support manager counterpart.
-- Each group should have an individual contributor counterpart.
-- Currently (2019-11) to make it easier for product managers, each PM will get the same individual contributor counterpart for all the parts of the product they manage. That might mean a whole stage, multiple groups, or just a single group.
-
-Support Stable Counterparts, briefly, will:
-- Subscribe to the pertinent trackers / labels to be aware of new issues.
-- Be especially aware of severity::1/severity::2 issues in their areas of the product, including workarounds.
-- Surface issues likely to generate tickets to the wider team.
-- Attend product meetings in order to understand the priorities/challenges/upcoming features of the product group.
-- Be aware of the issues raised by customers pertinent to their category, surfacing and advocating for them.
-- Be a subject matter expert in the use of the features they cover.
-- Be the owner of any special processes or troubleshooting workflows that might pertain to the features in their group.
-
-Managers will:
-- Fill in for team members who are out.
-- Facilitate communication between Support and the assigned group.
-- Help triage and broadcast important issues in weekly communications with the larger support team.
-- Catalyze training materials and sessions.
-
-#### How to be a counterpart
-
-If you're interested in becoming a stable counterpart for a group, please create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
-
-There's a [video on google drive](https://drive.google.com/drive/u/0/search?q=parent:1-Cb1GVf5KfsehPDtCWjz6Q1u1b4xE37D) (internal link) with some discussion on how to perform the role.
-
-Tips:
-- Subscribe to issues at the [group level](https://gitlab.com/groups/gitlab-org/-/issues) to pick up all the projects that make up GitLab.
-- There are [labels for each section (devops::) and group (group::)](/handbook/product/categories/#hierarchy). Search for, say, [group::](https://gitlab.com/groups/gitlab-org/-/labels?&search=group%3A%3A) and each label is provided with a link to a view of issues, MRs and epics.
-- [Subscribe to labels](/blog/2016/04/13/feature-highlight-subscribe-to-label/) and [set up email notifications.](https://docs.gitlab.com/ee/user/profile/notifications.html)
-- For issues only (not MRs or Epics) RSS is also an option. From the issue search results, you can select the RSS feed button to get a custom RSS feed.
-- [Engineering team pages](/handbook/engineering/#engineering-departments-sections--teams) usually have information about their labels, slack channels, boards, and meetings under 'useful links' at the end.
-- Consider setting up a coffee chat with the product manager and engineering manager(s). Find out the best way to work with them and their teams.
-- Ask for invitations to their synchronous meetings.
-- Join the slack channels the teams use.
-- Keep an eye out for interesting tickets affecting the groups you are covering for.
-
-### Cross Functional Non-Product Counterparts
-
-Some functions don't fit as cleanly into the Support Stable Counterparts model.  As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups.
-
-If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`
-
-If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
-
-
-| Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
-|:----------:|:-------------------:|:-------------------:|:-------------------:|:--------------------------:|:---------------------------------:|
-| UX         | UX                  | Christie Lenneville | Lyle Kozloff        | Cynthia Ng                 | weekly team meeting |
-| UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng & Greg Myers    | weekly team meeting |
-| Production | .com Infrastructure | Dave Smith          | Lyle Kozloff        | Vlad Stoianovici           | every 2 weeks |
-| Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | TBD                        | N/A |
-| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | Brie Carranza              | N/A |
-| Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
-| Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
-| Finance    | Budget              | Chase Wright        | Tom Cooney          | N/A                        | 1x Qtr on budget + once per month |
-| Finance    | Accounts            | Cristine Tomago     | TDB                 | N/A                        | N/A |
-| PeopleOps  | Recruiting          | Cyndi Walsh         | Tom Cooney          | N/A                        | weekly |
-| PeopleOps  | After-hire care     | Jessica Mitchell    | Tom Cooney          | N/A                        | every 2 weeks |
-| Sales      | Sales               | TBD                 | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
-| Sales      | Customer Success    | Kristen Lawrence    | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
-| Sales      | Community Relations | David Planella      | Tom Atkins          | Greg Myers                 | weekly team meeting |
-| Meltano    | Meltano             | Danielle Morrill    | Jason Colyer        | TBD                        | N/A |
-
+If you are interested in becoming a Support Stable Counterpart, or would like to learn more about the initiative, read the page on [Support Stable Counterparts](handbook/support/support-stable-counterparts.html).
 
 ## Processes
 
