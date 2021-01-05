@@ -11,7 +11,7 @@ title: "LinkedIn Learning"
 
 ## Overview
 
-In January 2021, GitLab is implementing LinkedIn Learning. 
+In January 2021, GitLab is implementing LinkedIn Learning to provide our team members with more off the shelf learning resources. With a growing company, the needs for learning are growing as well and we are excited to provide this opportunity to our team members.  
 
 ## How to access LinkedIn Learning
 
