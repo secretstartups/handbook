@@ -93,7 +93,7 @@ In 2021, the following offsite dates have been confirmed (starting dates):
 * 2021-03-29
 * 2021-06-28
 * 2021-10-12
-* 2021-01-10
+* 2022-01-10
 
 ## Timeline
 
