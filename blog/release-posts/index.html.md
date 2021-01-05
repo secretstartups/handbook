@@ -207,8 +207,6 @@ Create a merge request with the introductory changes _after the previous post ha
 
    ![release post MR template](release-post-mr-template.png){:.shadow}
 
-**Important**: all the files related to the release process, including [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml), [`data/mvps.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/mvps.yml) and [`sites/marketing/source/includes/home/ten-oh-announcement.html.haml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/home/ten-oh-announcement.html.haml) must be committed in this MR.
-{:.alert .alert-info}
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Bug and for Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
