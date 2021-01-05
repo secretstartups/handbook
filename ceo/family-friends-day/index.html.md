@@ -29,7 +29,7 @@ We will look at scheduling future dates at the end of December 2020 pending the 
 1. A third Family and Friends Day was celebrated on `2020-08-14`.
 1. A fourth Family and Friends Day was celebrated on `2020-10-09`.
 1. A fifth Family and Friends Day was celebrated on `2020-11-25`. 
-
+A sixth Family and Friends day was celebrated on 2020-12-18
 
 ## FAQ about Family and Friends Day
 
