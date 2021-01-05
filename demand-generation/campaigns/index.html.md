@@ -26,15 +26,7 @@ twitter_creator: '@gitlab'
 ### MQL Targets
 {: #mql-targets}
 
-| Fiscal Quarter | Large | Mid-Market | SMB |
-| -------------- | ----- | ---------- | --- |
-| Q3FY21 | 4,708 | 4,500 | 26,893 |
-| Q4FY21 | TBD | TBD | TBD |
-| Q1FY22 | TBD | TBD | TBD |
-| Q2FY22 | TBD | TBD | TBD |
-
-Currently WIP to break down geo-specific MQL targets.
-_Targets are derived from [Approved Second Half FY21-22 Segment Marketing Plan](https://docs.google.com/presentation/d/1p4EmaoSb35d8ZnjKags1gUGF5T9afJW6RhBO8TR_VgA/edit#slide=id.p4) (GitLab internal team members may view this information)._
+To be determined
 
 ### Q3 OKRs
 {: #okrs}
@@ -63,10 +55,11 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
     - North America: Agnes Oetama
     - South America, APAC, Public Sector: Jenny Tiemann
     - EMEA: Eirini Pan
-- **Commercial + Email Marketing**
+- **Commercial (Mid-Market and SMB)**
     - Americas: Zac Badgley
     - EMEA/APAC: Indre Kryzeviciene
-    - Email Marketing DRI: Nout Boctor-Smith
+- **Email Marketing**
+    - Global & Lifecycle: Nout Boctor-Smith
 
 ### Meet the Team
 {: #meet-the-team}
