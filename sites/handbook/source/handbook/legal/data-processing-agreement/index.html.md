@@ -10,4 +10,4 @@ description: "This agreement ..."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
+## Purpose
