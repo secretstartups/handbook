@@ -16,7 +16,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 <details>
 
-<summary markdown="span">United States</summary>
+<summary markdown="span">GitLab, Inc.</summary>
 
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
@@ -75,8 +75,12 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Notice of E-Verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf) 
 * [Right to Work Poster](https://www.e-verify.gov/sites/default/files/everify/posters/IER_RighttoWorkPoster.pdf)
 
-### Fair Labor Standards Act (FLSA) Minimum Wage Poster
+### Employee Polygraph Protection Act
+* [EPPA Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf)
+
+### Fair Labor Standards Act (FLSA) Minimum Wage 
 * [Fair Labor Standards Act Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/minwagep.pdf)
+* [Section 14(c)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/disabc.pdf)
 
 ### Family and Medical Leave Act 
 * [Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
@@ -84,11 +88,14 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### OSHA Job Safety and Health
 * [Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
 
+### Service Contract Act
+* [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
+
 </details>
 
 <details>
 
-<summary markdown="span">Canada</summary>
+<summary markdown="span">GitLab Canada Corp.</summary>
 
 ### Ontario
 * [Occupational Health & Safety Poster](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
@@ -110,16 +117,20 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 <details>
 
-<summary markdown="span">Europe</summary>
-
-* [European Agency for Safety and Health at Work](https://osha.europa.eu/en)
+<summary markdown="span">GitLab BV</summary>
 
 ### Netherlands
 * [European Agency for Safety and Health at Work - Netherlands](https://osha.europa.eu/en/about-eu-osha/national-focal-points/netherlands)
 * [OSH - Netherlands](https://www.arboineuropa.nl/en/arbo-in-the-netherlands/)
 * [Health and Safety at Work - Netherlands](https://business.gov.nl/regulation/health-safety-work/)
 
-## Germany
+</details>
+
+<details>
+
+<summary markdown="span">GitLab GmbH</summary>
+
+* [European Agency for Safety and Health at Work](https://osha.europa.eu/en)
 * [Working Hours Act](https://www.gesetze-im-internet.de/arbzg/index.html) 
 
 </details>
