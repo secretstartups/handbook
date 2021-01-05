@@ -66,14 +66,14 @@ This process will ensure you are recording in the correct format. You will be se
 
 1. Connect the provided microphone mount to the top of the camera using the thread. 
 1. Slide the Rode Video Micro into the mount and secure.
-1. Connect the cable to the micrphone port located on the left side of the camera. 
+1. Connect the cable to the microphone port located on the left side of the camera. 
 
 #### Connecting a Lavalier Microphone
 
 The wireless lav kit contains a transmitor and a reciever. The transmitor can by identified by the mute switch located on the top.  
 
 1. Attach the mirophone to the transmittor and the three pronged XLR cable to the reciever. 
-1. Turn on both the micrphone and the transmittor by opening the front facing panel and holding the **ON/OFF button** until the screen turns on. 
+1. Turn on both the microphone and the transmittor by opening the front facing panel and holding the **ON/OFF button** until the screen turns on. 
 1. Connect Mini XLR cable to the left side of the BlackMagic Camera. 1. Connect the reciever XLR cable to the Blackmagic Camera XLR cable. Connecting in this manner will allow you to use both the Rode Mic and the Lavalier mic simultaneously. 
 1. Connect the transmittor to your person (belt, pocket, boot)
 1. Use the clip to place the microphone near the center of your chest, as clothing allows. You should be able to easily see it when you look down. 
@@ -85,7 +85,7 @@ The wireless lav kit contains a transmitor and a reciever. The transmitor can by
 1. Select AUDIO at the top of the LCD Touch Screen. 
 1. Use the LCD Touch Screen to adjust the channel sources. 
 1. For a lavalier microphone: set one channel to **XLR - Mic**
-1. For a 'shotgun' micrphone, set one channel to **3.5mm Mono - Mic**
+1. For a 'shotgun' microphone, set one channel to **3.5mm Mono - Mic**
 1. If you are only using one microphone, set the other channel to **Camera Mono** 
 
 ## Setting Your Image
@@ -130,6 +130,19 @@ _Note: If your camera has been adjusted to display shutter speed instead, adjust
 3. Use the headphones to listen for any unwelcome noise in your audio. Common examples are clicking jewelry or watches against a desk or table, fans and vents, kitchen appliances turning on, or traffic. 
 3. While your subject is speaking confidently, adjust the levels until they very gently enter the yellow portion of the meter. This will record at an appropriate level, while allowing room for futher noise should your subject laugh or exclaim something loudly. 
 
+## Rode Desktop Microphone
+
+The Rode Desktop microphone connects to your computer via the supplied USB cable. 
+
+#### Basic Operation.
+
+1. The microphone features a headphone connection to allow you to monitor your audio. The dials are for monitoring purposes only and will not affect the record. 
+1. The top dial adjusts the mix between your own voice and the computer audio. 
+1. The bottom dial adjusts the overall volume. 
+1. Place the microphone about six inches away from your face. It does not need to be directly in front of you.
+1. To adjust the recording level, go to System Preferences -> Sound -> Input
+     1. Select the microphone
+     1. Adjust the input volume until you have eliminated excessive background noise. 
 
 
 
