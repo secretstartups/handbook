@@ -42,6 +42,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - In the introductory chat, 
     - Get yourself added to their team sync - you can read the agenda doc if you're unable to join the sync call!
     - Join their Slack channel if not done already.
+- If the group you chose already has an SSC, schedule a coffee chat with them to learn more!
 
 ##### Be alert and engaged on what's happening with the group
 
@@ -110,6 +111,8 @@ If you're interested in becoming a stable counterpart for a group,
 - Open an issue with the [SSC Onboarding template](TO BE CREATED) in the Support Training project.
     - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
 - Once done, create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
+
+Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 
 ### Cross Functional Non-Product Counterparts
 
