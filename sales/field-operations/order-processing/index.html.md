@@ -200,7 +200,7 @@ The signatory Authorization Matrix can be found here: /handbook/finance/authoriz
 Once negotiations are completed, and the digital stamp has been affixed to the final version of the contract / Agreement: 
 1. Change the status of the contract, in SFDC, to 'Approved to Sign'; and 
 1. [stage the contract](https://faq.hellosign.com/hc/en-us/articles/205830938-How-do-I-request-a-signature-) in HelloSign for signatures; 
-1. Send to the Customer and cc' our CFO (Paul Machle).
+1. Send to the Customer and cc' our CFO (Brian Robins).
 
 </details>
 
