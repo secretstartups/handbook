@@ -74,7 +74,7 @@ A customer-distributable [Success Management data sheet](https://docs.google.com
 
 FAQ for customer engagements when customers are using OpenShift
 
-**Q: How will the customer use GitLab with OpenShift? 
+**Q: How will the customer use GitLab with OpenShift?**
 
 A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to physically run GitLab within OpenShift? Knowing the answer to this is key before continuing the conversation because GitLab currently deploys to and can run runners within OpenShift, but GitLab the application does not run in OpenShift just yet.
 
