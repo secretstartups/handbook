@@ -17,7 +17,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 #### Expected outcomes of the Support Stable Counterpart (SSC) Initiative
 
 - SSCs act as a bridge between the wider Support team and the Product groups to **share information both ways**.
-- SSC becomes the voice of the customer in product forums, and helps make/influence product decisions.
+- SSCs become the voice of the customer in product forums, and help make/influence product decisions.
 - SSCs are enabled to develop vertical subject matter expertise in certain product areas.
 - Product teams have a simple way to understand and explore various customer use-cases and gather feedback.
 
