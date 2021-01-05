@@ -27,13 +27,14 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 ### Workflow
 
-The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as
-[Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/).
+The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
 
 #### Experiments
 
-In addition to the above workflows, the Composition Analysis group can be involved in some [experiments](/handbook/engineering/development/secure/workflow/#ongoing-experiments)
-which might temporarily alter how we work.
+In addition to the above workflows, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work
+
+- [Replace sub-issue convention with Epics - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/129)
+- [Leverage issue's health status to report progress - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/130)
 
 ### Reaction rotation
 
