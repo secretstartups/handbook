@@ -57,7 +57,7 @@ Deal Desk with require a quote for rither Service option above.  How to create a
 
 ### Step 3: Create and add the SOW
 
-For standard SKUs, the service description document is generated directly from SFDC/zuora under the quotes section. Upload the signed version of this document when you receive it from the customer. 
+For standard SKUs, the Order Form is generated directly from SFDC via the quote object [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote). Upload the signed version of this document when you receive it from the customer. 
 
 For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity. 
 
