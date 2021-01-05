@@ -33,11 +33,30 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
+State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset.
 
-GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability to advise on implementing a private pension plan in the future.
+**Pension Plan Summary:**
+* Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
+pension and a partner's pension that pays benefits upon their death after their retirement via monthly contributions. 
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. 
+* Incapacity for Work: This is a waiver of premium for incapacity for work. If a team member becomes partially or fully incapacitated for
+work, this portion of the plan continues to pay part or all of the pension contributions for team members to keep building up their pension fund and remain covered for the elected benefits. 
+
+**Voluntary Pension Plan Summary:**
+* Extra Pension: Team members can make additional voluntary contributions to have extra funds to purchase a retirement pension and a partner's pension that pays benefits upon their death after retirement.
+* Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date.
+
+**Individual value transfer:**
+A team member can have the pension value accrued at a former employer transferred to Brand New Day. An individual value transfer must be requested from Brand New Day within six months of joining the scheme. Once this is complete, the years of service at any former employers count towards Death Benefits. 
+
+**Investment Profile:**
+Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by Brand New Day. Furthermore, you can choose to put all the contributions in a savings fund.
+
+**Waiver**: 
+If a team member does not want to participate in the GitLab BV (Netherlands) Pension Plan, they can submit a waiver to `total-rewards@gitlab.com` using the following [form](https://docs.google.com/document/d/1nCH4hfptHp3TTs9Y7YE1Y8oRrZ9-en9nWcb3VYp1RJY/edit?usp=sharing) to not take part in the pension scheme. In doing so, your partner will also need to sign this waiver agreement. If your partner changes, your new partner will also need to sign a new waiver. You _may not be able to enroll_ after filing for a waiver in the future due to the pension provider's policies.
 
 ## Life Insurance
+
 GitLab does not offer life insurance in the Netherlands at this time. Team members are automatically covered up to 70% of their last wage in case of disability by the governmental Employee Insurance Agency.
 
 ## 30% Tax Ruling
