@@ -272,7 +272,6 @@ The full company tech stack list with definitions can be found on the [Business 
 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
-1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
 1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details>
