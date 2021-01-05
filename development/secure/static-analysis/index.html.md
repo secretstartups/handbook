@@ -23,8 +23,7 @@ The Static Analysis group at GitLab is charged with developing solutions which p
 
 ## How We Work
 
-The Static Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/) as well as
-[Secure's interpretation of this workflow](/handbook/engineering/development/secure/workflow/). Where we differ in approach is that we assign engineers to 
+The Static Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/). Where we differ in approach is that we assign engineers to 
 epics rather than issues. Engineers are empowered to identify the next issue which should be worked to achieve the objectives of the epic and pull issues through the workflow states.
 
 Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's frontend team if UI changes are required. We will [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us) for initiatives like these.
