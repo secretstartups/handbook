@@ -42,7 +42,7 @@ The Growth Product Management Director should run a weekly growth meeting to rev
 
 5 min: Social questions
 
-5 min: Annoucements 
+5 min: Announcements 
 
 30 min: Group updates
 
