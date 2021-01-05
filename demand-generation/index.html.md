@@ -14,7 +14,7 @@ twitter_creator: "@gitlab"
 ---
 ### Demand Generation Key Metrics
 {: #key-metrics .gitlab-purple}
-- **North Star Metric:** Outbound MQLs
+- **North Star Metric:** MQLs
 - **Efficiency Metric:** Cost per MQL
 - **Business Impact Metric:** CWA/Spend (closed-won attribution)
 - **Supporting/Activity Metrics:** SAOs, Attributed Pipeline, Emails Sent
