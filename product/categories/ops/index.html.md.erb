@@ -4,6 +4,7 @@ title: "Ops Section"
 ---
 
 <% section_name = 'Ops Section' %>
+<% section_id = 'ops' %>
 <% section_groups = ['Verify:CI Group','Verify:Pipeline Authoring Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release:Progressive Delivery Group','Release:Release Management Group','Configure Group','Monitor:Health'] %>
 
 #### On this page
@@ -28,10 +29,12 @@ The following people work as part of the Ops Section but outside a specific prod
 ### Product Groups
 Here are the individuals who work as part of one of the Ops Section groups.
 
-<% section_groups.each do |sectionGroup| %>
-#### <%= sectionGroup %>
-  <%= product_group(group: sectionGroup) %>
-
+<% section = Gitlab::Homepage::Section.all!.find{|section| section.key == section_id} %>
+<% section.stage_list.each do |stage| %>
+   <% stage.group_list.each do |group| %>
+<%="#### #{group.name}" %>
+<%= partial('includes/product/group_table', locals: {group: group} ) %>
+   <% end %>
 <% end %>
 
 ## Section structure
@@ -54,7 +57,7 @@ The section is covered by groups from teams across two primary departments, Engi
    * You can ping all Ops Section Product Managers in an issue using the `@gl-ops-section-pms` group.
 
 ## Investment Allocation
-The [product groups](/company/team/structure/#product-groups) within the Ops Section are outlined in the [product categories page](/handbook/product/product-categories/#ops-section).
+The [product groups](/company/team/structure/#product-groups) within the Ops Section are outlined in the [product categories page](/handbook/product/categories/#ops-section).
 
 The product department determines our [investment](/handbook/product/investment/) within the section by allocating headcount for development team members to product groups. While doing so we adhere to the following principles:
 * All product groups will maintain at least a 1:1:1 ratio between three primary DRIs - Product Managers, Product Designers and Engineering Managers.
@@ -158,7 +161,7 @@ We'll consider this experiment a success if it encourages collaboration and unde
 1. Our [Testing Group recently became a combined team](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/68866)
 1. Jackie Porter was [promoted to Group Manager of Product, Verify](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues/2395)!
 
-### Recent PI Milestones Achieved
+### Recent PI Review Highlights
 A list of important milestones achieved as part of our Ops Section Product Performance indicators ([Handbook](/handbook/product/ops-section-performance-indicators/),[meeting notes](https://docs.google.com/document/d/1ff7V_SRdJDYWzfCMAFLGYWxrMHAlTds4No6ROQZP2jo/edit#heading=h.pwaexmql6cmc)).
 1. Great [insights from Monitor](https://docs.google.com/document/d/1ff7V_SRdJDYWzfCMAFLGYWxrMHAlTds4No6ROQZP2jo/edit#bookmark=id.js8h6uvabgh9) around confidentiality of incidents only available beceause of instrumented product usage data!
 1. [Feature Flag usage](https://docs.google.com/document/d/1ff7V_SRdJDYWzfCMAFLGYWxrMHAlTds4No6ROQZP2jo/edit#bookmark=id.40pblxxsph1a) in our Release group doubled (and we had numerous community contributions) after open-sourcing. 
@@ -172,6 +175,6 @@ A list of important milestones achieved as part of our Ops Section Product Perfo
 <%= partial("includes/product/highlights", :locals => { :stages => ['verify','package','release','configure','monitor'] }) %>
 
 ## References
-* [Product categories](/handbook/product/product-categories/#ops-section)
+* [Product categories](/handbook/product/categories/#ops-section)
 * [Direction](/direction/ops/)
 * [Maturity](/direction/maturity/)

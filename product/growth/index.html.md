@@ -12,14 +12,14 @@ title: How the growth section works
 
 ## Overview
 
-The [Growth stage](/handbook/product/product-categories/#growth-stage) is responsible for
+The [Growth stage](/handbook/product/categories/#growth-stage) is responsible for
 scaling GitLab's business value. To accomplish this, Growth analyzes the entire customer journey from acquisition of
 a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups
 help with this mission:
 
 - Activation, Conversion, Expansion, and Adoption connect users to the existing value that GitLab already delivers by
 rapid experimentation.
-- [Product Intelligence](https://about.gitlab.com/direction/product-analytics/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
+- [Product Intelligence](https://about.gitlab.com/direction/product-intelligence/) builds the backbone of data that other groups need to be successful, enabling a data-informed product
 culture at GitLab.
 
 Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/direction/growth/) we outline the Growth section's long term direction and near term focus areas.
@@ -130,7 +130,7 @@ on larger initiatives that need specialized knowledge or ongoing focus.
 It is the responsibility of other stages to maintain and expand core value in their respective product areas; it's
 Growth's mission to streamline delivery of that value to users. For example:
 
-- [Manage](/handbook/product/product-categories/#manage-stage) is responsible for user registration and
+- [Manage](/handbook/product/categories/#manage-stage) is responsible for user registration and
 management. This stage maintains a long-term vision on how users are created and maintained in GitLab, with a roadmap that
 includes other categories and priorities.
 - Growth may identify user registration as an opportunity to further the group's [priorities](#growth-ideation-and-prioritization). Growth's
