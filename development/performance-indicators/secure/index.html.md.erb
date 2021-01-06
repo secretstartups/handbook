@@ -28,6 +28,11 @@ These charts show metrics filtered for the [Secure sub-department](/handbook/eng
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/ux_dashboard.erb", locals: { filter_type: 'team_group', filter_value: ['composition analysis', 'static analysis', 'dynamic analysis', 'fuzz testing', 'vulnerability research'] } %>
 
+### Infrastructure indicators
+(<a href="https://app.periscopedata.com/app/gitlab/798401/Infrastructure-Embedded-Dashboard" target="_blank">Sisense↗</a>)
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/infrastructure_dashboard.erb", locals: { filter_type: 'team_group', filter_value: ['composition analysis', 'static analysis', 'dynamic analysis', 'fuzz testing', 'vulnerability research'] } %>
+
 <%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Composition Analysis" } %>
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Static Analysis" } %>
