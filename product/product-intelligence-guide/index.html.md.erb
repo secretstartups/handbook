@@ -139,7 +139,7 @@ We work closely with other internal teams in each step in the Product Intelligen
 | Processing Pipeline             | People Data Models                    | People specific ETL, models, and visualizations                                                                         | Data                    | People                                                                   |
 | Processing Pipeline             | Finance Data Models                   | Finance specific ETL, models, and visualizations                                                                        | Data                    | Finance                                                                  |
 | Processing Pipeline             | Enterprise Dimensional Models         | The single source of truth for GitLab data, spanning corporate performance and customer journey analytics.              | Data                    | Product Intelligence                                                        |
-| Enable Product                  | Data Triage                           | The triaging of inbound product analytics requests.                                                                     | Product Analysts        | Product Managers, Data                                                   |
+| Enable Product                  | Data Triage                           | The triaging of inbound Product Intelligence requests.                                                                     | Product Analysts        | Product Managers, Data                                                   |
 | Enable Product                  | Sisense Dashboards                    | Sisense dashboards for product managers.                                                                                | Product Managers        | Product Intelligence, Data                                                  |
 | Enable Product                  | Certified Sisense Dashboards          | Sisense dashboards containing the SSOT for product performance, supported by the Enterprise Dimensional Model.          | Product Analysts, Data  | Product Managers, Product Intelligence                                      |
 | Enable Product                  | Product KPI Dashboards                | Sisense dashboards containing established KPIs for Product.                                                             | Product Analysts        | Product Managers, Data                                                   |
@@ -345,7 +345,7 @@ Determine what metrics are important for your specific section, stage, or group.
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
 
 #### Deduplication of Aggregated Metrics
-Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-analytics/-/issues/421)
+Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-intelligence/-/issues/421)
 
 
 | Term | Definition | Example | 
@@ -373,7 +373,7 @@ Also see the [Product Intelligence Guide](https://docs.gitlab.com/ee/development
 **Instructions:**
 
 1. Read the docs and work with your engineers on instrumentation.
-1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#8-ask-for-a-product-analytics-review) in your MR.
+1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#8-ask-for-a-product-intelligence-review) in your MR.
 
 ### 3. Data Availability
 
@@ -383,7 +383,7 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 
 1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
 1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
-1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/product-analytics/-/issues/398) (bringing this down to +1 day instead).
+1. Usage Pings are collected in the Versions application. The Versions database is imported into the Snowflake Data Warehouse manually every two weeks (+14 days). Note that we’re working to [automate this to daily imports](https://gitlab.com/gitlab-org/product-intelligence/-/issues/398) (bringing this down to +1 day instead).
 
 In total, plan for up to 51 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
 
@@ -473,7 +473,7 @@ All of the prior steps have been completed and a PI is successfully implemented.
 | [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)  | A SSoT for all collected metrics and events       |
 | [Privacy Policy](/privacy/)      | Our privacy policy outlining what data we collect and how we handle it     |
 | [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)    | The workflow for putting product performance indicators in place   |
-| [Product Intelligence Direction](/direction/product-analytics/)   | The roadmap for Product Intelligence at GitLab                       |
-| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Intelligence groups   |
-| [Product Intelligence Direction](/direction/product-intelligence/)     | The roadmap for Product Analytics at GitLab                       |
-| [Product Analytics Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Analytics groups         |
+| [Product Intelligence Direction](/direction/product-intelligence/)   | The roadmap for Product Intelligence at GitLab                       |
+| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups   |
+| [Product Intelligence Direction](/direction/product-intelligence/)     | The roadmap for Product Intelligence at GitLab                       |
+| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups         |

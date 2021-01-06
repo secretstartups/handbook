@@ -65,8 +65,8 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Goals: Discuss anything Growth engineering related.
     1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20Engineering%20Weekly%22)
 1. Weekly Product Intelligence and Data Weekly Sync
-    1. Attendees: Product Analytics and Data
-    1. Goals: Stay in-sync for work across product analytics, data engineering, and data analysis.
+    1. Attendees: Product Intelligence and Data
+    1. Goals: Stay in-sync for work across Product Intelligence, Data Engineering, and Data Analysis.
     1. Agenda: [link](https://docs.google.com/document/d/1csx0ZLhRIu_JcG2mXsmB14RA9oQfTtfO-p0Dywi9w9I/edit?usp=sharing)
 1. Weekly Growth EM Staff Meeting
     1. Attendees: Growth EMs
@@ -77,8 +77,8 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
     1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
 1. Bi-weekly sync with Product Intelligence, Data, Customer Success, and Sales
-    1. Product Analytics, Data, Customer Success, and Sales
-    1. Goals: Stay in-sync for work across Product Analytics, Data, Customer Success, and Sales
+    1. Product Intelligence, Data, Customer Success, and Sales
+    1. Goals: Stay in-sync for work across Product Intelligence, Data, Customer Success, and Sales
     1. Agenda: [link](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit?usp=sharing)
 1. Monthly sync meeting with the Data team
     1. Attendees: Growth PMs and Data team
