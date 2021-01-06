@@ -70,6 +70,7 @@ The GitLab for Campuses enterprise offering is available at the following tiers:
 *Institution size is determined by the last published student enrollment (undergraduate and graduate) within one year of the contract closing.
 
 
+
 #### Definitions of Qualifying Education Institutions and Associated Entities
 
 **Qualified educational institution**: an institution that has been accredited by an authorized agency within its applicable local, state, provincial, federal, or national government and has the primary purpose of affording instruction and conferring degrees. Qualified educational institutions can be public or private and must be non-profit/non-commercial.
@@ -97,11 +98,14 @@ Individual institutions may be part of a larger state, regional, or national uni
 **Educationally Related Entities**: any entity that does not meet the qualifying criteria, such as code academies, massive open online course providers, bootcamps, and professional training centers, do not qualify for the GitLab for Campuses enterprise offering.  
 
 
+
 #### Medical Colleges
 In order to be eligible for the education enterprise pricing model medical colleges must meet the following criteria:
 
 * Be owned and operated directly by an accredited, degree-granting, non-profit, public or private, educational institution with the primary purpose of educating its enrolled students or
 * Be owned and operated directly by an [academic health science center](https://en.wikipedia.org/wiki/Academic_health_science_centre).
+
+
 
 #### Ineligible Entities
 
