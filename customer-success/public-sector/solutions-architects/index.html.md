@@ -76,7 +76,7 @@ FAQ for customer engagements when customers are using OpenShift
 
 **Q: How will the customer use GitLab with OpenShift?**
 
-A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to physically run GitLab within OpenShift? Knowing the answer to this is key before continuing the conversation because GitLab currently deploys to and can run runners within OpenShift, but GitLab the application does not run in OpenShift just yet.
+A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to run the GitLab application within OpenShift? Knowing the answer to this is key before continuing the conversation because GitLab currently can deploy to OpenShift and run runners within OpenShift, but the GitLab application does not run in OpenShift just yet.
 
 **Q: What is the planned release date for OpenShift integration?**
 
@@ -92,5 +92,5 @@ A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x 
 
 **Q: How can I (or my customer) track the integration status?**
 
-A: [See this GitLab epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
+A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
 
