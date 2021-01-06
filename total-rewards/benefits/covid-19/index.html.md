@@ -132,17 +132,13 @@ Instructions for downloading trial:
 1. Register for an account (you do not need to provide a GitLab email to access this service). 
 1. That's all you need to do to access the trial of Sanvello to July 15. 
 
-#### Sanvello Premium Accesss through UHC
-
-For more information on how to access Sanvello Premium if enrolled in a UHC medical plan (US team members only), please see the [UHC Premium Access](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#uhc-premium-access-to-sanvello) section of the US benefits page in the handbook. 
-
 ### Global Resources
 
 * Our [Employee Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program), Modern Health, is prepared to help with personalized coaching and therapy. They have a library of resources to help manage stress, cope with anxiety, and improve your mental well-being.
 
 ### United States
 
-* Our medical plans through UHC and Kaiser both have a variety of resources to help their members:
+* Our medical plans through Cigna and Kaiser both have a variety of resources to help their members:
    * Kaiser:
      * For [video visits](https://healthy.kaiserpermanente.org/), please sign into your account.
      * 24/7 Advice Line: 866-454-8855
@@ -154,25 +150,19 @@ For more information on how to access Sanvello Premium if enrolled in a UHC medi
        * $0 out-of-pocket costs for COVID-19 screening or testing if referred by a Kaiser Permanente doctor.
        * If you test positive with COVID-19, out-of-pocket treatment costs will be waived through May 31, 2020.
      * For additional information: [Kaiser Coronavirus Resource Center](https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information).
-   * UHC:
-     * For [telehealth](https://www.myuhc.com/member/jsp/preMain.jsp), please sign into your account.
-     * Mail order prescription delivery is available through Optum Home Delivers. Sign up through the UHC online portal.
+   * Cigna:
+     * For [telehealth](https://my.cigna.com/web/public/guest), please sign into your account,navigate to "Find Care & Costs", and scroll down to the bottom of the page.
+     * Mail order prescription delivery is available and can be signed up for through the myCigna portal.
        * Receive up to a 90-day supply of covered maintenance drugs (prescribed to treat chronic or long-term medical conditions, such as asthma, diabetes, high blood pressure).
-     * [Treatment Costs](https://www.uhc.com/health-and-wellness/health-topics/covid-19).
-       * $0 out-of-pocket costs (copay, coinsurance, deductibles) for COVID-19 testing and telehealth services, doctors visits for screenings, ER or hospital visits for screenings, and urgent care for screenings.
-         * UHC has waived costs for COVID-19 testing and use of telehealth services through June 18, 2020.
-         * UHC will also cover FDA-authorized COVID-19 antibody tests ordered by a physician or appropriately licensed health care professional without cost sharing (copayment, co-insurance, or deductible).
-         * Waiving of COVID-19 testing and telehealth costs *includes* the HSA-eligible plan--even before you meet your deductible (essentially, it’s being treated as preventive care), per [IRS Notice 2020-15](https://www.irs.gov/newsroom/irs-high-deductible-health-plans-can-cover-coronavirus-costs). 
-         * For more information on testing as it relates to your UHC coverage, please reference their [FAQ](https://www.uhc.com/content/dam/uhcdotcom/en/B2B-Newsletters/b2b-pdf/covid-19/faqs-testing.pdf).
-       * If you test positive for COVID-19, your care will be covered and your standard plan benefits will kick-in. You will be responsible for any out-of-pocket costs related to your treatment.
-     * For additional information: [UHC Coronavirus Resource Center](https://www.uhc.com/health-and-wellness/health-topics/covid-19).
+     * $0 out-of-pocket costs (copay, coinsurance, deductibles) for COVID-19 testing and telehealth services, doctors visits for screenings, ER or hospital visits for screenings, urgent care for screenings, and vaccination.
+         * Waiving of COVID-19 costs *includes* the HSA-eligible plan--even before you meet your deductible (essentially, it’s being treated as preventive care), per [IRS Notice 2020-15](https://www.irs.gov/newsroom/irs-high-deductible-health-plans-can-cover-coronavirus-costs). 
 * FirstMark and Ro are offering [free COVID-19 telehealth assessments](https://covid.ro.co/firstmark/).
 * Emergency Dental Care - Cigna
    * Many dental offices are limiting appointments for emergency needs only or have closed due to state and local mandates. In the event of a dental emergency (severe pain, acute infection, swelling, and/or persistent bleeding), here’s how to get help:
      * First, contact your dentist to determine their care options.
      * If the dental office is closed, Cigna can help you find care. Call 1-800-244-6224 or go to [my.cigna.com](https://my.cigna.com/).
      * View additional details from [Cigna](http://images.connecting.cigna.com/Web/CIGNACorporation/%7B639647dd-3a01-4125-b82d-c7ab21d09604%7D_Receiving_Emergency_Dental_Care_-_FOR_PDF.PDF).
-* All US Team Members are automatically enrolled in [UHC's Employee Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#employee-assistance-program) by being enrolled in the Life/Disability insurance. This program offers help for difficult times including counseling services.
+* All US Team Members are automatically enrolled in [Cigna's Employee Assistance Program](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#employee-assistance-program) by being enrolled in the Life/Disability insurance. This program offers help for difficult times including counseling services.
 
 ### United Kingdom
 

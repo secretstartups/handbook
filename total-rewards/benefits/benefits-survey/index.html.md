@@ -992,7 +992,7 @@ This section serves to highlight benefits that we have previously researched, bu
 
 We researched and selected four vendors to receive more information. Demo calls were conducted with three of these vendors where we learned more about the solutions and pricing. After reviewing the [results of the benefits survey](#global-benefits-survey), there wasn’t enough interest in a telehealth solution to justify the price so we decided to not move forward with any of the vendors at this time.
 
-While we aren't offering a global telehealth solution at this time, team members based in the US who are enrolled in our [UHC](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#uhc-telehealth) or [Kaiser](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#kaiser-telehealth) medical plans can access telehealth services through these plans. Other team members may have options for telehealth available to them through their provider.
+While we aren't offering a global telehealth solution at this time, team members based in the US who are enrolled in our [Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-telehealth) or [Kaiser](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#kaiser-telehealth) medical plans can access telehealth services through these plans. Other team members may have options for telehealth available to them through their provider.
 
 Further information and corresponding discussion are available under [Compensation Issue #15](https://gitlab.com/gitlab-com/people-ops/Compensation/issues/15) (internal).
 
