@@ -1,7 +1,7 @@
----
+x---
 layout: handbook-page-toc
-title: Product Analytics Groups
-description: "The Product Analytics groups work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
+title: Product Intelligence Groups
+description: "The Product Intelligence groups work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
 ---
 
 ## On this page
@@ -12,9 +12,9 @@ description: "The Product Analytics groups work on feature enhancements and impl
 
 ## Vision
 
-The Product Analytics Groups are part of the [Growth section](/handbook/engineering/development/growth/).
+The Product Intelligence Groups are part of the [Growth section](/handbook/engineering/development/growth/).
 
-Product Analytics Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
+Product Intelligence Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -25,13 +25,13 @@ How we work:
 - Everyone can contribute to our work.
 
 **I have a question. Who do I ask?**
-Questions should start by @ mentioning the product manager for the [Product Analytics Group](/handbook/product/categories/#product-analytics-group) or by creating an issue in our [workflow board](/handbook/engineering/development/growth/product-analytics/#workflow-boards).
+Questions should start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [workflow board](/handbook/engineering/development/growth/product-intelligence/#workflow-boards).
 
 ## Team members
 
-The following people are permanent members of the Product Analytics Groups:
+The following people are permanent members of the Product Intelligence Groups:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Product Analytics') %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Product Intelligence') %>
 
 ## Project management process
 
@@ -74,7 +74,7 @@ There are three groups we use:
 
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
-| [Product Analytics Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Analytics Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
+| [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20analytics) |
 
 ### Product and engineering initiatives
 
@@ -197,7 +197,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 
 **Required labels**
 - [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
-- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product analytics`
+- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product intelligence`
 - [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::In dev`, etc.
 
 **Optional labels**
@@ -212,7 +212,7 @@ MR labels can mirror issue labels (which is automatically done when created from
 
 **Required labels**
 - [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
-- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product analytics`
+- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product intelligence`
 - [Throughput:](/handbook/engineering/management/throughput/#implementation) `~security`, `~bug`, `~feature`, `~backstage`
 
 ### Milestones
@@ -237,7 +237,7 @@ A common misconception of iteration is that there is no waste. Using the example
 
 Groups hold synchronus meetings at least once a week to gain additional clarity and alignment on our async discussions.
 
-* The Product Analytics Group meets on Mondays 03:00pm UTC and Wednesdays 03:00pm UTC
+* The Product Intelligence Group meets on Mondays 03:00pm UTC and Wednesdays 03:00pm UTC
 
 **Meeting agenda**
 
@@ -270,20 +270,20 @@ Three questions are asked at each standup:
 
 One of our main engineering metrics is [throughput](/handbook/engineering/management/throughput/) which is the total number of MRs that are completed and in production in a given period of time. We use throughput to encourage small MRs and to practice our values of [iteration](/handbook/values/#iteration), although we do not necessarily equate one MR to one complete iteration. We recognize that just as [an issue may be broken down into multiple merge requests](#ratio-of-issues-to-mrs), so can iteration of a feature be spread across several MRs, especially with the use of [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html#feature-flags-in-gitlab-development). Read more about [why we adopted this throughput model](/handbook/engineering/management/throughput/#why-we-adopted-this-model).
 
-We aim for the current [development department MR rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559676/Growth:Product-Analytics-Development-Metrics).
+We aim for the current [development department MR rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559676/Growth:Product-Intelligence-Development-Metrics).
 
 ## Quick Links
 
 | Resource                                                                                                                          | Description                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Product Analytics Guide](/handbook/product/product-intelligence-guide)                                                                              | A guide to Product Analytics                   |
+| [Product Intelligence Guide](/handbook/product/product-intelligence-guide)                                                                              | A guide to Product Intelligence                   |
 | [Usage Ping Guide](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html)                                              | An implementation guide for Usage Ping                    |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/product_analytics/snowplow.html)                                                  | An implementation guide for Snowplow                      |
 | [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
 | [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
 | [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)                                   | The workflow for putting product performance indicators in place   |
-| [Product Analytics Direction](/direction/product-intelligence/)                                                                              | The roadmap for Product Analytics at GitLab                       |
-| [Product Analytics Development Process](/handbook/engineering/development/growth/product-analytics/) | The development process for the Product Analytics groups         |
+| [Product Intelligence Direction](/direction/product-intelligence/)                                                                              | The roadmap for Product Intelligence at GitLab                       |
+| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups         |
 | [Growth Product Direction](/direction/growth/)                                                                                    | The roadmap for Growth at GitLab                          |
 | [Growth Product Handbook](/handbook/product/growth/)                                                                              | The product process for the Growth sub-department         |
 | [Growth Sub-Department Development Process](/handbook/engineering/development/growth/).                                              | The development process for the Growth sub-department     |
