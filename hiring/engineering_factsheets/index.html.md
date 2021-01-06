@@ -291,7 +291,7 @@ Bartek Marnane (Director of Engineering, Growth)
 **Links to relevant Handbook pages:**
 [Product categories page](/handbook/product/categories/#growth-section)
 [Growth Team page](/handbook/engineering/development/growth/)
-[Growth Product Analytics](/handbook/engineering/development/growth/product-analytics/)
+[Growth Product Analytics](/handbook/engineering/development/growth/product-intelligence/)
 [Fullstack Engineer job posting](https://boards.greenhouse.io/gitlab/jobs/4247953002)
 [Fullstack Engineer job family](/job-families/engineering/fullstack-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
@@ -322,10 +322,10 @@ Craig Gomes	(Engineering Manager, Memory)
 Jerome Ng (Engineering Manager, Growth:Conversion and Product Analytics)
 Bartek Marnane (Director of Engineering, Growth)
 [Product Vision page](/direction/product-intelligence/)
-**How the team works** The overall vision for the Product Analytics group is to ensure that we have a robust, consistent and modern product analytics data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
+**How the team works** The overall vision for the Product Intelligence group is to ensure that we have a robust, consistent and modern product analytics data framework in place to best serve our internal Product, Sales, and Customer Success teams. The group also maintains the Version Check application as described above and also ensures that GitLab's Product team have the right analysis tool in place that allows the best possible insights into the data provided through the Collection tools.
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/categories/#ops-section)
-[Product Analytics Team Page](/handbook/engineering/development/growth/conversion-product-analytics)
+[Product Intelligence Team Page](/handbook/engineering/development/growth/product-intelligence)
 [Backend Engineer job family](/job-families/engineering/backend-engineer/)
 [Engineering Workflow](/handbook/engineering/workflow/)
 [Backend Engineer job posting](/jobs/apply/backend-engineer-x-30-4055697002/)
