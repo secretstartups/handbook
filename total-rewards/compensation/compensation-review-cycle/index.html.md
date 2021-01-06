@@ -373,7 +373,7 @@ E.g. The minimum increase to stay in range is 0% and the performance range is 3-
   * No it’s above: We recommend a total increase which is aligned with the minimum recommended increase of Total Rewards.
 E.g. The minimum increase to stay in range is 15% and the performance range is 3-7%. The PBP/Total Rewards team would recommend a 15% total increase.
 1. Use placement within the compensation range and previous increases/start date to finalize the increase.
-1. Important note: Any increase above 10% must come with additional justification and approval by Department Head before January 15th. This should happen in the notes section of Compaas.
+1. **Important note:** Any increase above 10% or out of band exceptions due to contract factor updates must come with additional justification entered into the notes section for planning to be complete. These justifications will be reviewed and approved by the department leader, division leader and compensation group. 
 1. Also: Anyone on a formal Performance plan (PEP, PIP) will be excluded from the review. This must be communicated to Total Rewards and PBP by December 15th.
 
 ##### Examples
