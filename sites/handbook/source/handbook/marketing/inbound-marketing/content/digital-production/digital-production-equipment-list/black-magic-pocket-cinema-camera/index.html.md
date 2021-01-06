@@ -206,5 +206,3 @@ GVM Panel lights should be operated in CCT mode only. In most cases, it will not
 1. Use the right knob to adjust the colour temperature (CCT). A lower value represents warm light, such as candlelight. A higher value represents cool light, such as sunlight. In almost every case, the desired colour temperature is 5000k or higher because it will compliment the natural light from your windows. 
 1. Ensure that each GVM light displays an identical CCT value. 
 
-
-
