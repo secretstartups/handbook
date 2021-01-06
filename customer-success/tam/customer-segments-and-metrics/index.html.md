@@ -23,12 +23,12 @@ Completed EBRs in minimum 75% of PR 1 accounts.  These strategic touchpoints ens
 
 #### Enable
 
-The primary objective in enabling our customers is to get to value quickly, and to ensure that any roadblocks to adoption are removed for our customers.  These roadblocks can best be seen in our Time to 1st Value metric, whereby customers are delayed in inviting users into their instance if stuck on setup and rollout issues.  As product analytics become available within Gainsight, these metrics will mature into being initial onboarding and stage maturity.
+The primary objective in enabling our customers is to get to value quickly, and to ensure that any roadblocks to adoption are removed for our customers.  These roadblocks can best be seen in our Time to 1st Value metric, whereby customers are delayed in inviting users into their instance if stuck on setup and rollout issues.  As analytics become available within Gainsight, these metrics will mature into being initial onboarding and stage maturity.
 
 1. Metric: [Time to first engage](/handbook/customer-success/tam/onboarding/#time-to-engage) (14 days, moving to 10 days in FY22): Requires a smooth transition from pre to post sales, ensuring that the TAM is set up to quickly move the customer from pre-sales POV state to post-sales full instance established
 1. Metric: [Time to 1st Value](/handbook/customer-success/tam/onboarding/#time-to-first-value) (30 days) Indicates challenges in the account if not met in regard to initial roll-out; speaks to the success of the TAM in ensuring initial adoption roadblocks are removed
 1. Metric: [Time to Onboard](/handbook/customer-success/tam/onboarding/#time-to-onboard) (45 days) Indicates when a customer is enablement-ready, and prepared to move to a more consistent cadence of check-ins as the customer continues to roll out their build.  This metric also speaks to the efficacy of the TAM engagement in the early weeks
-1. FY22 Metric: Use Case/Stage Adoption Maturity Score: As we begin to have product analytics, we can score the platform adoption per use cases against our best practice benchmarks for mature product adoption, and more proactively address areas for improvement.  This today is done through cadence calls and qualitative conversations in the absence of analytics.
+1. FY22 Metric: Use Case/Stage Adoption Maturity Score: As we begin to have analytics, we can score the platform adoption per use cases against our best practice benchmarks for mature product adoption, and more proactively address areas for improvement.  This today is done through cadence calls and qualitative conversations in the absence of analytics.
 
 #### Expand
 

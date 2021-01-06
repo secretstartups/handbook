@@ -51,7 +51,7 @@ The table includes free/community and paid tiers associated with GitLab's self-m
 
 ### Reporting and Metrics
 
-- Link to product analytics metrics
+- Link to analytics metrics
 
 ### Learning Resources 
 
