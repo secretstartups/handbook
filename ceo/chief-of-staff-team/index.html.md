@@ -215,10 +215,10 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 * December
 
 **E-group Offsites**
-* February
-* May
-* August
-* November
+* January
+* April
+* July
+* October
 
 ## Daily Standup
 
