@@ -73,6 +73,7 @@ All team members hired on or before October 31st will be eligible to be evaluate
 ##### December:
 1. Once all performance factors have been reviewed and approved the executive leaders of each group will review the breakdown with the Total Rewards team along with the People Business Partner for their group.
      * In this breakdown, leaders will be able to analyze all individual performance factors, the distribution of performance factors overall and by department, as well as an [underrepresented group audit](/handbook/total-rewards/compensation/compensation-review-cycle/#underrepresented-group-audit). Total Rewards will outline any concerns based on the aggregated data for the leader and people business partner to review.
+1. The Total Rewards Team will schedule a sync with the Recruiting team to review proposed iterations.     
 1. Using the revised inputs above, the Total Rewards team will calculate a minimum market increase for each team member to stay at the minimum of the FY22 range using the exchange rate as of 2020-12-01.
 1. Anyone on a formal Performance plan (PEP, PIP) that is ongoing through December 15 will be excluded from the Annual Compensation review. December 15th is the due date for emailing Total Rewards with PBP in CC about team members on a formal performance plan.
 1. Anyone who is departing from GitLab, with an end date in until February 1, will be excluded from the Annual review cycle. The People Business Partner will make sure to loop in Total Rewards on any terminations.
