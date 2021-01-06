@@ -86,8 +86,7 @@ All team members hired on or before October 31st will be eligible to be evaluate
 1. The People Business Partner team would advise managers to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before Submitting.
   * Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
 1. January 14th: People Business Partner check on the progress/Budget impact.
-1. January 15th: Due date for justification approval for increases above 10% up to department head level via notes in Compaas.
-1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates.
+1. January 20th: Aim to have all Managers/Senior Managers/Directors reviewed their slates. Justifications must be included in the notes section for all increases exceptions (for example: any above 10%, out of band exceptions due to contract factor updates, etc.) for slates to be complete. These justifications will be reviewed and approved by Department and Division leaders. 
 1. January 20 - January 22nd: Department Heads/People Business Partners review budget impact and deficiencies, before moving to E-Group.
 1. January 22nd - January 27th: For E-Group to review and approve final compensation changes.
 1. January 27th - February 1st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
