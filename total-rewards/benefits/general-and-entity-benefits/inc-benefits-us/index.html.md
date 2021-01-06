@@ -14,15 +14,15 @@ title: "GitLab Inc (US) Benefits"
 ## Specific to US based team members
 {: #us-specific-benefits}
 
-US based benefits are arranged through [Lumity](https://lumity.com/). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  
+US based benefits are arranged through [Lumity](https://lumity.helloflock.com/login). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  
 
 **The 2020 Open Enrollment will begin October 19, 2020 and will end on October 30, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._** Please review the information added on the plans for 2021 below and the [digital benefits guide](https://guides.lumity.com/f8wiCGbj/GitLab) is also available to review. 
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
 
-If you have any questions regarding benefits please reach out to Total Rewards directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com`.
+If you have any questions regarding benefits please reach out to Total Rewards directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com` or `1-844-258-6489`.
 
-Carrier ID cards are normally received within weeks of submitting your benefit elections. If you or your medical providers are in need of immediate confirmation of your coverage, please contact the carrier directly. ID cards are also available within the [Lumity](https://www.lumity.com/) platform or through the Lumity mobile app: [IOS](https://apps.apple.com/us/app/lumity-employee-benefits/id1460901256) or [Android](https://play.google.com/store/apps/details?id=com.lumity.mobile).
+Carrier ID cards are normally received within weeks of submitting your benefit elections. If you or your medical providers are in need of immediate confirmation of your coverage, please contact the carrier directly. ID cards are also available within the Lumity mobile app: [IOS](https://apps.apple.com/us/app/lumity-employee-benefits/id1460901256) or [Android](https://play.google.com/store/apps/details?id=com.lumity.mobile) or available to be printed through the carrier website, [myCigna](https://my.cigna.com/web/public/guest), for Cigna participants..
 
 If you have existing coverage when joining GitLab (e.g. coverage for an additional month from your prior employer), you have the option of enrolling in GitLab's coverage after your prior coverage terminates. If you wish to do this, you should register with Lumity during onboarding and waive all coverages. Once your previous coverage is terminated, you should sign up for coverage through Lumity on or within 30 days of the termination date by initiating a Qualifying Life Event and providing proof of coverage termination.
 
@@ -32,7 +32,7 @@ More information on the processed deductions in payroll from Lumity can be found
 
 ## Group Medical Coverage
 
-GitLab offers plans from United Health Care for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2020-01-01 to 2020-12-31.
+GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2021-01-01 to 2021-12-31.
 
 For additional information on how [Benefits](https://drive.google.com/file/d/0B4eFM43gu7VPVS1aOFdRdXRSVzZ5Z3B0dEVKUXJIWm1zZXRj/view?usp=sharing) or [HSAs](https://drive.google.com/file/d/0B4eFM43gu7VPbUo1VFNFVFlQNlUyV0xQZkE0YXQyZENSNU1j/view?usp=sharing) operate, please check out the documentation on the Google Drive or Lumity's [resources](https://employee-resources.lumity.com/help).
 
@@ -48,7 +48,7 @@ Due to IRS guidelines, you cannot make changes to your health insurance benefits
 
 A QLE is a change in your situation — like getting married, having a baby, etc that can make you eligible for a special enrollment period. You have ***30 days from the date of your qualifying event*** to submit your requested change to Lumity. You will be asked to include supporting documents (see [Required Documents](https://employee-resources.lumity.com/help/qualifying-life-event)), and list the date the change occurred.
 
-You can start the process by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/). Lumity support can be contacted directly with any questions.
+You can start the process by logging into [Lumity](https://lumity.helloflock.com/login), selecting Benefits from the panel on the left, and selecting Update Benefits in the upper right. Lumity support can be contacted directly with any questions.
 
 ### Eligibility
 
@@ -58,91 +58,6 @@ Any active, regular, full-time team member working a minimum of 30 hours per wee
   * Any dependent child who reaches the limiting age and is incapable of self-support because of a mental or physical disability
 
 Note: If you and an eligible dependent (as defined above) are both employed by GitLab, you may only be covered by GitLab’s coverage once. This also applies to enrolling in either your own supplemental life insurance or supplemental spouse/dependent life insurance through your dependent who is employed by GitLab, but not both.
-
-### United Health Care Medical Plans (2020)
-
-To determine your specific plan name, log in to the Lumity system and click "My Benefits" - View Button > Plan Name (e.g. GitLab UHC HSA 2000 + Infertility). The benefits summary that comes up has the network name IN the plan name (for example: Select Plus PPO HDHP / California  - Select Plus / HSA - Plan AXEX).
-
-When reviewing the UHC [Find a Doctor site](https://www.uhc.com/find-a-physician), you will get to the Network selection page and select the appropriate network - Select Plus or Select, based on plan enrollment.
-
-
-#### UHC 2020 Calendar Year Plans
-
-**Coverages:**
-
-In Network:
-
-| Plan Details               | [UHC - HSA](https://drive.google.com/open?id=1w0RTAyvhhhLxg6lZC-HuCNum2PVsOC-l)              | [UHC - EPO**](https://drive.google.com/open?id=1d3fFvtnEMIocCprS0e_jFOrf5JmMAW7z)        | [UHC - PPO](https://drive.google.com/open?id=1t7qhKfZzQWQtT1G8MJY733bQHTVyMHtA)         |
-|:---------------------------|:----------------------:|:------------------:|:-----------------:|
-| Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
-| OOP Max (Single/Family)    | $4,000 / $4,000        | $2,500 / $5,000    | $3,000 / $6,000   |
-| Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
-| Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
-| Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
-| Emergency Room             | 20%                    | $100 per visit     | $100 per visit    |
-| Hospital Inpatient         | 20%                    | $250 per admission | 10%               |
-| Hospital Outpatient        | 20%                    | 0%                 | 10%               |
-| Generic                    | $10                    | $10                | $10               |
-| Brand - Preferred          | $30                    | $30                | $30               |
-| Brand - Non-Preferred      | $50                    | $50                | $50               |
-| Specialty Drugs            | $50                    | 20% up to $250     | 20% up to $250    |
-| Rx Plan                    | [C2-HSA***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)                 | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)    | [Rx Plan: 464***](https://drive.google.com/file/d/1f9exxBPTlrEy0ZTMXC8-r6WP40_tCIHX/view?usp=sharing)      |
-
-** At this time, coverage by the EPO is not available in all states. Where an EPO is not available, an additional PPO plan that is an in-network copayment is available for selection.
-
-*** Due to COVID-19, the following changes have been made to the linked Prescription Drug List:
- * The effective date of the exclusion of these medications is being extended from 5/1 to 7/1 for the following:
-   * Diabetes – Insulin: Basaglar KwikPen, Levemir, Levemir FlexTouch, Tresiba (will remain in current tier)
-Medications that will remain excluded until 7/1: Lantus, Lantus SoloSTAR, Toujeo Max SoloSTAR, and Toujeo SoloSTAR.
-   * Diabetes – Non-Insulin: Janumet, Janumet XR, Januvia.
-   * Neuromuscular Disorders: Firdapse.
- * The effective date is being updated from 5/1/20 to 7/1/20 for New Step Therapy for Zomig.
- * The following asthma/respiratory medications will not be excluded at this time. These medications will be continued to be covered:
-   * Arnuity Ellipta®
-   * Flovent® Diskus®, Flovent® HFA
-   * Pulmicort Flexhaler®
-
-Please contact UHC for any questions on the above.
-
-**Team Member Costs:**
-
-The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | HSA | EPO  | PPO  |
-|--------------------------|:---:|:----:|:----:|
-| Team Member Only         | $0  | $0   | $0   |
-| Team Member + Spouse     | $0  | $214 | $204 |
-| Team Member + Child(ren) | $0  | $164 | $156 |              
-| Family                   | $0  | $365 | $348 |
-
-Note: For the **team member only HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level. If you are 55 or older and would like to contribute an additional amount for the HSA catch up, please reach out to support@lumity.com and People Ops at GitLab.
-
-Domestic Partner Reimbursements: If the team member is not legally married to their domestic partner, the domestic partner’s expenses are not eligible for disbursement from the HSA. However, if the domestic partner is covered under the family HDHP through the team member, the domestic partner can open their own HSA and contribute up to the full family contribution maximum. The team member may also contribute up to the full family contribution maximum to their own HSA.
-
-#### UHC Telehealth
-
-Telehealth services for UHC members can be accessed by signing into [MyUHC](https://www.myuhc.com/) and selecting "Connect with a Doctor Online." Estimated out-of-pocket cost is disclosed on the virtual visit platform. Beginning October 1, 2020, telehealth visits not related to COVID-19 will be covered according to your plan benefits. COVID-19 visits have a cost-share of $0 with network providers until the end of the National Public Health Emergency. 
-
-#### UHC Premium Access to Sanvello
-
-Sanvello is an app for managing and treating stress, anxiety, and depression. They are owned by the UnitedHealth Group. Any enrollee into a UHC medical plan can access the premium version of the Sanvello app for free.
-
-Instructions for registering:
-1. Download the Sanvello app from the app store.
-1. Select "Get Started" and follow the instructions on the screen.
-1. One you have registered for an account, select “Check Coverage” beneath “Upgrade via Insurance”.
-1. Enter “UnitedHealthcare(UHC)" as your health insurance provider.
-1. Fill out your name, date of birth, and gender.
-1. Your Member ID and Policy/Group Number is located on your UHC ID card. You can find your virtual ID card by logging into [Lumity](https://user.lumity.com/login).
-     * The Member ID is equivalent to your ID #.
-     * The Policy/Group Number is equivalent to your Group ID #.
-1. Once you have filled out your insurance information, click upgrade.
-
-#### UHC Period to Submit Claims
-
-For in-network services: 90 days from Date of Service.
-
-For out-of-network services: 365 days from Date of Service.
 
 ### Cigna Medical Plans (2021)
 
@@ -198,69 +113,22 @@ Please reach out to the Total Rewards team and Lumity with any questions or if y
 
 #### Cigna Provider Search 
 
-1. Visit www.cigna.com
-1. Select “Find a Doctor, Dentist or Facility”
-1. Select how you’re covered: “Employer or School”
-1. Enter the search locale and determine how you would like to search for Providers
-1. “Continue as Guest” if you’re not a Cigna member yet
-1. Reconfirm the search locale and press “Continue”
-1. Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
-1. Use the search filters to manipulate the contracted provider data
+1. Visit [myCigna](https://my.cigna.com/web/public/guest). If you haven't previously registered for an account, you will want to register.
+1. Select "Find Care & Costs" at the top of the page.
+1. Here you can select to search by Doctor Type, Name, Reason for Visit, Facility, or you can price a medication at local pharmacies.
+1. When you scroll down, there are quick links for your nearest urgent care and telehealth.
 
 IMPORTANT NOTE:
 
-As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
-Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
-*balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
+As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s always a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
+Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers. It's better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
+*Balance billing* is if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
 
-##### Cigna Provider Search - Utah 
+#### Cigna Telehealth
 
-1. Visit www.cigna.com
-1. Select “Find a Doctor, Dentist or Facility”
-1. Select how you’re covered: “Employer or School”
-1. Enter the search locale and determine how you would like to search for Providers
-1. “Continue as Guest” if you’re not a Cigna member yet
-1. Reconfirm the search locale and press “Continue”
-1. Select Open Access Plus for the Network (OAP, OAP HDHP, OAPIN, OAPIN HDHP)
-1. The Provider Search directory will generate a list of Cigna contracted providers
-
-IMPORTANT NOTE:
-
-As an additional measure to confirm “Contracted Providers” (i.e. In-Network), it’s ALWAYS a good idea to follow up with Providers directly (phone, email or otherwise) to additionally confirm if a Provider is contracted with Cigna or not.
-Provider contracts change and sometimes the contracts change faster than the website maintenance teams for the insurance carriers... better to spend time researching and confirming rather than assuming and being stuck with *balance billing* from Out of Network providers.
-*balance billing* = if the Out of Network provider's charge is $100 and the carrier’s maximum allowed reimbursement (MAR) amount is $70, the provider is within rights to bill you for the remaining $30. A “Cigna Contracted Provider” cannot balance bill Cigna members.
+Virtual visits for Cigna members can be accessed by visiting [myCigna](https://my.cigna.com/web/public/guest), selecting "Find Care & Costs" and scrolling down to the bottom of the page. 
 
 ### Kaiser Medical Plans
-
-#### Kaiser 2020 Calendar Year Plans
-
-**Coverages:**
-
-| Plan Details               | [HMO 20 NorCal](https://drive.google.com/open?id=1utx4DFMtnm1ZYwZtMZWyyFk3xyr2x0_V)        | [HMO 20 SoCal](https://drive.google.com/open?id=15uXcg4mwHNhfEOLRuxMyHVCz40sEG-RV)     | [HMO 20 CO](https://drive.google.com/open?id=1TPzU601w7P_b2OQpQzmB87x2wijELGg9)      | [HMO 20 HI](https://drive.google.com/open?id=1Vyg3NMnDPJn1vsQyysd5k39FDeuHdJsx)       |
-|----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
-| Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
-| OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
-| PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
-| Emergency Room             | $50                  | $100            | $250            | $100            |
-| Urgent Care                | $20                  |                 | $50             | $15             |
-| Hospital Inpatient         | $250/admit           | $250/visit      | $300/admit      | 10%             |
-| Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
-| **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | N/A              |
-| Brand - Preferred          | $35                  | $35             | $30             | N/A             |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | N/A             |
-| Specialty Drugs            | 20% up to $150       | $35             | 20% up to $150  | N/A             |
-
-**Team Member Costs:**
-
-The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
-|--------------------------|:------------:|:------------:|:------:|:------:|
-| Team Member Only         | $0           | $0           | $0     | $0     |
-| Team Member + Spouse     | $228         | $228         | $264   | $168   |
-| Team Member + Child(ren) | $180         | $180         | $216   | $132   |          
-| Family                   | $348         | $348         | $432   | $324   |
 
 #### Kaiser 2021 Calendar Year Plans
 
@@ -318,33 +186,6 @@ Dental does not come with individualized insurance cards from Cigna, although yo
 
 When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanooga, TN, 37422 or fax it to 859-550-2662.
 
-### Dental 2020 Calendar Year Plan
-
-**Coverages:**
-
-| Plan Details                         | [DPPO](https://drive.google.com/open?id=1qkqT5khP4RV5W-r0WGex9SQqzPFoOYw-)       |  
-|--------------------------------------|:----------:|
-| Deductible                           | $50 / $150 |
-| Maximum Benefit                      | $2,000     |
-| Preventive Care CoInsurance (in/out) | 0% / 0%    |
-| Basic Care Coinsurance (in/out)      | 20% / 20%  |
-| Major Care Coinsurance (in/out)      | 50% / 50%  |
-| Out of Network Reimbursement         | 90th R&C   |
-| **Orthodontia**                      |            |
-| Orthodontic Coinsurance (in/out)     | 50% / 50%  |
-| Orthodontic Max Benefits             | $1,500     |
-
-**Team Member Costs:**
-
-The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | DPPO |
-|--------------------------|:----:|
-| Team Member Only         | $0   |
-| Team Member + Spouse     | $12  |
-| Team Member + Child(ren) | $18  |
-| Family                   | $36  |
-
 ### Dental 2021 Calendar Year Plan
 
 **Coverages:**
@@ -390,32 +231,6 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 1. Expand the "Customer Reimbursement Form" section.
 1. Click "Continue" to be taken to the online claim form. Make sure you attach an itemized receipt when prompted.
 
-### Vision 2020 Calendar Year Plan
-
-**Coverages:**
-
-| Plan Details                      | [Vision](https://drive.google.com/open?id=1grzcuDd0CiuDQthZ2SAGyOYUEQJro1yB)       |  
-|-----------------------------------|:------------:|
-| Frequency of Services             | 12 / 12 / 12 |
-| Copay Exam                        | $20          |  
-| Copay Materials                   | -            |
-| Single Vision                     | $0           |  
-| Bifocal                           | $0           |
-| Trifocal                          | $0           |
-| Frame Allowance                   | up to $130   |
-| Elective Lenses Contact Allowance | up to $130   |
-
-**Team Member Costs:**
-
-The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | Vision |
-|--------------------------|:------:|
-| Team Member Only         | $0     |
-| Team Member + Spouse     | $2.40  |
-| Team Member + Child(ren) | $1.80  |
-| Family                   | $4.80  |
-
 ### Vision 2021 Calendar Year Plan
 
 **Coverages:**
@@ -448,14 +263,6 @@ For in-network services: 365 days from Date of Service.
 
 For out-of-network services: 365 days from Date of Service.
 
-## Discovery Benefits
-
-If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
-
-If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.com/). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year.
-
-FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
-
 ## Basic Life Insurance and AD&D
 
 GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) and [accidental death and dismemberment (AD&D)](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) plans through UHC. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
@@ -472,7 +279,7 @@ GitLab provides a policy through UHC that may replace up to 66.7% of your base s
 
 ## Employee Assistance Program
 
-GitLab team members in the United States are eligible for a complementary [Employee Assistance program](https://drive.google.com/file/d/1MDx0YrIVKq91QUjj-eu8TZ9GcSLi3o6G/view?usp=sharing) as a result of enrollment in the long-term disability plan through UHC. More information can be found in the [UHC brochure](https://drive.google.com/open?id=1mR-vUVOFSIuaB7JvWc4UrGQuYHzDyREh) for the following benefits: counseling services, help with financial and legal issues, family support, help with relationships, coping and depression.
+GitLab team members in the United States are eligible for a complementary [Employee Assistance program](hhttps://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
 
 ## 401k Plan
 
@@ -563,30 +370,38 @@ Chair: Principal Accounting Officer (PAO)
 
 ## Optional Plans Available at Team Member Expense
 
-### Flexible Spending Account (FSA) Plans
+### Discovery Benefits
+
+If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+
+If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year.
+
+FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
+
+#### Flexible Spending Account (FSA) Plans
 
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
 
-#### Special Notice for Dependent Care Flexible Spending Accounts (DCFSA) during COVID-19
-
-Currently, many people are experiencing their child care provider having canceled or limited services due to COVID-19 and are unsure how they are going to use the entire amount elected for their DCFSA. Per IRS regulations, this circumstance would permit you to make changes to your DCFSA as the Qualifying Life Event: change in child care or elder care provider, change in cost, or change in coverage.
-
-In order to submit this Qualifying Life Event, you will need documentation such as an email or letter from your child care provider that highlights the canceled or limited services as of a certain date. You can process this by selecting the "Qualifying Events" tile on the [Lumity Dashboard](https://lumity.com/) and uploading your documentation. Lumity support can be contacted directly with any questions relating to this.
-
-#### FSA Period to Submit Claims
+##### FSA Period to Submit Claims
 
 Up to 90 days after the plan year has concluded (also known as the runout period).
 
-### Supplemental Life/Accidental Death and Dismemberment Insurance
+#### Commuter Benefits
 
-If you want extra protection for yourself and your eligible dependents, you have the option to elect [supplemental life insurance](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) through UHC:
+GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through Discovery Benefits. The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
+
+##### Commuter Benefits Period to Submit Claims
+
+For active employees: Up to 180 days after plan year has concluded (also known as the runout period).
+
+For terminated employees: Up to 90 days after the termination date.
+
+### Cigna Supplemental Life/AD&D 
+
+Team members who wish to elect additional life insurance above what is provided by GitLab through the Basic Life Insurance or elect life insurance for their dependents, can elect [Voluntary Life Insurance](https://drive.google.com/file/d/1yY1tFJTuj1wCMlorUvnfcgWwZUuP279r/view?usp=sharing) through Cigna.
    * $10,000 Increments up to the lesser of 6x annual salary or $750,000 for team members
    * $5,000 Increments up to the lesser of $250,000 or 100% of team member election for spouses and domestic partners
    * $10,000 of coverage available for children
-
-#### 2021 Cigna Supplemental Life/AD&D 
-
-Team members who wish to elect additional life insurance above what is provided by GitLab through the Basic Life Insurance or elect life insurance for their dependents in 2021, can elect [Voluntary Life Insurance](https://drive.google.com/file/d/1yY1tFJTuj1wCMlorUvnfcgWwZUuP279r/view?usp=sharing) through Cigna.
 
 ##### Evidence of Insurability
 
@@ -596,15 +411,6 @@ Please complete this form to the best of your ability, but if you're unsure for 
 
 Once complete, please send the form to `total-rewards@ domain` and `support@lumity.com`. Lumity and the Total Rewards team will then help fill in any missing information, if applicable, and Lumity will forward to the carrier for review. Lumity will confirm receipt of the EOI with the carrier, track its status, and reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
 
-### Commuter Benefits
-
-GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through Discovery Benefits. The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
-
-#### Commuter Benefits Period to Submit Claims
-
-For active employees: Up to 180 days after plan year has concluded (also known as the runout period).
-
-For terminated employees: Up to 90 days after the termination date.
 
 ## Team Member Discount Platforms
 
@@ -726,7 +532,7 @@ Note: Also, ensure the disability is not is not capped out at the current maximu
 If you are enrolled in medical, dental, and/or vision when you terminate from GitLab (either voluntarily or involuntarily), you may be eligible to continue your coverage through [COBRA](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf).
 
 ### Timeline
-1. Typically terminations are updated in BambooHR on the date of the termination and once updated, will sync with [Lumity](https://user.lumity.com/login) by the end of the next business day.
+1. Typically terminations are updated in BambooHR on the date of the termination and once updated, will sync with [Lumity](https://lumity.helloflock.com/login) by the end of the next business day.
 1. Once the termination has synced with Lumity, the information will then be sent over to [Discovery Benefits](https://www.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for Discovery to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
 1. Once notified, Discovery has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent.
 1. You will have 60 days from the time you receive the COBRA packet to enroll either through the mail or online. Instructions for how to enroll will be included in your COBRA packet. Coverage will be retro-effective to the date coverage was lost.
