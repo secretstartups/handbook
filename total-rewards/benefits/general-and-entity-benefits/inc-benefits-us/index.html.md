@@ -293,7 +293,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 1. Once inside the platform you may elect your annual/pay-period contributions and investments.
 1. If you have any questions about making changes to your elections, we recommend that you reach out to Betterment directly, by chat in the app, by phone at 855-906-5281, or by email at `support@betterment.com`. There is also a [Help section](https://www.betterment.com/resources/tags/help/) on the Betterment site.
 1. Please review the [Summary Plan Document](https://drive.google.com/file/d/1k1xWqZ-2HjOWLv_oFCcyBkTjGnuv1l_B/view?usp=sharing) and [QDIA & Fee Disclosure](https://drive.google.com/file/d/10-nOQTAsYqj1S6xrRFzTa4-H4qQnOOa3/view?usp=sharing). If you have any questions about the plan or the documents, please reach out to Total Rewards at `total-rewards@domain`. Total Rewards is not able to advise you on your financial decisions.
-1. ADP payroll system monitors and will stop the 401(k) contribution when you have reached the IRS limit for the year.
+1. ADP payroll system monitors and will stop the 401(k) contribution when you have reached the IRS limit for the year. Please keep in mind, if you have prior contributions from another employer, ADP will not have access to this information.
 1. If your employment with GitLab terminates and you are unable to access your Betterment account due to this being connected to your GitLab email, please contact Betterment at 646-600-8263 to have the email address on file updated.
 
 ### 401(k) Match
