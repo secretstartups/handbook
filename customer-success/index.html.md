@@ -50,7 +50,9 @@ Utilizing built-in monitoring instrumentation and [a scalable HA architecture](h
 
 ## Customer Success Playbooks
 See the [Playbooks Page](/handbook/customer-success/playbooks)
-
+## Success Roadmap Engagements
+Success Roadmap discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges. They are also mapped to professional services that can help with some of the elements identified in the engagement.
+See the [Success Roadmaps Page](/handbook/customer-success/success-roadmaps)
 ## Customer Success Groups
 ### Solutions Architects
 * [Solutions Architects handbook](/handbook/customer-success/solutions-architects/)
