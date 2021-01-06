@@ -26,7 +26,7 @@ GitLab is an [all-remote](/company/culture/all-remote/) company, so the shadow w
 
 The goal of the CMO Shadow Program is to give current and future [TBD(?)](/company/team/structure/) in the Marketing Team an overview of all aspects of the [company](/company/).
 This should enable marketing leadership to better perform [global optimizations](/handbook/values/#global-optimization).
-You'll gain this context through the [meetings you attend](#meetings--events) and discussions with the CMO regarding any questions that arise during the call, should time be available during the shadow timeframe.
+You'll gain this context through the [meetings you attend](#meetings) and discussions with the CMO regarding any questions that arise during the call, should time be available during the shadow timeframe.
 The program also creates opportunities for the CMO to build relationships with team members across the marketing department and to identify challenges and opportunities earlier.
 
 ### What it is not
@@ -90,7 +90,7 @@ You **do not need to dress formally**; business casual clothes are appropriate. 
 #### Practice your introduction
 {: #practice-introduction}
 
-You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do _not_ say that your role is to "follow Todd around" or "follow the CMO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie. See [CMO Shadow Introductions](#ceo-shadow-introductions) for specifics.
+You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do _not_ say that your role is to "follow Todd around" or "follow the CMO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie.
 
 #### Review the CMO's calendar
 {: #review-calendar}
