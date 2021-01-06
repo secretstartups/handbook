@@ -46,7 +46,7 @@ Individual departments will have their own criteria for who is eligible to occup
 
 ## Making decisions
 
-Please see [/handbook/leadership/making-decisions]
+Please see [/handbook/leadership/making-decisions](/handbook/leadership/making-decisions/)]
 
 ## Communication should be direct, not hierarchical
 
@@ -73,6 +73,7 @@ Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the
 ### Identifying root causes
 
 Sometimes when performance dips, the best way to tackle it is to try to determine the root cause. This is easier said than done. There is a great tool that [CEB (now Gartner)](https://www.cebglobal.com/) created to help with this called [performance issue root cause diagnostic](https://offices.depaul.edu/human-resources/employee-relations/Documents/Performance%20Issue%20Root%20Cause%20Diagnostic.pdf). It may not always be possible or appropriate to determine the root cause, so the [underperformance process](/handbook/leadership/underperformance/) should be followed.
+
 ## Responding to Negative Feedback
 
 As a leader, the way you respond to negative [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) makes a significant impact
@@ -130,7 +131,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 
 ## No matrix organization
 
-Please see [/handbook/leadership/no-matrix-organization]
+Please see [/handbook/leadership/no-matrix-organization](/handbook/leadership/no-matrix-organization/)
 
 ## Stable counterparts
 
