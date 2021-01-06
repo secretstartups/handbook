@@ -51,9 +51,9 @@ _A capture card that allows you to connect your camera via HDMI to your computer
 
 1. Set up the **standing green screen** in an open space with room ahead for the rest of your gear. 
       * Check your light: all house lights should be turned off. Windows are welcome so long as direct sunlight will not contact your green screen or yourself. Windows should also not be directly behind the green screen. 
-      * Check your sound: Avoid or turn off objects such as fans or appliances that might create excessive noise.  
+      * Check your sound: Avoid or turn off objects such as fans or appliances that might create excessive noise.            
 1. Set up your **camera** using the provided directions and place it on the tripod ahead of the green screen.
-      * You can connect the HDMI cable to your camera and use a monitor to verify the image when you are standing in place. Remember, you can also use an HDMI cable with the capture card to connect your camera to Zoom if you need to show the view to someone else.  
+      * You can connect the HDMI cable to your camera and use a monitor to verify the image when you are standing in place. Remember, you can also use an HDMI cable with the capture card to connect your camera to Zoom if you need to show the view to someone else. 
 1. Check the camera LCD screen (viewfinder). You might want to use a monitor to assist.
       * The camera lens should be approximately the height of your eyes. You should not appear to be tilting your head down or up. 
       * Rotate the centre ring on the lens to zoom in and out so that the green covers the entire frame behind you. You may need to adjust the distance of the camera. 
@@ -63,14 +63,17 @@ _A capture card that allows you to connect your camera via HDMI to your computer
           * Look for shadow lines or areas that are significantly brighter or darker and adjust your lights  as usual. 
           * It is highly recommended to use diffusion sheets with pins as an excellent way to soften the light and create a more even look. You can use the pins to clip the diffusion sheet to the doors of the panel light. 
 
-To add: Diagram
+![Green Screen set up diagram](/images/digital-production/green-screen-setup_mvc1.png){: .shadow.medium.center}
 
 <sub>
 1. Subject
 2. Camera
 3. Panel Lights
 4. Green Screen
-</sub>
+</sub> 
+      
+      --------
+TO AD: Remaining instructions
 
 
 
