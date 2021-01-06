@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Custom domain verification on GitLab.com
+category: GitLab.com
+subcategory: Troubleshooting
+description: How Support will verify a custom domain if required for GitLab.com.
+---
+
 ## On this page
 
 - TOC
@@ -14,24 +22,23 @@ GitLab.io, preventing domains from being hijacked by unauthorized users.
 Verification involves adding a GitLab-generated code to the DNS records for the
 domain. Full details can be found [at this documentation page](https://docs.gitlab.com/ee/user/project/pages/getting_started_part_three.html#dns-txt-record).
 
-Domains can verified or unverified and, separately, enabled or disabled. When a
-new domain is added, it is both unverified and disabled. Once verified, it
-becomes both verified and enabled. Verification re-occurs periodically; if it
-fails, the domain becomes unverified but **remains enabled** for a grace period
+Domains can be verified or unverified. They can also be - separately - enabled or
+disabled. When a new domain is added, it is both unverified and disabled. Once
+verified, it becomes both verified and enabled. Verification re-occurs periodically;
+if it fails, the domain becomes unverified but **remains enabled** for a grace period
 of seven days. Once that grace period has elapsed, the domain becomes expired,
 and is then disabled.
 
-Existing custom domains in the database were given a grace period of 30 days; if
-the required TXT records were not added in that time, they will also be
-disabled.
+Existing custom domains in the database are given a grace period of 30 days; if
+the required TXT records are not added during that time, these domains will also
+be disabled.
 
 ### Logging
 
-State changes for custom domains are logged to the Rails `application.log` as
-well as being emailed to every maintainer of the owning project. View the events
-for GitLab.com [on Kibana](https://log.gprd.gitlab.net/goto/10500a6d4eaa397a11701e2ddf10e883)
-and search for the domain name to see what actions have been taken in the past
-week.
+State changes for custom domains are logged to the Rails `application.log`,
+and emailed to every maintainer of the owning project. View the events for
+GitLab.com [on Kibana](https://log.gprd.gitlab.net/goto/10500a6d4eaa397a11701e2ddf10e883) and search for the domain name to see what actions
+have been taken in the past week.
 
 ### Interaction with CNAME and A records
 
@@ -81,27 +88,27 @@ You can also view the code in the rails console by running:
 PagesDomain.find_by!(domain: "example.com").verification_code
 ```
 
-If no records are present, or the verification code doesn't match, the customer
-hasn't configured their DNS records correctly. You can feed this back to them
-with a link to the documentation. Note that incorrect records will be cached for
-the `TTL` of the TXT record, so after uploading an incorrect record, the
+If no records are present, or the verification code doesn't match, then the customer
+hasn't configured their DNS records correctly. You can inform them about it, and
+send them a link to the documentation. Note that incorrect records will be cached
+for the `TTL` of the TXT record, so after uploading an incorrect record, the
 customer may experience a delay in verification succeeding.
 
-If the records **are** present, GitLab may have not performed a verification
+If the records **are** present, GitLab could have not performed a verification
 check since they were added. You can press the `Verify ownership` button on the
 custom domain details page to perform an immediate, synchronous check, which
-may succeed.
+might succeed.
 
 If this check fails to verify the domain, and the TXT records were added or
 changed recently, the most likely explanation is that an earlier failing check
 has resulted in the failing records being cached in the DNS servers used by
-GitLab.com. How long these records are cached for is controlled by the domain
-owner:
+GitLab.com.
 
-If a "negative lookup" has been cached, it will be for a time specified by the
+**How long these records are cached for is controlled by the domain**
+**owner:**
+- If a "negative lookup" has been cached, it will be for a time specified by the
 `MINIMUM` field of the [SOA record](https://en.wikipedia.org/wiki/SOA_record).
-
-TXT records containing the incorrect code will be cached for a time specified
+- TXT records containing the incorrect code will be cached for a time specified
 by the TXT record's `TTL` field.
 
 Unless the domain is due to expire very soon, you can just ask the customer to
