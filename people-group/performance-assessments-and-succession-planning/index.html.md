@@ -389,12 +389,13 @@ This change will impact both team members and managers.
 The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
     *   Your hire date (new hires hired after October 31st are ineligible for compensation review)
     *   Other compensation increases received over the last year
+    *   Timing of promotion and/or role changes
     *   Your current placement within the compensation band
-    *   Location factor benchmark updates
+    *   Location factor 
     *   Role benchmark updates 
     *   Company budget for compensation increases
 * **When is the next opportunity for my performance to be reviewed?**
-    * We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY`22. 
+    * We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY'22. 
 * **What can I do to change my performance factor in the future?**
     * There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
 * **What is my potential rating?**
