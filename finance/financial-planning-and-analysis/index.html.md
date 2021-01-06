@@ -45,7 +45,7 @@ title: "Financial Planning & Analysis"
 
 #### Board Plan
 
-Purpose: GitLab's Board Plan, or operating Plan, identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
+Purpose: GitLab's Board Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
 
 What: The Board Plan includes the annual strategy, business Plans for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expenses are Planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. 
 
@@ -53,11 +53,11 @@ Governance: The Board Plan is approved by the board of directors every year.
 
 #### Target
 Purpose: Build a go-to-market business plan to achieve the companies tops-down target. 
-What: Set a bookings and revenue target at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
+What: This is the board Plan with stretch targets for bookings and revenue at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
 
 #### Actuals
 
-What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan and to our forecasts.
+What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan, Target and our forecasts.
 
 #### Monthly Forecast
 
@@ -76,7 +76,7 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 
 #### Street Model
 What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
-Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Approved by the Board of Directors.
+Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Reviewed by the Board of Directors.
 
 ### Mechanics of the Board Plan:
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
