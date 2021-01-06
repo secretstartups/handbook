@@ -28,6 +28,27 @@ epics rather than issues. Engineers are empowered to identify the next issue whi
 
 Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's frontend team if UI changes are required. We will [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us) for initiatives like these.
 
+### We Own What We Ship
+
+We are responsible for delivering GitLab's SAST and Secret Detection features, and the analyzers we develop rely heavily upon open source software. 
+This means we can be dramatically affected by changes in those software packages. We will check for updates to these packages once per [GitLab 
+release](https://about.gitlab.com/releases/). New versions will be scrutinized for the following aspects:
+
+* Breaking changes
+* New, updated, or removed security rules
+* Behavior changes
+* Analyzer changes needed to use the new version
+* Security vulnerabilities
+
+An issue will be created and prioritized if a breaking change is discovered. Otherwise, dependency updates will be detailed in the relevant 
+analyzer's changelog and a new version will be released utilizing the change. This is a lot of work, most likely requiring several hours of 
+focused study to understand what is happening in the new version. As a result, dependency updates will be divided evenly and assigned to 
+Senior and Intermediate Backend Engineers, with the remainder going to the group's Staff Backend Engineer. Assignments will be managed 
+through our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb).
+
+The assigned backend engineer is the group's primary liaison with the dependency's open source community. Engineers are expected to contribute 
+back to those projects, especially if critical or high security findings are confirmed.
+
 ### Product Prioritization Labels
 
 We also use additional labels to categorize different types of requests. These labels represent the top areas of product impact we are currently focused on within the Static Analysis team.
