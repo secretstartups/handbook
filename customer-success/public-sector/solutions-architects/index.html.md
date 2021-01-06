@@ -69,3 +69,28 @@ Stage 4-5
 ### Program Introduction Resources
 
 A customer-distributable [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) as well as an [accompanying slide presentation](https://docs.google.com/presentation/d/1xh-ZNm9xyKau6UHQtAyoYjMqf5kO9HYVU2y0O2LwQxM/edit#slide=id.g92b7b0fa4f_0_68) are available for use to guide the customer discussion. These resources are only available to GitLab team members.
+
+### OpenShift FAQ
+
+FAQ for customer engagements when customers are using OpenShift
+
+**Q: How will the customer use GitLab with OpenShift?**
+
+A: When working with a potential prospect its important to understand how that customer wishes to use GitLab and OpenShift together. Will the customer just deploy projects from GitLab to OpenShift? Does the customer wish to run a GitLab Runner within OpenShift? Or, does the customer need to run the GitLab application within OpenShift? Knowing the answer to this is key before continuing the conversation because GitLab currently can deploy to OpenShift and run runners within OpenShift, but the GitLab application does not run in OpenShift just yet.
+
+**Q: What is the planned release date for OpenShift integration?**
+
+A: The tentative release date for OpenShift integration (running GitLab in OpenShift) is calendar Q1 2021 and is subject to change.
+
+**Q: What features currently do not work when running GitLab with OpenShift?**
+
+A: SAST, DAST, AutoDevops. There are workarounds, but those workarounds are not supported or recommended.
+
+**Q: What OpenShift versions will the integration work with?**
+
+A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x and below will not be suppported.
+
+**Q: How can I (or my customer) track the integration status?**
+
+A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
+
