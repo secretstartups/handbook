@@ -12,7 +12,7 @@ title: "Using Salesforce within Customer Success"
 - Using Salesforce within Customer Success *(Current)*
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Technical Account Manager Summary](/handbook/customer-success/tam/)
-- [Account Triage](/handbook/customer-success/tam/triage/)
+- [Account Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Account Engagement](/handbook/customer-success/tam/engagement/)
 
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
@@ -146,7 +146,7 @@ For all new Zendesk tickets that are created, the Technical Account Manager and 
 
 ### Tracking Emails within Salesforce
 
-Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value. 
+Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value. 
 
 To log an email in Salesforce:
 
@@ -161,7 +161,7 @@ Any time you email a customer, bcc your "email to Salesforce address" on the ema
 
 Three alternatives exist:
 1. If you have an [Outreach](/handbook/business-ops/tech-stack/#outreachio) account which is linked to your GitLab email address and your Salesforce account, your emails will automatically sync with Salesforce
-1. If you do not have outreach, then consider the [Salesforce Chrome plugin](/handbook/sales/#salesforce-lightning-for-gmail) to easily log customer-related emails
+1. If you do not have outreach, then consider the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails
 1. If you do want to log the email to the customer's timeline in Gainsight, follow the instructions in [this help article](https://support.gainsight.com/SFDC_Edition/Timeline/Admin_Guides/Configure_Email_to_Timeline). This email will be synced back to Salesforce with the daily Gainsight-Salesforce sync.
 
 

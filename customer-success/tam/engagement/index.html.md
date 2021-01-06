@@ -42,11 +42,11 @@ For Commercial accounts, the Account Executive owns the pre-sales process and [e
 The "Welcome to GitLab" call will introduce the customer to the Technical Account Manager and begin the handover process. The Technical Account Manager will then lead the rest of the call and own the customer project. If the project was created in the pre-sales project under the [`pre-sales account-management` group](https://gitlab.com/gitlab-com/account-management/pre-sales), then it is moved to a post-sales project under [`account-management` group](https://gitlab.com/gitlab-com/account-management).
 
 ### Customer Engagement Tips
-1. Make use of the [account management projects](https://gitlab.com/gitlab-com/account-management) 
+1. Make use of the [account management projects](https://gitlab.com/gitlab-com/account-management)  ([Template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template))
 1. Whenever a customer asks a question via email/Slack, kindly prompt them to open a Support ticket or an issue in the collaboration project
   * Examples of a Support issue: Reporting Gitlab downtime, errors or accesibility problems 
   * Examples of a Collaboration Project Issue: Gernal questions about product usage, best practices or recommendations, adoption or integration questions 
 1. Show customers the power of GitLab by using GitLab with them (ex: related issues, tracking milestones, threaded conversations, ability to interact directly with GitLab’s product/engineering teams)
 1. Make sure you are responding in a timely manner to customer's open issues. When you are prompt to respond, the customer is more likely to continue using the account management projects
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
-1. When adding a SFDC link to a public issue, remember to [provide feedback](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](https://about.gitlab.com/handbook/product/how-to-engage/#feedback-template)
+1. When adding a SFDC link to a public issue, remember to [provide feedback](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](/handbook/product/how-to-engage/#feedback-template)

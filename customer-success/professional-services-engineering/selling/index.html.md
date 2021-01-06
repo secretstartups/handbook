@@ -26,7 +26,7 @@ graph LR;
   a["1. Identify services needed "]-->b["Create the PS opportunity in SFDC"];
   b--custom-->c["Services Calulator"];
   b--standard-->d["SKU Catalog in Zuora/SFDC"];
-  c-->e["3. Generate SOW or Serivce Desc. Docs"];
+  c-->e["3. Generate SOW or Service Desc. Docs"];
   d-->e;
   e-->f["4. Close the opportunity"];
 ```
@@ -37,7 +37,7 @@ The SAL/ISR can find the general services the PS team offers on the [services pa
 
 ### Step 2: Create the opportunity in SFDC
 
-The SAL/ISR [creates a Professional Services Only opportunity](/handbook/business-ops/resources/#creating-a-professional-services-opportunity).
+The SAL/ISR [creates a Professional Services Only opportunity](/handbook/sales/field-operations/gtm-resources/#creating-a-professional-services-opportunity).
 
 #### Standard Services Only
 If the customer only needs standard services from the service catalog, the SAL/ISR can generate the quote from within the newly created SFDC PS opportunity by:
@@ -50,11 +50,14 @@ If the customer only needs standard services from the service catalog, the SAL/I
 This process will generate a services description document that the SAL/ISR can and should share with the customer without additional approval. The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirms no customizations are needed. Again, can pull in the SA for assistance if needed.
 
 #### Custom-Scoped Services
-If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and filling out the information required. If you don't know the specifics, you can leave the defaults and submit it. This will add an issue to the  Sr. Engagement Manager's queue to follow with you. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details. 
+If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details. 
+
+#### Instructions for creating a Professional Services Quote
+Deal Desk with require a quote for rither Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
 
 ### Step 3: Create and add the SOW
 
-For standard SKUs, the service description document is generated directly from SFDC/zuora under the quotes section. Upload the signed version of this document when you receive it from the customer. 
+For standard SKUs, the Order Form is generated directly from SFDC via the quote object [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote). Upload the signed version of this document when you receive it from the customer. 
 
 For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity. 
 
@@ -115,6 +118,6 @@ Customer is under license utilization and we need to prevent churn, help expand 
 
 #### What options exist for CE Customers?
 
-GitLab CE is ideal for personal projects or small groups with minimal user management and workflow control needs.  Because these groups don't typically need a lot of focus on scaled implementation or training, we currently do not offer implementation, integration or training services to our CE customers.  Many of our [partners](/resellers/) offer such services.  However, we find that many customers who have been running a CE instance and are looking to transition to a scaled implementation of GitLab may require a [Discovery Engagement](#discovery-engagement) to determine the customer's long-term needs.
+GitLab CE is ideal for personal projects or small groups with minimal user management and workflow control needs.  Because these groups don't typically need a lot of focus on scaled implementation or training, we currently do not offer implementation, integration or training services to our CE customers.  Many of our [partners](/resellers/) offer such services.  However, we find that many customers who have been running a CE instance and are looking to transition to a scaled implementation of GitLab may require a [Discovery Engagement](/handbook/customer-success/professional-services-engineering/offerings/#discovery-engagement) to determine the customer's long-term needs.
 
 If a customer is upgrading from CE to EE, Professional Services should be engaged to scope out the requirements for the transition if the customer will need services in the transition.

@@ -11,13 +11,31 @@ title: "Working with Professional Services"
 
 ### How to Contact Professional Services
 
-At GitLab, Professional Services (PS) is part of the [Customer Success department](https://about.gitlab.com/handbook/customer-success). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](https://about.gitlab.com/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
+At GitLab, Professional Services (PS) is part of the [Customer Success department](/handbook/customer-success). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
 
 You can also reach the group via the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel.
 
+#### Requesting training for GitLab team members
+
+**For team leads**
+
+Internal GitLab team leads can request training sessions delivered by Professional Services for their teams. Here are the steps for making a request. 
+
+1. [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the internal_trainer_request issue template. or internal-team-member-training-request
+1. Complete the Requestor Tasks in the issue description.
+1. The PS Project Coordinator will reach out to plan and schedule the training session(s).
+
+**For individual team members**
+
+Individual GitLab team members can request to audit a customer-facing training sessions delivered by Professional Services. Here are the steps for making a request to attend. 
+
+1. [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the internal-team-member-training-request template.
+1. Complete the Requestor Tasks in the issue description.
+1. The PS Project Coordinator will confirm the date(s) with you and provide you with a registration link.
+
 ### For Sales Reps and SAs: How to order Professional Services
 
-1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](https://about.gitlab.com/handbook/business-ops/resources/#how-to-create-an-opportunity) using the record type "Professional Services Only."
+1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/#how-to-create-an-opportunity) using the record type "Professional Services Only."
 
 1. The next steps depend on whether the services needed are standard or custom.
 

@@ -3,14 +3,49 @@ layout: handbook-page-toc
 title: "Professional Services Instructional Design and Development"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+# What's New?
 
-### What is currently being worked on?
+## [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
+
+### GitLab Certified Associate
+
+- Soft-launched in: May 2020
+- Description page: [GitLab Certified Associate](https://about.gitlab.com/services/education/gitlab-certified-associate/)
+- Related course: [GitLab with Git Basics](https://about.gitlab.com/services/education/gitlab-basics/)
+- Also available at: [GitLab Commit 2020](https://about.gitlab.com/events/commit/)
+
+### GitLab CI/CD Specialist
+
+- Soft-launched in: July 2020
+- Description page: [GitLab CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-specialist/)
+- Related course: [GitLab CI/CD Training](https://about.gitlab.com/services/education/gitlab-ci/)
+- Also available at: [GitLab Commit 2020](https://about.gitlab.com/events/commit/)
+
+### GitLab InnerSourcing Specialist
+
+- Soft-launched in: June 2020
+- Description page: [GitLab InnerSourcing Specialist](https://about.gitlab.com/services/education/gitlab-innersourcing-specialist/)
+- Related course: [GitLab InnerSourcing Training](https://about.gitlab.com/services/education/innersourcing-course/)
+
+## GitLab Professional Services Game Library
+
+The microlearning game library is designed to address topics of interest in order to increase memory retention and understanding during the learning experience. If you wish to see a preview of these games, email Proserv-education@gitlab.com.
+
+Available Learning Games:
+
+- Battleship Challenge
+- Super Mario Adventure
+- GitLab Treasure Hunt
+
+# What's in Progress?
+
 If you want to see what is currently being developed or planned out, check out the [Education Services Activity Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/activity)
+
+- GitLab System Administration Specialist
+- GitLab Project Management Specialist
+- GitLab DevOps Professional
+
 
 ### Workflow Labels
 

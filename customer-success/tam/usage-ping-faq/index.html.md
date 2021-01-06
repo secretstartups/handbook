@@ -17,7 +17,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 - GitLab sends a weekly payload containing usage data to GitLab Inc. The usage ping uses high-level data to help our product, support, and sales teams. It does not send any project names, usernames, or any other specific data. The information from the usage ping is not anonymous, it is linked to the hostname of the instance. Sending usage ping is optional, and any instance can disable analytics.
 - The usage data is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product.
-- Usage ping is important to GitLab as we use it to calculate our and Stage Monthly Active Users (SMAU) which helps us measure the success of our stages and features.
+- Usage ping is important to GitLab as we use it to calculate our Stage Monthly Active Users (SMAU) which helps us measure the success of our stages and features.
 - Once usage ping is enabled, GitLab will gather data from the other instances and will be able to show usage statistics of your instance to your users.
 
 ## Why Should We Enable Usage Ping?
@@ -25,9 +25,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 - The main purpose of Usage Ping is to build a better GitLab. Data about how GitLab is used is collected to better  understand feature/stage adoption and usage, which helps us understand how GitLab is adding value and helps our team better understand the reasons why people use GitLab and with this knowledge we are able to make better product decisions.
 
 - As a benefit of having the usage ping active, GitLab lets you analyze the users’ activities over time of your GitLab installation.
-Cohorts
-- As a benefit of having the usage ping active, GitLab provides you with The DevOps Score,which gives you an overview of your entire instance’s adoption of Concurrent DevOps from planning to monitoring.
-DevOps Score
+- As a benefit of having the usage ping active, GitLab provides you with The DevOps Score, which gives you an overview of your entire instance’s adoption of Concurrent DevOps from planning to monitoring.
 - You will get better, more proactive support. (assuming that our TAMs and support organization used the data to deliver more value)
 - You will get insight and advice into how to get the most value out of their investment in GitLab. Wouldn't you want to know that a bunch of features/values are not being adopted in their organization?
 - You get a report that illustrates how they compare against other similar organizations (anonymized), with specific advice and recommendations on how to improve their DevOps processes.
@@ -38,13 +36,13 @@ The usage ping is opt-out. If you want to deactivate this feature, go to the Set
 
 You can view the payload at "/admin/application_settings/metrics_and_profiling" in the Usage Statistics section and press the "View Payload" button.
 
-- [Deactivate the Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only)
+- [Deactivate the Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping)
 
 ## Commonly Asked Questions and Concerns
 
 ### 1. It's a corporate security policy that we don't send data to vendors
 
-Based on what we understood from the concerns expressed, GitLab would like to understand more about the security controls and regulatory requirements that you have to meet. We've seen several risk-mitigating solutions where similar concerns regarding "outbound data transfers", and data leaving a secured boundary. Are there specific team members from security/compliance/privacy organizations that might provide additional insights? We understand your concerns and would be happy to have a call with our security team, product team along with your security team to talk through any issues we may help resolve. Before our call can you provide what compliance requirements that your company has to meet?  
+Based on what we understood from the concerns expressed, GitLab would like to understand more about the security controls and regulatory requirements that you have to meet. We've seen several risk-mitigating solutions where similar concerns regarding "outbound data transfers", and data leaving a secured boundary. Are there specific team members from security/compliance/privacy organizations that might provide additional insights? We understand your concerns and would be happy to have a call with our security team, product team along with your security team to talk through any issues we may help resolve. Before our call can you provide what compliance requirements that your company has to meet?
 
 ### 2. Is there a way we can share this data manually so that we can review it before it goes out?
 
@@ -72,7 +70,7 @@ The usage ping uses high-level data to help our product, support, and sales team
 
 ### 6. How do we ensure that you don't change what's in the payload to include things we don't want to share? How do we re-verify this with each new release in a way that doesn't take a lot of time or effort?
 
-Our documentation shows all usage statistics and content that is sent back to GitLab and we will make sure if there are any changes to this list you will be updated.  When we change / update telemetry you can view the exact JSON payload in the administration panel. To view the payload: Navigate to the Admin Area > Settings > Metrics and profiling. Expand the Usage statistics section. Click the Preview payload button.
+Our documentation shows all usage statistics and content that is sent back to GitLab and we will make sure if there are any changes to this list you will be updated.  When we change / update product analytics you can view the exact JSON payload in the administration panel. To view the payload: Navigate to the Admin Area > Settings > Metrics and profiling. Expand the Usage statistics section. Click the Preview payload button.
 
 ### 7. Our security team will have to sign off first
 
@@ -97,13 +95,13 @@ Also,If you see value in sharing Usage Ping data, but it's not technically possi
 
 ## Benefits
 
-[DevOps Score](https://docs.gitlab.com/ee/user/instance_statistics/dev_ops_score.html#devops-score)
+[DevOps Score](https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_score.html)
 
-[User Cohorts](https://docs.gitlab.com/ee/user/instance_statistics/user_cohorts.html)
+[User Cohorts](https://docs.gitlab.com/ee/user/admin_area/analytics/user_cohorts.html)
 
 ## Important Documentation links
 
-[Admin Settings for Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping-core-only)
+[Admin Settings for Usage Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping)
 
 [Usage Statistics Collected](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-statistics-collected)
 

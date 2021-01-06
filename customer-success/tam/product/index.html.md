@@ -29,54 +29,71 @@ Following the process described here will ensure that customer interest in featu
 
 On top of these processes, we've also documented guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
 
-### GitLab Issues and Sisense
+### GitLab Issues
 
-The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for SalesForce customer account links.
+If your customer has a feature request that doesn't already exist, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Open an issue in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the **Feature Proposal** template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](https://about.gitlab.com/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager asking for review with the customer's Salesforce account link included.
 
-If your customer has a feature request, refer to the [example of how to express the customer's interest](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Feature Proposal** template.
+If your customer would like to report a bug, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue and use the **Bug** template, following the instructions and the same steps as above.
 
-To indicate a customer's interest in an issue, add the link to their Salesforce account as a comment on the issue. The Sisense page automation will detect this, and use the customer's Salesforce data such as Total Account Value and seat licenses to add them to the page. This also maintains a customer's privacy on public issues, since Salesforce links are only accessible to GitLab employees with proper credentials.
+To indicate a customer's interest in an existing issue, add the link to their Salesforce account as a comment on the issue and include the guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) and tag the appropriate Product Manager. 
 
-**Note:** make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
+Make sure that you are using a customer **account link** and _not_ an **opportunity link**. The Sisense dashboard will only use account links to tabulate interest.
 
 Product uses the [RICE framework](/handbook/product/product-management/process/#prioritization) to determine prioritization of features and issues. Adding customer interest to issues helps increase the RICE score and the visibility of the issue.
 
+#### Sisense
+
+The Product team maintains a [Sisense dashboard](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) to aggregate issues and customer interest in those issues. Information is automatically gathered from [GitLab issues](https://gitlab.com/gitlab-org/gitlab/issues) by scanning for Salesforce customer account links.
+
+The Sisense page automation will detect when Salesforce links are added and use the customer's Salesforce data, such as Total Account Value and seat licenses, to add them to the page. This also maintains a customer's privacy on public issues, since Salesforce links are only accessible to GitLab employees with proper credentials.
+
 #### Calls with Product
 
-In preparation of a call, make sure to [prepare both the customer and Product](https://about.gitlab.com/handbook/product/how-to-engage/#examples-a-customer-has-a-feature-request) in advance.
+In preparation of a call, make sure to [prepare both the customer and Product](/handbook/product/how-to-engage/#examples-a-customer-has-a-feature-request) in advance.
 
 ### Customer Collaboration Project
 
-Customers that are assigned a Technical Account Manager typically have a [collaboration project](https://about.gitlab.com/handbook/customer-success/tam/engagement/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
+Customers that are assigned a Technical Account Manager typically have a [collaboration project](/handbook/customer-success/tam/engagement/) on GitLab.com, which is used to share information, document customer details, and track issues in a place that both the GitLab team and the customer's team can access.
 
 Generally, TAMs maintain a main issue that lists out all feature requests the customer is interested in with links to the public GitLab issue.
 
-If there is a lot of discussion with the customer about a specific feature request that, a recommended practice would be to create an issue on the customer collaborative project about it and list that issue as a related issue on the main GitLab issue. This is another signal on the issue itself of the interest in the issue, and also allows discussion with the customer about their needs and concerns specifically.
+When a customer expresses interest in a feature, the TAM should capture that in two places:
 
-### Critical Priority Requests
+- As a [comment or issue in the main GitLab project](#gitlab-issues)
+- With an entry in the main feature tracking issue of the customer's collaboration project
 
-If a customer is unable to continue using GitLab without a specific feature, the TAM should begin the [triaging the account](/handbook/customer-success/tam/health-score-triage/). This should be very rare, but if it does occur set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. Please also refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
+The feature tracking issue should be maintained regularly by updating priority (elaborated on below) and milestones as the single source of truth on customer product needs. It can also be used for reviewing metrics of previously delivered feature requests.
+
+If there is a lot of discussion with the customer about a specific feature request, create an issue on the customer collaboration project about it and list that issue as a related issue on the main GitLab issue. This is another signal on the main product issue of customer interest, and also allows discussion with the customer and internal GitLab team members about their needs and concerns.
+
+### Priority of Feature Requests
+
+#### High Priority Requests
+
+If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, follow the expected steps for logging and tracking customer feature requests above by adding the customer's interest in a GitLab issue and including it in the collaboration project issue. In addition, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly. A general idea of high priority is that the customer needs a particular feature as soon as possible.
+
+#### Medium Priority Requests
+
+Follow the [steps for logging and tracking customer feature requests](#gitlab-issues). An example of medium priority is that the customer needs the feature within the next 6-12 months.
+
+#### Low Priority Requests
+
+Follow the [steps for logging and tracking customer feature requests](#gitlab-issues). An example of low priority is that the customer does not need the feature within the next year and that the feature would be a nice-to-have.
+
+#### Critical Priority Requests
+
+**This should be rare, and used sparingly and agreed upon by Product and Engineering.**
+
+If a customer is unable to continue using GitLab without a specific feature, the TAM should begin the [triaging the account](/handbook/customer-success/tam/health-score-triage/). This should be rare, but if it does occur set up regular check-ins with the Product and Engineering teams to assess the status of the feature, expectations, and potential secondary plans. Please also refer to the details of a [critical customer merge request](https://docs.gitlab.com/ee/development/code_review.html#customer-critical-merge-requests).
 
 **Note:** you should still take the steps shown above to indicate customer interest, so that it's noted publicly. This is just an additional step to accelerate Product looking at and addressing the issue.
-
-### High Priority Requests
-
-If a customer has [identified an issue that is high priority](/handbook/product/product-management/process/#issues-important-to-customers), such as a work-stoppage bug or a feature required for the customer to meet a deadline, reach out to the Product Manager responsible for the part of GitLab the issue addresses and discuss it with them directly.
-
-**Note:** you should still take the steps shown above to indicate customer interest, so that it's noted publicly. This is just an additional step to accelerate Product looking at and addressing the issue.
-
-### Medium/Low Priority Requests
-
-Follow the above steps by logging the customer's interest in the GitLab issue (or creating one if one does not exist already) with their Salesforce link and as much detail as possible about their use case for this feature.
 
 #### Bugs
 
 TAMs can refer to the following steps if a medium priority Bug has become stale on the Product Management [triage board](https://gitlab.com/groups/gitlab-org/-/boards/1075672?&label_name%5B%5D=bug&label_name%5B%5D=customer). Another potentially helpful view is the [triage report label](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&search=triage+report).
 
-1. Review the request for necessary information, ensuring the Salesforce link, steps to reproduce, workarounds, etc. are all included
-1. Follow up with the Product Manager in the issue for an update
-1. Follow up with the Product Manager in Slack for an update, linking the issue
+Follow the same [steps as for logging and tracking bugs as with feature requests](#gitlab-issues), but be sure that steps to reproduce and workarounds are included whenever possible.
 
-### Report a Bug
+### Escalating Product Issues 
 
-If your customer would like to report a bug, refer to the [example of how to express the customer's interest](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Use the **Bug** template.
+If you have followed the [process of commenting on issues](#gitlab-issues) and have not gotten traction, confirm that [all of the necessary information is included in the issue](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature), including the Salesforce link, use case, etc. Follow up with the Product Manager again in the issue and in the product stage Slack channel (linking to the issue) to get additional attention and team member involvement.

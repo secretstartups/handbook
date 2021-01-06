@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems"
+description: "The GitLab Demo Systems provide infrastructure for the GitLab Customer Success, Marketing, Sales, and Training teams to demonstrate GitLab features, value propositions, and workflows in a variety of asynchronous and live capacities."
 ---
 
 ## On this page
@@ -81,7 +82,7 @@ Please see the <a href="https://gitlab.com/groups/gitlab-com/customer-success/de
 </div>
 </div>
 
-* [Legacy Demo Readiness Links](https://about.gitlab.com/handbook/customer-success/solutions-architects/#demo-readiness)
+* [Legacy Demo Readiness Links](/handbook/customer-success/solutions-architects/#demo-readiness)
 * [Demo Data Designer](https://gitlabdemo.com/designer)
 * CREDIT Enterprises (WIP Coming Soon)
     * Collabify Club

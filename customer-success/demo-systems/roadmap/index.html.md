@@ -41,7 +41,7 @@ You can post on the `#demo-systems` Slack channel to discuss ideas informally.
 
 ## Legacy Roadmap
 
-When the demo systems team was established in October 2019, we created a preliminary phased roadmap that is shown below for historical reference. This legacy roadmap has been deprecated and replaced with the [Current Initiatives](#current-initatives) below with our ongoing iterations and OKRs.
+When the demo systems team was established in October 2019, we created a preliminary phased roadmap that is shown below for historical reference. This legacy roadmap has been deprecated and replaced with the [Current Initiatives](#current-initiatives) below with our ongoing iterations and OKRs.
 
 ## Current Initiatives
 
@@ -69,7 +69,7 @@ When the demo systems team was established in October 2019, we created a prelimi
         <tr>
             <td>FY21-Q2</td>
             <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/1">demosys-okrs#1</a></td>
-            <td>Add generated sample data to Demo Data Designer with <a href="https://about.gitlab.com/handbook/marketing/product-marketing/roles-personas/">Marketing personas</a></td>
+            <td>Add generated sample data to Demo Data Designer with <a href="/handbook/marketing/strategic-marketing/roles-personas/">Marketing personas</a></td>
         </tr>
         <tr>
             <td>FY21-Q2</td>
@@ -156,7 +156,7 @@ When the demo systems team was established in October 2019, we created a prelimi
         </tr>
         <tr>
             <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/7">demosys-okrs#7</a> <a href="https://gitlab.com/gitlab-com/business-ops/itops/issue-tracker/-/issues/301">it-ops#301</a></td>
+            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/7">demosys-okrs#7</a> <a href="https://gitlab.com/gitlab-com/business-ops/team-member-enablement/it-ops-issue-tracker/-/issues/301">it-ops#301</a></td>
             <td>Transition AWS `gitlab-np` account to new IT Ops AWS account</td>
         </tr>
         <tr>

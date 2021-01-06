@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Commercial Sales Buyers Journey"
+description: "This page outlines the activity and flow for each step of a purchaser's typical journey when acquiring GitLab"
 ---
 
 # Commercial Sales Buyer's Journey
@@ -34,7 +35,7 @@ Discovery calls may be requested by the Account Executive (AE) via their regiona
 
 ## Step 2: Technical Evaluation
 
-Technical evaluation is where the prospective customer evalates the fit of GitLab to their organization and its specific desired business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPICC information as well as the known required capabilities in Salesforce.  
+Technical evaluation is where the prospective customer evalates the fit of GitLab to their organization and its specific desired business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPPICC information as well as the known required capabilities in Salesforce.  
 
 ### Deliverables
 * Google Doc: for running call notes (when applicable)

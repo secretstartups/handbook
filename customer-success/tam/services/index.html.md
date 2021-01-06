@@ -19,12 +19,13 @@ Customers who meet the following criteria are aligned with a Technical Account M
 
 ### Enterprise
 
-- Premium/Silver or Ultimate/Gold license, and Annual Recurring Revenue (ARR) of $50,000 or greater.
-- Starter/Bronze license and a clear, documented opportunity for upgrade with interest from the customer.
+- [Meets Enterprise Segment Criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+- Recurring contract value (ARR) of $50,000 or greater
+- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
 
 ### Commercial
 
-Commercial (Mid-Market and SMB) customers are eligible for a TAM based on varying factors, such as tier, ARR, and potential for growth. The TAM will work with their aligned Account Executive to determine which accounts to prioritize.
+ - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 
 ## Responsibilities and Services
 
@@ -60,12 +61,13 @@ There are various services a Technical Account Manager will provide to ensure th
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
+- Monitor SaaS based customer experience by adding them to the [Marquee Accounts alerts](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts) project
 
-It is also possible for a customer to pay for a Technical Account Manager's services in order to receive priority, "white glove" assistance, guidance and support as well as more time allocated to their account on a monthly basis. There are also additional services a Technical Account Manager will provide to the services listed above.
+
 
 ## Coverage
 
-As part of GitLab's [paid time off policy](https://about.gitlab.com/handbook/paid-time-off/), team members are encouraged to take time off. When a TAM is out of office, they should rely on their SALs and SAs to lead any customer meetings or respond to requests. Make sure your SAL and SA know in advance that you'll be out and for how long so they can be prepared.
+As part of GitLab's [paid time off policy](/handbook/paid-time-off/), team members are encouraged to take time off. When a TAM is out of office, they should rely on their SALs and SAs to lead any customer meetings or respond to requests. Make sure your SAL and SA know in advance that you'll be out and for how long so they can be prepared.
 
 For any specific customer needs (escalating tickets, logging issues, etc.), the TAM should rely on the SA, while the SAL can help with higher-level items.
 
@@ -73,5 +75,5 @@ It's acceptable to cancel or reschedule a weekly cadence call, unless there is a
 
 It's possible to ask another TAM to cover for you as well, but they likely don't have the same context as an SA so may require additional briefing and introductions with the customer before you leave.
 
-If your acccounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off).
+If your acccounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
 

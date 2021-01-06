@@ -17,7 +17,7 @@ This [sales enablement](/handbook/sales/training/sales-enablement-sessions/) pag
 
 ### Resources
 
- - Watch the live version of the [Sales Enablement Level Up Webcast](](https://youtu.be/_04S2JhVZ5A)) recorded on April 9, 2020. 
+ - Watch the live version of the [Sales Enablement Level Up Webcast](https://youtu.be/_04S2JhVZ5A) recorded on April 9, 2020. 
 - Check out the [enablement deck](https://docs.google.com/presentation/d/1VGfUC85NO74S5qaaNZ1yQydhZL3Be4ofBTG52xr_LEA/edit#slide=id.) used in this presentation. (Note: internal link)
 
 <!-- ## Learning Objectives
@@ -76,7 +76,7 @@ Customers tend to have tools and systems with which they need to establish integ
 ### How will we deliver?
 {:.no_toc}
 
-1. Direct via the [GitLab Professional Services Engineering Delivery team](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
+1. Direct via the [GitLab Professional Services Engineering Delivery team](/handbook/customer-success/professional-services-engineering/#team-members-and-roles)
 1. Partner delivered (future)
 
 ## How to order

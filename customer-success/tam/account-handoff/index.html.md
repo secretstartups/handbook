@@ -19,7 +19,7 @@ Below are checkpoints during the account handoff process that TAMs can use to ke
 
 ## Account Handoff CTA
 
-The first step once you are aware of a handoff is for the new TAM to open an [CTA in Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/#ctas). This is where you will track completion of tasks necessary to a successful handoff. Be sure to select the "Account Handoff" playbook and assign the relevant tasks to the previous and new TAM.
+The first step once you are aware of a handoff is for the new TAM to open an [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas). This is where you will track completion of tasks necessary to a successful handoff. Be sure to select the "Account Handoff" playbook and assign the relevant tasks to the previous and new TAM.
 
 Next, you will open an issue in the [TAM project](https://gitlab.com/gitlab-com/customer-success/tam) and use the [Account Handoff template](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) and fill out the appropriate details. This issue will be the source of collaboration for any discussion items, questions, notes, etc. that pop up throughout the handoff process.
 

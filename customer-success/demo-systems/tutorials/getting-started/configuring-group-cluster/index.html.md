@@ -73,7 +73,7 @@ If you do not have the link available, these instructions show you how to naviga
 
 2. In the _Connect to the cluster_ pop-up modal, click the **Run in Cloud Shell** button.
 
-    > If you have experience with `kubectl` and `gcloud` command-line tools, you can optionally use the command shown.
+    > If you have experience with `kubectl` and `gcloud` command-line tools, you can optionally use the command shown. If you want to use them locally, you need to install them from here ([kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-with-homebrew-on-macos), [gcloud](https://cloud.google.com/sdk/docs/downloads-versioned-archives#installation_instructions)).
 
     ![Cloud shell access](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-4.png)
 
@@ -106,41 +106,13 @@ If you do not have the link available, these instructions show you how to naviga
 
     ![Cloud shell example](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-13.png)
 
-6. **Use `vi` text editor** in the Cloud Shell to **create a new file** named `gitlab-admin-service-account.yaml` and **copy the contents in the example below**. Keep in mind that YAML files are strict about two spaces for line indentation.
+6. **Use the following command** to create the service account.
 
     ```
-    vi gitlab-admin-service-account.yaml
+    kubectl create sa gitlab-admin -n kube-system
+    kubectl create clusterrolebinding gitlab-admin --serviceaccount=kube-system:gitlab-admin --clusterrole=cluster-admin
     ```
-    ```
-    apiVersion: v1
-    kind: ServiceAccount
-    metadata:
-      name: gitlab-admin
-      namespace: kube-system
-    ---
-    apiVersion: rbac.authorization.k8s.io/v1beta1
-    kind: ClusterRoleBinding
-    metadata:
-      name: gitlab-admin
-    roleRef:
-      apiGroup: rbac.authorization.k8s.io
-      kind: ClusterRole
-      name: cluster-admin
-    subjects:
-    - kind: ServiceAccount
-      name: gitlab-admin
-      namespace: kube-system
-    (Copy/paste the contents above this line)
-    ```
-    ```
-    :wq
-    ```
-
-7. **Use the following command** to apply the service account and cluster role binding to your cluster using the username and password that you copied to your text editor file.
-
-    ```
-    kubectl apply -f gitlab-admin-service-account.yaml --username=admin --password=<password>
-    ```
+   You will receive a confirmation.
     ```
     serviceaccount "gitlab-admin" created
     clusterrolebinding "gitlab-admin" created
@@ -235,6 +207,7 @@ When your account was created, the GitLab handle that you provide is used to aut
     ```
 
 6. Click **Add Kubernetes cluster**.
+    > If you are adding your cluster to many GitLab projects, flag **GitLab-managed cluster** just on the first integration.
 
     ![Cluster form example](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-9.png)
 
@@ -242,17 +215,15 @@ When your account was created, the GitLab handle that you provide is used to aut
 
 1. On the newly created cluster page, click the **Applications** tab.
 
-2. Locate _Helm Tiller_ and click the **Install** button. Please wait a few moments for this to complete.
+2. Locate _Prometheus_ and click the **Install** button. Please wait a few moments for this to complete.
 
-3. Locate _Prometheus_ and click the **Install** button. Please wait a few moments for this to complete.
-
-4. Locate _GitLab Runner_ and click the **Install** button. Please wait a few moments for this to complete.
+3. Locate _GitLab Runner_ and click the **Install** button. Please wait a few moments for this to complete.
 
     ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-14.png)
 
-5. At the top of the page, click on the **Health** tab for your cluster.
+4. At the top of the page, click on the **Health** tab for your cluster.
 
-6. Take a few moments to understand the metrics that are available from Prometheus. If you experience errors with your cluster, you can understand if it's related to CPU and Memory saturated using Prometheus.
+5. Take a few moments to understand the metrics that are available from Prometheus. If you experience errors with your cluster, you can understand if it's related to CPU and Memory saturated using Prometheus.
 
     ![Installed applications](https://storage.googleapis.com/gitlab-demosys-docs-assets/tutorials/getting-started/configuring-group-cluster-15.png)
 

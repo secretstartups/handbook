@@ -64,10 +64,6 @@ Zoom templates do not include most of the branding used to set up the original t
 
 1. Under **Post Attendee URL**, you can click **Edit** to adjust the URL you want attendees to see when you end the webinar session as needed.
 
-1. Under **Post Webinar Survey**, after the first session but before the second session occurs, click the toggle button to the right to turn on this option and paste in [the link](https://docs.google.com/forms/d/e/1FAIpQLScdTGl7Wwcw2yzFpvCd5jYMPgOf_lp8BYMKKhaW0Mrpt51TXg/viewform?usp=sf_link) to the training survey. 
-    - This will result in the survey popping up for each attendee immediately after you end the session.
-
-
 1. Click **Save**.
 
 ### Restrict the number of registrants
@@ -85,6 +81,12 @@ Zoom templates do not include most of the branding used to set up the original t
 1. Click the **Email Settings** tab at the bottom of the webinar page.
 
 1. For the **Email Contact** row, click **Edit** and change the email contact name and address to your own. This will result in all automated emails received by attendees to be from your email address.
+
+### Add the survey link ###
+
+1. On the "Polls/Survey" tab in the **Survey** row, click **Use a 3rd party survey** and paste in [the link](https://docs.google.com/forms/d/e/1FAIpQLScdTGl7Wwcw2yzFpvCd5jYMPgOf_lp8BYMKKhaW0Mrpt51TXg/viewform?usp=sf_link) to the training survey. 
+    - This will result in the survey popping up for each attendee immediately after you end the session.
+
 
 ### View and communicate the registration page link
 

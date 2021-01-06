@@ -104,6 +104,7 @@ The Practice Manager follows these steps to request creation of a new SKU.
 1. Create an [issue in the Finance issue tracker](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=New_PS_SKU) referencing the above requirements
 1. Review with the Finance Business Partner for Sales
 1. Make any require changes
+  1. Include an executive summary with the business rationale
 1. Submit to VP of Customer Success for approval
 1. Submit to CFO, CRO and CEO for approval
 1. Once approved, submit to Accounting to create SKU in Zuora (note: Accounting does not create a SKU number but does add the offering to the product catalog)
@@ -120,6 +121,9 @@ The Practice Manager follows these steps to request creation of a new SKU.
 1. Click the drop down the box next to `New Quote Flow` and select `Add Add On Products`.
 1. In the `Professional Services and Training` Row, click the drop down that says `Select Plan` to see the current SKU offerings that the Sales Reps see.  
 
+### How to retire a service SKU
+
+Retirement of SKUs for PS offerings is requested by the PS Practice Manager. To request retirement of a SKU, the Practice Manager follows the same basic steps used for creating a SKU to gain the appropriate approvals, including using the same issue template.
 
 ### How to edit a Professional Services product page
 
