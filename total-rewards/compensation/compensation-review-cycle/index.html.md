@@ -311,13 +311,14 @@ While some GitLab team-members may not receive an increase due to already being 
 1. Select to sign in with your originally assigned GitLab email address.
 * If you select to sign in with an alias, you will receive an error and not be able to sign in. You can confirm your original GitLab email address on the Personal tab of BambooHR.
 * ![incorrect email](/images/handbook/people-group/2_Compaas.png)
-1. If you have not used Compaas in the past, you will need to Select the Terms and Conditions box and click Submit. If a user has already visited Compaas Rewards they will automatically be taken to their approver dashboard view.
+1. If you have not used Compaas in the past, you will need to Select the Terms and Conditions box and click Submit. If a user has already visited Compaas Rewards they will automatically be taken to their slate view.
 * ![terms and conditions](/images/handbook/people-group/T&C.png)
-1. Once logged in you will be taken to your slate. The slate will list the team member's name, role, benchmark role, last raise amount (USD), raise (USD) and raise percent, compensation before and after any adjustments, range with range penetration, and notes.
+1. Once logged in you will be taken to your slate. The slate will list the team member's name, role, benchmark role, performance factor, last raise amount (USD), raise (USD) and raise percent, compensation before and after any adjustments, range with range penetration, and notes.
 * ![slate owner](/images/handbook/people-group/3_Compaas.png)
 * The role is located under the team member's name. This is the team member's job title including level, for example, Senior or Associate.
 * Underneath the role is the [benchmark role](/handbook/total-rewards/compensation/compensation-calculator/#sf-benchmark). This is the job title that is used for determining the base compensation before other inputs such as level are evaluated. For example, the benchmark role for a Senior Backend Engineer is a Backend Engineer, Individual Contributor.
-* The Last Raise field outlines in USD the total amount of the last pay change to base salary. This value may be annualized or as a differential in pay rate as seen in the Compensation Table in BambooHR. We are working with Compaas to have this annualized in USD for all team membes.
+* The performance factor is uploaded into Compaas and taken from the [Performance/Potential](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix) review completed in November.
+* The Last Raise field outlines in USD the total amount of the last pay increase to base salary. 
 * The Raise (and Raise as %) is where the manager or indirect manager can enter in the proposed increase for the team member for FY22 Compensation. Please note this is all in USD and will be converted to local currency once the cycle has closed.
 * The team member's compensation before (light gray) and after (green) any adjustments is listed to the right of the percent increase.
   * If there is an "OTE" next to the compensation values, this indicates that part of cash compensation is a bonus component. Total Rewards works in OTE during Annual Compensation Review and then allocates to base/variable based on the desired split per role.
