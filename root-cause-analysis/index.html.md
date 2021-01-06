@@ -31,7 +31,7 @@ While RCAs can take any shape or form, we have tried to consolidate the process 
 
 To perform an RCA simply leverage the template provided below and open an issue in your teams issue tracker (you can use the template to make your own issue template in your teams tracker as well). By going step-by-step in the issue, answering all of the questions, and collecting all of the information, we aim to maximize RCAs effectiveness and make the process as repeatable as possible.
 
-Please reference [the RCA template](https://gitlab.com/gitlab-com/gl-security/secops/operations/blob/master/.gitlab/issue_templates/RCA.md) in Operations for a step-by-step overview of questions to answer in an RCA.
+Please reference [the RCA template](https://gitlab.com/gitlab-com/gl-security/secops/operations/blob/master/.gitlab/issue_templates/rca.md) in Operations for a step-by-step overview of questions to answer in an RCA.
 
 For a more in-depth overview of an established RCA process, please review [this handbook page](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html).
 
