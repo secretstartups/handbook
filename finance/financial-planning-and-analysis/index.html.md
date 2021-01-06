@@ -45,19 +45,19 @@ title: "Financial Planning & Analysis"
 
 #### Board Plan
 
-Purpose: GitLab's Board Plan, or operating Plan, is a guideline to understand how much capital it needs and how the capital will be consumed. The Board Plan helps GitLab answer questions like "how fast can we hire and when?"
+Purpose: GitLab's Board Plan, or operating Plan, identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
 
-What: The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Board Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Board Plan to give us the best chance to hit our stretch targets. Corporate bonus and sales commissions will be set based on the stretch targets.
+What: The Board Plan includes the annual strategy, business Plans for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expenses are Planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. 
 
 Governance: The Board Plan is approved by the board of directors every year.
 
-#### Documentation 
-
-All archived and templated board plans can be found by searching `Google Drive > FP&A Shared Drive > Corporate FP&A > Board Meetings`. In the `Board Meetings` Folder there is a templated board meeting deck to help team members develop board decks in a consistent manner. GitLab uses `Google Presentation` for the deck and connects `Google Sheets` to the deck to display charts, graphs, and commentary associated with the topics for the board meeting. In each tab of the `Google Sheet` team members can find instructions on how to prep or modify each slide for the board deck. As with anything at GitLab, iteration is a big factor in building board decks. Having a consistent way to build upon makes the process of board deck building much faster. 
+#### Target
+Purpose: Build a go-to-market business plan to achieve the companies tops-down target. 
+What: Set a bookings and revenue target at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
 
 #### Actuals
 
-What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan.
+What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan and to our forecasts.
 
 #### Monthly Forecast
 
@@ -74,13 +74,9 @@ What: Forecast is a dynamic assessment based on current expectations of financia
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
-
-#### Target
-What: Target is a goal or objective that may be higher or lower than the Plan or Forecast. Targets are typically used in conjunction with setting OKRs, compensation plans and other performance objectives.
-Governance: A target that relates to IACV is usually agreed upon by the DRI of the target and VP Finance or CFO. Other targets are part of OKRs and reviewed by the CEO.
-
-#### Baseline
-What: Baseline is a measurement of actual expense or revenue that relates to a certain point in time (i..e month, quarter or year). We use baselines to measure progress of improvement against actual results. The progress can be stated in monthly, quarterly or annualized terms.
+#### Street Model
+What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
+Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Approved by the Board of Directors.
 
 ### Mechanics of the Board Plan:
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
