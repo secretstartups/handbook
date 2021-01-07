@@ -12,7 +12,7 @@ title: Contribute to GitLab Learn
 {:toc .hidden-md .hidden-lg}
 
 
-**Important Note:** As of 2021-01-05, this process is in the `draft` state. The GitLab Learn platform has not yet been launched to the wider GitLab community. Upon the launch, this process will be further finalized. If you have contributions that you think would improve this draft process, please submit a merge request.
+**Important Note:** As of 2021-01-07, this process is in the `draft` state. The GitLab Learn platform has not yet been launched to the wider GitLab community. Upon the launch, this process will be further finalized. If you have contributions that you think would improve this draft process, please submit a merge request.
 
 
 ### Step 1: Create and Curate Learning Content
