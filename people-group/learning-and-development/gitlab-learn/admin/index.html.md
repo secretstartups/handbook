@@ -216,12 +216,14 @@ It's important to have another member of your team review your content before ma
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
 
-#### Peer reviewing for GitLab Learning Eganvelists
+#### Peer reviewing for GitLab Learning Evangelists
 
 When completing a peer review, Learning Evangelists can
 
 1. Ask the L&D team for support, or
 1. Ask another Learning Advocate
+
+As new team members are onboarded as Learning Evangelists, the L&D team will serve as the primary peer reviewers for contributed content. As the Learning Evangelists get more confident in the platform, a process will be developed to share and review content together. For now, please reach out to the L&D team in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) and request for your learning content to be reviewed.
 
 #### Content review checklist items
 
