@@ -594,6 +594,9 @@ Currently any form starting with these are actively being added into a program a
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
+- Update `Add to nurture` smart list and flow steps for trigger campaigns (update batch campaign if you will be requesting list uploads).  
+  - Update member of program filter in the smart list to be the program name.
+  - Edit the flow steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the prefix](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) you are now tracking to prevent duplication of programs in the future.
