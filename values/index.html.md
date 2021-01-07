@@ -781,7 +781,7 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 
 ##### Cultural lens
 {:.no_toc}
-Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "fail often, and fail fast!", and "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt. 
+Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt. 
 
 ##### Focus on Improvement
 {:.no_toc}
