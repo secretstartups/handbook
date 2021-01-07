@@ -216,9 +216,9 @@ It's important to have another member of your team review your content before ma
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
 
-#### Peer reviewing for GitLab Learning Advocates
+#### Peer reviewing for GitLab Learning Eganvelists
 
-When completing a peer review, Learning Advocates can
+When completing a peer review, Learning Evangelists can
 
 1. Ask the L&D team for support, or
 1. Ask another Learning Advocate
