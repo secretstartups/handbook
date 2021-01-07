@@ -33,12 +33,25 @@ If you're just getting started using EdCast, watch this short overview of the us
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hm7SLOiV08o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Creating new learning content
+### Contributing learning content
 
 Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels, Channels, and Groups can be found in our [GitLab Learn contribution docs](/handbook/people-group/learning-and-development/gitlab-learn/contribute/#learning-content-in-the-lxp)
 
+Before reviewing the documented best practices below, take time to watch these recorded video examples of how content is contributed to GitLab Learn. These demos will help familiarize you with the terminology and strucutre of content in the platform and give context to the documented best practices.
 
-#### General content notes
+
+#### Example: Contributing content to GitLab Learn
+
+
+##### Contribute an interesting article or video
+
+
+##### Contribute a new Pathway or Journey to earn a badge
+
+
+### Content creation best practices
+
+#### Applicable to all content
 
 1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
 
@@ -71,12 +84,10 @@ In the GitLab 101 certification, a user must first read the handbook page on tec
 
 #### Step 1: Determine if content is `public` or `private`
 
-
 | Content Type | Definition | Example Audience |
 | ----- | ----- | ----- |
 | `private` | Content is only visible to the assigned learner or assigned group | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
-
 
 #### Step 2: Build smartcards depending on content status 
 
@@ -109,14 +120,7 @@ Option 3: If parts of content are for certain audience and parts are available t
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
-#### Example: Contributing content to GitLab Learn
-
-##### Contribute an interesting article or video
-
-##### Contribute a new Pathway or Journey to earn a badge
-
 ### Choosing between a badge or certification
-
 
 #### Badges
 
