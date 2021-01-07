@@ -12,7 +12,7 @@ title: GitLab Learn Admin Documentation
 
 ## Navigating GitLab Learn Admin Content
 
-On this page, team members working in the GitLab Learn platform and GitLab Learning Advocates will find documented processes and best practices for content creation. The page is split into two important sections.
+On this page, team members working in the GitLab Learn platform and GitLab Learning Evangelists will find documented processes and best practices for content creation. The page is split into two important sections.
 
 | Section Number | Title | Purpose |
 | ----- | ----- | ----- | 
@@ -277,9 +277,9 @@ Channels are used to collect and broadcast information based on like content. Us
 1. SmartCards, Pathways, and Journeys can be shared to channels upon creation or can be added to relevant channels later on
 1. Channels can have multiple curators to encourage collaboration and content sharing
 
-#### How Learning Advocates can share content
+#### How Learning Evangelists can share content
 
-Learning Advocates can use the following processes to broadcast or highlight their contributed content
+Learning Evangelists can use the following processes to broadcast or highlight their contributed content
 
 1. Raise attention to new content with the L&D team via Slack. The team will help you determine the best Carousels, Groups, or Channels to broadcast your content
 1. Share content with a Group you're a part of, like your team
