@@ -459,7 +459,6 @@ Kathy Wang
 **Team Size:** 13 (as of Jun. 2019)
 **Projected Team Size:** 15 (by the end of Jan. 2020)
 **Leadership Team:**
-Paul Harrison
 Jan Urbanc
 **How the team works:** Security Operations specialists respond to incidents. This is often a fast-paced and stressful environment, where responding quickly and maintaining one's composure is critical. 
 **Links to relevant handbook pages:**
