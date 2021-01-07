@@ -15,7 +15,7 @@ In January 2021, GitLab is implementing LinkedIn Learning to provide our team me
 
 ## Benefit of LinkedIn Learning
 
-[add text here - What it will do for you]
+Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access their over xx,xxx courses on many different topics. 
 
 ### How to incorporate LinkedIn Learning into your day-to-day role 
 
@@ -23,13 +23,17 @@ In January 2021, GitLab is implementing LinkedIn Learning to provide our team me
 
 [add Video overview of the experience including How to access from the LXP]
 
+You can download the LinkedIn Learning app on your phone. You can take learning wherever you go! 
+
 ### Take Time out to Learn
 
-[add text here]
+You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can also taime time to learn about things that are just fun for you like graphic design, drawing, or mindfulness. 
+
+Finding courses and skills to learn about just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. That may be learning more to improve current skills or learning new skills completely. 
 
 ## Recommended Learning Paths
 
-We have outlined some recommended learning paths for different roles at GitLab. This is not an exhaustive list, but it is a good start if you are new to the tool. 
+We have outlined recommended learning paths for different roles at GitLab. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
 - [Confronting Bias: Thriving Across our Differences](https://www.linkedin.com/learning/confronting-bias-thriving-across-our-differences/introduction-by-arianna-huffington?u=2255073)
