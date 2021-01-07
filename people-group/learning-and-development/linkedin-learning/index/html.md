@@ -116,4 +116,12 @@ Our integration and configuration was set up in conjunction with our partners fr
 
 ## FAQs 
 
-[add text here]
+- I didn't recieve an invite for LinkedIn Learning. What should I do? 
+   - Please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
+- I recieved an invite for LinkedIn Learning, but can no longer find it. What should I do? 
+   - You can search your inbox for the subject `subject line`. If you still can't find the email, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
+- I can't find LinkedIn Learning courses in GitLab Learn. What should I do? 
+   - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning]() to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
+- How do I access content in LinkedIn Learning? 
+   - a 
+- a 
