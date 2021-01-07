@@ -52,6 +52,16 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
+### Challenge Issue explainer video 
+
+See the video below for a quick overview of how we use GitLab to facilitate manager enablement 
+
+<!-- blank line -->
+<figure class="video_container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/VTMQiCgvEDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 ### Week 1
 
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
@@ -231,11 +241,5 @@ Pilot Kickoff Video:
 </figure>
 <!-- blank line -->
 
-Check out the animated explainer video for the challenge
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
