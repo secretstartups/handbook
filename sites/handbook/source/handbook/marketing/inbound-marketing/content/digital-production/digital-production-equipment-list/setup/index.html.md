@@ -52,7 +52,7 @@ _A capture card that allows you to connect your camera via HDMI to your computer
 1. Set up the **standing green screen** in an open space with room ahead for the rest of your gear. 
       * Check your light: all house lights should be turned off. Windows are welcome so long as direct sunlight will not contact your green screen or yourself. Windows should also not be directly behind the green screen. 
       * Check your sound: Avoid or turn off objects such as fans or appliances that might create excessive noise.            
-1. Set up your **camera** using the provided directions and place it on the tripod ahead of the green screen.
+1. Set up your **camera** using the [provided directions](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/) and place it on the tripod ahead of the green screen.
       * You can connect the HDMI cable to your camera and use a monitor to verify the image when you are standing in place. Remember, you can also use an HDMI cable with the capture card to connect your camera to Zoom if you need to show the view to someone else. 
 1. Check the camera LCD screen (viewfinder). You might want to use a monitor to assist.
       * The camera lens should be approximately the height of your eyes. You should not appear to be tilting your head down or up. 
@@ -62,6 +62,7 @@ _A capture card that allows you to connect your camera via HDMI to your computer
       * Place two panel lights on stands on either side of the green screen, facing inward, to light the green screen evenly without being obstructed by the speaker. 
           * Look for shadow lines or areas that are significantly brighter or darker and adjust your lights  as usual. 
           * It is highly recommended to use diffusion sheets with pins as an excellent way to soften the light and create a more even look. You can use the pins to clip the diffusion sheet to the doors of the panel light. 
+      * To light your subject, place the final panel light behind your camera, raised nearly to the ceiling. It can be directed at your subject (using diffusion) or, in some cases, simply faced towards the ceiling and turned to full intensity.          
 
 ![Green Screen set up diagram](/images/digital-production/green-screen-setup_mvc1.png){: .shadow.medium.center}
 
@@ -72,7 +73,15 @@ _A capture card that allows you to connect your camera via HDMI to your computer
 4. Green Screen
 </sub> 
       
-      --------
+##### What To Look For 
+- SIDE PANELS: Soft, evenly distributed light on the green screen, with no significant difference in brightness over the portion that will be viewable on camera. 
+- FRONT PANEL: Even light on your subject without casting a shadow behind onto the green screen (keeping the the light raised high will help). Diffusion is highly recommended, or the light could be directed at the ceiling without diffusion. 
+
+
+--------
+
+
+
 TO AD: Remaining instructions
 
 

@@ -12,7 +12,7 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-  [The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review Gitlabs policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
+  [The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review GitLab's policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
 
 ## Standard Desk Package
 
@@ -138,7 +138,7 @@ This package is very advanced and intended for those with a high need of profess
 
  - Lav microphone kit - [Example](https://www.bhphotovideo.com/c/product/1385594-REG/sennheiser_ew_112p_g4_a1_ew_112p_g4_camera.html?gclid=CjwKCAiAkan9BRAqEiwAP9X6UcPXPNWTfrUHoz9YxiCTsjaXN0MTO3lKNQGHjHAO9Ys68UAY2aOA2xoC3jkQAvD_BwE&pcur=CAD)
  - Adapter to connect Lav microphone to Camera - [Example](https://www.bhphotovideo.com/c/product/1537930-REG/kondor_blue_kb_mxlr_16_bk_mini_xlr_male_to.html). 
- -- Shotgun Micrphone (for camera) - [Example](https://www.bhphotovideo.com/c/product/1183909-REG/rode_videomicro_compact_on_camera.html?sts=pi&pim=Y)
+ - Shotgun Micrphone (for camera) - [Example](https://www.bhphotovideo.com/c/product/1183909-REG/rode_videomicro_compact_on_camera.html?sts=pi&pim=Y)
 
 ##### Green Screen
 
@@ -152,7 +152,7 @@ This package is very advanced and intended for those with a high need of profess
 ##### Teleprompter
 
 - Teleprompter - [Example](https://www.amazon.com/Glide-Gear-TMP100-Adjustable-Teleprompter/dp/B019AJOLEM).  
-_This camera 
+_This device attaches to the camera to allow a script to be read while speaking directly to camera._  
 
 ##### Camera Support
 

@@ -16,15 +16,19 @@ twitter_creator: "@gitlab"
 
 The Blackmagic Pocket Cinema is a camera designed for professional quality video recording. It is used by GitLab employees who require expanded features for recording video or making higher end calls. 
 
+#### External Resource:
+
+**[Blackmagic Pocket Cinema Manual](https://www.bhphotovideo.com/lit_files/452872.pdf)**
+
 ## Camera Prep
 
-### Powering the Camera
+### Power the Camera
 
 1. Insert the battery into the compartment located at the bottom of the camera. 
 1. Connect the included AC Power cable to the left side of the camera. Once connected, the cable is designed to lock in place to avoid accidently disconnecting. 
 1. The camera will power itself from the connected power cable, while also charging the battery should you wish to record using battery power. 
 
-### Attaching a Lens
+### Attach a Lens
 
 1. Uncover the lens mount on the camera. Be careful not to allow debris or dust to contaminate the sensor. 
 1. Uncover the rear cap of the camera lens, leaving the front cap on. 
@@ -118,7 +122,15 @@ _Note: If your camera has been adjusted to display shutter speed instead, adjust
 
 #### 5. Adjust ISO
 
+##### Recording A Subject/Using a Green Screen
+
 1. With your camera in place and pointed at your subject, look at the Histogram at the bottom left of the LCD Screen. It looks like a horizontal bar with rolling white data. The left represents the darkest parts of your image and the right the brightest. 
+1. On the LCD Touch Screen, select **ISO** near the top right of the screen. 
+1. Adjust the **ISO** while referring to the Histogram. The contents of the histogram will shift right or left. Lower ISO values result in a better image, but require more light. 
+1. Continue to adjust the **ISO** until the Histogram shows a decreasing slope on both ends, avoiding a vertical drop off. 
+
+##### Recording Yourself at Your Desk 
+
 1. On the LCD Touch Screen, select **ISO** near the top right of the screen. 
 1. Adjust the **ISO** while referring to the Histogram. The contents of the histogram will shift right or left. Lower ISO values result in a better image, but require more light. 
 1. Continue to adjust the **ISO** until the Histogram shows a decreasing slope on both ends, avoiding a vertical drop off. 
