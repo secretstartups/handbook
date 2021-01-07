@@ -11,6 +11,7 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
 ![](./image.png)
 
 [Source](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
+[Full Process Flow] (https://docs.google.com/spreadsheets/d/1Y8wWj5g8T6HuPGEnHaWUfdtI7LPmathGaMwfiA2b_Ks/edit?usp=sharing)
  
 ### Project plan
  
