@@ -7,25 +7,25 @@ title: "Success Roadmap Discovery Engagements"
 
 Success Roadmap discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges.
 
-### Success Roadmap design goals
+### Success Roadmap Design Goals
 
 - Facilitate collaboration with customers on articulating critical success factors.
-- Generate results rapidly and efficiently through a co-worked document outlining project considerations and scope in as little as one 60 minute session.
+- Generate results rapidly and efficiently through a co-worked document outlining strawman considerations and scope in as little as one 60 minute session.
 - To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
-- To enable diversity and inclusivity by using an open collaboration event to build out the deliverable.
+- To enable diversity and inclusivity of inputs by using an open collaboration event to build out the deliverable.
 - Give the customer a quick-start strawman that can be iteratively improved.
 - To exhibit transparency by articulating all the things that are required for success, regardless of whether GitLab has services to offer for the items.
-
+- All of the above work together to broaden the scope of **who can facilitate** session. Facilitation generally requires a technical background, but it is not limited to any specific technical role within GitLab.
 ### Some Qualifiers
 
-- It does not include design discussions or performance of any of the identified items.
+- The Success Roadmapping activity does not include detailed design discussions nor doing the actual work to make progress on any of the identified items.
 - Generally one Success Roadmap is offered per SA customer engagement.
 - Regardless of whether the customer chooses not to use professional services, the document is a high value artifact that they can develop further.
 - If the customer chooses to use an applicable professional service, the engagement document will help rapidly understand the customer perspectives to scope and price the engagement. (Efficient reuse)
 
 ### Further Iterations of Success Roadmaps
 
-Like anything in the handbook, it is everyone’s responsibility and prerogative to improve these materials through corrections and enhancements. At the same time, Success Roadmaps reflect adherence to specific design principles regarding how to deliver value faster, more efficiently and by more types of GitLab technical roles.  It may be easier to keep this value delivery high and efficient, by becoming familiar with these design principles before making substantial structural changes. Those principles are documented here: [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
+Like anything in the handbook, it is everyone’s responsibility and prerogative to improve these materials through corrections and enhancements. At the same time, Success Roadmaps reflect adherence to specific design principles to deliver the items documented above in Success Roadmap Design Goals.  For those wishing to make substantial changes or generate entirely new Success Roadmaps, these design principles are documented here: [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
 
 ### Catalog of Success Roadmap Discovery Engagements
 
