@@ -804,7 +804,13 @@ Changing a proposal isn't iterating. Only when the change is rolled out to users
 
 A few challenges have arisen with how we approach iteration. The best example may be the proposal of a two-month release cycle. The argument was that a longer release cycle would buy us time for bug fixes and feature development, but we don’t believe that is the case. As detailed above, we aim to make the absolute smallest thing possible, and that doing otherwise will only slow us down.
 
-That said, we would love to work on a two-week release cycle, but that should be another conversation.
+That said, we would love to work on a two-week release cycle, but that should be another conversation. 
+
+Sid explains some common misperceptions of how changing proposals isn't iteration, evalauation and the consequences should be different based on the status of the iteration, and creating a safe zone for team members to iterate. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nXfKtnVUhvQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ##### Make small merge requests
 {:.no_toc}
