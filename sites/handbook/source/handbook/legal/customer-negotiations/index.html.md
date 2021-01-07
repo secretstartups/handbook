@@ -105,7 +105,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 ### 🎥 [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
 *Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
 
-1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template found [here](/handbook/legal/#contract-templates) and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
+1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
 2. GitLab will negotiate changes to our terms and conditions provided the [current] Opportunity is greater than $25K (USD).
 3. GitLab will negotiate using a Customer terms and conditions-if they are applicable to our Software and business-if the [current] Opportunity is greater than $100K (USD).
 4. **Why don't we negotiate with all Customers?** Using resources to negotiate on all deals would not be a good use of GitLab resources and instead, we created our terms to be reasonable and in line with industry standards which allows us to place our resources into creating better products and services. 
