@@ -304,6 +304,8 @@ While some GitLab team-members may not receive an increase due to already being 
 
 [Compaas](https://www.compa.as/) is GitLab's compensation platform where managers can login, review, change, and submit their proposed increases during Annual Compensation Review.
 
+For any feedback about using Compaas during the FY22 Manager Review portion of Annual Compensation Review, please use the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/240). 
+
 **Process for slate owners:**
 
 1. Navigate to [Compaas](https://app.compa.as/login) and select the option to sign in with Google.
