@@ -1,3 +1,5 @@
+General
+
 ---
 layout: handbook-page-toc
 title: Contribute to GitLab Learn
@@ -10,9 +12,7 @@ title: Contribute to GitLab Learn
 {:toc .hidden-md .hidden-lg}
 
 
-# Contribute to GitLab Learn
-
-## Handbook First Learning Content
+## Handbook First Learning Content in GitLab Learn
 
 Content in the LXP is created using a handbook first approach to learning. This means that all learning content that users can access in the LXP can be found in the handbook. A [handbook first approach to learning](/handbook/people-group/learning-and-development/interactive-learning) in the LXP ensures:
 
@@ -20,10 +20,12 @@ Content in the LXP is created using a handbook first approach to learning. This 
 - barriers to contributions are removed or reduced
 - the organization maintains a single sorce of truth
 
-The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/#how-to-contribute) outlines examples of how users can create handbook first learning content.
+The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/gitlab-learn/#how-to-contribute) outlines examples of how users can create handbook first learning content.
 
 
 ## Learning content in the LXP
+
+It's important for all content contributors to understand how learning material is created and organized in GitLab Learn. Review the following notes and videos to get a sense of how the platform is built and how content is shared with and discovered by users.
 
 EdCast organizes content in the LXP in three major types of content buckets. When contributing to the LXP, it's important to consider which of these three types might be best to organize content and guide learners to their learning objectives.
 
@@ -88,57 +90,15 @@ Groups are a collection of people with a similar characteristic or learning inte
 
 ## How to Contribute
 
-The GitLab team uses GitLab to organize and collaborate on the contribution of content to the LXP. All related issues can be found in the [LXP Contribution GitLab project](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions), managed by the L&D team.
+Both team members and our wider community can contribute learning content to the LXP. At this time, the community contribution process is a work in progress, as the platform has not yet launched to the wider community.
 
-### Step 1: Create and Curate Learning Content
+You'll find related processes for team members and community members interested in contributing content below.
 
-1. Make a contribution to the handbook. All learning content in the LXP is built with a handbook first approach. This means that information you'd like to add to the LXP must be stored first in the handbook. If you have not made a contribution to the GitLab handbook before, please review [how to contribute to GitLab](https://about.gitlab.com/community/contribute/). 
-
-The table below should be used as a reference for suggested handbook sections where learning content can be uploaded. If you aren't sure where to contribute learning content in the handbook, please review the [main handbook page](https://about.gitlab.com/handbook/#introduction) or contact the Learning and Development team at `learning@gitlab.com` for support.
-
-| Content | Suggested Handbook Location |
+| Audience | Contribution Process |
 | ----- | ----- |
-| Leadership: emotional intelligence, coaching, and all other factors that contribute to growing and developing as a leader at GitLab | [Leadership Handbook](https://about.gitlab.com/handbook/leadership/) |
-| Communication: effective communication strategies, remote commiunication, and any additional content that contributes to strengthening asynchronous and remote communication skills | [Communication Handbook](https://about.gitlab.com/handbook/communication/) |
-| Diversity, Inclusion, and Belonging: inclusivity trainings, strategies for developing a sense of belonging, and content related to implementing DIB initiatieves | [DIB Handbook](https://about.gitlab.com/company/culture/inclusion/) | 
+| GitLab Team Members | [Become a GitLab Learning Evangelist](/handbook/people-group/learning-and-development-gitlab-learn/contribute/team-member-contributions) |
+| Wider Community Members | [Contribute to the LXP]((/handbook/people-group/learning-and-development-gitlab-learn/contribute/community-contributions) ) |
 
-1. If the content you'd like to contribute to the LXP is already included in the handbook - great! Your contribution to the LXP could be a new or creative curation of existing content from GitLab that helps a learner better understand a topic or reach a goal. Consider curating current content from the handbook, [GitLab YouTube channel](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), and [GitLab documentation](https://docs.gitlab.com/). Consider taking the opportunity to add to or update existing content before contributing to the LXP.
+### Why create a contribution process?
 
-### Step 2: Propose Content to be included in the LXP
-
-1. Using the descriptions above, decide which content type might be the best fit for the information you'd like to contribute. Navigate to the corresponding creator kit issue templates below and begin to populate the issue with required content.
-
-Issue Templates:
-
-- SmartCard Creator Kit
-- Pathway Creator Kit
-- Journey Creator Kit
-- Carousel Creator Kit
-- Channel Creator Kit
-- Group Creator Kit
-
-**Note:** In order for content contributions to be reviewed by the appropriate GitLab team, all information on the issue template must be addressed. GitLab team members may ping you to address content gaps or answer questions about your contributions. 
-
-### Step 3: Iterate on content with GitLab team via issues
-
-1. After all required content is uploaded to the correct creator kit issue, GitLab team members will collaborate with contributors to iterate on and refine contributions. The following chart highlights which GitLab teams will collaborate on and approve content contributed to the LXP:
-
-| Contributor Audience | Team Approval | GitLab Label|
-| ----- | ----- | ----- |
-| GitLab Team Members | L&D Team | `edcast-contribution-l&D` |
-| Customers | Professional Services | `edcast-contribution-professional-services` |
-| Partners | Partner Enablement | `edcast-contribution-partners` |
-| Sales Team | Field Enablement | `edcast-contribution-field` |
-| Wider GitLab Community | Community Relations Team | `edcast-contribution-community` |
-
-
-To learn more about the admin review and approval process of contributions to the LXP, please review the LXP admin section of the handbook.
-
-1. The GitLab team will determine when your contributions are ready to be added to the LXP and will communicate with contributors on related issues.
-
-
-### Step 4: Content is uploaded to the LXP
-
-1. The GitLab team members outlined above will upload related content to the LXP. Additional context about this admin process can be found in the LXP admin section of the handbook.
-
-**Note:** At the GitLab team's discretion, individual contributors may be given permissions to upload content to the LXP.
+The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learnesr to contribute and incorporates a system to check for accuracy and quality. In additiona, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelem of content upload that would otherwise be required of a few team members.
