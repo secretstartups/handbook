@@ -10,12 +10,10 @@ Success Roadmap discovery engagements provide customers with the benefit of GitL
 ### Success Roadmap design goals
 
 - Facilitate collaboration with customers on articulating critical success factors.
-- Generate rapid results in a co-worked document outlining project objectives in as little as one session.
-- Foster efficiency by being completable in a single 60 minute facilitated, presales working session.
-- Use a template for efficiency, and iterate on best practices
+- Generate results rapidly and efficiently through a co-worked document outlining project considerations and scope in as little as one 60 minute session.
+- To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
 - To enable diversity and inclusivity by using an open collaboration event to build out the deliverable.
-- Foster GitLab Team Member inclusivity by including all prep and training in a single page of the template.
-- Give the customer a deliverable that can be iteratively improved.
+- Give the customer a quick-start strawman that can be iteratively improved.
 - To exhibit transparency by articulating all the things that are required for success, regardless of whether GitLab has services to offer for the items.
 
 ### Some Qualifiers
