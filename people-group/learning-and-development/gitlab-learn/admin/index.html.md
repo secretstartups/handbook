@@ -479,9 +479,6 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 1. Click the `done` button
 
 
-## Contribution Approvals
-
-Admin process for approving content contributed to the LXP is coming soon.
 
 ## Reporting
 
