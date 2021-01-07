@@ -157,7 +157,7 @@ Steps for L&D Team when setting up a CEO Handbook Learning Session:
 
 List of CEO Handbook Learning Sessions: 
 
-- Coming Soon!
+- [Common misperceptions about Iteration](https://www.youtube.com/watch?v=nXfKtnVUhvQ)
 
 
 
