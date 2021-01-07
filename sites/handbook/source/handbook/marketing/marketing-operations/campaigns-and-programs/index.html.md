@@ -594,7 +594,7 @@ Currently any form starting with these are actively being added into a program a
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
-- Update `Add to nurture (trigger)` smart list and flow steps. `Add to Nurture (batch)` is handled by MOPs if there are errors with leads entering the program. 
+- Update `Add to nurture (trigger)` smart list and flow steps. 
   - Update `member of program` filter in the smart list to be the program name.
   - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
