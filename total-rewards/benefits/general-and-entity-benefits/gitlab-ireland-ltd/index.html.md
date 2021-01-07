@@ -97,13 +97,24 @@ Once the total rewards team has approved the bike or ticket application, an invo
   * Team members should refer to [GitLab's PTO Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) as there is no statutory requirement to provide sick pay or unpaid sick leave in Ireland. 
   * Team members must designate all time off for illness as `Out Sick` to ensure that PTO is properly tracked. 
 
+* Maternity Leave in Ireland:
+  * Team members who become pregnant in Ireland are eligible to take 26 weeks of maternity leave. Team members must take at least 2 weeks of maternity leave before your baby is due and at least 4 weeks after the baby is born. 
+  * Maternity benefit is payable by the state subject to a team member's PRSI contributions. The rate is 245 EUR per week.
+  * [If you have been at GitLab for six months, GitLab will supplement the Maternity Benefit up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your maternity leave.
+  * Team members can take additional unpaid maternity leave for up to 16 more weeks, beginning immediately after the end of the 26 weeks' basic maternity leave. To take additional leave, please send an e-mail to Total Rewards at least 4 weeks before your basic maternity leave ends. 
+  * Process for applying for state maternity benefit:
+    * Notify Total Rewards of your baby's due date, the start and end dates of your maternity leave.
+    * Total Rewards will send you the completed MB2 form.
+    * Submit your application for state maternity benefit via the [MyWelfare website](https://services.mywelfare.ie/en/topics/parents-children-family/).
+
+
+
 * Paternity Leave in Ireland:
-  *  The Paternity Leave and Benefit Act 2016 provides two weeks' statutory leave and benefit for employees who are the relevant parents of children born or adopted.
+  *  The Paternity Leave and Benefit Act 2016 provides two weeks' statutory leave and benefit for team members who are the relevant parents of children born or adopted.
   *  Paternity leave generally must be taken in one block of two weeks within the first six months following the birth or adoption placement. The term "relevant parent" is defined broadly to provide for fathers, adoptive fathers, civil partners, cohabitants and same-sex couples.
-  *  Paternity benefit is payable by the state subject to an employee's PRSI contributions. Workers should apply for the payment 4 weeks before they intend to go on paternity leave.
+  *  Paternity benefit is payable by the state subject to a team member's PRSI contributions. Workers should apply for the payment 4 weeks before they intend to go on paternity leave.
   *  State paternity benefit is payable at a rate of 245 EUR per week for two weeks.
-  *  Leave certification - All employees must have their paternity leave certified by their employer. If you're an employee, you must provide GitLab with proof of the expected date of confinement of your spouse or partner. In other words, you will be required to provide your employer with a certificate from your spouse or partner's doctor confirming when your baby is due, or confirmation of the baby’s actual date of birth if you apply for leave after the birth has occurred. GitLab must then complete a form [(PB2: Employer Certificate for Paternity Benefit (pdf))](https://www.gov.ie/en/service/apply-for-paternity-benefit/) to confirm that you are entitled to paternity leave.
-  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Pay up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Pay up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your parental leave.
   * Process for applying for state paternity benefit:
     * Notify Total Rewards of your baby's due date.
     * Total Rewards will send you the completed PB2 form.
