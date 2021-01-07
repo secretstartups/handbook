@@ -109,8 +109,14 @@ Option 3: If parts of content are for certain audience and parts are available t
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
+#### Example: Contributing content to GitLab Learn
+
+##### Contribute an interesting article or video
+
+##### Contribute a new Pathway or Journey to earn a badge
 
 ### Choosing between a badge or certification
+
 
 #### Badges
 
