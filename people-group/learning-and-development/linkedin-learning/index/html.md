@@ -55,3 +55,10 @@ If you have have requested a license be provisoned to you from the L&D team, you
 ### Set Up 
 
 Our integration and configuration was set up in conjunction with our partners from both EdCast and LinkedIn Learning using the [Integration Guide](https://docs.microsoft.com/en-us/linkedin/learning/lms-integrations/integration-docs/edcast) and the [Configuration Guide](https://business.linkedin.com/content/dam/me/learning/en-us/pdfs/LinkedIn-Learning-EdCast-configuration-guide.pdf). 
+
+## LinkedIn Learning KPIs 
+
+- Engagement survey scores for L&D
+- Number of courses taken
+- % of licenses used
+- Average number of courses each person takes
