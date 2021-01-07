@@ -23,6 +23,10 @@ In January 2021, GitLab is implementing LinkedIn Learning to provide our team me
 
 [add Video overview of the experience including How to access from the LXP]
 
+### Take Time out to Learn
+
+[add text here]
+
 ## Recommended Learning Paths
 
 We have outlined some recommended learning paths for different roles at GitLab. This is not an exhaustive list, but it is a good start if you are new to the tool. 
@@ -97,13 +101,6 @@ All GitLab Learn users will be able to access free content on LinkedIn Learning.
 
 If you have have activated a license, you will also be able to access the paid content on LinkedIn Learning. You can do this by going to [GitLab Learn](gitlab.edcast.com). 
 
-
- 
-
-Take Time out to Learn
-FAQ’s
-
-
 ## Coordination with EdCast
 
 ### Set Up 
@@ -116,3 +113,7 @@ Our integration and configuration was set up in conjunction with our partners fr
 - Number of courses taken
 - % of licenses used
 - Average number of courses each person takes
+
+## FAQs 
+
+[add text here]
