@@ -802,6 +802,14 @@ A few challenges have arisen with how we approach iteration. The best example ma
 
 That said, we would love to work on a two-week release cycle, but that should be another conversation.
 
+##### Embracing Iteration 
+
+In order to embrace iteration, the quality of your first iteration matters. We should have the attitude that we are trying to achieve as much as possible in a small amount of time, it's where we are at the end, that counts. The benefit of iteration is to get feedback from the end-user. A sign of a lack of iteration includes more information about the future state than the state at the end of the first iteration. Embrace iteration by establishing a safe zone in order to achieve results. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ##### Make small merge requests
 {:.no_toc}
 
