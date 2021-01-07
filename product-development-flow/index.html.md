@@ -53,7 +53,7 @@ Examples:
 
 It's not [efficient](/handbook/values/#efficiency) for contributors to need to read every comment in an issue to understand the current state.
 
-* Issues description accuracy is should be maintained by the DRIs throughout each phase, however all collaborators can and should contribute when they see discrepencies or needed updates. 
+* Issues description accuracy should be maintained by the DRIs throughout each phase. However all collaborators can and should contribute when they see discrepancies or needed updates. 
 
 ## Validation track
 
