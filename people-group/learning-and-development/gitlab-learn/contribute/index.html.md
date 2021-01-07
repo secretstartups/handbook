@@ -101,4 +101,4 @@ You'll find related processes for team members and community members interested 
 
 ### Why create a contribution process?
 
-The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learnesr to contribute and incorporates a system to check for accuracy and quality. In additiona, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelem of content upload that would otherwise be required of a few team members.
+The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learners to contribute and incorporates a system to check for accuracy and quality. In addition, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelem of content upload that would otherwise be required of a few team members.

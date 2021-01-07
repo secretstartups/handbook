@@ -24,6 +24,14 @@ We've created a learning path to become a GitLab Learning Evangelist to
 1. Democratize the learning process and provide space for all voices to be heard
 1. Keep content and look and feel of the platform aligned with overall brand
 
+### Why become a Learning Evangelist?
+
+Learning Evangelists in GitLab Learn have the opportunity to:
+
+1. Be the face of learning for your team and organization
+1. Dedicate your passion for learning and developing others by contributing content to the LXP
+1. Influence team members to take time out to learn new skills, build courses for the community, and feature training material for all to consume!
+
 
 ## GitLab Learning Evangelist Learning Pathway
 
@@ -56,7 +64,7 @@ Need to record and embed videos for creating content in EdCast
      - video link
      - video link
 
-1. Review the process for choosing a [badges](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
+1. Review the process for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
 1. Knowledge Assessment
 
 ### Part 3 - Keeping content aligned with look and feel
