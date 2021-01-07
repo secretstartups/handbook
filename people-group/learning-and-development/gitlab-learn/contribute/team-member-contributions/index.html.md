@@ -54,7 +54,7 @@ Need to record and embed videos for creating content in EdCast
      - video link
      - video link
 
-1. Review the process for choosing a [badges](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
+1. Review the process for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
 1. Knowledge Assessment
 
 ### Part 3 - Keeping content aligned with look and feel
