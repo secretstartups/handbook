@@ -32,6 +32,8 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 ### Part 1 - Understanding GitLab Learn
 
 1. Read the [GitLab Learn handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/#gitlab-learn) to learn about the creation and purpose behind GitLab Learn, and EdCast Learning Experience Platform. 
+1. Watch the [GitLab Learn Welcome Video](https://www.youtube.com/watch?v=ZVHiNhy1hbM&feature=youtu.be)
+1. Watch the [EdCast User Experience Overview Video](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization)
 1. Knowledge Assessment
 
 ### Part 1 - Handbook first learning content
