@@ -29,6 +29,8 @@ It's important for all content contributors to understand how learning material 
 
 EdCast organizes content in the LXP in three major types of content buckets. When contributing to the LXP, it's important to consider which of these three types might be best to organize content and guide learners to their learning objectives.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dx_nev99a9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### SmartCards
 
 SmartCards are the basic unit of information in the LXP. They are used to direct learners to explore specific pieces of content in the handbook, watch recorded videos, or complete quick knowledge checks and assessments. Content in the LXP is built and arranged with SmartCards.
