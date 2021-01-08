@@ -402,14 +402,14 @@ This is how we work with Issues and their scope
 * At the beginning of Q4, we will create a Roadmap Epic for all items that will be candidates for next year's strategy.
 * Strategy for the year is documented in the handbook
 
-# Video Playlists (COMING SOON)
+# Video Playlists
 
 In an effort to make async communication and collaboration as effective as possible, below are relevant playlists created by the Growth Marketing teams. We welcome suggestions for additional playlists and videos that would help your team. Please request in our [slack channel](https://gitlab.com/gitlab-com/marketing/growth-marketing) 
 
 * [Weekly Inbound Marketing Recap and Demo](https://www.youtube.com/playlist?list=PL05JrBw4t0KppgWkSa3YgDgc_qUTKsBCs)
 * [SEO Update](https://www.youtube.com/playlist?list=PL05JrBw4t0KpoehEW7O8eA5Iy2FP_u6sW)
 * Marketing Metrics
-* Digital Experience Bi-weekly Update
+* [Digital Experience Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 * [Global Content Updates](https://www.youtube.com/playlist?list=PL05JrBw4t0KrzoCLxdlF5eJjh0JDgn4Qs)
 
 # Vendor Management 
