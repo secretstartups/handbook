@@ -18,8 +18,7 @@ On this page, team members working in the GitLab Learn platform and GitLab Learn
 | ----- | ----- | ----- | 
 | 1 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | This section will outline best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
 | 2 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | This section outlines written and demonstrated processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
-| 3 | [Contribution Approvals](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribution-approvals) | TBD|
-| 4 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
+| 3 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
 
 
 ## Best practices for content creation and organization
