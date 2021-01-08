@@ -78,7 +78,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Fill in the Manager Action Plan based on the week's activities <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
 
@@ -115,6 +115,10 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
 | Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
+
+### Manager Action Plan
+
+Throughout the program, we ask that managers create a manager action plan to self-identify and self-reflect on areas that they wish to improve on moving forward. The document is intended to be a starting point for managers to document where they can improve as a people leader. Any manager can use the [manager action template](https://docs.google.com/document/d/1he_sJUrMuuWf1QPGoUu4E_W0uRQCQ3Ohd3jElTiN4hE/edit#) we've created. 
 
 ### Post Manager Challenge
 
