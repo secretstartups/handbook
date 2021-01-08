@@ -315,6 +315,17 @@ Scheduling [executive interviews](/handbook/hiring/recruiting-framework/coordina
   Click on "My Account" in the top-right corner, and click on "Meeting Settings" in the left sidebar. Scroll down to "In Meeting (Advanced)," and toggle on the option "Waiting Room".
   You will also need to enable Waiting Room for your Personal Meeting ID. Click on "Meetings" in the left sidebar. Select the "Personal Meeting Room" tab and check the "Enable waiting room" option.
 
+#### Scheduling Timed Assessments
+
+In some cases, some positions require a timed assessment to be sent to the candidate. These timed assessments can be sent by following the steps below:
+1. Obtain availability from the candidate to agree on a specific time to administer the test.
+1. Enter it as an interview appointment on their schedule.
+1. Schedule an Email with the assessment for the agreed time.
+  - Click `Email Candidate`
+  - Select Assessment template or write body and attach Assessment
+  - Select the agreed upon time using `Send Email when` option
+1. The time stamp when the candidate sends the assessment back will determine if they sent it back within the agreed timeframe.
+
 ### Rejecting candidates
 
 To remove a candidate from the active pipeline, they need to be rejected in Greenhouse, which is typically done only by recruiting.
