@@ -43,6 +43,11 @@ title: "Financial Planning & Analysis"
 
 ### Definitions
 
+#### Street Model
+What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
+
+Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Reviewed by the Board of Directors.
+
 #### Board Plan
 
 Purpose: GitLab's Board Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
@@ -53,6 +58,7 @@ Governance: The Board Plan is approved by the board of directors every year.
 
 #### Target
 Purpose: Build a go-to-market business plan to achieve the companies tops-down target. 
+
 What: This is the board Plan with stretch targets for bookings and revenue at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
 
 #### Actuals
@@ -74,10 +80,6 @@ What: Forecast is a dynamic assessment based on current expectations of financia
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
-#### Street Model
-What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
-Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Reviewed by the Board of Directors.
-
 ### Mechanics of the Board Plan:
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
 - The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Board Plan also assumes that the corporate bonus target will be fully achieved at stretch target.
@@ -95,33 +97,35 @@ Governance: Street model in the form of company guidance will be prepared by cor
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
 * If GitLab is exceeding the Board Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain operating income goals approved by the board of directors.
 
-### Annual Planning Steps (WIP)
+### Annual Planning Steps
 * Align executive team on strategic priorities
+* Prioritize efforts aligned with three year strategy and FY22 themes
 * Sign-off on financial priorities for the year
-* Develop baseline financial case for the year
-* Review product investments vs expected revenue generation.
-* Revise and update the annual sales compensation plan.
-* Set annual quota assignments for revenue producing roles.
-* Set expected amount for annual compensation increases.
-* Set targets for any contributors on a company based performance plan.
-* Set company targets for board, investors and creditors.
-* Our Annual Plan is viewable internally as a google slide presentation.  Search on "[current year e.g. 2018] Plan" to view.
 * Build out bottoms up integrated sales and marketing financial model with key assumptions documented so they can be tracked
 * Set targets agreed upon by Product, Marketing and Sales.
-* Generate a the Board Plan based on a headcount list, tbh list, vendor level spend list
+* Review product investments vs expected revenue generation.
+* Set expected amount for annual compensation increases.
+* Set targets for any contributors on a company based performance plan.
+* Generate the expense Plan based on a headcount list, tbh list, vendor level spend list
 * Headcount list communicated to recruiting, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
+* Generate and document key assumptions
+* Show trending of key metrics as output of the Plan
+* Capture Plans to drive key metrics
+* Capture X-functional dependencies of execution
+* Revise and update the annual sales compensation plan.
+* Set annual quota assignments for revenue producing roles.
 
-#### Annual Planning Important Dates (TBD - 2020 shown)
-* **28th of October** - Five quarter rolling forecast kick-off
-* **22nd of November** - Five quarter rolling forecast completed
-* **22nd of November** - Sales Compensation Direction
-* **2nd of December** - Preliminary outlook reviewed at Board of Directors
-* **16th of December** - Plan iteration and discussion at egroup meeting
-* **18th of December** - Product Roadmap and Investments (board review)
-* **17th of January** - Go to market planning deep dive (board review)
-* **24th of January** - Plan sent to Board for async commentary
-* **31st of January** - FY22 Plan Approved by Board
-* **7th of February** - Sales compensation plans distributed to sales team
+
+#### Annual Planning Important Dates (2021 shown)
+* **30th of October** - Three Year Strategy
+* **9th of November** - FY22 Themes
+* **20th of November** - GTM Planning offsite and Product Themes
+* **23rd of December** - First Plan Rollup
+* **6th of January** - v1 rollup and eGroup decisions on company wide assumptions
+* **12th of January** - v2 rollup and Planning Deck review including GTM business Plan review
+* **23th of January** - Plan sent to Board for async commentary
+* **29th of January** - FY22 Plan Approved by Board async (Pre FY21 numbers)
+* **17th of March** - Formal approval of FY22 Plan by Board with FY21 numbers
 
 ****
 
