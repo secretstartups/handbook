@@ -30,13 +30,29 @@ title: Purchase Request Process
 - Once you obtain a quote from a vendor, inform your vendor it will need to be reviewed and approved through the GitLab purchasing process.
 - If you would like procurement to help you obtain a quote, please tag us in the issue asking for support obtaining a quote.
 
-| New Software | Existing Software | Field Mktg & Events | Consultants/Professional Svcs |
+| New Software | Software Renewal | Field Mktg & Events | Consultants/Professional Svcs |
 | ------ | ------ | ------ | ------ |
 | Once initial quote is received, or sooner | 60-90 days before renewal date | Once contract is received | Once initial quote is received |
 
 - If ever in doubt, create a purchase request issue sooner rather than later. There is no downside to opening an issue early. If opened too late however, your project could be delayed and GitLab could be put at risk in multiple areas.
 - If you don't have a contract yet that's OK and you can still create a purchase request issue. Title the issue as "WIP" and note the status in the comments field. 
 - If you're uncertain, ask us in the #procurement slack channel!!
+
+## Software Renewal Process
+Procurement Team is monitoring ContractWorks for upcoming contract renewals.
+1. Procurement Team will contact Business Owner 60-90 days before renewal date to confirm vendor contract renewal;
+2. Once BO confirms renewal Procurement Team will create WIP: Procurement Issue;
+3. If new contract was not provided by the supplier Procurement Team will help requestor to obtain it:
+   - Procurement Team will schedule a discussion call with requestor with following [Agenda](https://docs.google.com/document/d/1Qc8CHbE7TIWM7UJ0sI78rN865t_pKjrxIgbE2Ghpdh8/edit?usp=sharing) to understand the need. 
+   <br>
+
+   *In order to help Procurement provide prompt support please prepare the following information regarding the renewal:*
+- Renewal time;
+- Business needs;
+- Estimated cost.<br>
+
+4. Once contract negotiated and obtained it will be uploaded to the issue and follow approvals.
+
 
 ## Are there any exceptions to the purchase request process?
 The exceptions to the process are below:
