@@ -465,7 +465,7 @@ Due to their importance and wide usage throughout the company, changes to Stages
 
 Any change to a Stage or Group, or a significant change to a Category, is a major change. Examples of significant category changes include their names, their group membership, and presence on our marketing page.
 
-Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](../../product/categories/#changes).
+Due to their impact, executive approval for major changes is required in addition to the PMs, PMMs, and EMs responsible. Follow the approval process defined on the [categories page](/handbook/product/categories/#changes).
 
 **Minor changes**
 
@@ -483,7 +483,7 @@ To update the responsible person for a role, follow these steps:
 
 Here's an [example Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22765).
 
-If the person is not yet listed on the [team page](../../../company/team/), please follow [these instructions](../../git-page-update/#11-add-yourself-to-the-team-page) to add them.
+If the person is not yet listed on the [team page](/company/team/), please follow [these instructions](/handbook/git-page-update/#11-add-yourself-to-the-team-page) to add them.
 
 ### Adding features to webpages
 
