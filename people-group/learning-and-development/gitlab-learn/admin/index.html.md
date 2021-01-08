@@ -181,6 +181,8 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 
 Future photographers will be added as needed.
 
+If you're looking for pre-approved images for your content, please review the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true).
+
 Keep the following in mind when choosing a photograph:
 
 1. Look for opportunities to demonstrate [GitLab culture](company/culture/). For example, consider choosing an image of learner working on their laptop to reflect [all-remote work](/company/culture/all-remote/), two people working together to demonstrate [collaboration](https://about.gitlab.com/handbook/values/#collaboration), or a family or small group of friends learning together to reflect [friends and family first, work second](/handbook/values/#family-and-friends-first-work-second)
@@ -220,6 +222,8 @@ This [basic Channel image in Canva](https://www.canva.com/design/DAEQ_HWFcFs/238
 
 The LXP implementation team will collaborate with the brand team to customize the Channel images to fit specific content when necessary.
 
+You can find pre-approved Channel images in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true)
+
 #### Images for Groups
 
 Groups will be identified with images that use a purple graphic overlay on the left side of the image, with the GitLab logo and white text. Here's an example of multiple Groups displayed on the Discover page:
@@ -227,6 +231,8 @@ Groups will be identified with images that use a purple graphic overlay on the l
 ![groups-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/groups.jpg)
 
 [Example of images in Canva](https://www.canva.com/design/DAEQ-q4s2pY/soqq_hq3ND1oUNh7x6KPHA/view?utm_content=DAEQ-q4s2pY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+You can find pre-approved Group images in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true)
 
 #### Profile photos
 
