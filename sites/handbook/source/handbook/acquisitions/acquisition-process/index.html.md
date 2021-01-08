@@ -19,7 +19,7 @@ The corporate development team conducts a comprehensive screening of our industr
 | Funnel                                                                                                                                                                  | Volume / Year |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | **Pipeline Building**                                                                                                                                                   |               |
-| DevOps ecoystem companies                                                                                                                                               | 15,000+       |
+| DevOps ecosystem companies                                                                                                                                               | 15,000+       |
 | Sourced Pipeline: generate pipeline of companies operating in a DevOps segment relevant for GitLab from three sources:                                                  | 1,000         |
 | _--> 1. Third-party databases_                                                                                                                                          | _800_         |
 | _--> 2. Inbound (companies approach us or PMs refer us)_                                                                                                                | _100_         |
@@ -54,7 +54,7 @@ The process is comprised of four key stages:
 
 1. Sourcing: The corporate development team closely collaborates with GitLab's product leadership to identify key areas for potential M&A. We source acquisition opportunities ("Sourced Pipeline") from:
     1. Ecosystem screen with the help of third party databases such as Crunchbase
-    1. Inbound introductions from GitLabbers and industry contacts
+    1. Inbound introductions from GitLab team members and industry contacts
     1. Proactive outreach to companies aligned with our vision and strategic priorities
 
 ### Exploratory
@@ -107,15 +107,15 @@ The process is comprised of four key stages:
         1. Trademarks
         1. Social media accounts
     1. Security Reports/Documentation
-        1. External Security Reports 
-            - SOC 2 
+        1. External Security Reports
+            - SOC 2
             - ISO 27001 Certification
             - CAIQ
             - External Penetration Testing Report
         1. Internal Security Documentation
             - Risk Management Program Documentation
             - Risk Register and status of risks
-            - Resutls of security reviews the entity has performed over it's current vendors
+            - Results of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
     1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
     1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Dir. Engineering, together with the respective Dir. Product will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code.
@@ -141,28 +141,28 @@ The process is comprised of four key stages:
             1. Critical to adopting our culture and successful future integration of the target's engineering team in GitLab
             1. Allows us to show early fruits of the acquisitions soon, aligned with our value of iteration
         1. Integrated within 6 months:
-            1. 6 months is an optimal timeframe which allows for incremental integration of the target's functionality, covering its entirety at best or its fudemantals at the very least, while not being overly extended. We would want to refrain from using a longer time frame as our roadmap priorities may change such that we could potentially find ourselves abandoning certain milestones, negating some or all of the rationale behind the deal.
+            1. 6 months is an optimal timeframe which allows for incremental integration of the target's functionality, covering its entirety at best or its fundamentals at the very least, while not being overly extended. We would want to refrain from using a longer time frame as our roadmap priorities may change such that we could potentially find ourselves abandoning certain milestones, negating some or all of the rationale behind the deal.
             1. Will help establish focus on both acquired target and our product team
             1. Be able to complete payouts to the target's entity and shut it down sooner
 1. To determine the deal ROI, the acquisition team will perform the analysis using the [cost-revenue acquisition calculator](https://docs.google.com/spreadsheets/d/1ke36-mtEi8MhfMKXpYGMRP6H3HH6MimxXt86Zv_QkzM/edit#gid=0) (_internal_ GitLab document). Make a copy of the master cost-revenue acquisition calculator file and save it in the relevant project folder in Google Drive before making changes to the file.
-1. Presenting the business case for approvals (by order of occurence):
+1. Presenting the business case for approvals (by order of occurrence):
     1. Champions' approval: The acquisition team will review the business case together and approve the suggested deal. This includes approval of all the following:
         1. Complete executive summary (with link to term sheet draft) including budget and headcount allocation for the acquisition
-        1. Complete businees case ([templates](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit) for both) including Deal Milestones
+        1. Complete business case ([templates](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit) for both) including Deal Milestones
         1. Complete term sheet ([template](https://docs.google.com/document/d/1_G2bXxhMe_qXrF8LdZcXwsCcIs1GJAS1-v42U2MV8a4/edit)) draft with proposed details (asset payment, retention bonuses, Deal Milestones, closing schedule, customer termination and closing conditions) filled in.
     1. Functional approvals: The corporate development acquisition lead, Dir. Product and Dir. Engineering will present the business case for acquisition to the EVP Product and EVP Engineering. They will review to approve the items listed in the Champions' approval (complete: executive summary, business case, term sheet)
-    1. CEO, CFO and CLO approvals: The corporate development acquisition lead, Dir. Product and Dir. Engineering (deal champions) will present the business case for acquisition to the CEO, CFO and CLO. This meeting will also capture the **explicit approval** of the term sheet to start negotations.
+    1. CEO, CFO and CLO approvals: The corporate development acquisition lead, Dir. Product and Dir. Engineering (deal champions) will present the business case for acquisition to the CEO, CFO and CLO. This meeting will also capture the **explicit approval** of the term sheet to start negotiations.
              1. Approval of term sheet to start negotiations will be tracked in a [term
         sheet approval issue](<https://gitlab.com/gitlab-com/corporate-development/issues/new?issuable_template=term_sheet_approval>). We don't include any financial and milestone information in the approval tracking issue for confidentiality reasons.
 1. Term Sheet:
-    1. Once the terms to start negotations have been approved, the corporate development acquisition lead will reach out to the target company to share the offer and term sheet.
+    1. Once the terms to start negotiations have been approved, the corporate development acquisition lead will reach out to the target company to share the offer and term sheet.
     1. Once an agreement on terms with the target has been reached, the term sheet (with any changes) will be brought forward for approval from: CLO, CFO, CEO (in that order). These approvals will be captured in the term sheet approval issue.
     1. Once all approvals have been obtained, the corporate development acquisition lead will stage the term sheet for signing on HelloSign for target CEO and GitLab CEO (in that order). Add CLO, CFO, and EVP Product on Cc on the agreement.
         1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Dir. Product, Dir. Engineering, EVP Product, EVP Engineering, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue _before_ seeking approvals.
 
 ### Confirmatory Due Diligence
 
-1. To kick-off the Due Diligence stage, the corporate development acquistion lead emails the target company CEO with the following clarifications and information requests:
+1. To kick-off the Due Diligence stage, the corporate development acquisition lead emails the target company CEO with the following clarifications and information requests:
     1. All employees and their profiles will be reviewed by the GitLab team
     1. The employees who will be invited for interviews will go through GitLab's standard interview process
     1. Key employees who were interviewed during the Early Diligence stage may go through further interview rounds as determined by the GitLab team to qualify for a role at GitLab
@@ -177,7 +177,7 @@ The process is comprised of four key stages:
     1. Conclusive call - Final internal review call with the acquisition team to recap the acquisition as a whole, review the acquisition agreement and present a final recommendation. This meeting will also capture the **explicit approval** of the acquisition agreement from the CLO, CFO and CEO. Approvals from the call as well as additional required approvals will be tracked using the definitive agreement approval [issue template](https://gitlab.com/gitlab-com/corporate-development/issues/new?issuable_template=definitive_agreement_approval).
     1. BoD approval:
         1. Legal will facilitate the final deal approval from GitLab's Board of Directors
-        1. A board pacakge will be shared with the BoD members before requesting their approval. It should include:
+        1. A board package will be shared with the BoD members before requesting their approval. It should include:
             1. Executive summary email:
                 1. Will be sent to the BoD members by the CEO
                 1. The Dir. Corp Dev will create a 1-2 page executive summary email message. It should include a high level coverage of the following topics:
