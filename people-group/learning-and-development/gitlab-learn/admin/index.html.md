@@ -40,10 +40,12 @@ Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels,
 Before reviewing the documented best practices below, take time to watch these recorded video examples of how content is contributed to GitLab Learn. These demos will help familiarize you with the terminology and strucutre of content in the platform and give context to the documented best practices.
 
 
-#### Example: Contributing content to GitLab Learn
+#### Examples: Contributing content to GitLab Learn
 
 
 ##### Contribute an interesting article or video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cvYt5o3sWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ##### Contribute a new Pathway or Journey to earn a badge
@@ -94,6 +96,10 @@ Watch this video that explains the difference between public and private content
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MDu7CbyNHj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Step 2: Build smartcards depending on content status 
+
+This video outlines the three scenarios for building public versus private content outlined below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__6zr0C3Dmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Building `public` content
 
