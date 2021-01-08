@@ -270,6 +270,7 @@ How to create an analyst report page in 5 not-so-easy steps.
   - Click “commit”, add a commit message, and click “commit” again, 
   - Add “WIP:” to the title so that it doesn't get merged prematurely ("WIP:" means "don't merge")
   - “Submit merge request” 
+      - NOTE: The pipeline for the MR will fail. That's OK. It won't pass until you complete the steps below. 
 
 #### AR Part 2: Create the include file
 
