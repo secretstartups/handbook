@@ -20,20 +20,20 @@ Say good-bye to multiple spreadsheets, disparate data sets and misaligned market
 
 ## High level - how does it work?
 
-* We enter top down departmental budgets into an `Investment Target`, with annual and quarterly breakdown. These are the amounts that tie out to the board approved plan. Once the board has approved the plan from the CMO, we will lock down these targets. This represents the envelope of money available to the department to plan and forecast.
-* We enter bottoms up departmental `Plans` into a hierarchy grid much like we were doing in our non-HC or 5Q Rolling spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. We want this to represent what we think our plans are for the year. If it doesn't equal the investment target envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter.
-* We then enter `Forecasts`` into these same line items, adding more details and more accuracy as we learn about the specifics of the events/campaigns/expenses.
+* We enter top down departmental budgets into an `Investment Target`, with annual and quarterly breakdown. These are the amounts that tie out to the board approved plan. Once the board has approved the plan from the CMO, we will lock down these targets which represent the envelope of money available to each department to plan and forecast.
+* We enter bottoms up departmental `Plans` into a hierarchy grid much like we were doing in our non-HC or 5Q Rolling spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. If the total doesn't equal the investment target envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter.
+* We then enter `Forecasts` into these same line items, adding more details and more accuracy as we learn about the specifics of the events/campaigns/expenses.
 
-Similar to prior year, if we do not use the envelope provided to Marketing by the end of the **quarter**, we will lose those dollars.
+Similar to prior year, if we do not use the full envelope provided to Marketing by the end of the **quarter**, we **will** lose those dollars.
 
 ## Fields to enter
 
-# Main grid
+### Main grid
 * Hierarchy - this is where categories, subcategories and the line items are organized.
 * Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system coming in FY22
 * Comments - this can be used for any notes about the spend, but it is not reportable nor sortable
 
-# Detail panel
+### Detail panel
 * SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank
 * Spend type - relates to the account code, but slightly more granular detail to help the marketer
 * Region - if the spend is for a specific region, choose it here
