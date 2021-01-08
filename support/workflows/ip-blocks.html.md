@@ -44,6 +44,8 @@ You should see results similar to the following:
 
 The existence of these results tells us that this user was blocked by Rack Attack and we can add the `json.fullpath` field to see which exact path on GitLab.com each request tried to access.
 
+Rack Attack can also _throttle_ traffic. This is recognizable by the HTTP 429 response code. The preferred solution to this is to have the user make fewer requests. If that is not possible you can create an infrastructure issue with [this template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-rate-limiting).
+
 ### Fields
 
 #### Primary
@@ -53,6 +55,7 @@ The following fields are the best to add to your search query in order to get th
 - `json.status` - Outputs the HTTP status code that was returned for the request. We're usually looking for `401` (Unauthorized) and/or `403` (Forbidden).
 - `json.path` - The path on GitLab.com that was accessed by the request or the API endpoint that was hit.
 - `json.method` - Can be either `GET`, `POST`, `PUT`, `PATCH`, or `DELETE`. The first three are the most common.
+- `json.env` - Can be `blocked`, `throttle` or `track`. `track` is used for diagnostics when changing rate limiting settings and does not affect users: from a support perspective, ignore `track`. `blocked` happens in reaction to too many failed authentication attempts, for example with automated Git HTTP traffic. `throttle` means a user or IP is making too many requests per minute.
 
 #### Secondary
 
@@ -60,6 +63,7 @@ These fields can be helpful but aren't essential.
 
 - `json.controller` - Gives you a clue as to what part of GitLab.com was being accessed by a particular request.
 - `json.params` - Shows what user made the request, what action was taken, and on what resource it was taken on. This field shows what repository was targeted for requests to the container registry.
+- `json.matched` - This is the name of the Rack Attack rule used to limit this request (when `json.env` is `throttle`). This can help you find out which of the [current limits](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits) the request surpassed.
 
 ## Common Causes
 
