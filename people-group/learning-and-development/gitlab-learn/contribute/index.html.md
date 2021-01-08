@@ -42,6 +42,8 @@ SmartCards are the basic unit of information in the LXP. They are used to direct
 - Assessing learnings with a short quiz/knowledge check after reading a set of handbook pages
 - Space for learners to upload and share submissions to projects, like a slide deck or animated video they've created
 
+![smart-card-example](/handbook/people-group/learning-and-development/gitlab-learn/contribute/smartcard.png)
+
 ### Pathway
 
 A Pathway is a collection of SmartCards organized as a learning path.
@@ -49,6 +51,9 @@ A Pathway is a collection of SmartCards organized as a learning path.
 #### Examples of Pathway content
 
 - A set of 6 handbook pages (SmartCards) readers should review in sequence to gain a stronger understanding of one topic
+
+![pathway-example](/handbook/people-group/learning-and-development/gitlab-learn/contribute/pathway.png)
+
 
 ### Journey
 
@@ -71,6 +76,9 @@ Carousels are horizontal containers of related channels or content assets.
 
 - A carousel could be curated to display 3 different journey's related to Emotional Intelligence
 
+![carousel-example](/handbook/people-group/learning-and-development/gitlab-learn/contribute/carousel.png)
+
+
 ### Channels
 
 Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcast to learners throughout the LXP. Channels can be customizable based on the vision of the learners using the LXP. 
@@ -79,6 +87,9 @@ Channels are the principal way in which content (SmartCards, Pathways, and Journ
 
 - A series of SmartCards, Pathways, and Journeys on Agile Project Management
 
+![channel-example](/handbook/people-group/learning-and-development/gitlab-learn/contribute/channel.png)
+
+
 ### Group
 
 Groups are a collection of people with a similar characteristic or learning interest.
@@ -86,6 +97,8 @@ Groups are a collection of people with a similar characteristic or learning inte
 #### Examples of Group organization
 
 - The Marketing team organizes a group of program managers to participate in a specific journey
+
+![group-example](/handbook/people-group/learning-and-development/gitlab-learn/contribute/group.png)
 
 
 ## How to Contribute
