@@ -96,7 +96,7 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
 | Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
 | Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation <br> Catch up on weekly challenges  |
+| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges  |
 
 
 ### Week 3
