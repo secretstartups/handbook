@@ -42,7 +42,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 1. Watch the [EdCast User Experience Overview Video](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization)
 1. Knowledge Assessment
 
-### Part 1 - Handbook first learning content
+### Part 2 - Handbook first learning content
 
 1. Read [interactive learning handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) to understand how handbook first learning content is created for GitLab Learn.
 1. Review an [example](/handbook/people-group/learning-and-development/interactive-learning/#handbook-first-course-example) of handbook first learning content in GitLab Learn using an Articulate 360 course
@@ -50,7 +50,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 1. Knowledge Assessment
 
 
-### Part 2 - Creating content in EdCast
+### Part 3 - Creating content in EdCast
 
 Need to record and embed videos for creating content in EdCast
 /handbook/people-group/learning-and-development/gitlab-learn/admin/#journeys-pathways-and-smartcards
@@ -65,18 +65,18 @@ Need to record and embed videos for creating content in EdCast
 1. Review the process for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
 1. Knowledge Assessment
 
-### Part 3 - Keeping content aligned with look and feel
+### Part 4 - Keeping content aligned with look and feel
 
 1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for addeding images to GitLab Learn
 1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. Learning Evangelists should focus on using the [Pathway and Journey images](https://drive.google.com/drive/folders/1UQviobAEv6G-KhPcOoxPbbTl2cz9V_Y-?ths=true)
 1. Knolwedge Assessment
 
-#### Part 4 - Peer review with L&D team or other Learning Evangelist
+#### Part 5 - Peer review with L&D team or other Learning Evangelist
 
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
 1. Knolwedge Assessment
 
-### Part 5 - Broadcasting content (content done, ready to outline)
+### Part 6 - Broadcasting content
 
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
 1. Knowledge Assessment
