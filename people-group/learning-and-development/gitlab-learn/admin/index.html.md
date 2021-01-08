@@ -10,6 +10,18 @@ title: GitLab Learn Admin Documentation
 {:toc .hidden-md .hidden-lg}
 
 
+## Navigating GitLab Learn Admin Content
+
+On this page, team members working in the GitLab Learn platform and GitLab Learning Evangelists will find documented processes and best practices for content creation. The page is split into two important sections.
+
+| Section Number | Title | Purpose |
+| ----- | ----- | ----- | 
+| 1 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | This section will outline best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
+| 2 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | This section outlines written and demonstrated processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
+| 3 | [Contribution Approvals](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribution-approvals) | TBD|
+| 4 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
+
+
 ## Best practices for content creation and organization
 
 These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
@@ -21,12 +33,28 @@ If you're just getting started using EdCast, watch this short overview of the us
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hm7SLOiV08o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Creating new learning content
+### Contributing learning content
 
 Definitions and examples of SmartCards, Journeys, Pathways, Channels, Carousels, Channels, and Groups can be found in our [GitLab Learn contribution docs](/handbook/people-group/learning-and-development/gitlab-learn/contribute/#learning-content-in-the-lxp)
 
+Before reviewing the documented best practices below, take time to watch these recorded video examples of how content is contributed to GitLab Learn. These demos will help familiarize you with the terminology and strucutre of content in the platform and give context to the documented best practices.
 
-#### General content notes
+
+#### Examples: Contributing content to GitLab Learn
+
+
+##### Contribute an interesting article or video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cvYt5o3sWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+##### Contribute a new Pathway or Journey
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuhI8Plcrbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Content creation best practices
+
+#### Applicable to all content
 
 1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
 
@@ -48,6 +76,10 @@ Here is an example where you might use lock and leap in a Pathway:
 
 In the GitLab 101 certification, a user must first read the handbook page on technical terminology, then take the knowledge assessment. If the user passes the quiz, they will leap to the next SmartCard, which brings them to the next handbook section. If the user fails, they will leap back to the initial SmartCard to review the quiz content. In the same pathway, we have a short poll used as a knowledge check. In this case, if the user answers either correctly or incorrectly, they move forward through the locked SmartCards as normal without any using leap functionality.
 
+Watch this video example that explains the use of lock and leap in a Pathway:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQRhuGK8QVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Journeys
 
 1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge and use a Journey level badge over Pathway level badges
@@ -59,14 +91,20 @@ In the GitLab 101 certification, a user must first read the handbook page on tec
 
 #### Step 1: Determine if content is `public` or `private`
 
-
 | Content Type | Definition | Example Audience |
 | ----- | ----- | ----- |
 | `private` | Content is only visible to the assigned learner or assigned group | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
 
+Watch this video that explains the difference between public and private content in GitLab Learn:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDu7CbyNHj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Step 2: Build smartcards depending on content status 
+
+This video outlines the three scenarios for building public versus private content outlined below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__6zr0C3Dmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Building `public` content
 
@@ -97,7 +135,6 @@ Option 3: If parts of the content are for a certain audience and parts are avail
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
-
 ### Choosing between a badge or certification
 
 #### Badges
@@ -111,6 +148,10 @@ Teams should choose to use a badge to recognize learners achievements when:
 - Setting goals, motivating behaviors, representing achievements, and communicating success
 
 Follow the steps below for [creating a badge in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-a-badge)
+
+Watch this video to review how to add badges to a Pathway or Journey:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VnBSYZ8Cbws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Certification
 
@@ -131,9 +172,7 @@ Images in the LXP enable us to:
 
 The following outlines best practices for choosing images to use in the LXP. When content is created in the LXP in any form, an image or placeholder is automatically generated. Follow these best practices to update these placeholder images before publishing new content.
 
-#### General guidelines
-
-##### Choosing photographs
+#### Choosing photographs
 
 The GitLab team will use the following photographers on [Unsplash.com](https://unsplash.com/) for images in the LXP.
 
@@ -141,6 +180,8 @@ The GitLab team will use the following photographers on [Unsplash.com](https://u
 - [WOCintech](https://unsplash.com/@wocintechchat)
 
 Future photographers will be added as needed.
+
+If you're looking for pre-approved images for your content, please review the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true).
 
 Keep the following in mind when choosing a photograph:
 
@@ -158,6 +199,8 @@ Journeys and Pathways will be identified with a white graphic image overlay and 
 ![journey-pathway-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/journey-pathway.jpg)
 
 [Example of images in Canva](https://www.canva.com/design/DAEQ-5KGqe4/7JF_Fz8qV2a0owZDQGLlcw/view?utm_content=DAEQ-5KGqe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+We've organized a [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) so that contributors to GitLab Learn can access pre-edited photos to upload.
 
 #### Images for SmartCards
 
@@ -179,6 +222,8 @@ This [basic Channel image in Canva](https://www.canva.com/design/DAEQ_HWFcFs/238
 
 The LXP implementation team will collaborate with the brand team to customize the Channel images to fit specific content when necessary.
 
+You can find pre-approved Channel images in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true)
+
 #### Images for Groups
 
 Groups will be identified with images that use a purple graphic overlay on the left side of the image, with the GitLab logo and white text. Here's an example of multiple Groups displayed on the Discover page:
@@ -187,10 +232,11 @@ Groups will be identified with images that use a purple graphic overlay on the l
 
 [Example of images in Canva](https://www.canva.com/design/DAEQ-q4s2pY/soqq_hq3ND1oUNh7x6KPHA/view?utm_content=DAEQ-q4s2pY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+You can find pre-approved Group images in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true)
+
 #### Profile photos
 
 Individual learners are responsible for uploading their own profile and banner photos.
-
 
 
 ### Peer review content before publishing
@@ -203,6 +249,15 @@ It's important to have another member of your team review your content before ma
 1. Mark content to `save for later`, which leaves it in a draft state (not yet published)
 1. Team collaborates in Slack to find a reviewer for their private content by sharing the direct link to EdCast
 1. Reviewer uses the following checklist to confirm that content is ready to be shared with the wider GitLab Learn audience:
+
+#### Peer reviewing for GitLab Learning Evangelists
+
+When completing a peer review, Learning Evangelists can
+
+1. Ask the L&D team for support, or
+1. Ask another Learning Advocate
+
+As new team members are onboarded as Learning Evangelists, the L&D team will serve as the primary peer reviewers for contributed content. As the Learning Evangelists get more confident in the platform, a process will be developed to share and review content together. For now, please reach out to the L&D team in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) and request for your learning content to be reviewed.
 
 #### Content review checklist items
 
@@ -260,7 +315,13 @@ Channels are used to collect and broadcast information based on like content. Us
 1. SmartCards, Pathways, and Journeys can be shared to channels upon creation or can be added to relevant channels later on
 1. Channels can have multiple curators to encourage collaboration and content sharing
 
+#### How Learning Evangelists can share content
 
+Learning Evangelists can use the following processes to broadcast or highlight their contributed content
+
+1. Raise attention to new content with the L&D team via Slack. The team will help you determine the best Carousels, Groups, or Channels to broadcast your content
+1. Share content with a Group you're a part of, like your team
+1. Share content to a Channel with a relevant topic, like Remote Work Foundations
 
 ### Designing the discover page
 
@@ -285,9 +346,70 @@ Use these best practices when designing and updating the discover page in EdCast
 
 
 
-## Management and maintenance of content using EdCast
+## Processes, management, and maintenance of content in EdCast
 
 This section documents specific workflows in EdCast that admin will use when creating and maintaining content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
+
+
+### Journeys, Pathways, and SmartCards
+
+#### Create a Journey
+
+1. Click the `Create` button in the top navigation bar
+1. Choose to create a `Journey`
+1. This will open a pop-up on the page where you'll create your Journey.
+1. It's important to review the [order of operations for public and private content creation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#order-of-operations-for-content-creation) at this point to determine the best place to create Pathways and SmartCards for your Journey
+1. Fill in the `title`, `description`, `level`, and `tags` for your Journey
+1. Decide if your Journey will use a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) and mark the `badge` setting as necessary
+1. Decide if you'd like your Journey to be `Self Paced` or `Progressive Unlocking`
+1. Update your Journey image based on the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#images-for-journeys-and-pathways)
+1. Either build out Pathways and SmartCards from within the Journey or add content you've already created. Drag and drop Pathways and Smartcards to determine the desired order
+1. Choose to `Save for Later` to be reviwed or `Publish` for content to be available on the platform.
+
+#### Create a Pathway
+
+1. Click the `Create` button in the top navigation bar
+1. Choose to create a `Pathway`
+1. This will open a pop-up on the page where you'll create your Pathway.
+1. It's important to review the [order of operations for public and private content creation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#order-of-operations-for-content-creation) at this point to determine the best place to create Pathways and SmartCards for your Pathway
+1. Fill in the `title`, `description`, `level`, and `tags` for your Pathway
+1. Decide if your Journey will use a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) and mark the `badge` setting as necessary
+Update your Journey image based on the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#images-for-journeys-and-pathways)
+1. Either build out new SmartCards from within the Pathway or add content you've already created. Drag and drop Pathways and Smartcards to determine the desired order
+1. Choose to `Save for Later` to be reviwed or `Publish` for content to be available on the platform.
+
+#### Create a Smartcard
+
+1. Click the `Create` button in the top navigation bar
+1. Choose to create a `SmartCard`
+1. Choose the type of content you'd like to share
+1. Each content type requires a different set of requirements to be provided. Follow the prompts based on each content type
+1. Be sure to add a `title`, `duration`, `tags` and `level` to all SmartCards
+1. Click `Create`
+
+
+### Editing Journeys, Pathways, and SmartCards
+
+Moderation and limited editing occurs in the admin backend. The following steps outline how to access these limited edits and moderate Journeys, Pathways, and SmartCards.
+
+#### Making edits in the admin panel
+
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Choose either the `SmartCards`, `Journeys`, or `Pathways`
+1. In each tab, you'll find a list display of all the content in each type. From this list, you can:
+     - View data about the content, like creation date, creator, title, tags, related channels, and state
+     - Promote content using the toggle on/off option
+     - Delete content using the trash icon
+     - Edit backend content information by clicking on the pencil icon
+
+##### Limitations of backend content editing
+
+Edits that you'd like to made related to the arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
+
+- Arrangement of SmartCards in a Pathway, or Pathways in a Journey
+- Badging information
+
 
 ### Channels
 
@@ -311,7 +433,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 
 **Documentation Note:** For the purposes of MVC documentation, the L&D team will stop channel documentation here and iterate in the future as we discover how customization within these additional tabs can be leveraged.
 
-### Editing an existing channel
+#### Editing an existing channel
 
 1. Login to Edcast and navigate to the `admin` panel
 1. Click on the `content` tab
@@ -361,29 +483,9 @@ This section documents specific workflows in EdCast that admin will use when cre
      - Toggle built-in carousels to be on or off
 
 
-### Journeys, Pathways, and SmartCards
 
-Journeys, Pathways, and SmartCards are initially created in the front end of EdCast. Moderation and limited editing occurs in the admin backend. The following steps outline how to access these limited edits and moderate journeys, pathways, and smart cards. Steps for contributing new content to EdCast are outlined in our [contribute to the LXP handbook section](/handbook/people-group/learning-and-development/gitlab-learn/contribute).
 
-#### Editing Journeys, Pathways, and SmartCards
-
-1. Login to Edcast and navigate to the `admin` panel
-1. Click on the `content` tab
-1. Choose either the `SmartCards`, `Journeys`, or `Pathways`
-1. In each tab, you'll find a list display of all the content in each type. From this list, you can:
-     - View data about the content, like creation date, creator, title, tags, related channels, and state
-     - Promote content using the toggle on/off option
-     - Delete content using the trash icon
-     - Edit backend content information by clicking on the pencil icon
-
-##### Limitations of backend content editing
-
-Edits that you'd like to made related to the arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
-
-- Arrangement of SmartCards in a Pathway, or Pathways in a Journey
-- Badging information
-
-#### Moderating content
+### Moderating content
 
 Admin processing for moderating content will be outlined in future iterations.
 
@@ -404,9 +506,6 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 1. Click the `done` button
 
 
-## Contribution Approvals
-
-Admin process for approving content contributed to the LXP is coming soon.
 
 ## Reporting
 
