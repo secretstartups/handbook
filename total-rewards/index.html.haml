@@ -72,6 +72,6 @@ extra_css:
       .row
         .col-md-6.col-md-offset-3
           .content-section
-            %div.text-center.total-rewards-subtitle Summary of Events for FY 2020:
+            %div.text-center.total-rewards-subtitle Summary of Events for FY 2022:
             - calendar = data.people_group.calendar.find { |cal| cal['team'] == 'Total Rewards'}
             = partial "includes/people-operations/team_calendar", locals: {calendar: calendar}
