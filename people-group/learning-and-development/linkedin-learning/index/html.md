@@ -34,37 +34,37 @@ Finding courses and skills to learn just got easier with access to LinkedIn Lear
 We have outlined recommended learning paths for different roles at GitLab. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
-- [Confronting Bias: Thriving Across our Differences](https://www.linkedin.com/learning/confronting-bias-thriving-across-our-differences/introduction-by-arianna-huffington?u=2255073)
-- [Diversity, Inclusion, and Belonging](https://www.linkedin.com/learning/diversity-inclusion-and-belonging-2/dibs-an-introduction?u=2255073)
-- [Supporting your mental health during challenging times](https://www.linkedin.com/learning/paths/support-your-mental-health-during-challenging-times?u=2255073)
-- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://www.linkedin.com/learning/psychological-safety-clear-blocks-to-innovation-collaboration-and-risk-taking/psychological-safety-clear-blocks-to-problem-solving-and-innovation?u=2255073)
+- [Confronting Bias: Thriving Across our Differences](https://gitlab.edcast.com/insights/ECL-393c827e-4175-46e2-bdfb-768c7cb49f27)
+- [Diversity, Inclusion, and Belonging](https://gitlab.edcast.com/insights/ECL-6de0468c-8f07-4cb8-8cca-4ab2de0dfd07)
+- [Supporting your mental health while working from home](https://gitlab.edcast.com/insights/ECL-41f42b4f-ad92-4591-8e3a-1c6a780074fc)
+- [Psychological Safety: Clear Blocks to Innovation, Collaboration, and Risk-Taking](https://gitlab.edcast.com/insights/ECL-2c1083e4-2e40-4778-9d3c-4bc86145420b)
 
 ### Aspiring People Leaders 
-- [Leading Yourself](https://www.linkedin.com/learning/leading-yourself-2017/welcome?u=2255073)
-- [Make the move from individual contributor to manager](https://www.linkedin.com/learning/leading-yourself/lead-yourself?u=2255073) 
-- [Leading without Formal Authority](https://www.linkedin.com/learning/leading-without-formal-authority/welcome?u=2255073)
-- [Being a good mentor](https://www.linkedin.com/learning/being-a-good-mentor/welcome?u=2255073)
-- [Developing credibility as a leader](https://www.linkedin.com/learning/developing-credibility-as-a-leader/what-is-credibility-and-why-does-it-matter?u=2255073)
+- [Leading Yourself](https://gitlab.edcast.com/insights/ECL-4bb8cdde-b9be-4c99-99a7-129956cd712d)
+- [Make the move from individual contributor to manager](https://gitlab.edcast.com/insights/ECL-baffb269-3b6e-4288-a134-dfb7f3ff4fcc) 
+- [Leading without Formal Authority](https://gitlab.edcast.com/insights/ECL-ae279fc1-1bb6-48a0-8c02-a549ec6f2b30)
+- [Being a good mentor](https://gitlab.edcast.com/insights/ECL-aa4516de-3675-4eb5-8751-49b1d8f3bfa9)
+- [Developing credibility as a leader](https://gitlab.edcast.com/insights/ECL-c1f3ddb3-fa12-41a2-9a04-fce688965b8f)
 
 ### People Leaders
-- [Building High Performance Teams](https://www.linkedin.com/learning/building-high-performance-teams/building-a-high-performing-team?u=2255073)
-- [Developing your Emotional Intelligence](https://www.linkedin.com/learning/developing-your-emotional-intelligence/benefits-of-building-emotional-intelligence?u=2255073)
-- [Using feedback to drive performance](https://www.linkedin.com/learning/using-feedback-to-drive-performance/everything-is-feedback?u=2255073)
-- [Delegating Tasks](https://www.linkedin.com/learning/delegating-tasks/welcome?u=2255073)
-- [Coaching and Developing Employees](https://www.linkedin.com/learning/coaching-and-developing-employees-4/become-a-great-coach-and-leader?u=2255073)
-- [Change Management Foundations](https://www.linkedin.com/learning/change-management-foundations/welcome?u=2255073)
-- [Inclusive Leadership](https://www.linkedin.com/learning/inclusive-leadership/welcome?u=2255073)
+- [Building High Performance Teams](https://gitlab.edcast.com/insights/ECL-735601ad-b5ea-4ae3-894e-d49cd47540b8)
+- [Developing your Emotional Intelligence](https://gitlab.edcast.com/insights/ECL-b5c78da2-0dfb-4a90-aedd-c6cf825ca46e)
+- [Using feedback to drive performance](https://gitlab.edcast.com/insights/ECL-84ae3443-83e0-417e-916a-19c43606941d)
+- [Delegating Tasks](https://gitlab.edcast.com/insights/ECL-fbda05e5-ad98-401e-a6a9-6dd0c9c678f5)
+- [Coaching and Developing Employees](https://gitlab.edcast.com/insights/ECL-98941f0d-58dc-46ab-bbe6-90fbef4270bf)
+- [Change Management Foundations](https://gitlab.edcast.com/insights/ECL-263cc353-0596-4173-8471-e8ed52251864)
+- [Inclusive Leadership](https://gitlab.edcast.com/insights/ECL-c2ba0aa4-11fb-4a06-bae0-ad480265fc31)
 
 ### Senior Leaders and Executives 
--  [Executive Leadership](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead?u=2255073)
-- [Crisis Communication](https://www.linkedin.com/learning/crisis-communication/prepare-for-crisis-communication?u=2255073)
-- [Developing Executive Presence](https://www.linkedin.com/learning/developing-executive-presence/executive-presence-the-key-differentiator?u=2255073)
-- [Executive Decision Making](https://www.linkedin.com/learning/executive-decision-making/what-is-at-stake-in-executive-decision-making?u=2255073)
-- [Risk Taking for Leaders](https://www.linkedin.com/learning/risk-taking-for-leaders/welcome?u=2255073)
-- [Leading Globally](https://www.linkedin.com/learning/leading-globally/becoming-a-global-leader?u=2255073)
-- [Succession Planning](https://www.linkedin.com/learning/succession-planning/welcome?u=2255073)
-- [Diversity: The best resources for achieving business goals](https://www.linkedin.com/learning/diversity-the-best-resource-for-achieving-business-goals/jane-hyun-on-becoming-a-fluent-leader?u=2255073)
-- [Managing experienced managers](https://www.linkedin.com/learning/managing-experienced-managers/welcome?u=2255073)
+- [Executive Leadership](https://gitlab.edcast.com/insights/ECL-59d436b8-bcc4-4d16-bfce-a34de7d34853)
+- [Crisis Communication](https://gitlab.edcast.com/insights/ECL-25407918-174a-4fc6-8a0e-55ad239ce582)
+- [Developing Executive Presence](https://gitlab.edcast.com/insights/ECL-1766101d-3f71-41c9-9632-8062e3e42492)
+- [Executive Decision Making](https://gitlab.edcast.com/insights/ECL-02cb7a4e-f8ec-4150-9d22-fa80e8b12cdb)
+- [Risk Taking for Leaders](https://gitlab.edcast.com/insights/ECL-96775828-7b6e-4e0c-a9dc-5fd8c31457ee)
+- [Leading Globally](https://gitlab.edcast.com/insights/ECL-2ed336c8-ef0d-42be-8c28-c8ce7ab58dbb)
+- [Succession Planning](https://gitlab.edcast.com/insights/ECL-952712ae-c141-41ce-bc45-74fa2016c8bd)
+- [Diversity: The best resources for achieving business goals](https://gitlab.edcast.com/insights/ECL-9ef8bd9d-f8b6-40d0-ae95-e0e8e315c97f)
+- [Managing experienced managers](https://gitlab.edcast.com/insights/ECL-ac19941f-f53b-4c27-8193-48ff7ceb8a41)
 
 ## How to access LinkedIn Learning
 
