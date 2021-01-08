@@ -46,9 +46,12 @@ In order to attract GitLab Support's attention on Slack, you can use the team ha
 
 ### Requesting Support for Customers
 
-If your customer contacts you requiring technical support, please immediately direct them to open a ticket through the [Support Portal](https://support.gitlab.com). It is Support's primary function to provide technical support for our customers and as paid users they are entitled access to us. If, for some reason they cannot access the Support Portal, please direct them to email `support@gitlab.com`.
+If your customer contacts you requiring technical support, there are two good options available to you:
 
-**Please do not open a support ticket on behalf of a customer.** Doing so will cause the ticket to not be tied to the customer's organization and the appropriate SLA that they are entitled to will not be applied to it.
+1. (Preferred) If it's reasonable to do so, please direct them to open a ticket through the [Support Portal](https://support.gitlab.com). It is Support's primary function to provide technical support for our customers and as paid users they are entitled access to us. This is the preferred option as the customer is best positioned to  describe their own issue and needs.
+1. If it would be better for you to open a request on behalf of the customer, you can [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new). Please ensure first that you aren't logged into Zendesk with a [light agent account](#viewing-support-tickets). If you are, a simple workaround is to use a private/incognito window in your browser-of-choice to submit the ticket. When submitting the ticket, in the "Your email address" field, simply enter the email address of your customer.
+
+If you'd like to be CCed on the ticket, please make sure you request it on the ticket body.
 
 ### Requesting support for GitLab.com users that have account or login issues
 
