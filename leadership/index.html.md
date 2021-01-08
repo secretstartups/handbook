@@ -123,9 +123,9 @@ In an all-remote organization, we want each team member to be a [manager of one]
 - Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
 - Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
 
-### Coaching
+## Coaching
 
-##### What is coaching?
+### What is coaching?
 
 [Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight.
 
