@@ -17,7 +17,7 @@ The Learning and Development team has created an opportunity for GitLab Team Mem
 We've created a learning path to become a GitLab Learning Evangelist to
 
 1. Ensure that all content contributors are trained on the EdCast platform
-1. Communicate how handbook first is applied to elearning content 
+1. Communicate how handbook first is applied to e-learning content 
 1. Ensure that content across the platform is cohesive and avoids repetition
 1. Democratize the learning process and provide space for all voices to be heard
 1. Keep content and look and feel of the platform aligned with overall brand
@@ -38,46 +38,38 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 ### Part 1 - Understanding GitLab Learn
 
 1. Read the [GitLab Learn handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/#gitlab-learn) to learn about the creation and purpose behind GitLab Learn, and EdCast Learning Experience Platform. 
-1. Watch the [GitLab Learn Welcome Video](https://www.youtube.com/watch?v=ZVHiNhy1hbM&feature=youtu.be)
 1. Watch the [EdCast User Experience Overview Video](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization)
 1. Knowledge Assessment
 
-### Part 1 - Handbook first learning content
+### Part 2 - Handbook first learning content
 
 1. Read [interactive learning handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) to understand how handbook first learning content is created for GitLab Learn.
 1. Review an [example](/handbook/people-group/learning-and-development/interactive-learning/#handbook-first-course-example) of handbook first learning content in GitLab Learn using an Articulate 360 course
-1. Watch this [interview with Sid](/handbook/people-group/learning-and-development/#handbook-first-training-content) discussing the organiation of handbook first learning content in the GitLab hanndbook
+1. Watch this [interview with Sid](/handbook/people-group/learning-and-development/#handbook-first-training-content) discussing the organization of handbook first learning content in the GitLab handbook
 1. Knowledge Assessment
 
 
-### Part 2 - Creating content in EdCast
+### Part 3 - Creating content in EdCast
 
-Need to record and embed videos for creating content in EdCast
-/handbook/people-group/learning-and-development/gitlab-learn/admin/#journeys-pathways-and-smartcards
-
-1. Review the [best practices of content creation review](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-new-learning-content)
+1. Get familiar with [how to navigate admin docs for GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/admin/#navigating-gitlab-learn-admin-content)
 1. Watch training videos for uploading content in GitLab Learn
-     - (waiting on videos for admin page)
-     - video link
-     - video link
-     - video link
-
-1. Review the process for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
+     - [Example: Contribute an interesting article or video as a SmartCard](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-an-interesting-article-or-video)
+     - [Example: Contribute a new Pathway or Journey](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-a-new-pathway-or-journey)
+     - [Order of Operations for Public and Privaet Content](/handbook/people-group/learning-and-development/gitlab-learn/admin/#order-of-operations-for-content-creation)
+     - [Building Public and Private SmartCards Example](/handbook/people-group/learning-and-development/gitlab-learn/admin/#step-2-build-smartcards-depending-on-content-status)
+1. Review the process and watch the example video for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#badges) for your course
+1. Watch the [video](/handbook/people-group/learning-and-development/gitlab-learn/admin/#pathways) explaining how to use lock and leap functions in Pathways and Journeys
 1. Knowledge Assessment
 
-### Part 3 - Keeping content aligned with look and feel
+### Part 4 - Keeping content aligned with look and feel
 
-1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for addeding images to GitLab Learn
-1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. Learning Evangelists should focus on using the [Pathway and Journey images](https://drive.google.com/drive/folders/1UQviobAEv6G-KhPcOoxPbbTl2cz9V_Y-?ths=true)
-1. Knolwedge Assessment
+1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for adding images to GitLab Learn
+1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. 
+1. Knowledge Assessment
 
-#### Part 4 - Peer review with L&D team or other Learning Evangelist
+#### Part 5 - Peer review with L&D team or other Learning Evangelist
 
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
-1. Knolwedge Assessment
-
-### Part 5 - Broadcasting content (content done, ready to outline)
-
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
 1. Knowledge Assessment
 
