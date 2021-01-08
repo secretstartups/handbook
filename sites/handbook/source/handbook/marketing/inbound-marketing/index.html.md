@@ -297,10 +297,10 @@ keep a SSoT and avoid duplicative placement of information that would need to be
 ### Issue Types
 This is how we work with Issues and their scope
 #### External
-(outside of Growth Marketing)
+(outside of Inbound Marketing)
 **REQUEST ONLY ISSUE**
 *  This is for complicated projects (example: campaign). 
-*  This type of Issue is submitted by a team OUTSIDE of Growth Marketing. 
+*  This type of Issue is submitted by a team OUTSIDE of Inbound Marketing. 
 *  This serves as a brief to us. 
 *  For each type of request we have a corresponding  **Request [Type] Issue Template** that should be filled out to begin the process. 
      * [Requesting Support](/handbook/marketing/inbound-marketing/#requesting-support)
@@ -313,8 +313,8 @@ This is how we work with Issues and their scope
 
 **REQUEST AND PRODUCTION ISSUE**
 * This is for a simple ask (example: single asset)
-* This type of Issue is submitted by a team outside of Growth Marketing and will contain relevant information for the project AND;
-* Execution Items/Production Checklists for the Growth Marketing Teams.
+* This type of Issue is submitted by a team outside of Inbound Marketing and will contain relevant information for the project AND;
+* Execution Items/Production Checklists for the Inbound Marketing Teams.
 * For each type of request we have a corresponding **Request [Type] Issue Template** that should be filled out to begin the process. 
 * Actions taken on issue: 
   * Reviewed for all information and label changed to `mktg-status::WIP` if all there or `mktg-status::blocked` if not all info is there
@@ -323,11 +323,11 @@ This is how we work with Issues and their scope
   * Assignee will follow the production checklist and deliver work within the original Issue
 
 #### Internal
-(inside of Growth Marketing)
+(inside of Inbound Marketing)
 
 **PRODUCTION ISSUE**
  * This is an Issue we use internally to create and execute on the request/brief. 
- * These are only used by people inside of Growth Marketing 
+ * These are only used by people inside of Inbound Marketing 
  * For each type of request we have a corresponding  **Production [Type] Issue Template** that should be filled out to begin the process. 
  * The teams will deliver the individual pieces to these Issues, but not the completed ask. That should be delivered into the Child Epic created
 
