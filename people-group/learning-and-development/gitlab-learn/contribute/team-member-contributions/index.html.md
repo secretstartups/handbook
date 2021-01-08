@@ -52,17 +52,14 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 ### Part 3 - Creating content in EdCast
 
-Need to record and embed videos for creating content in EdCast
-/handbook/people-group/learning-and-development/gitlab-learn/admin/#journeys-pathways-and-smartcards
-
-1. Review the [best practices of content creation review](/handbook/people-group/learning-and-development/gitlab-learn/admin/#creating-new-learning-content)
+1. Review the [best practices of content creation review](/handbook/people-group/learning-and-development/gitlab-learn/admin/#content-creation-best-practices)
 1. Watch training videos for uploading content in GitLab Learn
-     - (waiting on videos for admin page)
-     - video link
-     - video link
-     - video link
-
-1. Review the process for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#choosing-between-a-badge-or-certification) for your course
+     - [Example: Contribute an interesting article or video as a SmartCard](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-an-interesting-article-or-video)
+     - [Example: Contribute a new Pathway or Journey](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-a-new-pathway-or-journey)
+     - [Order of Operations for Public and Privaet Content](/handbook/people-group/learning-and-development/gitlab-learn/admin/#order-of-operations-for-content-creation)
+     - [Building Public and Private SmartCards Example](/handbook/people-group/learning-and-development/gitlab-learn/admin/#step-2-build-smartcards-depending-on-content-status)
+1. Review the process and watch the example video for choosing a [badge](/handbook/people-group/learning-and-development/gitlab-learn/admin/#badges) for your course
+1. Watch the [video](/handbook/people-group/learning-and-development/gitlab-learn/admin/#pathways) explaining how to use lock and leap functions in Pathways and Journeys
 1. Knowledge Assessment
 
 ### Part 4 - Keeping content aligned with look and feel
