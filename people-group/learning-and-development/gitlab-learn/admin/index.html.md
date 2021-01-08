@@ -76,6 +76,10 @@ Here is an example where you might use lock and leap in a Pathway:
 
 In the GitLab 101 certification, a user must first read the handbook page on technical terminology, then take the knowledge assessment. If the user passes the quiz, they will leap to the next SmartCard, which brings them to the next handbook section. If the user fails, they will leap back to the initial SmartCard to review the quiz content. In the same pathway, we have a short poll used as a knowledge check. In this case, if the user answers either correctly or incorrectly, they move forward through the locked SmartCards as normal without any using leap functionality.
 
+Watch this video example that explains the use of lock and leap in a Pathway:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQRhuGK8QVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Journeys
 
 1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge, and use a Journey level badge over Pathway level badges
