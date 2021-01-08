@@ -16,7 +16,7 @@ Content in the LXP is created using a handbook first approach to learning. This 
 
 - all voices and contributions are heard
 - barriers to contributions are removed or reduced
-- the organization maintains a single sorce of truth
+- the organization maintains a single source of truth
 
 The steps for [how to contribute content to the LXP](/handbook/people-group/learning-and-development/gitlab-learn/#how-to-contribute) outlines examples of how users can create handbook first learning content.
 
@@ -92,7 +92,7 @@ Channels are the principal way in which content (SmartCards, Pathways, and Journ
 
 ### Group
 
-Groups are a collection of people with a similar characteristic or learning interest.
+Groups are a collection of people with similar characteristics or learning interests.
 
 #### Examples of Group organization
 
@@ -103,7 +103,7 @@ Groups are a collection of people with a similar characteristic or learning inte
 
 ## How to Contribute
 
-Both team members and our wider community can contribute learning content to the LXP. At this time, the community contribution process is a work in progress, as the platform has not yet launched to the wider community.
+Both team members and our wider community can contribute learning content to the LXP. At this time, the community contribution process is a work in progress, as the platform has not yet been launched to the wider community.
 
 You'll find related processes for team members and community members interested in contributing content below.
 
@@ -114,4 +114,4 @@ You'll find related processes for team members and community members interested 
 
 ### Why create a contribution process?
 
-The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learners to contribute and incorporates a system to check for accuracy and quality. In addition, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelem of content upload that would otherwise be required of a few team members.
+The EdCast platform does not require content to be reviewed before publishing for all learners. Similar to our contribution process to GitLab, we're building a contribution process that both enables learners to contribute and incorporates a system to check for accuracy and quality. In addition, democratizing learning in this way will enable diversity in the voices we hear from in the platform and alleviate an overwhelm of content upload that would otherwise be required of a few team members.
