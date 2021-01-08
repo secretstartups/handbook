@@ -204,7 +204,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. Make sure there is a list of 15 numbered items that only contains a space, this will make it easier to add things.
 1. Join the call 2-3 minutes early to ensure you're ready when it starts.
 1. If the call is to be streamed, the moderator will follow the script as directed in the [streaming the Call](/handbook/people-group/group-conversations/#duringthecall) section on this page.
-1. When the meeting starts introduce yourself and say a few words about what this call is about. For example, "Hello everyone, I'm Diane and I lead the [team]. I am looking forward to answer your questions about our [group name] group."
+1. When the meeting starts introduce yourself and say a few words about what this call is about. For example, "Hello everyone, I'm Diane and I lead the [team]. I am looking forward to answering your questions about our [group name] group."
 1. Do not present your slides. Invite the first person to verbalize their question, respond and when relevant mention a slide number. This is similar to what we do during [board meetings](/handbook/board-meetings/).
 1. Remember to only share the slides if illustrating something, otherwise let the speakers be visible in `Speaker View` setting on Zoom.
 1. It is okay to wait until at least two questions have been entered before starting to answer questions, and allow some time for folks to read the slides at the start of the call.
