@@ -228,7 +228,37 @@ You can find more details on the [All Remote](/company/culture/all-remote/) page
 _If you are already a GitLab employee and would like to share your story, simply add a `remote_story:` element to your entry in `team.yml` and it will appear
 on that page._
 
-## Part-time contracts
+### Meal Train
+
+In order to foster a sense of community and support fellow GitLab team members, if a team member is in need or experiencing a life disruption, they have the option of having a Meal Train started for them. A Meal Train is when a community comes together to support someone experiencing a difficult or disrupting event in their life who would benefit from having a meal provided to them during this time. 
+
+Examples of when someone may request a meal train (this list isn't exhaustive):
+* Arrival of a new baby
+* Injuries/Surgeries
+* Military deployment
+* Extended illnesses
+* Condolences
+
+#### Instructions for starting a Meal Train
+
+1. You may create a Meal Train for yourself or for a fellow team member. If you are not the recipient of the Meal Train, please receive approval from the team member first and forward this to the Total Rewards team. We highly encourage managers to reach out to their team member to see if they would like a Meal Train if the manager informs them of a life disruption.
+1. When creating a Meal Train, please create this in GitLab using the [Meal Train issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/meal_train.md).
+    * Steps for completing the form are included in the issue template.
+    * If you are completing this for someone else, please reach out to them to ensure the form is being completed accurately.
+    * The Total Rewards team is also happy to create the issue on your behalf if you send the form details to total-rewards@ domain. 
+1. The issue template has 5 pre-populated entries to add a date to, but the Meal Train can be longer or shorter than this. Please add as many dates that are needed and if at the end, you feel more are needed, please add the additional dates and notify the Total Rewards Analyst assigned to the issue that you have added dates so they can help gather support.
+
+#### Instructions for participating in a Meal Train
+
+1. All Meal Trains are posted by a Total Rewards Analyst in the #whats-happening-at-gitlab and #total-rewards slack channels. You can also check the [Total Rewards issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues) where all Meal Trains will be designated as such. 
+1. If there is a Meal Train occuring, please read through the entire issue. If you are interested in participating, please edit the issue and add your name to the date you would like to contribute to. There is also a field to add the meal you will be providing or the meal delivery service you intend to gift. More instructions for how to proceed as a team member will be located in the issue.
+    * Please note, it is typically only possible to gift a gift card from within the same country. The Total Rewards team is researching possible ways to participate from a different country than the recipient, but until we have a solution, we don't advise participating in this from a different country and can not help facilitate this.
+1. Ensure you can follow through on the date you sign up for or please help coordinate a replacement as soon as you know you can no longer participate. 
+1. Participation is voluntary and is **NOT** reimbursable by GitLab. Any expense incurred would be your responsibility. 
+
+If you have any questions, please reach out to the Total Rewards team.
+
+### Part-time contracts
 
 As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
 
