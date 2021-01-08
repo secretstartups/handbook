@@ -214,17 +214,30 @@ Now that you have created the release post MR, refer to the checklist in the MR 
 
 Create two merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
 
-_**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content,  and while the Release Post Manager is not responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MR on schedule._
+_**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content, and while the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MR on schedule._
 
-1. In the `gitlab.com/gitlab-com/www-gitlab-com` project create 2 new branches from master, one for bugs and one for performance improvements. Name the branches `release-X-Y-bugs` and `release-X-Y-performance-improvements`
-1. From each of these newly created branches, open a merge request targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` and `Draft: release-X-Y-performance-improvements` and use the [`Release-Post-Bug-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md) template
-1. Add appropriate milestone to the merge request
-1. Assign the MR to yourself and assign the TW lead as Reviewer of the MR
-1. Confirm that "Delete source branch when merge request is accepted" is selected.
-1. After the merge request is created, confirm the labels `release post` `release post item` and  `Technical Writing` are applied to it 
-1. In each MR, replace the `@mentions` with the actual task owner names
-1. On the `release-X-Y-bugs` branch add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml) to the `data/release_posts/unreleased/` folder. 
-1. On the `release-X-Y-performance-improvements` branch [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml) to the  `data/release_posts/unreleased/` folder.  
+1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create two new
+   branches from master: one for bugs, and one for performance improvements.
+   Name the branches `release-X-Y-bugs` and `release-X-Y-performance-improvements`.
+1. From each of these newly created branches, open a merge request (MR)
+   targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` and
+   `Draft: release-X-Y-performance-improvements`, and use the
+   [`Release-Post-Bug-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
+   template.
+1. Add appropriate milestone to the MRs.
+1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs.
+1. Confirm that **Delete source branch when merge request is accepted** is
+   selected.
+1. After the MRs are created, confirm they have the following labels:
+   - `release post`
+   - `release post item`
+   - `Technical Writing`
+1. In each MR, replace the `@mentions` with the actual task owner names.
+1. On the `release-X-Y-bugs` branch, add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
+   to the `data/release_posts/unreleased/` folder.
+1. On the `release-X-Y-performance-improvements` branch, add
+   [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
+   to the  `data/release_posts/unreleased/` folder.
 
 #### Local dev environment setup to run content assembly script
 
@@ -672,7 +685,11 @@ the relative path.
 
 #### Making changes
 
-Until the 18th, at 8 am Pacific Time, the TW Lead should be able to make changes directly to the release post. After that time, anyone who wants to include a change in the upcoming release _may_ need to submit it in a separate MR, with a target of the `release-X-Y` branch. For more information, see our documentation ho how to [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_workflow.html).
+Until 8 AM Pacific Time on the 18th, the TW Lead should be able to make changes
+directly to the release post. After that time, anyone who wants to include a
+change in the upcoming release may need to submit it in a separate MR, with a
+target of the `release-X-Y` branch. For more information, see
+[Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlab-release-posts).
 
 #### Release post top feature
 
