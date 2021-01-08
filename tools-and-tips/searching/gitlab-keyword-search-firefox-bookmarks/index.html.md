@@ -8,7 +8,6 @@ title: "Bookmark these GitLab keyword search paths"
 Save the following links in your bookmarks for quick access to different places you can search for items across GitLab.
 
 ### GitLab keyword searches</H3>
-- [GitLab handbook search](/handbook/?stq=%s)
 - [GitLab docs search](https://docs.gitlab.com/search/?q=%s)
 - [GitLab issues search](https://gitlab.com/gitlab-org/gitlab/-/issues?search=%s)
 - [Go to specific GitLab epic](https://gitlab.com/groups/gitlab-org/-/epics/%s)
