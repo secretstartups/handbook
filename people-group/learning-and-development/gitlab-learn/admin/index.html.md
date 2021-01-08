@@ -239,7 +239,6 @@ You can find pre-approved Group images in the [GitLab Learn photo drive](https:/
 Individual learners are responsible for uploading their own profile and banner photos.
 
 
-
 ### Peer review content before publishing
 
 It's important to have another member of your team review your content before making it live on the platform. Consider using this process to review content in the LXP. If your team decides on a different peer-review process, please document on this page.
