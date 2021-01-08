@@ -30,11 +30,11 @@ The Blackmagic Pocket Cinema is a camera designed for professional quality video
 
 ### Attach a Lens
 
-1. Uncover the lens mount on the camera. Be careful not to allow debris or dust to contaminate the sensor. 
-1. Uncover the rear cap of the camera lens, leaving the front cap on. 
-1. Attach the lens to the camera by lining up the indicator on the edge of the lens with the red dot on the camera. The indicator is either a red or white dot. 
-1. Once you've aligned the dots and inserted the lens, rotate it clockwise until you feel a click. 
-1. The lens is now attached to the camera, remove the cap on the front of the lens to allow for viewing. 
+1. Uncover the **lens mount** on the camera. Be careful not to allow debris or dust to contaminate the sensor. 
+1. **Uncover the rear cap** of the camera lens, leaving the front cap on. 
+1. **Attach the lens to the camera** by lining up the indicator on the edge of the lens with the red dot on the camera. The indicator is either a red or white dot. 
+1. Once you've aligned the dots and inserted the lens, **rotate the lens clockwise** until you feel a click. 
+1. The lens is now attached to the camera, **remove the cap** on the front of the lens to allow for viewing. 
 1. On the side of the lens, ensure that the **autofocus (AF)** feature is turned on. 
 2. To remove a lens, hold the **release button** immediatly beside the lens mount and twist the lens to the left until it comes free. 
 
@@ -244,7 +244,7 @@ GVM Panel lights should be operated in CCT mode only. In most cases, it will not
 #### External Resources
 
 <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/PuV1ethLPMI" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/PuV1ethLPMI" frameborder="0" allowfullscreen></iframe>
 </figure>
 
 **[User Manual](https://cdn.shopify.com/s/files/1/2489/1934/files/TMP100_-_User_Manual-_Dec_20.pdf?v=1608143109)**

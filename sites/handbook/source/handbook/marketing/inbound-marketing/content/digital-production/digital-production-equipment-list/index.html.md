@@ -22,7 +22,7 @@ twitter_creator: "@gitlab"
 
 - Logitech C920S - [Example](https://www.amazon.com/Logitech-Webcam-Calling-Recording-Stereo/dp/B08DRQ66WP/ref=sr_1_3?dchild=1&keywords=logitech+c920&qid=1605047326&sr=8-3).  
 **OR**
--  Razr Kiyo (slightly lower performance camera but includes ringlight) - [Example](https://www.amazon.com/Razer-Streaming-Adjustable-Brightness-Microphone/dp/B076QK6489/ref=sr_1_3_mod_primary_new?dchild=1&keywords=razer+kiyo&qid=1605047404&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3)
+-  Razer Kiyo (slightly lower performance camera but includes ringlight) - [Example](https://www.amazon.com/Razer-Streaming-Adjustable-Brightness-Microphone/dp/B076QK6489/ref=sr_1_3_mod_primary_new?dchild=1&keywords=razer+kiyo&qid=1605047404&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-3)
 
 ##### Audio
 
@@ -136,8 +136,8 @@ This package is very advanced and intended for those with a high need of profess
 
 ##### Audio
 
- - Lav microphone kit - [Example](https://www.bhphotovideo.com/c/product/1385594-REG/sennheiser_ew_112p_g4_a1_ew_112p_g4_camera.html?gclid=CjwKCAiAkan9BRAqEiwAP9X6UcPXPNWTfrUHoz9YxiCTsjaXN0MTO3lKNQGHjHAO9Ys68UAY2aOA2xoC3jkQAvD_BwE&pcur=CAD)
- - Adapter to connect Lav microphone to Camera - [Example](https://www.bhphotovideo.com/c/product/1537930-REG/kondor_blue_kb_mxlr_16_bk_mini_xlr_male_to.html). 
+ - Lavalier microphone kit - [Example](https://www.bhphotovideo.com/c/product/1385594-REG/sennheiser_ew_112p_g4_a1_ew_112p_g4_camera.html?gclid=CjwKCAiAkan9BRAqEiwAP9X6UcPXPNWTfrUHoz9YxiCTsjaXN0MTO3lKNQGHjHAO9Ys68UAY2aOA2xoC3jkQAvD_BwE&pcur=CAD)
+ - Adapter to connect Lavalier microphone to Camera - [Example](https://www.bhphotovideo.com/c/product/1537930-REG/kondor_blue_kb_mxlr_16_bk_mini_xlr_male_to.html). 
  - Shotgun Micrphone (for camera) - [Example](https://www.bhphotovideo.com/c/product/1183909-REG/rode_videomicro_compact_on_camera.html?sts=pi&pim=Y)
 
 ##### Green Screen
@@ -158,7 +158,8 @@ _This device attaches to the camera to allow a script to be read while speaking 
 
 - Tripod - [Example](https://www.bhphotovideo.com/c/product/1527795-REG/manfrotto_mkelmii4bk_bh_element_mii_aluminum_tripod.html)
 - Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990
-- Optional clamp to attach camera to Elgato Key Light - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
+- Optional clamp to attach camera to a lightstand, or support the lavalier - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
+
 
 ##### Production Switcher
 
