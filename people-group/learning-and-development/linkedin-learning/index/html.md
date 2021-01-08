@@ -11,7 +11,7 @@ title: "LinkedIn Learning"
 
 ## Overview
 
-In January 2021, GitLab is implementing LinkedIn Learning to provide our team members with more off the shelf learning resources. With a growing company, the needs for learning are growing as well and we are excited to provide this opportunity to our team members.  
+In January 2021, GitLab implemented LinkedIn Learning to provide our team members with more off the shelf learning resources. With a growing company, the needs for learning are growing as well and we are excited to provide this opportunity to our team members.  
 
 ## Benefit of LinkedIn Learning
 
@@ -25,9 +25,9 @@ We encourage all team members to [take time out to learn](/handbook/people-group
 
 ### Take Time out to Learn
 
-You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can also taime time to learn about things that are just fun for you like graphic design, drawing, or mindfulness. 
+You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can also take time to learn about things that are just fun for you like graphic design, drawing, or mindfulness. 
 
-Finding courses and skills to learn about just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. That may be learning more to improve current skills or learning new skills completely. 
+Finding courses and skills to learn just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. That may be learning more to improve current skills or learning new skills completely. 
 
 ## Recommended Learning Paths
 
@@ -73,7 +73,7 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
 1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
 1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
-1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. 
+1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
 ### Provisioning Access 
 
