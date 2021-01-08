@@ -690,7 +690,106 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 
 #### Opportunity Booking Requirements
 
-There are unique requirements for different methods of selling GitLab. Review the drop down related to your order type.
+There are unique requirements for different methods of selling GitLab. Review the below table or the drop down related to your order type.
+
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1495px">
+<colgroup>
+<col style="width: 331px">
+<col style="width: 161px">
+<col style="width: 1003px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-c3ow" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none">DIRECT Subscription Purchase Requirements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr"><span style="font-style:normal;text-decoration:none">Signed Order Form</span></td>
+    <td class="tg-0pky"><span style="font-style:normal">Required</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:underline">Exceptions</span><span style="font-weight:bold">: </span><br><br><span style="font-style:normal;text-decoration:none">a)</span><span style="font-weight:700;font-style:normal;text-decoration:none"> Signed </span><span style="font-weight:700">MSA </span>(Subscription Agreement) is in place. <br><br><span style="font-weight:400;font-style:normal;text-decoration:none">b) If the </span><span style="font-weight:700">customer does not have an MSA but refuses to sign our Order Form</span>, we need:<br><span style="font-weight:400;font-style:normal;text-decoration:none">  - </span><span style="font-weight:700;font-style:normal;text-decoration:none">PAO and Legal approvals </span>to accept the correctly issued PO without signed Order Form AND the following confirmation:<br><span style="font-weight:700;font-style:normal;text-decoration:none">  </span><span style="font-style:normal;text-decoration:none">- </span><span style="font-weight:700;font-style:normal;text-decoration:none">Reason</span>(s) why the Customer is refusing to execute the Order Form; and<br><span style="font-weight:700;font-style:normal;text-decoration:none">  </span><span style="font-style:normal;text-decoration:none">-</span><span style="font-weight:700;font-style:normal;text-decoration:none"> Documentation </span>(i.e., email thread) of the customer refusal.<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">In the above cases we need a correctly issued PO document (please see the details below) which does not include any terms and conditions which conflict with the Order Form and</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Signature</td>
+    <td class="tg-0pky">Required</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Signature with full name and signature date</span></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr"><span style="font-style:normal;text-decoration:none">Correct Order Form Attachment Format</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Required</span></td>
+    <td class="tg-0pky">Full pdf document with all the pages without manual edits (only PO nr, VAT ID manual edits can be accepted)</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">PO</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Required in some cases</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal;text-decoration:none">PO document in pdf </span>is required if the customer previously provided a PO document for any purchase.<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">If the customer won't provide a signed Order Form (see details above), the PO must contain the following details and we need to generate an Order Form without signature block:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - correct GitLab entity, </span><br> - the Quote No. found within the applicable Order Form, <br><span style="font-weight:400;font-style:normal;text-decoration:none"> - payment terms matching the Order Form, </span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - currency: USD,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - line item descriptions that match the Order Form (without signature block)</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">- visible PO number</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">- matching subscription term</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">If the customer signs our Order Form but previously they provided a PO doc as well but now they don't want to issue an PO document, they need to also provide an email confirmation that they will accept our invoice without a PO nr.</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none">RESELLER Subscription Purchase Requirements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Signed Order Form</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Not required</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Exception: if the reseller cannot provide a PO document and wants to sign our Order Form, the reseller Order Form with signature block can be selected in the quote template section of the quote object.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Signature</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Not required</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">If the reseller chooses to sign our reseller Order Form, signature with full name and signature date are required.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Correct Order Form Attachment Format</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Not required</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Complete pdf document with all the pages without manual edits (only PO nr, VAT ID manual edits can be accepted)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">PO</span></td>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Required </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(however reseller can sign the Order Form and in that case we don't need a PO document)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">If the reseller won`t provide a signed Order Form, the </span><br><span style="font-weight:700;font-style:normal;text-decoration:none">PO document in pdf </span><span style="font-weight:400;font-style:normal;text-decoration:none">must contain the following details and we need to generate a reseller Order Form without signature block:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - correct GitLab entity, </span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - the Quote No. found within the applicable Order Form, </span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - currency: USD,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - payment terms matching the Order Form, </span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - line item descriptions that match the Order Form (without signature block),</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - matching subscription term,</span><br><span style="font-weight:400;font-style:normal;text-decoration:none"> - visible PO number</span></td>
+  </tr>
+</tbody>
+</table>
+ 
+
+
+
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none">Other Transaction Requirements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Alliances Purchases (AWS and GCP)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Purchases via AWS and GCP have specific requirements.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Professional Services</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Professional Services purchases have specific requirements.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:700;font-style:normal;text-decoration:none">Public Sector Opportunities</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Public Sector purchases have specific requirements.</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">See: </span><br><a href="https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 <details>
 <summary markdown="span"><b>Specific Requirements for Opportunities sold Directly<b></summary>
