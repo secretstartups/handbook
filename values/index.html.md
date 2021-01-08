@@ -920,6 +920,9 @@ We document what is [not public by default](/handbook/communication/#not-public)
 Being direct is about being transparent with each other. We try to channel our inner [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz) by being [both straightforward
 and kind, an uncommon cocktail of no-bullshit and no-asshole](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8c09c8de1b). Feedback is always about your work and not your person. That doesn't mean it will be easy to give or receive it.
 
+In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement, however, it can be difficult and even socially expensive.
+Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
+
 ##### Articulate when you change your mind
 {:.no_toc}
 If you state one thing, and then change course and support a different direction, point, or outcome, articulate this. It is OK to have your position changed by new data. Articulating that an *earlier* stance is not your *current* stance provides clarity to others and encourages data-driven decision making. 
