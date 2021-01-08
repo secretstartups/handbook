@@ -38,14 +38,14 @@ An issue is considered completely triaged when:
 
 ## Priority
 
-The priority label is used to determine importance and helps with scheduling in relative to the team's capacity.
+The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, and capacity of the team. 
 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
-| ~priority::1 | Urgent | We will address this as soon as possible regardless of limit on our team capacity                 | PM of that product group |
-| ~priority::2 | High   | We will address this soon and will provide capacity from our team for it in the next few releases | PM of that product group |
-| ~priority::3 | Medium | We want to address this but may have other higher priority items                                  | PM of that product group |
-| ~priority::4 | Low    | We don't have visibility when this will be addressed                                              | PM of that product group |
+| ~priority::1 | Urgent | We will address this as soon as possible regardless of the limit on our team capacity. Our target resolution time is 30 days.                 | PM of that product group |
+| ~priority::2 | High   | We will address this soon and will provide capacity from our team for it in the next few releases. This will likely get resolved in 60-90 days. | PM of that product group |
+| ~priority::3 | Medium | We want to address this but may have other higher priority items. No timeline designated.                                  | PM of that product group |
+| ~priority::4 | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM of that product group |
 
 ## Severity
 
