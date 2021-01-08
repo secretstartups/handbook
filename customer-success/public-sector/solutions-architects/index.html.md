@@ -41,10 +41,10 @@ When the opportunity progresses to stage 4, the technical close plan is complete
 
 ## Success Management Program Introduction
 
-During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/tam/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.  
+During each greenfield (new customer) sale, customers will move from the presales technical evaluation into procurement. During the presales period, the account sales team will introduce the Customer Success Management Program to [eligible customers](/handbook/customer-success/tam/services/#enterprise). This call will be led by the Solutions Architect.The introduction provides guidance on accessing GitLab Support, available TAM programs and GitLab Professional Services.
 
 The goals of this introduction are many:
-1. Smoothly transition the new customer to post-sales realtionships for support, guidance, advocacy and growth
+1. Smoothly transition the new customer to post-sales relationships for support, guidance, advocacy and growth
 2. Ensure a smooth conversational shift from [Go to Market use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) to [DevOps stage adoption](/handbook/customer-success/tam/stage-adoption/)
 3. Validate customer access to [GitLab Support](https://about.gitlab.com/handbook/support/)
 4. Help the customer choose their level of TAM engagement after procurement
@@ -53,9 +53,9 @@ The goals of this introduction are many:
 ### Program Flow
 
 Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) is as follows:
-  
+
 Stages 0-2
-- As discovery occurs in early sales stages, the Stage Technology fields on the Account record in Salesforce should begin to be populated. 
+- As discovery occurs in early sales stages, the Stage Technology fields on the Account record in Salesforce should begin to be populated.
 
 Stage 3
 - During the technical evaluation, the SA should verify as much as possible about the use cases within the customer ecosystem.
@@ -63,7 +63,7 @@ Stage 3
 
 Stage 4-5
 - Once the technical win is achieved, the GitLab [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) (accessible by GitLab team members only) should be shared with the new customer.
-- A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation. 
+- A call should be scheduled with the new customer and the sales team to introduce the Success Management Program as well as the Technical Account Manager, if the TAM introduction has not already happened during the technical evaluation.
 - When the call is complete, the SA should log an activity of type 'call' that includes 'success management introduction' in the title.
 
 ### Program Introduction Resources
@@ -88,7 +88,7 @@ A: SAST, DAST, AutoDevops. There are workarounds, but those workarounds are not 
 
 **Q: What OpenShift versions will the integration work with?**
 
-A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x and below will not be suppported.
+A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x and below will not be supported.
 
 **Q: How can I (or my customer) track the integration status?**
 

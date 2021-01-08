@@ -15,7 +15,7 @@ title: Solutions Architect Processes
 
 ## SA Activity Capture
 
-Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can peform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
 
 ## Cross-functional Sales Team Processes
 
@@ -110,7 +110,7 @@ SA engagement for customer interactions, RFP's, audits and more can be requested
 
 ### Commercial Engagement Model
 
-SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the appropriate GitLab issue board. Commercial boards exist for both the Americas and EMEA. The [Americas Commercial Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/boards/1006966) and the [EMEA Commerical Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/boards) are leveraged by the team in order to ensure coverage for all sales activity. The issue creation and triage processes are described in detail below.
+SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the appropriate GitLab issue board. Commercial boards exist for both the Americas and EMEA. The [Americas Commercial Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/boards/1006966) and the [EMEA Commercial Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-commercial-triage/-/boards) are leveraged by the team in order to ensure coverage for all sales activity. The issue creation and triage processes are described in detail below.
 
 ### APAC Account Engagement Model
 
