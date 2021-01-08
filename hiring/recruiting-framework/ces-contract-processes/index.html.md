@@ -484,10 +484,7 @@ GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in thi
 1. If the candidate would like to use their own entity for the contractor agreement update the offer details with the Contractor Name and Address. You will use the IT BV Contractor Agreement - C2C in these cases.
 1. Generate IT BV Contractor Agreement - Independent or the IT BV Contractor Agreement - C2C
 1. Select Send with DocuSign
-1. Select one of the "Offer through DocuSign-IT BV" email templates
-1. The "Offer through DocuSign-IT BV" email template used will be determined by the `Total Rewards: Sales Geo Differential` field in Offer Details
-    - If the `Total Rewards: Sales Geo Differential` is `n/a-Comp Calc` use "Offer Through DocuSign-IT BV non-sales Geo"
-    - If the `Total Rewards: Sales Geo Differential` is listed as a country, use "Offer Through DocuSign-IT BV Sales Geo"
+1. Select the "Offer through DocuSign-IT BV" email template
 1. Update the "To" field to include the GitLab signatory and include the hiring manager in CC field
 1. Select Preview on DocuSign
 1. Once in DocuSign, update the signing order as you would with other contracts and hit send
