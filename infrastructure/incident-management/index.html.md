@@ -106,7 +106,8 @@ In some cases, we may choose not to post to status.io, the following are example
 1. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC.
 1. The time that the IMOC engages should be recorded in the incident issue by the IMOC co-assigning themselves to the issue. If GitLab.com is down, record the time in the Google working doc.
-1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC will also take on the role of CMOC.
+1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
+    * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc-only-during-weekdays)) is a more friendly choice.
 1. The IMOC should ensure that the appropriate team members from other teams engage within an appropriate amount of time.
     1. During a user-impacting incident, the appropriate time response time is minutes.
     1. If the IMOC is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
