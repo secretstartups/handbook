@@ -17,7 +17,7 @@ The Learning and Development team has created an opportunity for GitLab Team Mem
 We've created a learning path to become a GitLab Learning Evangelist to
 
 1. Ensure that all content contributors are trained on the EdCast platform
-1. Communicate how handbook first is applied to elearning content 
+1. Communicate how handbook first is applied to e-learning content 
 1. Ensure that content across the platform is cohesive and avoids repetition
 1. Democratize the learning process and provide space for all voices to be heard
 1. Keep content and look and feel of the platform aligned with overall brand
@@ -45,7 +45,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 1. Read [interactive learning handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) to understand how handbook first learning content is created for GitLab Learn.
 1. Review an [example](/handbook/people-group/learning-and-development/interactive-learning/#handbook-first-course-example) of handbook first learning content in GitLab Learn using an Articulate 360 course
-1. Watch this [interview with Sid](/handbook/people-group/learning-and-development/#handbook-first-training-content) discussing the organiation of handbook first learning content in the GitLab hanndbook
+1. Watch this [interview with Sid](/handbook/people-group/learning-and-development/#handbook-first-training-content) discussing the organization of handbook first learning content in the GitLab handbook
 1. Knowledge Assessment
 
 
@@ -65,13 +65,13 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for adding images to GitLab Learn
 1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. 
-1. Knolwedge Assessment
+1. Knowledge Assessment
 
 #### Part 5 - Peer review with L&D team or other Learning Evangelist
 
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
-1. Knolwedge Assessment
+1. Knowledge Assessment
 
 
 ## After earning the Learning Evangelist Badge
