@@ -61,6 +61,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 
 #### Podcasts
 
+* The Dan Smolen Experience — [Unleash the Remote Workforce](https://dansmolen.com/2021/01/08/unleash-the-remote-workforce/)
 * How I Work Podcast — [GitLab’s Head of Remote, Darren Murph, on how to create corporate culture when no one works from the office](https://www.amanthaimber.com/podcasts/gitlabs-head-of-remote-darren-murph-on-how-to-create-corporate-culture-when-no-one-works-from-the-office/)
 * SafetyWing Podcast — [How to transition to remote](http://buildingremotely.com/episode/2)
 * Customer Centric Podcast — [Darren Murph: home is where the office is](https://customercentric.unbabel.com/podcast/darren-murph-gitlab)
