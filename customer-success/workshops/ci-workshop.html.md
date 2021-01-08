@@ -25,7 +25,7 @@ This workshop is intended to provide enablement for new or existing customers su
 * Ask appropriate [discovery questions](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#discovery-questions)
 * Drive followup actions
 
-This workshop is *not* intended to provide a "hands-on-keyboard" demo experience. 
+This workshop is *not* intended to provide a "hands-on-keyboard" demo experience.
 
 *Typical time*: 60-120 minutes is a good guideline. The Advanced CI Workshop with pre-recorded video includes approximately 80 minutes of pre-recorded video plus approximately 5-15 minutes of "`rules:` examples". Don't forget to allot time for questions.
 
@@ -34,7 +34,7 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
 
 * [GitLab CI Conversion Workshop Enablement V2](https://docs.google.com/presentation/d/1K1t1O-8JMViiX6zKn0S2OMSjw1XvTcII5UQdNP0ItVs/edit#slide=id.g97c25944f3_1_0)
 
-The above deck contains all content necessary to support any of the a la carte options described in the [Collaboration Project Issue Template](#collaboration-project-issue-template).
+The above deck contains all content necessary to support any of the à la carte options described in the [Collaboration Project Issue Template](#collaboration-project-issue-template).
 
 * [Advanced CI Configuration Slides with pre-recorded video](https://docs.google.com/presentation/d/1GI-QdzYJY3ccVtELZr-5uLBcsaGbP2Ioliw5XMZJc9Q/edit#slide=id.g893eb10b30_0_0)
 * [Advanced CI Configuration Slides without video](https://docs.google.com/presentation/d/1lEF-8XBBn5kKdK5h9HNvQPvrQB8n1Jw-PYDIxO4ngT0/edit)
@@ -48,12 +48,12 @@ Please use [this issue](https://gitlab.com/gitlab-com/customer-success/tam/-/iss
 Reference: [CI Sell Sheet issue template](https://gitlab.com/gitlab-com/customer-success/tam/-/blob/master/.gitlab/issue_templates/CICDv2WorshopTopics.md)
 
 ### Purpose
-When considering a path for a CICD discussion with your customers, you may use the below as a template to create an issue in your customer's collaboration project. This can help your customers find the most suitable content within their available window. 
+When considering a path for a CICD discussion with your customers, you may use the below as a template to create an issue in your customer's collaboration project. This can help your customers find the most suitable content within their available window.
 
 ### Prerequisites
 (If possible, get these in advance from the customer)
 
-- Painpoints 
+- Painpoints
 - Tool Stack
 
 ### Topics to include in each discussion
@@ -61,13 +61,13 @@ When considering a path for a CICD discussion with your customers, you may use t
 - Q&A - allow up to 10-15m
 
 ### Tips and Tricks for delivering
-- Bring a friend! Invite another TAM or SA. 
-- Don’t be afraid to take follow-up questions to async 
+- Bring a friend! Invite another TAM or SA.
+- Don’t be afraid to take follow-up questions to async
 - Survey post workshop (could offer swag)
 
 ### Copy and Paste the Topics Below from Basic, Intermediate and Advanced topics
 
-#### Basic Level Topics 
+#### Basic Level Topics
 - GitLab CI/CD Basics (“Introductory Content”) - 30-40m
   - GitLab Architecture
   - GitLab yml file
@@ -94,7 +94,7 @@ When considering a path for a CICD discussion with your customers, you may use t
   - Multi-project pipelines
 - Merge Trains
   - Pipelines for merged results
-- Advanced AutoDevops
+- Advanced AutoDevOps
   - Inheriting & Customizing AutoDevOps Templates
   - Using environment variables to customize behavior
 - GitLab Security Testing & Code Quality
@@ -105,7 +105,7 @@ When considering a path for a CICD discussion with your customers, you may use t
   - Dependency Scanning
   - Container Scanning
   - License Compliance
-  - Browser Performance Testing 
+  - Browser Performance Testing
 
 #### Tips & Tricks (works great as a filler for the end of the presentation) - 5-10m
 
