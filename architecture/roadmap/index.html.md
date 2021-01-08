@@ -3,9 +3,9 @@ layout: markdown_page
 title: "Technology Roadmap"
 ---
 
-As GitLab continues to grow and mature, it is approaching a pivotal point in which faster growth across multiple large sites and an emphasis on the enterprise will become the main challenges to contend with over the next 12 months. All within the context of a relentless focus on security, availability, and performance. 
+As GitLab continues to grow and mature, it is approaching a pivotal point in which faster growth across multiple large sites and an emphasis on the enterprise will become the main challenges to contend with over the next 12 months. All within the context of a relentless focus on security, availability, and performance.
 
-In order to meet these challenges, we need to attain extremely high levels of **predictability** when operating the environments. This entails stricter standardization while providing the required flexibility to support both self-managed instances and GitLab sites, which enables the use of advanced automation by leveraging advanced tooling. But even with a high confidence level on preditability, **risk** is a factor we must manage: things will inevitably go wrong when effecting change in the environments. Thus, we must be able to quantify acceptable risk, to react fast in the face of failure to restore stability, and to so as a single Engineering unit.
+In order to meet these challenges, we need to attain extremely high levels of **predictability** when operating the environments. This entails stricter standardization while providing the required flexibility to support both self-managed instances and GitLab sites, which enables the use of advanced automation by leveraging advanced tooling. But even with a high confidence level on predictability, **risk** is a factor we must manage: things will inevitably go wrong when effecting change in the environments. Thus, we must be able to quantify acceptable risk, to react fast in the face of failure to restore stability, and to so as a single Engineering unit.
 
 As a company, GitLab advocates [cloud native](https://about.gitlab.com/cloud-native/) as the future of software development: customers benefit from GitLab as a complete DevOps platform delivered as a single application (from issue tracking and source code management to CI/CD and monitoring, with a built-in container registry and Kubernetes integration). We must fully embrace this model ourselves. In this context then, our **most critical technical strategic investment will be our own full transition to Cloud Native on stateless components**, which will afford us the ability to operate and fine-tune a variety of configurations at scale while innovating feature-wise and being frugal. In tandem, we must also develop enterprise-level capabilities to meet stringent requirements imposed by said customers.
 
@@ -13,7 +13,7 @@ As a company, GitLab advocates [cloud native](https://about.gitlab.com/cloud-nat
 
 **Cloud native** is an approach to application development and operation built around cloud computing, shifting the focus from individual machines to services that rely on on-demand cloud resources to deliver high service levels while adapting to a never-ending stream of changes. It relies on technologies such as containers and strategies such a microservices to deploy at high frequencies in a consistent manner. This is reflected in our beliefs on the [Biggest Tailwinds](https://about.gitlab.com/handbook/leadership/biggest-tailwinds/), and enables a high degree of predictability, thus allowing us to better manage said service levels.
 
-Today, GitLab consists of a monolithic GitLab Rails codebase and several supporting services (Gitaly, GitLab Workhorse, Registry, CI runners, GitLab Shell, and GitLab Pages, etc.). GitLab has therefore already adopted some facets of cloud native, but we need to move closer to this model to succeed. 
+Today, GitLab consists of a monolithic GitLab Rails codebase and several supporting services (Gitaly, GitLab Workhorse, Registry, CI runners, GitLab Shell, and GitLab Pages, etc.). GitLab has therefore already adopted some facets of cloud native, but we need to move closer to this model to succeed.
 
 However, we cannot do a wholesale switch to cloud native: we must evolve a single codebase that supports the wide variety of environments in which it runs along two parallel but distinct paths, scaling across multiple large sites while supporting self-managed instances. Thus, even as we embark on a fuller embrace of cloud native, we must find a balance that spans both paths, allowing for the necessary transitions from one to the other. This balance requires us to continuously evaluate our needs and identify opportunities to extract specific workloads from the monolith where appropriate without diving into the trap of creating an unmanageable set of *runaway microservices* while re-thinking how some of the supporting services scale in this context.
 
@@ -31,7 +31,7 @@ Change is the main channel for the introduction of risk in the environment. We h
 
 Finally, we must be able to quantify risk, and, in doing so, further quantify how much of it we are willing to accept. [Error budgets provide a framework](/handbook/engineering/error-budgets/) to do this, and an organizational adherence to error budgets enables us to think about the steps we need to take organizationally to handle what happens after error budgets have been depleted. Thus, we must deliver on a full technical and organizational implementation of error budgets.
 
-## The Enterprise  
+## The Enterprise
 
 ### Disaster Recovery
 
@@ -45,7 +45,7 @@ Much work has taken place to strengthen repository storage, and we must take thi
 
 As DevOps streamlines application development, deployment and management, cost becomes a concern the application must help with. We must pivot from reactive to proactive cost management: as the application gains new capabilities and scale, its cost footprint also increases, and these cannot be managed entirely on a reactive basis outside the application. The application itself must gain a sense of awareness to aid in cost management. This awareness comes primarily through the integration with underlying infrastructure technologies, which is well-aligned with cloud native strategies: if the application is managing how much infrastructure it needs to use to deliver rock-solid service, it must also be able to provide the necessary metadata to tag resources and make decisions to optimize and manage costs.
 
-## Roadmap Scheduling 
+## Roadmap Scheduling
 
 ### FY21
 
@@ -59,7 +59,7 @@ FY21 (ends on January 31, 2021)
 
 ### FY22
 
-* 
+*
 
 
 
