@@ -54,7 +54,7 @@ Consider the following when documenting course content in the handbook:
 
 1. Outline clear learning objectives
 1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
-1. Emebed relevant YouTube videos
+1. Emebed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
 
@@ -64,7 +64,7 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 
 - SmartCards linking to specific handbook pages
 - Pathways leading learners through related handbook pages to train on a specific skill or content area
-- iFrames displaying content from the handbook directly in the LXP
+- iframes displaying content from the handbook directly in the LXP
 - Assessments and learning checks referring back to content in the handbook to check for understanding
 
 <figure class="video_container">
@@ -76,7 +76,7 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 Below is an outlined example of how the field enablement team created a handbook first learning course for the EdCast LXP using Articulate 360.
 
 1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
-1. **Video** Videos are embedded in the course from the GitLab Unfiltered YouTube channel
+1. **Video** Videos are embedded in the handbook and linked from the LXP
 1. **iframes** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
 1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
@@ -88,10 +88,12 @@ Avoiding these examples can help ensure that the content you're producing follow
 | Example | Suggested handbook first improvement |
 | ----- | ----- |
 | Introducing new content within a course or Pathway | Add new content to an existing handbook page, or open a new page to document |
-| Uploading video that is not shared elsewhere | Upload the video first to GitLab Unfiltered, then embed or link from YouTube |
+| Directly uploading a video to the LXP | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and either display in an Articulate course via iframe or link from a SmartCard in the LXP |
 
 ### Identified challenges with handbook first learning
 
 - iframes can break if the page or subsection of the linked handbook is updated
 - Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
+- When iframes are not used, the user needs to navigate to text and video content in the handbook on a new internet tab
+- New handbook/docs pages may need to be created in cases where videos should be included in a learning path
 
