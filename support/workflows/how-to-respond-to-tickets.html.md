@@ -94,7 +94,7 @@ In the characterization mode, we're working to establish basic facts about what 
 We can be transparent that we're working to characterize the user's issue. When in this operation mode, we can ask:
 
 * What the user is trying to do
-* Why the user is trying to do
+* Why the user is trying to do it
 * How the system is effectively behaving
 * How the user thinks the system should behave
 * State and context information that might be influencing the behavior we are seeing
