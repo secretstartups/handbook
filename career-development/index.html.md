@@ -393,10 +393,10 @@ subgraph Based on Merit &amp; Company Need
   click eng:stdbre "/job-families/engineering/infrastructure/database-reliability-engineer/";
 
   %% Infrastructure Management
-  click eng:em "/job-families/engineering/infrastructure-management/";
-  click eng:sem "/job-families/engineering/infrastructure-management/";
-  click eng:di "/job-families/engineering/infrastructure-management/";
-  click eng:vpi "/job-families/engineering/infrastructure-management/";
+  click eng:em "/job-families/engineering/infrastructure/engineering-management/";
+  click eng:sem "/job-families/engineering/infrastructure/engineering-management/";
+  click eng:di "/job-families/engineering/infrastructure/engineering-management/";
+  click eng:vpi "/job-families/engineering/infrastructure/engineering-management/";
 
   %% Individual contributors
   click eng:ia "/job-families/engineering/infrastructure/analyst";
