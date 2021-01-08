@@ -38,7 +38,6 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 ### Part 1 - Understanding GitLab Learn
 
 1. Read the [GitLab Learn handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/#gitlab-learn) to learn about the creation and purpose behind GitLab Learn, and EdCast Learning Experience Platform. 
-1. Watch the [GitLab Learn Welcome Video](https://www.youtube.com/watch?v=ZVHiNhy1hbM&feature=youtu.be)
 1. Watch the [EdCast User Experience Overview Video](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization)
 1. Knowledge Assessment
 
@@ -52,7 +51,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 ### Part 3 - Creating content in EdCast
 
-1. Review the [best practices of content creation review](/handbook/people-group/learning-and-development/gitlab-learn/admin/#content-creation-best-practices)
+1. Get familiar with [how to navigate admin docs for GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/admin/#navigating-gitlab-learn-admin-content)
 1. Watch training videos for uploading content in GitLab Learn
      - [Example: Contribute an interesting article or video as a SmartCard](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-an-interesting-article-or-video)
      - [Example: Contribute a new Pathway or Journey](/handbook/people-group/learning-and-development/gitlab-learn/admin/#contribute-a-new-pathway-or-journey)
@@ -64,19 +63,15 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 
 ### Part 4 - Keeping content aligned with look and feel
 
-1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for addeding images to GitLab Learn
-1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. Learning Evangelists should focus on using the [Pathway and Journey images](https://drive.google.com/drive/folders/1UQviobAEv6G-KhPcOoxPbbTl2cz9V_Y-?ths=true)
+1. Review the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#image-guidelines) for adding images to GitLab Learn
+1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. 
 1. Knolwedge Assessment
 
 #### Part 5 - Peer review with L&D team or other Learning Evangelist
 
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
-1. Knolwedge Assessment
-
-### Part 6 - Broadcasting content
-
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
-1. Knowledge Assessment
+1. Knolwedge Assessment
 
 
 ## After earning the Learning Evangelist Badge
