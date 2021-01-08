@@ -64,13 +64,13 @@ We are setting up SSO, so that all marketing budget holders can sign in easily w
 ### Adaptive/ Netsuite
 We will eventually be able to use an FTP data integration to upload budgets to Adaptive and download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month.
 
-:metrics: ## Reporting available  - Allocadia `Insights`
+ ## Reporting available  - Allocadia `Insights` :metrics:
 These dashboards and reports are still being built as we enter more data into the system and understand what we will need. 
 
-:knight: ## OKR connection - Allocadia `Strategy`
+ ## OKR connection - Allocadia `Strategy` :knight:
 We are looking into the ability to enter the Corporate (CEO level), Marketing (CMO level) and Team (departmental level) OKRs in Allocadia so that we can connect our spend to our OKRs. This will NOT replace the current use of GitLab issues, but can supplement with reporting and mapping of dept to CMO to CEO OKRs to keep us all aligned.
 
-:hash: ## Lead to Goal - Allocadia `Metrics'
+ ## Lead to Goal - Allocadia `Metrics' :hash:
 There is an `Impact Modeler` that we can use to automatically calculate the effect of our marketing efforts to MQL and SAOs. Similar to the way these were calculated in the 5Q rolling for the Field Marketing team, Allocadia can keep track of how spend should affect our lead volume. 
 
 
