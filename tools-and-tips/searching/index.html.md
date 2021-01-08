@@ -78,7 +78,7 @@ The steps below show you how to import the keyword searches described below in [
 
 | Step | Image |
 |---|---|
-| 1. Download the [keyword search Firefox bookmarks file](/handbook/tools-and-tips/searching/gitlab-keyword-search-firefox-bookmarks.html) | |
+| 1. Download the [keyword search Firefox bookmarks file](/handbook/tools-and-tips/searching/gitlab-keyword-search-firefox-bookmarks/) | |
 | 2. Go to the Bookmarks window, click on the import-export icon, then click on `Import Bookmarks from HTML...` | ![Firefox Import Bookmark](/images/handbook/tools-and-tips/searching/FF_Import_bookmarks.png) |
 | 3. In the new popup dialog, select the file you downloaded in step 1 to import the keyword searches into your Firefox bookmarks | |
 
