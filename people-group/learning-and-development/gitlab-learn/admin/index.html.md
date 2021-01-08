@@ -48,8 +48,9 @@ Before reviewing the documented best practices below, take time to watch these r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cvYt5o3sWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-##### Contribute a new Pathway or Journey to earn a badge
+##### Contribute a new Pathway or Journey
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuhI8Plcrbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Content creation best practices
 
