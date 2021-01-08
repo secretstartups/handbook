@@ -34,6 +34,13 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 - Practice emotional intelligence to improve leadership and build more effective relationships with your people
 - Build an inclusive environment for your people that is built on trust
 
+Below is a video L&D recorded with Sid on manager enablement: 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jsWDGiSUsA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 ### Overview
 
 **What** 
