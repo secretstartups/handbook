@@ -15,15 +15,13 @@ In January 2021, GitLab is implementing LinkedIn Learning to provide our team me
 
 ## Benefit of LinkedIn Learning
 
-Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access their over xx,xxx courses on many different topics. 
+Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access their over 8,000 courses on many different topics. 
 
 ### How to incorporate LinkedIn Learning into your day-to-day role 
 
-[add text here]
+We encourage all team members to [take time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). If you are working on a project and realize you need to know more about a certain topic or a certain tool, you can go to GitLab Learn and search for that to see if there are resources avialble to you. 
 
 [add Video overview of the experience including How to access from the LXP]
-
-You can download the LinkedIn Learning app on your phone. You can take learning wherever you go! 
 
 ### Take Time out to Learn
 
@@ -70,11 +68,12 @@ We have outlined recommended learning paths for different roles at GitLab. This 
 
 ## How to access LinkedIn Learning
 
-If you are a GitLab Team Member, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
+All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
-1. Fill out this [Access Request Form](https://docs.google.com/forms/d/e/1FAIpQLSceJspLH5naf1SvJ5X7qsFiJDp92AqZUuQwllp3IX5q5ENZCw/viewform) 
-1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. You can access content in LinkedIn Learning directly from the site or from our learning platform, [GitLab Learn](https://gitlab.edcast.com/)
+1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
+1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
+1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. 
 
 ### Provisioning Access 
 
@@ -103,7 +102,7 @@ The L&D Team will deprovision access to LinkedIn Learning to team members who le
 
 All GitLab Learn users will be able to access free content on LinkedIn Learning. 
 
-If you have have activated a license, you will also be able to access the paid content on LinkedIn Learning. You can do this by going to [GitLab Learn](gitlab.edcast.com). 
+If you have activated a LinkedIn Learning license, you will also be able to access the paid content on LinkedIn Learning. You can do this by going to GitLab Learn. 
 
 ## Coordination with EdCast
 
@@ -127,5 +126,4 @@ Our integration and configuration was set up in conjunction with our partners fr
 - I can't find LinkedIn Learning courses in GitLab Learn. What should I do? 
    - If you cannot access LinkedIn Learning content in GitLab Learn, it is likely because you have not activated a LinkedIn Learning license. First, comfirm that you have activated a LinkedIn Learning license. You can do that by going to [LinkedIn Learning]() to see if you have an account. If you do not have a license or an invite, please reach out to the Learning and Development team in slack in the `#learninganddevelopment` channel. 
 - How do I access content in LinkedIn Learning? 
-   - a 
-- a 
+   - To access LinkedIn Learning content we recommend that you go to our GitLab Learn platform and search for skills and topics you want to learn more about that way. You can filter content to only show LinkedIn Learning content. 
