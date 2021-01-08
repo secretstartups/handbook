@@ -32,6 +32,7 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 * Hierarchy - this is where categories, subcategories and the line items are organized.
 * Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system coming in FY22
 * Comments - this can be used for any notes about the spend, but it is not reportable nor sortable
+* Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month.
 
 ### Detail panel
 * SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank
