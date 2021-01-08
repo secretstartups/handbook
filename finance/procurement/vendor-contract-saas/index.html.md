@@ -169,7 +169,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
    * If there is no GitLab entity available in the country of a vendor use GitLab Inc
 
 **Security Review and Approval**
-1. Security is responsible for reviewing vendor security practicies and will adhere to the [Third Party Vendor Security Review Process](//handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). 
+1. Security is responsible for reviewing vendor security practicies and will adhere to the Third Party Vendor Security Review Process. 
 1. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor 
 1. Once the security team approves the vendor and/or identifies gaps in the vendor's security practices for negotiation, security will provide their approval in the issue.
 1. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit#heading=h.a7l25bv5e2pi) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal.
