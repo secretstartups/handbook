@@ -1,5 +1,3 @@
-Team
-
 ---
 layout: handbook-page-toc
 title: Contribute to GitLab Learn
