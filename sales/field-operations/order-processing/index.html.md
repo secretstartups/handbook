@@ -30,7 +30,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [How to Work with Legal](/handbook/legal/#3-other-legal-requests)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
@@ -71,7 +71,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
 
 ## **Quote Configuration**
 
-The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/business-ops/resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
+The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/sales/field-operations/gtm-resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
 
 ### Standard Quote Types
 
@@ -197,10 +197,10 @@ NOTE: In very few circumstances, a Customer may refuse to use a PDF with GitLab 
 The signatory Authorization Matrix can be found here: /handbook/finance/authorization-matrix/  
 
 **Process for Signature**
-Once negotiations are completed, and the digital stamp has been affixed to the final version of the contract / Agreement:
-1. Change the status of the contract, in SFDC, to 'Approved to Sign'; and
-1. [stage the contract](https://faq.hellosign.com/hc/en-us/articles/205830938-How-do-I-request-a-signature-) in HelloSign for signatures;
-1. Send to the Customer and cc' our CFO (Paul Machle).
+Once negotiations are completed, and the digital stamp has been affixed to the final version of the contract / Agreement: 
+1. Change the status of the contract, in SFDC, to 'Approved to Sign'; and 
+1. [stage the contract](https://faq.hellosign.com/hc/en-us/articles/205830938-How-do-I-request-a-signature-) in HelloSign for signatures; 
+1. Send to the Customer and cc' our CFO (Brian Robins).
 
 </details>
 
@@ -378,8 +378,8 @@ If GitLab agrees to customized subscription terms with a customer, all quotes, S
 
 To update the terms of a quote, follow these steps:
 1. Delete the reference in the quote to GitLab’s URL terms.  
-1. Replace the reference with the following language - “By accepting this Quote, you and the Entity that you represent (collectively, “Customer”) unconditionally agree to be bound by and a party to the GitLab Subscription Terms executed between Customer and GitLab on mm/dd/yyyy.”
-1. Insert the date that the customized agreement was signed.  
+1. Replace the reference with the following language - “By accepting this Quote, you and the entity that you represent (collectively, “Customer”) unconditionally agree to be bound by and a party to the GitLab Subscription Agreement signed by Customer and GitLab with an effective date of mm/dd/yyyy.”
+1. Insert the effective date of the customized agreement signed by both parties. The effective date should be set forth in the agreement, but if not specifically set forth, use the date the last party signed.  
 
 #### Adding Custom Terms to a Quote
 
@@ -675,17 +675,17 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 
 #### Review required Salesforce fields
 
-1. On the Account record:
+1. On the **Account** record:
   * Industry
   * Complete Billing and Shipping Address
   * In the Special Terms field, add any non-standard terms related to the subscription (ramps, special pricing), support (non-standard SLAs), finance (special billing/payment terms), or legal.
 
-1. On the Opportunity record:
+1. On the **Opportunity** record:
   * Go to the Contact Roles related list and add a Primary Contact. Ideally, you'll add Contact Roles much earlier in the sales cycle.
   * If the opportunity involved a partner, meaning partner will get credit for the opportunity, please click new in the partner section and add partner. There should only be one partner selected for each opportunity.
   * Add the Competitor(s). Note that this is only required for New Business; it is not required for Renewals or Add On Business.
   * Make sure your Close Date is for the date you are submitting the opportunity for approval.
-  * Provide the Closed Won Details- a few sentences on highlighting why we won the deal (pricing, packages, feature set, etc.) should do.
+  * Provide the Closed Won Reason and Closed Won Details (a few sentences highlighting why we won the deal, that supports your Closed Won Reason selection).
   * Once these steps are completed, save the record and submit the opportunity for approval.
 
 #### Opportunity Booking Requirements
@@ -698,8 +698,6 @@ There are unique requirements for different methods of selling GitLab. Review th
 A Direct Deal is a deal between GitLab and the Customer. There are no Distributors/Partners/Resellers involved at any stage of the process. **IMPORTANT NOTE**: At this time, we cannot accept Direct Deals through India. All opportunities with customers based in India must go through a reseller or partner.
 
 For all Direct Deals (Sales Assisted Opportunities) the customer must sign the Approved Order Form. Order Forms without a full customer signature (Name, Title, Company, Date) will be rejected by Deal Desk.
-
-** Some customers will require a Signed Order Form as well as a PO for Invoicing purposes. Please reach out to Billing Ops to determine if the Account requires a PO to book the order.
 
 <details>
 <summary markdown="span"><b>GITLAB FIRMLY REQUIRES ORDER FORMS TO BE FULLY EXECUTED. CLICK HERE IF CUSTOMER REFUSES TO SIGN ORDER FORM</b></summary>
@@ -860,7 +858,64 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
-### How to Submit an Opportunity for Approval (Booking)
+#### Purchase Order Policy
+
+Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
+
+Note: This policy is supplemental to the other booking requirements listed on this page. It does not replace any other booking requirements.
+
+**How can I determine whether a customer requires POs?**
+
+**For new customers:**
+
+New business transactions for net new customers will require validation from the customer. Prior to closing a new business deal, Sales should validate with the customer whether they will issue a PO for the transaction and provide this information upon submitting the opportunity for approval. In addition, Sales should confirm with the customer whether there are any related special billing requirements prior to deal closure. 
+
+**For existing customers:** 
+
+This information can be reviewed in several places within Salesforce:
+
+1. Review the Billing Account object in Salesforce. First, navigate to the customer's Salesforce Account. Next, click on Billing Accounts. Click on the appropriate Billing Account Name, and then review the "PO Required" field. If the field is marked "YES," the customer requires a PO. If the field is marked as "NO" or if the field is blank, the customer does not require a PO.
+2. Review the relevant quote object. Unique quotes created and tied to existing billing accounts will display the "PO Required?" field from that relevant billing account.
+3. Review the opportunity. If a quote has been created and marked primary, the "PO Required" field from the primary quote's billing account will display on the opportunity as "PO Required (Quote Billing Account)."
+
+**How does GitLab know that a customer requires POs?**
+
+If a PO is not provided during the booking process, customers who require POs will typically notify the Billing team of their requirement once an invoice has been issued. In many of these cases, the invoice is rejected and Billing works with the customer to obtain their PO and manually reissue the invoice with the PO number included. The Billing team then updates Zuora to denote the customer's PO requirement.
+
+**Why does the customer PO requirement matter?**
+
+If a customer requires POs, they will typically reject any invoice sent to them that does not include a PO number. Additional billing and collection efforts become required to engage with the customer, to obtain the PO, and to manually issue a new invoice once the PO has ultimately been received. In addition, this scenario often produces significant delays to cash collection. 
+
+**What if "PO Required" = "YES," but the customer states that they do not require a PO?**
+
+1. If the customer does not require a PO for a *specific transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached.
+
+2. If the customer does not require a PO for *any transaction*, attach the customer's written confirmation to the opportunity. If all other booking requirements are met, the opportunity will be closed without a PO attached. In addition, the Billing team will update "PO Required" to "NO."
+
+**What if "PO Required" = "YES," and the customer has provided a PO number but not a PO document?**
+
+1. If the customer provides a PO number, not not a PO document, please attach the email (containing the PO number) to the opportunity. If all other booking requirements are met, the opportunity will be closed.
+
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met?**
+
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, the opportunity will be held for booking until the PO is provided by the customer. Exceptions will only be made at quarter end (see below).
+
+**What if the customer requires a PO and the PO is delayed, but all other booking requirements are met and the customer's license grace period is about to end?**
+
+If the customer's license has expired, and the customer's grace period is nearing its end, please open an [Issue to request a grace period extension](https://about.gitlab.com/handbook/support/internal-support/#trial-extensions-and-plans) for the related license. A grace period extension will prevent the customer from losing functionality while the opportunity is pending approval due to a delayed PO.
+
+**End of Quarter Exceptions**
+
+If "PO Required" = "YES" and the customer's PO will be provided to GitLab at a future date, exceptions will be considered at quarter end if the following requirements are met:
+
+1. The opportunity is submitted for approval no more than 5 days before the last day of the quarter, and all other booking requirements have been met.
+2. The customer provides written confirmation that the PO will be issued to GitLab within 10 days. This written confirmation is attached to the opportunity.
+3. Approval is obtained in chatter from both the Deal Desk Manager and Senior Billing Manager.
+
+Note: If an exception is granted and the PO is not received within 10 days, on the 11th day the opportunity will be decommissioned, reversing all credit given for the booking. 
+
+
+### Finally, submit the opportunity for approval (booking)
 
 When you have reviewed [all opportunity requirements](/handbook/business-ops/order-processing/#my-customer-signed-the-order-form-now-what) and have a **signed order form from** the customer, you are ready to submit the opportunity for approval.
 
@@ -1033,7 +1088,7 @@ Go to the right team who can support you with your request. **NOTE** It is so im
 
 #### When to contact Sales-Support:
 
-Be sure to review the (common questions after a deal has closed)[### Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed-Won opportunity.
+Be sure to review the (common questions after a deal has closed)[### Post Sale Information] section. If you still have questions, tag Sales-Support on the relevant Closed Won opportunity. 
 
 ##### Out of Scope for Sales-Support
 

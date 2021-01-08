@@ -23,12 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Nov 26 | **Cancelled due to Holiday** |
-| Dec 3 | [Deal qualification: Best practices in figuring out if you truly have a deal](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/2) | Timm Ideker |
-| Dec 10 | [GitLab Product Tiers Training Refresher](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/85)  | Saumya Upadhyaya |
-| Dec 17 | [Q4 FY21 GitLab Product Release Update for Sales](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/83)  | Brian Glanz |
-| Dec 24 | **Cancelled due to Holiday** |
-| Jan 7 | [Q4 FY21 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/82) | Mahesh Kumar |
 | Jan 14 | [Red Hat Partner Session](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/89) | Vick Kelkar |
 | Jan 21 | *No sessions during last 2 weeks of the quarter*
 | Jan 28 | *No sessions during last 2 weeks of the quarter*
@@ -38,6 +32,9 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-01-07 | **[Q4 FY21 Competitive Update](https://youtu.be/vTfAZIUtris)** | Private |
+| 2020-12-10 | **[Deal Registration Program and Working with Partners](https://youtu.be/8XyM4Z-0XLg)**  | Private |
+| 2020-12-03 | **[Deal qualification: Best practices in figuring out if you truly have a deal](https://youtu.be/S2MpIS18noM)** | Public|
 | 2020-11-19 | **[Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://youtu.be/ndrNX8fIIqs)** | Private |
 | 2020-11-12 | **[How GitLab Evaluates and Completes Software Purchases](https://youtu.be/55dkX_hNd4s)** | Private |
 | 2020-11-05 | **[Co-Selling with Google - Alliance Overview](https://youtu.be/albyLzQNo7U)** | Private |

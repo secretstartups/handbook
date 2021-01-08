@@ -140,3 +140,23 @@ title: "Gainsight: Go-To-Market Technical Documentation"
 *  Due to limitations of the integrations between Zendesk, Gainsight and Salesforce it is possible that the sync of tickets is disrupted. Zendesk does not push the Zendesk Organization ID over to Salesforce. To address this a one time upload of Zendesk Organization IDs was compelted in Salesforce ([Zendesk Organization ID (ADMIN)](https://gitlab.my.salesforce.com/00N4M00000Ib2z1?setupid=AccountFields)). This field is then ingested to Gainsights via the Salesforce `Connectors 2.0`. Gainsight then leverages this Organization ID to match Tickets (that are synced over from Zendesk) with Accounts (that are synced over from Salesforce). 
    * There is currently an [open issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/761) to address this shortcoming and we are exploring solutions to this. If you find that this limitation impacts your flow the solution would be to re-import Zendesk IDs into Salesforce so that as many accounts have Zendesk Organization IDs associated with them. 
 *  The tickets that are seen on the company view within Gainsight are shown their by selecting one report from the dropdown list. As a specific report is seslected the Zendesk Tickets that are associated with that company and that meet the reports filter criteria are shown. This means it is relatively easy to create differnt views of the Zendesl Tickets associated with the account (similar to list views in Salesforce, but thatare specific only to one company)
+
+### Gainsight Roles (Bundles)
+
+Below are the Gainsight bundles (permission sets) and relevant access categories.
+
+| Area                                  | Capability                                                   | `Default Bundle` (Admin role) | `SAL_Users` | `View_Group` | `TAM Journey Orchestrator` | `TAM_Users` | `GS Admin sans provisioning` |
+| ------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ----------- | ------------ | -------------------------- | ----------- | ----------- |
+| Home                                  | Dashboard view access                                        | ✓                             | ✓           |              | ✓                          | ✓           | ✓           |
+| Timeline                              | End user account Timeline history view                       | ✓                             | ✓           | ✓            |                            | ✓           | ✓           |
+| Cockpit                               | View and execute Calls to Action (CTAs)                      | ✓                             | ✓           | ✓            |                            | ✓           | ✓           |
+| C360 Account                          | View and edit customer Account data                          | ✓                             | ✓           |              | ✓                          | ✓           | ✓           |
+| Surveys                               | Access to create surveys                                     | ✓                             |             |              | ✓                          |             | ✓           |
+| Admin: Journey Orchestrator           | Administrative access to creating and deploying one-to-many email campaigns | ✓              |             |              | ✓                          |             | ✓           |
+| Admin: Data / Integrations Operations | Administrative access for Gainsight customer data and integrations | ✓                       |             |              |                            |             | ✓           |
+| Admin: Email Configuration            | Admin access for backend of email domain, including CNAME setup | ✓                          |             |              |                            |             | ✓           |
+| Admin: Reporting                      | Admin access to build, share, and modify reports and dashboards | ✓                          |             |              |                            |             | ✓           |
+| Admin: Rules Engine                   | Admin access to create rules (workflows) to run CTAs and other operations | ✓                |             |              |                            |             | ✓           |
+| Admin: User Provisioning              | Admin access: user provisioning and deprovisioning access    | ✓                             |             |              |                            |             |             |
+
+

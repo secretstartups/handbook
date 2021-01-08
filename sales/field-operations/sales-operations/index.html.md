@@ -24,7 +24,7 @@ Sales Operations main focus is on the Sales organization and supports this group
   <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
   <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
   <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -99,11 +99,11 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Updating or creating Opportunity Splits ](/handbook/sales/forecasting/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
-1. [Locked Deal](/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
+1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
@@ -272,7 +272,6 @@ The full company tech stack list with definitions can be found on the [Business 
 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
-1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
 1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details>
@@ -296,7 +295,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. Check the Data in the [Provided Report](https://gitlab.my.salesforce.com/00O4M000004aGGo):
    - Make sure the last login date is set to LESS than or equal to 90 Days ago.
    - Verify that no integration users or users that might be tied to an external system are not included in the access removal. If there are questions, error on the cautious side and work with Sales Systems.
-1. Create an [Access Change Request](handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
+1. Create an [Access Change Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
    - List the users that will be removed so that we have record of reason and users if needed in the future.
 1. Email Notification:
 
@@ -437,22 +436,23 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 **SMB AMER**
 
 1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+2. [SMB AMER Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **SMB EMEA & APAC**
-
-2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+1. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+2. [SMB EMEA & APAC Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market East**
-
-3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+1. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+2. [Mid Market-East Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market West**
-
-4. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+1. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+2. [Mid Market-West Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market EMEA**
-
-5. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+1. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+2. [Mid Market EMEA Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 </details>
 
@@ -460,7 +460,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Account Ownership Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ### **Sales Territories**
 
@@ -631,7 +631,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. Updated the Role, Team and License Type. These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
 1. Click the **Send Invites** button to invite the user to Chorus.
 
-Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener.
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
 ### DataFox
 

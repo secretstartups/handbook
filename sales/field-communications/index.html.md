@@ -159,6 +159,13 @@ Once you've reviewed the playbook above and would like to request Field Communic
    - Note: If the announcement request includes a request to survey some or all field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. (See the "Considerations" sections for Tier 2 and 3 playbooks above.) 
 - Field Communications will collaborate with the requester on the announcement details directly in the issue to finalize the roll-out plan. 
 
+#### Recurring Announcements
+Some teams, including Strategic Marketing and Competitive Intelligence, are consistently creating new content and resources for the Field team. In the spirit of efficiency, Field Comms creates a container issue for each of these teams each month that serves as an aggregator of new/updated content as well as a collaboration space to allow for these teams to achieve a steady drumbeat cadence of updates to the Field. For example, 1-2 Slack notifications throughout the month sharing new/updated content and a list of all or most-impactful content in the Field Flash newsletter at the end of the month. 
+
+These monthly issues can be found in the epics below: 
+- [Strategic Marketing Monthly Field Announcements](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/23)
+- [Competitive Intelligence Monthly Field Announcements](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/24)
+
 ## Sharing Feedback
 Ongoing feedback and participation from the field is imperative to the success of the Field Communications team and its programs. If you have feedback on the current processes or programs, requests for a certain type of content, and/or ideas for ways we can further improve communication with the field, please follow this process: 
 

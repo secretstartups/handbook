@@ -172,7 +172,7 @@ Before approving or denying the Deal Registration the Channel Manager needs to c
 If an Opportunity already exists then SELECT the applicable one. 
 If not then select:
 ![create_new](/handbook/sales/field-operations/channel-operations/images/3-Create_New.png)
-If creating new, the applicable details from the Deal Registration will map to the Opportunity and automatically tag it as a Partner Initiated Opportunity (PIO). Any other system required fields will also need to be filled out.
+If creating new, the applicable details from the Deal Registration will map to the Opportunity and automatically tag it as a Partner Initiated Opportunity (PIO). Any other system required fields will also need to be filled out. Be sure to update the opportunity owner into the correct sales rep's name, and out of the channel manager's name. 
 6. After the Channel Manager either hits SELECT against a current Opportunity OR CREATE NEW, the Deal Registrations needs to either be approved or denied.
 7. Click
 ![approve_deny](/handbook/sales/field-operations/channel-operations/images/4-Approve_Deny_Red.png)
@@ -183,6 +183,8 @@ If creating new, the applicable details from the Deal Registration will map to t
       ![linked_disti](/handbook/sales/field-operations/channel-operations/images/5_Linked_Distributor.png)
       needs to be filled out before moving forward.
       If approved, then a notification will be sent to the Partner, the Deal Registration system updated, and the Registration status updated to Approved.
+
+When a customer account is created by "User Vartopia" during a deal registration, that customer account should be reassigned to the appropriate sales rep. For more information, [click here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement).
 
 **Deal Registration System Status and Information:**
 
@@ -210,7 +212,7 @@ _Why is this important?_
 
 <table>
   <tr>
-   <td><strong><a href="https://about.gitlab.com/handbook/business-ops/resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
+   <td><strong><a href="https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages">Sales Stage</a> in SFDC</strong>
    </td>
    <td><strong>Partner Initiated (PIO)</strong>
    </td>
@@ -335,7 +337,7 @@ _For more details on Partner Engagement definitions go [here.](https://about.git
 
 ### Rules of Engagement on Channel Deals
 
-*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Sales.
+*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
 *   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that requests a quote, will receive the fulfillment discount rate.
 *   Any partner opportunity can be a registered deal.  These opportunities can be either Partner Initiated, Partner Assist, Partner Fulfilled or Partner Services Attach.  Visit [Program and Incentive Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) to learn what deals qualify for each category.  
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
@@ -369,9 +371,10 @@ When you have an MSP opportunity, the Sales Reps need to follow these ***additio
 **Step 2:** Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
 
 **Step 3:** Fill out the Partner and Deal Registration Information Section per the following:
-DR-Partner: this must list the MSP’s Partner account (same as the opportunity is created under) 
-DR-Deal type: “Resale”
-DR-Engagement: “PIO”
+- DR-Partner: this must list the MSP’s _Partner_ account (same as the opportunity is created under) 
+- DR-Deal type: "MSP"
+- DR-Engagement: Select applicable answer
+  - _If there is an approved Deal Registration, the Partner data will automatically be added when the Deal Registration is linked to the Opportunity. The DR-Engagement will be the only piece that needs to be filled out._
 
 **Step 4:** When filling out the quote for this opportunity, select the **MSP quote template**. 
 - Invoice owner: The MSP Partner (same as DR-Partner referenced above).
@@ -427,6 +430,124 @@ For more informaiton on quoting or the Partner Program, please visit:
 
 [Partner Program](https://about.gitlab.com/handbook/resellers/)
 
+## SFDC Opportunity Source Field Values for Channel
+
+**SFDC Opportunity Fields**:
+
+-  _Initial Source:_ 
+   - **Channel Qualified Lead (CQL):** GitLab Channel Partner created and/or qualified the Lead whether they sourced it themselves or GitLab provided the inquiry to them to work
+-  _Sales Qualified Source:_
+   - **Channel:** Channel Partner has converted the Lead/CQL to a Qualified Opportunity. This field defaults to Channel when Initial Source = _CQL_
+- _DR - Deal Engagement:_
+   - **PIO:** Partner Initiated or Partner Incremental Opportunity
+   - **Assist:** Partner Assisted Opportunity
+   - **Fulfillment:** Partner Fulfillment Opportunity
+
+*For additional definition and qualification of Deal Engagement type go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) 
+
+**For additional Source definition please visit the [Marketing Handbook Page. ](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source) 
+
+**Examples:**
+
+
+<table>
+  <tr>
+   <td><strong>Use Case</strong>
+   </td>
+   <td><strong>Use Case Details</strong>
+   </td>
+   <td><strong>Lead/Initial Source</strong>
+   </td>
+   <td><strong>Sales Qualified Source</strong>
+   </td>
+   <td><strong>Deal Engagement Program Tagging on the Opp</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Campaign in a Box
+   </td>
+   <td>Partners driving customer outreach/marketing activities
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Deal Reg = PIO
+   </td>
+   <td>Deal submitted via our Deal Reg process and no lead exists in our system
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry - bring partner in to work
+   </td>
+   <td>We have an inquiry and we pass it to the partner to qualify
+   </td>
+   <td>CQL
+   </td>
+   <td>Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Deal Reg = PIO
+   </td>
+   <td>Deal submitted via our Deal Reg process and a lead/opp (00-1) already exists in our system
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>MQL Non BANT
+   </td>
+   <td>We have an MQL that is worked but opp doesn’t come to fruition so it needs to be reworked and Channel brings it back to qualified
+   </td>
+   <td>MQL -> CQL
+   </td>
+   <td>AE or SDR or Channel
+   </td>
+   <td>PIO
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry  to  SDR 
+   </td>
+   <td>We have an inquiry that we pass to the AE or SDR to work and the channel provides value by assisting on the deal. I.e. helps expedite the timelines
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>Assist
+   </td>
+  </tr>
+  <tr>
+   <td>Inquiry to SDR 
+   </td>
+   <td>We have an inquiry that we pass to the AE or SDR to work and is just transacted thru the channel
+   </td>
+   <td>MQL
+   </td>
+   <td>AE or SDR
+   </td>
+   <td>Fulfillment
+   </td>
+  </tr>
+</table>
 
 
 
@@ -550,13 +671,70 @@ Visit the [Partner Applicant / Partner Portal FAQ](https://docs.google.com/docum
 
 ## Channel Neutral
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates).
-More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+Comp Neutrality applies to all GitLab Opportunities where a Partner is involved in the physical  transaction (takes paper) **<span style="text-decoration:underline;">and</span>** a Partner Program discount is applied on the executed Partner Order Form. 
 
-**Channel Neutral Comp**
-- For FY21 the sales team will not absorb any channel partners standard contractual discounts.
-- They will be compensated at the non-channel net value of the deal.
-- Channel Discount must come from the New Partner Program.  Any discount in excess of partner limits will not be factored into Channel Neutral compensation
+The maximum Comp Neutral payout is based on the applicable GitLab Partner Program discount matrix. If additional discount is needed in order to close the deal, that portion is not eligible for Comp Neutrality. 
+
+In the event a lesser discount is applied on the deal then what the Partner Program allocates, then the lesser discount will also be what is calculated for Comp Neutrality.
+
+As a reminder, comp neutrality only applies to comp and does not retire quota. For additional information, please review [Channel Neutral Compensation](https://about.gitlab.com/handbook/sales/commissions/#channel-neutral-compensation) within the Sales Ops commission section of the Handbook.  
+
+Internal: [Partner Program Discount Matrix](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000g8Ba/fMhmeefW.jeiHK3_Hq5iANC3ogdHk9N3j0MgdWIpmI4) 
+
+For Partner Program discounts for PubSec, please reach out to #channel-ops on Slack. 
+
+**Comp Neutral Calculation in SFDC**
+
+In the event the opportunity is going thru a Partner and therefore qualifies for CN, then the appropriate partner information must be filled out on the Opportunity and Quote in order for the CN field to calculate properly.
+
+Required Partner Fields on the Opp:
+*   DR - Partner
+*   DR - Partner Deal Type
+*   DR - Partner Engagement
+*   Distributor _(as applicable)_
+
+Required Partner Info on the Quote
+*   Invoice owner contact and Invoice owner Type must be a Partner Account and Contact
+*   Order Form must be a Partner Order Form
+
+_Example Calculation No. 1:_\
+Partner Track = Select\
+Product = Standard (Previously Premium)\
+QTY = 25\
+Term = 1 year\
+Partner Deal Type = Resale\
+Partner Engagement = PIO\
+Deal Registration = Approved\
+Partner Program Discount = 15%\
+
+$228 x 25 x 1 = $5700 (price without program discount aka MSRP or List Price)\
+$228 x 25 x 1 x 15% = $4845 (quote/order form price with discount)\
+$5700 x 15% = $855 (comp neutral amount)
+
+
+_Example Calculation No. 2 (PubSec)_\
+Partner Track = Open\
+Distributor = True\
+Product = Ultimate\
+QTY = 50\
+Term = 1 year\
+Partner Deal Type = Resale\
+Partner Engagement = Assist\
+Deal Registration = Approved\
+Partner Program Discount = 10%\
+
+$1188 x 50 x 1 = $59400 (price without program discount)\
+$1188 x 50 x 1 x 15% = $50490 (quote/order form price with discount)\
+$59400 x 15% = $8910 (comp neutral amount)
+
+**2-Tier Opportunities**
+
+If the Opportunity is going through a 2-Tier Channel (Distributor + Reseller), both Partner Accounts must be included on the Opportunity in the Partner Information section in order for both Program discounts to apply AND for Comp Neutral to calculate on both. Reseller should be in the DR - Partner field and the applicable Distributor in the Distributor field on the Opportunity. 
+
+**Opportunities with GCP and AWS**
+
+For deals going through GCP and AWS, the Partner fields should still be filled out on the Opportunity but comp neutral will not calculate until the deal closes as partner discounts are done after the quote/order form is generated. Deal Desk will assist with this process. 
+
 
 
 

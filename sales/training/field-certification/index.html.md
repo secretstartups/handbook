@@ -14,7 +14,7 @@ description: "To support and scale GitLab’s continued growth and success, the 
 ## Field Certification Program Overview 
 To improve sales efficiency & predictability with a consistent and scalable customer engagement, the Field Enablement Team is developing a role based certification program that includes functional, soft skills, and [product training](/handbook/sales/training/product-certification/) for field team members.  
 
-Certification badges will align to the customer journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute customer engagements.
+The Certifications will align to the customer journey and the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute customer engagements.
 
 Note: This certification program is different from resources like other GitLab certifications that focus on how to _use GitLab_ or tied to GitLab competencies (though we encourage field team members to take these as well)! 
 - [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
@@ -37,7 +37,7 @@ The Field Certification Program will include functional and soft skills training
 * [Partners](/handbook/resellers/training/)
 
 ## Prerequisites
-During [Sales & Customer Success onboarding](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). In addition, GitLab field team members and partners are introduced to GitLab’s [customer use cases](/handbook/use-cases/).
+During [Sales Quick Start](/handbook/sales/onboarding/), every GitLab field team member is trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and GitLab’s value-based messaging framework (see the [Command of the Message](/handbook/sales/command-of-the-message/) page). In addition, GitLab field team members and partners are introduced to GitLab’s [customer use cases](/handbook/use-cases/).
 
 ### Architecture and Approach 
 With the customer in mind, learning will be focused on helping field team member create engagements with a customer that make a lasting emotional impression. The foundation of this approach is based on the concept explained in "Blueprints for a SAAS Sales Organization: How to Design, Build and Scale a Customer Centric Sales Orgnization" by Jacob Van Der Kooj and Fernando Pizarro. 
@@ -48,37 +48,27 @@ Please note: Processes continue to mature and evolve. To see that latest, please
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNYu_4jB3j3i_fYukM3yMtcbhgbpKbivbaaiKnuih3X6pdn-oI9ic0k6TqtwP2qjqVAaC-HXIC0uD7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-## Certification Levels 
-
-| Level Name        | Skills Level    | Course/ Exam Numbering Scheme | Color Highlight | Validation Description                                                      |
-|-------------------|-----------------|-------------------------------|-----------------|-----------------------------------------------------------------------------|
-| Level 1: Associate | Knowledgable    | 101                           | Yellow          | Has essential skills                                                        |
-| Level 2: Specialist  | Intermediate    | 201                           | Orange          | Has deep skills in specialized area                                         |
-| Level 3: Professional | Advanced        | 301                           | Purple          | Has broad skills across multiple areas                                      |
-| Level 4: Expert   | Mastery         | 401                           | Red             | Possesses "professional" level certification                                |
-
 ## Delivery 
 Course content will be a combination of handbook pages, YouTube videos, and interactive content delivered through the new Learning Experience Platform (LXP). This new system is not intended to replace the Handbook as the single source of truth, and instead will serve to curate content from a variety of sources and provide a guided tour of curated content for the learner. 
 
 ### Certification Assessments
 To achieve GitLab “certified” status, candidates must complete both the online written exam (knowledge) and practical assessment (skill) with a passing score on each exam.
-* Anyone can sign up and take the written exam but only candidates who successfully pass the online written exam will be granted access to the practical assessment
-* The practical assessment will require team members to demonstrate the ability to perform Moments that Matter to GitLab’s standards 
+* Anyone can sign up and take the written exam, but only learners who successfully pass the online written assessment will be granted access to the practical assessment
+* The practical assessment will require team members to demonstrate the ability to deliver customer engagements to GitLab’s standards 
+* Upon completion of all courses within each certification, learners will receive a badge
+
+![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
 
 ## Roadmap
-Alpha testing for the below courses will take place in FY21Q3:
-- Pipeline Generation & Qualification for Strategic Account Leaders
-- The Required 7 for Account Executives 
-- Gathering Requirements During Technical Discovery for Solutions Architects
+Alpha testing for the below courses will take place in FY21Q4:
+- Account Planning for Strategic Account Leaders
+- The Required 7 for Account Executives: Command Plans  
+- Technical Discovery for Solutions Architects
 - Building ROI Success Plans for Technical Account Managers 
 
 The first courses are scheduled to go live in conjunction with the launch of our Learning Experience Platform (LXP) in FY21Q4. 
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEMXWL70J785BYq93uFS_xLxebYidow_49-K9hUcrrf-LfBR8EGjPXE3hD6Sr1ouy6Dx62Ppzcy5fA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-Looking forward to FY22, you can look forward to other exciting learning including:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Customer Use Case Training
 

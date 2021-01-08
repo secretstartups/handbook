@@ -146,7 +146,7 @@ Differentiators can influence a technical buyer's decision criteria in defining 
 <details>
 <summary markdown="span">Command of the Message Mantra</summary>
 
-The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting prepartion tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakown of the CoM Mantra framework which can be adjusted and articulated in your own words.
+The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting preparation tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakdown of the CoM Mantra framework which can be adjusted and articulated in your own words.
 
 *  What I hear you saying Mr./Ms. Customer is that these are the **Positive Business Outcomes** you’re trying to achieve...
 *  In order to achieve these positive business outcomes, we agreed that these are the **Required Capabilities** you’re going to need...
