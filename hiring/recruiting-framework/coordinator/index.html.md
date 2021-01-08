@@ -336,7 +336,7 @@ If necessary you may cancel the email, which is now showing under the Email Cand
 
 ### Next Steps
 
-People Experience Associate will create the onboarding issue and start the [onboarding tasks](/handbook/people-group/general-onboarding/onboarding-processes/) no later than one week before the new team member joins. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
+People Experience Associate will create the onboarding issue and start the [onboarding tasks](/handbook/people-group/general-onboarding/onboarding-processes/) no later than one week before the new team member joins. Should a contract not be signed prior to 5 working days from the start date, a new start date will be required.
 
 For questions about the new team member's onboarding status, you can @mention them in the `#peopleops-confidential` Slack channel.
 
