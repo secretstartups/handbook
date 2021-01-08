@@ -185,7 +185,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | AVAILABLE - REMOTE (Sales Kickoff) |
 | 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE | 
+| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -438,7 +438,7 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". 
+Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes".
 
 Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings).
 While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
@@ -686,7 +686,7 @@ To configure the sales dashboards:
 The wireless mouse and keyboard are connected to the bottom left TV by default because that one is visible from both sides of the conference table. To update the view on another TV, you have to connect the wireless keyboard and mouse to the desired screen. Afterward, don't forget to return it to the bottom left position for use during meetings.
 
 1. Find the USB jacks and Logitech receiver underneath the bottom, right TV (they're all labeled).
-![USB jacks and Logitech Reciever](/images/ceoshadow/HDMI_Logitech.png)
+![USB jacks and Logitech Receiver](/images/ceoshadow/HDMI_Logitech.png)
 1. Connect the Logitech receiver to the USB receiver for the desired screen.
 1. To log into the chrome devices at Mission Control, use the login information in the "[CEO Shadow Vault](https://gitlab.1password.com/vaults/tq7hndbk2xjcwc5czwcq7qt6kq/allitems/piqiei3hcjdz7lpmpsyppwxmfi)" in 1Password.
 

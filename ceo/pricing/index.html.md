@@ -73,7 +73,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | ---------- | ---- | ------ | ------ | ---- |
 | Per user per month | $0 | $4 | $19 | $99 |
 | [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
-| Main competitor | GitHub Free | Atlassian BitBucket | GitHub Enterprise | Collabnet |
+| Main competitor | GitHub Free | Atlassian Bitbucket | GitHub Enterprise | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
@@ -117,7 +117,7 @@ Below we list product categories and the current and proposed features which res
 ### Usage can be more important than buyer-based tiering
 
 While our [tiers](#four-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
-As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier  
+As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier
 
 
 1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those users are essential to creating contributors, an improved product and future tiered features.
@@ -209,7 +209,7 @@ Arguments in favor of raising the price of the lowest tier (which we won't neces
 1. The future growth of GitLab is much more influenced by how many people are using the open source version than our lowest tier, so having fewer paid users is a relatively small impact.
 1. The future competition for GitLab is much more likely to come from an open source project than a proprietary only product competing only with our lowest tier.
 1. We can reduce the relative attractiveness of the lowest tier by open sourcing features, although this too makes it harder to raise the price of that tier.
-1. Our lowest tier competes mostly [with Atlassian BitBucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
+1. Our lowest tier competes mostly [with Atlassian Bitbucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
 1. Lots of companies don't want to forgo support, especially in their first year, and there is little price elasticity there.
 
 Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#buyer-based-open-core).
@@ -515,7 +515,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 
 ## Buyer-Based-Open-Core
 
-We make feature tiering decisions based on: **"Who cares most about the feature"**.  
+We make feature tiering decisions based on: **"Who cares most about the feature"**.
 Our [four tiers](#four-tiers) are differentiated based on [the buyer persona](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#single-plan-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
