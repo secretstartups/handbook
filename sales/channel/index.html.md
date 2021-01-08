@@ -38,14 +38,6 @@ The Channel is a critical part of our overall go to market strategy and are a va
 2. Drive and increase new customer ARR through their relationships, service engagements, and knowledge of accounts.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
 ### **How can GitLab sellers benefit from our channel partners?**
 
 GitLab channel partners have established sales forces that help us multiply our sales coverage. Through that coverage and deep customer relationships, partners can identify new customer opportunities and new sales opportunities with existing customers, resulting in ARR growth. Through their service offerings and vendor partnerships, they can deliver more complete solutions than GitLab can alone, and drive customer adoption of GitLab. As a result, the GitLab channel will:
