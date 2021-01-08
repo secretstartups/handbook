@@ -53,7 +53,7 @@ At a high level, the process is:
 | ------ | ------ |
 | By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry |
 | 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, deprecations, removals, and upgrades) as release post items in the `/data/release_posts/unreleased` directory. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for deprecations, removals, and upgrades as release post items in the `/data/release_posts/unreleased` directory.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
-| by the 16th | **PMMs, TWs, and PM Directors** review individual release post items MRs <br><br>**EMs and PMs** contribute to MRs for Performance Improvements and Bug Fixes
+| by the 16th | **PMMs, TWs, and PM Directors** review individual release post items MRs <br><br>**EMs and PMs** contribute to MRs for Performance Improvements and Bug Fixes<br><br>**Release Post Manager and PMM lead** identify 3-5 features that we are confident will make the release to be inclued with the initial What's New. This is important for self-managed since the What's New content ships with the codebase. The release post manager will create the What's New entry. 
 | by the 17th | **EMs** merge those MRs in to master as the features they represent are merged in to the GitLab codebase.<br><br>**Release Post Manager** merges recurring content blocks for performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Messaging lead** picks a top features and/or themes to highlight and finalizes the introduction content |
 | 18th - 20th | The **Release post manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release post manager**. |
@@ -131,6 +131,8 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
+- Working with PMM to identify items to include in What's New 
+- Creating the What's New entry 
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Sending out reminders about upcoming deadlines.
@@ -238,6 +240,27 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
 1. On the `release-X-Y-performance-improvements` branch, add
    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
    to the  `data/release_posts/unreleased/` folder.
+
+#### Create MR for What's New entries 
+
+1. Release Post Manager and PMM lead identify 3-5 topics for What's New
+   1. These items should be high confidence because the entry needs to be part of the release code base for self-managed
+   1. We can update the entry later if higher impact items end up making the release. It is better to have less entries and ensure they are accurate than to include inaccurate information.
+1. RPM creates a What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
+   1. Title the file as `YYYYMMDD00001_VV_XX.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
+   1. Copy the format of the previous releases' entry 
+   1. Leveraging the content that is in the release post items, duplicate the content for What's New
+1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+1. Images will end up at a URL https://about.gitlab.com/images/X_Y/XXXXXXX.XXX Make sure you provide a full URL for the YAML entry. Ex: https://about.gitlab.com/images/13_7/reviewers_sidebar.png
+
+
+##### Notes:
+Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
+
+##### Videos:
+Use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+
+
 
 #### Local dev environment setup to run content assembly script
 
