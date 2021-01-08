@@ -28,7 +28,7 @@ EBRs typically consists of the following content:
 1. Reiteration of the customer's goals and desired positive business outcomes as we understand them
     - Direct reference to any desired outcomes/agreed goals from previous EBRs and updates against these specifically
 1. Review of progress made against these goals and desired outcomes
-1. Aligning with the key decision makers on their strategic vision 
+1. Aligning with the key decision makers on their strategic vision
 1. Recommendations & Next Steps
 
 Also to be considered:
@@ -50,4 +50,4 @@ Please view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAF
 
 [Usage ping](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/product_analytics/usage_ping.html#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history.
 
-There are also several examples EBR decks and past recordings linked in the playbook and EBR in a Box for TAMs and other GitLabbers to review and take inspiration from (please keep all customer-specific content confidential).
+There are also several examples EBR decks and past recordings linked in the playbook and EBR in a Box for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).

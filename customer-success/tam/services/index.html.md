@@ -75,5 +75,5 @@ It's acceptable to cancel or reschedule a weekly cadence call, unless there is a
 
 It's possible to ask another TAM to cover for you as well, but they likely don't have the same context as an SA so may require additional briefing and introductions with the customer before you leave.
 
-If your acccounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
+If your accounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
 

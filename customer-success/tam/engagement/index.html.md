@@ -29,7 +29,7 @@ Technical Account Managers will typically manage customer engagements via a GitL
 ### Start a customer upgrade engagement
 
 1. After the Technical Account Manager has been aligned with the account, they will assign themselves to the “Technical Account Manager” field within Salesforce.
-1. Provided that the customer is Ruby tier or higher and in Enterprise, confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in Gitlab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
+1. Provided that the customer is Ruby tier or higher and in Enterprise, confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
 1. Verify that the project complies with the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template.
 1. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
@@ -44,8 +44,8 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 ### Customer Engagement Tips
 1. Make use of the [account management projects](https://gitlab.com/gitlab-com/account-management)  ([Template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template))
 1. Whenever a customer asks a question via email/Slack, kindly prompt them to open a Support ticket or an issue in the collaboration project
-  * Examples of a Support issue: Reporting Gitlab downtime, errors or accesibility problems 
-  * Examples of a Collaboration Project Issue: Gernal questions about product usage, best practices or recommendations, adoption or integration questions 
+  * Examples of a Support issue: Reporting GitLab downtime, errors or accessibility problems
+  * Examples of a Collaboration Project Issue: General questions about product usage, best practices or recommendations, adoption or integration questions
 1. Show customers the power of GitLab by using GitLab with them (ex: related issues, tracking milestones, threaded conversations, ability to interact directly with GitLab’s product/engineering teams)
 1. Make sure you are responding in a timely manner to customer's open issues. When you are prompt to respond, the customer is more likely to continue using the account management projects
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
