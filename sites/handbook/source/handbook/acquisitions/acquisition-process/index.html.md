@@ -19,7 +19,7 @@ The corporate development team conducts a comprehensive screening of our industr
 | Funnel                                                                                                                                                                  | Volume / Year |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | **Pipeline Building**                                                                                                                                                   |               |
-| DevOps ecosystem companies                                                                                                                                               | 15,000+       |
+| DevOps ecosystem companies                                                                                                                                              | 15,000+       |
 | Sourced Pipeline: generate pipeline of companies operating in a DevOps segment relevant for GitLab from three sources:                                                  | 1,000         |
 | _--> 1. Third-party databases_                                                                                                                                          | _800_         |
 | _--> 2. Inbound (companies approach us or PMs refer us)_                                                                                                                | _100_         |
