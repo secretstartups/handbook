@@ -89,6 +89,10 @@ In the GitLab 101 certification, a user must first read the handbook page on tec
 | `private` | Content is only visible to the assigned learner or assigned group | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
 
+Watch this video that explains the difference between public and private content in GitLab Learn:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDu7CbyNHj8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Step 2: Build smartcards depending on content status 
 
 ##### Building `public` content
