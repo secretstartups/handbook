@@ -192,27 +192,30 @@ For additional information on reviewing Background checks see [this page](/handb
 **US Candidates Only**
 
 1. Log in to [Greenhouse](https://app2.greenhouse.io/dashboard) and go to the candidate's profile.
-1. Click the "Private" tab.
-1. Click "Export to Sterling".
-1. Click "Complete Report", which will redirect you to the Sterling website.
-1. Scroll down and click "Add Screening".
-1. Next to "Comprehensive Criminal with Employment", click on "Ticket". 
+1. Click the `Private` tab.
+1. Click `Export to Sterling`.
+1. Click `Complete Report`, which will redirect you to the Sterling website.
+1. Scroll down and click `Add Screening`.
+1. Next to `Comprehensive Criminal with Employment`, click on `Ticket`. 
+1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add.
    - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket. 
       1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
-      1. Click "Add Screening".
-      1. Next to "Federal Criminal District Search" click "Ticket".
+      1. Click `Add Screening`.
+      1. Next to `Federal Criminal District Search` click `Ticket`.
 1. Check off that you agree to your obligations as a user.
-1. Under "Disclosure and Authorization Options", select the first option to have Sterling send the candidate a disclosure form.
-1. Click "Generate Ticket".
+1. Under `Disclosure and Authorization Options`, select the first option to have Sterling send the candidate a disclosure form.
+1. Click `Generate Ticket`.
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
 #### Initiating a Background Check through Sterling Talent Solutions
 
 **US Candidates Only**
 
-1. Log in to [Sterling](https://www.talentwise.com/screening/login.php) and select "Quick Launch".
-1. Click "Launch Screening".
-1. Next to "Comprehensive Criminal with Employment" click on "Ticket". If you need to run a credit check as well, after you click "Ticket" click "Add Products" on the right and search for "Federal Criminal Check".
+1. Log in to [Sterling](https://www.talentwise.com/screening/login.php) and select `Quick Launch`.
+1. Click `Launch Screening`.
+1. Next to `Comprehensive Criminal with Employment` click on `Ticket`. 
+1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add. 
+1. If you need to run a credit check as well, after you click "Ticket" click "Add Products" on the right and search for "Federal Criminal Check".
 1. Check off that you agree to your obligations as a user.
 1. Enter the candidate's name and personal email address.
 1. Select the first option to have Sterling send the candidate a disclosure form, and click "Generate Ticket".
@@ -333,7 +336,7 @@ If necessary you may cancel the email, which is now showing under the Email Cand
 
 ### Next Steps
 
-People Experience Associate will create the onboarding issue and start the [onboarding tasks](/handbook/people-group/general-onboarding/onboarding-processes/) no later than one week before the new team member joins. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
+People Experience Associate will create the onboarding issue and start the [onboarding tasks](/handbook/people-group/general-onboarding/onboarding-processes/) no later than one week before the new team member joins. Should a contract not be signed prior to 5 working days from the start date, a new start date will be required.
 
 For questions about the new team member's onboarding status, you can @mention them in the `#peopleops-confidential` Slack channel.
 

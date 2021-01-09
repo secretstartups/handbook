@@ -376,7 +376,7 @@ We use an open source [Ruby gem](https://gitlab.com/lienvdsteen/linter) to perfo
 Currently that library covers:
 - the usage of masculine vs feminine-coded language
 - the usage of gendered pronouns
-- misusued words
+- misused words
 - fixed vs growth mindset
 
 The following results lead to failure of the pipeline:
@@ -388,10 +388,10 @@ The following results lead to failure of the pipeline:
    * You should use this [online tool](https://inclusiveness-check.herokuapp.com/) to check your job family before running the pipeline.
    * If you're using language that is marked as subtly masculine-coded, fixed-coded or using misused words, the pipeline will fail and you will need to fix it before following the approval flow. Please reference (and add to) [this list](https://docs.google.com/document/d/1YBzbnzKrsTLtAL5L3M5Gt4ZCuCDwPVgwJbeCt62qBIY/edit) for suggested words to use in place of masculine or fixed language.
    * If the pipeline does fail, the first recommendation is to read the error. It will say what is wrong with the text. For example:
-```
-1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
-2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
-```
+   ```
+   1. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/reference-program-manager/index.html.md you're using masculine gender-coded language", "Masculine coded words used: analyst, analytical, decision, driven, leader"]
+   2. ["ATTENTION: In /builds/gitlab-com/www-gitlab-com/sites/marketing/source/job-families/marketing/production-designer/index.html.md you're using fixed-coded language", "Fixed coded words used: established"]
+   ```
    In this case, there are two job families that failed and each for a different reason. You can do two things now:
       - fix the text to be more inclusive, commit your changes and the pipeline will run again
       - if you disagree or you feel like the pipeline found a false positive, you can add the file to [this list](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/inclusiveness_check.yml). The files in this list are ignored by the inclusiveness check. If you request your job family to be added to the skip level you will need to paste a screenshot of the inclusiveness check in the MR as this will be asked for prior to merging.
