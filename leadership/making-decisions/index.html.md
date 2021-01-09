@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: "Making Decisions"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -11,7 +6,7 @@ title: "Making Decisions"
 
 ## Intro to making decisions
 
-On this page, we have outlined how we make decisions at GitLab.  
+On this page, we have outlined how we make decisions at GitLab.
 
 ## Making decisions
 
@@ -33,5 +28,3 @@ On this page, we have outlined how we make decisions at GitLab.
 > 
 > 
 > - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
-
-
