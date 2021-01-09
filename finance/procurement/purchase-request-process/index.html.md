@@ -43,7 +43,7 @@ Procurement Team is monitoring ContractWorks for upcoming contract renewals.
 1. Procurement Team will contact Business Owner 60-90 days before renewal date to confirm vendor contract renewal
 2. Once BO confirms renewal Procurement Team will create WIP: Procurement Issue
 3. If new contract was not already provided by the supplier, Procurement Team will help requestor to obtain it:
-   - Procurement Team will schedule a discussion call with requestor with following [Agenda](https://docs.google.com/document/d/1Qc8CHbE7TIWM7UJ0sI78rN865t_pKjrxIgbE2Ghpdh8/edit?usp=sharing) to understand the need. 
+4. Procurement Team will schedule a discussion call with requestor with following [Agenda](https://docs.google.com/document/d/1Qc8CHbE7TIWM7UJ0sI78rN865t_pKjrxIgbE2Ghpdh8/edit?usp=sharing) to understand the need. 
    <br>
 
 If you have a contract that is 60-90 days from renewal date and you have not heard from Procurement yet, please create a [Purchase Request](/handbook/finance/procurement/vendor-contract-saas/) to begin the process in the event the contract is not available in ContractWorks.
