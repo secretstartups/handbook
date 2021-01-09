@@ -25,7 +25,7 @@ Additional related channel resources:
 *   [Channel Partner Program page](https://about.gitlab.com/handbook/resellers/) - This page provides an overview of the GitLab channel partner program, the expectations of partners, benefits for partners and how partners can work with GitLab.
 *   [Channel Services Program Page](https://about.gitlab.com/handbook/resellers/services/) - Provides information on the GitLab services program, training and partner practice development.
 *   [Channel Training, Certification and Enablement Page ](https://about.gitlab.com/handbook/resellers/training/)- Documents available training and certifications for partners.  Lists out additional enablement resources for partners.
-*   Partner Locator - (Coming soon) Enables customer and GitLab team members to find a partner in a specific geographic location and with specific services skills.
+*   [Partner Locator](https://partners.gitlab.com/English/directory/) - Enables customer and GitLab team members to find a partner in a specific geographic location and with specific services skills.
 
 
 ### **Channel Value for GitLab**
