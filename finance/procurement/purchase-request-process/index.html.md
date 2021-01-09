@@ -55,8 +55,6 @@ If you have a contract that is 60-90 days from renewal date and you have not hea
 - Satisfaction with services (scale of 1 (poor) - 10 (exceptional) and why
 - Estimated budget<br>
 
-4. Once contract negotiated and obtained it will be uploaded to the issue and follow approvals.
-
 
 ## Are there any exceptions to the purchase request process?
 The exceptions to the process are below:
