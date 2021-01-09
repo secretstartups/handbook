@@ -234,7 +234,7 @@ The shared services and components below are extracted from the GitLab [product 
 | GitLab Pages |  | Centralized with Specific Team | @nicolewilliams | Release |  |
 | GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | GitLab Shell |  |  |  |  |  |
-| HAproxy |  |  |  |  |  |
+| HAproxy |  | Centralized with Specific Team | @brentnewton | [Infrastructure](/handbook/engineering/infrastructure/) |  |
 | Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
 | LFS |  |  |  |  |  |
 | Load Balancer |  |  |  |  |  |
@@ -242,11 +242,12 @@ The shared services and components below are extracted from the GitLab [product 
 | Mattermost |  |  |  |  |  |
 | MinIO |  |  |  |  |  |
 | NFS |  |  |  |  |  |
-| NGINX |  |  |  |  |  |
+| NGINX |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
 | Object Storage |  |  |  |  |  |
-| Patroni |  |  |  |  |  |
-| PgBouncer |  |  |  |  |  |
-| PostgreSQL | PostgreSQL Framework and Tooling |  Centralized with Specific Team  | @Craig Gomes | [Database](https://about.gitlab.com/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
+| Patroni | General except Geo secondary clusters | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
+| | Geo secondary standby clusters | Centralized with Specific Team | @nhxnguyen | [Geo](/handbook/engineering/development/enablement/geo/) |  |
+| PgBouncer |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
+| PostgreSQL | PostgreSQL Framework and Tooling |  Centralized with Specific Team  | @Craig Gomes | [Database](/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
 | | GitLab Product Features |  Decentralized  | | | Examples like feature specific schema changes and/or performance tuning, etc. |
 | Prometheus |  |  |  |  |  |
 | Puma |  |  |  |  |  |
