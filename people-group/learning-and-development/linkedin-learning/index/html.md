@@ -15,23 +15,21 @@ In January 2021, GitLab implemented LinkedIn Learning to provide our team member
 
 ## Benefit of LinkedIn Learning
 
-Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access their over 8,000 courses on many different topics. 
+Utilizing LinkedIn Learning will be beneficial to your professional development. With access to LinkedIn Learning, you will be able to access over 8,000 courses on many different topics. 
 
 ### How to incorporate LinkedIn Learning into your day-to-day role 
 
-We encourage all team members to [take time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). If you are working on a project and realize you need to know more about a certain topic or a certain tool, you can go to GitLab Learn and search for that to see if there are resources avialble to you. 
-
-[add Video overview of the experience including How to access from the LXP]
+We encourage all team members to [take time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). If you are working on a project and realize you need to know more about a certain topic or a certain tool, you can go to GitLab Learn and search for LinkedIn Learning couses to see if there are resources avialble to you. 
 
 ### Take Time out to Learn
 
-You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can also take time to learn about things that are just fun for you like graphic design, drawing, or mindfulness. 
+You can take time to learn about something that will help you in your current role. You can learn about things that can help you in a future role (maybe you are an aspiring manager). You can learn more to improve current skills or learn entirely new skills. You can also take time to learn about things that are fun for you like graphic design, drawing, or mindfulness. 
 
-Finding courses and skills to learn just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. That may be learning more to improve current skills or learning new skills completely. 
+Finding courses and skills to learn just got easier with access to LinkedIn Learning. We have a [take time out to learn campaign](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) where we encourage our team members to take time out of their work week to learn. Focus Fridays create designated meeting-free space within our weeks and are a great opportunity to take time out to learn. 
 
 ## Recommended Learning Paths
 
-We have outlined recommended learning paths for different roles at GitLab. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
+We have outlined recommended LinkedIn Learning paths for different roles at GitLab. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
 - [Confronting Bias: Thriving Across our Differences](https://gitlab.edcast.com/insights/ECL-393c827e-4175-46e2-bdfb-768c7cb49f27)
@@ -102,7 +100,7 @@ The L&D Team will deprovision access to LinkedIn Learning to team members who le
 
 All GitLab Learn users will be able to access free content on LinkedIn Learning. 
 
-If you have activated a LinkedIn Learning license, you will also be able to access the paid content on LinkedIn Learning. You can do this by going to GitLab Learn. 
+If you have activated a LinkedIn Learning license, you will also be able to access the paid content on LinkedIn Learning. You can find LinkedIn Learning courses by going to GitLab Learn and utilizing the search bar at the top to search for a topic or skill. 
 
 ## Coordination with EdCast
 
