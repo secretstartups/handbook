@@ -69,13 +69,25 @@ Ideally, `Quality Meeting` would be changed to the more generic, `menaingful eng
 
 
 ### Online vs. Offline Touchpoint Management
-Placeholder. 
+#### Online
+Online channels are any channels that would be directly associated with your website or any integrated site – any display advertising, paid search, paid social, organic search, organic social, email, chatbots, etc.    
+
+Bizible touchpoints are automatically created when a form is submitted on one of the GitLab.com domains for these online channels, therefore we do not need to create SFDC campaigns to track these.
+
+#### Offline
+Offline channels are associated with initiatives like direct mail, trade shows or hospitality events, marketing or sales research, and pretty much any other channel where a person’s engagement cannot be tracked digitally or where they physically attend. A quick rule of thumb: if there is a list uploaded and they person took an action, they are offline touchpoints.
+
+Bizible touchpoints are created by dispositioning `Enable Bizible Touchpoints` field on the Salesforce Campaign as `Include only "Responded" Campaign Members` for these offline channels.
+
+[See progression statuses for the standard `Campaign Types` that will have offline bizible touchpoints enabled](/handbook/marketing/marketing-operations/#campaign-type--progression-status)
 
 ## Attribution Models
 
 Marketing attribution is the process of assigning revenue credit to a marketing touchpoint. This is done by tracking a prospect’s entire customer journey, starting from their very first interaction with your company to when the deal closes. The revenue generated from the deal gets attributed back to the marketing touchpoints that drove the sale. The amount of revenue credit given to a touchpoint depends on how much that touchpoint influenced the customer’s purchasing decision.
 
 [Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is Bizible's breakdown of the major attribution models. 
+
+**Note: GitLab uses [Linear Attribution](/handbook/marketing/marketing-operations/bizible#linear-attribution) as our source of truth, the other models are there for comparitive analysis.**
 
 Below are the major attribution models that GitLab marketing uses of that list: 
 
