@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Functional Competencies"
-description: "GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab field organization"
+description: "GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab field organization."
 ---
 
 # Field Functional Competencies  
@@ -24,7 +24,7 @@ There are three primary competencies for the field: Customer Focus, Solution Foc
 
 ## Customer Focus
 
-Field team members should be focused on the customer and how we can deliver a world class experience with every interaction. 
+Field team members should be focused on the customer and delivering a world class experience with every interaction. 
 
 | EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
 | ---- | ----- |
@@ -35,7 +35,7 @@ Field team members should be focused on the customer and how we can deliver a wo
 
 ## Solution Focus
 
-Field team members should be focused on how GitLab helps customers solve their business problems and how they can help drive their success.
+Field team members should be focused on how GitLab helps customers solve their business problems and accelerate their success.
 
 | EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
 | ---- | ----- |
@@ -57,11 +57,23 @@ To drive efficiency, field team members should adhere to the tools and processes
 
 # Proficiency Levels
 
-Field team members and managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. 
+Competency proficiency rating levels align with GitLab’s enterprise-wide performance categories:
+- [Developing](/handbook/people-group/performance-assessments-and-succession-planning/#developing)
+- [Performing](/handbook/people-group/performance-assessments-and-succession-planning/#performing)
+- [Exceeding](/handbook/people-group/performance-assessments-and-succession-planning/#exceeding) 
 
-| RATING | DESCRIPTION OF RATING LEVEL |
-| ---- | ----- |
-| TBD | coming soon |
-| TBD | coming soon |
-| TBD | coming soon |
-| TBD | coming soon |
+# Practical Application
+
+Field team members and their managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. More specifically, managers in the field organization should:
+1. Encourage team members to complete their own self-assessment (see template below) to
+    - Identify 2 or more strengths field team members intend to continue to leverage to deliver positive results
+    - Identify 2 specific skills / behaviors field team members would like to improve upon
+1. In parallel, managers should complete a similar assessment (see template below) for each of his or her direct reports
+1. Field team members and their managers should then meet to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
+1. Team members are encouraged to identify and regularly engage with an accountability partner (whether that be their manager and/or other) to maintain focus on development plans and to provide ongoing feedback
+
+## Assessment Template
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCzDGB0-zwuCI6SKcMNWACOem_utTKexb7lwaa0MTjMTIaUjKbBEEDgDvrCXwxGIZqvA8F_CtpKfti/pubhtml?gid=203446683&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</figure>
