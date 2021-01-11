@@ -90,10 +90,11 @@ Examples:
 
 **Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness. Please work with your manager to align expectations.** 
 
-### Expected distribution company wide 
-- Developing: 10-15%, not meeting all of the expectations (yet)
-- Performing: 60-65%, “on track” and meeting expectations 
-- Exceeding: 25%, consistently surpass the demands of their current position and/or division. 
+### Expected Distribution Company-Wide
+
+- **Developing**: 10-15%, not yet meeting all of the expectations 
+- **Performing**: 60-65%, “on track” and meeting expectations 
+- **Exceeding**: 25%, consistently surpasses the demands of their current role
 
 ### The Performance Factor
 
