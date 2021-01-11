@@ -18,15 +18,15 @@ As a TAM we want to help the customer achieve the business objectives that are i
 * What are those objectives?
 * How do you measure them today (if at all)?
 * How can GitLab help you measure them?
-* What is the baseline you’re at now and where do you want to go?  
-We’ve prepared a few questions around some of the metrics that we feel are important and that most DevOps organizations feel are important.  
-**Note:** Some customers might not be sure what you mean by "metrics" when you bring up the topic. Don't be afraid to lead the questions and conversations with "We've found that customers like you are interested in... cycle time/deployment frequency/toolchain consolidation". 
+* What is the baseline you’re at now and where do you want to go?
+We’ve prepared a few questions around some of the metrics that we feel are important and that most DevOps organizations feel are important.
+**Note:** Some customers might not be sure what you mean by "metrics" when you bring up the topic. Don't be afraid to lead the questions and conversations with "We've found that customers like you are interested in... cycle time/deployment frequency/toolchain consolidation".
 
 ## Value Drivers
 Ask the customers the following questions that tie back to our three [Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers)…
 * Increase Operational Efficiencies
 * Deliver Better Products Faster
-* Reduce Security & Compliance Risk  
+* Reduce Security & Compliance Risk
 
 1. Are you measuring cycle time (aka “lead time”)? Is this an important metric for you?
    1. If yes, how?
@@ -43,4 +43,4 @@ Ask the customers the following questions that tie back to our three [Value Driv
 1. What’s important to you and how can GitLab help measure that?
 
 ## Stage Adoption
-For specfic questions about Stage Adoption metrics, see our [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/) page.
+For specific questions about Stage Adoption metrics, see our [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/) page.
