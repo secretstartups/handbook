@@ -398,6 +398,11 @@ Reactive triage automation is complementary to general triage automation where
 realtime feedback provides an improved developer experience. This is handled by
 [triage-serverless](https://gitlab.com/gitlab-org/quality/triage-serverless).
 
+### Ensure quick feedback for Community contributions
+
+Merge requests which have an author that is not a member of `gitlab-org` will have a label of `~"Community contribution"` applied.
+Additionally, a note will be posted to thank the contributor for their contribution, and to give some information about the review process, as well as some useful resource links.
+
 ### Ensure priorities for availability issues
 
 For issues labelled `~"availability"`, the minimal are enforced with the
