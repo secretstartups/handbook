@@ -42,7 +42,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 6. [Success Roadmap for Implementing GitLab Secure](#success-roadmap-for-implementing-gitlab-secure)
 7. [Success Roadmap for Customer Internal Developer Enablement for GitLab CI](#success-roadmap-for-customer-internal-developer-enablement-for-gitlab-ci)
 8. [Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation](#success-roadmap-for-specialized-or-highly-scaled-gitlab-runner-implementation)
-9. [Success Roadmap for Integrating GitLab with Other Systems](#success-roadmap-for-iIntegrating-gitlab-with-other-systems)
+9. [Success Roadmap for Integrating GitLab with Other Systems](#success-roadmap-for-integrating-gitlab-with-other-systems)
 
 ### Success Roadmap for Self Managed Implementation Review
 
