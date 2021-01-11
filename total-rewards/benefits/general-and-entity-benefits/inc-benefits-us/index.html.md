@@ -378,6 +378,8 @@ If you would like to transfer your HSA from a previous account, please contact D
 
 FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
 
+FSAs (and Dependent Cars FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
+
 #### Flexible Spending Account (FSA) Plans
 
 FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
