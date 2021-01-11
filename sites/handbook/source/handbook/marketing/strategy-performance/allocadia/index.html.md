@@ -35,8 +35,9 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 * Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month.
 
 ### Detail panel
-* SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank
-* Spend type - relates to the account code, but slightly more granular detail to help the marketer
+* SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank. Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the deails panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel. 
+* Spend type - relates to the account code, but slightly more granular detail to help the marketer. 
+   * Field Marketing (FM) only - using the [Allocadia Impact Modeller](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/159), the spend type you choose, will spit out the expected ROI based on historical conversion rates. 
 * Region - if the spend is for a specific region, choose it here
 * (FM only) SubGeo - allows the field marketer to choose more detailed location
 * (FM only) Geo - allows the field marketer to choose more detailed location
