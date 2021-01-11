@@ -97,7 +97,6 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 
 1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
 
-
 ### Sick Time - Taking and Reporting
 
 In keeping with our [values](/handbook/values/) of freedom, efficiency, transparency, kindness, and boring solutions, we have crafted the following protocol around sick time for all GitLab team-members.
@@ -109,7 +108,6 @@ If you or a loved one is ill, we want you to take care of yourself or your loved
 You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
 
 If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
-
 
 #### Sick Time Procedures - USA
 
@@ -137,7 +135,6 @@ If the team member does choose to start the conversation about [accommodations i
 What can (or must) be accommodated varies from location to location: GitLab will comply with the applicable laws in your specific location.
 The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
-
 ### Communicating Time Off for Emergency Situations
 Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.
 
@@ -160,7 +157,6 @@ Other OOO options include;
 - Customer Visit 
 
 These other types of OOO categories, are to be used on Family and Friends day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
-
 
 ### PTO by Roots
 
@@ -252,6 +248,8 @@ Managers have a duty of care towards their direct reports in managing their well
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
 
 If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to People Ops at `peopleops @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Ops team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
+
+To make sure that their direct reports are taking enough PTO, every manager has access to the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. When managers generate reports, these reports only shows team members in their reporting tree - direct reports and below. In the PTO by Roots' [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) there is a [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing) which describes how to pull reports. When managers generate a report through the PTO by ROots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter. The Total column will show what’s taken/scheduled to be taken during the timeframe selected.
 
 ### Instructions for People Ops and Total Rewards to Update PTO by Roots Events
 
