@@ -10,7 +10,7 @@ Success Roadmap discovery engagements provide customers with the benefit of GitL
 ### Success Roadmap Design Goals
 
 - Facilitate collaboration with customers on articulating critical success factors by co-creating a strawman roadmap for a variety of common concerns that may be facing them.
-- To help customers and GitLab team members understand scenarios where professional services may play a significant helpful role in ensuring that customers success with implementing GitLab. This directly supports the [publicly stated mission](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
+- To help customers and GitLab team members understand scenarios where professional services may play a significant and direct role in ensuring customers can be more successful with implementing and gaining value from GitLab. This directly supports the [publicly stated mission](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
 - Generate results rapidly and efficiently through a co-worked document outlining strawman considerations and scope in as little as one 60 minute session.
 - To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
 - To enable diversity and inclusivity of inputs by using an open collaboration event to build out the deliverable.
