@@ -78,14 +78,9 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Senior Manager, Online Marketing	   | Director, Online Marketing                |                                   |
 | Associate Designer                   | Designer                                  |                                   |
 | Designer	                           | Senior Designer                           |                                   |
-| Associate Community Advocate         | Community Advocate                        |                                   |
-| Community Advocate	                 | Senior Community Advocate                 |                                   |
-| Senior Community Advocate	           | Manager, Community Advocates	             |               |
-| Manager, Community Advocates	       | Senior Manager, Community Advocates             |                                   |
-| Senior Manager, Community Advocates  | Director, Community Relations             |                                    |
-| Associate Technical Evangelist         | Technical Evangelist                        |                                   |
-| Technical Evangelist	                 | Senior Technical Evangelist                 |                                   |
-| Senior Technical Evangelist	           | Manager, Developer Evangelism	             | Senior Developer Evangelism Program Manager            |
+| Associate Developer Evangelist       | Developer Evangelist                      |                                   |
+| Developer Evangelist	               | Senior Technical Evangelist               | Developer Evangelism Program Manager                                 |
+| Senior Developer Evangelist	       | Manager, Developer Evangelism	           | Senior Developer Evangelism Program Manager            |
 | Senior Developer Evangelism Program Manager	               | Manager, Developer Evangelism              |                                   |
 | Manager, Developer Evangelism	       | Director, Developer Evangelism             |                                   |
 | Associate Content Editor                | Intermediate Content Editor                  |                                 |
