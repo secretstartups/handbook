@@ -23,9 +23,20 @@ Customers who meet the following criteria are aligned with a Technical Account M
 - Recurring contract value (ARR) of $50,000 or greater
 - Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
 
+#### Parent-Child Accounts and Business Units
+
+It's not uncommon for a single customer to have different subsidiaries or [business units](/handbook/sales/sales-term-glossary/#business-unit) with their own GitLab instances and contracts. In effect, each of these separate entities behaves as a separate customer from the perspective of the TAM - different points of contact, different initiatives, different strategic outcomes.
+
+When evaluating whether a customer is TAM qualifying, we consider the size of the [business unit](/handbook/sales/sales-term-glossary/#business-unit), not the total ARR of a given customer, nor the total ARR of a parent account and all of their combined child accounts.
+
+Example:
+
+- `Customer A` has $50k ARR spread across three separate [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $22k, $17k, and $10k respectively. None of those is TAM qualifying.
+- `Customer B` has $60k ARR spread across two [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $53k and $7k respectively. The [business unit](/handbook/sales/sales-term-glossary/#business-unit) spending $53k is TAM qualifying, but the other is not.
+
 ### Commercial
 
- - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
+- Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 
 ## Responsibilities and Services
 
