@@ -33,7 +33,7 @@ The following topics are covered through the digital onboarding series:
 1. API Intro + Rate limits (GitLab.com)
 1. Where to get training
 
-The [digital onboarding email content](https://docs.google.com/document/d/1nOkcmbzKSsaLdJwZquGG8otrMHeZpqpYRTOmhw2kEYE/edit?usp=sharing) can be viewed here (GitLab only)
+The [digital onboarding email content](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing) can be viewed here (GitLab only)
 
 
 **Digital Journey** - [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65)
