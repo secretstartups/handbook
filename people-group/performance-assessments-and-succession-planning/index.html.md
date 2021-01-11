@@ -74,7 +74,8 @@ Examples:
 
 ### Exceeding
 
-Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
+Team members that are exceedi
+ng consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
 
 - Individual is developing more quickly than the demands of their current position. 
 - They rise to the challenge when give additional assignments and achieve significant results.
@@ -88,6 +89,11 @@ Examples:
 - The team members are ambassadors for the values, take full ownership of delivering projects, and very rarely miss due dates. 
 
 **Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness. Please work with your manager to align expectations.** 
+
+### Expected distribution company wide 
+- Developing: 10-15%, not meeting all of the expectations (yet)
+- Performing: 60-65%, “on track” and meeting expectations 
+- Exceeding: 25%, consistently surpass the demands of their current position and/or division. 
 
 ### The Performance Factor
 
