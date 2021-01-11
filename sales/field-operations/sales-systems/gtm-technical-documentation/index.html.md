@@ -321,16 +321,61 @@ Code Unit:
 
 **Business Process this supports:** This supports our professional services team. They leverage Mavenlink projects to coordinate their projects, the hours they spend on each project and their associated tasks, schedules and more. 
 
-**Overview:** The following sections of code control the process by which Mavenlink project in Salesforce are created, which in turn are then pushed over to Mavenlink by leveraging an exension class that was provided by Mavenlink. 
+**Overview:** The following sections of code control the process by which Mavenlink project in Salesforce are created, which in turn are then pushed over to Mavenlink by leveraging an exension class that was provided by Mavenlink. Currently a Mavenlink Project is created when one of the following scenarios is met
+   - A primary quote is created, that has a flagged Quote Rate Plan Charge on it (Mavenlink flag), where its associated opportunity is in stage 5 or later and their is not already an existing Mavenlink project for the related Opportunity
+   - A Opportunity is moved into stage 5 or later, and it's primary quote has a flagged Quote Rate Plan Charge on it (Mavenlink flag) and their is not already an existing Mavenlink project for the related Opportunity
+   - In the above two cases if their is an associated Mavenlink project the project is updated with the new updated infromation that has been changed 
 
 **Logic Locations:** 
-   * [OpportunityClass.CreateAndMaintainMavenLinkProject](###) - Link Coming Soon
-   * [QuoteRatePlanChargeClass.CreateAndMaintainMavenLinkProject](###) - Link Coming Soon
-   * [MavenlinkProjectClass.upsertMavenLinkProject](###) - Link Coming Soon
-   * [GitlabMavenlinkExtension.cls](###) - Link Coming Soon
-   * [OpportunityClassTests.CreateAndMaintainMavenLinkProject](###) - Link Coming Soon
-   * [QuoteRatePlanChargeClassTest.CreateAndMaintainMavenLinkProject](###) - Link Coming Soon
-   * [GitlabMavenlinkExtensionTest.cls](###) - Link Coming Soon
+   * [OpportunityClass.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L176)
+   * [QuoteRatePlanChargeClass.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/QuoteRatePlanChargeClass.cls#L3)
+   * [MavenlinkProjectClass.upsertMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/MavenlinkProjectClass.cls)
+   * [GitlabMavenlinkExtension.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/GitlabMavenlinkExtension.cls)
+   * [OpportunityClassTests.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClassTests.cls#L227)
+   * [QuoteRatePlanChargeClassTest.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/QuoteRatePlanChargeClassTest.cls#L3)
+   * [GitlabMavenlinkExtensionTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/GitlabMavenlinkExtensionTest.cls)
+</details>
+
+## Opportunity Splits
+<details>
+  <summary markdown="span">Opportunity Split</summary>
+
+**Business Process this supports:** This supports the automatic creation validation of our opportunity split that supports our compensation team. This helps ensure that our team members are compensated for the opportunities that they are associated with in an autmated fashion 
+
+**Overview:** 
+   -  **Split Creation and Automation**
+   -  Below well see some key points as they pertain to Opportunity splits and below that we attempt to summarize the automation by end user story. 
+   -  Split for any Opportunity can only be created by an individual on one of the teams Below. To clarify the current permissio ndoes not aim to say who should be creating opportunity splits but rather who can create them based on our current permission set assignments.  
+         - Compensation Team
+         - Deal Desk
+         - Sales Ops
+         - System Admins
+   - `Account Executives` / Opportunity Owner
+      - All of these splits should only ever appear in ``Opportunity - Incremental ACV 2`` split type
+      - When the Opportunity Owner is updated, the splits for the Opportunity Owner are updated.
+      - If a split is needed for the Owner the split needs to be created manually by an approved user 
+   - `Sales Development Representatives` / `ISR` / `Primary Solutions Architect`
+      - All of these splits should only ever appear in `Opportunity - iACV Overlay` split type
+      - When the corresponding lookup field on the Opportunity is populated (created or updated) a split for 100% is created for the user in the lookup field and added to the opportunity
+      - The population of the above lookup fields follow the same rules and processes as they have before the rollout of this automation
+      - If a lookup field is changed from User A to User B then ALL splits for that User Role on the Opportunity are deleted and a split for 100% is assigned to User B
+      - If a lookup field is changed from a User to Null/Empty then ALL splits for that User Role on the Opportunity are deleted, and their will be not splits for that Team Role on the Oportunity
+      - If a split is needed for any of these roles the split needs to be created manually by an approved user 
+   - `Technical Account Manager`
+      - All of these splits should only ever appear in `Opportunity - iACV Overlay` split type
+      - When the `Technical Account Manager` field on the Opportunity is populated a split for 100% 
+         - The population of the `Technical Account Manager` is currently handeled automatically, OpportunityClass.maintainTamTeamLookup, as they are only to be stamped onto Opportunities when the Opportunity is a Growth Opportunity
+      - If a split is needed for a Technical Account Manager the split needs to be created manually by an approved user
+   -  **Split Validation** 
+   - When an Opportunity has its stage changed their is a validation run against the splits on the opportunity. The validation aims to ensure that all splits on the Opportunity when grouped by Role add up to 100%. If the splits do not add up to 100% an error is thrown and the splits must be updated prior to moving the opportunity forward
+   - For the purposes of this validation the Team Roles of `Opportunity Owner`, `Account Executive`, `null/Empty` are assumed to be the same role and are summed accordingly. 
+
+
+**Logic Locations:** 
+   - [OpportunityClass.maintainTamTeamLookup](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L315)
+   - [OpportunityClass.maintainTeamMembersToSplits](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L399)
+   - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
+   - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handeled but not directly in alignment with the needs for this process
 </details>
 
 ## Gainsight 

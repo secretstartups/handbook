@@ -12,7 +12,7 @@ department: "The Commercial Sales department at GitLab focuses on delivering max
 
 ## Welcome to the Commercial Sales Handbook
 
-The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers throughout their entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/#segmentation) customers throughout their entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
 
@@ -165,7 +165,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 - An Opportunity Consult happens when the opportunity IACV threshold is $10K +
 - A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month.
 
-#### Mid Market
+#### Mid-Market
 
 - An Opportunity Consult happens when the opportunity IACV threshold is $20K +
 - A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month.
@@ -217,7 +217,7 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 ## SMB Account Executives
 
-SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/business-ops/resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
+SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
 ### Critical Salesforce reports to follow and bookmark
 - [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
@@ -228,7 +228,7 @@ SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLa
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -289,7 +289,7 @@ GitLab.com Trials & Subscription Management
 
 #### Close Date Conventions
 
-<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and NET 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
 
 1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
 1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the iACV amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
@@ -332,7 +332,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -361,7 +361,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
@@ -412,26 +412,43 @@ Area Sales Managers have an expectation to log a minimum of 5 co-selling calls p
 * Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
 * Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
 For additional invormation please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
+ 
+### Working with Channel Partners
 
-### Selling with Channel Partners
-The goal of selling with a Partner is to extend the customer selling and services capacity/coverage for GitLab Commercial AEs. This is also a form of co-selling which involves building a simple aligned plan establishing “who will do what, when?” and execution of that plan, led by the AE, and supported by the Partner and Channel Manager.  
+The GitLab partner network is ready to work with GitLab Account Executive's in order to extend the customer selling and services capacity offered by Commercial Sales. Channel's approach to this is called Partner Co-selling and working with Partners involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”. 
 
-Note, this is different than the routine co-selling practice however it could include co-selling with your manager. In most cases, a member of the GitLab Channel team will also be engaged to help manage the Partner actions agreed up in an aligned co-selling plan. 
+#### What are the key benefits from working with partners? 
 
-#### Key AE Benefits from Partner Co-selling
-- Extended team delivering extended AE selling capabilities: GitLab trained Partner AE’s and SA’s are standing by to execute on some the selling tasks as part of an agreed upon plan. 
-- Accelerated reach to new customer logos “Land”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
-- Increased customer “Expand” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.   
+*   AEs Working with Partners for Increased Customer Value & IACV
+*   Extended reach and capabilities via Partner sales and services capacity and reach via  GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.   
+*   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
+*   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
+*   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
+*   In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
 
-#### How do AEs become active Partner opportunities?
-1. [Approved Partner GitLab Deal Registrations (PIO’s)](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) continue to increase. As they are received in your territory, you will be contacted by a GitLab channel team member with an offer to arrange a co-selling launch call and co-selling plan development.
-1. If you find yourself thinking 1. “a Partner SA could execute on a customer-requested SA task, or 2. you have customers that could benefit from a “Partner services attached engagement”, reach out on `#channel-sales` or to your Channel Account Manager with a Partner engagement request with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way.  
+#### How do AEs work with partners for increased customer value & IACV? 
 
-#### More resources on selling with Partners
-- LevelUp video starts with a basic understanding of the Channel Partner landscape in [Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U). 
-- LevelUp video on [Maximizing Value of Partners in a Deal (Co-Selling with Partners Part 2)](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2), specifically for AE’s to learn more about co-selling success.
-- Learn more about co-selling best practices, and how Partners can help build out key elements of an AE’s  R7 & Command Plans. This is found in the "Channel Partner Co-Selling" document.  
-- Slack `#channel-sales` with any questions or requests for assistance or reach out to your Channel Account Manager. It is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can.  
+GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources.  There are a few ways in which AEs will work with a customer including a Partner. 
+
+*   [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner.  GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
+*  If you find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”, reach out on slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way. 
+*   AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
+*   Channel Managers will engage with AE’s in the following ways:
+    *   When a new deal registration arrives in the AE’s pipeline
+    *   To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
+        *   The Channel Manager will bring the possibilities forward during this call
+        *   2 examples of working with Partners are featured in this **[this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)**
+        *   AEs should share their thoughts about prioritizing which Partner activities would be best for which of their customers
+* In the case of Open partners via distributions, when the opportunity is ready, AE's email `partnersupport@gitlab.com` with the link to the opportunity requesting quote-to-order support (chatter alias coming soon) 
+
+#### Resources to learn more about teaming with Channel Partners?
+
+*   If this is a first time for an AE, we recommend watching the available training delivered. This Levelup video starts with a basic understanding of the [Channel Partner landscape](https://youtu.be/OeykHQetd7U). 
+*   LevelUp video on [Maximizing Value of Partners in a Deal](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) specifically for AE’s to learn more about co-selling success.
+*   [Learn more about Partner co-selling best practices,  how Partners can help build out key elements of an AE’s R7 & Command Plans ](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans)and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/). 
+*   Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can. 
+*  List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
+*  Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
 
 
 ## Center of Excellence

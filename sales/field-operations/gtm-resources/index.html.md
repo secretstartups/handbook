@@ -63,7 +63,7 @@ description: "Operations, Procedures, Documentation"
 | SAL | Strategic Account Leader |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO] | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -72,7 +72,6 @@ description: "Operations, Procedures, Documentation"
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | Won Opportunity | Contract signed to Purchase GitLab |
 
-[SAO]: /handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao
 ## Customer Lifecycle
 
 A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams.
@@ -96,8 +95,8 @@ They are tracked as follows:
 | Qualified | [Lead or Contact] | Qualified (converted) |
 | Pending Acceptance | [Opportunity] | 0 - Pending Acceptance |
 | [Sales Accepted Opportunity] | [Opportunity] | 1 - Discovery |
-| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 5 Negotiating |
-| Customer | [Opportunity] | 6-Closed Won |
+| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 6 Awaiting Signature |
+| Customer | [Opportunity] | Closed Won |
 
 For the definition of the stage please click the record type link.
 
@@ -817,7 +816,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
     - Scheduled Scoping Call
     - Provide an estimate for the `Expected Number of Users` and the `Expected Product` for the Opportunity. This information is used to help the customer success team to predict their future workload as well as to help them with their hiring plans.
-    - Should the opportunity progress from `1-Discovery` to the next stage (not 7-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
+    - Should the opportunity progress from `1-Discovery` to the next stage (not 8-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
         - `Sales Qualified` is True.
         - `Sales Qualified Date` is the date the opportunity moves from this stage to the next open or won stage.
         - `Initial IACV` captures the value in the `Incremental ACV` field. `Initial IACV` is a snapshot field that will not change, even when the `Incremental ACV` field is updated and will be used for `Deal Size` analysis.
@@ -865,11 +864,12 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Work with GitLab AR to deliver any tax and/or complete any vendor registration processes.
     - Ensure all relevant documents, MSA, PO, and other forms uploaded to SFDC in the Notes and Attachments section of the opportunity record.
     - EULA (End User Licence Agreement) has been accepted by end-user organization (if applicable).
-    - If this is a large/strategic account, or if IACV is +$12,000, enter `Closed Won Details` summarizing why we won the opportunity.
+    - Identify relevant `Competitors` and enter them on the opportunity 
+    - Enter `Closed Won Reason` and `Closed Won Details` (a brief summary of why we won the opportunity that supports your Closed Won Reason selection).
     - Subscription created in Zuora.
     - Opportunity has been submitted for Finance approval.
 
-**7-Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
+**Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
 
 - What to Complete in This Stage:
     - Introduce Customer Success/Account Management (if applicable)
@@ -882,19 +882,19 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Select all applicable Closed Lost Reasons
         - If the loss is due to Competitive Loss, you are required to select the competitor(s) from the opportunity's `Competitor` field
         - If the loss is due to Product Maturity, you are required to select the product stage(s) from the opportunity's `Product Maturity: Product Line` field.
-    - In the `Closed Lost Detail`, enter as much detail as you can as to why we lost the deal. For example:
+    - `Closed Lost/Unqualified Details` is required all opportunities with IACV of $1,000 or greater OR opportunities where Closed Lost Reason = Other. Enter as much detail as you can as to why we lost the deal. For example:
         - If they selected a competitor, why? Was it due to features or pricing?
         - If decided not to move forward with a project, what were the reasons? Did they not understand the value? Was there not a compelling event or reason?
         - Again, please be as thorough as you can as this information will prove valuable as we learn from these experiences.
     - Please note that for new business deals where the opportunity is with a Large/Strategic account OR the Incremental Annual Contract Value (IACV) is equal or greater than USD 12,000, then a notification will be sent to the [#lost-deals](https://gitlab.slack.com/messages/C8RP2BBA7) Slack channel.
     - Uncover a time for follow up (incumbent solution contract expiration date)
     - Note that if an opportunity is dead/stalled, mark the Stage as 8-Closed Lost. Should the prospect/customer re-engage before 30 days, you can reopen this opportunity. However, if they re-engage beyond 30 days, you will need to create a new opportunity.
-    - If the `Closed Lost Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
+    - If the `Closed Lost/Unqualified Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
 
 **9-Unqualified**: An opportunity was never qualified.
 
 - What to Complete in This Stage:
-    - Update Reason for Closed Lost and add any pertinent notes as to why the opportunity was not qualified.
+    - Update the `Closed Lost/Unqualified Reason` and corresponding `Closed Lost/Unqualified Details` with any pertinent notes as to why the opportunity was not qualified.
     - A notification will be sent to SDR Team Lead and a feedback session should be scheduled between AE and Team Lead.
 
 **10-Duplicate**: A duplicate opportunity exists in the system. This usually happens when a web direct opportunity is won when an existing opportunity already exists in Salesforce. Another reason could be multiple renewals created for the same opportunity. This stage **should not** be used when disqualifying an opportunity or if it is discovered at some point after acceptance that the opportunity is really part of a larger initiative. If the opportunity was accepted, it cannot be marked as a duplicate. Instead, you must mark the opportunity as `8-Closed Lost` and select the appropriate reason. Possible selections could include "Consolidating order - part of another subscription" or "Merged into another opportunity" as reasons why a duplicate opportunity may have been created.

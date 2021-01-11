@@ -71,7 +71,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: James Roberts
+- **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
@@ -106,8 +106,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
 | NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
 | NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | John Williams | James Altheide |
-| NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
+| NA West | Southwest | **Named Accounts** | Steve Clark | Blake Chalfant-Kero |
+| NA West | SoCal | **Large-AMER-SoCal**TBD** | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
 | NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
@@ -173,7 +173,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | China | China | **Large-APAC-China** | Danny Petronio | Aletha Alfarania |
 | China | Taiwan | **Large-APAC-Taiwan** | Danny Petronio | Aletha Alfarania |
 | Japan | Japan | **Large-APAC-Japan** | Eiji Morita | Minsu Han |
-| Korea | Korea | **Large-APAC-Korea** | Anthony McMahon | Minsu Han |
+| Korea | Korea | **Large-APAC-Korea** | Tae Ho Hyun | Minsu Han |
 
 #### EMEA
 
@@ -343,6 +343,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe South | Europe South | **SMB-EMEA-Greece** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
 | MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
@@ -354,15 +355,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC1** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC2** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London SW** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London W** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |
