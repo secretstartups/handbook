@@ -703,7 +703,7 @@ To not display the EE trial banner on the blog post, set `ee_cta` to `false` in 
 
 #### Post type
 
-We use these to make it faster to track the effectiveness of different types of blog posts. There are three post type categories we use to differentiate blog content:
+We use these to make it faster to track the effectiveness of different types of blog posts. There are several post type categories we use to differentiate blog content:
 
 1. **Content marketing:** Examples, education, reporting, storytelling, thought leadership, and use cases.
 1. **Corporate:** Company news, announcements, and community updates (ex: issue bash, contributor profiles).
