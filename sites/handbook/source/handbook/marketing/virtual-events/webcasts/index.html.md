@@ -209,7 +209,7 @@ PUBLISHING
 ### Schedule your BrightTALK practice session (Dry Run)
 {:#bt-practice-session} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Create a Talk, following the [instructions above.](/handbook/source/handbook/marketing/virtual-events/webcast/#bt-create-webcast)
+* Create a Talk, following the [instructions above.](/handbook/marketing/virtual-events/webcast/#bt-create-webcast)
 * Select 'Practice (Private)' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Practice (Private)' webcast will be able to view it.
 * After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
 * If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
