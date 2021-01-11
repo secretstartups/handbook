@@ -24,7 +24,7 @@ There are 4 main steps for selling Professional Services:
 ```mermaid
 graph LR;
   a["1. Identify services needed "]-->b["Create the PS opportunity in SFDC"];
-  b--custom-->c["Services Calulator"];
+  b--custom-->c["Services Calculator"];
   b--standard-->d["SKU Catalog in Zuora/SFDC"];
   c-->e["3. Generate SOW or Service Desc. Docs"];
   d-->e;
@@ -41,7 +41,7 @@ The SAL/ISR [creates a Professional Services Only opportunity](/handbook/sales/f
 
 #### Standard Services Only
 If the customer only needs standard services from the service catalog, the SAL/ISR can generate the quote from within the newly created SFDC PS opportunity by:
-1. click `New Quote`. 
+1. click `New Quote`.
 1. fill in the required contact information and date fields.
 1. click `next`.
 1. Click the drop down box next to the New Quote Flow and select `Add Add on Products`.
@@ -50,21 +50,21 @@ If the customer only needs standard services from the service catalog, the SAL/I
 This process will generate a services description document that the SAL/ISR can and should share with the customer without additional approval. The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirms no customizations are needed. Again, can pull in the SA for assistance if needed.
 
 #### Custom-Scoped Services
-If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details. 
+If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
 
 #### Instructions for creating a Professional Services Quote
-Deal Desk with require a quote for rither Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
+Deal Desk with require a quote for either Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
 
 ### Step 3: Create and add the SOW
 
-For standard SKUs, the Order Form is generated directly from SFDC via the quote object [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote). Upload the signed version of this document when you receive it from the customer. 
+For standard SKUs, the Order Form is generated directly from SFDC via the quote object [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote). Upload the signed version of this document when you receive it from the customer.
 
-For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity. 
+For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity.
 
 ### Step 4: Close the opportunity
 Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
 
-As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the `#professional-services` slack channel given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).  
+As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the `#professional-services` slack channel given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
 
 ### Custom-Scoped Services Detailed Workflow
 
@@ -84,7 +84,7 @@ As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` 
   - This should be a good estimate to secure budget.
 1. Customer should execute Subscription Agreement AND Consulting Services Agreement.
 1. The SA can use the [custom SoW scoping details](/handbook/customer-success/professional-services-engineering/scoping/) page to help drive the conversation and uncover required capabilities for the custom SoW.
-1. The SA will create the SoW from the [calculator](/handbook/customer-success/professional-services-engineering/selling/#services-calculator), scoping the project and estimating both schedule and cost for the SoW. 
+1. The SA will create the SoW from the [calculator](/handbook/customer-success/professional-services-engineering/selling/#services-calculator), scoping the project and estimating both schedule and cost for the SoW.
 1. The calculator automatically creates an approval issue on the [SoW Proposal Approval board](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/boards/1353982?&label_name[]=Services%20Calculator).
 1. SA: Check and add any more details to the issue created on the SoW Proposal Approval board.
 1. SA: Fill out any additional scoping details. Ensure the issue is assigned to a Solutions Manager for review, and move it to the `proposal::Scoping` step.
