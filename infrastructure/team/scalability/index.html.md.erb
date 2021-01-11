@@ -97,13 +97,21 @@ Simply put:
 - The Scalability team is focused on all work that affects GitLab.com SLOs.
 - The Memory team is focused on general GitLab resource consumption and performance.
 
-## How do I engage with the Scalability Team?
+## Working with us
+
+### How do I engage with the Scalability Team?
 
 1. Start with an issue in the Scalability team tracker: [Create an issue](https://gitlab.com/gitlab-com/gl-infra/scalability/issues/new).
 1. You are welcome to follow this up with a Slack message in [#g_scalability](https://gitlab.slack.com/archives/g_scalability).
 1. Please don't add any `workflow` labels to the issue. The team will triage the issue and apply these.
 
-### Scalability review requests
+Alternatively, mention us in the issue where you'd like our input.
+
+When issues are sent out way, we will do our best to help or find a suitable owner to move the issue forward.
+We may be a development team's first contact into the Infrastructure department and we endeavour to treat these
+requests with care so that we can help to find an effective resolution for the issue.
+
+#### Scalability review requests
 
 If you're working on a feature that has specific scaling requirements, you
 can create an issue with the [review request
@@ -126,7 +134,7 @@ scale](/handbook/values/#do-things-that-dont-scale); as we do more of these,
 we'll learn what topics can be covered more efficiently by training,
 documentation, and tooling.
 
-## How does the Scalability Team engage with Stage Groups?
+### How does the Scalability Team engage with Stage Groups?
 
 When we observe a situation on GitLab.com that needs to be addressed alongside a stage group, we first raise an issue
 in the Scalability issue tracker that describes what we are seeing. We try to determine if the problem lies with the action
@@ -322,6 +330,19 @@ perform tasks such as automatically labelling issues, asking the author to add l
 
 We rotate the triage ownership each month, with the current triage owner responsible for picking the next one (a
 reminder is added to their last triage issue).
+
+### When assessing the nature of an issue
+
+When issues arrive on our backlog, we should consider how they align with our vision, mission, and current OKRs.
+
+We need to effectively triage these issues so that they can be handled appropriately. This means:
+1. Critically assess the issue to understand the problem
+1. Determine if this impacts .com or Self-Managed instances.
+   1. If this primarily affects Self-Managed instances, the issue can usually be redirected to the [Memory team](/handbook/engineering/development/enablement/memory/).
+1. If this is a scaling issue, assign it into our backlog using workflow labels and place it on the planning board if necessary.
+1. If this is not a scaling issue, find the most appropriate owner in either Infrastructure or Development, or any other department.
+
+When handing over an issue to the new owner, provide as much information as you can from your assessment of the issue.
 
 ### Engagement with the Infradev Process
 
