@@ -405,7 +405,6 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 1. Under `Page Settings`, ensure that the `Search Engine Directive` is set to `No Index, No Follow`.
 1. Choose your desired layout under `Layout Settings`.
 1. Choose your desired content settings under `Content Settings`.
-1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
 1. Be sure to test your explore page fully.
 
 ### Explore Page FAQs
@@ -474,7 +473,7 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 
 ## Custom PathFactory Fields
 
-There are custom PathFactory fields available in Salesforce and Marketo. They are first created in Salesforce and then synced/created in Marketo. 
+There are custom PathFactory fields available in Salesforce and Marketo. 
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |
