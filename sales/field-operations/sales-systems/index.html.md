@@ -135,3 +135,34 @@ Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD 
 6. Document any relevant information about the package. 
    * An example of this could be SFDC fields that are part of the package.
 7. Remove the package from production, update the issue and close out.
+
+## Salesforce Data, Data Uploads & Permissions
+- Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
+
+### Data Uplod Permissions 
+- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restructions` table below. Please consult both while completing any data uploads. 
+- Any data uploads that impact more then one organization unit, can only be completed after the notice and approval by all impacted teams. When there is any doubt if a data upload will impact multiple teams and System Administrator should be consulted before completing the data upload. 
+- All users who wish to upload data using the DataLoader must first complete the requierments in the `Data Upload Training & Setup` section before being permitted to upload data.
+
+| Individuals / Groups | Data Upload Permissions | 
+| -------------------- | ----------------------- | 
+| System Admininistrators | System Admins have the ability to update any an all fields within Salesforce. They should only be updating the data with an understanding of the impacts downstream such as cascasing field updates, APEX code runs, cascading system implementation, compensation implementations etc. |
+| Sales Operations | Members of the Sales Operations Team may complete any data uploads to fields that they can updateon their own UIs |
+| Customer Success Operations | Members of the Custoemr Success Operations Team may complete any data uploads to fields that solely impact the Customer Succes organization and their wholly owned processes |
+| Channel Operations |  Members of the Channel Operations Team may complete any data uploads to fields that solely impact the Channel and their wholly owned processes |
+
+### Data Uplod Restrictions
+- When in doubt if you have permission to update fields in Salesforce using the data upload process reach out to a System Administrator to clarify if your uploads are permitted and have any uninententional impacts. 
+
+| Data | Data Restrictions | 
+| ---- | ----------------- | 
+| Compensation Data | No Compensation data may be updated without first consulting the compensation team and the leadership of the Sales Systems Teams or the Sales Operations Teams | 
+| Revenue Data | No Revenue fields may be updated without first consulting the leadership of the Sales Systems Teams or the Sales Operations Teams | 
+| Closed Opportunity Fields | No updates to Opportunity Fields on any Closed Oportunities can be completed without consulting the leadership of the Sales Systems Teams and the Sales Operations Teams |
+| Any Deletions | No mass data deletions may be completed without first consulting the leadership of the Sales Systems Teams or the Sales Operations Teams |
+
+### Data Upload Training & Setup 
+- Prior to being permitted to utilize the Data Loader all users must review the [Data Loader Documentation provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm)
+   - Key Highlights: 
+      - [Data Loader Configuration](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/configuring_the_data_loader.htm) especially as it pertains to batch size and to working with Null values. this should be reviewed and confirmed prioir to every Data Upload 
+- In order to install Data Loader follow the [Instructions provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_install_general.htm)
