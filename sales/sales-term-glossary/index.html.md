@@ -310,11 +310,11 @@ A ramp adjusted sales head count.
 * A Parent Account is the business/organization which owns another business/organization.
 Example: The Walt Disney Company is the parent account of Disney-ABC Television Group and Disney.com.
 * A Child Account is the organization you may have an opportunity with but is owned by the Parent Account.
-A Child Account can be a business unit, subsidiary, or a satellite office of the Parent Account.
+A Child Account can be a [business unit](#business-unit), subsidiary, or a satellite office of the Parent Account.
 * You may have a opportunity with the Parent account and a Child Account.
 Example: Disney and ESPN may both be customers and have opportunities. However, the very first deal with a Parent Account, whether it is with the Parent Account or Child Account, should be marked as "New Business".
 All other deals under the Parent Account will fall under Add-On Business, Existing Account - Cross-Sell, or Renewal Business (see Opportunity Types section).
-* If the Parent and Child accounts have the same company name, either add the division, department, business unit, or location to the end of the account name.
+* If the Parent and Child accounts have the same company name, either add the division, department, [business unit](#business-unit), or location to the end of the account name.
 For example, Disney would be the name of the Parent Account, but the Child Account would be called The Walt Disney Company Latin America or The Walt Disney Company, Ltd Japan.
 * When selling into a new division (which has their own budget, different mailing address, and decision process) create a new account.
 This is the Child Account.
@@ -326,6 +326,14 @@ For example, Disney-ABC Television Group is the child for The Walt Disney Compan
 
 ### Account Family
 The collection of all Salesforce Accounts that roll up to the same Ultimate Parent Account.
+
+### Business Unit
+
+A distinct group or organization within a customer which, from a GitLab customer relationship perspective, can be treated and thought of as a separate customer. When determining whether a group is a business unit, factors to consider include whether they have:
+
+- Their own contract with GitLab
+- Their own GitLab instance
+- Their own GitLab management team
 
 ### Licensed Users
 
