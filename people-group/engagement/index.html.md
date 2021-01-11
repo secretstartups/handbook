@@ -43,13 +43,15 @@ The survey factors for FY19 through FY21 were as follows with each section inclu
 #### Taking Action
 Once the GitLab Team Member Engagement Survey has been closed out, reports will be dissementated to the E-Group and Divisional Heads for review i.e. only those with team populations >5.  These will form the basis of discussion when collaboratively compiling the people strategy for year ahead in conjunction with additional data such as attrition reports etc.
 
-Each E-Group member will in collaboration with their repesctive People Business Partner (PBP) identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward.
+Each E-Group member will in collaboration with their repesctive People Business Partner (PBP) identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
 
 #### Resources for Managers
 
 [The Engagement Survey for Managers](https://www.cultureamptraining.com/the-engagement-survey-for-managers?next=%2Fthe-engagement-survey-for-managers%2F651377)
 
 [Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
+
+[Take Action with Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework)
 
 ### 2020 Engagement Survey
 The GitLab Team Member Engagement Survey for 2020 (FY21) ran from 2020-11-16 to 2020-12-15 - questions and fine details can be found in the [following planning issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/931).
