@@ -18,7 +18,7 @@ Successful field team members must have an intimate understanding of ideal custo
 
 | **Topic** | **Resource(s)** |
 | ------ | ------ |
-| What is GitLab’s ideal customer profile? |- [Handbook page](/handbook/marketing/revenue-marketing/account-based-marketing/#ideal-customer-profile) <br>- [GitLab Account Based Marketing and Ideal Customer Profile](https://youtu.be/6TbtGiS9Eak) (Mar 2020, 34 minutes) |
+| What is GitLab’s ideal customer profile? |- [Handbook page](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#ideal-customer-profile) <br>- [GitLab Account Based Marketing and Ideal Customer Profile](https://youtu.be/6TbtGiS9Eak) (Mar 2020, 34 minutes) |
 | What business problems does GitLab help customers solve? | - Check out the value drivers and other materials on the GitLab [Command of the Message page](/handbook/sales/command-of-the-message/) |
 | What are target buyer personas and their pain points? | - [GitLab Buyer Personas](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) <br> - [Interview with an IT Agility Director](/handbook/sales/it-agility-director-interview/) <br> - Learn more about [Enterprise IT roles & key pain points](/handbook/marketing/strategic-marketing/enterprise-it-roles/) |
 | What are target user personas and their pain points? | - [Handbook page](/handbook/marketing/strategic-marketing/roles-personas/#user-personas) |
