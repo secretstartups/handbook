@@ -13,13 +13,13 @@ title: "Partner Collaboration"
 
 ## Why Partners?
 
-As the sales of GitLab increase, the demand for professional services will follow suit. To meet this demand we need to have an elastic and on-demand approach. Other [software companies](https://www.atlassian.com/partners) have built out a network of services partners with this approach to scaling.
+As GitLab sales increase, the demand for professional services will follow suit. To meet this demand we need to have an elastic and on-demand approach. Other [software companies](https://www.atlassian.com/partners) have built out a network of services partners with this approach to scaling.
 
-Also, channel partners can help facilitate the initial licence deal and up-selling opportuntiies with customers whom they have an ongoing relationship. 
+Also, channel partners can help facilitate the initial licence deal and up-selling opportunties with customers whom they have an ongoing relationship. 
 
 
-## Partner Disambuiguation
-There are different types of relationships we can have with partners and its important to outline the distinctions :point_down:. Direct vs indirect is a reference to the way the services are sold - Direct means the partner sells direct to the customer, Indirect means gitlab sells services and the partner helps with execution.
+## Partner Disambiguation
+There are different types of relationships we can have with partners and its important to outline the distinctions :point_down:. Direct vs indirect is a reference to the way the services are sold - Direct means the partner sells direct to the customer, Indirect means GitLab sells services and the partner helps with execution.
 
 |   | Partner Indirect (Staff Augmentation)  | Partner Indirect (Project Based)  | Partner Direct |
 |---|---|---|---|
@@ -35,7 +35,7 @@ GitLab PS can and should help our partners be sucessful in delivering services f
 GitLab professional services is building out a means to field and respond to help desk questions from the channel partners who are not subcontracted with us (Jan 2021). More details to come as this process gets created.
 
 ## Partner Indirect Collaboration Guidelines
-- artners (Indirect) (both flavors) should have access to any subgroup or project under [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) 
+- Partners (Indirect) (both flavors) should have access to any subgroup or project under [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) 
 - PSEs should be maintainers responsible for MR approval and Merging new code from other PSEs and Partners (Indirect) 
 - Code reviews should happen on all merge requests 
 - Access to customer and PS specific Slack channels. 
