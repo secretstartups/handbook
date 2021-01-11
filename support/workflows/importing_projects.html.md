@@ -116,9 +116,9 @@ If the customer requires that all issues, merge requests, and commits be mapped 
 #### 1. Create Admin Account Access Request
 
 1. Open an issue using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) template and fill it out in its entirety (replace any instances of `group` with the group name).
-1. Add the `AR-Priority::1` (24 hour turnaround) label.
-1. Comment on the issue and tag your manager requesting their approval.
-1. Tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.
+1. In a comment on the issue, tag your manager requesting their approval.
+1. If the account is not provisioned within a few days before the scheduled date,
+tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.
 
 In the access request, enter the following in the **Person Details** section.
 
@@ -131,10 +131,10 @@ In the access request, enter the following in the **Person Details** section.
 **Note:** This is part of the [project import process](/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
-Then, enter the following for the **Account Creation** section.
+Then, enter the following for the **Access Request** section:
 
 ```plain
-GitLab PRD | Role: `admin` | Rationale: `customer import` ; Please confirm, and enable 2FA for this user.
+GitLab PRD | Role: `admin` | Please confirm, and enable 2FA for this user. | Rationale: `customer import`
 ```
 
 #### 2. Verify User List
