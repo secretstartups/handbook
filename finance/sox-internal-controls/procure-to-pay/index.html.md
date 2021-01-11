@@ -113,7 +113,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the [Third Party Risk Management Procedure](handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
 
     * If no vendor security review is needed, the box is checked by the Security Team.
     * If a security review was performed, and there are no risks associated with the use of this vendor, the box is checked and no approval is required.
