@@ -150,7 +150,7 @@ Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/recruiting/-/bl
 
 Once you've activated your LinkedIn Recruiter licensce and your public profiles are updated, you're ready to start sourcing candidates for your team.  
 
-You can use this [sourcing guide](handbook/hiring/sourcing/#how-to-source-candidates) to learn how we define a sourced candidate, where to start your search, and even what you could consider saying in your outreach. 
+You can use this [sourcing guide](/handbook/hiring/sourcing/#how-to-source-candidates) to learn how we define a sourced candidate, where to start your search, and even what you could consider saying in your outreach. 
 
 For additional guidance on using LinkedIn Recruiter for sourcing, check out this [training page](https://business.linkedin.com/talent-solutions/cx/18/05/fast-track#all).  
 
