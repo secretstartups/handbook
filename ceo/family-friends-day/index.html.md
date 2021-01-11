@@ -28,14 +28,14 @@ We will look at scheduling future dates at the end of January 2021 pending the g
 1. Due to its success in reinforcing our message and supporting team member wellness, the second Family and Friends Day was celebrated on `2020-06-12`.
 1. A third Family and Friends Day was celebrated on `2020-08-14`.
 1. A fourth Family and Friends Day was celebrated on `2020-10-09`.
-1. A fifth Family and Friends Day was celebrated on `2020-11-25`. 
-1. A sixth Family and Friends day was celebrated on `2020-12-18`. 
+1. A fifth Family and Friends Day was celebrated on `2020-11-25`.
+1. A sixth Family and Friends day was celebrated on `2020-12-18`.
 
 ## FAQ about Family and Friends Day
 
 ### Who determines upcoming Family and Friends Days?
 Any GitLab team member is able to propose a Family and Friends day. To propose a Family and Friends day please follow the steps outlined below:
-1. Review the [GitLab Team Meetings calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV82ZWtiazhmZnFua3VzM3FwajlvMjZycWVqZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for major conflicts, review major holidays, and avoid the end of the quarter to ensure our Sales team can participate before determing a date proposal.
+1. Review the [GitLab Team Meetings calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV82ZWtiazhmZnFua3VzM3FwajlvMjZycWVqZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for major conflicts, review major holidays, and avoid the end of the quarter to ensure our Sales team can participate before determining a date proposal.
 1. Submit a merge request to modify the `Upcoming Family and Friends Days` section of this page with the date of your Family and Friends day proposal.
 1. Post the MR in the `#e-group` Slack channel and `@mention` the `@exec-group` and `@exec-admins` for feedback.
 1. If feedback is positive, assign the MR to our CEO.
