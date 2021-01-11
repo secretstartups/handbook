@@ -45,7 +45,7 @@ Team members often are asked for a company phone number to complete a mortgage a
 
 You do not need permission from GitLab to give a personal reference, but GitLab team members are not authorized to speak on behalf of the company to complete reference requests for GitLab team members no longer working for GitLab. If a team member would like to give a personal reference based on their experience with the former team member, it must be preceded by a statement that the reference is not speaking on behalf of the company. To reinforce this fact, personal references should never be on company letterhead, and telephone references should never be on company time. Remember to always be truthful in reference checks, and instead of giving a majority negative reference, refuse to provide one. Negative references can result in legal action in some jurisdictions.
 
-If an ex team member acted in a malicious way against GitLab we'll do a company wide announcement on the company call not to provide a reference.
+If an ex team member acted in a way which is against our [Code of Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/), GitLab may do a company wide request not to provide a reference.
 
 ## Paperwork (Werkgeversverklaring) people may need to obtain a mortgage in the Netherlands
 
