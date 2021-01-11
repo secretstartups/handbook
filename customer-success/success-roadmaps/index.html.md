@@ -37,11 +37,12 @@ Please be sure to include all the sections when updating or adding Engagements.
 1. [Success Roadmap for Self Managed Implementation Review](#success-roadmap-for-self-managed-implementation-review)
 2. [Success Roadmap for Developer Skill Ramping Onto GitLab CI and CD](#success-roadmap-for-developer-skill-ramping-onto-gitlab-ci-and-cd)
 3. [Success Roadmap Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service](#success-roadmap-best-practices-for-operating-self-managed-gitlab-as-a-production-grade-internal-service)
-4. [GitLab Migration Review](#gitLab-migration-review)
-5. [Success Roadmap for Gitflows, Workflow,  Roles and Controls for SCM, CI and CD](#success-roadmap-for-gitflows-workflow-roles-and-controls-for-scm-ci-and-cd)
+4. [Success Roadmap for GitLab Migration Review](#success-roadmap-for-gitlab-migration-review)
+5. [Success Roadmap for Gitflows, Workflow, Roles and Controls for SCM, CI and CD](#success-roadmap-for-gitflows-workflow-roles-and-controls-for-scm-ci-and-cd)
 6. [Success Roadmap for Implementing GitLab Secure](#success-roadmap-for-implementing-gitlab-secure)
 7. [Success Roadmap for Customer Internal Developer Enablement for GitLab CI](#success-roadmap-for-customer-internal-developer-enablement-for-gitlab-ci)
-8. [Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation](#success-roadmap-for-specialized-or-highly-scaled-gitLab-runner-implementation)
+8. [Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation](#success-roadmap-for-specialized-or-highly-scaled-gitlab-runner-implementation)
+9. [Success Roadmap for Integrating GitLab with Other Systems](#success-roadmap-for-iIntegrating-gitlab-with-other-systems)
 
 ### Success Roadmap for Self Managed Implementation Review
 
@@ -192,7 +193,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 10. What Deployment Environments Need to Be Supported
 11. Timeline
 
-### GitLab Migration Review
+### Success Roadmap for GitLab Migration Review
 
 #### Status: Ready
 
@@ -236,7 +237,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 6. Timeline
 
-### Success Roadmap for Gitflows, Workflow,  Roles and Controls for SCM, CI and CD
+### Success Roadmap for Gitflows, Workflow, Roles and Controls for SCM, CI and CD
 
 #### Status: Ready
 
@@ -469,7 +470,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 11. What Deployment Environments Need to Be Supported
 12. Timeline
 
-### Integrating GitLab with Other Systems
+### Success Roadmap for Integrating GitLab with Other Systems
 
 #### Status: Proposed
 
