@@ -32,9 +32,10 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Sales VPs
 
-**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, Michelle Hodges, Brandon Jung**
+**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, Michelle Hodges**
 
-* Please reach out to Katie Gammon (EBA) to schedule or reschedule any meetings 
+* Please reach out to Katie Gammon (EBA) to schedule or reschedule any meetings for David Sakamoto, Mike Pyle and Ryan O'Nell
+* Please reach out to Jennifer Garcia (EBA) to schedule or reschedule any meetings for David Hong and Michelle Hodges
 * Don't schedule over DNB or any CRO calls without reaching out for approval from VP and EBA
 * For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
