@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: SA Practices
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -14,7 +19,8 @@ Solution Architects have various practices:
 
 [Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice)
 
-[Recognizing Cognitive Bias](Recognizing Cognitive Bias)
+[Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias)
+
 What is Cognitive Bias:
 
 - <span class="colour" style="color:rgb(0, 0, 0)">Perception that occurs when people are processing and interpreting information in the world around them</span>
