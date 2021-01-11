@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Infrastructure Analyst Role"
-description: "Defines role and responsibilites of infra analyst"
+description: "Defines role and responsibilities of infra analyst"
 ---
 
 
@@ -33,7 +33,7 @@ Therefore, if requesting help or a review from an infrastructure analyst you sho
 If one or more of these is not known, then you should partner with the infrastructure analyst so you can define these together.
 
 ### Infra Analyst Board
-There is a separately maintained board for infra-analytics that is for ad-hoc requests specifically related to Infrastrutcture Analyst role
+There is a separately maintained board for infra-analytics that is for ad-hoc requests specifically related to Infrastructure Analyst role
 Find more info at infra-analytics board [handbook page](/handbook/engineering/infrastructure/cost-management/infra-analyst-board)
 
 ### Learning Track
@@ -46,7 +46,7 @@ This section will go through the general skills that are needed to succeed as an
     - An infrastructure analyst should know enough about how the applications your company uses to ask the right questions. This includes an understanding of general topics that affect resource utilization like multi-threading.
     - Can identify resource bottlenecks, areas of potential waste or excess usage, etc.
 - Basic understanding of finance concepts
-   - An infrastructure analyst needs to be comfortable with how finance departments work to be able to integrate with financial processes. 
+   - An infrastructure analyst needs to be comfortable with how finance departments work to be able to integrate with financial processes.
    - Familiar with forecast and cost allocation processes
 - Understanding of data infrastructure
     - An infrastructure analyst should be able to work within whatever their company's current data architecture is, and enhance this with the unique data sources they have access to. This requires a greater level of maturity in the company and as a first step just using the cloud vendor billing consoles should suffice.

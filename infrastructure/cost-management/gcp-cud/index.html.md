@@ -15,7 +15,7 @@ description: "GCP Committed Use Discounts"
 
 ----
 ### What are Committed Use Discounts in GCP?
-Google Committed Use Discounts is a way to reduce your compute rate by committing to a set amount of servers of a certain type and in a cetain region for a period of time (1 year or 3 year). You will pay this cost whether you use the servers or not, but at a significantly discounted rate compared to the on-demand server rate. This is the equivalent of reserved instances or compute savings plan in AWS.
+Google Committed Use Discounts is a way to reduce your compute rate by committing to a set amount of servers of a certain type and in a certain region for a period of time (1 year or 3 year). You will pay this cost whether you use the servers or not, but at a significantly discounted rate compared to the on-demand server rate. This is the equivalent of reserved instances or compute savings plan in AWS.
 - [CUD Description](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts)
 - [CUD Restrictions](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#restrictions)
 
@@ -33,9 +33,9 @@ CUD Analysis should assume the other commitments do not end. CUD renewals should
 #### 2. Fill out New GCP CUD issue template in Finance
 Include and ping any engineering manager who will be significantly impacted by the change so they can confirm they do not expect major changes in their usage for the term of the commit. Include the spreadsheet from step 1 in the issue.
 
-The template should include the commitment details, important high level financial details, and the engineering details about which services are most affected by the commitment. 
+The template should include the commitment details, important high level financial details, and the engineering details about which services are most affected by the commitment.
 
-Before the commitment is considered, the infrastructure analyst should talk with the teams that use the majority of the usage that is being committed to make sure there aren't any major changes expected during the term of the commitment. 
+Before the commitment is considered, the infrastructure analyst should talk with the teams that use the majority of the usage that is being committed to make sure there aren't any major changes expected during the term of the commitment.
 Those teams should be cc'ed in the issue and if they have any concerns voice them at that time.
 
 Example Issue: https://gitlab.com/gitlab-com/finance/-/issues/2377

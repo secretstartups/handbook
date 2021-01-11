@@ -18,7 +18,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 # Changes
 
-**Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Our [Staging environment](/handbook/engineering/infrastructure/environments/#staging) is crucial to our GitLab.com release process.  Therefore, Staging should be considered within scope for Change Management, as part of Gitlab's operational environment. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
+**Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Our [Staging environment](/handbook/engineering/infrastructure/environments/#staging) is crucial to our GitLab.com release process.  Therefore, Staging should be considered within scope for Change Management, as part of GitLab's operational environment. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
 
 * **Service changes** are regular, routine changes executed through well-tested, automated procedures performed with minimal human interaction that may cause predictable and limited performance degradation and no downtime. A service change is implemented such that **it protects the environment while executing the desired change**.  As such, mature service changes do not require review or approval except on their very first iteration.
 
@@ -65,7 +65,7 @@ While pre-flight checks will likely have an effect on the speed of a change (bot
 
 #### Post-verification Checks
 
-Much in the way we must validte the current state of the environment and the assumptions we make about it before a change, we must always validate the new, post-change state and the assumptions made about it. We must explicitly quantify the desired results of the change.
+Much in the way we must validate the current state of the environment and the assumptions we make about it before a change, we must always validate the new, post-change state and the assumptions made about it. We must explicitly quantify the desired results of the change.
 
 As examples:
 
@@ -75,7 +75,7 @@ As examples:
 
 Key to all pre-flight and post-verification steps is our monitoring stack, based primarily on Prometheus, Thanos and AlertManager (the `monitoring` service).
 
-Additionally, most incidents are the direct result of change, either in the application, through deployments, or infrastructure changes. It is therefore imperitive that any elective change (ie, one not related to an urgent ongoing incident) requires the availability of our metrics platform.
+Additionally, most incidents are the direct result of change, either in the application, through deployments, or infrastructure changes. It is therefore imperative that any elective change (ie, one not related to an urgent ongoing incident) requires the availability of our metrics platform.
 
 If the monitoring platform is not functioning correctly, no change should be executed, unless it is being made to resolve an ongoing critical incident.
 
@@ -194,7 +194,7 @@ With change plans, we develop a solid library of change procedures. Even more im
 
 UTC is the standard time zone used in talking about the scheduled time for all the changes.
 
-When scheduling your change, keep the impact of the change in mind and consider the following questions: 
+When scheduling your change, keep the impact of the change in mind and consider the following questions:
 
 1. Are there other C1/C2 changes occuring around the same time?
 1. Does the change being conducted contain a planned failover or other high-risk component, where the risk to customers can be reduced by executing the change in a low-traffic period?
@@ -225,7 +225,7 @@ bastion-01-gstg  $ ./script/migrate
 
 ## Change Reviews
 
-Maintenance changes require change reviews. The reviews are intended to bring to bear the **collective** experience of the team while providing a forum for pointing out potential risks for any given change. A minimun quorun of three reviewers is required to approve a ~S1 or ~S2 maintenance change.
+Maintenance changes require change reviews. The reviews are intended to bring to bear the **collective** experience of the team while providing a forum for pointing out potential risks for any given change. A minimum quorum of three reviewers is required to approve a ~S1 or ~S2 maintenance change.
 
 ## Roles
 
@@ -275,7 +275,7 @@ As a reference, we should communicate 5-6 weeks before the change, for a C1 that
 Steps:
 * Create a Google doc with the change communication message draft. Have it reviewed by an SRE Manager and those involved with the change.
 * Create an issue for the official company communication about the change.
-    * Create a new communication Issue in the **Production project** of the Gitlab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
+    * Create a new communication Issue in the **Production project** of the GitLab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
     * Set Confidentiality to `Confidential` until the day we publish it in status.io, when we will set it to `Not Confidential`.
     * Obtain approval for the overall plan and expected impact from:
       * Director of SRE, Infrastructure
@@ -294,7 +294,7 @@ Steps:
 
 # Production Change Lock (PCL)
 
-While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab Summit, major global holidays, and other times where GitLab Team Member availability is substantially reduced. 
+While changes we make are rigorously tested and carefully deployed, it is a good practice to temporarily halt production changes during certain events such as GitLab Summit, major global holidays, and other times where GitLab Team Member availability is substantially reduced.
 
 Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as a boring solution until then we are listing the events here so that teams are aware of the PCL periods.
 
