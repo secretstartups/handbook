@@ -263,7 +263,7 @@ Dennis Tang (Frontend Engineering Manager, Manage and Fulfilment)
 **Projected Team Size:** 6
 **Leadership Team:**
 Bartek Marnane (Director of Engineering, Growth)
-James Lopez - Backend Engineering Manager, Fulfillment:Provision
+James Lopez - Backend Engineering Manager, Fulfillment:License
 
 [Product Vision page](/direction/fulfillment/)
 
