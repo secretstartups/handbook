@@ -130,7 +130,7 @@ To ensure the right solutions are delivered, the team must start their work with
 
 If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.
 
-If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. Although optional, it is recommended to use an [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) as a tool that helps individuals better understand a problem, and communicate it to various stakeholders.
+If the problem is nuanced, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. Although optional, it is recommended to use an [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) as a tool that helps individuals better understand a problem, and communicate it to various stakeholders. Opportunity Canvas can be used to recommend creation of a new category including asking for new resourcing. 
 
 #### Outcomes and Activities
 
