@@ -50,10 +50,10 @@ conversation at least once a quarter.
 
 ### Opportunity
 
-The GitLab Engineering career track offers a full path of opportunity for individuals to contribute. The availability of senior engineering roles starting at Staff Engineer will be governed by the IC Gearing Ratios (TBD).  
-There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.  
+The GitLab Engineering career track offers a full path of opportunity for individuals to contribute. The availability of senior engineering roles starting at Staff Engineer will be governed by the IC Gearing Ratios (TBD).
+There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.
 
-These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.  
+These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.
 
 ## Individual Contribution vs. Management
 
@@ -92,7 +92,7 @@ Process for selection:
 An [Acting Manager](/handbook/people-group/promotions-transfers/#acting) is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
-When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances: 
+When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances:
 
 | Current level      | Desired level  | Previous Management experience (6+ months) | Application of interim period |
 |--------------------|----------------|--------------------------------------------|-------------------------------|
@@ -105,7 +105,7 @@ When a team member is pursuing a people manager role (Level Manager+) long term 
 | Manager/Sr Manager | Director       | No (managing managers)                     | Yes                           |
 |                    |                | Yes (managing managers)                    | No                            |
 
-For Director+ positions no interim is required. 
+For Director+ positions no interim is required.
 
 Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
@@ -180,7 +180,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   subgraph Based on Merit &amp; Company Need
   eng:stf & eng:fem
   eng:stb & eng:bem;
-  
+
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stb & eng:stf-->eng:dis-->eng:fel;
   end
@@ -195,7 +195,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  
+
   subgraph Merit Based
     sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
     sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
@@ -252,7 +252,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 ```mermaid
   graph LR;
-  
+
   subgraph Merit Based
     supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
     supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
@@ -299,7 +299,7 @@ subgraph Based on Merit &amp; Company Need
   eng:muxr(Manager of UX Research)-->eng:smuxr(Senior Manager of UX Research);
   eng:smuxr(Senior Manager of UX Research)-->eng:duxr(Director of UX Research);
   eng:duxr(Director of UX Research)-->eng:vpux(VP of User Experience);
-  
+
   eng:stw(Senior Technical Writer)-->eng:sttw(Staff Technical Writer);
   eng:stw(Senior Technical Writer)-->eng:mtw(Technical Writing Manager);
   eng:mtw(Technical Writing Manager)-->eng:stwm(Senior Technical Writing Manager);
@@ -353,7 +353,7 @@ subgraph Based on Merit &amp; Company Need
     eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
     eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
     eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
-  
+
   %% Site Reliability Engineer
     eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
     eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
@@ -405,7 +405,7 @@ subgraph Based on Merit &amp; Company Need
 ```
 ## Apprenticeship for Learning
 
-Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning). 
+Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning).
 
 Eligibility criteria:
 * You are excelling in your role (no performance issues)
@@ -432,17 +432,17 @@ If you wish to apprentice with an Engineering team, start by speaking with your 
 
 ## Internships in Engineering
 
-An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering. 
+An internship is a position meant for someone who has decided on a career path and is looking to gain in-depth experience in a specific field. At GitLab this is the entry level of roles in Engineering.
 
-In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring expereince. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering. 
+In May 2020 we launched an internship pilot program as part of a [Working Group](/company/team/structure/working-groups/internship-pilot/). [The pilot internship program](/handbook/engineering/internships/) has proven to be a great mechanism for hiring as well as offered great opportunities for our team members to gain mentoring experience. Due to the program's success currently we have decided to roll out internships on a continuous basis in Engineering.
 
-With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/). 
+With the roll out of the intern level in Engineering we have decided to deprecate what previously has been called the junior level (former entry level). Going forward all teams within Engineering can open an intern requisition when there's an organizational need. All information on Internships in Engineering can be found on [this page](/handbook/engineering/internships/).
 
 ## Senior Engineers
 
 Note that we have a specific section for [Senior Engineer](/job-families/engineering/backend-engineer/#senior-backend-engineer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Engineer.
 
-The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position. 
+The Senior Engineer role is a critical role where we need the most contributions. It should also be considered a destination role. It is not a given that you will naturally progress into the next role, whether it is Staff or Management. There are different needs and expectations for the next role. Individual growth and progression is supported and encouraged at GitLab, however progression beyond the Senior Engineering role is gated on availability and need. There may not be a need for another Staff or Management position.
 
 Senior engineers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior engineers to come up with simpler solutions to complex problems. Managing complexity is key to their work. [Staff](/job-families/engineering/backend-engineer/#staff-backend-engineer) and [Distinguished](/job-families/engineering/backend-engineer/#distinguished-backend-engineer) positions extend the Senior Engineer role.
 
