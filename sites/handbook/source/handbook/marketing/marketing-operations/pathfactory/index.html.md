@@ -182,7 +182,6 @@ Before creating a new content track, decide what type of content track (target v
 1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset.
    - **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience.
    - If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
-   - [Video description of where this is criticl in Marketo setup](https://www.youtube.com/watch?v=VHgR33cNeJg)
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
 1. Set the appearance for the track. 
 1. Set the language for the track.
@@ -237,7 +236,7 @@ Before creating a new content track, decide what type of content track (target v
 
 Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
+**Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
 - [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
 - [Form strategy FAQ](https://nook.pathfactory.com/nook/s/article/forms-strategy-faq)
