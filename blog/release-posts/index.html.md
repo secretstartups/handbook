@@ -244,7 +244,7 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
 #### Create MR for What's New entries 
 
 1. Release Post Manager and PMM lead identify 3-5 topics for What's New
-   1. These items should be high confidence because the entry needs to be part of the release code base for self-managed
+   1. These items should be ones that have already deployed to GitLab.com that we know 100% will be a part of the next Self-managed release.
    1. We can update the entry later if higher impact items end up making the release. It is better to have less entries and ensure they are accurate than to include inaccurate information.
 1. RPM creates a What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
    1. Title the file as `YYYYMMDD00001_VV_XX.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
