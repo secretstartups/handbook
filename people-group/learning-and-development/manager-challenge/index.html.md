@@ -131,7 +131,7 @@ Throughout the program, we ask that managers create a manager action plan to sel
 
 L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we will be piloting [Trust Metryx](https://www.xmetryx.com/) to participants that are interested in trying out the tool. 
 
-Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. 
+Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. Checkout the [three-minute video](https://vimeo.com/493930605) to learn more about Trust Metryx. 
 
 The tool accelerates your development as a manager/leader by: 
 - Helping you to identify behaviors that get in the way of team performance wellbeing
