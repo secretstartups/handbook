@@ -13,7 +13,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Michael McBride, Chief Revenue Officer
 
-* All meeting requests routed through the EBA to the CRO, Cheri Holmes and are scheduled through her  
+* All meeting requests routed through the EBA to the CRO, Cheri Holmes and are scheduled through her
 * Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
 * Include Meeting Agendas in invites / make sure the team knows to include this with requests for time.
 * Flexible with late evening calls for Asia or Australia - check with him first.
@@ -26,8 +26,8 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Daily office hours are 9am-5pm ET, please Do Not Book meetings outside of working hours unless arranged with Sr. EBA
 * Do not schedule over DNB (Do Not Book)
 * Prefers “appropriate length” conversations, so short meetings are okay on the calendar. If a topic only needs 10 mins, book 10 mins instead of 30, etc.
-* Schedule two 30 minute blocks a day for work time - title “DNB / workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily workflow is still achieved. 
-* Schedule one 60 minute block a day for for lunch - title “DNB / lunch”. This is time for a lunch break, follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily lunch break is still achieved.  
+* Schedule two 30 minute blocks a day for work time - title “DNB / workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily workflow is still achieved.
+* Schedule one 60 minute block a day for for lunch - title “DNB / lunch”. This is time for a lunch break, follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that daily lunch break is still achieved.
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary.
 * Please do not @ Brian for scheduling questions or requests in Slack, please reach out his Sr. EBA.
 * Please do cc: @ Brian and his Sr. EBA with last minue scheduling changes in Slack.
@@ -45,7 +45,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * All meeting requests should go through the CoS's Sr. EBA, Jaclyn Grant
 * Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS
 * Limited availability due to personal commitments from 7-8am PT Mon.-Fri. and from 3-5pm PT Mon.-Wed. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
-* If meetings need to happen before 8am PT or after 6pm PT check with Sr. EBA 
+* If meetings need to happen before 8am PT or after 6pm PT check with Sr. EBA
 * Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS’s Sr. EBA
 * For meetings outside of set business hours contact the CoS’s Sr. EBA
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
@@ -66,12 +66,12 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Slack should be used for instant back and forth communication, not for items requiring followup or action
 * Email is the preferred method of contact for any items that need follow up, approvals or action by Eric
 * Meeting requests for Eric should be posted in #eba-team  channel on Slack tagging EBA
-* [Skip-Level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/#the-purpose-of-skip-level-meetings) are true skip-levels and attendees are the direct reports of the EVPE's direct reports 
+* [Skip-Level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/#the-purpose-of-skip-level-meetings) are true skip-levels and attendees are the direct reports of the EVPE's direct reports
     * Other ways to connect with Eric:
       * Attend the weekly EVPE Office Hours
       * Attend the quarterly AMA with Eric
       * Message in the #evpe slack channel
-      
+
 #### **Eric's Meetings:**
 
 * Eric is Required (try not to move this meeting)
@@ -91,7 +91,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
   * Company Call
   * Group Conversation
   * Peer's Key Reviews
-* Eric can book over these occassionally (use judgement)
+* Eric can book over these occasionally (use judgement)
   * Lunch
   * 7 -8 AM PST
 
@@ -125,10 +125,10 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 ## Scheduling for Robin Schulman, Chief Legal Officer
 
 * All meeting requests should go through the CLO's Sr. EBA, Robyn Hartough
-* Priority to candidate interviews, CEO, E-Group and GitLab BoD 
+* Priority to candidate interviews, CEO, E-Group and GitLab BoD
 * Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
-* Calendar key is available for viewing in the CLO's daily schedule 
+* Calendar key is available for viewing in the CLO's daily schedule
 * All meeting requests should include an agenda or doc for reference
 * Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 

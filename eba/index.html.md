@@ -16,7 +16,7 @@ This page details processes and general guidelines specific to the Executive Bus
 ## Executive Business Administrator Team
 
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
-* Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO) 
+* Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO)
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO), Stella Treas (CoS) and Finance Leadership: Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Wendy Barnes (CPO), Dave Gilbert (VP of Recruiting), and Carol Teskey (Senior Director, People Success)
@@ -24,7 +24,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Kristie Thomas (EBA) supporting Scott Williamson (EVP of Product),Eric Johnson (EVP Engineering), and Johnathan Hunt (VP of Security)
 * Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and future VP of Alliances
 
-## Contact us 
+## Contact us
 We'd love for our fellow team members to contact us in slack at #eba-team. If you need to quickly communicate with the entire team please @ mention exec-admins in slack.
 
 
@@ -84,14 +84,14 @@ When sending a calendar invite for an in-person meeting at Mission Control, plea
 * For meetings at Mission Control and another guest joining via video call: The EBA will schedule an additional ten minutes before the appointment to test the zoom room system.
 * For meetings or lunch/dinner appointments, always make sure to add the address in the invite of the location where it’s scheduled.
 * Make sure to plan travel time (in a separate calendar item, just for the exec) before and after the meeting in case another meeting or call should follow.
-* After each meeting with a potential investor, make sure to update Airtable with the information on these meetings. 
+* After each meeting with a potential investor, make sure to update Airtable with the information on these meetings.
 
 ## Scheduling with the Executive Team
 
-Please remember to reach out to the EBA of the executive you need to schedule for with an agenda, any time preferences, and length of the meeting.  
+Please remember to reach out to the EBA of the executive you need to schedule for with an agenda, any time preferences, and length of the meeting.
 
 #### [Scheduling with the CEO](/handbook/eba/ceo-scheduling)
-#### [Schedling with the E-Group](/handbook/eba/e-group-scheduling)
+#### [Scheduling with the E-Group](/handbook/eba/e-group-scheduling)
 #### [Scheduling with VPs or Directors](/handbook/eba/vp-scheduling)
 
 ### Travel
@@ -106,13 +106,13 @@ If a flight was changed or not taken due to delays or other circumstances, make 
 * And/or write down what receipts are missing and email to request them if needed.
 
 ### Zoom
-* Request Schedule Privilege for executives by having the executive go to their Zoom profile settings and scrolling down to the **Schedule Privilege** section. The executive will need to  click the plus button icon to add the EBA's email address to the **Assign Scheduling Privilege** pop-up box. 
+* Request Schedule Privilege for executives by having the executive go to their Zoom profile settings and scrolling down to the **Schedule Privilege** section. The executive will need to  click the plus button icon to add the EBA's email address to the **Assign Scheduling Privilege** pop-up box.
   * This setting will allow EBAs to create meetings using the user's One-time Meeting ID.
-* To add yourself as an alternative host to a meeting, click on your profile and select **Meetings** from the header. Find the meeting you'd like to be an alternative host for, and click on the meeting title. Scroll to the bottom and select, **Edit this Meeting**. Scroll to the bottom and add yourself and/or others as **Alternative Hosts**. 
-  * This will allow you access to additional meeting settings such as Mute All, Unmute All, Play Enter/Exit Chime, Mute Participants on Entry, Record, End Meeting, and more. 
+* To add yourself as an alternative host to a meeting, click on your profile and select **Meetings** from the header. Find the meeting you'd like to be an alternative host for, and click on the meeting title. Scroll to the bottom and select, **Edit this Meeting**. Scroll to the bottom and add yourself and/or others as **Alternative Hosts**.
+  * This will allow you access to additional meeting settings such as Mute All, Unmute All, Play Enter/Exit Chime, Mute Participants on Entry, Record, End Meeting, and more.
 
 ### Google Groups
-To view members of Google Groups, reference the [gsuite group member repo](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members/-/tree/master). A sync is run on the repository every hour, as noted in the README.md file. 
+To view members of Google Groups, reference the [gsuite group member repo](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members/-/tree/master). A sync is run on the repository every hour, as noted in the README.md file.
 
 ### Company Mail
  The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accordingly.
@@ -122,9 +122,9 @@ To view members of Google Groups, reference the [gsuite group member repo](https
 * Mail addressed to Legal - contact the CLO for next steps.
 * Mail related to tax documents - scan and email to the PAO, Director of Tax and Controller.
 * Mail related to employment, payroll, workers compensation, court orders, unemployment - mail to designated Payroll Specialiast.
-* Mail addressed to AP - scan and email to ap@gitlab.com. 
+* Mail addressed to AP - scan and email to ap@gitlab.com.
 * All human resources related documents will be sent to a designated team member on the People Group Team.
-* The Sr. EBA to the CFO is responsible for all remaining mail, which will be dispersed accordingly to specific individuals. 
+* The Sr. EBA to the CFO is responsible for all remaining mail, which will be dispersed accordingly to specific individuals.
 * More information can be found [here](https://docs.google.com/document/d/1EwaqZpivB2b7tozZNV6iaFzIpNePIM4HsLbk62Ym0lQ/edit#).
 
 ### E-Group In-person Meetings
@@ -147,7 +147,7 @@ The public process does two things: allows others to benefit from the conversati
 
 ### Leadership SAT Survey
 
-On a quarterly basis, any Executive at GitLab that has dedicated administrative support via an Executive Business Administrator will receieve a survey with a series of questions and a rating scale of 1-5 (5 being excellent) to determine the performance of the EBA team.
+On a quarterly basis, any Executive at GitLab that has dedicated administrative support via an Executive Business Administrator will receive a survey with a series of questions and a rating scale of 1-5 (5 being excellent) to determine the performance of the EBA team.
 
 Sample Questions:
 * Tasks are completed within agreed timeframes, to accurately meet requirements and consistent with GitLab’s policies and procedures.
