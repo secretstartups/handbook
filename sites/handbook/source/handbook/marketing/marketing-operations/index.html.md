@@ -214,7 +214,7 @@ Integrated with Salesforce
 </summary>
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
-- [Demandbase](/handbook/marketing/revenue-marketing/account-based-marketing/demandbase)
+- [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/)
 - [Drift](/handbook/marketing/marketing-operations/drift)
 - [LeanData](/handbook/marketing/marketing-operations/leandata)
 - LinkedIn Sales Navigator
