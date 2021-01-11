@@ -43,12 +43,12 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 
 The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/tam/gainsight/#ctas)) to a Customer.
 
-| Title | Live in GS? | Automated? | Gainsight Location | Type | Internal Reference Link | 
+| Title | Live in GS? | Automated? | Gainsight Location | Type | Internal Reference Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Stage Adoption: Manage    | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Plan      | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Create    | **Yes** | Manual | Success Plan | Stage Adoption | [Source Code Management (SCM) / Create Stage](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/) |
-| Stage Adoption: Verify    | - | Manual | Success Plan | Stage Adoption | [Continous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
+| Stage Adoption: Verify    | - | Manual | Success Plan | Stage Adoption | [Continuous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
 | Stage Adoption: Package   | - | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Secure    | - | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) |
 | Stage Adoption: Release   | - | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |

@@ -21,21 +21,21 @@ Discovery calls may be requested by the Account Executive (AE) via their regiona
 
 ### Deliverables
 * Google Doc: for running call notes (when applicable)
-* Salesforce: Account, contact names, call notes and opportunity creation  
+* Salesforce: Account, contact names, call notes and opportunity creation
 
 ### Responsibilities
 * Listen for core needs, outliers requiring other GitLab team members, opportunity size, and/or professional services opportunities
 * Assist in documenting any call notes
   * Document primary business value objective
   * Document Required Capabilities
-* SA adds name to account for ownership  
+* SA adds name to account for ownership
 
 ### Metrics
 * None
 
 ## Step 2: Technical Evaluation
 
-Technical evaluation is where the prospective customer evalates the fit of GitLab to their organization and its specific desired business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPPICC information as well as the known required capabilities in Salesforce.  
+Technical evaluation is where the prospective customer evaluates the fit of GitLab to their organization and its specific desired business outcomes. This may be driven by a Lite POV, a free trial, real time or asynchronous Q&A, a workshop and/or other approach requiring technical guidance from an SA. If Discovery did not include the SA, the AE should follow the triage process to engage an SA for the opportunity, filling out the issue template and providing MEDDPPICC information as well as the known required capabilities in Salesforce.
 
 ### Deliverables
 * Google Doc: for running call notes (when applicable)

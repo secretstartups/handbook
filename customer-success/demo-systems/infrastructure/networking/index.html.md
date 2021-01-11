@@ -34,7 +34,7 @@ Each of the region/zone CIDR ranges exist in the `10.128.0.0/9` CIDR range. We h
 
 <div class="panel panel-info">
 <div class="panel-heading">
-Gitlab Implementation
+GitLab Implementation
 </div>
 <div class="panel-body">
 We like human recognizable infrastructure design elements and have allocated all of the `10.1xx.` address space to GCP and all of the `10.2xx.` IP space to AWS. This allow us to easily recognize which cloud provider console we should access to troubleshoot an issue. Feel free to adopt this idea for multi-cloud implementations, however it's not required.<br />
@@ -54,7 +54,7 @@ When configuring your VPC networks and routing tables, you can choose to create 
 
 <div class="panel panel-info">
 <div class="panel-heading">
-Gitlab Implementation
+GitLab Implementation
 </div>
 <div class="panel-body">
 We keep each region isolated by creating a separate VPC Network for each region so there is no chance of cross-region contamination if something goes wrong. Although there are trade-offs with ease-of-administration that we solve with infrastructure-as-code tools, we prefer it this way to allow us to build/destroy/rebuild an entire region without worrying about whether the top-level resources are affected.
@@ -66,7 +66,7 @@ If you are designing a high-availability/fault-tolerant environment within a reg
 
 <div class="panel panel-info">
 <div class="panel-heading">
-Gitlab Implementation
+GitLab Implementation
 </div>
 <div class="panel-body">
 We like human recognizable infrastructure design elements and have allocated all of the `10.1xx.` address space to GCP and all of the `10.2xx.` IP space to AWS. This allow us to easily recognize which cloud provider console we should access to troubleshoot an issue. Feel free to adopt this idea for multi-cloud implementations, however it's not required.<br />
@@ -118,7 +118,7 @@ The `/12` CIDR for each region/zone includes 16 `/16` CIDR ranges. In other word
 
 <div class="panel panel-info">
 <div class="panel-heading">
-Gitlab Implementation
+GitLab Implementation
 </div>
 <div class="panel-body">
 This is where the "it depends" scenarios start with network design. You can allocate this IP space however you'd like including subnet partitioning or combining. All of the documentation is modeled after how we've implemented it at GitLab based on our use cases.
