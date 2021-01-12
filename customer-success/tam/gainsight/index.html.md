@@ -96,7 +96,7 @@ The left side panel of the 360 contains the following sections:
 - Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
 - Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk]((#salesforce-and-zendesk-syncing)))
+- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
 - Adoption - license utilization and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
