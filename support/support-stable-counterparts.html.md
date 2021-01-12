@@ -79,7 +79,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Being an SSC is a different experience based on group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
 - Iterate on this page and other templates used in this initiative based on what works and what doesn't in the real world. Support Engineers looking to become SSCs will benefit from these.
 
-##### Raise concerns with your manager if unable to set aside required time to be an SSC
+### Raise concerns with your manager if unable to set aside required time to be an SSC
 
 - The success of this initiative depends heavily on the ability of the SSC to build and maintain a relationship with the Product team. This is a task that will take some dedicated time to be spent on it.
 - If you find yourself unable to do justice to the expectations, have a chat with your manager and let them help you with time management and prioritization.
