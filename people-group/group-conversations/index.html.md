@@ -103,7 +103,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Meetings should not create a new deck for a Group Conversation but should use their [Key Meeting deck](handbook/finance/key-meetings/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Meetings should not create a new deck for a Group Conversation but should use their [Key Meeting deck](/handbook/finance/key-meetings/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
 
@@ -251,7 +251,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Five  | Wed  | [General](/handbook/ceo/)  | Sid Sijbrandij   |
 | Five  | Thur | [Meltano](/handbook/meltano/)  | Douwe Maan  |
 | Five  | Fri  | Do Not Schedule  | Do Not Schedule  |
-| Six  | Mon  | [Inbound Marketing](handbook/marketing/inbound-marketing)  | Danielle Morrill  |
+| Six  | Mon  | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill  |
 | Six  | Tue  | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski  |
 | Six  | Wed  | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Six  | Thur  | [Community Relations](/handbook/marketing/community-relations/)  | David Planella  |
