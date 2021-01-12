@@ -282,17 +282,7 @@ You are more than welcome to send an e-mail to Total Rewards if you have any que
 
 You are entitled to and need to comply with your local regulations. They override our policy.
 
-Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your country's leave policy:
-
-* [GitLab Inc. United States Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#gitlab-inc-united-states-leave-policy)
-    * [GitLab Inc. China Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china/#gitlab-inc-china-leave-policy)
-    * [GitLab B.V. Netherlands Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands/#gitlab-bv-netherlands-leave-policy)
-    * [GitLab B.V. Belgium Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium/#gitlab-bv-belgium-leave-policy)
-    * [Global Upside India Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
-    * [GitLab LTD United Kingdom Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk/#gitlab-ltd-united-kingdom-leave-policy)
-    * [GitLab GmbH Germany Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany/#gitlab-gmbh-germany-leave-policy)
-    * [GitLab PTY Australia Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-parental-leave-administrative-details)
-
+Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
 ### How to Initiate Your Parental Leave
 
 Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). You must initiate your Parental Leave at least 30 days before the leave starts.
