@@ -57,7 +57,7 @@ Qualifying educational institutions may purchase a campus-wide enterprise licens
 ### Tiers
 The GitLab for Campuses enterprise offering is available at the following tiers:
 
-| **Institution Size*** | **License Type** | **SKU Name** |
+| **Institution Size** | **License Type** | **SKU Name** |
 |Up to 4,999  |Saas |Gold - 1 year EDU-Enterprise-Small (Saas)  |
 |5,000 up to 9,999 |Saas |Gold - 1 year EDU-Enterprise-Medium (Saas) |
 |10,000 up to 24,999 |Saas |Gold - 1 year EDU-Enterprise-Large (Saas)|
