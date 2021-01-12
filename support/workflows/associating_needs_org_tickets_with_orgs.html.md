@@ -189,6 +189,19 @@ To associate a user with an organization:
 
 ![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
 
+### Removing a user from an organization
+
+If you erroneously assigned a user to an incorrect organization, follow these steps to un-assign a user:
+
+1. Click on the user's name in ZD ticket.
+1. Click the "Org" field and type `-` instead of the org name.
+1. Make sure that the user changes were saved - you will see a message like `<User Name> was successfully updated.`
+1. Please remove the Organization tags i.e. `customer or former customer`, `region` and `subscription tags` from the ticket as well.
+
+**Note**: If the organization automatically comes back after un-assigning it, it likely means that this org has `Domains` specified:
+if an org has `domain.tld` in `Domains` list, any user with `@domain.tld` will be automatically added to this org. If it is the case, please contact `#support_operations` Slack channel to discuss and fix it.
+
+
 ## Marking free users
 
 After [identifying a free user ticket](#identifying-free-users):
