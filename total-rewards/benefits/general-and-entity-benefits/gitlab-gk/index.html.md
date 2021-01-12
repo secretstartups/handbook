@@ -42,6 +42,9 @@ Team members registered to the Social Insurance are also registered with the Emp
 
 ### GitLab GK Leave Policy
 
+#### Annual/Vacation Leave
+A team member who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Annual paid leave runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Unused annual paid leave expires after two years if not used. Team members are not entitled to payment for unused vacation time upon termination of employment. 
+
 #### Statutory Maternity Leave
 
 The statutory entitlement for maternity leave is 14 weeks. The leave must start **6 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 2/3 of her base salary, and is covered by social insurance.
