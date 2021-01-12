@@ -73,6 +73,10 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
 1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
+## Sharing Your LinkedIn Learning Certificate
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpWhSB-qrF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Provisioning Access 
 
 The L&D Team will provision access to team members who want access to paid content on LinkedIn Learning by going through the following steps: 
