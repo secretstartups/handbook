@@ -283,6 +283,7 @@ You are more than welcome to send an e-mail to Total Rewards if you have any que
 You are entitled to and need to comply with your local regulations. They override our policy.
 
 Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
+
 ### How to Initiate Your Parental Leave
 
 Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). You must initiate your Parental Leave at least 30 days before the leave starts.
