@@ -1,0 +1,68 @@
+---
+layout: handbook-page-toc
+title: Works by default
+---
+
+## Works by default
+
+Working by default is an important [Product Principle](/handbook/product/product-principles/#configuration-principles), but we haven't always been successful in making sure features are both **on by default** and **setup by default**. This page is meant to help us measure and track out progress improving the product so that more features do work by default.
+
+### Legend
+
+- ✅ - Works by default (**on** and **setup** by default)
+- ⚙ - Setup or configuration required (**on** but not configured)
+- ⤓ - Installation or feature flag required (**off** by default)
+- ❌ - Not supported
+- N/A - Not applicable
+
+<% data.sections.each do |sectionKey, section| %>
+  <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+
+### <%= stage.display_name %>
+
+    <% stage.groups.each do |groupKey, group| %>
+
+#### <%= group.name %>
+
+<%= works_by_default_table(group: groupKey) %>
+
+    <% end %>
+  <% end %>
+<% end %>
+
+## How it works
+
+This page is generated from [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/features.yml).
+
+Any feature containing a valid `works_by_default` hash will be included in the table above.
+
+```yaml
+# Example
+  - title: "Fancy feature"
+    description: |
+      Just incredible. Miraculous some have said.
+    works_by_default:
+      gitlab_com: true
+      omnibus: config_required
+      chart: install_required
+      source: install_required
+      gdk: false
+      note: X, Y, and Z will make it work by default everywhere.
+```
+
+The `works_by_default` field supports the following attributes:
+
+- `gitlab_com`, `omnibus`, `chart`, `source`, `gdk`, `all`
+  - `all` is for convenience if they are all the same.
+  - `all` can be set combination with other fields. The more specific field takes priority.
+- `note` is a string with any comments or explanation
+
+Supported statuses for these fields are:
+
+- `true` - ✅ Works by default (**on** and **setup** by default)
+- `config_required` - ⚙ Setup or configuration required (**on** but not configured)
+- `install_required` - ⤓ Installation or feature flag required (**off** by default)
+- `false` - ❌ Not supported
+- `not_applicable` - N/A
+
+The [`features.schema.json`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/schemas/features.schema.json) schema provides basic validation and can be used with the [YAML Language Server](https://github.com/redhat-developer/yaml-language-server).
