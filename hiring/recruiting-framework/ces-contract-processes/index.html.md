@@ -362,7 +362,7 @@ To create the contract:
 1. SafeGuard will inform the Candidate Experience Specialist when the contract is signed.
 1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract). See steps 10-12.
 
 ## Preparing Employment Agreements for GitLab team-members in India and Philippines- Global Upside
 
@@ -422,7 +422,7 @@ To create the contract:
 1. In DocuSign, the CES will update the signing order to CES/Signatory as number 1 and all other copied individuals as number 2.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
 1. Remote will prepare the New Employee Contract and will inform the Candidate Experience Specialist when the contract is sgined. 
-1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract). See steps 10-12.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
 
@@ -441,7 +441,7 @@ GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/i
 1. The PEO will inform the Candidate Experience Specialist when the contract is signed.
 1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract)[](see steps 10-12).
+1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract). See steps 10-12.
 
 **GitLab & CIIC:**
 
