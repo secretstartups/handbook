@@ -29,6 +29,12 @@ Success Roadmap discovery engagements provide customers with the benefit of GitL
 
 Like anything in the handbook, it is everyone’s responsibility and prerogative to improve these materials through corrections and enhancements. At the same time, Success Roadmaps reflect adherence to specific design principles to deliver the items documented above in Success Roadmap Design Goals.  For those wishing to make substantial changes or generate entirely new Success Roadmaps, these design principles are documented here: [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
 
+### GitLab Internal Enablement and Preparation Resources
+
+Each Success Roadmap has an instructions and preparation section that helps you get up to speed as quickly as possible.
+
+For background, please also watch the original CS Enablement session - a link and instructions are provided near the top of [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
+
 ## Catalog of Success Roadmap Discovery Engagements
 
 Preparation instructions are contained in each of the below. Some items are only accessible by GitLab Team members.
