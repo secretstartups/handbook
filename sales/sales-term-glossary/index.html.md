@@ -188,11 +188,13 @@ This will create a one time only charge to the customer and in a year's time, th
 
 Annual revenue opportunity of the [entirety of GitLab’s market](/handbook/sales/tam).
 The potential value of everyone worldwide that could purchase our product.
+Both TAM and [LAM](landed-addressable-market-lam) can be scoped globally, by region/market segment, or customer-specific.
 
 ### Landed Addressable Market (LAM)
 
-A subset of TAM, the annual revenue opportunity of the entirety of GitLab's market within our current customer base.
-The potential value of all users that could purchase our product within existing customer base.
+A subset of [Total Addressable Market (TAM)](total-addressable-market-tam), the annual revenue opportunity of the entirety of GitLab's market within our current customer base.
+The potential value of all users that could purchase our product within existing customer base. 
+Both LAM and TAM can be scoped globally, by region/market segment, or customer-specific.
 
 ### Customer Acquisition Cost (CAC)
 
