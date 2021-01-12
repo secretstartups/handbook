@@ -49,7 +49,7 @@ Qualifying educational institutions may purchase a campus-wide enterprise licens
 
 
 ### Support
-- An named single point of contact is provided for each college, school, or division within the institution. This reach expands to those units that serve as a primary tier administrative level for the institution. For example, the College of Engineering may have a named contact but the 8 individual departments within the College do not have a named support contact.
+- A named single point of contact is provided for each college, school, or division within the institution. This reach expands to those units that serve as a primary tier administrative level for the institution. For example, the College of Engineering may have a named contact but the 8 individual departments within the College do not have a named support contact.
 - The named contacts must be provided to GitLab and included in the support database. The account owner has the primary discretion to include or not include provided named support contacts based on the definitions below.
 - Individual students, faculty, and staff outside of the named single point of contact for each primary division cannot directly contact GitLab support.
 
