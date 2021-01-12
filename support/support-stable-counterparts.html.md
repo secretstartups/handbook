@@ -29,7 +29,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 ## Expectations from an SSC
 
-##### Establish and maintain a relationship with your product group(s)
+### Establish and maintain a relationship with your product group(s)
 
 Just like us, the product teams are spread across the globe. Due to this, it might not always be possible to sync with your counterparts.
 
