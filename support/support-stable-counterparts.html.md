@@ -103,7 +103,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Share feedback with Support on what is working and what isn't.
 - Set and manage expectations to get the most out of this!
 
-#### How can I enroll and be a counterpart
+## How can I enroll and be a counterpart
 
 If you're interested in becoming a stable counterpart for a group, 
 
