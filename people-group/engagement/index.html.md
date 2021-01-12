@@ -47,11 +47,9 @@ Each E-Group member will in collaboration with their repesctive People Business 
 
 The People Operations Team who facilitate the GitLab Team Member Engagement Survey have compiled a detailed video around the survey results, how to view divisional results directly within Culture Amp and objectively identifying impactful action items from the feedback received:
 
-<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1x1DYgoDT-Wdm-jJeexhrOpu7Nrt6vLe-/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
 
 #### Resources for Managers
 
