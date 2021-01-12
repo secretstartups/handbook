@@ -17,6 +17,7 @@ Success Roadmap discovery engagements provide customers with the benefit of GitL
 - Give the customer a quick-start strawman that can be iteratively improved.
 - To exhibit transparency by articulating all the things that are required for success, regardless of whether GitLab has services to offer for the items.
 - All of the above work together to broaden the scope of **who can facilitate** session. Facilitation generally requires a technical background, but it is not limited to any specific technical role within GitLab.
+
 ### Some Qualifiers
 
 - Regardless of whether the customer chooses not to use professional services, the document is a high value artifact that they can develop further.
@@ -69,10 +70,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 - [Implementation Rapid Results .com](https://about.gitlab.com/services/rapid-results/dot-com/)
 - [Dedicated Implementation Planning](https://about.gitlab.com/services/implementation/enterprise/)
 
-#### Past SOWS and Success Stories
-
-- 
-
 #### Preparation Materials
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1WrW1QAGZ6Dgvi8lHbu5QSQ1MKT5yCx3UH3GORXamts0/edit?usp=sharing)
@@ -113,10 +110,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 #### Existing Professional Services That May Help
 
 - [Education Services](https://about.gitlab.com/services/education/)
-
-#### Past SOWS and Success Stories
-
-- 
 
 #### Preparation Materials
 
@@ -171,10 +164,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 - [Implementation Rapid Results Self-Hosted](https://about.gitlab.com/services/rapid-results/self-managed/)
 - [Dedicated Implementation Planning](https://about.gitlab.com/services/implementation/enterprise/)
 
-#### Past SOWS and Success Stories
-
-- 
-
 #### Preparation Materials
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/106uQIXxy2tp3GLyl6WBdSwC7R7NUd9vTGaVePiDEo84/edit?usp=sharing)
@@ -215,10 +204,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 #### Existing Professional Services That May Help
 
 - [Migration Services](https://about.gitlab.com/services/migration/)
-
-#### Past SOWS and Success Stories
-
-- 
 
 #### Preparation Materials
 
@@ -261,10 +246,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 #### Existing Professional Services That May Help
 
 - [Education Services](https://about.gitlab.com/services/education/)
-
-#### Past SOWS and Success Stories
-
-- 
 
 #### Preparation Materials
 
@@ -328,10 +309,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 - 
 
-#### Past SOWS and Success Stories
-
-- 
-
 #### Preparation Materials
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1TL1z2ZbGn11V2hV1qVrO7-SDWq_vxEXYMDfGt16U-mk/edit?usp=sharing)
@@ -390,10 +367,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 - 
 
-#### Past SOWS and Success Stories
-
-- 
-
 #### Preparation Materials
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1n_-bdI3WCubbrRfP6481lgR_aD1tJOJDRikdJ1_Pbp0/edit?usp=sharing)
@@ -447,10 +420,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 - 
 
-#### Past SOWS and Success Stories
-
-- 
-
 #### Preparation Materials
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1q11NQEJibO-mKuXFkhvTHk2F1RYFCufiQ5fIn8kUV3c/edit?usp=sharing)
@@ -493,10 +462,6 @@ Please be sure to include all the sections when updating or adding Engagements.
 #### Existing Professional Services That May Help
 
 - [Integration Services](https://about.gitlab.com/services/integration/)
-
-#### Past SOWS and Success Stories
-
-- 
 
 #### Preparation Materials
 
