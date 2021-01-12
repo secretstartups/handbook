@@ -93,7 +93,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - If a Support Engineer you manage is interested in becoming an SSC, point them to the following section on [How can I enroll and be a counterpart?](#how-can-i-enroll-and-be-a-counterpart).
 - If the SSC is going to be unavailable for a prolonged period of time, or, during an important event related to their group, act as their backfill.
 
-#### Expectations from the Product Teams
+## Expectations from the Product Teams
 
 - Please be aware of timezone constraints and flex to accommodate the SSC.
     - Introduce new SSCs to your team and add them to the relevant channels, documents and meetings.
