@@ -53,7 +53,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Be aware of the priorities/challenges of the product group.
 - Strive to become a subject matter expert in the use of the features they cover.
 
-##### Enable Support with periodic communication relevant to the group
+### Enable Support with periodic communication relevant to the group
 
 - A monthly communication cadence is recommended - however, some groups might not have a lot of updates to share with Support every month. In such instances, make a decision based on your own discretion.
 - Share announcements through the SWIR and in relevant Support Slack channels.
