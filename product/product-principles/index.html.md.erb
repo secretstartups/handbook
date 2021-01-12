@@ -191,19 +191,19 @@ Our [simplicity](https://about.gitlab.com/handbook/product/product-principles/#s
 
 * When we need to add capabilities that an admin needs to apply across the entire organization, then we provide them at the workspace level.
 
-* When we need to  add capabilities that need to apply across all projects in a group, but not applicable to all groups, then we provide  them at a  group level.
+* When we need to  add capabilities that need to apply across all projects in a group, but not applicable to all groups in a workspace, then we provide  them at a  group level.
 
 * When we need to add capabilities that need to apply across a specific project, but not all projects in a group, then we provide them at a project level.
 
 * For capabilities our users want applied to a set of groups, it is tempting to create another aggregation concept for a “set of groups”. We do not do that. The solution is to implement it for all groups at the workspace level or for each group in the set individually.
 
-* For capabilities  our users want applied to  a set of projects , it is tempting to create another aggregation concept for a “set of projects”. We do not do that. The solution is to implement it for all groups at workspace level or for each group in the set individually.
+* For capabilities our users want applied to a set of projects, it is tempting to create another aggregation concept for a “set of projects”. We do not do that. The solution is to implement it for all projects at the group level or for each project in the set individually.
 
 Note: This implies that we will take pains to avoid instance-level features as We expect to move all capabilities from instance to workspace over time. 
 
 ### Take pains to avoid instance-level features
 
-After making a tier decision on a new feature, we should strive to maximize the number of users who can use it. Additional
+After making a tier decision on a new feature, we should strive to maximize the number of users who can use it.
 
 As part of this objective, we should avoid building instance-level features when possible. Building at the instance level (in the [admin area](https://docs.gitlab.com/ee/user/admin_area/)) leads to 
 [a separation between GitLab.com and self-managed](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/324#note_394401193) and limits 
