@@ -135,21 +135,22 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
-|* Online  - High|Workshop, <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Online  - Med| Webcast, <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Online  - High|Workshop, <br> Self-Service Virtual Event, <br> Webcast |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Online  - Med|Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
 |* Offline  - Med|Speaking Session,<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
 |* Offline  - Low|Field Event,<br> Vendor Arranged Meetings,<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
-|* Content - High|Gated Content, <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
-|* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
-|* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
+|* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
+|* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
+|* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
 |* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
-|* Inbound - Med|Inbound form, not above |	+40|{{my.Inbound - Med}}	|	Trigger	|1/day|
+|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
+|Inbound - Drift| TBD|TBD|TBD|Trigger|1/day|
 |* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
@@ -158,7 +159,18 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
 |Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
+
+
+##### Score Boosters 
+These are boosters to scores that occur when a special action takes place above the traditional action above.
+
+|**Action**|Description|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
+|:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
+|E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
+|Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|Everytime|
+|LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+
 
 #### Demographic Scoring
 
