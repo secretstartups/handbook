@@ -60,11 +60,11 @@ Consider the following when documenting course content in the handbook:
 
 ## Building handbook first learning content in the EdCast LXP
 
-Content in the EdCast LXP at GitLab will adopt this handbook-first approach to learning. You can read more best pracitces about building content in the LXP in our [GitLab Learn admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin). Examples of ways that the handbook is utilized for learning in the LXP include:
+Content in the EdCast LXP at GitLab will adopt this handbook-first approach to learning. You can read more best practices about building content in the LXP in our [GitLab Learn admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin). Examples of ways that the handbook is utilized for learning in the LXP include:
 
 - SmartCards linking to specific handbook pages
 - Pathways leading learners through related handbook pages to train on a specific skill or content area
-- iframes displaying content from the handbook directly in the LXP
+- iFrames displaying content from the handbook directly in the LXP
 - Assessments and learning checks referring back to content in the handbook to check for understanding
 
 <figure class="video_container">
@@ -77,7 +77,7 @@ Below is an outlined example of how the field enablement team created a handbook
 
 1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
 1. **Video** Videos are embedded in the handbook and linked from the LXP
-1. **iframes** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
+1. **iFrames** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
 1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
 
