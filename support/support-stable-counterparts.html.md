@@ -114,7 +114,7 @@ If you're interested in becoming a stable counterpart for a group,
 
 Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 
-### Cross Functional Non-Product Counterparts
+## Cross Functional Non-Product Counterparts
 
 Some functions don't fit as cleanly into the Support Stable Counterparts model. As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups. If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`.
 
