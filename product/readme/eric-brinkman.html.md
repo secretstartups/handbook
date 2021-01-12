@@ -101,7 +101,7 @@ Movies
 - [Legos](https://www.lego.com/en-us)
 - [Playing Trumpet](https://www.facebook.com/48400275/videos/771816247375/)
 - [Magic: The Gathering](https://www.moxfield.com/users/brinks618)
-- [Crypto currency and mining](https://en.wikipedia.org/wiki/Cryptocurrency#:~:text=A%20cryptocurrency%20(or%20crypto%20currency,to%20control%20the%20creation%20of)
+- [Crypto currency and mining](https://en.wikipedia.org/wiki/Cryptocurrency)
 - [Camping](https://photos.app.goo.gl/unLQdCne8EpWTZM6A)
 - [Beach Vacations](https://photos.app.goo.gl/DK5kSx6yAfViNeeB8)
 - [Peloton bike riding](onepeloton.com) (username is ecbrinkman)
