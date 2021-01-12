@@ -21,7 +21,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 - SSCs are enabled to develop vertical subject matter expertise in certain product areas.
 - Product teams have a simple way to understand and explore various customer use-cases and gather feedback.
 
-#### How do we align Support Team Members to the Product?
+## How do we align Support Team Members to the Product?
 
 - Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
 - Each group can have one or more individual contributor counterparts.
