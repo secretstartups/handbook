@@ -27,7 +27,7 @@ the following should be true:
 
 * Something broke and there is no acceptable work around. Examples of this include:
   * A feature broke and is categorized as `~severity::1` or `~severity::2`.
-  [See severity labels](/handbook/engineering/quality/issue-triage/#severity)  
+  [See severity labels](/handbook/engineering/quality/issue-triage/#severity)
   * [Master broke](#broken-master)
   * There are failing migrations
 * There are no dependencies on the change. For example, a database
@@ -54,7 +54,9 @@ Any test failures or flakiness (either false positive or false negative) causes 
 If a change causes new test failures, the fix to the test should be made in the same Merge Request.
 If the change causes new QA test failures, in addition to fixing the QA tests, the `package-and-qa` or `review-qa-all` job must be run to validate the fix before the Merge Request can be merged.
 
-The cost to fix test failures increases exponentially as time passes. Our aim should be to keep `master` free from failures, not to fix `master` only after it breaks.
+The cost to fix test failures increases exponentially as time passes due to [pipelines with merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/) used. There are also impacts to release process that requires `gitlab-org/gitlab` master to be green.
+
+Our aim should be to keep `master` free from failures, not to fix `master` only after it breaks.
 
 ### Broken `master` service level objectives
 
@@ -66,6 +68,14 @@ There are two phases for fixing a `~"master:broken"` issue which have a target S
 | [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until issue is closed | Merge request author or team of merge request author |
 
 Additional details about the phases are listed below.
+
+### Broken `master` escalation
+
+If a `~"master:broken"` is blocking your team (such as creating a security release) then you should:
+
+1. See if there is a current [`~"master-broken"` issue](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=master%3Abroken) with a DRI
+1. Check discussion on the failure notifications in [#master-broken](https://gitlab.slack.com/archives/CR6QH3D7C) on Slack. If there isn't a discussion, ask in `#master-broken` if there's anyone investigating the issue you are looking at
+1. If there is not a clear DRI or action to resolve then use the [dev escalation](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) process to solicit help.
 
 ### Triage broken master
 
@@ -108,7 +118,7 @@ The merge request author of the change that broke master is the resolution DRI. 
 #### Responsibilities of the resolution DRI
 
 1. Prioritize resolving `~"master:broken"` over new bug/feature work. Resolution options include:
-   * Revert the merge request which caused the broken master. If a revert is performed,
+   * **Default**: Revert the merge request which caused the broken master. If a revert is performed,
      create an issue to reinstate the merge request and  assign it to the author
      of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue.
@@ -641,7 +651,7 @@ The infradev process is established to identify Issues requiring priority attent
 
 ### Scope
 
-The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process. 
+The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process.
 
 ### Triage Process
 
@@ -672,14 +682,14 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
    1. Problems which extend the time to diagnosis of incidents: for example, issues which degrade the observability of GitLab.com, swallow user-impacting errors or logs, etc. These could lead to incidents taking much longer to clear, and impacting availability. [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10933#note_464394760)
    1. Deficiencies in our public APIs which lead to customers compensating by generating substantially more traffic to get the required results. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/232887)
 1. **Quantify the effect of the problem** to help ensure that correct prioritization occurs.
-   1. Include costs to availability. The [Incident Budget Explorer](https://dashboards.gitlab.net/d/general-incident-budget-explorer/general-incident-budget-explorer?orgId=1) dashboard can help here. 
-   1. Include the number of times alerts have fired owing to the problem, how much time was spent dealing with the problem, and how many people were involved. 
-   1. Include screenshots of visualization from Grafana or Kibana. 
+   1. Include costs to availability. The [Incident Budget Explorer](https://dashboards.gitlab.net/d/general-incident-budget-explorer/general-incident-budget-explorer?orgId=1) dashboard can help here.
+   1. Include the number of times alerts have fired owing to the problem, how much time was spent dealing with the problem, and how many people were involved.
+   1. Include screenshots of visualization from Grafana or Kibana.
    1. **Always include a permalink to the source of the screenshot so that others can investigate further**.
-1. **Provide a clear, unambiguous, self-contained solution to the problem**. Do not add the `infradev` label to architectural problems, vague solutions, or requests to investigate an unknown root-cause. 
-1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best. 
+1. **Provide a clear, unambiguous, self-contained solution to the problem**. Do not add the `infradev` label to architectural problems, vague solutions, or requests to investigate an unknown root-cause.
+1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best.
 1. **Ensure a realistic severity is applied**: review the [availability severity label guidelines](/handbook/engineering/quality/issue-triage/#availability) and ensure that applied severity matches. Always ensure all issues have a severity, even if you are unsure.
-1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to. 
-1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data. 
+1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to.
+1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
 1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
-1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**. 
+1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**.
