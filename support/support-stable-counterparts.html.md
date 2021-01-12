@@ -108,7 +108,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 If you're interested in becoming a stable counterpart for a group, 
 
 - Discuss with your manager.
-- Open an issue with the [SSC Onboarding template](TO BE CREATED) in the Support Training project.
+- Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
     - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
 - Once done, create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
 
