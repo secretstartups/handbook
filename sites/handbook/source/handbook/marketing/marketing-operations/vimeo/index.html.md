@@ -16,7 +16,7 @@ Vimeo is a video hosting, sharing, and services platform.
 
 ## Acesss
 
-Everyone in GitLab will have access to Vimeo through Okta ([see related issue](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/-/issues/201#note_438418851)). If a higher permission set is required, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
+Everyone in GitLab will have access to Vimeo through Okta. If a higher permission set is required, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
 ### User Roles
 
