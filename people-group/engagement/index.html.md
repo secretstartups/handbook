@@ -45,9 +45,15 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 
 Each E-Group member will in collaboration with their repesctive People Business Partner (PBP) identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
 
-#### Resources for Managers
+The People Operations Team who facilitate the GitLab Team Member Engagement Survey have compiled a detailed video around the survey results, how to view divisional results directly within Culture Amp and objectively identifying impactful action items from the feedback received:
 
-[The Engagement Survey for Managers](https://www.cultureamptraining.com/the-engagement-survey-for-managers?next=%2Fthe-engagement-survey-for-managers%2F651377)
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1x1DYgoDT-Wdm-jJeexhrOpu7Nrt6vLe-/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+#### Resources for Managers
 
 [Managers Guide to Taking Action](https://academy.cultureamp.com/hc/en-us/articles/207302419-Manager-s-guide-to-taking-action-on-Engagement-survey-results)
 
@@ -57,6 +63,15 @@ Each E-Group member will in collaboration with their repesctive People Business 
 The GitLab Team Member Engagement Survey for 2020 (FY21) ran from 2020-11-16 to 2020-12-15 - questions and fine details can be found in the [following planning issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/931).
 
 Bar those who joined on or after 2020-11-01 the survey was extended to all GitLab Team members for completion.  Participation for the FY21 survey closed out at 92% with 1,127 team members having taken part.
+
+#### FY21 Engagement Survey Program Timeline
+2020-11-16 Launch Date
+2020-12-16 Close Date
+2020-12-23 High Level Summary Release (Company-Wide)
+2021-01-08 E-Group Summary Release
+2021-01-12 Training Video and Handbook Update
+2021-01-15 to 2021-01-31 Functional Group Action Planning re Focus Areas
+2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module
 
 #### Benchmarking and Reporting
 The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceeding years results.  Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
@@ -69,7 +84,7 @@ The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to bein
 
 The benchmarked favourability score for New Tech 1,000+ 2020 was 73% placing GitLab 8% higher than the norm for this particular bracket.
 
-### Top Three Scores
+#### Top Three Scores
 
 | **Factor** | **Favourability Rating** |
 | --- | --- | 
@@ -86,7 +101,7 @@ The benchmarked favourability score for New Tech 1,000+ 2020 was 73% placing Git
 
 GitLab was rated between five and thirteen percent higher than the industry benchmark i.e. New Tech +1,000 2020 across all three questions detailed above.
 
-### Bottom Three Scores
+#### Bottom Three Scores
 
 | **Factor** | **Favourability Rating** |
 | --- | --- | 
@@ -103,137 +118,120 @@ GitLab was rated between five and thirteen percent higher than the industry benc
 
 GitLab scored five percent below the industry benchmark i.e. New Tech +1,000 2020 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
-### 2021 E-Group Focus Areas
+#### 2021 E-Group Focus Areas
 The GitLab E-Group will be reviewing and discussing the outcome of the 2020 GitLab Team Member Engagement Survey in early January 2021 afterwhich plans for the year ahead will be documented.
 
-### Questions and Support
+#### Questions and Support
 The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#peopleops`.
 
 ## Previous Results (Reverse Chronological)
 
-### October 2019 Engagement Survey results 
+### 2019 Engagement Survey
+The GitLab Team Member Engagement Survey for 2019 (FY20) ran from 2019-10-14 to 2019-11-04 - questions and fine details can be found in the [following planning issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/503).
 
-87% of the GitLab Team participated in the Engagement Survey in October 2019.  
-GitLab had an Overall Favorable score of 88% - up slightly from 83% in 2018.
-Overall engagement scores - 88% favorable, 9% Neutral and 3% unfavorable
-Feel free to follow the [2019 Team Member Engagement Survey Plan](https://gitlab.com/gitlab-com/people-group/General/-/issues/503)
-[Overall Engagement Survey results slide](https://docs.google.com/presentation/d/19ZkIizrtEMmmOqMkIPTU2VxU01mKvArYoVPMmdXXdFs/edit#slide=id.g4792064fe5_0_4).
+Bar those who joined on or after 2019-10-01 the survey was extended to all GitLab Team members for completion.  Participation for the FY20 survey closed out at 87% with 812 team members having taken part.
 
-The E Group has chosen to focus on the following 3 areas over the next 8 weeks (the results were releases on November 12, 2019):
-* Taking action from the survey
-* Team member development 
-* Total Compensation
+#### Benchmarking and Reporting
+The FY20 survey was benchmarked against New Tech Size >500 2019 in addition to being reviewed against the preceeding years results.  Preliminary reports were released in the week of 2019-11-07 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
 
-The survey consisted of 46 questions divided into the following sections:
+#### Company Results (Overall)
 
-* GitLab Overall
-* Company Confidence
-* Our Leaders
-* Your Manager
-* Teamwork
-* Your Role
-* Culture
-* Growth & Development
-* Action
-* Comments
+| **Favourable** | **Neutral** | **Unfavourable** |
+|---|---|---|
+| 88% | 9% | 3% |
 
-#### Benchmark and reporting
+A benchmarked favourability score for New Tech Size >500 2019 was not available for this particular survey.
 
-The 2019 survey will be compared to the 2018 results.  The survey is completely anonymous! There are no names collected with any responses or comments.  
+#### Top Three Scores
 
-#### Results
-
-* Survey results will be shared with leaders who have 5 or more direct reports who complete the survey. 
-* The E-team will identify one or two key action item to work during the 6 months between surveys. 
-* The GitLab survey results will be shared with everyone in the company
-* Functional results engineering, sales, etc will be made available to the entire company to review.
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Culture | 87% | 
+| Your Manager | 87% | 
+| Teamwork | 86% | 
 
 
-#### Reporting
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I would recommend GitLab as a great place to work | 95% |
+| GitLab is in a position to really succeed over the next three years | 94% |
+| I am proud to work for GitLab | 94% |
 
-Managers with 5+ reporting team members will receive an email from Culture Amp inviting them to review their results. Division and Department leaders will also receive an email from Culture Amp inviting them to review their departments or Divisions overall results. All demographics are pulled from BambooHR and there is not a way to add custom reporting options.  
+GitLab was rated between eleven and seventeen percent higher than the industry benchmark i.e. New Tech Size >500 2019 across all three questions detailed above.
 
-Quick tips on Culture Amp and exporting reports or utilizing the tool.  
+#### Bottom Three Scores
 
-* Different Views: When you log into the tool on the far left side you will the following different views; Insight, Participation, Questions, Custom, Heatmaps and Comments (not all may be visible based on the reporting rules).  By clicking each section allows you to view that section in more detail.
-* Exporting: In the top far right hand corner you will see an export option.  You can export to PDF the questions/results that can be used to share with your team.  If you viewing from the Insight page you can export > build powerpoint and CultureAmp will create report based on your inputs.  You also have the option to choose to benchmark these against GitLab's overall results.  
-* Filtering: On the far left side you will see +Add Filter.  This option will allow managers and leaders to view results based on various demographics like tenure, division and department.
-* Take Action:  Managers do have the option to build an action plan and track progress via CultureAmp based on their results.  
-
-#### Highest 3 scores
-
-*  I would recommend GitLab as a great place to work - 95% favorable
-*  GitLab is in a position to really succeed over the next three years - 94%
-*  I am proud to work at GitLab - 94%
-
-#### Lowest 3 Scores
-
-*  I have seen positive changes since the previous engagement survey - 29%
-*  I have been provided an opportunity to see and discuss prior engagement survey results - 46%
-*  I believe action will take place as a result of this survey - 64%
-
-#### 2019 E Team focus areas
-
-*  Taking action from the engagement survey
-*  Manager encouragement of team member development
-*  Total compensation
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Your Role | 84% | 
+| Growth & Development | 80% | 
+| Action | 46% | 
 
 
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I believe action will take place as a result of this survey  | 64% |
+| I have been provided an opportunity to see and discuss prior engagement survey results | 46% |
+| I have seen positive changes since the previous engagement survey | 29% |
 
-### 2018 GitLab overall results
+GitLab scored fifteen percent below the industry benchmark i.e. New Tech Size >500 2019 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
-In October 2018 GitLab launched it's annual enagement survey via CultureAmp.  The survey was benchmarked against 2018 New Tech - Mid Size Companies (200-500 team members).   
+#### 2019 E-Group Focus Areas
+- Taking action from areas guided by the GitLab Team Member Engagement Survey Results.
+- Managerial encouragement of Team Member development.
+- Total Compensation.
 
-* 94% participation rate
-* Overall engagement scores - 83% favorable, 12% neutral and 5% unfavorable
+### 2018 Engagement Survey
+The GitLab Team Member Engagement Survey for 2018 (FY19) ran from 2018-10-14 to 2018-11-04 - questions and fine details can be found in the [following planning issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/240).
 
-The survey consists of 46 questions divided into the following sections:
+Bar those who joined on or after 2018-08-17 the survey was extended to all GitLab Team members for completion.  Participation for the FY19 survey closed out at 94% with 308 team members having taken part.
 
-* GitLab Overall
-* Company Confidence
-* Our Leaders
-* Your Manager
-* Teamwork
-* Your Role
-* Culture
-* Growth & Development
-* Action
-* Comments
+#### Benchmarking and Reporting
+The FY19 survey was benchmarked against 2018 New Tech Size - Large Companies (500+).  Preliminary reports were released in the week of 2018-11-06 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
 
-#### Benchmark and reporting
+#### Company Results (Overall)
 
-The 2018 survey will be benchmarked against New Tech Mid Size Companies (500+ team members).  The survey is completely anonymous! There are no names collected with any responses or comments.  
+| **Favourable** | **Neutral** | **Unfavourable** |
+|---|---|---|
+| 83% | 12% | 5% |
 
-#### Results
+The benchmarked favourability score for 2018 New Tech Size - Large Companies (500+) was noted at 70% i.e. 13% lower than that of GitLab overall.
 
-* The benchmark results from all companies who take the survey will be shared with leaders who have 5 or more direct reports who complete the survey. 
-* The E-team will identify one key action item to work during the 6 months between surveys. 
-* The GitLab survey results will be shared with everyone in the company
-* Functional results engineering, sales, etc will be made available to the entire company to review.
+### Top Scoring Factors
 
-For those that participate in future survey's, please note, once you hit submit you are unable to go in and edit your answers or add additional comments. It will show that you have completed the survey. Please use the "save and exit" option until you are ready to submit your final answers.
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Company Confidence | 84% | 
+| Management | 84% |
+| Collaboration and Communication | 84% | 
+| Work / Life Balance | 84% | 
 
-#### Highest 3 Scores
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I am proud to work for GitLab | 95% |
+| I know how my work contributes to the goals of GitLab | 94% |
+| GitLab is really in a position to succeed over the next three years | 93% |
 
-* I am proud to work for GitLab - 95% favorable response
-* I know how my work contribute to the goals of GitLab - 94% favorable response
-* GitLab is in a position to really succeed over the next three years - 93% favorable response
+GitLab was rated between four and fifteen percent higher than the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) across all three questions detailed above.
 
-#### Highest 3 Scores vs Benchmark
+### Bottom Three Scores
 
-* The leaders at GitLab have communicated a vision that motivates me - 88% favorable response and 22% above industry benchmark
-* GitLab effectively directs resources (funding, people and efforts) towards company goals - 74% favorable response and 20% above industry benchmark
-* At GitLab there is open and honest two-way communication - 84% favorable response and 20% above benchmark
+| **Factor** | **Favourability Rating** |
+| --- | --- | 
+| Alignment and Involvement | 74% | 
+| Feedback and Recognition | 63% | 
+| Action | 41% | 
 
-#### Lowest 3 Scores
 
-* I have seen positive changes taking place based on recent employee survey results - 32% favorable response
-* My manager or someone else has communicated clear actions based on recent team member survey results - 33% favorable response
-* I believe my total compensation (base salary+any bonus+benefits+equity) is fair relative to similar roles at other companies - 43% favorable response
+| **Question** | **Favourability Rating** |
+| --- | --- |
+| I believe my total compensation (base salary+any bonus+benefits+equity) is fair relative to similar roles at other companies | 43% |
+| My manager or someone else has communicated clear actions based on recent team member survey results | 33% |
+| I have seen positive changes taking place based on recent employee survey results | 32% |
 
-#### Lowest 3 Scores vs Benchmark
+GitLab scored twelve percent below the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
-* I have seen positive changes taking place based on recent employee survey results - 32% favorable response and 12% below industry benchmark
-* My manager or someone else has communicated clear actions based on recent team member survey results - 33% favorable response and 11% below industry benchmark
-* I believe my total compensation (base salary+any bonus+benefits+equity) is fair relative to similar roles at other companies - 43% favorable response and 10% below industry benchmark
-
+#### 2018 E-Group Focus Areas
+- Taking action from areas guided by the GitLab Team Member Engagement Survey Results.
+- Managerial encouragement of Team Member development.
+- Total Compensation.
