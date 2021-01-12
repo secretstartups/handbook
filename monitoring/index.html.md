@@ -209,7 +209,7 @@ We also did a series of deep dives by pairing with the development teams for eac
 
 Blocks of Ruby code can be "instrumented" to measure performance.
   - [Documentation of instrumentation](https://docs.gitlab.com/ee/development/instrumentation.html) with more detail on [how to implement this](https://docs.gitlab.com/ee/development/instrumentation.html#instrumenting-ruby-blocks)
-  - An example of how this is used for GitLab itself, can be found in this [initializer](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/config/initializers/8_metrics.rb).
+  - An example of how this is used for GitLab itself, can be found in this [initializer](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/initializers/zz_metrics.rb).
 
 
 [Apdex]: https://en.wikipedia.org/wiki/Apdex
