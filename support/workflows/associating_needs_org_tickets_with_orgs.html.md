@@ -196,7 +196,7 @@ If you erroneously assigned a user to an incorrect organization, follow these st
 1. Click on the user's name in ZD ticket.
 1. Click the "Org" field and type `-` instead of the org name.
 1. Make sure that the user changes were saved - you will see a message like `<User Name> was successfully updated.`
-1. Please remove the Organization tags i.e. `customer or former customer`, `region` and `subscription tags` from the ticket as well.
+1. Please remove the form related tags in case if form of the ticket needs to be changed from the ticket as well. For example, Subscription type or problem type tags would be different for SAAS or Self Managed form.
 
 **Note**: If the organization automatically comes back after un-assigning it, it likely means that this org has `Domains` specified:
 if an org has `domain.tld` in `Domains` list, any user with `@domain.tld` will be automatically added to this org. If it is the case, please contact `#support_operations` Slack channel to discuss and fix it.
