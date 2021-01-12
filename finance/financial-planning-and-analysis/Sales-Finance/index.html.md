@@ -55,7 +55,7 @@ The following Single Source of Truth (SSOT) dashboards provide a monthly and qua
 
 Seperate dashboards have been created for each Sales Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
 
-[README](bit.ly/3aMJz6n)
+[README](https://bit.ly/3aMJz6n)
 
 [SFDC Dashboard - Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
 
