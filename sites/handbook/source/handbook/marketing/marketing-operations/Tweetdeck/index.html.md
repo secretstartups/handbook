@@ -12,7 +12,7 @@ description: "Tweetdeck provides a platform to manage multiple Twitter accounts,
 
 ### About Tweetdeck
 
-Tweetdeck allows us to manage various GitLab twitter accounts, such as our movingtogitlab [Twitter account](https://twitter.com/movingtogitlab) and our gitlabstatus [Twitter account](https://twitter.com/GitLabStatus).
+Tweetdeck allows us to manage various GitLab twitter accounts, such as our [movingtogitlab Twitter account](https://twitter.com/movingtogitlab) and our [gitlabstatus Twitter account](https://twitter.com/GitLabStatus).
 
 ## How to Request
 
