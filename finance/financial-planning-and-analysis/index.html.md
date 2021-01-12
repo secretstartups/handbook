@@ -610,7 +610,7 @@ Business drivers are the key inputs and activities that drive the operational an
 Our long term profitability target for EBITA (Earnings Before Interest Taxes and Amortization) is 20% of revenue.
 Other financial planning targets are described in the divisional area (e.g. sales, marketing, development, etc.) in this handbook. We plan to achieve our long term profitability target as our revenue growth rate approaches 30%.
 The long term target for operating expenses as a percentage of revenue for G&A is 10%.  
-The long term target for R&D spend is 20%. We expect it to take longer to reach the long term target compared to typical companies as we plan to continue to invest in R&D to drive higher than average growth.
+We expect it to take longer to reach the long term R&D target compared to typical companies as we plan to continue to invest in R&D in the hopes that it drives higher than average growth.
 We have a large TAM at $60B and believe that high sustained growth rates will allow us to capture a larger percentage of market share compared to our competitors.
 
 | Division | Long Term Target  |
