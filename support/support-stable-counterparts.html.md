@@ -67,7 +67,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Catalyze training materials and sessions as needed.
 - [Optional] Consider doing quarterly office hours to chat about your group and share your experiences as an SSC with newer team members.
 
-##### Enable Product with periodic communication relevant to the group
+### Enable Product with periodic communication relevant to the group
 
 - Share customer feedback from tickets with the Product team.
     - Loop them in to relevant issues, tickets and Slack threads.
