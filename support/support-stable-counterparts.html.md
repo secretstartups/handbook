@@ -44,7 +44,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
     - Join their Slack channel if not done already.
 - If the group you chose already has an SSC, schedule a coffee chat with them to learn more!
 
-##### Be alert and engaged on what's happening with the group
+### Be alert and engaged on what's happening with the group
 
 - Subscribe to the pertinent trackers and labels to be aware of new issues in that group.
 - Be especially aware of severity::1/severity::2 issues in the product area, including workarounds.
