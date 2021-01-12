@@ -75,6 +75,8 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 
 ## Sharing Your LinkedIn Learning Certificate
 
+Once you have completed a course on LinkedIn Learning, you will recieve a certificate. You will have the option to download and/or share it on your LinkedIn Profile. The video below walks thorugh how to do both. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpWhSB-qrF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Provisioning Access 
