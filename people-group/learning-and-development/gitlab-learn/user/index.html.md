@@ -142,8 +142,7 @@ In addition, learing content and users are organized in the LXP to help you disc
 
 | Content Type | Purpose | Example |
 | ----- | ----- | ----- |
-| Carousel | Carousels are horizontal containers of related channels or content assets.
- | On the Discover page, you might see a carousel of featured DevOps pathways and smartcards |
+| Carousel | Carousels are horizontal containers of related channels or content assets. | On the Discover page, you might see a carousel of featured DevOps pathways and smartcards |
 | Channel | Channels are the principal way in which content (SmartCards, Pathways, and Journeys) are broadcasted to learners. | A series of SmartCards, Pathways, and Journeys on Agile Project Management |
 | Group | Organize learners with a common job title, team, or interest | A group is organized for all GitLab team members to access the correct anti-harassment course | 
 
