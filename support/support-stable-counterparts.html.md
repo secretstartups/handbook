@@ -85,7 +85,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - If you find yourself unable to do justice to the expectations, have a chat with your manager and let them help you with time management and prioritization.
 - It is perfectly alright to step aside for a few weeks and get back into it again once you have the bandwidth to do so.
 
-#### Expectations from Managers
+## Expectations from Managers
 
 - If you are managing a Support Engineer who is also an SSC, it should be a topic of conversation in your 1:1 with them at least once a month.
     - Enable them in prioritizing and setting aside time for this activity.
