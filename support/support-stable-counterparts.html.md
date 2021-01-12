@@ -27,7 +27,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 - Each group can have one or more individual contributor counterparts.
 - Each section can have a Support manager counterpart.
 
-#### Expectations from an SSC
+## Expectations from an SSC
 
 ##### Establish and maintain a relationship with your product group(s)
 
