@@ -21,6 +21,7 @@ description: This page is about working with sales.
 1. Leave a message for the Salesforce `Account Owner` on Chatter with the
    relevant details.
    * Share the link to the Chatter message in an internal note on the ticket.
+     * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
      currently taking time off work.
    * If reaching out to the account owner on Slack (always on `#support_sales_escalation`
