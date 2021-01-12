@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: SA Practices
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -14,7 +19,7 @@ Solution Architects have various practices:
 
 [Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice)
 
-[Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias)
+**Recognizing Cognitive Bias**
 
 What is Cognitive Bias:
 
