@@ -164,7 +164,7 @@ If *none* of these above are options for your case, open a [billable members int
 ### Other
 
 #### I want to escalate a ticket
-Please see our dedicated [Support Escalations Page](/handbook/source/handbook/support/internal-support/support-escalations.html).
+Please see our dedicated [Support Escalations Page](/handbook/support/internal-support/support-escalations.html).
 
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
