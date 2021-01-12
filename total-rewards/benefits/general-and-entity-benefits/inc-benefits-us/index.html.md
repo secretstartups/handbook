@@ -170,10 +170,6 @@ For in-network services: N/A.
 
 For out-of-network services: 365 days from Date of Service.
 
-### Infertility Services
-
-Infertility services are provided through the UHC HSA plan. Please consult the legal SBC for more information or reach out to Total Rewards.
-
 ### Pregnancy & Maternity Care
 
 With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
