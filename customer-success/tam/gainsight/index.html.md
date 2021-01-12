@@ -96,8 +96,8 @@ The left side panel of the 360 contains the following sections:
 - Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
 - Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
-- Adoption - license utilization and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
+- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk]((#salesforce-and-zendesk-syncing)))
+- Adoption - [license utilization](/handbook/customer-success/tam/gainsight/license-usage) and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)
@@ -215,8 +215,8 @@ This is because two SFDC accounts were merged into one. What happens is this:
 1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it
 1. The remaining (merged) one in Salesforce remains synced to Gainsight
 
-##### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome 
+##### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome
 
-Usually, this type of error occurs if the Chrome extension version is out of date. Try [updating the Chrome extension](https://community.gainsight.com/timeline-17/update-your-chrome-plugin-39237) to the latest version. It should automatically refresh and begin working, but try logging out and back in if it doesn't resolve right away. 
+Usually, this type of error occurs if the Chrome extension version is out of date. Try [updating the Chrome extension](https://community.gainsight.com/timeline-17/update-your-chrome-plugin-39237) to the latest version. It should automatically refresh and begin working, but try logging out and back in if it doesn't resolve right away.
 
 If this doesn't solve the issue, reach out to Gainsight support and let them know you've already tried updating the extension and logging out and back in.
