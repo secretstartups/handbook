@@ -57,7 +57,7 @@ These items must be triaged continuously throughout the month which means they m
 1. Leverage the group level [Vulnerability Report of security-products/analyzers](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13922331&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012) with filters to focus on vulnerabilities with High and Critical severity and reported on the relevant projects.
 1. For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerabilty) or [create an issue](#creating-security-issues). When the vulnerability is impacting a dependency (software library, system library, base image, etc,), possibility of upgrade should be evaluated first, and investigate the issue only when the upgrade is not straightforward.
 
-If necessary, escalate to our [Application Security team](handbook/engineering/security/security-engineering-and-research/application-security/) to establish whether there's indeed a threat.
+If necessary, escalate to our [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) to establish whether there's indeed a threat.
 
 #### Dismissing a vulnerability
 
@@ -82,7 +82,7 @@ You can leverage quick actions to add the necessary labels.
     /label ~"Category:License Compliance"
     /label ~"Category:SAST"
 
-It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](handbook/engineering/security/security-engineering-and-research/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
+It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
 
 If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) section, or ping them on slack.
 
