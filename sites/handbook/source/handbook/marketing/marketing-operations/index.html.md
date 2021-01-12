@@ -241,6 +241,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Google Tag Manager
 - Hotjar
 - Keyhole
+- LaunchDarkly
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
