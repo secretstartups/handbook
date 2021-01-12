@@ -44,7 +44,7 @@ work, this portion of the plan continues to pay part or all of the pension contr
 
 **Voluntary Pension Plan Summary:**
 * Extra Pension: Team members can make additional voluntary contributions to have extra funds to purchase a retirement pension and a partner's pension that pays benefits upon their death after retirement.
-* Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date.
+* Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date. The following [doc](https://drive.google.com/file/d/1NGD1MNEqYI-acKECh7xNR73su_c-xesK/view?usp=sharing) outlines additional information on how the voluntary ANW-gap pension works. 
 
 **Individual value transfer:**
 A team member can have the pension value accrued at a former employer transferred to Brand New Day. An individual value transfer must be requested from Brand New Day within six months of joining the scheme. Once this is complete, the years of service at any former employers count towards Death Benefits. 
