@@ -145,7 +145,7 @@ If you have a question or concern and need to speak with the Security Team, you 
    - If shared access is required by multiple team members to a single account,
      for example, a social media account, an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) should be opened. The credentials will be
      stored and shared via Okta.
-1. If you find an existing shared account in 1Password, [create an issue](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/issues/new?issuable_template=okta_add_application)
+1. If you find an existing shared account in 1Password, [create an issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=change_management_okta)
    to get it migrated to Okta.
 
 [1Password]: https://1password.com
@@ -426,7 +426,7 @@ joining the GitLab Team account.
 1. **Deprecated** When documenting the location of shared credentials in the handboook refer to the items with NAME_OF_SITE credentials in VAULT_NAME. For example:
    "for access please see the AOL credentials in the Luddite vault".
    * Deprecation note: This is for existing accounts only. New accounts should
-     be created by [creating an issue](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/issues/new?issuable_template=okta_add_application)
+     be created by [creating an issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=change_management_okta)
      to add it to Okta.
 
 
