@@ -228,7 +228,16 @@ You can find more details on the [All Remote](/company/culture/all-remote/) page
 _If you are already a GitLab employee and would like to share your story, simply add a `remote_story:` element to your entry in `team.yml` and it will appear
 on that page._
 
-### Meal Train
+
+### Part-time contracts
+
+As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
+
+We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
+
+Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a part-time contract, talk to your manager first.
+
+## Meal Train
 
 In order to foster a sense of community and support fellow GitLab team members, if a team member is in need or experiencing a life disruption, they have the option of having a Meal Train started for them. A Meal Train is when a community comes together to support someone experiencing a difficult or disrupting event in their life who would benefit from having a meal provided to them during this time. 
 
@@ -239,7 +248,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 * Extended illnesses
 * Condolences
 
-#### Instructions for starting a Meal Train
+### Instructions for starting a Meal Train
 
 1. You may create a Meal Train for yourself or for a fellow team member. If you are not the recipient of the Meal Train, please receive approval from the team member first and forward this to the Total Rewards team. We highly encourage managers to reach out to their team member to see if they would like a Meal Train if the manager informs them of a life disruption.
 1. When creating a Meal Train, please create this in GitLab using the [Meal Train issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/meal_train.md).
@@ -248,7 +257,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
     * The Total Rewards team is also happy to create the issue on your behalf if you send the form details to total-rewards@ domain. 
 1. The issue template has 5 pre-populated entries to add a date to, but the Meal Train can be longer or shorter than this. Please add as many dates that are needed and if at the end, you feel more are needed, please add the additional dates and notify the Total Rewards Analyst assigned to the issue that you have added dates so they can help gather support.
 
-#### Instructions for participating in a Meal Train
+### Instructions for participating in a Meal Train
 
 1. All Meal Trains are posted by a Total Rewards Analyst in the #whats-happening-at-gitlab and #total-rewards slack channels. You can also check the [Total Rewards issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues) where all Meal Trains will be designated as such. 
 1. If there is a Meal Train occuring, please read through the entire issue. If you are interested in participating, please edit the issue and add your name to the date you would like to contribute to. There is also a field to add the meal you will be providing or the meal delivery service you intend to gift. More instructions for how to proceed as a team member will be located in the issue.
@@ -257,14 +266,6 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 1. Participation is voluntary and is **NOT** reimbursable by GitLab. Any expense incurred would be your responsibility. 
 
 If you have any questions, please reach out to the Total Rewards team.
-
-### Part-time contracts
-
-As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
-
-We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
-
-Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a part-time contract, talk to your manager first.
 
 ## Parental Leave
 
