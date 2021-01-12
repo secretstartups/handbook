@@ -217,6 +217,7 @@ The CoS solicits book nominations from throughout the company into an issue.
 Then the E-Group decides on the book. They will occasionally choose a book with a US focus, but they'll primarily choose books with global relevance.
 The book will be finalized no less than 1 month prior to the offsite.
 
+- We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members.
 When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book.
 This also allows team members to engage in the book.
 
