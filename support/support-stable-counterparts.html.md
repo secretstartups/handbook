@@ -74,7 +74,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Be the customer's voice and an influencing agent on product related decisions and future roadmap.
 - [Optional] Help with questions from non product groups in the Product team's Slack channels if possible.
 
-##### Be available to support and mentor newly onboarded SSCs
+### Be available to support and mentor newly onboarded SSCs
 
 - Being an SSC is a different experience based on group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
 - Iterate on this page and other templates used in this initiative based on what works and what doesn't in the real world. Support Engineers looking to become SSCs will benefit from these.
