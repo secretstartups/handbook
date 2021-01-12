@@ -20,7 +20,7 @@ We have [specific rules around code review](/handbook/engineering/workflow/code-
 
 ## Reverting a merge request
 
-In line with our values of [short toes](/handbook/values/#short-toes), [making two-way-door decisions](handbook/values/#make-two-way-door-decisions)
+In line with our values of [short toes](/handbook/values/#short-toes), [making two-way-door decisions](/handbook/values/#make-two-way-door-decisions)
 and [bias for action](/handbook/values/#bias-for-action), anyone can
 propose to revert a merge request. When deciding whether an MR should be reverted,
 the following should be true:
