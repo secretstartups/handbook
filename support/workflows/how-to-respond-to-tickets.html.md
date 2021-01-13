@@ -39,11 +39,10 @@ but those will be rare. Whenever we can we push towards empathy and humanity and
 
 Consider this spectrum:
 
-```
-Request requires -- v
-Pure process             |--------------------|----------------------|  Higher level thinking
-Robotic Support Voice    |--------------------|----------------------|  Empathy and Humanity
-Tone is -- ^
+```mermaid
+graph LR
+    A[Pure Process] ---|Request Requires| B[Higher Level Thinking]
+    C[Robotic Support] ---|Tone Is| D[Voice-Empathy and Humanity]
 ```
 
 Be empowered: at GitLab Support we want humans with agency, not agents. If something feels broken, ask.
