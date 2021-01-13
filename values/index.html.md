@@ -800,7 +800,7 @@ Most decisions are easy to reverse. In these cases, the [directly responsible in
 
 ##### Changing proposals isn't iteration
 {:.no_toc}
-Changing a proposal isn't iterating. Only when the change is rolled out to users can you learn from feedback. When you're changing a proposal based on different opinions, you're frequently wasting time; it would be better to roll out a small change quickly and get real world feedback. Changing something without shipping it is a revision, not iteration.
+Changing something without shipping it is a revision, not iteration. Only when the change is rolled out to users can you learn from feedback. When you're changing a proposal based on different opinions, you're frequently wasting time; it would be better to roll out a small change quickly and get real world feedback. Never call a revision an iteration because it almost the opposite.
 
 A few challenges have arisen with how we approach iteration. The best example may be the proposal of a two-month release cycle. The argument was that a longer release cycle would buy us time for bug fixes and feature development, but we don’t believe that is the case. As detailed above, we aim to make the absolute smallest thing possible, and that doing otherwise will only slow us down.
 
