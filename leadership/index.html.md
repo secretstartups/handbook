@@ -20,7 +20,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
 1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values/) and protectors of our [culture](/company/culture/).
-1. Behavior should be consistent inside and outside the company, just do the right thing inside the company, and don't fake it outside.
+1. Behavior should be consistent both inside and outside the company.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.
 1. We work [asynchronously](/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/company/culture/all-remote/self-service/#paying-it-forward).
@@ -34,6 +34,24 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
 1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
 1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
+
+
+
+Takes responsibility to complete tasks and goals within appropriate timelines
+Delivers on commitments independently and without supervision
+Drives issue-based discussions grounded in a clear understanding of challenges and barriers
+Highlights areas for process improvement and proactively brings them up with leadership
+Continuously looks for opportunities to improve or iterate on current processes
+Communicates status of goals and delivers on agreed-upon timing of completion with leadership
+
+Holds their team accountable for establishing goals and meeting their commitments
+Consistently hires managers of one that fit the GitLab values
+
+Establishes goals for their team while seeking input from leadership
+Skilled at having difficult conversations with team members and leadership
+Strengthens team relationships using empathy and emotional intelligence to adapt as needed to enable the manager of one skills and behaviors
+Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
+
 
 ## Interim and Acting Leadership
 
