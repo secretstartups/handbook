@@ -42,19 +42,10 @@ In an all-remote organization, we want each team member to be a [manager of one]
 
 1. When asked to attend a synchronous brainstorming call, an IC instead opens an issue and requests for their team's ideas asynchronously.
 1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor](/handbook/values/#be-a-mentor). 
-
-
-Delivers on commitments independently and without supervision
-Drives issue-based discussions grounded in a clear understanding of challenges and barriers
-Highlights areas for process improvement and proactively brings them up with leadership
-
-Holds their team accountable for establishing goals and meeting their commitments
-Consistently hires managers of one that fit the GitLab values
-
-Establishes goals for their team while seeking input from leadership
-Skilled at having difficult conversations with team members and leadership
-Strengthens team relationships using empathy and emotional intelligence to adapt as needed to enable the manager of one skills and behaviors
-Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
+1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning](/handbook/values/#self-service-and-self-learning).  
+1. An IC in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open an MR proposing a change and assign it to their manager for review.
+1. When a scheduled meeting agenda is covered 10 minutes for the call is set to end, an attendee end the call early.
+1. A people leader hires a new IC that demonstrates our CREDIT values.
 
 
 ## Interim and Acting Leadership
