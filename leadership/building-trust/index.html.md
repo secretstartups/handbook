@@ -74,6 +74,11 @@ To be inclusive of time zones and those who may not prefer these types of social
 
 The Zoom feature to upload [any background image](/handbook/tools-and-tips/zoom/#virtual-background) of your choice is a fun tool to use for an ice breaker. Managers can ask their team to come to a meeting with a background of their favorite place to vacation, or a place they hope to visit one day, and much more. It’s a great feature that can add some fun to calls and build unity. Spend the first five minutes of a meeting talking about the Zoom background and giving everyone in the meeting a voice. 
 
+One of our Managers said this about the Zoom Background Ice-Breaker: 
+
+> One of my favorite things that the team and I have done over the last 3-4 months is to update our Zoom background. We all threw out TV shows and then agreed on our favorite, from there; we picked a scene from that show and showed up to a meeting with our background. Not only was it fun to listen to the shows our team members like, but it was also a conversation piece and a lot of fun! 
+
+
 **How to apply Zoom background ice-breakers:** Team members can do this for as many meetings as they like. If it is a team discussion, spend the first five minutes of the meeting doing a round robin of the background. Managers can implement a rotation of DRIs ([directly responsible individuals](/handbook/people-group/directly-responsible-individuals/)) in charge of the ice-breaker by assigning different team members. 
 
 ### Give Credit to Team Members
@@ -83,6 +88,13 @@ Use the '#thanks' [Slack channel](/handbook/communication/#say-thanks/) to give 
 Take a [coaching approach](/handbook/leadership/coaching/) and have the team members talk through what their accomplishments were. Managers should identify opportunities for [executives](/company/team/structure/#executives) to recognize the team. They should also look for opportunities to recognize the team in front of executives. 
 
 **How to apply giving credit to team members:** Managers can set a weekly reminder to review team accomplishments and areas for individual recognition. Scheduling a regular cadence of giving credit will show team members that leaders are playing an active role in their career. 
+
+### 1-1 Meetings
+
+[1-1 meetings](/handbook/leadership/1-1/) can serve as an opportunity for managers and team members to get to know each other on a personal and professional level. Nobody is alike, and each person has a different unique background and story. A communication or management approach that works well on one team member might not work on another. By showing vulnerability during 1-1 discussions, team members can build trust. 
+
+**How to build trust in 1-1 meetings:** One way to do this is to ensure team members have plenty of time to talk about the weekend or what fun things are going on in their lives. Managers can spend the first 5-10 minutes of the call, letting it be about "them." Before diving straight into "work topics," especially at the beginning of a new working relationship, pause and ask about family, hobbies, the weekend, etc. Try to remember things team members mention about family, pets, hobbies, or other things going on in their life. If they live in a particular part of the world, managers can spend time getting to know what's happening regionally. Follow up with questions related to a team member's home.  
+
 
 ### Leverage the Building High Performing Teams Model
 
@@ -113,6 +125,16 @@ Managers can make it clear that they have a vested stake in team members career 
 Managers can set up a more relaxed call with their team that is specifically focused on personally getting to know one another as individuals. It helps to remind us all that at the end of the day, we're people and we have unique hobbies, interests, and milestones happening in our lives! **The only rule for this call: no talking about work!**
 
 **How to apply "no work talk" team chats:** People leaders can set up a calendar invite (with all team members marked as optional) weekly or at a desired cadence. Encourage team members to join and get to know each other better in a remote environment. Come prepared with some possible ice breakers if the conversation doesn't immediately flow. An easy one: what are your plans for the weekend? Timezones can be tricky, so if you're team is represented globally and it's not possible to schedule a single time for all team members to join, it is recommended to rotate the time weekly so that everyone can be included.
+
+### Host a "Lunch & Learn"
+
+"Lunch & Learns" can serve as an opportunity for individual team members to drive training of the team on more complex functions. It doesn't have to be lunch for everyone; you can replace "lunch" with "breakfast," "dinner," or "snack" as teams are geographically and time zone diverse at GitLab. Allowing team members to "drive" the topic can help understand how they function and how their minds work. By enabling team members to support group activities, teams can see individual communication styles, and managers can understand where additional support may be needed. Having a clear understanding of learning styles can help team members and managers support individual and group needs. 
+
+**How to apply "lunch & learns":** A Manager can have the team pick a topic by quarter, and vote across the team, or a subject can be volunteered. For example, an accounting manager's team selected: complex deal types, ramped deals, and reseller billing as topics. Then have one or a few team members work to build the presentation and schedule the "lunch & learn" for the whole team. Ensure there is enough time for Q&A. They are a great way to understand what data we need to review, how we can present information in a meaningful way to learn, and helping the team recognize where their are knowledge gaps. 
+
+### Managers Enable Team Members to Make Decisions
+
+Managers play a unique role at GitLab. When a team member on their team excels in their role, they should be given an opportunity to [make decisions](/handbook/leadership/making-decisions/). Allowing team members to play a role in decision-making can enable trust by catering to the team members' skills and attributes. 
 
 ## Learning Speaker Series - Building Trust with Remote Teams
 
