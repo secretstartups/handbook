@@ -89,6 +89,13 @@ Take a [coaching approach](/handbook/leadership/coaching/) and have the team mem
 
 **How to apply giving credit to team members:** Managers can set a weekly reminder to review team accomplishments and areas for individual recognition. Scheduling a regular cadence of giving credit will show team members that leaders are playing an active role in their career. 
 
+### 1-1 Meetings
+
+1-1 meetings can serve as an opportunity for managers and team members to get to know each other on a personal and professional level. Nobody is alike and each person has a different personal background and story. A communication or management approach that works well on one team member might not work on another. By showing vulnerability during 1-1 discussions team members can build trust. 
+
+**How to build trust in 1-1 meetings:** One way to do this is to ensure team members have plenty of time to talk about the weekend or what fun things are going on in their lives. Managers can spend the first 5-10 minutes of the call letting it be about "them." Before diving straight into "work topics," especially at the beginning of a new working relationship, pause and ask about family, hobbies, the weekend, etc. Try to remember things team members mention about family, pets, hobbies, or other things going on in their life. If they live in a certain part of the world, managers can spend time getting to know what's happening regionally. Follow up with questions related to a team members home.  
+
+
 ### Leverage the Building High Performing Teams Model
 
 The [Building High Performing Teams model](/handbook/leadership/build-high-performing-teams/) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section](/handbook/leadership/build-high-performing-teams/#stage-2-trust-building---who-are-you) of the Building High Performing teams page on strategies to build trust.
