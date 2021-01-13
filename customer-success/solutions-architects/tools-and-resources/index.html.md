@@ -15,11 +15,11 @@ title: Tools and Resources
 
 ## Product Releases
 
-- check [Product Release Updates](/handbook/marketing/strategic-marketing/release-updates/) for enablement on new features in recent releases
+- View [Product Release Updates](/handbook/marketing/strategic-marketing/release-updates/) for enablement on new features in recent releases
 - [Upcoming Releases](https://about.gitlab.com/upcoming-releases/)
 - [Previous Releases](https://gitlab.com/gitlab-org/gitlab/-/releases)
 - [Releases Blog](https://about.gitlab.com/releases/categories/releases/)
-- Compare Two Releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
+- Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
 
 # Proof of Value (POV) Guidelines
 {:.no_toc}
@@ -62,7 +62,7 @@ Once the POV begins, the Solutions Architect should change the **Status** field 
 
 ## POV Best Practices
 
-Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal or via the [trials@gitlab.zendesk.com](mailto:trials@gitlab.zendesk.com) email address. This should only be used for technical abnormalities, not for integration or implementation assistance.
+Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal. This should only be used for technical abnormalities, not for integration or implementation assistance.
 
 Many prospects are tempted to include implementation of GitLab high availability as part of a POV. In this case, the implementation components should comprise a separate POV entirely, separating GitLab functionality evaluations from implementation, load and performance components.
 
@@ -93,7 +93,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 - Solutions Architect (SA) - Primary technical contact, POV owner and project manager
 - Technical Account Manager (TAM) - _Only for qualified accounts._ Introduced for customer visibility, occasional POV assistance
 - Professional Services - rarely as needed in a pre-sales capacity
-- Support Team - only if needed for technical errors, engaged via [trials@gitlab.zendesk.com](mailto:trials@gitlab.zendesk.com) by the customer per the [Internal Support page](/handbook/support/internal-support/#note-on-zendesk-and-supportgitlabcom)
+- Support Team - only if needed for technical errors, engaged via the customer per the [Internal Support page](/handbook/support/internal-support/#note-on-zendesk-and-supportgitlabcom)
 
 ### POV Kickoff Checklist
 
@@ -315,6 +315,25 @@ Edit each area highlighted in yellow within the document to include pertinent in
 
 Finally, ensure both GitLab and the prospect have a copy of the document. Schedule weekly meetings for the duration of the POV via calendar invites prior to distributing the GitLab Enterprise Edition license for the POV.
 
+## POV Resources
+
+Below is an evolving list of projects that have proven beneficial during POVs, which may be a great starting point to offer customers.
+
+### End-to-End Proof Projects
+
+These projects have a very simple set of code that provides the ability to demonstrate the `happy-path` for a POV.  While these are more in the Hello World category of projects, they tend to have simple mechanizations to exercise different parts of GitLab.  SAs have used these in the past as a way to assess the installation of self-managed environments.
+
+- [Insecure Tanuki Tech Project](https://gitlab-core.us.gitlabdemo.cloud/demosys-users/skamani/insecure-tanuki) was developed internally to show the usage of Auto DevOps. It is predominantly focused on Secure features, but serves well to present all stages.
+
+### Demonstrative of specific stages
+
+These projects are demonstrative of specific stages.  They are generally built on existing code OSS bases which the customer may be familiar with, are easy to understand, and have good literature to refer to.
+
+#### Secure Stage Projects
+
+- [Nodejs Juice Shop](https://github.com/bkimminich/juice-shop) repository comes with a .gitlab-ci.yml file to get started with SAST and Dependency Scanning.  Incorporate others incrementally as needed.
+- [OWASP WebGoat.NET](https://gitlab-core.us.gitlabdemo.cloud/tanuki-group/dot-net-webgoat) repository can be enabled with SAST, License Management and Secrets Scanning very quickly using the packaged templates.  This validates our positioning in .NET application development (both Framework and Core).
+
 ## Customer Facing Meeting Tools
 
 Solutions Architects frequently interact with customers for demos, presentations or Q&A. These calls should enable the customer to clearly experience the value of GitLab without distraction or interruption. The below list of tools was compiled by the GitLab SA team as commonly used solutions. Note, this list does not represent a requirement to use any of these products or an endorsement for these products.
@@ -337,26 +356,7 @@ Related macOS tips
 - Use the [Zoom Accessibility Features](https://www.imore.com/how-use-zoom-mac) to zoom in on targeted screen locations
 - [Work in multiple spaces on a single monitor](https://support.apple.com/en-gb/guide/mac-help/mh14112/mac) to keep multiple app windows or browser tabs open in fullscreen mode
     - Enables switching between windows or tabs with trackpad gestures, keeping display screen clean and uncluttered
-
-## POV Resources
-
-The [POV Guidelines document](https://about.gitlab.com/handbook/sales/POV/) describes how to kick off a POV.  The Solutions Architect (SA) is the key actor in the process.  A POV is part product evaluation, part trust building exercise. This is a key moment in the sales cycle to establish deep conversations with the customer, and become the trusted advisor.  This is done by bringing background and experience to the table.  In addition, it is very helpful to have some set exemplar projects that can be shared with customers to show different areas of the product.  List below is an evolving list of projects that have come in handy during POVs and may be a great starting point to offer customers.
-
-### End-to-end Proof projects
-
-These projects have a very simple set of code that provides the ability to demonstrate the `happy-path` for a POV.  While these are more in the Hello World category of projects, they tend to have simple mechanizations to exercise different parts of GitLab.  SAs have used these in the past as a way to assess the installation of self-managed environments.
-
-- [Insecure Tanuki Tech Project](https://gitlab-core.us.gitlabdemo.cloud/demosys-users/skamani/insecure-tanuki) was developed internally to show the usage of Auto DevOps. It is predominantly focused on Secure features, but serves well to present all stages.
-
-### Demonstrative of specific stages
-
-These projects are demonstrative of specific stages.  They are generally built on existing code OSS bases which the customer may be familiar with, are easy to understand, and have good literature to refer to.
-
-#### Secure Stage Projects
-
-- [Nodejs Juice Shop](https://github.com/bkimminich/juice-shop) repository comes with a .gitlab-ci.yml file to get started with SAST and Dependency Scanning.  Incorporate others incrementally as needed.
-- [OWASP WebGoat.NET](https://gitlab-core.us.gitlabdemo.cloud/tanuki-group/dot-net-webgoat) repository can be enabled with SAST, License Management and Secrets Scanning very quickly using the packaged templates.  This validates our positioning in .NET application development (both Framework and Core).
-
+    
 ## Useful Customer Facing Presentations
 
 No two presentations are the same and we often find ourselves mixing and matching content tailored to our Customer's journey.  From Agile to CI/CD to Kubernetes and beyond, below are several commonly used decks rich in content to pull from.
