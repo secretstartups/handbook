@@ -121,7 +121,7 @@ Best practices specific to each type of POV follows.
 
 The Guided POV is the most commonly utilized type of POV for Enterprise accounts. These will commonly have a 30 to 60 day duration.
 
-#### Guided POV Template Document
+##### Guided POV Template Document
 
 For a  guided POV, the SA must utilize parts or entire  [Guided POV document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit#heading=h.30j0zll)  which validates POV dates, success criteria and assumptions of both GitLab and the prospect. The 4 fields below are mandatory for strategic POVs:
 
@@ -132,7 +132,7 @@ For a  guided POV, the SA must utilize parts or entire  [Guided POV document
 
 These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. It is common to have kickoff meetings, technical support calls, weekly retrospective calls and POV conclusion calls when running a Guided POV. These meetings may be represented by the following suggestions:
 
-#### Internal Kickoff Meeting led by the Solutions Architect
+##### Internal Kickoff Meeting led by the Solutions Architect
 
 GitLab Attendees: Strategic Account Leader, Solutions Architect
 
@@ -143,7 +143,7 @@ Agenda:
 - Discussion of strategy, whether GitLab Support or Professional Services need to be notified
 - Strategic Account Leader to schedule external kickoff with customer
 
-#### External Kickoff Meeting (Remote) led by the Solutions Architect
+##### External Kickoff Meeting (Remote) led by the Solutions Architect
 
 Attendees:
 
@@ -161,7 +161,7 @@ Agenda:
 - Create issues for each cadence call with customer under the POV milestone for call notes
 - Provision licenses and establish if customer needs help getting GitLab set up and configured
 
-#### Weekly Retrospective call led by the Solutions Architect
+##### Weekly Retrospective call led by the Solutions Architect
 
 Attendees:
 
@@ -175,7 +175,7 @@ Agenda:
 - What do we need to change?
 - Review success criteria - are we on track?
 
-#### POV Conclusion Meeting led by the SAL or AE
+##### POV Conclusion Meeting led by the SAL or AE
 
 Attendees:
 
@@ -189,7 +189,7 @@ Agenda:
 - Identify next steps
 - Send out POV survey (where applicable)
 
-### On-site POV
+#### On-site POV
 
 The On-site POV is typically the shortest and most intense POV. It is critical that before this type of POV begins:
 
@@ -200,21 +200,21 @@ The On-site POV is typically the shortest and most intense POV. It is critical t
 
 The SA will typically join the client at their chosen location and work directly with the team there to quickly identify the value proposition of GitLab within their environment. The SA will commonly dedicate themselves to the client for 3 to 4 days a week for this POV, collaborating on value drivers, assisting in solving problems, and enabling customer POV owners on required knowledge to obtain identified POV outcomes.
 
-### Paid POV
+#### Paid POV
 
 The Paid POV is less common than other types of POV's. These will commonly have duration greater than 60 days, and the customer will pay for usage of GitLab for the duration of the POV. Before this type of POV can begin, it requires a GitLab prorated licensing purchase to be completed. These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. This type of POV will commonly have a larger ecosystem focus, where the value of GitLab is dependent on interactions with other tools and environments within the client's ecosystem. It is common to have kickoff meetings, technical support calls, cadenced retrospective calls and POV conclusion calls similar to those identified for a Guided POV.
 
-### Lite POV
+#### Lite POV
 
 When a prospect has an internal POV process to follow, or when time is of the essence, a Lite POV is utilized.
 
-#### Lite POV Template Document
+##### Lite POV Template Document
 
 For a Lite POV, the SA may utilize the [Lite POV document](https://docs.google.com/document/d/1PO3jXG3wiKsCbx5vb8dm4SmOe_PiTB47SadROIO8nCc/edit#) (only accessible to GitLab team-members), which validates POV dates, success criteria and assumptions of both GitLab and the prospect.
 
 In the case of a Lite POV, the Solutions Architect is expected to be the sole GitLab contact. "Lite" is determined case-by-case by the size of the prospect as well as their ability to engage with GitLab.
 
-#### Using the LITE POV Template
+##### Using the LITE POV Template
 
 To use the Lite POV template, begin by making a copy of the master document for each POV.
 
