@@ -44,4 +44,4 @@ For expecting fathers, team members will need to apply for a state benefit (Basi
 
 ## Sick Time During COVID-19
 
-During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home.
+During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Total Rewards at total-rewards@gitlab.com. Total Rewards will file this in their BambooHR profile and forward to Payroll for processing. 
