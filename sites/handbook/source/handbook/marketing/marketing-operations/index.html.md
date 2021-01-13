@@ -26,6 +26,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Beth Peterson - Senior Marketing Operations Manager
 - Amy Waller - Senior Marketing Operations Manager
 - Sarah Daily - Senior Marketing Operations Manager
+- Robert Rosu - Marketing Operations Manager 
 - Jameson Burton - Marketing Operations Associate
 
 **Business Partners**
