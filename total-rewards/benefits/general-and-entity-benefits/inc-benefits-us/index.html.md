@@ -261,16 +261,16 @@ For out-of-network services: 365 days from Date of Service.
 
 ## Basic Life Insurance and AD&D
 
-GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) and [accidental death and dismemberment (AD&D)](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) plans through UHC. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500. More information can be found in the [UHC Long-Term Disability Welcome brochure](https://drive.google.com/file/d/195tzz2R7cqmmMnor9sWDXjeelhyx4CoE/view?usp=sharing) and [UHC Short-Term Disability Welcome brochure](https://drive.google.com/file/d/19oWAPE-V5n88WRHgXFuyiOL-elX2FiG3/view?usp=sharing) for these benefits.
+GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. 
 
 **Process for Disability Claim**
 
 1. If an team member will be unable to work due to disability for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
-1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
+1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
 
 ## Employee Assistance Program
@@ -440,10 +440,8 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 ### Apply For Parental Leave in the US
 
 1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
-2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) per the instructions below and email the form to total-rewards@ domain.
-      - Pages 3-5 and 8 have to be completed before Total Rewards can email the form to UHC. 
-3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
-      - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
+2. For a birthing parent (maternity leave), the team member will fill out the Leave Request Form per the instructions below and email the form to total-rewards@ domain.
+      - The form will be populated once we have a new form from Cigna. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
       - Use PTO time for the Elimination Period
@@ -453,58 +451,10 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
-    - Employment and Claim Information (page 4):
-      - Date of hire
-      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
-      - Date last worked: Due date of birth
-      - Hours worked that day: 8
-      - What date do you expect to return to work: Anticipated date of return
-      - When were you first treated for your injury or illness? First Prenatal appointment 
-    - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
-    - Have you returned to work: n/a
-    - Your occupation: Your job title
-    - What parts of your job are you unable to do? n/a
-    - Please describe the onset and nature of your illness or injury: Pregnancy
-    - Is your claim a result of illness or accident: N
-    - Was your injury or illness due to an auto accident? N
-    - Were you injured at work? N
-    - Fill out your physician's details and dates of appointments
-    - Benefits and Earnings Information (page 5): Leave blank
-    - Tax Information (page 5): Fill out based on your individual tax preferences 
-    - Final Signature and Certification (page 5)
-    - Review and sign the Disclosure Authorization (page 6)
-    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim
-    - Have your physician complete the Attending Physician's Disability Statement (page 8)
+This section will be populated once we have the form from Cigna. 
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
-    - General Demographics (page 1):
-      - Employee's Name, SSN, address, phone number, date of birth, gender and marital status
-      - Employer's name, phone number, employer's address
-    - Employment and Claim Information (page 2): 
-       - Date of hire
-       - Last day worked: Estimated last day of work
-       - Insurance/division: Insurance Class
-       - Effective date of STD coverage: 2020-01-01 (until policy is renewed)
-       - Was coverage effective date within the last 12 months? Y
-       - Occupation: Team member's job title
-       - List employee's job duties: Add the link to the team member's job responsibilities
-       - Has employment been terminated? N
-       - Has employee returned to work? Leave blank
-       - If yes, return to work date? TBD
-       - Employee has returned to work in what capacity? Leave blank
-       - Are you willing to make return-to-work accommodations for the employee if needed? Y
-       - Was employee injured at work? N
-    - Benefits and Earning Information
-       - Does the employee contribute to the STD premium? N
-       - Is the employee also covered under a LTD or Life Insurance Policy provided by us? Check both LTD and Life
-       - If yes, do they contribute to the LTD premium? N
-       - If yes, do they contribute on a PRE or POST tax basis? Leave blank
-       - How is the employee paid? Add hourly rate if team member is getting paid per hour. If not, add the annual salary next to "Salaried"
-       - Does the employee eceive other work related income? Add the annual commission amount if team member receives variable pay.
-       - Is the employee currently receiving or eligible for any other income benefits? Leave blank
-    - Final Signature and Certification: Stage for signatures via HelloSign
-
+This section will be populated once we have the form from Cigna. 
 
 ### Payroll Processing During Parental Leave
 
