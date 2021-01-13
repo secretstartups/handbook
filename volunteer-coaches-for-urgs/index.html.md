@@ -60,9 +60,11 @@ Here is a little bit about **FreeCodeCamp** in [their own words](https://www.fre
 
 GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 
-| Volunteer   | Start  | End |
-|-------------|--------|-----|
-| TBD         |        |     |
+| Volunteer   | Start  | End | Topic | 
+|-------------|--------|-----|-----|
+| Wayne Haber |  TBD | TBD | Technical career advice |
+| TBD         |        |     |     |
+
 
 Coaches interested in helping others in the freeCodeCamp community are encouraged to join the [freeCodeCamp Forum](https://forum.freecodecamp.org/) to help provide guidance and answer questions.
 
