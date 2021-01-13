@@ -22,7 +22,6 @@ title: Tools and Resources
 - Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
 
 ## Proof of Value (POV) Guidelines
-{:.no_toc}
 
 GitLab wants prospects to enjoy a successful Proof of Value (formerly known as Proof of Concept) with GitLab Enterprise Edition as needed. A POV is a collaboration between GitLab and the prospective customer for evaluating GitLab Enterprise Edition. As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Due to cost and time intensity, a POV should not be the default course of action for most GitLab buyers. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
@@ -133,7 +132,7 @@ For a  guided POV, the SA must utilize parts or entire  [Guided POV document
 
 These POV's are marked by regular touch points and consistent interaction over time without requiring full time dedication to the GitLab evaluation on behalf of the customer. It is common to have kickoff meetings, technical support calls, weekly retrospective calls and POV conclusion calls when running a Guided POV. These meetings may be represented by the following suggestions:
 
-#### Internal Kickoff Meeting, led by the Solutions Architect
+#### Internal Kickoff Meeting led by the Solutions Architect
 
 GitLab Attendees: Strategic Account Leader, Solutions Architect
 
@@ -144,7 +143,7 @@ Agenda:
 - Discussion of strategy, whether GitLab Support or Professional Services need to be notified
 - Strategic Account Leader to schedule external kickoff with customer
 
-#### External Kickoff Meeting (Remote), led by the Solutions Architect
+#### External Kickoff Meeting (Remote) led by the Solutions Architect
 
 Attendees:
 
@@ -162,7 +161,7 @@ Agenda:
 - Create issues for each cadence call with customer under the POV milestone for call notes
 - Provision licenses and establish if customer needs help getting GitLab set up and configured
 
-#### Weekly Retrospective call, led by the Solutions Architect
+#### Weekly Retrospective call led by the Solutions Architect
 
 Attendees:
 
@@ -176,7 +175,7 @@ Agenda:
 - What do we need to change?
 - Review success criteria - are we on track?
 
-#### POV Conclusion Meeting, led by the SAL or AE
+#### POV Conclusion Meeting led by the SAL or AE
 
 Attendees:
 
@@ -279,7 +278,7 @@ These projects have a very simple set of code that provides the ability to demon
 
 - [Insecure Tanuki Tech Project](https://gitlab-core.us.gitlabdemo.cloud/demosys-users/skamani/insecure-tanuki) was developed internally to show the usage of Auto DevOps. It is predominantly focused on Secure features, but serves well to present all stages.
 
-#### Demonstrative of specific stages
+#### Demonstrative of Specific Stages
 
 These projects are demonstrative of specific stages.  They are generally built on existing code OSS bases which the customer may be familiar with, are easy to understand, and have good literature to refer to.
 
@@ -326,7 +325,7 @@ No two presentations are the same and we often find ourselves mixing and matchin
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector. RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
 
-### Evaluating RFIs and RFPs for response
+### Evaluating RFIs and RFPs for Response
 
 Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding: `Make sure you answer the mail`. This has two connotations:
 
@@ -335,7 +334,7 @@ Solutions Architects have a big role in responding to RFIs and RFPs where there 
 
 But more importantly, be sure that there is a product fit. If what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative. Also identify the strategic impact if the requirements do not seem to match GitLab functionality. If GitLab fits only a piece of the RFx, collaborate with the Strategic Account Leader and/or Inside Sales Representative to understand who the other players in the response might be.
 
-### Process of responding to RFx
+### Process of Responding to RFx
 
 Generally, RFx's have a fixed timeline. GitLab issues can assist in this process as everything needed to manage a task is available. The best place to create the issue is in the Account project, if one exists, or in a central project where such activites are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
 
@@ -347,7 +346,7 @@ Generally, RFx's have a fixed timeline. GitLab issues can assist in this process
 
 Typically a SAL or ISR will be involved in the process and should be assigned to the issue along with the SA. Lay out the tasks and assign owners so that every team member's duties are clear. And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer. This provides a small buffer in case of last minute adjustments or approvals that may be needed.
 
-### Responding to RFxs
+### Responding to RFx
 
 After the issue is created, create a Google document and start filling in the details. A general [Public Sector template](https://docs.google.com/document/d/12uLyZ-lc9sswULq7XqpwOUtk_eiK2wgWhi-TIvT1mQs/template/preview) (only available to GitLab team members) is available as a starting point. Insert the link to the working document into the issue.
 
