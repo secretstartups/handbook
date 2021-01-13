@@ -127,9 +127,15 @@ For customers who are large enough to have an account management project, an iss
 
 In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
 
-## Account Ownership Change Request for Paid Groups
+## Account Ownership Changes
+There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab.
+Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
 
-Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that this option is not available for unpaid groups.
+The end result of a successful request will be a new or existing user in the namespace will have Owner permissions.
+
+### Account Ownership Change Request for Paid Groups
+
+Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized represenative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first. 
 
 If a request is received, verify:
 
@@ -137,7 +143,11 @@ If a request is received, verify:
 1. Sole Owner's primary email address matches company domain.
 1. Requestor has a GitLab.com account. Typically this user will already be a member but is not Owner.
 
-If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly. Otherwise, send a message with the following blurb:
+Ensure that the requestor has exhausted all self-service options:
+- If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly. 
+- If the existing Owner's account does have 2FA, suggest contacting the previous Owner to provide the one time password, backup codes or private ssh key to regain access.
+
+If no Self-service options are viable, send a message with the following blurb:
 
 ```plain
 In order to transfer ownership, please provide a letter in PDF format outlining that the existing owner has left and ownership needs to be provided to a current employee. In the letter, please ensure that it is on company letterhead and includes:
@@ -153,4 +163,9 @@ In addition, please include a copy of your last invoice from GitLab.
 
 Whenever possible, include the current account owner from GitLab in the conversation.
 
-Once received, double check all the requested information is included. If not, let them know what's missing. If yes, add or elevate the requested user to Owner role.
+Once received, double check all the requested information is included. If not, let them know what's missing. 
+
+If all required elements are present, then create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using `Legal::General` macro and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
+
+After receiving approval: add or elevate the requested user to Owner role.
+
