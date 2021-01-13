@@ -17,8 +17,8 @@ As the sales of GitLab increase, the demand for professional services will follo
 
 From a sales perspective, channel partners can help facilitate the initial licence deal and up-selling opportunities with customers whom they have an ongoing relationship.
 
-## Partner Disambuiguation
-There are different types of relationships we can have with partners and its important to outline the distinctions :point_down:. Direct vs indirect is a reference to the way the services are sold - Direct means the partner sells direct to the customer, Indirect means gitlab sells services and the partner helps with execution.
+## Partner Disambiguation
+There are different types of relationships we can have with partners and its important to outline the distinctions :point_down:. Direct vs indirect is a reference to the way the services are sold - Direct means the partner sells direct to the customer, Indirect means GitLab sells services and the partner helps with execution.
 
 |   | Partner Indirect (Staff Augmentation)  | Partner Indirect (Project Based)  | Partner Direct |
 |---|---|---|---|
