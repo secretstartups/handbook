@@ -303,7 +303,7 @@ Solutions Architects frequently interact with customers for demos, presentations
 - [Atom.io](https://atom.io/) lightweight IDE text editor
     - [git-plus](https://atom.io/packages/git-plus) Package for atom to make commits and other git actions without the terminal
 
-Related macOS tips
+### Related macOS tips
 
 - [Switch between full screen applications](https://www.intego.com/mac-security-blog/how-to-enter-and-exit-full-screen-mode-in-macos/) using the trackpad, Command keys or other options
 - Use the [Zoom Accessibility Features](https://www.imore.com/how-use-zoom-mac) to zoom in on targeted screen locations
@@ -321,7 +321,7 @@ No two presentations are the same and we often find ourselves mixing and matchin
 
 ## RFP Responses
 
-### Best Practices for writing RFx responses
+### Best Practices for Writing RFx Responses
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector. RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
 
