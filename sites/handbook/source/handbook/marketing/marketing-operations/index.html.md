@@ -169,7 +169,7 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
 
 ### Handbook Updates
 
-When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective Slack channel, you must add one of the following corresponding `labels` on the MR.
 
 | Label you add | Slack channel the merged MR pushes to |
 | ------------- | ------------------------------------- |
@@ -177,6 +177,8 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `FMM-HB Update` | `fieldmarketing-FYI` |
 | `SDR-HB Update` | `hbupdate-sdr` |
 | `ABM-HB Update` | `hbupdate-abm` |
+
+**Please Note:** The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts. 
 
 ### Marketing Ops Calendar
 
