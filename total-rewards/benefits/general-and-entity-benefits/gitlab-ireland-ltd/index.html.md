@@ -119,3 +119,6 @@ Once the total rewards team has approved the bike or ticket application, an invo
     * Notify Total Rewards of your baby's due date.
     * Total Rewards will send you the completed PB2 form.
     * Submit your application for state paternity benefit via the [MyWelfare website](https://services.mywelfare.ie/en/topics/parents-children-family/).
+
+* Vacation Leave
+  * Team members are entitled to a maximum of four weeks of vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](http://www.irishstatutebook.ie/eli/1997/act/20/section/19/enacted/en/html#sec19). Unused vacation time may not be carried over into the following calendar year. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. 
