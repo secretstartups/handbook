@@ -75,6 +75,12 @@ We review these KPIs weekly in the [Support Week-in-Review](/handbook/support/#s
 
 ### About the Support Team
 
+The support team has a few elements and we've divided the support handbook as such:
+- [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think Zendesk workflows and technical resources.
+- [/support/managers](/handbook/support/managers/index.html) is content that is for Support Managers. Think how to manage issues, run 1:1s and leadership sync information.
+- [support/support-ops](/handbook/support/support-ops/index.html) is content that is for Support Operations. Think how to change Zendesk forms and fields, and other ops details.
+
+Below we also have some commonly referenced pages:
 - [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities.html)
 - [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas.html)
 - [Support Managers](/handbook/support/managers/index.html), including areas of focus.
