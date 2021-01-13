@@ -7,6 +7,8 @@ Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of th
 
 For more information on the structure and process for the L&D newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
 
+You can find links to past L&D Newsletters on the [Newsletter page](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
+
 ## Learn from Leadership 
 
 This quarter we are learning from [name](link to profile). 
@@ -102,7 +104,7 @@ We want to remind you to [take time out to learn](/handbook/people-group/learnin
 ## Other Enablement Initiatives
 
 * Check out the monthly [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
-* The Diversity, Inclusion, & Belonging Team launched a newsletter last week. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
+* The Diversity, Inclusion, & Belonging Team launched a newsletter. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
 
 
 ## Discussion 
