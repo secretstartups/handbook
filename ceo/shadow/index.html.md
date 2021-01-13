@@ -213,19 +213,28 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2020-09-08 | 2020-09-11 | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR | [Francis Potter](https://gitlab.com/francispotter) - Sr. Solution Architect |
-| 2020-09-14 | 2020-09-18 | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment | [Shawn Winters](https://gitlab.com/ShawnWinters) - Acceleration SDR |
-| 2020-09-21 | 2020-09-25 | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend | [Chris Baus](https://gitlab.com/chris_baus) - Engineering Manager, Fulfillment |
-| 2020-09-28 | 2020-10-02 | [Shane Rice](https://gitlab.com/shanerice) - Manager, Inbound Marketing | [Philippe Lafoucrière](https://gitlab.com/plafoucriere) - Distinguished Engineer, Secure & Defend |
-| 2020-10-05 | 2020-10-09 | AVAILABLE - REMOTE | [Shane Rice](https://gitlab.com/shanerice) - Manager, Inbound Marketing |
-| 2020-10-12 | 2020-10-16 | NO SHADOWS - PTO | NO SHADOWS - PTO |
-| 2020-10-26 | 2020-10-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-11-02 | 2020-11-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-11-09 | 2020-11-13 | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan | AVAILABLE - REMOTE |
-| 2020-11-16 | 2020-11-20 | AVAILABLE - REMOTE | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan |
-| 2020-11-23 | 2020-11-27 | NO CEO SHADOWS - Thanksgiving | NO CEO SHADOWS - Thanksgiving |
-| 2020-11-30 | 2020-12-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2020-12-09 | 2020-12-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-01-04 | 2021-01-08 | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement | [Charlie Ablett](https://gitlab.com/cablett) - Sr. Backend Engineer, Plan  |
+| 2021-01-11 | 2021-01-15 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience | [Tanya Pazitny](https://gitlab.com/tpazitny) - Quality Engineering Manager, Secure & Enablement |
+| 2021-01-18 | 2021-01-22 | [Traci Robinson](https://gitlab.com/traci) - Sr. PMM, Regulated Industries | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
+| 2021-01-25 | 2021-01-29 | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD | [Traci Robinson](https://gitlab.com/traci) - Sr. PMM, Regulated Industries |
+| 2021-02-01 | 2021-02-05 | [Shane Rice](https://gitlab.com/shanerice) | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD |
+| 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | [Shane Rice](https://gitlab.com/shanerice) |
+| 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-29 | 2021-04-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-05 | 2021-04-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-03 | 2021-05-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
+| 2021-05-17 | 2021-05-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 The week of 2020-12-13 will be the last CEO Shadow Rotation of 2020 to allow our team members to focus on the holiday season and put family and friends first.
 
