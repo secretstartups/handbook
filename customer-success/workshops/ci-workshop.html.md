@@ -29,6 +29,13 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
 
 *Typical time*: 60-120 minutes is a good guideline. The Advanced CI Workshop with pre-recorded video includes approximately 80 minutes of pre-recorded video plus approximately 5-15 minutes of "`rules:` examples". Don't forget to allot time for questions.
 
+## How to Get Started
+
+1. Create an Issue in the customer's Collaboration Project using the [CI Sell Sheet issue template](https://gitlab.com/gitlab-com/customer-success/tam/-/blob/master/.gitlab/issue_templates/CICDv2WorshopTopics.md) and ask your customer to select the topics they'd most like to address. 
+1. Select the sections within the [GitLab CI Conversion Workshop Enablement V2](https://docs.google.com/presentation/d/1K1t1O-8JMViiX6zKn0S2OMSjw1XvTcII5UQdNP0ItVs/edit#slide=id.g97c25944f3_1_0) deck that best fits what your customer wants.
+   * **Note:** Please cut&paste the slides you need into a new deck instead of using the source deck for your presentation.
+1. Time your session based on the number of topics; 1-2 topics plus Q&A can likely be covered in an hour, 3-4 topics plus Q&A might require 90-120 mins. 
+1. Find a partner to present with... another TAM, the SA for the customer or one of the creators of this workshop. It's always better to have someone to take notes or bounce questions off of.
 
 ## Workshop Materials
 
@@ -56,16 +63,16 @@ When considering a path for a CICD discussion with your customers, you may use t
 - Painpoints
 - Tool Stack
 
-### Topics to include in each discussion
+### Topics to Include in Each Discussion
 - GitLab ROI - 5m
 - Q&A - allow up to 10-15m
 
-### Tips and Tricks for delivering
+### Tips and Tricks for Delivering
 - Bring a friend! Invite another TAM or SA.
 - Don’t be afraid to take follow-up questions to async
 - Survey post workshop (could offer swag)
 
-### Copy and Paste the Topics Below from Basic, Intermediate and Advanced topics
+### Copy and Paste the Topics Below from Basic, Intermediate and Advanced Topics
 
 #### Basic Level Topics
 - GitLab CI/CD Basics (“Introductory Content”) - 30-40m
