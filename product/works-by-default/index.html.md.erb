@@ -9,11 +9,22 @@ Working by default is an important [Product Principle](/handbook/product/product
 
 ### Legend
 
-- ✅ - Works by default (**on** and **setup** by default)
-- ⚙ - Setup or configuration required (**on** but not configured)
-- ⤓ - Installation or feature flag required (**off** by default)
-- ❌ - Not supported
-- N/A - Not applicable
+- ✅ Works by default (**on** by default, and **setup** by default)
+- ⚙️ Configuration required (on by default, but configuration is required)
+  - In application configuration is required by a user before the feature can be used. Example: URL or API keys needed for integration with an external tool like Jira.
+- 🔌 Installation required (off by default, and works without configuration)
+  - Installation of extra components or configuration on a host machine. Example: Setup in `gitlab.rb` on GitLab Omnibus.
+- 📦 Configuration and Installation required (off by default, and configuration is required)
+  - Both in application configuration is required, and installation of extra components or configuration on a host machine is required. Example: Gitaly Cluster requires Omnibus to be installed on additional machines, and in application storage settings to be modified.
+- ❌ Not supported
+- N/A Not applicable
+
+It helps to consider these states using the following 2x2 table:
+
+|                 | On by default            | Off by default                      |
+|-----------------|--------------------------|-------------------------------------|
+| No config/setup | ✅ Works by default      | 🔌 Installation Required            |
+| Config required | ⚙️ Configuration required | 📦 Config and Installation Required |
 
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
@@ -59,9 +70,10 @@ The `works_by_default` field supports the following attributes:
 
 Supported statuses for these fields are:
 
-- `true` - ✅ Works by default (**on** and **setup** by default)
-- `config_required` - ⚙ Setup or configuration required (**on** but not configured)
-- `install_required` - ⤓ Installation or feature flag required (**off** by default)
+- `true` - ✅ Works by default (**on** by default, and **setup** by default)
+- `config_required` - ⚙️ Configuration required (on by default, but configuration is required)
+- `install_required` - 🔌 Installation required (off by default, and works without configuration)
+- `config_and_install_required` - 📦 Configuration and Installation required (off by default, and configuration is required)
 - `false` - ❌ Not supported
 - `not_applicable` - N/A
 
