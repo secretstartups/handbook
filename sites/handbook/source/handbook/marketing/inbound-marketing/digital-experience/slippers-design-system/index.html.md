@@ -17,7 +17,7 @@ Slippers is the marketing website design system used on about.gitlab.com. We cal
 
 ## Why not Pajamas
 
-- Pajamas code is written using different languages and servers than the marketing website and handbook. We need something that will better align with our tech. That said, we still want to align with Pajamas tech choices whenever possible.
+- Pajamas code is written using different languages and servers than the marketing website and handbook. Marketing wants something that aligns better with our existing tech stack. That said, we still want to align with Pajamas tech choices whenever possible.
 - Product has a much longer-lasting design cycle than marketing. Marketing frequently performs design tests and pivots. End-users of a product expect stability. Marketers need the flexibility to try new things.
 - Best practices for a marketing website differ from those used when building a product. For example, certain occasions might call for a toast in a software product vs a modal popup on a marketing website. One might be focused around metrics like Fitt's law and the other might be focused on conversion. Sometimes designs could be information-dense and others could be focused on a single paragraph.
 
