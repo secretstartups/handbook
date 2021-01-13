@@ -354,6 +354,10 @@ For any feedback about using Compaas during the FY22 Manager Review portion of A
 * ![approver review slate](/images/handbook/people-group/9_Compaas.png)
 1. Once you are finished making edits to a slate you are an approver for, you can choose to "Save & Submit". You will be taken to a screen summarizing the proposed raises. You may choose to cancel, leaving the slate unapproved, or "Submit and Lock" which automatically submits your recommendations for approval to anyone higher up in the approval chain. It is recommended that you keep all slates in draft form until you are ready to approve all slates in your group. Once you submit you will no longer be able to make any changes.
 * ![slate owner submit](/images/handbook/people-group/Updated_Save&Submit.png)
+1. Approvers who have multiple slates to submit may wish to utilize the "Approve All" button to finalize all of the slates that roll into them at once. This button will become available to click once all slates are ready for your approval and is located in the upper right corner of the Slates view.
+* ![bulk approve](/images/handbook/people-group/Approve_All.png)
+* After the "Approve All" button is selected, a window will pop up asking you to confirm whether you would like to approve all slates. Clicking "Confirm" will submit and lock each of your slates and send them for further approval, if applicable. 
+* ![confirm bulk approve](/images/handbook/people-group/Confirm_Approve_All.png)
 1. After you have approved a slate, it will no longer be editable on your list of slates. After approving, you will still be able to visit the slate and view a current summary of any proposed compensation adjustments including any adjustments made by an approver higher up in the approval chain.
 * ![slate owner locked](/images/handbook/people-group/Updated_Slate_Locked.png)
 
