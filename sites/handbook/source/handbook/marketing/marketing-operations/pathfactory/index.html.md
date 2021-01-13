@@ -469,6 +469,14 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 
 ## PathFactory Tracking
 
+### PathFactory Webhook
+
+Webhooks allow PathFactory to automatically connect with a third party system and send data every time someone visits or interacts with a PathFactory experience. There are 3 types of PathFactory webhooks (form capture, visitor session, visitor activity). 
+
+We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visitor session` webhook is triggered off of session data. A `visitor session` begins when a visitor arrives on a content track and ends when that visitor has stopped engaging with content for thirty minutes. This webhook is triggered when a visitor session ends. This means that the webhook will trigger and send data to Marketo thirty minutes after the visitor has finished engaging with content. The data sent though this webhook provides an overview of the level of engagement the visitor had with your content track and the content assets inside them during the session. 
+
+### Bizible
+
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
 ## Custom PathFactory Fields
