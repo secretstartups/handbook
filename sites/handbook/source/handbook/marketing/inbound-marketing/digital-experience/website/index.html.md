@@ -163,14 +163,14 @@ The time needed for your webpage request will vary on a number of factors, inclu
 
 **Set yourself up for success**
 - Know the URL and keywords you want to use
-   - Search Team [Issue Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#inbound-marketing-issue-templates) to Request support
-   - See [naming conventions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions)
+   - Search Team [Issue Templates](/handbook/marketing/inbound-marketing/#inbound-marketing-issue-templates) to Request support
+   - See [naming conventions](/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions)
 - Provide the layout you want to use from existing pages 
 - Provide the content in the layout of the existing page template
   - Example: This [Content Wireframe Template](https://docs.google.com/document/d/1ypPJVNEpaSiafY0BnZ0p49tBfVeBGQnySVhgYE7gikk/edit?usp=sharing) is based on the current about.gitlab.com/enterprise page
 - Provide all the files for images (assets, logos, etc.)
-  - See Specs
-- To officially begin the request submit a brief via an [Issue Template](https://about.gitlab.com/handbook/marketing/inbound-marketing/#website-issue-templates)
+  - See [image guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/) for specs
+- To officially begin the request submit a brief via an [Issue Template](/handbook/marketing/inbound-marketing/#website-issue-templates)
 
 
 ### Naming conventions
