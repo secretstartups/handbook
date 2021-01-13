@@ -96,7 +96,7 @@ gantt
     Catch-up Compensation Review Manager Review :2020-08-01
     Catch-up Compensation Review  :2020-09-01
     Compensation Training         :2020-10-01
-    Compa Group Review            :2020-11-01
+    Performance Factor Review            :2020-11-01
     Annual Comp Review Inputs Evaluated/Proposed to Compensation Group for FY22 :2020-12-01
 
 

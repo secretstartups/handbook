@@ -9,6 +9,39 @@ title: Pricing model
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+## Pricing Strategy
+
+Most of GitLab functionality is and will be available for free in Core. Our paid
+tiers include features that are
+[more relevant for managers, directors, and executives](/company/stewardship/#what-features-are-paid-only).
+[We promise](/company/stewardship/#promises) all major features in [our scope](/direction/#scope)
+are available in Core too. Instead of charging for specific parts of our scope
+(CI, Monitoring, etc.) we charge for smaller features that you are more likely
+to need if you use GitLab with a lot of users. There are a couple of reasons for
+this:
+
+1. We want to be a good [steward of our open source product](/company/stewardship/).
+1. Giving a great free product is part of our go to market, it helps create new users and customers.
+1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](/handbook/product/single-application/).
+1. Including all major features in Core helps reduce merge conflicts between CE and EE
+
+Because we have a great free product we can't have one price. Setting it high
+would make the difference from the free version too high. Setting it low would
+make it hard to run a sustainable business. There is no middle ground that would
+work out with one price.
+
+That is why we have a [Starter, Premium, and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
+The price difference between each of them is half an order of magnitude (5x).
+
+We will charge per user, per
+application, or per instance. We do include free minutes with our subscriptions
+and trials to make it easier for users to get started. As we look towards more
+deployment-related functionality on .com it's tempting to offer compute and
+charge a percent on top of, for example, Google Cloud Platform (GCP). We don't
+want to charge an ambiguous margin on top of another provider since this limits
+user choice and is not transparent. So we will always let you BYOK (bring your
+own Kubernetes) and never lock you into our infrastructure to charge you an
+opaque premium on those costs.
 
 ## Pricing Philosophy
 
@@ -39,8 +72,8 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | GitLab.com | Free | Bronze | Silver | Gold |
 | ---------- | ---- | ------ | ------ | ---- |
 | Per user per month | $0 | $4 | $19 | $99 |
-| [Likely Buyer](/handbook/marketing/product-marketing/roles-personas/#buyer-personas) | Individual Contributors | Manager | Director | Executive |
-| Main competitor | None | Atlassian BitBucket | GitHub | Collabnet |
+| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
+| Main competitor | GitHub Free | Atlassian Bitbucket | GitHub Enterprise | Collabnet |
 | Type of sell | No sell | Feature | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
@@ -81,7 +114,19 @@ Below we list product categories and the current and proposed features which res
 1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
 1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
-For detailed use-cases per tier, visit the [Per Tier Use-Cases page](/handbook/ceo/pricing/per-tier-use-cases).
+### Usage can be more important than buyer-based tiering
+
+While our [tiers](#four-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
+As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier
+
+
+1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those users are essential to creating contributors, an improved product and future tiered features.
+
+When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. Regardless of the reasoning behind the down-tiering of a feature, the [process](https://about.gitlab.com/handbook/ceo/pricing/#changing-tiers-and-pricing-changes) should still be followed.
+
+### Prevent the ability to circumvent tiering
+
+If a feature in the free tier (typically useful to ICs, but also to others) will open up the possibility to circumvent or abuse our tiering policy, we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is [repo pull mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Core tiers mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Core-tier.
 
 ### Partner integration considerations
 
@@ -164,17 +209,10 @@ Arguments in favor of raising the price of the lowest tier (which we won't neces
 1. The future growth of GitLab is much more influenced by how many people are using the open source version than our lowest tier, so having fewer paid users is a relatively small impact.
 1. The future competition for GitLab is much more likely to come from an open source project than a proprietary only product competing only with our lowest tier.
 1. We can reduce the relative attractiveness of the lowest tier by open sourcing features, although this too makes it harder to raise the price of that tier.
-1. Our lowest tier competes mostly [with Atlassian BitBucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
+1. Our lowest tier competes mostly [with Atlassian Bitbucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
 1. Lots of companies don't want to forgo support, especially in their first year, and there is little price elasticity there.
 
 Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#buyer-based-open-core).
-
-## Perfect bundle
-
-Bundle pricing works very well.
-Companies like Microsoft use it successfully to get people to use more of their ecosystem.
-Charging one price that incorporate all our stages is the perfect bundle in my mind.
-But I'm very open to learning more about this.
 
 ## Separate names
 
@@ -260,31 +298,25 @@ The disadvantages are:
 
 We currently think the disadvantages outweigh the advantages.
 
-## Multiple plans for one customer
-
-We considered selling multiple plans to the same customer, allowing them to have some users on every plan.
+## Single plan for one customer
 
 The advantages are:
 
-1. Gradual upgrading to more expensive features per team; improving rollout when only portions of the organization are well suited to the higher tiers.
-1. Pay only for the features you use.
-1. Consistency with GitLab.com pricing where you can have different subscriptions for different groups.
-1. Consolidation of all users in a single instance rather then separate instances with separate licenses.
-1. Increased transparency on license and usage; reducing renewal risk.
-1. Less negotiation.
+1. Users can use more features from more stages uniformally. Taking advantage of the power the one DevOps application results in better ROI for the customer.
+1. Buyers do not have to estimate how much of each tier they will need.
+1. There will not be confusion on what users can or can't use.
+1. Simple pricing and true-up process.
+1. There's no increased product complexity to turn features on/off on a per user basis.
+1. Simpler administration: the customer will not have to administer a process to move users between tiers.
 
 The disadvantages are:
 
-1. The current plans have a blended price, assuming 75% of users should pay for the 5x less expensive plan—so, plan prices would increase by 2.5x `1/(0.25+(0.75/5))`.
-1. It is hard for buyers to estimate how much of each tier they will need.
-1. For users, it is unclear which features they can use.
-1. The true-up process becomes more complex.
-1. Some features can't be disabled on a per user basis, like High Availability (HA).
-1. The customer has to administer a process for how users can get a higher plan.
+1. Customers may be paying for feature they feel not enough users are using.
+1. May lead to multiple instances with separate licenses for different groups.
+1. More negotiation up front.
+1. Increased renewal risks.
 
-We currently think the disadvantages outweigh the advantages.
-
-Counting different types of users, roles for users, or other modifications of a user definition tends to lead to the same problems as above.
+We believe having a single plan for one customer works because the advantages outweigh the disadvantages.
 
 For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](/handbook/sales/training/)
 
@@ -382,16 +414,13 @@ This is the title of a [great article](https://codingvc.com/when-is-a-dollar-not
 
 ## Annual pricing is prioritized over monthly pricing
 
-Annual, up-front pricing is our priority and primary offering.
-
-We might enable monthly billing options for SaaS offerings, when packaged as part of a bundled monthly offering with partners.
-
-On the other hand, it might be simpler to only offer annual pricing.
-
-On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
+Annual, up-front pricing is currently our only offering.
+All internal systems should show only annual pricing to keep comparisons simple.
+We do [show monthly pricing externally](#why-show-monthly-pricing-on-the-website).
 
 Arguments supporting annual up-front pricing:
 
+1. On [slide 7 of the 2020 Go To Market (GTM) Survey of Redpoint](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?start=false&loop=false&delayms=3000&slide=id.g8864de4371_0_264) it showed that Annual pricing was the majority from $5k up.
 1. It helps to recover the costs of acquiring, onboarding, and supporting a customer.
 1. It enables reinvestment to speed delivery of new product capabilities for customers.
 1. It aids customer self-selection and commitment to drive to successful deployment and enough time to see successful outcomes with the product.
@@ -404,14 +433,14 @@ Arguments supporting annual up-front pricing:
 1. Annual pricing lends to a more simple revenue recognition model where consumption is not relevant since revenue is recognized evenly over the course of the term. To get the equivalent with monthly pricing you need a 'use it or lose it' condition per month, while the industry standard is to allow carry-over into the next month.
 1. It helps to reduce churn with SMB customers, as that has been a problem in the industry.
 
-Arguments supporting monthly pricing
+Arguments supporting also offering monthly pricing:
 
 1. Monthly billing gives customers another way to buy and thus reduces barriers to adoption of the product.
 1. Monthly pricing can align with billing of combined or dependent products/services that are already billed monthly. (ex: if bundled with another monthly service)
 
 ## Why show monthly pricing on the website
 
-Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on the website](/pricing/) and notes that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
+Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on our website](/pricing/) and notes clearly that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
 
 ## Only sell a suite
 
@@ -443,6 +472,8 @@ Companies evolve to selling only a suite for the following reasons, after the =>
 
 We're going even further than selling a suite by integrating everything in a single application. We do that because of the advantages mentioned on our [direction page section about us being single application](/direction/#single-application). A secondary effect is that the user doesn't have to make a buying, or even an adoption, decision.
 
+Charging one price that incorporate all our stages is the **perfect bundle**.
+
 ## Value creation
 
 There are two factors that determine how much value GitLab creates for an organization, in order of importance:
@@ -468,7 +499,7 @@ Since GitLab is an open core project, we'll always create much more value then w
 These straightforward ways are not possible for the following reasons:
 
 1. Scope: charging more for adoption would hurt the adoption of GitLab for the whole lifecycle. In January 2018, version control is 10 times more popular than the next feature (CI). We need the features to spread organically, so people can create more value with GitLab. People are much more willing to pay when they are already using a part of the lifecycle.
-1. Size: many other software companies limit the maximum amount of users in certain [tiers](/handbook/marketing/product-marketing/tiers/). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises). We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger then the limit.
+1. Size: many other software companies limit the maximum amount of users in certain [tiers](/handbook/marketing/strategic-marketing/tiers/). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises). We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger then the limit.
 
 So we're left with charging for features.
 We can't charge for each feature separately, since that is unwieldy for the customer.
@@ -484,8 +515,8 @@ To simplify the above, we base our feature groupings on champion position (see b
 
 ## Buyer-Based-Open-Core
 
-The likely type of buyer determines what features go in what tier.
-Our plans are based on [the buyer](#four-tiers) that buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#multiple-plans-for-one-customer), even if they don't use all the features.
+We make feature tiering decisions based on: **"Who cares most about the feature"**.
+Our [four tiers](#four-tiers) are differentiated based on [the buyer persona](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#single-plan-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
@@ -529,7 +560,7 @@ Below is a video with the CEO discussing the philosophy of this with a Product M
 
 When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
 data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
-[open source features should never move to paid tiers](company/stewardship/#promises).
+[open source features should never move to paid tiers](/company/stewardship/#promises).
 
 We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
 ability to move features up in tier, proving the necessity has a much higher bar since we are constraining the existing reach of a feature rather than expanding it.

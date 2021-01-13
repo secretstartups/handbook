@@ -165,13 +165,13 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ## Pick Your Brain interviews
 
-To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
+To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
 
 For scheduling a video call or meeting with me or other execs, please see the [EBA handbook page](/handbook/eba/).
 
 ## External Speaking Engagements
 
-To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
+To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
 
 ### Requests for audio/visual check meetings 
 If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual is working as expected. A longer prep meeting is not required as Sid has a robust remote work set up. 

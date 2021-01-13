@@ -76,7 +76,7 @@ Examples of a project with no clear leader:
 
 Some projects or initiatives are very broad and cross-functional and *make sense* to belong to the CEO but are not a strategic use of the CEO's time.
 OKRs are a prime example. OKRs need to happen and are key to the business but it is not efficient for the CEO to shepherd the process along.
-The CoST is the shepherd for these sorts of projects and collaborates with all team members at GitLab to achieve success on such initatives.
+The CoST is the shepherd for these sorts of projects and collaborates with all team members at GitLab to achieve success on such initiatives.
 
 Examples of broad projects:
 * E-group offsite prep
@@ -157,13 +157,13 @@ The Group Conversations are stored in the "CEO Evangelism" folder on Google Driv
 
 ### How to prepare the Slides
 
-* Start by copying the last slide deck. This will form the skeleton. 
+* Start by copying the last slide deck. This will form the skeleton.
 * OKRs may need to be updated for the quarter, depending on the date.
 * Update with timely announcements, e.g. E-Group Offsite updates, anything shared in Company FYI recently, any great wins.
 * If there aren't any timely announcements, take this opportunity to remind folks about some of the key features of our [Communication](/handbook/communication/) guidelines, including our Top Misused Terms, MECEFU, or Why we track public Slack messages.
 * Review the [recent CEO Shadow MRs](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=✓&state=all&label_name[]=ceo-shadow) and the CoS agenda for anything that could be added to the "Top of Mind" section.
 
-Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation. 
+Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
 ## E-Group Offsite
 
@@ -176,9 +176,9 @@ Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gi
 
 ## CEO Performance Evaluation
 
-Every spring the Board does a CEO Evaluation, through which a number of areas for focus come up.
-The CoS is reponsible for a quarterly update to the board on the progress made  on those areas for focus.
-For example, if one area of focus is "set 3-year strategy", the CoS will review and refresh the strategy page, if appropriate, and share with the Board any updates made to the page.
+In Q1 of a new fiscal year, the Board does a CEO Evaluation. This Evaluation will flag specific areas for attention or improvement.
+The CoS is responsible for an update every other quarter to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
+For example, if one area of focus is "set 3-year strategy", the CoS will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high level summary of relevant key activities.
 
 ## Fiscal Year Kickoff
 
@@ -193,7 +193,7 @@ The CoS enables and manages this group.
 ## Maintaining the Biggest Risks and Tailwinds
 
 We outline our [biggest risks](/handbook/leadership/biggest-risks/) and our [biggest tailwinds](/handbook/leadership/biggest-tailwinds/) in the handbook.
-The CoS is reponsible for maintaining this list.
+The CoS is responsible for maintaining this list.
 There is an issue to also [add DRIs and review the mitigations](https://gitlab.com/gitlab-com/cos-team/-/issues/20).
 
 ## Dates to Keep Track of
@@ -215,10 +215,10 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 * December
 
 **E-group Offsites**
-* February
-* May
-* August
-* November
+* January
+* April
+* July
+* October
 
 ## Daily Standup
 
@@ -233,12 +233,12 @@ Give responses to Geekbot that truly communicate to your team what you're workin
 
 The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
 
-If you are interested in participating in the Chief of Staff Shadow program, open a merge request to add your name to the below table, assign to yourself and slack the `#chief-of-staff-team` for review and merge. 
+If you are interested in participating in the Chief of Staff Shadow program, open a merge request to add your name to the below table, assign to yourself and slack the `#chief-of-staff-team` for review and merge.
 
 |  Start Date | End Date | First & Last Name | GitLab Handle |
 | --- | --- | --- | --- |
 |2020-05-23|2020-08-21  | Mike Miranda | @mmiranda |
-|2020-08-31|2020-10-09  | Jerome Ng | @jeromezng |
+|2020-08-31|2020-12-18  | Jerome Ng | @jeromezng |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
@@ -253,10 +253,16 @@ If you are interested in participating in the Chief of Staff Shadow program, ope
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
+
+### Important things to note
+1. This is not a performance evaluation
+1. Plan to observe and ask questions.
+1. Participating in the shadow program is a privilege where you will be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
+1. Give feedback to and receive feedback from the Chief of Staff. Participants in the shadow program are encouraged to deliver [candid feedback](/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ## Resources on the CoS Role
 
-* [The Unrepentent Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
+* [The Unrepentant Generalist: How to Be a Great Chief of Staff in Tech](http://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
 * [NYT: Hail to the Chief of Staff](https://www.nytimes.com/2019/11/07/style/what-does-a-chief-of-staff-do.html)
 * 2020 March: [Chief of Staff in the Tech Industry](https://medium.com/@alexismonville/chief-of-staff-in-the-tech-industry-c7dc3a43dae6)
 * [Emilie Schario's Notes on the CoS Book](https://docs.google.com/document/d/1ZjWmqhv78eic57gxR825FvC9GMHo91pYakb3Jc7ximU/edit?usp=sharing)
