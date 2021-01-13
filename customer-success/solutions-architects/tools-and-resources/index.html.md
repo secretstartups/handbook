@@ -21,7 +21,7 @@ title: Tools and Resources
 - [Releases Blog](https://about.gitlab.com/releases/categories/releases/)
 - Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
 
-# Proof of Value (POV) Guidelines
+## Proof of Value (POV) Guidelines
 {:.no_toc}
 
 GitLab wants prospects to enjoy a successful Proof of Value (formerly known as Proof of Concept) with GitLab Enterprise Edition as needed. A POV is a collaboration between GitLab and the prospective customer for evaluating GitLab Enterprise Edition. As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Due to cost and time intensity, a POV should not be the default course of action for most GitLab buyers. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
@@ -32,15 +32,9 @@ The target duration for a POV is between 1 and 8 weeks depending on complexity a
 
 GitLab Solutions Architects should consider a limit of 3 concurrent Guided or Paid POV's as a best practice in order to provide optimal customer service and to enable a target of achieving 24 hour or less response times to inquiries during any POV. If more than 3 concurrent Guided or Paid POV's are required, the SA should assess their ability to support the additional requirements and/or discuss viability with their manager as well as other SA's in their region.
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+### Tracking a POV in Salesforce
 
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Tracking a POV in Salesforce
-
-### Salesforce Object
+#### Salesforce Object
 
 In order to track a POV correctly in Salesforce, the Strategic Account Leader should position the opportunity as Stage 3. The Solutions Architect will create the POV object within SFDC when the prospect or customer has indicated interest in moving forward with a guided or lite POV.
 
@@ -60,7 +54,7 @@ Complete the following fields at minimum:
 
 Once the POV begins, the Solutions Architect should change the **Status** field from _New_ to _In Progress_. When the POV is complete, the Solutions Architect should change the **Status** to _Closed_ and the **Result** should be identified as _Successful_ or _Unsuccessful_. Freeform notes should be added to support the reason for the successful or unsuccessful result.
 
-## POV Best Practices
+### POV Best Practices
 
 Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal. This should only be used for technical abnormalities, not for integration or implementation assistance.
 
@@ -113,7 +107,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 
 POV-related calls may be recorded with customer consent. Recordings may be stored in Chorus, in a folder on Google Drive (if recorded locally), or within the project repository (if small). Any recording links should be identified in the notes stored within the Documents directory of the project repository.
 
-## POV Types
+### POV Types
 
 There are multiple options when executing a POV. The POV type chosen should reflect the wishes and best fit for the customer. POV types, in order of usage frequency, include:
 
@@ -124,7 +118,7 @@ There are multiple options when executing a POV. The POV type chosen should refl
 
 Best practices specific to each type of POV follows.
 
-### Guided POV
+#### Guided POV
 
 The Guided POV is the most commonly utilized type of POV for Enterprise accounts. These will commonly have a 30 to 60 day duration.
 
@@ -229,11 +223,11 @@ Edit each area highlighted in yellow within the document to include pertinent in
 
 Finally, ensure both GitLab and the prospect have a copy of the document. Schedule weekly meetings for the duration of the POV via calendar invites prior to distributing the GitLab Enterprise Edition license for the POV.
 
-## Commercial Sales POV Guide
+### Commercial Sales POV Guide
 
 Commercial Sales POV's are commonly executed as a variety of the Lite POV, though they may not utilize the [Lite POV document](https://docs.google.com/document/d/1PO3jXG3wiKsCbx5vb8dm4SmOe_PiTB47SadROIO8nCc/edit#). Typical customer interactions for Commercial POV's are identified below.
 
-### Kick Off Meeting
+#### Kick Off Meeting
 
 - Duration: 30 Minutes
 - Attendees: GitLab Account Executive, GitLab Solutions Architect, Prospective Customer
@@ -250,7 +244,7 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
     - Records any existing or new feature requests of interest to customer
     - Leads troubleshooting and escalation of blockers
 
-### Commercial Sales - POV and Customer Success Plan Creation
+#### Commercial Sales - POV and Customer Success Plan Creation
 
 - Create and track the POV in Salesforce according to [this process](/handbook/sales/POV/#tracking-a-pov-in-salesforce)
 - Create a new [customer project](https://gitlab.com/gitlab-com/account-management/commercial/pre-sales) in the Commercial/Pre-sales group. To use the template, select the 'Create from Template' tab, select the 'Group' templates, and then click 'Use template' for the 'New Customer Project - Commercial Sales' template.
@@ -261,13 +255,13 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
         - TAM and AE determine TAM eligibility and engagement based on Account Tier and IACV.
         - TAM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
 
-## POV Template Document
+### POV Template Document
 
 As an alternative (or in addition) to using a collaborative GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.
 
 This document suggests and verifies specific success criteria for any POV, as well as outlining a mutual commitment between GitLab and the identified prospect parties. It also specifies the limited timeframe in which the POV will occur.
 
-### Using the POV Template Document
+#### Using the POV Template Document
 
 To use the full POV template, begin by making a copy of the [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) for each POV.
 
@@ -275,61 +269,21 @@ Edit each area highlighted in yellow within the document to include pertinent in
 
 Finally, ensure both GitLab and the prospect have a copy of the document. Schedule weekly meetings for the duration of the POV via calendar invites prior to distributing the GitLab Enterprise Edition license for the POV.
 
-- Duration: 30 Minutes
-- Attendees: GitLab Account Executive, GitLab Solutions Architect, Prospective Customer
-- Agenda:
-    - Define success criteria (as a best practice, have no more than 5 required capabilities)
-    - Confirm start and end date
-    - Determine primary communication method
-        - Customer to decide if they are interested in communicating on a collaborative GitLab project or email only
-        - Collaborative, time-limited Slack channels are an option depending on SA capacity and opportunity IACV
-        - Frequency options: 30 minute weekly call or email touchbase weekly with calls scheduled as needed
-- SA role:
-    - Acts as the primary point of contact throughout POV process
-    - Tracks status updates regarding success criteria
-    - Records any existing or new feature requests of interest to customer
-    - Leads troubleshooting and escalation of blockers
-
-### Commercial Sales - POV and Customer Success Plan Creation
-
-- Create and track the POV in Salesforce according to [this process](/handbook/sales/POV/#tracking-a-pov-in-salesforce)
-- Create a new [customer project](https://gitlab.com/gitlab-com/account-management/commercial/pre-sales) in the Commercial/Pre-sales group. To use the template, select the 'Create from Template' tab, select the 'Group' templates, and then click 'Use template' for the 'New Customer Project - Commercial Sales' template.
-- Edit README.md with information specific to POV under the Proof of Value section and fill in any additional relevant fields.
-- Upon completion of POV, update Salesforce record with POV result as successful or unsuccessful and provide supportive reasons in the associated freeform fields
-    - For a successful POV:
-        - SA adds any other known information in README.md, then moves the project from the Pre-sales group to [Commercial](https://gitlab.com/gitlab-com/account-management/commercial)
-        - TAM and AE determine TAM eligibility and engagement based on Account Tier and IACV.
-        - TAM, SA and AE schedule meeting with new customer to establish a starting baseline, review the project data and establish intended collaborative usage moving forward.
-
-## POV Template Document
-
-As an alternative (or in addition) to using a collaborative GitLab project, a document is available which helps outline the details of a POV. The POV [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) provides the framework for a successful POV by addressing the primary business value driver, the current situation, the desired objective, the required capabilities, metrics and environment information.
-
-This document suggests and verifies specific success criteria for any POV, as well as outlining a mutual commitment between GitLab and the identified prospect parties. It also specifies the limited timeframe in which the POV will occur.
-
-### Using the POV Template Document
-
-To use the full POV template, begin by making a copy of the [template document](https://docs.google.com/document/d/1N6gFggzxqueyywF8CxepfjCi-2AIed9PVyy8VcpfIJk/edit?usp=sharing) (only accessible to GitLab team members) for each POV.
-
-Edit each area highlighted in yellow within the document to include pertinent information for any particular prospect. This information includes basic data like the prospect name and GitLab team-member details, as well as data to be collaboratively identified with the prospect, such as primary objective, required capabilities and the environment information. Delete any red-colored instructional text.
-
-Finally, ensure both GitLab and the prospect have a copy of the document. Schedule weekly meetings for the duration of the POV via calendar invites prior to distributing the GitLab Enterprise Edition license for the POV.
-
-## POV Resources
+### POV Resources
 
 Below is an evolving list of projects that have proven beneficial during POVs, which may be a great starting point to offer customers.
 
-### End-to-End Proof Projects
+#### End-to-End Proof Projects
 
 These projects have a very simple set of code that provides the ability to demonstrate the `happy-path` for a POV.  While these are more in the Hello World category of projects, they tend to have simple mechanizations to exercise different parts of GitLab.  SAs have used these in the past as a way to assess the installation of self-managed environments.
 
 - [Insecure Tanuki Tech Project](https://gitlab-core.us.gitlabdemo.cloud/demosys-users/skamani/insecure-tanuki) was developed internally to show the usage of Auto DevOps. It is predominantly focused on Secure features, but serves well to present all stages.
 
-### Demonstrative of specific stages
+#### Demonstrative of specific stages
 
 These projects are demonstrative of specific stages.  They are generally built on existing code OSS bases which the customer may be familiar with, are easy to understand, and have good literature to refer to.
 
-#### Secure Stage Projects
+##### Secure Stage Projects
 
 - [Nodejs Juice Shop](https://github.com/bkimminich/juice-shop) repository comes with a .gitlab-ci.yml file to get started with SAST and Dependency Scanning.  Incorporate others incrementally as needed.
 - [OWASP WebGoat.NET](https://gitlab-core.us.gitlabdemo.cloud/tanuki-group/dot-net-webgoat) repository can be enabled with SAST, License Management and Secrets Scanning very quickly using the packaged templates.  This validates our positioning in .NET application development (both Framework and Core).
@@ -364,7 +318,7 @@ No two presentations are the same and we often find ourselves mixing and matchin
 - [Official Customer Facing Presentations](https://about.gitlab.com/handbook/marketing/strategic-marketing/#customer-facing-presentations) - Here you will find the [Company Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/) with the GitLab narrative, [Customer Value Deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/) with Value Drivers and Differentiators, and [Security Deck](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit?usp=sharing) with best practices on Shift-Left security.   _These should be the starting point of any tailored deck!_
 - [All The Things](https://docs.google.com/presentation/d/1mGMyciRrobnOgazoc20_Q5HiBcP8ydp_JWjzgBj4tRI/) - Not a pitch deck.  Owned by a Solution Architect, this is a holistic, tactical guide to GitLab as a Product constantly updated with screenshots.
 - [General Demo](https://docs.google.com/presentation/d/17SoRPxPCswT_FublXCsi3rm3TBnHAYI-/) - Product Walk-through from the lens of a Solution Architect covering Velocity, Visibility, and Security & Compliance.
-- [Getting Started](https://docs.google.com/presentation/d/1LJTZ7SC4EWcXJx3ptiA23Cf1i33GJHTE) - Kicking off a POV? This is a fantastic deck to help Customers on their journey to setting up Users, Groups, Pipelines, Auto DevOps, and more!
+- [Getting Started](https://docs.google.com/presentation/d/1LJTZ7SC4EWcXJx3ptiA23Cf1i33GJHTE) - Kicking off a POV? This is a fantastic deck to help Customers on their journey to setting up Users, Groups, Pipelines, Auto DevOps, and more.
 
 ## RFP Responses
 
