@@ -13,6 +13,9 @@ title: "Digital Experience Handbook"
 
 ## Overview
 
+### Managed Channels
+[The Marketing Website](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/)
+
 ### Purpose
 
 *Why we exist*
@@ -169,6 +172,7 @@ This is the template we use for [Sprint Retros](https://docs.google.com/document
 **Weighting**
 
 We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
+
 
 ## Contact Us
 
