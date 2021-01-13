@@ -24,7 +24,7 @@ When working on creating the new docs, please follow the [documentation stylegui
 
 This workflow is implemented using GCP functions as an intermediary between Zendesk and GitLab.
 
-**Note:** Issues are created with [label="Support Team Contributions" and label=documentation](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Support%20Team%20Contributions&label_name[]=documentation).
+**Note:** Issues are created with [label=documentation](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=documentation).
 
 #### The GCP Documentation Function
 
