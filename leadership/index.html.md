@@ -13,7 +13,9 @@ This page contains leadership pointers.
 The first couple of headers indicate which group they apply to, using the groupings
 defined on our [team structure page](/company/team/structure/).
 
-## GitLab team members
+## Managers of One
+
+In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
@@ -100,28 +102,6 @@ Please see [/handbook/leadership/1-1](/handbook/leadership/1-1).
 ## Skip level interactions
 
 Please see [/handbook/leadership/skip-levels](/handbook/leadership/skip-levels).
-
-## Managers of one
-
-In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
-
-**Skills and behavior of being a manager of one as a Team Member**:
-
-- Takes responsibility to complete tasks and goals within appropriate timelines
-- Delivers on commitments independently and without supervision
-- Drives issue-based discussions grounded in a clear understanding of challenges and barriers
-- Highlights areas for process improvement and proactively brings them up with leadership
-- Continuously looks for opportunities to improve or iterate on current processes
-- Communicates status of goals and delivers on agreed-upon timing of completion with leadership
-
-**Skills and behaviors of being a manager of one as a People Leader**:
-
-- Holds their team accountable for establishing goals and meeting their commitments
-- Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
-- Establishes goals for their team while seeking input from leadership
-- Skilled at having difficult conversations with team members and leadership
-- Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
-- Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
 
 ## Coaching
 
