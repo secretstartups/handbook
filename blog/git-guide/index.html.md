@@ -87,3 +87,9 @@ git reset -hard  origin/0000-branch-name
 If you're having problems with Git, reach out in the following Slack channels =)
 - [#git-help](https://app.slack.com/client/T02592416/C1E21S2LD)
 - [#mr-buddies](https://app.slack.com/client/T02592416/CLM8K5LF4)
+
+### Existing Resources
+
+Here are some existing resources from GitLab for Git.
+- [Developer Cheatsheet, Engineering Handbook](https://about.gitlab.com/handbook/engineering/development/dev/create-editor/developer-cheatsheet/)
+- [Git Cheat Sheet for Press](/images/press/git-cheat-sheet.pdf)
