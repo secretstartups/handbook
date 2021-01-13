@@ -34,6 +34,15 @@ Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab
  with a `RELEASE` variable and use the copied string as its value. Also, add the `CI_MERGE_REQUEST_IID` variable which corresponds to the Merge Request ID with the changes in GitLab QA. Run the pipeline against the branch that
  has your changes.
 
+## Running end-to-end test pipelines using code from a specific GitLab-QA branch
+
+It is often needed to test the impact of changes in the [GitLab-QA codebase](https://gitlab.com/gitlab-org/gitlab-qa) on
+[Nightly](https://gitlab.com/gitlab-org/quality/nightly/-/pipelines), [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines),
+[Pre-Prod](https://ops.gitlab.net/gitlab-org/quality/preprod/-/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/-/pipelines) 
+or [Production](https://ops.gitlab.net/gitlab-org/quality/production/-/pipelines) pipelines.
+This can be achieved by manually triggering a pipeline in any of these projects and setting the `QA_BRANCH` variable to the branch name you are working on in the [GitLab-QA project](https://gitlab.com/gitlab-org/gitlab-qa).
+As a result, the pipeline will checkout the specified branch and build the `gitlab-qa` gem instead of using the latest published gem.
+
 ## Determine the version, revision, branch and package deployed in GitLab environments:
 
 To find out the version, revision, branch and package deployed in gitlab.com, staging and canary environments,
