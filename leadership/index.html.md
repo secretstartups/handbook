@@ -34,15 +34,19 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
 1. Saying something to the effect of "as you might have heard", "unless you've been living in a cage you know", "as everyone knows", or "as you might know" is toxic. The people that know don't need it to be said. The people that don't know feel like they missed something and might be afraid to ask about the context.
 1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
+1. Act as a CEO of yourself and your role by taking responsibility to set goals and appropriate timelines.
+1. Communicate clearly with your team and people leader on the status of your goals. Act quickly to address areas that pose a challenge or to reassess goals that cannot be reached in an alloted timeframe.
 
 
+### Examples of actions from managers of one at GitLab
 
-Takes responsibility to complete tasks and goals within appropriate timelines
+1. When asked to attend a synchronous brainstorming call, an IC instead opens an issue and requests for their team's ideas asynchronously.
+1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor](/handbook/values/#be-a-mentor). 
+
+
 Delivers on commitments independently and without supervision
 Drives issue-based discussions grounded in a clear understanding of challenges and barriers
 Highlights areas for process improvement and proactively brings them up with leadership
-Continuously looks for opportunities to improve or iterate on current processes
-Communicates status of goals and delivers on agreed-upon timing of completion with leadership
 
 Holds their team accountable for establishing goals and meeting their commitments
 Consistently hires managers of one that fit the GitLab values
