@@ -197,7 +197,6 @@ We review traffic to blog posts on a quarterly basis. You can view past analyses
 - [FY21-Q3](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues/63)
 - [FY21-Q2](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues/42)
 - [FY21-Q1](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/50)
-We are updating the Growth Marketing team to be called Inbound Marketing, and this change requires extensive updates to the handbook to correctly organize our sections. See MR #68699:sites/handbook/source/handbook/marketing/inbound-marketing/content/editorial-team/index.html.md
 - [FY20-Q4](https://docs.google.com/spreadsheets/d/1UzxsrnVVBUYx2Jrznj6Y4iDhWA4x4GaN0NGn2L01SO0/edit?usp=sharing)
 - [FY20-Q3](https://docs.google.com/spreadsheets/d/1sHnJESIV1m7lHgPd8SFqKfEmsQHq5lFGad6ES-oE4M8/edit?usp=sharing)
 
