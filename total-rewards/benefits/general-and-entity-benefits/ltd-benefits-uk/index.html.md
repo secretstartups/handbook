@@ -224,6 +224,10 @@ For a Maternity leave, once an employee notifies GitLab of the pregnancy, People
   * GitLab will be able to recover from the Government the 39 weeks of statutory maternity pay.
   * Maternity pay is taxable and liable for National Insurance deductions much in the same way that standard pay is.
 
+### Statutory Vacation Leave
+
+Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Under normal circumstances, there is no carryover for unused vacation days; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
+
 ## Employer's Liability Insurance
 
 You can view the `Certificate of Employers Liabilty Insurance` [here](https://drive.google.com/file/d/1eK-_KjE_ITcaryW5QLfP6_v__u3jtaBH/view?usp=sharing).
