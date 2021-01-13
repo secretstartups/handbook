@@ -107,8 +107,9 @@ The Practice Manager follows these steps to request creation of a new SKU.
   1. Include an executive summary with the business rationale
 1. Submit to VP of Customer Success for approval
 1. Submit to CFO, CRO and CEO for approval
-1. Once approved, submit to Accounting to create SKU in Zuora (note: Accounting does not create a SKU number but does add the offering to the product catalog)
-1. Once it is added to the product catalog, make up a new SKU number for the offering and add it to the Current SKUs listing by editing the services.yaml file and creating a merge request.
+1. Once approved, add a comment for the accounting team to create set up the SKU in Zuora
+1. Add a comment for Kim Stagg to add the product to the Price Book and to provide you with the SKU number/Channels part number. In your comment include the Product Name and Product description. Updates to the Price Book will be released to distributors quarterly.
+1. Once the product has been added to the product catalog and Price Book, update the services.yaml file to include the new product details.
 
 #### Validating SKU shows in Salesforce
 1. Login to salesforce.
