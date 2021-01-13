@@ -34,7 +34,7 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
     - [see this epic for holding location of projects to be prioritized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1040)
 
 ### Quick Links
-{:#bt-quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
+{:#quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
 To be added
 
 ## GitLab Email Calendar
