@@ -124,9 +124,9 @@ Everyone can [contribute to the marketing website](#updating-the-marketing-websi
 
 - The website team (part of marketing) is responsible for the design and development of the website. [Marketing website team documentation and workflow](/handbook/marketing/inbound-marketing/digital-experience/).
 
-### Growth Marketing
+### Inbound Marketing
 
-- CTAs (Calls to action): The Growth Marketing team owns all buttons on the website including which pages get CTAs, the text used and where they link to. (Note: the website team still owns the design and styles of the buttons to ensure they are consistent and on brand.)
+- CTAs (Calls to action): The Inbound Marketing team owns all buttons on the website including which pages get CTAs, the text used and where they link to. (Note: the website team still owns the design and styles of the buttons to ensure they are consistent and on brand.)
 - Build and implement online growth strategy:
   - Search Engine Optimization
   - Paid search and social
@@ -151,6 +151,27 @@ Everyone can [contribute to the marketing website](#updating-the-marketing-websi
 #### Requesting Support
 
 If your team is unable to update the website, or you need additional levels of support please visit this section for [Requesting Support](/handbook/marketing/inbound-marketing/#website-issue-templates)
+
+The time needed for your webpage request will vary on a number of factors, including, but not limited to: 
+- The number of pages (URLs) being created
+- The level of design work 
+   - If you are using an existing page template from the design system 
+   - If you are asking for complicated web design elements v. simple lists 
+   - If you are able to provide all images for the page
+- The level of content support 
+- You or your team's ability to edit a webpage using GitLab 
+
+**Set yourself up for success**
+- Know the URL and keywords you want to use
+   - Search Team [Issue Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#inbound-marketing-issue-templates) to Request support
+   - See [naming conventions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions)
+- Provide the layout you want to use from existing pages 
+- Provide the content in the layout of the existing page template
+  - Example: This [Content Wireframe Template](https://docs.google.com/document/d/1ypPJVNEpaSiafY0BnZ0p49tBfVeBGQnySVhgYE7gikk/edit?usp=sharing) is based on the current about.gitlab.com/enterprise page
+- Provide all the files for images (assets, logos, etc.)
+  - See Specs
+- To officially begin the request submit a brief via an [Issue Template](https://about.gitlab.com/handbook/marketing/inbound-marketing/#website-issue-templates)
+
 
 ### Naming conventions
 
