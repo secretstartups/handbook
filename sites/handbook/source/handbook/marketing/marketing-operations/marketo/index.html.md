@@ -168,6 +168,7 @@ These are boosters to scores that occur when a special action takes place above 
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
 |Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|Everytime|
+|PathFactory Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 
@@ -198,7 +199,6 @@ Marketo Marketing Activities are broken up into three sections: `Operational Pro
 Below is the folder structure to hold and categorize different operational programs and marketing programs.
 
 - Active Marketing Programs
-    - Account Based Marketing (ABM)
     - Conference
     - Direct Mail
     - Emails
@@ -241,6 +241,7 @@ Marketo segmentations are used similar to a smartlist, but they are permanent an
 These are the current segmentations that are alive and approved.
 - [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 - [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
+- [Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)
 
 ### Account Based Marketing List   
 
