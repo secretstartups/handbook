@@ -48,10 +48,11 @@ In order to attract GitLab Support's attention on Slack, you can use the team ha
 
 If your customer contacts you requiring technical support, there are two good options available to you:
 
-1. (Preferred) If it's reasonable to do so, please direct them to open a ticket through the [Support Portal](https://support.gitlab.com). It is Support's primary function to provide technical support for our customers and as paid users they are entitled access to us. This is the preferred option as the customer is best positioned to  describe their own issue and needs.
-1. If it would be better for you to open a request on behalf of the customer, you can [open a support ticket](https://support.gitlab.com/hc/en-us/requests/new). Please ensure first that you aren't logged into Zendesk with a [light agent account](#viewing-support-tickets). If you are, a simple workaround is to use a private/incognito window in your browser-of-choice to submit the ticket. When submitting the ticket, in the "Your email address" field, simply enter the email address of your customer.
+1. (Recommended) In most cases, please direct them to open a ticket through the Support Portal. It is Support's primary function to provide technical support for our customers, and as paid users, they are entitled to access to us. This option is recommended as the customer is best positioned to describe their own issue and needs. Ensure that the customer understands that it will almost always be the fastest path to response to reach out to support directly, cc'ing in their technical account manager, as the support team operates within a 24/7 model, unlike any other team at GitLab.
 
-If you'd like to be CCed on the ticket, please make sure you request it on the ticket body.
+1. In sensitive cases in which asking a customer to open a ticket would aggravate a situation, you can open a support ticket. Please ensure first that you aren't logged into Zendesk with a light agent account. If you are, a straightforward workaround is to use a private/incognito window in your browser-of-choice to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address.
+
+If you'd like to be CC'd on the ticket, please make sure you request it on the ticket body.
 
 ### Requesting support for GitLab.com users that have account or login issues
 
