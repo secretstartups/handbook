@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Infrastructure Department Projects"
+description: “GitLab’s approach to the types, data classifications, canonical locations, ownership, workflow and organization of infrastructure department projects”
 ---
 
 ## On this page

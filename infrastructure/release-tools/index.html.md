@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Release Tools
+description: "Guide to GitLab's tools for new releases"
 ---
 
 ## On this page
