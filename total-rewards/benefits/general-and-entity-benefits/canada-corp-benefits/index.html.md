@@ -115,7 +115,6 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 
 * Employees who have worked at GitLab for at least seven consecutive months are entitled to [17 weeks of maternity leave and/or 63 weeks of parental leave](https://www.gov.mb.ca/labour/standards/doc,parental-leave,factsheet.html).
 * Maternity leave is classified as leave taken by mothers near the end of a pregnancy or immediately afterwards. Parental leave is classified as leave taken by fathers and mothers to care for a child after birth or adoption. 
-* If an employee wishes to take the full 63 weeks of parental leave, the employee will receive [100% paid leave from GitLab for 16 weeks, if eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) and the rest will be unpaid.
 
 **GitLab Parental Leave Payments and Employment Insurance**
 
