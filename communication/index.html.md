@@ -30,7 +30,6 @@ We communicate respectfully and professionally at all times.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/company/culture/all-remote/effective-communication/).
 
-
 ## Everyone is a Moderator
 
 If you see something that concerns you in Slack, Issues, Merge Requests, Video, Emails or any other forum, we encourage you to respectfully say something directly to the individual in a 1:1 format. If you are not comfortable reaching out to the individual directly, please reach out to your direct manager or People Business Partner to discuss.
@@ -152,7 +151,6 @@ In an [all-remote setting](/company/culture/all-remote/terminology/), where team
 
 To learn more on when to use asynchronous and synchronous communication, examples of async workflows in practice at GitLab, core async behaviors, and to take an async knowledge assessment, visit [GitLab's guide to embracing asynchronous communication](/company/culture/all-remote/asynchronous/).
 
-
 ## Top Tips and Best Practices
 1. All written communication happens in English, even when sent one on one, because sometimes you need to forward an email or chat.
 1. Use **asynchronous communication** when possible: merge requests (preferred) or issues. Announcements happen on the appropriate Slack channels and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
@@ -191,7 +189,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 ### Ask Me Anything Meetings
 
-[Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.  
+[Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
 
 ### Posting in #company-fyi
 ```mermaid
@@ -315,7 +313,7 @@ Some things are **internal**, available internally but not externally. The follo
    1. forward-looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going-public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the [S1](https://en.wikipedia.org/wiki/Form_S-1) becomes public, 21 days before going public.
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/procure-to-pay/).
 1. Content that would violate confidentiality for a GitLab team member, customer, or user.
-1. Legal discussions are not public due to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
+1. Legal discussions are not public due to the purpose of Attorney-Client Privilege
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 1. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers.  If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
@@ -335,11 +333,11 @@ The items below are not shared with all team members. Limited access is a more s
 1. Customer lists and other customer information are not public since many customers are not comfortable with that and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, and/or number of users, the issue should be made confidential. Avoid putting customer information in an issue by describing them instead of naming them and by linking to their Salesforce account.
 1. Plans for reorganizations. Reorganizations cause disruption and the plans tend to change a lot before being finalized, so being public about them prolongs the disruption. We will keep relevant team members informed whenever possible.
 1. Planned pricing changes. Much like reorganizations, plans around pricing changes are subject to shift manage time before being finalized. Thus, pricing changes are limited access while in development. Team members will be consulted before any pricing changes are rolled out.
-1. Legal discussions are restricted to the [purpose of Attorney-Client Privilege](/handbook/legal/#what-is-the-purpose-of-these-privileges).
+1. Legal discussions are restricted to the purpose of Attorney-Client Privilege.
 1. Some information is kept confidential by the People Group to protect the privacy, safety, and security of team members and applicants, including: job applications, background check reports, reference checks, compensation, terminations details, demographic information (age and date of birth, family or marital status, national identification such as passport details or tax ID, required accommodations), home address. Whistleblower identity is likewise confidential. Performance improvement plans, disciplinary actions, as well as individual feedback are restricted as they may contain negative feedback and [negative feedback is 1-1](/handbook/values/#collaboration) between you and your manager. However, People Group policies and processes are public (for example, [Job families](/handbook/hiring/job-families/) and our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/)), along with information that team members choose to share on the [Team](/company/team/) page.
 1. Performance improvement plans, disciplinary actions, as well as individual feedback, are confidential as they contain private negative feedback and [negative feedback is 1-1](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#all-feedback) between team members and managers
 1. GitLab's Risk Register, is maintained by the [Risk & Field Security Team](/handbook/engineering/security/security-assurance/risk-field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
-1. Acquisition offers for us are not public since informing people of an acqusition that might not happen can be very disruptive
+1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
 
 
@@ -408,7 +406,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
 1. If there are introductions being performed please make sure that nobody is presenting. We remember people better and have more empathy when we clearly see peoples faces and expressions.
 1. At the end of the presentation when you go to Q&A stop presenting in Zoom. This way the other people can see the person who is speaking much better.
-1. All presentations at GitLab should be based on screenshots of the handbook, issues, merge requests, review apps, and data from GitLab Insights and SiSense charts. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
+1. All presentations at GitLab should be based on screenshots of the handbook, issues, merge requests, review apps, and data from GitLab Insights and Sisense charts. In most cases it shouldn't be needed to make content uniquely for the presentation. If you need something that doesn't exist yet add it to the place it belongs and then copy it into the presentation. This way we can have a [Single Source of Truth](/company/culture/all-remote/handbook-first-documentation/#creating-a-home-for-a-single-source-of-truth-ssot) for everything we do. By using screenshots you indicate to people you did the right thing and they can find the canonical source in the appropriate place. Having to find information by digging through old presentations doesn't scale. Consider linking the screenshot to the original source.
 1. Do not use cumulative graphs internally. For example total ARR, total user, total contributors, or total Merge Requests. Instead use IACV per dollar spend, users added per month, contributions per month, or [MR rate](/handbook/engineering/development/performance-indicators/#development-department-member-mr-rate). Cumulative graphs can [hide trends](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization) and are [far more likely to be misinterpreted](https://measuringu.com/cumulative-graphs/). The only acceptable use of cumulative graphs is for external presentations where they are expected by the audience and commonly used.
 
 ## Say Thanks
@@ -444,6 +442,47 @@ As a second iteration, we will begin tracking the number of emoji reactions for 
 
 When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](/handbook/values/#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
+
+## Effective Listening
+
+It is estimated that listeners will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
+
+**Myths about Listening**
+
+- Everybody knows how to listen.
+- Sending messages is more important than receiving them.
+- Listening is easy and passive.
+- Hearing and listening are the same thing.
+- An effective speaker commands audience attention.
+- Communication is the sender’s responsibility.
+- Listening is done with our ears.
+- Listening skills are practiced not learned.
+- Listening ability comes from maturity.
+
+**Tips for Effective Listening**
+
+- Concentrate.
+- Give unequivocal attention to the speaker.
+- Don’t anticipate what the speaker means.
+- Test the message not the messenger.
+- Respect cultural difference and boundaries.
+- Develop the fine art of empathy.
+- Try not to interrupt.
+- Focus on feelings and not grammar or vocabulary.
+- Silence is the golden rule.
+
+**Being Assertive**
+
+There is a delicate balance between being confident enough to be assertive of personal rights and boundaries while respectful of others.
+
+- Know the distinction between being assertive and being aggressive or arrogant.
+- Establish clear boundaries when dealing with others.
+- Politely but directly let people know your position.
+- Know what you want.
+- Avoid being timid.
+- Be willing to clearly say either yes or no and stand by your answer.
+- Avoid arrogance.
+- When opinions are in question give yourself permission to disclose yours.
 
 ## Not sure where to go?
 
@@ -556,7 +595,7 @@ The goal of Focus Fridays is to maximize efficiency by creating designated meeti
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
-Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-01-08.
+Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-04-30.
 
 ### Common Meeting Problems
 
@@ -878,17 +917,17 @@ Be sure to use Simple Language in written communications as well.
 Our handbook, website, docs, marketing materials, and candidate or customer emails should be clear, concise, and effective.
 Corporate marketing maintains guidelines on [GitLab's tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1).
 
-| Instead of... 	| Try... 	|
-|-----------------------------------	|----------------------------------	|
-| Getting buy-in/Getting alignment 	| Asking for feedback since DRIs make decisions	|
-| Synergy 	| Effective Collaboration 	|
-| Get all your ducks in a row 	| Be organized 	|
-| Don't let the grass grow too long 	| Work quickly 	|
-| Leverage 	| Use more explicit phrasing- debt, etc. 	|
-| Send it over the wall 	| Share it with a customer 	|
-| Boil the ocean 	| Waste time 	|
-| Punt 	| Make less of a priority 	|
-| Helicopter view/100 foot view 	| A broad view of the business 	|
+| Instead of...   | Try...  |
+|-----------------------------------  |---------------------------------- |
+| Getting buy-in/Getting alignment  | Asking for feedback since DRIs make decisions |
+| Synergy   | Effective Collaboration   |
+| Get all your ducks in a row   | Be organized  |
+| Don't let the grass grow too long   | Work quickly  |
+| Leverage  | Use more explicit phrasing- debt, etc.  |
+| Send it over the wall   | Share it with a customer  |
+| Boil the ocean  | Waste time  |
+| Punt  | Make less of a priority   |
+| Helicopter view/100 foot view   | A broad view of the business  |
 | Turtles all the way down | Cascade through the organization |
 | When someone has spare/extra cycles | When someone is available |
 
@@ -1010,11 +1049,11 @@ Earlier in our history, 50% of all communication *was* in public channels.
 
 Slack can be a disorderly place in its default state. Consider implementing the below to add structure and focus, but remember that there will likely be more useful information shared on Slack than you are able to ingest and process on a daily basis, regardless of your approach.
 
-While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly). 
+While an intentional effort to organize is important, remember that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything). As a team, we may spot information that is missed by others, and we should surface that information when pertinent as we strive to [see others succeed](/handbook/values/#see-others-succeed). For managing Slack channels, consider blocking a set period of time to review certain channels that makes the most sense for you (i.e. multiple times a day, daily, weekly).
 
 #### Organizing your Slack sidebar by priority
 
-Consider using Slack's **[Starred channel](https://slack.com/help/articles/201331016-Star-channels-and-direct-messages)** function to spotlight three categories of channels, its **[Mute function](https://slack.com/help/articles/204411433-Mute-channels-and-direct-messages)** to quiet channels which are pulling your focus away too often, and most importantly, its **Mark all messages as read** function (easily toggled by pressing `Shift` and `Esc` simultaneously while on a desktop) to achieve an instantly clear slate. 
+Consider using Slack's **[Starred channel](https://slack.com/help/articles/201331016-Star-channels-and-direct-messages)** function to spotlight three categories of channels, its **[Mute function](https://slack.com/help/articles/204411433-Mute-channels-and-direct-messages)** to quiet channels which are pulling your focus away too often, and most importantly, its **Mark all messages as read** function (easily toggled by pressing `Shift` and `Esc` simultaneously while on a desktop) to achieve an instantly clear slate.
 
 An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with **[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)** to visibly raise or lower their priority level, giving you control over what you see first.
 
@@ -1035,7 +1074,7 @@ Below are helpful links to best practices and tips on managing your notification
 
 #### Set aside time to work through notifications
 
-Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reimnder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
+Building dedicated time into your day can help minimize the distractions that Slack can create. Consider using a 15 or 30 minute block in your morning or afternoon to enjoy a cup of coffee and catch up on messages you might have missed. When the time you set comes to an end, close out of the Slack app and move on to your next project. Having a set end time can help you feel more in control, and serves as a reminder that [it's impossible to know everything](/handbook/values/#its-impossible-to-know-everything)
 
 ### General Guidelines
 1. Everyone can contribute, and while opinions are important to provide perspective, we value [proposals](https://about.gitlab.com/handbook/values/#make-a-proposal) and [iteration](https://about.gitlab.com/handbook/values/#iteration). If the subject is of value to the wider community, consider commenting on an existing issue or opening a new [merge request](#everything-starts-with-a-merge-request) instead.
@@ -1130,7 +1169,7 @@ For additional questions, please address in the [issue](https://gitlab.com/gitla
 
 #### Need to add a new app to Slack
 
-GitLab has choosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=App_Integrations). Once that's approved by all parties, please request approval to add the app to Slack following the steps below:
+GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=App_Integrations). Once that's approved by all parties, please request approval to add the app to Slack following the steps below:
 
 1. Make sure the app hasn't been pre-approved by our team by clicking on Apps in the left sidebar and find Available Apps. To find pre-approved apps in the App Directory, click Pre-Approved below Categories  in the left column.
 2. If the app isn't pre-approved, you can click on Add to Slack.
@@ -1272,7 +1311,7 @@ There are several benefits and reasons to sharing your calendar with everyone at
 1. Transparency is one of our values and sharing what you work on is in line with our message of "be open about as many things as possible".
 1. Due to our timezone differences, there are small windows of time where our availabilities overlap. If other members need to schedule a new meeting, seeing the details of recurring meetings (such as 1-1s) will allow for more flexibility in scheduling without needing to wait for a confirmation from the team member. This speaks to our value to be more efficient.
 
-	![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
+  ![Google Calendar - make calendar available setting](/images/handbook/tools-and-tips/google-calendar-share.png)
 
 If you add blocks of time spent on recurring tasks to your Google Calendar to remind yourself to do things (e.g. "Check Google Analytics"), consider marking yourself "Free" for those events so that coworkers know they may schedule a meeting during that time if they can't find another convenient time.
 

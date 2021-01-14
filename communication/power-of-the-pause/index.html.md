@@ -29,7 +29,7 @@ Before you insert yourself in a situation make time to learn all the facts.  Our
 Take a moment and step away from the situation.  If you can even take a moment to go outside and change your scenery.  If you can't step outside try to remove yourself from the situation.  A physical step back can often provide mental clarity and let's emotions subside.
 
 ### E - Explain Calmly
-Unfortunately when there is conflict, rational thought can succumb to negative emotions, making it hard to form an appropriate response.  Take time to **pause** and calm down while using one of the techinques above.  When you have had a chance to adjust your attitude, understand the facts and have taken a moment to breathe you can move forward in a calm and rational manner.  
+Unfortunately when there is conflict, rational thought can succumb to negative emotions, making it hard to form an appropriate response.  Take time to **pause** and calm down while using one of the techniques above.  When you have had a chance to adjust your attitude, understand the facts and have taken a moment to breathe you can move forward in a calm and rational manner.
 
 
 Here are a few articles for additional reading:

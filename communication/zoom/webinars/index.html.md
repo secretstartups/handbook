@@ -17,11 +17,11 @@ It's important to assign specific roles: host, active panelists and people answe
 
 #### Host
 
-This is the person that leads the webinar. This person will probably use a Google Doc to go through questions with the panelists. 
+This is the person that leads the webinar. This person will probably use a Google Doc to go through questions with the panelists.
 
-If you're a [host or alternative host](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting), you'll notice in your calendar invite a Zoom link containing an `/s/` before a string of numbers. This stands for `start`. (e.g. `https://gitlab.zoom.us/s/11111111`) If several people are designated as alternative hosts, the *first* person to join the webinar will claim host privileges. Once started, the webinar is immediately live for participants. 
+If you're a [host or alternative host](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-Co-Host-Controls-in-a-Meeting), you'll notice in your calendar invite a Zoom link containing an `/s/` before a string of numbers. This stands for `start`. (e.g. `https://gitlab.zoom.us/s/11111111`) If several people are designated as alternative hosts, the *first* person to join the webinar will claim host privileges. Once started, the webinar is immediately live for participants.
 
-If a host needs someone else to be able to start the meeting, they can assign an [alternative host](https://support.zoom.us/hc/en-us/articles/208220166-Alternative-Host). 
+If a host needs someone else to be able to start the meeting, they can assign an [alternative host](https://support.zoom.us/hc/en-us/articles/208220166-Alternative-Host).
 
 For more on `Enabling and adding a co-host`, please visit [Zoom's support page](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-Adding-a-Co-Host).
 
@@ -38,11 +38,11 @@ With Zoom, participants can ask questions through the Zoom chat and through the 
 These are the people that signed up to be part of the webinar but are not any of the above roles. They will be able to ask questions but not answer them.
 
 ### Starting the webinar
-Ensure all non-participants join 5 minutes before the start of the webinar and only start livestreaming once everyone has joined and a countdown has been completed. 
+Ensure all non-participants join 5 minutes before the start of the webinar and only start livestreaming once everyone has joined and a countdown has been completed.
 
-You must additionally start the livestream to YouTube (an additional step), with instructions [detailed on Zoom's support page](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live). In the event that YouTube livestreaming refuses to begin, it's likely that a parallel livestream is happening already on GitLab Unfiltered. If this happens, proceed with the Zoom webinar livestream and upload the recording to GitLab Unfiltered per the instructions below. 
+You must additionally start the livestream to YouTube (an additional step), with instructions [detailed on Zoom's support page](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live). In the event that YouTube livestreaming refuses to begin, it's likely that a parallel livestream is happening already on GitLab Unfiltered. If this happens, proceed with the Zoom webinar livestream and upload the recording to GitLab Unfiltered per the instructions below.
 
-Clarify in the introduction how you want particpants to submit questions, ideally through Zoom chat or the [Q&A function](https://support.zoom.us/hc/en-us/articles/203686015-Getting-Started-with-Question-Answer), *not* by opening up Google Doc access to those outside of GitLab.
+Clarify in the introduction how you want participants to submit questions, ideally through Zoom chat or the [Q&A function](https://support.zoom.us/hc/en-us/articles/203686015-Getting-Started-with-Question-Answer), *not* by opening up Google Doc access to those outside of GitLab.
 
 ### When the webinar is over
 When the webinar is finished, we need to make sure the video is published correctly on our GitLab Unfiltered channel. If we were the organizers, it will be on YouTube already as we livestreamed it. If not, upload the video to our GitLab Unfiltered channel. In both cases, the following checklist need to be executed:
