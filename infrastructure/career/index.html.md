@@ -40,13 +40,13 @@ You must prepare to provide mentoring and guidance on focus areas for the quarte
 
 ### Individual Contributors
 
-Think about the areas that are important to you and commmit to working on them over the quarter. Keep an open mind to receive feedback and guidance on these areas, and be an active participant in the process.
+Think about the areas that are important to you and commit to working on them over the quarter. Keep an open mind to receive feedback and guidance on these areas, and be an active participant in the process.
 
 ## Guidelines and Considerations
 
 Career development requires that all parties involved be committed to the process and are active participants.
 
-One implicit area to focus on explicitly is **communication**. Regardless of your role, whether tehnical or manager, you must be a good communicator, and thus, it is important to always improve our communication skills.
+One implicit area to focus on explicitly is **communication**. Regardless of your role, whether technical or manager, you must be a good communicator, and thus, it is important to always improve our communication skills.
 
 While there is no time-boxing for level progress, the company does operate on a [specific cycle](/handbook/people-group/360-feedback/) to make changes to a GitLab team-members level during the [360 Feedback](/handbook/people-group/360-feedback/).
 

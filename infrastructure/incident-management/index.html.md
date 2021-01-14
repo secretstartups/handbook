@@ -32,7 +32,7 @@ resolution. To that end, incident management provides:
 1. a **root-cause analysis** (RCA),
 1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
 
-When an [incident starts](#declaring-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
+When an [incident starts](#reporting-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
 
 ### Ownership
 
@@ -83,7 +83,7 @@ These definitions imply several on-call rotations for the different roles.
 1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
-1. After the incident is resolved, the EOC should review the comments and ensure that the corrective actions are added to the issue description, regardless of the incident severity. If it is an S1/S2 incident, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), presenting the incident review in the synchronous review meeting if the incident is an S1 or a review has been requested via the `~review-requested` label. It is expected that the incident review is completed within 14 days of the incident.
+1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it is an S1/S2 incident, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), presenting the incident review in the synchronous review meeting if the incident is an S1 or a review has been requested via the `~review-requested` label. It is expected that the incident review is completed within 14 days of the incident.
 
 #### Guidelines on Security Incidents
 
@@ -106,7 +106,8 @@ In some cases, we may choose not to post to status.io, the following are example
 1. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC.
 1. The time that the IMOC engages should be recorded in the incident issue by the IMOC co-assigning themselves to the issue. If GitLab.com is down, record the time in the Google working doc.
-1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC will also take on the role of CMOC.
+1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
+    * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc-only-during-weekdays)) is a more friendly choice.
 1. The IMOC should ensure that the appropriate team members from other teams engage within an appropriate amount of time.
     1. During a user-impacting incident, the appropriate time response time is minutes.
     1. If the IMOC is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
@@ -114,6 +115,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-ops/gitlab-business-continuity-plan/).
 1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
 1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
+1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
 
 
 #### Communications Manager on Call (CMOC) Responsibilities
@@ -141,6 +143,25 @@ and then creating the new incident while picking **Incident Management - CMOC** 
 **Impacted Service**.
 
 Important to clarify that the CMOC covering hours does not include the weekends. 24x7 coverage for CMOC is being worked in [support-team-meta#2822](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2822).
+
+### Corrective Actions
+Corrective Actions (CAs) are work items that we create as a result of an incident. They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence.
+
+##### Best practices and examples, when creating a Corrective Action issue:
+- They should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant and Time-bounded.
+- Avoid creating CAs that:
+  - Are too generic (most typical mistake, as oposed to Specific)
+  - Only fix incident symptoms.
+  - Introduce more human error.
+  - will not help to keep the incident from happening again.
+- Examples: (taken from several best-practices Postmortem pages)
+
+| Badly worded                                                        | Better                            |
+|-------------------------------------------------------|-----------------------------------------------------------|
+| Fix the issue that caused the outage  | (Specific) Handle invalid postal code in user address form input safely      |
+| Investigate monitoring for this scenario     | (Actionable) Add alerting for all cases where this service returns >1% errors |
+| Make sure engineer checks that database schema can be parsed before updating  | (Bounded) Add automated presubmit check for schema changes  |
+
 
 ### Runbooks
 
@@ -345,6 +366,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
    | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
    | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
+    | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
 
 #### Required Labeling
 
@@ -367,7 +389,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
 | `~incident-type::deployment related` | Indicates that the incident was a deployment failure caused by failing tests, application bugs, or pipeline problems. |
 | `~group::*` | Any development group(s) related to this incident |
-| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive corrective actions, it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
+| `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](#corrective-actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
 ### Workflow Diagram
 
@@ -409,5 +431,5 @@ As [John Allspaw states](https://qz.com/504661/why-etsy-engineers-send-company-w
 When a near miss occurs, we should treat it in a similar manner to a normal incident.
 
 1. Open an [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) issue, if one is not already opened. Label it with the severity label appropriate to the incident it would have caused, had the incident actually occurred. Label the incident issue with the `~Near Miss` label.
-1. Corrective actions should be treated in the same way as those for an actual incident.
+1. [corrective actions](/handbook/engineering/infrastructure/incident-management/#Corrective-Actions) should be treated in the same way as those for an actual incident.
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
