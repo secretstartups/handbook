@@ -9,18 +9,18 @@ Success Roadmap discovery engagements provide customers with the benefit of GitL
 
 ### Success Roadmap Design Goals
 
-- Facilitate collaboration with customers on articulating critical success factors by co-creating a strawman roadmap for a variety of common concerns that may be facing them.
+- Facilitate collaboration with customers on articulating critical success factors by co-creating a straw-person roadmap for a variety of common concerns that may be facing them.
 - To help customers and GitLab team members understand scenarios where professional services may play a significant and direct role in ensuring customers can be more successful with implementing and gaining value from GitLab. This directly supports the [publicly stated mission](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
-- Generate results rapidly and efficiently through a co-worked document outlining strawman considerations and scope in as little as one 60 minute session.
+- Generate results rapidly and efficiently through a co-worked document outlining straw-person considerations and scope in as little as one 60 minute session.
 - To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
 - To enable diversity and inclusivity of inputs by using an open collaboration event to build out the deliverable.
-- Give the customer a quick-start strawman that can be iteratively improved.
+- Give the customer a quick-start straw-person that can be iteratively improved.
 - To exhibit transparency by articulating all the things that are required for success, regardless of whether GitLab has services to offer for the items.
-- All of the above work together to broaden the scope of **who can facilitate** session. Facilitation generally requires a technical background, but it is not limited to any specific technical role within GitLab.
+- All of the above goals work together to broaden the scope of **who can facilitate** the session. Facilitation generally requires a technical background, but it is not limited to any specific technical role within GitLab.
 
 ### Some Qualifiers
 
-- Regardless of whether the customer chooses not to use professional services, the document is a high value artifact that they can develop further.
+- Regardless of whether the customer chooses not to use professional services, the document is a high-value artifact that they can develop further.
 - The Success Roadmapping activity does not include detailed design discussions nor doing the actual work to make progress on any of the identified items.
 - Generally one Success Roadmap is offered per SA customer engagement.
 - If the customer chooses to use an applicable professional service, the engagement document will help rapidly understand the customer perspectives to scope and price the engagement. (Efficient reuse)
