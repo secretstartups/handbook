@@ -1,3 +1,9 @@
+---
+layout: markdown_page
+title: "Brandon Lyon's README"
+description: "Hi my name is Brandon Lyon. I'm a marketing frontend engineer and UX at GitLab."
+---
+
 ## Brandon Lyon's README
 
 Hi 👋 my name is Brandon Lyon. I'm a marketing frontend engineer and UX.
