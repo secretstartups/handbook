@@ -196,6 +196,31 @@ A subset of [Total Addressable Market (TAM)](total-addressable-market-tam), the 
 The potential value of all users that could purchase our product within existing customer base. 
 Both LAM and TAM can be scoped globally, by region/market segment, or customer-specific.
 
+The LAM formula is based on the best available developer data point.  Developer data points include the following:
+
+1. Aberdeen Developers
+1. ZoomInfo Developers
+1. Potential Users (SAL Input)
+1. Potential Users Verify (SAL Input)
+
+The formula reviews the developer fields to ensure trustworthiness.  This is determined by comparing the developer fields to the number of employees and the number of licenses on the account.  If the developer data point is validated, the number of developers is reduced by the amount of paid licenses on an account to determine the number of potential developers. If the field fails the validation rules, it is eliminated. 
+
+A fifth field based on license usage is added to the surviving data points from above.  
+
+5. Product Usage Overage (activated users - paid licenses) 
+
+In order to calculate LAM, the MAX surviving data points is multiplied by the average seat price of the account. In the event the average seat price is below the average premium seat price, the result is multiplied by the average premium seat price instead of the actual account seat price.  
+
+In circumstances where none of the developers fields are deemed trustworthy and there is no overage on the account, the formula defaults to the following: 
+
+1. TSP Max Family Employees * Estimated Dev % (based on industry bucket)
+
+LAM ARR is then rounded to the nearest thousand and capped at $5M.
+
+### Developer Count 500 (D500)
+
+D500 accounts are any prospect & customer accounts in SFDC that have more than 500 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts. This field is populated by the number of developers used in the [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) calculation.  
+
 ### Customer Acquisition Cost (CAC)
 
 Given our land and expand model, we need to attribute our sales and marketing expense toward both our acquiring new customers and growing new customers.
