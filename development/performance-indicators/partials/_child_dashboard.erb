@@ -17,3 +17,7 @@
 #### <%= header %> Security indicators
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
+
+#### <%= header %> Infrastructure indicators
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>

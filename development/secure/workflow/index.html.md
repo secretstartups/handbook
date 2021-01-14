@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Secure Workflow
-description: "Secure uses a workflow based on the Product Development Flow with some additions that are under experiment or specific to this sub-department."
+title: Secure Engineering Refinement
 ---
 
 ## On this page
@@ -12,76 +11,124 @@ description: "Secure uses a workflow based on the Product Development Flow with 
 
 ## Overview
 
-Secure uses a workflow based on the [Product Development Flow](/handbook/product-development-flow/) with some additions that are under experiment or specific to this sub-department.
+Engineering refinement is the most important step to ensure an issue is ready to move into development and that the issue will match
+everyone's expectations when the work is delivered.
 
-Specific deadlines of this workflow are defined in the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) and should be followed unless specified explicitely.
+The goal of the refinement process is to
 
-To maximize our velocity and meet our deliverables, we also follow an [engineering refinement process for all issues](./refinement/), before actually scheduling them into a given milestone.
+- Identify and resolve outstanding questions or discussions.
+- Raise any questions, concerns or alternative approaches.
+- Outline an implementation plan.
+- Ensure issue is ready to be worked on.
+- Identify code boundaries, for example, does the issue change code maintained by another team. 
+- Notify other teams if the issue is relevant to them in some way. 
+- Assign a weight to the issue.
 
-The Product Development Flow implies the existence of queues identified with `workflow::` labels and depending on your role in the group, you may be involved in different queues.
+The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588) but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
 
-| Queue                 |  PM |  UX |  EM | Engineer |
-|-----------------------|:---:|:---:|:---:|:--------:|
-| validation backlog    |  X  |     |     |          |
-| problem validation    |  X  |  X  |     |          |
-| design                |  X  |  X  |  X  |     X    |
-| solution validation   |  X  |  X  |     |          |
-| planning breakdown    |  X  |  X  |  X  |     X    |
-| scheduling            |  X  |     |  X  |          |
-| ready for development |  X  |     |  X  |     X    |
-| In dev                |     |     |     |     X    |
-| In review             |     |     |     |     X    |
-| verification          |     |     |     |     X    |
+## When engineering refinement should be completed
 
-The [Product Development Flow](/handbook/product-development-flow/) guideline explains each step in detail, but here are some clarifications/additions:
-- `workflow::design`: when requested by PM and UX, the engineering team will be involved in the design step. As this can represent a significant amount of work, it is important to apply the `~backend` and/or `~frontend` labels to the issue as early as possible. EM will then assign Engineers and roughly weight the issue (or timebox it) so that this effort is taken into account when doing capacity check. Engineers assigned to `workflow::design` issues collaborate with PM, UX and EM to provide a practical solution to the problem.
-- `workflow::solution validation`: the engineering team is NOT involved in solution validation since we assume the design step already delivered a viable solution from an engineering perspective.
-- `workflow::planning breakdown`: PM, UX, and EM break down the solution into smaller implementation issues. These issues represent deliverable chunks of the solution from a user perspective. This often means that an epic is created and an MVC is defined with follow-up issues, in further iterations, to deliver the complete solution. EM can delegate this to engineers when necessary. When implementation issues are created, they can be [refined](./refinement/) by the engineers. Planning breakdown issues should have `secure:refinement-backend` and/or `secure:refinement-frontend` labels to indicate needed refinement.
-- `workflow::scheduling`: PM priotizes issues in this queue to be picked up in upcoming milestones by EM. Issues remaining in this queue after EM has assigned up to their team's capacity, for a given milestone, must be moved to the next one(s).
-- `workflow::ready for development`: EM applies this label to issues that the engineering team commit to work on for a given milestone. This is based on capacity and other constraints.
-- `workflow::In dev`: Engineers apply this label when starting to work on an issue. If the issue involves multiple Merge Requests, it stays in this queue untill they are all created and in review.
-- `workflow::In review`: Merge Requests are being reviewed by reviewers and maintainers. If the issue involves multiple Merge Requests, it stays in this queue untill they are all merged.
-- `workflow::verification`: Changes have been merged and engineers are waiting for them to be deployed on the different environments (staging, canary, and production). Once deployed, engineers enable the feature flag (if any) and validate that it's working as expected.
+Engineering refinement should be an ongoing activity for all engineers.
+Our aim is to have enough issues to fill two iterations ready to be scheduled.
+Unless specified differently for your team, every engineer should try to refine enough issues each week to result in a total weight of at least 6, and should do this following the weekly team meetings.
 
-To work with these queues we leverage issue boards and relevant filters. We value asynchronous communication but it is also highly recommended to have a weekly sync meeting between PM, UX, and EM to review these queues: `design`, `solution validation`. `planning breakdown`, and `scheduling`. This ensures we keep moving issues forward and constantly have items to work on in each step of the process.
+*  [Composition Analysis][ca]
+*  [Dynamic Analysis][da]
+*  [Static Analysis][sa]
+*  [Frontend][frontend]
 
-## Additional workflow information
 
-- [Issues board](https://gitlab.com/groups/gitlab-org/-/boards/364216?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure): Add a `milestone` filter with the [current milestone +1](/releases/) (the current milestone is already released).
-- [Merge Requests workflow](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/contributing/merge_request_workflow.md)
-- [Code Review process](https://docs.gitlab.com/ee/development/code_review.html)
+[ca]:https://gitlab.com/gitlab-org/gitlab/issues?label_name%5B%5D=group%3A%3Acomposition+analysis&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name%5B%5D=backend&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93&weight=None
+[da]:https://gitlab.com/gitlab-org/gitlab/issues?label_name%5B%5D=group%3A%3Adynamic+analysis&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name%5B%5D=backend&scope=all&sort=milestone&state=opened&utf8=%E2%9C%93&weight=None
+[sa]: https://gitlab.com/groups/gitlab-org/-/boards/1590105?label_name[]=group%3A%3Astatic%20analysis
+[frontend]: https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Asecure&label_name[]=workflow%3A%3Aplanning%20breakdown&label_name[]=frontend&weight=None
 
-## Issue Refinement
+## Steps
 
-See our [Issue Refinement](./refinement/) page.
+1.  Assign yourself the issue
+2.  If an engineer is required for the issue, ensure the appropriate `~backend` or `~frontend` label is applied. Otherwise, remove any backend/frontend label, assign any relevant labels and you are done.
+3.  Check the issue for completeness.
+    *  Does it have the necessary designs?
+    *  Is the functionality clearly articulated and there is a consensus or decision on how it should function.
+    *  Are the technical details outlined? Has a consensus been reached or decision been made in areas of discussion?
+    *  Are there dependencies? Call those out.
+4. If the issue is not complete:
+    *  Tag the relevant people that can help complete the issue and outline what is needed. Tag the appropriate EM and PM, so they know that the item can not be fully groomed.
+5. Ensure the issue is fully understood.
+    *  Update the issue description with the final description of what will be implemented.
+    *  Update the issue description with an [implementation plan](#implementation-plan).
+    *  Ensure the issue title is accurate for the work being done.
+    *  Open up new issues for 'follow-up' work, or work that was forced out of scope.
+6. Assign a [weight](#weights) and set the label `~workflow::scheduling`
+7. Remove the respective `secure:refinement-backend` or `secure:refinement-frontend` label.
+8. Once refinement is done unassign yourself.
 
-## Editing this page
+When you are done refining, anyone should be able to read the issue description and should know what the issue is solving, how it is solving the problem,
+and the technical plan for implementing the issue.
 
-### Update frequency
+In order for someone to understand the issue and its implementation, they should **not** have to read through all the comments. The important bits should be captured in the description, as the **single source of truth.**
 
-To avoid change fatigue, Secure team members stick to the same workflow for a quarter (aligned with Fiscal Year Quarters).
-Updates such as grammatical fixes, typos, and clarifications are welcome at any time but substantive changes must be
-submitted to [the draft of the next version](./drafts/) and will only be rolled out when the next quarter starts.
+## Failing Refinement
 
-### Reviews and approvals
+An issue should fail refinement if it can not be worked on without additional information or decisions to be made. To fail an issue:
+1.  Leave a comment on the issue that it can not be worked on, and highlights what still needs to be done.
+2.  Unassign yourself if you can not contribute further to issue at the current time.
+3.  Assign the `blocked` label.
 
-To make updates such as grammatical fixes and typos, you can create an MR and have it reviewed and merged by anyone with merge rights.
 
-For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
-you can create an MR to the [the draft of the next version](./drafts/) and assign it to the relevant impacted counterparts (Engineering, roduct, UX, QA, etc.).
+## Weights
 
-### Experiments
+Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much work is involved.
+Weights should be considered an output of the refinement process rather than its purpose.
 
-All team members are encouraged to expirement improvements to the existing workflow.
-Trying things out is often the best way to see the benefit or downside of a suggested change.
-To make sure this is clearly understood by all counterparts who may be affected by this temporary change,
-it is very welcome that the experiment is listed here and clearly communicated first.
+The weighting system roughly aligns the scales used by other teams within GitLab. However, we use comparative sizing rather than
+assigning time estimates to possible values. A curated set of reference issues have been provided below, which will be updated periodically
+to keep examples as current as possible.
 
-#### Ongoing experiments
+### Possible Values
 
-<!---
-- Title - DRI - link to an issue describing the change and collecting feedback.
--->
+It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate weights,
+as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
 
-- [Replace sub-issue convention with Epics - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/129)
-- [Leverage issue's health status to report progress - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/130)
+| Weight | Description | Reference issues |
+| ------ | ----------- | ---------------- |
+| 1 | Trival task | [Update Bandit analyzer to v1.6.2](https://gitlab.com/gitlab-org/gitlab/-/issues/12926) |
+| 2 | Small task | [Security Dashboard should show dismissal details on issues](https://gitlab.com/gitlab-org/gitlab/-/issues/9715) |
+| 3 | Medium task | [Dependency Scanning Fails: "engine 'node' is incompatible with this module"](https://gitlab.com/gitlab-org/gitlab/-/issues/12471), [Dependency List contains duplicates (npm project)](https://gitlab.com/gitlab-org/gitlab/-/issues/12162), [Support setup.py in Dependency Scanning](https://gitlab.com/gitlab-org/gitlab/issues/11244), [Make vulnerability-details receive a vulnerability as a prop](https://gitlab.com/gitlab-org/gitlab/-/issues/14006) |
+| 5 | Large task | [Engineering Discovery: reconsider Gemnasium client/server architecture](https://gitlab.com/gitlab-org/gitlab/issues/12930) |
+| 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
+| 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
+| Bigger | Epic in disguise |  |
+
+### Capacity planning documentation from other teams
+
+* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
+* [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
+* [Geo Team Weights](/handbook/engineering/development/enablement/geo/process.html#weights)
+* [Enablement:Memory](/handbook/engineering/development/enablement/memory/)
+
+## Implementation Plan
+
+A list of the steps and the parts of the code that will need to get updated to implement this feature. The implementation plan should also
+call out any responsibilities for other team members or teams. An example: [execution plan for a real issue](https://gitlab.com/gitlab-org/gitlab/issues/5656#execution).
+
+The goal of the implementation plan is to spur critical analysis of the issue and have the groomer think through what parts of the application will get touched.
+The implementation plan will also permit other engineers to review the issue and call out any areas of the application that might have dependencies or
+been overlooked.
+
+The implementation plan might be limited to a single step but it should not be skipped, even when the implementation is simple.
+This improves consistency across issues, and communicates that issues have been properly refined.
+
+## FAQs
+
+**Q:** Should discovery issues be groomed?
+
+**A:** Yes. Discovery issues should be groomed but some of the steps above may not be relevant. Use good judgement to apply the process above. The purpose of
+refining a discovery issue is to make sure the scope of the discovery is clear, what the output will be and that the prerequisites for the discovery are known
+and completed. Discovery issues can have a habit of dragging out or not creating actionable steps, the refinement process should lock down what needs to be answered
+in the discovery process.
+
+
+**Q:** If an issue has both frontend and backend work how should I weight it?
+
+**A:** Issues that require both frontend and backend work can be broken into [sub-issues as outlined in this document](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588).
