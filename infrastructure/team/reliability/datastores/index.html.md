@@ -77,10 +77,10 @@ To create a new Datastores issue:
      - Try to be as detailed/atomic as possible.
 	 - It should cover the full scope of required work for the issue. In other words, the Datastores team member assigned should be confident that if they address the different points here the issue will be completed, ready to be closed.
 	 - If you don't know in detail leave a temporary note: Be aware that this section should be complete before the team starts working on this issue.
-  1. **Writting style**:
+  1. **Writing style**:
 	 - Express yourself in a way that others can understand and follow easily your train of thoughts. Be empathetic with your team members.
-	 - Remember about our writing style in GitLab: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
-	 - Some good advice in how to write simple and effective: [18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
+	 - Remember about our [writing style at GitLab](https://about.gitlab.com/handbook/communication/#writing-style-guidelines)
+	 - Some good advice in how to write simply and effectively: [18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
 ### Issues lifecycle:
 1. We create issues and epics to represent the work that we are/will be doing, as soon as we notice the work is required or needed to execute our priorities (DB/Gitaly roadmap, OKRs).
