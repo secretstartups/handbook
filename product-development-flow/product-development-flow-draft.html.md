@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: Product Development Flow
+description: "This is the draft version of the Product Development Flow."
+canonical_path: "/handbook/product-development-flow/"
 ---
 
 {::options parse_block_html="true" /}
