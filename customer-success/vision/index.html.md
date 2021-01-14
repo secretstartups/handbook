@@ -24,7 +24,7 @@ _"Customer Success is when customers achieve their desired outcome through inter
 
 ## Capabilities Roadmap
 
-The following shows the high-level view of the capabilties that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_success_capabilities_roadmap.pdf)
+The following shows the high-level view of the capabilities that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_success_capabilities_roadmap.pdf)
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
 ## Objective
@@ -100,7 +100,7 @@ Net Retention (%) = sum(B) / sum(A) * 100%
 **C** = Gross retained dollars for each customer (see individual example)
 
 
-Example: 
+Example:
 There are two customers (X and Y) who each have $100 in MRR in the current month (B).
 12 months ago, X had $50 in MRR and Y had $125 in MRR (A).
 
@@ -130,7 +130,7 @@ We use a standard cost estimate to project margin on PS Statements of Work. The 
 
 To standardize the cost estimate for projects, make a copy of the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) and attach it to the issue for the SOW in question. This calculator will be updated to reflect any changes to the standard cost estimate.
 
-If you need help with determing the standard cost rate or if it is applicable to your project, please contact your [Finance Business Partner](/handbook/finance/financial-planning-and-analysis/#finance-business-partner).
+If you need help with determining the standard cost rate or if it is applicable to your project, please contact your [Finance Business Partner](/handbook/finance/financial-planning-and-analysis/#finance-business-partner).
 
 ## Scope
 

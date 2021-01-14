@@ -74,7 +74,7 @@ _Follow the rest of the steps below_
 
 1. Input a subject
 1. Confirm the date (it will default to when you clicked "+ Activity") and time (this does not need to be the exact time of the activity as long as the date is correct) if applicable
-1. Add internal and external attendees (more details on that immediately below) if applicable 
+1. Add internal and external attendees (more details on that immediately below) if applicable
 1. Choose the meeting type if applicable
 1. Check off if an executive sponsor attended if applicable
 1. Optionally update the TAM and Product sentiments to reflect [health score](/handbook/customer-success/tam/health-score-triage/)
@@ -107,7 +107,7 @@ Gainsight Timeline also displays the following Salesforce activities. While thes
 
 ## BCCing Emails
 
-While we recommend BBCing emails to Salesforce instead of to Gainsight, you can do the same with Gainsight. To get your personalize email address, navigate to your settings:
+While we recommend BCCing emails to Salesforce instead of to Gainsight, you can do the same with Gainsight. To get your personalize email address, navigate to your settings:
 
 1. Click the person icon in the upper right
 1. Click "My Settings"

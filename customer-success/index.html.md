@@ -109,6 +109,14 @@ SA's will be brought back into a customer account in the following situations
 
 ## Other Resources
 
+### Customer Workshops
+
+TAM-Created, Enablement Focus:
+* [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+
+SA-Created, Hands-On Focus:
+* [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
+
 ### Using Salesforce within Customer Success
 
 Visit [this page](/handbook/customer-success/using-salesforce-within-customer-success/) for more info on using Salesforce within Customer Success.
@@ -137,7 +145,7 @@ In an effort to keep AWS spend down initiatives are being taken automatically cl
 
 By customer or internal request, we sometimes develop tools to automate certain GitLab tasks using the API. The resulting tools and scripts are publicly available for everyone to use and contribute to in the [GitLab CS Tools group](https://gitlab.com/gitlab-cs-tools).
 
-### Communties of Practice
+### Communities of Practice
 
 [Community of Practice](initiatives/communities-of-practice.html) are cross-functional groups of SME's (or aspiring to be!) within the CS organization dedicated to a topic within GitLab or the broader DevOps space. The goal is to build assets, best practices, demonstrations, and share experiences we learn from prospects and customers. In turn, CoP will build broader technical depth within our CS organization to better advise our customers and influence our product roadmap.
 
@@ -149,7 +157,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 
 ### Customer Success resource links outside handbook
 
-- [Solutions Architects Onboarding Bootcamp](/handbook/customer-success/solutions-architects-onboarding-bootcamp/)
+- [Solutions Architects Onboarding Bootcamp](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Customer Reference Sheet](https://docs.google.com/a/gitlab.com/spreadsheets/d/1Off9pVkc2krT90TyOEevmr4ZtTEmutMj8dLgCnIbhRs/edit?usp=sharing)
 - [Sales Collateral](https://drive.google.com/open?id=0B-ytP5bMib9TaUZQeDRzcE9idVk)
 - [GitLab University](https://docs.gitlab.com/ee/university/)
@@ -172,7 +180,7 @@ Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) t
 - [Proof of Value Guidelines](/handbook/sales/POV/)
 - [Account Planning Template for Large/Strategic Accounts](https://docs.google.com/presentation/d/1yQ6W7I30I4gW5Vi-TURIz8ZxnmL88uksCl0u9oyRrew/edit?ts=58b89146#slide=id.g1c9fcf1d5b_0_24))
 - [Sales Demo](/handbook/marketing/strategic-marketing/demo/)
-- [Sales Development Group Handbook](/handbook/marketing/marketing-sales-development/sdr/)
+- [Sales Development Group Handbook](/handbook/marketing/revenue-marketing/sdr/)
 - [With Whom to Talk to Ask Questions or Give Feedback on a GitLab feature](/handbook/product/categories/#devops-stages)
 - [CEO Preferences when speaking with prospects and customers](/handbook/ceo/#sales-meetings)
 

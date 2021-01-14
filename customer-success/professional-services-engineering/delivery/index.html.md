@@ -11,7 +11,7 @@ title: "Professional Services Delivery"
 
 ### Overview
 
-The purpose of this page is to describe the workflow governing delivery of professional service projects. We will start by outlining the general workflow that is common across all service delivery categories. Then we will describe the differences for engagements that do not fit the general workflow shown below. 
+The purpose of this page is to describe the workflow governing delivery of professional service projects. We will start by outlining the general workflow that is common across all service delivery categories. Then we will describe the differences for engagements that do not fit the general workflow shown below.
 
 ![ps-delivery-workflow](../PS-delivery-workflow.png)
 
@@ -24,7 +24,7 @@ GitLab professional services employs three different workflows that control proj
 
 #### Scheduling
 
-The Professional Services (PS) team scheduling is processed through the Sr. PS Project Coordinator (PC).  Until we roll out our PSA tool (Mavenlink), we have a spreadsheet that is our single source of record.  This spreadsheet will track all schedules of the PS team, which will include customer projects and internal work as well. 
+The Professional Services (PS) team scheduling is processed through the Sr. PS Project Coordinator (PC).  Until we roll out our PSA tool (Mavenlink), we have a spreadsheet that is our single source of record.  This spreadsheet will track all schedules of the PS team, which will include customer projects and internal work as well.
 
 Follow these steps to schedule a customer engagement.
 
@@ -39,7 +39,7 @@ The Sr. Professional Services PC will review the spreadsheet for availability an
 Scheduling updates and changes will also follow this same process with a comment on the project/ issue to the Sr. PS PC.
 
 If a customer project has not booked, but planning/ scheduling discussions need to take place, reach out to the Sr. PS PC to review.
- 
+
 #### How to schedule internal time
 
 Each PSE is required to add their own internal time to the spreadsheet, including the following details:
@@ -60,7 +60,7 @@ During discovery or fact finding sessions with the customer, PSEs will often hav
 
 During the call, take notes to ensure that things that have validated or invalidated your initial assumptions have been captured. At the end of the meeting, review the things you've learned to memorialize what will be designed and built. Reiterating back your understanding of the details of the agreement instills confidence in the customer representative that we understand their requirements and can deliver what was reviewed.
 
-After the meeting, based on meeting notes, create issues in the gitlab.com customer collaboration project outlining the work. Include Consider using a simple template with `Overview`, `Open Questions`, `Tasks`, and `Acceptance Criteria`. These can be helpful in further memorializing the scope of work with the csutomer and getting asynchronous feedback to open questions. Make sure the `overview` is as detailed as possible, and the `tasks` section has build-to level tasks (e.g. update congregate list() function to include data from CI sources). 
+After the meeting, based on meeting notes, create issues in the gitlab.com customer collaboration project outlining the work. Include Consider using a simple template with `Overview`, `Open Questions`, `Tasks`, and `Acceptance Criteria`. These can be helpful in further memorializing the scope of work with the customer and getting asynchronous feedback to open questions. Make sure the `overview` is as detailed as possible, and the `tasks` section has build-to level tasks (e.g. update congregate list() function to include data from CI sources).
 
 ### Planning and Delivering Education Services
 
@@ -104,9 +104,9 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. Click the `Create Invitation Code` button in the top right corner.
 1. Fill out the form. Your invitation code is generated and GitLab group is created when you click the green button.
 1. You can see a list of previously created invitation codes and links to relevant details.
-1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel   
+1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel
 
-**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know they expiration date (which is 14 days from the date you generated the code). 
+**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know they expiration date (which is 14 days from the date you generated the code).
 
 
 **Demo Cloud Access Instructions:**
@@ -158,7 +158,7 @@ Interview proposed resources. GitLab will meet with the proposed resources to de
     * GitLab staff load the time detail into the GitLab time tracking system.
 
 
-1. Offboard the resource.  At the conclusion of the project, remove access and determine how to handle incoming email for the provisioned email address. 
+1. Offboard the resource.  At the conclusion of the project, remove access and determine how to handle incoming email for the provisioned email address.
 
 
 
@@ -169,15 +169,15 @@ Interview proposed resources. GitLab will meet with the proposed resources to de
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin.  Key points for time tracking include:
 
 - All Time should be recorded in an issues that roll up to the major epics.
-- Best practice is to record time at the time you are working on a task.  This provides the most accurate account of hours worked and when it was worked.  
-- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Monday morning for the previouis week worked.  A minimum of 40, or whatever the hours worked per week is in your country.
+- Best practice is to record time at the time you are working on a task.  This provides the most accurate account of hours worked and when it was worked.
+- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Monday morning for the previous week worked.  A minimum of 40, or whatever the hours worked per week is in your country.
 - Issues will need to be attached to one of the Major Epic topics.
 
 Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and should be reviewed by the PS leadership for approval and sign-off. Rounding to the nearest hour is acceptable, and please ensure data is recorded in numeric format without the use of text strings such as "hrs".
 
 #### Time tracking entry and approval workflow
 
-* All Issues are attached to Epics 
+* All Issues are attached to Epics
 * [PSE Hours Report Generator](https://gitlab-com.gitlab.io/customer-success/professional-services-group/issue-mover/) pulls all time spent from issues that the user is either an author of, or an assignee, and creates the time tracking spreadsheet at the end of the designated fiscal quarter.
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
@@ -194,7 +194,7 @@ Issues are created for all work by PS.
 
 #### Epic categories
 
-* [PS TimeTracking - Billable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/536) 
+* [PS TimeTracking - Billable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/536)
   * ALL project hours
   * Internal/ Sales Handoff Calls
   * Internal/ External status meeting
@@ -217,8 +217,8 @@ Issues are created for all work by PS.
      * Articles/ Tools
   * [Product Development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1339)
   * [Mentoring](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1250)
-* [PS TimeTracking - Non Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535) 
-  * [Knowledge Sharing](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1253) 
+* [PS TimeTracking - Non Creditable](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/535)
+  * [Knowledge Sharing](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1253)
     * Slack
     * Internal Q&A
   * [General Administrative](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1254)
@@ -233,7 +233,7 @@ Issues are created for all work by PS.
     * Weekly Webinars
     * All Hands
     * Team Calls
-  * [Travel Time](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1258) 
+  * [Travel Time](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1258)
     * Excluding Customer Travel
   * [Personal Enablement](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues/1257)
     * Development
@@ -254,7 +254,7 @@ There are three types of project tracking labels
 
 `Embedded Engineer` (time and materials project) - Bill time and materials direct to customer
 
- 
+
 
 
 

@@ -29,7 +29,7 @@ The content and assets are [aggregated into a single group](https://gitlab.com/g
 #### Guidelines
 
 * CoP should consist of three or more members to foster a culture of collaboration.
-* Time commitment can vary depending on involvement, but the expectation is 3-5 hours a month for active members. 
+* Time commitment can vary depending on involvement, but the expectation is 3-5 hours a month for active members.
 * CoP can be managed through Async communication, but the core team should meet once a month to ensure content is maintained and updated.
 
 ### Participating in a Community of Practice
@@ -41,7 +41,7 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 | Subject                             | Facilitator                                                                                                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infrastructure As Code              | [@DarwinJS](https://gitlab.com/DarwinJS), [@jsandlin](https://gitlab.com/jsandlin), [@jrandazzo](https://gitlab.com/jrandazzo)                                                                                                                                            |
-| Gitlab/VMware TKGI (PKS) deployment | [@samer.akkoub](https://gitlab.com/samer.akkoub) |     
+| GitLab/VMware TKGI (PKS) deployment | [@samer.akkoub](https://gitlab.com/samer.akkoub) |
 | Advanced Pipelines                  |  [@juliebyrne](https://gitlab.com/juliebyrne) |
 
 #### Suggested Communities of Practice
@@ -70,7 +70,7 @@ A Community of Practice does not have a specific timebox; it's an ongoing proces
 
 #### Selecting a Topic
 
-* Select something you are excited or interested in - not just what is "needed." 
+* Select something you are excited or interested in - not just what is "needed."
 * Select a topic that is broad enough that it can evolve and expand over time. (i.e., "Cloud-Native" would be more impactful than "Helm Deployments")
 * Research the impact on GitLab and the broader team. i.e., Are there any issues on the GitLab Issue tracker related to this topic? Are there industry trends around this topic?
 

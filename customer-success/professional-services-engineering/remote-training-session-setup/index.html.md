@@ -32,7 +32,7 @@ Professional Services has a shared Zoom account for remote training deliveries t
 
 1. In the title for the session, add the customer name. For example, "GitLab CI/CD Training -- Acme Corporation."
 
-1. Adjust the date and time. 
+1. Adjust the date and time.
     - Each course includes two 4-hour sessions. Select the date of the first session
     - Adjust the start time to the confirmed start time in the customer’s preferred time zone.
     - Adjust the duration to be 4 hours.
@@ -58,7 +58,7 @@ Zoom templates do not include most of the branding used to set up the original t
 1. In the **Speakers** section click **Add a speaker**.
     - Upload a photograph of yourself.
     - Enter your name and title.
-    - Enter "Gitlab Professional Services" for your organization.
+    - Enter "GitLab Professional Services" for your organization.
     - Enter your biography to let the audience know a bit about you.
     - Click **Save**.
 
@@ -72,7 +72,7 @@ Zoom templates do not include most of the branding used to set up the original t
 
 1. On the **Registrations** tab check the box for **Restrict number of registrants**.
 
-1. Enter the number **20** in the field to limit the number of regsitrants to 20.
+1. Enter the number **20** in the field to limit the number of registrants to 20.
 
 1. Scroll to the bottom of the **Registration** pane and click **Save All**.
 
@@ -84,7 +84,7 @@ Zoom templates do not include most of the branding used to set up the original t
 
 ### Add the survey link ###
 
-1. On the "Polls/Survey" tab in the **Survey** row, click **Use a 3rd party survey** and paste in [the link](https://docs.google.com/forms/d/e/1FAIpQLScdTGl7Wwcw2yzFpvCd5jYMPgOf_lp8BYMKKhaW0Mrpt51TXg/viewform?usp=sf_link) to the training survey. 
+1. On the "Polls/Survey" tab in the **Survey** row, click **Use a 3rd party survey** and paste in [the link](https://docs.google.com/forms/d/e/1FAIpQLScdTGl7Wwcw2yzFpvCd5jYMPgOf_lp8BYMKKhaW0Mrpt51TXg/viewform?usp=sf_link) to the training survey.
     - This will result in the survey popping up for each attendee immediately after you end the session.
 
 
@@ -108,7 +108,7 @@ Zoom templates do not include most of the branding used to set up the original t
 
 #### Pre-session
 
-1. In the **Upcoming Webinars** tab, locate the session you want to see and click the Topic title. 
+1. In the **Upcoming Webinars** tab, locate the session you want to see and click the Topic title.
 
 1. At the bottom of the webinar session page on the **Invitations** tab, scroll to the bottom and in the **Manage Attendees** section click **View**.
 

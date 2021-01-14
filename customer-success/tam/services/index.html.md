@@ -23,9 +23,20 @@ Customers who meet the following criteria are aligned with a Technical Account M
 - Recurring contract value (ARR) of $50,000 or greater
 - Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership
 
+#### Parent-Child Accounts and Business Units
+
+It's not uncommon for a single customer to have different subsidiaries or [business units](/handbook/sales/sales-term-glossary/#business-unit) with their own GitLab instances and contracts. In effect, each of these separate entities behaves as a separate customer from the perspective of the TAM - different points of contact, different initiatives, different strategic outcomes.
+
+When evaluating whether a customer is TAM qualifying, we consider the size of the [business unit](/handbook/sales/sales-term-glossary/#business-unit), not the total ARR of a given customer, nor the total ARR of a parent account and all of their combined child accounts.
+
+Example:
+
+- `Customer A` has $50k ARR spread across three separate [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $22k, $17k, and $10k respectively. None of those is TAM qualifying.
+- `Customer B` has $60k ARR spread across two [business units](/handbook/sales/sales-term-glossary/#business-unit) spending $53k and $7k respectively. The [business unit](/handbook/sales/sales-term-glossary/#business-unit) spending $53k is TAM qualifying, but the other is not.
+
 ### Commercial
 
- - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
+- Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
 
 ## Responsibilities and Services
 
@@ -75,5 +86,5 @@ It's acceptable to cancel or reschedule a weekly cadence call, unless there is a
 
 It's possible to ask another TAM to cover for you as well, but they likely don't have the same context as an SA so may require additional briefing and introductions with the customer before you leave.
 
-If your acccounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
+If your accounts don't have an SA, you can decide if it would be better to rely solely on your SAL or to bring in another TAM for support, but be sure to arrange coverage in any circumstance and to follow our [PTO communication guidelines](/handbook/paid-time-off/#communicating-your-time-off).
 

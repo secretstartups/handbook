@@ -29,7 +29,7 @@ Technical Account Managers will typically manage customer engagements via a GitL
 ### Start a customer upgrade engagement
 
 1. After the Technical Account Manager has been aligned with the account, they will assign themselves to the “Technical Account Manager” field within Salesforce.
-1. Provided that the customer is Ruby tier or higher and in Enterprise, confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in Gitlab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
+1. Provided that the customer is Ruby tier or higher and in Enterprise, confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
 1. Verify that the project complies with the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template.
 1. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
@@ -44,9 +44,79 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 ### Customer Engagement Tips
 1. Make use of the [account management projects](https://gitlab.com/gitlab-com/account-management)  ([Template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template))
 1. Whenever a customer asks a question via email/Slack, kindly prompt them to open a Support ticket or an issue in the collaboration project
-  * Examples of a Support issue: Reporting Gitlab downtime, errors or accesibility problems 
-  * Examples of a Collaboration Project Issue: Gernal questions about product usage, best practices or recommendations, adoption or integration questions 
+  * Examples of a Support issue: Reporting GitLab downtime, errors or accessibility problems
+  * Examples of a Collaboration Project Issue: General questions about product usage, best practices or recommendations, adoption or integration questions
 1. Show customers the power of GitLab by using GitLab with them (ex: related issues, tracking milestones, threaded conversations, ability to interact directly with GitLab’s product/engineering teams)
 1. Make sure you are responding in a timely manner to customer's open issues. When you are prompt to respond, the customer is more likely to continue using the account management projects
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
 1. When adding a SFDC link to a public issue, remember to [provide feedback](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](/handbook/product/how-to-engage/#feedback-template)
+
+## Customer Prioritization
+
+GitLab uses a customer prioritization model to focus the TAM's efforts where they will have maximum value and impact. The priority tiers have [defined SLAs for engagement](https://about.gitlab.com/handbook/customer-success/tam/#book-of-business-prioritization). Different regions utilize different models for determining Priority 1 vs Priority 2, as described below.
+
+### US Enterprise
+
+TAM-assigned customers are segmented into two priority tiers: `Priority 1 (P1)` and `Priority 2 (P2)`. We use a series of "yes/no" parameters to evaluate a customer's prioritization, based on the key aspects of a TAM's responsibilities and value to the customer.
+
+Each TAM should aim to have roughly one third (1/3) of their book of business listed as `Priority 1`, and the rest as `Priority 2`.
+
+#### Determining priority
+
+##### Parameters
+
+The following parameters are considered when determining customer prioritization:
+
+| Parameter                                                                     | Yes                                                                                                 | No                                                                                                               |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [**LAM**](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) | High degree of confidence, or explicit evidence, of greater than 10%                                | Uncertain about LAM, or know for sure it is less than 10%                                                        |
+| **Growth in the next 6 months**                                               | Open growth opportunity in Salesforce, and/or explicitly stated intent from the customer for growth | Uncertain about growth in the given timeframe, or the customer has clearly said they have no growth in that time |
+| **Open tier upgrade**                                                         | Upgrade opportunity is open in Salesforce and actively being discussed with the customer            | No open opportunity in Salesforce, and/or no active upgrade discussion with the customer                         |
+| **Current/upcoming stage adoption**                                           | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
+| **Current/upcoming infrastructure change**                                    | Actively working with the customer on planning or implementation                                    | Nothing actively being worked on, or only discussed as a future initiative                                       |
+
+##### Prioritization model
+
+Using the defined parameters and guidance on how to know whether they are applicable, we can use the following flowchart to evaluate priority:
+
+```mermaid
+graph TD;
+  lam["LAM >10%"]-- Yes -->growth;
+  lam-- No -->upgrade;
+  growth[Growth in next 6 months]-- Yes -->p1;
+  growth-- No -->upgrade;
+  upgrade[Open tier upgrade]-- Yes -->p1;
+  upgrade-- No -->stage;
+  stage[Current/upcoming stage adoption]-- Yes -->p1;
+  stage-- No --> infra;
+  infra[Current/upcoming infra change]-- Yes -->p1;
+  infra-- No -->p1exception;
+  p1exception["P1 exception*"]-- Yes -->p1;
+  p1exception-- No -->p2;
+  p1((Priority 1));
+  p1-.->p2exception;
+  p2exception["P2 exception*"]-- Yes -->p2;
+  p2{{Priority 2}};
+```
+
+_* Please see [priority exceptions](#priority-exceptions) for details._
+
+##### New customer onboarding
+
+When a [new customer is in onboarding](/handbook/customer-success/tam/onboarding/), they are automatically `Priority 1`. This is a key lifecycle event for a customer, which warrants high engagement from the TAM. Once onboarding is complete, the customer's prioritization should be reassessed.
+
+#### Keeping prioritization updated
+
+Since the parameters used to evaluate customer prioritization will change over time, each account's priority should be reviewed and updated **quarterly**, coinciding with [QBRs](/handbook/sales/qbrs/).
+
+#### Priority exceptions
+
+There are occasions that warrant a customer to be prioritized differently than the model indicates. In cases where the TAM and/or SAL believes this is true, an exception may be made.
+
+Examples of when an exception may be appropriate include:
+
+- A large, strategic customer with no [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)
+- A customer with large [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) but no clear & active growth path
+- A customer with [risk](/handbook/customer-success/tam/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk
+
+In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. If there is agreement that an exception is warranted, the customer can be prioritized accordingly.

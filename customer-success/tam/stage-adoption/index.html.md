@@ -51,7 +51,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
 
 - Using Merge Requests as part of the development lifecycle. (counts.merge_requests)
-- Increase in projects with repositories with continous growth over 3 months (counts.projects_with_repositories_enabled)
+- Increase in projects with repositories with continuous growth over 3 months (counts.projects_with_repositories_enabled)
 - Increase in source control pushes/commits with continuous growth over 3 months (counts.source_code_pushes)
 
 Usage Discovery Questions:
@@ -92,15 +92,15 @@ Usage Discovery Questions:
 
 If there is no data currently being recorded for your customer in version.gitlab.com, you can ask whether they have:
 
-- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continous growth over 3 months
+- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 
 Using data from version.gitlab.com and the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) you can determine if the customer is doing the following: 
 
-- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continous growth over 3 months
+- Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 * SAST jobs (counts.sast_jobs)  
 * DAST jobs (counts.dast_jobs) 
 * Dependency scanning jobs (counts.dependency_scanning_jobs) 
-* Licence management jobs (counts.license_management_jobs)  
+* License management jobs (counts.license_management_jobs)  
 * Secret detection jobs (counts.secret_detection_jobs)
 * Container scanning jobs - counts.container_scanning_jobs
 
@@ -146,14 +146,14 @@ Usage Discovery Questions:
 
 Usage Discovery Questions:
 
-1. How are you monitoring the stability and perfromance of your GitLab instance?
+1. How are you monitoring the stability and performance of your GitLab instance?
 1. What do you use to monitor your deployed applications?
 
 ## Protect
 
 - [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
 - [Container Host Security Monitoring](https://docs.gitlab.com/ee/user/clusters/applications.html#install-falco-using-gitlab-cicd)
-- [Continer Network Security](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
+- [Container Network Security](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
 - [Security Orchestration](https://about.gitlab.com/direction/protect/security_orchestration/)
 
 

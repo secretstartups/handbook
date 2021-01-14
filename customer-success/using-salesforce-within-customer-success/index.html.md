@@ -28,7 +28,7 @@ TAM Sentiment - A field to list the TAM's sense of the [customer's health](/tam/
 
 Salesforce operates using a series of objects. Standard objects are objects that are included with Salesforce. Common business objects like Account, Contact, Lead, and Opportunity are all standard objects.
 
-Custom objects are objects that you create to store information that’s specific to your company or industry. For GitLab, we have created four custom objects that are specific to Customer Success. These are POV's and PS EngagementS (PSE's). We can link these custom objects to accounts and opportunities, and create automations such as allowing us to auto-populate specific fields and notify users when a task needs to be completed.
+Custom objects are objects that you create to store information that’s specific to your company or industry. For GitLab, we have created four custom objects that are specific to Customer Success. These are POV's and PS Engagements (PSE's). We can link these custom objects to accounts and opportunities, and create automations such as allowing us to auto-populate specific fields and notify users when a task needs to be completed.
 
 ### Professional Services Engagements (PSE) objects
 
@@ -36,7 +36,7 @@ PSE objects in Salesforce are used to track the progress of our PSE's that are a
 
 The Opportunity that each PSE is associated with will contain information relevant to the Opportunity (Amount, IACV etc.) while the PSE itself will house notes, details and monitor the progress of the PSE (Go Live Date, Kick Off Date etc.). If a client would like to move forward with many professional services at once then all of these services would be encapsulated and related through one Opportunity and one PSE.
 
-If an existing client, who previously purchased professional services from GitLab, would like to purchase addition professional services, then a new Opportunity and PSE would be created in Salesforce. Review our section in the [handbook](/handbook/sales/#when-to-create-an-opportunity) about creating new opportunities if you have any questions around the Opportunity creation process.  
+If an existing client, who previously purchased professional services from GitLab, would like to purchase addition professional services, then a new Opportunity and PSE would be created in Salesforce. Review our section in the [handbook](/handbook/sales/#when-to-create-an-opportunity) about creating new opportunities if you have any questions around the Opportunity creation process.
 
 In order to track the contacts that are associated with a PSE, we utilize the PSE-Contact Association list. This can be accessed by navigating to the PSE page layout and locating the PSE-Contact Association related list. From there you can create a new association by looking up the contact that is associated with this PSE. Multiple contacts can be associated with a single PSE.
 
@@ -77,7 +77,7 @@ In order to track the contacts that are associated with a PSE, we utilize the PS
 * Approver - the Salesforce user who ticked the `Approved` box
 * Passive acceptance language in SOW? - does the SOW contain passive acceptance language to complete the SOW?
 * Signed Acceptance from Customer - confirmation GitLab has signed approval from the customer to begin the project
-* Passive acceptanced used for sign off? - did we use passive acceptance to complete the SOW?
+* Passive acceptance used for sign off? - did we use passive acceptance to complete the SOW?
 * Sign Off Date - the sign off date, whether accepted via email or by executing passive acceptance
 
 **Project Timeline**
@@ -146,7 +146,7 @@ For all new Zendesk tickets that are created, the Technical Account Manager and 
 
 ### Tracking Emails within Salesforce
 
-Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value. 
+Anyone communicating with a customer via email should ensure their emails are being tracked within Salesforce in the account's activity history. Even with the roll-out of [Gainsight](/handbook/customer-success/tam/gainsight/), we still log our emails to Salesforce because the emails within Gainsight's timeline can create more noise than value.
 
 To log an email in Salesforce:
 
@@ -181,4 +181,4 @@ It's best practice to use an existing report rather than to create a new one, ke
    4. Preview: You can drag any fields as a new column. For instance, you can add Account Name, Account Owner, and Technical Account Manager/Solutions Architect
 1. Once complete, either hit "Save" or "Run Report" to preview your report. If you run it, you can hit Save on the next page.
 1. No matter what, make sure you save it in a folder that others can also access for transparency
-1. Congrats! You're done.  
+1. Congrats! You're done.

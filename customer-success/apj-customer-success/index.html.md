@@ -4,7 +4,7 @@ title: "APJ Customer Success"
 ---
 The APJ Customer Success department is part of the [GitLab Sales](/handbook/sales) function under the WW Customer Success organisation who partners with our large, mid-market and strategic customers to deliver value throughout their GitLab adoption in the code development lifecycle.
 
-The team can be reached in WW Customer Success [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).  Further to that, the APJ Customer Success team also coummicates via our [Slack channel](https://gitlab.slack.com/archives/a-team_customer_success) (internal & private only) amongst themselves.
+The team can be reached in WW Customer Success [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).  Further to that, the APJ Customer Success team also communicates via our [Slack channel](https://gitlab.slack.com/archives/a-team_customer_success) (internal & private only) amongst themselves.
 
 
 
@@ -54,7 +54,7 @@ Starting from the GitLab [org chart](https://about.gitlab.com/company/team/org-c
 The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/#apac) and [Mid-Market](/handbook/sales/territories/#apac-1) APJ outlines territories.
 
 ## Engagement options with the APJ Customer Success team
-Any customer, customer prospect, GitLab Business Partner and/or GitLab Sales representative requiring assitance with GitLab's technology should be directed to the Customer Experience Manager (CEM).
+Any customer, customer prospect, GitLab Business Partner and/or GitLab Sales representative requiring assistance with GitLab's technology should be directed to the Customer Experience Manager (CEM).
 
 Options to engage with the Customer Experience Manager are:
 - Phone call
@@ -65,7 +65,7 @@ Options to engage with the Customer Experience Manager are:
 
 In exchange, all APJ Customer Success team members will document, capture and share (internally) all customer relevant information. We refer to the overview as the APJ Team Board - given the customer sensitity and Customer Data sovereignty across different APJ regions and countries, this APJ Team Board is available only to internal GitLabbers.
 
-The main focus is to efficiently centralis customer related information in one location utilising GitLab Kanban boards and document our work in GitLab Issues. We also share it internally across the APJ CS team as well as utilise the APJ Team Board as a follow up tool to ensure our customers success.
+The main focus is to efficiently centralise customer related information in one location utilising GitLab Kanban boards and document our work in GitLab Issues. We also share it internally across the APJ CS team as well as utilise the APJ Team Board as a follow up tool to ensure our customers success.
 
 The CS team has also been building out a web-application to visualise the information captured by the APJ Team Board. The current goal is to complete that internal project referred as "SA Insights" by the end of FY21-Q2.
 
@@ -82,7 +82,7 @@ The CS team has also been building out a web-application to visualise the inform
 3. Address initial customer prospect technical and architectural conversations (Prospecting with Sales)
 4. Engage with customers or prospective customers in technical evaluations of GitLab's offerings (Proof-of-Value)
 5. Proposal and Architectural Documentation services for our customers
-6. Attend conferences, meetups, events (community or formal professional) and provide talks, keynotes, presentations and DevOps thought-leadership  
+6. Attend conferences, meetups, events (community or formal professional) and provide talks, keynotes, presentations and DevOps thought-leadership
 
 ## Returning back to GitLab and the Community
 - Podcasts
@@ -107,7 +107,7 @@ The meeting agenda is generally as follows:
 - The meeting generally kicks of with announcements, celebrations and updates from sales meetings, Customer Success meetings, and / or other company news
 - Following the official part, the rest of the meeting is used for open discussions, presentations of key findings by individual team members and a open-door Q&A session
 - Pro-activeness is encouraged within the team - interrupting and asking question is also encouraged
-- Although the agenda priority is managed by the CEM - All team members are expected to bring forward topics for discussions 
+- Although the agenda priority is managed by the CEM - All team members are expected to bring forward topics for discussions
 
 The meeting is scheduled regularly and on a weekly basis. The meeting is hosted via Zoom and the Meeting Agenda is shared via gdrive Docs and available internally.
 
@@ -126,7 +126,7 @@ The meeting agenda is generally as follows:
 - Introduce Topic of interest and provide background information
 - Demonstrate in GitLab's platform where the topic fits in and announce the [GitLab Stage](https://about.gitlab.com/direction/#devops-stages) it belongs to
 - Articulate the benefit of the Topic for our customers in APJ
-- Clearly articulate which [GitLab Tier](/handbook/ceo/pricing/) the topic is benefitted from
+- Clearly articulate which [GitLab Tier](/handbook/ceo/pricing/) the topic is benefited from
 - Document your main finding in the internal bi-weekly GitLab New Release meeting document
 
 The meeting is scheduled regularly and on a bi-weekly basis. The meeting is hosted via Zoom and the Meeting Agenda is shared via gdrive Docs and available internally.
@@ -135,7 +135,7 @@ The meeting is scheduled regularly and on a bi-weekly basis. The meeting is host
 ## Bi-Weekly APJ Team Coffee chat (all APJ CS team members welcomed)
 **Objective of the meeting: Bring any topic to the table in the APJ Team coffee chat. Following the [GitLab Coffee Chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) guidance, this is a social call.**
 
-The APJ Customer Success team meets bi-weekly to attend this optional coffee chat at the end of the week to discuss casual topics virtually. Topics of discussion can but do not have to be work-related. If a topic is work related, a retrospective overview and outcome can be discussed but the main interest should be the solution to the outcome versus asking for assistance. 
+The APJ Customer Success team meets bi-weekly to attend this optional coffee chat at the end of the week to discuss casual topics virtually. Topics of discussion can but do not have to be work-related. If a topic is work related, a retrospective overview and outcome can be discussed but the main interest should be the solution to the outcome versus asking for assistance.
 
 Duration: Between up to 30 minutes
 

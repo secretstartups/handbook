@@ -38,7 +38,7 @@ At the beginning of the session show attendees how to ask questions using your v
 
 A team member can play the role of session manager, managing questions coming in from the chat and being time keeper, reminding you of breaks and Q&A points.
 
-#### Tip 7: Minimize the text on your slides**: 
+#### Tip 7: Minimize the text on your slides**:
 
 * Avoid using text on your slides and use them as visuals to reinforce your key points.     * Include notes for yourself in the presenter notes area of your slides but use these only as key points -- do not read them out loud verbatim. Your audience will be turned off listening to you read.
 * Provide attendees with access to the slides as soon as possible after the session.
@@ -53,18 +53,18 @@ Here are some of our go-to techniques to encourage remote engagement and collabo
 
 #### Group note taking
 
-1. Create a shared Agenda/Notes document, for example a Google doc, and include the link to the file for all attendees to access. 
-1. Populate the document with an outline of the topics you plan to cover. 
-1. Direct attendees to take on group responsibility for taking notes during the session, especially when you are answering questions so that your responses are captured in the file. 
+1. Create a shared Agenda/Notes document, for example a Google doc, and include the link to the file for all attendees to access.
+1. Populate the document with an outline of the topics you plan to cover.
+1. Direct attendees to take on group responsibility for taking notes during the session, especially when you are answering questions so that your responses are captured in the file.
 1. Make the file available to attendees after the session for their reference.
 1. If you have a post-session quiz you can include the link in this document.
 
 #### Pinning
 
-If your video conferencing software includes “pinning” capabilities, use these to your advantage to increase participant attentiveness. 
+If your video conferencing software includes “pinning” capabilities, use these to your advantage to increase participant attentiveness.
 
-* Adjust the settings so that as the presenter your video is always pinned as the main or largest video window during the presentation portions of the session. 
-* When you reach Q&A or interactive sections of the session, adjust your video setting again so that the active speaker’s video is always displayed largest. 
+* Adjust the settings so that as the presenter your video is always pinned as the main or largest video window during the presentation portions of the session.
+* When you reach Q&A or interactive sections of the session, adjust your video setting again so that the active speaker’s video is always displayed largest.
 * When calling on specific attendees to answer a question, pin their individual video so that it is the largest one displayed.
 * If your video conferencing software includes “panelist” and “attendee” roles which control who can display video, promote selected attendees to “panelist” so they can turn on their video as they respond to your question live.
 
@@ -90,11 +90,11 @@ Be sure to practice ahead of time with pinning your video conferencing Chat or Q
 
 #### Taking and ending breaks
 
-1. When it’s time to take a break, let attendees know what time they need to return. 
-1. Add a note into your Q&A or Chat tool to indicate you are on a break and what time attendees should return. 
+1. When it’s time to take a break, let attendees know what time they need to return.
+1. Add a note into your Q&A or Chat tool to indicate you are on a break and what time attendees should return.
 1. When the break is finished, ask attendees to use the “raise hand” tool to indicate they are back if you aren’t able to see everyone on video.
 
 #### Avoid too much of a good thing
 
-1.  If your video conferencing platform offers multiple tools for communicating with participants -- for example Chat and Q&A -- consider using just one of these tools instead of both. This will reduce complexity and make it easier for participants to have all communication in one place. Zoom Webinars allows you to restrict Chat to panelist usage so that attendees can only use the Q&A tool for communicating their questions. 
-1. Use a mixture of lecture, questions, discussions, demos, and lab activities. Don't rely on just one technique -- participants can become bored when too much time is spent using one method. On the other hand, avoid too much mixing or alernating too frequently between techniques, which can become disjointed or confusing for participants. It's all about finding the right balance for your audience.
+1.  If your video conferencing platform offers multiple tools for communicating with participants -- for example Chat and Q&A -- consider using just one of these tools instead of both. This will reduce complexity and make it easier for participants to have all communication in one place. Zoom Webinars allows you to restrict Chat to panelist usage so that attendees can only use the Q&A tool for communicating their questions.
+1. Use a mixture of lecture, questions, discussions, demos, and lab activities. Don't rely on just one technique -- participants can become bored when too much time is spent using one method. On the other hand, avoid too much mixing or alternating too frequently between techniques, which can become disjointed or confusing for participants. It's all about finding the right balance for your audience.

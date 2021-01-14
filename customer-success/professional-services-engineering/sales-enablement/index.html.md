@@ -17,7 +17,7 @@ This [sales enablement](/handbook/sales/training/sales-enablement-sessions/) pag
 
 ### Resources
 
- - Watch the live version of the [Sales Enablement Level Up Webcast](https://youtu.be/_04S2JhVZ5A) recorded on April 9, 2020. 
+ - Watch the live version of the [Sales Enablement Level Up Webcast](https://youtu.be/_04S2JhVZ5A) recorded on April 9, 2020.
 - Check out the [enablement deck](https://docs.google.com/presentation/d/1VGfUC85NO74S5qaaNZ1yQydhZL3Be4ofBTG52xr_LEA/edit#slide=id.) used in this presentation. (Note: internal link)
 
 <!-- ## Learning Objectives
@@ -28,7 +28,7 @@ This [sales enablement](/handbook/sales/training/sales-enablement-sessions/) pag
 1. Services: Positioning and Process
 1. Where to go for help -->
 
-## Professional Services: What, Why and How  
+## Professional Services: What, Why and How
 
 ### What
 {:.no_toc}
@@ -37,7 +37,7 @@ So you've won a customer's business with a subscription deal to use gitlab, cong
 
 Our team can help your customer accelerate their DevOps Transformation by delivering services to improve operational efficiency, accelerate time to market and reduce risk through GitLab product adoption.
 
-We accomplish these by offering [categories of services](/services/) to help ensure the initial gitlab rollout goes smoothly so the end users can get value as fast as possible. 
+We accomplish these by offering [categories of services](/services/) to help ensure the initial gitlab rollout goes smoothly so the end users can get value as fast as possible.
 
 #### Migration Services
 We offer data and user [migration services](/services/migration/) to enable the customer to come from a variety of legacy systems (both SCM and CI/CD). We work closely with the gitlab import API team and have automation tools to facilitate the migration. We are continuously improving them with every nuanced customer migration service we provide. Read about a [customer case study]() of a recent gitlab self managed to gitlab.com migration experience.
@@ -63,15 +63,15 @@ Customers tend to have tools and systems with which they need to establish integ
 #### Customer
 {:.no_toc}
 
-* **Faster value realization** - Help the customer setup the gitlab instance and migrate their data and users quickly to accelerate [time to first value](/handbook/customer-success/vision/#time-to-value-kpis). Paired with education services to ensure the users know how to use the newly setup gitlab system is the way to the fastest intial adoption and sets the foundation for future stage adoption. 
-* **Improved customer experience** - Establishing best practices up front with our expert recommendations is the path to a great customer experience. 
-* **Access to GitLab experts / best practices** - On top of our team of experts, we can reach back to engineering and support to put the full weight of Gitlab into solving a customer issue. 
+* **Faster value realization** - Help the customer setup the gitlab instance and migrate their data and users quickly to accelerate [time to first value](/handbook/customer-success/vision/#time-to-value-kpis). Paired with education services to ensure the users know how to use the newly setup gitlab system is the way to the fastest initial adoption and sets the foundation for future stage adoption.
+* **Improved customer experience** - Establishing best practices up front with our expert recommendations is the path to a great customer experience.
+* **Access to GitLab experts / best practices** - On top of our team of experts, we can reach back to engineering and support to put the full weight of GitLab into solving a customer issue.
 
 #### GitLab
 {:.no_toc}
 
-* **Improved retention and expansion** - When customers get started with gitlab on the right foot, they spend less time on debt work (e.g. infrastructure maintenance or ) throughout their subscription period 
-* **Customer insights and feedback** - The PS Engineer will be working hands-on with the customer team and often gains insightful feedback on the software and customer relationship. 
+* **Improved retention and expansion** - When customers get started with gitlab on the right foot, they spend less time on debt work (e.g. infrastructure maintenance or ) throughout their subscription period
+* **Customer insights and feedback** - The PS Engineer will be working hands-on with the customer team and often gains insightful feedback on the software and customer relationship.
 
 ### How will we deliver?
 {:.no_toc}
@@ -93,7 +93,7 @@ Ordering services is done through an **Off-the-shelf SKU** or a custom-scoped **
 
 ## Command of Message questions to ask
 
-### Increase Operational Efficiencies 
+### Increase Operational Efficiencies
 {:.no_toc}
 
 * Tell me about the most important things that need to be done to make the rollout successful.

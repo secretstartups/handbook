@@ -14,7 +14,7 @@ View the [Customer Success homepage](/handbook/customer-success/) for additional
 
 ---
 
-The following items are for the CI/Verify workshop that the TAM team will deliver to the customer in conjunction with the SA and sometimes PS as half-day, free workshop to enable the customer to see first-hand how easy CI is with Gitab:
+The following items are for the CI/Verify workshop that the TAM team will deliver to the customer in conjunction with the SA and sometimes PS as half-day, free workshop to enable the customer to see first-hand how easy CI is with GitLab:
 
 
 ### Workshop Deliverables:
@@ -48,7 +48,7 @@ Create a project plan for converting a project. Rough outline:
 
 #### User Enablement
 
-Overview and training on scaling CI with Gitlab using the enablement deck below
+Overview and training on scaling CI with GitLab using the enablement deck below
 
 Key Topics:
 

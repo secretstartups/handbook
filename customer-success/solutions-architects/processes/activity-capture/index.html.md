@@ -44,7 +44,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     - **Name**  - Please search for and populate the `Name` field with a prospect/customer contact existing in Salesforce that was part of the activity.   <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
     - **Subject**  - High-level description of the activity. Usually, the subject of the calendar event for this activity is appropriate.
     - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction. (ie. Demo, POV Related, Presentation/Pitch)
-    - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Exectuive`
+    - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Executive`
     - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
 
@@ -90,17 +90,17 @@ While all of these fields can be updated and changed anytime as an opportunity e
     - **Stalled** - The technical evaluation has not completed, but the customer or prospect is not actively evaluating any solution. As a guideline, this usually means the SA is not working with the prospect or customer on evaluation-related activities for at least two weeks.
 - **SA Validated Tech Evaluation Close Details** - The close details are to include a short 1-2 line description of the Close Status
 
-Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the soltuion, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is mimimal.
+Whenever an SA engages a prospect/customer who has a specific problem to be addressed or goal to be achieved, and that prospect/customer needs validation that GitLab has the solution, you are encouraged to capture that as a technical evaluation. Similar to how there are some deals without a corresponding SA, there may be deals where a technical evaluation is not performed, and SA involvement is minimal.
 
 ### Proof of Value (POV) Updates
 
-Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-in-salesforce) but can be added or updated through Troops by:
+Proof of Values are [tracked in salesforce](/handbook/sales/POV/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
 
-- Clicking on the `Add a Proof of Value` button
+- **Create POV**: Clicking on the `Add a Proof of Value` button
     - on the Troops `You just had a meeting` notification in slack
     - after searching for and selecting an opportunity or account first using `/troops <search>` in Slack
     - after using `/troops-action`
-- Clicking on the `Update a Proof of Value` button
+- **Update POV**: Clicking on the `Update a Proof of Value` button
     - after searching for and selecting a POV first using `/troops <name of POV>` in Slack
 
 ### Updating Activity Summaries
@@ -147,6 +147,33 @@ Email communication with customers can be recorded in Salesforce within the acco
 
 1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
 2. Or, download the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
+
+## Troops Workflows
+
+For transparency and awareness, the Troops activities specific to Solution Architects are listed below.
+
+
+
+
+
+| Name                                                         | Description                                                  | Slack Notification                                           | Recipient                                         | Reference |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- | --------- |
+| Log a meeting                                                | Reminder notification for SA to log their customer call      | `You just had a meeting - Please provide us with information on this activity. (wf-1)` | Troops DM                                         | `wf-01`   |
+| New call logged (wf-2) (region)                              | Troops will post the SA's call summary to their regional channel | `Task: Assigned To just logged an activity regarding Task: Related To.  (wf-2)` | Troops regional team activity channels            | `wf-02`   |
+| Tech Eval Start Date Changed                                 | When the SA updates the Tech Evaluation's Start Date, the Opp info will post to the channel | `Opportunity: Primary Solution Architect just updated the Tech Evaluation Start Date (wf-3)` | #sa-tech-eval-start                               | `wf-03`   |
+| Tech Eval End Date Changed                                   | When the SA updates the Tech Eval's End Date, the Opp info will post to the channel | `Opportunity: Primary Solution Architect just updated the Tech Evaluation End Date and/or Close Status (wf-4)` | #sa-tech-eval-end                                 | `wf-04`   |
+| Missing End Date                                             | When an Opp has (1) moved past Stage 3, (2) has a tech eval start date, and (3) has no tech eval end date, it will alert the Primary SA to complete it | These opportunities are missing a Tech Evaluation End Date and have moved past Stage 3 -- Please add an End Date and work with your counterpart (wf-06) | Troops DM                                         | `wf-06`   |
+| Alert Primary SA - Opp Stage 3 seven days ago and no SA Start Date | This is to notify the Solution Architect if a Oppty has moved to "Stage 3" seven days ago, is 20k+ IACV, and the Tech Eval has not formally started (`SA Tech Eval Start Date`) | This is to notify the SA Manager in the regional channel if a Oppty has moved to "Stage 3" seven days ago, has no `Primary SA`, is 20k+ IACV, and the Tech Eval has not formally started (`SA Tech Eval Start Date`) | Troops DM                                         | `wf-07`   |
+| Opp is in Stage 2                                            | When an Oppty is moved to Stage 2 and has more than 20k IACV, it will post to the `stage move 2` channel to alert the team of an upcoming Oppty | Opportunity: Owner just moved  Opportunity: Name to  Opportunity: Stage | #stage-move-02                                    | `wf-08`   |
+| Chorus call                                                  | Post Chorus call recordings to channel. Note: because these could be a duplicate of an SA logged activity, these are excluded from reporting | Task: `Assigned To` had a Chorus Call with  Task: `Related To` (wf-09) | #troops-chorus-calls                              | `wf-09`   |
+| PS Opp without Primary SA                                    | If a PS Oppty is in Stage 3+ and has no `Primary SA`, Troops will post a notice to the regional team's channel to ensure the `Primary SA` field is populated | Opportunity: Primary Solution Architect field is blank. Don't miss out on a potential PS SPIFF! (wf-10) | Troops regional team activity channels            | `wf-10`   |
+| Task Due (wf-11)                                             | If a Troops task is not complete, Troops will DM the individual at 4pm local time to complete their task(s) | Hi 👋- Here are your tasks that are due today. Please review if any need more information (wf-11) | Troops DM                                         | `wf-11`   |
+| Oppty Stage 3 seven days ago and no SA Start Date            | This is to notify the SA Manager in the regional channel if a Oppty has moved to "Stage 3" seven days ago, has no `Primary SA`, is 20k+ IACV, and the Tech Eval has not formally started (`SA Tech Eval Start Date`) | `Opportunity Name` was moved to Stage 3 on  `Opportunity: 3-Technical Evaluation Date` and does not have a SA Validated Start Date. If there is meaningful SA activity on a technical evaluation, please populate this field. (wf-12) | Troops regional team activity channels; daily 8am | `wf-12`   |
+| IACV Opps without Primary SA                                 | This is to notify the SA Manager that an Oppty has no `Primary SA` for any Oppty in Stage 3+ and has 10k+ IACV | `Opportunity: Primary Solution Architect` field is blank. Please update (wf-13) | Troops regional team activity channels            | `wf-13`   |
+| Primary SA Field Has Changed                                 | This is to notify SA Managers when the `Primary SA` field has changed during Stages 2 or 3 | The Primary Solution Architect has changed on  Opportunity: Name (wf-14) | #troops-primary-sa-change                         | `wf-14`   |
+| Missing Close Status and Stage 4                             | When an Oppty has moved to stages 4-7, the `SA Validated Tech Eval Start Date` is set, the `End Date` **or** `Close Status`is blank, Troops will DM the Primary SA as a reminder to complete the Oppty data | `Opportunity: Name` has moved to stage  `Opportunity: Stage` and is missing Tech Eval close data (wf-15) | Troops DM                                         | `wf-15`   |
+
+
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ During a Discovery Engagement, the Professional Services Engineering group will 
 
 ## Education Services
 
-GitLab Education Services offers instructor-led courses designed to give participants a hands-on, engaging learning experience. A variety of options are available and more are being actively planned and built through out FY21. [View a list of current offerings](https://about.gitlab.com/services/education/).  
+GitLab Education Services offers instructor-led courses designed to give participants a hands-on, engaging learning experience. A variety of options are available and more are being actively planned and built through out FY21. [View a list of current offerings](https://about.gitlab.com/services/education/).
 
 ### Standard Courses
 
@@ -33,7 +33,7 @@ GitLab Education Services offers instructor-led courses designed to give partici
 
 ### Custom Courses
 
-GitLab will work with you to identify and scope the training needs for your team and deliver a custom learning experience either at your facilties or remotely.
+GitLab will work with you to identify and scope the training needs for your team and deliver a custom learning experience either at your facilities or remotely.
 
 ## Migration Services
 

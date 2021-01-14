@@ -18,7 +18,7 @@ Solution Architects can choose between an Individual Contributor track with vari
 
 Solutions Architects can also pursue a leadership track highlighted [Solution Architect Manager Levels](https://about.gitlab.com/job-families/sales/solutions-architect/#manager-solutions-architects)
 
-Solution Architects can choose between the following specialities:
+Solution Architects can choose between the following specialties:
 
 [Channel Solution Architect](https://about.gitlab.com/job-families/sales/solutions-architect/#channel-solution-architect)
 
