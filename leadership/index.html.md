@@ -13,7 +13,9 @@ This page contains leadership pointers.
 The first couple of headers indicate which group they apply to, using the groupings
 defined on our [team structure page](/company/team/structure/).
 
-## GitLab team members
+## Managers of One
+
+In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
 
 1. At GitLab, leadership is requested from everyone, whether an individual contributor or member of the leadership team.
 1. As a leader, GitLab team members will follow your behavior, so always do the right thing.
@@ -46,24 +48,7 @@ Individual departments will have their own criteria for who is eligible to occup
 
 ## Making decisions
 
-1. We use our [values](/handbook/values/), and particularly our [values hierarchy](/handbook/values/#hierarchy), to guide the decisions we make.
-1. We combine the [best of both hierarchical and consensus organizations](/company/culture/all-remote/management/#separating-decision-gathering-from-decision-making). Hierarchical organizations have good speed but are bad at gathering data, leading to people saying yes but not doing it. Consensus organizations are good at gathering data but lack speed, leading to projects happening under the radar. We split decisions into two phases. The data gathering phase has the best of consensus organizations, where everyone can contribute. The decision phase has the best of a hierarchical organization, the person that does the work or their manager decides what to do.
-1. If you apply consensus in both the data gathering phase and the decision phase you lose speed and you get decisions that try to stay under the radar so there are fewer people to convince.
-1. If you apply hierarchy in both the data gathering phase and the decision phase you lose valuable input.
-1. Providing input but then not being part of the decision making phase is counterintuitive, you feel ignored. We'll have to accept that people listened to us but don't owe us an explanation to have fast decisions based on everyone's input.
-1. At GitLab, decision making is based on an informed and knowledgeable hierarchy, not on consensus or democracy. Voting on material decisions shows a lack of informed leadership.
-1. Make data driven decisions but consider environments that do not allow reliable data collection. According to [research by the Harvard Business Review](https://hbr.org/2016/02/the-rise-of-data-driven-decision-making-is-real-but-uneven), "experience and knowledge of leaders in the subject matter still outperforms purely data-driven approaches."
-1. When analyzing trends, never show cumulative graphs because they always look up and to the right even if business is bad.
-1. Be aware of your unconscious biases and emotional triggers.
-1. We don't have project managers. Individual contributors need to manage themselves. Not everyone will be able to do this effectively and fit our organization. Making someone responsible for managing others will cause negative effects to the results of the people that can manage themselves. If you manage yourself you have a much greater freedom to make decisions, and those decisions are based on deep knowledge of the situation. We want to retain the people that can handle that responsibility and therefore we can't retain the ones that struggle. Assigning a project manager/coordinator/case manager/etc. to something is an indicator that something is wrong and we are picking the wrong solution. The notable exception to this is in the [Professional Services](/services/) organization. While most functions at GitLab are serving the product or the company, ProServe is a services company which collaborates closely with customers and is sometimes contractually obligated to have project managers.
-1. The person that does the work makes the decisions, they are the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/). They should listen to the data and informed opinions of others to arrive at their decision. Part of making good decisions is knowing who has good information and/or experience that informs that decision. Once a DRI has made a decision, [Disagree, commit, and disagree](/handbook/values/#disagree-commit-and-disagree)
-1. A DRI may make a decision that results in (and is hence the cause of) negative feelings, but it is important to remember [Collaboration is not consensus](/handbook/values/#collaboration-is-not-consensus) and [People are not their work](/handbook/values/#people-are-not-their-work). While others are invited to contribute data and informed opinions during the decision making process, the DRI is not responsible for how they feel. When contributing supporting information to making a decision, it is the responsibility of the contributors to do so with data, use cases, historic examples, etc and not personal opinions or attacks.
-1. Short way to phrase this: We can allow others into our kitchen because we can always send them out (inviting people to give input is much easier if you retain the ability to make a decision by yourself).
-
-> If good decision-making appears complicated, that’s because it is and has been for a long time. Let me quote from Alfred Sloan, who spent a lifetime preoccupied with decision-making: “Group decisions do not always come easily. There is a strong temptation for the leading officers to make decisions themselves without the sometimes onerous process of discussion.”
-> 
-> 
-> - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
+Please see [/handbook/leadership/making-decisions](/handbook/leadership/making-decisions/)]
 
 ## Communication should be direct, not hierarchical
 
@@ -90,6 +75,7 @@ Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the
 ### Identifying root causes
 
 Sometimes when performance dips, the best way to tackle it is to try to determine the root cause. This is easier said than done. There is a great tool that [CEB (now Gartner)](https://www.cebglobal.com/) created to help with this called [performance issue root cause diagnostic](https://offices.depaul.edu/human-resources/employee-relations/Documents/Performance%20Issue%20Root%20Cause%20Diagnostic.pdf). It may not always be possible or appropriate to determine the root cause, so the [underperformance process](/handbook/leadership/underperformance/) should be followed.
+
 ## Responding to Negative Feedback
 
 As a leader, the way you respond to negative [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) makes a significant impact
@@ -117,51 +103,15 @@ Please see [/handbook/leadership/1-1](/handbook/leadership/1-1).
 
 Please see [/handbook/leadership/skip-levels](/handbook/leadership/skip-levels).
 
-## Managers of one
+## Coaching
 
-In an all-remote organization, we want each team member to be a [manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one). A [manager of one](/handbook/values/#managers-of-one) is an attribute associated with our [Efficiency value](/handbook/values/#efficiency). To be successful at GitLab, team members need to develop their daily priorities to achieve goals. Managers of one set the tone for their work, assign items and determine what needs to get done. No matter what role you serve, self-leadership is an essential skill needed to be successful as a manager of one.
-
-**Skills and behavior of being a manager of one as a Team Member**:
-
-- Takes responsibility to complete tasks and goals within appropriate timelines
-- Delivers on commitments independently and without supervision
-- Drives issue-based discussions grounded in a clear understanding of challenges and barriers
-- Highlights areas for process improvement and proactively brings them up with leadership
-- Continuously looks for opportunities to improve or iterate on current processes
-- Communicates status of goals and delivers on agreed-upon timing of completion with leadership
-
-**Skills and behaviors of being a manager of one as a People Leader**:
-
-- Holds their team accountable for establishing goals and meeting their commitments
-- Consistently hires managers of one that fit the [GitLab values](/handbook/values/)
-- Establishes goals for their team while seeking input from leadership
-- Skilled at having difficult conversations with team members and leadership
-- Strengthens team relationships using empathy and [emotional intelligence](/handbook/leadership/emotional-intelligence/) to adapt as needed to enable the manager of one skills and behaviors
-- Serves as a role model for what it takes to be successful as a manager of one in an all-remote setting
-
-### Coaching
-
-##### What is coaching?
+### What is coaching?
 
 [Coaching](/handbook/leadership/coaching) is about helping others help themselves. It is not about giving advice, instruction, or telling someone what to do. **Coaching is about focusing on the future and identifying where the coachee wants to be and what they want to achieve.** At GitLab, we've defined coaching as a conversation that helps people think for themselves, find their own answers, and commit to action they design. As a coach, your role is to clarify the pathway from the current state to the future. Coaches do this by enabling the coachee to make informed choices based on deeper insight.
 
 ## No matrix organization
 
-1. We believe everyone deserves to report to exactly one person that knows and understands what you do day to day. [The benefit of having a technically competent manager is easily the largest positive influence on a typical worker’s level of job satisfaction.](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) We have a simple functional hierarchy, everyone has one manager that is experienced in their subject matter. Matrix organizations or [dotted lines](https://www.global-integration.com/glossary/dotted-line-reporting/) are too hard to get right.
-1. We don't want a matrix organization where you work with a lead day to day but formally report to someone else.
-1. The advantage of a functional structure is that you get better feedback and training since your manager understands your work better than a general manager.
-1. For the organization, forgoing a separate class of managers ensures a simple structure with clear responsibilities.
-1. A functional organization structure mimics the top structure of our organizations (Finance, Sales, Engineering, etc.).
-1. It reduces compensation costs, coordination costs, and office politics.
-1. The disadvantage is that your manager has a limited amount of time for you and probably has less experience managing people.
-1. To mitigate these disadvantages we should offer ample training, coaching, support structures, and processes to ensure our managers can handle these tasks correctly and in a limited amount of time.
-1. Everyone deserves a great manager that helps them with their career. A manager should hire a great team, should let you know when to improve, motivate and coach you to get the best out of you.
-1. "Nuke all matrices. Nuke all dual reporting structures. And nuke as many shared services functions as you possibly can." from the great [guide to big companies from Marc Andreessen](http://pmarchive.com/guide_to_big_companies_part2.html) (the other guides are awesome too).
-1. We recommend reading [High Output Management](/handbook/leadership/#books), and its author coined Grove's law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
-1. We do make features with a [DevOps stage group](/company/team/structure/#groups) that is a collection of teams and [stable counterparts](/company/team/structure/#specialist).
-1. Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a [working group](/company/team/structure/working-groups/).
-1. Functional companies are easier when you focus on one product. Apple focuses on the iPhone and can have a [unitary/functional/integrated organizational form](https://stratechery.com/2016/apples-organizational-crossroads/). The advantage is that you can make one strong integrated product. We can also maintain a functional organization as long as we keep offering new functionality as features of GitLab instead of different products. The fact that we're in touch with the market because we use our own product helps as well.
-1. Having functional managers means that they are rarely spending 100% of their time managing. They always get their hands dirty. Apart from giving them relevant experience, it also focuses them on the output function more than the process. Hopefully both the focus and not having a lot of time for process reduces the amount of politics.
+Please see [/handbook/leadership/no-matrix-organization](/handbook/leadership/no-matrix-organization/)
 
 ## Stable counterparts
 
