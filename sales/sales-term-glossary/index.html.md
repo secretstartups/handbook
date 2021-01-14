@@ -319,6 +319,16 @@ Renewals ACV plus Growth IACV minus (Lost Renewals + Credits + Downgrades)
 
 The value of the first twelve (12) months of any mid-term upgrade.
 
+### Proto PTB (Propensity To Buy)
+
+Is a classifier model built to identify customers most likely to increasing their ARR by >25% within the next 12 month. 
+
+The model works at a parent account level and leverages data from previous periods like: ARR, ARR changes, created contacts, created opportunities, created support tickets, won/lost deals, touchpoints, products per period, # of seats and industry. 
+
+The model was created following the iteration value and delivered a working Proof Of Concept for the FY22 planning exercise.  
+
+[Link to repository](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics/-/blob/041ec9eb0921dd117995b8f370dbd257cb52024b/Proto%20PTB/PTB%20-%20UPA%20-%20Wo%20Excl.%20-%20Per%20Segment%20-%20v4.ipynb).
+
 ## Rep Performance and Behavior Definitions
 
 ### Rep Productivity
