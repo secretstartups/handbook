@@ -12,8 +12,6 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
----
-
 ## Overview
 {: #overview .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -40,7 +38,8 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
 To be added
 
 ## GitLab Email Calendar
-{: #calendar .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #calendar .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The calendar below documents the emails to be sent via Marketo and Mailchimp for:
 1. nurture emails
@@ -57,7 +56,7 @@ The calendar below documents the emails to be sent via Marketo and Mailchimp for
 
 
 ### Holiday coverage for severity::1 security vulnerabilities email communication
-{: #holiday-coverage} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #holiday-coverage}
 
 In the event of an severity::1 (critical) security vulnerability email communication is needed during the holidays, please create an issue using *[request-email template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email)* and ping in [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) tagging @marketing-programs
 
