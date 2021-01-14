@@ -248,7 +248,7 @@ These are the current segmentations that are alive and approved.
 ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. You can find these lists in the DMA folder in the [Marketo Database](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52943077A1).
 The **MktgOps** team is responsible for creating & maintaining these lists. 
 
-If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
+If a new ABM list is needed, please open an issue using the [Target list issue template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#request-confirm-target-list) and tag marketing ops.
 
 ### Geographic DMA List   
 
@@ -257,12 +257,7 @@ The Geographic DMA (direct marketing area) were built for the Field Marketing an
 If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
 
 #### Focused Email Lists
-The Field Marketing and Marketing Program teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. The Marketing Operations team will handle the creation of focused email lists in Marketo after they are requested by the Field Marketing and Program Managers via an issue in the Marketing Operations project. Procedures for these focused lists are as follows:
-
-* FMM provides MCM with focus cities, exclusions and inclusions. For ABM lists, the Account ID and email domain will be supplied
-* FMM or MCM creates a new issue for MOps from `DMA Request` template
-* MOps provides the draft list to the FMM and MCM for review and further exclusions
-* MOps creates a Smart List in Marketo and alerts via issue
+The Field Marketing and Marketing Campaigns teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. Email list requests must be submitted using [this template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#request-confirm-target-list). From there, the campaign managers or marketing ops will build or review the list
 
 #### SLA for Targeted Lists: 
 * List request is required 7 days prior to email deployment - FMM / MPM
