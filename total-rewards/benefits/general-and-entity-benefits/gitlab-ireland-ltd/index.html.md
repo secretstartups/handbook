@@ -102,7 +102,8 @@ Once the total rewards team has approved the bike or ticket application, an invo
 
 * Maternity Leave in Ireland:
   * Team members who become pregnant in Ireland are eligible to take 26 weeks of maternity leave. Team members must take at least 2 weeks of maternity leave before your baby is due and at least 4 weeks after the baby is born. 
-  * Maternity benefit is payable by the state subject to a team member's PRSI contributions. The rate is 245 EUR per week.
+  * [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html#:~:text=Maternity%20Benefit%20is%20a%20payment,you%20are%20self%2Demployed) is payable by the state subject to a team member's PRSI contributions. The rate is 245 EUR per week for up to 26 weeks.
+  * Team members can also claim [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) (also subject to a team member's PRSI contributions). The rate is 245 EUR per week for up to 5 weeks. This can be claimed anytime within the first year of a child's life.
   * [If you have been at GitLab for six months, GitLab will supplement the Maternity Benefit up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your maternity leave.
   * Team members can take additional unpaid maternity leave for up to 16 more weeks, beginning immediately after the end of the 26 weeks' basic maternity leave. To take additional leave, please send an e-mail to Total Rewards at least 4 weeks before your basic maternity leave ends. 
   * Process for applying for state maternity benefit:
@@ -115,9 +116,9 @@ Once the total rewards team has approved the bike or ticket application, an invo
 * Paternity Leave in Ireland:
   *  The Paternity Leave and Benefit Act 2016 provides two weeks' statutory leave and benefit for team members who are the relevant parents of children born or adopted.
   *  Paternity leave generally must be taken in one block of two weeks within the first six months following the birth or adoption placement. The term "relevant parent" is defined broadly to provide for fathers, adoptive fathers, civil partners, cohabitants and same-sex couples.
-  *  Paternity benefit is payable by the state subject to a team member's PRSI contributions. Workers should apply for the payment 4 weeks before they intend to go on paternity leave.
-  *  State paternity benefit is payable at a rate of 245 EUR per week for two weeks.
-  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Pay up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your parental leave.
+  *  [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) is payable by the state subject to a team member's PRSI contributions at a rate of 245 EUR per week for up to two weeks. Team members should apply for the benefit 4 weeks before they intend to go on paternity leave.
+  * Team members can also claim [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) (also subject to a team member's PRSI contributions). The rate is 245 EUR per week for up to 5 weeks. This can be claimed anytime within the first year of a child's life.
+  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Benefit and Parent's Benefit up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your parental leave.
   * Process for applying for state paternity benefit:
     * Notify Total Rewards of your baby's due date.
     * Total Rewards will send you the completed PB2 form.
