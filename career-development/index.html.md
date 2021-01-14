@@ -479,3 +479,57 @@ A team member may be "on loan" to another team for various reasons. This is less
 * The manager of the team should schedule weekly 1-1 meetings with the on-loan team member. The team member can choose to stop having weekly 1-1s with their home team manager.
 
 Team members who were on loan to another team documented these best practices in a retrospective.
+
+## Staff+ IC Gearing Ratios
+ 
+We use [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to govern the amount of Staff, Principle, Distinguished, and Fellow level positions (collectively referred to as "Staff+") in Engineering because the work needed to be done at these levels is proportional to the mission of their workgroup. This is similar to how Manager, Director and VP level positions are proportional the organization's size and our recommended [span-of-control limits (bullet #5)](/company/team/structure/#management-group).
+
+It's obvious why a manager cannot manage too many people effectively, or why they would be unable to have an impact if they managed too few people (see [Andy Grove's _High Output Management_](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) for more detail on the concept of "managerial leverage"). It's less obvious how to determine the amount of Staff+ work that needs to be done, because it partially involves solving our hardest technical problems, which are unpredictable. But other important Staff+ work is proportional to the organization, and so it's easier to characterize. So we call it "[technical leverage](/handbook/engineering/ic-leadership/#technical-leverage)" to mirror "managerial leverage".
+
+Throughout engineering we have groups of team members organized in different structures towards completing a mission. For the purpose of these gearing ratios we’ll accommodate this diversity of structure by referring to these as "workgroups". A workgroup is the collection of team members with a mission and typically arranged according to a product group, team, or other problem-solving unit.
+
+Some workgroups within engineering may directly align to staffing of Staff+ roles according to team organization. Each team has a single Staff Engineer, just as they have a single Manager; with the two working together to lead the team in their mission. Other workgroups, based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes). As teams grow in both scope and size it is important to determine whether they should expand the number of Staff+ roles, or if the growth is reason to split out to another workgroup.
+
+In contrast, we place no numeric limits on the quantity of Intermediate and Senior Software Engineers because they are the center-of-gravity for any Product development organization. A healthy organization probably has the highest number of these positions compared to other roles, because they are collectively the most efficient, versatile, and immediately productive individuals. Most other parts of the organization, including managers and Staff+ ICs, revolve around Intermediate and Senior Software Engineers. 
+
+Just as a healthy organization has managers with appropriate managerial leverage (or span-of-control), it also has Staff+ ICs with appropriate technical leverage. The potential number of workgroup Staff+ ICs will be directed by gearing restrictions (below) while still allowing for a deliberate justification for workgroups where the default approach is insufficient.
+
+It is intended that we provide Staff+ team members with a significant scope of influence and challenges worthy of their skills and experience. If a Staff+ IC cannot positively influence enough of their peers, or is overly focused on a smaller scope of work we aren’t benefiting their growth nor are we efficiently investing company funds.
+
+### Staff+ Reporting Restrictions
+* Staff Software Engineers report to an Engineering Manager (a manager of ICs)
+* Principle Engineers report to a Senior Manager+ (a manager of managers)
+* Distinguished Engineers report to Director+
+* Engineering Fellows report to VP+
+
+### Gearing Ratios
+These [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) govern the number of Staff+ positions available.
+
+It is intended that gearing ratios not become overly complicated. In support of this, there is a default gearing ratio which can be assumed by all workgroups. As long as this default supports the workgroup mission, nothing further is required. This default is a limit of one Staff Engineer per workgroup.
+The default one Staff Engineer per workgroup may not enable the mission for every workgroup. In these cases an exception to the default gearing ratio is to be documented.
+
+The method for documenting and adopting an exception consists of:
+1. Explanation of what is differentiated about the workgroup and its workload that requires a unique gearing ratio. Ideally the need for additional Staff+ roles can be explained in the context of the [4 Archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes).
+1. Specific explanation should be provided as pros/cons of solving the need through an additional workgroup vs. increasing the Staff+ ratio within the existing workgroup.
+1. Identification of the intended new Staff+ ratio(s).
+
+Since collective exceptions within a department will at some point impact overall funded headcount, exceptions will require the approval of department heads. In some cases the exception to gearing ratio may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). All exceptions should be documented in the a page local to the workgroup within the handbook but linked to the table below.
+
+| Workgroup | Department | Description | Link |
+| Scalability Team | Infrastructure | TBD | TBD |
+| Delivery Team | Infrastructure | TBD | TBD |
+| Security - TBD | Security | TBD | TBD |
+
+### Benefits of this solution
+A number of alternative approaches were considered as a solution for this gearing. The [IC Gearing Working Group](/company/team/structure/working-groups/ic-gearing/) resulted in this model for the following reasons:
+* Provides a default approach that requires no further effort by a workgroup
+* Provides flexibility for workgroups which require a different approach
+* Doesn't require anyone title changes as part of a transition
+* Doesn't require any role changes as part of the transition
+ 
+Details of various options as well as additional detail on differences can be found in a [comparison sheet](https://docs.google.com/spreadsheets/d/17yKkJf2VihllVnD_nveDqitdt7KUCL-spD-WR4cxVHo/edit#gid=0), and in the [working group meeting notes](https://docs.google.com/document/d/1WJg306wfKhpdwAqMBDj7R_QuBUwGCmz11mvuxOXUHU8/edit#heading=h.g4xz6ruvxn73) (internal only)
+
+### Drawbacks of this solution and mitigations
+
+* If we reach the upper limit implied by this gearing ratio, it may delay opportunity for some ICs who are interested in a Staff+ role because we don't have an area in which they can exercise enough technical leverage. However, as of Jan 2021 less than half of all teams across engineering had Staff Engineers. This doesn't suggest we'll never encounter this problem, but that the current situation accompanied with anticipated growth can allow for more mitigation in a future iteration.
+
