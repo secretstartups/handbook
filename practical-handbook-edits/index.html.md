@@ -86,7 +86,7 @@ Every GitLab team member has an entry in `team.yml` and when a new manager
 joins a team, updates are needed in three places:
 
 - `team.yml` for the manager's entry
-- `team.yml` for each team member's entry
+- [`team.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml) for each team member's entry.
 - [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team.
 
 An example of how to do this can be seen in [this merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69299).
