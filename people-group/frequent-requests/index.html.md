@@ -30,7 +30,6 @@ If you need a letter from GitLab verifying your employment/contractor status, pl
 If you need GitLab to create a letter confirming that you work remotely, please have the relevant company or organization request this by emailing `people-exp@gitlab.com`. You may also email the People Experience team directly if it is easier for you to provide the contact information of the organization requesting the letter. The People Experience team will complete this letter, sign it and email it to the company or organization who requested it.
 
 ## Employment Verification
-{: #emplyoment-verification}
 
 If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`. 
 
@@ -46,7 +45,7 @@ Team members often are asked for a company phone number to complete a mortgage a
 
 You do not need permission from GitLab to give a personal reference, but GitLab team members are not authorized to speak on behalf of the company to complete reference requests for GitLab team members no longer working for GitLab. If a team member would like to give a personal reference based on their experience with the former team member, it must be preceded by a statement that the reference is not speaking on behalf of the company. To reinforce this fact, personal references should never be on company letterhead, and telephone references should never be on company time. Remember to always be truthful in reference checks, and instead of giving a majority negative reference, refuse to provide one. Negative references can result in legal action in some jurisdictions.
 
-If an ex team member acted in a malicious way against GitLab we'll do a company wide announcement on the company call not to provide a reference.
+If an ex team member acted in a way which is against our [Code of Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/), GitLab may do a company wide request not to provide a reference.
 
 ## Paperwork (Werkgeversverklaring) people may need to obtain a mortgage in the Netherlands
 
@@ -119,3 +118,12 @@ To initiate a change in name please complete the following:
 - Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) to request to change your name and email address in Google.
 - Team member: Email people-exp@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
 - People Experience: Update Name in BambooHR and GSuite.
+
+## Reporting Requests
+All requests for BambooHR-related data or reports with personal people data should be made through an [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests).
+
+1. The Access Request should define exactly what type of personal data is requested, and also define if:
+- This will be a one-time request.
+- This will be an ongoing request and the requestor needs access to be able to run a report themselves.
+1. Please assign all such requests to Total Rewards and ping the Total Rewards group in the comments using the `@gl-total-rewards` tag.
+

@@ -96,6 +96,8 @@ terminated and the employee is being rehired. This one needs to be triggered by 
 
 This will trigger a pipeline that fetches the team member on BambooHR. A file with the following naming convention is created: `03_employee_rehire_mmddyyhhmmss.csv`. The same fields as for new hires are added to this file except that there is also a column `rehire` added where the value is set to `yes`. Once done, the file is uploaded to LawLogix where they process it.
 
+If an I-9 is not on record in Guardian then you will need to run New Hire Pops command above. 
+
 ### Offboarded team members
 
 When a team member leaves GitLab they also need to be _terminated_ on LawLogix. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to LawLogix so they can process it.

@@ -11,8 +11,8 @@ description: "GitLab contract information and procedures."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains GitLab's Team Member contracts and many other things around how we have scaled team members in ~65 countries. 
-The DRI for all GitLab Team Member contracts are the [People Operations Specialist team](https://about.gitlab.com/job-families/people-ops/people-operations/). Any changes to any contracts should be requested to the People Operations Specialist team and will require approval from our Director of Legal, Employment. 
+This page contains GitLab's Team Member contracts and many other things around how we have scaled team members in ~65 countries.
+The DRI for all GitLab Team Member contracts are the [People Operations Specialist team](https://about.gitlab.com/job-families/people-ops/people-operations/). Any changes to any contracts should be requested to the People Operations Specialist team and will require approval from our Director of Legal, Employment.
 
 ## Team Member Types at GitLab
 
@@ -92,7 +92,7 @@ Contact information for our PEO representatives is found in the `Entity & Co-Emp
 
 ### Team members hired as Contractors via our GitLab IT BV Entity
 
-These are everwhere else, where we do not have an Entity or PEO.
+These are everywhere else, where we do not have an Entity or PEO.
 
 | Country | Agreement Type(s) | Entity to Invoice (for AP only) | Pay Frequency | Paid By | BambooHR Profile (Y/N) |
 | ------- | ----------------- | ------------------------------- | ------------- | ------- | ---------------------- |
@@ -216,16 +216,20 @@ If an exception request is made to end a probation period early, this should be 
 
 ### Important steps during the Probation Period
 
+***For Managers***
 1. Managers are responsible for monitoring and specifically reviewing performance halfway through the probation period of their direct report.
 1. If **underperformance is an issue**, or there is any hesitation regarding the successful completion of a probation period, this should be discussed immediately with the relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. 14 days prior to the end of their direct reports' Probation Period, the manager will receive an email from the People Experience Team, reminding them that their direct reports' probation period is coming to an end.
 1. The Hiring Manager will respond confirming their approval of their direct reports' completion of their probation period, or that they are in discussions with their People Business Partner.
-1. The People Experience Associate will log this information in the Probation Period tab of the [People Exp/Ops Task Tracker](https://drive.google.com/drive/search?q=%22people%20exp/ops%20task%20tracker%22)
+
+***For People Experience Team***
+1. The People Experience team will be cc'ed on an email that is sent automatically as per the current [email automation](handbook/people-group/engineering/email-automation/#probation-ending-email)
+  - If the email is not automatically sent out, then the People Experience Associate will need to create an issue and assign it to the People Group Engineer to triage.
+1. From this email, they will log the team members name, manager's name, and probation period end date in the Probation Period tab of the [People Exp/Ops Task Tracker](https://drive.google.com/drive/search?q=%22people%20exp/ops%20task%20tracker%22)
 1. Once the Manager has confirmed that they are satisfied with their direct reports' performance, the People Experience Associate will send a [confirmation email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/probation_completed_team_member.md) to the team member to notify them that their probation period has been completed. The PEA will cc `people-exp@ gitlab.com` and the manager.
 1. The email thread between the People Experience team and the manager should be uploaded to the `Contracts & Changes` folder of the Documents tab of the direct reports' BambooHR profile.
-1. Again, if underperformance is an issue, or there is any hesitation regarding the successful completion of a probation period, this should be discussed immediately with the relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 1. If no response is received from the manager after 7 days, the People Experience Team will check in BambooHR if there has been an manager update or change and follow up with a second email and a private message in Slack.
-  - If there is still no response after 10 days, the People Experience team will create a private Slack channel including the manager and relevant People Business Partner to get the needed confirmation.
+1. If there is still no response after 10 days, the People Experience team will create a private Slack channel including the manager and relevant People Business Partner to get the needed confirmation.
 1. If for some reason, a manager is not contacted prior to a team member's probation notice completion, the manager must still be contacted to notify them that a team member's probation period is over, using the relevant [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/probation_no_notification.md). This thread must be saved in the team member's BambooHR profile, in their Contracts & Changes folder.
 
 ### Probation Periods of Team Members Employed Through a PEO
@@ -353,11 +357,13 @@ We appreciate your participation.
 
 ## Country hiring guidelines
 
-At GitLab, we hire people from all over the world and all walks of life. Diversity, Inclusion & Belonging is one of our [core values](/handbook/values/).However, as an [all-remote company](/company/culture/all-remote/) we do face challenges with hiring in certain countries. Each country has unique and complex rules, laws, and regulations, that can affect our ability to conduct business, as well as the employability of the citizens and residents of those countries.
+At GitLab, we hire people from all over the world and all walks of life. Diversity, Inclusion & Belonging is one of our [core values](/handbook/values/). However, as an [all-remote company](/company/culture/all-remote/) we do face challenges with hiring in certain countries. Each country has unique and complex rules, laws, and regulations, that can affect our ability to conduct business, as well as the employability of the citizens and residents of those countries.
 
-We are growing and continuously expanding our hiring capabilities in a variety of geographies. However, at this time we are unable to hire employees and contractors in certain specified countries due to a variety of reasons. Specific country hiring information is discussed with potential candidates.
+We are growing and continuously expanding our hiring capabilities in a variety of geographies. However, at this time we are unable to hire employees and contractors in certain specified countries due to a variety of reasons. Specific country hiring information is discussed with potential candidates. GitLab is able to hire team members who are eligible to work in the location of their residence. GitLab cannot assist or facilitate a process to help you become eligible to work in a location if you do not already have that eligibility. The hiring in certain countries can be paused for a variety of reasons at any time. In other locations, hiring is not possible. Countries where hiring is either not possible or currently paused are:
 
-GitLab is able to hire team members who are eligible to work in the location of their residence. GitLab cannot assist or facilitate a process to help you become eligible to work in a location if you do not already have that eligibility. 
+<% no_hiring_countries.each do |country| %>
+  - <%= country %>
+<% end %>
 
 ## Country Conversions
 
@@ -713,15 +719,16 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 
 #### Netherlands Renewal Process
 
-1. Two months before the contract ends, the People Operations Specialist sends [an email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) to the manager and [People Business Partner](/handbook/people-group/) of the team member, notifiying them that their first 12-month contract is ending.
+1. Two months before the contract ends, the People Experience Associate sends [an email](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md) to the manager and [People Business Partner](/handbook/people-group/) of the team member, notifiying them that their first 12-month contract is ending.
+  -  Set Due Date to give you 3 weeks to stage contract
 1. Best practice and procedure at GitLab is to supply a second temporary 12-month contract. After two consecutive year-long temporary contracts, if the team member is in good standing, they are given an Indefinite Agreement beginning at the team member's third year with the company.
 1. The Manager has then 3 weeks to evaluate the performance of the team member and discuss the planned course of action with the [People Business Partner](/handbook/people-group/)
-1. At least 1 month before the end of the contract, the manager informs the People Specialist team on whether to extend the contract and for what term.
+1. At least 1 month before the end of the contract, the manager informs the People Operations team on whether to extend the contract and for what term.
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not. The [People Business Partner](/handbook/people-group/) can help with providing guidance on the messaging.
-1. The People Specialist team documents the emails in the Contracts & Changes folder in BambooHR.
-1. If the contract extension is approved, the People Specialist team creates the contract and stages it via HelloSign for the team member and Senior Director, People Success (on behalf of CPO if there is no current CPO) to sign.
+1. The People Operations team documents the emails in the Contracts & Changes folder in BambooHR.
+1. If the contract extension is approved, the People Operations team creates the contract and stages it via HelloSign for the team member and Senior Director, People Success (on behalf of CPO if there is no current CPO) to sign.
 1. Note: A second [probation period](/handbook/people-group/contracts-and-international-expansion/#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied.
-1. The People Operations Specialist will then password-protect the signed contract and email to HR Savvy.
+1. The People Operations Team will then password-protect the signed contract and email to HR Savvy.
 
 Note: A team member cannot have more than three temporary contracts with the same employer in a row. If a fourth contract is offered by GitLab then it must be a permanent one.
 

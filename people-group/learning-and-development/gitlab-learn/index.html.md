@@ -14,11 +14,13 @@ description: “Discover GitLab Learn, a Learning Experience Platform for the Gi
 
 ## What is EdCast?
 
-GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named GitLab Learn. At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/strategy/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
+GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/strategy/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
 
 You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/)
 
 Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
+
+Admin can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
 
 ### What is a LXP?
 
@@ -26,7 +28,7 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 
 ## GitLab's Long Term Strategic Vision for the LXP
 
-Additional information about the long term strategie vision for GitLab Learn is coming soon.
+Additional information about the long term strategic vision for GitLab Learn is coming soon.
 
 #### A note about naming
 
@@ -38,10 +40,19 @@ Review the following terms to get familiar with language used in this documentat
 | GitLab Learn | GitLab's EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
+## Content Roadmap
+
+The GitLab team is excited about growing new learning opportunities for team members, partners, and our wider community on the GitLab Learn platform.
+
+Future learning content coming to GitLab Learn:
+
+1. Trainings for managers in an all-remote setting
+1. Advanced GitLab topics
+
 
 ### What will GitLab Learn do for the GitLab community
 
-GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service leaning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
+GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
 - **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
@@ -62,7 +73,7 @@ The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handboo
 
 ## Governance
 
-Implementation of the EdCast LXP at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
+[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
 
 Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
@@ -73,7 +84,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | David Sommers | Field Enablement | David Hong |
 | Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
 | Josh Zimmerman | L&D | Carol Teskey |
-| Phil Encarnacion | IT/Enterprise Applications | Christopher Nelson |
+| Christopher Nelson | IT/Enterprise Applications | Christopher Nelson |
 | Ed Cepulis | Channel/Partner Enablement | Michelle Hodges | 
 | Dan Gordon | Marketing | Todd Barr | 
 
@@ -101,14 +112,13 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Assessments | Standardization of assessment look and feel across the organization? | TBD-Core team |
 | Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | TBD-Core team |
 | Support | Determine how technical issues and questions about the LXP will be managed | TBD-Core team |
-| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Dan Gordon |
+| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
 
 
 ### Core Team Members and Roles
 
 | Name | Team at GitLab |
 | ----- | ----- |
-| Phil Encarnacion | IT|
 | Christopher Nelson | IT |
 | Josh Zimmerman | Learning and Development |
 | Jacie Bandur | Learning and Development |
@@ -133,7 +143,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Honora Duncan | Channel Enablement |
 | Evon Collett | Channel Enablement |
 | Boughty Canton | Channel Enablement |
-| Dan Gordon | Technical Marketing |
+| Tye Davis | Technical Marketing |
 | Julia Lake | Security/Legal |
 | Lynsey Sayers | Security/Legal |
 

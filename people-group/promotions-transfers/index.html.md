@@ -418,6 +418,23 @@ _NOTE: Though the Total Rewards and People Experience team may have visibility i
 
 Company priorities can change and occasionally some or all members of a team may be asked to transfer to high priority vacancies within other teams.
 
+##### Realignment Considerations 
+
+Early and ongoing communication with affected teams is key to ensuring a successful realignment. Hiring managers should clearly articulate the business need and quantifiable benefits from the realignment, as well as position a team focus and roadmap that gives affected teams an understanding of how their future contributions will benefit GitLab.
+
+Consideration should be given to impacts on [product category maturity](/direction/maturity/) commitments for teams with departing team members.
+
+Relevant items that can assist include:
+
+* Links to Team handbook page outlining goals and vision
+* Roadmap, issue backlog, and links to key Epics.
+* Staffing allocation plans
+* Expected impact or success criteria
+
+When possible, realignments should respect the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) to allow impacted teams to complete existing work.
+
+##### Realignment Process
+
 In cases where multiple individuals are asked to transfer to high priority roles:
 
 1. Legal counsel and the People Business Partner for the group should be notified to align on the process and impact of the team member realignment.
@@ -435,6 +452,8 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. Move the confidential issue to the [Product project](https://gitlab.com/gitlab-com/Product), and label it with ~"realignment".
 1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
 1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
+1. After the realignment the DRI opens a retrospective issue to gather feedback from affected teams in order to improve this process.  
+1. After the realignment the DRI makes the realignment issue public and closes it. This is because only planned realignments are [not public](https://about.gitlab.com/handbook/communication/#not-public). In cases where the issue does contain public information the DRI may choose to leave the issue confidential with a comment explaining the reason.
 
 #### For People Success & Recruiting Team
 

@@ -48,14 +48,15 @@ General Topics Coveraged
 - Self Driven and self service 
 - Questions from the new team members 
 
-### Sending out the Invite:
-- Invites are sent by the People Experience Associate.
-- Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/TaNewKi%20Welcome%20Call)
-- The email is sent out to upcoming hires one week before the call. 
-- Be sure to cc the People Experience Team on the outgoing email.
-- The People Experience Team can check who will be attending the call by looking at the Google Form.
-- Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected. 
-- The People Experience Team will also add the team members to the google calendar invite. 
+### Sending out the TaNEWki Call Invite:
+- Invites are sent by the People Experience Associate. This email should be sent out at least one week before the call. 
+1. Open the Ta"NEW"ki Folder located People Experience/Ops Shared Drive>People Experience>Ta"NEW"ki Call 
+1. Update the google form to include the next two TaNEWki call dates (EMEA and AMER times)
+1. Use this [email template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/tanewki_welcome_call.md)
+1. Add the new team members emails to the BCC line and CC the People Experience Team. 
+1. The People Experience Team can check who will be attending the call by looking at the Google Form.
+1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected. 
+1. The People Experience Team will also add the team members to the google calendar invite. 
 
 ## Onboarding Check-In Call
 All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time. 

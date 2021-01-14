@@ -39,7 +39,7 @@ Performance includes both results and behaviors, and is broken into three areas:
 
 **Please note that `Developing` should not be automatically associated with underperformance. As highlighted below, `Developing` can also be used for new hires or newly promoted team members that are still ramping up in their new roles. Your manager will provide example and detail to ensure the rationale behind the `Developing` rating is communicated.**
 
-Around 10-15% of the team generally fall into the “Developing” category. Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
+Based on the Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies), team members in this category are not meeting all of the expectations. There is still more to learn and improve on in the current position to achieve the desired results. This may be due to the following: 
 
 - The team member has not been in the position/at GitLab long enough to adequately demonstrate performance.
 - The team member has been recently promoted and needs time to ramp up performance in the new role. 
@@ -59,7 +59,7 @@ Examples:
 
 ### Performing
 
-Most team members (60-65%) fall into the “Performing” category. Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
+Based on Job Family responsibilities, [values](https://about.gitlab.com/handbook/competencies/#values-competencies) and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies) team members in this category are “on track” and meeting all expectations. They can independently and competently perform all aspects of the Job Family responsibilities in a way that is aligned with our values and competencies. Their performance consistently meets the requirements, standards, or objectives of the job, and they can occasionally exceed expectations. They deliver results in a timely and accurate fashion. This performance may be expected as a result of: 
 
 - The team member is consistent and stable in their performance.  
 - The team member has the required knowledge, skills and abilities to perform in the role successfully and also applies values and competencies in their work.
@@ -74,7 +74,7 @@ Examples:
 
 ### Exceeding
 
-A relatively small portion of team members (about 25%) generally fall into the “Exceeding” category. Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
+Team members that are exceeding consistently surpass the demands of their current position. They demonstrate unique understanding of work beyond the assigned area of responsibility. They contribute to GitLab’s success by adding significant value well beyond Job Family requirements, [values](https://about.gitlab.com/handbook/competencies/#values-competencies), and [remote working competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies). This performance may be expected as a result of: 
 
 - Individual is developing more quickly than the demands of their current position. 
 - They rise to the challenge when give additional assignments and achieve significant results.
@@ -89,13 +89,19 @@ Examples:
 
 **Please note that an `Exceeding` assessment for the performance factor does not guarantee a promotion. While the performance factor is a consideration, there are several considerations that are reviewed when evaluating promotion readiness. Please work with your manager to align expectations.** 
 
+### Expected Distribution Company-Wide
+
+- **Developing**: 10-15%, not yet meeting all of the expectations 
+- **Performing**: 60-65%, “on track” and meeting expectations 
+- **Exceeding**: 25%, consistently surpasses the demands of their current role
+
 ### The Performance Factor
 
 While the primary objective of the performance axis of the Performance/Potential Matrix is to calibrate team member performance, this axis of the matrix also directly impacts the [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor), which is a determining factor in the annual compensation review. Please reference the [Total Rewards Performance Factor page](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) for more detail on compensation impact.
 
 ### Measuring Performance
 
-How can managers determine whether their team members are Developing, Performing, or Exceeding? "The Performance Factor" = Job Family responsibilities (60%) + Competencies (40%). It is _optional_ to use [The Performance Factor Workheet](https://docs.google.com/spreadsheets/d/1HHe-Vb6y6F4HXsek3sObV4IVNAGaTvXGi_9fbatT0Uo/edit#gid=241716076) for weighing the different Performance Factors.
+How can managers determine whether their team members are Developing, Performing, or Exceeding? "The Performance Factor" = Job Family responsibilities (60%)/ [functional competencies](/handbook/competencies/#functional-competencies) (if applicable) + [GitLab Values Competencies](/handbook/competencies/#values-competencies) + [GitLab Remote Work Competencies](/handbook/competencies/#remote-work-competencies) (40%). It is _optional_ to use [The Performance Factor Workheet](https://docs.google.com/spreadsheets/d/1HHe-Vb6y6F4HXsek3sObV4IVNAGaTvXGi_9fbatT0Uo/edit#gid=241716076) for weighing the different Performance Factors.
 
 #### Job Family
 
@@ -105,6 +111,7 @@ Performance against Job Family role, requirements, and performance indicators sh
     * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#responsibilities)
 * Review Performance indicators per Job Family: Look at the Performance indicators.
     * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#performance-indicators)
+* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
 
 For management roles, please also review and consider the [levels](https://about.gitlab.com/company/team/structure/#levels) outlined in the Organizational Structure. 
 
@@ -114,7 +121,6 @@ Performance against competencies should be weighted at 40%.
 
 * [Values Competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
 * [Remote Working Competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
-* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
 * _(if applicable)_ [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) 
 
 ## What is "Potential"?
@@ -250,7 +256,9 @@ GitLab is kicking off the Performance/Potential Matrix in FY'21 Q3 in preparatio
 * 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
 * 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
 * 2020-12-15: Program approval and communication guidance shared with managers
-* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members
+* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members. 
+
+_If applicable (not required), upload the Performance Review document that was used to share the performance factor result with team members to BambooHR. The document can be loaded to the `Performance Reviews` folder in BambooHR._ 
 
 *January*
 * In January the Performance factors feed into the Annual Compensation review. Review the timeline for that process on the Annual Compensation Review page, [here](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline). 
@@ -387,12 +395,13 @@ This change will impact both team members and managers.
 The performance factor will be one of the factors that will be considered in for the [Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). The recommended increases displayed in the handbook are there to ensure company wide consistency. The factors that will be taken into account for the Annual Compensation review are: 
     *   Your hire date (new hires hired after October 31st are ineligible for compensation review)
     *   Other compensation increases received over the last year
+    *   Timing of promotion and/or role changes
     *   Your current placement within the compensation band
-    *   Location factor benchmark updates
+    *   Location factor 
     *   Role benchmark updates 
     *   Company budget for compensation increases
 * **When is the next opportunity for my performance to be reviewed?**
-    * We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY`22. 
+    * We plan to conduct the talent review process every 6 months. The next company wide review is targeted for May FY'22. 
 * **What can I do to change my performance factor in the future?**
     * There are a lot of things that you can do to change your performance factor in the future. Please work with your manager on a career development plan and discuss actions that can be taken to improve. 
 * **What is my potential rating?**

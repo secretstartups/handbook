@@ -214,7 +214,10 @@ In the same survey, new team members are able to provide a score and feedback on
 ### Anniversary Period Gift Queries
 
 People Experience Team process:
-
+- Create the Anniversary Gift reports in BambooHR. You will create three serperate reports for 1, 3, and 5 year anniversaries. 
+    This report should be formated: First Name, Prefered Name, Last Name, Hire Date, and Work Email
+- Copy and Paste the reports into Google Sheets, and create three seprate tabs. These tabs will be named 1, 3, and 5 year anniversary. 
+    Make sure to put 1 year anniversary in the 1 year  tab, and so on.  
 - Log into [Printfection](https://app.printfection.com/account/secure_login.php)
 - Click on `Campaigns` and select `Congrats on your (blank) anniversary`. There are 3 options, 1st, 3rd, 5th.  
 - Select `Giveaways` and scroll to `Campaign summaries` section

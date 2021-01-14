@@ -10,31 +10,30 @@ description: "All elearning courses tied to the Field Certification Program will
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
-
 All elearning courses at GitLab to the will utilize the Handbook as the Single Source of Truth (SSOT). 
 
-![gitlab-learning-content-diagram](/handbook/sales/field-operations/field-enablement/interactive-learning/gitlab-learning-content-diagram.png)
+![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
-### Handbook-First Approach to Interactive Learning in Action
+## Handbook-First Interactive Learning Examples
 
-#### Field Enablement 
+### Field Enablement 
 The GitLab Field Enablement team uses a handbook-first approach to learning in their [Field Certification Program](/handbook/sales/training/field-certification/) 
 
 For example, in order to learn more about a particular topic tied to the Field Certification, learners will be able to refer to the Handbook within the elearning course instead of having to open a new browser tab and manually navigating to the Handbook.
 
 The Field Enablement team will utilize the Articulate 360 Storyline Suite as the main course authoring tool. In Storyline, a [Handbook-first approach](/company/culture/all-remote/handbook-first-documentation/#gitlab-knowledge-assessment-handbook-first-documentation) is achieved by adding a web object on a slide so learners can access the Handbook on that particular topic.
 
-
-#### Learning and Development
+### Learning and Development
 
 The L&D team hosts [Mini and Extended Challanges](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) to engage team members in bite sized learning about a specific topic. Participants in the challenge collaborate on issues and are driven to the handbook to review learning content.
 
 
 ## Interactivity in E-learning
+
 Interactivity such as games, drag-and-drop, matching, and other interactive components in a published elearning course will not be accessible via the Handbook; however, all information conveyed to learners through the elearning course will have an associated Handbook page as needed. This will make sure that despite the interactivity of the elearning course, learners will have access to all topics covered in the Field Certification program via the Handbook.
 
 ## Course Development Workflow
+
 Instructional designers will use the ADDIE instructional systems design (ISD) framework to design and develop Field Certification courses using Articulate 360. The workflow of course development will be as follows:
 1. Create learning objectives
 1. Design storyboard and get SME buy in
@@ -47,15 +46,54 @@ Instructional designers will use the ADDIE instructional systems design (ISD) fr
 1. Announce course launch
 1. Enroll learners (as needed)
 
-## Handbook Course Documentation
-A thorough needs assessment will be conducted to determine what net-new Handbook pages are needed as new courses are developed. The goal is for each course to have an associated Handbook page that will include learning objectives, static learning content, quizzes, and applicable links. 
+## Documenting learning content in the handbook
 
-## Handbook-First Learning in the EdCast LXP
+Our goal is that each course will have an associated Handbook page including learning objectives, static learning content, quizzes, and applicable links.
 
-Content in the EdCast LXP at GitLab will adopt this handbook-first approach to learning. Examples of ways that the handbook is utilized for learning in the LXP include:
+Consider the following when documenting course content in the handbook:
+
+1. Outline clear learning objectives
+1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
+1. Emebed relevant YouTube videos in the handbook
+1. Link to knowledge assessments
+1. Cross reference any additional handbook content with links
+
+## Building handbook first learning content in the EdCast LXP
+
+Content in the EdCast LXP at GitLab will adopt this handbook-first approach to learning. You can read more best practices about building content in the LXP in our [GitLab Learn admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin). Examples of ways that the handbook is utilized for learning in the LXP include:
 
 - SmartCards linking to specific handbook pages
 - Pathways leading learners through related handbook pages to train on a specific skill or content area
 - iFrames displaying content from the handbook directly in the LXP
 - Assessments and learning checks referring back to content in the handbook to check for understanding
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/1DSBF9tjAX50x2yOXoW5yQuJx3efVJdktYHdc86bM7WI/edit#slide=id.gb1c2c2e157_0_60" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+### Handbook first course example
+
+Below is an outlined example of how the field enablement team created a handbook first learning course for the EdCast LXP using Articulate 360.
+
+1. **Introduction** The course begins with an introduction, explaining to the learner what the objectives are and how to navigate the course content
+1. **Video** Videos are embedded in the handbook and linked from the LXP
+1. **iFrames** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
+1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
+1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
+
+### Examples of what is not considered handbook first
+
+Avoiding these examples can help ensure that the content you're producing follows a handbook first approach
+
+| Example | Suggested handbook first improvement |
+| ----- | ----- |
+| Introducing new content within a course or Pathway | Add new content to an existing handbook page, or open a new page to document |
+| Directly uploading a video to the LXP | Upload the video first to GitLab Unfiltered, emebed on the correct handbook page, and either display in an Articulate course via iframe or link from a SmartCard in the LXP |
+
+### Identified challenges with handbook first learning
+
+- iframes can break if the page or subsection of the linked handbook is updated
+- Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
+- When iframes are not used, the user needs to navigate to text and video content in the handbook on a new internet tab
+- New handbook/docs pages may need to be created in cases where videos should be included in a learning path
 

@@ -58,14 +58,6 @@ _Please note that the below timeline is just a guide, and you should always chec
 - **3 months beforehand** (or earlier if indicated by the embassy you are applying to): go to embassy for interview.
 - **2 months beforehand**: if you have not received your visa by now, contact your local lawyer again, and/or People Ops, to see if anything can be done to expedite the process.
 
-### Prague Contribute 2020 Visa Invitation Letter
-
-If you need a visa to travel to Czech Republic, please fill out this [form](https://docs.google.com/a/gitlab.com/forms/d/1hqwakBUfV5uybwtYHnRvkT_ZTm1CEUKqdNmU6e-BPdQ/edit). People Ops Specialist will verify accuracy and send you an email with the signed letter. If a GitLab team member would like to request a letter for their registered guest, GitLab can provide a short letter stating that we encourage guests to attend our conference. Please email People Ops at peopleops@ gitlab.com with the full name and passport numbers of your guest to request for this letter.
-
-Once a request is sent, People Ops Specialist please use the `Template Visa Letter for Significant Others - GitLab` in the `Prague Visa Letter` shared folder to complete the letter, convert it to a pdf and forward it to the requestor.
-
-If you need a letter confirming that you are covered under the GitLab Business Travel Accident Insurance Policy, please fill [Insurance form](https://forms.gle/QKb8prrtncYfnHFU9).If you need proof of accommodation, please fill the [Proof of Accomodation Form](https://forms.gle/zoFQjD6X8XHc7zk4A). A confirmation letter will be generated and forwarded to your email. If you don't receive it 5 mins after submitting, let People Ops know in #peopleops channel in Slack.
-
 ## Dutch Work Permits
 
 Some of our GitLab team-members in the Netherlands have a "werkvergunning" or work permit under the [highly skilled migrants](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Highly-skilled-migrant.aspx) category of the Immigration and Naturalization Service (IND).

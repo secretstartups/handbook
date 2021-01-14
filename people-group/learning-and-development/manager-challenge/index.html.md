@@ -34,6 +34,13 @@ You may be asking yourself what you will achieve by taking part in the Manager C
 - Practice emotional intelligence to improve leadership and build more effective relationships with your people
 - Build an inclusive environment for your people that is built on trust
 
+Below is a video L&D recorded with Sid on manager enablement: 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jsWDGiSUsA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 ### Overview
 
 **What** 
@@ -52,6 +59,16 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
+### Challenge Issue explainer video 
+
+See the video below for a quick overview of how we use GitLab to facilitate manager enablement 
+
+<!-- blank line -->
+<figure class="video_container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/VTMQiCgvEDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 ### Week 1
 
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
@@ -64,11 +81,11 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |
 |---------|-----------------|------------------|---------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> * Define what it means to be a manager at GitLab |
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> *Define what it means to be a manager at GitLab |
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the Manager Action Plan <br> *Complete the weekly evaluation 
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Manager Action Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
 
@@ -85,8 +102,8 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics |
 | Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
 | Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning sessions with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> Complete the weekly evaluation  |
+| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
+| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges  |
 
 
 ### Week 3
@@ -104,13 +121,17 @@ During week three we will discuss **Peak Performance & Coaching**. Information c
 | Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
+| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
+
+### Manager Action Plan
+
+Throughout the program, we ask that managers create a manager action plan to self-identify and self-reflect on areas that they wish to improve on moving forward. The document is intended to be a starting point for managers to document where they can improve as a people leader. Any manager can use the [manager action template](https://docs.google.com/document/d/1he_sJUrMuuWf1QPGoUu4E_W0uRQCQ3Ohd3jElTiN4hE/edit#) we've created. 
 
 ### Post Manager Challenge
 
 L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we will be piloting [Trust Metryx](https://www.xmetryx.com/) to participants that are interested in trying out the tool. 
 
-Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. 
+Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. Checkout the [three-minute video](https://vimeo.com/493930605) to learn more about Trust Metryx. 
 
 The tool accelerates your development as a manager/leader by: 
 - Helping you to identify behaviors that get in the way of team performance wellbeing
@@ -121,7 +142,7 @@ The tool accelerates your development as a manager/leader by:
 TrustMetryx compliments and builds on the basic principles of what it means to be a manager using the whole-person approach to leadership covered in the Manager Challenge. TrustMetryx gives you a data driven approach to ensuring that you’re embracing GitLab values and creating an inclusive team culture built on trust.
 
 **What do I need to do?**
-More information will be included as the January challenge approaches! Learn more about Building Trust with Remote Teams from the co-founder of Trust Metryx by watching the recording of the [Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=emb_title). 
+Learn more about Building Trust with Remote Teams from the co-founder of Trust Metryx by watching the recording of the [Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=emb_title). If interested in participating please let the L&D team know in the January Manager Challenge Slack Channel, `#january-2021-manager-challenge.` Review [the onboarding plan](https://drive.google.com/file/d/1S1ynUb8bwpit-e03IP1e6uURYzOgI5KF/view?usp=sharing) for the use of Trust Metryx. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
@@ -231,11 +252,5 @@ Pilot Kickoff Video:
 </figure>
 <!-- blank line -->
 
-Check out the animated explainer video for the challenge
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/BIAbuYPMd24" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
