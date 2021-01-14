@@ -83,7 +83,7 @@ This video covers:
 ### Updating `team.yml` for managerial changes
 
 Every GitLab team member has an entry in `team.yml` and when a new manager
- joins a team, updates are needed in three places:
+joins a team, updates are needed in three places:
 
 - `team.yml` for the manager's entry
 - `team.yml` for each team member's entry
