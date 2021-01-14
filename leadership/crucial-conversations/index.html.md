@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Crucial Conversations
+description: “GitLab’s strategies for being an effective leader during crucial conversations with team members”
 ---
 
 ## On this page
