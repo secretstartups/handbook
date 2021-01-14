@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "VP Scheduling"
+description: “Discover how to schedule meetings with VPs at GitLab”
 ---
 
 ## On this page

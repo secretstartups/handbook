@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "E-Group Scheduling"
+description: “Find out how to schedule E-Groups with Executive Business Administrators”
 ---
 
 ## On this page
