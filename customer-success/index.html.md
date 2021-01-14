@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Customer Success
+description: >-
+  The Customer Success department is part of the GitLab Sales function who
+  partners with our large and strategic customers to deliver value throughout
+  their journey with GitLab
+---
 The Customer Success department is part of the [GitLab Sales](/handbook/sales) function who partners with our large and strategic customers to deliver value throughout their journey with GitLab.
 
 The team can be reached in [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).
@@ -89,8 +97,13 @@ TAM engagement prior to the sale should occur in the following situations:
 SA's will be brought back into a customer account in the following situations
 
 1. Development of expansion plans with the SAL and TAM leading to tier upgrades
-1. A new POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide upgrade not for renewal purposes
-1. Any product license expansion that requires overviews, education, and competitive insights prior to the close
+1. A POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide tier upgrade not for renewal purposes
+1. SAs can assist TAMs in existing teams in certain scenarios pending approval from leadership.
+    1. ROI analysis for existing teams
+    1. RFP for existing teams
+    1. Enablement purposes if specifically requested by the TAM team
+    1. Workshops if specifically requested by the TAM team
+    1. POVs if specifically requested by the TAM team. It is best practice to offer technical evaluations including hands-on workshops, demos for existing team & to avoid POV. 
 1. Any Professional Services that are being discussed and may require an SOW
 1. If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
 1. Support of GitLab days or other on-site evangelism of GitLab at customer sites
