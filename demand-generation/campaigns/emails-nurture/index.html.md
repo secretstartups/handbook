@@ -13,7 +13,8 @@ twitter_creator: "@gitlab"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-{: #overview .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #overview .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 This page focuses on emails and nurture programs, owned and managed by Marketing Campaigns. The Campaigns Team is heavily focused on building a key element to driving top-funnel demand generation: an "always on", logic-based and persona-driven nurture engine.
 
@@ -33,7 +34,8 @@ This page focuses on emails and nurture programs, owned and managed by Marketing
     - [see this epic for holding location of projects to be prioritized](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1040)
 
 ### Quick Links
-{: #quick-links} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #quick-links}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be added
 
@@ -57,22 +59,27 @@ The calendar below documents the emails to be sent via Marketo and Mailchimp for
 
 ### Holiday coverage for severity::1 security vulnerabilities email communication
 {: #holiday-coverage}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event of an severity::1 (critical) security vulnerability email communication is needed during the holidays, please create an issue using *[request-email template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email)* and ping in [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) tagging @marketing-programs
 
 ## Email Nurture Programs
-{: #nurture-programs .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #nurture-programs .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Visualization of active nurture streams
-{: #active-nurtures-visualization} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #active-nurtures-visualization}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/7889a7fb-e1f0-4c67-92ae-7becd009625f" id="XA5ojeoO~Tej"></iframe></div>
 
 ### Active Nurture Programs
-{: #active-nurture-programs} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #active-nurture-programs}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### SaaS trial nurture
-{: #nurture-trial-saas} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #nurture-trial-saas}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 SaaS Gold trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
 
@@ -83,14 +90,16 @@ SaaS Gold trial nurture communication are sent via Marketo and Outreach througho
 **[>> Email copies for SaaS Gold package trial nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/98)**
 
 #### Self-hosted trial nurture
-{: #nurture-trial-self-hosted} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #nurture-trial-self-hosted}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Self Hosted Ultimate trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
 
 **[>> Email copies for Self-hosted Ultimate package nurture](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22)**
 
 #### GTM motion nurtures
-{: #gtm-motion-nurtures} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #gtm-motion-nurtures}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741) - contains streams for awareness, consideration, and decision/purchase stages.
    - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - contains streams for awareness, consideration, and decision/purchase stages. All email content and linked assets in this program is in French.
@@ -101,7 +110,8 @@ Self Hosted Ultimate trial nurture communication are sent via Marketo and Outrea
 - [Jenkins Take Out](https://gitlab.com/groups/gitlab-com/marketing/-/epics/282): The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution. This track is targeted towards director, tools owner, and chief/prinicipal architects in the functions of applications, development, QA, and DevOps.
 
 ### Requesting to add leads to a nurture program
-{: #add-to-nurture-request} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #add-to-nurture-request}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Note: in our future state nurture system, leads would be nurtured appropriately through logic based on:**
 * Stage in the buyer lifecycle
@@ -118,17 +128,20 @@ While the future automated nurture system is in progress, to request to add a se
 
 
 ## Newsletter
-{: #newsletter .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Process for bi-weekly newsletter
-{: #newsletter-process} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter-process}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Open an issue using the [Newsletter Request Template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter), including the newsletter send date in the issue title.
 
 **[Epic of Past and Upcoming Newsletters](https://gitlab.com/groups/gitlab-com/marketing/-/epics/179)**
 
 #### Creating the newsletter in Marketo
-{: #newsletter-marketo-creating} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter-marketo-creating}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 A day or two before the issue due date, create the newsletter draft. It's easiest to clone the last newsletter in Marketo:
 
@@ -142,21 +155,24 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. In the menu bar that appears along the top of your screen, select `Edit draft`.
 
 #### Editing the newsletter in Marketo
-{: #newsletter-marketo-editing} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter-marketo-editing}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Make sure you update the subject line.
 1. Add your newsletter items by editing the existing boxes (double click to go into them). It's best to select the `HTML` button on the menu bar and edit the HTML so you don't inadvertently lose formatting.
 1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button).
 
 #### Sending newsletter test/samples from Marketo
-{: #newsletter-marketo-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter-marketo-testing}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When you're ready, select `Email actions` from the menu at the top, then `Send sample` to preview.
 1. Enter your email in the `Person` field, then in `Send to` you can add any other emails you'd like to send a preview too. We recommend sending a sample to the newsletter requestor (or rebecca@ from the content team for marketing newsletters) for final approval.
 1. When you are satisfied with the newsletter, select `Approve and close` from the `Email actions` menu.
 
 #### Sending the newsletter
-{: #newsletter-marketo-sending} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #newsletter-marketo-sending}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. When the edit view has closed, click on the main newsletter item in the left-hand column.
 1. In the `Schedule` box, enter the send date and select `Recipient time zone` if the option is available.
@@ -165,15 +181,18 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. Return to the newsletter issue and leave a comment telling requestor (@rebecca from the content team for marketing newsletters)  to double check all has been set up correctly. Close the issue when this is confirmed.
 
 ## Ad-hoc (one-time) emails - requesting an email
-{: #one-time-emails .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #one-time-emails .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Important note regarding audience segmentation efforts and efficiency
-{: #note-audience-segmentation} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #note-audience-segmentation}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Until our foundational Marketo database segmentations (noted in the overview at the top of this handbook page) are rolled out, there are challenges in targeting audiences efficiencly. If you would like to propose an MVC email, please remember that the tactical execution may be beyond bandwidth constraints.
 
 #### Email Request Issue Template
-{: #email-request-issue} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #email-request-issue}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **PLEASE READ IMPORTANT NOTE IN SECTION ABOVE PRIOR TO SUBMITTING**
 
@@ -186,7 +205,8 @@ To request an email send, please [open an issue](https://gitlab.com/gitlab-com/m
 All links in email sends, going to about.gitlab.com will need to be appended with utm parameters, following the nomenclature outlined in this [document](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0). This is the way we track and give attribution to emails.
 
 #### Need-to-know details for the email request
-{: #email-request-details} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #email-request-details}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Below are the information from the issue template that will need to be filled out before the Campaign Manager will create the email in the appropriate system:
 
@@ -200,10 +220,11 @@ Below are the information from the issue template that will need to be filled ou
     -  Audience should be appropriately segmented and tokens selected for personalization (if applicable)
     -  All subscribers are selected list are opted-in to receive your message
     -  If supplying a .csv file, the file must include the following fields:  Email address, First Name (or Full Name)
-    -  If personalizing the email to reference a specific project or page, that field must be included in the .csv file and clearly marked using the same terminology used in the email copy. The email copy must clearly identify {{Project}} or {{Page}} where the applicable personalization should be inserted.
+    -  If personalizing the email to reference a specific project or page, that field must be included in the .csv file and clearly marked using the same terminology used in the email copy. The email copy must clearly identify {{Project}}or {{Page}}where the applicable personalization should be inserted.
 
 #### Types of email requests
-{: #email-request-types} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #email-request-types}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **Marketing Emails**: Marketing emails are designed to generate leads. The request process outlined is used for ad-hoc marketing emails (not events, webcasts, integrated campaigns, etc as these all have a separate established process). These emails are sent through Marketo using the marketing database or [existing segments](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#geographic-dma-list).
 - **Terms of Service or Privacy Policy Updates**: Terms of Service or Privacy Policy emails are sent to the user base and are not marketing-related. These emails are sent through MailChimp and may require additional approvals, based on the content or number of recipients.
@@ -211,7 +232,8 @@ Below are the information from the issue template that will need to be filled ou
 - **Security emails**: Security emails are sent either to the entire user base or a subset of users and are not marketing-related. They are often urgent, but in the case of the monthly security release, they are scheduled. The monthly security release email is sent through Marketo. Urgent notifications are typically sent through MailChimp.
 
 #### Approvals and notifications for email requests
-{: #email-request-approval} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #email-request-approval}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Marketing related ad-hoc emails are sent at the discretion of the Campaigns team.
 
@@ -229,10 +251,12 @@ The approval table below applies to non-Marketing emails.
 |  500,000+ | PR, reply-to owner, community advocate, director+ in originating department, e-group member |
 
 ## Email marketing best practices
-{: #best-practices .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #best-practices .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Email content best practices
-{: #best-practices-content} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #best-practices-content}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  Email copy should be shorter and more conversion-oriented
 *  Avoid walls of text when possible
@@ -245,7 +269,8 @@ The approval table below applies to non-Marketing emails.
 *  Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
 
 ### Design best practices
-{: #best-practices-design} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #best-practices-design}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  Consider resposive design
 *  Code all text in HTML
@@ -255,7 +280,8 @@ The approval table below applies to non-Marketing emails.
 *  Consider accessibility
 
 ### A/B testing best practices
-{: #best-practices-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #best-practices-testing}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 *  Each test group should include at least 1000 people
 *  You need a bigger test group if you're testing for click-through rate versus testing for open rate
@@ -267,7 +293,8 @@ The approval table below applies to non-Marketing emails.
 *  Keep track of the split test learnings so we can learn and innovate!
 
 ## Email Templates
-{: #email-templates .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #email-templates .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **What are email templates?** An email template is a reusable HTML file that is used to build email campaigns (according to Litmus).
 
@@ -296,7 +323,8 @@ If you don't have Marketo access and would like to see what the email templates 
 
 
 ## Email review protocol
-{: #review-protocol .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #review-protocol .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 All Campaign Managers and reviewers should adhere to the following protocol for every marketing email that is sent to ensure brand consistency and quality in our email program.
 
