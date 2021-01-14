@@ -91,5 +91,5 @@ If you're having problems with Git, reach out in the following Slack channels =)
 ### Existing Resources
 
 Here are some existing resources from GitLab for Git.
-- [Developer Cheatsheet, Engineering Handbook](https://about.gitlab.com/handbook/engineering/development/dev/create-editor/developer-cheatsheet/)
+- [Developer Cheatsheet, Engineering Handbook](/handbook/engineering/development/dev/create-editor/developer-cheatsheet/)
 - [Git Cheat Sheet for Press](/images/press/git-cheat-sheet.pdf)
