@@ -188,11 +188,51 @@ This will create a one time only charge to the customer and in a year's time, th
 
 Annual revenue opportunity of the [entirety of GitLab’s market](/handbook/sales/tam).
 The potential value of everyone worldwide that could purchase our product.
+Both TAM and [LAM](landed-addressable-market-lam) can be scoped globally, by region/market segment, or customer-specific.
 
 ### Landed Addressable Market (LAM)
 
-A subset of TAM, the annual revenue opportunity of the entirety of GitLab's market within our current customer base.
-The potential value of all users that could purchase our product within existing customer base.
+LAM is the annual revenue opportunity of the entirety of GitLab's market within our current customer base ("landed accounts").  The market is defined as total developers managed (employees and/or contractors for whom software is purchased and managed).  The definition uses "total developers" as the input.
+
+*Basic LAM Formula:*
+
+1. **LAM at a specific account** = Total Developers at the account x price/user/per year paid for currently contracted tier of GitLab
+1. **LAM in a territory, segment, region, or other group of accounts** = Sum of LAM at the specific accounts in the group
+
+*Calculation*
+
+For territory and business planning, calculation will be automated using multiple data sources including customer verified totals.
+
+The LAM formula has two inputs: Total Developers at the account and price.  
+
+1. Price: Current ARPU based on the current subscription(s) in Zuora
+1. Total Developers:
+   1. Total developers at the account
+   1. Data source: All validated fields below will be included in the calculation 
+        1. Aberdeen Developers
+        1. ZoomInfo Developers
+        1. Potential Users (SAL Input)
+        1. Potential Users Verify (SAL Input)
+
+The formula calculation algorithm reviews the developer fields to ensure trustworthiness.  This is determined by comparing the developer fields to the number of employees and the number of licenses on the account.  If the developer data point is validated, the number of developers is reduced by the amount of paid licenses on an account to determine the number of potential developers. If the field fails the validation rules, it is eliminated. 
+
+A fifth field based on license usage is added to the surviving data points from above.  
+
+        5. Product Usage Overage (activated users - paid licenses) 
+
+In order to calculate LAM, the MAX surviving data points is multiplied by the average seat price of the account. In the event the average seat price is below the average premium seat price, the result is multiplied by the average premium seat price instead of the actual account seat price.  
+
+In circumstances where none of the developers fields are deemed trustworthy and there is no overage on the account, the formula defaults to the following: 
+
+1. TSP Max Family Employees * Estimated Dev % (based on industry bucket)
+
+*Rounding:* 
+
+LAM for a specific account is always rounded to the nearest thousand dollars and capped at $5M per account.
+
+### Developer Count 500 (D500)
+
+D500 accounts are any prospect & customer accounts in SFDC that have more than 500 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts. This field is populated by the number of developers used in the [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) calculation.  
 
 ### Customer Acquisition Cost (CAC)
 
