@@ -35,7 +35,7 @@ Datastores is:
 
 | Person | Role |
 | ------ | ------ |
-|[Alberto Ramos](/company/team/#albertoramos)|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
+|[Alberto Ramos](/company/team/#albertoramos)|[Engineering Manager, Reliability](/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
 |[Alejandro Rodríguez](/company/team/#eReGeBe)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Ahmad Sherif](/company/team/#ahmadsherif)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Henri Philipps](/company/team/#hphilipps)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
@@ -72,14 +72,14 @@ To create a new Datastores issue:
   1. **Summary**: Include here only a high level description of the problem and the work to do. 2-4 lines should suffice.
   1. **Current Situation**: Include this section if you need to explain what is broken or not working well. Please be succinct and to the point.
   1. **Desired Outcome**: Description, in some detail, of the end result to achieve when this issue is finished. Try not to be prescriptive on "how to implement it" but focused on "what to implement".
-  1. **Additional background and comments**: Here you can add broader information and context that can help to progres the issue, which has not been included in previous sections.
-  1. **Acceptance Criteria**: This follows our [definition of done](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/datastores/#issues-and-definition-of-done). 
+  1. **Additional background and comments**: Here you can add broader information and context that can help to progress the issue, which has not been included in previous sections.
+  1. **Acceptance Criteria**: This follows our [definition of done](/handbook/engineering/infrastructure/team/reliability/datastores/#issues-and-definition-of-done). 
      - Try to be as detailed/atomic as possible.
 	 - It should cover the full scope of required work for the issue. In other words, the Datastores team member assigned should be confident that if they address the different points here the issue will be completed, ready to be closed.
 	 - If you don't know in detail leave a temporary note: Be aware that this section should be complete before the team starts working on this issue.
   1. **Writing style**:
 	 - Express yourself in a way that others can understand and follow easily your train of thoughts. Be empathetic with your team members.
-	 - Remember about our [writing style at GitLab](https://about.gitlab.com/handbook/communication/#writing-style-guidelines)
+	 - Remember about our [writing style at GitLab](/handbook/communication/#writing-style-guidelines)
 	 - Some good advice in how to write simply and effectively: [18 quick fixes to sharpen your writing](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe)
 
 ### Issues lifecycle:
@@ -88,11 +88,11 @@ To create a new Datastores issue:
 1. All these issues can be found in our [Backlog Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/2024251?&label_name[]=team%3A%3ADatastores&label_name[]=workflow-infra%3A%3ATriage). Issues are normally ordered by descending priority in this board, so they can be brought in this fashion to our Iteration/s.
 1. An issue can be  promoted to our current or next planned iterations by applying the label ~"workflow-infra::Ready" and assigning the right Milestone to it (for current or next iterations). This is the [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores) to manage the current Iteration/Milestone.
     - This has to be agreed with the team lead, aligned with our priorities expressed in the Iteration Planning issue.
-1. Any issue that ends up in any of our planned Milestones (current or futures) **whithout having gone through our Backlog** should be labeled as ~"**Unplanned"**, by the team member promoting it to the iteration.
+1. Any issue that ends up in any of our planned Milestones (current or futures) **without having gone through our Backlog** should be labeled as ~"**Unplanned"**, by the team member promoting it to the iteration.
 
 A team member **looking for the next issue to work on** should look at:
 - A) Iteration Planning Issue (clearly stated priorities) 
-- B) Worflow-infra::ready lane in our [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores)
+- B) Workflow-infra::ready lane in our [Iteration board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=Datastores%20team%20-%20W45&label_name[]=team%3A%3ADatastores)
 - C) Promoting issues from the [Backlog Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/2024251?&label_name[]=team%3A%3ADatastores&label_name[]=workflow-infra%3A%3ATriage), following the [point 3 above](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/infrastructure/team/reliability/datastores/index.html.md#issues-lifecycle). They should assign themselves the issue, move it to ~"Workflow-infra::In progress" and start working on it.
 
 4. Once an issue is finished, we move it to ~"Workflow-infra::Done", and finally close it when we are sure there is no more work to do about it.
