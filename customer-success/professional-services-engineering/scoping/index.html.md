@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Scoping Professional Services"
+description: “Discover GitLab’s Scoping Professional Services for custom SOWs”
 ---
 # Scoping Custom Professional Services
 {:.no_toc}

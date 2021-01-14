@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Using the demo designer for creating sample data"
+description: “Discover how to use GitLab’s demo designer to work with sample data”
 ---
 
 ## On this page

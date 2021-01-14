@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Create a Jenkins Pipeline
+description: “Discover how to create a Jenkins Pipeline page with GitLab’s Jenkins integration”
 ---
 ## On this page
 {:.no_toc}

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Roadmap"
+description: “GitLab’s future plans for Demo Systems”
 ---
 
 ## On this page

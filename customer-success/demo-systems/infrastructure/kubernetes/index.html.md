@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Infrastructure - Kubernetes"
+description: “Discover GitLab’s Kubernetes Cluster Design for different cluster sizes”
 ---
 
 ## On this page

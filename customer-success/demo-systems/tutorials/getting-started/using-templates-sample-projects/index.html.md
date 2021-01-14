@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Using project templates and sample projects"
+description: “Learn how to use GitLab Demo with project templates and sample projects”
 ---
 
 ## On this page

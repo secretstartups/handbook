@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Creating and accessing your account"
+description: “Discover how to create and access your GitLab Demo account”
 ---
 
 ## On this page

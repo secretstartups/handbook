@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Infrastructure - Terraform"
+description: “Discover how GitLab uses Terraform to manage all infrastructure"
 ---
 
 ## On this page

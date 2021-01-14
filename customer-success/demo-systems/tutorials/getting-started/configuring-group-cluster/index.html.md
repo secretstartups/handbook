@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Configuring GitLab with group-level Kubernetes cluster"
+description: “How to configure GitLab with your Google Kubernetes cluster”
 ---
 
 ## On this page

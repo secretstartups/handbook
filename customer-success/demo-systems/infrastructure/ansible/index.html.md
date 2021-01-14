@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Infrastructure - Ansible"
+description: “Discover how GitLab uses Ansible to manage all configurations on Linux hosts after deployment”
 ---
 
 ## On this page

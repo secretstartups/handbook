@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Tools and Resources
+description: “Discover GitLab Solutions Architects’ tools and resources including Proof of Value (POV) guidelines”
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}

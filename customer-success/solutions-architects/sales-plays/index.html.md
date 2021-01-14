@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Plays"
+description: “Discover GitLab Solutions Architects’ Sales Plays practices”
 ---
 
 ## On this page
