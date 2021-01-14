@@ -150,7 +150,8 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
 |* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
-|Inbound - Drift| TBD|TBD|TBD|Trigger|1/day|
+|Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
+|Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
 |* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
