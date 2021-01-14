@@ -255,7 +255,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 #### Preparation Materials
 
-​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1WrW1QAGZ6Dgvi8lHbu5QSQ1MKT5yCx3UH3GORXamts0/edit?usp=sharing)
+​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1E3j4OTLSVhhUFAXbwy0Amhg8dSFTmLkz9vz7kU-J0BQ/edit?usp=sharing)
 
 #### Outline: Success Roadmap for Gitflows, Workflow,  Roles and Controls for SCM, CI and CD
 
