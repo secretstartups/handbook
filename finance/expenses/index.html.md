@@ -25,7 +25,7 @@ As the service does *not* require your personal information in order to process 
 * Your full name
 * Any other data that is personal to you that you would not want publicly known
 
-At a minimum, information about the items/products purchased and the total purchase amount should be visiable so managers can validate the expesnes reimbursement amount requested along with the actual items and total purchase price.
+At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expenses reimbursement amount requested along with the actual items and total purchase price.
 
 <details>
 <summary>Instructions for redacting information</summary>

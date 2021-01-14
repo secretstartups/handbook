@@ -329,7 +329,7 @@ This section explains about processing payroll for US employees. The process sta
 
 **Payroll Changes**
 
-* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
+* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](/handbook/finance/payroll/#pay-datel)).
 * Information is entered into ADP using this Google Sheet by the Payroll Specialist, and reviewed by the Senior Manager, Global  Payroll and Payments.
 * Entering [promotion details(salary and title change)](https://docs.google.com/document/d/1Rd6BEYDcRwGGcXlxcsTyFNmBmfQTSuzdTFuY6Ted6S4/edit).
 

@@ -53,7 +53,9 @@ The following Single Source of Truth (SSOT) dashboards provide a monthly and qua
 - ASP
 - Win rate
 
-Seperate dashboards have been created for each Sales Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
+Seperate dashboards have been created for each Stamped User Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
+
+[README](https://bit.ly/3aMJz6n)
 
 [SFDC Dashboard - Leads](https://gitlab.my.salesforce.com/01Z4M000000oXUb)
 
@@ -104,3 +106,11 @@ This file is intended to detail how the pipeline evolves throughout the quarter:
 This file is intended to assess and forecast Professional Services department's performance.
 
 [File](https://docs.google.com/spreadsheets/d/15YQV6dBpO06quxdvbZq6svTU-HgW06maZuhcwz7PYjI/edit#gid=1456058003)
+
+## Bookings Dashboard
+This dashboard provides a monthly trend view for Bookings, including dollar and count information. The 3 main sections of the dashboard are as follows:
+- Bookings Trend: high-level view of the last 14 months for Net IACV, Renewal ACV, Won ACV, MYB, PS/PS Attach Rate, and TCV
+- Net IACV Breakout: drill-down into the Net IACV components, such as FO, Growth, Expansion, Contraction, and Lost Renewals
+- Next 6 Months Pipe: view into the pipeline for the next 6 months
+
+[Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXuF)

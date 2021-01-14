@@ -74,7 +74,7 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Meeting Metrics
-Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/people-group/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key meeting to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
+Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/handbook/people-group/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key meeting to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
