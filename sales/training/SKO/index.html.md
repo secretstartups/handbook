@@ -17,44 +17,40 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
 # Sales Kick Off 2021
-SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021. Our theme is Peak Performance. Check out our [SKO 2021 Theme Reveal Video](https://vimeo.com/487653102) for a preview of the brand design. 
-
-More details coming soon!
+SKO 2021 is scheduled to take place virtually during the week of Feb 8-11, 2021. Our theme is Peak Performance. Check out our [SKO 2021 Theme Reveal Video](https://vimeo.com/487653102) for a preview of the brand design. 
 
 ## High-level SKO 2021 Agenda 
-Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
+Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-11, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
 
 ### AMER/EMEA Time Zone
-*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
-*  Mon, 2021-02-08: Keynotes, Q&As
-*  Tue, 2021-02-09: Keynotes, Q&As
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. 
+*  Mon, 2021-02-08: Keynotes, Customer Speaker, Q&As, regional team building (AMER)
+*  Tues, 2021-02-09: Keynotes, Q&As, regional team building (EMEA)
 *  Wed, 2021-02-10: Awards ceremony, role-based breakout sessions, Partner Summit
-*  Thu, 2021-02-11: Role-based breakout sessions
-*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
+*  Thurs, 2021-02-11: Role-based breakout sessions, Comp Plan information session 
 
 ### APAC Time Zone (Based on AEDT)
-*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
-*  Tue, 2021-02-09: Keynotes, Q&As
-*  Wed, 2021-02-10: Keynotes, Q&As
-*  Thu, 2021-02-11: Awards ceremony, role-based breakout sessions, Partner Summit
-*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO.
+*  Tues, 2021-02-09: Keynotes, Customer Speaker, Q&As, regional team building
+*  Wed, 2021-02-10: Keynotes, Q&As, regional team building (EMEA)
+*  Thurs, 2021-02-11: Awards ceremony, role-based breakout sessions, Partner Summit
+*  Fri, 2021-02-12: Role-based breakout sessions, Comp Plan information session 
 
 ** Note that agenda details are subject to change. 
 
 ## SKO 2021 Tickets 
-You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration in January 2021. 
+You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration details via email and Slack in January 2021. Registration should be completed no later than 2021-02-05. 
 
-We will be validating all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event.
+We will  validate all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event. See the FAQs below for more information about who is approved to attend SKO. 
 
 **Ticket Types:**
-- Sales - for all in the Sales org
-- Other - for team members outside of the Sales org
-- Guest - for guest speakers
+- GitLab Team Member Attendees - GitLab Internal Team Members (Sales, Customer Success, Channel, Alliances, SDR and supporting teams) 
+- Channel Partner Ticket - External channel partners joining GitLab Sales Kickoff
 
 ## SKO 2021 FAQ 
 **Q: What are the dates and location?**
 
-A: Sales Kick Off (SKO) will take place virtually from 08-Feb through 12-Feb, 2021. 
+A: Sales Kick Off (SKO) will take place virtually from Feb 8-11, 2021. 
 
 **Q: Why are we having a virtual event versus an in-person SKO?**
 
@@ -66,11 +62,17 @@ A: We hope to! Sales leadership is looking into opportunities to get the team to
 
 **Q: What platform(s) are we using for the virtual event?**
 
-A: Please stay tuned for more information on our virtual event platform! 
+A: We are using Hopin as our virtual event platform. This is the same platform we used for Contribute. 
 
 **Q: When and how should I register?**
 
-A: The SKO core team will reach out via email with registration links and update this page with registration details once they are available.  
+A: The SKO core team has reached out via email with registration links. Please complete registration through this email by 2021-02-05.
+
+**Q: Who is approved to attend SKO?**
+
+A: SKO attendees are set and approved by Sales and Marketing leadership. Attendees include all Field Team members (Sales, Customer Success, Channel, Alliances, SDR), select Marketing attendees appointed by the CMO, and other supporting team members from People Ops, Legal and Product. 
+
+If you believe you should be included in SKO based on the categories outlined above, please reach out to David Somers (for Field and other supporting teams) or Todd Barr/Marketing leadership (for Marketing team members).
 
 **Q: How are we accommodating different time zones?**
 
@@ -82,7 +84,9 @@ A: You will be added to the registration for the time zone that coordinates with
 
 **Q: Will there be any pre-work?**
 
-A: In support of GitLab’s all-remote culture, there will be pre-work that all SKO participants will be asked to complete to make the best use of our time together in person. Details will be shared in early Q4. 
+A: In support of GitLab’s all-remote culture, all SKO participants are  asked to complete pre-work to help you get the most out of the planned content and make the best use of our time together.
+
+To access the course, go to gitlab.edcast.com, sign in via SSO, click on "My Learning Plan," then click on the "SKO 2021 Pre-Work" course. The pre-work will take approximately 2-2.5 hours to complete, so please plan accordingly.
 
 **Q: What will I be expected to participate in?**
 
@@ -90,7 +94,7 @@ A: SKO is a great opportunity for our team to come together to both celebrate ou
 
 **Q: I just got hired – how do I attend SKO?**
 
-A: All new hires after TBD date will have 2 weeks from their start date to register and book travel. This info will be included in all new hire welcome packets if they are expected to attend.
+A: All eligible SKO attendees have until 2021-02-05 to register for the event. If you are a new hire and you have not received a registration email, please Slack #sko-virtual-2021. 
 
 **Q: How will we make SKO 2021 exciting even though it's virtual?**
 
