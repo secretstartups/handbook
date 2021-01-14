@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Strategy Projects"
+description: “Discover GitLab’s Sales Strategy team’s methods and goals”
 ---
 
 ## On this page
