@@ -155,7 +155,7 @@ This guide involves configuring and setting up VirtualBox and Docker locally and
 #### Install VirtualBox
 
 + Oracle VM VirtualBox is a free and open-source hosted hypervisor for x86 virtualization.
-+ Navigate to https://www.virtualbox.org/wiki/Downloads and download the latest version of the software
++ Navigate to [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and download the latest version of the software
    + Download “VirtualBox (for macOS)” using the provided link
    + Install VirtualBox
 
