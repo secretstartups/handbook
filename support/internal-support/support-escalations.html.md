@@ -32,7 +32,7 @@ Note: If you do not have ZenDesk access, please [follow the instructions here](/
 ### Out of scope
 
 1. Add email to org 
-1. Escalating tickets for which there is an acceptable business use case provided requiring the acceleration of a resolution.
+1. Escalating tickets for which there is not an acceptable business case provided, requiring the acceleration of a resolution.
 
 ### De-escalating a ticket when it does not need to be escalated
 
