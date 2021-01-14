@@ -366,6 +366,12 @@ In parallel with feature development, a merge request should be prepared by the 
 
 ##### Instructions
 
+###### Option 1: automated MR creation
+
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Draft your release post content under the **Release notes** section of the [feature issue template](/handbook/product/product-processes/#feature-templates) and then follow the [release post item generator](#release-post-item-generator) instructions. 
+
+###### Option 2: manual MR creation
+
 - Create a new branch from `master` for each feature/deprecation
 - Open a merge request targeted at the `master` branch
 - Use the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
