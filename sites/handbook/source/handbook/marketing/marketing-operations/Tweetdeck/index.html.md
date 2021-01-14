@@ -16,7 +16,7 @@ Tweetdeck allows us to manage various GitLab twitter accounts, such as our [movi
 
 ## How to Request
 
-For Tweetdeck access, team members will need their own Twitter accounts (using your gitlab.com email account). Those accounts will need to have 2FA authenticated. You can submit an AR by <insert>, which will require:
+For Tweetdeck access, team members will need their own personal Twitter accounts. Those accounts will need to have 2FA authenticated. You can submit an AR by <insert>, which will require:
 
 - the link to your personal twitter profile
 - a screenshot showing 2FA is activated
