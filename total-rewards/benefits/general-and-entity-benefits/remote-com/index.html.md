@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Remote.com"
+description: "Discover the benefits for Remote team members"
 ---
 
 ## On this page
