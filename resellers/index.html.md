@@ -269,7 +269,7 @@ This is an upfront discount and the amount depends on your track within the GitL
 *   **Partner Fulfillment Opportunity** is fulfilled by a partner but closed independently by the GitLab sales team. The partner only processes the order and doesn’t provide additional support to close the deal.
 
 
-*   **Services Attach Discount and Rebate** is an incentive for partner-delivered services provided to the end user related to their use of the GitLab Software (Core/Free and Starter/Bronze sales do not qualify). Services include product-related services (such as deployment, integration and migration), operational and strategic. For resale partners, the first Services Attach incentive is administered as an upfront 2.5% discount from the GitLab license price on the initial sale. Partners that do not resell or resellers that sell their own services after the initial sale may earn a rebate of 2.5% of the net license price of the most recent software sale for a period of up to six (6) months.
+*   **Services Attach Discount and Rebate** is an incentive for partner-delivered services provided to the end user related to their use of the GitLab Software (Core/Free and Starter/Bronze sales do not qualify). Services include product-related services (such as deployment, integration and migration), operational and strategic. The Services Attach incentive is administered as a rebate of 2.5% of the net license price of the most recent software sale for a period of up to six (6) months.
     *   This incentive is stackable to up to three (3) independent services engagements provided by the partner to a single end user. The maximum is 7.5% discount and/or rebate with any combination of upfront or post sales of partner-delivered services.
     *   Partner Services engagements must meet the following partner services deal size minimums:
         *    1st deal: => $7,500
@@ -278,7 +278,7 @@ This is an upfront discount and the amount depends on your track within the GitL
 
     Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration, Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Clients receipt of the Partner Professional Services and must be approved by GitLab Sales.
 
-    Each rebate paid out quarterly, 45 days after the end of each quarter.  
+    Rebates are paid out no later than 45 days after the end of each quarter.  
 
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying Partner Initiated GitLab software sales opportunities that are not being resold by the partner. To qualify for a referral fee, partners must enter a referral fee deal registration in our Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
