@@ -1,11 +1,3 @@
----
-layout: handbook-page-toc
-title: Customer Success
-description: >-
-  The Customer Success department is part of the GitLab Sales function who
-  partners with our large and strategic customers to deliver value throughout
-  their journey with GitLab
----
 The Customer Success department is part of the [GitLab Sales](/handbook/sales) function who partners with our large and strategic customers to deliver value throughout their journey with GitLab.
 
 The team can be reached in [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).
@@ -112,10 +104,12 @@ SA's will be brought back into a customer account in the following situations
 ### Customer Workshops
 
 TAM-Created, Enablement Focus:
-* [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+
+- [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
 
 SA-Created, Hands-On Focus:
-* [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
+
+- [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
 
 ### Using Salesforce within Customer Success
 
