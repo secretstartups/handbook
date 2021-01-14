@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Learn
+description: “Discover GitLab Learn, a Learning Experience Platform for the GitLab community”
 ---
 
 ## On this page
