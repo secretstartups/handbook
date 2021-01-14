@@ -102,7 +102,7 @@ While the primary objective of the performance axis of the Performance/Potential
 
 ### Measuring Performance
 
-How can managers determine whether their team members are Developing, Performing, or Exceeding? "The Performance Factor" = Job Family responsibilities (60%) + Competencies (40%). It is _optional_ to use [The Performance Factor Workheet](https://docs.google.com/spreadsheets/d/1HHe-Vb6y6F4HXsek3sObV4IVNAGaTvXGi_9fbatT0Uo/edit#gid=241716076) for weighing the different Performance Factors.
+How can managers determine whether their team members are Developing, Performing, or Exceeding? "The Performance Factor" = Job Family responsibilities (60%)/ [functional competencies](/handbook/competencies/#functional-competencies) (if applicable) + [GitLab Values Competencies](/handbook/competencies/#values-competencies) + [GitLab Remote Work Competencies](/handbook/competencies/#remote-work-competencies) (40%). It is _optional_ to use [The Performance Factor Workheet](https://docs.google.com/spreadsheets/d/1HHe-Vb6y6F4HXsek3sObV4IVNAGaTvXGi_9fbatT0Uo/edit#gid=241716076) for weighing the different Performance Factors.
 
 #### Job Family
 
@@ -112,6 +112,7 @@ Performance against Job Family role, requirements, and performance indicators sh
     * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#responsibilities)
 * Review Performance indicators per Job Family: Look at the Performance indicators.
     * Example: [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/#performance-indicators)
+* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
 
 For management roles, please also review and consider the [levels](https://about.gitlab.com/company/team/structure/#levels) outlined in the Organizational Structure. 
 
@@ -121,7 +122,6 @@ Performance against competencies should be weighted at 40%.
 
 * [Values Competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
 * [Remote Working Competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
-* _(if applicable)_ [Functional Competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies)
 * _(if applicable)_ [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies) 
 
 ## What is "Potential"?
