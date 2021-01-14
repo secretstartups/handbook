@@ -116,7 +116,13 @@ Supported topics include:
 * IACV calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
-* And anything else to help drive opportunities closing within the quarter!
+* And anything else to help drive opportunities closing within the quarter! 
+
+#### Deal Desk AMA
+
+Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opporutnities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+
+Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
 
 ### IACV + Renewals
@@ -293,7 +299,7 @@ This requires two steps: first combining the subscriptions, then cancelling the 
 **D.  Before submitting a Professional Services Opportunity for Closure:**
 
 *   Please note that the following items must be attached to the opportunity before it can be Closed Won:
-    *   SOW signed by **both the customer and Paul Machle.****
+    *   SOW signed by **both the customer and Brian Robins.****
     *   Cost Estimate spreadsheet (Link provided by the PS team)
     *   For a custom service package (Custom SOW), a fully executed SOW and Cost Estimate are required
     *   For [standard professional services skus](/handbook/customer-success/professional-services-engineering/#current-skus), only a signed order form is required 

@@ -25,7 +25,7 @@ Additional related channel resources:
 *   [Channel Partner Program page](https://about.gitlab.com/handbook/resellers/) - This page provides an overview of the GitLab channel partner program, the expectations of partners, benefits for partners and how partners can work with GitLab.
 *   [Channel Services Program Page](https://about.gitlab.com/handbook/resellers/services/) - Provides information on the GitLab services program, training and partner practice development.
 *   [Channel Training, Certification and Enablement Page ](https://about.gitlab.com/handbook/resellers/training/)- Documents available training and certifications for partners.  Lists out additional enablement resources for partners.
-*   Partner Locator - (Coming soon) Enables customer and GitLab team members to find a partner in a specific geographic location and with specific services skills.
+*   [Partner Locator](https://partners.gitlab.com/English/directory/) - Enables customer and GitLab team members to find a partner in a specific geographic location and with specific services skills.
 
 
 ### **Channel Value for GitLab**
@@ -36,14 +36,6 @@ The Channel is a critical part of our overall go to market strategy and are a va
 
 1. Drive growth ARR through services capacity and capability to drive customer adoption and usage of the GitLab platform.
 2. Drive and increase new customer ARR through their relationships, service engagements, and knowledge of accounts.
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
 
 
 ### **How can GitLab sellers benefit from our channel partners?**

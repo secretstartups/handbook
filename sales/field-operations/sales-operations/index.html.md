@@ -2,15 +2,15 @@
 layout: handbook-page-toc
 title: 'Sales Operations'
 ---
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
   {:toc .hidden-md .hidden-lg}
+
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 {::options parse_block_html="true" /}
 
@@ -272,7 +272,6 @@ The full company tech stack list with definitions can be found on the [Business 
 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
-1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
 1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details>

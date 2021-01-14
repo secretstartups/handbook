@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Functional Competencies"
-description: "GitLab field functional competencies provide a common language and consistent expectations for what good looks like for the GitLab field organization"
+description: "GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab field organization."
 ---
 
 # Field Functional Competencies  
@@ -24,65 +24,56 @@ There are three primary competencies for the field: Customer Focus, Solution Foc
 
 ## Customer Focus
 
-Field team members should be focused on the customer and how we can deliver a world class experience with every interaction. 
+Field team members should be focused on the customer and delivering a world class experience with every interaction. 
 
-
-| SKILL                              | BEHAVIOR DESCRIPTION                                                                                                                                                                                                                                                                                                                                                           |
-|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Understanding the Customer's Needs | Keeps the customer and their goals in mind when engaging with them. Seek to understand their Positive Business Outcomes and how they will measure success. Using this information to anticipate the customer’s business needs to provide support and drive adoption of their GitLab technologies.                                                                             |
-| Presenting                         | Shares knowledge with customers in a way that creates credibility, demonstrates integrity, and conveys GitLab values. Adjusts presentation based on audience level and interests. Is able to effectively tell a story to capture their audience, and be able to tell engaging stories as part of presentation. Crisp, concise communication, delivered in person or remotely. |
-| Facilitation (Customer Presence)   | Project confidence, credibility, and conviction in body language, voice, and words during meetings to show interest, gain respect, and inspire trust. Can effectively manage a room and facilitate beneficial discussion                                                                                                                                                       |
-| Customer Business Acumen           | Understands the dynamics, trends, and challenges of the customer's business and their industry. Then advocates internally for the needs of the customer.                                                                                                                                                                                                                       |
-| Active Listening                   | Leverages active listening to create mutual understanding between GitLab Team and customer regarding their short-term and long-term business challenges. Uses MEDDPPICC to actively understand content and emotional messaging to show interest, connect, learn, and build trust with the customer.                                                                             |
-
-
-
-| RATING LEVEL | DESCRIPTION OF THE RATING LEVEL                                                                                                                                                                                                                             |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Learning     | Practices: Holds business oriented conversations with customer and understands where to go to get questions answered. Requires direction, training, and/ or feedback in order to effectively grow customer relationships.                                   |
-| Growing      | Applies: Comfortably engages customers in insightful business conversations. Requires limited guidance and feedback in order to sustain and grow customer relationships.                                                                                    |
-| Thriving     | Integrates: Seamlessly moves conversations towards strategic goals. Regularly provides direction, guidance, training, and/or feedback to others in developing customer relationships.                                                                       |
-| Expert       | Innovates: Sought after by customers and viewed by the industry as a valued “voice.” Works with Field Enablement Team and Field Ops to develop, improve, and/or introduce new approaches that positively represent GitLab to the customer and the industry. |
-
-
+| EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
+| ---- | ----- |
+| Understanding the Customer's Needs | Leverages active listening to create mutual understanding between GitLab Team and customer regarding their short-term and long-term business challenges. Keeps the customer and their goals in mind when engaging with them. Seeks to understand their Positive Business Outcomes and how they define and measure success. |
+| Customer Business Acumen | Understands the dynamics, trends, and challenges of the customer's business and their industry then appropriately advocates internally for the needs of the customer. | 
+| Presenting | Shares knowledge with customers in a way that creates credibility, demonstrates integrity, and conveys GitLab values. Adjusts presentations and delivery based on audience level and interests/needs. Communicates crisply and concisely (whether in person or remotely) and can capture and engage audiences with effective storytelling. |
+| Facilitating (Customer Presence) | Projects confidence, credibility, and conviction in body language, voice, and words during meetings to show interest, gain respect, and inspire trust. Drives effective bi-directional dialogue that lead to productive outcomes for the customer and for GitLab. |
 
 ## Solution Focus
 
-Field team members should be focused on how GitLab helps customers solve their business problems and how they can help drive their success.
+Field team members should be focused on how GitLab helps customers solve their business problems and accelerate their success.
 
-| SKILL                           | BEHAVIOR DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Consultative Approach           | The ability to diagnose customer needs and determine the solution for new and existing customers to help them achieve their strategic business goals. Uses Command of the Message and MEDDPPICC to create dialogue to uncover, explore, shape, and deliver on the needs of customers. Uses Command of the Message and MEDDPPICC to demonstrate value and connect GitLab to customer's business pain.                                                                                |
-| Set Vision & Drive Adoption     | Creates effective strategies to create a clear path for success, and documents them within Command Plan or Success Plan.                                                                                                                                                                                                                                                                                                                                       |
-| DevOps and Technical Leadership | Comprehensive understanding of how products and services integrate to form solutions in the context of the customer's ecosystem. Drive DevOps and the solution that includes the people, process, technology. Be able to speak to Agile DevOps methodology. Use agile DevOps in every task and build automation with this method.,Bring ideas and collaborate with other team members and customers about how they can be more Agile using DevOps methods. |
-| Building Trust (Trusted Advisor) | Uses consultative skills to ensure GitLab's products meet specific customer's needs as a partner to the customer rather than another vendor. Show up as a credible and reliable champion for your customers, by being able to connect with the customer on a personal and professional level, to drive success.                                                                                                                                                |
-
-
-
-| RATING LEVEL | DESCRIPTION OF RATING LEVEL                                                                                                                                                                                                                                                                                |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Learning     | Practices: Understands all stages of GitLab and is able to articulate how they form basic solutions for the customer. Requires direction, training, and/or feedback to effectively have these conversations with customers.                                                                                |
-| Growing      | Applies: Understands the products within the GitLab Portfolio, in the context of the customer’s needs/goals. Drives conversations within GitLab on the customer’s behalf. Requires limited guidance and feedback in order to drive adoption.                                                               |
-| Thriving     | Integrates: Combines product and industry knowledge to advise and propose solutions that align closely with a customer's strategic It vision. Regularly provides direction, guidance, training, and/ or feedback or other is driving adoption.                                                              |
-| Expert       | Innovates: Leverages customer relationships to consistently uncover and pursue strategic opportunities with customers where solutions increase revenue, cut costs, and provide business edge. Develops, improves, and/ or introduces new approaches and tools that position GitLab as a solution provider. |
-
+| EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
+| ---- | ----- |
+| Consultative Approach | Uses Command of the Message and MEDDPPICC to effectively explore and diagnose customer needs and recommend appropriate value-based solutions to help customers achieve their strategic business goals. |
+| Leading with Vision | Develops, documents, and executes effective strategies to land new customers with vision and purposefully expand existing customers adoption of GitLab technologies to accelerate customers' time to value and return on investment as they progress in their DevOps adoption journey. |
+| DevOps and Technical Leadership | Demonstrates a comprehensive understanding of how products and services integrate to form solutions in the context of the customer's ecosystem. Advises customers on the importance of aligning people, process, and technology to achieve desired outcomes via an Agile DevOps methodology. |
+| Building Trust (Trusted Advisor) | Connects with key stakeholders on both a personal and professional level and shows up as a credible and reliable champion for customers. Effectively positions GitLab as a partner to the customer rather than just another vendor with a focus on following through on commitments and delivering results. |
 
 ## Operational Excellence
  
 To drive efficiency, field team members should adhere to the tools and processes established by the Field Operations team and their leadership.
 
-| SKILL                         | BEHAVIOR DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Process Discipline            | The ability to evaluate, implement, and manage the GitLab Customer Success Rhythm of Business to understand and contribute to GitLab’s long term strategic initiatives. This includes managing time, priorities and daily workload to effectively engage customers. Effectively uses tools to support the development and execution of the account plan. Actions should be repeatable and scalable. |
-| Account Planning & Management | Creates effective strategies for expanding within an account including a clear plan customer journey selling and adoption and key plays (i.e., CI, CD, Security, Jenkins and Microsoft takeout, Premium/Ultimate).                                                                                                                                                                                   |
-| Resource Orchestration        | Engages partners and internal resources and leverages tools at the right time and in the right manner to move the customer forward while prioritizing time and resources.                                                                                                                                                                                                                                |
-| Growth Mindset                | Explore and foster the mindset necessary to continuously develop and take risks. Curiosity and perseverance are parts of this skill.                                                                                                                                                                                                                                                                 |
+| EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
+| ---- | ----- |
+| Process Discipline | Leverages repeatable and scalable processes and tools throughout the customer lifecycle. Effectively manages time, priorities, and daily workload to effectively engage customers. |
+| Growth Mindset | Demonstrates the curiosity, perseverance, and willingness to take calculated risks to continuously pursue opportunities to improve knowledge, skills, processes, and more that lead to improved results. | 
+| Account Planning & Management | Creates and implements effective long-term account expansion strategies by leveraging standard processes, tools, and content (including customer use cases and sales plays) |
+| Resource Orchestration | Engages partners and internal resources and leverages tools at the right time and in the right manner to move the customer forward while prioritizing time and. resources. |
 
+# Proficiency Levels
 
-| RATING   | DESCRIPTION OF RATING LEVEL                                                                                                                                                                                                                   |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Learning | Practices: Practices all aspects of the process for your role. Requires direction, training, and/or feedback to consistently use process and tools.                                                                               |
-| Growing  | Applies: Applies all aspects of the process for your role. Requires limited guidance and feedback to use process and tools consistently and effectively.                                                                          |
-| Thriving | Integrates: Fully integrates all aspects of the process for your role into your daily work. Regularly provides direction, guidance, training, and/or feedback to others in learning, using, and optimizing the process and tools. |
-| Expert   | Innovates: Works with the Sales & Customer Enablement Team to develop, improve, and/or introduce new approaches that positively impact the speed, efficiency, and/ or effectiveness of the business processes within Customer Success.        |
+Competency proficiency rating levels align with GitLab’s enterprise-wide performance categories:
+- [Developing](/handbook/people-group/performance-assessments-and-succession-planning/#developing)
+- [Performing](/handbook/people-group/performance-assessments-and-succession-planning/#performing)
+- [Exceeding](/handbook/people-group/performance-assessments-and-succession-planning/#exceeding) 
 
+# Practical Application
+
+Field team members and their managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. More specifically, managers in the field organization should:
+1. Encourage team members to complete their own self-assessment (see template below) to
+    - Identify 2 or more strengths field team members intend to continue to leverage to deliver positive results
+    - Identify 2 specific skills / behaviors field team members would like to improve upon
+1. In parallel, managers should complete a similar assessment (see template below) for each of his or her direct reports
+1. Field team members and their managers should then meet to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
+1. Team members are encouraged to identify and regularly engage with an accountability partner (whether that be their manager and/or other) to maintain focus on development plans and to provide ongoing feedback
+
+## Assessment Template
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCzDGB0-zwuCI6SKcMNWACOem_utTKexb7lwaa0MTjMTIaUjKbBEEDgDvrCXwxGIZqvA8F_CtpKfti/pubhtml?gid=203446683&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</figure>
