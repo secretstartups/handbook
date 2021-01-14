@@ -45,7 +45,6 @@ This group can be referenced in GitLab.com issues using the `@gl-product-plt` ha
 - [Eric Brinkman's README](/handbook/product/readme/eric-brinkman.html)
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
-- [Tim Hey's README](/handbook/product/readme/tim-hey.html)
 - [Jackie Porter's README](https://gitlab.com/jreporter/read-me)
 
 ## Product Manager/Leader Collaboration
