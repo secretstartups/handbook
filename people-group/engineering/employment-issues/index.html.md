@@ -55,11 +55,7 @@ contents of those files also in the onboarding issue.
 
 ##### Interns
 
-If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command. The biggest difference is that it will read from a different template. The template is determined by the division: `onboarding_intern_<division>.md`. Currently there's only one division that has set up a template:
-
-- [Engineering](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
-
-This is a first iteration of creating onboarding issues for interns, we can move to a similar method as we do for the "regular" onboardings.
+If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command. There is an extra subtemplate that will be added to the main onboarding issue (just like we do for country, department, etc). 
 
 #### Closing outdated onboarding issues
 
