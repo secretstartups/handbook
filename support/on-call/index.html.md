@@ -211,7 +211,7 @@ Support Managers also have an on-call rotation. The support manager on-call is r
 
 - Act as an escalation point for missed customer emergency pages.
 - Find staff to help with [multiple emergencies](#handling-multiple-simultaneous-emergencies).
-- Act as a notification point for [security incidents](/handbook/engineering/security/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact).
+- Act as a notification point for [security incidents](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact).
 
 ### Escalations, requests and questions in #support_escalations _(business days only)_
 
