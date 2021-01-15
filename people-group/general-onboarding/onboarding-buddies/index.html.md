@@ -14,7 +14,7 @@ description: "Onboarding Responsibilities and Process"
 
 Onboarding buddies are crucial to making the onboarding experience for a new GitLab team-member a positive one. [New Job Anxiety](http://www.classycareergirl.com/2017/02/new-job-anxiety-conquer/) is a reality for many people, and the adjustment to GitLab might be particularly challenging for new GitLab team-members who may not be used to our [all-remote](/company/culture/all-remote/) culture. That's why it's important that all new GitLab team-members be assigned a buddy who is ready, willing, and excited to assist with the onboarding process.
 
-Not only are buddies helpful to someone that has just started with GitLab, but also to a team member transitioning to a new role within GitLab. When someone migrates to a new team / department, it is highly recommended that managers assign a Career Mobility buddy in the issue to help support the team members that is busy migrating. 
+Not only are buddies helpful to someone that has just started with GitLab, but also to a team member transitioning to a new role within GitLab. When someone migrates to a new team / department, it is highly recommended that managers assign a Career Mobility buddy in the issue to help support the team members that are busy migrating. 
 
 ## Buddy Responsibilities
 
@@ -36,7 +36,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
      * If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
 1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
   * In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
-1. **Check in regularly.** You may very well be the first friend the new GitLab team-member makes on the team. Checking in with them regularly will help them feel welcome and supported. Reach out via Slack, and schedule at least one follow-up call for the week after their start date.
+1. **Check in regularly.** You may very well be the first friend the new GitLab team-member makes on the team. Checking in with them regularly will help them feel welcome and supported. Reach out via Slack, and schedule at least two follow-up calls for the week after their start date, and at least one follow-up call for the rest of the fisrt month. But since it differs from one perosn to another, you may also ask them if they prefer more or less frequent calls per week.
 1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup onboarding buddy is available to offer support.
 
 ## Buddy Program
