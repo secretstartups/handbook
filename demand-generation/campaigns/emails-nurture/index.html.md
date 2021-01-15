@@ -394,7 +394,9 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
     - Repeat Every: Weekday (M-F)
     - End On: Day of the event
 
-### Removing sales nominated invitation
+### Removing sales nominated scheduled deployment
+{: #sales-nominated-remove-scheduled-deployment}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
 
