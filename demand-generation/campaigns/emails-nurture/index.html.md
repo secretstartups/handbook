@@ -109,8 +109,8 @@ Self Hosted Ultimate trial nurture communication are sent via Marketo and Outrea
 - [AWS Partner Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624) - contains streams for awareness, consideration, and decision/purchase stages.
 - [Jenkins Take Out](https://gitlab.com/groups/gitlab-com/marketing/-/epics/282): The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution. This track is targeted towards director, tools owner, and chief/prinicipal architects in the functions of applications, development, QA, and DevOps.
 
-### Requesting to add leads to a nurture program
-{: #add-to-nurture-request}
+### Nurture entry (system logic and manual flow)
+{: #nurture-entry}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Note: in our future state nurture system, leads would be nurtured appropriately through logic based on:**
@@ -119,13 +119,34 @@ Self Hosted Ultimate trial nurture communication are sent via Marketo and Outrea
 
 These future state nurture programs will be aligned to GTM Motions, with three streams to clearly designate the stage of the [buyer journey](https://about.gitlab.com/handbook/marketing/corporate-marketing/content/#content-stage--buyers-journey-definitions) (Awareness, Consideration, and Purchase/Decision) and therefore deliver content relevant to their stage of the buyer journey.
 
-While the future automated nurture system is in progress, to request to add a segment of leads to a nurture, please [create an issue request for Marketing Campaigns](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture). The campaign manager will assess the request and can add the leads to the proper stream via a 'Request Campaign' marketo flow step.
+#### Add to nurture within Marketo programs
+{: #add-to-nurture-in-program}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
-- In order to prevent people currently in a stream from switching streams due to a manual add to nurture, the Campaign Manager will exclude anyone in the '*Member of Engagement Stream*' Smart List. 'Member of Smart List' -> Person NOT IN '*Member of Engagement Stream*'. The '*Member of Engagement Stream*' Smart List includes anyone who has not exhausted content in their current stream or is not paused in a stream.
-- Flow step to add leads to TOFU nurture 'Cloud Native' track -> 'request Smart Campaign: TOFU nurture. Add to stream 1: Cloud Native (trigger)'
-- Flow step to add leads to TOFU nurture 'CI/CD' track -> 'request Smart Campaign: TOFU nurture. Add to stream 4: CI/CD (trigger)'
-- Flow step to add leads to TOFU nurture 'Reduce Cycle Time (Generic DevOps)' track -> 'request Smart Campaign: TOFU nurture. Add to stream 2: Reduce Cycle Time_Forrester (trigger)'
+These smart campaigns are in Marketo program templates in order to add leads to nurture programs. This is the interim of building an automated Nurture Logic Engine, which will enable a more scaled and efficient approach.
 
+**Review the smartlist and run:**
+* Smart List (filter):
+    - Member of Program: (current program, success status)
+    - Subscription Filters (fitlers here are dependent on program type, and subject to change, so not adding all details)
+    - Not in a trial
+    - Not on an open opportunity
+* Flow
+    - Add to nurture:
+    - Select the program indicated in the issue description (should include one of the [active nurture program options](/handbook/marketing/demand-generation/campaigns/emails-nurture/#gtm-motion-nurtures))
+    - Select the stream indicated in the issue description (should be awareness, consideration, OR decision/purchase)
+* Schedule
+    - Select `Run Once` > Choose `Run Now` > Click `Run`
+
+#### Requesting to add leads to a nurture program
+{: #add-to-nurture-request}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+While the future automated nurture system is in progress, to request to add a segment of leads to a nurture, please create an add-to-nurture issue request:
+   - If Field Marketing is DRI: [request-add-to-nurture]](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture)
+   - If any other team is DRI: [request-add-to-nurture]](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+
+These issue templates are also built into the epic codes throughout the handbook accordingly. As the overarching automated nurture logic is created, AND epic codes consistently indicate the required details for the logic, we will discontinue use of these issue templates.
 
 ## Newsletter
 {: #newsletter .gitlab-purple}
@@ -363,7 +384,7 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
 * Smart List (filter):
     - Member of Program: (current program, registered status)
     - Not Was Sent Email: (one of previous emails for this event) in last 7 days
-    - Subscription Filters (fitlers here are dependent on program type)
+    - Subscription Filters (fitlers here are dependent on program type, and subject to change, so not adding all details)
 * Flow
     - Send email: sales nominated email in the program
 * Schedule
@@ -373,4 +394,10 @@ Send sameple to the DRI for the program (i.e. workshop owner) who is responsible
     - Repeat Every: Weekday (M-F)
     - End On: Day of the event
 
+### Removing sales nominated invitation
 
+You can remove specific recurrences of scheduled sales nominated deployments. The FMC is responsible for this change for field marketing activities, and campaign managers are responsible for this change for demand generation activities.
+
+* Navigate to the `Schedule` tab of the Sales Nominated smart campaign
+* Scroll down and you will see the scheduled deployment dates with a small red `x` to the right
+* Click the small `x` next to any of the dates that you would like to remove from the scheduled deployments
