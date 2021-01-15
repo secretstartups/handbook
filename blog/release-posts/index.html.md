@@ -243,19 +243,21 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
 #### Create MR for What's New entries 
 
 1. PMM lead and Release Post Manager identify topics for What's New
-   1. These items should be the primary releast items. PMM and RPM will decide which ones and how many to include 
+   1. These items should be the primary release items. PMM and RPM will decide which ones and how many to include. 
 1. PMM creates a What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
-   1. Title the file as `YYYYMMDD00001_VV_XX.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
-   1. Copy the format of the previous releases' entry 
-   1. Leveraging the content that is in the release post items, duplicate the content for What's New
+   1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
+   1. Copy the format of the previous releases' entry (note: a template is in development) 
+   1. Utilizing the content that is in the release post items, duplicate the content for What's New
 1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
 1. Images will end up at a URL https://about.gitlab.com/images/X_Y/XXXXXXX.XXX Make sure you provide a full URL for the YAML entry. Ex: https://about.gitlab.com/images/13_7/reviewers_sidebar.png
+1. Submit the MR and add labels  ~"feature" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
 
 ##### Notes:
 Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 
 ##### Videos:
 Use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+
 
 #### Local dev environment setup to run content assembly script
 
