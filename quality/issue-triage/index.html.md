@@ -91,6 +91,15 @@ This indicates the expected timeline & urgency which is used to measure our SLO 
 | `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
 | `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
+If an issue is related to the merge request experience, severity is tied to priority in the following manner:
+
+| MR Issue Severity | Minimum priority |
+|-|-|
+| S1 | P1 |
+| S2 | P1 |
+| S3 | P2 |
+| S4 | P3 |
+
 ### Availability
 
 Issues with `~availability` label directly impacts the availability of GitLab.com SaaS. It is considered as another category of `~bug`. For the purposes of [Incident Management](/handbook/engineering/infrastructure/incident-management/), incident issue severities are chosen based on the `availability` severity matrix below.
