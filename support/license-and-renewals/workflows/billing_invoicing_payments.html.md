@@ -100,3 +100,13 @@ account.
    Support team's attention.
 1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
    process the request. They will reply to the customer once done.
+
+### Requests for split payments
+
+When a customer has a payment limit on their card, preventing a single payment for the full amount of their purchase, Billing is able to charge the card in "batches".
+
+1. Get information on the limit and the total cost of the purchase the customer wishes to make.
+1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+   process the request. They will reply to the customer once done.
+
+Note that in some cases, the total amount is too large to charge in 2 batches and Billing might request that a sales-assisted order is done instead. If you're unsure whether this would be the case, you can tag [at]Billing-ops in Chatter on the Account or Opportunity in SFDC to double-check with them.
