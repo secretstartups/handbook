@@ -193,7 +193,7 @@ The goal of this call is to communicate:
 1. Key messaging that leaders are enlisted to help distribute
 1. Action items which may need cross-functional collaboration
 
-The Agenda will be organized by meeting topics. All Direct members who led or participated in or led specific sessions will provide written summaries and flag highlights. Other teammembers can put their comments and questions below each summary. We will run through the agenda during the meeting.
+The Agenda will be organized by meeting topics. Designated All-Direct team members who led or participated in specific sessions will provide written summaries and flag highlights. All-Direct team members can put their comments and questions below each summary. We will run through the agenda during the meeting.
 
 All-directs play a key role in cascading what is happening in the business and communicating key implications for teams and team members. After each all-direct meeting, all-direct members should:
 1. Identify key changes or information of greatest relevance to their teams
