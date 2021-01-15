@@ -42,7 +42,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
-     - [Sales Kick Off](/handbook/sales/training/SKO)
+     - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
 
@@ -220,7 +220,7 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `sales onboarding` - label for issues related to sales/field onboarding
         - `QBR` - requests from Sales QBRs
         - `sales enablement sessions` - label for weekly virtual sales enablement series
-        - `sko` - label for issues related to Sales Kick Off
+        - `sko` - label for issues related to Sales Kickoff
         - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
         - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
         - `strategy` - plans, methods, or series of maneuvers or stratagems for obtaining specific goals or results
