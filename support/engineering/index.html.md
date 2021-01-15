@@ -13,23 +13,24 @@ As a Support Engineer at GitLab, the majority of your time will be focused on he
 Working through various customer problems you may need help. We have a wide and talented team that can help you at many levels:
 
 - Managers: If your problem is related to process, or understanding direction, or cross-team collaboration, consider talking to your direct manager, or another manager whom may be working more directly on that problem. Managers in Support Engineering should be able to point you in the right direction and enable you to find the right help.
-- Senior/Staff Support engineers: If your problem is debugging related, consider reaching out to a Senior+ Engineer. At the Senior+ level, engineers are expected to be acting as mentors,teachers, and techincal experts. See our [Mentoring page for more information about how Senior+ Engineers are expected to help](/handbook/support/engineering/mentorship)
+- Senior/Staff Support engineers: If your problem is debugging related, consider reaching out to a Senior+ Engineer. At the Senior+ level, engineers are expected to be acting as mentors, and techincal experts. See our [Mentoring page for more information about how Senior+ Engineers are expected to help](/handbook/support/engineering/mentorship.html)
 
 ### Zendesk Instances
+
 At GitLab, the Support Team currently manages 2 different [Zendesk Instances](/handbook/support/workflows/zendesk-instances.html):
 
-- GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
-- GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
-
-The customer URL for the Federal Support Instance is [federal-support.gitlab.com](https://federal-support.gitlab.com) which is a CNAME for [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
-
-All our Support Engineers have access to the GitLab Support Instance, whereas only Support Engineers who are US Citizens inside of the US have access to the GitLab US Federal Support Instance.
+1. GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
+1. GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
+  - Customer URL: [federal-support.gitlab.com](https://federal-support.gitlab.com), CNAME for full link (above).
+  - Only Support Engineers who are US Citizens inside of the US have access.
 
 ### Ticketing Style Guide
-A collection of best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
 
-### What if I Feel Threatened or Harassed While Handling a Support Request?
-Just as Support Team are expected to adhere to GitLab's [Code of Conduct](/handbook/people-group/code-of-conduct), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
+We recommend reviewing the best practices and suggestions for [styling and responding to Zendesk tickets](/handbook/support/workflows/how-to-respond-to-tickets.html).
+
+### What if I feel threatened or harassed while handling a Support request?
+
+Just as Support team members are expected to adhere to GitLab's [Code of Conduct](/handbook/people-group/code-of-conduct), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
 
 If you notice a threatening or hostile ticket, please tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following guidelines in our [Statement of Support](/support/#please-dont-use-language-intended-to-threaten-or-harass).
 
@@ -45,7 +46,6 @@ Additionally, if the code change is specifically to improve the team's efficienc
 An issue is created in the `support-team-meta` issue tracker at the
 end of each week with a list of support team contributions merged in the past week. View the
 [list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=Support%20Team%20Contributions).
-
 
 ### Internal tools
 
