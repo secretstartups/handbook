@@ -14,34 +14,135 @@ description: "Support Engineering workflows for account deletion requests"
 
 ## Overview
 
-Use the appropriate workflow on this page when a user requests the deletion of their GitLab.com account either through a Zendesk ticket or via an email to `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` (which both forward to the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk)). **These requests must be filled within 30 days.**
+Use the appropriate workflow on this page when a user requests the deletion of their GitLab.com account either through a Zendesk ticket or via an email to our [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk). **These requests must be filled within 30 days.**
 
 ## Workflows
 
-### Requests received through Zendesk
+### Zendesk
 
 When a request is received through Zendesk as a ticket, do the following:
 
 1. Apply the [**Support::SaaS::Account Deletion Instructions - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro and mark the ticket as solved.
 
-This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
+This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed. The request will then be serviced when received in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk).
 
-The request will then be serviced when received in the [GDPR Request Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) (process detailed below).
+### Personal Account Requests Service Desk
 
-### Requests received through the GDPR Request Service Desk (`gdpr-request@gitlab.com` and `personal-data-request@gitlab.com`)
+When a user emails `personal-data-request@gitlab.com` or `gdpr-request@gitlab.com` an issue is automatically created in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/service_desk), meaning comments made on it will be emailed to the submitter.
 
-When a user emails `gdpr-request@gitlab.com` or `personal-data-request@gitlab.com` an issue is automatically created in the [gdpr-request issue tracker](https://gitlab.com/gitlab-com/gdpr-request/issues) via the [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) feature, meaning comments made on the issue will be emailed to the submitter.
+Upon submission, the submitter will receive an [autoresponder](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/service_desk_templates/thank_you.md) thanking them for their request and informing them that they must reply back for confirmation before we can proceed. Servicing these requests is a two stage process. When a request is received, complete all of the following tasks in each stage in order.
 
-When a request is received in this manner, do the following:
+#### **Stage 1: Verification**
 
-1. Verify that the user has replied to the issue with their confirmation. It will be seen as a comment on the submitted issue. If confirmation is not received, do not proceed with creating a meta issue as seen in Step 2.
-1. Create a new confidential issue in the `gdpr-request` issue tracker using the [`deletion_meta_issue` template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) (click the link to create one) and populate the title with the email address of the original requestor.
-1. Link the original issue in the **Related issue** field.
-1. Complete each step in the issue template that begins with `Support Engineer:`.
+>**NOTE:** Users have a total of 14 days to reply to our [autoresponder](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/service_desk_templates/thank_you.md) with confirmation that they wish to proceed before we close their request due to a lack of verification.
 
----
+>**NOTE:** In order to keep track of which requests still require confirmation, you can optionally apply the `Awaiting Confirmation` label.
 
-**Macros**
+1. **Deletion Confirmation:** Confirm that the user has replied back confirming that they wish for us to proceed, this will appear as a comment on the issue. If the user has not provided this confirmation within **7** days, remind them to with the `Confirmation Reminder` snippet below.
 
-* [Support::SaaS::Account Deletion Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360027176693)
+   <details>
+     <summary markdown="span">Confirmation Reminder</summary>
 
+     <p>Greetings,</p>
+
+     <p>Recently we received and responded to a request to delete your account. As mentioned in our first response, we require positive confirmation of the request in the form of a reply to this message stating that you do want your account deleted. </p>
+
+     <p>We have not yet received that confirmation from you. Please reply to this email to verify that you want your account deleted.</p>
+
+     <p>This email contains a unique key that helps us verify that the owner of this email address made the request. Sending a new email to personal-data-request@gitlab.com will re-initiate this process. You must reply to this email in order to delete your account. </p>
+
+     <p>Regards,</p>
+   </details>
+
+   If the user chooses to provide this confirmation by sending us an entirely new request, resulting in a new issue, reply to the original issue with the following `Request Re-Confirmation` snippet and **close** the new issue.
+
+   <details>
+     <summary markdown="span">Request Re-Confirmation</summary>
+
+     <p>Greetings,</p>
+
+     <p>Recently we received and responded to a request to delete your account. As mentioned in our first response, we require positive confirmation of the request in the form of a reply to this message stating that you do want your account deleted. We have not yet received that confirmation from you.</p>
+
+     <p>Please reply to this email to verify that you want your account deleted. This email contains a unique key that helps us verify that the owner of this email address made the request.</p>
+
+     <p>Sending a new email to personal-data-request@gitlab.com will re-initiate this process. You must reply to this email in order to delete your account.</p>
+
+     <p>Regards,</p>
+   </details>
+
+   If **7** more days have passed since the reminder was sent without confirmation from the user, send the following `Request Closed - No Confirmation` snippet and close the issue.
+
+   <details>
+     <summary markdown="span">Request Closed - No Confirmation</summary>
+
+     <p>Greetings,</p>
+
+     <p>Due to lack of identify verification. Your request for account deletion is denied. This issue will be closed.</p>
+
+     <p>Regards,</p>
+   </details>
+
+1. **Username Confirmation:** Verify that the user has provided the username of the GitLab.com account associated with the originating email address of the request. If they have not, ask for them to provide it by replying with the `Verify Username` snippet below.
+
+   <details>
+     <summary markdown="span">Verify Username</Summary>
+
+     <p>Greetings,</p>
+
+     <p>We appreciate you confirming your intent to delete your GitLab.com account. However, before we can proceed we will also need you to confirm the username of the GitLab.com account associated with this email address.</p>
+
+     <p>Please provide this username at your earliest convenience so that we can begin the account deletion process.</p>
+
+     <p>Regards,</p>
+   </details>
+
+   If the username provided **does not** match the GitLab.com account associated with the originating email address, request confirmation of additional information by sending the [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) snippet.
+
+   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `CLEAR`. If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and do not proceed further.
+
+1. **Paid Namespace Confirmation:** Verify that the user is not associated with a paid namespace on GitLab.com. If they are, do the following:
+   1. Send the following `Paid Namespace Found` snippet:
+
+      <details>
+        <summary markdown="span">Paid Namespace Found</summary>
+
+        <p>Greetings,</p>
+
+        <p>As your account is associate with [Customer Name], we are unable to complete your request. Please contact your organization's system administrator to remove you from their projects if you would like to delete your account. After removal from [Customer Name]'s projects, you will need to begin a new Privacy Request.</p>
+
+        <p>This ticket will be marked as 'Solved'.</p>
+
+        <p>Regards,</p>
+      </details>
+
+   1. Close the issue.
+   1. [Create a new Zendesk ticket](https://support.zendesk.com/hc/en-us/articles/203690946-Creating-a-ticket-on-behalf-of-the-requester) using the `Support::SaaS::Account Deletion - Customer Contact Inform` macro on behalf of the customer using the contact information for them associated with the subscription in the [Customer Portal](https://customers.gitlab.com).
+
+#### **Stage 2: Deletion**
+
+1. [Create a new confidential issue](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) in the Personal Account Requests issue tracker and follow the instructions at the top of the template, then complete each step in the issue template that begins with `Support Engineer:` in order.
+
+#### Flow Chart
+
+An overview of this process is outlined in the chart below.
+
+```mermaid
+graph TD
+A(Request Received)-->B
+B(User Confirmed Intent to Delete?)-->|Yes|C
+C(User Provided Account Username?)-->|Yes|D
+D(Requesting Email Matches Username?)-->|Yes|E
+E(User Passed Account Verification Process?)-->|Yes|F
+F(User Has Access to Paid Namespace?)-->|Yes|X
+X(Inform User We Cannot Complete Request)
+B-->|No|Y
+Y(Wait For Confirmation)-->B
+C-->|No|Z
+Z(Ask User to Provide Account Username)-->C
+D-->|No|G
+G(Perform Account Verification)-->E
+E-->|No|H
+H(Apply Account Verification Failed Label)
+F-->|No|I
+I(Create Deletion Meta Issue)
+```
