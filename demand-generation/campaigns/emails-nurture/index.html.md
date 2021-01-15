@@ -340,3 +340,37 @@ We use both Marketo and Mailchimp to send ad-hoc emails. Marketo is the primary 
  - Name the campaign using ISODate_CampaignName. Lay out the email as normal. For information about using Merge Tags, review this [documentation](https://mailchimp.com/help/getting-started-with-merge-tags/).
  - Send a test email to yourself first to confirm email is correct and the links work properly. Then, make any changes and send a test to the designated approvers.
  - Once fully approved, review the audience (and update if necessary), sender, subject line, email and schedule to send.
+
+## Sales nominated flows in Marketo
+{: #sales-nominated .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+In some cases, when invitations need to be more specific for an event, the Sales Nominated flows are used to allow sales to nominate who will receive the invite.
+
+Note: if someone is nominated, but is unmailable (due to unsubscribe, invalid email, or hard bounce), they will not receive the invitation.
+
+### Activating the sales nominated flow in Marketo
+{: #sales-nominated-activation}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+Sales Nominated automation smart lists are applied to Marketo program templates where sales nominated flows are relevant.
+
+**Review the Email**:
+
+Send sameple to the DRI for the program (i.e. workshop owner) who is responsible for testing and QAing the email. The email can be found under the `Assets` folder in the program. For some programs, the Marketo My Tokens are included in the Sales Nominated invite to make the email setup more efficient.
+
+**Review the smartlist and schedule recurrence of email:**
+* Smart List (filter):
+    - Member of Program: (current program, registered status)
+    - Not Was Sent Email: (one of previous emails for this event) in last 7 days
+    - Subscription Filters (fitlers here are dependent on program type)
+* Flow
+    - Send email: sales nominated email in the program
+* Schedule
+    - Choose `Schedule Recurrence`
+    - Schedule: Daily
+    - First Run: next relevant day to send (i.e. next business day available). Choose time of day relevant for timezone of event.
+    - Repeat Every: Weekday (M-F)
+    - End On: Day of the event
+
+
