@@ -54,7 +54,7 @@ description: This page is about working with sales.
       * The name of the person who will be in touch.
       * Tell the customer to let us know if they haven't heard back within 2
         business days.
-      * Inform the customer that the ticket will auto-close after 7 days without
+      * Inform the customer that the ticket will auto-close after 27 days without
         a response from them.
       * Set the ticket status to `Pending`.
 
