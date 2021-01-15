@@ -94,7 +94,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 - [Gitlab Connect Toulouse, France](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/869), May 19
 
 ### Enablement Corner 🧠
-Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](/handbook/sales/training/SKO/#sales-kick-off-2020)
+Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](/handbook/sales/training/SKO/#sales-kickoff-2020)
 
 The new Sales Standard Operating Procedures (SOP) page outlines in detail the process for phase one of the sales cycle: Engaging & Educating the Customer. SOPs for other phases coming soon! [Check it out -->](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/)
 

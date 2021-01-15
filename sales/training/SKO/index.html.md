@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Sales Kick Off"
-description: "The GitLab Sales Kick Off sets the tone for the GitLab field organization for the new fiscal year"
+title: "Sales Kickoff"
+description: "The GitLab Sales Kickoff sets the tone for the GitLab field organization for the new fiscal year"
 ---
 
 ## On this page
@@ -10,16 +10,18 @@ description: "The GitLab Sales Kick Off sets the tone for the GitLab field organ
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# SKO Overview
+# Sales Kickoff (SKO) Overview
 This event sets the tone for the GitLab field organization for the new fiscal year with a focus on the following goals:
 1.  **Motivate**: Be energized about GitLab’s vision & strategy and the incredible opportunities ahead (for each and every GitLab team member, the company, our customers & partners)
 1.  **Celebrate**: Recognize and enjoy the successes of the prior fiscal year
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
-# Sales Kick Off 2021
+# Sales Kickoff 2021
 SKO 2021 is scheduled to take place virtually during the week of Feb 8-11, 2021. Our theme is Peak Performance. Check out our [SKO 2021 Theme Reveal Video](https://vimeo.com/487653102) for a preview of the brand design. 
 
-## High-level SKO 2021 Agenda 
+More details coming soon!
+
+## High-level Sales Kickoff 2021 Agenda 
 Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-11, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
 
 ### AMER/EMEA Time Zone
@@ -47,10 +49,10 @@ We will  validate all registrations on the back end, and any unapproved registra
 - GitLab Team Member Attendees - GitLab Internal Team Members (Sales, Customer Success, Channel, Alliances, SDR and supporting teams) 
 - Channel Partner Ticket - External channel partners joining GitLab Sales Kickoff
 
-## SKO 2021 FAQ 
+## Sales Kickoff 2021 FAQ 
 **Q: What are the dates and location?**
 
-A: Sales Kick Off (SKO) will take place virtually from Feb 8-11, 2021. 
+A: Sales Kickoff (SKO) will take place virtually from Feb 8-11, 2021. 
 
 **Q: Why are we having a virtual event versus an in-person SKO?**
 
@@ -118,8 +120,8 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 
 ----
 
-# Sales Kick Off 2020
-In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kick Off. This page includes slide decks, videos, and pictures from the event.
+# Sales Kickoff 2020
+In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kickoff. This page includes slide decks, videos, and pictures from the event.
 
 ## SKO 2020 Theme
 **Level Up** - It works across nationalities / languages and has lots of ways we can tie it into the content. All about leveling up the business.
@@ -134,7 +136,7 @@ In February 2020, the entire sales organization and their supporting teams gathe
 | CRO Staff Level Up Panel Discussion | no slides | [video](https://youtu.be/EYlC9uP3LoE) (GitLab internal) |
 | Leveling Up with Partners at GitLab | [slides](https://drive.google.com/open?id=12j219pElrox1hUyMpiOwSSrTV6S6biLurahKuLjvH1Y) (GitLab internal) | [video](https://youtu.be/jMUzgPIfFXg) (GitLab internal) |
 | Keys to Winning panel discussion | [slides](https://drive.google.com/open?id=1V1lDVIJyX1mMin2Hm7AaExps0WAgczi6vAB6UWFuR8c) (GitLab internal) | [video](https://youtu.be/ervvabavL2o) (GitLab internal) |
-| Sales Kick Off Awards Ceremony | [slides](https://drive.google.com/open?id=1deR4D2GplTGan1E2ENZbhZ0rt4YiUzZEJGX7RLj83yY) (GitLab internal) | [video](https://drive.google.com/open?id=1_lbLGvYhhB6ynyaWngeuE6nkDUcUXv1A) (GitLab internal) |
+| Sales Kickoff Awards Ceremony | [slides](https://drive.google.com/open?id=1deR4D2GplTGan1E2ENZbhZ0rt4YiUzZEJGX7RLj83yY) (GitLab internal) | [video](https://drive.google.com/open?id=1_lbLGvYhhB6ynyaWngeuE6nkDUcUXv1A) (GitLab internal) |
 
 
 ## SKO 2020 Day 2 Sessions
@@ -161,12 +163,12 @@ In February 2020, the entire sales organization and their supporting teams gathe
 
 ## SKO 2020 Wrap Up
 * [SKO Wrap Up presentation](https://docs.google.com/presentation/d/1MwJRWCGl-U2qic_h3xHQxGDCUf1s0R23aKEIrXqcXW0/edit?usp=sharing) (public)
-* [GitLab FY21 Sales Kick Off Wrap Up and Survey Results](https://youtu.be/_q9M9_nwNy4) video (public) 
+* [GitLab FY21 Sales Kickoff Wrap Up and Survey Results](https://youtu.be/_q9M9_nwNy4) video (public) 
 
 ## GitLab Infomercial
 * [Public version on YouTube](https://youtu.be/gzYTZhJlHoI) featuring David Astor
 * [Long version](https://drive.google.com/open?id=1yhG_JLh4rpayRvJYkYE4EJYMcNZkrUXd) (GitLab internal)
 
 ## SKO 2020 Pictures
-* [Sales Kick Off photo album](https://photos.app.goo.gl/hcvEyzH3wDdccrQw7)
+* [Sales Kickoff photo album](https://photos.app.goo.gl/hcvEyzH3wDdccrQw7)
 * [LinkedIn headshots](https://drive.google.com/open?id=1_Laql3qZBj9hp6CXrHCs7ovrCQOGR1gx) 
