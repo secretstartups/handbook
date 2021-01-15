@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jan 14 | [Red Hat Partner Session](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/89) | Vick Kelkar |
 | Jan 21 | *No sessions during last 2 weeks of the quarter*
 | Jan 28 | *No sessions during last 2 weeks of the quarter*
                                                                                                                                                             
@@ -32,6 +31,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-01-14 | **[The GitLab / Red Hat Partnership](https://youtu.be/dfjuUQp5Y90)** | Private |
 | 2021-01-07 | **[Q4 FY21 Competitive Update](https://youtu.be/vTfAZIUtris)** | Private |
 | 2020-12-10 | **[Deal Registration Program and Working with Partners](https://youtu.be/8XyM4Z-0XLg)**  | Private |
 | 2020-12-03 | **[Deal qualification: Best practices in figuring out if you truly have a deal](https://youtu.be/S2MpIS18noM)** | Public|
