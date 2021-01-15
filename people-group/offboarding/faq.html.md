@@ -20,6 +20,13 @@ It will be created on your last day, the People Experience Associate assigned to
 
 Your access will be deactivated on your last day, when the offboarding issue is created. 
 
+##### Can I provide my own update in the Team Member Updates Slack Channel?
+
+Yes! If you would like to provide GitLab Team Members (via #team-member-updates) an update prior to your 
+departure and one that is separate from the manager-provided update, you are welcomed to do so. These types 
+of messages can be helpful to express gratitude towards teams and individuals that have made your 
+experience at GitLab positive.
+
 ##### Do I need to wipe my laptop?
 
 A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. 
