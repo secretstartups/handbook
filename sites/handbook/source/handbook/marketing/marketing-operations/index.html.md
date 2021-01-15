@@ -302,7 +302,7 @@ Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.
 
-Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Campaign Managers. To request an email of any kind, please see the [instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture/#ad-hoc-one-time-emails---requesting-an-email) in the revenue marketing section of the handbook.
+Email creation and email nurture programs are managed by the Campaign Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture/) in the demand generation section of the handbook.
 
 ### Email Communication Policy
 
@@ -334,7 +334,7 @@ These are transactional emails, almost always to our user base, that provide ver
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific focused list. In some cases, these will be sent via [Mailchimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends).
 
 **Newsletter**
-Sent bi-monthly (every 2 weeks). Content Team is responsible for creating the content for each Newsletter. Users can [subscribe to the newsletter](/company/contact/) through the blog, contact us page, and CE download page.
+Sent bi-monthly (every 2 weeks), the newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurutre/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
 **Security Alerts**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
