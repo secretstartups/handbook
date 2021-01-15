@@ -68,7 +68,7 @@ twitter_creator: "@gitlab"
 
 ##### Camera Desk Mount 
 
-- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB9901#)
+- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB9901)
 
 ##### Adapter for Using Camera With Mac
 
