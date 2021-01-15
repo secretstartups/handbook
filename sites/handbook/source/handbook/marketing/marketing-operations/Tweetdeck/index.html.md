@@ -21,7 +21,7 @@ For Tweetdeck access, team members will need their own personal Twitter accounts
 Please include the following details:
 
 - the link to your personal twitter profile
-- a screenshot showing 2FA is activated
+- a screenshot showing 2FA is activated (the screenshot should include a portion of your screen that shows your Twitter handle)
 - the GitLab twitter handle you will help to manage
 - justification on why you need access
 
