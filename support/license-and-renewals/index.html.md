@@ -80,7 +80,11 @@ tagged in a Chatter message (see the [working with Sales workflow](/handbook/sup
 When creating an individual/bulk access request, use the following information:
 
 * System name:
-  > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
+  * If you are a US citizen:
+    > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab, 
+    > with US public sector record visibility
+  * If you are not a US citizen:
+    > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
 * Justification for this access:
   > Support Engineers need their own Salesforce accounts to better collaborate
   > with Sales team members as they work on customer licensing issues. For more
