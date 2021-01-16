@@ -57,9 +57,10 @@ I also participate in the following [TMRGs](https://about.gitlab.com/company/cul
   - Women+
   - Minorities in Tech (MIT)
 
-- Slack (GitLab): artychan
-  - [Support Driven](https://supportdriven.slack.com/): artychan
-  - [Write the Docs](https://www.writethedocs.org/slack/): arty-chan
+- Slack: arty-chan
+  - GitLab (internal)
+  - [Support Driven](https://supportdriven.slack.com/)
+  - [Write the Docs](https://www.writethedocs.org/slack/)
 - GitLab.com: [cynthia](http://gitlab.com/cynthia)
 - Twitter: [TheRealArty](https://twitter.com/TheRealArty)
 - LinkedIn: [Cynthia Ng](https://www.linkedin.com/in/cynthiasng)
