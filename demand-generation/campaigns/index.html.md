@@ -28,16 +28,14 @@ twitter_creator: '@gitlab'
 
 To be determined
 
-### Q3 OKRs
+### OKRs
 {: #okrs}
 
 **OKRs = Objective + Key Result**
 
-- **Objective:** Meet/Exceed outbound Marketing Qualified Leads ([MQL]) (/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria) generation targets
+- **Objective:** TBD
 - **Key Results:**
     - TBD
-
-[See Epic >](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1309)
 
 ### FY21-22 First Principles
 {: #first-principles}
@@ -183,10 +181,11 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 {: #request-issue-templates}
 
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+- [request-confirm-target-list](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list)
 - [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup)
 - [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation)
+- [request-email-newsletter](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter)
 - [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
-- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter)
 - [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests*
 - [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
 - [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
@@ -194,6 +193,7 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 - [request-pathfactory-upload-bulk](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
 - [request-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
 - [request-resource-page-addition](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
+- [request-sales-nominated](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-sales-nominated)
 - [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date)
 - [request-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-webcast-dryrun-sched)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
@@ -210,11 +210,16 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
+- [*campaign-manager-general](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=*campaign-manager-general)
+  - to be used by Campaign Managers for simpler project management for their own initiated issues
+  - puts straight in WIP status with pre-set for milestone, due date, and assignment
 - [campaigns-brief](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-brief)
 - [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
+- [campaigns-pf-buyer-journey](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pf-buyer-journey)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
+- [campaigns-sdr-enablement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-sdr-enablement)
 - [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
 - [campaigns-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched)
 - [campaigns-webcast-prep](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep)
