@@ -101,13 +101,22 @@ Self Hosted Ultimate trial nurture communication are sent via Marketo and Outrea
 {: #gtm-motion-nurtures}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741) - contains streams for awareness, consideration, and decision/purchase stages.
-   - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - contains streams for awareness, consideration, and decision/purchase stages. All email content and linked assets in this program is in French.
-- [DevSecOps Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/901) - contains streams for awareness, consideration, and decision/purchase stages.
-- [GitOps Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2769) - contains streams for awareness, consideration, and decision/purchase stages.
-- [Version Control & Collaboration Use Case](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2435) - contains streams for awareness and consideration
-- [AWS Partner Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624) - contains streams for awareness, consideration, and decision/purchase stages.
-- [Jenkins Take Out](https://gitlab.com/groups/gitlab-com/marketing/-/epics/282): The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution. This track is targeted towards director, tools owner, and chief/prinicipal architects in the functions of applications, development, QA, and DevOps.
+The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet.
+
+- [CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5001A1), sends on Tuesdays)
+    - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5239A1), sends on Thursdays)
+    - [German CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5299A1), sends on Thursdays)
+    - [Spanish CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4863A1), sends on Tuesdays)
+    - [Portuguese CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5038A1), sends on Thursdays)
+- [DevSecOps Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/901) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4864A1), sends on Tuesdays)
+- [GitOps Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2769) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5545A1), sends on Thursdays)
+- [Version Control & Collaboration Use Case](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2435) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5465A1), sends on Thursdays)
+- [AWS Partner Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4204A1), sends on Wednesdays)
+- [Jenkins Take Out](https://gitlab.com/groups/gitlab-com/marketing/-/epics/282) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6880A1), sends on Thursdays)
+    - The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution. This track is targeted towards director, tools owner, and chief/prinicipal architects in the functions of applications, development, QA, and DevOps.
+- [SMB Mixed Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7116A1), sends on Thursdays)
+
+Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to accelerate INQ > MQL conversion. [Issue for Reference >](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/670)
 
 ### Requesting to add leads to a nurture program
 {: #add-to-nurture-request}
