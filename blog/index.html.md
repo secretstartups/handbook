@@ -584,10 +584,10 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `open source` – stories from or about our community, users, or the wider open source community
 - `culture` – posts about remote work, working together, or GitLab culture
 - `insights` – industry, data, newsjacking, developer survey, etc.
-- `news` – company or product announcements, news, or events
-- `security` - security-related posts
+- `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
+- `security` – security-related posts
 - `unfiltered` – posts on [GitLab Unfiltered](/handbook/marketing/blog/unfiltered/)
-- `releases` - release posts, security and patch releases, operational product updates or announcements of changes affecting users. If you need to communicate something important to users (i.e. not a tutorial, feature post, technical deep dive, etc.), please use the `releases` category, as some users subscribe to this category for important updates and may not visit the rest of the blog. Posts in the `releases` category need to be in the `sites/marketing/source/releases/posts` directory, not `sites/marketing/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/marketing/source/releases/posts` directory, not `sites/marketing/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 We're working on improving category pages and tagging, but for now you can find posts under the same category by navigating to
 `https://about.gitlab.com/blog/categories/category-name/`. Dashes will be automatically added
