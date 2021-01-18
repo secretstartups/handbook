@@ -62,11 +62,11 @@ Utilizing built-in monitoring instrumentation and [a scalable HA architecture](h
 
 See the [Playbooks Page](/handbook/customer-success/playbooks)
 
-## Success Roadmap Engagements
+## Customer Terrain Mapping Engagements
 
-Success Roadmap discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges. They are also mapped to professional services that can help with some of the elements identified in the engagement.
+Terrain Mapping discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges. They are also mapped to professional services that can help with some of the elements identified in the engagement.
 
-See the [Success Roadmaps Page](/handbook/customer-success/success-roadmaps)
+See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-terrain-mapping)
 
 ## Customer Success Groups
 
