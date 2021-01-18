@@ -56,9 +56,11 @@ The following people are permanent members of the Secure Sub-Department:
 <%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Static Analysis') %>
 
 ### [Dynamic Analysis](dynamic-analysis)
+
 <%=  direct_team(role_regexp: /Engineer(.*)Secure:Dynamic Analysis/, manager_slug: 'sethberger') %>
 
 ### [Fuzz Testing](fuzz-testing)
+
 <%=  direct_team(role_regexp: /Engineer(.*)Secure:Fuzz Testing/, manager_slug: 'sethberger') %>
 
 ### [Frontend Team](fe-secure)
@@ -108,6 +110,8 @@ DAST is relying on [OWASP Zed Attack Proxy Project](https://gitlab.com/gitlab-or
 Because a large portion of the code shipped to production is actually coming from third-party libraries, it's important to monitor them as well.
 Dependency Scanning is relying mostly on the Gemnasium engine.
 
+##### Fuzz Testing
+Coverage-guided fuzzing and API fuzzing are used to automatically input data into applications or web apis that has the potential to cause crashes or bugs. Coverage-guided fuzzing relies on open-sourced [language-specific fuzzers](https://gitlab.com/gitlab-org/security-products/analyzers/fuzzers). API Fuzzing is based on a [proprietary GitLab engine](https://gitlab.com/gitlab-org/security-products/analyzers/api-fuzzing-src). 
 
 ##### License Compliance
 
