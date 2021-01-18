@@ -134,6 +134,5 @@ Some functions don't fit as cleanly into the Support Stable Counterparts model. 
 | Sales      | Sales               | TBD                 | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
 | Sales      | Customer Success    | Kristen Lawrence    | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
 | Sales      | Community Relations | David Planella      | Tom Atkins          | Greg Myers                 | weekly team meeting |
-| Meltano    | Meltano             | Danielle Morrill    | Jason Colyer        | TBD                        | N/A |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
