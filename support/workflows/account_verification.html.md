@@ -135,7 +135,7 @@ The end result of a successful request will be a new or existing user in the nam
 
 ### Account Ownership Change Request for Paid Groups
 
-Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized represenative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first. 
+Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first. 
 
 If a request is received, verify:
 
