@@ -34,3 +34,21 @@ On this page, we have outlined how we make decisions at GitLab.
 > 
 > 
 > - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
+
+## E-Group Conversation on Making Decisions
+
+GitLab E-Group and the Learning and Development team discussed strategies on making decisions as part of the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). 
+
+Topics covered include: 
+1. Living our [Transparency value](/handbook/values/#hierarchy) when making decisions
+2. How to improve our ability to [Iterate](/handbook/values/#iteration)
+3. Applying the GitLab [values hierarchy](/handbook/values/#hierarchy) in making decisions 
+4. How the [DRI](/handbook/people-group/directly-responsible-individuals/) enables decisions making
+5. When to use consensus when gathering information and when to use hierarchy when making decisions
+6. Importance of making team members [feel safe](/handbook/leadership/emotional-intelligence/psychological-safety/) when making decisions
+7. Why team members making the most mistakes are likely to be the highest performers
+8. Making decisions in the face of uncertainty  
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-by6ohMIi_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
