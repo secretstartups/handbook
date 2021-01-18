@@ -61,7 +61,7 @@ verify this before we can provision an agent. The process is as follows:
 
 ### Deprovisioning Agents
 
-This will follow the exact same process as the main zendesk instance. For more
+This will follow the exact same process as the Global Support instance. For more
 information, see [Deprovisioning Agents](zendesk.html#deprovisioning-agents).
 
 ## Organizations

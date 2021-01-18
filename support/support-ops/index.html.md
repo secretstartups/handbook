@@ -44,7 +44,7 @@ product.
 
 The core responsibilities of the Support Ops team are:
 
-* Zendesk (main and us federal instance)
+* Zendesk (Global and US Federal instance)
   * [Shared Organizations](responsibilities.html#shared-organizations-in-zendesk)
   * [Salesforce - Zendesk sync](responsibilities.html#salesforce-zendesk-sync)
   * [SFDC<>US Federal Zendesk sync](responsibilities.html#sfdcus-federal-zendesk-sync)
@@ -113,6 +113,6 @@ According to Lee Matos:
 >
 > We ran into problems with org sync. Solved a bunch then some more.
 >
-> We recreated sfdc sync for the [main instance](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#account---organization-sync-from-salesforce) and [US Federal instance](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync) and are still just syncing orgs.
+> We recreated sfdc sync for the [Global Support instance](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#account---organization-sync-from-salesforce) and [US Federal instance](https://about.gitlab.com/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync) and are still just syncing orgs.
 >
 > There is a push (rightfully so) to lock it down and improve our wall/first time unknown user flow. If someone can get that over the line I think that GitLab support engineering leadership has no good reason to keep it “open access” at the moment and we support changing it. (I'm speaking out of turn — I’m stating this as fact but it’s my opinion.)

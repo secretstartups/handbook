@@ -55,7 +55,7 @@ If you need a manager's help with a ticket, please keep in mind that only US Cit
 Instance, which means that some of our managers cannot help you with tickets. If you are a US Citizen and your manager
 isn't, please feel free to reach out to a different manager.
 
-The volume of tickets in our US Federal Instance is way lower than our main instance, so we have set up a trigger that
+The volume of tickets in our US Federal Instance is way lower than our Global Support instance, so we have set up a trigger that
 sends a Slack message to `#feed_zd-federal` whenever a new ticket is created, so that the instance doesn't have to be
 monitored by our engineers all the time. The Slack message doesn't contain any customer identifying information. It just
 informs our team that a new ticket has been created and gives the name of the Technical Account Manager of the organization
