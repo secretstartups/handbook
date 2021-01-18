@@ -18,6 +18,7 @@ This document does not cover servers that are not integral to the public facing 
 
 - [Application Architecture documentation](https://docs.gitlab.com/ee/development/architecture.html)
 - [GitLab.com Settings](/gitlab-com/settings/)
+- [GitLab.com Rate Limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#gitlabcom-specific-rate-limits) 
 - [Monitoring of GitLab.com](/handbook/engineering/monitoring/)
 - [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
 - [Performance of the Application](/handbook/engineering/performance/)
