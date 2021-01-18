@@ -441,7 +441,7 @@ After Week 1
   - Check that the new team member is progressing through the onboarding issue. Check in with the team member to ensure they are not stuck on any task.
 
 
-## Total Rewards Analyst Onboarding Tasks
+### Total Rewards Analyst Onboarding Tasks
 
 1. Audit the BambooHR Entry. Download a copy of the contract from the Documents Tab. Verify the information (start date, title, stock, etc) matches the entries in BambooHR as outlined in [Adding a New Team Member to BambooHR](/handbook/people-group/general-onboarding/onboarding-processes/#bamboohr-profile-data). Add US team members to the appropriate Benefit Group.
 1. If all the information is correct, mark the new hire as complete on the "Payroll Changes Report" in BambooHR.
@@ -476,31 +476,42 @@ In the event that a former team member is rehired with the company, they will st
 
 ## Onboarding Process for Interns
 
-1. **I9s**: Interns (paid) will follow the same I9 rule as a US team member.
- - If a student is in the US on a student visa, additional documentation are [required](https://www.uscis.gov/i-9-central/acceptable-documents/additional-documentation-requirements).
+Internships are utilized when we are sponsoring a specific program for students to earn credit to their school/university. Although the interns will not be official team members, onboarding is still required for security and compliance reasons. Once an intern is marked as hired in Greenhouse, the [automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) in place will sync the intern to BambooHR and the People Experience team will be notified via Slack alerts channel. 
+
+### Creating the Onboarding Issue
+
+We would follow the same onboarding issue creation [process](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/#creation) when creating the issue for the Interns. The template has been edited to allow for additional tasks to be added for the interns. 
+
+#### I-9 Process
+
+The standard I-9 [process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#procedure) will be implemented between BambooHR and LawLogix for **paid** interns. 
+
+- If an intern is in the US on a student visa, additional documentation is [required](https://www.uscis.gov/i-9-central/acceptable-documents/additional-documentation-requirements).
    - Passport
    - I94
    - I20 - this must be completed during the hiring process
      - In Section 2 of Form I-9, the designated agent should enter the foreign passport information in the first area and the I-94 information in the second area in the List A column. Enter the information from the Form I-20, which includes the Student and Exchange Visitor Information System (SEVIS) number and expiration date (i.e., the Form I-20 CPT employment authorization end date (Must match section 1 date), not the program end date) in the third area in the List A column.
+   - In Section 2 of Form I-9, the designated agent should enter the foreign passport information in the first area and the I-94 information in the second area in the List A column. Enter the information from the Form I-20, which includes the Student and Exchange Visitor Information System (SEVIS) number and expiration date (i.e., the Form I-20 CPT employment authorization end date (Must match section 1 date), not the program end date) in the third area in the List A column.
+   - **Unpaid interns are not required to complete an I-9.** 
+- If an intern is hired on for a full time position and there is a break in employment a re-verification (Section 3) will need to be completed.
+- Once the internship has been completed, terminate the intern in the LawLogix system.
+- **If an intern is hired on for a full time position and there is a break in employment a re-verification (Section 3) will need to be completed.**
 
-      * Unpaid interns are not required to complete an I9.
+#### BambooHR Profile
 
-2. Once the Internship has been completed, terminate the intern in the LawLogix system.
+The BambooHR Profile will follow all of the same rules as a normal onboarding with these exceptions:
 
-3. If an intern is hired on for a full time position and there is a break in employment a re-verification (Section 3) will need to be completed.
-
-1. **BambooHR Profile**
-The BambooHR Profile will follow all of the same rules as a normal onboarding with these exceptions.
 - Part-Time
-- Compensation Table : Overtime- `Non-Exempt`
-- Currency Conversion : `Blank`
-- Employment Status : Only add `Active Date`
+- Compensation Table: Overtime - `Non-Exempt`
+- Currency Conversion: `Blank`
+- Employment Status: Only add `Active Date`
+- Interns do not have a probation period - ensure to delete any country specific probation period information from BambooHR
 
-1. **Onboarding Issues**
-- Intern: [Engineering Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
-- Three weeks prior to interns starting, the issue will need to updated and compared to the general onboarding template to ensure all links are accurate and tasks are up to date.
-- The issue will be created with the same pops command in the slack as the general onboarding issue.
-- Interns do not have probation periods - you will need to delete any country specific probation period information from the issue manually.
+### Offboarding Interns
+
+If the intern is not offered full time employment with GitLab, the same [offboarding process](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/#creation-1) will need to take place to ensure that access is deactivated and the intern is removed from all systems. 
+
+**Recruiting or the CES team will notify the People Experience team via Slack when an intern is not offered full time employment with GitLab so that the offboarding can be scheduled at the date of the end of the intership agreement.**
 
 ## Onboarding Process for Interns converting to Hired Team Members
 
@@ -522,12 +533,13 @@ In some instances, the interns that have been onboarded may be hired on a full t
 
 ### Recruitment
 
-- Discuss any changes with the People Business Partner / Manager
-- Notify the Candidate Experience Specialist team to create and send contracts to the interns
+- Discuss any changes with the People Business Partner / Manager.
+- Notify the Candidate Experience Specialist team to create and send contracts to the interns.
 
 ### Candidate Experience Specialist
 
 - Assist with creating the respective contracts for the interns that are offered full time employment with GitLab.
+- Reconfirm with the People Experience team that the intern is transitioning to full time team member in the private Slack channel.
 
 ### Total Rewards
 
@@ -535,9 +547,9 @@ As the interns already have entries in BambooHR, an update will be needed with t
 
 - Update role to Individual Contributor.
 - Employment status update from termination status to active.
-- Locality is important to decide salary - need to be mindful of where the intern is located and where their final destination will be
+- Locality is important to decide salary - need to be mindful of where the intern is located and where their final destination will be.
 - Need to check on benefits when converted.
-- Check that all employee statuses are correct (employment, pay, hire vs start date)
+- Check that all employee statuses are correct (employment, pay, hire vs start date).
 
 ### Payroll
 
