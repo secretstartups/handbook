@@ -80,6 +80,9 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
   - Team members who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
   - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
 
+* Vacation Leave
+  - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+
 People Ops will consult with HRSavvy to ensure that the statute is met.
 
 ### Applying for Leave in the Netherlands
