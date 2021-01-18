@@ -63,6 +63,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 1. Using the [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
 
    - For almost all cases, the originating email should be the same as the one listed on the account.
+   - Users with an existing paid plan are permitted to provide challenge responses which include private groups or projects that are not associated with a paid plan.
 
 1. Use the macro **"GitLab.com::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
 
