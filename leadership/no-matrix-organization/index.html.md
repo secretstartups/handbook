@@ -30,3 +30,11 @@ On this page, we will give an overview of how GitLab operates as a no matrix org
 1. Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a [working group](/company/team/structure/working-groups/).
 1. Functional companies are easier when you focus on one product. Apple focuses on the iPhone and can have a [unitary/functional/integrated organizational form](https://stratechery.com/2016/apples-organizational-crossroads/). The advantage is that you can make one strong integrated product. We can also maintain a functional organization as long as we keep offering new functionality as features of GitLab instead of different products. The fact that we're in touch with the market because we use our own product helps as well.
 1. Having functional managers means that they are rarely spending 100% of their time managing. They always get their hands dirty. Apart from giving them relevant experience, it also focuses them on the output function more than the process. Hopefully both the focus and not having a lot of time for process reduces the amount of politics.
+
+## E-Group Conversation on No-Matrix Organization 
+
+Who better to learn how GitLab enables a functional organization structure than our leadership. As part of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), the L&D team facilitated a discussion with executives during a [E-Group offsite](/handbook/ceo/offsite/), to discuss no-matrix organization and GitLab organization design. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LfiuT1AScjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
