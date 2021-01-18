@@ -98,7 +98,7 @@ SA's will be brought back into a customer account in the following situations
 
 1. Development of expansion plans with the SAL and TAM leading to tier upgrades
 1. A POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide tier upgrade not for renewal purposes
-1. SAs can assist TAMs in existing teams in certain scenarios pending approval from leadership.
+1. SAs may assist TAMs with an existing customer team on an _exception_ basis.  SA leadership approval is required.
     1. ROI analysis for existing teams
     1. RFP for existing teams
     1. Enablement purposes if specifically requested by the TAM team
