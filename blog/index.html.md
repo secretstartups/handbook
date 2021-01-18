@@ -531,9 +531,11 @@ Please include the `guest: true` field in the frontmatter as well.
 
 #### Cover image
 
-This is optional. If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the [default image](#default-cover-image) will appear on the post's tile on the blog homepage and as the thumbnail when the post is shared on social media. Please see the [Social Marketing handbook](/handbook/marketing/corporate-marketing/social-marketing/admin/#adding-frontmatter-to-gitlab-owned-pages-for-proper-social-sharing) if you would like to use a specific image for the social media thumbnail.
+There are a few options you can choose from: pick an image from a [library of original images](#library-images), [choose a stock image](#stock-photography) to upload yourself, [request a custom cover image](#original-images) from Design, or [publish without a cover image](#no-image). 
 
-If you would like to use an image of your choice for the blog post cover, please read on for how to choose an image and [see the instructions on sizing, formatting, and storing images](#images-and-illustration).
+##### Library images 
+
+We have some original illustrations for our blog categories and most popular topics which you are welcome to choose from. You can view these in [https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/blogimages/library](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/library). In the `image_title:` field in the frontmatter, please enter your chosen image's file path using the format `/images/blogimages/library/engineering.png`.
 
 ##### Stock photography
 
@@ -542,7 +544,9 @@ resource for public domain images.
 
 Please [add a reference](#image-attribution) to the cover image source, owner, and license at the end of the blog post, even if it doesn't require attribution.
 
-##### Inclusive photos
+Please [see the instructions on sizing, formatting, and storing images](#images-and-illustration).
+
+###### Inclusive photos
 
 We try to keep images on the blog neutral in terms of gender, ethnicity, etc. This generally means avoiding using stock images of people. It is also better to avoid using images of people (for example, GitLab team members at an event) for the cover photo because the blog post title and description overlay the image, which can look too busy.
 
@@ -554,9 +558,9 @@ If you would like an original design for your blog post image, please [open a de
 
 If the blog post is about an integration, the DRI from Partner Marketing should [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates) for a custom cover image as far in advance as possible.
 
-##### Default cover image
+##### No image
 
-This is the image that appears on the blog homepage or as the thumbnail on social media for posts that do not have a custom cover image specified.
+If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the default image (see below) will appear on the post's tile on the blog homepage and as the thumbnail when the post is shared on social media.
 
 If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
 
