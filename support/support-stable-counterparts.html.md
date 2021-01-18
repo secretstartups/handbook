@@ -128,7 +128,7 @@ Some functions don't fit as cleanly into the Support Stable Counterparts model. 
 | Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
 | Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
 | Finance    | Budget              | Chase Wright        | Tom Cooney          | N/A                        | 1x Qtr on budget + once per month |
-| Finance    | Accounts            | Cristine Tomago     | TDB                 | N/A                        | N/A |
+| Finance    | Accounts            | Cristine Tomago     | TBD                 | N/A                        | N/A |
 | PeopleOps  | Recruiting          | Cyndi Walsh         | Tom Cooney          | N/A                        | weekly |
 | PeopleOps  | After-hire care     | Jessica Mitchell    | Tom Cooney          | N/A                        | every 2 weeks |
 | Sales      | Sales               | TBD                 | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
