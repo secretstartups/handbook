@@ -111,7 +111,7 @@ The merge request author of the change that broke master is the resolution DRI. 
    * Revert the merge request which caused the broken master. If a revert is performed,
      create an issue to reinstate the merge request and  assign it to the author
      of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
-   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To facilitate review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
+   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
 1. If the broken `master` affects any auto-deploy, add the relevant `~"Pick into auto-deploy"` label.
