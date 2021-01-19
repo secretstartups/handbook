@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Reviewing merge requests"
+description: "Merge requests are an important process where we peer review incoming changes to ensure code and content meets our standards and does not break any existing functionality."
 ---
 
 ## On this page

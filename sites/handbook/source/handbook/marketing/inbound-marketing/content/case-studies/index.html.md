@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Customer case studies"
+description: "The goal of the customer case studies program is to share and market the success of our customers."
 ---
 
 ## On this page

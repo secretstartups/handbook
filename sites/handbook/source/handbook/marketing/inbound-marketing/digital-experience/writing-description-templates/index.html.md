@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "How to write description templates"
+description: "The purpose of this page is to document best practices related to writing description templates for issues and merge requests."
 ---
 
 ## On this page

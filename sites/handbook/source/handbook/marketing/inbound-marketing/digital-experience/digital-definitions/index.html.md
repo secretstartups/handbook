@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Digital definitions"
+description: "The purpose of this page is to present definitions for technical jargon and explanations around related technologies."
 ---
 
 ## On this page
