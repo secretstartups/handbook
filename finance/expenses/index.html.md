@@ -19,7 +19,7 @@ GitLab utitilizes Expensify as our team member expense reimbursement tool. All t
 
 ### Redacting Personal Information from Receipts
 
-As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any reciepts containing personal information should be rejected and sent back to be corrected. Personal information inclues:
+As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any receipts containing personal information should be rejected and sent back to be corrected. Personal information inclues:
 * Your shipping and billing address(es)
 * Your credit card information
 * Your full name
@@ -134,7 +134,7 @@ GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/conv
 	* Before scheduling any travel or time off to attend a conference a team member should review the request with their manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After  manager approval the team member can schedule travel and will be reimbursed for related expenses.
 	* We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page.
 	* We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
-1. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself. The company will pay for certified English lanaguage courses online or in person. There is also the #lang-en channel in Slack to help with any English language questions you might have.
+1. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself. The company will pay for certified English language courses online or in person. There is also the #lang-en channel in Slack to help with any English language questions you might have.
 
 ### Year-end Holiday Party Budget
 
@@ -214,7 +214,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 	* For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
 	* For US team members, the approved expense amount will be deposited into your account a few days after the report has been approved by Accounts Payable.
 	* For Australia, New Zealand, Belgium, Germany, and Netherlands, AP will process the approved report on Friday.  The payment will be deposited into your account no later than three business days the following week. 
-    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding a invitiation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment. 
+    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding a invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment. 
 
 	* For all team members being pay by Safeguard, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
 

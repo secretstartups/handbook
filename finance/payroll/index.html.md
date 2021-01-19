@@ -135,11 +135,11 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
    * Autopay cancellation
    * Payroll Summary
 1. Preview payroll:
-   * Total payroll reconcilation (input vs. output)
+   * Total payroll reconciliation (input vs. output)
    * There are two Payroll Specialists for US payroll
    * Payroll Specialist processing GitLab Inc will review payroll changes for GitLab Federal payroll and vice versa
    * Sr. Manager, Global Payroll and Payments will perform a final review and approve the payroll
-   * All validation and reconcilation reports must be sign by the preparer, reviewer, and approver
+   * All validation and reconciliation reports must be sign by the preparer, reviewer, and approver
 
 
 #### Reports after Accept payroll
@@ -224,7 +224,7 @@ If you have not received an invitation to create an account, visit the [register
 1.  Payroll will approve all expense reports by the 9th of each month
 1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
 1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
-1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to th 1st live payment.  Please enter the bank details on the 1st day of employment.
+1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to the 1st live payment.  Please enter the bank details on the 1st day of employment.
 1.  The required fields for bank details in BambooHR under Bank Information tab:
     * Bank Name
     * Beneficiary Name
@@ -234,7 +234,7 @@ If you have not received an invitation to create an account, visit the [register
     * SWIFT (as needed or available due to each country's banking requirements)
     * Account type
 1.  If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
-1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is prefered, and let Payroll know.
+1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is preferred, and let Payroll know.
 
 #### CXC Global
 

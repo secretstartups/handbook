@@ -85,7 +85,7 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 - The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Board Plan also assumes that the corporate bonus target will be fully achieved at stretch target.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
 
-- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
+- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitability goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
 
 ### Board Plan Diagram
 ![alt text](/handbook/finance/financial-planning-and-analysis/financial-workflow.png "Operating Model")
@@ -236,7 +236,7 @@ The variance analysis will compare department budgets with actual results and ex
 To be Updated
 
 #### Variance Analysis
-The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processs the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
+The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processes the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
 
 At GitLab, analysts begin the variance analysis process with trended data to understand if there is a recognizable pattern. This helps determine if the variance was caused by incremental change or driven by one particular event and helps identify the root path quickly.
 
@@ -593,7 +593,7 @@ GitLab maintains a financial model and communicates high level financials five y
 
 #### Integrated Financial Model
 
-GitLab's [integrated financial model](/handbook/finance/financial-planning-and-analysis/#gitlab-integrated-financial-model) is synonymous to its operating plan, but the integrated financial model is based soley on [business drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers). The integrated financial model dynamcially answers questions like “What are our limits in comparison to the total addressable market?” and provides "What-if" scenarios. The integrated financial model also helps set the long term profitablity goals. GitLab has established business drivers in each function of the business and continues to refine them to ensure its tracking accordingly. The integrated financial model can also be considered a top-down plan.
+GitLab's [integrated financial model](/handbook/finance/financial-planning-and-analysis/#gitlab-integrated-financial-model) is synonymous to its operating plan, but the integrated financial model is based soley on [business drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers). The integrated financial model dynamcially answers questions like “What are our limits in comparison to the total addressable market?” and provides "What-if" scenarios. The integrated financial model also helps set the long term profitability goals. GitLab has established business drivers in each function of the business and continues to refine them to ensure its tracking accordingly. The integrated financial model can also be considered a top-down plan.
 
 #### Forecasting Growth Using a Growth Persistence Model
 
@@ -658,7 +658,7 @@ Below is a table showing the structure of GitLab departments as they exist in Ba
 
 At GitLab, the lowest level of tracking reporting structure starts with departments. For reporting and accounting purposes, departments are assigned both a cost center and a division.  In certain cases, a department may span multiple cost centers based on GitLab's allocation methodology.
 
-The cost center, divison, and department reporting structure can be found in the Data Team repo located below. In efforts to keep a single source of truth for organizational and reporting purposes, the Data Team maintains any changes implemented by the FP&A team as a result of an organizational change.
+The cost center, division, and department reporting structure can be found in the Data Team repo located below. In efforts to keep a single source of truth for organizational and reporting purposes, the Data Team maintains any changes implemented by the FP&A team as a result of an organizational change.
 
 [Cost & Reporting Structure](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/data/cost_center_division_department_mapping.csv)
 
@@ -686,13 +686,13 @@ The grid highlighted as `Pre-Allocation P&Ls` in the diagram below highlights wh
 
 #### Allocation Methodology
 
-The grid highlighted as `Allocation Methodology` in the diagram below highlights the specifc processes that occur in order to achieve proper expense allocations to their respective Cost Centers.
+The grid highlighted as `Allocation Methodology` in the diagram below highlights the specific processes that occur in order to achieve proper expense allocations to their respective Cost Centers.
 
 ###### Step 1: Yellow Process
 
 The allocation methodology is applied to the G&A Company Allocation department. Items that are recorded to the G&A Company Allocation department are software expenses and one off expenses. The software expenses are for software used by the entire company (examples include gmail and slack). At times one off expenses are also recorded to the G&A Company Allocation department (examples include Contribute, payroll service fees, etc).
 
-While credit card processing fees are not allocated company wide, it is important to call out the distinction of applying credit card processing fees to Sales. GitLab does not consider credit card processing a cost to it's product or service. GitLab believes that its credit card processing fees are more appropriately classified as marketing and selling expense because these fees are related to the cash collection process for completing customer orders, which supports sales and marketing classification.
+While credit card processing fees are not allocated company wide, it is important to call out the distinction of applying credit card processing fees to Sales. GitLab does not consider credit card processing a cost to its product or service. GitLab believes that its credit card processing fees are more appropriately classified as marketing and selling expense because these fees are related to the cash collection process for completing customer orders, which supports sales and marketing classification.
 
 **Note:** One thing to note during the Yellow Process is the Infrastructure expenses are removed. Infrastructure is allocated during the next phase of the allocation cycle. Therefore no shared expenses will hit the Infrastructure P&L.
 
@@ -802,7 +802,7 @@ If you create and/or update to a model that materially impacts it, please make s
 
 ### On issues
 
-Issues the FP&A team works on have the `~"FP&A"` label.  This applies to both the Finance and Analytics Issue Trackers. This will ensure that expectations are set accordingly and the work gets delievered in a timely and professional way.
+Issues the FP&A team works on have the `~"FP&A"` label.  This applies to both the Finance and Analytics Issue Trackers. This will ensure that expectations are set accordingly and the work gets delivered in a timely and professional way.
 
 The Analytics part of the FP&A team focuses on delivering project based works and at times will assist with ad-hoc analysis.
 
@@ -841,8 +841,8 @@ The FP&A Team uses GitLab's Engineering methodology to hold the Retrospectives, 
     - Having a templated calendar invite helps save time. There will be multiple folks involved in the process, broken out by each function.
     - It also helps if the Rolling 4 Quarter Forecast models are up to date prior to meeting. This would include the current team, planned hires, and program spend so leaders have a clear guide during the meeting. It won't be perfect and will inevitablty change during or shortly after the meetings, but this is an efficient way to make the meetings productive.
     - Meeting with the function leads after the department leads help tie everything together. However, if possible, it can be beneficial to meet with the function leads before and after to ensure buy in and close any gaps.
-- When applicable, it is important to always include the function operation leads to the meetings so they can help faciliate any work or changes during or after the meetings.
+- When applicable, it is important to always include the function operation leads to the meetings so they can help facilitate any work or changes during or after the meetings.
 - Continously gather feedback from stakeholders on what can be done more efficient
 - Planning is a team sport. It requires effort and communication on all sides to make it work well. Build the relationships, be patient, and be humble as some folks have less experience with planning while others have a lot of experience.
 
-**Note: During the last quarter of the year, GitLab runs a 5 quarter forecast that aligns with it's annual planning efforts.**
+**Note: During the last quarter of the year, GitLab runs a 5 quarter forecast that aligns with its annual planning efforts.**
