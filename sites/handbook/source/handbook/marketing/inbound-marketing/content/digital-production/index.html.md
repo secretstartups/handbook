@@ -37,6 +37,8 @@ twitter_creator: "@gitlab"
 
 ## Related links and handbooks
 
+1. **[GitLab Equipment List](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/)**
+     1. [GitLab Equipment Setup and Operation](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/black-magic-pocket-cinema-camera/)
 1. [GitLab.tv Handbook](/handbook/marketing/inbound-marketing/content/digital-production/gitlab-tv/)
 
 ----
