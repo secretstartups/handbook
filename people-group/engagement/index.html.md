@@ -26,8 +26,7 @@ In an effort to ensure team member confidentiality is upheld, only managers with
 #### Survey Sections and Factors
 The GitLab Team Member Engagement Survey is comprised of eleven sections each of which is aligned to a specific area of focus otherwise known as a factor.
 
-The survey factors for FY19 through FY21 were as follows with each section including three to eight questions - the most recent survey was comprised of fifty-four questions in total building out the original forty-six to include insight gathering around COVID-19.  The format of the survey was predominantly Likert or Rating Scale with a handful of freetext questions or comments toward the end.
-
+The survey factors for FY19 through FY21 were as follows with each section including three to eight questions - the most recent survey was comprised of fifty-four questions in total building out the original forty-six to include insight gathering around COVID-19.  The format of the survey was predominantly Likert or Rating Scale with a handful of free text questions or comments toward the end. The favorable score is the percentage of participants who selected 'agree' and 'strongly agree'.
 1. Section 01: GitLab Overall
 1. Section 02: Company Confidence
 1. Section 03: Our Leaders
@@ -63,13 +62,14 @@ The GitLab Team Member Engagement Survey for 2020 (FY21) ran from 2020-11-16 to 
 Bar those who joined on or after 2020-11-01 the survey was extended to all GitLab Team members for completion.  Participation for the FY21 survey closed out at 92% with 1,127 team members having taken part.
 
 #### FY21 Engagement Survey Program Timeline
-2020-11-16 Launch Date
-2020-12-16 Close Date
-2020-12-23 High Level Summary Release (Company-Wide)
-2021-01-08 E-Group Summary Release
-2021-01-12 Training Video and Handbook Update
-2021-01-15 to 2021-01-31 Functional Group Action Planning re Focus Areas
-2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module
+- 2020-11-16 Launch Date
+- 2020-12-16 Close Date
+- 2020-12-23 High Level Summary Release (Company-Wide)
+- 2021-01-08 E-Group Summary Release
+- 2021-01-12 Training Video and Handbook Update
+- 2021-01-15 to 2021-01-31 Functional Group Action Planning re Focus Areas
+- 2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module
+
 
 #### Benchmarking and Reporting
 The FY21 survey was benchmarked against New Tech 1,000+ 2020 in addition to being reviewed against the preceeding years results.  Preliminary reports were released on 2021-01-08 painting a broad overview afterwhich individual divisional reviews will take place in collaboration with the [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/) and respective Group Leaders.
@@ -97,7 +97,7 @@ The benchmarked favourability score for New Tech 1,000+ 2020 was 73% placing Git
 | I feel supported when I need to take time off or make use of flexible working arrangements | 93% |
 | I know how my work contributes to the goals of GitLab | 93% |
 
-GitLab was rated between five and thirteen percent higher than the industry benchmark i.e. New Tech +1,000 2020 across all three questions detailed above.
+GitLab was rated between 5-13% percent higher than the industry benchmark i.e. New Tech +1,000 2020 across all three questions detailed above.
 
 #### Bottom Three Scores
 
@@ -114,7 +114,7 @@ GitLab was rated between five and thirteen percent higher than the industry benc
 | The Learning & Development programs provided by GitLab help me grow my career | 47% |
 | I have seen positive changes since the previous engagement survey | 39% |
 
-GitLab scored five percent below the industry benchmark i.e. New Tech +1,000 2020 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
+GitLab scored 5% below the industry benchmark i.e. New Tech +1,000 2020 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
 #### 2021 E-Group Focus Areas
 The GitLab E-Group will be reviewing and discussing the outcome of the 2020 GitLab Team Member Engagement Survey in early January 2021 afterwhich plans for the year ahead will be documented.
@@ -155,7 +155,7 @@ A benchmarked favourability score for New Tech Size >500 2019 was not available 
 | GitLab is in a position to really succeed over the next three years | 94% |
 | I am proud to work for GitLab | 94% |
 
-GitLab was rated between eleven and seventeen percent higher than the industry benchmark i.e. New Tech Size >500 2019 across all three questions detailed above.
+GitLab was rated between 11-17% higher than the industry benchmark i.e. New Tech Size >500 2019 across all three questions detailed above.
 
 #### Bottom Three Scores
 
@@ -172,7 +172,7 @@ GitLab was rated between eleven and seventeen percent higher than the industry b
 | I have been provided an opportunity to see and discuss prior engagement survey results | 46% |
 | I have seen positive changes since the previous engagement survey | 29% |
 
-GitLab scored fifteen percent below the industry benchmark i.e. New Tech Size >500 2019 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
+GitLab scored 15% below the industry benchmark i.e. New Tech Size >500 2019 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
 #### 2019 E-Group Focus Areas
 - Taking action from areas guided by the GitLab Team Member Engagement Survey Results.
@@ -210,7 +210,7 @@ The benchmarked favourability score for 2018 New Tech Size - Large Companies (50
 | I know how my work contributes to the goals of GitLab | 94% |
 | GitLab is really in a position to succeed over the next three years | 93% |
 
-GitLab was rated between four and fifteen percent higher than the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) across all three questions detailed above.
+GitLab was rated between 4-14% percent higher than the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) across all three questions detailed above.
 
 ### Bottom Three Scores
 
@@ -227,7 +227,7 @@ GitLab was rated between four and fifteen percent higher than the industry bench
 | My manager or someone else has communicated clear actions based on recent team member survey results | 33% |
 | I have seen positive changes taking place based on recent employee survey results | 32% |
 
-GitLab scored twelve percent below the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
+GitLab scored 12% below the industry benchmark i.e. 2018 New Tech Size - Large Companies (500+) for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
 #### 2018 E-Group Focus Areas
 - Taking action from areas guided by the GitLab Team Member Engagement Survey Results.
