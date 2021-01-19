@@ -366,15 +366,15 @@ Chair: Principal Accounting Officer (PAO)
 
 ## Optional Plans Available at Team Member Expense
 
-### Discovery Benefits
+### Discovery Health Savings Accounts and Flexible Spending Accounts
 
-If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
 
 If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year.
 
 FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
 
-FSAs (and Dependent Cars FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
+FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
 
 #### Flexible Spending Account (FSA) Plans
 
