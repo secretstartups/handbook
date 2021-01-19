@@ -45,7 +45,7 @@ Our team is responsible for content strategy, content development, content opera
 
 1. Make sure there is an associated issue for the event. Link the issue in the event description.
 1. Check "all day event" unless there is a specific time the piece should publish. This is rare and usually only if a blog post is tied to a time-sensitive PR announcement.
-1. Homepage hero content is a multi-day/week long event. Make sure it is listed on the calendar for the entirity of it's promotional period.
+1. Homepage hero content is a multi-day/week long event. Make sure it is listed on the calendar for the entirety of it's promotional period.
 1. Name your event using the following nomenclature: <emoji, title of content, campaign>. Example: `📝 5 Reasons to Use GitLab, Just Commit`
 
 **Legend**
@@ -150,7 +150,7 @@ For Q3 and Q4 the content team will:
 
 ### [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/) 
 
-- Launch GitLab.tv with designated channels, inlcuding events, commuunity, product, and all-remote
+- Launch GitLab.tv with designated channels, including events, commuunity, product, and all-remote
 - Launch a GitLab branded podcast
 - Support AV-related needs and promos for corporate events
 - Launch GitLab web series curating content from the Unfiltered channel 
@@ -204,7 +204,7 @@ We use the [mktg-status:: labels](/handbook/marketing/#boards-and-labels) to wor
 - `External outlet`: Use to indicate an article will be published outside of GitLab web domain.
 - `Guest/Partner post`: Indicates a blog post that is being written and submitted from someone outside of GitLab.
 - `Remote work post`: Indicates a blog post on the topic of remote work.
-- `Sensitive`: Indicates a blog post with the potential to have wide-spread customer or community impact.
+- `Sensitive`: Indicates a blog post with the potential to have widespread customer or community impact.
 - `Unfiltered`: Indicates a blog post to be published on the GitLab unfiltered blog.
 
 ## Homepage Promotion Guidelines
