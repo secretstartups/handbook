@@ -94,20 +94,20 @@ Please fill out one of these Issue Templates to request support. Please note, if
 
 #### Website Issue Templates
 
-* [Requesting a new webpage](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-new-website-brief)  
+* [Requesting a new webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-new-website-brief)  
   * Use this template to request new webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
   * Do NOT use this for logged-in (In-App) gitlab.com or the Handbook
   * For more information on this process click [HERE](LINK)
   * [Image Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/): Please follow these guidelines when providing logos or other images for the website
 <br />
 
-* [Requesting an update to an existing webpage](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-update-webpage-brief)  
+* [Requesting an update to an existing webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-update-webpage-brief)  
   * Use this template to update existing webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
   * Do NOT use this for logged-in (In-App) gitlab.com or the Handbook
   * [Image Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/): Please follow these guidelines when providing logos or other images for the website
 <br />
 
-* [Requesting another type of website development project](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-other)
+* [Requesting another type of website development project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-other)
   * Use this template for small quick updates on about.gitlab.com and related properties such as landing pages for Marketo, Pathfactory, etc. For example, adding a logo or singular image to an existing page.
   * Use this template for items that do not fit into other workflows above. Examples of this include research projects, vendor evaluations, documentation requests, tooling or ops related issues, proof-of-concepts, exploratory conversations that aren't yet actionable, etc. 
   * Do NOT use this for logged-in (In-App) gitlab.com or the Handbook
@@ -115,7 +115,7 @@ Please fill out one of these Issue Templates to request support. Please note, if
   * [Image Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/): Please follow these guidelines when providing logos or other images for the website
 <br />
 
-* [Requesting homepage promotion](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion
+* [Requesting homepage promotion](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion
    )   
    * Use this template to request to be put on the content calendar for homepage promotion
    * Note: this is a request and must be approved 
@@ -127,62 +127,62 @@ Please fill out one of these Issue Templates to request support. Please note, if
    * Please supply all information if possible. The questions might not seem relevant but if we can't reproduce the bug then we can't fix it.
   <br />
 
-* [Request an A/B Test](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=ab-test) 
+* [Request an A/B Test](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=ab-test) 
    * Use this template to request an A/B test on the website
    * Note: There are many requests for tests and often the strategy behind pages is rapidly evolving. Your request will be evaluated and logged in the Page Testing Spreadsheet. A/B testing spreadsheets are located in the Shared Growth Marketing Drive.
    * Process for A/B Tests (LINK COMING SOON)
 <br />
 
 #### Brand and Design Issue Templates
-  * [Requesting a new design](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-design-general)
+  * [Requesting a new design](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general)
     * Use this template to request a new design of a single asset
     * Do NOT use this template for complicated campaign design support
     * Do NOT use this template for brand reviews
-  * [Requesting Brand review](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-brand-review)
+  * [Requesting Brand review](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-brand-review)
     * Use this template to request a brand or design review 
     * Do NOT use this template for requesting new assets or designs
-  * [Requesting design concepting for integrated campaigns](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
+  * [Requesting design concepting for integrated campaigns](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
     * Use this template to request design concepting for an integrated campaign
     * You may also use this template for a single-group campaign, but the ROI but be sufficient to utilize the resources
-    * You must also complete a [Design Requirements Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=requirements-design-integrated-campaign) for final files to be delivered.
+    * You must also complete a [Design Requirements Issue](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign) for final files to be delivered.
     * Design concepting will be completed before the design requirements file is picked up. 
-  * [Design requirements](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=requirements-design-integrated-campaign)
+  * [Design requirements](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign)
     * Use this template for capturing all the design requirements for an integrated campaign
-    * Use this issue along with a [Design Concepting Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
+    * Use this issue along with a [Design Concepting Issue](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
 
 #### Inbound Marketing Issue Templates
-  * [Request a redirect](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=set-up-a-new-redirect)
-  * [Request a Hotjar heatmap](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=hotjar-heatmap-request)
-  * [Request keyword research](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=keyword-research-request)
-  * [Request on page optimization research](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/issues/new?issuable_template=on-page-optimization)
+  * [Request a redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=set-up-a-new-redirect)
+  * [Request a Hotjar heatmap](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=hotjar-heatmap-request)
+  * [Request keyword research](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=keyword-research-request)
+  * [Request on page optimization research](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=on-page-optimization)
   * Request A/B Test: see above in [Website Request Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#website-issue-templates) 
 
 #### Video Issue Templates
-  * [Requesting a new video](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/digital-production/-/issues/new?issuable_template=new-video-request)
+  * [Requesting a new video](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=new-video-request)
     * Use this template only for requesting new videos that haven't been produced yet
-    * If you are looking for edits to existing content that has been filmed, use the [video editing request](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)
+    * If you are looking for edits to existing content that has been filmed, use the [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)
     * Process documetation link placeholder 
-  * [Requesting a video edit](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)   
+  * [Requesting a video edit](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)   
     * Use this template for editing existing content that has been filmed 
     * DO NOT use this template for new videos
     * Process documetation link placeholder 
-  *  [Requesting a video upload](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request)
+  *  [Requesting a video upload](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request)
      * Process documetation link placeholder 
 
 
 # How we use GitLab 
 
 ## Boards
-Overarching Marketing Growth Boards
+Overarching Inbound Marketing Boards
 
-#### [Triage Board](https://gitlab.com/groups/gitlab-com/-/boards/1761578?&label_name[]=mktg-growth&label_name[]=mktg-status%3A%3Atriage) 
+#### [Triage Board](https://gitlab.com/groups/gitlab-com/-/boards/1761578?&label_name[]=mktg-inbound&label_name[]=mktg-status%3A%3Atriage) 
 
 *  **GOAL:** Weed out issues that superfluous or don’t contain extra information 
 *  **ACTIONS:** Move to either
    *  Move to either `mktg-status:WIP` which puts into the Sprint cycle or;
    *  [mktg-status: blocked] and comment why it is being blocked
 
-#### [Sprint Board](https://gitlab.com/groups/gitlab-com/-/boards/1761580?label_name[]=mktg-growth&label_name[]=mktg-status%3A%3Awip)
+#### [Sprint Board](https://gitlab.com/groups/gitlab-com/-/boards/1761580?label_name[]=mktg-inbound&label_name[]=mktg-status%3A%3Awip)
 *  **GOAL:** Assign issues to milestones to be worked on then based on due dates, weights, priorities, resources
 *  **ACTIONS:** 
    *  Move to a specific week taking into consideration the above 
@@ -193,10 +193,10 @@ Overarching Marketing Growth Boards
    *  Comment why it is backlogged
    *  Never backlog PR issues without prior discussion
 
-   > HANDOFF: This is where the handoff to Growth Marketing Teams takes place to run their processes
+   > HANDOFF: This is where the handoff to Inbound Marketing Teams takes place to run their processes
 
-#### [Growth Marketing Leads Overview](https://gitlab.com/groups/gitlab-com/-/boards/1787553?milestone_title=%23started&&label_name[]=mktg-growth&label_name[]=mktg-status%3A%3Awip)
-* **GOAL:** An overview of the work on each of the Growth Marketing Teams during the current Milestone Sprint
+#### [Inbound Marketing Leads Overview](https://gitlab.com/groups/gitlab-com/-/boards/1787553?milestone_title=%23started&&label_name[]=mktg-inbound&label_name[]=mktg-status%3A%3Awip)
+* **GOAL:** An overview of the work on each of the Inbound Marketing Teams during the current Milestone Sprint
 * **ACTIONS:**
   * Review and help prioritze
   
@@ -384,7 +384,7 @@ This is how we work with Issues and their scope
    *  Discuss priorities for the week, Danielle relays exec and PR info, we decide if any project, company or larger Mkrg priorities are bubbling up that would make us reconsider priorities 
    *  Groom issues into weeks using the Sprint Board 
 
-> HANDOFF: This is where the handoff to Growth Marketing Teams takes place to run their processes
+> HANDOFF: This is where the handoff to Inbound Marketing Teams takes place to run their processes
 
 *  Inbound Marketing Leads meets with their teams (anyway they want: meeting, slack, async, geek bot) and relays that information
 *  Teams: Assign (if not auto-assigned) Issues, Projects, Tasks and follow their process 
@@ -404,7 +404,7 @@ This is how we work with Issues and their scope
 
 # Video Playlists
 
-In an effort to make async communication and collaboration as effective as possible, below are relevant playlists created by the Growth Marketing teams. We welcome suggestions for additional playlists and videos that would help your team. Please request in our [slack channel](https://gitlab.com/gitlab-com/marketing/growth-marketing) 
+In an effort to make async communication and collaboration as effective as possible, below are relevant playlists created by the Inbound Marketing teams. We welcome suggestions for additional playlists and videos that would help your team. Please request in our [slack channel](https://gitlab.com/gitlab-com/marketing/inbound-marketing) 
 
 * [Weekly Inbound Marketing Recap and Demo](https://www.youtube.com/playlist?list=PL05JrBw4t0KppgWkSa3YgDgc_qUTKsBCs)
 * [SEO Update](https://www.youtube.com/playlist?list=PL05JrBw4t0KpoehEW7O8eA5Iy2FP_u6sW)
@@ -438,8 +438,8 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
         -  `mktg-inbound`, `mktg-status`
         - `design` and or `mktg-website`
     - Assign the issue to a milestone, as appropriate.
-    - Confirm the issue appears on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-growth&label_name[]=outsource). 
-    - Capture opportunities to improve vendor management in the [vendor management epic](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/248).
+    - Confirm the issue appears on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-inbound&label_name[]=outsource). 
+    - Capture opportunities to improve vendor management in the [vendor management epic](https://gitlab.com/gitlab-com/marketing/inbound-marketing/brand-and-digital/brand-and-digital/-/issues/248).
         
 
 #### Vendor buddy
@@ -447,7 +447,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
 - **Managing Vendor Work**
     - Ensure you and vendor are assigned to the issue.
     - Check-in regularly to ensure progress and clear blockers.
-    - Ensure projects to which you’re assigned are maintained on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-growth&label_name[]=outsource), just as you maintain your own projects.
+    - Ensure projects to which you’re assigned are maintained on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-inbound&label_name[]=outsource), just as you maintain your own projects.
     - Communicate with vendor in issues and or the vendor-contract slack channel, [#brand-contractors](https://gitlab.slack.com/archives/C011PDBLWLC), per GitLab’s async communication best practices. Also be aware GitLab’s async model may be new to contractors. Be open to synchronous meetings as vendors acclimate to async work.
     - Meet standard GitLab and Brand and Digital work practices, including open and inclusive design and **weekly status updates**.
     - Review vendor deliverables for quality assurance.
@@ -458,7 +458,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
 
 #### Managers
 
-- **Vendor Boards** - Ensure [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-growth&label_name[]=outsource) is maintained.
+- **Vendor Boards** - Ensure [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-inbound&label_name[]=outsource) is maintained.
 - **Vendor Issues** - Ensure the `vendor` label is being applied to issues we *might* outsource.
 - **Vendor ROI -** Ensure we are planning sprints to maximize vendor output while minimizing vendor overhead.
 - **Monthly Vendor Work Report** - Provide end of month reports on what each vendor completed, and any issues encountered that require stakeholder attention.
@@ -496,7 +496,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
     - Engage vendors in alignment with brand and business objectives.
     - Manage overall budget spend.
 - **Monthly vendor work report** 
-    - Add spend to Monthly Vendor Work Report and distribute to stakeholders for awareness. Stakeholders include Growth leadership, Finance, and Marketing team leads working with vendors.
+    - Add spend to Monthly Vendor Work Report and distribute to stakeholders for awareness. Stakeholders include Inbound leadership, Finance, and Marketing team leads working with vendors.
 
 ---
 Return to the main [Marketing Handbook](/handbook/marketing/).
