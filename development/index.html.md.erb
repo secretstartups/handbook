@@ -328,18 +328,62 @@ and quality.
 Refinement will happen on a weekly basis and involve a member of infrastructure,
 quality, product management, and development.
 
-### Rapid Action Issue
+### Rapid Action
 
-Rapid Action, as the name implies, is the process we use when a critical situation arises needing immediate attention from various stakeholders.  When the situation is identified as a potential Rapid Action the following guidance is recommended.
+Rapid Action is a process we follow when a critical situation arises needing immediate attention from various stakeholders.
 
-* Create an issue or epic labeled with `rapid action`
-* Identify the stakeholders involved and cc them on the issue/epic
-* Create a doc using [this](https://docs.google.com/document/d/1ZIJvWgo2W4Tw3mmXs_WDJK5Di-zfANtgYgiTZ5Afdyc/edit) template to track the progress of the rapid action
-on a daily basis
-* (Optional) create a slack room dedicated to this rapid action
-* In the document and tracking issue list the context, stakeholders and exit criteria
+#### What deserves Rapid Action
 
-It is recommended that daily progress is updated in the agenda.  Once the exit criteria has been met, remove the `rapid action` label,  close the rapid action issue and prepend the agenda document with "Closed" or "Deprecated" to indicate its status.
+Any problem with both high severity and broad impact is a potential Rapid Action. For example, a performance problem that causes latency to spike by 500%, or a security problem that risks exposing customer data. 
+
+#### What if it only affects one customer?
+If the problem only affects one customer, consider a [customer escalation process](https://about.gitlab.com/handbook/customer-success/tam/escalations/#definitions-of-severity-levels) as the alternative.
+
+#### Rapid Action Process
+
+When a situation is identified as a potential Rapid Action the following actions are recommended:
+
+1. Create an epic describing the problem and the resolution critera as briefly and precisely as possible.
+   1. Apply the `rapid action` label.
+   1. If the problem is related to security, make the epic confidential.
+   1. If possible, list existing issues that are in the scope of this Rapid Action.
+1. Identify the stakeholders involved and @-mention them on the epic. It is a good idea to over-communicate this problem, both for raising awareness and gathering ideas.
+1. Decide on a Directly Reponsible Individual (DRI) and assign the epic to them. This decision should be made as soon as possible, so leadership and responsibility is clear.  However, because this decision must be made quickly, it should not be considered a final decision.
+1. Clear the schedules of the DRI and anyone else who is expected to be involved in resolving the problem. Rapid Actions are both important and urgent, so they should displace less important and urgent work. For example, if an engineer is asked to help resolve a Rapid Action, the deliverables currently assigned to them should be re-assigned or re-scheduled. Rapid Actions are stressful and time-consuming, so quickly shifting other work is a way to soften the impact.
+
+Optionally, to facilitate communication, you might:
+
+1. Share a Zoom link dedicated to an immediate discussion.
+1. Create a Slack room dedicated to ongoing discussion.
+
+#### Responsibilities of the DRI
+
+The DRI is responsible for coordinating the effort to resolve the problem, from start to finish.  In particular, the DRI is responsible for:
+
+- Maintaining the problem and resolution criteria in the epic description.
+- Tasking sub-DRIs as necessary. These sub-DRIs might be responsible for specific parts of the problem (part A/B/C), specific perspectives (Engineering/Infrastructure/Product), specific timezones (AMER/EUR/APAC), etc.
+- Ensuring that progress is being made toward mitigation and resolution. For urgent problems, this may include coordinating problem-solving efforts across timezones so we can have GitLab team members working on the problem 24 hours a day.
+- Keeping stakeholders updated.
+- Detailing recommended follow-up actions once the problem has been solved (enhancements, refactoring, etc).
+
+Please note that customers can be stakeholders.  The DRI can seek assistance with customer communication in Slack at `#support_escalations`.
+
+The DRI should post a formal update on the epic every day, following this format:
+
+**YYYY-MM-DD**
+**What's been deployed (what, effect):** What changes have been deployed to production and how are they impacting the problem?
+**What's happening next (what, when, effect):** What work is currently in progress (include links to MRs), when do you expect these to be deployed, what do you expect to be the effect(s)?
+**Blockers (optional):** Are there any specific obstacles preventing us from making progress? If so, what is needed to overcome them?
+**Other notes (optional):** Anything else that is relevant.
+
+#### Resolution
+
+Once the resolution criteria have been satisfied:
+
+1. Close the epic.
+1. Consider making the epic public. If the problem is related to security, ask `@gitlab-com/gl-security/secops` to determine when the epic can be made public.
+1. Communicate the resolution to stakeholders.
+1. Consider awarding [discretionary bonuses](../../incentives/#sts=Discretionary%20Bonuses) to the people who stepped in to help resolve the problem.
 
 ### Email alias and roll-up
 1. Available email alias (a.k.a. Google group):
