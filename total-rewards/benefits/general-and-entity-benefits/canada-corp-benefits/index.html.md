@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Canada Corp"
+title: "Gitlab Canada Corp"
+description: "GitLab Canada Corp benefits specific to Canada based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).

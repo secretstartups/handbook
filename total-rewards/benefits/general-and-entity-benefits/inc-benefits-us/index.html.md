@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Inc (US) Benefits"
+description: "GitLab Inc (US) benefits specific to US based team members."
 ---
 
 ## On this page

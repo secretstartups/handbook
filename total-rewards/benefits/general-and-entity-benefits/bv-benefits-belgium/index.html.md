@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab BV (Belgium) Benefits"
+description: "GitLab BV (Belgium) benefits specific to Belgium based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).

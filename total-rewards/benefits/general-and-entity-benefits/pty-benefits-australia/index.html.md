@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "PTY LTD Benefits"
+description: "GitLab PTY Australia benefits specific to Australia based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).

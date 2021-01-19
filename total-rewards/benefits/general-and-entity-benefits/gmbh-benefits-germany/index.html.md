@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab GmbH (Germany) benefits"
+description: "GitLab GmbH (Germany) benefits specific to Germany based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
