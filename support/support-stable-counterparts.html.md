@@ -39,7 +39,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - If you are in non-overlapping time zones, do a handshake via Slack.
 - Establish a regular cadence for communication with them.
     - Using a living Google document helps, especially for maintaining a regular async communication model. You can make use of [this template](https://docs.google.com/document/d/1m9t-sxPzwie2D40cXTwpjnQ2VxYJb3GoEB5ig38Nkmw/edit?usp=sharing) for it.
-- In the introductory chat, 
+- In the initial sync/async introduction,
     - Get yourself added to their team sync - you can read the agenda doc if you're unable to join the sync call!
     - Join their Slack channel if not done already.
 - If the group you chose already has an SSC, schedule a coffee chat with them to learn more!
