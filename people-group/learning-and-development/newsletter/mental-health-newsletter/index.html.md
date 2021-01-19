@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Learning & Development Newsletter
+title: Mental Health Newsletter
 ---
 
 ## On this page
