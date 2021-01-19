@@ -47,10 +47,10 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 ### Be alert and engaged on what's happening with the group
 
 - Subscribe to the pertinent trackers and labels to be aware of new issues in that group.
-- Be especially aware of severity::1/severity::2 issues in the product area, including workarounds.
+- Be especially aware of severity::1 and severity::2 issues in the product area, including workarounds.
 - Be aware of the tickets raised by customers pertinent to their category, surfacing and advocating for them.
 - Be aware of major changes related to the group in upcoming releases.
-- Be aware of the priorities/challenges of the product group.
+- Be aware of the priorities and challenges of the product group.
 - Strive to become a subject matter expert in the use of the features they cover.
 
 ### Enable Support with periodic communication relevant to the group
