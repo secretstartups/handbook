@@ -25,7 +25,7 @@ title: "SOX Internal Controls"
 
 
 ### IT General Controls
-[Guidance on IT General Controls](/handbook/finance/sox-internal-controls/it-general-controls/)
+[Guidance on IT General Controls](/handbook/engineering/security/security-assurance/security-compliance/ITGC/)
 
 
 ### SOX Certifications 
