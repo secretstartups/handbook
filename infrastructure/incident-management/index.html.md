@@ -179,7 +179,7 @@ The chatops bot will give you this information if you DM it with `/chatops run o
 
 The current EOC can be contacted via the `@sre-oncall` handle in Slack, but please only use this handle in the following scenarios.
 
-1. You need assistance in halting the depolyment pipeline. note: this can also be accomplished by [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.
+1. You need assistance in halting the deployment pipeline. note: this can also be accomplished by [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and labeling it as `~severity::2`.
 1. You are conducting a production change via our [Change Management](/handbook/engineering/infrastructure/change-management/) process and as a required step need to seek the approval of the EOC.
 1. For all other concerns please see the [Getting Assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance) section.
 
@@ -222,7 +222,7 @@ Data is based on the graphs from the [Key Service Metrics Dashboard](https://das
 
 Outage and Degraded Performance incidents occur when:
 
-1. `Degraded` as any sustained 5 minute time period where a service is below its documented Apdex SLO or above it's documented error ratio SLO.
+1. `Degraded` as any sustained 5 minute time period where a service is below its documented Apdex SLO or above its documented error ratio SLO.
 1. `Outage` (Status = Disruption) as a 5 minute sustained error rate above the Outage line on the error ratio graph
 
 ![degraded and outage](/images/handbook/engineering/infrastructure/incident-management/SLI-degraded-outage.png)
@@ -334,7 +334,7 @@ The EOC and the IMOC, at the time of the incident, are the default assignees for
 
 ### Labeling
 
-The following labels are used to track the incident lifecyle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
+The following labels are used to track the incident lifecycle from active incident to completed incident review. [Label Source](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=Incident%3A%3A)
 
 #### Workflow Labeling
 
