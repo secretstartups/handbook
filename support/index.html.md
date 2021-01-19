@@ -353,6 +353,7 @@ You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
 ### Support Stable Counterparts
+
 As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 How do we align Support Team people to the product?
