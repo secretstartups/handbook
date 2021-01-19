@@ -48,6 +48,51 @@ Rails application, the component can be released at any time. Until the componen
 are integrated with the existing application, iteration should not be blocked by [our
 standard release cycle and process](https://about.gitlab.comproduct-process)
 
+## Security fixes of Go
+
+The `Dockerfile` of the Secure analyzers implemented in Go must reference a `MAJOR` release of Go, and not a `MINOR` revision.
+This ensures that the version of Go used to compile the analyzer includes all the security fixes available at a given time.
+For example, the multi-stage Dockerfile of an analyzer must use the `golang:1.15-alpine` image
+to build the analyzer CLI, but not `golang:1.15.4-alpine`.
+
+When a `MINOR` revision of Go is released, and when it includes security fixes,
+project maintainers must check whether the Secure analyzers need to be re-built.
+The version of Go used for the build should appear in the log of the `build` job corresponding to the release,
+and it can also be extracted from the Go binary using the [strings](https://en.wikipedia.org/wiki/Strings_(Unix)) command.
+
+If the latest image of the analyzer was built with the affected version of Go, then it needs to be rebuilt.
+To rebuild the image, maintainers can either:
+- trigger a new pipeline for the git tag that corresponds to the stable release
+- create a new git tag where the `BUILD` number is incremented
+
+Either way a new Docker image is built, and it's published with the same image tags: `MAJOR.MINOR.PATCH` and `MAJOR`.
+
+This workflow assumes full compatibility between `MINOR` revisions of the same `MAJOR` release of Go.
+If there's a compatibility issue, the project pipeline will fail when running the tests.
+In that case, it might be necessary to reference a `MINOR` revision of Go in the Dockerfile
+and document that exception until the compatibility issue has been resolved.
+
+Since it is NOT referenced in the `Dockerfile`, the `MINOR` revision of Go is NOT mentioned in the project changelog.
+
+#### Git tag to rebuild
+
+When creating a new git tag to rebuild the analyzer,
+the new tag has the same `MAJOR.MINOR.PATCH` version as before,
+but the `BUILD` number (as defined in [semver](https://semver.org/)) is incremented.
+
+For instance, if the latest release of the analyzer is `v1.2.3`,
+and if the corresponding Docker image was built using an affected version of Go,
+then maintainers create the git tag `v1.2.3+1` to rebuild the image.
+If the latest release is `v1.2.3+1`, then they create `v1.2.3+2`.
+
+The build number is automatically removed from the image tag.
+To illustrate, creating a git tag `v1.2.3+1` in the `gemnasium` project
+makes the pipeline rebuild the image, and push it as `gemnasium:1.2.3`.
+
+The git tag created to rebuild has a simple message that explains why the new build is needed.
+Example: `Rebuild with Go 1.15.6`.
+The tag has no release notes, and no release is created.
+
 ### Release Manager
 
 A [Release Manager](./release_managers.md) is assigned to each release and is responsible for:
