@@ -45,7 +45,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning](/handbook/values/#self-service-and-self-learning).  
 1. A team member in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open an MR proposing a change and assign it to their manager for review.
 1. When a scheduled meeting agenda is complete 10 minutes before the call is set to end, an attendee ends the call early.
-1. A people leader hires a new team member that demonstrates our CREDIT values.
+1. A people leader hires a new team member that demonstrates our [CREDIT values](/handbook/values/).
 
 
 ## Interim and Acting Leadership
