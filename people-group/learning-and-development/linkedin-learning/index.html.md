@@ -64,6 +64,17 @@ We have outlined recommended LinkedIn Learning paths for different roles at GitL
 - [Diversity: The best resources for achieving business goals](https://gitlab.edcast.com/insights/ECL-9ef8bd9d-f8b6-40d0-ae95-e0e8e315c97f)
 - [Managing experienced managers](https://gitlab.edcast.com/insights/ECL-ac19941f-f53b-4c27-8193-48ff7ceb8a41)
 
+### Professional Development 
+
+All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/learning/topics/continuing-education-ceu?u=2255073) on LinkedIn Learning. 
+
+- [Society for Human Resource Management (SHRM) professional development credits (PDCs)](https://www.linkedin.com/learning/topics/society-for-human-resource-management-shrm?u=2255073) 
+- [Project Management Institute (PMI)](https://www.linkedin.com/learning/topics/project-management-institute-pmi?u=2255073)
+- [HR Certification Institute (HRCI)](https://www.linkedin.com/learning/topics/hr-certification-institute-hrci?u=2255073) 
+- [Computing Technology Industry Association (CompTIA)](https://www.linkedin.com/learning/topics/computing-technology-industry-association-comptia?u=2255073) 
+- [International Institute of Business Analysis (IIBA)](https://www.linkedin.com/learning/topics/international-institute-of-business-analysis-iiba?u=2255073) 
+- [NASBA Continuing Professional Education (CPE)](https://www.linkedin.com/learning/topics/nasba-continuing-professional-education-cpe?u=2255073)
+
 ## How to access LinkedIn Learning
 
 All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
