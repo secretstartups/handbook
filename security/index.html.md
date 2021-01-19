@@ -423,7 +423,7 @@ in 1Password for this.
 passwords, please copy/move them to your **Primary** vault which you will have
 if you signed up for an [individual account](#1password-for-your-private-passwords) before
 joining the GitLab Team account.
-1. **Deprecated** When documenting the location of shared credentials in the handboook refer to the items with NAME_OF_SITE credentials in VAULT_NAME. For example:
+1. **Deprecated** When documenting the location of shared credentials in the handbook refer to the items with NAME_OF_SITE credentials in VAULT_NAME. For example:
    "for access please see the AOL credentials in the Luddite vault".
    * Deprecation note: This is for existing accounts only. New accounts should
      be created by [creating an issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=change_management_okta)
