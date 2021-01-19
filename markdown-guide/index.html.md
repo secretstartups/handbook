@@ -303,7 +303,7 @@ Note:
 
 ## Lists
 
-Both ordered and unordered lists are very straight-forward to produce. There are a few ways
+Both ordered and unordered lists are very straightforward to produce. There are a few ways
 to produce the same results, but let's stick with the following, again, to maintain
 some standards.
 
