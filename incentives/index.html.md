@@ -64,7 +64,7 @@ Discretionary bonuses are to celebrate team members that live by our values. To 
 *  Going above and beyond what is expected in regard to the team member's role description.
 *  Truly exceptional work.  Good and great is already expected in a team member's work and performance.
 *  Providing additional coverage or project load for other team members.
-*  Team member's work results in higher productivity or improved processes that create efficiences and results. This may also result in identifying cost saving initiatives.
+*  Team member's work results in higher productivity or improved processes that create efficiencies and results. This may also result in identifying cost saving initiatives.
 
 *Invalid bonus criteria*
 
@@ -220,7 +220,7 @@ We encourage and support [diversity](/handbook/values) and [frugality](/handbook
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for any [NQR](/handbook/sales/commissions/#quotas-overview) new hire. This is a temporary referral add-on campaign that will be available for candidates with a hire date of 2020-11-01 until 2020-02-01. Hire date is defined as the date that the candidate was set to hired. This will be confirmed to the referrer by the recruiter for the role. 
 
 The following is an *example* of a cumulative Referral Bonus:
-* Hire a referred Sales Developement Representative: $500
+* Hire a referred Sales Development Representative: $500
 * With a location factor of 0.6: + $1,000
 * Who self-identifies as Native American/Native: + $1,500
 * Cumulative referral bonus to the referring team member: **$3,000**
@@ -285,7 +285,7 @@ If a team member has been referred, the People Experience team will review team 
 #### Temporary Add-on Campaign additional tracking for payout
 
 1. Recruiting Manager will track all referrals set to hired in time period of Add-on campaign.
-2. Recruiting Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employement at GitLab.
+2. Recruiting Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
 3. Talent Rewards will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Visiting Grant
