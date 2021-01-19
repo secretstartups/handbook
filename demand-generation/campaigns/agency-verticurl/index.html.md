@@ -14,11 +14,21 @@ twitter_creator: '@gitlab'
 
 ## Verticurl Agency Overview
 {: #overview .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The Verticurl team will be working with GitLab to execute email marketing setup and other tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@jgragnola` will be PM for GitLab Campaigns issues (including Partner Marketing and Corporate Marketing), while the regional Field Marketing leaders will be responsible for passing issues on behalf of Field Marketing. `@ashwin.raj` will be responsible for assignment to team members within Verticurl.
 
+### Process documentation shortcuts for Verticurl
+{: #shortcuts .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* [Sales Nominated Invitations](/handbook/marketing/demand-generation/campaigns/emails-nurture/#sales-nominated)
+* [Add to Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#add-to-nurture-in-program)
+* [Workshop Landing Page and Marketo Setup](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up)
+
 ### Team Members
 {: #team}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 [View all team members with GitLab handles and email addresses here](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
 
@@ -32,6 +42,8 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Karthikeyan K. | Verticurl, FMM/ABM resource | @? | `karthikeyan.k@verticurl.com` |
 
 ## Project Management - Campaigns team
+{: #project-management-campaigns-team}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To assist with organizing prioritization and pipeline of issues for Verticurl, we utilize this [project planning doc](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=0). Issues will still be managed within GitLab with commentary taking place there.
 
@@ -39,6 +51,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Shortcut list views
 {: #list-views}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * [All Verticurl Issues](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Verticurl)
 * [Verticurl Issues in Triage](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Verticurl&label_name[]=mktg-status%3A%3Atriage)
@@ -48,6 +61,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Triage Steps
 {: #triage}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status ~mktg-status::triage.
    * At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
@@ -71,6 +85,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Responsibilities of email requesters
 {: #requester-responsibilities}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * Issue (email) requesters are responsible for submitting **all details**, including **final approved copy**, reviewed by all stakeholders, PRIOR to passing the issue to Verticurl.
 * Issue (email) requesters are responsible for **timely feedback and answers** to Verticurl.
@@ -78,6 +93,7 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Review Process
 {: #review-process}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Unless otherwise stated, only **ONE** of the people listed as "Reviewer/Approver" in the issue need to approve in order for the email to be set to send by Verticurl.
 
@@ -85,11 +101,13 @@ As stated in "responsibilities of email requesters" section above, the reviewer 
 
 ## Project Management - Field Marketing Team 
 {: #project-management-field-marketing-team}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 In an effort to avoid manually adding the issues we are working on with Verticurl, Field Marketing will be utilizing labels and boards to manage the work we are working on with Verticurl. Similar to how our campaigns team colleagues are working, all commentary back and forth between GitLab and Verticurl should be done via comments directly within the GitLab issues. 
 
 ### Shortcut list views 
 {: #list-views-fmm}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * [APAC](https://gitlab.com/gitlab-com/marketing/field-marketing/-/boards/2153431?label_name[]=APAC)
 * [AMER](https://gitlab.com/gitlab-com/marketing/field-marketing/-/boards/2153421?&label_name[]=AMER)
@@ -97,6 +115,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 
 ### Labels Field Marketing uses 
 {: #labels-field-marketing-uses}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **FMM-Verticurl::blocked** - label the regional FMM Manager adds when the issue does not have enough information for Verticurl to work on the issue or the asks are not complete. FMM is to address then re-add the FMM-Verticurl::triage label to flow back through the process. 
 * **FMM-Verticurl::triage** - label FMM adds when they are ready for the regional FMM Manager to review issue 
@@ -106,6 +125,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 
 ### Triage Steps
 {: #triage-steps-fmm}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status `FMM-Verticurl::triage`.
    * At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
