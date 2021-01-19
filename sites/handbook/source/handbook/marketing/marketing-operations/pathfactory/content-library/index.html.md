@@ -44,7 +44,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 
 1. Select the asset you just added to the library. A preview of the content will appear on the right-hand side of the content library. Scroll down the window pane under `source URL` and locate `Custom URL slug`.
 1. Update the custom URL slug to be descriptive of the content with no stop words (and, the, etc.).
-    1. **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared and break the asset consumption tracking via [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
+    1. **Please Note:** DO NOT change a custom URL slug that is part of a `[LIVE]` content track. You can see whether an asset is part of a live content track by clicking on it in the content library and scrolling to the bottom of the preview pane. This action can affect any links to this item that have been previously shared.
     1. If a URL slug needs to be modified, please open an issue in the marketing operations project. 
 1. We force `https://` to content tracks by default. As a result, all assets must use `https://` in the link to work in the content track properly. If you upload content that is _not secure_, it _will not_ show a lock icon next to the URL and it will not work in a secure content track. Please manually add `https://` if it is not already there.
 
@@ -120,6 +120,7 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Demo | A live-action video recording demonstrating how to do or use a technical product. | [GitLab Security & Compliance Capabilities Demo](https://www.youtube.com/watch?v=UgCHtr-6uG8) |
 | eBook | An eBook presents educational information that helps the reader gain a comprehensive understanding of a subject. eBooks are casual in tone and are most often an awareness-stage asset. | [Modernize your CI/CD](/resources/ebook-fuel-growth-cicd/) |
 | Infographic | A visual asset used to represent information or data. |  |
+| Landing page | | |
 | Presentation | Video recording or slides of a live talk. | [Multicloudcon Keynote: The Multicloud Maturity Model](https://www.youtube.com/watch?v=R1LWQPAXFEE) |
 | Pricing | A document that details pricing for GitLab products. | (GitLab pricing)[https://about.gitlab.com/pricing/] |
 | Product article |  |  |
@@ -241,3 +242,7 @@ Because you do not own this web page, your options are limited. You will be unab
 When you enable the `End Promoter`, add the destination URL of the blocked content. When a visitor reaches the end of the Content Track, they will be prompted with your call to action `End Promoter`. If the visitor clicks on this promoter, the destination URL (of the blocked content) will open in a new tab.
 
 More on iFrame blocking can be found [here](/handbook/marketing/marketing-operations/pathfactory/#about-iframes).
+
+## Content Expiration Policy
+
+Two years from the day it was uploaded. Please review any assets in the library older than two years and consider expiring from the content library. 

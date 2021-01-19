@@ -135,21 +135,23 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
-|* Online  - High|Workshop, <br> Self-Service Virtual Event |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Online  - Med| Webcast, <br> Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Online  - High|Workshop, <br> Self-Service Virtual Event, <br> Webcast |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Online  - Med|Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
 |* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
 |* Offline  - Med|Speaking Session,<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
 |* Offline  - Low|Field Event,<br> Vendor Arranged Meetings,<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
-|* Content - High|Gated Content, <br> Social Downloads| +15|	{{my.Content - High}}	|Trigger  |Everytime|
-|* Content - Med|(None Defined)|+10|	{{my.Content - Med}}	|Trigger  |Everytime|
-|* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime	
+|* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
+|* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
+|* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
 |* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	60+|{{my.Inbound - High}}|	Trigger|	1/day	|
-|* Inbound - Med|Inbound form, not above |	+40|{{my.Inbound - Med}}	|	Trigger	|1/day|
+|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
+|Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
+|Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
 |* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
@@ -158,7 +160,19 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
 |Email: Unsubscribed|Unsubscribed from Email|	-10	|{{my.Unsubscribed}}|	Trigger	|1/month
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
+
+
+##### Score Boosters 
+These are boosters to scores that occur when a special action takes place above the traditional action above.
+
+|**Action**|Description|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
+|:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
+|E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
+|Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|Everytime|
+|PathFactory Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
+|LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+
 
 #### Demographic Scoring
 
@@ -186,7 +200,6 @@ Marketo Marketing Activities are broken up into three sections: `Operational Pro
 Below is the folder structure to hold and categorize different operational programs and marketing programs.
 
 - Active Marketing Programs
-    - Account Based Marketing (ABM)
     - Conference
     - Direct Mail
     - Emails
@@ -229,13 +242,14 @@ Marketo segmentations are used similar to a smartlist, but they are permanent an
 These are the current segmentations that are alive and approved.
 - [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 - [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
+- [Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)
 
 ### Account Based Marketing List   
 
 ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. You can find these lists in the DMA folder in the [Marketo Database](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52943077A1).
 The **MktgOps** team is responsible for creating & maintaining these lists. 
 
-If a new ABM list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request).
+If a new ABM list is needed, please open an issue using the [Target list issue template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#request-confirm-target-list) and tag marketing ops.
 
 ### Geographic DMA List   
 
@@ -244,12 +258,7 @@ The Geographic DMA (direct marketing area) were built for the Field Marketing an
 If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
 
 #### Focused Email Lists
-The Field Marketing and Marketing Program teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. The Marketing Operations team will handle the creation of focused email lists in Marketo after they are requested by the Field Marketing and Program Managers via an issue in the Marketing Operations project. Procedures for these focused lists are as follows:
-
-* FMM provides MCM with focus cities, exclusions and inclusions. For ABM lists, the Account ID and email domain will be supplied
-* FMM or MCM creates a new issue for MOps from `DMA Request` template
-* MOps provides the draft list to the FMM and MCM for review and further exclusions
-* MOps creates a Smart List in Marketo and alerts via issue
+The Field Marketing and Marketing Campaigns teams use targeted email lists as a tool when pursuing specific regions, sectors or companies. Email list requests must be submitted using [this template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new#request-confirm-target-list). From there, the campaign managers or marketing ops will build or review the list
 
 #### SLA for Targeted Lists: 
 * List request is required 7 days prior to email deployment - FMM / MPM

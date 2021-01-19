@@ -101,7 +101,7 @@ You can [reply to issues via email](https://help.smartling.com/hc/en-us/articles
 
 Projects are organized by the integration type:
 
-1. [Documents](#documents) (.docx, .pdf files)
+1. [Documents](#documents) (.docx)
 1. [Marketo](#marketo) (snippets, forms, landing pages, emails, programs)
 1. Repo (GitLab repository files, design assets) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11423)
 1. GDN (CDN connection for webiste translation) - [coming soon](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/11630)
@@ -200,6 +200,10 @@ Smartling does not support Google sheets as a file type. If you are working with
 ### Directives
 
 File directives are used to define the location of specific data in a file. **CSV requires the use of directives with any upload to Smartling.** Other supported file types listed above do not necessary require directives, depending on how you want to import the translation. If you want to simply upload a separate file for each language, including the source, directives are not required (excluding CSV). Importing one file with multiple languages will require the addition of file directives to ensure that Smartling can read where the keys are located in the file, and where the content you are importing is located in the file. See the [help article on CSVs](https://help.smartling.com/hc/en-us/articles/360008000593) for more info on what directives to use in your file. 
+
+## IDML
+
+1. [Best Practices for Adobe InDesign Translation](https://help.smartling.com/hc/en-us/articles/115004320454-Best-Practices-for-Adobe-InDesign-Translation)
 
 ## Attachments
 

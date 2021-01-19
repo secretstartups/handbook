@@ -182,7 +182,6 @@ Before creating a new content track, decide what type of content track (target v
 1. **DO NOT SKIP THIS STEP!** Set the `custom URL slug` for the content track. [Follow the instructions](/handbook/marketing/marketing-operations/pathfactory/content-library/) for creating a custom URL slug for an asset.
    - **Important:** All content tracks should be set up with custom URL slugs to prevent any future changes to the track from breaking the link and thus the user experience.
    - If you change the custom URL slug after a PathFactory link has been implemeneted, those links have to be updated wherever they were used (ads, emails, website, etc.).
-   - [Video description of where this is criticl in Marketo setup](https://www.youtube.com/watch?v=VHgR33cNeJg)
 1. Ensure that the Search Engine Directive is set to `No Index, No Follow`.
 1. Set the appearance for the track. 
 1. Set the language for the track.
@@ -237,7 +236,7 @@ Before creating a new content track, decide what type of content track (target v
 
 Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
 
-**Please Note:** We have [listening campaigns](#listening-campaigns) in Marketo set up to capture consumption of content that would have been gated had PathFactory not been implemented. The listeners also incorporate PathFactory activity into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page and there are listening campaigns set up for assets in your track that would normally be gated.
+**Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
 - [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
 - [Form strategy FAQ](https://nook.pathfactory.com/nook/s/article/forms-strategy-faq)
@@ -406,7 +405,6 @@ Explore pages can act as replacements for traditional landing pages or simple mi
 1. Under `Page Settings`, ensure that the `Search Engine Directive` is set to `No Index, No Follow`.
 1. Choose your desired layout under `Layout Settings`.
 1. Choose your desired content settings under `Content Settings`.
-1. Ensure that the [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/) in your content track has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns).
 1. Be sure to test your explore page fully.
 
 ### Explore Page FAQs
@@ -471,71 +469,19 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 
 ## PathFactory Tracking
 
+### PathFactory Webhook
+
+Webhooks allow PathFactory to automatically connect with a third party system and send data every time someone visits or interacts with a PathFactory experience. There are 3 types of PathFactory webhooks (form capture, visitor session, visitor activity). 
+
+We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visitor session` webhook is triggered off of session data. A `visitor session` begins when a visitor arrives on a content track and ends when that visitor has stopped engaging with content for thirty minutes. This webhook is triggered when a visitor session ends. This means that the webhook will trigger and send data to Marketo thirty minutes after the visitor has finished engaging with content. The data sent though this webhook provides an overview of the level of engagement the visitor had with your content track and the content assets inside them during the session. 
+
+### Bizible
+
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
-
-## Listening Campaigns
-
-In Marketo, we have programs built to "listen" for PathFactory (PF) activity & content consumption allowing us to track behaviour without having to physically gate all the assets which disrupts the user experience.
-
-The PF<>Marketo listening programs are built to triggered based on the `slug` associated to each of asset. **Very Important: Do NOT to change the `slug` in PF without notifying Ops _prior_ to making the change**. Each listening campaign has a Salesforce (SFDC) campaign associated to it tracking consumption and applying Bizible touchpoints.
-
-The naming convention for each of the listeners is specific to the asset type & is used as a trigger to the appropriate scoring campaign _within Marketo_ at this time these listening campaigns have **no impact** on PathFactory engagement scores. The same naming convention is used for **both** Marketo & Salesforce campaigns.
-
-| **Asset Type** | **Naming Convention** |
-| ---------- | ----------------- |
-| Analyst report | PF - Analyst report - |
-| Assessment | PF - Assessment - |
-| Datasheet | PF - Datasheet - |
-| Demo | PF - Demo - |
-| eBook | PF - eBook - |
-| Research report | PF - Research report - |
-| Webcast | PF - Webcast - |
-| Whitepaper | PF - Whitepaper - |
-
-### Create a Listening Campaign
-
-This process is for new assets in PathFactory that **have not** already been distributed from a content track. 
-
-**Create Program in Marketo and sync to Salesforce**
-
-1. Navigate to the PathFactory Listening Template - [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1) (located under `Active Marketing Programs` > `Gated Content` > `Pathfactory Listening`)
-1. Right-click and clone the template (see picture below) - name it according to the naming convention (example: `PF - Webcast - [campaign_name]`. The campaign name should match the parent campaign for the gated asset for easy searchability.)
-1. Move program under the correct folder based on type and the quarter.
-1. When the Program Summary loads, next to "Salesforce Campaign Sync" click `not set`
-1. From the dropdown, select `Create New` (this will create the synced campaign in Salesforce)
-
-**Update Marketo Smart Campaign**
-
-1. Expand the Marketo program and select `PF - Listening (Triggered)`.
-1. In the `Smart List`, add the URL slug you created in the PathFactory content library for your asset within the brackets `[ ]`.
-1. In the `Smart List`, add the URL of your landing page to the "not filled out form" filter to make sure you don't create a second touchpoint (a duplicate of the form fill action) upon form fill of your asset.
-1. Navigate to the `Schedule` tab and click `Activate`.
-
-![image](/handbook/marketing/marketing-operations/pathfactory/clone-program.png)
-
-**Update the Newly Created Campaign in Salesforce**
-
-1. Navigate to the newly created campaign (same name as you created above in Marketo) - [shortcut to PF Listening Campaigns list](https://gitlab.my.salesforce.com/701?fcf=00B4M000004tY6O&rolodexIndex=-1&page=1)
-
-![image](/handbook/marketing/marketing-operations/pathfactory/sfdc-pf-campaign.png)
-
-1. Check that the `Active` checkbox is checked.
-1. Change the Parent Campaign to be the gated asset or on-demand webcast to create a 1:1 relationship.
-1. Under Bizible attribution, select `Include only "Responded" Campaign Members` next to `Enable Bizible Touchpoints`.
-1. Mark the Status as `In Progress`.
-1. Click `Save`.
-
-Assets needing a listening campaign should following the above naming conventions. 
-
-**Important: Please make sure all [gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#gating-criteria) in your content track is included in your form strategy and has a [listening campaign](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns). If you are using one of the gated content assets in your content track as the form fill behind a landing page, you need to set up an exclusion in the workflow ([example](https://app-ab13.marketo.com/#SC10049B2)).**
-
-### Salesforce Campaign Type
-
-For the PathFactory listening campaigns there is a corresponding Salesforce `Campaign Type` to be used. The `Campaign Member Status` simply tracks if the content was consumed. This Salesforce `Campaign Type` should be used for **nothing** else. For greater details, see the [campaigns and programs page](/handbook/marketing/marketing-operations/campaigns-and-programs).
 
 ## Custom PathFactory Fields
 
-There are custom PathFactory fields available in Salesforce and Marketo. They are first created in Salesforce and then synced/created in Marketo. 
+There are custom PathFactory fields available in Salesforce and Marketo. 
 
 | **Field Name** | **Purpose** |
 | ---------- | ------- |

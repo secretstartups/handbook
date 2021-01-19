@@ -200,7 +200,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### PathFactory Listener
 
-This campaign type is used to track consumption of specific PathFactory assets. Details related to types of assets being tracked can be found on the [Marketing Operations - PathFactory](/handbook/marketing/marketing-operations/pathfactory/#listening-campaigns) page.
+This campaign type is used to track consumption of specific PathFactory assets.
 
 **Bizible:** This is tracked as an _offline_ channel.
 

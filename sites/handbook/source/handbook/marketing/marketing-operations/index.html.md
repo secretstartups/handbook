@@ -26,6 +26,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Beth Peterson - Senior Marketing Operations Manager
 - Amy Waller - Senior Marketing Operations Manager
 - Sarah Daily - Senior Marketing Operations Manager
+- Robert Rosu - Marketing Operations Manager 
 - Jameson Burton - Marketing Operations Associate
 
 **Business Partners**
@@ -90,8 +91,6 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 **Note:** This format is the [Agile user story](https://www.agilealliance.org/glossary/user-story-template/) format and helps the issue-requester (you) and the MOps team by clearly stating **what** as well as **why** for each request and concern.
 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
-
-MktgOps uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/825719) and will capture any issue in any group/sub-group in the repo since we work with so many other teams. There is also a [`Marketing Operations` project](https://gitlab.com/gitlab-com/marketing/marketing-operations) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
 
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
@@ -170,7 +169,7 @@ A milestone cannot be closed nor marked complete until the milestone's accompany
 
 ### Handbook Updates
 
-When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective slack channel, you must add one of the following corresponding `labels` on the MR.
+When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective Slack channel, you must add one of the following corresponding `labels` on the MR.
 
 | Label you add | Slack channel the merged MR pushes to |
 | ------------- | ------------------------------------- |
@@ -178,6 +177,8 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `FMM-HB Update` | `fieldmarketing-FYI` |
 | `SDR-HB Update` | `hbupdate-sdr` |
 | `ABM-HB Update` | `hbupdate-abm` |
+
+**Please Note:** The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts. 
 
 ### Marketing Ops Calendar
 
@@ -243,6 +244,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Google Tag Manager
 - Hotjar
 - Keyhole
+- LaunchDarkly
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
@@ -315,17 +317,20 @@ The Mural below shows the opt-in and opt-out/unsubscribe workflows for all forms
 <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab5736.1594675938009-5f0cd2e2ffb2423070a97d96-46527d35-3c6d-4dc0-b290-83d58595374c.png?v=5788e460-d3d3-40d7-942d-0a76151f9569) no-repeat center center; background-size: cover;"> 
 <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);">
 </div> 
-<a href="https://app.mural.co/t/gitlab2474/m/gitlab5736/1594675938009/095286e912a2f8de19edd53e68a5e4e51d071db0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> 
+<a href="https://app.mural.co/t/gitlab2474/m/gitlab5736/1594675938009/095286e912a2f8de19edd53e68a5e4e51d071db0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Opt-in/Out Workflows" width="233" height="50"> </a> 
 </div> 
 </div>
 </div>
 
 At GitLab, we strive to communicate with people in a way that is beneficial to them. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
 
-Certain emails can bypass unsubscribe by being marked as `operational`. Operational emails need to be transactional and should not be marketing in nature. Examples include critical system alerts, auto-responder emails after an action is taken (ex. registration confirmation), event reminders with link to attend event, post event recording, and account balances.
-Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MPMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops and/or Legal.
+Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please folloow this decision tree for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email.
 
-In Marketo, we have communication limits set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. This does not include `operational` emails. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold.
+Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact Mops. **When in doubt, ask!**
+
+<div style="width: 600px;" class="embed-thumb"><div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Decision Tree Mural" width="233" height="50"> </a> </div> </div></div>
+
+`Operational Emails` do not have an effect on the communication limits in marketo. Those limits are set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`.
 
 ### Types of Email
 
