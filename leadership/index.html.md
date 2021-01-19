@@ -40,7 +40,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 
 ### Examples of actions from managers of one at GitLab
 
-1. When asked to attend a synchronous brainstorming call, a team member instead opens an issue and requests for their team's ideas asynchronously.
+1. When asked to attend a synchronous brainstorming call, a team member instead opens an issue and [requests for their team's ideas asynchronously](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async).
 1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor](/handbook/values/#be-a-mentor). 
 1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning](/handbook/values/#self-service-and-self-learning).  
 1. A team member in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open an MR proposing a change and assign it to their manager for review.
