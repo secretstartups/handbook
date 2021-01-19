@@ -155,7 +155,7 @@ In Milestone
 
 ### Milestones
 
-The MktgOps team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
+The MktgOps team works in two week sprints/iterations which are tracked as milestones at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
 The MktgOps team will only create a milestone one beyond the current iteration, so at any given time there will be the **current** milestone and **upcoming** milestone, any other issue that is not included will be added into future milestones &/or added as work is completed in the current milestone.
 
