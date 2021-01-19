@@ -138,17 +138,17 @@ Please fill out one of these Issue Templates to request support. Please note, if
     * Use this template to request a new design of a single asset
     * Do NOT use this template for complicated campaign design support
     * Do NOT use this template for brand reviews
-  * [Requesting Brand review](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-brand-review)
+  * [Requesting Brand review](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-brand-review)
     * Use this template to request a brand or design review 
     * Do NOT use this template for requesting new assets or designs
-  * [Requesting design concepting for integrated campaigns](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
+  * [Requesting design concepting for integrated campaigns](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
     * Use this template to request design concepting for an integrated campaign
     * You may also use this template for a single-group campaign, but the ROI but be sufficient to utilize the resources
-    * You must also complete a [Design Requirements Issue](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign) for final files to be delivered.
+    * You must also complete a [Design Requirements Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign) for final files to be delivered.
     * Design concepting will be completed before the design requirements file is picked up. 
-  * [Design requirements](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign)
+  * [Design requirements](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=requirements-design-integrated-campaign)
     * Use this template for capturing all the design requirements for an integrated campaign
-    * Use this issue along with a [Design Concepting Issue](https://gitlab.com/gitlab-com/marketing/corporate-marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
+    * Use this issue along with a [Design Concepting Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign)
 
 #### Inbound Marketing Issue Templates
   * [Request a redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=set-up-a-new-redirect)
