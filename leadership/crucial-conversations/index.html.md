@@ -81,6 +81,16 @@ There are many different influencing strategies and in this section we are going
     *  Example: A manager makes a decision with no or little input from team and informs team members of actions or consequences if they do not comply. 
     *  Develop: Use it sparingly and not as the first resort, leave no room for ambiguity and do not use as a way to surpress your team member or others.
 
+## What GitLab Managers Say about Crucial Conversations
+
+During the Manager Challenge Program, we asked GitLab Managers what they had to say about holding crucial conversations"
+
+1. "As noted in Crucial Conversations finding that shared goal and relying on the trust in the conversation ensures the dialogue will be non-threatening."
+2. "The hardest conversations are with those who are not performing and helping them understand what they need to work on or improve upon.  The joy is when they do respond and approve, which happens more than not.  The other conversations is mentoring and seeing the growth from it. The joy is to see them prosperous and have had many work for me again.  Those to me are both sides of the equation."
+3. ". One thing that I can add to my list, letting someone go due to budget cuts. I find that difficult to inform a great performer and team player that they are being let go. Because it is human to feel that it is tied to performance. Luckily in the end they do find a new role quickly."
+4. "We are so lucky with working async that we have the benefit of time to reflect before responding (part of "master your stories"). I took a moment to think about where things went awry and where I was responsible, so that I could own it and apologise first. The next step was to realign – we actually have the same goals overall, just different ideas about how we would get there. I reaffirmed what we had in common and asked them to contribute how they would go about things, which turned the conversation back to working towards a solution together." 
+5. "Something that I'd like to practise where applicable is to step out of a heated conversation and continue another time if possible. This is not to avoid the issue and also this won't suit every scenario but can help to reset the mind." 
+
 ### Additional resources
 
 Below are additional resources on influencing and leadership for you to review.
