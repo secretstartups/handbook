@@ -166,13 +166,13 @@ These other types of OOO categories, are to be used on Family and Friends day or
 
 [PTO by Roots Training Video](https://drive.google.com/file/d/1t-rRHvWxo9IguvtHuacR0pAlK3nHWS4H/view?usp=sharing)
 
-Please be aware that new team members' PTO by Roots accounts are activated and synched automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
+Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 
-##### Unable to acces PTO by Roots 
+##### Unable to access PTO by Roots 
 
-If you recieve an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps. 
+If you receive an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps. 
 1. Check to see if your email address (GitLab) in your slack profile matches your email address in BambooHR -  it is important to note in this instance that BambooHR is case sensitive and that the addresses must match exactly.
-1. If these two are not the same exact email then the application will not recongize you as a team member. 
+1. If these two are not the same exact email then the application will not recognize you as a team member. 
 1. If these two are the same, please reach out in the `#peopleops` channel. 
 
 #### Slack Commands
@@ -292,7 +292,7 @@ no apparent reason.
 reasons but if you catch yourself only having headaches on work days, it is time to
 evaluate your situation.
 
-These and similar symptoms might get missed or disimissed, as people who are on the path to burnout, or who are burnt out, are usually unable to spend the mental energy to recognize it in themselves. Having an external source objectively identify the situation can be helpfull. A great tool for objectively recognizing burn out is [https://burnoutindex.org](https://burnoutindex.org/).
+These and similar symptoms might get missed or dismissed, as people who are on the path to burnout, or who are burnt out, are usually unable to spend the mental energy to recognize it in themselves. Having an external source objectively identify the situation can be helpful. A great tool for objectively recognizing burn out is [https://burnoutindex.org](https://burnoutindex.org/).
 
 If someone is showing signs of burnout, they should take time off to focus on things that are relaxing and improve their overall health and welfare.
 
@@ -336,7 +336,7 @@ Take care not to burn yourself out!
 The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, employees can still make use of GitLab's No Ask Time Off policy.
 
 1. GitLab LTD (UK Employees)
-    * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK govenerment has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calander years (2020-2021,2021-2022).
+    * Employees are [entitled to at least 28 vacation days](https://www.gov.uk/holiday-entitlement-rights), this is broken down by 20 days standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilise time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Under normal circumstances, there is no carryover for unused vacation days. However given the situation surrounding COVID-19 the UK govenerment has [relaxed measures](https://www.gov.uk/government/news/rules-on-carrying-over-annual-leave-to-be-relaxed-to-support-key-industries-during-covid-19) on the carry over of annual leave for the following two calendar years (2020-2021,2021-2022).
 1. GitLab BV (Netherlands Employees)
     * Employees are entitled to at least 20 vacation days per year. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists.
 1. GitLab BV (Belgium)
