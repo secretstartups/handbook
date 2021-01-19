@@ -87,7 +87,7 @@ There are situations in which multiple internal applicants apply for the same ro
 
 #### Reminders For Recruitment
 
-Please ensure that internal applicants have appropriate Greenhouse visiblity permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
+Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
 
 ### Adjustments to our Interview Process
 
@@ -266,7 +266,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 
   As an all-remote, global company, GitLab gives all team members the flexibility to determine their [time away from work](/handbook/paid-time-off/), including the holidays they observe.
   There will likely be holidays that our candidates observe that a recruiter, hiring manager, or candidate experience specialist may not.
-  If there's a time during the year where a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
+  If there's a time during the year when a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
   Please note that not every member of the team will be observing that holiday, so you may still receive emails from them.   
 </details>
 

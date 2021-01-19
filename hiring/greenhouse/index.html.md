@@ -227,7 +227,7 @@ Any internal candidate who applies to a requisition via the internal job board w
 
 #### Enabling LinkedIn Recruiter System Connect
 
-Assuming that you've already been assinged a LinkedIn seat, here's how to enable the LinkedIn _Recruiter System Connect_ integration in Greenhouse. There are **two** steps to the process.
+Assuming that you've already been assigned a LinkedIn seat, here's how to enable the LinkedIn _Recruiter System Connect_ integration in Greenhouse. There are **two** steps to the process.
 
 **Step 1:**
 
