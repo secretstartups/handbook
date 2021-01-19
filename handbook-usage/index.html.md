@@ -141,7 +141,7 @@ Please read through the [Writing Style Guidelines](/handbook/communication/#writ
 
 ### Handbook First Competency
 
-In an all-remote, asyncronous organization, each team member should practice handbook first. For more information on what it means to be handbook first, please refer to the [why handbook first](/handbook/handbook-usage/#why-handbook-first) section of this page.
+In an all-remote, asynchronous organization, each team member should practice handbook first. For more information on what it means to be handbook first, please refer to the [why handbook first](/handbook/handbook-usage/#why-handbook-first) section of this page.
 
 **Skills and behaviors of handbook first as a Team Member**:
 
@@ -288,7 +288,7 @@ More context on the technical reasons behind this:
 
 - We want to have a fast pipeline for the master branch, which minimizes the time needed for changes to be deployed and appear live on the production site.
 - In order to achieve this, we do not run any tests or linters on the master branch, because these are long-running jobs which would block a fast deployment.
-- Instead, we rely on the [Merge Train](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) to ensure that all Merge Request changes have successfuly passed all necessary test/lint jobs before being allowed to merge.
+- Instead, we rely on the [Merge Train](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/) to ensure that all Merge Request changes have successfully passed all necessary test/lint jobs before being allowed to merge.
 - So, if you use "merge immediately", **_none of the test/lint jobs will be run, which will result in a broken master branch if problems were introduced._**
 - This means that **everyone who creates new MRs off of master after this point will experience confusing pipeline failures which are not their fault**, and this will continue until this situation is discovered and a fix is merged to master.
 
