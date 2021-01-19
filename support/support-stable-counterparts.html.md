@@ -33,10 +33,10 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 Just like us, the product teams are spread across the globe. Due to this, it might not always be possible to sync with your counterparts.
 
-- If timezone permits, have an introductory coffee chat with your Product Manager. 
-    - Talk about your interest in the group, and why you chose to become an SSC in it. Ask about the team and their day to day.
-    - Ask them about their expectation from the SSC, manage it and align.
-    - If you are in opposite timezones, do a handshake via Slack.
+- If time zone permits, have an introductory coffee chat with your Product Manager. 
+    - Talk about your interest in the group, and why you chose to become an SSC in it. Ask about the team and their day-to-day.
+    - Ask them about their expectations of the SSC. Manage them and align.
+- If you are in non-overlapping time zones, do a handshake via Slack.
 - Establish a regular cadence for communication with them.
     - Using a living Google document helps, especially for maintaining a regular async communication model. You can make use of [this template](https://docs.google.com/document/d/1m9t-sxPzwie2D40cXTwpjnQ2VxYJb3GoEB5ig38Nkmw/edit?usp=sharing) for it.
 - In the introductory chat, 
