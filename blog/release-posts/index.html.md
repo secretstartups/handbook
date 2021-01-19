@@ -304,8 +304,8 @@ The release post manager, the Messaging lead and the TW lead will need to commun
 The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
 
 - Make a clear, descriptive statement of what's being shared and why
-- If you need someone to take an action, say so explicity and tag that person
-- If the action requested is time senstive, give a clear due date
+- If you need someone to take an action, say so explicitly and tag that person
+- If the action requested is time sensitive, give a clear due date
 - If there are known issues they need to be aware of, list them out
 
 Sample post to executive stakehlders for review:
@@ -340,7 +340,7 @@ It is the Release Post Manager's responsibility to make sure all content is comp
 
 ##### What RPM should look for when reviewing content blocks
 
-It is recommended for the Release Post Manager to review all content for quality, including the marketing intro. But when reviewing content blocks in each relase post item MRs, the RPM should look for the following:
+It is recommended for the Release Post Manager to review all content for quality, including the marketing intro. But when reviewing content blocks in each release post item MRs, the RPM should look for the following:
 
 1. Is the why (problem) and the what (solution) clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
 1. Does the filenames follow the recommended file-naming convention? See **Important note on naming files** under [Instructions](#instructions) for PM contributors.
@@ -525,7 +525,7 @@ Always link to the "EE" version of GitLab docs `https://docs.gitlab.com/ee/` (no
 It's the PMs discretion on which bugs or performance improvements to include in a release post. When evaluating what to include consider the following factors:
 
 - Amount of impacted users - if the bug you're fixing impacts many users consider adding it to the release post. Not all high volume bugs are worth calling out, be sure to consider severity as well.
-- Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvemnt it's worth calling out.
+- Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvement it's worth calling out.
 - Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues.
 - Bugs with high demand - demand being interest from customers (in the form of upvotes, discussions on issues) or the wider community.
 

@@ -780,7 +780,7 @@ There are two steps to include these: Designate what merch sidebar and banner to
 
 #### Merch sidebar
 
-To add a merch sidebar to your blog post, you need to designate it in the front matter and include the follwing inside the content where you want the sidebar to appear.
+To add a merch sidebar to your blog post, you need to designate it in the front matter and include the following inside the content where you want the sidebar to appear.
 
 `<%= partial "includes/blog/blog-merch-sidebar-dynamic" %>`
 
