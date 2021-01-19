@@ -88,6 +88,7 @@ To change a start date after a **GitLab entity** contract has been signed and th
    - Save
    - In the "Make a Note" section in Greenhouse state the old start date and the new state date
    - Save
+1. Update Entity Payroll Providers (UK, Netherlands) of any changes to the start date via email (contacts can be found in 1Password Vault).
 1. Update the People Experience Team in Slack Workflow.
     - Open private Slack channel `#people-exp_ces`
     - Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
