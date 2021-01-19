@@ -871,7 +871,7 @@ We demonstrate iteration when we do the smallest thing possible, getting it out 
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a  Director , a Sr. Director embeds the value of Iteration across the department and division.  They use their cognitive and analytical abilities to anticipate and adapt to unpredictabilities in regards to strategic risk in a way that benefits all involved.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a  Director , a Sr. Director embeds the value of Iteration across the department and division.  They use their cognitive and analytical abilities to anticipate and adapt to unpredictabilities in regard to strategic risk in a way that benefits all involved.</td>
   </tr>
   <tr>
     <td class="tg-0lax">12</td>
