@@ -88,7 +88,7 @@ When underperformance is detected, managers compensate by checking their report'
 
 ### Written Warning
 
-A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will recieve a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. If you have any questions about whether you should complete a written warning, please contact your aligned PBP.  
+A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. If you have any questions about whether you should complete a written warning, please contact your aligned PBP.  
 
 Here is a [Sample Formal Written Warning](https://docs.google.com/document/d/12wveh-73CDw6mD70_lRNHRxcnqmdnHGLu5pKP00puZk/edit) you can use a template. 
 

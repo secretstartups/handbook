@@ -169,7 +169,7 @@ In order to counter this risk, GitLab:
 
 **COVID-19 and impact of a pandemic:**
 
-As a remote first company, we have the tools and culture to work from home and be productive during this unprecendent time of COVID-19.
+As a remote first company, we have the tools and culture to work from home and be productive during this unprecedented time of COVID-19.
 
 Here are the things we can do at GitLab counter this risk:
 - Empower our team members to [take care of themselves and their family](/handbook/total-rewards/benefits/covid-19/#covid-19-medical-leave-policy) so we keep them safe
@@ -234,7 +234,7 @@ We serve smaller users by having:
 {:#infrastructure-bundling}
 
 The largest cost in application delivery is typically infrastructure. Large hyper-scale infrastructure providers could bundle their own native DevOps platform usage with their infrastructure. There are a couple of industry trends which limit this risk:
-1. Businesses are increasingly avoiding infrastructure vendor lockin and pursuing multi-cloud strategies.
+1. Businesses are increasingly avoiding infrastructure vendor lock-in and pursuing multi-cloud strategies.
 1. Infrastructure players have been slow to develop user friendly, complete DevOps platforms.
 
 Also, see the [fork and commoditize](#fork-and-commoditize) move that is available to hyper-scale infrastructure providers.
@@ -393,7 +393,7 @@ In order to address this, we:
 {:#setting-expectations-incorrectly}
 
 If we don't set targets appropriately and communicate about those expectations effectively, team members, investors, and other community members may not understand how we're performing.
-Missing a super-high goal while acheiving really, really high results is still something to be acknowledged and celebrated.
+Missing a super-high goal while achieving really, really high results is still something to be acknowledged and celebrated.
 We need to set and communicate targets that both drive the highest possible results and also ensure constituents understand the business results and in context.
 
 ## 25. Inability to respond to technological change
@@ -415,7 +415,7 @@ Disruption to GitLab.com's availability is a reputational risk.
 We mitigate this risk in a number of ways:
 * we prioritize [security and availability](/handbook/product/#prioritization) over velocity
 * we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
-* we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focuse is to make sure that the application running on that infrastructure is also reliable.
+* we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
 * we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
 * the [Quality Engineering Department](/handbook/engineering/security/#security-operations) makes sure everyone is aware of what the quality of the product is, empirically.
 * the [Application Security team](/handbook/engineering/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
