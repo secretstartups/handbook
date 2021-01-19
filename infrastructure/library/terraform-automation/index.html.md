@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Terraform Automation"
+title: "Terraform Automation" 
 ---
 
 **Status**: [_Implementation_](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/9)
