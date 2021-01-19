@@ -165,7 +165,7 @@ graph TD;
 1. Bonus date: today
 1. Bonus amount: $100 (this is fixed, we don't vary the amount)
 1. Bonus type: Discretionary Bonus
-1. Bonus comments: 1-sentence justification that details how the team demonstrated one or more of our [values](/handbook/values) in this specific instance.
+1. Bonus comments: 1-sentence justification that details how the team demonstrated one or more of our [values](/handbook/values/) in this specific instance.
 1. Comments for the approvers: leave empty
 1. Submit the bonus requests to your manager for approval.
 1. Once approved, you must copy and paste the justification and url into the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) to recognize the teams outstanding efforts (once the team has been communicated to 1:1). Be sure to @ the people in the team that's receiving the bonus as well so they're notified of the posting. Remember, a discretionary bonus is for recognition so make sure to take this final step.
@@ -212,7 +212,7 @@ Visit our [GitLab Anniversary Gift](/handbook/people-group/celebrations/#anniver
 
 Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have [Referral Bonuses](/handbook/hiring/referral-process/) that work as follows:
 
-We encourage and support [diversity](/handbook/values) and [frugality](/handbook/values) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
+We encourage and support [diversity](/handbook/values/) and [frugality](/handbook/values/) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
 * In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65. 
