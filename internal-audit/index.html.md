@@ -45,7 +45,7 @@ Internal Audit is an independent and objective assurance and consulting activity
 
 **Role**
 
-Currently, the internal audit activity is established by the finance team reporting to the Pricipal Accounting Officer , with dotted line control and input from the Audit Committee of the Board of Directors. Internal Audit has direct access to and oversight from the Audit Committee in its charter. The internal audit activity’s responsibilities will be defined by the Audit Committee as part of its oversight role.
+Currently, the internal audit activity is established by the finance team reporting to the Principal Accounting Officer , with dotted line control and input from the Audit Committee of the Board of Directors. Internal Audit has direct access to and oversight from the Audit Committee in its charter. The internal audit activity’s responsibilities will be defined by the Audit Committee as part of its oversight role.
 
 **Professionalism**
 
@@ -57,7 +57,7 @@ The internal audit activity, with strict accountability for confidentiality and 
 
 **Organization**
 
-The Senior Internal Audit Manager will report to the Pricipal Accounting Officer. Overall guidance and direction will be from the Audit Committee of the Board of Directors.
+The Senior Internal Audit Manager will report to the Principal Accounting Officer. Overall guidance and direction will be from the Audit Committee of the Board of Directors.
 **Functions of the Audit Committee**
 
 The Audit Committee will perform the following functions:
