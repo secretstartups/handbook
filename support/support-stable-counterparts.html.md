@@ -81,7 +81,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 ### Raise concerns with your manager if unable to set aside required time to be an SSC
 
-- The success of this initiative depends heavily on the ability of the SSC to build and maintain a relationship with the Product team. This is a task that will take some dedicated time to be spent on it.
+- The success of this initiative depends heavily on the ability of the SSC to build and maintain a relationship with the Product team. You will need to dedicate time to it regularly.
 - If you find yourself unable to do justice to the expectations, have a chat with your manager and let them help you with time management and prioritization.
 - It is perfectly alright to step aside for a few weeks and get back into it again once you have the bandwidth to do so.
 
