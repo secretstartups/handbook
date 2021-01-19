@@ -38,7 +38,7 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Veamly](https://veamly.com/)
 	- Veamly is a remote-first software firm. CEO Emna G. was inspired GitLab's documented approach to [building company culture](/company/culture/all-remote/building-culture/), and shared elements that she is implementing in a [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) [Pick Your Brain](/company/culture/all-remote/pick-your-brain/) video. 
 1. [ProxyCrawl](https://proxycrawl.com/)
-	- At ProxyCrawl we are a completely remote company with employees all around the world working from home, co-working spaces, cofee shops, parks, etc. All our products have been created by our remote team. We have faced many of the issues of a worldwide remote team and GitLab handbook has helped us and inspired us to be a greater team. Special mentions to [communication](/handbook/communication/) and [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) pages. 
+	- At ProxyCrawl we are a completely remote company with employees all around the world working from home, co-working spaces, coffee shops, parks, etc. All our products have been created by our remote team. We have faced many of the issues of a worldwide remote team and GitLab handbook has helped us and inspired us to be a greater team. Special mentions to [communication](/handbook/communication/) and [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) pages. 
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
