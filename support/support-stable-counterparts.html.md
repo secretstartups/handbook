@@ -55,7 +55,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 ### Enable Support with periodic communication relevant to the group
 
-- A monthly communication cadence is recommended - however, some groups might not have a lot of updates to share with Support every month. In such instances, make a decision based on your own discretion.
+- A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
 - Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
 - Group related updates and announcements can be:
     - New features added in an upcoming release
