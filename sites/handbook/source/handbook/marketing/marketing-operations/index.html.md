@@ -135,7 +135,7 @@ Backlog
 </summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team meber and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being scoped/considered but are not being actively worked on yet.
 - `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
 - `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
 - `MktgOps::6 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
