@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: FY21-Q4 L&D Mental Health Newsletter
 ---
 
+## Thanks for reading the first edition of the GitLab mental health awareness newsletter!
+
 Thanks for taking the time to read the first quarterly Mental Health newsletter from the GitLab Learning and Development team!
 
 After hosting [Mental Health Awareness week](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) at the end of 2020, we heard from the GitLab team that a continued conversation about mental health would help provide resources, encourage conversation, and avoid burnout long-term.
