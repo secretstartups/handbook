@@ -70,7 +70,7 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
 1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
-1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
+1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
 1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
 ## Searching for LinkedIn Learning Courses

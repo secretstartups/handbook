@@ -117,7 +117,7 @@ Consider:
 
 ## All Feedback 
 
-The following suggestions, considerations, and models can be applied and used as a guidline when providing both positive feedback and feedback on improvement areas. Recognition is also an essential element of feedback. 
+The following suggestions, considerations, and models can be applied and used as a guideline when providing both positive feedback and feedback on improvement areas. Recognition is also an essential element of feedback. 
 
 ### S-B-I Model
 
@@ -212,7 +212,7 @@ On 2020-02-25 we held three Live Learning sessions to cover how to receive feedb
 
 ## Recognition 
 
-While not always immediately thought of as a form of feedback, recongition is one of the most essential forms of providing feedback in the workplace. 
+While not always immediately thought of as a form of feedback, recognition is one of the most essential forms of providing feedback in the workplace. 
 
 ### How To Recognize Team Members
 

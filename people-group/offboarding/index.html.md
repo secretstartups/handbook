@@ -124,7 +124,7 @@ Team members on `Last Working Date` or `Garden leave` will have no access to Git
 *  ***PBP***: PBP will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The PBP can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
 *  ***PBP***: PBP will work with the People Experience Team to ensure the offboarding issue has the correct dates and all GitLab offboarding team members in payroll, compensation and benefits, security and stock administration have been communicated to and understand the correct offboarding date. 
 
-_Note: The offboarding process will remain the same as listed below in the `Involuntary Process` section below. The People Specialist will notify the team via the confidential #offboardings Slack channel to start to start turning off the team members access._ 
+_Note: The offboarding process will remain the same as listed below in the `Involuntary Process` section below. The People Specialist will notify the team via the confidential #offboardings Slack channel to start turning off the team member's access._ 
 
 ### Involuntary Process
 

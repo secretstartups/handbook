@@ -31,7 +31,7 @@ Our mission is to provide resources to enable our team members to enhance succes
 
 ## Handbook First Training Content
 
-All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not seperated from the handbook to the L&D team. 
+All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -370,7 +370,7 @@ This step must be completed for each offboarding issue, as GitLab pays per licen
 
 1. Revoke License: The following steps should be taken if you cannot find a record of the course status for the offboarding team member.
 
-     1. Within the appripriate WILL Learning course, click `Invite Participants`
+     1. Within the appropriate WILL Learning course, click `Invite Participants`
      1. Under the `Pending Invitations` section, click `View All`
      1. Search the page using the team member's email address
      1. If the user's name appears in the `Pending Invitations` section, click the `revoke` link to remove their access to the license
@@ -396,7 +396,7 @@ When current team members transition to roles and become managers of people, the
 1. The employment bot will open a new issue for team members who are transitioning to managers of people
 1. Find the user's location using their Slack or GitLab profile
 1. In WILL Learning, navigate to the appropriate training for supervisors based on this geographical area.
-1. In the course, click `Invite Participants` and copy the sharable link
+1. In the course, click `Invite Participants` and copy the shareable link
 1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
 1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow the steps to revoke their license.
 
