@@ -75,7 +75,7 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 
 ## Searching for LinkedIn Learning Courses
 
-1. Open [GitLab Learn]()
+1. Open [GitLab Learn](https://gitlab.edcast.com/)
 1. Click the search bar at the top and type in what you are looking for
 1. If you want to filter down to LinkedIn Learning courses specifically, you can click “All Filters” in the top right. Then check the “LinkedIn Learning” box and click “Apply” (this will pull in only Linkedin Learning courses on the topic you are looking for) 
 1. Once you have found the course you are interested in, select that smartcard 
