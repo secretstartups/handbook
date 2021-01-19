@@ -172,7 +172,7 @@ For out-of-network services: 365 days from Date of Service.
 
 ### Pregnancy & Maternity Care
 
-With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
+With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
 ## Dental
 
@@ -473,7 +473,7 @@ For maternity leave, GitLab will verify 100% of the wages are paid for eligible 
     * For example, if there are 80 hours in the pay period you would input 26.66 hours Leave with Pay / 53.34 Leave without Pay.
 1. When short-term disability ends, payroll will need to have 100% of the hours fall under leave with pay.
 
-Note: Also, ensure the disability is not is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
+Note: Also, ensure the disability is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
 
 ## COBRA
 
