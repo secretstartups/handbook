@@ -151,7 +151,7 @@ Please keep in mind when selecting dates that the CEO's schedule is fluid and su
 
 ### Parental Participation
 
-We understand that participation in the CEO Shadow Program is optional and can cause hardships at home. To help overcome these challenges and to allow flexibility for parents to participate, there will be some rotations identified as "parent-friendly" weeks. These are weeks where Sid doesn't need a shadow for the full 5 workdays or where the program is split so the weeks are not consecutive.
+We understand that participation in the CEO Shadow Program is optional and can cause hardships at home. To help overcome these challenges and to allow flexibility for parents to participate, there will be some rotations identified as "parent-friendly" weeks. These are weeks when Sid doesn't need a shadow for the full 5 workdays or where the program is split so the weeks are not consecutive.
 
 ### Rotation rhythm
 

@@ -51,7 +51,7 @@ Since most of the E-group is in the San Francisco Bay Area, we'll go to a locati
 We tend to pick a location at or close to a member of the E-group.
 If the CEO is traveling, the CoS (preferred) or the Staff EBA should bring [the Owl](https://www.owllabs.com).
 
-[Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible), but occassionally the Offsite will need to take a hybrid meeting form.
+[Hybrid calls are hard](/handbook/communication/#hybrid-calls-are-horrible), but occasionally the Offsite will need to take a hybrid meeting form.
 When this is the case, the Staff. EBA to the CEO will ensure that the calendar invite for the Zoom offsite includes a Zoom link.
 The Zoom link should have a waiting room attached to it, since the zoom URL is on calendars and is discoverable internally.
 This also allows the E-group to pull in folks as-needed into the room without switching Zoom rooms, as people won't just jump in and out without being noticed or before the E-group is ready to move onto that subject.
