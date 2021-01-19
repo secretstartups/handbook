@@ -95,7 +95,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 ## Expectations from the Product Teams
 
-- Please be aware of timezone constraints and flex to accommodate the SSC.
+- Please be aware of time zone constraints and flex to accommodate the SSC.
     - Introduce new SSCs to your team and add them to the relevant channels, documents and meetings.
     - Engage async via a doc or discuss other modes of communication with the SSC.
 - Share all [relevant updates](#enable-support-with-periodic-communication-relevant-to-the-group) with the SSC, either sync or async.
