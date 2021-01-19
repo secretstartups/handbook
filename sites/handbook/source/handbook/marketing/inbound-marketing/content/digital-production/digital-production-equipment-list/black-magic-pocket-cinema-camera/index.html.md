@@ -64,6 +64,19 @@ This process will ensure you are recording in the correct format. You will be se
 6. On the LCD Touch Screen, press the **FPS indicator** on the top left of the screen.
 7. Select **23.98** 
 
+### Select LUT
+
+This will help you add enchanced colour to have a nice look in your webcam presentations. This will only affect how your camera looks when connecting with the HDMI cable (generally for calls). **This will not affect footage recorded to the SD Card** (but that's a good thing!). 
+
+1. Power on the camera with the power switch located on the top of the camera. 
+2. Press the Menu button on the right side of the LCD Touch screen, directly above the Play button. It displays a traditional hamburger menu symbol. 
+3. At the top right hand side of the screen, select **LUT**.
+4. Use the right hand arrow to cycle the options until you are able to select **Pocket 4k Film to Video**
+5. At the top left hand side of the screen select **Monitor**.
+6. Under **HDMI**, adjust **Display 3D Lut** to **ON**
+
+_Your camera will now display enchanced colour when outputting via the HDMI cable (for example, to your computer)_
+
 ## Connecting Microphones
 
 #### Connecting a 'Shotgun' Micrphone
