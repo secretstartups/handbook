@@ -50,7 +50,7 @@ See [Where should content go?](/handbook/git-page-update/#where-should-content-g
 
 ## Pages supported by Strategic Marketing
 
-The Growth Marketing team supports the design, devleopment, and strategic integration of the following pages with content from Strategic Marketing. You can see the performance of these pages in the [Strategic + Growth Marketing dashboard](https://datastudio.google.com/u/0/reporting/954b4ace-e2ba-4bf6-92ad-848a48a309f2/page/pBbcB). 
+The Growth Marketing team supports the design, development, and strategic integration of the following pages with content from Strategic Marketing. You can see the performance of these pages in the [Strategic + Growth Marketing dashboard](https://datastudio.google.com/u/0/reporting/954b4ace-e2ba-4bf6-92ad-848a48a309f2/page/pBbcB). 
 
 - Comparison pages in `about.gitlab.com/devops-tools/`
 - Solutions in `about.gitlab.com/solutions/`
