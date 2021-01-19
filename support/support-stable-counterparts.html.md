@@ -71,7 +71,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 - Share customer feedback from tickets with the Product team.
     - Loop them in to relevant issues, tickets and Slack threads.
-- Be the customer's voice and an influencing agent on product related decisions and future roadmap.
+- Be the customers' voice and an influencing agent on product related decisions and future roadmap.
 - [Optional] Help with questions from non product groups in the Product team's Slack channels if possible.
 
 ### Be available to support and mentor newly onboarded SSCs
