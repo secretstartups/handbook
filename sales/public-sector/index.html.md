@@ -148,7 +148,7 @@ The pricing in proposals submitted to the Federal Government must be arrived at 
 *d)* Pricing does not include any amount for a specified contingency to the extent that the contract provides for a price adjustment if that contingency occurs; and
 *e)* No attempt has been made or will be made by the offeror to induce any other concern to submit or not to submit an offer for the purpose of restricting competition.  
 
-**l. 	Prohibition on Subcontractors’ Restriction of Sales to the Government:**  Do not prevent subcontractors from permanently selling directly to the Government on an on-going basis.
+**l. 	Prohibition on Subcontractors’ Restriction of Sales to the Government:**  Do not prevent subcontractors from permanently selling directly to the Government on an ongoing basis.
 Federal law prohibits prime contractors from unreasonably restricting direct sales by their subcontractors to the Government under a prime contract or follow-on production contract. This prohibition does not, however, prevent a prime contractor from prohibiting its subcontractor from: (1) directly communicating with the prime contractor’s federal government client concerning the particular prime contract; or (2) interfering with the existing contractual relationship between the prime contractor and a Government.  
 
 

@@ -247,7 +247,7 @@ Routing is determined by `Sales Segmentation`, `Region`, and `Global Account Own
 ##### Routing & LeanData
 
 **LeanData** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
-The Marketing Operations team is responsible for on-going management and customizations within LeanData.
+The Marketing Operations team is responsible for ongoing management and customizations within LeanData.
 For more information see the [dedicated LeanData page](/handbook/marketing/marketing-operations/leandata).
 
 ##### Contact Requests
@@ -307,7 +307,7 @@ The owner of the record in SFDC **does not** need to match the owner in Outreach
 In order to meet compliance standards our SFDC instance uses a private model.
 This private model allows for some records to be visible by all Gitlab team members who use Salesforce, while other records may not be visible to them.
 Currently this is in place as it pertains to records owned by the Public Sector team.
-All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibily to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
+All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibility to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
 All other records (owned by non-public sector team members) maintain their standard visibility levels.
 
 This is important as it relates to inbound records or accounts in a sales reps name.
@@ -320,7 +320,7 @@ If you believe you have been incorrectly assigned a record that should belong to
 Everyone in Salesforce has **some** ability to change the ownership of accounts.
 When accounts have their owners changed, by anyone other then an admin, there will be an email notification go out to both the previous account owner and the new account owner.
 This is to allow individuals to change ownership of accounts if they think they should belong to them.
-If there are any questions in regards to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
+If there are any questions in regard to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
 It's also important that just because a user can change the owner of an account does not mean that they should own the account.
 Please refer to the criteria for reassigning accounts and our account territories for more information.
 
@@ -663,7 +663,7 @@ The partner record should be converted to their company channel type account.
 The end user record should be converted to the end user standard account type.
 
 Opportunity Name:
-If the partner is an authorized reseller, rename the opportunity with the partner’s nick-name in front, then a dash.
+If the partner is an authorized reseller, rename the opportunity with the partner’s nickname in front, then a dash.
 For instance; if it is a Perforce deal, the opportunity name should start with P4 - (whatever your opportunity name is)
 This is important for the workflow that solicits updates from the reseller.
 

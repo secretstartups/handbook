@@ -120,7 +120,7 @@ Please follow the best practice process and use the [trip note template](https:/
 
 #### Example Give Back Projects
 
-**Customer AMAs:** Meetings for GitLab team members with current customers that provide an opportunity to ask them about anything in regards to their experience with GitLab
+**Customer AMAs:** Meetings for GitLab team members with current customers that provide an opportunity to ask them about anything in regard to their experience with GitLab
 
 **Customer Meetings:** Sharing the best practices for conducting any kind of external meeting at GitLab
 
@@ -341,7 +341,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 - Log into Datafox or Sales Navigator
 - Input your territory criteria
 - Establish a list of accounts and sort by Company Head Count
-- Search for key words like DevOps
+- Search for keywords like DevOps
 - Look into each account to see if they are actually yours
 - Look into each employee that is either an engineer or technology professionals
 - Add that company name to your list
@@ -411,7 +411,7 @@ Area Sales Managers have an expectation to log a minimum of 5 co-selling calls p
 ### Co-Selling Roles when working with your ASM
 * Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
 * Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
-For additional invormation please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
+For additional information please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
  
 ### Working with Channel Partners
 

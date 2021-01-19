@@ -560,7 +560,7 @@ The Sales Operations team supports the opportunity credit split approval process
    - If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
    - This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
 3. There will never be a split that totals above 100%.
-4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits.
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includes opportunity splits.
 
 **Opportunity Splits in Clari**
 
@@ -582,7 +582,7 @@ Below are instructions on how Sales Operations provisions users within the vario
 For status on an issue please view the [Sales Operations Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331).
 
 <details>
-<summary markdown='span'>Operators Guide: Sales Opeartions Owned Provisioning </summary>
+<summary markdown='span'>Operators Guide: Sales Operations Owned Provisioning </summary>
 
 ### Sales Operations Access Request Labeling System
 
@@ -651,4 +651,4 @@ Below are instructions on how Sales Operations offboards users within the variou
 
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
-1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
+1. When the user has been deactivated in the systems listed for the Sales Operations DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
