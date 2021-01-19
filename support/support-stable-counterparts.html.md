@@ -19,7 +19,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 - SSCs act as a bridge between the wider Support team and the Product groups to **share information both ways**.
 - SSCs become the voice of the customer in product forums, and can influence product decisions.
 - SSCs are enabled to develop vertical subject matter expertise in certain product areas.
-- Product teams have a simple way to understand and explore various customer use-cases and gather feedback.
+- Product teams have a simple way to understand and explore various customer use cases and gather feedback.
 
 ## How do we align Support Team Members to the Product?
 
