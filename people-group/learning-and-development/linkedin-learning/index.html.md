@@ -73,6 +73,17 @@ All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did 
 1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
 1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
+## Searching for LinkedIn Learning Courses
+
+1. Open [GitLab Learn]()
+1. Click the search bar at the top and type in what you are looking for
+1. If you want to filter down to LinkedIn Learning courses specifically, you can click “All Filters” in the top right. Then check the “LinkedIn Learning” box and click “Apply” (this will pull in only Linkedin Learning courses on the topic you are looking for) 
+1. Once you have found the course you are interested in, select that smartcard 
+1. On the smartcard click "view more" and this will open a separate tab with the LinkedIn Learning course 
+1. Click "play" to begin the course 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/luoLfUJHhrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Sharing Your LinkedIn Learning Certificate
 
 Once you have completed a course on LinkedIn Learning, you will recieve a certificate. You will have the option to download and/or share it on your LinkedIn Profile. The video below walks thorugh how to do both. 
