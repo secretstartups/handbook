@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "CEO"
+description: "This page details processes specific to Sid, CEO of GitLab."
 ---
 
 ## On this page
@@ -41,7 +42,7 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 
 ## Flaws
 
-Transparency and directness are part of our [values](/handbook/values) and I want to live them by sharing the flaws I know I have.
+Transparency and directness are part of our [values](/handbook/values/) and I want to live them by sharing the flaws I know I have.
 I'm fully responsible for improving the things below, listing them is no excuse.
 They are listed here for two reasons.
 The first one is so that people know it is not them but my fault.
