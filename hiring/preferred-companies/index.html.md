@@ -327,6 +327,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 
 * Anchore
 * Appscan
+* Burp Suite 
 * Blackduck
 * Checkmarx
 * Coverity
@@ -336,6 +337,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * Snyk
 * Sonarqube
 * Synopsys
+* Tenable 
 * Twistlock
 * Veracode
 * Whitesource
