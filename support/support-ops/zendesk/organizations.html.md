@@ -82,10 +82,13 @@ and/or comment on tickets that are not theirs.
 
 ## User Association
 
+NOTE:  
+This is a legacy feature and no new domains will be added to any organization. 
+
 By default, users do not automatically associate with an organization. To
 associate a user to an organization, this must be done manually by an Agent.
 
-That said, if the organization has a domain set, then any email address that
+That said, if the organization has a domain set at `Domains` field in the organization record on Zendesk, then any email address that
 uses that domain will automatically be associated to the organization. This can
 create a bit of chaos though, as it does not use any measure to authenticate
 an email to the organization. It simply looks at the email address and used the
