@@ -420,7 +420,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 </figure>
 
 The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
-In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information. It is critical that any legal discussions are not put in notes since notes are frequently not reviewed for errors but that status might not be clear to people outside the company.
+In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information. **CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** 
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 CEO Shadows are not always the DRI for notes and everyone can contribute to taking notes when in a meeting.
 
