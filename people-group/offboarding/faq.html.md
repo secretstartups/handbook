@@ -70,7 +70,8 @@ Contact our 401(k) administrative vendor directly to get more information about 
 
 ##### What about my FSA Account(s)?
 
-All information on FSA accounts is in the [Discovery Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#discovery-benefits) section of the US Benefits handbook page.
+All information on FSA accounts is in the [Discovery Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#discovery-health-savings-accounts-and-flexible-spending-accounts) section of the US Benefits handbook page.
+handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#discovery-benefits
 
 #### Canada
 

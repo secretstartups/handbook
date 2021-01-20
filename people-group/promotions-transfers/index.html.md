@@ -256,7 +256,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable). 
 1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
 1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
-1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibilty and ensure it is accessible by Total Rewards, CFO, and CEO. 
+1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO. 
 
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
@@ -291,7 +291,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 22, since this date is before the payroll cut off date of June 23, the effective date should be June 16.
     - If the change instead is being processed on June 25, the effective date should be July 1 since this is after the payroll cut off date.
-    - For Canada team members, the effective should be the start of the pay period closest to, but not after the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) depending on when the change is processed. The GitLab Canada Corp Payroll calendar should be referenced when determing the effective date.
+    - For Canada team members, the effective should be the start of the pay period closest to, but not after the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) depending on when the change is processed. The GitLab Canada Corp Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 15, since the payroll cut off date of June 6 has passed, this would go to the next pay period with cut off date of June 20. The corresponding start of the pay period for the June 20 cut off date is June 21 so June 21 should be the effective date.
     - For all other changes, the effective date should be the first of the current month if processed on or before the 8th of the month and the first of the next month if processed after the 8th of the month.
     - For example, if a GitLab Ltd team member has a change being processed on June 7, this would be effective June 1.

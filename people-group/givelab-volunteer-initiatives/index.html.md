@@ -13,12 +13,12 @@ description: "Discover GitLab's volunteering opportunities with GiveLab"
 ### About GiveLab
 Throughout the course of the year, GitLab encourages team members to take part in various sponsorship and volunteer initiatives that support and ultimately uplift their local communities.  As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our [values](/handbook/values/) but our [all-remote](/company/culture/all-remote/guide/) nature.
 
-Along with documenting our active programs within the handbook team members can create awareness and inititate a call to action through the `#givelab` Slack Channel, extending awareness to our team member community which spans over sixty-five countries!  
+Along with documenting our active programs within the handbook team members can create awareness and initiate a call to action through the `#givelab` Slack Channel, extending awareness to our team member community which spans over sixty-five countries!  
 
 ### Global Volunteer Month
-Though many of the GiveLab initiatives are on-going, December is `Global Volunteer Month` at GitLab and an opportunity for everyone to contribute in a socially meaningful way.
+Though many of the GiveLab initiatives are ongoing, December is `Global Volunteer Month` at GitLab and an opportunity for everyone to contribute in a socially meaningful way.
 
-Team members are encouraged to take part in an initiative within their local community whether it be serving at a local soup kitchen; offering to support the build of a website for a non-profit organisation; arranging the clean-up of your nearest park or compiling a small box of much needed items for children in an underpriviledged community.
+Team members are encouraged to take part in an initiative within their local community whether it be serving at a local soup kitchen; offering to support the build of a website for a non-profit organisation; arranging the clean-up of your nearest park or compiling a small box of much needed items for children in an underprivileged community.
 
 #### Taking Part
 1. If you would like to take part in `Global Volunteer Month` please be sure to join the `#givelab` Slack Channel by mid-November and share information around the initiative you have in mind.

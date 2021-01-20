@@ -64,13 +64,24 @@ We have outlined recommended LinkedIn Learning paths for different roles at GitL
 - [Diversity: The best resources for achieving business goals](https://gitlab.edcast.com/insights/ECL-9ef8bd9d-f8b6-40d0-ae95-e0e8e315c97f)
 - [Managing experienced managers](https://gitlab.edcast.com/insights/ECL-ac19941f-f53b-4c27-8193-48ff7ceb8a41)
 
+### Professional Development 
+
+All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/learning/topics/continuing-education-ceu?u=2255073) on LinkedIn Learning. 
+
+- [Society for Human Resource Management (SHRM) professional development credits (PDCs)](https://www.linkedin.com/learning/topics/society-for-human-resource-management-shrm?u=2255073) 
+- [Project Management Institute (PMI)](https://www.linkedin.com/learning/topics/project-management-institute-pmi?u=2255073)
+- [HR Certification Institute (HRCI)](https://www.linkedin.com/learning/topics/hr-certification-institute-hrci?u=2255073) 
+- [Computing Technology Industry Association (CompTIA)](https://www.linkedin.com/learning/topics/computing-technology-industry-association-comptia?u=2255073) 
+- [International Institute of Business Analysis (IIBA)](https://www.linkedin.com/learning/topics/international-institute-of-business-analysis-iiba?u=2255073) 
+- [NASBA Continuing Professional Education (CPE)](https://www.linkedin.com/learning/topics/nasba-continuing-professional-education-cpe?u=2255073)
+
 ## How to access LinkedIn Learning
 
 All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
 1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
-1. You will recieve an email notification from LinkedIn Learning once you have been added to the system. 
+1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
 1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
 ## Searching for LinkedIn Learning Courses

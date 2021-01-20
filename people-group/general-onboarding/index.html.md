@@ -34,7 +34,7 @@ This call occurs every two weeks on Thursday at two times to account for timezon
 - 12:00am PT
 - 08:30am PT
 For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar. 
-For future team members: You will recieve an email with the future dates. 
+For future team members: You will receive an email with the future dates. 
 
 Please note that this call will take a place a week or two before your actual start date. 
 

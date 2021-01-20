@@ -81,7 +81,7 @@ If you will be out of office on the day of your Group Conversation, or need a pe
 - Please update the Alternate Host line in the Group Conversation Agenda document.
 - Please notify any of the Executive Business Administrator Team or your functional EBA in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
-If your Group Conversation falls on a day where you feel that a large percentage of the company may be OOO (for example, a Public Holiday observed by a number of countries). In such instances:
+If your Group Conversation falls on a day when you feel that a large percentage of the company may be OOO (for example, a Public Holiday observed by a number of countries). In such instances:
 - In the #group-conversations channel, ask channel members if they agree that a Group Conversation should not occur on a particular date.
 - If there is consensus, look at the Group Conversation [Schedule & DRI](/handbook/people-group/group-conversations/#schedule--dri). Find the next open slot and check on the GitLab Team Meetings calendar to be certain there is no meeting schedule on that day at the GC time (8am PT).
 - Ping the EBA team (`@exec-admins`) in Slack in your thread and ask them to move your regularly scheduled GC to the open slot you have found. This will be a one-time move and all other instances of your GC will stay as scheduled.
@@ -172,14 +172,14 @@ Additional links which may be useful when preparing to moderate a call include:
 2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 3. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
 4. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
-5. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `EBA Zoom Account' if you are successfullly logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the upper right hand corner of your Zoom screen.
+5. Log into Zoom `5-minutes prior` to the start of the Group Conversation using `EBA Zoom Account' if you are successfully logged into Zoom as the GitLab Moderator the Tanuki Logo will be visible in the upper right hand corner of your Zoom screen.
 6. Ensure that you as the moderator hold the Zoom hosting rights as you will not be able to livestream the call otherwise i.e. co-hosting rights are not sufficient so please be sure to request a handover from the DRI using the `manage participants feature` if necessary.
 7. Ensure the clock on your computer is enabled to include seconds by clicking the Apple icon in the upper lefthand corner of your screen, selecting `System Preferences`, opening `Date and Time` preferences, and selecting `Display the Time with Seconds`.
 
 ### During the Call
 
 1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will initiate the countdown using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#countdown).
-2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the uper left hand orner.
+2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the upper left hand orner.
 3. Be sure to either close or mute the YouTube page to prevent an echo.
 4. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
 5. Check whether the host has included a pre Group Conversation video link in the agenda doc and that it has been specified as Private/Public. 

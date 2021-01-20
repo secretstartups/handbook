@@ -39,7 +39,7 @@ In FY22 we plan to roll out the additional certification(s) listed below.
 
 Knowledge Assessments at GitLab test knowledge of the specific content covered in training. Knowledge Assessments are formative learning that measures how an individual is performing against the training content. Knowledge Assessments are featured following the completion of a training event are typically five to ten questions in length. In addition, they can be one of many requirements to attain a certification. 
 
-When you complete and pass a knowledge assessment, you may recieve a certificate via email. A certificate is not equal to a certification on a topic. You can find some of our knowledge assessments on our [values](/handbook/communication/#gitlab-communication-knowledge-assessment), [communication](/handbook/total-rewards/compensation/#knowledge-assessment), [competencies](/handbook/competencies/#list), [inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment), and [total rewards](/total-rewards/benefits/#knowledge-assessment) handbook pages. 
+When you complete and pass a knowledge assessment, you may receive a certificate via email. A certificate is not equal to a certification on a topic. You can find some of our knowledge assessments on our [values](/handbook/communication/#gitlab-communication-knowledge-assessment), [communication](/handbook/total-rewards/compensation/#knowledge-assessment), [competencies](/handbook/competencies/#list), [inclusion](/company/culture/inclusion/being-inclusive/#inclusion-knowledge-assessment), and [total rewards](/total-rewards/benefits/#knowledge-assessment) handbook pages. 
 
 ## Sharing your Certificate 
 
@@ -53,7 +53,7 @@ The video below shows you how to add your GitLab Certificate to your LinkedIn Pr
 
 ### LinkedIn with a PDF
 
-If you recieved a PDF of your certificate and you have a Google account, you can follow these instructions to upload your certificate to your LinkedIn Profile. 
+If you received a PDF of your certificate and you have a Google account, you can follow these instructions to upload your certificate to your LinkedIn Profile. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/NiyTxh-5ljM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -61,7 +61,7 @@ If you recieved a PDF of your certificate and you have a Google account, you can
 
 ## Missed Certificate 
 
-If you took one of our certifications or knowledge assessments and did not recieve an email with a certificate attached please email our team learning@ and request the missing certificate. Please ensure to include which certificate/knowledge assessment it is as we have multiple. 
+If you took one of our certifications or knowledge assessments and did not receive an email with a certificate attached please email our team learning@ and request the missing certificate. Please ensure to include which certificate/knowledge assessment it is as we have multiple. 
 
 **Learning & Development Team Member process for sending out missing certificates**
 
@@ -71,7 +71,7 @@ If you took one of our certifications or knowledge assessments and did not recie
 1. To create their certificate, go to the relevant certification folder in the L&D google drive.  Make a copy of the certificate template and edit name and date accordingly.  Date should be in ISO format, YYYY-MM-DD.
 1. Download the certificate as a PDF document.
 1. When responding to the email, ensure to "reply all" so the learning@ email is included so the team knows the email has been handled. 
-   * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to recieve their certificate. 
+   * If not all necessary knowledge assessments have been completed, let them know which ones remain for them to receive their certificate. 
    * For email templates for different scenarios, check out our [Certification Request Responses doc](https://drive.google.com/drive/search?q=title:%22Certificate%20Request%20Responses%22). 
 
 **Notes for the Remote Foundations Certification**
@@ -105,7 +105,7 @@ If you took one of our certifications or knowledge assessments and did not recie
       1. Where the link is for the sheet, update that to link to the Form Responses 1 Sheet 
       1. Where it says “Col9>=10, update the “9” with the number the column is with the scores (ex. A=1, B=2, C=3, etc.). Where the 10 is, update this number to the lowest score someone could get to score at least an 80% on the quiz. 
 
-If someone will have to take more than one knowledge assessment to recieve a certificate, the steps on how to set up the larger google sheet can be found in the video below: 
+If someone will have to take more than one knowledge assessment to receive a certificate, the steps on how to set up the larger google sheet can be found in the video below: 
 
 <!-- blank line -->
 <figure class="video_container">
