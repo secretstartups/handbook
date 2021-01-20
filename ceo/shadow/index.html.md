@@ -194,7 +194,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-03 | 2021-05-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
-| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) | AVAILABLE - REMOTE |
+| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | AVAILABLE - REMOTE |
 | 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) |
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
