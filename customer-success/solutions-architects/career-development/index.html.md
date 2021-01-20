@@ -31,5 +31,5 @@ Solution Architects can choose between the following specialties:
 Solution Architects are hired through a hiring process [Solution Architect hiring process](https://about.gitlab.com/job-families/sales/solutions-architect/#hiring-process)
 
 
-[TODO](<TODO>)Solution Architect promotion process is listed here
+[TODO] Solution Architect promotion process is listed here
 
