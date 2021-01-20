@@ -22,16 +22,31 @@ In an effort to continually improve our ability to derive success of campaigns, 
 
 **Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
 
+## Funnel stages and mapping to lead lifecycle and content journey
+{: #funnel-stages .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+| Funnel Stage | Lead Lifecycle (Lead Statuses) | Goal | Content Journey Stage |
+| --- | --- | --- | --- |
+| **Top Funnel** | Raw, Inquiry, Nurture (< 50) | Raw > MQL | Awareness (Raw) + Consideration (Inquiry/Nurture) |
+| **Middle Funnel** | MQL, Accepted, Qualifying, Nurture (> 50) | MQL > SAO | Purchase |
+| **Bottom Funnel** | Qualified (SAO) | SAO > Closed Won | Purchase |
+
+Nurture leads are separated into top funnel and middle funnel based on score because, without rules of engagement on moving leads from Raw/Inquiry, straight to Accepted, and then to Nurture, these individuals may not have engaged previously. The scoring will indicate the best placement for them in the lead lifecycle between Top and Middle Funnel.
+
 ## In Progress and Future Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated Camapigns >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/749)**. 
 
 ## Active Integrated Campaigns
 {: #active-integrated-campaigns .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### 🚀 Competitive campaign 3.0
 {: #competitive-campaign-3}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Agnes Oetama**
 
@@ -45,6 +60,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 GitOps Use Case
 {: #gitops-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Eirini Pan**
 
@@ -58,6 +74,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 Version Control & Collaboration (VC&C) Use Case
 {: #vcc-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Jenny Tiemann**
 
@@ -71,6 +88,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 France CI Localized
 {: #ci-france-localized}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Eirini Pan**
 
@@ -84,6 +102,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 Germany CI Localized
 {: #ci-germany-localized}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Indre Kryzeviciene**
 
@@ -97,6 +116,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 DevSecOps Use Case
 {: #devsecops-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Megan Mitchell**
 
@@ -110,6 +130,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 CI Use Case
 {: #ci-use-case}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Agnes Oetama**
 
@@ -123,6 +144,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 AWS Partner
 {: #aws-partner}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Nout Boctor-Smith**
 
@@ -137,9 +159,11 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ## Past Integrated Campaigns
 {: #past-integrated-campaigns .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### 🌄 Operation OctoCat
 {: #operation-octocat}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Jackie Gragnola**
 
@@ -155,6 +179,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🌄 Increase operational efficiencies
 {: #increase-operational-efficiencies}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Jenny Tiemann**
 
@@ -168,6 +193,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🌄 Deliver better products faster
 {: #deliver-better-products-faster}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Zac Badgley**
 
@@ -181,6 +207,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🌄 Reduce security and compliance risk
 {: #reduce-security-compliance-risk}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Originally Jackie Gragnola, transitioned to Megan Mitchell**
 
@@ -194,6 +221,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🌄 CI Build & Test Auto
 {: #ci-build-test-auto}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Agnes Oetama**
 
@@ -207,6 +235,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🚀 Competitive campaign
 {: #competitive-commit}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Agnes Oetama**
 
@@ -219,6 +248,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ### 🌄 Just Commit
 {: #just-commit}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Campaign Manager: Jackie Gragnola**
 
@@ -233,6 +263,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 ## Campaign Planning
 {: #campaign-planning .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **There will be an epic for every campaign - created by the Campaign Manager managing the campaign - and a content pillar will align to the campaign, including gated assets to be created, pages to be created/revamped, blog posts, etc.**
 
@@ -245,6 +276,7 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 
 #### Overall Campaign Steps
 {: #campaign-steps}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * **Campaign and launch date is determined by Marketing Leadership**
 * **Assign:** Campaign Manager is assigned
@@ -260,12 +292,15 @@ Ideally, campaigns will be agreed at least a quarter in advance to allow for amp
 
 #### Integrated Campaign Meetings
 {: #meetings}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ## Campaign Manager Epic Creation
 {: #epic-creation .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Epic Code
 {: #epic-code}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ***The Campaign Manager of the integrated campaign will create the epic with the following structure - details and links to be added up on creation of documents and timeline defined.***
 
@@ -312,11 +347,12 @@ _Please see related issues for details related to their respective purposes - th
 * **Function:** [to be filled in after kickoff call]
 
 
-/label ~"Marketing Programs" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
+/label ~"dg-campaigns" ~"mktg-demandgen" ~"Content Marketing" ~"Digital Marketing Programs" ~"Product Marketing" ~SDR ~"Campaign Manager Integrated" ~mktg-growtn ~tech-evangelism ~"Campaign Manager Priority" ~mktg-website ~design ~"Socil Media" ~"Strategic Marketing" ~"mktg-status::plan"
 ```
 
 #### SDR Enablement Epic Creation
 {: #epic-creation-sdr-enablement}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 <details>
 <summary>Hiding until discussed with SDR enablement for most scaled process moving forward</summary>
@@ -371,9 +407,11 @@ Note: The Marketing Team owns content on marketing pages; do not change content 
 
 ## Sales Lead Funnel Cross-Over with All-Remote
 {: #funnel-crossover-all-remote .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Diagram of sales lead funnel cross-over with all-remote
 {: #funnel-crossover-all-remote-diagram}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Below is a V1 visual in Mural of the sales lead funnel (pre-opportunity) on the left and the all-remote funnel on the right. Discussion of how and when to "bridge the gap" between the funnels - potentially sharing GitLab audience-targeted offers within All-Remote communications - is included [in this issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2590).
 
