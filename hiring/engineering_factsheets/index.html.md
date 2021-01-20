@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: " Engineering Team Hiring Factsheets"
+description: "The Purpose of these Hiring team factsheets is to allow you to be more informed with regards to the teams you are applying too or interviewing for."
 ---
 
 ## On this page
@@ -552,7 +553,7 @@ Jason Yavorska, Director of Product - CI/CD
 [Product handbook](/handbook/product/)
 [Product Manager job family](/handbook/product/product-manager-role/)
 [Product process](/handbook/product/product-processes/)
-[Product categories](/handbook/product/categories)
+[Product categories](/handbook/product/categories/)
 
 **Team vision:** The primary goal of the Product team is to consistently create products and experiences that customers love and value. Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle.
 
