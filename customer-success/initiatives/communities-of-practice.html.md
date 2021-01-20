@@ -40,7 +40,7 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 
 | Subject                             | Facilitator                                                                                                                                                                   |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infrastructure As Code              | [@DarwinJS](https://gitlab.com/DarwinJS), [@jsandlin](https://gitlab.com/jsandlin), [@jrandazzo](https://gitlab.com/jrandazzo)                                                                                                                                            |
+| Infrastructure As Code              | | [@sri19](https://gitlab.com/sri19), @corina, @kristof, @sujeevan, @simon_mansfield, @michal_kulakowski, @gronk, @pierre |                                                                                                                                            |
 | Advanced Pipelines                  |  [@juliebyrne](https://gitlab.com/juliebyrne) |
 | Modern Applications                 | [@reshmikrishna] (https://gitlab.com/reshmikrishna) |
 
