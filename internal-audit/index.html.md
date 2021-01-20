@@ -13,8 +13,6 @@ title: "The Internal Audit Function"
 
 To enhance and protect organizational value by providing risk-based and objective assurance, advice and insight, while consistently building trust and strengthening the relationship with management, through the delivery of high quality and distinctive internal audit services.
 
-# What is Internal Audit? 
-
 Internal Audit is an independent, objective assurance and consulting activity designed to add value and improve organization’s operations. 
 
 Internal Audit is responsible to assess the effectiveness of risk management, control and governance processes and to provide insight and recommendations that can enhance these processes, particularly relating to: 
@@ -25,7 +23,7 @@ Internal Audit is responsible to assess the effectiveness of risk management, co
 
 Internal Audit may also involve conducting fraud investigations to identify fraudulent acts and conducting post investigation fraud audits to identify control breakdowns and establish financial loss.
 
-# How Internal Audit Adds Value
+## How Internal Audit Adds Value
 
 * Internal Audit works closely with management to review systems and operations to identify how well risks are managed, whether the right processes are in place, and whether agreed procedures are being followed. This provides an indication of the integrity of the organization’s systems and processes, their capability to support the set goals and also helps identify areas for improvements. 
 
@@ -126,11 +124,27 @@ To build and continually improve an effective internal audit function, GitLab es
 1.	Percentage of audits completed = Number of audits completed/ Total number of audits
 
 
-# Performance Measures for Accounting and Finance Function Related to Audit
+## Performance Measures for Accounting and Finance Function Related to Audit
 
 1. *Number of material audit adjustments*: The quarterly number of corrections to the financial statements made by suggestion of GitLab’s external auditors. 
 2. *Percentage of ineffective SOX Controls* : Percentage of controls that fail test of design and operating effectiveness. Percentage of ineffective SOX Controls = (number of ineffective controls / total controls) x 100
 
+
+# Contact the Internal Audit Team
+
+* Email
+   * `internal-audit@gitlab.com`
+
+* Tag us in GitLab
+   * `@gitlab-com/internal-audit`
+
+* Slack
+   * Feel free to tag is with `@int-audit`
+   * The `#internal_audit` slack channel is the best place for questions relating to our team (please add the above tag)
+
+* [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
+
+* Interested in joining our team? Check out more [here](https://bb-fy22-itgc-refresh-linking.about.gitlab-review.app/job-families/finance/internal-audit/)!
  
 
 
