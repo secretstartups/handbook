@@ -392,16 +392,6 @@ During [quarterly traffic analysis](#blog-traffic-analyses), identify high-traff
 
 We can optimize these in a few ways:
 
-#### Repurpose 
-
-[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose).
-
-#### Update 
-
-Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Strategic Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
-  
-Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/). 
-
 #### Follow up
 
 Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there. 
@@ -409,6 +399,18 @@ Reach out to the blog post author to find out if there is an update to the story
 This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
 
 [TODO: Add Praefect example once live]
+
+#### Update 
+
+Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Strategic Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
+
+This works for tutorials and how-to posts that are no longer current. Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/). 
+
+#### Repurpose 
+
+[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose). 
+
+This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
 
 ## Checklist for blog post issues
 
