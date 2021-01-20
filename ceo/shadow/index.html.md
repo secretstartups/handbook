@@ -195,7 +195,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-05-03 | 2021-05-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | AVAILABLE - REMOTE |
-| 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) |
+| 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
