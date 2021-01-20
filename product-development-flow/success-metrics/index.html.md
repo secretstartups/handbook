@@ -22,7 +22,7 @@ canonical_path: "/handbook/product-development-flow/success-metrics"
 
 [Dashboard](https://app.periscopedata.com/app/gitlab/793576/WIP:-Product-Development-Flow-adoption-and-cycle-time)
 
-### Q4 2021 Before vs. After Comparison
+### Q4 2020 Before vs. After Comparison
 
 Describe what this is.... For further details visit [Issue 9243](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9243)
 
