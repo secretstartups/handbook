@@ -144,14 +144,14 @@ These smart campaigns are in Marketo program templates in order to add leads to 
 
 **Review the smartlist and run:**
 * Smart List (filter):
-    - Member of Program: (current program, success status)
+    - Member of Program: (current program, success status) - `NOTE: These are pre-built in the templates, no need to edit!`
     - Subscription Filters (fitlers here are dependent on program type, and subject to change, so not adding all details)
     - Not in a trial
     - Not on an open opportunity
 * Flow
     - Add to nurture:
-    - Select the program indicated in the issue description (should include one of the [active nurture program options](/handbook/marketing/demand-generation/campaigns/emails-nurture/#gtm-motion-nurtures))
-    - Select the stream indicated in the issue description (should be awareness, consideration, OR decision/purchase)
+       - Select the program indicated in the issue description (should include one of the [active nurture program options](/handbook/marketing/demand-generation/campaigns/emails-nurture/#gtm-motion-nurtures))
+       - Select the stream indicated in the issue description (should be awareness, consideration, OR decision/purchase)
 * Schedule
     - Select `Run Once` > Choose `Run Now` > Click `Run`
 
@@ -160,8 +160,8 @@ These smart campaigns are in Marketo program templates in order to add leads to 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 While the future automated nurture system is in progress, to request to add a segment of leads to a nurture, please create an add-to-nurture issue request:
-   - If Field Marketing is DRI: [request-add-to-nurture]](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture)
-   - If any other team is DRI: [request-add-to-nurture]](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+   - If Field Marketing is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture)
+   - If any other team is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
 
 These issue templates are also built into the epic codes throughout the handbook accordingly. As the overarching automated nurture logic is created, AND epic codes consistently indicate the required details for the logic, we will discontinue use of these issue templates.
 
