@@ -36,7 +36,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. [Don't use someone else's name](https://twitter.com/emiliejayg/status/1198731054162432000?s=12), remind people of your title, or otherwise ["pull rank"](/handbook/values/#dont-pull-rank) to get things done.
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/d0x-JH3aolM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/watch?v=d0x-JH3aolM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) above, GitLab CEO Sid Sijbrandij gives more context on individual contributor leadership and managers of one. 
