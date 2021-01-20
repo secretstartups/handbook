@@ -48,7 +48,7 @@ Individual departments will have their own criteria for who is eligible to occup
 
 ## Making decisions
 
-Please see [/handbook/leadership/making-decisions](/handbook/leadership/making-decisions/)]
+Please see the [Making Decisions](/handbook/leadership/making-decisions/) Leadership page.
 
 ## Communication should be direct, not hierarchical
 
