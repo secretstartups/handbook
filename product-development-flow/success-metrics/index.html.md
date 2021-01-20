@@ -16,7 +16,7 @@ canonical_path: "/handbook/product-development-flow/success-metrics"
 
 ### Quarterly Survey Results 
 
-[Latest results](https://docs.google.com/presentation/d/1BxUVcoPyjYkR7MOHn1aZGllMCqlH5eb27JKM_bb_uDA/edit#slide=id.g59bfc474c5_2_145)
+[Product Development Flow Survey Q2 2020](https://docs.google.com/presentation/d/1BxUVcoPyjYkR7MOHn1aZGllMCqlH5eb27JKM_bb_uDA/edit#slide=id.g59bfc474c5_2_145)
 
 ### Cycle Time Metrics in Sisense 
 
