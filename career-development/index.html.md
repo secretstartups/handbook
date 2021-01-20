@@ -513,7 +513,7 @@ The method for documenting and adopting an exception consists of:
 1. Specific explanation should be provided as pros/cons of solving the need through an additional workgroup vs. increasing the Staff+ ratio within the existing workgroup.
 1. Identification of the intended new Staff+ ratio(s).
 
-Since collective exceptions within a department will at some point impact overall funded headcount, exceptions will require the approval of department heads. In some cases the exception to gearing ratio may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). All exceptions should be documented in the a page local to the workgroup within the handbook but linked to the table below.
+Since collective exceptions within a department will at some point impact overall funded headcount, exceptions will require the approval of department heads. In some cases the exception to gearing ratio may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). All exceptions should be documented in a page local to the workgroup within the handbook but linked to the table below.
 
 | **Workgroup** | **Department** | **Ratio** | **Link** |
 | Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Scalability-Team-IC-Gearing) |
