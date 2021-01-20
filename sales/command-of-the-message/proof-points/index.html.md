@@ -309,7 +309,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 ----
 
-<big>[Remote](/customers/remote)</big><br>
+<big>[Remote](/customers/remote/)</big><br>
 **Problem:** Remote wanted to get up and running quickly without spending time and money on a multi-toolchain<br>
 **Solution:** GitLab Silver<br>
 **Result:** 100% of deadline met, 100% focus on product and 3795 code pushed in a 3 month period<br>
