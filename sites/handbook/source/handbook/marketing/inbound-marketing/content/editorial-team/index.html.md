@@ -501,7 +501,7 @@ This is not an exhaustive list of criteria, as the Editorial team member will al
 - In some cases, an Unfiltered post may be drawing a lot of traffic, but the topic is outside the [scope of the blog](#scope). In this case we will not move the post, for example [Introducing the WoW rule: A formula for growth for SaaS Startups](/blog/2020/05/05/wow-rule/).
 - We may need to tweak the post to adhere to our [best practices](/handbook/marketing/blog#writing-blog-posts--best-practices) (e.g. adding more context, making the value for our audience clearer).
 - It might help to think about the Unfiltered post in the same way that we approach [reviewing pitches](#what-to-look-for). Is the topic likely to be of interest to our audience of software developers and related professions? Is there practical, actionable content from which our audience can learn? If the answers are "yes" then it's worth thinking about how we can adjust or adapt the post for the main blog.
-- If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
+- If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases/), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
 
 #### Review process
 
