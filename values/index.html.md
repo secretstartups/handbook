@@ -807,6 +807,7 @@ A few challenges have arisen with how we approach iteration. The best example ma
 That said, we would love to work on a two-week release cycle, but that should be another conversation. 
 
 ##### Embracing Iteration 
+{:.no_toc}
 
 In order to embrace iteration, the quality of your first iteration should not matter and it shouldn't discourage you from starting. We should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations. 
 
