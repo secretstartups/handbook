@@ -42,9 +42,19 @@ For more details about the vision for this area of the product, see the [product
 ## Exciting things and accomplishments
 This section details the happenings within the Package group. At any given time this section will have the top three most exiciting things and/or accomplishments of the team.
 
-- [**The Dependency Proxy is now avaialble in Core!**](https://about.gitlab.com/blog/2020/10/30/minor-breaking-change-dependency-proxy/)
-- [**The npm project endpoint now supports all npm commands**](https://gitlab.com/gitlab-org/gitlab/-/issues/220985)
-- **Nearly 200k packages were published to GitLab.com in November 2020.
+### Major accomplishments in FY21
+
+| Section:Stage:Group:Category | GMAU Growth (over last 6 mo)  | Three key features and user problem they solved |  Three key customer wins/case studies | 
+| ------ | ------ |------ | ------ |
+| Ops:Package:Package Registry | Not GMAU, but we saw a [445% increase in the number of packages published to the registry in FY21](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#packagepackage---other---packages-published-using-the-package-registry) | In FY21 we focused on user acquisition by adding support for several new package manager formats and moving the feature to Core. <ul><li>[NuGet (.NET) Repository](https://gitlab.com/gitlab-org/gitlab/-/issues/20050)</li><li>[PyPI (Python) Repository](https://gitlab.com/gitlab-org/gitlab/-/issues/10483)</li><li>[Composer (PHP )Repository](https://gitlab.com/gitlab-org/gitlab/-/issues/15886)</li></ul> | T-Mobile, Koch, NASDAQ |
+| Ops:Package:Dependency Proxy | Not GMAU, but the number of pinging instances with the Dependency Proxy enabled rose from [264 - 1400](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard?widget=10086277&udv=0). |In FY21 we matured the category by: <ul><li>[Helping users to avoid Docker Hub rate limits]()</li><li> [Adding support for private projects]()</li><li>[Ensuring the feature worked even when Docker Hub is unavailable.]()</li><ul> | T-Mobile |
+
+#### Major accomplishments expected in FY22
+
+| Section:Stage:Group:Category | Three key features/jobs-to-be-done (Q1,Q2 FY22) |  Three key features/jobs-to-be-done (Q3/Q4 FY22) | 
+| ------ | ------ | ------ |
+| Ops:Package:Package:Package Registry/Dependency Proxy | Drive dogfooding and GMAU by adding support for: <ul><li>[RubyGems](https://gitlab.com/groups/gitlab-org/-/epics/3200)</li><li>[Lift npm package naming conventions](https://gitlab.com/gitlab-org/gitlab/-/issues/33685)</li><li>[Debian packages](https://gitlab.com/gitlab-org/gitlab/-/issues/5835) | Help teams be more efficient by adding support for remote and virtual registries: <ul><li>[npm virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3608)</li><li>[Maven virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3610)</li><li>[NuGet virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3611) |
+| Ops:Package:Package:Container Registry | Lower the cost of storage for the registry: <ul><li>[Support online garbage collection](https://gitlab.com/groups/gitlab-org/-/epics/2313)</li><li>[Count registry size against object storage usage](https://gitlab.com/gitlab-org/gitlab/-/issues/31039)</li><li>[Enable cleanup policies by default for all projects](https://gitlab.com/gitlab-org/gitlab/-/issues/196124) | Make it easier to use the container registry: <ul><li>[Remove branch related images on merge](https://gitlab.com/gitlab-org/gitlab/-/issues/26983)</li><li>[Use GitLab metadata to verify and troubleshoot Docker images](https://gitlab.com/gitlab-org/gitlab/-/issues/197996)</li><li>[Mark container images as protected to prevent accidental overwrite/deletion](https://gitlab.com/gitlab-org/gitlab/-/issues/18984)</li> |
 
 ## Team Members
 
