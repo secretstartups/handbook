@@ -25,11 +25,11 @@ As the service does *not* require your personal information in order to process 
 * Your full name
 * Any other data that is personal to you that you would not want publicly known
 
-At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expenses reimbursement amount requested along with the actual items and total purchase price.
+At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
 
 <details>
 <summary>Instructions for redacting information</summary>
-The best way to capture only the necessary receipt information is to take a screenshot of your receipt. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
+The best way to capture only the necessary receipt information is to take a screenshot of your receipt that includes only the items purchased and total amount. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
 
 </details>
 
