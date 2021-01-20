@@ -61,15 +61,19 @@ It is expected that all accounts will have an account plan, but you do not need 
 
 Always start with the Customer's "Why?", and get clarity on the customer’s strategies, goals, and objectives. Researching your customer is a key element to this step. 
 
-### Step 3: Start Building
+### Step 3: Gather Data and Insights 
+
+A good place to start is by looking at the customer's total addressable market (TAM). Review data available for the account including buying history/trends, industry influences, and partner interactions. Leverage partners, account-based marketing (ABM), and your account team to create a complete picture of the account.  
+
+### Step 4: Start Building
 
 Account Planning needs a short and a long term ‘vision’ for the account that both parties agree to work towards. A good place to start is with a 3 year plan. You can start by asking the customer: “Where do you want to be in 3 years as it pertains to your DevSecOps maturity and implementation?” Take that answer and continue to ask the question in different ways to drive to clarity with the customer. Sometimes we might have to push the customer to think about things is a fresh way. 
 
 Take that answer and make it the first point of the plan, then work back from there.  
 
-### Samples
+#### Samples
 3 year vision:
-**The Customer says...“In 5 years, the business will be …”**
+**The Customer says...“In 3 years, the business will be …”**
 * “To get there, the business will need to…”
 * “Software development will play the role of…”
 * “Our software teams will need to be able to…”
@@ -84,7 +88,7 @@ Some examples:
 * Software development’s role will be: 1) the products will be either fully or partially digital; 2) to launch the new product lines, in the new markets we wish to enter, will require new technical expertise in… AI/robotics/VR etc; 3) dev will need to ensure that the core cash-cow products at least keep their current margins while reducing cost.  
 
 
-### Step 4: Maintaining 
+### Step 5: Reviewing and Approving  
 
 Account Plans are living documents and are never truly complete. Once you build the initial plan ask yourself:
 * How can you determine the validity of the plan?
@@ -93,4 +97,10 @@ Account Plans are living documents and are never truly complete. Once you build 
 
 If you have a Technical Account Manager, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/tam/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/). These documents can help validate your Account Plan and determine if the vision is aligned with each customer's goals. 
 
+When you're ready, share the plan with your manager and confirm next steps, resources needed, and review any information that is unclear. If appropriate, share the plan with partners to ensure alignment and commitment. 
 
+### Step 6: Maintaining  
+
+A quarterly cadence to review and update plans can help to ensure that plans reflect our current understanding of the account and keep the account team aligned on plan strategy and execution. Major changes such as personnel changes, mergers/aquisitions, and competitive threats may trigger immediate review and updates. 
+
+Structured review sessions can help keep the account team aligned and keep leadership informed of changes involving customers. 
