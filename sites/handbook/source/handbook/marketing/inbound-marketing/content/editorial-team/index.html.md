@@ -377,6 +377,39 @@ Following the review above, the pitch should fall into one of three categories:
 
 When responding to the person who pitched, be sure to include your rationale for your response and any relevant data or examples to justify your decision.
 
+## Sourcing blog posts 
+
+In addition to reviewing pitches submitted by team members, the Editorial team also actively sources topics for potential blog posts in the following ways:
+
+### Sweep of Unfiltered channels
+
+- Weekly [review of the GitLab Unfiltered blog](/handbook/marketing/inbound-marketing/content/editorial-team/#featuring-unfiltered-posts) to surface blog posts to bring over to the main blog
+-  [TODO:  Add process for Unfiltered YT channel]
+
+### Follow up on top-performing posts 
+
+During [quarterly traffic analysis](#blog-traffic-analyses), identify high-traffic blog posts (published at any time, not necessarily from that quarter).
+
+We can optimize these in a few ways:
+
+#### Repurpose 
+
+[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose).
+
+#### Update 
+
+Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Strategic Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
+  
+Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/). 
+
+#### Follow up
+
+Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there. 
+
+This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
+
+[TODO: Add Praefect example once live]
+
 ## Checklist for blog post issues
 
 If you are planning to write or even just considering writing a blog post:
