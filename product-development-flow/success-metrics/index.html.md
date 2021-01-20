@@ -14,17 +14,17 @@ canonical_path: "/handbook/product-development-flow/success-metrics"
 
 <div class="panel-body">
 
-# Quarterly Survey Results 
+### Quarterly Survey Results 
 
 [Latest results](https://docs.google.com/presentation/d/1BxUVcoPyjYkR7MOHn1aZGllMCqlH5eb27JKM_bb_uDA/edit#slide=id.g59bfc474c5_2_145)
 
-# Cycle Time Metrics in Sisense 
+### Cycle Time Metrics in Sisense 
 
 [Dashboard](https://app.periscopedata.com/app/gitlab/793576/WIP:-Product-Development-Flow-adoption-and-cycle-time)
 
-# Before vs. After Comparison from 2020-12-03
+### Q4 2021 Before vs. After Comparison
 
-### Before vs. After PDF Page Comparison 
+Describe what this is.... For further details visit [Issue 9243](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9243)
 
 | | Collaboration Touchpoints | Total Steps | Word Count | 
 | ------ | ------ | ------ | ------ | 
