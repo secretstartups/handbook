@@ -821,7 +821,7 @@ merch_two:
   sidebar_body_content: "Watch the webcast"
 
 merch_three:
-  destination_url: "/resources/ebook-single-app-cicd"
+  destination_url: "/resources/ebook-single-app-cicd/"
   cta_text: "Learn more"
   banner_image_source: "/images/merchandising-content/benefits-of-single-app-cicd.jpg"
   banner_body_title: "Free eBook: The benefits of single application CI/CD"
