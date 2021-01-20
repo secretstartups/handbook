@@ -354,7 +354,7 @@ You can read about how we got this started
 
 ### Support Stable Counterparts
 
-If you are interested in becoming a Support Stable Counterpart, or would like to learn more about the initiative, read the page on [Support Stable Counterparts](handbook/support/support-stable-counterparts.html).
+If you are interested in becoming a Support Stable Counterpart, or would like to learn more about the initiative, read the page on [Support Stable Counterparts](/handbook/support/support-stable-counterparts.html).
 
 ## Processes
 
