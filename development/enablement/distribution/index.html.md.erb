@@ -143,20 +143,21 @@ Based on team responsibilities, the following objectives apply:
 
 ```mermaid
 graph TD
-  subgraph code
+  subgraph Code
   OG --> PKG
   PKG --> DOI
   PKG --> AMI
-  PKG -.-> GOR
   end
 
-  subgraph deploy
+  subgraph Deploy
   DOI --> DOK
   DOK --> DOC
   AMI --> AWS
-  GOR --> GCP
-  GOR -.-> |Future|AWS
-  GOR -.-> |Future|VMW
+  PKG -.-> GET
+  GET --> GCP
+  GET --> AZURE
+  GET -.-> |Future|AWS
+  GET -.-> |Future|VMW
   end
 
   OG[Omnibus GitLab]
@@ -165,10 +166,11 @@ graph TD
   DOK(Docker)
   DOC(Docker Compose)
   AMI[Amazon Machine Image]
-  GOR[GitLab Orchestrator]
+  GET[GitLab Environment Toolkit]
   AWS(AWS)
   GCP(Google Cloud Platform)
   VMW(VMWare)
+  AZURE(Azure)
 ```
 
 ## Cloud Native
@@ -179,15 +181,15 @@ GitLab's cloud native solutions span a collection of image, Helm chart and Opera
 
 ```mermaid
 graph TD
-  subgraph code
+  subgraph Code
   CNG --> HC
-  HC -.- |PoC|GOP
   CNG --> GOP
+  HC --> GOP
   end
 
   subgraph Deploy
-  GOP --> OS
   GOP --> K8s
+  GOP --> OS
   CNG --> DC
   HC --> K8s
   end
@@ -206,7 +208,6 @@ graph TD
 | Name | Location | Description |
 | -------- | -------- |
 | Omnibus GitLab | [gitlab-org/omnibus-gitlab](https://gitlab.com/gitlab-org/omnibus-gitlab) | Build Omnibus packages with HA support for LTS versions of all major Linux operating systems such as Ubuntu, Debian, CentOS/RHEL, OpenSUSE, SLES |
-| GitLab Orchestrator | [gitlab-org/gitlab-orchestrator](https://gitlab.com/gitlab-org/gitlab-orchestrator) | Orchestrator provides an automated, repeatable method to install multi-node GitLab using Terraform and Ansible to deploy and manage Omnibus based environments. |
 | Docker All in one GitLab image | [gitlab-org/omnibus-gitlab/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker) | Build Docker images for GitLab CE/EE based on the omnibus-gitlab package |
 | GitLab Helm Chart | [gitlab-org/charts/gitlab](https://gitlab.com/gitlab-org/charts/gitlab) | Cloud Native GitLab Helm Charts |
 | Docker images for GitLab Helm Chart | [gitlab-org/build/CNG](https://gitlab.com/gitlab-org/build/CNG) | Individual images used by GitLab Helm Charts |
@@ -238,7 +239,9 @@ If you need to submit a sensitive issue, please use confidential issues.
 If you are unsure whether something needs to remain private, check with the team Engineering Manager.
 
 ## YouTube Playlists
+
 The team regularly publishes demos, discussions and meetings to these playlists:
+
 * [Distribution Team Demos](https://www.youtube.com/playlist?list=PL05JrBw4t0KrPasGZcEUoHHIYdUtzpfA4) (Public) More on [team demos](demo.html).
 * [Distribution Team Discussions](https://www.youtube.com/playlist?list=PL05JrBw4t0KotcsilVcbCc1NBXUmWqEWy) (Mostly public, but some private content)
 * [Distribution Team Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KoigLGkdYj9x2erU2NC24ij) (Private)
