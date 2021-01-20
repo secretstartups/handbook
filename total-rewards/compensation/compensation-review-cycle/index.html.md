@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Compensation Review Cycle
+description: "On this page, we explain how we review our Compensation Calculator and carry out the Compensation Review Cycle."
 ---
 
 ## On this page

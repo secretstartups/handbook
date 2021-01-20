@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Inc (China) Benefits"
+description: "GitLab Inc (China) benefits specific to China based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
