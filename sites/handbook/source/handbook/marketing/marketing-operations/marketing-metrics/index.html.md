@@ -265,7 +265,10 @@ Note: There is a current transition to move towards the [Territory Success Plann
 1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields)
 1. [Type](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Type&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
 
-
+## Useful things to know when it comes to Sisense vs. SFDC data
+Given the way that our systems are connected and synched, you may see a discrepancy in the data within Sisense vs. Sales Force.com. A few things to note: 
+1. Opportunity amount will be updated immediately within sales force, but will NOT show up in Sisense until the next day, as our data synchs overnight. 
+1. There is about a 7 hour time difference between Sisense and SFDC, so this time lag can also create discrepancies as well. 
 
 
 
