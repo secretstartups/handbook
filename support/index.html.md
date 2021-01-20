@@ -464,15 +464,15 @@ sb s # GitLab.com queues
 ### Handbook links
 
 - [GitLab Team page](/company/team/)
-- [Product Categories](/handbook/product/categories) - Find out what team handles what
+- [Product Categories](/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support.html)
-- [Support Managers](/handbook/support/managers)
+- [Support Managers](/handbook/support/managers/)
 - [Support Hiring](/handbook/support/managers/hiring.html)
-- [Support Channels](/handbook/support/channels)
+- [Support Channels](/handbook/support/channels/)
 - [On-Call](/handbook/on-call/)
-- [License & Renewals](/handbook/support/license-and-renewals)
-- [Support Ops](/handbook/support/support-ops)
-- [Advanced Topics](/handbook/support/advanced-topics)
+- [License & Renewals](/handbook/support/license-and-renewals/)
+- [Support Ops](/handbook/support/support-ops/)
+- [Advanced Topics](/handbook/support/advanced-topics/)
 
 ### Documentation
 
