@@ -45,7 +45,7 @@ not everything GitLab-related removed. To be sure, we should first ask if that
 is the case or if they are wanting a full deletion.
 
 If the user wants full account deletion, we need to refer them to the
-[Support GDPR Process](https://about.gitlab.com/handbook/support/workflows/gdpr_account_deletion.html).
+[Support Account Deletion Process](https://about.gitlab.com/handbook/support/workflows/account_deletion.html).
 
 If the user wants only the support account deleted, an issue should be made to
 support-ops via the
