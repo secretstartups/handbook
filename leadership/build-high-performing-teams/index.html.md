@@ -425,6 +425,12 @@ The Drexler-Sibbet Team Performance Model is an excellent tool to building and m
 
 ## Live Learning Session
 
+On 2021-01-11, we launched the second iteration of the Manager Challenge Program. During the Live Learning session and Async learning, Managers used the Building High Performing Teams model to plan how they will lead their team to high performance. We've posted the activity and roadmaps for you to leverage in helping your team reach high performance, and see what GitLab managers do within the teams they lead. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9MWk2ScRZpFr4kgZ1VGAbPnbqgpsCSRevsrx4xveUPvi4Bxa22WprTs9WJoYXQpm_aBD1kyrXFvI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 During Week 4 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building High Performing Teams. The [slide deck](https://docs.google.com/presentation/d/1qQelNkqtoFoaGgeMldzqCx5voOU4cpUBEBt-kSfjJ_o/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/17Ik6JxuRhldPWnIUGZrJiLc6dentI6_eE7QPABiXyvo/edit?usp=sharing) follow along with the session.
 
 A recording of the second of two sessions can be found here:
