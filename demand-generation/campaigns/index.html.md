@@ -14,9 +14,11 @@ twitter_creator: '@gitlab'
 
 ## Goals
 {: #goals .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Demand Generation Key Metrics
 {: #key-metrics}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **North Star Metric:** MQLs
 - **Efficiency Metric:** Cost per MQL
@@ -25,11 +27,13 @@ twitter_creator: '@gitlab'
 
 ### MQL Targets
 {: #mql-targets}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be determined
 
 ### OKRs
 {: #okrs}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **OKRs = Objective + Key Result**
 
@@ -39,6 +43,7 @@ To be determined
 
 ### FY21-22 First Principles
 {: #first-principles}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **Find new accounts** to add to the target pool (paid demand gen)
 1. **Offer compelling ungated content journeys** that drive to proven web CTAs
@@ -46,6 +51,7 @@ To be determined
 
 ## Team Structure
 {: #team-structure .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The Campaigns Team is aligned to sales segments with a geo breakout. Our number one focus is driving outbound MQLs, while collaborating across marketing (working closely with field marketing, sales, and SDRs in region) to develop strategies contributing to SAOs and closed won revenue against target accounts.
 
@@ -61,6 +67,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 
 ### Meet the Team
 {: #meet-the-team}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Jackie Gragnola** _Manager, Marketing Campaigns_
 
@@ -126,23 +133,36 @@ _Each team member contributes to making day-to-day processes more efficient and 
 
 ## Communication
 {: #communication .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 In line with GitLab's overall [communication guidelines](https://about.gitlab.com/handbook/communication/), campaign managers work through MRs first and issues second (in order to preserve documentation), and our slack channel [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) is used for team updated and quick questions.
 
 The [#demand-gen](https://gitlab.slack.com/archives/CJFB4T7EX) channel is used for weekly check-ins and interaction with the larger demand generation team.
 
+In between bi-weekly Campaigns Team Connect calls:
+* **Updates** should be added to MRs when possible
+   - Add to #marketing_programs Slack
+   - Begin with `UPDATE: <brief description>` (i.e. `UPDATE: Marketo segmentation live for sales segment`)
+   - Include link to MR (preferred) or issue
+* **Topics** that need input should be added as an MR when possible, with issues as a secondary option, and pinged in Slack with `DISCUSS`
+   - Add to #marketing_programs Slack
+   - Begin with `DISCUSS: <brief description>` (i.e. `DISCUSS: Marketing tool champions`)
+   - Include link to MR (preferred) or issue
+
 ### Meeting Cadence
 {: #meeting-cadence}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Most of our team meetings are recorded and can be found [here](https://drive.google.com/drive/u/1/folders/1GDkvqVhimLDnX744eh9YS6_qHhKRafmJ).
 
-- Tuesdays - Campaign Team Connect Call (campaigns)
-- Wednesdays - Demand Generation Team Call (campaigns, digital, partner)
+- Bi-weekly Tuesdays - Campaign Team Connect Call (campaigns)
+- Bi-weekly Wednesdays - Demand Generation Team Call (campaigns, digital, partner)
 - Thursdays - "No work talk" demand gen team hangout (campaigns, digital, partner)
 - Thursdays - Marketing strategy & tactics call (all marketing)
 
 ### The Handbook
 {: #handbook}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Is our single source of truth (SSoT) for processes and relevant links
 
@@ -152,9 +172,11 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 ## Project Management
 {: #project-management .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Turnaround Time and SLAs
 {: #slas}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
 - Tip: Submit issues with full "Submitter Details" complete
@@ -172,6 +194,7 @@ The issue requester is responsible for ensuring that appropriate `mktg-status` l
 
 ### Issue Templates
 {: #issue-templates}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 We ask that teams request work using the following issue templates in the campaigns project. These templates more clearly indicate what information and details are required in order for the request to be triaged.
 
@@ -179,6 +202,7 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 
 #### Request Issue Templates
 {: #request-issue-templates}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
 - [request-confirm-target-list](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list)
@@ -207,6 +231,7 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 
 #### Campaign Team Issue Templates
 {: #campaign-issues-templates}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
@@ -227,6 +252,7 @@ The following issue templates are used by the campaigns team to organize their w
 
 #### Fundamental principles of issue requests
 {: #fundamentals}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
@@ -238,6 +264,7 @@ The following issue templates are used by the campaigns team to organize their w
 
 ### Campaigns Team Intake Process
 {: #intake-process}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Beginning Q3 FY21, the demand gen campaigns team will begin an issue intake process to evaluate comprehensive details of request and assign based on milestone bandwidth and priorities. Requests may be submitted using the correct issue templates.
 
@@ -247,6 +274,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 
 #### Intake process labels
 {: #intake-labels}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
 - **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
@@ -258,6 +286,7 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 
 #### Intake process daily/weekly steps
 {: #intake-steps}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Team manager completes daily review of [issues in triage](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&label_name%5B%5D=Marketing%20Programs) assessing the following standards:
 * Are all details in the `Submitter Checklist` sufficiently complete in order to begin work?
@@ -268,11 +297,13 @@ Team manager completes daily review of [issues in triage](https://gitlab.com/gro
 
 #### Project management automation
 {: #project-management-automation}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be built out
 
 #### Shortcut issue comments for project management
 {: #shortcut-comments}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **When a team member is picking up an issue from the backlog:**
 
@@ -286,6 +317,7 @@ This will change the status to wip (work in progress), allow quick assignment an
 
 ### Milestones
 {: #milestones}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The campaigns team uses the overall 2-week marketing milestones (format of [Mktg: YYYY-MM-DD](https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=mktg%3A+&state=&sort=)) to organize, prioritize, and balance campaigns, projects, and requests.
 
@@ -312,9 +344,11 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 ### Boards and Lists
 {: #boards-lists}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Boards
 {: #boards}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 <b>[Request Intake Board](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides a high-level status view of incoming issue requests.
 
@@ -340,6 +374,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 #### Lists
 {: #lists}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **In marketing programs project (to be sunsetted upon move to campaigns project):**
 
@@ -357,9 +392,11 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 ### Tips & Tricks
 {: #tips-tricks}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Creating a MacBook shortcut for repetitive statements
 {: #macbook-shortcuts}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Example:** in an issue to update all of MPM, instead of typing out every name, I have added a shortcut in my computer to populate all of the MPMs GitLab handles when I type `asdf + Enter`.
 
@@ -375,9 +412,11 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 # Reporting
 {: #reporting .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 ## Integrated campaigns reporting
 {: #demand-gen-dash .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 Demand Generation uses Sisense dashboards to report on integrated campaigns performance, specifically:
 
@@ -391,6 +430,7 @@ These dashboards were created by @aoetama and she is in the process of building 
 
 ### Key Metrics tracked on the Integrated campaign dashboards
 {: #dashboard-key-metrics}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 - **Inquiries**: Form fills on the campaign landing page + form fills tagged with the campaign utms anywhere on our marketing site.
 - **MQL**: Campaign inquiries that have MQL'ed (MQL date  is not blank).
@@ -418,9 +458,11 @@ These dashboards were created by @aoetama and she is in the process of building 
 
 ### 💡 Questions that the Integrated Campaign dashboards attempt to answer
 {: #dashboard-questions-to-answer}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Overall (WIP to deliver all)
 {: #questions-overall}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * What is the pipe-to-spend for our integrated campaigns? How much pipeline are our integrated campaigns generating?
 * What is the pipe-to-spend for our tactics (i.e. webcasts, gated content,etc.)? How much pipeline are our different tactics generating?
@@ -430,6 +472,7 @@ These dashboards were created by @aoetama and she is in the process of building 
 
 #### By Campaign
 {: #questions-by-campaign}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 * What is the pipe-to-spend for X campaign?
 * How much pipeline has X campaign generated?
@@ -444,6 +487,7 @@ These dashboards were created by @aoetama and she is in the process of building 
 
 #### Drilling down into the dashboards
 {: #dashboard-drilldowns}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 One of the dashboard functionalities that will be built out is the ability to drill into SFDC records that make up each chart/table.  
 
@@ -457,6 +501,7 @@ In the interim, here are example SFDC reports mirroring the Sisense dashboards w
 
 ## Offer-Specific Dashboards
 {: #dashboard-by-offer}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 SFDC reports and dashboards to track program performance real-time. Data from the below SFDC reports/dashboards along with anecdotal feedback gathered during program retros will be used as guidelines for developing and growing various marketing campaigns.
 
@@ -464,6 +509,7 @@ The SFDC report/dashboard is currently grouped by program types so MPMs can easi
 
 ### Key Metrics tracked on ALL virtual events dashboards
 {: #dashboard-virtual-events}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 *Note: Virtual Events include Webcast, Live Demos and Virtual Sponsorship*
 
@@ -475,6 +521,7 @@ The SFDC report/dashboard is currently grouped by program types so MPMs can easi
 
 #### Virtual Events Reporting
 {: #reporting-virtual-events}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 The [Webcast Dashboard](https://gitlab.my.salesforce.com/01Z6100000079e6) tracks all webcasts hosted on GitLab's internal webcast platform. It is organized into 3 columns. The left and middle columns tracks 2 different webcast series (Release Radar vs. CI/CD webcast series). The right column tracks various one-off webcasts since Jan'18.
 
