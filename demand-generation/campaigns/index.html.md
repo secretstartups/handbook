@@ -223,12 +223,6 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
 
-#### Related issues for other teams
-{: #other-team-issues}
-
-* [Content Team write-copy]()
-
-
 #### Campaign Team Issue Templates
 {: #campaign-issues-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -310,7 +304,7 @@ To be built out
 ```
 /label ~"mktg-status::wip" 
 /assign @
-/milestone %Mktg:
+/milestone %Mktg:2021-
 ```
 
 This will change the status to wip (work in progress), allow quick assignment and add to the appropriate milestone.
