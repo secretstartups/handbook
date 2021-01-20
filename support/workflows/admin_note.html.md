@@ -36,16 +36,16 @@ Slack conversations or Issue links may be used for the link if no ticket is lodg
 #### Sample Notes
 
 Disabling 2FA:
-`2018-11-05 | 2FA removed | user requested | https://gitlab.zendesk.com/agent/tickets/123`
+`2021-01-01 | 2FA removed | user requested | https://gitlab.zendesk.com/agent/tickets/123`
 
 Email Address Change/Removal:
-`2018-11-22 | Primary Email Change - No Access | User Requested | https://gitlab.zendesk.com/agent/tickets/123`
+`2021-01-01 | Primary Email Change - No Access | User Requested | https://gitlab.zendesk.com/agent/tickets/123`
 
 DMCA Request:
-`2018-11-05 | DMCA Violation | Abuse | https://gitlab.zendesk.com/agent/tickets/123`
+`2021-01-01 | DMCA Violation | Abuse | https://gitlab.zendesk.com/agent/tickets/123`
 
 Abuse Case:
-`2018-11-05 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123`
+`2021-01-01 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123`
 
 User Blocked:
-`2019-07-07 | User blocked by infra | see https://gitlab.com/gitlab-com/support/internal-requests/issues/441`
+`2021-01-01 | User blocked by infra | see https://gitlab.com/gitlab-com/support/internal-requests/issues/441`

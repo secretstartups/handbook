@@ -39,11 +39,10 @@ but those will be rare. Whenever we can we push towards empathy and humanity and
 
 Consider this spectrum:
 
-```
-Request requires -- v
-Pure process             |--------------------|----------------------|  Higher level thinking
-Robotic Support Voice    |--------------------|----------------------|  Empathy and Humanity
-Tone is -- ^
+```mermaid
+graph LR
+    A[Pure Process] ---|Request Requires| B[Higher Level Thinking]
+    C[Robotic Support] ---|Tone Is| D[Voice-Empathy and Humanity]
 ```
 
 Be empowered: at GitLab Support we want humans with agency, not agents. If something feels broken, ask.
@@ -94,7 +93,7 @@ In the characterization mode, we're working to establish basic facts about what 
 We can be transparent that we're working to characterize the user's issue. When in this operation mode, we can ask:
 
 * What the user is trying to do
-* Why the user is trying to do
+* Why the user is trying to do it
 * How the system is effectively behaving
 * How the user thinks the system should behave
 * State and context information that might be influencing the behavior we are seeing
@@ -114,7 +113,7 @@ It is interesting to note that the hypothesis test feeds back into the character
 
 You can come up with multiple theories and corresponding tests in a single response. In fact, doing so might help explicit the structure of the operation modes described above. The facts established in the characterization step would be common to all theories. The possibilities described in a single theory, however, might not apply to others, so it is important to keep them separate.
 
-The idea for this was taken from Jeff Anderson's talk: https://www.youtube.com/watch?v=DK1ew1HpmeY&t=127s
+The idea for this was taken from [Jeff Anderson's talk](https://www.youtube.com/watch?v=DK1ew1HpmeY&t=127s).
 
 ### Improving the Customer Experience Through Ticket Deflection
 "Ticket deflection" can sound like a way to weasel out of work, but in reality it's about improving the customer experience.

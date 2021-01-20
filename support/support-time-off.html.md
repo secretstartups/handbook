@@ -34,8 +34,7 @@ possible for everyone to take their desired days off. As you look to plan your
 time off, please:
 
 - ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-- consider a different time off schedule if the
-  [**Support - Time Off**](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com)
+- consider a different time off schedule if your regional capacity 
   calendar shows that on any of the days you would be absent the regional team
   would be short by 20% or more of its people
 - schedule your time off as far in advance as you can, especially for days that
@@ -67,6 +66,11 @@ on Slack and someone will share the calendar with you.
    1. After your personal calendar is linked, click 'Add calendar' under
    'Additional calendars to include?'. The 'Support - Time Off' calendar ID is
    `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
+
+1. Verify the following calendars are shared with you. These are shared with the Support Team alias.
+   1. [Support OOO - AMER](https://calendar.google.com/calendar/u/0/embed?src=c_rt0g4ptj1nut4045lcgsm21chg@group.calendar.google.com)
+   1. [Support OOO - APAC](https://calendar.google.com/calendar/embed?src=c_408bhp8a8j579lqr99j552u21s%40group.calendar.google.com)
+   1. [Support OOO - EMEA](https://calendar.google.com/calendar/u/0/embed?src=c_ev56c9rgjd9l1sn291i368jn78@group.calendar.google.com)
 
 ### Marking time off
 
@@ -135,6 +139,20 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
    Otherwise, select any group - the ticket will still be visible for all Support Engineers.
    Ensure to follow the internal note process described above so that the next engineer can come up to speed quickly.
 
+## How Support Handles Family and Friends Days
+
+During [Family and Friends Days](/handbook/ceo/family-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
+to operate as normal. During the month of a Family and Friends days you should book off a day of your choosing to spend as you
+please. Please follow the same guidelines as you would in [Choosing Time Off](#choosing-time-off).
+
+## How Support Handles Holidays
+
+During Holidays, GitLab Support continues to operate as normal. Please book holidays as required by your locality. For
+non-statutory holidays, please follow the same guidelines as you would in [Choosing Time Off](#choosing-time-off).
+
+As many customers may also take popular holidays Support Leadership will provide additional guidance in terms of 
+the number of engineers required on those days.
+ 
 ## Tips
 
 In addition to the companywide tips in

@@ -12,9 +12,9 @@ Associating a group with a subscription in CustomersDot:
 
 1. Log into: https://customers.gitlab.com/customers/sign_in
 1. Navigate to **Manage Purchases**
-1. Select **Change linked group**
-1. Select the desired group from the **This subscription is for dropdown**
-1. Select Proceed to checkout
+1. Select **Change linked namespace**
+1. Select the desired group from the **New namespace** dropdown
+1. Check your billing information and proceed with **Confirm purchase**
 
 If the user doesn't see a subscription in CustomersDot:
 

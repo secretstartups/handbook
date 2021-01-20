@@ -31,7 +31,7 @@ As per the [statement of support](/support/#name-squatting-policy), namespaces m
 
 Contact Owner:
 
-1. Create a **new Zendesk ticket** with the **namespace owner's email address** (found in admin).
+1. Create a **new Zendesk ticket** with the **namespace owner's email address** as the requester (found in admin).
 1. Set the form of the new ticket to **Gitlab.com (SAAS) Account Related Form**.
 1. Apply the **GitLab.com::Name Squatting Policy::Contact Namespace Owner** macro and mark the ticket as **On-hold**.
 1. Make an internal comment providing a link to the **namespace requesters ticket**.

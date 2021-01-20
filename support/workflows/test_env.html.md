@@ -121,12 +121,12 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 
 #### Install VMWare
 
-+ Navigate to https://store.vmware.com and purchase “VMware Fusion 10 (for macOS)” (or current version)
-   + Download “VMware Fusion 10 (for macOS)” using the provided link
-   + Install VMWare Fusion 10
-   + Launch VMWare Fusion
-   + Enter license details when prompted
-
+1. Navigate to [VMWare store](https://store.vmware.com), and then purchase
+   **VMware Fusion 10 (for macOS)** (or current version).
+1. Download **VMware Fusion 10 (for macOS)** using the provided link.
+1. Install VMWare Fusion 10.
+1. Launch VMWare Fusion.
+1. When prompted, enter the license details.
 
 #### Create new docker host
 
@@ -154,11 +154,12 @@ This guide involves configuring and setting up VirtualBox and Docker locally and
 
 #### Install VirtualBox
 
-+ Oracle VM VirtualBox is a free and open-source hosted hypervisor for x86 virtualization.
-+ Navigate to https://www.virtualbox.org/wiki/Downloads and download the latest version of the software
-   + Download “VirtualBox (for macOS)” using the provided link
-   + Install VirtualBox
+Oracle VM VirtualBox is a free and open-source hosted hypervisor for x86
+virtualization.
 
+1. Navigate to [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+1. Download the latest version of the software for your operating system.
+1. Install VirtualBox.
 
 #### Create new docker host
 

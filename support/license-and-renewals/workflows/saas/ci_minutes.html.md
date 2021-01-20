@@ -31,13 +31,13 @@ for more information.
 
 ## Purchased CI minutes are not associated with customer's group
 
-1. Check to see if the minutes are associated with the users personal namespace.
-1. Check to see if the user who purchased the minutes has owner permission for the group which the minutes should be associated.
-    - If no, reply to user stating that they need to either get their permission updated to owner or we can refund the minutes and an owner can purchase them again.
-    - If yes, continue …
-1. Try associating the minutes in the customer’s portal via the `Change linked group` button.
-    - If this works, stop and notify user.
-    -  If this is unsuccessful (either [tries to charge for users due to known issue](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/630) or appears to associate but doesn’t really do anything), continue …
-1. Reset the pipeline minutes via GitLab.com admin UI. Sometimes this shakes things loose and the association actually works.
-    - If this works, stop and notify user.
-    - If this is unsuccessful, create a console esclation issue ([example](https://gitlab.com/gitlab-com/support/internal-requests/issues/1050)). Include Zendesk link, CustomersDot link, Customer ID, Group Name, Group ID, Subscription (number/name). Assign the `Customers Console escalation` label.
+- Check to see if the minutes are associated with the user's personal namespace and verify if the customer consumed the purchased CI minutes associated with their personal namespace 
+
+    - If **no**, inform the customer that they've selected their personal namespace instead of their group by mistake(while purchasing the CI minutes) and pass the ticket to the billing team to process the refund so that the customer can repurchase the CI minutes for their group. 
+    - If **yes**, they're not eligible for a refund - inform the customer that they're already using the purchased CI minutes pack and redirect the customer to purchase a new CI minutes pack corresponding to their group. 
+    
+## GitLab.com group is not visible during the purchase
+
+- While purchasing the CI minutes, the billing page shows a drop-down menu to choose the accurate namespace with which the CI minutes should be associated. In case if the user is unable to view and choose the desired group during the purchase, most probably the user is not an owner of that group - reply to the user stating that they need to either get their permissions updated(to owner) to be able to choose the group on the billing page (or) an existing owner of the group can purchase the CI minutes using their customer portal account.
+
+

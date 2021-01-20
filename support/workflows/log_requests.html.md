@@ -57,6 +57,8 @@ User writes in to say their entire team is getting blocked and they want to know
 
 Example ticket: https://gitlab.zendesk.com/agent/tickets/132652
 
+Also see ["Identifying the Cause of IP Blocks on GitLab.com"](/handbook/support/workflows/ip-blocks.html).
+
 ### Example 3: GitLab requests action due to high load
 
 GitLab reached out to the owners of a project that was causing concern for the production team, who asked Support to reach out. The user wanted to know where the requests were originating from.

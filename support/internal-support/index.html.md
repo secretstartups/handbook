@@ -46,9 +46,13 @@ In order to attract GitLab Support's attention on Slack, you can use the team ha
 
 ### Requesting Support for Customers
 
-If your customer contacts you requiring technical support, please immediately direct them to open a ticket through the [Support Portal](https://support.gitlab.com). It is Support's primary function to provide technical support for our customers and as paid users they are entitled access to us. If, for some reason they cannot access the Support Portal, please direct them to email `support@gitlab.com`.
+If your customer contacts you requiring technical support, there are two good options available to you:
 
-**Please do not open a support ticket on behalf of a customer.** Doing so will cause the ticket to not be tied to the customer's organization and the appropriate SLA that they are entitled to will not be applied to it.
+1. (Recommended) In most cases, please direct them to open a ticket through the Support Portal. It is Support's primary function to provide technical support for our customers, and as paid users, they are entitled to access to us. This option is recommended as the customer is best positioned to describe their own issue and needs. Ensure that the customer understands that it will almost always be the fastest path to response to reach out to support directly, cc'ing in their technical account manager, as the support team operates within a 24/7 model, unlike any other team at GitLab.
+
+1. In sensitive cases in which asking a customer to open a ticket would aggravate a situation, you can open a support ticket. Please ensure first that you aren't logged into Zendesk with a light agent account. If you are, a straightforward workaround is to use a private/incognito window in your browser-of-choice to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address.
+
+If you'd like to be CC'd on the ticket, please make sure you request it on the ticket body.
 
 ### Requesting support for GitLab.com users that have account or login issues
 
@@ -94,7 +98,7 @@ You cannot send public replies to customers with a Light Agent account - if you 
 | ---------- | ------------------------------------------------------------ |
 | Extend GitLab.com Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=GitLab.com%20Trial%20Extension) using the `GitLab.com Trial Extension` template.
 | Extend Self-Managed Trial | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Self%20Managed%20Trial%20Extension) using the `Self Managed Trial Extension` template.
-| Change GitLab.com Trial to Bronze or Silver | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
+| Change GitLab.com Trial to a different plan type| [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Plan%20Change%20Request) using the `Plan Change Request` template.
 
 Grace period extensions are also treated similarly to trial extensions for self-managed. For GitLab.com, the customer should start a trial once their subscription has expired. To request these for either self-managed or GitLab.com, create a trial extension issue and update the title accordingly to indicate that it is an existing customer.
 
@@ -160,6 +164,9 @@ If *none* of these above are options for your case, open a [billable members int
 
 ### Other
 
+#### I want to escalate a ticket
+Please see our dedicated [Support Escalations Page](/handbook/support/internal-support/support-escalations.html).
+
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
 
@@ -202,7 +209,7 @@ If you'd like to enable this, please:
 
 #### My customer needs a report of all the users within their group(s) structure
 
-To view the group's number of billable members, a member of the group with `Owner` permissions may visit the **Settings -> Billing** section of it to see a breakdown. The number of billable members is the amount listed under `Seats currently in use` and this is the amount that will come up whenever they link their group to a paid subscription. Billable members [consist of every user](https://about.gitlab.com/pricing/licensing-faq/#who-gets-counted-in-the-subscription) who is added to a group, subgroup, or project within a paid namespace with the only exception being Guest users within a namespace on a Gold subscription.
+To view the group's number of billable members, a member of the group with `Owner` permissions may visit the **Settings -> Billing** section of it to see a breakdown. The number of billable members is the amount listed under `Seats currently in use` and this is the amount that will come up whenever they link their group to a paid subscription. Billable members [consist of every user](https://about.gitlab.com/pricing/licensing-faq/#who-gets-counted-in-the-subscription) who is added to a group, subgroup, or project within a paid namespace with the only exception being Guest users within a namespace on certain subscription levels.
 
 We have a [billable members API endpoint](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group) that will produce a list of all the billable members for the group. This must be run with your own PAT.
 

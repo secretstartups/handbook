@@ -21,6 +21,7 @@ description: This page is about working with sales.
 1. Leave a message for the Salesforce `Account Owner` on Chatter with the
    relevant details.
    * Share the link to the Chatter message in an internal note on the ticket.
+     * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
      currently taking time off work.
    * If reaching out to the account owner on Slack (always on `#support_sales_escalation`
@@ -63,7 +64,7 @@ _(Pro tip: create a personal ticket view where "Escalated to Sales" = checked, t
 ## Specific workflows to pass to Sales
 
 Many of the following workflows advise you to `Chatter Sales`.  How to do this
-is described in the [expired license](/support/workflows/associating_needs_org_tickets_with_orgs.html#handling-customers-with-expired-licenses-and-updating-info-on-sfdc-side)
+is described in the [expired license](/handbook/support/workflows/sla_and_views.html#handling-customers-with-incorrect-expired-support)
 process.
 
 The following workflows use the [Pass to Sales Zendesk macro](https://gitlab.zendesk.com/agent/admin/macros/360025924680)

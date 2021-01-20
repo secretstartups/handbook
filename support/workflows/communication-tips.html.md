@@ -44,7 +44,7 @@ anyone working on the ticket after you to easily find the discussion.
 
 ---
 ##### `@mustread`
-The [@must-read Slack bot](https://finalem.com/must-read) transforms any important message into micro-task. So, no one will miss it. It is a bot that will helps our team to collect important messages, announcements and links, and track who have read it.
+The [@must-read Slack bot](https://finalem.com/must-read) transforms any important message into micro-task, so that no one will miss it. It also helps our team collect important messages, announcements, and links, and track who has read them.
 @must-read helps to control all significant information no matter how many channels you have and how big is your team. You can easily check who has read the message and who has not. No more “Did you read it guys?” questions needed.
 
 ###### Use cases
