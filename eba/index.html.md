@@ -36,6 +36,7 @@ If you would like to schedule a meeting with E-Group at GitLab, please slack the
 * Urgency/ Desired timeframe: in the next two days, in the next week or two, etc
 * Duration: 25 mins, 50 mins, etc.
 * Subject of the meeting
+* Desired outcome of the meeting
 * Provide context: include agenda to be covered. Share google doc if available to be included in invite or link relevant issues, slides, etc.
 * [Meeting Template](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit#heading=h.954v91mukl7r) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template.
 * [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) should be used for all meetings with Customers or Prospects and provided to the EA at the time of the meeting request.  Select file > make a copy to use this template and please make sure it is editable by everyone at GitLab. Watch Nico Ochoa in [this 6.5-minute video](https://youtu.be/Wdg9YGQvs20) share his best practices for completing this template ([click here](https://docs.google.com/document/d/1rITvwVvv9Vn89qAgRX2Pf69zzoRp2AcqjtYBVUAria8/edit?usp=sharing) for Nico's template). If you have any questions related to this document, please ping in #eba-team in slack.
