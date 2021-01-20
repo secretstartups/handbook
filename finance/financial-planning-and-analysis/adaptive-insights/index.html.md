@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Adaptive Insights"
+description: “Discover how GitLab uses Adaptive Insights to plan, budget, and forecast GitLab’s planning cycles”
 ---
 
 ## On this page
@@ -46,6 +47,47 @@ If you need access to Adaptive Insights, please open an [access request](https:/
 #### Accounts
 
 #### Assumptions
+
+##### Revenue Model 
+
+In its current state, the revenue model sheet is a static sheet that users input data into to build bookings, ARR and revenue. The revenue model sheet has inputs that come from several sources and are documented below, along with the inputs that build the sheet. 
+
+- Bookings 
+
+Bookings data is built from a model that Sales Finance owns and is inputted into the model several times a month. The input of bookings data occurs during a reforecast or plan and when actuals are reconciled with the Sales Ops team. 
+
+- ARR 
+
+Each month on the fourth business day of the month, the Corporate Finance team records ending ARR for the month in closing. In turn, this becomes the beginning ARR amount for the month in progress. For example, if GitLab's ARR was $1M at the end of month 1, then the beginning ARR would be $1M at the beginning of month 2. The month in progress builds upon the beginning ARR amount and several other inputs to forecast ending ARR. Those inputs are 'New and Growth Booked Net ARR', 'Booking Timing Adjustments', and 'Trueups'. GitLab also includes an input that results in a deviation within the forecasted model. These inputs are the basis of GitLab's Booking to ARR to Revenue forecast walk
+
+`Beginning ARR + New Booked Net ARR + Growth Booked Net ARR + Booking Timing Adjustments + (-1*Trueups) + Deviation Amount = Exit ARR`
+
+With the walk, GitLab can determine it's Delta ARR value. Delta ARR is the difference between Exit ARR from the prior period and the Exit ARR from the current period. 
+
+`Exit ARR (Current Period) - Exit ARR (Prior Period) = Delta ARR`
+
+- Revenue
+
+GitLab's revenue forecast is comprised of several models, which are noted below. 
+
+
+- Professional Services model
+
+This model is owned by Sales Finance and forecasted the expected recognized revenue GitLab expects to obtain during a time period for all of GitLab's Professional Services offerings. The result of the expected recognized revenue is fed into the Bookings to ARR to Revenue model and recorded under GL account 4002, 4010. 
+
+- GitLab.com model
+
+This model is owned by R&D Finance and forecasted the expected recognized revenue GitLab expects to obtain during a time period for all of GitLab's SaaS offerings. The result of the expected recognized revenue is fed into the Bookings to ARR to Revenue model and recorded under GL account 4007.
+
+- Bookings to ARR to Revenue model
+
+The bookings to ARR to Revenue model compiles the Exit MRR (Exit ARR / 12) amount, GitLab.com amount, and Professional Servicesa amount to forecast out the expected recurring revenue for a specific time period. GitLab backs out the gitlab.com amount (recorded in GL account 4007) to forecast subscriptions acccount GL account 4001. GitLab does this by taking (Exit MRR - GitLab.com MRR) which results in the amount for GL account 4001. In a majority of cases, Exit MRR should always be less than or equal to recognized revenue. 
+
+- Template
+
+The revenue model template can be found by searching the title `Bookings to ARR to Revenue Walk [Template]` in Google Drive or reaching out to the Corporate FP&A partner. The template puts together the build from Bookings to Revenue in a walk that is easily understandable and traceable. 
+
+
 
 #### Currencies
 
@@ -158,7 +200,32 @@ The below image shows the current report structure in Adpative Insights. There a
 
 #### Reports 
 
+## Processing Headcount Movements
+Below details the process to account for headcount movements in Adaptive based on the type of change that’s occurred. 
 
+#### Net New Roles
+Net new hire movements which increase GitLab’s headcount and are not related to a team member leaving GitLab or transferring between departments.
+1. On the Planned Personnel sheet, create a new row and enter in the role details for the net new position. Include an anticipated start date and enter the headcount name as “TBH”. 
 
+#### Team Member Terminations
+For headcount moves due to team members leaving GitLab.
 
+1. When a team member leaves GitLab, in the Active Personnel sheet where the headcount record is located, enter the team members' last day into the “End Date” column. This will feed into the calculations within Adaptive so any costs associated with that headcount will cease once the end date surpasses. 
+1. If the role is to be backfilled, on the Planned Personnel sheet, create a new row and enter in the role details of the termed team member. Populate the “Hire Status” field with Backfill and ensure you have entered this into the same level (department) that the termed team member was in. For the headcount name, use “TBH-” + First Initial + Last Name (e.g. for Joe Bloggs backfill, “TBH-JBloggs”) so it can be easily identified as the backfill role for that team member and assist with headcount management processes.
 
+#### Promotions (same job family), salary increases, new hiring managers/etc.
+1. When a team member gets promoted into the same job family, has a salary change, a new hiring manager, etc., the new information is overwritten on the existing entry field for that headcount in the Active Personnel sheet. The intention is to keep the Active Personnel sheet list as concise as possible. 
+- E.g. A Financial Analyst is promoted to a Senior Financial Analyst - overwrite the Job Title field with the new role name and update any other relevant fields. 
+
+#### Internal Transfer
+For headcount moves when a team member is transferred between departments and the original position is to be backfilled - e.g. team member moves from Marketing to Sales, and Marketing wants to backfill that position. 
+
+1. On the Active Personnel sheet enter an end date on the original headcount record.
+2. Stay on the Active Personnel sheet and create a new entry/row in the level which matches the department the team member is moving to, and enter the internal transfer headcount details.
+3. In the Planned Personnel sheet, create a new row and populate the details of the original position. For the headcount name, use “TBH-” + First Initial + Last Name (e.g. for Joe Bloggs backfill, “TBH-JBloggs”) so it can be easily identified as the backfill role for that team member and assist with headcount management processes.
+
+#### Internal hire (no backfill)
+For internal headcount moves when there is an unknown candidate and no new position - e.g. 1 Manager role promotion available to replace 1 of 3 Analysts roles -  no visibility of who will get promoted and the analyst position will not be backfilled. This process is required in order for the recruiting team to be able to create a record in Greenhouse using a GHP ID that will be generated from the placeholder entry. 
+
+1. On the Planned Personnel sheet, create an entry/row for the internal movement placeholder. Enter the headcount Name as “TBH”, the Hire Status as “Placeholder” and ensure no salary information is included. This will ensure that the calculations do not flow into the Income Statement for this $0 placeholder entry.
+1. Once the successful team member has been identified, update their record - overwrite the job title, salary information etc. and then delete the internal movement TBH entry from the Planned Personnel sheet.

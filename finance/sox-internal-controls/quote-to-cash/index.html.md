@@ -950,17 +950,17 @@ Sales is made to customer through following channels:
 
 **a. Web Direct Sales:**
 
-Customer logs in to Subscriptions App and directly buys the product as per their requirements.
+Customer logs in to CustomersDot and directly buys the product as per their requirements.
 
-* Step 1: Customer completes the purchase in Subscriptions App and credit card details go through. An opportunity is automatically created in Salesforce.
+* Step 1: Customer completes the purchase in CustomersDot and credit card details go through. An opportunity is automatically created in Salesforce.
 
 * Step 2: Transaction is automatically pushed  to Zuora from Salesforce once purchase is successful.
 
-* Step 3: Zuora pushes the customer information along with Zuora reference number to the [Subscriptions App](https://docs.google.com/document/d/1iLiq3IegyaFZISDUAXcDVt87PzGS3zn8SKZrRvcJgYY/edit). 
+* Step 3: Zuora pushes the customer information along with Zuora reference number to the [CustomersDot](https://docs.google.com/document/d/1iLiq3IegyaFZISDUAXcDVt87PzGS3zn8SKZrRvcJgYY/edit). 
 
-* Step 4: Upon successful receipt of Zuora reference number the Subscriptions App will push the details to the license application . Details such as customer info, contact details and product details are automatically pushed into the [license app](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit).
+* Step 4: Upon successful receipt of Zuora reference number the CustomersDot will push the details to LicenseDot . Details such as customer info, contact details and product details are automatically pushed into the [LicenseDot](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit).
 
-* Step 5: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through Subscriptions App.
+* Step 5: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 **b. Sales team assisted sales:**
@@ -969,11 +969,11 @@ Sales team is involved in the sales process, SalesForce is used to create custom
 
 * Step 1: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/15iH3EBfDCNRt03zOzu84dXC3u-kBq6fpOj4dIB6rJGA/edit) as closed and won in SalesForce.
 
-* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details](https://docs.google.com/document/d/1Vauh36fizeaV7doPhftCGmpdMwZoUkn-p9xxMRTH-fM/edit) to Subscriptions App. 
+* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details](https://docs.google.com/document/d/1Vauh36fizeaV7doPhftCGmpdMwZoUkn-p9xxMRTH-fM/edit) to CustomersDot. 
 
-* Step 3: Upon successful receipt of Zuora reference number the Subscriptions App will push the [details to the license application](https://docs.google.com/document/d/1QDOfqrcuAteeLukTk0VGyeRzVXH66WjiYdx0psFQ2Cg/edit). Details such as customer info, contact details and product details are automatically pushed into the license application.
+* Step 3: Upon successful receipt of Zuora reference number the CustomersDot will push the [details to LicenseDot](https://docs.google.com/document/d/1QDOfqrcuAteeLukTk0VGyeRzVXH66WjiYdx0psFQ2Cg/edit). Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
 
-* Step 4: license application automatically sends license Key to customer through an email, alternatively customer can also download the license key through Subscriptions App.
+* Step 4: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 
@@ -989,11 +989,11 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 4: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/1bMj3wDX860kGk1ZxVvB721rls7VIAAlPBRpo9xcgMU4/edit) as closed and won in SalesForce.
 
-* Step 5: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer details to [Subscriptions App](https://docs.google.com/document/d/1Se_JzQrg19USGdYiIjB3I-En1yyq1JOMrIXHNDrDEH0/edit). 
+* Step 5: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer details to [CustomersDot](https://docs.google.com/document/d/1Se_JzQrg19USGdYiIjB3I-En1yyq1JOMrIXHNDrDEH0/edit). 
 
-* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the Subscriptions App will push the details to the [license application](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into the license application.
+* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the CustomersDot will push the details to the [LicenseDot](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
 
-* Step 7: license application automatically sends license Key to customer through an email.
+* Step 7: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
 
 
 
@@ -1037,15 +1037,15 @@ Customers can cancel the subscription anytime within 45 days and avail full refu
 **2. On Cloud  Model**
 
 In the on cloud model there is no concept of Licence Keys, the successful provisioning of an account will automatically enable the customer to start using the account.<br>
-Once a purchase has been made the customer has to connect their customer account (Subscriptions App) with GitLab.com by opening both the tabs simultaneously and selecting the connect option available in the Subscriptions App.
+Once a purchase has been made the customer has to connect their customer account (CustomersDot) with GitLab.com by opening both the tabs simultaneously and selecting the connect option available in the CustomersDot.
 
 
 **a. Web Direct Sales:**
 
-Customer logs in to Subscriptions App and directly buys the product as per their requirements.
+Customer logs in to CustomersDot and directly buys the product as per their requirements.
 
 
-* Step 1: Customer logs on to the Subscriptions App and  clicks on [“Buy new subscription”](https://docs.google.com/document/d/1rMWfTtj76ye3xuNGqgjBvItEQsUwJhDwLHot0bnbi1o/edit) to select the subscription needed. If the customer is an already existing customer then the system [prompts](https://docs.google.com/document/d/1jsnXvmMNiYTlkO_Xro2U4mEN5_wC5Qi1O4VPhtHpuxE/edit) if the customer wants to manage an existing account or add a new subscription.
+* Step 1: Customer logs on to the CustomersDot and  clicks on [“Buy new subscription”](https://docs.google.com/document/d/1rMWfTtj76ye3xuNGqgjBvItEQsUwJhDwLHot0bnbi1o/edit) to select the subscription needed. If the customer is an already existing customer then the system [prompts](https://docs.google.com/document/d/1jsnXvmMNiYTlkO_Xro2U4mEN5_wC5Qi1O4VPhtHpuxE/edit) if the customer wants to manage an existing account or add a new subscription.
 
 * Step 2: Customer selects the subscription that clicks on [“Order Plan”.](https://docs.google.com/document/d/1PNSXqrKWABLit63V-OVdztQf4vymmBvDTRJJOofS5WI/edit)
 
@@ -1061,13 +1061,13 @@ Sales team is involved in the sales process, SalesForce is used to create custom
 
 * Step 1: Sales team completes the sales and[ marks the opportunity](https://docs.google.com/document/d/1rH4-Uk0GI71Cc-QUVIVufCRUXX6ohN1nZ0_hAdvQsLM/edit) as closed and won in SalesForce.
  
-* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer [details to Subscriptions App](https://docs.google.com/document/d/15uwg8uDjfylopuh3CuNnRGAOOEN6_GCf57KLLfKj93s/edit). 
+* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer [details to CustomersDot](https://docs.google.com/document/d/15uwg8uDjfylopuh3CuNnRGAOOEN6_GCf57KLLfKj93s/edit). 
 
-* Step 3: Customers need to [link](https://docs.google.com/document/d/1aBqXQppzo99Uoa91q1Y7x9q9MYt91PrPWFpqiVEOBqA/edit) the GitLab Subscriptions App with their account in GitLab.com. Click on the “My accounts” option in Subscriptions App and select account details option.
+* Step 3: Customers need to [link](https://docs.google.com/document/d/1aBqXQppzo99Uoa91q1Y7x9q9MYt91PrPWFpqiVEOBqA/edit) the GitLab CustomersDot with their account in GitLab.com. Click on the “My accounts” option in CustomersDot and select account details option.
 
 * Step 4: Click on [Link Account/Change linked account](https://docs.google.com/document/d/1mtega3-recCDwl7UvgSt4Cywd5jwRkvShS_mvLObgOE/edit) option.
 
-* Step 5: Log on to a different browser tab and log in to GitLab.com. Come back to Subscriptions App and Click on [“Change linked account/Link account”](https://docs.google.com/document/d/1xtp_m_ZWxxwKYrPcPz-bkicDtTWHl-hulBKMNYFQOzc/edit) to connect both the accounts. There is an API Cache that has the login details, once the “Change linked account/Link account” button is selected the accounts get linked.
+* Step 5: Log on to a different browser tab and log in to GitLab.com. Come back to CustomersDot and Click on [“Change linked account/Link account”](https://docs.google.com/document/d/1xtp_m_ZWxxwKYrPcPz-bkicDtTWHl-hulBKMNYFQOzc/edit) to connect both the accounts. There is an API Cache that has the login details, once the “Change linked account/Link account” button is selected the accounts get linked.
 
 * Step 6: Now the customer needs to [link the name space](https://docs.google.com/document/d/1zaC76xddppTwwT-MoMQmilp2FSZSRCQZF3fRwEZhjOY/edit). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 
@@ -1082,7 +1082,7 @@ Sales team is involved in the sales process, SalesForce is used to create custom
 
 **Premature cancellation: Cancellation within the first 45 days.**
 
-Ideally once the billing team cancels the subscription in Zuora, Zuora creates an amended invoice and based on the amended invoice Subscriptions App instructs GitLab.com to downgrade the customer account to the basic version.  
+Ideally once the billing team cancels the subscription in Zuora, Zuora creates an amended invoice and based on the amended invoice CustomersDot instructs GitLab.com to downgrade the customer account to the basic version.  
 Since this is not happening automatically, GitLab admin downgrades the account manually.
 
 * Step 1: Billing team creates an internal [issue](https://docs.google.com/document/d/1UrAMTI53Qj5XvvFi4Q-BZnkKJhqkbvkYZ2XKQ62ri1g/edit) for the support team to have the subscription cancelled manually.
@@ -1118,13 +1118,13 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 5: Sales team completes the sales and [marks](https://docs.google.com/document/d/1jztd8LPmHGaaOdzeRcAZeePeDU8u85v-Uh2nF3BTbpc/edit) the opportunity as closed and won in SalesForce.
 
-* Step 6: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details to Subscriptions App.](https://docs.google.com/document/d/1VVnigNSfMDmdP5S8bMiZ-vyqDRPVyp_gH9BbEEW6-IU/edit) 
+* Step 6: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details to CustomersDot.](https://docs.google.com/document/d/1VVnigNSfMDmdP5S8bMiZ-vyqDRPVyp_gH9BbEEW6-IU/edit) 
 
-* Step 7: Customers need to [link the GitLab Subscriptions App](https://docs.google.com/document/d/1Zg_JgmMotSXdXRWoZsHN5AsRtLyxJ112p0D1-apNv8o/edit) with their account in GitLab.com. Click on the “My accounts” option in Subscriptions App and select account details option.
+* Step 7: Customers need to [link the GitLab CustomersDot](https://docs.google.com/document/d/1Zg_JgmMotSXdXRWoZsHN5AsRtLyxJ112p0D1-apNv8o/edit) with their account in GitLab.com. Click on the “My accounts” option in CustomersDot and select account details option.
 
 * Step 8: Click on [Link Account/Change linked account option](https://docs.google.com/document/d/1EFPxlulStwdArlcozhC2qCr19oiiyPknIn20s1Lc1FA/edit).
 
-* Step 9: Log on to a different browser tab and log in to GitLab.com. Come back to Subscriptions App and Click on “Change linked account/Link account” to connect both the accounts. There is an API Cache that has the login details, once the [“Change linked account/Link account”](https://docs.google.com/document/d/1irrKsrhnnVtU3Qcl5-bkqxKReqIIZShWB1DPhrNiKW0/edit) button is selected the accounts get linked.
+* Step 9: Log on to a different browser tab and log in to GitLab.com. Come back to CustomersDot and Click on “Change linked account/Link account” to connect both the accounts. There is an API Cache that has the login details, once the [“Change linked account/Link account”](https://docs.google.com/document/d/1irrKsrhnnVtU3Qcl5-bkqxKReqIIZShWB1DPhrNiKW0/edit) button is selected the accounts get linked.
 
 * Step 10: Now the customer needs to [link the name space](https://docs.google.com/document/d/1M3ZHmri2s0njoZl9jelITpG-WxT6X8Jlwp_dXZNnTo8/edit?usp=drive_web&ouid=111314924466435551734). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 

@@ -12,7 +12,7 @@ title: "Hire to Retire"
 
 **Introduction**
 
-Hire to Retire includes the process of recruitment, payroll and separation from the organisation. This page decribes the various stages of the Hire to Retire process. 
+Hire to Retire includes the process of recruitment, payroll and separation from the organisation. This page decribes the various stages of the Hire to Retire process.
 
 This process is dependant upon the following applications:
 
@@ -30,12 +30,11 @@ This process is dependant upon the following applications:
 
 **Hiring in Greenhouse**
 
-
 * GitLab uses Greenhouse for recruitment activities **(H2R.C.01 and H2R.C.03)**. Following are the key activities performed through Greenhouse:
 
     * Approving new jobs
     * Posting job vacancies internally
-    * Reviewing Candidate applications 
+    * Reviewing Candidate applications
     * Scheduling interviews
     * Approving offers **(H2R.C.01)**
     * Sending contracts of hire
@@ -45,25 +44,25 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 
 **Creating a job on Greenhouse**
 
-* Navigate to the [Add icon](https://drive.google.com/open?id=17TUOnNCuRGXPStCqJZ2e71eee17uHFMNqoG9xfvtKto) in the upper right-hand corner and select Create a Job from the drop-down menu.
+* Navigate to the [Add icon](https://drive.google.com/open?id=17TUOnNCuRGXPStCqJZ2e71eee17uHFMNqoG9xfvtKto) in the upper right-hand corner and select `Create a Job` from the drop-down menu.
 
-* If a job has been created in the past, a user with Job Admin level permissions on that particular job can elect to use that previous job as a template for the [new job created](https://drive.google.com/open?id=1SO708Hi0zUMUXPq8ApWmJkRhdcukkjnV77TOBMirBiM). To do so, click Copy an existing job. 
+* Click `Copy an Existing Job`, then filter `Job Status = Draft` and select the appropriate [TEMPLATE]. Alternatively, you can use the `Department` filter to narrow the options.
 
-    * From the [subsequent page](https://drive.google.com/open?id=1K8eqlD2TuT0kNte0Q-YnybxREEt_Zt0UKRwtWKDAU3k), select either Copy an Existing Job.
-    * Select a template, then proceed as per the Job setup flow configured in the system.
+    * From the [subsequent page](https://drive.google.com/open?id=1K8eqlD2TuT0kNte0Q-YnybxREEt_Zt0UKRwtWKDAU3k), select either `Copy an Existing Job`.
+    * Select a [TEMPLATE], then proceed as per the Job setup flow configured in the system.
     * Complete the steps of the job setup flow to create the vacancy.
     * Once a vacancy has been selected to copy, the first screen will ask for basic job info.
     * Input the number of openings to be hired for this role.
     * Under "Employment Type", select if the vacancy is a full-time, part-time, intern, or contract role.
     * Under "Salary"
-        * For roles in the [Compensation Calculator Tool](/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](/handbook/people-operations/global-compensation/#exchange-rate)
+        * For roles in the [Compensation Calculator Tool](/handbook/total-rewards/compensation/compensation-calculator/calculator/): Take the benchmark x level x 0.25 for the low end and benchmark x level x 0.85 on the high end.[Refer benchmark calculation](/handbook/total-rewards/compensation/#exchange-rates)
         * For roles not in the compensation calculator (Sales/Director/Exec): Leave blank if not known. The People Operations Analyst will edit as the first level of approval. People Ops Analysts will pull survey data in San Francisco for this role then apply the same formula for 0.25 on the low end and 0.8 on the high end.
     * If the vacancy is eligible for a bonus, input the range of the bonus amount under the "Bonus" field. If there are no bonuses associated with this vacancy, then the field is to be left blank.
-    * If this vacancy is eligible for stock options, input the range of offered stock options under the "Options" field. 
+    * If this vacancy is eligible for stock options, input the range of offered stock options under the "Options" field.
     * Under "Type" choose if this is a new hire or a backfill.
     * Click "Create Job & Continue".
     * The next page consists of all of the attributes interviewers will be evaluating for candidates in their scorecards across the full interview process.
-    
+
 **Scorecard updating**
 
 * Scorecards are text boxes where the vacancy creator can add in their notes. Some scorecards for different roles or stages may have additional text boxes for specific questions. If a text box is required, there will be a red asterisk by the question.
@@ -71,34 +70,33 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 * Further, there are two additional links, Private Note and Note for Other Interviewers, which will open upon clicking.
 * Below the text boxes for notes, each role has a list of attributes that we are looking for. Each stage in the process has certain attributes highlighted that it's recommended for evaluation.
 * The scorecard will automatically save the entered information.
-* Finally, click Submit Scorecard. 
+* Finally, click Submit Scorecard.
 
 **Creation of stages in candidate assessment**
 
 * The next section is the Interview Plan, fill in the Interview Plan accordingly.
-* The Application Review stage is mandatory.
-* Many vacancies have an Assessment as the first step in the process.
-* If the vacancy requires an Assessment, but there is no Assessment stage already added, scroll to the bottom of the page and click ["Add a Stage"](https://drive.google.com/open?id=1YNN-Im-QbxK75v-eB7wjou6WmCbzM_r7ZV2QkfWgEjM).
+* The `Review` stage is mandatory.
+* Many vacancies have an `Assessment as the first step in the process.
+* If the vacancy requires an `Assessment`, but there is no `Assessment` stage already added, scroll to the bottom of the page and click ["Add a Stage"](https://drive.google.com/open?id=1YNN-Im-QbxK75v-eB7wjou6WmCbzM_r7ZV2QkfWgEjM).
 * Click the “Edit” button, then create the stage by filling in the applicable fields, such as “Custom Questions.” In the “[Interview Prep](https://drive.google.com/open?id=1j5W6wvw2mY7nOke1wsq9pCkk91DGo3gpFbfuc5smqRA)” section, specify the items the graders have to look for when they review the candidates' answers.
 * Finally, under "Additional Settings", check "This interview requires scorecards to be submitted" and leave unchecked "Hide candidate name and details from grader."
 * Click "Save".
-* The next stage is the screening call stage, which should be standard across the board. It is recommended to click "Edit" on this stage, scroll to the bottom, and choose the recruiter as the default interviewer. 
-* The next stage is the team interview, where the candidates will meet with peers and the hiring manager.
-* Under this stage, there will be different types of interviews. They are typically called "Manager Interview", "Peer Interview 1", and “Peer Interview 2". 
+* The next stage is the `Screening` stage, which should be standard across the board. It is recommended to click "Edit" on this stage, scroll to the bottom, and choose the recruiter as the default interviewer.
+* The next stage is the `Team Interview`, where the candidates will meet with peers and the hiring manager.
+* Under this stage, there will be different types of interviews. They are typically called "Manager Interview", "Peer Interview 1", “Peer Interview 2" and "Executive Interview."
 * For each interview in the stage, click "Edit" next to it. First, select the appropriate attributes to focus on in that interview. Then include the purpose of the call and sample questions the interviewer should ask.
 * The two "Additional Settings" should both be checked.
 * Then click "Save".
-* The next stage is the executive interview stage, where there are two interviews with the executive for the division of the vacancy as well as the optional CEO interview. The executive interview can be customized as needed following the guidelines for the team interview, including selecting attributes, adding custom questions, and selecting a default interviewer. 
-* The next stage is for reference checks, with two sections for a former manager and a former peer of the candidate. These can be customized as needed.
-* The last stage is the offer stage. (Please refer creating a vacancy or offer approval flow)
+* The next stage is for `Reference` checks, with two sections for a former manager and a former peer of the candidate. These can be customized as needed.
+* The last stage is the `Offer` stage. (Please refer creating a vacancy or offer approval flow)
 
 **Assignment of hiring team**
 
-* The next section is assigning the hiring team & the related access restrictions
+* The next section is assigning the hiring team & the related access restrictions.
 * The first step is to scroll down to the "Who Can See This Job" to assign permissions to the team members who will need access. Continue scrolling to "Job Admin: Hiring Manager" and click the pencil and add the Hiring Manager(s), including their Managers, Directors, and Executive, then click save.
-* Scroll back to the top of the page and select the main people responsible for the job. Under "Hiring Managers", click the pencil and select the Hiring Manager for the vacancy and click save. Under "Recruiters", select the recruiter assigned to the particular division. Under "Coordinators", select the coordinators assigned to the  division. 
+* Scroll back to the top of the page and select the main people responsible for the job. Under "Hiring Managers", click the pencil and select the Hiring Manager for the vacancy and click save. Under "Recruiters", select the recruiter assigned to the particular division. Under "Coordinators", select the coordinators assigned to the  division.
 * Once the hiring team is added, click "This looks good, NEXT" at the right.
-* The next section is the Approvals section. (Please refer creating a vacancy or offer approval flow)
+* The next section is the Approvals section. (Please refer creating a vacancy or offer approval flow).
 * Double check that the vacancy posted correctly in Greenhouse.
 
 **Creating a vacancy or offer approval flow (If unavailable)**
@@ -108,7 +106,7 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 * Scroll to the bottom of the page and click "Add Approval by office/department".
 * Then choose what division/department. Do not select an office. Click "Create".
 * Under both the job and offer approvals columns for the new section, if there are any automatic additions that populate, remove them by hovering over them and clicking the "x".
-* Click "Add Approval Step" under the jobs approval column. Then click "Add" and search for the appropriate team member for Step 1 and select their name. If there should be more than one team member, click "Add" again and search for the team member’s name and select their name.<br> 
+* Click "Add Approval Step" under the jobs approval column. Then click "Add" and search for the appropriate team member for Step 1 and select their name. If there should be more than one team member, click "Add" again and search for the team member’s name and select their name.<br>
   Note #1: The vacancy approval flow should follow the below mentioned approval flow format.
 * Then, Click "Save".
 * Perform the same process to update offer approval flows.<br>
@@ -136,7 +134,8 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 
 **Publicizing the vacancy**
 
-* The careers page currently links to a general 'Talent Community' submission, which is not tied to any jobs.  
+* The careers page currently links to a general 'Talent Community' submission, which is not tied to any jobs.
+    * However, a select few NQR jobs have been posted externally (i.e. they are accepting inbound applications).
 * Team Members submit their referrals via an Issue, which mirrors the 'Referral In-Take Questionnaire.' Details about this process can be seen [here](/handbook/hiring/referral-process/)
 * The hiring team may advertise the vacancy through the following sites and is open to posting to more, in order to widely publish a variety of vacancies.
 
@@ -154,15 +153,12 @@ Employee referrals are made through issues based on details mentioned [here](/ha
 
 * The hiring team can create specific tracking links through Greenhouse in order to include the specific source of different job boards.
 
-
 **Creating tracking links in Greenhouse for external postings**
-
-
 * Click the [Configure icon](https://docs.google.com/document/d/1Fxpdg3S_5q7J5JqTR7JdVJ0Cc6ijLP0vRK7ilh6pU7c/edit) in the upper-right hand corner and navigate to Job Board on the left-hand panel.
 * Select a job board from the subsequent list and click the ellipsis inline with the job board. Click [Tracking Link](https://docs.google.com/document/d/1e8yL2M0Sc1_ixTbwpEamn_d70xXd26fykf4nwy1McB8/edit) from the dropdown menu.
 * Use the [Get a Tracking Link dialog box](https://docs.google.com/document/d/14Jn5rNltJzTgVVKjR05UEmAyyhekVc4La_pRiwGxdIQ/edit) to configure the Who gets credit and Source fields. Click Create Link when finished.
     * A tracking link for the job board will be generated in the provided field. Copy the tracking link and share.
- 
+
 **Offer Packages**
 
 After completion of the interview and candidate selection, approval in Greenhouse needs to be initiated.
@@ -170,16 +166,16 @@ After completion of the interview and candidate selection, approval in Greenhous
 **Offer Package Creation**
 
 * The hiring manager will work with the recruiter on the offer details and the recruiter will be responsible for submitting the official offer details through Greenhouse.
-* To create the offer package, move the candidate to the "Offer" stage in Greenhouse and select "Manage Offer." Input all required and relevant information, ensuring its correctness, and submit; then click Request Approval **(H2R.C.02)**. 
+* To create the offer package, move the candidate to the "Offer" stage in Greenhouse and select "Manage Offer." Input all required and relevant information, ensuring its correctness, and submit; then click Request Approval **(H2R.C.02)**.
 * Information in the offer package for counter offers should include the following in the "Approval Notes" section:
-    
+
     * New offer
     * Original offer
     * Candidate's salary expectation beginning of process
     * Candidate's counter offer<br><br>
 
 * Anyone making comments regarding an offer should make sure to @mention the recruiter and hiring manager:
-    
+
     1. The People Ops Analyst will receive an email notifying them of the offer.
     1. The People Ops Analyst will ensure the compensation is in line with compensation benchmarks.
     1. Only one approval is needed in order to move forward.
@@ -190,19 +186,17 @@ After completion of the interview and candidate selection, approval in Greenhous
     1. Only one approval is required in order to move forward with the offer.
     1. Typically, the CPO will provide the final approval, but if the CPO is out of office, the CEO will be the final approver.
 
-* It is recommended to also ping approvers, especially the executive (and CEO if needed) in Slack with the message 
-
+* It is recommended to also ping approvers, especially the executive (and CEO if needed) in Slack with the message
 
 **Template for Message**
 
-"Hiring approval needed for [Candidate Name] for [Position]" with a link to the candidate profile. 
+"Hiring approval needed for [Candidate Name] for [Position]" with a link to the candidate profile.
 
 To create the link, search for the candidate in Greenhouse, select the candidate, go to their offer details page, and copy the link. Do not copy a link from a different section of their candidate profile.
 
-
 **Final offer approval**
 
-For pending offer approvals needed from the CPO/CEO, there is an #offersSlack channel where the requests should be added. 
+For pending offer approvals needed from the CPO/CEO, there is an #offers Slack channel where the requests should be added.
 
 Please ensure the ping has:
 
@@ -212,7 +206,6 @@ Please ensure the ping has:
 
 If the role is for an individual contributor, the CPO or CEO do not need to approve. However, please @mention the CEO in the '#offers' channel with "Offer has been extended for [Candidate Name] for [Position]" and a link to the candidates Greenhouse profile.
 
-
 **Communicating the Offer**
 
 Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse.
@@ -220,7 +213,6 @@ Once the offer package has been approved by the approval chain, the verbal offer
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 
 Greenhouse offer details should be updated as necessary to reflect any changes including start date. Sections updated that will trigger re-approval are noted in Greenhouse.
-
 
 **Employment Contracts**
 
@@ -232,23 +224,22 @@ Greenhouse offer details should be updated as necessary to reflect any changes i
     1. Ensure that, if the contract was created outside of Greenhouse, the contract has been reviewed and approved by the Senior Director of Legal Affairs or a People Operations Analyst.
     1. Stage the contract in DocuSign from within Greenhouse, which emails the contract to the signing parties, with the recruiter, recruiting manager, and the hiring manager cc'd. One of the Recruiting Managers will sign all contracts before they go to the candidate for signatures. If the Recruiting Managers are out of office, the VP of Recruiting will sign.
     1. Enter the new team member's details on the Google sheet GitLab Onboarding Tracker and continually update it during the offer process.
-    1. When the contract is signed by all parties, the Candidate Experience Specialist verifies that the start date in Greenhouse is correct; then they will mark the candidate in Greenhouse as "Hired" and export to BambooHR (do not export to BambooHR if it is an internal hire). 
+    1. When the contract is signed by all parties, the Candidate Experience Specialist verifies that the start date in Greenhouse is correct; then they will mark the candidate in Greenhouse as "Hired" and export to BambooHR (do not export to BambooHR if it is an internal hire).
     1. The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
     1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a Cc to the recruiter, IT Ops and hiring manager.
     1. Instructions on the Notebook Ordering Process are included with this email.
     1. The recruiter will remove the vacancy in Greenhouse and dispose any remaining candidate profiles if necessary. Once complete, the recruiter will ping the Candidate Experience Specialist to close the role or close the role themselves.
-    1. The final step before handing off to the People Operations Specialists is for the Candidate Experience Specialist to ensure all fields for the new team member on the GitLab Onboarding Tracker are updated and complete through the "GitLab Welcome Email Sent" column. 
-
+    1. The final step before handing off to the People Operations Specialists is for the Candidate Experience Specialist to ensure all fields for the new team member on the GitLab Onboarding Tracker are updated and complete through the "GitLab Welcome Email Sent" column.
 
 **Onboarding**
 
-On completion of recruitment and release of offer, People Operations Specialist uses GitLab internal issue tracking tool to create an Onboarding Issue. 
+On completion of recruitment and release of offer, People Experience Associates use a GitLab internal automation script to create an Onboarding Issue.
 
-Onboarding issue keeps track of all the tasks to be completed before onboarding a candidate. People Operations Specialist assigns tasks to various team members on the [onboarding issue.](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md)
+Onboarding issues keeps track of all the tasks to be completed before onboarding a candidate. People Experience Associates assigns tasks to various team members in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md).
 
 **Adding a New Team Member to BambooHR**
 
-As part of onboarding, People Operations Specialists will process new hires in BambooHR. Following are the activities performed by People Operations Specialists in BambooHR to update new hires.
+As part of onboarding, People Experience Associates will process new hires in BambooHR. Following are the activities performed by People Experience Associates in BambooHR to complete and update new hires' profiles.
 
 * Effective Date - Hire Date
 * Location - Which entity the new team member is contracted through.
@@ -270,67 +261,65 @@ As part of onboarding, People Operations Specialists will process new hires in B
     * 24 for GitLab Canada Corp in Canada
     * 12 for everyone else paid monthly
 
-
 **Auditing Bamboo HR entries:**
 
-At the end of each week a People Operations Analyst will review all data entered into BambooHR through the Payroll Change Report for audit purposes. Once a month an audit is conducted from all payroll providers to ensure the salary information matches BambooHR.
+All new profiles are usually audited on Day 1 or 2 of a new team member’s first week by the Total Rewards Analyst.  
 
+The Total Rewards Analyst also updates a new team member’s BambooHR access level at this time, from Self-Service (which is the default level) to either Managers; Contractor Self-Service; or both if necessary.
 
+New team member compensation information is also reviewed weekly when the Total Rewards Analysts review the Payroll Change Report. Once a month an audit is conducted from all payroll providers to ensure the salary information matches BambooHR.
 
 ## 2. Employee Master Creation and updates
 
 [Link to flowchart](https://drive.google.com/open?id=1TP-cxXdfDhZ0bhZ3Gvb1qWrl6exuU2U5V08oVLOyU_0)
 
-GitLab uses ADP for payroll processing. Employee masters are created in ADP by the Payroll team before payroll processing based on inputs from Bamboo HR **(H2R.C.10, H2R.C.11, H2R.C.12, H2R.C.14 and H2R.C.15)**.
+**Process for US Team Members**
 
-**Creation of Employee in ADP**
+GitLab uses ADP for payroll processing for all US-based team members only. Employee masters are created in ADP by the Payroll team before payroll processing based on inputs from BambooHR. **(H2R.C.10, H2R.C.11, H2R.C.12, H2R.C.14 and H2R.C.15)**.
 
-Employee profiles are created in ADP 
+**Creation of Team Member Profiles in ADP**
 
-The following steps are followed to create an employee's profile on ADP **(H2R.C.04, H2R.C.05, H2R.C.06, and H2R.C.07)**
+Employee profiles are created in ADP. The following steps are followed to create a team member's profile in ADP **(H2R.C.04, H2R.C.05, H2R.C.06, and H2R.C.07)**
 
-* BambooHR is integrated with ADP and employee profiles are created in ADP automatically.
-* Employee profiles in ADP are created only after completing the [I9 verification on BambooHR](https://docs.google.com/document/d/1uhkqq7a6dtcsJrAek9lHZxxhOjRJZCTXRpH5okLMqkQ/edit?usp=sharing). 
-* On completion of the I9 verification, the “I-9 processed” checkbox is checked in employee’s profile on BambooHR. An [automated batch job](https://docs.google.com/document/d/1XwzVrI-GEd87JpNZyIdsfcWwZmP5C6IVgy9wj1ro4Qs/edit?usp=sharing) that runs daily between 7:00 AM and 7:15 AM (CST)  by modulus picks up new I9 verified employee profiles from BambooHR and loads it into ADP.
-* Go to onboarding issue and check off [payroll task](https://docs.google.com/document/d/1dM8cZZMYI88s_6T-SfawFX9mRDWGIVZIN8kjlVewjFY/edit) 
-* [Email team member](https://docs.google.com/document/d/1KVCc3ZDqlt7yaGz4d7J0gEIyfgX9omazP0C60U18dWE/edit) with information about completing registration
-* [New hire report from BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) for list of team members by start date, mark with “x” once complete.
+* Once a new team member's I-9 form is completed and their employment is verified by the People Experience Associate, according to the onboarding issue task, the People Experience Associate must tag the Total Rewards Analyst.
+* The Total Rewards Analyst audits the new team member's BambooHR profile and I-9 certification documents, and then checks the ["I-9 Processed" checkbox](https://docs.google.com/document/d/1uhkqq7a6dtcsJrAek9lHZxxhOjRJZCTXRpH5okLMqkQ/edit?usp=sharing), located on the Personal tab in the team member's BambooHR profile.
+* The Total Rewards Analyst then comments in the team member's onboarding issue tagging the Payroll Specialists and stating `Ready to add to ADP`, according to the onboarding issue task.
+* An [automated batch job](https://docs.google.com/document/d/1XwzVrI-GEd87JpNZyIdsfcWwZmP5C6IVgy9wj1ro4Qs/edit?usp=sharing) that runs daily between 7:00 AM and 7:15 AM (CST) by modulus picks up any new I-9 verified team member profiles from BambooHR and loads them into ADP.
+* BambooHR is integrated with ADP and team member profiles are created in ADP automatically.
+* The Payroll Specialists review the newly created team member profiles in ADP and compare them to the BambooHR profiles for any errors. 
+* The Payroll Specialists [email each team member](https://docs.google.com/document/d/1KVCc3ZDqlt7yaGz4d7J0gEIyfgX9omazP0C60U18dWE/edit) with information about completing their ADP registration and accessing their accounts.
+* Once done, the Payroll Specialists check off the Payroll [task](https://docs.google.com/document/d/1dM8cZZMYI88s_6T-SfawFX9mRDWGIVZIN8kjlVewjFY/edit)) stating that the new team member has been added to ADP and that an invitation to ADP has been sent to them in the relevant team member's onboarding issue.
+* The Payroll Specialists then comment in the team member's onboarding issue notifying the Total Rewards Analysts that the team members have been successfully added to ADP.
+* The Payroll Specialists also run the [New Hire report in BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) at the start of every week for list of new team members by start date, to ensure that they are aware of all new team members, in the case that they are not tagged in an onboarding issue. 
 
-**Employee Terminations**
+**Team Member Terminations in ADP**
 
-Employee Terminations are updated on ADP in the following way:
+Team Member Terminations are updated on ADP in the following way:
 
-* In [ADP](https://docs.google.com/document/d/1sha3hvrHj85IFYPvFEDckD1udfbTwr2OMVkHnrTLzvc/edit), Navigate to  people > Employment> Employment profile
-* [Search Team Member](https://docs.google.com/document/d/1WzXw7QIxKJIPgOOS_pweVYCqJiKCRUfoi26G4k0NHkA/edit)
-* Update the [employee status](https://docs.google.com/document/d/18JCaxTOvABEP7uiBrfxTswqQ-aqltmwmJloRYDGFgDw/edit)
-* Start [Termination Wizard](https://docs.google.com/document/d/1ScXsbvREHsCBdSCKjwG9F9999TLzv0ju1zx-Lr6sWNw/edit)
-* Enter [term date](https://docs.google.com/document/d/11j1nXkcUDL7uwHOobUA0fc3-bjAEbqqIQJR_DCHgDgw/edit), term reason (confirm with HR) and choose voluntary or involuntary. If voluntary, keep eligible for rehire checked.
-* Next, make sure autopay is canceled, do not cancel direct deposit in case of a future commission payment and update in [ADP](https://docs.google.com/document/d/1wXHTjNW21gUG3Hh0bzOYIwTTzpR51nhPEQgE1WrFneI/edit).
-* Comment on the [off-boarding issue](https://docs.google.com/document/d/1ABhpmORr88gVUDHArxrGMLpsmh7c_38cnwgp66yykPg/edit) once complete in ADP.
+* When a team member's offboarding issue is created, the relevant Payroll Specialists are tagged.
+* In [ADP](https://docs.google.com/document/d/1sha3hvrHj85IFYPvFEDckD1udfbTwr2OMVkHnrTLzvc/edit), the Payroll Specialists navigate to People > Employment> Employment profile.
+* The Payroll Specialists [search for the Team Member](https://docs.google.com/document/d/1WzXw7QIxKJIPgOOS_pweVYCqJiKCRUfoi26G4k0NHkA/edit).
+* The Payroll Specialists update the [employee status](https://docs.google.com/document/d/18JCaxTOvABEP7uiBrfxTswqQ-aqltmwmJloRYDGFgDw/edit) from Active to either Leave, Terminated or Deceased.
+* The Payroll Specialists start the [Termination Wizard](https://docs.google.com/document/d/1ScXsbvREHsCBdSCKjwG9F9999TLzv0ju1zx-Lr6sWNw/edit).
+* The Payroll Specialists enter [termination date](https://docs.google.com/document/d/11j1nXkcUDL7uwHOobUA0fc3-bjAEbqqIQJR_DCHgDgw/edit), termination reason (according to the information in BambooHR) and choose voluntary or involuntary. If voluntary, keep eligible for rehire checked. Check if Severance is paid if applicable.
+* The Payroll Specialists then make sure that Autopay is canceled. They do not cancel Direct Deposit, in case of a future commission payment, or another type of payment, and update in [ADP](https://docs.google.com/document/d/1wXHTjNW21gUG3Hh0bzOYIwTTzpR51nhPEQgE1WrFneI/edit).
+* The Payroll Specialists comment in the [offboarding issue](https://docs.google.com/document/d/1ABhpmORr88gVUDHArxrGMLpsmh7c_38cnwgp66yykPg/edit) once all tasks are completed in ADP.
 
+On every paycheck date, an audit of all entity payroll providers is conducted to ensure the salary information matches BambooHR. This is done by Payroll Specialists and approved by the Senior Director, Corporate Controller.
 
-On every paycheck date, an audit of all entity payroll providers is conducted to ensure the salary information matches BambooHR. This is done by payroll specialist/payroll specialist EMEA and approved by the Senior Manager, Global Payroll and Payments.
+**Payroll-related Data Process for New Team Members in Non-US Entities**
 
-**Process for Non-US Entities**
+For [all countries where GitLab has an entity](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#gitlab-entities) the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries.
 
-For the following countries, the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries
+**Payroll-related Data Process for New Team Members employed or contracted through PEOs**
 
- * Canada
- * Australia
- * Germany
-
-**Process for PEOs**
-
-For PEOs, the new employee information to be added is sent by the recruitment team to the PEOs. 
-
-
+For PEOs, the new employee information to be added is sent by the recruitment team directly to the PEOs.
 
 ## 3. Payroll Processing for US
 
 [Link to flowchart](https://drive.google.com/open?id=1WqGy-0YpYK405NbxSW1fzuVX63cZVwAUfvOwIq-JsEo)
 
 This section explains about processing payroll for US employees. The process starts with opening payroll cycle for the check date  and updating payroll processing files per changes from BambooHR. Payroll team reviews payroll benefits, one-time changes such as bonus and commissions based on inputs received from various teams and accepts payroll period in ADP (This ends the payroll cycle).
-
 
 **Opening Payroll**
 
@@ -340,8 +329,8 @@ This section explains about processing payroll for US employees. The process sta
 
 **Payroll Changes**
 
-* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
-* Information is entered into ADP using this Google Sheet by the Payroll Specialist, and reviewed by the Senior Manager, Global  Payroll and Payments. 
+* A [Google sheet](https://docs.google.com/document/d/1Miljaad0sgibrublHr2Q3DBHGigndZa6mp0Zw9KzNf4/edit) is  shared from PeopleOps for payroll changes every paycheck date (varies based on [location](/handbook/finance/payroll/#pay-datel)).
+* Information is entered into ADP using this Google Sheet by the Payroll Specialist, and reviewed by the Senior Manager, Global  Payroll and Payments.
 * Entering [promotion details(salary and title change)](https://docs.google.com/document/d/1Rd6BEYDcRwGGcXlxcsTyFNmBmfQTSuzdTFuY6Ted6S4/edit).
 
 **Salary Changes**
@@ -370,14 +359,14 @@ This section explains about processing payroll for US employees. The process sta
 
 **Processing Payroll Benefits**
 
-* Benefits are processed by Lumity in the US. 
-* For specific information on benefits, please [click here](/handbook/total-rewards/benefits/) 
+* Benefits are processed by Lumity in the US.
+* For specific information on benefits, please [click here](/handbook/total-rewards/benefits/)
 * [Email](https://docs.google.com/document/d/167v2pRyP9gO-CFOW5JYFqpnL74nptgWsP9a5uPnFVpQ/edit) received from Lumity(Health insurance service provider) in a password protected benefits file.
 * Update any employee benefits information from the [file](https://docs.google.com/document/d/185HglkNFHClfccfwOO7vRZFuJYAC4xQRnT68bh8pBi8/edit) to ADP.
 * Payroll prepares the data into an [import template](https://docs.google.com/document/d/1V9K7mOFg9UCtvGbLkaPScbYBnNc5XtoXKioEIbrDTec/edit) for mass changes on ADP.
 
 **Processing Bonus**
- 
+
 * All bonus components are to be approved by the CFO before the payment is made. The CFO approves the bonus by inserting a comment on the [Bonus calculation](https://docs.google.com/document/d/1c4v4rkzXy-qamREcdZAYaSBHMtpyLwtE2f3vV5VXHpA/edit) spreadsheet tagging the payroll team. When a comment is inserted in google spreadsheets, an automated email is sent by Google to all the users who have access to spreadsheets and to users tagged in the comment. The Payroll Specialist will print out a PDF copy of the email containing the CFO’s approval as a supporting document and will update the bonus components in ADP.
 * Navigate to [bonus sheets](https://docs.google.com/document/d/1RzorxVAo7FzHntYZoFq-4xe6bywHHJQF8WBy8ChwdpM/edit#heading=h.a0t6xd56yisz) and verify if updates are as per approval comment. Payroll will follow up for approvals from the Managers (who are giving the bonus to the employee) and CFO.
 * Update the SDR payouts as per the [ADP upload format](https://docs.google.com/document/d/1xKvQDiAD4k0DgnGSqn-Vdsi742nEGoOyEhHXDtaGRy8/edit).
@@ -386,7 +375,7 @@ This section explains about processing payroll for US employees. The process sta
 
 **Processing Commissions**
 
-* The Commission Manager prepares the working and sends it to PAO for approval by tagging the PAO in the spreadsheet. The PAO approves the commission calculation in the spreadsheet tagging the payroll team. When a comment is inserted in google spreadsheets, an automated email is sent by Google to all the users who have access to spreadsheets and to users tagged in the comment.  The Payroll Specialist will print out a PDF copy of the email containing the PAO’s approval as a supporting document and will update the commission amount in ADP. 
+* The Commission Manager prepares the working and sends it to PAO for approval by tagging the PAO in the spreadsheet. The PAO approves the commission calculation in the spreadsheet tagging the payroll team. When a comment is inserted in google spreadsheets, an automated email is sent by Google to all the users who have access to spreadsheets and to users tagged in the comment.  The Payroll Specialist will print out a PDF copy of the email containing the PAO’s approval as a supporting document and will update the commission amount in ADP.
 * Navigate to [commissions google sheet](https://docs.google.com/document/d/1-yGDrHpC7FKQPSQwo0yN3BBpUiKKatuBNJIqMd6MSn4/edit), enter information in pay data batch in ADP just like bonus example.
 
 **Payroll Closing procedures**
@@ -410,12 +399,11 @@ This section explains about processing payroll for US employees. The process sta
   * The Sr. Manager, Global Payroll and Payments  will provide final sign off by performing spot checks on employee data.
 * [Accept payroll](https://docs.google.com/document/d/11Rs5QxX94aLmLhXPIl1d46X7ENclYzw0mUm4WQjLW-I/edit).
 
-
 **Download these reports to send to accounting and Lumity (benefits provider)**
 
-* Deductions by check date - match deduction totals including HSA deductions with payroll register totals. Send a password-protected file to Lumity. Save in the Lumity google folder. 
+* Deductions by check date - match deduction totals including HSA deductions with payroll register totals. Send a password-protected file to Lumity. Save in the Lumity google folder.
 * Commission and bonus by check date - match totals with payroll register totals report. Save in accounting google folder.
-* Misc. deduction report - explain what deduction is for if any entered for that check date. Save in accounting google folder. 
+* Misc. deduction report - explain what deduction is for if any entered for that check date. Save in accounting google folder.
 * Payroll Register - save in payroll google folder.
 * Payroll Register totals - save a copy in accounting and Lumity google folder.
 * Payroll Summary - save a copy in accounting google folder.
@@ -431,24 +419,23 @@ This section explains about processing payroll for US employees. The process sta
 * The account mapping was set up by Payroll and Accounting together previously on ADP and is followed to date. The responsibility of appropriate mapping lies with the Payroll Team.
 * This file is verified and then imported onto NetSuite.
 
-
 ## 4. Payroll processing for Non-US
 
 This section explains about payroll processing for PEOs and contract employees (Non-US).
 
 **Payroll processing for NON-US entities, PEOs, and Contract employees** **(H2R.C.10, H2R.C.11, H2R.C.12, and H2R.C.13)**
 * The [payroll change report(s) Google Sheets](https://docs.google.com/document/d/1vK8KfN4EyDDk0KlzgECX3r-8kp_eDRv9oVO6RBYCB_0/edit) for all Non-US locations are received from People Ops per paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
-* Enter in the [password for the sheet](https://docs.google.com/document/d/1hekX6aprj4tYxSXjdbefTyn9b6Lb8D-LKAKItpK2Xbs/edit) 
+* Enter in the [password for the sheet](https://docs.google.com/document/d/1hekX6aprj4tYxSXjdbefTyn9b6Lb8D-LKAKItpK2Xbs/edit)
 * Verify if any [changes](https://docs.google.com/document/d/1-qT_jTMcujUzex7LSNAgHY24ec3h6805fTff2q3Zi5c/edit) have occurred in the location.
 * The [commission process](https://docs.google.com/document/d/1GdNsBIR0h2SDUsp-AKEcV4obVEF2ebgTfhU3X3wAt4g/edit) is the same as the US Payroll. Please “Processing Commissions” in the US Payroll.
 * The [SDR bonus payments](https://docs.google.com/document/d/1bm1gEuexdT-FFZwWH5UU22hSo_k5hPO5L9jOFDAIVTY/edit) come from Sales and are approved by the CFO. Refer to the "Processing Bonus" under US Payroll for more information.
 * All this info is sent to the respective locations’ Payroll Service Providers by the Payroll Specialist EMEA.
 * Local payroll providers will process this information, and send the payroll report to the Jr. Payroll Specialist for review and approval.
 * The Jr. Payroll Specialist will review and notify the Payroll Specialist EMEA for final review and approval. This approval is given via [email](https://docs.google.com/document/d/11r648xzjpu8gODVECMiOQ2yQ29v2gfA0Wr9RFDFe2Ts/edit) **(H2R.C.11)**.
-* Once that is completed then the Payroll Specialist EMEA sends the approval email to the payroll provider.<br><br> 
+* Once that is completed then the Payroll Specialist EMEA sends the approval email to the payroll provider.<br><br>
 
-**For payroll remittance of Non-US entities** 
- 
+**For payroll remittance of Non-US entities**
+
   **Belgium**<br>
   Once approved, the Payroll Specialist EMEA will send a funding request to the AP team for remittance of salary **(H2R.C.14 and H2R.C.15)**.
 
@@ -457,13 +444,12 @@ This section explains about payroll processing for PEOs and contract employees (
   * In the case of Germany the tax due for employee tax is debited in the bank account by the government agencies directly and not remitted by the payroll provider.
 
   **UK**<br>
-  * Once approved, the payment is auto-debited from GitLab’s bank account **(H2R.C.14 and H2R.C.15)**. 
+  * Once approved, the payment is auto-debited from GitLab’s bank account **(H2R.C.14 and H2R.C.15)**.
   * One week before the payroll check date an email is sent by the Payroll team to the Controller and the payroll provider (Vistra) to confirm if there is sufficient balance in the bank account.
   * The check is done to ensure that there is sufficient balance one day before the paycheck day.
 
   **Australia**<br>
   Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](ur/handbook/finance/payroll/#peol).
-
 
 **For payroll remittance of PEOs**
 
@@ -503,15 +489,15 @@ After payroll takes place, the payroll reports and invoices are processed by AP.
 **Belgium**
 
 - The payroll report is received in the form of a password protected excel file from the payroll service provider.
-- The given data needs to be mapped department wise. This is done manually by the accounting team by looking up the team members on Bamboo HR and entering in the departments manually. 
+- The given data needs to be mapped department wise. This is done manually by the accounting team by looking up the team members on Bamboo HR and entering in the departments manually.
 - This file is verified and then imported onto NetSuite.
 - The amount is tied to cash.
 
 BV Contractors
 
-- Gitlab contractors are paid by iiPay. Invoices are submitted to payroll, and payroll then compiles a list of all the contractors and their details. iiPay provides a reconciliation for the month (downloaded from their site) by Payroll and sent to the Accounting Team with how much was paid out and what currency was used for all the contractors. In the end, they summarize the payout and arrive at any difference (if any). This summary includes penny tests. 
+- Gitlab contractors are paid by iiPay. Invoices are submitted to payroll, and payroll then compiles a list of all the contractors and their details. iiPay provides a reconciliation for the month (downloaded from their site) by Payroll and sent to the Accounting Team with how much was paid out and what currency was used for all the contractors. In the end, they summarize the payout and arrive at any difference (if any). This summary includes penny tests.
 - The payroll team also provides a payroll instructions file, which shows the payment frequency, the bonus, the commissions, and the expenses of each contractor. Since the iiPay file doesn’t give a breakdown like this, the accounting team reconciles both files so that it can book entries on NetSuite. The accounts team summarizes this file so that it knows how much to book for each entry.
-- The payroll team identifies the accounts where accruals are to be made (cases where the employee has started after the payroll run, issues with the employee’s bank account, etc) so that the accounting team can make them in NetSuite. These accruals are made as a part of the total Journal Entry for that month. These aren’t allowed to be reversed. The next month, the Senior Accounting Manager checks if those accounts were paid, and then reverses them as part of that month’s journal entry (manual reversal). 
+- The payroll team identifies the accounts where accruals are to be made (cases where the employee has started after the payroll run, issues with the employee’s bank account, etc) so that the accounting team can make them in NetSuite. These accruals are made as a part of the total Journal Entry for that month. These aren’t allowed to be reversed. The next month, the Senior Accounting Manager checks if those accounts were paid, and then reverses them as part of that month’s journal entry (manual reversal).
 - iiPay payments are prepaid; they don’t auto-debit from GitLab’s bank account. The accounting team then reconciles the iiPay amount and the payroll  amount, identifies any differences, verifies the previous prepaid balance with iiPay, and comes up with what should be in the balance after this month’s payroll, and how much iiPay should be additionally funded
 - GL mapping is done by the accounting team. Contractors have no taxes or benefits.
 
@@ -525,7 +511,7 @@ BV Contractors
 
 - The payroll report is received in the form of an excel file from the payroll service provider. Payroll provides the accounting team with this file.
 - The given data is summarized and mapped, department wise via pivot table.
-- The UK expense reimbursements are booked and paid through AP. The accounting team doesn’t book these expenses. (Net pay - expenses) 
+- The UK expense reimbursements are booked and paid through AP. The accounting team doesn’t book these expenses. (Net pay - expenses)
 - This file is verified, and then imported onto NetSuite.
 - The given data needs to be mapped department wise. This is done manually by the Sr. Manager Payroll by looking up the team members on Bamboo HR.
 
@@ -548,7 +534,7 @@ This section explains about updating leave of absence records for payroll proces
 
 Recording Leave of Absence:
 
-* Any time off is taken via PTO Ninja. PTO Ninja allows employees and managers to coordinate time off seamlessly using Slack. The integration from Slack and BambooHR automatically monitors PTO balances. PTO Ninja will automatically add any time off taken for sick and vacation accruals to BambooHR.<br>
+* Any time off is taken via PTO by Roots. PTO by Roots allows employees and managers to coordinate time off seamlessly using Slack. The integration from Slack and BambooHR automatically monitors PTO balances. PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR.<br>
 The  Payroll Specialist is informed about any LOAs via the [payroll change report.](https://docs.google.com/document/d/10ABh_DchAhw49AjrZmtwMqIE5SJ8M63uzN8KodIOqRg/edit) **(H2R.C.08)**
 * Updating an LOA in [ADP](https://docs.google.com/document/d/165rj1ESL_RDmECGAw4oLJ4xUQ71aBgruosuQDEVoGTw/edit), review and complete. Go to status and change the status to leave.
 * In the next [screen](https://docs.google.com/document/d/15ObUjht7S_qVRFUJ2RkYBNKKMxgA_fVENB3AFma6fr0/edit), update the period of leave, the reason for leave and whether it is a paid leave or a non-paid leave.
@@ -574,7 +560,7 @@ Leave Accruals take place for the employees of Non-US legal entities:
 **Notes:**
 
 * The UK has announced relaxed measures on the carryover of annual leave due to COVID-19, so GitLab team members now have the opportunity to carry over their leave for the next 2 years.
-* In Belgium annual leave accrual is based on what an employee works in the year preceding (can be at GitLab or elsewhere). If a full year is worked then the employee has full entitlement - 20 days, if not the entitlement is 0 days, and should the employee wish to take leave, the amount will be deducted from their 13th-month payment. 
+* In Belgium annual leave accrual is based on what an employee works in the year preceding (can be at GitLab or elsewhere). If a full year is worked then the employee has full entitlement - 20 days, if not the entitlement is 0 days, and should the employee wish to take leave, the amount will be deducted from their 13th-month payment.
 * In Australia, rollover is allowed at the end of the calendar year, and if the leave may be requested to be used up by the employer.
 * In Canada, the amount of leave accrued varies depending on the location of the employee. In Saskatchewan and Quebec only, employees are entitled to 3 weeks of leave per year, provided they’ve been with GitLab for over a year.
 * There is no leave rollover in Canada.  As per regulations, Canada essentially mandates that team members take their vacation.That is why there shouldn't be rollover and technically though you can pay unused vacation on the last check date of the year there may be penalties for doing so. Therefore it is incumbent on the team member's direct manager to ensure that the team member takes the time off and tracks it as vacation.
@@ -585,14 +571,14 @@ Leave Accruals are accounted for using reports from Bamboo HR. These reports are
 
 * To pull the reports, log in to [Bamboo HR](https://docs.google.com/document/d/1epOmeNwJykKaAZYmQ7HQByzImRG6llbBgGSjm4IndLc/edit).
 * Pull up the [Time off Balances report](https://docs.google.com/document/d/1MZiuGtVyMFF6dTbBz66_P5QenNtzmyjmTZYdvW1U7iM/edit). This report shows the Time off Balances for all employees.
-* Set the time period needed, and click Apply. The [report](https://docs.google.com/document/d/1sTXIyxm0uAfI6M7fiNqYqDfYvEe0SI_w5A27usJ-7o0/edit) shows the employee name, beginning balance, number of accrued days, used days, scheduled days, adjustments, and the final ending balance. The ending balance is used for accounting purposes. 
+* Set the time period needed, and click Apply. The [report](https://docs.google.com/document/d/1sTXIyxm0uAfI6M7fiNqYqDfYvEe0SI_w5A27usJ-7o0/edit) shows the employee name, beginning balance, number of accrued days, used days, scheduled days, adjustments, and the final ending balance. The ending balance is used for accounting purposes.
 * A [second report](https://docs.google.com/document/d/1kQoe4yD8g6ALLv_ahahhlRFVFw4r0sDbl6dpBPj7KvQ/edit), Employee PTO Current Balance Accruals with Department, Entity, and rate, is also run.
 * This [report](https://docs.google.com/document/d/1P1snUohu0OdgcgXKYDMYVOIRcNlASincJz5ljKBlwaE/edit) shows the employee’s department, entity, and salary information.
 * These 2 reports are saved on [Google Drive](https://docs.google.com/document/d/1axMthzSlECKJQIQG7T8wdHvkVBZHCSu-ep_HMY6xyKk/edit) and consolidated.
-* The final report has the employee’s department, entity, salary information, and ending balances. The liability is a factor of the employee’s hourly salary and the employee’s ending balance. The reports are consolidated and the final entries are booked by the General Ledger Accountant, and reviewed by the Senior Accounting Manager. Leave accruals are debited to 5029/6029 - Holiday allowance account and credited to 2226  Liability account. 
+* The final report has the employee’s department, entity, salary information, and ending balances. The liability is a factor of the employee’s hourly salary and the employee’s ending balance. The reports are consolidated and the final entries are booked by the General Ledger Accountant, and reviewed by the Senior Accounting Manager. Leave accruals are debited to 5029/6029 - Holiday allowance account and credited to 2226  Liability account.
 
 
-## 6. Leave Management 
+## 6. Leave Management
 
 [Link to flowchart](https://drive.google.com/open?id=1BHGj8bOBm1XJHIrRwdm5bOFmwNLQ8fbJKu-aB3PlSxg)
 
@@ -611,7 +597,7 @@ This section describes the process for termination of employees for payroll proc
 * Any final settlements are received via the payroll change report, and go through payroll processing.
 * HR business Partner informs the Payroll team through a confidential slack channel about any termination
 - based on the confirmation of the employee has signed a severance agreement from the HR business Partner,  the Payroll team will process the final settlement outside of the payroll processing timelines and not through the payroll change report
- **(H2R.C.16)**. 
+ **(H2R.C.16)**.
 * More information on the employee exit process can be found here:
   * [Handbook link 1](/handbook/people-group/offboarding/)
   * [Handbook link 2](/handbook/people-group/offboarding/offboarding_guidelines/#stq=offboarding)

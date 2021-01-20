@@ -54,7 +54,7 @@ Process of measurement in progress.
 **Response times to initial requests for review <= 2 business days**
 - Monthly average response time to new procurement purchase request issues within 2 business days. Issues with missing or incomplete information will be rejected after two consecutive attempts to follow up with the issue creator.
 
-**Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <= 2 busines days**
+**Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <= 2 business days**
 * Triage and assign issues in the procurement [issue board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091) within 2 business days of receipt.
 
 **Ensure all contracts have the correct approvals in place before signed = 100%**
@@ -82,7 +82,7 @@ All vendors that GitLab does business with, must legally comply with the [Suppli
 
 #### Modern Slavery and Human Trafficking Compliance Program
 
-GitLab condemns exploitation of humans through the illegal and degrading practices of human trafficking, slavery, servitude, forced labor, forced marriage, the sale/exploitation of chilren and adults and debt bondage (“Modern Slavery”).  To combat such illegal activities, GitLab has implemented this Modern Slavery and Human Trafficking Compliance Program.  
+GitLab condemns exploitation of humans through the illegal and degrading practices of human trafficking, slavery, servitude, forced labor, forced marriage, the sale/exploitation of children and adults and debt bondage (“Modern Slavery”).  To combat such illegal activities, GitLab has implemented this Modern Slavery and Human Trafficking Compliance Program.  
 
 ##### *Risk Areas and Markets*
 
@@ -95,7 +95,7 @@ All vendors, providers and entities providing services or products to GitLab (�
 
 Those entities who are of higher risk or whom GitLab suspects may be in violation of Modern Slavery laws, may be required to complete an audit.  Audits may be presented in the form of a questionnaire or may be an onsite visit.  Any known or suspected violations will be raised to Legal and/or Compliance.  Failure to comply with Modern Slavery laws will result in a termination of the relationship and GitLab retains all rights in law and equity.
 
-Vendors understand and agree that violations of Modern Slavery laws may require mandatory reporting to governing authorities. GitLab has discretion if and how to best consult with Vendors for purposes of Modern Slavery reporting. GitLab is senstive to and will take into consideration, the relationship and the risk profile of Vendor to ensure that Modern Slavery risks have been appropriately identified, assessed and addressed and that the Vendor is aware of what actions it needs to take.
+Vendors understand and agree that violations of Modern Slavery laws may require mandatory reporting to governing authorities. GitLab has discretion if and how to best consult with Vendors for purposes of Modern Slavery reporting. GitLab is sensitive to and will take into consideration, the relationship and the risk profile of Vendor to ensure that Modern Slavery risks have been appropriately identified, assessed and addressed and that the Vendor is aware of what actions it needs to take.
 
 ##### *Assessment of Effectiveness*
 
@@ -107,17 +107,18 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 
 ## <i class="fas fa-book" id="biz-tech-icons"></i> Related Docs and Templates
 
-#### Documentation
-
-* [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
-* [Compliance](/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
-* [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
-* [Trademark](/handbook/marketing/growth-marketing/brand-and-digital-design/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
-* [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
-
 ##### Contract Templates
 
 - [Mutual Non-Disclosure Agreement (NDA)](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing)
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
+- [Data Processing Agreement](https://drive.google.com/file/d/1k4RLEWvhvZsQ5mrrPnEnmg4ptFl_JPjF/view?usp=sharing)
+- [US-based Contractor Agreement](https://drive.google.com/file/d/1cK3ic_j7VfOrIvdQ19ZEuGwkwKqxwWEw/view?usp=sharing) Master agreement for a subcontractor performing internal services directly to GitLab
+- [APAC Contractor Agreement](https://drive.google.com/file/d/1i5GNMwpiXMU07MImncc-aB-viWJ4e13X/view?usp=sharing) Same as above for APAC
+- [MPS Subcontractor Agreement](https://drive.google.com/file/d/1MgBqa_K1oqqIR79jV3AEynbYN6Jc_V5U/view?usp=sharing) Master agreement for subcontractor performing services for the *GitLab Customer*
 
+#### Documentation
 
+* [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
+* [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
+* [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
+* [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents

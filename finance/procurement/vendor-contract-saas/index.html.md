@@ -18,7 +18,8 @@ title: Vendor Contract Issue Process
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> How do I request approval for a Software Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Software Purchase?
+
 1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
 1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
 1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
@@ -168,7 +169,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
    * If there is no GitLab entity available in the country of a vendor use GitLab Inc
 
 **Security Review and Approval**
-1. Security is responsible for reviewing vendor security practicies and will adhere to the [Third Party Vendor Security Review Process](//handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation_). 
+1. Security is responsible for reviewing vendor security practicies and will adhere to the Third Party Vendor Security Review Process. 
 1. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor 
 1. Once the security team approves the vendor and/or identifies gaps in the vendor's security practices for negotiation, security will provide their approval in the issue.
 1. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit#heading=h.a7l25bv5e2pi) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal.
@@ -211,7 +212,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 6 | Vendor Payment and Final Contract
 Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
-These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](/handbook/engineering/security/Access-Management-Policy.html#access-management) to the work that the vendor will be performing. 
+These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](/handbook/engineering/security/access-management-policy.html#access-management) to the work that the vendor will be performing. 
 
 Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 

@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Regulatory"
----
 
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -194,13 +194,13 @@ Dr. 2280 GST Collected (Sales tax)
 
 The filing of returns for Corporate Income tax for all entities is carried out by third-party consultants, based on the data provided by the  Accounting and External Reporting Manager.
 
-The tax consultants prepare a draft return based on the information provided and share the draft with the  Accounting and External Reporting Manager for review.
+The tax consultants prepare a draft return based on the information provided and share the draft with the International Tax Manager for review.
 
-The return is reviewed by the Senior Manager, Accounting and External Reporting. 
+The return is reviewed by the Manager, International Tax. 
 
-The draft is then approved by the Director of Tax, PAO, and  CFO.**(REG.C.07)**
+The draft is then approved by the Director of Tax and CFO.**(REG.C.07)**
 
-The draft approved by the Director of Tax, PAO and CFO is then filed by the tax consultant with the local tax authorities.
+The draft approved by the Director of Tax and CFO is then filed by the tax consultant with the local tax authorities.
 
 <br>
 

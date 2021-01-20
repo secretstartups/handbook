@@ -27,13 +27,14 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
-- GitLab PTY (Australia) - [iiPay](#iipay)
+- GitLab PTY (Australia) - [iiPay](#iipay---australia)
 - GitLab PTY (New Zealand) - CloudPay
 - GitLab Canada Corp (Canada) - CloudPay
+- GitLab Ireland Ltd (Ireland) - CloudPay
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com). 
+1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com).
    - To access pay statements, go to Myself -> Pay -> Pay Statements.
    - To access form W-2, go to Myself -> Pay -> Annual Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
@@ -134,11 +135,11 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
    * Autopay cancellation
    * Payroll Summary
 1. Preview payroll:
-   * Total payroll reconcilation (input vs. output)
+   * Total payroll reconciliation (input vs. output)
    * There are two Payroll Specialists for US payroll
    * Payroll Specialist processing GitLab Inc will review payroll changes for GitLab Federal payroll and vice versa
    * Sr. Manager, Global Payroll and Payments will perform a final review and approve the payroll
-   * All validation and reconcilation reports must be sign by the preparer, reviewer, and approver
+   * All validation and reconciliation reports must be sign by the preparer, reviewer, and approver
 
 
 #### Reports after Accept payroll
@@ -176,7 +177,7 @@ Generate the following reports and saved them on Google Shared drive for Federal
 ## Non-US
 
 
-### Australia, UK, Belgium, Netherlands, and Germany Monthly Payroll Process
+### Australia, UK, Belgium, Netherlands, Germany, Ireland and Japan Monthly Payroll Process
 
 1. Payroll changes due date to the payroll providers is 10th with exception of Australia (12th) & UK (15th).  If the due date falls on a weekend or a holiday, then it will be the working day before this.  
 1. Total Rewards Team will add bonus, promotion, title changes, etc.. to the Payroll Changes template
@@ -223,7 +224,7 @@ If you have not received an invitation to create an account, visit the [register
 1.  Payroll will approve all expense reports by the 9th of each month
 1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
 1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
-1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to th 1st live payment.  Please enter the bank details on the 1st day of employment.
+1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to the 1st live payment.  Please enter the bank details on the 1st day of employment.
 1.  The required fields for bank details in BambooHR under Bank Information tab:
     * Bank Name
     * Beneficiary Name
@@ -233,9 +234,7 @@ If you have not received an invitation to create an account, visit the [register
     * SWIFT (as needed or available due to each country's banking requirements)
     * Account type
 1.  If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
-1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is prefered, and let Payroll know.
-
-
+1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is preferred, and let Payroll know.
 
 #### CXC Global
 
@@ -243,9 +242,13 @@ If you have not received an invitation to create an account, visit the [register
 - Portugal
 - Russia
 - Romania
+- Turkey
+- Israel
 - Ukraine
+- Greece
+- Czech Republic
 
-Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc...) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format.. Team members should ensure their expenses are approved on expensify by the 8th of each month so they can include on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
+Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc.) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format. Team members should ensure their expenses are approved on Expensify by the 8th of each month so they can include them on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual workdays from the hire date`
 
 ### PEO
 
@@ -253,21 +256,27 @@ Team members from the above countries will get paid through CXC Global. Team mem
 
 - Brazil
 - France
-- Hungary
-- Ireland
 - Italy
-- Japan
 - Spain
-- South Africa
 - South Korea
 - Switzerland
 
 The internal deadline for changes is the 8th of each month, Payroll will send by the 10th of each month.  Payroll will submit commission, bonus, salary adjust, expense reimbursement to SafeGuard via a password encrypted template.  SafeGuard will issue an invoice for each country no later than the 16th of each month.  Payroll Specialist will review and submit the invoice for payment with AP.
 
-
 #### Global Upside
 
+- India
+- Philippines
+- China
+
 Payroll changes will be send by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.
+
+#### Remote.com
+
+- Hungary
+- Austria
+- Mexico
+- South Africa
 
 #### Payroll cut off date
 
@@ -282,9 +291,12 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/19lNDx_aiAQDoSKBRRWF779jT2qB5lG84PrBOYQYd5sI/edit#gid=1165608204)
 - GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CO7H27ofFcFL7ztVi8Eg8_hI3W8mUwAwUtePsPJkdGw/edit#gid=724771463)
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
+- GitLab Ireland Ltd [Payroll Calendar]()
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
-    - CXC (Poland, Ukraine, Russia, Romania) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
-    -  SafeGuard ([S. Korea,France, Hungary, Ireland](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482), [Japan](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=23411182), [Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
+    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=114243454)
+    -  SafeGuard ([S. Korea, France](hhttps://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482),[Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [South Africa](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=818494923), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
+    - Remote.com
+    - Global Upside
 
 ## Performance Indicators
 
