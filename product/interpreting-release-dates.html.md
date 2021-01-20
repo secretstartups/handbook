@@ -63,5 +63,5 @@ everything will be shipped and usable by users.
 ## Still have questions?
 If you are still not sure what state an issue is in and want to ensure you set
 the correct expectations with the customer, please @mention the
-[responsible Product Manager](https://about.gitlab.com/handbook/product/categories),
+[responsible Product Manager](https://about.gitlab.com/handbook/product/categories/),
 on the issue or epic, so they can clarify.
