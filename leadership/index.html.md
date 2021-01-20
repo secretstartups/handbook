@@ -39,7 +39,7 @@ In an all-remote organization, we want each team member to be a [manager of one]
   <iframe width="560" height="315" src="https://www.youtube.com/embed/d0x-JH3aolM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) above, GitLab CEO Sid Sijbrandij and the Learning & Development team gives more context on individual contributor leadership and managers. 
+In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) above, GitLab CEO Sid Sijbrandij gives more context on individual contributor leadership and managers of one. 
 
 > We want leadership from everyone at GitLab. Since we are remote, there is a high expectation to do your work without direct supervision. It means that every team member is responsible for communication, structuring decisions, and managing your workload individually. 
 
