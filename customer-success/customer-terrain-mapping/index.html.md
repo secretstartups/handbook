@@ -1,57 +1,58 @@
 ---
 layout: handbook-page-toc
-title: "Success Roadmap Discovery Engagements"
+title: "Customer Terrain Mapping Engagements"
 ---
 
-# Success Roadmap Discovery Engagements
+# Customer Terrain Mapping Engagements
 
-Success Roadmap discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges.
+Customer Terrain Mapping Engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of their specific challenges that need to be addressed for success in a scoped area of DevOps (a Terrain). The need for this generally arises when the customer is getting ready to utilize technologies and/or methodologies they are less familiar with.
 
-### Success Roadmap Design Goals
+### Terrain Mapping Design Goals
 
-- Facilitate collaboration with customers on articulating critical success factors by co-creating a first draft of a landscape map for a variety of common concerns that may be facing them.
+- Focus on discovering customer concerns in a scoped area (a Terrain) to apply GitLab solutions to their specific challenges on the ground. 
+- Facilitate collaboration with customers on articulating critical success factors by co-creating a first draft of a terrain map.
 - To help customers and GitLab team members understand scenarios where professional services may play a significant and direct role in ensuring customers can be more successful with implementing and gaining value from GitLab. This directly supports the [publicly stated mission](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#professional-services-handbook) of GitLab Professional Services as being an extension of Customer Success.
 - Generate results rapidly and efficiently through a co-worked document outlining considerations and scope in as little as one 60 minute session.
 - To enable reuse and extension, leverage single templates that include brief embedded training and instructions.
 - To enable diversity and inclusivity of inputs by using an open collaboration event to build out the deliverable.
-- Give the customer a first draft landscape map that can be iteratively improved.
+- Give the customer a first draft terrain map that can be iteratively improved.
 - To exhibit transparency by articulating all the things that are required for success, regardless of whether GitLab has services to offer for the items.
 - All of the above goals work together to broaden the scope of **who can facilitate** the session. Facilitation generally requires a technical background, but it is not limited to any specific technical role within GitLab.
 
 ### Some Qualifiers
 
 - Regardless of whether the customer chooses not to use professional services, the document is a high-value artifact that they can develop further.
-- The Success Roadmapping activity does not include detailed design discussions nor doing the actual work to make progress on any of the identified items.
-- Generally one Success Roadmap is offered per SA customer engagement.
+- The Customer Terrain Mapping activity does not include detailed design discussions nor doing the actual work to make progress on any of the identified items.
+- Generally one Customer Terrain Map is offered per SA customer engagement.
 - If the customer chooses to use an applicable professional service, the engagement document will help rapidly understand the customer perspectives to scope and price the engagement. (Efficient reuse)
 
-### Further Iterations of Success Roadmaps
+### Further Iterations of Customer Terrain Maps
 
-Like anything in the handbook, it is everyone’s responsibility and prerogative to improve these materials through corrections and enhancements. At the same time, Success Roadmaps reflect adherence to specific design principles to deliver the items documented above in Success Roadmap Design Goals.  For those wishing to make substantial changes or generate entirely new Success Roadmaps, these design principles are documented here: [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
+Like anything in the handbook, it is everyone’s responsibility and prerogative to improve these materials through corrections and enhancements. At the same time, Terrain Mapping reflects adherence to specific design principles to deliver the items documented above in Customer Terrain Mapping Design Goals.  For those wishing to make substantial changes or generate entirely new Terrain maps, these design principles are documented here: [Terrain Mapping Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
 
 ### GitLab Internal Enablement and Preparation Resources
 
-Each Success Roadmap has an instructions and preparation section that helps you get up to speed as quickly as possible.
+Each Terrain Mapping Engagement Template has an instructions and preparation section that helps you get up to speed as quickly as possible.
 
-For background, please also watch the original CS Enablement session - a link and instructions are provided near the top of [Success Roadmap Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
+For background, please also watch the original CS Enablement session - a link and instructions are provided near the top of [Terrain Mapping Overview and Design Principles (GitLab Team Members Only)](https://docs.google.com/document/d/1aphwxd6LwwyfVlqNbbTzLgKyjZEX-jvpmEWEyC4XXQg/edit?usp=sharing)
 
-## Catalog of Success Roadmap Discovery Engagements
+## Catalog of Customer Terrain Mapping Engagements
 
 Preparation instructions are contained in each of the below. Some items are only accessible by GitLab Team members.
 
 Please be sure to include all the sections when updating or adding Engagements.
 
-1. [Success Roadmap for Self Managed Implementation Review](#success-roadmap-for-self-managed-implementation-review)
-2. [Success Roadmap for Developer Skill Ramping Onto GitLab CI and CD](#success-roadmap-for-developer-skill-ramping-onto-gitlab-ci-and-cd)
-3. [Success Roadmap Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service](#success-roadmap-best-practices-for-operating-self-managed-gitlab-as-a-production-grade-internal-service)
-4. [Success Roadmap for GitLab Migration Review](#success-roadmap-for-gitlab-migration-review)
-5. [Success Roadmap for Gitflows, Workflow, Roles and Controls for SCM, CI and CD](#success-roadmap-for-gitflows-workflow-roles-and-controls-for-scm-ci-and-cd)
-6. [Success Roadmap for Implementing GitLab Secure](#success-roadmap-for-implementing-gitlab-secure)
-7. [Success Roadmap for Customer Internal Developer Enablement for GitLab CI](#success-roadmap-for-customer-internal-developer-enablement-for-gitlab-ci)
-8. [Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation](#success-roadmap-for-specialized-or-highly-scaled-gitlab-runner-implementation)
-9. [Success Roadmap for Integrating GitLab with Other Systems](#success-roadmap-for-integrating-gitlab-with-other-systems)
+1. [Terrain Mapping for Self Managed Implementation Review](#terrain-mapping-for-self-managed-implementation-review)
+2. [Terrain Mapping for Developer Skill Ramping Onto GitLab CI and CD](#terrain-mapping-for-developer-skill-ramping-onto-gitlab-ci-and-cd)
+3. [Terrain Mapping Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service](#terrain-mapping-best-practices-for-operating-self-managed-gitlab-as-a-production-grade-internal-service)
+4. [Terrain Mapping for GitLab Migration Review](#terrain-mapping-for-gitlab-migration-review)
+5. [Terrain Mapping for Gitflows, Workflow, Roles and Controls for SCM, CI and CD](#terrain-mapping-for-gitflows-workflow-roles-and-controls-for-scm-ci-and-cd)
+6. [Terrain Mapping for Implementing GitLab Secure](#terrain-mapping-for-implementing-gitlab-secure)
+7. [Terrain Mapping for Customer Internal Developer Enablement for GitLab CI](#terrain-mapping-for-customer-internal-developer-enablement-for-gitlab-ci)
+8. [Terrain Mapping For Specialized or Highly Scaled GitLab Runner Implementation](#terrain-mapping-for-specialized-or-highly-scaled-gitlab-runner-implementation)
+9. [Terrain Mapping for Integrating GitLab with Other Systems](#terrain-mapping-for-integrating-gitlab-with-other-systems)
 
-### Success Roadmap for Self Managed Implementation Review
+### Terrain Mapping for Self Managed Implementation Review
 
 #### Status: Ready
 
@@ -80,7 +81,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1WrW1QAGZ6Dgvi8lHbu5QSQ1MKT5yCx3UH3GORXamts0/edit?usp=sharing)
 
-#### Outline: Success Roadmap for Self Managed Implementation Review
+#### Outline: Terrain Mapping for Self Managed Implementation Review
 
 1. Project Overview
 2. Architecture Approach and Rationale
@@ -92,7 +93,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 8. Concerns
 9. Key Assumptions
 
-### Success Roadmap for Developer Skill Ramping Onto GitLab CI and CD
+### Terrain Mapping for Developer Skill Ramping Onto GitLab CI and CD
 
 #### Status: Ready
 
@@ -121,7 +122,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1MJdbO482o5QqKzhyl3xRw6RTfwL7Vq69zfyqr1O145I/edit?usp=sharing)
 
-#### Outline: Success Roadmap for Developer Skill Ramping Onto GitLab CI and CD
+#### Outline: Terrain Mapping for Developer Skill Ramping Onto GitLab CI and CD
 
 1. Teams and Users
 
@@ -145,7 +146,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 11. Timeline
 
-### Success Roadmap Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service
+### Terrain Mapping Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service
 
 #### Status: Ready
 
@@ -174,7 +175,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/106uQIXxy2tp3GLyl6WBdSwC7R7NUd9vTGaVePiDEo84/edit?usp=sharing)
 
-#### Outline: Success Roadmap Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service
+#### Outline: Terrain Mapping Best Practices For Operating Self Managed GitLab as a Production-Grade Internal Service
 
 1. Teams and Users
 2. Existing Pipeline Code Analysis
@@ -188,7 +189,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 10. What Deployment Environments Need to Be Supported
 11. Timeline
 
-### Success Roadmap for GitLab Migration Review
+### Terrain Mapping for GitLab Migration Review
 
 #### Status: Ready
 
@@ -228,7 +229,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 6. Timeline
 
-### Success Roadmap for Gitflows, Workflow, Roles and Controls for SCM, CI and CD
+### Terrain Mapping for Gitflows, Workflow, Roles and Controls for SCM, CI and CD
 
 #### Status: Ready
 
@@ -257,7 +258,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1E3j4OTLSVhhUFAXbwy0Amhg8dSFTmLkz9vz7kU-J0BQ/edit?usp=sharing)
 
-#### Outline: Success Roadmap for Gitflows, Workflow,  Roles and Controls for SCM, CI and CD
+#### Outline: Terrain Mapping for Gitflows, Workflow,  Roles and Controls for SCM, CI and CD
 
 1. Teams and Users
 2. Code Integrity
@@ -290,7 +291,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 16. Timeline
 
-### Success Roadmap for Implementing GitLab Secure
+### Terrain Mapping for Implementing GitLab Secure
 
 #### Status: Ready
 
@@ -319,9 +320,9 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1TL1z2ZbGn11V2hV1qVrO7-SDWq_vxEXYMDfGt16U-mk/edit?usp=sharing)
 
-#### Outline: Success Roadmap for Implementing GitLab Secure
+#### Outline: Terrain Mapping for Implementing GitLab Secure
 
-1. Success Roadmap for Implementing GitLab Secure
+1. Terrain Mapping for Implementing GitLab Secure
 2. Teams and Users
 
 3. Development Build & Test Workflows (Development Remediation)
@@ -349,7 +350,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 8. Timeline
 
 
-### Success Roadmap for Customer Internal Developer Enablement for GitLab CI
+### Terrain Mapping for Customer Internal Developer Enablement for GitLab CI
 
 #### Status: Ready
 
@@ -377,7 +378,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1n_-bdI3WCubbrRfP6481lgR_aD1tJOJDRikdJ1_Pbp0/edit?usp=sharing)
 
-#### Outline: Success Roadmap for Customer Internal Developer Enablement for GitLab CI
+#### Outline: Terrain Mapping for Customer Internal Developer Enablement for GitLab CI
 
 1. Teams and Users
 2. Existing Pipeline Code Analysis
@@ -400,7 +401,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 11. Timeline
 
-### Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation
+### Terrain Mapping For Specialized or Highly Scaled GitLab Runner Implementation
 
 #### Status: Proposed
 
@@ -430,7 +431,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 
 ​	[Preparation materials (GitLab Team Members Only)](https://docs.google.com/presentation/d/1q11NQEJibO-mKuXFkhvTHk2F1RYFCufiQ5fIn8kUV3c/edit?usp=sharing)
 
-#### Outline: Success Roadmap For Specialized or Highly Scaled GitLab Runner Implementation
+#### Outline: Terrain Mapping For Specialized or Highly Scaled GitLab Runner Implementation
 
 1. Teams and Users
 2. Existing Pipeline Code Analysis
@@ -445,7 +446,7 @@ Please be sure to include all the sections when updating or adding Engagements.
 11. What Deployment Environments Need to Be Supported
 12. Timeline
 
-### Success Roadmap for Integrating GitLab with Other Systems
+### Terrain Mapping for Integrating GitLab with Other Systems
 
 #### Status: Proposed
 
