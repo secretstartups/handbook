@@ -250,13 +250,13 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
-##### CXC 
+##### CXC Global
 
 Poland, Russia, Ukraine, Romania, Israel, Turkey, Czech Republic & Portugal:
 
-* Expense reports must be approved by the manager and the Accounts Payable team on or before the 8th of each month enable for it to be included in the current month payroll
+* Expense reports must be submitted on Expensify by team members, approved by their managers, and final approved by Accounts Payable team on or before the 8th of each month to ensure it is included in the current months payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
-* Team members must include the approved expense amount on their monthly invoice
+* Team members must include the approved expense amount on their monthly invoice as well.
 
 ## Expense Policy
 
