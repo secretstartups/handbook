@@ -23,7 +23,7 @@ When any lead/contact is created in SFDC, it will automatically sync and create 
 
 A lead will sync from Marketo to SFDC in these scenarios:
 1. Member of Program that is synced to SFDC
-2. When they reach `MQL` status and reach 90 points
+2. When they reach `MQL` status and reach 100 points
 3. Specifically told to sync via a flow step `Sync to SFDC`
 
 ### Sandbox
@@ -79,9 +79,9 @@ dataLayer.push(
 });
 ```
 
-### Smart Campaigns - Operational 
+### Campaign Limits
 
-There is a set limit of 250,000 records that can be processed through a given smart campaign. If the smart campaign smart list is set to update or email over 250,000 records, it will not run and will be `aborted`. This is in place to prevent accidental mass updates and emails. If you need to run a campaign over that limit, reach out to MarOps.
+There is a set limit of 250,000 records that can be processed through a given smart or email campaign. If the smart campaign smart list is set to update or email over 250,000 records, it will not run and will be `aborted`. This is in place to prevent accidental mass updates and emails. If you need to run a campaign over that limit, reach out to MarOps.
 
 #### Standardization of Country &/or State values
 
@@ -120,7 +120,7 @@ The MQL model is based on a 100 point system. Positive and negative points are a
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-The model below is updated as of 2020-11-12.
+The model below is updated as of 2021-01-18.
 
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
@@ -243,6 +243,7 @@ These are the current segmentations that are alive and approved.
 - [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
 - [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
 - [Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)
+- [Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)
 
 ### Account Based Marketing List   
 
@@ -253,7 +254,7 @@ If a new ABM list is needed, please open an issue using the [Target list issue t
 
 ### Geographic DMA List   
 
-The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Program team to target & send emails/invitations related to Field &/or Corporate marketing events. The **MktgOps** team is responsible for creating & maintaining these lists.  You can find these lists in the `Database` of Marketo in the `Geographic DMA List` [Folder](https://app-ab13.marketo.com/#SL52900024A1). 
+The Geographic DMA (direct marketing area) were built for the Field Marketing and Marketing Campaigns team to target & send emails/invitations related to Field &/or Corporate marketing events. The **MktgOps** team is responsible for creating & maintaining these lists.  You can find these lists in the `Database` of Marketo in the `Geographic DMA List` [Folder](https://app-ab13.marketo.com/#SL52900024A1). 
 
 If a new DMA list is needed, please open an issue in the Marketing Operations project & utilize the [DMA_request issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=dma_request). 
 
