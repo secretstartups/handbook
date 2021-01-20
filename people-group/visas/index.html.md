@@ -109,7 +109,7 @@ _Note: This calculation should be based on what GitLab *would* pay the team memb
 - You are not on a Performance Improvement Plan (PIP).
 
 The steps our People Operations Specialist team uses to support relocation to the Netherlands:
-1. Once approval has been gained based during the [Relocation process](/handbook/people-group/contracts-and-international-expansion/#relocation) and the requirements to relocate to the Netherlands have been met, a member of the People Operations Specialist team will add the approval to BambooHR under "Contracts & Changes".  
+1. Once approval has been gained based during the [Relocation process](/handbook/people-group/contracts-and-international-expansion/#how-to-apply-for-a-long-term-relocation) and the requirements to relocate to the Netherlands have been met, a member of the People Operations Specialist team will add the approval to BambooHR under "Contracts & Changes".  
 1. Next, the People Operations Specialist will reach out to our Payroll vendor in the Netherlands and cc the team member in the email to the vendor.
 1. The vendor will then supply all the documentation needed to apply for relocation including information about: [30% Ruling Questionnaire](https://docs.google.com/document/d/1Ok6LS9T4P6tnPu2N6BDRDeveOYzd1ILpkbQRhl911w4/edit?ts=5caf1bca), [wage tax](https://drive.google.com/file/d/1q8N-idoYGFSCw2ajat9RscfQ004EL-PS/view) form and potentially an application for a BSN Number.
 1. Some important notes before you arrange travel / depart to the Netherlands: 
