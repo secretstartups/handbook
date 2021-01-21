@@ -269,7 +269,7 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
 
 ##### Website
 
-Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and [the accounts address]and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
+Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and the accounts address and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
 In the event that the account is linked to an individual that uses a free email domain (or other similar cases) than the value of `[Blank]` should be used as the value for the accounts website.
 
 ##### Initial Source
