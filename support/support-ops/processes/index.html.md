@@ -32,6 +32,24 @@ For Zendesk specific processes, see [Zendesk Processes](zendesk.html).
 
 For information on Audit processes, see [Audit PRocesses](audits.html).
 
+### Contacting Third-Party Apps for problems
+
+Our Zendesk instances uses many third-party applicationss outside of GitLab to
+help Agents in their day to day tasks. Sometimes, we face trouble specifically
+with an agent accessing the third-party applications or the application itself
+is malfunctioning. In such scenarios, Support Operations team need to contact
+the problematic application support as per below process:
+
+1. Agent or Support Operations Team member will create an issue in
+   [Support Ops Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project).
+1. Support Operations DRI will triage and investigate the reason which may
+   include collecting HAR files, Browser versions, plugins etc.
+1. DRI will open a ticket with the Third-Party App support providing detailed
+   information and cc other Support Ops Team Members.
+1. DRI will update all the responses received by Support in the issue till the
+   issue is fixed.
+
+
 ### Reviewing Feedback
 
 It is important we track feedback and take action on it. To best ensure this,
