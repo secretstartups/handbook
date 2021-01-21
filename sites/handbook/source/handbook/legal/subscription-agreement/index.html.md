@@ -258,7 +258,7 @@ Fees for the Subscriptions are based upon the number of Users and the applicable
 #### SUBSCRIPTIONS AND LEVELS OF SUPPORT  
 | Subscription* | Level of Support (_First Response Time_) | Support Details |  
 | ------ | ------ | ------ |  
-| Free _(Formerly "Core" or "Free")_ | GitLab Community Forum | Visit: https://forum.gitlab.com  |  
+| Free _(Formerly "Core" or "Free")_| GitLab Community Forum | Visit: https://forum.gitlab.com |  
 | Starter _(F.K.A "Basic" or "Bronze")_ | GitLab Standard Support | 24 x 5 Support Next business day response (24 hour SLA) Submit Tickets at : https://support.gitlab.com |  
 | Premium _(Formerly Premium or Silver)_ | Priority Support (Based upon Support Impact******) | See Priority Support Overview https://support.gitlab.com |  
 | Ultimate _(Formerly Gold or Ultimate)_ | Priority Support (Based upon Support Impact**) | See Priority Support Overview https://support.gitlab.com |  
