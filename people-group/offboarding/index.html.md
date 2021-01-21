@@ -10,11 +10,65 @@ description: "Offboarding procedures for all stakeholders"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Offboarding 
+## Offboarding Overview
 
-The offboarding process execution is shared by the People Business Partners (PBPs), People Specialists, People Experience team, and Tech Stack Provisioners. 
+Facilitation of the offboarding process is shared by the GitLab [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/), [People Operations Specialists](https://about.gitlab.com/job-families/people-ops/people-operations/), [People Experience Team](https://about.gitlab.com/job-families/people-ops/people-experience-associate/), and various [Tech Stack Provisioners](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/).
 
-The People Experience team is responsible for creating the actual [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) within 12 hours of the offboarding date (may be sooner once the team member in the rotation becomes available) and executing the logistical tasks to remove access from certain systems and eliminate specific information in the handbook, etc. as outlined [here](/handbook/people-group/offboarding/offboarding_guidelines/), while the PBPs and People Specialists collaborate to work through the rest of the process.
+The process to be followed will be guided by the nature of the offboarding at hand i.e. either **Voluntary** or **Involuntary** - both of which have been described in greater detail below.  Each of the stakeholders listed play a critical role in ensuring that offboarding takes place in a manner that is efficient and best serves the unique needs and sensitivities surrounding the respective team members situation.
+
+## Starting the Process
+
+Offboarding officially commences once an [Offboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) has been created by the People Experience Team.  This action is triggered by the submission of an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) by the People Business Partner (PBP) responsible for overseeing the division in which the departing team member is based.
+
+The form includes the following fields all of which will guide the People Experience Team in terms of when the process should commence and whether any factors unique to the offboarding in question should be kept in mind e.g. Garden Leave or Day to Turn Off Access.
+
+| Form Element | Guidelines | 
+| --- | --- |
+| Team Member Name | As Detailed on BambooHR |
+| Job Title | As Detailed on BambooHR | 
+| Termination Date | As Determined by PBP / Manager and Team Member |
+| Garden Leave | Where Applicable (Non-US) |
+| Last Working Day | Where Applicable (US) |
+| Type of Offboarding | Voluntary or Involuntary | 
+| Regrettable vs Non-Regrettable | Further Detail Below |
+| Offboarding Reason | Further Detail Below | 
+| Eligible for Rehire | Yes / No |
+| Eligible for Alumni Channel | Yes / No | 
+| Team Member Location | As per BambooHR | 
+| Exit Interview Owner | PBP / Specialist |
+
+When completing the form in instances of Voluntary Offboarding i.e. as a result of Team Member Resignation, the People Business Partner along with the Manager of the departing Team Member will need to give consideration to whether the offboarding could be considered Regrettable or Non-Regrettable - the explainations below should be used to guide the outcome:
+
+**Regrettable Offboarding**
+- Departure has a significant negative impact on the Company / Customer(s) / Project(s) / Team.
+- Team Member was a good and consistent performer both in terms of results and behaviours i.e. upholding the GitLab Values.
+
+**Non-Regrettable Offboarding**
+- Departure has a minimal impact on the Company / Customer(s) / Project(s) / Team.
+- Team Member has not been meeting expectations due to Conduct / Culture (Values) Misalignment / Performance Concerns.
+
+The table below details the circumstances under which a Team Member will or will not be eligible for future rehire based on the primary reason for offboarding:
+
+| Offboarding Reason | Re-Hire Eligibility |
+| ------ | ------ |
+| Relocation | Yes |
+| Career Development | Yes |
+| Elimination of Position | Yes |
+| Compensation | Yes |
+| Attendance | with Review |
+| Values Misalignment | with Review |
+| Job Satisfaction | with Review |
+| Knowledge, Skills, and Ability | with Review |
+| Mutual Decision | with Review |
+| Other | with Review |
+| Performance | with Review |
+| Not a fit for the role | with Review |
+| [Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/)| No |
+| [Job Abandonment](https://about.gitlab.com/handbook/people-group/people-policy-directory/#job-abandonment) | No |
+
+Opening of the offboarding issue which will in turn begin the process of systems de-provisioning will be aligned to the information presented by the People Business Partner within the Offboarding Workflow i.e. Termination Date / Last Working Day.
+
+The People Experience Team endeavours to initiate the process within twelve hours of notification - sooner where possible however in instances of involuntary termination will work with IT Ops to ensure preliminary de-provisioning happens as required.
 
 ## Compliance
 
@@ -84,28 +138,6 @@ Joining the channel is voluntary and subject to GitLab's [Code of Conduct](/comm
 
 GitLab, the company, monitors the channel and can remove people from it at their sole discretion.
 The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) is enforced in the channel.
-
-#### Offboarding Reason & Re-Hire Eligibility 
-
-There are several different options for the `Offboarding Reason` field in the offboarding google form. Below is an overview of Offboarding Reason and the corresponding re-hire eligibility option that should be selected depending on the reason.
-
-| Offboarding Reason | Re-Hire Eligibility |
-| ------ | ------ |
-| Relocation | yes |
-| Career Development | yes |
-| Elimination of Position | yes |
-| Compensation | yes |
-| Attendance | with review |
-| Values Misalignment | with review |
-| Job Satisfaction | with review |
-| Knowledge, Skills, and Ability | with review |
-| Mutual Decision | with review |
-| Other | with review |
-| Performance | with review |
-| Not a fit for the role | with review |
-| [Conduct](https://about.gitlab.com/handbook/people-group/code-of-conduct/)| no |
-| [Job Abandonment](https://about.gitlab.com/handbook/people-group/people-policy-directory/#job-abandonment) | no |
-
 
 ## Involuntary Offboarding
 
