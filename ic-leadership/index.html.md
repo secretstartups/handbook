@@ -15,7 +15,7 @@ At GitLab, it is expected that everyone is [a manager of one](/handbook/leadersh
 
 Just like moving into management, also moving from Senior to Staff changes the day-to-day work and expectations placed on ICs.
 
-Engineering IC Leaders exert [technical leverage](#technical-leverage) in their [scope of influence](/handbook/engineering/career-development/career-matrix.html#scope-of-influence).
+Engineering IC Leaders exert [technical leverage](#technical-leverage) in their [scope of influence](/handbook/engineering/career-development/matrix/engineering/).
 Like any other leadership role, the focus should be on helping others to improve.
 Their impact multiplies with every person they help grow, and the company gets more value when they're not investing time in doing things themselves.
 
