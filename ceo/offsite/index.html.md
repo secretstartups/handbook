@@ -151,7 +151,6 @@ The goal is to merge it the same day, preferably within 15 minutes.
 There are some topics discussed at every E-group offsite.
 These include:
 1. Reviewing action items from the last offsite
-1. Dependencies outside of OKRs (2 hours, ~15 mins per function)
 1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
 1. [Book Discussion](/handbook/ceo/offsite/#book-choice) (30 minutes - 1 hour)
