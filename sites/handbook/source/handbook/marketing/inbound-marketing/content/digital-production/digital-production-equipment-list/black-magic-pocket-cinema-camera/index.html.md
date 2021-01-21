@@ -161,15 +161,15 @@ The White Balance settings removes colour cast from your image and helps white a
 1. With the camera turned off, remove the SD card and use a card reader to connect it to your computer. 
 1. The file will appear as a mounted disk, but ensure the file is transferred to your computer before returning the card to your camera. 
 
-### Reference Slides with Zoom when Recording for a Presentation. 
+### Reference Slides with Zoom when Recording for a Presentation 
 
 1. Connect your Blackmagic camera with an HDMI cable to your computer using the Elgato Capture Card. It is plug and play. 
 1. While using your Blackmagic Camera as a webcam, you can share your deck and record normally as you would during a Zoom presentation. 
-1. You may then **ALSO** record by pressing the red button on the blackmagic camera itself. 
+1. You may then **ALSO** record by pressing the red button on the Blackmagic camera itself. 
 1. When you are finished, end both recordings. 
-1. You may provide both the zoom recording, along with the high quality recording on your SD card, to the editor. The editor will use the Zoom recording to track  where the slide should appear when editing the presentation. 
+1. You may provide both the zoom recording, along with the high quality recording on your SD card, to the digital production team, if the content is to be submitted for editing. The production team will use the Zoom recording to track where the slide should appear when editing the presentation. 
 
-**_Be sure to keep your eye fixed on the blackmagic lens only, as that is where you will be looking in the final video. Refrain from looking at your slides or computer as much as possible._** 
+**_Be sure to keep your eye fixed on the Blackmagic lens only, as that is where you will be looking in the final video. Refrain from looking at your slides or computer as much as possible._** 
 
 # Webcams
 
