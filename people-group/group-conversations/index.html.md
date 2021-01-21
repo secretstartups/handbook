@@ -232,7 +232,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Thur | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) |
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Two  | Mon  | Available |   |
-| Two  | Tues | Available |   |
+| Two  | Tues | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman   |
 | Two  | Wed  | Available |   |
 | Two  | Thur | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
