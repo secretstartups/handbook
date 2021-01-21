@@ -49,14 +49,6 @@ GitLab PS can and should help our partners be successful in delivering services 
 
 ## Collaboration by Type of Service
 
-### Consulting Services
-- Require discovery sessions to further define the problem space that customer is trying to solve
-- Deliverable(s) for these services is
-    - typically a written recommendation on how to solve the problem
-    - *sometimes* proof of concept code customers can apply to their environment.
-- All code developed for these services must NOT contain any customer information so we can reuse the project for future customers without reinventing the wheel.
-- [Consulting services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) should be built and maintined in the consulting directory of [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development)
-
 ### Implementation Services
 - These services almost always involve actually building the infrastructure and configuring the gitlab components so maintaining a customer-free reference for IaC of configuration Automation tends to be harder 
 - [Proliferate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/proliferate) can be used by Partners (Indirect) (project based and staff aug).
@@ -70,6 +62,13 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 - As partners start migration projects, they can use the [Migration Kickoff Deck](https://docs.google.com/presentation/d/1AzM_qYKKOYhgvNTrEBXRmFT2m0caBuKZ6VAH6sCbiKQ/edit#slide=id.g7c1de0839e_0_0) or [Migration Early Adopter Kickoff](https://docs.google.com/presentation/d/19pNUZljJ7mOM8SQ31miYzaU4lXcmHI96Q6yJKqQ2dx4/edit) (for larger engagements) to help facilitate discovery discussions.
 - When using [congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate), you will need to deploy it somewhere. If you need to deploy it within the customer firewall, make sure any hot-fixes you make to migration services source code you port back to the migration services projects.
 
+### Consulting Services
+- Require discovery sessions to further define the problem space that customer is trying to solve
+- Deliverable(s) for these services is
+    - typically a written recommendation on how to solve the problem
+    - *sometimes* proof of concept code customers can apply to their environment.
+- All code developed for these services must NOT contain any customer information so we can reuse the project for future customers without reinventing the wheel.
+- [Consulting services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) should be built and maintined in the consulting directory of [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development)
 
 
 
