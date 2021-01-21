@@ -398,7 +398,7 @@ Reach out to the blog post author to find out if there is an update to the story
 
 This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
 
-[TODO: Add Praefect example once live]
+For example, [this post about Praefect](/blog/2021/01/21/high-availability-git-storage-with-praefect/) is a follow-up to a [popular post from 2018 about Gitaly](/blog/2018/09/12/the-road-to-gitaly-1-0/).
 
 #### Update 
 
