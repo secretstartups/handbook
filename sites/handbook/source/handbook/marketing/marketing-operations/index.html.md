@@ -255,7 +255,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Sprout Social
 - Swiftype
 - Survey Monkey
-- [Tweetdeck](/handbook/marketing/marketing-operations/Tweetdeck/)
+- [Tweetdeck](/handbook/marketing/marketing-operations/tweetdeck/)
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 - [Zapier](/handbook/marketing/marketing-operations/zapier/)
