@@ -134,7 +134,7 @@ Please fill out one of these Issue Templates to request support. Please note, if
 <br />
 
 #### Brand and Design Issue Templates 
-The brand and design team is now the Brand Activation team under Corporate Marketing. Please see their [Handbook page](handbook/marketing/corporate-marketing/brand-activation/brand-design/#requesting-support) for requesting support. 
+The brand and design team is now the Brand Activation team under Corporate Marketing. Please see their [Handbook page](/handbook/marketing/corporate-marketing/brand-activation/brand-design/#requesting-support) for requesting support. 
 #### Inbound Marketing Issue Templates
   * [Request a redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=set-up-a-new-redirect)
   * [Request a Hotjar heatmap](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/issues/new?issuable_template=hotjar-heatmap-request)
