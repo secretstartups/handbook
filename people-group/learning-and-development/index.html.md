@@ -305,6 +305,12 @@ We are also in the process of launching LinkedIn Learning internally for all tea
 
 GitLab has several compliance courses and resources. Explore the drop-downs below to learn more. 
 
+| Training     | Tool  | Frequency   |  Responsible Team   | 
+|---------|-----------------|------------------|------------------|  
+| [Anti-Harassment](/handbook/anti-harassment/)    | WILL Interactive | Onboarding <br> Varies based on Location | Learning & Development | 
+| [Security](/handbook/security/#training-delivery)    | KnowBe4 | Onboarding <br> Annually by the end of August | Security | 
+| Compliance    | Navex | Annual | Legal | 
+
 <details>
   <summary markdown='span'>
     Common Ground: Harassment Prevention Training
