@@ -53,7 +53,7 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model to focus the TAM's efforts where they will have maximum value and impact. The priority tiers have [defined SLAs for engagement](https://about.gitlab.com/handbook/customer-success/tam/#book-of-business-prioritization). Different regions utilize different models for determining Priority 1 vs Priority 2, as described below.
+GitLab uses a customer prioritization model to focus the TAM's efforts where they will have maximum value and impact. The priority tiers have [defined SLAs for engagement](https://about.gitlab.com/handbook/customer-success/tam/#book-of-business-prioritization) and [metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics). Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is constantly reviewed.
 
 ### US Enterprise
 
@@ -120,3 +120,32 @@ Examples of when an exception may be appropriate include:
 - A customer with [risk](/handbook/customer-success/tam/health-score-triage/) (which is not factored into the prioritization model) which requires higher engagement to address and mitigate the risk
 
 In order to make an exception, the TAM or SAL should discuss the details with the members of the [account team](/handbook/customer-success/account-team/#enterprise) and their respective managers. If there is agreement that an exception is warranted, the customer can be prioritized accordingly.
+
+### EMEA Enterprise
+
+TAM-assigned customers are segmented into three priority tiers: Priority 1 (P1), Priority 2 (P2) and Priority 3 (P3). The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
+
+#### Guidance
+
+Each TAM should aim to have roughly 3 to 6 customers as Priority 1, and the rest as Priority 2 or Priority 3. A smaller number of Priority 1 customers will allow an increased focus, higher effectiveness and better results. A TAM should roughly spend 60% of their time with Priority 1 customers.
+
+#### Parameters influencing the customer prioritization
+
+Following parameters and metrics define the prioritization:
+
+| Parameter                                                                     | Sample                                                                                              |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Organizational change within the customer                                     | GitLab ownership is moving to another department within the customer organization                   |
+| Customer lifecycle stage (Gainsight)                                          | Customer is still onboarding majority of the user base                                              |
+| Current/upcoming infrastructure change                                        | Actively working with the customer on changing the or implementing GitLab including migrations      |
+| Customer engagement level                                                     | Customer expressed the wish to collaborate on a weekly base                                         |
+| [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) | Increasing seats to close gap between licenced users and LAM                                        |
+| Expansion plays                                                               | Stage adoption or expansion plays as part of success planning                                       |
+| GitLab organizational changes                                                 | TAM account handover                                                                                |
+
+#### Prioritization process and exceptions
+1. TAM to propose a priority based on the available parameters
+2. Review during weekly 1:1s with the TAM Manager
+3. Alignment with the Sales team and ASMs as part of the account planning activities [SFDC report used during reviews](https://gitlab.my.salesforce.com/00O4M000004aYRs)
+
+Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
