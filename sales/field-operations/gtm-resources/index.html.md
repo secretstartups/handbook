@@ -268,7 +268,7 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
 
 ##### Website
 
-Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and [the accounts address](#account-ownership-rules-of-engagement) and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
+Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and [the accounts address]and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
 In the event that the account is linked to an individual that uses a free email domain (or other similar cases) than the value of `[Blank]` should be used as the value for the accounts website.
 
 ##### Initial Source
@@ -542,7 +542,7 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 
 1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections, if gathered, AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
 1. Click the `Convert` button:
-    - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#account-ownership-rules-of-engagement))
+    - Change `Record Owner` to the Account Owner (based on Rules of Engagement)
     - Check the "Send Email to the Owner" box
     - Lookup the correct `Account Name` (remove company suffix to avoid duplicates) - if unsure assign OPPORTUNITY to the "Parent" account
     - Opportunity Name - using [Opportunity Naming Convention](#opportunity-naming-convention)
