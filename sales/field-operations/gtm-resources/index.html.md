@@ -371,9 +371,7 @@ If the account has a parent account or the parent account also has a parent acco
 This address follows our data hierarchy - with Datafox being our primary source of data (Link to come).
 - The account must also have a matching sales segmentation that the owner should be working.
 Any Account adopts the highest sales segment that exists within an account hierarchy.
-Segment is determined by our data hierarchy - with Datafox being our primary source of data (Link to come).
-- Any owner of an account must follow our guidelines for [Record Ownership](#record-ownership)
-
+Segment is determined by our data hierarchy - with Datafox being our primary source of data.
 1. Any account owner can reassign their own account to someone else
 1. Any RD can reassign any account
 1. Any Team Lead can reassign any account that is located within their region
