@@ -30,6 +30,10 @@ Feature development is expected to pass through all phases to achieve specified 
 
 As teams leverage the product development flow, they may find that certain strategies/tactics are serving their teams well toward success. Therefore, we welcome MRs to this page, so we can create a robust playbook of options to build valuable features for customers. All team members are encouraged to follow the [change process](#editing-this-page) for this page to share their best practices. 
 
+### Measuring Success 
+
+We take both a qualitative and quantitative approach to measuring success of the Product Development Flow. Details on the measures and results are available on [this handbook page](/handbook/product-development-flow/success-metrics/).
+
 ## But Wait, Isn't This Waterfall?
 
 No. Although the phases described on this page appear to be independent and linear, they're not. They're presented in this way for simplicity and ease of navigation. At GitLab, we do not promote working in a linear manner. Phases in the product development lifecycle may overlap or occur in parallel.
