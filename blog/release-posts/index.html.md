@@ -250,7 +250,7 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
    1. Utilizing the content that is in the release post items, duplicate the content for What's New
 1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
 1. Images will end up at a URL https://about.gitlab.com/images/X_Y/XXXXXXX.XXX Make sure you provide a full URL for the YAML entry. Ex: https://about.gitlab.com/images/13_7/reviewers_sidebar.png
-1. Submit the MR and add labels  ~"feature" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
+1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
 
 ##### Notes:
 Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
