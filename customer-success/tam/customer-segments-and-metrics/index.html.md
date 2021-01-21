@@ -37,31 +37,9 @@ This phase is about going beyond a customer’s existing use cases, into additio
 1. Metric: Stage Adoption Playbooks Completed
 1. Metric: Days per Playbook Completed per Stage
 
-## Onboarding Segment
 
-These accounts are 20-50k in ARR. The focus of this program is ensuring these customers quickly move through initial adoption roadblocks to enable the path to IACV growth
-
-#### Align
-
-One of the key outputs of this program is a Success Plan that goes beyond feature adoption, enabling a SAL or AE to engage with the customer in their post-onboarding checkpoints around desired business outcomes.
-
-1. Metric: Completed Success Plan per onboarding-completed customer to drive SAL/AE account planning and growth initiatives
-
-#### Enable
-
-This program's primary focus is to improve Time to 1st Value, removing initial roadblocks to adoption and avoiding poor initial set-up scenarios where use cases then fail and the GitLab platform is blamed. In the onboarding hand-off, the TAM ensures that the customer knows where to find what they need to be successful (Docs, HB, Support, Sales) and that the SAL or AE is given a strategic success plan to drive their future touchpoints.  This program is positioned as a weekly touchpoint (call) for six weeks, ensuring that the customer can quickly move to full-use case adoption.
-
-1. Metric (leading): [Time to First Value](/handbook/customer-success/tam/onboarding/#time-to-first-value) as articulated above
-1. Metric (lagging): Gross Retention (ensured through successful set-up and activation)
-
-#### Expand
-
-The expand motion for these customers is about ensuring 1) we have documented desired business outcomes and 2) roadblocks are removed so that the SAL and AE teams can drive expansion more quickly in these accounts, ensuring scenarios such as poor set up (leading to failing features) and ‘analysis paralysis’ do not occur, slowing down or impeding adoption.
-
-1. Metric: Faster time to IACV growth in year 1 compared to the FY21 cohort
-
-## Digital
-These accounts are 5-20k ARR for onboarding, or 5-50k ARR for stage & use-case enablement.  The focus of this program is ensuring successful set-up, scale and expansion through digital enablement campaigns.
+## Digital-Only
+These accounts are 5-50k ARR for onboarding, or any account =>5k ARR and not TAM-assigned.  The focus of this program is ensuring successful set-up, scale and expansion through digital enablement campaigns.
 
 #### Align
 
