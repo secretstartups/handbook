@@ -26,7 +26,13 @@ canonical_path: "/handbook/product-development-flow/success-metrics"
 
 ### Q4 2020 Before vs. After Comparison
 
-Describe what this is.... For further details visit [Issue 9243](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9243)
+An initial quantitative analysis was done for the first major update of the PDF in December 2020 looking at: 
+
+* Are we driving more opportunities for collaboration? 
+* Are we reducing the total steps required? 
+* Have we simplified things (judged by word count)
+
+For further details visit [Issue 9243](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9243)
 
 | | Collaboration Touchpoints | Total Steps | Word Count | 
 | ------ | ------ | ------ | ------ | 
