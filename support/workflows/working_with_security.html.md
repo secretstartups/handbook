@@ -134,9 +134,9 @@ In the case that something ended up in the Security inbox and was forwarded on v
 
 ### Transfer from Support to Security
 
-In the case that a security issue was reported through a Zendesk support ticket:
+In order to transfer a ticket from Support to Security:
 
-1. Change the *Form* to **Security Issue**.
+  * Use the "General -> Forms -> Change to Security" macro 
 
 ### Escalate ZenDesk ticket to Security
 
