@@ -63,7 +63,7 @@ Every ticket which is `de-escalated` must include the `De-escalation`
      * All fields are required.
 
      * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
-     Additionally a thread will be created in` #support_managers` slack channel.
+     Additionally a thread will be created in` #support_escalations` slack channel.
 
 1. Please expect that we will take into consideration the entirety of the ticket queues and existing escalation issues as we determine an appropriate prioritization for your issue.
 
@@ -71,7 +71,7 @@ Every ticket which is `de-escalated` must include the `De-escalation`
 ##### Redirecting Escalations (For GitLab Support Use Only)
 {: .no_toc}
 
-If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_managers](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
+If a ticket or issue escalation is posted in the wrong channel, simply add the `:escalation:` emoji as a reaction to the post and the user will be directed to re-post the escalation in [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48) via a [Slack Workflow](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows).
 
 #### Trials and Prospect Support
 
