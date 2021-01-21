@@ -194,7 +194,7 @@ For example, if an issue requires one frontend, one backend, and one database ch
 
 To ensure the sequence for completion of the implementation issues is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
 
-![Related issues](handbook/engineering/release-managment/related-issues.png)
+![Related issues](/handbook/engineering/release-managment/related-issues.png)
 
 ### Addressing new issues quickly
 
