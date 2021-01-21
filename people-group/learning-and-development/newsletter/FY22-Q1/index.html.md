@@ -97,9 +97,10 @@ More ways you can continue to learn throughout the quarter:
 
 ## Learning Tips 
 
-We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! Focus Fridays are a great time to focus on learning. Consider blocking off a few hours each week to learn new skills for your role at GitLab
+We want to remind you to [take time out to learn](/handbook/people-group/learning-and-development/#take-time-out-to-learn-campaign)! [Focus Fridays](/handbook/communication/#focus-fridays) have been extended to 2021-04-30 and are a great time to focus on learning. Consider blocking off a few hours each week on Fridays to learn new skills for your role at GitLab. 
 
-[add info here]
+There are plenty of courses on GitLab Learn as well as LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
+
 
 ## Other Enablement Initiatives
 
