@@ -89,16 +89,15 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
 
      <p>Greetings,</p>
 
-     <p>We appreciate you confirming your intent to delete your GitLab.com account. However, before we can proceed we will also need you to confirm the username of the GitLab.com account associated with this email address.</p>
+     <p>We appreciate you confirming your intent to delete your GitLab.com account. However, before we can proceed we will also need you to confirm the username of the GitLab.com account associated with this email address. Once we've confirmed the username, we'll issue some additional identity verification challenges.</p>
 
      <p>Please provide this username at your earliest convenience so that we can begin the account deletion process.</p>
 
      <p>Regards,</p>
    </details>
 
-   If the username provided **does not** match the GitLab.com account associated with the originating email address, request confirmation of additional information by sending the [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) snippet.
+   If the username provided **does not** match the GitLab.com account associated with the originating email address, they may still be able to delete the account. You may proceed to verify they aren't part of a paid namespace and verify account ownership.
 
-   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and do not proceed further.
 
 1. **Paid Namespace Confirmation:** Verify that the user is not associated with a paid namespace on GitLab.com. If they are, do the following:
    1. Send the following `Paid Namespace Found` snippet:
@@ -118,6 +117,22 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
    1. Close the issue.
    1. [Create a new Zendesk ticket](https://support.zendesk.com/hc/en-us/articles/203690946-Creating-a-ticket-on-behalf-of-the-requester) using the `Support::SaaS::Account Deletion - Customer Contact Inform` macro on behalf of the customer using the contact information for them associated with the subscription in the [Customer Portal](https://customers.gitlab.com).
 
+1. **Account Ownership Verification:**
+   Verify that the requestor is the owner of the account in question by sending the [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) snippet.
+
+   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
+
+   <details>
+     <summary markdown="span">Request Closed - Verification Failed</summary>
+
+     <p>Greetings,</p>
+
+     <p>Unfortunately, your answers to our verification challenges have failed, so your request for account deletion is denied. This issue will be closed.</p>
+
+     <p>Regards,</p>
+   </details>
+
+
 #### **Stage 2: Deletion**
 
 1. [Create a new confidential issue](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) in the Personal Account Requests issue tracker and follow the instructions at the top of the template, then complete each step in the issue template that begins with `Support Engineer:` in order.
@@ -130,19 +145,17 @@ An overview of this process is outlined in the chart below.
 graph TD
 A(Request Received)-->B
 B(User Confirmed Intent to Delete?)-->|Yes|C
-C(User Provided Account Username?)-->|Yes|D
-D(Requesting Email Matches Username?)-->|Yes|E
-E(User Passed Account Verification Process?)-->|Yes|F
+C(User Provided Account Username?)-->|Yes|F
+E(User Passed Account Verification Process?)-->|Yes|I
 F(User Has Access to Paid Namespace?)-->|Yes|X
 X(Inform User We Cannot Complete Request)
 B-->|No|Y
 Y(Wait For Confirmation)-->B
 C-->|No|Z
 Z(Ask User to Provide Account Username)-->C
-D-->|No|G
 G(Perform Account Verification)-->E
 E-->|No|H
 H(Apply Account Verification Failed Label)
-F-->|No|I
+F-->|No|G
 I(Create Deletion Meta Issue)
 ```
