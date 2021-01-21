@@ -73,7 +73,7 @@ The blog is not the permanent place for tutorials, which should live in the docs
 1. **Product:** Articles that cover GitLab's product evolution, features, and capabilities. Includes release posts, integrations, feedback solicitations, and use case articles centered around how to use GitLab to do something.
     - Examples:
         - [Why GitLab CI/CD?](/blog/2019/04/02/why-gitlab-ci-cd/)
-        - [How we are interating on Group Single Sign On for GitLab.com](/blog/2019/01/17/iterating-on-sso/)
+        - [How we are iterating on Group Single Sign On for GitLab.com](/blog/2019/01/17/iterating-on-sso/)
         - [3 Major improvements coming to GitLab Epics](/blog/2020/01/21/epics-three-features-accelerate-your-workflow/)
 1. **Remote work:** Articles that cover all-remote work. Includes articles about work/life balance, tricks and tips, building an all-remote company, etc.
     - Examples:
@@ -204,7 +204,7 @@ We review traffic to blog posts on a quarterly basis. You can view past analyses
 
 - Make a copy of the [Blog traffic review template](https://docs.google.com/spreadsheets/d/1ZmkEsn1r8hvzz3-yU3HmCcD44C2Xl8kqMm6JnRiwR04/edit?usp=sharing)
 - Fill in the cells in the "Breakdown of blog posts" and "Unfiltered" sheets and pull most recent data on unique page views from date of publish to date, using the [blog dashboard](https://datastudio.google.com/u/0/reporting/2a0b74a9-4598-45e3-84de-b15c9b4c47da/page/FCsh)
-- The other sheets are pivot tables and will populate automatically based on the sheets filled in in the previous step
+- The other sheets are pivot tables and will populate automatically based on the sheets filled out in the previous step
 - Open a [traffic review issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/editorial/-/issues/new?issuable_template=traffic-review)
 - Open an [Unfiltered review issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/editorial/-/issues/new?issuable_template=unfiltered-review)
 - Complete all fields in the issues and add any observations
@@ -501,7 +501,7 @@ This is not an exhaustive list of criteria, as the Editorial team member will al
 - In some cases, an Unfiltered post may be drawing a lot of traffic, but the topic is outside the [scope of the blog](#scope). In this case we will not move the post, for example [Introducing the WoW rule: A formula for growth for SaaS Startups](/blog/2020/05/05/wow-rule/).
 - We may need to tweak the post to adhere to our [best practices](/handbook/marketing/blog#writing-blog-posts--best-practices) (e.g. adding more context, making the value for our audience clearer).
 - It might help to think about the Unfiltered post in the same way that we approach [reviewing pitches](#what-to-look-for). Is the topic likely to be of interest to our audience of software developers and related professions? Is there practical, actionable content from which our audience can learn? If the answers are "yes" then it's worth thinking about how we can adjust or adapt the post for the main blog.
-- If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
+- If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases/), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
 
 #### Review process
 
@@ -760,7 +760,7 @@ How to spell and style commonly used words.
 - DevOps
     - D and O always capitalized
 - E-Group
-    - references to E-Group should alays include a capital E, hyphen, and a capital G
+    - references to E-Group should always include a capital E, hyphen, and a capital G
 - Git
     - always capitalized
 - GitHub

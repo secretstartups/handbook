@@ -82,7 +82,7 @@ You can expect these communications/notifications (either through GitLab or in a
    *  A comment will be added for what additional information is needed
 *  The issues moved to `mktg-status::WIP` are then put into a sprint and assigned to a week sprint based on priorities, resources, weights and assignment loads
 *  The `Assignee` will comment that they have received your Issue and when you can expect more information (ex: "On it. Will respond within the week on timeline")
-*  If needed, the Issue Brief will be broken into a Project Epic with relevant issues and those issues re-assigned to the relevant DRIs as `Assignee(s)` 
+*  If needed, the Issue Brief will be broken into a Project Epic with relevant issues and those issues reassigned to the relevant DRIs as `Assignee(s)` 
 *  A timeline  will be provided in that Project Epic or individual issue and the due date will be adjusted accordingly.
 *  When feedback is needed the `Assignee(s)` will comment in the issue(s) asking for your input. They will be as specific as possible with what they are looking for comments on. 
 *  Final deliverables will be added in the appropriate form (file, link to repository, web link, etc.) and the Assignee(s) will @ you
@@ -262,7 +262,7 @@ keep a SSoT and avoid duplicative placement of information that would need to be
   * Epic per phase - one epic per phase
   * Contains:
    * Scope of project
-   * Roles & Responsbilities Chart if different than the parent epic
+   * Roles & Responsibilities Chart if different than the parent epic
    * Relevant Documents
    * High-level epic production only - All production for individual issues should be placed in those issues to avoid redundancy 
 * **Fourth Tier Epics**
@@ -380,7 +380,7 @@ This is how we work with Issues and their scope
 *  Comment in issue why it was moved to the next milestone (ex: person x out sick, complications with testing, etc.)
 
 ## Quarterly Process 
-* Epics for the quarterly OKRs are created and links are added to to the yearly strategy in the handbook
+* Epics for the quarterly OKRs are created and links are added to the yearly strategy in the handbook
 * Child epics are created per the [epic structure](/handbook/marketing/inbound-marketing/#epics) listed above
 
 ## Yearly Process 

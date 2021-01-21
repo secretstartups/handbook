@@ -50,7 +50,7 @@ See [Where should content go?](/handbook/git-page-update/#where-should-content-g
 
 ## Pages supported by Strategic Marketing
 
-The Growth Marketing team supports the design, devleopment, and strategic integration of the following pages with content from Strategic Marketing. You can see the performance of these pages in the [Strategic + Growth Marketing dashboard](https://datastudio.google.com/u/0/reporting/954b4ace-e2ba-4bf6-92ad-848a48a309f2/page/pBbcB). 
+The Growth Marketing team supports the design, development, and strategic integration of the following pages with content from Strategic Marketing. You can see the performance of these pages in the [Strategic + Growth Marketing dashboard](https://datastudio.google.com/u/0/reporting/954b4ace-e2ba-4bf6-92ad-848a48a309f2/page/pBbcB). 
 
 - Comparison pages in `about.gitlab.com/devops-tools/`
 - Solutions in `about.gitlab.com/solutions/`
@@ -821,7 +821,7 @@ If you have tried the above solutions but are still having trouble using a form,
 
 ### Why can't I see something in the review apps?
 
-This is potentially due to [cookiebot](/handbook/marketing/marketing-operations/cookiebot). Because of how our infrastructure is setup, certain third party content (such as youtube embeds) or advanced javascript may not appear on review apps. If you are unsure of the cause, please contact us so we can help review what might be impacting your project.
+This is potentially due to [cookiebot](/handbook/marketing/marketing-operations/cookiebot/). Because of how our infrastructure is setup, certain third party content (such as youtube embeds) or advanced javascript may not appear on review apps. If you are unsure of the cause, please contact us so we can help review what might be impacting your project.
 
 If you need to **temporarily** preview an item in the review app before release, you can try to add the following attribute to the frontmatter of the file: `manual_cookiebot: true`. **Do not commit that change without removing it before your final merge.** Alternately, you can follow this tutorial for steps on [how to use developer tools to view a review-app video blocked by cookiebot](https://drive.google.com/file/d/17pveEE_M7TXzar7b69ZhuwFKhKLgRZ8n/view?usp=sharing).
 

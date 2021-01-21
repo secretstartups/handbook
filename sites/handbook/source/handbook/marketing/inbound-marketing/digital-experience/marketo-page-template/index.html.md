@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketo page template"
+description: "Marketo guided template for modules. Each module can be toggled on or off and has options such as background color."
 ---
 
 ## On this page

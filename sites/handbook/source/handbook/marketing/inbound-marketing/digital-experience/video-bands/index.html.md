@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Video bands"
+description: "Documentation for Video bands seen on the GitLab homepage. A video band is a slider with videos on a subject. "
 ---
 
 ## On this page

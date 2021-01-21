@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: 'Digital Experience: Foundations Agenda'
+description: "The goal of this page is to identify blockers and highlight the value of unlocking our team."
 ---
 
 ## On this page

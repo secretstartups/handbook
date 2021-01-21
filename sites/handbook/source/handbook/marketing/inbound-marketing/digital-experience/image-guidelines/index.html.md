@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Image Guidelines"
+description: "The purpose of this page is to present guidelines for image file formats."
 ---
 
 ## On this page
