@@ -338,7 +338,7 @@ Bartek Marnane (Director of Engineering, Growth)
 **Projected Team Size:** 5
 **Hiring Managers:**
 Chun Du (Director of Engineering, Enablement)
-[Product Vision page](handbook/product/categories/#ecosystem-group)
+[Product Vision page](/handbook/product/categories/#ecosystem-group)
 [How the team works](/handbook/engineering/development/enablement/ecosystem/#mission)
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/categories/#ecosystem-group)
