@@ -255,13 +255,13 @@ This Subscription Agreement (“Agreement”) is between GitLab Inc. with office
 
 Fees for the Subscriptions are based upon the number of Users and the applicable level of support and/or functionality of the Software, as set forth in the table below. In the event Customer does not reasonably comply with written specifications or instructions from GitLab’s service engineers, regarding any support issue or request (including without limitation, failure to make backups of Customer Content or versions of Software) (each, a “Support Issue”), GitLab may cease its support obligations to Customer with respect to such Support Issue upon fifteen (15) days written notice and Customer’s inability to cure such noncompliance within the notice period.
 
-#### SUBSCRIPTIONS AND LEVELS OF SUPPORT
-| Subscription* | Level of Support (_First Response Time_) | Support Details |
-| ------ | ------ | ------ |
-| Free _(Formerly "Core" or "Free")_ | GitLab Community Forum |Visit: https://forum.gitlab.com  |
-| Starter _(F.K.A "Basic" or "Bronze")_ | GitLab Standard Support |24 x 5 Support Next business day response (24 hour SLA) Submit Tickets at : https://support.gitlab.com |
-| Premium _(Formerly Premium or Silver)_ | Priority Support (Based upon Support Impact******) |See Priority Support Overview https://support.gitlab.com |
-| Ultimate _(Formerly Gold or Ultimate)_ |Priority Support (Based upon Support Impact**) |See Priority Support Overview https://support.gitlab.com |
+#### SUBSCRIPTIONS AND LEVELS OF SUPPORT  
+| Subscription* | Level of Support (_First Response Time_) | Support Details |  
+| ------ | ------ | ------ |  
+| Free _(Formerly "Core" or "Free")_ | GitLab Community Forum |Visit: https://forum.gitlab.com  |  
+| Starter _(F.K.A "Basic" or "Bronze")_ | GitLab Standard Support | 24 x 5 Support Next business day response (24 hour SLA) Submit Tickets at : https://support.gitlab.com |  
+| Premium _(Formerly Premium or Silver)_ | Priority Support (Based upon Support Impact******) | See Priority Support Overview https://support.gitlab.com |  
+| Ultimate _(Formerly Gold or Ultimate)_ |Priority Support (Based upon Support Impact**) | See Priority Support Overview https://support.gitlab.com |  
 
 *Note: Subscription names are subject to change, however, the applicable Subscription for that Tier shall remain the same during a Subscription Term. 
 
