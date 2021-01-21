@@ -23,10 +23,73 @@ The Static Analysis group at GitLab is charged with developing solutions which p
 
 ## How We Work
 
-The Static Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/). Where we differ in approach is that we assign engineers to 
-epics rather than issues. Engineers are empowered to identify the next issue which should be worked to achieve the objectives of the epic and pull issues through the workflow states.
+The Static Analysis group is largely aligned with GitLab's [Product Development Flow](/handbook/product-development-flow/), however there are some notable differences in 
+how we seek to deliver software. The backend engineering team predominantly concerns itself with the delivery of software, which is the portion of the workflow states where 
+we deviate the most. What follows is how we manage the handoff from product management to engineering to deliver software.
 
-Issues worked by this team are backend-centric and can span analyzers, vendor templates, and GitLab's Rails monolith. At times, issues can require support from Secure's frontend team if UI changes are required. We will [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us) for initiatives like these.
+Issues worked by this team are backend-centric and can span analyzers, vendored templates, and GitLab's Rails monolith. At times, issues can require support from Secure's 
+frontend team if UI changes are required. Issues needing frontend support may [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us), and 
+should be called out as early as possible.
+
+### Issue Boards
+
+* [Static Analysis Delivery Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
+  * Primary board for engineers from which engineers can work. It's stripped down to only include the workflow labels we use when delivering software and utilizes epic-level swimlanes.
+* [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
+  * Milestone-centric board primarily used by product management to gauge work in current and upcoming milestones.
+* [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
+  * Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
+
+### It all starts with planning
+
+Like the rest of GitLab, we are product-driven and work in response to the priorities identified by Product Management. We use planning issues to articulate the epics which should be our top priorities in each release. This practice means we can interpret epics to be the features we're being asked to deliver and 
+are given the freedom to break down those epics according to our best judgment. 
+
+#### How we interact with planning issues
+
+* Engineering Manager will mention engineers in planning issues to declare which epic they will work within.
+* Engineering Manager will assign engineer(s) who will be working on issues in the prioritized epics.
+* Engineering Manager will pull all issues on the epics prioritized into the `~workflow::planning breakdown` state.
+  * This action should make the issues available on **Static Analysis Delivery Board** mentioned above.
+
+### Software delivery in Static Analysis
+
+While we follow GitLab's product development flow, our processes as a backend engineering team most closely resemble kanban. Engineers are empowered to choose issues from the Delivery 
+Board in their assigned epic swimlane and pull them through the identified states. In addition to the workflow states identified by the company, we are experimenting with the 
+`~workflow::refinement` state. Engineers are expected to use their best judgment as to how issues flow through the board, but the following outcomes are expected at each state.
+
+| State | Expected Outcomes |
+| ----- | ----------------- |
+| `~workflow::planning breakdown` | - Issues deemed complete and understood.<br />- Issue split into smallest units of value.<br />- We try to split issues vertically rather than horizontally. Splitting vertically means the whole system will do something noticeably different; splitting horizontally results in trying to realize the fullest possible change in an individual component.<br />- If the issue can - and should - be split into separate issues, engineers are empowered to create the new issues, attach them to the epic they are working, and collaborate with product management on if they are included in current scope. |
+| `~workflow::refinement` | - Implementation plan<br />- Relative size applied as weight. |
+| `~workflow::ready for development` | Buffer queue - issue deemed to be `~Deliverable`, `~Stretch`, or possibly punted to a future iteration. |
+| `~workflow::in dev` | Last MR is up and out of Draft or WIP status. |
+| `~workflow::in review` | Last MR is merged and changes are available in a production environment. |
+| `~workflow::verification` | Changes functionally tested in a production environment. |
+
+#### Weights
+
+Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much work is involved.
+Weights should be considered an output of the refinement process rather than its purpose.
+
+The weighting system roughly aligns the scales used by other teams within GitLab. However, we use relative sizing rather than
+assigning time estimates to possible values. A curated set of reference issues have been provided below, which will be updated periodically
+to keep examples as current as possible.
+
+##### Possible Values
+
+It is perfectly acceptable if items take longer than the initial weight. We do not want to inflate weights,
+as [velocity is more important than predictability](/handbook/engineering/#velocity-over-predictability) and weight inflation over-emphasizes predictability.
+
+| Weight | Description | Reference issues |
+| ------ | ----------- | ---------------- |
+| 1 | Trivial task | [Update Bandit analyzer to v1.6.2](https://gitlab.com/gitlab-org/gitlab/-/issues/12926) |
+| 2 | Small task | [Security Dashboard should show dismissal details on issues](https://gitlab.com/gitlab-org/gitlab/-/issues/9715) |
+| 3 | Medium task | [Dependency Scanning Fails: "engine 'node' is incompatible with this module"](https://gitlab.com/gitlab-org/gitlab/-/issues/12471), [Dependency List contains duplicates (npm project)](https://gitlab.com/gitlab-org/gitlab/-/issues/12162), [Support setup.py in Dependency Scanning](https://gitlab.com/gitlab-org/gitlab/issues/11244), [Make vulnerability-details receive a vulnerability as a prop](https://gitlab.com/gitlab-org/gitlab/-/issues/14006) |
+| 5 | Large task | [Engineering Discovery: reconsider Gemnasium client/server architecture](https://gitlab.com/gitlab-org/gitlab/issues/12930) |
+| 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
+| 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
+| Bigger | Epic in disguise |  |
 
 ### We Own What We Ship
 
@@ -48,6 +111,17 @@ through our [Release project's issue template](https://gitlab.com/gitlab-org/sec
 
 The assigned backend engineer is the group's primary liaison with the dependency's open source community. Engineers are expected to contribute 
 back to those projects, especially if critical or high security findings are confirmed.
+
+### Community Contributions
+
+The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs from the community. Each backend engineer 
+in the group will serve as the [Community Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/) on a rotating 
+basis. The Community Merge Request Coach has the following responsibilities, in priority order:
+
+1. Triage and work with community contributors to help drive their MRs to completion.
+1. Release feature(s) to core.
+1. Triage and resolve ~priority::1 bugs.
+1. Work an issue in the backlog that's of great interest to you.
 
 ### Product Prioritization Labels
 
@@ -121,20 +195,3 @@ Strongly defined integration harness to make internal/external integrations easi
 ##### Types of issues
 
 * Integration related ideas
-
-### Community Contributions
-
-The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs
-from the community. Each backend engineer in the group will serve as the [Community Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/) on a rotating basis. The Community Merge Request Coach has the following responsibilities, in priority order:
-
-1. Triage and work with community contributors to help drive their MRs to completion.
-1. Release feature(s) to core.
-1. Triage and resolve ~priority::1 bugs.
-1. Work an issue in the backlog that's of great interest to you.
-
-## Issue Boards
-
-* [Static Analysis Delivery Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1590112?label_name[]=group%3A%3Astatic%20analysis&group_by=epic&label_name[]=backend)
-* [Static Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229162?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Astatic%20analysis)
-* [Static Analysis Next X-Y Release Board](https://gitlab.com/groups/gitlab-org/-/boards/1702880?label_name[]=group%3A%3Astatic%20analysis)
-* [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
