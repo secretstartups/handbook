@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Competencies"
+description: "GitLab has competencies as a common framework to learn things. This page is a Single Source of Truth (SSoT) resource for our competencies."
 ---
 
 ## On this page
@@ -114,7 +115,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 ### Functional Competencies
 
 1. [Field Competencies](/handbook/sales/training/field-functional-competencies/)
-1. [Engineering Competencies](/handbook/engineering/career-development/career-matrix.html#technical-competencies)
+1. [Engineering Competencies](/handbook/engineering/career-development/matrix/engineering/)
 1. [Product Competencies](/handbook/product/product-manager-role/#competencies)
 
 #### Manager and Leadership Competencies
