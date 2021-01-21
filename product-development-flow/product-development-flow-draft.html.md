@@ -51,6 +51,10 @@ The goal is to have this page be the single source of truth, but it will take ti
 
 Because this page needs to be concise and consistent, be sure to follow the prescribed [change process](#editing-this-page).
 
+### Measuring Success 
+
+We take both a qualitative and quantitative approach to measuring success of the Product Development Flow. Details on the measures and results are available on [this handbook page](/handbook/product-development-flow/success-metrics/).
+
 ## But Wait, Isn't This Waterfall?
 
 No. Although the phases described on this page appear to be independent and linear, they're not. They're presented for simplicity and ease of navigation. It's common to iterate through the Validation phases multiple times before moving to Build. During the Build phases, it may be necessary to go back to Validation phases as roadblocks or technical challenges arise.
