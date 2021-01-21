@@ -36,5 +36,5 @@ On this page, we will give an overview of how GitLab operates as a no matrix org
 Who better to learn how GitLab enables a functional organization structure than our leadership. As part of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), the L&D team facilitated a discussion with executives during a [E-Group offsite](/handbook/ceo/offsite/), to discuss no-matrix organization and GitLab organization design. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LfiuT1AScjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/E_wegGRv4mA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
