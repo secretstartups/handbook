@@ -158,7 +158,7 @@ Steps for L&D Team when setting up a CEO Handbook Learning Session:
 List of CEO Handbook Learning Sessions: 
 
 - [Common misperceptions about Iteration](https://www.youtube.com/watch?v=nXfKtnVUhvQ)
-- [No Matrix Organization](https://www.youtube.com/watch?v=LfiuT1AScjs&feature=emb_title)
+- [No Matrix Organization](https://www.youtube.com/watch?v=E_wegGRv4mA)
 - [Making Decisions](https://www.youtube.com/watch?v=-by6ohMIi_M&feature=emb_title)
 - [Individual Contributor Leadership](https://www.youtube.com/watch?v=d0x-JH3aolM)
 
