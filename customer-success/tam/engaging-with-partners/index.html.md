@@ -3,13 +3,13 @@ layout: handbook-page-toc
 title: "Engaging with Partners"
 ---
 
-## Process for Engaging with Partners in [TAM-Assigned](/handbook/customer-success/tam/customer-segments-and-metrics/tam-assigned-segment) Customer Accounts
+## Process for Engaging with Partners in [TAM-Assigned](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) Customer Accounts
 
 
 
 ### Pre-Customer Kick-Off or 1st Engagement:
 
-1. GitLab Partner team introduces TAM & SAL/AE to Parter - ideally before sale closes to not slow down post-sales implementation
+1. GitLab Partner team introduces TAM & SAL/AE to Partner - ideally before sale closes to not slow down post-sales implementation
 
 1. TAM and SAL/AE connects with Partner to align on the role the Partner will play post-sale.  
 
