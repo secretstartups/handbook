@@ -147,3 +147,10 @@ In an effort to avoid manually adding the issues we are working on with Verticur
 1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester), adds `FMM-Verticurl::complete` and closes out the issue.
 1. Field Marketing will be working through post event reporting with the Verticurl team. Details on that process will be forthcoming. 
 
+### eMail Send Times
+{: #email-send-times}
+When working with Verticurl, we must specify a specific time we would like the email to be sent. If the Field Marketer does not provide a specific time, then Verticurl will send at the following times: 
+* AMER label: 9 AM ET 
+* EMEA label: 10 AM CET
+* APAC label: 11am AEST
+
