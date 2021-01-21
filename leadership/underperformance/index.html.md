@@ -107,8 +107,8 @@ The People Business Partner (PBP) should stage the PEP document for the team mem
 
 Many companies use a PIP for most involuntary offboarding, as documented support for releasing a team member.
 At GitLab we think that giving someone a plan while you intend to let them go is a bad experience for the team member, their manager, and the rest of the team.
-A PIP at GitLab is not used to "check the box" a PIP is a genuine last chance to resolve underperformance.
-You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless the team member and the manager believes they can succeed.
+A PIP at GitLab is not used to "check the box;" a PIP is a genuine last chance to resolve underperformance.
+You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
 
 #### Unlikely For Directors And Up
 
@@ -178,7 +178,9 @@ A performance improvement plan includes the following:
     - Inform the People Business Partner that the PIP conversation has taken place and the document have been sent to the team member.
     - Once the PIP has been presented to the team member the PBP will upload in Hellosign and send for the team members signature.  Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred. 
     - Once the PIP is signed and returned, the PBP will upload it to the document section in BambooHR and change the employment status to PIP for the duration of the PIP. 
-1. Team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. If sufficient improvement is not made but progress is headed in the right direction, a plan period may be extended at the discretion of the manager. By design, a PIP is expected to support a successful and sustained improvement in performance.
+1. Typically, a team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. By design, a PIP is expected to support a successful and sustained improvement in performance.
+    - If sufficient improvement is not made, the PIP may end early and we move to next steps in termination (steps may vary by country). 
+    - If sufficient improvement is not made but progress is headed in the right direction, a PIP may be extended at the discretion of the manager. 
 1. Otherwise, the team member is separated or their contract is cancelled. It is not necessary to create a second PIP for the same performance issues within a reasonable period of time and after informing the team member that the unacceptable performance has resurfaced in writing (an email is fine). 
 1. To begin the offboarding process, the manager should forward a recommendation for offboarding to their Executive team member and People Business Partner including the history of the PIP and the recurring performance issues. If a team member does need to be let go, work with People Business Partner to follow the process for [involuntary offboarding](/handbook/people-group/offboarding/#involuntary-offboarding).
 
