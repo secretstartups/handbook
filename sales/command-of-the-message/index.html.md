@@ -146,7 +146,7 @@ Differentiators can influence a technical buyer's decision criteria in defining 
 <details>
 <summary markdown="span">Command of the Message Mantra</summary>
 
-The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting prepartion tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakown of the CoM Mantra framework which can be adjusted and articulated in your own words.
+The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting preparation tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakdown of the CoM Mantra framework which can be adjusted and articulated in your own words.
 
 *  What I hear you saying Mr./Ms. Customer is that these are the **Positive Business Outcomes** you’re trying to achieve...
 *  In order to achieve these positive business outcomes, we agreed that these are the **Required Capabilities** you’re going to need...
@@ -178,7 +178,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 *  Check out and subscribe to The Audible-Ready Podcast (from Force Management) for insights to help improve your productivity, generate more revenue, and increase competitive win rates on your favorite podcast player
    - [iTunes](https://podcasts.apple.com/us/podcast/the-audible-ready-podcast/id991362894)
    - [SoundCloud](https://soundcloud.com/force-management-1)
-   - [Sticher](https://www.stitcher.com/podcast/the-audible-ready-podcast)
+   - [Stitcher](https://www.stitcher.com/podcast/the-audible-ready-podcast)
    - [Spotify](https://open.spotify.com/show/2JMvuitWVC34R2Kw7fHFDN)
    - [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpYmxlcmVhZHlwb2RjYXN0LmxpYnN5bi5jb20vcnNz&ved=0CAAQ4aUDahcKEwjA2e2koZXoAhUAAAAAHQAAAAAQCQ)
 *  GitLab sales managers may access additional information in the [Force Management Command Center](https://gitlab.lyearn.com/) (password protected since resources contain Force Management intellectual property). In particular, the [Channels](https://gitlab.lyearn.com/#/learner/channels) section of the Force Management Command Center contains supplemental instructional videos, podcasts, and blogs).

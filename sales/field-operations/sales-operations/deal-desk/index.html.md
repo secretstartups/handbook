@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Deal Desk"
+title: "Deal Desk Handbook"
+description: "The Deal Desk team's mission is to streamline the opportunity management process while acting as a trusted business partner for field sales."
 ---
 
 ## On this page
@@ -33,7 +34,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
@@ -92,7 +93,7 @@ To Chatter the DD team, tag `@Sales-Support`in Chatter on the related opportunit
 #### Primary Slack Channel
 
 Use our Slack channel in case of general, non-record related requests and/or urgent questions: 
-**#sales-support** [If the request is related to a quote, opportunity, or acccount - please chatter on the page in Salesforce instead of the Slack channel.] 
+**#sales-support** [If the request is related to a quote, opportunity, or account - please chatter on the page in Salesforce instead of the Slack channel.] 
 
 #### Slack Best Practices
 
@@ -115,7 +116,13 @@ Supported topics include:
 * IACV calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
-* And anything else to help drive opportunities closing within the quarter!
+* And anything else to help drive opportunities closing within the quarter! 
+
+#### Deal Desk AMA
+
+Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opporutnities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+
+Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
 
 ### IACV + Renewals
@@ -180,7 +187,7 @@ This quote type should be only used when **new users are being added to an exist
     *   The **GitLab Entity** must be the same as it was on the initial deal you’re amending.
     *   For **Reseller deals,** populate the “Invoice Owner” and “Invoice Owner Contact” fields.
         *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
-        *   ** We cannot change route to market through an Amendment quote**. If the orignal order was sold Direct, all subsequent amendments must also be Direct. If it was intiially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
+        *   ** We cannot change route to market through an Amendment quote**. If the original order was sold Direct, all subsequent amendments must also be Direct. If it was initially sold through a Partner, all amendments must go through the same partner for the duration of the subscription. 
     *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order.
     *   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date”** field should be populated with the date of the MSA’s signature. In addition, select the **“EXISTING MSA”** quote template.
     *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
@@ -292,7 +299,7 @@ This requires two steps: first combining the subscriptions, then cancelling the 
 **D.  Before submitting a Professional Services Opportunity for Closure:**
 
 *   Please note that the following items must be attached to the opportunity before it can be Closed Won:
-    *   SOW signed by **both the customer and Paul Machle.****
+    *   SOW signed by **both the customer and Brian Robins.****
     *   Cost Estimate spreadsheet (Link provided by the PS team)
     *   For a custom service package (Custom SOW), a fully executed SOW and Cost Estimate are required
     *   For [standard professional services skus](/handbook/customer-success/professional-services-engineering/#current-skus), only a signed order form is required 
@@ -322,7 +329,7 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 **Important Notes** 
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
-- To genarate a legitimate order form, you must update the Quote Tempalte from teh Draft selection to relevant order form template for the opp
+. To generate a legitimate order form, you must update the Quote Template from the Draft selection to relevant order form template for the opp
 
 ### **Non-standard Quotes**
 
@@ -346,7 +353,7 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
 
 On the main contract reset opportunity, populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, populate the "Opportunity Category" field with "Credit." 
 
-All Contract Reset opportunities will be classifed as a "Renewal" and will be subect to Renewal ACV, which will impact overall IACV depending on the scenario. 
+All Contract Reset opportunities will be classified as a "Renewal" and will be subect to Renewal ACV, which will impact overall IACV depending on the scenario. 
 
 #### Add-On + Early Renewal
 
@@ -370,7 +377,7 @@ C.  Note: If annual payments are approved, create a separate opportunity and quo
 
 #### Ramp Deals 
 
-A ramp deal is when a customer prepays for users that will be fullfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
+A ramp deal is when a customer prepays for users that will be fulfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
 
 The imgage below highlights a common 12 month ramp schedule. The frequency in which users are added can vary. Please reach out to `@sales-support` if you have questions on how to structure a ramp deal. 
 
@@ -381,7 +388,7 @@ The imgage below highlights a common 12 month ramp schedule. The frequency in wh
 
 <div class="panel-body">
 
-[![Example Ramp Deal](source/images/handbook/sales/Ramp-deal-visual.png)*Example Ramp Structure*]
+[![Example Ramp Deal](/images/handbook/sales/Ramp-deal-visual.png)*Example Ramp Structure*]
 
 </div>
 </div>
@@ -458,7 +465,7 @@ If an opportunity requires multiple invoices due to a specific professional serv
 
 **Invoice Amounts** 
 
-If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the orignal opporuntiy must reflect the entire opportunity term. 
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporuntiy must reflect the entire opportunity term. 
 
 **Ex.** 
 
@@ -473,8 +480,8 @@ If the payment amounts or user count per year are not identical, (ex. Year 1 - $
 
 3 Year Subscription worth $30,000, broken out into 3 payments. Year 1 - $10,000, Year 2 - $7,000, Year 3 $13,000
 * Primary Opp Quote - 3 Year New Subscription Quote (using the 1 Year Product SKU). Term Length should be 36. 
-* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update intital term to 12)
-* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update intital term to 12)
+* Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required. (Use the same SKU as the original opp, update initial term to 12)
+* Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object should be created to reflect the total amount to be invoiced. (Use the same SKU as the original opp, update initial term to 12)
 
 **Ex.** Professional Services Deal -Opportunity amount $300,000. 4 Deliverables are outlined in the Custom SOW to the customer, each deliverable includes a different date for delivery. This requires 4 opportunities because the customer will be invoiced after completion of each deliverable.
 
@@ -620,7 +627,7 @@ If Zuora successfully maps to the correct account, a green check box will appear
 
 ##### Merging Contacts 
 
-**NOTE** To merge a Lead with an existing contact, click "Convert Lead" - this is the SDR/Account Owner responsiblity, not Deal Desk. 
+**NOTE** To merge a Lead with an existing contact, click "Convert Lead" - this is the SDR/Account Owner responsibility, not Deal Desk. 
 
 1. Go to the Account page in Salesforce. 
     * Note, both contacts must be under the same Salesforce account in order to be merged. If they are not under the same account, change the account on the Contact level to the correct one. 

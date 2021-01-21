@@ -53,18 +53,11 @@ Course content will be a combination of handbook pages, YouTube videos, and inte
 
 ### Certification Assessments
 To achieve GitLab “certified” status, candidates must complete both the online written exam (knowledge) and practical assessment (skill) with a passing score on each exam.
-* Anyone can sign up and take the written exam but only learners who successfully pass the online written assessment will be granted access to the practical assessment
-* The practical assessment will require team members to demonstrate the ability to delivery customer engagements to GitLab’s standards 
-* Upon completing all of the courses within each certification, learners will recieve a badge.
+* Anyone can sign up and take the written exam, but only learners who successfully pass the online written assessment will be granted access to the practical assessment
+* The practical assessment will require team members to demonstrate the ability to deliver customer engagements to GitLab’s standards 
+* Upon completion of all courses within each certification, learners will receive a badge
 
-<img src="/images/gitlab-certified-strategic-account-leader.png" width="150" alt="" title="GitLab Certified Strategic Account Leader">
-
-<img src="/images/gitlab-certified-required-7.png" width="150" alt="" title="GitLab Certified R7">
-
-<img src="/images/gitlab-certified-solutions-architect.png" width="150" alt="" title="GitLab Certified Solutions Architect">
-
-<img src="/images/gitlab-certified-required-7.png" width="150" alt="" title="GitLab Certified Technical Account Manager">
-
+![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
 
 ## Roadmap
 Alpha testing for the below courses will take place in FY21Q4:

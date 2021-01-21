@@ -42,7 +42,7 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
-     - [Sales Kick Off](/handbook/sales/training/SKO)
+     - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
 
@@ -157,10 +157,10 @@ The below is a work in progress as we define success measures across each stage 
 - **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
 - **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)
+    - TBH (Enterprise Sales Enablement)
 - **[Field Onboarding Program Manager](/job-families/sales/program-manager-field-enablement/)**
     - [Tanuja Paruchuri](/company/team/#tparuchuri)
 - **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
@@ -220,7 +220,7 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `sales onboarding` - label for issues related to sales/field onboarding
         - `QBR` - requests from Sales QBRs
         - `sales enablement sessions` - label for weekly virtual sales enablement series
-        - `sko` - label for issues related to Sales Kick Off
+        - `sko` - label for issues related to Sales Kickoff
         - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
         - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
         - `strategy` - plans, methods, or series of maneuvers or stratagems for obtaining specific goals or results

@@ -10,7 +10,7 @@ description: "This page includes a deep-dive into the definition of iACV at GitL
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The below page includes a deep-dive into the definition of iACV at GitLab and is a sub-page of the [Sales Term Glossary Page](/handbook/sales/sales-term-glossary).
+The below page includes a deep-dive into the definition of iACV at GitLab and is a sub-page of the [Sales Term Glossary Page](/handbook/sales/sales-term-glossary/).
 
 ## Annual Contract Value (ACV)
 

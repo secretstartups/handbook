@@ -62,7 +62,7 @@ description: "Operations, Procedures, Documentation"
 | SAL | Strategic Account Leader |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO] | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -71,7 +71,6 @@ description: "Operations, Procedures, Documentation"
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | Won Opportunity | Contract signed to Purchase GitLab |
 
-[SAO]: /handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao
 ## Customer Lifecycle
 
 A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams.
@@ -95,8 +94,8 @@ They are tracked as follows:
 | Qualified | [Lead or Contact] | Qualified (converted) |
 | Pending Acceptance | [Opportunity] | 0 - Pending Acceptance |
 | [Sales Accepted Opportunity] | [Opportunity] | 1 - Discovery |
-| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 5 Negotiating |
-| Customer | [Opportunity] | 6-Closed Won |
+| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 6 Awaiting Signature |
+| Customer | [Opportunity] | Closed Won |
 
 For the definition of the stage please click the record type link.
 
@@ -286,7 +285,7 @@ Routing is determined by `Sales Segmentation`, `Region`, and `Global Account Own
 ##### Routing & LeanData
 
 **LeanData** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
-The Marketing Operations team is responsible for on-going management and customizations within LeanData.
+The Marketing Operations team is responsible for ongoing management and customizations within LeanData.
 For more information see the [dedicated LeanData page](/handbook/marketing/marketing-operations/leandata).
 
 ##### Contact Requests
@@ -346,13 +345,42 @@ The owner of the record in SFDC **does not** need to match the owner in Outreach
 In order to meet compliance standards our SFDC instance uses a private model.
 This private model allows for some records to be visible by all Gitlab team members who use Salesforce, while other records may not be visible to them.
 Currently this is in place as it pertains to records owned by the Public Sector team.
-All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibily to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
+All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibility to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
 All other records (owned by non-public sector team members) maintain their standard visibility levels.
 
 This is important as it relates to inbound records or accounts in a sales reps name.
 If you believe you have been incorrectly assigned a record that should belong to the public sector team member please coordinate with your manager, the sales-ops team or a member of the public sector team to review the record.
 
- 
+## Changing Ownership in Salesforce
+
+##### Changing Account Ownership in Salesforce
+
+Everyone in Salesforce has **some** ability to change the ownership of accounts.
+When accounts have their owners changed, by anyone other then an admin, there will be an email notification go out to both the previous account owner and the new account owner.
+This is to allow individuals to change ownership of accounts if they think they should belong to them.
+If there are any questions in regard to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
+It's also important that just because a user can change the owner of an account does not mean that they should own the account.
+Please refer to the criteria for reassigning accounts and our account territories for more information.
+
+Criteria for Reassigning Accounts:
+
+- The account must have its address in the account owners territory.
+If the account has a parent account or the parent account also has a parent account the address that determines the final owner of the account is the address of the ultimate parent.
+This address follows our data hierarchy - with Datafox being our primary source of data (Link to come).
+- The account must also have a matching sales segmentation that the owner should be working.
+Any Account adopts the highest sales segment that exists within an account hierarchy.
+Segment is determined by our data hierarchy - with Datafox being our primary source of data (Link to come).
+- Any owner of an account must follow our guidelines for [Record Ownership](#record-ownership)
+
+1. Any account owner can reassign their own account to someone else
+1. Any RD can reassign any account
+1. Any Team Lead can reassign any account that is located within their region
+1. Anyone can reassign any account as long as the following criteria is met
+A. The account does not have a parent account
+B. The account is located in the same region as the individual transferring ownership of the account
+C. Datafox has enriched the number of employees on the account
+D. The sales segment of the account is the same as the segment that the user is working on (SALs/Large,AEs/Mid-Market)
+1. Any Admin can reassign any account
 
 ##### Changing Contact Ownership in Salesforce
 
@@ -669,7 +697,7 @@ The partner record should be converted to their company channel type account.
 The end user record should be converted to the end user standard account type.
 
 Opportunity Name:
-If the partner is an authorized reseller, rename the opportunity with the partner’s nick-name in front, then a dash.
+If the partner is an authorized reseller, rename the opportunity with the partner’s nickname in front, then a dash.
 For instance; if it is a Perforce deal, the opportunity name should start with P4 - (whatever your opportunity name is)
 This is important for the workflow that solicits updates from the reseller.
 
@@ -822,7 +850,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
     - Scheduled Scoping Call
     - Provide an estimate for the `Expected Number of Users` and the `Expected Product` for the Opportunity. This information is used to help the customer success team to predict their future workload as well as to help them with their hiring plans.
-    - Should the opportunity progress from `1-Discovery` to the next stage (not 7-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
+    - Should the opportunity progress from `1-Discovery` to the next stage (not 8-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
         - `Sales Qualified` is True.
         - `Sales Qualified Date` is the date the opportunity moves from this stage to the next open or won stage.
         - `Initial IACV` captures the value in the `Incremental ACV` field. `Initial IACV` is a snapshot field that will not change, even when the `Incremental ACV` field is updated and will be used for `Deal Size` analysis.
@@ -859,7 +887,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
         - "Yes" update the `Referenceable Customer` section on the Account object with appropriate reference information
         - "No" the discussion of being a reference can be revisited at a later date
     - Modifications will not be accepted to the standard terms for any opportunity that is less than $25k, or for Starter edition.
-    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
+    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
     - If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](/handbook/business-ops/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 
 **6-Awaiting Signature**: The prospect or customer has verbally agreed to the terms and conditions outlined in the proposal and has submitted for signature.
@@ -870,11 +898,12 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Work with GitLab AR to deliver any tax and/or complete any vendor registration processes.
     - Ensure all relevant documents, MSA, PO, and other forms uploaded to SFDC in the Notes and Attachments section of the opportunity record.
     - EULA (End User Licence Agreement) has been accepted by end-user organization (if applicable).
-    - If this is a large/strategic account, or if IACV is +$12,000, enter `Closed Won Details` summarizing why we won the opportunity.
+    - Identify relevant `Competitors` and enter them on the opportunity 
+    - Enter `Closed Won Reason` and `Closed Won Details` (a brief summary of why we won the opportunity that supports your Closed Won Reason selection).
     - Subscription created in Zuora.
     - Opportunity has been submitted for Finance approval.
 
-**7-Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
+**Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
 
 - What to Complete in This Stage:
     - Introduce Customer Success/Account Management (if applicable)
@@ -887,19 +916,19 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Select all applicable Closed Lost Reasons
         - If the loss is due to Competitive Loss, you are required to select the competitor(s) from the opportunity's `Competitor` field
         - If the loss is due to Product Maturity, you are required to select the product stage(s) from the opportunity's `Product Maturity: Product Line` field.
-    - In the `Closed Lost Detail`, enter as much detail as you can as to why we lost the deal. For example:
+    - `Closed Lost/Unqualified Details` is required all opportunities with IACV of $1,000 or greater OR opportunities where Closed Lost Reason = Other. Enter as much detail as you can as to why we lost the deal. For example:
         - If they selected a competitor, why? Was it due to features or pricing?
         - If decided not to move forward with a project, what were the reasons? Did they not understand the value? Was there not a compelling event or reason?
         - Again, please be as thorough as you can as this information will prove valuable as we learn from these experiences.
     - Please note that for new business deals where the opportunity is with a Large/Strategic account OR the Incremental Annual Contract Value (IACV) is equal or greater than USD 12,000, then a notification will be sent to the [#lost-deals](https://gitlab.slack.com/messages/C8RP2BBA7) Slack channel.
     - Uncover a time for follow up (incumbent solution contract expiration date)
     - Note that if an opportunity is dead/stalled, mark the Stage as 8-Closed Lost. Should the prospect/customer re-engage before 30 days, you can reopen this opportunity. However, if they re-engage beyond 30 days, you will need to create a new opportunity.
-    - If the `Closed Lost Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
+    - If the `Closed Lost/Unqualified Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
 
 **9-Unqualified**: An opportunity was never qualified.
 
 - What to Complete in This Stage:
-    - Update Reason for Closed Lost and add any pertinent notes as to why the opportunity was not qualified.
+    - Update the `Closed Lost/Unqualified Reason` and corresponding `Closed Lost/Unqualified Details` with any pertinent notes as to why the opportunity was not qualified.
     - A notification will be sent to SDR Team Lead and a feedback session should be scheduled between AE and Team Lead.
 
 **10-Duplicate**: A duplicate opportunity exists in the system. This usually happens when a web direct opportunity is won when an existing opportunity already exists in Salesforce. Another reason could be multiple renewals created for the same opportunity. This stage **should not** be used when disqualifying an opportunity or if it is discovered at some point after acceptance that the opportunity is really part of a larger initiative. If the opportunity was accepted, it cannot be marked as a duplicate. Instead, you must mark the opportunity as `8-Closed Lost` and select the appropriate reason. Possible selections could include "Consolidating order - part of another subscription" or "Merged into another opportunity" as reasons why a duplicate opportunity may have been created.
@@ -920,6 +949,36 @@ For example, if a prospect had previously signed off on GitLab from a technical 
 However, if at any point during the negotiations, additional technical questions or requirements arise that result in a re-evaluation of GitLab's technical capabilities, you would revert the opportunity back to `3-Technical Evaluation`.
 After the opportunity has once again met the stage completion criteria, you are able to move the opportunity to either `4-Proposal` if a new order form was created as a result of the additional technical requirements, or back to `5-Negotiating` if no changes were made to the original order form.
 
+##### Early Stage Deals: Progression Requirements & Automation
+
+To help keep our pipeline clean and ensure that early stage deals are moving through the pipe at the desired velocity, all opportunities in stage `1-Discovery` and `2-Scoping` are governed under the below process
+
+**Timelines:**  Inactivity Warning Day & Auto Closure Day by Segment
+- Large: Day 45 / Day 90
+- Mid-Market: Day 21 / Day 45
+- SMB: Day 7 / Day 15
+
+**Definitions**: SFDC actions that constitute an **activity** include: 
+- Stage Progression, 
+- Command Plan Entries 
+- Next Steps updated 
+
+
+**Process for Stage 1-Discovery:**
+ 1. At (Segment Specific) Warning day the Opportunity Owner and Opportunity Owner's Manager receive an email notification alerting both of inactivity
+    - To avoid auto closure, the Opportunity Owner must progress the stage or add an activity to the opportunity
+2. If there's no activity between the warning day and auto closure day:
+   - The opportunity gets automatically closed (`Closed Lost`) with a `Closed Lost/Unqualified Reason` of "Stale Opportunity" 
+   - Email notification goes out to the Opportunity Owner, Opportunity Owner Manager and Marketing of this change
+   - In scenarios where an opportunity is still vialbe but has been moved to Closed Lost through this automated process, the Opportunity Owner must create a new opportunity.   
+3. If there IS activity against the opportunity OR it progresses to Stage `2-Scoping`, the Warning and Auto Closure Day process starts over
+
+**Process for Stage 2-Scoping:**
+1. Same process for steps 1 & 2 above
+2. Step 3: If the opportunity progresses to Stage `3-Technical Evaluation`, there are no longer any activity requirements due to aging
+
+
+ 
 ##### Locking Opportunities as a result of their "At Risk" potential
 
 In order to be in compliance with US Regulations there is a need to screen opportunities against known individuals and organizations with whom we are not allowed to do business.

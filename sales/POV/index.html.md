@@ -47,7 +47,7 @@ Once the POV begins, the Solutions Architect should change the **Status** field 
 
 ## POV Best Practices
 
-Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal or via the trials@gitlab.zendesk.com email address. This should only be used for technical abnormalities, not for integration or implementation assistance.
+Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal. This should only be used for technical abnormalities, not for integration or implementation assistance.
 
 Many prospects are tempted to include implementation of GitLab high availability as part of a POV. In this case, the implementation components should comprise a separate POV entirely, separating GitLab functionality evaluations from implementation, load and performance components.
 
@@ -78,7 +78,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 - Solutions Architect (SA) - Primary technical contact, POV owner and project manager
 - Technical Account Manager (TAM) - _Only for qualified accounts._ Introduced for customer visibility, occasional POV assistance
 - Professional Services - rarely as needed in a pre-sales capacity
-- Support Team - only if needed for technical errors, engaged via trials@gitlab.zendesk.com by the customer per the [Internal Support page](/handbook/support/internal-support/#note-on-zendesk-and-supportgitlabcom)
+- Support Team - only if needed for technical errors, engaged by the customer per the [Internal Support page](/handbook/support/internal-support/#note-on-zendesk-and-supportgitlabcom)
 
 ### POV Kickoff Checklist
 
@@ -88,7 +88,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 - SA: POV document is created if this is required by the customer, otherwise default to the Customer Success project
 - SA: Ensure POV goals and business outcomes are clearly identified prior to kickoff
 - SA: For the largest strategic opportunities, notify GitLab Support of POV dates, customer, and other relevant information using the applicable Slack channel related to Self-Managed or GitLab.com support
-- SAL/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](/handbook/business-ops/resources/#opportunity-stages)
+- SAL/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)
 - SAL/AE: Signed NDA by the legal team if required
 - SAL/AE: Schedule Internal kick off meeting (detailed below)
 - SAL/AE: Schedule kickoff meeting with customer

@@ -1,7 +1,14 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Channel Programs Operations"
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 
 ### Overview
 This page documents the operational information and processes for managing the Channel Program Operations.  This page does not include transactional processes, which are available on the [Channel Operations Handbook page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/).

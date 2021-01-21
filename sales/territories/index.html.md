@@ -67,11 +67,11 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 {:.no_toc}
 
-- **NA East - Named Accounts**: Adam Johnson
+- **NA East - Named Accounts**: TBD
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: James Roberts
+- **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
@@ -106,8 +106,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
 | NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
 | NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | John Williams | James Altheide |
-| NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
+| NA West | Southwest | **Named Accounts** | Steve Clark | Blake Chalfant-Kero |
+| NA West | SoCal | **Large-AMER-SoCal**TBD** | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
 | NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
@@ -116,7 +116,8 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal | Alan Cooke** | Alan Cooke* | Isaac Mondesir |
 
 #### Public Sector
 
@@ -172,7 +173,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | China | China | **Large-APAC-China** | Danny Petronio | Aletha Alfarania |
 | China | Taiwan | **Large-APAC-Taiwan** | Danny Petronio | Aletha Alfarania |
 | Japan | Japan | **Large-APAC-Japan** | Eiji Morita | Minsu Han |
-| Korea | Korea | **Large-APAC-Korea** | Anthony McMahon | Minsu Han |
+| Korea | Korea | **Large-APAC-Korea** | Tae Ho Hyun | Minsu Han |
 
 #### EMEA
 
@@ -264,15 +265,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | Rest Of | **MM-EMEA-France-R** | Israa Mahros | Camille Dios |
-| Nordics | FI | **MM-EMEA-Nordics-FI** | Hans Frederiks | Johan Rosendahl |
-| Nordics | NO | **MM-EMEA-Nordics-NO** | Hans Frederiks | Johan Rosendahl |
-| Nordics | DK | **MM-EMEA-Nordics-DK** | Hans Frederiks | Johan Rosendahl |
-| Nordics | SE | **MM-EMEA-Nordics-SE** | Hans Frederiks | Johan Rosendahl |
-| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Hans Frederiks | Johan Rosendahl |
+| Nordics | FI | **MM-EMEA-Nordics-FI** | Lisa VdKooij | Johan Rosendahl |
+| Nordics | NO | **MM-EMEA-Nordics-NO** | Sophia Simunec | Johan Rosendahl |
+| Nordics | DK | **MM-EMEA-Nordics-DK** | Israa Mahros | Johan Rosendahl |
+| Nordics | SE | **MM-EMEA-Nordics-SE** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
+| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Sophia Simunec | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Hans Frederiks | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Hans Frederiks | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Chris Willis | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Conor Brady | Johan Rosendahl |
 | Benelux | BE/LU | **MM-EMEA-Benelux-BeLu** | Lisa VdKooij | Camille Dios |
 | Central Europe | DE | **MM-EMEA-Central-DE 0x** | Chris Willis | Rahim Abdullayev |
 | Central Europe | DE | **MM-EMEA-Central-DE 1x** | Chris Willis | Rahim Abdullayev |
@@ -342,6 +343,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe South | Europe South | **SMB-EMEA-Greece** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
 | MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
@@ -353,15 +355,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC1** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC2** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London SW** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London W** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |

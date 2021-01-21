@@ -34,28 +34,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Check out the [org chart](https://about.gitlab.com/company/team/org-chart/) and the [Team Page](https://about.gitlab.com/company/team/)
 
 ### 2. DevOps Technology Landscape
-*  **The Software Development Lifecycle (Material - Video - 9 Minutes)**
-   - This video provides a nice overview of the SDLC. For added context, check out the GitLab page that covers each stage in the life cycle.
-   - [YouTube - Software Development Lifecycle in 9 Minutes! ](https://www.youtube.com/watch?v=i-QyW8D3ei0)
-   - [Dev Ops Lifecycle - Handbook](https://about.gitlab.com/stages-devops-lifecycle/)
-   - [YouTube - How is Software Made? ](https://www.youtube.com/watch?v=UuX-GnYWNwo)
+*  **DevOps Technology Landscape**
+   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
 *  **GitLab SDLC Quiz (Quiz - 9 Points - Pre Work)**
    - Take a look at the [handbook page on the SDLC](https://about.gitlab.com/stages-devops-lifecycle/) and take this short [quiz](https://forms.gle/Ed9JjNmKsXPhJ4Fr7)
-*  **What is Cloud Native (Material - Handbook - 45 minutes)**
-   -Taking full advantage of the power of the cloud computing model and container orchestration, cloud native is an innovative way to build and run applications. Cloud native applications are built to run in the cloud, moving the focus away from machines to the actual service.
-   - [What is Cloud Native? Video](https://www.youtube.com/watch?v=WsIM034RnAc)
-   - [What is Cloud Native? Slides](https://docs.google.com/presentation/d/1mcg5E4dztQZQTN4WvJ4sdqnRGZ6Wz7IRDa8_o8-p4vg/edit?usp=sharing)
-   - [What is Cloud Native? Company Website](https://about.gitlab.com/cloud-native/)
-*  **What is Complete DevOps? (Material - Video - 25 Minutes )**
-   - In this video, we compare the traditional DevOps daisy chain to GitLab's vision for a Complete DevOps solution. Even with the adoption of DevOps, serious challenges continue to exist. Developers and operators used to be separate groups with separate tools. Complete DevOps reimagines the scope of tooling to include both developers and operations teams in one unified solution.
-   - [GitLab Blog ](https://about.gitlab.com/blog/)
-   - [DevOps Terms ](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
-   - Concurrent Dev Ops white paper ([gated link](https://about.gitlab.com/resources/whitepaper-concurrent-devops/)) ([internal link](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/resources/downloads/gitlab-concurrent-devops-whitepaper.pdf)
-   - [YouTube - Why Concurrent DevOps](https://www.youtube.com/watch?v=bDTYHGEIeM0)
-*  **DevSecOps Overview (Material - Sales Collateral - 25 minutes)**
-   - How to integrate and automte security in the DevOps Lifecycle
-   - A Seismic Shift in Application Security white paper ([gated link](https://about.gitlab.com/resources/whitepaper-seismic-shift-application-security/)) ([internal link](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/resources/downloads/gitlab-seismic-shift-in-application-security-whitepaper.pdf))
-   - 2019 Global Developer Report: DevSecOps ([gated link](https://about.gitlab.com/developer-survey/)) ([internal link](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/resources/downloads/2019-global-developer-report.pdf))
 *  **Increase Operational Efficiencies (Material - Video - 5 Minutes)**
    - Compare the traditional DevOps Daisy Chain of disparate tools to an integrated solution for Complete DevOps. GitLab delivers a seamlessly integrated platform for developers and operators to collaborate in real-time and move ideas into production faster.
    - [YouTube - Traditional DevOps Daisy Chain](https://www.youtube.com/watch?v=YHznYB275Mg)
@@ -65,57 +48,28 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - GitLab is a single application for the entire DevOps lifecycle! Please read the "Manage Your Tool Chain Before it Manages You" white paper from Forrester (see link above) to answer the questions in the [Google Form Quiz.](https://forms.gle/namX7dcg1dbo5KQQ7)
 
 ### 3. Our Customers
-*  **Customer Segments (Material - Handbook - 15 minutes)**
-   - Sales Segmentation is based on Total Employee count of the Global Account. If a Global Account has a lower segment than any of its child accounts, the Global Account will adopt the largest sales segment of any of its child accounts.
-   - To learn more read the [Handbook](/handbook/business-ops/resources/#segmentation)
-*  **Personas & Pain Points (Material - Video / Handbook - 20 Minutes)**
-   - Introducing Personas and Pain Points. David Dulany, Sales Development Consultant, reviews the concepts of Personas and Pain Points and why they are important in setting the context for your messaging.
-   - [You Tube - Introducing Personas and Pain Points](https://www.youtube.com/watch?v=-UITZi0mXeU)
-   - [Handbook - Roles & Personas](/handbook/marketing/strategic-marketing/roles-personas/)
-   - [Buyer Personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
-*  **VP of App Dev (Material - Video - 10 Minutes)**
-   - Watch Product Marketing Manager William Chia talk about the VP of App Dev persona.
-   - [YouTube - VP App Dev](https://www.youtube.com/watch?v=58qDalA5o6Q)
-*  **DevOps Director (Material - Video - 10 Minutes)**
-   - [YouTube - Director of DevOps](https://www.youtube.com/watch?v=5_D4brnjwTg)
-   - [DevOps Director Persona Presentation](https://drive.google.com/open?id=1C4wSY2g8vPjNdhOyRFH_bjtDGM0psZJViMfTACgIVCU&authuser=0)
-*  **Head of IT (Material - Video - 10 Minutes)**
-   - [YouTube - Head of IT](https://www.youtube.com/watch?v=LUh5eevH3F4)
-*  **Chief Architect (Material - Video - 10 Minutes)**
-   - [YouTube - Chief Architect](https://www.youtube.com/watch?v=qyELotxsQzY)
-   - [Chief Architect Persona Presentation](https://drive.google.com/open?id=1HEelJip2Gnu0RDUVqfOwRYrxCtMS3Xf_qJBJ9Zr9ZTg&authuser=0)
+*  **Our Customers**
+   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
+* **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
+   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 *  **QUESTION: Personas & Pain Points (Assignment - 1 Point - Pre Work)**
    - Please share your thoughts on the question below. This is a classroom discussion board, let's crowdsource some knowledge! Why is it important to understand different buyer personas as a salesperson?
 *  **Customer Success Stories & Proof Points (Material - Handbook - 10 Minutes)**
    - References are an age old tenet of sales pros! Your prospective clients will definitely be impressed by the positive business outcomes of our customers. Check out our [customer case studies](https://about.gitlab.com/customers/) and [proof points](/handbook/sales/command-of-the-message/proof-points/) on GitLab value.
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
-* **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
-   - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 
 ### 4. Our Portfolio
-*  **GitLab Pitch Deck (Material - Video - 15 Minutes)**
-   - Check out the latest corporate pitch deck that you can use to speak with your customers about GitLab. Watch the [video](https://youtu.be/UdaOZ9vvgXM) to hear Saumya Upadhyaya - Sr. Product Marketing Manager deliver the GitLab [pitch deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/edit?usp=sharing)
+*  **Our Portfolio**
+   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - [Our Portfolio](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Portfolio+-+Storyline+output/story.html) 
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
 *  **GitLab Features & Functionality**
    - GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate. GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity. Check out this [reference guide](https://about.gitlab.com/product/) to learn more about what is included in each of the different stages of GitLab.
-*  **GitLab Feature Comparison and Tiers (Material - Handbook - 30 Minutes)**
-   - Check out the [feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) chart to learn what's included in each package
-   - Review the [GitLab Tiers](/handbook/marketing/strategic-marketing/tiers/) in the Handbook
-   - Spend some time checking out the [Why Premium/Silver?](https://about.gitlab.com/pricing/premium/) and [Why Ultimate/Gold?](https://about.gitlab.com/pricing/ultimate/) pages.
-* **Ten Reasons Not to Start with Starter**
-   - In the [video](https://youtu.be/Np8MyDorw5U) Haydn Mackay (GitLab Sales Director, Americas Enterprise West) highlights the top capabilities not available in GitLab Starter that help organizations deliver better products faster, increase operational efficiencies, and reduce security and compliance risk.
-* **Pricing (Material - Handbook - 10 Minutes)**
-   - Check out the chart to understand our [pricing model](https://about.gitlab.com/pricing/). For additional context take a look at the [handbook page on pricing](/handbook/ceo/pricing/).
 * **Product Tiering Quiz (Assignment - 25 Minutes - 10 Points - Pre Work)**
    - Take a moment to complete this short knowledge check [quiz](https://docs.google.com/forms/d/e/1FAIpQLScahosIQoghrijLvRacseegt65O3SBycTIubvzJsaFn5wp2RQ/viewform)
-*  **Use Cases (Material - Handbook - 10 Minutes)**
-   - A [customer use case](/handbook/use-cases/) is: A customer problem or initiative that needs a solution and attracts budget. Defined In customer terms: Often aligned to industry analyst market coverage (i.e. Gartner, Forrester, etc. write reports on the topic) These are discrete problems that we believe GitLab solves and are reasons customers choose GitLab (hence which we should seek out in prospects)
-   - [Use Case Driven GTM](/handbook/marketing/strategic-marketing/usecase-gtm/)
-   - [Version Control and Collaboration Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/)
-   - [CI Use Case](/handbook/marketing/strategic-marketing/usecase-gtm/ci/)
-   - [DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)  
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
    - Security is one of the biggest differentiators to Ultimate. In this course, you will learn detailed information about GitLab security capabilities with a click through demo.
    -Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
@@ -124,6 +78,34 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Selling Professional Services (Material - Video - 30 Minutes)**
    - Our [Professional Services](/handbook/customer-success/professional-services-engineering/selling/) team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC. Our experts help lead Concurrent DevOps Transformations, providing direct support to our customer’s strategic business initiatives. GitLab's Professional Services team exists to enable your clients realize the full value of their GitLab installation. We can provide direct implementation support to ensure the GitLab installation is resilient and secure. We also offer migration services to facilitate the transition to GitLab by delivering a clean dataset to resume operations at once. Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
    - You can also watch the [Sales Enablement Session](/handbook/customer-success/professional-services-engineering/sales-enablement/) about how to sell services
+*  **GitLab Direction & Latest Releases**
+   - Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle. We aim to make it faster and easier for groups of contributors to deliver value to their users, and we achieve this by enabling:
+
+Faster cycle time, driving an improved time to innovation
+Easier workflows, driving increased collaboration and productivity
+
+Our solution plays well with others, works for teams of any size and composition and for any kind of project, and provides ongoing actionable feedback for continuous improvement. You can read more about the principles that guide our prioritization process in our product handbook.
+
+Be sure to review the information from our latest release! 
+   - [GitLab Direction](https://about.gitlab.com/direction/#single-application)
+   - [GitLab Releases](https://about.gitlab.com/releases/categories/releases/)
+*  **Product Maturity**
+   - GitLab has a broad scope and vision, and we are constantly iterating on existing and new features. Some stages and features are more mature than others. 
+
+To convey the state of our feature set and be transparent, we have developed a maturity framework for categories, application types, and stages.
+   - [GitLab Product Maturity](https://about.gitlab.com/direction/maturity/)
+*  **Additional Resources**
+   - The below are resources you might want to review or bookmark for later.
+
+1. GitLab Terms & Conditions
+
+2. Marketing Materials Repository: Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
+
+3. Pricing Information: Check out the chart to understand our pricing model. For additional context take a look at the handbook page on pricing. 
+   - [GitLab Terms](https://about.gitlab.com/terms/)
+   - [GitLab Marketing Materials](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads)
+   - [GitLab Pricing Model](https://about.gitlab.com/handbook/ceo/pricing/)
+   - [GitLab Pricing](https://about.gitlab.com/pricing/)
 
 ### 5. Field Roles & Expectations
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
@@ -197,9 +179,12 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - There are a lot of [DevOps tools](https://about.gitlab.com/devops-tools/) out there. As a single application for the entire DevOps life cycle, GitLab can remove the pain of having to choose, integrate, learn, and maintain the multitude of tools necessary for a successful DevOps tool chain. However, GitLab does not claim to contain all the functionality of all the tools listed here. Click on a DevOps tool to compare it to GitLab. Last thing dont forget to log into [Crayon](https://app.crayon.co/intel/gitlab/battlecards/), our competitive intelligence platform to view all of our latest competitive advantages.
 *  **GitLab vs. GitHub (Material - Video - 3 Minutes)**
    - No... we are not the same company! This short YouTube video on [GitLab vs. GitHub](https://www.youtube.com/watch?v=s8DCpG1PeaU) covers some basic differences.
+   - Check out the [GitLab vs. GitHub](https://about.gitlab.com/devops-tools/github-vs-gitlab/)
 *  **Cloudbees + Jenkins (Material - Video and Battlecard - 35 minutes)**
    - Watch the [YouTube Video](https://www.youtube.com/watch?v=a95DQqRTOHw&feature=youtu.be)
-   - Check out the [Crayon Battlecard](https://app.crayon.co/intel/gitlab/battlecard/4162/)
+   - Check out the [GitLab vs. Jenkins](https://about.gitlab.com/devops-tools/jenkins-vs-gitlab/)
+*  **Azure DevOps**
+   - Check out the [GitLab vs. Azure DevOps](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/)
 *  **ACTIVITY: Phone-A-Friend: Competitors (Assignment - 45 Minutes - 10 Points - Pre Work)**
    - Talk with 3 tenured GitLab sales professionals (individual contributors or people managers) and ask them for their tips and tricks on successfully beating the competition. Please take notes from your calls and briefly summarize one or two things you learned from each conversation in the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdCwvGRS_-fV9J57KGYIjkXNEUHDigKoPXss-kf9r3Zjozo9w/viewform?usp=sf_link) to submit the assignment.
 * **QUIZ: Competitors (Assignment - 5 Points - Pre Work)**
