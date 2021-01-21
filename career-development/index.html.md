@@ -28,7 +28,7 @@ Specific coaching plan templates are listed here to help start the conversation:
 We want to build these documents around the career matrix for Engineering. Since this career
 matrix is still being developed, these documents are currently based on the [job family requirements](/job-families/engineering/).
 
-The first career matrix being developed is for [Individual Contributors in Engineering](career-matrix.html).
+The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
 
 When a team member is deemed ready for promotion, their manager should follow
 the [promotion process outlined by People
