@@ -179,9 +179,10 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
 ## Tips for working on tickets (all roles)
 
 ### I've taken a new ticket, what are some important things to consider as I make the first response?
-
+ 
 1. Does the user already have some recently opened tickets with us? Is there background information in those tickets that it is safe to reuse or use to confirm back to the user that the information is still valid for this new ticket. For example, this could be logs/information we have very recently collected, or an attached architecture document from a Professional Services team engagement.
-   1. Referring back to recent docs where applicable, could cut down investigation time and provides an improved user experience. 
+   1. Referring back to recent docs where applicable, could cut down investigation time and provides an improved user experience.
+   1. **Check the organizational notes** for any details about the customer that may require a specific action be taken by Support, such as insight into how we need to communicate with the customer.
 1. While waiting for a resolution to this ticket, is the user's business being affected?
    1. If you don't know the answer to this, make sure you check with the user early on in the life of the ticket to prevent the ticket becoming an escalation. Understanding the timescales the user is working to will help you set expectations and help them meet or adjust project timescales. 
 1. If this is a "how to" question is it clear why the user is asking the question?
