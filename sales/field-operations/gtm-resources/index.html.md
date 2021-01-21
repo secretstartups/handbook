@@ -186,9 +186,9 @@ The Location of each account used to determine its Sales Territory is determined
 This address is stored in "Account - Territory" on the Account object in SalesForce.
 This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. Zoominfo 4. Shipping Address 5. Billing Address.
 
-### Rules of Engagement 
+### Account Ownership Rules of Engagement 
 
-#### Account Ownership Rules of Engagment (Effective FY22-Q1)
+**Effective FY22-Q1**
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership.**
 
