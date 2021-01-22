@@ -108,17 +108,18 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 
 ### Week 3
 
-During week three we will discuss **Peak Performance & Coaching**. Information covered in week three can be found on the following handbook pages: 
+During week three we will discuss **Peak Performance & Coaching & Cultures**. Information covered in week three can be found on the following handbook pages: 
 - [Coaching](/handbook/leadership/coaching/)
 - [Career Development](/handbook/people-group/learning-and-development/career-development/) 
 - [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [Building Trust](/handbook/leadership/building-trust/)
 - [Iteration](/handbook/values/#iteration)
+- [Cross-Culture Collaboration Guide](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
 
 | Day     | Daily Challenge | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------| ---------|
 | Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance <br> *Applying Iteration  |
-| Day 12   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> * Describe how to communicate performance issues |
+| Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
 | Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
 | Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
 | Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
