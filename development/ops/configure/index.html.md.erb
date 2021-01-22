@@ -186,24 +186,6 @@ Team members should use their best judgment to determine whether to assign the f
 - Does the MR require a lot of dev environment setup that team members outside the Configure stage are likely to not have?
 - Is the MR part of a larger effort for which a specific team member already has all the context?
 
-### Backend & Frontend Issue Collaboration
-
-Our team follows the GitLab [workflow guidelines for working in teams](/handbook/engineering/workflow/#working-in-teams).
-
-Given a reasonably sized issue requiring UX, frontend and backend work, the preferred way to collaborate on the issue is as follow:
-
-1. Once an issue is labeled `workflow::ready for development`, backend is usually able to start working on the issue.
-    1. This is a good time to discuss and clarify interdependency between backend and frontend.
-1. Backend and frontend will work on the issue in separated branches.
-    1. Each will submit their own MR for review.
-    1. Frontend and backend will put the feature behind a feature flag.
-1. Once both MRs have been merged, a third MR will be opened to integrate the work where backend and frontend will collaborate to:
-    1. Remove the feature flag.
-    1. Add documentation.
-    1. Implement e2e tests for the feature.
-
-The above is a guideline and clear communication should be preferred over process to ensure the best collaboration strategy on an issue. For example on smaller issues, or where the frontend component of the work is minor, it may be feasible to work on the same branch.
-
 ## How to work with us
 
 ### How to contribute to Auto DevOps
