@@ -213,18 +213,18 @@ Think of the materials as a "Meeting in a Box."
 
 ## Book Choice
 
-The offsite includes a 30 minute to 1 hour discussion, 15 minutes of which is on action items, on a book read explicitly for the offsite.
-The CoS solicits book nominations from throughout the company into an issue.
-Then the E-Group decides on the book. They will occasionally choose a book with a US focus, but they'll primarily choose books with global relevance.
-The book will be finalized no less than 1 month prior to the offsite.
+The offsite includes a 30 minute to 1 hour discussion, 15 minutes of which is on action items, on a read or recording chosen explicitly for the offsite.
+The CoS solicits nominations for material (books, blogs, recordings, articles, etc.) from throughout the company into an issue.
+Then the E-Group decides on what will be discussed. They will occasionally choose material with a US focus, but they'll primarily choose material with global relevance.
+The selection will be finalized no less than 1 month prior to the offsite.
 
-- We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members.
-When not possible for logistical reasons, we aim to have an AMA the first business day after the offsite with the executives on the book.
-This also allows team members to engage in the book.
+In advance of the discussion, each E-Group member will make at least one MR to the handbook that is inspired by the reading. Key takeaways and their implications for GitLab will be key points of conversation. 
+
+We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members. This also allows team members to engage in the conversation.
 
 Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
 
-Books that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
+Material that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 
 ### Previous Reads
 
