@@ -233,10 +233,10 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 
  **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
-1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 1. **Sales Operations Quarterly Account Review Process**
-   1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
-   1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the **Sales Operations Quarterly Account Review Dashboard** (link will be provided when report is created).
+   1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+   1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
    1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
    1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
@@ -373,7 +373,7 @@ Criteria for Reassigning Accounts:
 
 - The account must have its address in the account owners territory.
 If the account has a parent account or the parent account also has a parent account the address that determines the final owner of the account is the address of the ultimate parent.
-This address follows our data hierarchy - with Datafox being our primary source of data (Link to come).
+This address follows our data hierarchy - with Datafox being our primary source of data.
 - The account must also have a matching sales segmentation that the owner should be working.
 Any Account adopts the highest sales segment that exists within an account hierarchy.
 Segment is determined by our data hierarchy - with Datafox being our primary source of data.
