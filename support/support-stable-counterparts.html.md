@@ -132,7 +132,7 @@ Some functions don't fit as cleanly into the Support Stable Counterparts model. 
 | Finance    | Accounts            | Cristine Tomago     | TBD                 | N/A                        | N/A |
 | PeopleOps  | Recruiting          | Cyndi Walsh         | Tom Cooney          | N/A                        | weekly |
 | PeopleOps  | After-hire care     | Jessica Mitchell    | Tom Cooney          | N/A                        | every 2 weeks |
-| Sales      | Sales               | TBD                 | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
+| Sales      | Sales               | TBD                 | Mike Dunninger      | N/A                        | TBD |
 | Sales      | Customer Success    | Kristen Lawrence    | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
 | Sales      | Community Relations | David Planella      | Tom Atkins          | Greg Myers                 | weekly team meeting |
 
