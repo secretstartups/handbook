@@ -241,6 +241,10 @@ You are responsible for collaborating with your crew. This is a key part of your
 
 ### Response Crew FAQ
 
+#### What about tickets that have already breached?
+
+Please reply to these as soon as you're able. We should aim to have no 'red' breached tickets in the queue, so please don't ignore these. When there are no other 'imminent' breaches, work with your crew to take next steps on the already breached tickets.
+
 #### How many hours do I have to do?
 
 Be available in the channel during your normal office hours - you don't have to be there for all 8 hours - **make sure to be available for 'most of your day'** and communicate with the rest of the crew in Slack or the Zoom room for some of the time.
