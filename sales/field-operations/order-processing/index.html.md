@@ -953,7 +953,9 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
     * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products.
     * A fully signed copy of the SOW is **required**. Please review the process on obtaining signatures, as the SOW will also need to be counter-signed by an authorized signer at GitLab.
     * Account owners are not approved signers! **ALL** signatures must go through Legal and/or Finance.
-    * A Custom SOW **does not** require a signed order form
+    * A Custom SOW **does not** require a signed order form 
+
+**Professional Services Opportunities Only** - If the SOW outlines a split payment schedle, **only one opp is needed to book the order**. We do not use multiple opps with PS opps requiring separate payments. 
 
 </details>
 
