@@ -19,12 +19,14 @@ We may also occasionally need to do this to inform certain users of a feature th
 
 ### Blocked Accounts
 
-**Macro:** [`GitLab.com::Notices::Account Blocked`](https://gitlab.zendesk.com/agent/admin/macros/360096829593)
+** Macro:** [`Support::SaaS::Notices::Account Blocked`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Notices/Account%20Blocked.yaml)
 
 We may be asked by infrastructure either through an issue or Slack to notify a user or customer that their account has been temporarily blocked for some reason. In these cases, do the following:
 
 1. Copy the link to the issue where it's mentioned that the user was blocked. If none exists, create one in [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/issues) with the details.
-1. Create a new ticket in Zendesk with the requestor as the **primary email address** of the user in question and apply the macro.
+1. Create a new ticket in Zendesk with the requestor as the **primary email address** of the user that is being blocked and apply the macro.
+1. If the user has a subscription, review the organization notes and check for alternate contacts that should be added as a CC to the case.
+1. If the organization has a TAM, reach out to the TAM on Slack to inform them of the blocked user, and add them as a CC on the ticket.
 1. Supplement the response provided by the macro with the specific reasoning for the block and send it.
 1. Add a note to the ticket that contains a link to the issue.
 1. Add an [admin note](admin_note.html) to the blocked account that links to the issue.
