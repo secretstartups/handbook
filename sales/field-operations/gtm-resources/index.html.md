@@ -173,8 +173,8 @@ If the number of employees, according to our sources based on our hierarchy as d
 - <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): Jon Burghart, Regional Director
 - <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
 - <b>North America - US East</b> (`#us-east` Slack channel): Mark Rogge, Regional Director
-- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director (Timm Ideker - Interim)
-- <b>Public Sector</b> (`#public-sector` Slack channel): Paul Almeida, Director of Federal Sales
+- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director
+- <b>Public Sector</b> (`#public-sector` Slack channel): Jim Riley - Interim 
 
 ### Territories
 
