@@ -154,7 +154,7 @@ These include:
 1. [Talent Assessment and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/) (1.5 hrs, ~10 mins per function). CEO Shadows and EBAs do not attend this session
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process) (as-needed based on number of people, estimate ~10 mins per person)
 1. [Book Discussion](/handbook/ceo/offsite/#book-choice) (30 minutes - 1 hour)
-1. Spending Plus/Minus 10% - Each e-group member will present a list of initiatives where they would spend additional budget dollars if made available and a list of items where they would make reductions if necessary. The amount of each list will equal 10% of the current quarter forecasted gross expenses. These initiatives should be added to the E-Group Offsite agenda one week in advance of the offsite by the E-Group member of each function. (1 hour)
+
 
 ### Break guidelines 
 Break periods are scheduled into the agenda by the CoS and should follow these guidelines:
