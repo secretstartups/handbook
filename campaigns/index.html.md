@@ -22,18 +22,6 @@ In an effort to continually improve our ability to derive success of campaigns, 
 
 **Questions? Please feel free to ask in the [#marketing_programs slack channel](https://gitlab.slack.com/messages/CCWUCP4MS) or ask in the [#marketing slack channel](https://gitlab.slack.com/messages/C0AKZRSQ5) and tag @marketing-programs.**
 
-## Funnel stages and mapping to lead lifecycle and content journey
-{: #funnel-stages .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-| Funnel Stage | Lead Lifecycle (Lead Statuses) | Goal | Content Journey Stage |
-| --- | --- | --- | --- |
-| **Top Funnel** | Raw, Inquiry, Nurture (< 50) | Raw > MQL | Awareness (Raw) + Consideration (Inquiry/Nurture) |
-| **Middle Funnel** | MQL, Accepted, Qualifying, Nurture (> 50) | MQL > SAO | Purchase |
-| **Bottom Funnel** | Qualified (SAO) | SAO > Closed Won | Purchase |
-
-Nurture leads are separated into top funnel and middle funnel based on score because, without rules of engagement on moving leads from Raw/Inquiry, straight to Accepted, and then to Nurture, these individuals may not have engaged previously. The scoring will indicate the best placement for them in the lead lifecycle between Top and Middle Funnel.
-
 ## In Progress and Future Campaigns
 {: #upcoming-integrated-campaigns .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
