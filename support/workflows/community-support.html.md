@@ -14,13 +14,11 @@ Community Support is sharing knowledge, answers, and solutions in a way that mak
 
 ## Docs-first Community Support
 
-GitLab Documentation's library is vast, and some users may need assistance in finding what they need.
+GitLab Documentation's library is vast, and users sometimes need assistance in finding the answers they need.
 
 GitLab employs a [Docs-first methodology](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) to ensure our documentation is a SSoT resource where users can find answers, solutions, and information on using GitLab.
 
-GitLab Support Engineers should default to using a **Docs-first approach to Community Support** in the GitLab Community Forum or elsewhere.
-
-With [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to providing Community Support, we can ensure that the documentation remains a handy [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot) that GitLab users can use to locate answers/solutions on their own.
+GitLab Support Engineers should default to using a **Docs-first approach to Community Support**.
 
 The critical points of the Docs-first approach for Community Support are:
 
@@ -28,34 +26,30 @@ The critical points of the Docs-first approach for Community Support are:
 - If you find helpful content missing from our documentation, create a merge request or issue to add it. Then link the MR or issue in your reply.
 - If a Community member says the documentation is incorrect, confusing, or deficient - encourage them to create an issue explaining the problem or contribute an MR to fix it.
 
-Beyond docs-first, there are several GitLab Support workflows helpful in getting answers and solutions available to all GitLab users.
-
 ### Special types
 
 In our documentation styleguide we define ["special types"]((https://docs.gitlab.com/ee/development/documentation/styleguide.html#no-special-types)) of content that are not well-suited for our documentation - specifically Tutorials, How-to guides, and Explanations.
 
-This "no special types" policy restricts GitLab from shipping this content in our official docs.
+In a troubleshooting context, a docs-first approach to Support in the Community Forum can fill the "special type" gaps in our documentation.
 
 Examples of Community forum threads where answers and solutions are "special types" that don't "fit" into the docs:
 
-* Explanation - "I read the docs, but I don't understand."
-* Situation-specific Tutorials/How-tos - ("I'm running GitLab CE 11.0 as a Docker container, and I want to upgrade to GitLab 13.2 EE Omnibus with minimal downtime, how can I safely do this?")
-* Problem-specific Troubleshooting steps (I upgraded GitLab from 12.9 to 13.1 and now it's not working, I get 404 error on every page - please help!)
-
-In a troubleshooting context, a docs-first approach to Support in the Community Forum can act as mortar to fill "special type" gaps left in our documentation.
+- Explanation - (eg. "I read the docs, but I don't understand.")
+- Situation-specific Tutorials/How-tos - (eg. "I'm running GitLab CE 11.0 as a Docker container, and I want to upgrade to GitLab 13.2 EE Omnibus with minimal downtime, how can I safely do this?")
+- Problem-specific Troubleshooting steps (eg. "I upgraded GitLab from 12.9 to 13.1 and now it's not working, I get 404 error on every page - please help!")
 
 ## GitLab Community Forum
 
 Opening a thread in the GitLab Community Forum is the official and most efficient way for users of our free products to receive Technical Support.
 
-## GitLab Support Engineer Modes of Work in Community Forum
+### GitLab Support Modes of Work in Community Forum
 
 - **[First Responder](#first-responder)** - early detection of customer-facing problems, bugs, and regressions
 - **[Silo-breaker](#silo-breaker)** - publicly share solutions/answers relevant to free users
 - **[Fruit picker](#fruit-picker)** - pick low-hanging fruit for quick, easy wins
 - **[Fishing Instructor](#fishing-instructor)** - teaching Self-service and Community-first GitLab Support
 
-### First Responder
+#### First Responder
 
 For detecting bugs, improving documentation, and identifying problems in our product that will affect paying customers, the GitLab community is an excellent resource.
 
@@ -65,7 +59,7 @@ GitLab FOSS makes up over 80% of the GitLab codebase. Any technical problems wit
 
 Free users often surface up bugs, regressions, and problems with our product or docs in the Community forum before we start getting support tickets from customers about them.
 
-### Silo breaker
+#### Silo breaker
 
 Silo-breakers take common answers/solutions in Support ZenDesk and ensure they're available and discoverable to all GitLab users.
 
@@ -75,15 +69,15 @@ We communicate internally, usually via Slack and Support Week in Review, to rais
 
 If these same patterns or trends are present in the Community forum, providing answers and solutions in forum threads helps ensure answers/solutions are discoverable via a search engine.
 
-### Fruit-picker
+#### Fruit-picker
 
-Specializes in picking "low-hanging fruit" by publicly sharing known answers or solutions.
+Specializes in picking "low-hanging fruit" by publicly sharing known answers and solutions.
 
 - Quick, easy wins. ("*I know the problem/question and can easily explain the solution/answer*")
 - The answer is in our documentation. (polite link to docs is sufficient)
 - Single-touch Solutions. (no follow-up required)
 
-### Fishing Instructor
+#### Fishing Instructor
 
 It is more worthwhile to teach someone to do something (for themselves) than to do it for them (on an ongoing basis).
 
@@ -118,10 +112,10 @@ graph LR
   F(Forum)
   A --> B
   B --> C
- B --> D
+  B --> D
   C --> E
- D --> E
- D --> F
+  D --> E
+  D --> F
 ```
 
 The most efficient and effective way to connect users with appropriate support option is to act in a way that encourages and increases the following support-seeking user flow.
@@ -156,6 +150,10 @@ By directing incoming Free user tickets to the Community forum, where fishing in
 
 Mark a response as an "accepted solution" in situation where a single response effectively answers or resolves a forum thread.
 
+### Flagging Posts
+
+If you see a form post that is clearly abuse or spam, flag the post by clicking the flag icon. This marks the post as abuse, which gets processed by GitLab Forum moderators.
+
 ### Working alongside the wider community
 
 In the GitLab Community Forum, most tech support and troubleshooting assistance comes from community members volunteering their time and knowledge to help others.
@@ -169,15 +167,11 @@ Similar to GitLab Support ZenDesk tickets, unsolved GitLab technical support thr
 - link to the relevant documentation
 - improve docs based on user interaction/feedback
 
-### Flagging Posts
-
-If you see a form post that is clearly abuse or spam, flag the post by clicking the flag icon. This marks the post as abuse, which gets processed by GitLab Forum moderators.
-
 ### Community Support Experience
 
-Through self-serve support, docs-first approach, and ticket deflection through community Support, we aim to optimize the Support experience for all users.
+We aim to optimize the self-serve Support experience for all GitLab users.
 
-#### Common Free User Support Experience
+#### Average Free User Support Experience
 
 ```mermaid
 graph LR
