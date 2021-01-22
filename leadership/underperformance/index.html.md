@@ -170,8 +170,8 @@ A performance improvement plan includes the following:
    * Clear direction including metrics and concrete goals, to improve (e.g. finish X before Y)
    * Resources/coaching necessary to achieve goals,
 
-1. Here is a [basic PIP template](https://docs.google.com/document/d/1AsVwUikcUofl58eLWhiEEUFJqtwgUQNdDo5lM98bP7o/edit) which will provide a good start to creating the document. For an alternative format, you can use this [alternative template](https://docs.google.com/document/d/1c1LGzd83nvXU-JcknuXO72lQjHROPykWVglfPZpZ6kY/edit) Whichever template you choose, it should be customized to fit the particular situation. 
-    - Once the [PIP is documented](https://docs.google.com/document/d/1AsVwUikcUofl58eLWhiEEUFJqtwgUQNdDo5lM98bP7o/edit) schedule a call with the team member outside of the regular 1-1
+1. Here is a [basic PIP template](https://docs.google.com/document/d/1BMufROj-Oalz5DIXWSjzTLCnvADEUZi7osJuhaFYvHw/edit?usp=sharing) which will provide a good start to creating the document. For an alternative format, you can use this [alternative template](https://docs.google.com/document/d/1c1LGzd83nvXU-JcknuXO72lQjHROPykWVglfPZpZ6kY/edit) Whichever template you choose, it should be customized to fit the particular situation. 
+    - Once the [PIP is documented](https://docs.google.com/document/d/1BMufROj-Oalz5DIXWSjzTLCnvADEUZi7osJuhaFYvHw/edit?usp=sharing) schedule a call with the team member outside of the regular 1-1
     - Present the PIP to them on the call and go through it with them. Read it verbatim and don't deviate from it or think of other things to add during the call
     - Re-iterate that you want them to improve and you're there to support them. You will be checking their progress each week (or day if really necessary)
     - Ask them if they have any questions
