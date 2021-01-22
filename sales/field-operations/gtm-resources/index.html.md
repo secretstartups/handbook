@@ -86,25 +86,24 @@ They are tracked as follows:
 
 | Funnel stage | Record Type | Status or Stage |
 | ------------ | ----------- | --------------- |
-| Raw | [Lead or Contact] | Raw |
-| Inquiry | [Lead or Contact] | Inquiry |
-| Marketo Qualified Lead | [Lead or Contact] | MQL |
-| Accepted Lead | [Lead or Contact] | Accepted |
-| Qualifying | [Lead or Contact] | Qualifying |
-| Qualified | [Lead or Contact] | Qualified (converted) |
-| Pending Acceptance | [Opportunity] | 0 - Pending Acceptance |
-| [Sales Accepted Opportunity] | [Opportunity] | 1 - Discovery |
-| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 6 Awaiting Signature |
-| Customer | [Opportunity] | Closed Won |
-
-For the definition of the stage please click the record type link.
+| Raw | Lead or Contact | Raw |
+| Inquiry | Lead or Contact | Inquiry |
+| Marketo Qualified Lead | Lead or Contact | MQL |
+| Accepted Lead | Lead or Contact | Accepted |
+| Qualifying | Lead or Contact | Qualifying |
+| Qualified | Lead or Contact | Qualified (converted) |
+| Pending Acceptance | Opportunity | 0 - Pending Acceptance |
+| Sales Accepted Opportunity | Opportunity | 1 - Discovery |
+| Sales Qualified Opportunity | Opportunity | 2 Scoping - 6 Awaiting Signature |
+| Customer | Opportunity | Closed Won |
 
 When going from Qualifying to Qualified Lead the lead is duplicated to an opportunity, and the lead is set to qualified and not being used anymore.
-[Lead or Contact]: #lead--contact-statuses
-[Opportunity]: #opportunity-stages
-[Sales Accepted Opportunity]: #criteria-for-sales-accepted-opportunity-sao
 
-Note: Our lifecycle is undergoing a revamp! See how things are progressing [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/298).
+Lead or Contact: #lead--contact-statuses
+
+Opportunity: #opportunity-stages
+
+Sales Accepted Opportunity: #criteria-for-sales-accepted-opportunity-sao
 
 ## SAL Sales Capacity
 
@@ -165,7 +164,7 @@ In order to address issues when it is believed that the employee count, account 
 
 Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
-If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
+If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the Rules of Engagement account review process.
 
 ##### Region/Vertical
 
@@ -184,7 +183,13 @@ Our LeanData routing workflows and SFDC reports are based on these tables.
 
 The Location of each account used to determine its Sales Territory is determined by a combination of 3rd party data systems (Datafox, Zoominfo) and manual overrides.
 This address is stored in "Account - Territory" on the Account object in SalesForce.
-This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. Zoominfo 4. Shipping Address 5. Billing Address.
+This field inherits data from other fields in the following priority: 
+
+1. Admin Manual Override (if present) 
+2. Datafox 
+3. Zoominfo 
+4. Shipping Address 
+5. Billing Address
 
 ### Account Ownership Rules of Engagement 
 
@@ -195,7 +200,7 @@ This field inherits data from other fields in the following priority: 1. Admin M
 **Understanding Account Assignment, Rules and Definitions**
 
 1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Territory Success Planning (TSP)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain `Unknown` until resolved through manual research and a link to reputable data is provided to the Sales Operations team to confirm. Follow the process to [request changes to the TSP inputs](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) if missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process.
-1. **Account Ownership:** Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`.
+1. **Account Ownership:** Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`. 
 1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
 1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
 This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
@@ -204,14 +209,14 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 1. **Strategic Accounts:** Defined as an account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
 1. **Holdover Accounts:** Defined as an account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field and the `Holdover Next Owner` field. An account rep can only have a holdover account or holdover opportunity for one fiscal quarter. Any account that needs to be held over longer than one quarter should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
 1. **Stand-alone Child Account:** Defined as an account that clearly has their own buying authority and purchasing process.
-   1. **Private Equity or Holding Company - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
+   1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
    1. **Government Holding Entity - Child Accounts:**
       1. **AMER:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
       1. **Rest of World:** For all non-US government accounts: Only accounts that are 100% owned by the government are owned by the segment who owns the country
       1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
 1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
-1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. These accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help).
-
+1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Sales Operations has the ability to create new accounts because these accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help). To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project. 
+1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date`, `Holdover Next Approved Owner` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 **Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
 
 **Step 1- Sales Process:**  Requirements prior to requesting an account transfer
