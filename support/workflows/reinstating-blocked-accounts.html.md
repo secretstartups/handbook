@@ -21,6 +21,8 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 ## Process
 
 1. If the account is blocked, look for the admin note on the account to determine why it has been blocked.
+	- If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
+		> `/chatops run user find <username or email>`
 1. If the block or complaint is related to access from an embargoed country, use the `TOS Section 10 (Embargoed Countries)` macro.
     - If the user provides the requested information, then complete the `Trust and Safety` [Unblock Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues) template. Otherwise, reaffirm the block cannot be removed.
 1. For all other cases (including if there is *no admin note*), complete the [Unblock Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new?issuable_template=T&S:%20Unblock%20Request) template in the Trust and Safety Operations tracker. A security member of the team will review the request within 24 hours. If the request is urgent, please reach out in the #abuse Slack channel.

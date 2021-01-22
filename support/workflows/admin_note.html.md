@@ -33,6 +33,14 @@ In general, the formatting should be standard in a one liner format:
 
 Slack conversations or Issue links may be used for the link if no ticket is lodged for the type of request.
 
+#### Viewing the Notes
+
+There are two methods a team member can use to look up admin notes for a particular user:
+
+1. If the team member has admin privileges they can navigate to the user's profile where the admin note will be present
+2. Team members can use ChatOps to read admin notes for a particular user via the following command in a Slack channel where the chatops bot has been invited
+   > `/chatops run user find <username or email>`
+
 #### Sample Notes
 
 Disabling 2FA:
