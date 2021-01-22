@@ -55,7 +55,7 @@ The best way to get a guided start to L&R work is by working through the
 
 * The [License & Renewals ticket queue](https://gitlab.zendesk.com/agent/filters/360038103700) in Zendesk.
 * The [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) on GitLab.com.
-  See also the [working internal requests workflow page](http://localhost:4567/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
+  See also the [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
 * Creating and/or updating [marketing pages](#marketing-pages),
   [product documentation](#product-documentation) and the
   [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
