@@ -162,6 +162,7 @@ The Group Conversations are stored in the "CEO Evangelism" folder on Google Driv
 * Update with timely announcements, e.g. E-Group Offsite updates, anything shared in Company FYI recently, any great wins.
 * If there aren't any timely announcements, take this opportunity to remind folks about some of the key features of our [Communication](/handbook/communication/) guidelines, including our Top Misused Terms, MECEFU, or Why we track public Slack messages.
 * Review the [recent CEO Shadow MRs](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=✓&state=all&label_name[]=ceo-shadow) and the CoS agenda for anything that could be added to the "Top of Mind" section.
+* Ping the current 2 and former 2 [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/) to add 1 slide each based on their observations, topics that stood out or would be good to highlight at the company level from their shadow rotation.  
 
 Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
