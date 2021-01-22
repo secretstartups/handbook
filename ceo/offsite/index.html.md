@@ -219,6 +219,8 @@ The CoS solicits nominations for material (books, blogs, recordings, articles, e
 Then the E-Group decides on what will be discussed. They will occasionally choose material with a US focus, but they'll primarily choose material with global relevance.
 The selection will be finalized no less than 1 month prior to the offsite.
 
+In advance of the discussion, each E-Group member will make at least one MR to the handbook that is inspired by the reading. Key takeaways and their implications for GitLab will be key points of conversation. 
+
 We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members. This also allows team members to engage in the conversation.
 
 Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
