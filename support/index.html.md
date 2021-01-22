@@ -449,9 +449,9 @@ Support managers will regularly review the board to keep items moving forward.
 1. Support managers will **curate** issues to prevent a large backlog. Unpopular or old issues can be closed / merged to keep the backlog manageable.
 
 #### Support Slackbot
-The [Support Slackbot](https://gitlab.com/gitlab-com/support/support-ops/gitlab-support-bot) can be used to quickly view the status of our ZenDesk queues.
+The [Support Slackbot](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-bot) can be used to quickly view the status of our ZenDesk queues.
 
-Below are the most common commands, the [bot's repo](https://gitlab.com/gitlab-com/support/support-ops/gitlab-support-bot) has additional details.
+Below are the most common commands, the [bot's repo](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-bot) has additional details.
 
 ``` rb
 sb p # All queues
