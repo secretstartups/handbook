@@ -177,7 +177,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-01-18 | 2021-01-22 | [Traci Robinson](https://gitlab.com/traci) - Sr. PMM, Regulated Industries | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
 | 2021-01-25 | 2021-01-29 | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD | [Traci Robinson](https://gitlab.com/traci) - Sr. PMM, Regulated Industries |
 | 2021-02-01 | 2021-02-05 | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD |
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
@@ -950,3 +949,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-11-30 | 2020-12-11 | [Kevin Chu](https://gitlab.com/kbychu) | Group Product Manager | |
 | 2020-12-07 | 2021-01-08 | [Charlie Ablett](https://gitlab.com/cablett) | Sr. Backend Engineer, Plan | |
 | 2021-01-04 | 2021-01-15 | [Tanya Pazitny](https://gitlab.com/tpazitny) | Quality Engineering Manager, Secure & Enablement | |
+| 2021-01-11 | 2021-01-22 | [Michael Preuss](https://about.gitlab.com/company/team/#mpreuss22) | Senior Manager, Digital Experience | |
