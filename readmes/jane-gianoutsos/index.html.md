@@ -45,7 +45,7 @@ You can assume the same about me in all instances.
 
 ## Communicating with me
 
-- I'm not a morning person, I'm usually online around 8:30am NZT, but I block my calendar out for 30 minutes to give me time to be a bit more human and clear out overnight messages. I am still available at this time.
+- I'm not a morning person, I'm usually online around 9:30am NZT, but I tend to avoid meetings for the first 30 minutes to give me time to be a bit more human and clear out overnight messages. I am still available at this time.
 
 - I don't like being expected to read between the lines, and I don't expect you to either. Please be as open and direct as you feel comfortable being and if you're struggling with that, let me know and we can work it out together. 
 
@@ -66,6 +66,8 @@ Recent hobbies these have included:
 - book-binding, 
 - [zentangle](https://www.instagram.com/p/BwBNKd3hidH/).  
 - boardgames!
+- Dr Who
+- Reading - fairly eclectic taste, but for escapism: sci-fi and a bit of fantasy
 
 Further back hobbies included [crochet](https://www.flickr.com/photos/unplain-jane/albums/72157608410004917), [sewing](https://www.flickr.com/photos/unplain-jane/albums/72157622880198139), [New Zealand Sign Language](https://www.nzsl.nz/) (sadly I've forgotten most of what I learnt),  [photography](https://www.flickr.com/photos/unplain-jane/albums/72157616370056642).
 
