@@ -10,8 +10,8 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
 
 ![](./image.png)
 
-[Source](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
-[Full Process Flow] (https://docs.google.com/spreadsheets/d/1Y8wWj5g8T6HuPGEnHaWUfdtI7LPmathGaMwfiA2b_Ks/edit?usp=sharing)
+- [Process Flow - trim (above)](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
+- [Process Flow - full](https://docs.google.com/spreadsheets/d/1Y8wWj5g8T6HuPGEnHaWUfdtI7LPmathGaMwfiA2b_Ks/edit?usp=sharing)
  
 ### Project plan
  
@@ -20,20 +20,64 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 Each PS engagement will have a Google Sheet that shows the contracted revenue and the estimated cost measured in hours or days of effort required to complete the engagement. The cost estimate must be completed prior to SOW signature and attached to the opportunity in SFDC.
  
 ### Project workflow
+
+**Initiate**
+
+
+1. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a PS Object is created in Salesforce, a PS project/issue is created in GitLab and a Mavenlink customer project is created.
+   - A Project Owner is assigned; this can be a Project Manager, or Professional Services Engineer (PSE)
+
+1. Sr. PS Project Coordinator: Send [initiation email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing).
+
+
+1. Project Owner: Begin the project 
+   - Internal PS project alignment meeting (includes Engagement Mgr, Project Coordinator, PSE)
+   - Sales to PS hand-off meeting (complete the hand-off issue in the customer Epic)
+
+
+**Plan**
+
+
+4. Sr. PS Project Coordinator: 
+   - Assign PSE resource(s) via Mavenlink
+
+
+5. Project Owner:
+   - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes can be added directly to the Project Definition Template.
+   - Weekly project meeting (if applicable): Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+   - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing).
+   - [Change request template ](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)(required for scope changes).
+   - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+
+**Develop, Configure, Integrate**
+
+6. PS Engineer: Complete work per the SOW
+
+
+7. Project Owner:
+   - Weekly project meeting (if applicable): Notes documented in the Project Definition
+   - Keep Mavenlink up to date:  project schedule, project health, milestone acceptance
+   - Provide Weekly Status Report: Using the template in the Project Definition
+   - [Change request template ](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)(required for scope changes).
+
+**Validate**
+
+8. Project Owner:
+   - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval
+
+
+9. Customer:
+   - Approves completion for each activity or deliverable via email
+
+**Deploy & Close**
+
+
+10. Project Owner:
+   - Complete this [sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
+   - Complete this [financial wrap-up workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)
+   - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+   - Schedule [project closure meeting with agenda](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+11. PS Project Coordinator: PSE object update (set to complete)
+
  
-1. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a PS Object is created in Salesforce and a PS project/issues is created in GitLab.  Then, a project owner is assigned; this can be Project Manager, or Professional Services Engineer (PSE).
- 
-1. Sr. PS Project Coordinator: Send [initiation email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit).
- 
-1. Project Owner: Begins project with the following high-level process:
-   - Internal Sales to PS hand-off meeting
- 
-   - External Customer Project Kickoff: Use this [Kick-off slide template](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit#slide=id.g59bfc474c5_2_145) and this [agenda/meeting template](https://docs.google.com/document/d/1WPnBQUOT2dug8rPkA-VFzXtE1AlQJGMMROQPhHOh4Bg/edit). Alternatively, the actions and meeting minutes can be added directly to the [Project Definition Template](https://docs.google.com/spreadsheets/d/1t_vVPvzh0aGBBB-5tCcl8e7Gi_CbJ6hXGuRxSTyZ9fQ/edit?usp=sharing).
-   - Weekly project meeting (if applicable): Use [this template](https://docs.google.com/document/d/1WPnBQUOT2dug8rPkA-VFzXtE1AlQJGMMROQPhHOh4Bg/edit)
-   - Provide weekly Executive Status Report: Use [this template](https://docs.google.com/document/d/1tPsQbaq36zs4oKh6LXKXQPGy4Dmk7gbQfiZN4duu81o/edit)
-   - Change request (required for scope changes) use [this template] (https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)
-   - Project closure meeting: Use [this agenda template](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit)
-  
-1. PS Project Manager or PS Project Coordinator: Complete [this sign off workflow](/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
- 
-1. PS Project Manager or PS Project Coordinator: Complete this [financial wrap-up workflow](/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)
+12. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a PS Object is created in Salesforce and a PS project/issues is created in GitLab.  Then, a project owner is assigned; this can be Project Manager, or Professional Services Engineer (PSE).
