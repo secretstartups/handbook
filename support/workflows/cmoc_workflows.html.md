@@ -16,6 +16,8 @@ As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastruct
 
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. However, this document covers how we specifically use Status.io to perform those tasks.
 
+You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident. 
+
 ## Things To Know
 
 Before getting into the actual process of managing an incident, the following sections should be noted.
