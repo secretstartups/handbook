@@ -1,0 +1,109 @@
+---
+layout: handbook-page-toc
+title: Compliance Courses
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success, and overall business strategy. We want to support the growth of our GitLab team-members' competencies, skills, and knowledge by providing them with the tools they need and the opportunities to progress their own personal and professional development. 
+
+## Compliance Courses 
+
+GitLab has several compliance courses and resources. Explore the drop-downs below to learn more. 
+
+| Training     | Tool  | Frequency   |  Responsible Team   | 
+|---------|-----------------|------------------|------------------|  
+| [Anti-Harassment](/handbook/anti-harassment/)    | WILL Interactive | Onboarding <br> Varies based on Location | Learning & Development | 
+| [Security](/handbook/security/#training-delivery)    | KnowBe4 | Onboarding <br> Annually by the end of August | Security | 
+| Compliance    | Navex | Annual | Legal | 
+
+
+### WILL Interactive
+
+All team members are required to take harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+
+1. Log into BambooHR
+1. On the Training tab, click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.). The list of courses to choose from are: **Anti-Harassment Training for Non-U.S. Team Members**, **Anti-Harassment Training for Non-U.S. Supervisors**, **Anti-Harassment Training for U.S. Team Members**, or **Anti-Harassment Training for U.S. Supervisors**. You only need to complete one training. For managers and leaders, the course is 2 hours long, but you can stop and come back to it. For all other GitLab Team Members, this is 1 hour long.
+1. Click on the *Sign Up Now* link
+1. Enter in your name and GitLab email address
+1. Create a password
+1. You may be sent a link to verify your account
+1. Once you have logged in successfully, you will be taken to the course you selected in BambooHR. (You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.)
+1. Once completed, please upload a copy of your certificate in BambooHR in the *Employee Uploads* folder
+1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title
+1. Scroll down to *users* then click on *completion certificates* to download the PDFs
+
+
+If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
+
+Our [Anti-Harassment Policy](handbook/anti-harassment/?private=1) outlines guidelines, reporting and disciplinary action.  
+
+
+### Compliance Next 
+
+The Compliance Next community offers free membership and comes with tons of excellent resources and tools for compliance professionals and people interested in learning more about the compliance space.  
+
+You can create a free account on the [Compliance Next](https://www.navexglobal.com/compliancenext/) website using your own credentials. 
+
+One of the most unique aspects of Compliance Next is connecting directly with experts and peers. The platform offers different types of educational resources that you can watch, read, and use—all of which provide the ability to comment and ask questions to compliance professionals and communinity members.
+
+If you have any questions or need further help, please ping people ops in the `#peopleops` channel in slack.
+
+### Compliance Processing Steps for L&D Team
+
+#### Checking Compliance for Offboarded Team Members
+
+When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
+
+This step must be completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check ensures that GitLab is aware of, and making use of, all paid licenses.
+
+1. Navigate to the offboarding issue. Copy the user's email address.
+1. Collect Start Date: Linked to the offboarding issue is a merge request to remove the team member from relevant pages. Review the MR change log to check the start date of the team member. This start date will indicate which WILL Learning course the team member would have completed.
+1. Collect Location Information: On the same MR, make note of the team member's location.
+1. Collect Management Information: On the offboarding issue, check for the individual's title at GitLab and determine if they were a manager of people. If you cannot tell from the offboarding issue, check their Slack profile or refer to the GitLab Org Chart.
+1. Open the WILL Learning platform.
+1. Based on the team member's location, management level, and start date, navigate to the WILL Learning course, they would have been invited to take. For example, a team member who manages people joined GitLab in 2019, and lives outside of the USA would have been invited to take the `2019 Anti-Harassment Training for Supervisors` course. Click the `MANAGE` button to enter the course.
+1. Check for Completion: The following steps should be taken to determine the current status of the individual's WILL Learning license - either `Finished`, `In Progress`, or `Not Started`. Please note - if the user does not appear in the first WILL Learning course you check, attempt to look for the user in other appropriate courses. Note that at this time, there is no function in the WILL Learning platform to search all courses at once.
+
+     1. If a search for the user's email address returns a `Finished` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning course finished, no license to revoke`
+     1. If a search for the user's email address returns an `In Progress` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account representative to request a refund of the license.
+     1. If a search for the user's email address returns a `Not Started` status, check the de-provisioned box on the offboarding issue and comment on the issue `WILL Learning in progress, cannot revoke license`. Email our WILL Learning account representative to request a refund of the license.
+     1. If a search for the user's email address returns no results, follow the next steps to revoke the license.
+
+1. Revoke License: The following steps should be taken if you cannot find a record of the course status for the offboarding team member.
+
+     1. Within the appropriate WILL Learning course, click `Invite Participants`
+     1. Under the `Pending Invitations` section, click `View All`
+     1. Search the page using the team member's email address
+     1. If the user's name appears in the `Pending Invitations` section, click the `revoke` link to remove their access to the license
+     1. On the offboarding issue, check the de-provisioned box and comment on the issue `WILL Learning course not started, license revoked`
+
+1. When you have completed this process, be sure to shut off notifications on the offboarding issue to avoid inbox noise.
+
+
+#### Supporting New Managers of People at GitLab
+
+When new team members join the GitLab team as managers of people, the L&D team reminds them to take the assigned WILL Learning anti-harassment course.
+
+1. The employment bot will open a new issue for team members who are joining as managers of people
+1. Comment on this issue and tag the new manager with a friendly reminder to take their anti-harassment WILL Learning course.
+1. You can use the steps in the `Checking Compliance for Offboarded Team Members` section to determine if the new manager has completed the course
+1. If the user has already completed the course, consider posting a friendly thanks on their employment issue.
+1. Unfollow the employment issue to avoid future inbox noise.
+
+#### Supporting Transitioning team members to Managers of People
+
+When current team members transition to roles and become managers of people, the L&D team assigns a new anti-harassment course in WILL Learning for the team member to complete.
+
+1. The employment bot will open a new issue for team members who are transitioning to managers of people
+1. Find the user's location using their Slack or GitLab profile
+1. In WILL Learning, navigate to the appropriate training for supervisors based on this geographical area.
+1. In the course, click `Invite Participants` and copy the shareable link
+1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
+1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow the steps to revoke their license.
