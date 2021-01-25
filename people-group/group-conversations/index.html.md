@@ -46,7 +46,7 @@ Before you host your first Group Conversation, please be sure complete this [Gro
 
 The Moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits streaming a call to YouTube, starting or ending a recording and giving co-hosting permissions to others. 
 
-The Moderator of a Zoom call is the person who is in charge of starting the call i.e. initiating the countdown; streaming; updating the stream from public to private if a sensitive topic is mentioned, and keeping the meeting running efficiently and on time so that it does not go over the Quick Meeting time frame. 
+The Moderator of a Zoom call is the person who is in charge of starting the call i.e. initiating the streaming to YouTube; updating the stream from public to private if a sensitive topic is mentioned, and keeping the meeting running efficiently and on time so that it does not go over the Quick Meeting time frame. 
 
 ## For Attendees
 
@@ -160,7 +160,7 @@ The teams will assist with moderating calls where the audience is applicable to 
 
 ### Preparing for the Group Conversation
 
-All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel.  Guidelines around streaming including starting the countdown; initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
+All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel.  Guidelines around streaming including initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
 
 Additional links which may be useful when preparing to moderate a call include:
 - [The YouTube Livestreaming Introduction](https://support.google.com/youtube/answer/2474026?hl=en)
@@ -178,7 +178,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ### During the Call
 
-1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will initiate the countdown using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#countdown).
+1. It is important to start Start the Group Conversation at the exact time indicated within the calendar invite; it is at this point which you will start the livestream using the following [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-livestream).
 2. If an error which reads `Please grant necessary Privilege for Livestreaming` pops up, click on the option that appears beside the GitLab Unfiltered account in the middle of the page reading `Not Me` - you will then be prompted to sign in again, please do so and click `Go Live` afterwhich Zoom should indicate `Live on YouTube` in the upper left hand orner.
 3. Be sure to either close or mute the YouTube page to prevent an echo.
 4. In the event that you are unable to stream to YouTube for any reason, inform the Host that you will record the conversation via Zoom and upload the video to YouTube after the conversation has ended. In addition to this be sure to post the YouTube link to the #group-conversations Slack channel once it has been uploaded. 
