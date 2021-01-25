@@ -11,7 +11,9 @@ title: "On-call handover"
 
 ## On-call handover
 
-The [on-call-handovers](https://gitlab.com/gitlab-com/gl-infra/on-call-handovers/issues) project contains issues for each SRE's on-call shift. The outgoing EOC records the activities of their shift using the `handover` issue template to indicate a handoff and assigns it to the incoming EOC. The issue numbers in the project should remain sequential in the order of the shifts.
+The [on-call-handovers](https://gitlab.com/gitlab-com/gl-infra/on-call-handovers/issues) project contains issues for each SRE's on-call shift. The outgoing EOC records the activities of their shift using the `handover` issue template to indicate a handoff and assigns it to the incoming EOC. The `/sre-oncall [handover]` slack command can also be used in the `#production` channel to simplify this process. It will automatically create a new issue and pre-populate some information such as outgoing/incoming EOC handles, open/closed incidents, resolved alerts, etc.
+
+At the end of a SRE's on-call shift, a summary comment of notable events, incidents, etc. should be posted to the [Weekly Reliability (SRE) Team Newsletter](ihttps://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues?label_name[]=Reliability-Team-Newsletter) as a comment. While we do not currently have a prescriptive format for this summary, EOCs can reference [this thread](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/12323#note_487947960) for some examples; what specific information is deemed most notable for a given shift will necessarily differ week-to-week, and is left to the discretion of the outgoing EOC.
 
 Once a week the production team has an on-call handover for changing the on-call shift. Except for the current and next on-call this meeting is optional but we encourage anyone who is interested in GitLab.com operations to attend.
 
