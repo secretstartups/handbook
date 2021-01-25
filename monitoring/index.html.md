@@ -138,8 +138,8 @@ The dashboards for stage groups are at a very early stage. All contributions are
 #### Public Whitebox Monitoring
 
 * [Fleet overview](https://dashboards.gitlab.com/dashboard/db/fleet-overview): useful to see the fleet status from the inside of GitLab.com. Use this graph to quickly see if the workers or the database are under heavy load, and to check load balancer bandwidth.
-* [PostgresSQL Overview](https://dashboards.gitlab.com/dashboard/db/postgresql-overview): useful to understand how is the database behaving in depth. Use this graph to review if we have spikes of exclusive locks, active or idle in transaction processes
-* [PostgresSQL Queries](https://dashboards.gitlab.com/dashboard/db/postgresql-queries) use this dashboard to understand if we have blocked or slow queries, dead tuples, etc.
+* [PostgreSQL Overview](https://dashboards.gitlab.com/dashboard/db/postgresql-overview): useful to understand how is the database behaving in depth. Use this graph to review if we have spikes of exclusive locks, active or idle in transaction processes
+* [PostgreSQL Queries](https://dashboards.gitlab.com/dashboard/db/postgresql-queries) use this dashboard to understand if we have blocked or slow queries, dead tuples, etc.
 * [Storage Stats](https://dashboards.gitlab.com/dashboard/db/storage-stats) use this dashboard to understand storage use and performance.
 * [Cloudflare traffic overview](https://dashboards.gitlab.com/d/sPqgMv9Zk/cloudflare-traffic-overview): use this dashboard to understand cloudflare traffic
 * [Logging](https://dashboards.gitlab.com/d/USVj3qHmk/logging): use this dashboard to understand how Fluentd, StackDriver and PubSub are performing.
