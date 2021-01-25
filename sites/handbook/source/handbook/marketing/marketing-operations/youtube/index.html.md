@@ -225,11 +225,11 @@ Never say: livestream or recording since those are ambiguous.
 
 There are some recordings where it is not clear whether they should be Private or Public or they require a review by the Legal team before posting publicly on YouTube. It would be disingenuous to tell our team that the recording is Private and then change the recording to Public.  In this scenario, we should state that this a `Reviewed Stream` or a `Reviewed Recording`.  This stream will be initially Private and upon Legal review could be changed to Public.
 
-## Countdown
+## Starting a Livestream
 
 The below instructions apply to either livestreams to YouTube or recorded videos that are uploaded to YouTube soon afterwards.
 
-1. The moderator asks the host "NAME OF PERSON, can I initiate the countdown for this public/private stream?" and waits for confirmation. The moderator counts down from three ("I'll start the countdown for this public/private stream/recording in 3, 2, 1"), and nothing else is said by the moderator beyond this point so that so it is not accidentally recorded. Click `Live to YouTube` and start the livestream. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
+1. Before the Moderator  clicks `Live to YouTube` and start the livestream, the moderator will tell the host, 'Please begin speaking once you see the YouTube Icon in the top left corner of Zoom'. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
 1. The host should do an introduction stating who they are, what their role is, and what the meeting is about, e.g. "I am Jane Doe, the VP of Widget Production, and today's Group Conversation is about the molding phase of widget production."
 1. Please note that if the recording starts a 'this meeting is being recorded' message the host should talk over that because otherwise the recorded video will needed editing to prevent an awkward pause.
 
