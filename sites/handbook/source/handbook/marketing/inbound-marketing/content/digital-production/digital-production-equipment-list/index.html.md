@@ -74,7 +74,7 @@ twitter_creator: "@gitlab"
 
 - Elgato Game Capture HD60 S - [Example](https://www.amazon.com/Elgato-Standalone-Recording-Zero-Lag-Passthrough/dp/B07XB6VNLJ/ref=sr_1_1_sspa?dchild=1&keywords=hd60%2Bs%2B&qid=1605213537&s=electronics&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTkFYRlBIWVExNkxJJmVuY3J5cHRlZElkPUEwMjUxNTc0MllDVUZSSDk4T0tWWSZlbmNyeXB0ZWRBZElkPUEwNDk5MDMwN1c1QkJYQ0FGWDhQJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
 
-##### Miscellanious 
+##### Miscellaneous 
 
 - Rosco Diffusion Filter Kit (12 x 12") - [Example](https://www.bhphotovideo.com/c/product/1100312-REG/rosco_110120120001_diffusion_filter_kit_12.html).   
  _This a plastic-like material that is placed over panel lights to create a softer and more flattering look._       
@@ -110,7 +110,7 @@ twitter_creator: "@gitlab"
 
 - Teleprompter for Laptops - [Example](https://www.amazon.com/Glide-Gear-Laptop-Smartphone-Teleprompter/dp/B07X9VSZMM/)
 
-#### Miscellanious 
+#### Miscellaneous 
 
 - Rosco Diffusion Filter Kit (12 x 12") - [Example](https://www.bhphotovideo.com/c/product/1100312-REG/rosco_110120120001_diffusion_filter_kit_12.html).   
  _This a plastic-like material that is placed over panel lights to create a softer and more flattering look._       
@@ -171,7 +171,7 @@ _This is a production switcher that will allow you to mix multiple feeds into yo
 - Reflector Kit [Example](https://www.bhphotovideo.com/c/product/1378889-REG/impact_5_in_1_collapsible_circular_reflector.html).  
 _This kit will allow you to create shade for yourself wherever you're shooting (to prevent unflattering shadows), or possibly reflect light into your face in order to smooth out lighting._ 
 
-##### Miscellanious 
+##### Miscellaneous 
 
 - Rosco Diffusion Filter Kit (12 x 12") - [Example](https://www.bhphotovideo.com/c/product/1100312-REG/rosco_110120120001_diffusion_filter_kit_12.html).   
  _This a plastic-like material that is placed over panel lights to create a softer and more flattering look._       
