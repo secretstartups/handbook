@@ -193,6 +193,32 @@ These guidelines apply to all issues we use for planning and scheduling work wit
 
 It's okay to create specific engineering driven implementation issues for more complex features. These would be called **Child Issues** and they should always link back to their parent. If one issue would spawn many child issues, consider creating an Epic.
 
+### 🖇️ Issue Development Workflow
+
+While ["Workflow Labels"](#workflow-labels) mentioned above are used primarily for setting up the PM-EM communication, the group has also adopted a certain development workflow for the issues to make the process reliable and predictable.
+
+Once you're ready to work on an issue, you mark it with the `workflow::"in dev"` label as the starting point. From there, the process primarily follows the guideline:
+
+```mermaid
+graph LR
+
+  classDef workflowLabel fill:#428BCA,color:#fff;
+
+  A(workflow::in dev):::workflowLabel
+  B(workflow::in review):::workflowLabel
+  C(workflow::verification):::workflowLabel
+
+  A -- Push an MR --> B
+  B -- Merged --> C
+  C --> D{Works on staging?}
+  D -- YES --> CLOSE
+  D -- NO --> E[New MR]
+  E --> A
+
+```
+
+It is advised to manually transition issues from one label to another and not use the "Closes" hook in the description of an MR. This will prevent automatically closing issues without them being verified on staging.
+
 ### 🏋️‍♂️ Capacity planning
 
 We use weights to plan capacity in our team for any given milestone. Our [planning sheet][planning-sheet] uses following formula to calculate the teams capacity:
