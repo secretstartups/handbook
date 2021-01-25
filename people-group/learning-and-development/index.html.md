@@ -303,12 +303,7 @@ We are also in the process of launching LinkedIn Learning internally for all tea
 
 ## Compliance Courses 
 
-GitLab has several compliance courses and resources. Explore the Compliance Courses page to learn more. 
-
-
-
-
-
+GitLab has several compliance courses and resources. Explore the [Compliance Courses](/handbook/people-group/learning-and-development/compliance-courses) page to learn more. 
 
 ## Performance Indicators
 
