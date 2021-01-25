@@ -554,7 +554,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click Save
 
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
-Currently any form starting with these are actively being added into a program and you do not need to add a new one.
+Currently any form starting with these parameters are actively being added into a program and you do not need to add a new one.
 
 | Campaign                                 | Campaign Parameter for Tracking |
 |------------------------------------------|---------------------------------|
