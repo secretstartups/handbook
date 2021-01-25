@@ -25,7 +25,7 @@ GitLab provides qualified educational institutions with three different options 
 Qualifying educational institutions may receive a standard 20% discount off the current GitLab list price for each tier, either Self-Hosted or Saas. The discount will be applied at the discretion of the account owner and their regional sales leadership where applicable.
 
 * The discount is available as of 2021-02-01. The discount will not be retroactively applied to close-won deals or true-ups.
-* The discount can be applied at the time of the renewal if it is after 2020-02-01.
+* The discount can be applied at the time of the renewal if it is after 2021-02-01.
 * The discount is not currently available to be purchased directly in the GitLab Customer Portal.
 
 
