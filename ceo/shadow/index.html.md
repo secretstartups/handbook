@@ -587,6 +587,7 @@ For insights on maximizing a remote CEO Shadow rotation, view takeaway recap vid
 1. Depending on your time zone, working in Pacific Time may be an adjustment to your typical working hours. [Plan ahead,](/company/culture/all-remote/getting-started/#establish-routine-with-family-and-friends) especially if you're balancing responsibilities with family, pets, roommates, etc.
 1. Consider switching locations in your home or workspace during the CEO's 1:1 meetings. Since you [won't be taking active notes](#responsibilities) in these calls, this is a good opportunity to change position or scenery intermittently throughout the day.
 1. Particularly in a remote CEO Shadow rotation, life is more available to sidetrack you. It is OK if you need to drop from a meeting to handle tasks at home, from childcare to answering the door, or anything in between. GitLab puts [family and friends first, work second](/handbook/values/#family-and-friends-first-work-second). If feasible, communicate these instances in the `#ceo-shadow` Slack channel so your co-shadow can assist with ongoing note-taking/tasks.
+1. Consider taking one or two days off after your rotation. Being a CEO shadow can be intense. Be aware of [symptoms of burnout](/handbook/paid-time-off/#recognizing-burnout).
 
 ## Mission Control Guide
 
