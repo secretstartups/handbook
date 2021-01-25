@@ -360,8 +360,10 @@ This automation identifies potential and popular proposals using upvotes. This h
 
 Merge requests which have an author that is not a member of `gitlab-org` will have a label of `~"Community contribution"` applied. This informs the GitLab community team about new community contributions.
 
-* Automation Condition: Merge request with author that is not in the `gitlab-org` group.
-* Frequency: `gitlab-org` daily, `www-gitlab-com` daily. **A realtime welcome message with triage-serverless for `gitlab-org` applies ~"Community Contribution"`**
+* Automation Condition:
+  * Merge request under `gitlab-org` with author that is not in the `gitlab-org` group.
+  * Merge request under `gitlab-com/www-gitlab-com` with author that is not in the `gitlab-com` group.
+* Frequency: daily, and **a realtime welcome message with triage-serverless for applies ~"Community contribution"`**
 * Automation Action:
   *  The label `~"Community contribution"` is applied
 *  Example: <https://gitlab.com/gitlab-org/gitlab-ce/merge_requests/30909/#note_0a1c0937d1b2851e9695fb89848d8425dcf28e00>
