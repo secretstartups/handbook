@@ -14,65 +14,7 @@ title: "Release Stage"
 For an understanding of what this stage ecapsulates, take a look at [the product
 vision](/direction/release/).
 
-For an understanding of our UX Vision and Strategy, take a look at the [Release UX Strategy](/handbook/engineering/ux/stage-group-ux-strategy/release/).
-
-Check out our Release Stage Vision:
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/pzGCishRoh4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-### Release 3-year vision process 
-
-We are working toward creating [3-year vision mock-ups](https://gitlab.com/groups/gitlab-org/-/epics/3825) to effectively orchestrate features across Release Management and Progressive Delivery. This method has several advantages: 
-- Enablement for Sales and the Field on the Release Stage vision that is tangible 
-- Support long-term Investor Pitches to inform the future direction of GitLab's offering 
-- Coordination between groups within the Stage with a guide for where we would like to be 
-- Empowers engineering to effectively contribute new ideas not already documented 
-
-These vision mocks are a journey and will produce living assets. This is roughly an 8-10 week process with focused on delivering high-fidelity designs for future product functionality or user experiences. The steps we follow are: 
-
-**Step 1:** Evaluate current Stage Direction and attach big picture user flows. Example: [Release Stage Google Document](https://docs.google.com/document/d/1esRiYO8xXi3U9ArH4jzyF_1mJCnu4VBZIo56f3RUDBs/edit?usp=sharing)
-
-**Step 2:** Identify 1-2 candidates to create user flows for an experience. Example: [Release 3-year Mock Flow A](https://gitlab.com/gitlab-org/gitlab/-/issues/227428)
-
-> Tip: For stage wide visions, try to think of user flows that work across categories and showcase the end to end functionality of GitLab 
-
-**Step 3:** UX Designer will story board the user flow  
-
-**Step 4:** Product Management and UX review the low fidelity wireframes to define final outputs for high-fidelity mocks 
-
-**Step 5:** UX creates Figma based high-fidelity mocks
-
-**Step 6:** Product Management merges screen shots of mocks to Direction Page and creates a walk through of mocks for Sales Enablement 
-
-**Step 7:** Share Unfiltered recording in #product, #s_yourstage, #g_yourgroups and other relevant channels. 
-
-## [North Star Metrics](/handbook/product/metrics/#north-star-metric)
-
-From [Amplitude's North Star Metric handbook](https://amplitude.com/north-star), a north star metric is a single leading indicator for performance of a product. Typically this can be tracked as a stage monthly active user [SMAU](https://jmeshell-funnel.about.gitlab-review.app/handbook/product/metrics/index.html#stage-monthly-active-users-smau).
-
-### Release North Star Metrics 
-The Release Management & Progressive Delivery teams are prioritizing features that will drive `count of deployments` from GitLab. 
-
-Release Management is about unblocking users as they continuously deliver value to their customers. A part of this can be seen in how users create Release tags to track production deployments and in that adoption of the Release features, users are deploying more with GitLab. We can also see a correlation between users adopting Releases to deploy with GitLab and leveraging more paid features. 
-
-Progressive Delivery is about the process of pushing changes to a product iteratively. The ultimate goal is to improve delivery times for new features and mitigate risk by controlling the audience that is exposed to them. This can be seen by users that use feature flags and advanced deployments as part of their Continuous Delivery pipeline. We can also see Continuous Delivery as an entry point to downstream stages, such as [Configure](https://about.gitlab.com/stages-devops-lifecycle/configure/) and [Monitor](https://about.gitlab.com/stages-devops-lifecycle/monitor/).
-
-Our SSOT for tracking this adoption is in the [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/451468/Release-Stage-Dashboard?widget=5831900&udv=990415). 
-
-### Release SMAU & Release Management & Progressive Delivery GMAU Usage Funnel  
-
-We expect to track the journey of users through the following funnel: 
-
-[![](https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZSBQYWdlIFZpZXdzKSBcbiAgQWN0aXZhdGlvbiAtLXw-IFJldGVudGlvblxuXHRBY3RpdmF0aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlP1xuXHRBY3RpdmF0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZXMgQ3JlYXRlZCkgXHRcdFx0XHRcbiAgUmV0ZW50aW9uIC0tfD4gUmV2ZW51ZVxuXHRSZXRlbnRpb24gOiBBcmUgdXNlcnMgYXBwbHlpbmcgdGhlIGZlYXR1cmUgb3ZlciB0aW1lP1xuXHRSZXRlbnRpb246IE1lYXN1cmVtZW50IChDb3VudCBvZiBEZXBsb3ltZW50cykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoUmF0aW8gb2YgUmV2ZW51ZSBwZXIgRGVwbG95bWVudCkgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKENvdW50IG9mIFJlbGVhc2UgUGFnZSBWaWV3cyBmcm9tIFNvY2lhbCBvciBEaXJlY3QgTGluaykgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gIEFjcXVpc3Rpb24gLS18PiBBY3RpdmF0aW9uXG5cdEFjcXVpc3Rpb24gOiBBcmUgdXNlcnMgYXdhcmUgb2YgdGhlIHByb2R1Y3Qgb3IgZmVhdHVyZSBzZXQ_ICAgIFxuXHRBY3F1aXN0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZSBQYWdlIFZpZXdzKSBcbiAgQWN0aXZhdGlvbiAtLXw-IFJldGVudGlvblxuXHRBY3RpdmF0aW9uIDogQXJlIHVzZXJzIGFwcGx5aW5nIHRoZSBmZWF0dXJlP1xuXHRBY3RpdmF0aW9uOiBNZWFzdXJlbWVudCAoVG90YWwgQ291bnQgb2YgUmVsZWFzZXMgQ3JlYXRlZCkgXHRcdFx0XHRcbiAgUmV0ZW50aW9uIC0tfD4gUmV2ZW51ZVxuXHRSZXRlbnRpb24gOiBBcmUgdXNlcnMgYXBwbHlpbmcgdGhlIGZlYXR1cmUgb3ZlciB0aW1lP1xuXHRSZXRlbnRpb246IE1lYXN1cmVtZW50IChDb3VudCBvZiBEZXBsb3ltZW50cykgXG4gIFJldmVudWUgLS18PiBSZWZlcnJhbFxuXHRSZXZlbnVlIDogQXJlIHVzZXJzIHBheWluZyBmb3IgdGhlIGZlYXR1cmVzP1xuXHRSZXZlbnVlOiBNZWFzdXJlbWVudCAoUmF0aW8gb2YgUmV2ZW51ZSBwZXIgRGVwbG95bWVudCkgXG4gIFJlZmVycmFsIC0tfD4gQWNxdWlzdGlvblxuXHRSZWZlcnJhbCA6IEFyZSB1c2VycyBlbmNvdXJhZ2luZyBvdGhlcnMgdG8gdXNlIHRoZSBmZWF0dXJlP1xuXHRSZWZlcnJhbDogTWVhc3VyZW1lbnQgKENvdW50IG9mIFJlbGVhc2UgUGFnZSBWaWV3cyBmcm9tIFNvY2lhbCBvciBEaXJlY3QgTGluaykgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
-
-We completed the implementation of Stage Monthly Active Users in [gitlab#882](https://gitlab.com/gitlab-com/Product/-/issues/882). 
-
-Progressive Delivery GMAU will be instremented as part of [product#1416](https://gitlab.com/gitlab-com/Product/-/issues/1416) and are detailed in the [Ops Section Product Performance Indicators](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/) .
-
-
+For an understanding of our UX Vision and Strategy, take a look at the [Release UX Strategy](/handbook/engineering/ux/stage-group-ux-strategy/release/) or the [Release 3-year vision mock-ups](https://gitlab.com/groups/gitlab-org/-/epics/3825).
 
 ## Mission
 
@@ -85,8 +27,6 @@ This Stage maps to [Release](/handbook/product/categories/#release) devops stage
 
 The following people are permanent members of the Release Stage:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Release:Progressive Delivery') %>
-<%= direct_team(manager_role: 'Backend Engineering Manager, Release:Release Management') %>
 <%= direct_team(manager_role: 'Frontend Engineering Manager, Release (CD)') %>
 
 ## Stable Counterparts
