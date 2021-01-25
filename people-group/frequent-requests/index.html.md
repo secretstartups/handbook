@@ -24,6 +24,8 @@ GitLab uses Slack profiles as an internal team directory, where team members can
 
 If you need a letter from GitLab verifying your employment/contractor status, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
+If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/1fwN-iflosTweKKUrYrYwj-5HkRnlTsSZcoqKVJ0M5WE/edit). 
+
 ## Letter Confirming Remote Employment
 {: #letter-confirming-remote-employment}
 
