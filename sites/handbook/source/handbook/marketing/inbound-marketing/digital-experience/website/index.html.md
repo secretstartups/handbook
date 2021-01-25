@@ -478,8 +478,8 @@ Approvals should be gathered from the responsible PMs, PMMs, and EMs. Also menti
 To update the responsible person for a role, follow these steps:
 
 1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project
-1. Change the name of the responsible person in `source/data/stages.yml` at the relevant position e.g. `pm: John Doe`.
-1. Add the markdown reference link of the responsible person in `source/includes/product/_categories.erb`
+1. Change the name of the responsible person in `data/stages.yml` at the relevant position e.g. `pm: John Doe`.
+1. Add the markdown reference link of the responsible person in `sites/handbook/source/includes/product/_categories-names.erb`
 
 Here's an [example Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22765).
 
