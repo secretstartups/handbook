@@ -38,7 +38,7 @@ With Zoom, participants can ask questions through the Zoom chat and through the 
 These are the people that signed up to be part of the webinar but are not any of the above roles. They will be able to ask questions but not answer them.
 
 ### Starting the webinar
-Ensure all non-participants join 5 minutes before the start of the webinar and only start livestreaming once everyone has joined and a countdown has been completed.
+Ensure all non-participants join 5 minutes before the start of the webinar and only start livestreaming once everyone has joined.
 
 You must additionally start the livestream to YouTube (an additional step), with instructions [detailed on Zoom's support page](https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live). In the event that YouTube livestreaming refuses to begin, it's likely that a parallel livestream is happening already on GitLab Unfiltered. If this happens, proceed with the Zoom webinar livestream and upload the recording to GitLab Unfiltered per the instructions below.
 
