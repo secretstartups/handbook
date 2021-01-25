@@ -80,7 +80,7 @@ The 30% ruling is a mutual application filed by the employee and GitLab BV as th
 1. The employee must have specific experience or expertise that is not or rarely available in the Netherlands.
 1. The gross annual salary has to surpass a minimum (adjusted annually).
 
-The decision from the Dutch Tax Authorities can take up to three months. Once your 30% ruling is granted, the application will be made retroactively in the payroll administration to your starting date. Read more from the Dutch tax authorities by clicking this [link](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/).
+**The decision from the Dutch Tax Authorities can take up to four months.** Once your 30% ruling is granted, the application will be made retroactively in the payroll administration to your starting date. Read more from the Dutch tax authorities by clicking this [link](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/).
 
 #### Transferring the 30% Ruling from a Previous Employer
 
