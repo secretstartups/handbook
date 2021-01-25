@@ -274,6 +274,10 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
 
+**Short Term Disability Claim Process**
+
+1. Employee call Cigna intake center and completes verbal authorization. Employee recieves Employee Assitance Program referral to help manage work-life balance. Within 3 business days the employee is contacted by a Cigna Claim Manager if additional information is needed. After 3 business days a estimated return to work date is estabilished and expectations for employee are set. If claim is denied, the employee will recieve a call from Cigna explaining the decision. 
+
 ## Employee Assistance Program
 
 GitLab team members in the United States are eligible for a complementary [Employee Assistance program](hhttps://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
@@ -452,7 +456,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-This section will be populated once we have the form from Cigna. 
+1. The team member will fill out the [Assignment Of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and send to the total rewards team.  
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
 This section will be populated once we have the form from Cigna. 
@@ -563,18 +567,11 @@ TODO
 
 This quarterly audit is conducted to identify any differences in enrollment between the carrier records and what a team member has elected in Lumity.
 
-#### UHC Medical
-
-TODO
 
 #### Kaiser Medical
 
 TODO
 
 #### Cigna Dental/Vision
-
-TODO
-
-#### UHC Life/Disability
 
 TODO
