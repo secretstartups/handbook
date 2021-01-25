@@ -510,6 +510,8 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 Admin process for reporting from EdGraph is coming soon.
 
+
+
 ## Support
 
 Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.

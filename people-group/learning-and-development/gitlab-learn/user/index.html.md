@@ -30,8 +30,13 @@ Review the following terms to get familiar with language used in this documentat
 
 ## Support options for GitLab Learn users
 
-outline options where users should go to get support in gitlab learn, for team members and wider community
+If you're looking for support in getting your questions answered, please refer to the following resources:
 
+| Audience | Support |
+| ----- | ----- |
+| GitLab team members | Please reach out to the L&D team in Slack for support via the [#learninganddevelopment channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/C6H8647PS-1611605514.007500) |
+| Customers | Please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) for help from our Support or Professional Services team |
+| Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). Please note that free users do not include paid support. |
 
 
 
