@@ -5,13 +5,13 @@ title: "GitLab General Questions"
 This short quiz is about general aspects related to GitLab. They are open questions which will allow people to prepare and retest without losing accuracy and will make sharing easier. Answer each question in a Google Doc and schedule time with your manager to review your answers when completed.
 
 
-1. What is the difference between GitLab Core / Free and GitLab's paid tiers?
+1. What is the difference between GitLab Free and GitLab's paid tiers?
 
 1. What does it mean for GitLab to be "self-managed"?
 
 1. What does “open source” mean?
 
-1. What is the difference between GitLab self-managed and GitLab.com?
+1. What is the difference between GitLab self-managed and SaaS?
 
 1. Which are the professional services that GitLab offers to its customers?
 
