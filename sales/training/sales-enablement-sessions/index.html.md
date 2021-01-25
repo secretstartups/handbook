@@ -25,9 +25,13 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
 | Jan 21 | *No sessions during last 2 weeks of the quarter*
 | Jan 28 | *No sessions during last 2 weeks of the quarter*
-                                                                                                                                                            
 
+                                                                                                                                  
+                                                                                                                                   
 ## Past Sessions
+<details>
+<summary markdown="span">Click here to see links to past sessions on YouTube</summary>
+
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
@@ -91,10 +95,12 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2019-08-01 | **[Sales and Customer Enablement Update](https://youtu.be/UtPfNfmGnvo)** | Public |
 | 2019-07-11 | **[Social Selling 101](https://youtu.be/Ir7od3stk70)** | Public |
 
+</details>
 
-Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).
 
-### Get an invite to the weekly session
+**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
+
+## Get an invite to the weekly session
 
 To get a calendar invite to the weekly Sales Enablement session, make sure you are added to the one of the following email groups.
 
@@ -104,7 +110,7 @@ To get a calendar invite to the weekly Sales Enablement session, make sure you a
 
 You can [fill out an access request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) to request access to the email group. These groups are invited to the meeting so that each individual person does not need an invite.
 
-### Training Playlist
+## Training Playlist
 
 There are a few places to see previous Sales Enablement sessions:
 
@@ -113,7 +119,7 @@ There are a few places to see previous Sales Enablement sessions:
 - [Sales enablement Youtube playlist](https://www.YouTube.com/watch?v=ZyyBq3_rzJo&list=PLFGfElNsQthYe-_LZdge1SVc1XEM1bQfG) on GitLab YouTube
 - Historical sessions that were recorded in Google drive can be accessed via this [deprecated spreadsheet](https://docs.google.com/spreadsheets/d/1ETY7FfCzb2q9h2EkYttlW_Qpl7IHUF-F2rOJG2W03Yk/edit#gid=0)
 
-### Recording
+## Recording
 
 #### Public vs Private
 
@@ -122,7 +128,7 @@ There are a few places to see previous Sales Enablement sessions:
 - At the start of every session, and before moving into Q&A, the facilitator will announce to the audience if the call is public or private
 - Here is a [how-to video](https://www.youtube.com/watch?v=LKZ23pRfpBg&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=33&t=0s) on accessing private videos on GitLab Unfiltered.
 
-### Enablement pages
+## Enablement pages
 - [GitLab CI/CD for GitHub FAQ](/handbook/marketing/strategic-marketing/enablement/github-ci-cd-faq/)
 - [Cloud Native Ecosystem](/handbook/marketing/strategic-marketing/enablement/cloud-native-ecosystem/)
 - [Enterprise IT Roles](/handbook/marketing/strategic-marketing/enterprise-it-roles/)
@@ -131,18 +137,17 @@ There are a few places to see previous Sales Enablement sessions:
 - [GitLab.com Subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
 
-### To request new sales enablement sessions
+## To request new sales enablement sessions
 - Complete and submit this [Sales Enablement Session Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_request)
 - For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
 
-### Scheduling trainings
+## Scheduling trainings
 
 **4-6 weeks before the start of a new quarter**
-*   Solicit input from sales leaders, product marketing, Channel, Alliances and others (e.g. Sales Ops) on sales enablement topics for the next quarter
+*   Solicit input from sales leaders, Product Marketing, Channel, Alliances, Competitive Intelligence, Analyst Relations, and others (e.g. Sales Ops) on sales enablement topics for the next quarter
 
 **2-4 weeks before the start of a new quarter**
 *   Alignment call to finalize topics & tentative schedule with
-    *   Manager, Product Marketing (John Jeremiah)
     *   Sales Training Facilitator (John Blevins)
     *   Director, Sales & Customer Enablement (David Somers)
 *   After alignment call, John Blevins to open issues for each enablement session with
@@ -171,16 +176,16 @@ There are a few places to see previous Sales Enablement sessions:
   - Move the issue to the `status:scheduled` column.
   - Manually drag the issue to order issues in the column by date.
 
-### Enablement calendar
+## Enablement calendar
 Sales enablement sessions are scheduled on the [Sales Enablement calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_5n3g60l58thum9aovp8iisav34%40group.calendar.google.com&ctz=America%2FLos_Angeles) so that everyone on the Sales and Customer Enablement and PMM team has the ability to edit the calendar event.
 
-### How to conduct a sales enablement training
+## How to conduct a sales enablement training
 
 - Each training session has a [speaker](#speaker) and a [moderator](#moderator)
 - Sessions are 30 minutes long
 - The presentation portion should be 15 minutes leaving 15 minutes for Q&A
 
-### Speaker
+## Speaker
 
 - Create your content as a handbook page (don't use a slide deck)
   - Create a new directory under `/handbook/sales/training/sales-enablement-sessions/enablement/` with the title of your talk
@@ -207,7 +212,7 @@ Sales enablement sessions are scheduled on the [Sales Enablement calendar](https
   - Add links to any other pages you need to reference on this page so you can present from training page.
   - Add a link to the training page from this page in the [#enablement-pages](#enablement-pages) section.
 
-### Moderator
+## Moderator
 
 The moderator should serve as the host of the call and overall wingperson for the presenter. The moderator monitors chat to raise questions to the presenter and searches for links that are mentioned on the call to make sure they get linked in the handbook page for the training.
 
