@@ -28,6 +28,12 @@ Review the following terms to get familiar with language used in this documentat
 | GitLab Learn | GitLab's EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
+## Support options for GitLab Learn users
+
+outline options where users should go to get support in gitlab learn, for team members and wider community
+
+
+
 
 ### First time login to GitLab Learn
 

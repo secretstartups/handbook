@@ -510,6 +510,10 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 Admin process for reporting from EdGraph is coming soon.
 
+## Support
+
+Outline the google group and direction of support tickets for users in GitLab Learn
+
 
 
 
