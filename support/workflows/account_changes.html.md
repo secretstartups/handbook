@@ -23,7 +23,7 @@ There are two main situations where action may need to be taken on behalf of the
 
 ### User Action First
 
-Following our [Security Policy on Access to Repositories](/security/#privacy-repositories), actions should always be taken by the user whenever possible.
+Following our [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq), actions should always be taken by the user whenever possible.
 
 For example, users should be deleting their own projects, but if they encounter an error every time they access the settings page, then staff can intervene with permission.
 
