@@ -278,11 +278,11 @@ How to create an analyst report page in 5 not-so-easy steps.
   - This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR. 
 2. Click on the edit tab. It's on the left under the GitLab logo and looks like `</>`
 3. Next to the word “edit”, click on “new file” icon (looks like a page with a plus) then add the path 
-  - The path will be `/source/analysts/includes/` plus the file name for the report you are adding using the `.html.md` file extension. `<analyst>-<report><year>.html.md` 
-  - For example: `/source/analysts/includes/gartner-eapt20.html.md` 
+  - The path will be `/sites/marketing/source/analysts/includes/` plus the file name for the report you are adding using the `.html.md` file extension. `<analyst>-<report><year>.html.md` 
+  - For example: `/sites/marketing/source/analysts/includes/gartner-eapt20.html.md` 
   - This should create a new empty file for you.  
 4. Copy an existing include (be sure to leave in the disclaimer at the bottom) 
-  - For example: [https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/analysts/includes/gartner-eapt.html.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/analysts/includes/gartner-eapt.html.md) 
+  - For example: [https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/analysts/includes/gartner-eapt.html.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/analysts/includes/gartner-eapt.html.md) 
 
 5. Update the content 
 6. Commit that change to the MR branch 
@@ -302,7 +302,7 @@ How to create an analyst report page in 5 not-so-easy steps.
 #### AR Part 4: Edit the haml file
   
 1. Open the WebIDE from your MR. This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR. 
- 2. Type “t” to open up the fuzzy finder and search for the `source/includes/forrester-reports.html.haml` file. Open it in the WebIDE 
+ 2. Type “t” to open up the fuzzy finder and search for the `/sites/marketing/source/includes/forrester-reports.html.haml` file. Open it in the WebIDE 
  3. Copy a “section” and paste it at the top underneath `.forrester-waves-container` This is a tricky step because the indentation needs to be exactly the same as the other sections. When you copy you need to copy all the spaces indenting the line. When you paste, be sure to paste with your current not indented at all. This should give you the same spacing. For example: 
   
 ```
