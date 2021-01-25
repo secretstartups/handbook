@@ -465,7 +465,7 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 1. In PathFactory, click the gear icon in the top right navigation and select `Languages` under `User Experience`.
 1. Click the `Add Language` button in the top right or in the left sidebar under the other language configurations.
 1. Select the language from the drop down menu.
-1. [Follow the instructions on the Smartling handbook page](/handbook/marketing/marketing-operations/smartling/#csv) to submit your CSV for translations. Please ensure that each promoter is accounted for in your translation request so that others can use this language configuration (not just for the promoters you intend to use in your campaign). 
+1. If there are sections of the langauge configuration that are not translated in your selected language, [please open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_request).
 
 ## PathFactory Tracking
 
