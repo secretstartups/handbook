@@ -47,6 +47,9 @@ To streamline process of engaging EdCast in support realted questions, we've cre
 1. Following up on questions asked during office hour sessions
 
 
+EdCast will be a single-channel guest for a temporary period, currently through the end of February 2021, as we complete our final launches on the EdCast platform.
+
+
 GitLab team memebers should following these best practices when interacting with the Edcast team in Slack.
 
 1. Do not expect an immediate response from EdCast in Slack. Assume their team is checking Slack approximately 1x per day, similar to the cadence of email
