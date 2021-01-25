@@ -512,7 +512,42 @@ Admin process for reporting from EdGraph is coming soon.
 
 ## Support
 
-Outline the google group and direction of support tickets for users in GitLab Learn
+Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+
+```mermaid
+graph TD
+    A[User Quetion] --> B[Determine user audience]
+    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Customer| E[Support ticket by PS]
+    B -->|Community Member| F[Support ticket by NA]
+```
+
+### Team Member Support Workflow
+
+### Professional Services Support
+
+The workflow for customers using the LXP will be determined by the Professional Services team.
+
+### Community Support Workflow
+
+The workflow for community members using the LXP has not yet been outlined.
+
+### EdCast notification emails
+
+EdCast sends notification emails ona cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
+
+1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
+1. Any emails sent to this email address will receive the following auto-responded message:
+
+`Thanks for using GitLab Learn and for reaching out to our team!
+In order to get your support question to the right team, please follow the instructions below:
+Before reaching out for additional support, please review our [GitLab Learn User Documentation](/handbook/people-group/learning-and-development/gitlab-learn/user/)
+1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
+2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
+Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
+Sincerely,
+The GitLab Learning and Development Team`
+
 
 
 
