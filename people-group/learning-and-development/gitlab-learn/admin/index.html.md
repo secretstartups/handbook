@@ -548,6 +548,8 @@ Thanks again for reaching out. Please do not respond to this email, as this inbo
 Sincerely,
 The GitLab Learning and Development Team`
 
+1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
+
 
 
 
