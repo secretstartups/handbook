@@ -147,7 +147,7 @@ For an Issue to reach the scheduling phase, its weight must be set. It can be tr
 
 `workflow::ready for development`
 
-A feature that is ready for development should be able to be picked up at any point by an Engineer and should have a provisional milestone assigned. If such a feature requires BE and FE, the corresponding features should also be in this state.
+A feature that is ready for development should be able to be picked up at any point by a contributor and should have a provisional milestone assigned. If such a feature requires BE and FE, the corresponding features should also be in this state.
 
 #### Directional, Deliverable, Stretch and Discovery
 
@@ -190,6 +190,7 @@ All issues going into these Epics need to fulfill our general Issue guideline.
 
 These guidelines apply to all issues we use for planning and scheduling work within our group. Our Engineers can define specific implementation issues when needed, but the overall goal for our issues are as follows:
 
+- Treat the wider community as the primary audience ([see relevant summary for rationale][community-contributions-wider-community]).
 - Provide a meaningful **title** that describes a deliverable result.
     - ✅ `Add a cancel button to the wiki page editing view`
     - ✅ `Automatically save SSE Drafts after 2 seconds of inactivity`
@@ -235,15 +236,16 @@ Using this formula, we can calculate different capacities per engineer, and this
 
 #### What Weights to use
 
-The weight on any given issue will always reflect the sum of potential FE and BE work. On shared issues we use the `~"frontend-weight::X"` or `~"backend-weight::X"` labels for clear communication.
+Do not relate issue weight directly to time (see [GitLab's relevant guide on weighting issues](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-weight)).
 
-The department weight keys, while abstract, can roughly be thought about like this:
+To cultivate engagement from the wider community, do not weight an issue according to a specific contributor, but measure the issue's level-of-effort as if a community contributor were to pick it up.
 
-- Weight 1: Work can be done in a day or less as the goals are quite clear
-- Weight 2: Work might take up to 3 days
-- Weight 3: Work likely takes up to 1 full week
+* Weight 1: Really simple and small (for example, changing copy text or 1-2 lines of CSS). Most of these issues should have a `good for new contributors` and/or `Hackathon - Candidate` label attached.
+* Weight 2: Straightforward, but involves updating actual behavior (for example, fixing and testing a trivial bug).
+* Weight 5: Changing the behavior of pre-existing modules, or adding significant new behavior (for example, making the Web IDE left-sidebar collapsible).
+* Weight 9: Large fundamental rewrite and should probably be investigated for a more iterative approach.
 
-❗️Any weight going above 3 is usually a warning sign that the work is quite complex, and should probably be broken down into smaller issues.
+❗️Any weight going above 5 is usually a warning sign that the work is quite complex, and should probably be broken down into smaller issues.
 
 #### Time Off
 
@@ -283,6 +285,10 @@ When scheduling a sync call consider doing the following:
 
 [Developer Cheatsheet][cheatsheet]: This is a collection of various tips, tricks, and reminders which may be useful to engineers on (and outside of) the team.
 
+#### Fostering Wider Community Contributors
+
+[Cultivating Contributions from the Wider Community][community-contributions]: This is a summary of why and how we cultivate contributions from the wider community.
+
 #### GitLab Unfiltered Playlist
 
 The Editor Group collates all video recordings related to the group and its team members in the [Editor playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
@@ -311,4 +317,7 @@ The Editor Group collates all video recordings related to the group and its team
 [slack]: https://gitlab.slack.com/archives/CJS40SLJE
 [youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KrRQhnSYRNh1s1mEUypx67-
 [cheatsheet]: /handbook/engineering/development/dev/create-editor/developer-cheatsheet/
+[community-contributions]: /handbook/engineering/development/dev/create-editor/community-contributions/
+[community-contributions-wider-community]: /handbook/engineering/development/dev/create-editor/community-contributions/#wider-community-as-primary-audience
+
 <!-- LINKS END -->
