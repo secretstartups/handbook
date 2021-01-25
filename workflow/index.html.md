@@ -27,7 +27,7 @@ the following should be true:
 
 * Something broke and there is no acceptable work around. Examples of this include:
   * A feature broke and is categorized as `~severity::1` or `~severity::2`.
-  [See severity labels](/handbook/engineering/quality/issue-triage/#severity)  
+  [See severity labels](/handbook/engineering/quality/issue-triage/#severity)
   * [Master broke](#broken-master)
   * There are failing migrations
 * There are no dependencies on the change. For example, a database
@@ -277,11 +277,11 @@ If you’re in doubt about what to work on, ask your lead. They will be able to 
 
 It's every [developers' responsibilities] to triage and review code contributed by the rest of the community, and work with them to get it ready for production.
 
-Merge requests from the rest of the community should be labeled with the `Community Contribution` label.
+Merge requests from the rest of the community should be labeled with the `Community contribution` label.
 
 When evaluating a merge request from the community, please ensure that a relevant PM is aware of the pending MR by mentioning them.
 
-This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community Contribution` and either review them or ask a relevant person to review it.
+This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community contribution` and either review them or ask a relevant person to review it.
 
 Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 
@@ -641,7 +641,7 @@ The infradev process is established to identify Issues requiring priority attent
 
 ### Scope
 
-The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process. 
+The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process.
 
 ### Triage Process
 
@@ -672,14 +672,14 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
    1. Problems which extend the time to diagnosis of incidents: for example, issues which degrade the observability of GitLab.com, swallow user-impacting errors or logs, etc. These could lead to incidents taking much longer to clear, and impacting availability. [example](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10933#note_464394760)
    1. Deficiencies in our public APIs which lead to customers compensating by generating substantially more traffic to get the required results. [example](https://gitlab.com/gitlab-org/gitlab/-/issues/232887)
 1. **Quantify the effect of the problem** to help ensure that correct prioritization occurs.
-   1. Include costs to availability. The [Incident Budget Explorer](https://dashboards.gitlab.net/d/general-incident-budget-explorer/general-incident-budget-explorer?orgId=1) dashboard can help here. 
-   1. Include the number of times alerts have fired owing to the problem, how much time was spent dealing with the problem, and how many people were involved. 
-   1. Include screenshots of visualization from Grafana or Kibana. 
+   1. Include costs to availability. The [Incident Budget Explorer](https://dashboards.gitlab.net/d/general-incident-budget-explorer/general-incident-budget-explorer?orgId=1) dashboard can help here.
+   1. Include the number of times alerts have fired owing to the problem, how much time was spent dealing with the problem, and how many people were involved.
+   1. Include screenshots of visualization from Grafana or Kibana.
    1. **Always include a permalink to the source of the screenshot so that others can investigate further**.
-1. **Provide a clear, unambiguous, self-contained solution to the problem**. Do not add the `infradev` label to architectural problems, vague solutions, or requests to investigate an unknown root-cause. 
-1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best. 
+1. **Provide a clear, unambiguous, self-contained solution to the problem**. Do not add the `infradev` label to architectural problems, vague solutions, or requests to investigate an unknown root-cause.
+1. **Ensure scope is limited**. Each issue should be able to be owned by a single stage group team and should not need to be broken down further. Single task solutions are best.
 1. **Ensure a realistic severity is applied**: review the [availability severity label guidelines](/handbook/engineering/quality/issue-triage/#availability) and ensure that applied severity matches. Always ensure all issues have a severity, even if you are unsure.
-1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to. 
-1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data. 
+1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to.
+1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
 1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
-1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**. 
+1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**.
