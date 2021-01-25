@@ -210,7 +210,7 @@ When publishing, Youtube will ask if the content is made for kids. GitLab conten
 ## Never call it a livestream or just a recording
 
 It is essential that we always know if something is public or private.
-Always mention that both in the countdown and in the calendar invite title.
+Always mention that in the calendar invite title.
 
 Therefore say:
 
