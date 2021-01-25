@@ -406,7 +406,7 @@ The possible tier labels to be applied are:
 * Automation condition: Open issue without tier labels, with group and `~direction` label, in current milestone
 * Automation action:
   - Mention the relevant PM for the group asking to add appropriate label
-* Policy: [https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml)
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-for-tier-labels.yml>
 
 ## Reactive triage automation
 
