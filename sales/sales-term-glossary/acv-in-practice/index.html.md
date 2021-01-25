@@ -19,7 +19,7 @@ Excluded from ACV are bookings that are non-recurring such as professional servi
 
 ### Incremental Annual Contract Value (IACV)
 
-Value of new bookings from new and existing customers that will result in recurring revenue over the next 12 months less any credits, lost renewals, downgrades or any other decrease to annual recurring revenue.
+Value of **new** bookings from new and existing customers that will result in recurring revenue over the next 12 months less any credits, lost renewals, downgrades or any other decrease to annual recurring revenue.
 Excluded from IACV are bookings that are non-recurring such as professional services, training and non-recurring engineering fees (PCV). Also equals ACV less renewals.
 However, bookings related to true-up licenses, although non-recurring, are included in IACV because the source of the true-ups are additional users which will result in recurring revenue.
 IACV may relate to future periods (within twelve months).
