@@ -457,7 +457,7 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 1. We currently have English, French, German, and Japanese configurations for `Appearances`.
 1. [Languages PathFactory currently supports](https://nook.pathfactory.com/s/article/using-languages)
 1. [Asset types (content types) support localization](https://nook.pathfactory.com/nook/s/article/2020-release-f)
-1. Explore Pages now have a dedicated tab within Language Settings where you can set localized text for the Featured Label, Search Button Title, Search Input Field Placeholder, Filter By Content Type Title, and Filter By Topic Title: https://nook.pathfactory.com/nook/s/article/2020-release-e
+1. Explore Pages now have a dedicated tab within Language Settings where you can set localized text for the Featured Label, Search Button Title, Search Input Field Placeholder, Filter By Content Type Title, and Filter By Topic Title. [See more info](https://nook.pathfactory.com/nook/s/article/2020-release-e).
 1. You can see a list of the number of assets by language in the content library using the content tag filters.
 
 ### Create a New Language Config
