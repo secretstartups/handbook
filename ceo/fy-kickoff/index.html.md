@@ -31,11 +31,11 @@ The FY21 Kickoff call was the first of its sort.
 The recording is on [GitLab Unfiltered](https://youtu.be/XlYsmj5fCcI) (GitLab Internal).
 The recording is internal because we talk about financial metrics which are not public. 
 The slides can be found in the Drive under the title "2020-02-06 FY21 Kickoff".
-
+f
 We collected feedback in [cos-team#15](https://gitlab.com/gitlab-com/cos-team/issues/15).
 
 The structure was roughly as follows:
-* 5 minutes: Countdown, Intro, Welcome, Overview
+* 5 minutes: Intro, Welcome, Overview
 * 5 minutes: CEO Overview- Accomplishments, Values, Upcoming, Key Focus
 * 5 minutes: Sales
 * 5 minutes: Product
