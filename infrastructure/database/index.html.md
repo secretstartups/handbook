@@ -127,8 +127,8 @@ As a database specialist the following tools can be very helpful:
 
 The following (private) Grafana dashboard are important / useful for database specialists:
 
-- [PostgresSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview)
-- [PostgresSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics)
+- [PostgreSQL Overview](https://dashboards.gitlab.net/dashboard/db/postgresql-overview)
+- [PostgreSQL Tuple Statistics](https://dashboards.gitlab.net/dashboard/db/postgresql-tuple-statistics)
 
 ### Documentation
 
