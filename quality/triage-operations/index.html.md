@@ -394,6 +394,22 @@ identified as eligible for auto-closure. At this point, the following actions oc
     - Issues with a comment from anyone other than the gitlab-bot in the last 7 days are considered active and `~"stale"` is removed
 - Policy: [https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/close-stale-bugs.yml)
 
+### Prompt for Tier labels on issues
+
+Tier labels should be applied to issues to specify the license tier of feature. This policy prompts the Product Manager for the applied group label to add the license tier label to issues that are scheduled for the current milestone and labelled with `~direction`.
+
+The possible tier labels to be applied are:
+  - ~"GitLab Core"
+  - ~"GitLab Starter"
+  - ~"GitLab Premium"
+  - ~"GitLab Enterprise"
+
+
+* Automation condition: Open issue without tier labels, with group and `~direction` label, in current milestone
+* Automation action:
+  - Mention the relevant PM for the group asking to add appropriate label
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-for-tier-labels.yml>
+
 ## Reactive triage automation
 
 Reactive triage automation is complementary to general triage automation where
