@@ -23,10 +23,9 @@ GitLab has several compliance courses and resources. Explore the drop-downs belo
 | [Security](/handbook/security/#training-delivery)    | KnowBe4 | Onboarding <br> Annually by the end of August | Security | 
 | Compliance    | Navex | Annual | Legal | 
 
+## WILL Interactive
 
-### WILL Interactive
-
-All team members are required to take harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
+All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
 1. Log into BambooHR
 1. On the Training tab, click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.). The list of courses to choose from are: **Anti-Harassment Training for Non-U.S. Team Members**, **Anti-Harassment Training for Non-U.S. Supervisors**, **Anti-Harassment Training for U.S. Team Members**, or **Anti-Harassment Training for U.S. Supervisors**. You only need to complete one training. For managers and leaders, the course is 2 hours long, but you can stop and come back to it. For all other GitLab Team Members, this is 1 hour long.
@@ -39,25 +38,13 @@ All team members are required to take harassment prevention training. All new te
 1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title
 1. Scroll down to *users* then click on *completion certificates* to download the PDFs
 
-
 If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
-Our [Anti-Harassment Policy](handbook/anti-harassment/?private=1) outlines guidelines, reporting and disciplinary action.  
+Our [Anti-Harassment Policy](handbook/anti-harassment/) outlines guidelines, reporting, and disciplinary action.  
 
+### Processing Steps for L&D Team
 
-### Compliance Next 
-
-The Compliance Next community offers free membership and comes with tons of excellent resources and tools for compliance professionals and people interested in learning more about the compliance space.  
-
-You can create a free account on the [Compliance Next](https://www.navexglobal.com/compliancenext/) website using your own credentials. 
-
-One of the most unique aspects of Compliance Next is connecting directly with experts and peers. The platform offers different types of educational resources that you can watch, read, and use—all of which provide the ability to comment and ask questions to compliance professionals and communinity members.
-
-If you have any questions or need further help, please ping people ops in the `#peopleops` channel in slack.
-
-### Compliance Processing Steps for L&D Team
-
-#### Checking Compliance for Offboarded Team Members
+#### Checking WILL Interactive for Offboarded Team Members
 
 When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
 
@@ -86,7 +73,6 @@ This step must be completed for each offboarding issue, as GitLab pays per licen
 
 1. When you have completed this process, be sure to shut off notifications on the offboarding issue to avoid inbox noise.
 
-
 #### Supporting New Managers of People at GitLab
 
 When new team members join the GitLab team as managers of people, the L&D team reminds them to take the assigned WILL Learning anti-harassment course.
@@ -107,3 +93,13 @@ When current team members transition to roles and become managers of people, the
 1. In the course, click `Invite Participants` and copy the shareable link
 1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
 1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow the steps to revoke their license.
+
+## Compliance Next 
+
+The Compliance Next community offers free membership and comes with tons of excellent resources and tools for compliance professionals and people interested in learning more about the compliance space.  
+
+You can create a free account on the [Compliance Next](https://www.navexglobal.com/compliancenext/) website using your own credentials. 
+
+One of the most unique aspects of Compliance Next is connecting directly with experts and peers. The platform offers different types of educational resources that you can watch, read, and use—all of which provide the ability to comment and ask questions to compliance professionals and communinity members.
+
+If you have any questions or need further help, please ping people ops in the `#peopleops` channel in slack.
