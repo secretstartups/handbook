@@ -60,11 +60,16 @@ For customers on free plans (.com 'Free' and self-managed 'core'), there is the 
 
 ## Partner Support
 
-There are 2 types of Partners: Open and Select.
+The GitLab Partner Program enables many different types of partner. Descriptions can be found in the [Gitlab Channel Overview](https://about.gitlab.com/handbook/sales/channel/#channels-partner-types) and subsequent linked pages.
 
-Open Partners generally will create a ticket on behalf of a customer and GitLab Support will then work directly with the customer on the ticket. Support will be provided **based on the customer's subscription plan**.
+Support provided to partners and their customers will vary depending on the circumstances under which the ticket is raised. Some examples are:
+1. Open Partner raises a ticket on behalf of their end customer. This ticket should be raised under the Customer account name and support will be provided **based on customer's subscription plan**. Support will correspond with end customer directly.
+1. Select Partner creates and manages a ticket, acting as the go between for the customer and GitLab Support. Select Partners will receive **[Priority Support](https://about.gitlab.com/support/#priority-support) regardless of the customer's subscription plan**.
+1. Any partner type raises ticket while fulfilling a services engagement at their end customer. This ticket should be raised under the Customer account name and support will be provided based on the customer's subscription plan. **Support will correspond with the partner who has been engaged to provide a service**. 
+1. Any partner type is doing commercial work for a customer and raises a ticket. The ticket should be raised under the partner account against a subscription they have purchased for themselves. Support will be provided **based on the subscription the partner has purchased**.
+1. Open or Select partner is doing internal training, testing, knowledge building. The ticket should be raised under the partner account against their [NFR licences](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy).
 
-Select Partners will create and manage a ticket, acting as the go between for the customer and GitLab Support. Select Partners will receive **[Priority Support](https://about.gitlab.com/support/#priority-support) regardless of the customer's subscription plan**.
+These examples are not exhaustive. If in doubt ask questions about the situation under which the ticket is being raised.
 
 ## GitLab issue trackers
 
