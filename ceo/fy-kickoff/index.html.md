@@ -9,21 +9,29 @@ title: "Fiscal Year Kickoff"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Fiscal Year Kickoff
+## GitLab Assembly
 
-In the first week of every Fiscal Year (first week of February), the E-Group hosts a Fiscal Year Kickoff.
-The call is 80 minutes long and takes place over Zoom.
-The doc is circulated early so that all time zones can submit questions.
+At the start of every Fiscal Year (beginning of February), the [E-Group](/company/team/structure/#e-group) hosts a GitLab Assembly meeting. The call is 50 minutes long and takes place over video. It is scheduled at two separate times so team members in all time zones have the opportunity to attend.
 
-The goal of the Kickoff is to discuss the strategy and plans for the next fiscal year.
-Each member of the [e-group](/company/team/structure/#e-group) has 5 minutes to discuss their part of the business.
+The goal of the Assembly is to discuss the strategy and plans for the next fiscal year. Each part of the business will be included.
 
-The call concludes with an AMA with all executives.
-Team members can ask questions of any particular executive or the execs may choose amongst themselves who responds.
+The call concludes with an AMA with all of E-Group. Team members can ask questions of any particular executive. The AMA doc will be circulated early so that team members can submit questions.
 
-The [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) facilitates the call, noting especially to keep people on time. 
-The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/).
-The call is recorded and posted to GitLab Unfiltered.
+The [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) facilitates the call, noting especially to keep people on time. The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/). The call is recorded and posted to GitLab Unfiltered.
+
+### FY22 GitLab Assembly
+
+The FY22 GitLab Assembly (previously called Fiscal Year Kickoff) will take place February 18, 2021 at 8:00am and 5:00pm Pacific Time.
+
+The event will be internal because we will discuss financial metrics and other information which is not public. It will be recorded, and the recording will be made available to the team.
+
+Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there will be some changes to the format. Expected changes include:
+* Adding a produced video, created mostly using highlights from SKO presentations, to share the most important information. This will mostly replace the previous format of sequential 5-minute live updates.
+* Adding a second time to be inclusive of all time zones.
+* During each event, attendees will watch the video update live (no requirement to complete any actions before the meeting). The video will be followed by an AMA with the executive team.
+* More focus on the big picture, inspiration, and team alignment.
+* Inclusivity: the video will be captioned and any industry terms, acronyms, or jargon which aren’t well-known will be defined.
+
 
 ### FY21 Kickoff
 
