@@ -58,7 +58,7 @@ The presence of bug category labels `~availability `, `~performance`, `~security
 | `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 500ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
 | `~availability` GitLab.com Availability | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
 | `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | |
-| `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. Problem is on or related to the merge requests experience. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
+| `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
 | Global Search | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
 
 #### Examples of severity levels
@@ -91,14 +91,14 @@ This indicates the expected timeline & urgency which is used to measure our SLO 
 | `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
 | `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
-If an issue is related to the merge request experience, priority is tied to severity in the following manner:
+If a bug is related to the merge request (MR) experience, priority is tied to severity in the following manner:
 
-| MR Issue Severity | Minimum priority |
+| MR bug severity | Minimum priority |
 |-|-|
-| S1 | P1 |
-| S2 | P1 |
-| S3 | P2 |
-| S4 | P3 |
+| `~severity::1` | `~priority::1` |
+| `~severity::2` | `~priority::1` |
+| `~severity::3` | `~priority::2` |
+| `~severity::4` | `~priority::3` |
 
 ### Availability
 
