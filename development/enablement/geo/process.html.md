@@ -233,6 +233,14 @@ Expectations:
 - The DRI should spend 3-5 hours per week on triage/verification and a maximum of 20% work time (about 1 day per week) on resolving bugs.
 - If the DRI is unable to perform triage responsibilities due to PTO, they are expected to find a backup or notify the EM to find a backup.
 
+#### Bug Triage Schedule
+
+| Month | Name |
+| ----- | ---- |
+| February 2021 | @alexives |
+| March 2021 | @mkozono | 
+| April 2021 | @dbalexandre |
+
 ## Retrospectives
 
 We do not have pre-defined dates for retrospectives. When there is something to be discussed, an issue should
