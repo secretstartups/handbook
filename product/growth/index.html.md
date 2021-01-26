@@ -71,7 +71,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
 1. Weekly Growth & Threat Management EM
     1. Attendees: Growth & Threat Management EMs
     1. Goals: Stay in-sync on growth engineering efforts.
-    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20%26%20Threat%20Management%20EM%20Staff%20Weekly%20Agenda%22)
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:Growth%20%26%20Threat%20Management%20EM%20Staff%20Weekly%20Agenda)
 1. Weekly Growth PM sync
     1. Attendees: Growth PMs
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
