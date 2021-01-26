@@ -28,14 +28,17 @@ Responsibilities include (but are not limited to):
 
 If you'd like to request engineering assistance with an issue, bug fixes, urgent requests related to People Group processes
 or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)) or anything relating to People Group Engineering, please start by
-[creating an issue](https://gitlab.com/gitlab-com/people-group/people-operations-engineering/issues/new)
-in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack.
+[creating an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/new)
+in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack. 
 
 ### Report bugs
 
 If you want to report bugs about existing integrations, you can use any of the following templates:
 - [Bug with a /pops command](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_pops_command)
 - [Bug with the Greenhouse <> BambooHR sync](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync)
+
+#### Urgent attention
+We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #peopleops-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
 
 ### Our workflow
 
