@@ -53,9 +53,9 @@ EdCast will be a single-channel guest for a temporary period, currently through 
 GitLab team memebers should following these best practices when interacting with the Edcast team in Slack.
 
 1. Do not expect an immediate response from EdCast in Slack. Assume their team is checking Slack approximately 1x per day, similar to the cadence of email
-1. Search the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/) and the Slack channel itself for the answer to your question before posting in the channel.
+1. Search the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin) and the Slack channel itself for the answer to your question before posting in the channel.
 1. Post your question for EdCast in the channel and tag Katie and any other LXP implementation team who are involved in the conversation
-1. When your question is answered, if it is not documented on the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/), open an MR and assign the MR to `@slee24` to merge.
+1. When your question is answered, if it is not documented on the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin), open an MR and assign the MR to `@slee24` to merge.
 
 
 
