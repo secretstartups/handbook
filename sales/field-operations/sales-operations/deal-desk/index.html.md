@@ -281,7 +281,7 @@ This requires two steps: first combining the subscriptions, then cancelling the 
 * Add 50 seats to the existing 100 and close as usual;
 * Once closed, create a new opportunity to cancel subscription 2 on the day before the start date of the previous quote e.g. 2018-03-31;
 
-bloop
+bloop!
 
 #### Professional Services Quote
 
