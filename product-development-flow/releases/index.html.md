@@ -6,7 +6,7 @@ title: Product develoment flow releases
 
 **13.8 (2021-01-22)**
 
-- Incorporate feedback from and close remaining issues on from the [PD-FLOW Working group board](https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/)
+- Incorporate final feedback and close remaining issues on the [PD-FLOW Working group board](https://about.gitlab.com/company/team/structure/working-groups/product-development-flow/)
 - General GitLab team contributions
 
 [Create new directory and handbook page for success metrics of PD Flow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/72532)
