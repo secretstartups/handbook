@@ -289,7 +289,7 @@ The `bin/release-post-assemble` script makes this easy to do:
   git push origin release-X-Y
 ```
 
-If for some reason `bin/release-post-assemble` fails use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
+Sometimes `bin/release-post-assemble`  may fail if there is a Ruby update between the time the release post manager updates their local environment by the 7th and when content assembly starts on teh 18th. The script may even fail for unknown reasons at times. If for some reason `bin/release-post-assemble` fails, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement. And if all else fails, you can use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA). 
 
 1. Verify you've completed steps 1-3 above
 1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`) | *note: leave the `/samples` directory in the same location, don't move it*
