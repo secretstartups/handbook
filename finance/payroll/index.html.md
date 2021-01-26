@@ -35,9 +35,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule, payslips, and W-2(s) are available on [ADP portal](https://workforcenow.adp.com).
-   - To access pay statements, go to Myself -> Pay -> Pay Statements.
-   - To access form W-2, go to Myself -> Pay -> Annual Statements.
+1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements.
 1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
 1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [myworkandme] (https://www.myworkandme.com/portal/)
@@ -54,6 +52,14 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    - Remote.com will get their salary wired at the last day of the month. Remote.com will send payslips electronically through their HR portal.
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
+
+
+## Tax Statements
+
+Employees of GitLab Inc and GitLab Federal can access their "Form W-2, Wage and Tax Statement" from [ADP portal](https://workforcenow.adp.com).
+To download your W-2 statement, go to Myself -> Pay Statements, then scroll to "Tax Statements" at the bottom of the page.
+Generally W-2 statements are made available in late January.
+Each W-2 will be available to you on this web site for three years.
 
 
 ## US
