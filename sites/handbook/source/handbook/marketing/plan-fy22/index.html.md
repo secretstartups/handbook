@@ -44,8 +44,8 @@ Monthly the Marketing Key meeting will be used as the venue for tracking where w
 All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71684) for more details on the tool. 
 
 ### Glossary of terminology
-* Motions 
-* Theme
+* Motions - a motion is perpetual 
+* Theme - a theme is time based 
 * Sales Play
 * 4x2 - document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments - link to section
 * GTM Motion Core Team - a group of marketers who are the DRI for different sections of the GTM strategy. If your name is not listed as part of the core team and you would like to volunteer to be on the core team, you may do so. 
