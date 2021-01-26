@@ -11,11 +11,11 @@ title: Pricing model
 {:toc .hidden-md .hidden-lg}
 ## Pricing Strategy
 
-Most of GitLab functionality is and will be available for free in Core. Our paid
+Most of GitLab functionality is and will be available for free in our Free tier. Our paid
 tiers include features that are
 [more relevant for managers, directors, and executives](/company/stewardship/#what-features-are-paid-only).
 [We promise](/company/stewardship/#promises) all major features in [our scope](/direction/#scope)
-are available in Core too. Instead of charging for specific parts of our scope
+are available in Free too. Instead of charging for specific parts of our scope
 (CI, Monitoring, etc.) we charge for smaller features that you are more likely
 to need if you use GitLab with a lot of users. There are a couple of reasons for
 this:
@@ -23,20 +23,20 @@ this:
 1. We want to be a good [steward of our open source product](/company/stewardship/).
 1. Giving a great free product is part of our go to market, it helps create new users and customers.
 1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](/handbook/product/single-application/).
-1. Including all major features in Core helps reduce merge conflicts between CE and EE
+1. Including all major features in Free helps reduce merge conflicts between CE and EE
 
 Because we have a great free product we can't have one price. Setting it high
 would make the difference from the free version too high. Setting it low would
 make it hard to run a sustainable business. There is no middle ground that would
 work out with one price.
 
-That is why we have a [Starter, Premium, and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
-The price difference between each of them is half an order of magnitude (5x).
+That is why we have [Premium and Ultimate tiers](/handbook/product/gitlab-the-product/#paid-tiers).
+The price difference between them is half an order of magnitude (5x).
 
 We will charge per user, per
 application, or per instance. We do include free minutes with our subscriptions
 and trials to make it easier for users to get started. As we look towards more
-deployment-related functionality on .com it's tempting to offer compute and
+deployment-related functionality on SaaS it's tempting to offer compute and
 charge a percent on top of, for example, Google Cloud Platform (GCP). We don't
 want to charge an ambiguous margin on top of another provider since this limits
 user choice and is not transparent. So we will always let you BYOK (bring your
@@ -62,27 +62,24 @@ Therefore, general pricing decisions are made by the CEO.
 Product makes most decisions on a day-to-day basis about what feature should go
 in what plan based on [the paid tiers](/handbook/product/gitlab-the-product/#paid-tiers).
 
-## Four tiers
+## Three Tiers
 
-We have four pricing tiers.
+We have three pricing tiers.
 How we make decisions on a day-to-day basis is specified on our [stewardship page](/company/stewardship/#what-features-are-paid-only).
 
-| Self-managed tier | Core | Starter | Premium | Ultimate |
-
-| GitLab.com | Free | Bronze | Silver | Gold |
-| ---------- | ---- | ------ | ------ | ---- |
-| Per user per month | $0 | $4 | $19 | $99 |
-| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Manager | Director | Executive |
-| Main competitor | GitHub Free | Atlassian Bitbucket | GitHub Enterprise | Collabnet |
-| Type of sell | No sell | Feature | Benefit/solution | Transformation |
+| Self-Managed/SaaS tier | Free | Premium | Ultimate |
+| ---------- | ------ | ------ | ---- |
+| Per user per month | $0 | $19 | $99 |
+| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Managers/Directors | Executives |
+| Main competitor | GitHub Free/Team | GitHub Enterprise | Veracode, Checkmarx |
+| Type of sell | No sell | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
 
 When considering buyers as part of product tiering decisions we use the following guidance:
 
-1. Core is for a single developer, with the purchasing decision led by that same person
-1. Starter is for single team usage, with the purchasing decision led by a team manager
-1. Premium is for multiple team usage, with the purchasing decision led by one or more Directors
+1. Free is for a single developer, with the purchasing decision led by that same person
+1. Premium is for team (s) usage, with the purchasing decision led by one or more Managers/Directors
 1. Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
 
 ### Examples
@@ -96,28 +93,28 @@ Below we list product categories and the current and proposed features which res
 
 #### Feature - Kanban Boards
 
-1. **Project and Group Boards (Core/Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
-1. **Issue Weight on Boards (Starter/Bronze)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
-1. **Multiple Group Issue Boards (Premium/Silver)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
-1. **Issue Board Epic Swimlanes (Ultimate/Gold)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
+1. **Project and Group Boards (Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
+1. **Issue Weight on Boards (Premium)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
+1. **Multiple Group Issue Boards (Premium)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
+1. **Issue Board Epic Swimlanes (Ultimate)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
 
 #### Feature - Merge Requests
 
-1. **Merge conflict resolution (Core/Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
-1. **Merge approvals (Starter/Bronze)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
-1. **Merge request reviews (Premium/Silver)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
+1. **Merge conflict resolution (Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
+1. **Merge approvals (Premium)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
+1. **Merge request reviews (Premium)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
 
 #### Feature - Pipelines
 
-1. **Built in CI Pipelines (Core/Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
-1. **Show pipeline code coverage rate (Starter/Bronze)** : The ability to determine code coverage rate is particularly valuable to team Managers.
-1. **Pipeline dashboards (Premium/Silver)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
-1. **Downloadable all pipeline logs (Ultimate/Gold)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
+1. **Built in CI Pipelines (Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
+1. **Show pipeline code coverage rate (Premium)** : The ability to determine code coverage rate is particularly valuable to team Managers.
+1. **Pipeline dashboards (Premium)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
+1. **Downloadable all pipeline logs (Ultimate)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
 ### Usage can be more important than buyer-based tiering
 
-While our [tiers](#four-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
-As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the core or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier
+While our [tiers](#three-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
+As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the free or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier
 
 
 1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those users are essential to creating contributors, an improved product and future tiered features.
@@ -126,7 +123,7 @@ When considering tiering, if the feature is geared to be used (not purchased) by
 
 ### Prevent the ability to circumvent tiering
 
-If a feature in the free tier (typically useful to ICs, but also to others) will open up the possibility to circumvent or abuse our tiering policy, we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is [repo pull mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Core tiers mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Core-tier.
+If a feature in the free tier (typically useful to ICs, but also to others) will open up the possibility to circumvent or abuse our tiering policy, we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is [repo pull mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Free tier mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Free tier.
 
 ### Partner integration considerations
 
@@ -144,22 +141,18 @@ Here is a video of the CEO discussing this concept with a Product Leader.
 
 The following are our current set of capabilities:
 
-Starter/Bronze:
+Premium:
 
-1. Single-project management
+1. Cross-team project management
+1. Multiple Approval Rules
 1. More control over your code
-
-Premium/Silver (all above AND):
-
-1. Multi-project management
-1. Code integrity controls
 1. Multi-region support
 
-Ultimate/Gold (all above AND):
+Ultimate (all above AND):
 
 1. Company-wide portfolio management
-1. Application Security
-1. Enterprise Insights
+1. Advanced Application Security
+1. Enterprise Level Insights
 1. Compliance Automation
 
 #### What happens when capabilities don't match our Buyer Based Tiering Decisions?
@@ -181,49 +174,41 @@ Our lower tiers have:
 1. The price charged for value generated is lower.
 1. More value per dollar as a percentage (in absolute numbers higher tiers generate more net value)
 
-Our higher tiers are still the best option for our customers:
+Our higher tier is still the best option for our customers:
 
-1. Higher tiers add much more absolute value. For example our top tier can add 2000% more value than our lower tier while still adding less relative value.
+1. Higher tier adds much more absolute value. For example our top tier can add 2000% more value than our lower tier while still adding less relative value.
 1. The Return On Investment (ROI) for higher tiers tends to be better than our lower tiers due to costs outside of the subscription. For example, when you switch to GitLab you will have a fixed cost in implementation and training. And if you use a lower tier you need to find a workaround for features you are missing out on, increasing cost and decreasing efficiency.
 
 There are multiple reasons why our lower tiers have more relative value:
 
 1. The lower tiers are older so they had more time to accumulate features.
 1. Any pricing model will have to be compatible with our open source tier. The open source tier should be the top alternative to our priced tiers. That tier has zero cost, zero discounting, a zero price charged for value generated, and infinite value per dollar. Our lowest tier should be the tier that is closest to that to make it possible for people to go from free to paid. As soon as they are paid we can help them to generate more value with GitLab, for example by using more stages. If they realize more value we can move them up in tiers.
-1. Having an open source tier isn't an alternative for a low priced tier. Many organizations need a product that includes [support](https://support.gitlab.com/hc/en-us).
 1. The lower tiers (including open source) are a pipeline of future customers for the higher tiers.
-1. Most of our initial customers are not looking for a complete DevOps platform, they are looking for a point solution, for example for version control or CI. We need to have a paid tier that gets those organizations to pick GitLab.
-1. Having low priced tiers gets more users on the platform who are potential contributors. This increases the amount of contributions to GitLab both in absolute numbers and relative to the open source competition. An open source competitor will likely be our top competitor in 10 years.
 1. We can easily increase revenue in the next 3 years by raising prices and/or making lower tiers less attractive (of course [never by moving features up](#moving-a-feature-down)). But we are optimizing the Net Present Value ([NPV](https://www.investopedia.com/terms/n/npv.asp)) of the company with a 10% a year discount rate. This means we have to look beyond 3 years.
 1. Raising prices on our lower tiers might cause more revenue in the short term, both directly and by compelling most organizations to move to higher tiers. But the minority of organizations that switch to a competition will cause them to be much harder for us to reach in the future and will allow competitors a [flywheel effect](/company/strategy/#dual-flywheels) of their own. This tradeoff has to be calculated explicitly when raising prices.
 1. That our lower tiers are popular is not a pricing problem but a communication problem. Higher priced tiers have less value per dollar as a percentage but generate more net value in absolute terms. It is up to us to explain that value in the product, with marketing, and in our sales interactions.
 1. Open core projects capture (ratio of value created vs. captured) less value than proprietary projects. Because the pricing tiers are low relative to the value created the difference between the tiers can be much higher than with proprietary software. If you capture 1% you can easily introduce a new tier at 5x, if you capture 50% even doubling your price will take away all benefit for the customer.
-1. We see customers on starter but not users on Core. If we focus only on the visible customers that are on starter we miss the largest opportunity. Starter is priced too if the conversion from starter to premium is lower than organizations becoming customers after using core. Currently this is not the case because it is much harder reaching out to core users since they aren't customers and we don't have a point of contact to discuss the value of higher tiers.
+1. We see customers on Premium but not users on Free. If we focus only on the visible customers that are on Premium we miss the largest opportunity. Premium is priced too if the conversion from Premium to Ultimate is lower than organizations becoming customers after using free. Currently this is not the case because it is much harder reaching out to free users since they aren't customers and we don't have a point of contact to discuss the value of higher tiers.
 
-Arguments in favor of raising the price of the lowest tier (which we won't necessarily do) are:
+Arguments in favor of raising the price of the lower tier (which we won't necessarily do) are:
 
 1. Our sales effort don't change much with the plan, making lower tiers relatively much more expensive to sell.
 1. Over time we keep adding features to the lower tiers due to our [Buyer Based Open Core model](#buyer-based-open-core) so you would expect prices to rise.
 1. While the absolute value of higher tiers is better and that seems the most rational measure people also do look at relative value and we should make sure that the price to go to a higher tiers is perceived well.
 1. Many successful open source companies charge a relatively high price for their most affordable plan.
-1. The future growth of GitLab is much more influenced by how many people are using the open source version than our lowest tier, so having fewer paid users is a relatively small impact.
+1. The future growth of GitLab is much more influenced by how many people are using the open source version than our lower tier, so having fewer paid users is a relatively small impact.
 1. The future competition for GitLab is much more likely to come from an open source project than a proprietary only product competing only with our lowest tier.
 1. We can reduce the relative attractiveness of the lowest tier by open sourcing features, although this too makes it harder to raise the price of that tier.
-1. Our lowest tier competes mostly [with Atlassian Bitbucket](#four-tiers) and has been [winning marketshare rapidly](/is-it-any-good/#gitlab-has-yoy-growth-in-adoption-of-version-control-services-study-while-github-and-bitbucket-both-decline) so it might be able to sustain a price increase.
 1. Lots of companies don't want to forgo support, especially in their first year, and there is little price elasticity there.
 
 Please note that all the above is not a plea to add more or fewer features to lower tiers, we should just follow our [Buyer Based Open Core model](#buyer-based-open-core).
 
-## Separate names
+## Consistent names
 
-We have separate names for .com and self-managed tiers because:
+We use the same names for SaaS and Self-Managed tiers because:
 
-1. Although we want feature parity some features are not available for .com or self-managed, having separate names makes it easy to [indicate this in our release post](/handbook/marketing/blog/release-posts/#feature-availability) and documentation.
-1. It prevents ambiguity around .com and self-managed when customers interact with us, for example support questions are handled differently based on this.
-1. It prevents ambiguity around .com and self-managed inside the company, for example when calculating margins.
-
-That being said, we want the .com and self-managed tiers to be as similar as possible.
-For example if a feature is in premium it should be in silver instead of bronze or gold.
+1. The feature set for our SaaS and Self-Managed offerings is largely consistent and we want SaaS and Self-Managed tiers to be as similar as possible.
+1. Consistent naming is easy to understand and use for our customers.
 
 ## Type of sell
 
@@ -233,40 +218,20 @@ For example if a feature is in premium it should be in silver instead of bronze 
 
 ## Hybrid sales model
 
-There is a big price difference between the different tiers (0$, $4, $19, $99 per user per month, a price difference of infinite, 5x, 5x). For GitLab Inc., the majority of revenue comes from large enterprises buying the top two tiers.
+There is a big price difference between the different tiers (0$, $19, $99 per user per month, a price difference of infinite, 5x). For GitLab Inc., the majority of revenue comes from large enterprises buying the top two tiers.
 
 Most companies in a similar situation would focus only on the highest tiers.
-There will be pressure to increase our lowest tier to $8, for example.
 But we want to make a our hybrid model work for the following reasons:
 
 1. We want to keep being a [good steward of the open source project](/company/stewardship/).
-1. The lower two tiers are a scalable way to create future customers.
-1. If organizations are already using Atlassian JIRA, we want to be competitive with Bitbucket on pricing. If they buy Bitbucket, it is hard for us to win them back. If they buy GitLab, they discover that it can replace JIRA, and over time they might buy a higher tier.
+1. The free tier is a scalable way to create future customers.
 
-Raising the price of the lowest tier will prevent people from starting with GitLab.
-It will raise short-term revenue at the expense of our long-term market share.
-Instead of raising prices, we should focus on communicating the value of the higher tiers.
-This will get easier over time, as we introduce more features.
-In 2016, sales people focused on free vs. starter; in 2018, on starter vs. premium. Hopefully, in 2020, on premium vs. ultimate.
-
-Charging $8 for the lowest tier and discounting aggressively when we're up against Bitbucket doesn't work. It is unfair to customers who are not aware of this discount, and most customers are self-serve (we never talk to them).
-
-You can also check the viability of the different tiers by the conversion from [tier to tier](https://app.periscopedata.com/app/gitlab/484507/Churn-%7C-Expansion-by-Sales-Segment).
-For example, if 5% of users upgrade from free to starter, starter to premium, and premium to ultimate, your prices are balanced.
-If many more people upgrade from free to starter than from starter to premium, then starter is underpriced.
-Please note that when a customer chooses starter over premium, that is much more visible to us than users not buying at all, and this might cause us to focus too much on the first case.
-
-A conversion rate of 5% for installations / organizations should not be confused for 5% of the market revenue.
-There are organizations of different sizes, and larger ones are more likely to pay and purchase a higher tier.
-
-A 5x higher price doesn't mean there is 5x more value, just like the Starter tier doesn't provide infinitely more value than the gratis Core tier.
+A 5x higher price doesn't mean there is 5x more value, just like the Premium tier doesn't provide infinitely more value than the gratis Free tier.
 When deciding between tiers, organizations should look at the ratio between how much extra value they get divided by how much extra they pay.
 If this ratio is comfortably above 1, it makes sense to move to a higher tier.
 The value is in making people more effective, saving time on integrating tools, driving faster time to value, and retiring other tools.
 This should more than pay for the increased price of a tier.
 An analogy would be Apple's iPhone: it is twice as expensive as an average Android phone, and while it doesn't deliver twice as much value, the extra value is worth the extra cost.
-
-A low price for the lowest tier is also how we mitigate the first risk of [only selling a suite](#only-sell-a-suite).
 
 As [Stripe documented](https://stripe.com/atlas/guides/business-of-saas#hybrid-sales-approaches): hybrid is hard, because "The most common result of attempting both models simultaneously is that only one of the models receives any traction, and (because these models weave themselves into all operations of the company) it typically strangles the other."
 
@@ -408,8 +373,8 @@ This is the title of a [great article](https://codingvc.com/when-is-a-dollar-not
 1. Existing expense vs. new expense: we can make use of existing budgets, be aware that multiple can apply (dev tools, security, operations, DevOps transformation).
 1. Above vs. below discretionary spending limits: one more reason to have multiple pricing tiers.
 1. Selling services vs. customized products vs. off-the-shelf products: we're selling a high-margin product and augment with services when needed to make the customer more successful.
-1. Selling to many stakeholders vs. one stakeholder: this is another reason for our multiple tiers—Starter is sold to the single stakeholder of development teams, Ultimate is sold to multiple stakeholders and will need the CIO to enforce the transformation.
-1. Monthly vs. upfront payments: that is why we prioritize yearly upfront, sometimes even multi-year upfront. Also, yearly is the standard for enterprises (Salesforce sells it like this) and helps reduce support costs that are an order of magnitude greater for .com (most likely to be monthly) vs. self-managed.
+1. Selling to many stakeholders vs. one stakeholder: this is another reason for our multiple tiers—Premium is sold to the single stakeholder of development teams, Ultimate is sold to multiple stakeholders and will need the CIO to enforce the transformation.
+1. Monthly vs. upfront payments: that is why we prioritize yearly upfront, sometimes even multi-year upfront. Also, yearly is the standard for enterprises (Salesforce sells it like this) and helps reduce support costs that are an order of magnitude greater for SaaS (most likely to be monthly) vs. self-managed.
 1. Selling vs. upselling: this is why we have multiple tiers.
 
 ## Annual pricing is prioritized over monthly pricing
@@ -457,7 +422,6 @@ Having our complete scope included in our open source version is even part of ou
 
 Selling only a suite has risks, after the => is how we mitigate those at GitLab:
 
-1. Lose potential customers, if people want one product. => Offer a Starter tier that is priced competitively with single products from competitors.
 1. Leave money on the table, if people want all products. => Offer an Ultimate tier that is great value, if you adopt everything of GitLab.
 1. Discount because people don't want all the products. => Make a discount conditional on not using part of the product.
 1. Tiers are harder to define than if you would have separate products. => Hard to mitigate, we have to work extra hard on communicating the differences.
@@ -516,7 +480,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 ## Buyer-Based-Open-Core
 
 We make feature tiering decisions based on: **"Who cares most about the feature"**.
-Our [four tiers](#four-tiers) are differentiated based on [the buyer persona](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager, to director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#single-plan-for-one-customer), even if they don't use all the features.
+Our [three tiers](#three-tiers) are differentiated based on [the buyer persona](/handbook/marketing/strategic-marketing/roles-personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager/director, to executive. Every person in the company [is on the same tier](/handbook/ceo/pricing/#single-plan-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
@@ -532,7 +496,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 ### Example template for customer response
 
-**A customer asked why merge request approvals where not included in core:**
+**A customer asked why merge request approvals where not included in free:**
 
 > Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases. For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
 
@@ -547,7 +511,7 @@ We should not hesitate to open source features. When we put a feature into too h
 
 In most cases the following guidelines apply:
 
-1. Prioritize feature adoption in core prior to attempting to monetize it.
+1. Prioritize feature adoption in free prior to attempting to monetize it.
 1. If other paid features will be within reach of more users by using this features we should probably open source it. An example is the support for multiple Kubernetes clusters that can drive adoption of adding Kubernetes clusters which allows people to use the paid feature of browser performance testing.
 1. If no buyer cares about the feature, that means it isn't the focus of any buyer, and we should open source it.
 1. We should make sure that the basic features of a comparable offerings are open source. We should charge for the features that the comparable offerings charge extra for. We do need features to be open source to drive initial adoption.
@@ -559,7 +523,7 @@ Below is a video with the CEO discussing the philosophy of this with a Product M
 ## Default to move features down
 
 When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
-data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into higher tiers, but
+data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into the higher tier, but
 [open source features should never move to paid tiers](/company/stewardship/#promises).
 
 We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
@@ -570,7 +534,7 @@ While other parts of the GitLab organization are consulted, the CEO is the [dire
 
 ## Changing tiers and pricing changes
 
-To propose a change that impacts pricing or changes a feature's tier (e.g. moving a feature from Premium to Core), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
+To propose a change that impacts pricing or changes a feature's tier (e.g. moving a feature from Premium to Free), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
 
 ## DevOps score is not maturity
 
