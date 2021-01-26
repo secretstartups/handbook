@@ -54,7 +54,7 @@ Any test failures or flakiness (either false positive or false negative) causes 
 If a change causes new test failures, the fix to the test should be made in the same Merge Request.
 If the change causes new QA test failures, in addition to fixing the QA tests, the `package-and-qa` or `review-qa-all` job must be run to validate the fix before the Merge Request can be merged.
 
-The cost to fix test failures increases exponentially as time passes due to [pipelines with merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/) used. There are also impacts to release process that requires `gitlab-org/gitlab` master to be green.
+The cost to fix test failures increases exponentially as time passes due to [pipelines with merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/) used. Auto-deploys, as well as monthly releases and security releases, depend on `gitlab-org/gitlab` master being green for tagging and [merging of backports](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/release-manager.md#regular-security-releases).
 
 Our aim should be to keep `master` free from failures, not to fix `master` only after it breaks.
 
