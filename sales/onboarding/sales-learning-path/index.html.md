@@ -63,7 +63,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ### 4. Our Portfolio
 *  **Our Portfolio**
    - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
-   - [Our Portfolio](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Portfolio+-+Storyline+output/story.html) 
+   - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html) 
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
 *  **GitLab Features & Functionality**
