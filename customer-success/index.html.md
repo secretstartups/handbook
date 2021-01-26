@@ -107,8 +107,12 @@ TAM engagement prior to the sale should occur in the following situations:
 SA's will be brought back into a customer account in the following situations
 
 1. Development of expansion plans with the SAL and TAM leading to tier upgrades
-1. A new POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide upgrade not for renewal purposes
-1. Any product license expansion that requires overviews, education, and competitive insights prior to the close
+1. A POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide tier upgrade not for renewal purposes
+1. SAs may assist TAMs with an existing customer team on an _exception_ basis.  SA leadership approval is required.
+    1. Customer enablement assistance when specifically requested by the TAM team
+    1. Workshops assistance when specifically requested by the TAM team
+    1. ROI analysis for an existing customer team when requested by the TAM team
+    1. Unless it's for a tier upgrade, presales activities such as POVs and RFPs should be avoided for an existing customer team.  Like with any presales opportunity, these activities should not be offered as a sales tools, but leveraged when a prospect/customer requires these activities as part of their evaluation.
 1. Any Professional Services that are being discussed and may require an SOW
 1. If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
 1. Support of GitLab days or other on-site evangelism of GitLab at customer sites
@@ -122,10 +126,12 @@ SA's will be brought back into a customer account in the following situations
 ### Customer Workshops
 
 TAM-Created, Enablement Focus:
-* [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+
+- [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
 
 SA-Created, Hands-On Focus:
-* [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
+
+- [Hands-On Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/#hands-on-workshops)
 
 ### Using Salesforce within Customer Success
 
