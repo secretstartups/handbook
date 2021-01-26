@@ -54,7 +54,11 @@ If you would like to be added to a function's Key Meeting post in [#key-meetings
 
 ### All-Directs Key Meeting Rotation Program Attendance
 
-We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The All-Direct Rotation Program is designed to encourage All-Directs to make time to learn about what is happening in other functions. All Directs are expected to attend or watch a recording for one Key Meeting for another function at least once a month. They are expected to participate in at least one meeting for all functions over the course of a fiscal year. All-Directs are encouraged to contribute questions and comments to the agenda in each of these meetings. They are also encouraged to bring takeaways back to their E-Group manager and teams.
+We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The All-Direct Rotation Program is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
+
+Each month, one All-Direct will join the Key Rotation. This person will be expected to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
+
+Participants can sign up in the Key Rotation Schedule.
 
 ## Meeting Format
 
