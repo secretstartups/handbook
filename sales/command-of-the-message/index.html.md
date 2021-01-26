@@ -236,12 +236,12 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 - Exposed mantra, GitLab value drivers, and differentiators in Handbook
 - Adjusted [core content](/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption
 - Integrated Professional Services value proposition into the GitLab Value Framework
-- Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold)
+- Introduced [Discovery Questions for Selling GitLab Premium and Ultimate](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate)
 - Updated proof points
 
 **Version 1.2 (Aug 2020)**
 - More Proactive and Robust Metrics Guidance via [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page
 - Changed MEDDPICC to [MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
 - MVP release of the [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing) featuring Tier 1 customer use cases
-- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold), and Peach Tech & Fuzz It related updates)
+- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium and Ultimate](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate), and Peach Tech & Fuzz It related updates)
 </details>

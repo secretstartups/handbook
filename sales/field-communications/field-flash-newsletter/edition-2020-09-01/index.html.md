@@ -127,7 +127,7 @@ You talked, we listened – [v1.2 of the GitLab Value Framework is now available
 1. More proactive and robust [Metrics guidance](/handbook/sales/command-of-the-message/metrics/)
 1. [Expanded MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
 1. Content refresh (updated [proof points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, Peach Tech and Fuzzit-related updates)
-1. [Updated Discovery & Trap-Setting Questions](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold) for Selling GitLab Premium/Silver and Ultimate/Gold
+1. [Updated Discovery & Trap-Setting Questions](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate) for Selling GitLab Premium and Ultimate
 
 ----
 As a part of v1.2, Product Marketing has created a [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing), which is an MVP grid that maps Tier 1 Customer Use Cases to the Value Framework.
