@@ -228,7 +228,7 @@ We serve smaller users by having:
 
 1. A great free open source product that [gets the majority of new features](/company/stewardship/#promises).
 1. A focus on [memory consumption reduction](/handbook/engineering/development/enablement/memory/) to ensure it is affordable to run our open source version.
-1. A [tiered pricing model](/handbook/ceo/pricing/#four-tiers) with a very low pricepoint for our lowest tier.
+1. A [tiered pricing model](/handbook/ceo/pricing/#three-tiers) with a very low pricepoint for our lowest tier.
 
 ### Infrastructure Bundling
 {:#infrastructure-bundling}
