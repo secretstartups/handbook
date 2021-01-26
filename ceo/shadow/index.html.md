@@ -181,8 +181,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-02-01 | 2021-02-05 | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD |
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
 | 2021-02-16 | 2021-02-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-02-22 | 2021-02-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | AVAILABLE - REMOTE |
+| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
