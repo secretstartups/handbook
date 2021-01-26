@@ -79,7 +79,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
 1. Product Intelligence, Fulfillment, Data, Customer Success, and Sales Weekly Sync
     1. Product Intelligence, Data, Customer Success, and Sales
     1. Goals: Stay in-sync for work across Product Intelligence, Data, Customer Success, and Sales
-    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Product%20Intelligence,%20Fulfillment,%20Data,%20Customer%20Success,%20and%20Sales%20Weekly%20Sync%22)
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:Product%20Intelligence,%20Data,%20Customer%20Success,%20and%20Sales%20Weekly%20Sync)
 1. Monthly sync meeting with the Data team
     1. Attendees: Growth PMs and Data team
     1. Goals: Keep the Data team aware of upcoming changes that may impact them, get proactive feedback on how to set up data and tracking needs
