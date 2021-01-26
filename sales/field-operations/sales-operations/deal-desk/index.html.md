@@ -281,7 +281,7 @@ This requires two steps: first combining the subscriptions, then cancelling the 
 * Add 50 seats to the existing 100 and close as usual;
 * Once closed, create a new opportunity to cancel subscription 2 on the day before the start date of the previous quote e.g. 2018-03-31;
 
-#### Quoting Guide: Starter/Bronze End of Availability + Silver/Gold Re-naming
+#### Quoting Guide: Starter/Bronze End of Availability + Tier Re-naming
 
 **As of 10:00am ET on Tuesday, 2021-01-26, the following changes have been made to the quoting process in relation to the end of availability of Starter/Bronze:**
 
