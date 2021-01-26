@@ -60,6 +60,22 @@ Each month, one All-Direct will join the Key Rotation. This person will be expec
 
 Participants can sign up in the Key Rotation Schedule.
 
+#### All Directs Key Rotation Schedule
+
+| Month | All-Direct |
+| ------ | ------ |
+| 2021-02 | AVAILABLE |
+| 2021-03 | AVAILABLE |
+| 2021-04 | AVAILABLE |
+| 2021-05 | AVAILABLE |
+| 2021-06 | AVAILABLE |
+| 2021-07 | AVAILABLE |
+| 2021-08 | AVAILABLE |
+| 2021-09 | AVAILABLE |
+| 2021-10 | AVAILABLE |
+| 2021-11 | AVAILABLE |
+| 2021-12 | AVAILABLE |
+
 ## Meeting Format
 
 There are three meeting formats.
