@@ -20,7 +20,8 @@ As a Support Manager at GitLab, you will be focusing on the following things:
 - Enable our engineers to explore process change in a scalable way
 
 You can read more about the role below:
-[Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
+- [Support Manager Responsibilities](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html)
+- [Support Management Job Family](https://about.gitlab.com/job-families/engineering/support-management/)
 
 ## How to see what the Support managers are working on
 
@@ -116,7 +117,6 @@ These criteria and actions came from the [Metrics Analysis Workgroup](metrics-an
 ## OKR's
 
 All Support Engineering Managers have at least 1 [OKR](https://about.gitlab.com/company/okrs/#what-are-okrs) each quarter. Each managers' OKR should align with one of the department level OKR's, although the scope may be smaller (confined to a region/team of direct reports rather than globally impactful). While OKR's are important, they are not the most important thing for managers to work on. To the end of effectively managing Support Engineers, a managers focus should be on:
-
 
 1. [KPIs](https://about.gitlab.com/handbook/support/performance-indicators/)
 2. Team Growth (Hiring and Development)
