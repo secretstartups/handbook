@@ -605,7 +605,7 @@ On February 14, or the Tuesday after if this day falls over the weekend or on Mo
 1. Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
 1. Ask other team members to reexamine how existing meetings are managed
 
-This event is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in #company-fyi Slack channel.
+This event is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
 ### Common Meeting Problems
 
