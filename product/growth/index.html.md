@@ -63,39 +63,39 @@ In addition to the weekly Growth meeting, Growth team members participate in the
 1. Weekly Growth Engineering
     1. Attendees: Growth team members
     1. Goals: Discuss anything Growth engineering related.
-    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20Engineering%20Weekly%22)
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Engineering%20Weekly%22)
 1. Weekly Product Intelligence and Data Weekly Sync
     1. Attendees: Product Intelligence and Data
     1. Goals: Stay in-sync for work across Product Intelligence, Data Engineering, and Data Analysis.
-    1. Agenda: [link](https://docs.google.com/document/d/1csx0ZLhRIu_JcG2mXsmB14RA9oQfTtfO-p0Dywi9w9I/edit?usp=sharing)
-1. Weekly Growth EM Staff Meeting
-    1. Attendees: Growth EMs
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Product%20Intelligence%20and%20Data%20Sync%22)
+1. Weekly Growth & Threat Management EM
+    1. Attendees: Growth & Threat Management EMs
     1. Goals: Stay in-sync on growth engineering efforts.
-    1. Agenda: [link](https://docs.google.com/document/d/1SgoDre0anuIX_Qlg_fY5M_tgq4CWOeovA_MOvCtIugU/edit#heading=h.ygginho2r29b)
-1. Bi-weekly growth PM sync
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:Growth%20%26%20Threat%20Management%20EM%20Staff%20Weekly%20Agenda)
+1. Weekly Growth PM sync
     1. Attendees: Growth PMs
     1. Goals: Stay in sync as a PM team, discuss PM specific issues/ideas
-    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Bi-Weekly%20Growth%20PM%20Team%20Call%22)
-1. Bi-weekly sync with Product Intelligence, Data, Customer Success, and Sales
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Weekly%20Growth%20PM%20Team%20Call%22)
+1. Product Intelligence, Fulfillment, Data, Customer Success, and Sales Weekly Sync
     1. Product Intelligence, Data, Customer Success, and Sales
     1. Goals: Stay in-sync for work across Product Intelligence, Data, Customer Success, and Sales
-    1. Agenda: [link](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit?usp=sharing)
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:Product%20Intelligence,%20Data,%20Customer%20Success,%20and%20Sales%20Weekly%20Sync)
 1. Monthly sync meeting with the Data team
     1. Attendees: Growth PMs and Data team
     1. Goals: Keep the Data team aware of upcoming changes that may impact them, get proactive feedback on how to set up data and tracking needs
-    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20Data:Growth%20PM%20Sync)
+    1. Agenda: [link](https://drive.google.com/drive/u/0/search?q=type:document%20title:%20Data:Growth%20PM%20Sync)
 1. Monthly sync with Growth Marketing
     1. Attendees: Growth PMs and Growth Marketers
     1. Goals: Stay in-sync and work as efficiently as possible together
-    1. Agenda: [link](https://drive.google.com/drive/u/1/search?q=title:%20%22Growth%20//%20Marketing%20Sync%22)
+    1. Agenda: [link](https://drive.google.com/drive/u/0/search?q=type:document%20title:%20%22Growth%20//%20Marketing%20Sync%22)
 1. Monthly sync with Product, Legal, Compliance, Data, and Privacy
     1. Attendees: Product, Legal, Compliance, Data, and Privacy
     1. Goals: Answer any legal, compliance, and privacy concerns
-    1. Agenda: [link](https://docs.google.com/document/d/1g5DjHNw1bqE7oSH29XneMjn9WCS9Bjcd0jja_2VPjOM/edit?usp=sharing)
+    1. Agenda: [link](https://drive.google.com/drive/u/0/search?q=type:document%20title:%20%22Data%20Governance%20Monthly%20Sync%22)
 10. Monthly sync with Growth section and Application Security
     1. Attendees: Product, Engineering, Application security
     1. Goals: Growth / Application Security stable counterparts monthly discussion
-    1. Agenda: [link](https://drive.google.com/drive/search?q=title:%22Growth%20section%20and%20appsec%22)
+    1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20section%20and%20appsec%22)
 
 
 ### Growth Deliverables
