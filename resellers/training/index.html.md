@@ -1,7 +1,17 @@
 ---
-layout: markdown_page
-title: "Channel Partner Training, Certifications and Enablement"
+layout: handbook-page-toc
+title: "Channel Partner Training, Certifications, and Enablement"
+description: "To support and scale GitLab’s continued growth and success, the  Enablement Team is developing a learning program that includes functional, soft skills, and technical training for channel and alliances partners"
 ---
+
+## Partner Training, Certifications, and Enablement  
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+---
+
 ## Training, Certifications and Enablement
 
 GitLab has created a robust training and certification program to enable partners in our ecosystem to sell, market, service and support GitLab prospects and customers.  Training materials and learning paths have been developed to support different partner roles:
