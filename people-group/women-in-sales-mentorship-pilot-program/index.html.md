@@ -153,6 +153,7 @@ Interested in what other mentorship opportunities exist at GitLab? Check out the
 # Reverse Ask Me Anything with Black Team Members 
 
 The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this underrepresented group to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/).
+
 **Benefits**
 * Improve efforts at driving inclusion and belonging at every level
 * Enhance open communication
