@@ -281,7 +281,46 @@ This requires two steps: first combining the subscriptions, then cancelling the 
 * Add 50 seats to the existing 100 and close as usual;
 * Once closed, create a new opportunity to cancel subscription 2 on the day before the start date of the previous quote e.g. 2018-03-31;
 
-bloop!
+#### Quoting Guide: Starter/Bronze End of Availability + Silver/Gold Re-naming
+
+**As of 10:00am ET on Tuesday, 2021-01-26, the following changes have been made to the quoting process in relation to the end of availability of Starter/Bronze:**
+
+* Starter/Bronze SKUs will no longer be selectable for new subscription quotes. 
+* Starter/Bronze new subscription deals quoted before 2021-01-26 will be honored and booked through and until the Quote Expiration Date provided that they have received CRO approval.
+* Starter/Bronze SKUs will still be selectable for amendment and renewal quotes. Existing Starter/Bronze subscriptions can be amended to add users at the current list price, or renewed for one year at the current list price, until 2022-01-26. Any discounts applied to Starter/Bronze Add-Ons or Renewals will be subject to the [standard discount approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#).
+
+**Silver/Premium + Gold/Ultimate Legacy SKU Quoting Guide**
+
+As of 10:00am ET on Tuesday, 2021-01-26, the following changes have been made to the quoting process in relation to the renaming of Silver and Gold:
+
+Salesforce Guided Selling filters have been updated. Legacy SKUs have been removed where appropriate, resulting in a shorter, cleaner list of products that can be sold. Legacy SKUs from previous product deprecations have also been removed.
+
+* All legacy Premium, Silver, Gold, and Ultimate SKUs will begin the deprecation process. **New SKUs have been created in place of these legacy SKUs:**
+
+| New Rate Plan Name      | Legacy Name |
+|-------------------------|-------------|
+| SaaS - Premium          | Silver      |
+| Self-Managed - Premium  | Premium     |
+| SaaS - Ultimate        | Gold        |
+| Self Managed - Ultimate | Ultimate    |
+
+* **New Business:** New Subscription quotes can only be created using the new SKUs listed above. 
+* **Add-Ons:** For existing subscriptions that contain legacy SKUs, all Amend Subscription quotes will use the existing legacy SKU. i.e. If you upsell an existing Gold subscription, your amendment quote and Order Form will still use the legacy Gold SKU.
+* **Renewals:** For existing subscriptions that contain legacy SKUs, **all Renew Subscription quotes will require that the legacy SKU be removed from the quote, and that the new SKU be added to the quote in its place for the renewal.** When quoting a renewal, *please follow the steps below to change the SKU:*
+  * First, click **Select Products**
+  * On the **Edit Products and Charges** page, select "Add Products"
+  * Click "Select" and then click "Add Base Products"
+  * Select the new SKU. Click Next.
+  * Select the **Remove** drop down button next to the legacy SKU.
+  * On the new SKU, adjust the quantity and pricing as needed. Click "Submit."
+  * Note: On the Order Form, the legacy SKU will appear as "Removed."
+
+* **Legacy SKU Grace Period**: Any quotes/Order Forms created before 2021-01-26, on which a legacy SKU was used, will be accepted for booking. All quotes/Order Forms created on or after 2021-01-26 must follow the applicable quoting requirements for each quote type listed above.
+
+**Quote Discount Approval Module Updates**
+
+* The quote approval module has been updated to recognize the new Premium and Ultimate SKUs referenced in the table above.
+* The quote approval module has been updated to recognize the [Starter/Bronze EoA Option 2 upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) (one year renewal/add-on upgrade).
 
 #### Professional Services Quote
 
