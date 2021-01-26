@@ -42,6 +42,31 @@ Instead of managing these via Zendesk itself, we instead us the
 GitLab project. This allows us to have version-controlled views. See the
 project for more details.
 
+A general table of the current views present in Zendesk is as follows:
+
+| View Name                                 | Groups that can see it                   | Purpose                                                                                                                                                                      |
+|-------------------------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| My Assigned Tickets                       | Shared*                                  | For tickets assigned to you                                                                                                                                                  |
+| Security                                  | Security                                 | For tickets using the Security form                                                                                                                                          |
+| Accounts Receivables / Refunds            | Billing                                  | For tickets using the Billing form                                                                                                                                           |
+| Professional Services Queue               | Professional Services                    | For tickets using the Professional Services Form                                                                                                                             |
+| Needs Org & Triage                        | Support AMER, Support APAC, Support EMEA | For tickets missing an organization or in need of triaging                                                                                                                   |
+| .com Needs Assignee: REGION + All Regions | Support REGION                           | For SaaS tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions         |
+| .com with SLA                             | Support AMER, Support APAC, Support EMEA | This shows all SaaS tickets that have a SLA                                                                                                                                  |
+| .com Accounts, Groups, Logins             | Support AMER, Support APAC, Support EMEA | This shows all SaaS Account tickets                                                                                                                                          |
+| Free/Self-Provisioned Trial Support       | Support AMER, Support APAC, Support EMEA | This if for free customer, trial, and prospect non-SaaS Account tickets                                                                                                      |
+| SM Needs Assignee: REGION + All Regions   | Support REGION                           | For Self-Managed tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
+| SM with SLA                               | Support AMER, Support APAC, Support EMEA | This shows all Self-Managed tickets that have a SLA                                                                                                                          |
+| License & Renewals                        | Support AMER, Support APAC, Support EMEA | This shows all tickets using the form L&R                                                                                                                                    |
+| First Response Hawk                       | Support AMER, Support APAC, Support EMEA | This shows paid support, prospect, and former customer support tickets with a New status                                                                                     |
+| Follow-up Required                        | Support Managers                         | This shows all assigned open/on-hold tickets that are at least 14 days old                                                                                                   |
+| Area of Focus Placeholder                 | Support AMER, Support APAC, Support EMEA | This is a placeholder view for the Areas of Focus workgroup                                                                                                                  |
+| View Placeholder                          | Support AMER, Support APAC, Support EMEA | This is a placeholder view. We don’t know what it will be yet.                                                                                                               |
+| New                                       | Shared                                   | This shows all tickets with a status of New                                                                                                                                  |
+| Open                                      | Shared                                   | This shows all tickets with a status of Open                                                                                                                                 |
+| Pending                                   | Shared                                   | This shows all tickets with a status of Pending                                                                                                                              |
+| On-hold                                   | Shared                                   | This shows all tickets with a status of On-hold                                                                                                                              |
+
 ### View Information
 
 Currently, Zendesk has 3 view types:
