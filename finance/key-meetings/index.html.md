@@ -52,7 +52,7 @@ Functions that have these meetings are:
 
 If you would like to be added to a function's Key Meeting post in [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
-### All-Directs Key Meeting Rotation Program Attendance
+### All-Directs Key Rotation Program 
 
 We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The All-Direct Rotation Program is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
 
