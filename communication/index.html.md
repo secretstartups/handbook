@@ -597,6 +597,16 @@ You are encouraged to talk to your manager for guidance on how best to embrace F
 
 Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-04-30.
 
+### Meeting Cleanup Day
+
+On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make contiuining meetings more productive. Team members should be empowered to:
+
+1. Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
+1. Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
+1. Ask other team members to reexamine how existing meetings are managed
+
+This event is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in #company-fyi Slack channel.
+
 ### Common Meeting Problems
 
 Meetings are incredibly expensive since they require synchronous time.
