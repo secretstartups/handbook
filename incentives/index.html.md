@@ -178,6 +178,14 @@ graph TD;
 1. Notify Payroll of the bonus.
 1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
 
+#### Communicating Discretionary Bonuses
+
+As a general rule, the nominated team member's direct manager should be the only person who communicates discretionary bonuses. The manager will receive final notification via BambooHR or the nominator bot (depending on where the nomination process was initiated) and will know when the nomination has gone through all levels of approval. 
+
+The exception to this rule could be for working group bonuses if a single person nominated a group. If the nominator would like to announce on behalf of the group, they should:
+* **Confirm that all bonuses have gone through all layers of approval**
+* Confirm with each nominees direct manager that it is ok for them to announce on behalf of the group
+
 #### GitLab Anniversaries
 
 At 10:00 UTC on Thursday of every week, `PeopleOps Bot` slack bot will send a shout out on the `#team-member-updates` channel congratulating all team members who celebrates a hire date anniversary that week.
