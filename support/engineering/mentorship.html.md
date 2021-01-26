@@ -15,7 +15,7 @@ As a mentee, it's important to remember the following:
 
 ### Expectations of a mentor
 
-#### How to set up mentoring sessions
+#### How to set up quick mentoring as pairing sessions
 
 Anyone in Support Engineering can act as a mentor, but this page is specifically about how Senior+ Engineers can set up and be intentional about mentoring others. Through a [trial in November 2019](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2704) we determined the following guidelines:
 
@@ -35,3 +35,35 @@ As a mentor it's important to remember:
 1. Seek to land on a common understanding so that it's clear that you both understand each other.
 1. Try to avoid using "shortcuts" or "simplifications" unless you and the mentee agree there is a common understanding.
 1. Empathy is key. Meet the engineer where they are, and support them as we would a customer.
+Beyond just Pairing, Senior+ Engineers can consider more longer-form  structured mentorship. We currently advise aiming for a 6 week long program with a concrete goal for the close of the mentorship program to help keep both parties focused and moving forward.
+### Example Mentoring Program
+
+The following is an outline of a six-week mentoring program on log parsing with `jq` and intrepreting `strace`, with one-hour meetings held weekly.  Example projets include creating a runbook and adding new pages to our troubleshooting documentation.
+
+- Week 1:
+   - Intro: What does the mentee want from this, what can the mentor offer
+   - Goals: If possible, decide what the mentee is most interested in and potential projects for them to take on
+      - It's fine if this is not clear yet, it should become easier to answer as the program continues
+   - Mentor gives intro to topics
+- Week 2:
+   - Mentor demos `jq`
+   - Mentee solves sample problems
+   - Mentee is given a take-home assignment
+- Week 3:
+   - Review take-home assignment results
+   - Go over `strace` of a simple program
+   - Mentee runs their own trace and explains what they see
+   - Take-home assignment, review `strace` for cause of error
+- Week 4:
+   - Review take-home assignment
+   - Review more complex `strace` output, such as Gitaly
+   - Finalize mentee project, if not already done
+Week 5:
+   - Advanced `jq` techniques
+   - Advanced `strace` techniques
+   - Check-in on project status
+Week 6:
+   - Review/finalize project
+   - Post-mortem: what went worked? what didn't?
+
+Depending on the complexity and time available to the mentee, finishing the project may take several more weeks, with meetings held as needed.
