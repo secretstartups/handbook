@@ -73,6 +73,8 @@ This page outlines the Quote to Cash process, starting from account and opportun
 
 The following is a high level guide to quote types and important quote information to note before processing an order. Review the [**Go To Market Handbook**](/handbook/sales/field-operations/gtm-resources/#how-to-create-an-opportunity) for opportunity creation instructions, and opportunity management guidelines. Review the [**Deal Desk Quote Configuration Guide**](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) for written instructions and video tutorials specific to each quote type.
 
+Reference Link: Quoting Guide: [Starter/Bronze End of Availability + Tier Re-naming](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-guide-starterbronze-end-of-availability--silvergold-re-naming)
+
 ### Standard Quote Types
 
 There are 4 different types of quotes - New Subscription, Amend Existing, Renew Existing, Cancel Existing. The correct quote type must be used for each opportunity.
