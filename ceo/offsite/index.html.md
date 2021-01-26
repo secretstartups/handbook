@@ -130,7 +130,7 @@ The CoS gives the finance team exec admin and fp&a team a heads up at least two 
 ## Agenda and Documenting
 
 We take notes in a Google Doc that contains the SSoT of the agenda.
-At least 1 month prior, the doc is created and proposed topics for discussion should be added to the bottom of the doc.
+At least 1 month prior, the doc is created and proposed topics for discussion should be added to the bottom of the doc. Each proposed topic should include a clear definition of what we are trying to achieve in the discussion (a decision made, a chance for E-Group to give feedback, etc.). E-Group sponsors are responsible for providing context to team members who they plan to include in discussion preparation or participation. This could take the form of a 15 minute meeting to align on goals for the discussion and what material should be prepared in advance. 
 (The CoS will pull from here when prioritizing and planning.)
 Please add links to relevant materials, issues, or proposals up front.
 When there is an issue or doc linked, we take notes there, instead of in the overall doc.
