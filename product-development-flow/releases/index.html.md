@@ -3,6 +3,29 @@ layout: handbook-page-toc
 title: Product develoment flow releases
 ---
 
+
+**13.8 (2021-01-22)**
+
+- Incorporate feedback from and close remaining issues on from the PD-FLOW Working group board
+- General GitLab team contributions
+
+[Create new directory and handbook page for success metrics of PD Flow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/72532)
+
+[Add Design Sprint Template to issue templates](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/51226)
+
+[Clarify ownership of maintaining issues as SSOT](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71492)
+
+[Linked to iteration strategies where iteration was mentioned](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71213)
+
+[Update pdflow page change instructions to reflect latest process needs](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71006)
+
+[Product development flow releases page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70796)
+
+[Add validation spectrum to PDF](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70793)
+
+[Remove workflow::production label from Launch phase of pd-flow](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/70391)
+
+
 **13.7 (2020-12-22)**
 
 - Incorporate feedback from 13.6 Gitlab [dogfooding](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9453) and [13.5 engineering review feedback](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9263)
