@@ -272,7 +272,7 @@ When you give leadership training please [screenshare the handbook instead of cr
 
 ### Manager Enablement
 
-Managers can participate in a [4 week manager training program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing foundational management skills to lead high performing teams.
+Managers can participate in our [manager challenge program](/handbook/people-group/learning-and-development/manager-challenge/), focused on developing foundational management skills to lead high performing teams.
 
 ## People Group
 
