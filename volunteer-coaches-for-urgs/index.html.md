@@ -63,6 +63,7 @@ GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 | Volunteer   | Start  | End | Topic | 
 |-------------|--------|-----|-----|
 | Wayne Haber |  TBD | TBD | Technical career advice |
+| [Daniel Parker](/company/team/#djparker) | TBD | TBD | Javascript, Python, HTML/CSS, Project feedback, Technical career advice |
 | TBD         |        |     |     |
 
 
