@@ -44,7 +44,13 @@ There will be an automated private note by the "Support Uploader Bot" in the tic
 
 The files are currently stores in an S3 bucket which all Support team members should have access to, you can use the link generated above to access it, which will be listed in the internal comment on the ticket.
 
-![suploader_awsS3](/images/support/suploader_awsS3.png)
+Team members view:
+
+![support_engineer_view](/images/support/support-uploader-download-artifact.png)
+
+AWS admin view:
+
+![bucket_admin_view](/images/support/suploader_awsS3.png)
 
 ## FAQ
 
