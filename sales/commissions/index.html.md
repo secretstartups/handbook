@@ -97,7 +97,7 @@ Most commission plans are paid monthly; however there are some plans that are pa
 |Professional Services Engineer| 90| 10|
 |Demo Systems Engineer| 90| 10|
 |Professional Services Practice Manager| 85| 15|
-|Professional Services Technical Instructor| 85| 15|
+|Professional Services Technical Instructor| 90| 10|
 |Professional Services Engagement Manager| 80| 20|
 
 ### **Commission Rates**
