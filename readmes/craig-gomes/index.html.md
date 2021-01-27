@@ -42,6 +42,15 @@ In that same vein, hold me accountable to what I have promised.  At a minimum, I
 
 When I have topics that I need to share with you I will give you as much advanced notice as I can.
 
+### Productivity Tips
+
+These are some tips I've learned over the years to help with my productivity. Hopefully they help you and feel free to suggest more.
+
+- Google Docs - when pasting a URL simply add a space after it to make the link clickable. It's much faster than highlighting, right clicking, etc.
+- Open Link in New Tab - hold down the cmd button and click the link. You don't need to right click and use the context menu.
+
+[Setting up keyword searches on Chrome](https://about.gitlab.com/handbook/tools-and-tips/searching/#setting-up-keyword-searches-on-chrome) has been a productivity booster for me for years. This goes back to 2016 and a blog post I wrote about setting up a [JIRA ticket search in Google Chrome Omnibox](https://puppet.com/blog/jira-ticket-search-google-chrome-omnibox/). I have added all of my shortcuts to the [handbook](https://about.gitlab.com/handbook/tools-and-tips/searching/#setting-up-keyword-searches-on-chrome).
+
 ### Personality quirks
 
 One personality quirk that has been mentioned frequently is that I'm fairly quiet and when I do talk I can be terse.  I have even earned the nickname "Groot" because of this.
