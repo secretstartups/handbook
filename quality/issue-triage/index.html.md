@@ -91,7 +91,7 @@ This indicates the expected timeline & urgency which is used to measure our SLO 
 | `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
 | `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
-If a transient bug is related to the merge request (MR) experience in our code review and continuous integration group, priority is tied to severity in the following manner:
+If a bug is related to the merge request (MR) experience, priority is tied to severity in the following manner:
 
 | MR bug severity | Minimum priority |
 |-|-|
