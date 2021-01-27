@@ -494,42 +494,34 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 **Medical**
 
-| Tier                           | UHC HSA   | UHC EPO (A/B) |  UHC PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
+| Tier                           | Cigna EPO   | Cigna HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Team Member + Domestic Partner | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |
-| Team Member + Spouse           | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |            
-| Team Member + Child(ren)       | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Family                         | $1,129.41 |   $1,511.63   | $1,508.19  |     $1,521.31     |     $1,521.31    |    $1,877.34   |   $1,445.49  |
-| Spouse Only                    | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Spouse + Child(ren)            | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Child Only                     | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
+| Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
+| Team Member + Domestic Partner | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19    |    $1,614.88   |   $990.83    |
+| Team Member + Spouse           | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19   |    $1,614.88   |   $990.83    |            
+| Team Member + Child(ren)       | $1,063.98   |   $797.22     | $1,039.70    |     $1,086.73     |     $1,086.73   |    $1,468.08   |   $891.75    |
+| Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
+
 
 **Dental**
 
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $38.99   |
-| Team Member + Domestic Partner |   $77.48   |
-| Team Member + Spouse           |   $77.48   |
-| Team Member + Child(ren)       |   $89.62   |
-| Family                         |   $137.49  |
-| Spouse Only                    |   $38.99   |
-| Spouse + Child(ren)            |   $89.62   |
-| Child Only                     |   $38.99   |
+| Team Member Only               |   $39.77   |
+| Team Member + Domestic Partner |   $79.03   |
+| Team Member + Spouse           |   $79.03   |
+| Team Member + Child(ren)       |   $91.41   |
+| Family                         |   $140.24  |
 
 **Vision**
 
 | Tier                           | Cigna VPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $7.51    |
-| Team Member + Domestic Partner |   $15.05   |
-| Team Member + Spouse           |   $15.05   |          
-| Team Member + Child(ren)       |   $12.74   |
-| Family                         |   $21.01   |
-| Spouse Only                    |   $7.51    |
-| Spouse + Child(ren)            |   $12.74   |
-| Child Only                     |   $7.51    |
+| Team Member Only               |   $7.66    |
+| Team Member + Domestic Partner |   $15.35   |
+| Team Member + Spouse           |   $15.35   |          
+| Team Member + Child(ren)       |   $12.99   |
+| Family                         |   $21.43   |
 
 ## Audit Processes
 
