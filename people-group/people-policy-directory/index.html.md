@@ -129,7 +129,7 @@ GitLab currently contracts with [Sterling Talent Solutions](https://www.sterling
 
 All candidates who make it to the reference stage with GitLab will undergo a background screening according to this policy and in compliance with applicable local law. Contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available on the scheduled hire date due to delays in processing, GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. 
+The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate all retroactive background checks for current team members.
 
 #### Disclosure and Authorization
 
@@ -139,7 +139,7 @@ To prepare for the employment verification for those candidates being considered
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
-#### Review Criteria
+#### Review Criteria for Candidates
 
 Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of recruiting:
 
@@ -150,6 +150,17 @@ Once the background check is completed, Candidate Experience Specialists will re
 - If the decision is that the hiring process can continue the PBP will present the recommendation to the hiring manager and VP of the department for review
 - The hiring manager and the department VP will make the final decision on whether to proceed with the hire 
 - The hiring manager will inform the PBP and recruiter of their final decision on whether to proceed with the hire
+
+#### Review Criteria for Current Team Members
+
+Once the background check is completed, the People Compliance Specialist will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill their job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes. In addition, the report should be reviewed for serious omissions or inaccuracies contained in the employment application or made during the interview process. If the report is clear, then no action is taken. If the report shows any serious omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the People Compliance Specialist will reach out to the aligned People Business Partner and share the report.
+
+- The PBP will review the report, gather the background information and make a recommendation on potential next steps to Legal - Employment.
+- Legal - Employment will review the information to ensure that the adjudication process complies with applicable law in the jurisdiction.
+- In consultation with Legal - Employment, the PBP will determine whether any actions are deemed necessary and will then involve the team member's manager.
+- If the decision is that the team member can continue their role at GitLab even with the knowledge of these violations, the PBP will present the recommendation to Legal - Employment, to the team member's manager and VP of the department for review.
+- Legal - Employment, the manager and the department VP will make the final decision on any possible actions, from a direct discussion, to PEP, or up to possible immediate termination.
+- The team member will always be given a chance to explain any convictions, omissions, inaccuracies or relevant point in their background check that is deemed material to the successful ability to fulfill their job duties.
 
 #### US Citizens only: 
 
