@@ -150,29 +150,29 @@ You are eligible to apply for the program if you meet the requirements below:
 
 Interested in what other mentorship opportunities exist at GitLab? Check out the [Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/) pilot program! 
 
-# Reverse Ask Me Anything with Black Team Members 
+# Reverse Ask Me Anything with Underrepresented Groups
 
-The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this underrepresented group to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/).
+The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
 
 **Benefits**
 * Improve efforts at driving inclusion and belonging at every level
 * Enhance open communication
 * Direct access to the leadership
 * Opportunity to share experiences and provide feedback
-* Improve Recruiting, Retention and Mobility of underrepresented groups.
-* Continue to grow our great network of diverse talent. 
+* Improve Recruiting, Retention and Mobility of underrepresented groups
+* Continue to grow our great network of diverse talent
 
 **Goals**
-* To continue the momentum of conveying genuine empathy and solidarity for our Black team members
-* To address areas of challenges and opportunities identified by Black Sales team members
+* To continue the momentum of conveying genuine empathy and solidarity for our underrepresented team members
+* To address areas of challenges and opportunities identified by underrepresented team members
 * To allow for open, honest communication within a specific format
 * To increase interaction between Sales Leadership and team members
 * To identify opportunities to implement specific DI&B initiatives with leadership support
 
 **Format**
 * A 50 minute closed Zoom call
-* Attendees: CRO and interested Sales Team members who identify as Black
-* Questions asked by CRO, answered by Black Sales team members
+* Attendees: E-Group member and interested team members in the relevant department who identify as part of the underrepresented group
+* Questions asked by the E-Group member, answered by underrepresented group team members
 * Format facilitated by People Business Partners
 
 **Schedule**
