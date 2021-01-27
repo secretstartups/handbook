@@ -610,7 +610,7 @@ _I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handboo
 
 When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
 
-_I reassessed this meeting as part of [Calendar Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen [ENTER CURRENT CADENCE]. Going forward, I will schedule it for [ENTER NEW CADENCE]. Please get in touch if you have any concerns. _
+_I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen [ENTER CURRENT CADENCE]. Going forward, I will schedule it for [ENTER NEW CADENCE]. Please get in touch if you have any concerns. _
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
 
