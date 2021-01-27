@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Zendesk Processes
-derscription: Support Operations Zendesk processes for Users, Organizations, Suspended and Deleted Tickets.
+description: Support Operations Zendesk processes for Users, Organizations, Suspended and Deleted Tickets.
 ---
 
 # Zendesk Processes
