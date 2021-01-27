@@ -59,7 +59,7 @@ Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://
 
 ### Merge request
 
-Open a merge request for your blog post using the `unfiltered blog post` MR template. Make sure your MR is set to close your associated issue automatically.
+Open a merge request for your blog post using the `unfiltered blog post` MR template, adding your post to the /marketing/source/blog/blog-posts/ folder. Make sure your MR is set to close your associated issue automatically.
 
 Create your blog post file, following the instructions in the main [blog handbook](/handbook/marketing/blog/#formatting-guidelines). You may do this before you open your MR, depending on your preferred workflow.
 
