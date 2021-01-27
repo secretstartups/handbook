@@ -139,7 +139,8 @@ GitLab's Handbook pages grow every day. Each page serves as GitLab's primary sou
 
 Two types of CEO handbook learning sessions: 
 1. **Handbook Readout:** Bit-sized recording where the L&D team and the CEO review what is on the page. (5 minute video)
-2. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members with targeted Q&A on the material. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. (25 minute video)
+2. **Handbook Discussion:** Interactive discussion where L&D facilitates an engaging conversation with the CEO and e-group members. We openly discuss the concepts on the page and allow senior leaders to share best practices implementing them. (25 minute video)
+3. **Handbook Interview:** The Learning and Development team will create new pages, create sub-pages, or update existing pages based on interview topics discussed during a targeted Q&A. The video will serve as the foundation for new learning content at GitLab. 
 
 The video below from Sid and L&D further explains the concepts: 
 
