@@ -82,6 +82,7 @@ In our continuous integration environment, people with merge permissions are the
 1. Will or should this code impact any automated tests? If so, do they work as expected?
 1. Are there any new javascript console errors or warnings introduced?
 1. Please disable any console logs before merging.
+1. Check for problems with [unused variables and side effects in Webpack](https://gitlab.com/gitlab-com/www-gitlab-com/blob/195b86f68f9689d6e567e0dee7d75ca678df720e/doc/webpack.md#L182). 
 
 ### Conversion
 
