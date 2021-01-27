@@ -55,7 +55,7 @@ contents of those files also in the onboarding issue.
 
 ##### Interns
 
-If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command. There is an extra subtemplate that will be added to the main onboarding issue (just like we do for country, department, etc). 
+If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command. There is an extra subtemplate that will be added to the main onboarding issue (just like we do for country, department, etc).
 
 #### Closing outdated onboarding issues
 
@@ -82,7 +82,7 @@ will close all the onboarding issues created before 60 days from that date.
 
 ### Interview Training & Becoming a Manager
 
-There's a scheduled pipeline that runs every day that checks for hires that started a week ago. 
+There's a scheduled pipeline that runs every day that checks for hires that started a week ago.
 For those hires we will have a look if the incoming
 team member will be a people manager. Currently there's no exact field
 on BambooHR for us to check this. The way we do this is by by looking
@@ -127,7 +127,7 @@ contents of those files also in the offboarding issue.
 
 #### Offboarding Issue commenting
 
-When a team member is offboarded, there's a redirect rule that is setup on GSuite for
+When a team member is offboarded, there's a redirect rule that is setup on Google Workspace for
 the outgoing team member. After 5 days this redirect rule needs to be removed.
 To make sure this isn't forgotten, a scheduled pipeline is set up for the bot to leave a
 GitLab issue comment reminding the People Experience Associates to removes the rule.
