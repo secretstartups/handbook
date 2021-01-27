@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Guide to the Required 7
+description: >-
+  The Required 7 are the 7 tactical skills required to be an excellent
+  Commercial Sales Account Executive at GitLab
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -18,7 +26,7 @@ Next up, you need to send out those two quotes. You create the quotes, send them
 
 You get an alert - a Zendesk ticket has been created. It’s a tier 2 customer, so you have a quick look and see the customer’s got a problem with their pipelines. You know Support is on it, so you leave it and set a next step to check if they’re happy with the resolution in a couple of days.
 
-You have an IQM tomorrow morning, so you spend 15 minutes preparing. You create the deck in the customer’s branding. You add in info from the SDR’s notes and add the link to the deck in the opp. It’s 25 Silver, so you add in the questions you’ll ask in your command plan. You update the next step to remind yourself to update the opp once the IQM has finished.
+You have an IQM tomorrow morning, so you spend 15 minutes preparing. You create the deck in the customer’s branding. You add in info from the SDR’s notes and add the link to the deck in the opp. It’s 25 Premium, so you add in the questions you’ll ask in your command plan. You update the next step to remind yourself to update the opp once the IQM has finished.
 
 It’s time to update your forecast. It takes 10 minutes in Clari because most of the information is already there, as your opportunities in Salesforce are all up to date.
 
@@ -26,7 +34,6 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
 
 ### What are the Required 7?
 
-``` sse
 <table>
   <tr>
    <td><strong>Required component</strong></td>
@@ -69,10 +76,8 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
    <td>It helps us develop our market. Recording win and loss reasons means we can accelerate what is helping us win deals and fix what is making us lose deals.</td>
   </tr>
 </table>
-```
 
 **The required 7 are not optional. They must be up to date by 5pm in your timezone every day.**
-<br>
 # The 7 in detail
 
 ## 1/ Call notes
