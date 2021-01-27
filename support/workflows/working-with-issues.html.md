@@ -62,7 +62,6 @@ For `~customer`+ any label that allows severity (most commonly `~bug`) labeled i
 Optional, but highly recommended:
 
 - [Stage](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#stage-labels)
-- [Subject](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#subject-labels)
 - `~Reproduced on GitLab.com` if applicable
 
 ## Escalate New and Existing Issues
