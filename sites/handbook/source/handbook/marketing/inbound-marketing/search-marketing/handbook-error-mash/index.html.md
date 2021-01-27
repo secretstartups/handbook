@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Handbook error mash"
-description: "Let's fix handbook errors together!"
+title: "Website Health Resolution"
+description: "Let's fix about.gitlab.com together!"
 noindex: true
 ---
 
@@ -11,26 +11,26 @@ noindex: true
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Handbook error mash
+# Website Health New Year Resolution
 {:.no_toc}
 
-As we get close to the end of spooky season, the Inbound Marketing team wants to ask for your help to fix SEO errors across the handbook. For the next two weeks, we're asking teams to look at their section of the handbook and fix duplicate or missing page titles, descriptions, and missing pages. 
+The Search Marketing team wants to ask for your help to fix SEO errors across the handbook. For the next 4 weeks, we're asking teams to look at their section of the handbook and fix duplicate or missing page titles, descriptions, and broken links. 
 
 To help you get started the Search Marketing team recorded a few videos to show how to fix these types of errors and collected errors in a Google Sheet.
 
-As you fix errors, please add the `~handbook-error-mash` label so we can track how many MRs we complete in this iteration and help us improve as we do future iterations of this error mash.
+As you fix errors, please add the `~site-health` label so we can track how many MRs we complete in this iteration and help us improve as we do future iterations.
 
-## Handbook errors Google Sheet
+## Website Health errors Google Sheet
 
-The [Handbook Site Health](https://docs.google.com/spreadsheets/d/17xgjt9jvnf71dA8YHDwD84zrJMQoid012Ot0aYU0igU/edit#gid=470641629) sheet has three tabs, `Duplicate Titles`, `Missing Meta Descriptions`, and `Broken Internal Links`. 
+The [Website Health](https://docs.google.com/spreadsheets/d/1TRfRLrh_dnMVpxGharwMfZBHy8ke62Q50_T7CLkCqEU/edit?usp=sharing) sheet has five tabs, `Missing Meta Descriptions`, `Duplicate Titles`, `Duplicate Meta Descriptions`, `Broken Internal Links` and `Broken External Links`. 
 
-The title and description tabs both have the page with an error, team, and a checkbox to make an error as fixed.
+The title and description tabs both have the page with an error, team, and a checkbox to mark an error as fixed.
 
 The broken link tab lists the link location (where a broken link occurs), the broken link, and the link text. There's also a team listed, and checkbox for completion.
 
 ## Videos
 
-The Search Marketing team made a series of videos showing why fixing these errors will help GitLab's SEO and how to fix each type of issue in the WebIDE. You can find all of these in the [2020 Handbook error mash](https://www.youtube.com/playlist?list=PL05JrBw4t0Kob8oW0viUnFPOvHk_Ki4EX) playlist on GitLab Unfiltered.
+The Search Marketing team made a series of videos showing why fixing these errors will help GitLab's SEO and how to fix each type of issue in the WebIDE. You can find all of these in the [Improving Website Health](https://www.youtube.com/playlist?list=PL05JrBw4t0KpLkZdh-GJdluUjrNeY5X5K) playlist on GitLab Unfiltered.
 
 ### Handbook error mash kickoff video
 
