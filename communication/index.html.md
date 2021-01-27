@@ -965,7 +965,7 @@ This aligns with how we work since everything at GitLab is [public by default](/
 1. If you're sending an email to a large group of people (or a distribution list), put those recipients in BCC (rather than in the "To" field) so that a reply all won't ping hundreds of people.
 1. If you forward an email without other comments please add FYI (for your information), FYA (for your action), or FYC (for your consideration). If you forward an external request with FYC it just means the person who forwarded it will not follow up on the request and expects you to decide if you should follow up or not, the terms comes from [movie promotion to voters](<https://en.wikipedia.org/wiki/For_Your_Consideration_(advertising)>).
 1. Email forwarding rules are specified in the shared [_Email, Slack, and GitLab Groups and Aliases_](https://docs.google.com/document/d/1rrVgD2QVixuAf07roYws7Z8rUF2gJKrrmTE4Z3vtENo/) Google Doc accessible only to people in the company. If you want to be added or removed from an internal alias, change a rule, or add a forwarding email alias, please [suggest an edit](https://support.google.com/docs/answer/6033474?hl=en) in the doc and [submit a new access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
-1. Only G-Suite domain admins are allowed to provision Google Groups and email distributions.
+1. Only Google Workspace domain admins are allowed to provision Google Groups and email distributions.
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become **urgent** feel free to ping people via chat referencing the subject of the email.
 1. If you or your team needs to send an email to a group of team members, not grouped in a current [Google email group](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members), and specifically related to PII (location, state, country, etc) please contact a Total Rewards Analyst at total-rewards@gitlab who can create an email list from BambooHR data, with approval.
@@ -1223,8 +1223,8 @@ Never use a Google Doc / Presentations for something non-confidential that has t
 
 ### Link Sharing
 
-If you _do_ need a Google Doc, create one with your company G Suite (formerly Google
-Apps) account and set the visibility and access controls according to the following guidelines:
+If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
+account and set the visibility and access controls according to the following guidelines:
 
 | **Visibility Setting** | **Use Cases** |
 | --- | --- |
