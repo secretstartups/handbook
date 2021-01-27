@@ -776,7 +776,7 @@ This makes the link more prominent and makes it easier to follow while viewing t
 1. Please always refer to GitLab Inc. people as GitLab team members, not employees.
 1. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
 1. Always write "GitLab" with "G" and "L" capitalized, even when writing "GitLab.com", except within URLs. When "gitlab.com" is part of a URL it should be lowercase.
-1. Always capitalize the names of GitLab products, [product tiers](/pricing/), and [features](/features/). We offer our tiers in "SaaS" and "self-managed" instances for all tiers. Only capitalize `self-managed` if it is in a title (e.g. `Ultimate Self-Managed`).
+1. Always capitalize the names of GitLab products, [product tiers](/pricing/), and [features](/features/). Refer to the [new tier naming structure handbook page](https://gitlab-com.gitlab.io/packaging-and-pricing/pricing-handbook/handbook/renaming_tiers/) for specific guidance on how to properly capitalize product tiers when also indicating what type of instance (self-managed or SaaS).
 1. Refer to environments that are installed and run by the end-user as "self-managed."
 1. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
 1. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
