@@ -21,7 +21,23 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 
 ## REQUESTING CONTENT
 - You are always encouraged to make requests for future content that will help you and the team. Simply complete the form [here](https://forms.gle/2zznmLFznSqJAQUH6).
-  
+
+## GitLab Sales Kick Off 2021
+- The GitLab Legal Team is proud to present **"LEGALIZE IT!"**, an interactive learning session hosted during SKO.
+- People joining our session will: 
+   - Have a chance to participate in "WHO WANTS TO BE A LEGALAIRE" and win prizes!
+   - Learn more about the GitLab Legal Team
+   - Hear about updates and best practices for closing deals!
+   - Gain access to helpful resources
+- Be sure to sign up for the GitLab Legal Booth! Attendance is capped to 10 people, first come first served.  
+- Sessions are available:
+   - Monday (Feb 8th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
+   - Tuesday (Feb 9th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
+   - Wednesday (Feb 10th): 7am - 8am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
+   - Thursday (Feb 8th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
+
+All materials will be made available after SKO. 
+
 
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
