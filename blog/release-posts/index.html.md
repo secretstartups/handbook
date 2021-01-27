@@ -862,6 +862,15 @@ of their group for review (required). The process of the TW review is described 
 The responsibilities of the Engineering Manager are documented in the
 [Engineering Handbook](/handbook/engineering/workflow/release-feature-determination-workflow/).
 
+### Technical Advisors
+
+Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the the release post, which is a time sensitive and highly visible asset fore customers and users, with adequet technical advisement and support, we have a partnership with the GitLab development team to leverage Dev Esclation process (insert exact name/link) via the Slack XX channel. This insures that at all times, if something tecnicall break that the release post team can resolve themselves, they have access to technical experts for resolution.
+
+Below are the types of problems the release post mangers may need help with.  
+
+- 
+- 
+
 ---
 
 ## Monthly release blog post sections
