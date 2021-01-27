@@ -31,17 +31,17 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 1. Please remember to [follow the guidelines on starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. If you're not a host, you can't livestream direct from zoom, so the host will need to do that.
-1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom. 
+1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom.
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
 1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propagate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
-### Livestream with Zoom 
+### Livestream with Zoom
 
 - Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
 
 ![click the more button](/handbook/marketing/marketing-operations/youtube/zoom_livestream_settings.png)
 
-- Click the \[ More ] button and click `Live on YouTube` 
+- Click the \[ More ] button and click `Live on YouTube`
 
 ![click the more button](/handbook/marketing/marketing-operations/youtube/zoom_live_on_youtube.png)
 
@@ -59,7 +59,7 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ### Livestream with OBS
 
-1. Install and launch [OBS Studio](https://obsproject.com/download) 
+1. Install and launch [OBS Studio](https://obsproject.com/download)
 
 1. Allow OBS to automatically configure your settings:
 	![OBS Auto-Config](/handbook/marketing/marketing-operations/youtube/obs_run_autoconfig.png)
@@ -90,7 +90,7 @@ We found that it helps with:
 
 You don't need to be worried that something is not of the high enough quality because:
 
-1. The [GitLab Unfiltered YouTube account](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/) is our casual space for communicating and sharing with the public. Content on the Unfiltered channel includes, but is not limited to, team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and nonformal demos. 
+1. The [GitLab Unfiltered YouTube account](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/) is our casual space for communicating and sharing with the public. Content on the Unfiltered channel includes, but is not limited to, team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and nonformal demos.
 1. Algorithms will ensure that a video will be distributed to the right-sized audience.
 1. We can embed videos if and where they are relevant, for example in docs.
 1. Enhance videos later if we need to ([trim it so it starts immediately](https://support.google.com/youtube/answer/9057455?hl=en), add transcript, extensive description, links to relevant materials).
@@ -160,15 +160,15 @@ We don't post:
 
 ### Never unlisted
 
-We never post [unlisted](https://support.google.com/youtube/thread/10480825?hl=en) videos on any channel: it is too insecure for sensitive materials and not findable enough for public materials.  
-Sometimes, some videos are still posted as unlisted, they can be spotted with this [link](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload?filter=%5B%7B%22name%22%3A%22VISIBILITY%22%2C%22value%22%3A%5B%22UNLISTED%22%5D%7D%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) (while using the `GitLab Unfiltered` account).  
+We never post [unlisted](https://support.google.com/youtube/thread/10480825?hl=en) videos on any channel: it is too insecure for sensitive materials and not findable enough for public materials.
+Sometimes, some videos are still posted as unlisted, they can be spotted with this [link](https://studio.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos/upload?filter=%5B%7B%22name%22%3A%22VISIBILITY%22%2C%22value%22%3A%5B%22UNLISTED%22%5D%7D%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D) (while using the `GitLab Unfiltered` account).
 You can change the visibility of videos by clicking on the `Details` buttons when you hover a video in the list linked above.
 
 ## Unable to view a video on Youtube
 
-If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account. 
-In order to see the video, 
-1. Click your photo or icon in the upper right corner of Youtube. 
+If you get a "Video unavailable This video is private." error on youtube, the error may be caused because the video is private to GitLab Unfiltered and you are accessing the video with your individual Youtube account.
+In order to see the video,
+1. Click your photo or icon in the upper right corner of Youtube.
 
 2. Then Click > Switch Account
 
@@ -178,19 +178,19 @@ In order to see the video,
 
 ![Select-User](/handbook/marketing/marketing-operations/youtube/Youtube_acount.png)
 
-3. Once you are on GitLab unfiltered, **reload** the page and you can view the video 
+3. Once you are on GitLab unfiltered, **reload** the page and you can view the video
 
-Check out [this video](https://www.youtube.com/watch?v=dZtCuOf5aGk) for a visual walk through of how to access private videos on GitLab Unfiltered. 
+Check out [this video](https://www.youtube.com/watch?v=dZtCuOf5aGk) for a visual walk through of how to access private videos on GitLab Unfiltered.
 
 ## Access
 
-1. GitLab branded channel: To request access, create a [Single Person Access Request issue](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and assign the listed provisioner (column G) from the [Tech Stack spreadsheet](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0). 
-1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your GSuite account. If your invitation is not there, please request a new invitation in the `#peopleops` Slack channel.
+1. GitLab branded channel: To request access, create a [Single Person Access Request issue](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and assign the listed provisioner (column G) from the [Tech Stack spreadsheet](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0).
+1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your Google Workspace account. If your invitation is not there, please request a new invitation in the `#peopleops` Slack channel.
 
 ## Commenting & Subscribing to Channels
-Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. **In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.** 
+Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. **In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.**
 
-Consider switching to your personal account, responding to the comment, and identifying yourself as a GitLab employee offering help. 
+Consider switching to your personal account, responding to the comment, and identifying yourself as a GitLab employee offering help.
 
 Please do not comment on videos from non-GitLab YouTube accounts using any company related YouTube profile. Commenting as GitLab is reserved for responses to our owned videos on our channels only.
 
@@ -200,12 +200,12 @@ Should you come across personal, political or inappropriate channel subscription
 
 Our YouTube channels contain a lot of content.
 As a result, it can often be hard to find videos once they are published, particularly on the Unfiltered channel.
-Make liberal use of [tags](https://support.google.com/youtube/answer/146402) and [playlists](https://support.google.com/youtube/answer/57792) to organize the video content you publish. 
+Make liberal use of [tags](https://support.google.com/youtube/answer/146402) and [playlists](https://support.google.com/youtube/answer/57792) to organize the video content you publish.
 For published recordings of recurring meetings, which should be posted on the Unfiltered channel, please search for a playlist to put the video in. If there is no applicable playlist. please create one. You can also create a playlist that would automatically add new videos containing certain text in their titles, descriptions or tags to avoid manual steps ([instructions](https://support.google.com/youtube/answer/6084053?hl=en))
 
 ## Audience on Youtube
 
-When publishing, Youtube will ask if the content is made for kids. GitLab content should be marked as "No, it's not made for kids". 
+When publishing, Youtube will ask if the content is made for kids. GitLab content should be marked as "No, it's not made for kids".
 
 ## Never call it a livestream or just a recording
 
@@ -246,7 +246,7 @@ The below instructions apply to livestreams to YouTube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGwX9zjNr2E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-1. Default to [livestreaming](#live-streaming) instead of uploading. 
+1. Default to [livestreaming](#live-streaming) instead of uploading.
 1. Please follow the process for [starting the recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. Unless stated or arranged otherwise, our expected behavior is that the meeting organizer is responsible for distributing the video after the meeting.
 1. Log in to the [Zoom](https://zoom.us/) account of the meeting and go to the menu on the right and choose "My Recordings" (it can take up to 30 minutes before the recording is available to be shared).
