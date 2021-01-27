@@ -139,7 +139,7 @@ If you have a question or concern and need to speak with the Security Team, you 
   If any systems provide an option to use SMS text as a second factor, this is highly discouraged.
   Phone company security can be easily subverted by attackers allowing them to take over a phone account.
   _(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))_
-1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, G Suite, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). Popular choices include Yubico's YubiKey and Solokeys' Solo Security Key. For more information on U2F and choices, visit the [Tools and Tips page](/handbook/tools-and-tips/#u2f).
+1. A Universal 2nd Factor or [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor) hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). Popular choices include Yubico's YubiKey and Solokeys' Solo Security Key. For more information on U2F and choices, visit the [Tools and Tips page](/handbook/tools-and-tips/#u2f).
 1. When signing up for a new service on behalf of GitLab:
    - Request a [Security Review](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=SOC%20Report%20Review) by opening an issue in the Compliance project.
    - If shared access is required by multiple team members to a single account,
@@ -864,7 +864,7 @@ To forward the email as an attachment from inside GMail:
 GMail also offers the option to report the email directly to Google as a
 phishing attempt, which will result in its deletion. Reporting the email
 in this manner will help the security team track phishing metrics and trends over
-time within G Suite.
+time within Google Workspace.
 
 To report the email as `phishing` from inside GMail:
 
