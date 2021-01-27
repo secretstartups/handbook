@@ -17,7 +17,7 @@ The goal of the Assembly is to discuss the strategy and plans for the next fisca
 
 The call concludes with an AMA with all of E-Group. Team members can ask questions of any particular executive. The AMA doc will be circulated early so that team members can submit questions.
 
-The [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) oversees the call, with optional support from a moderator and/or other facilitator(s). The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/). The call is recorded and posted to GitLab Unfiltered.
+This is a [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) initiative. The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/). The call is recorded and posted to GitLab Unfiltered.
 
 ### FY22 GitLab Assembly
 
