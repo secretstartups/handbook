@@ -45,13 +45,13 @@ Team members in a US policy will be automatically reimbursed through Expensify a
 
 The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting.
 
-The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You are also welcome to expense the `GitLab Average Price in USD` portion, and cover the rest with personal funds. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
+The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You are also welcome to expense the `GitLab Average Price in USD` portion, and cover the rest with personal funds. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money.
 
-When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference. 
+When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference.
 
 * Please note Expensify cannot sync "non-reimbursable" line items, only reimbursable line items are to be entered in Expensify.
 
-Team members should not use a Corporate Credit Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  
+Team members should not use a Corporate Credit Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.
 
 For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
@@ -62,7 +62,7 @@ Take inspiration from our [all-remote page covering key considerations for a com
 ### Software
 1. We have central [license management](/handbook/tools-and-tips/other-apps/#jetbrains) for you to
    request licenses for JetBrains' products like RubyMine / GoLand.
-1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google's G Suite
+1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google Workspace
    ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
    configuration](/handbook/security/#laptop-or-desktop-system-configuration).
@@ -101,7 +101,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 ### Transport/Delivery of free procurements
 Also feel free to check your local [Freecycle group](https://www.freecycle.org/) or similar second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost does not exceed the average spend for the item based on the table above.
 
-GitLab will also reimburse costs relevant to one's location in cases where anniversary gifts or company issued swag incurs additional import costs. 
+GitLab will also reimburse costs relevant to one's location in cases where anniversary gifts or company issued swag incurs additional import costs.
 
 ### Not sure what to buy?
 
@@ -113,7 +113,7 @@ The company will reimburse for the following expenses if you need it for work or
 1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
 1. Internet connection subscription.
 	* For employees outside the Netherlands: follow normal expense report process.
-	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@ gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts". 
+	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@ gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".
 1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
 1. Mobile subscription, we commonly pay for that if you call a lot as a salesperson or executive, or if your position requires participation in an oncall rotation. If your device cost is part of your monthly subscription cost, please do not include the device cost from the expense reimbursement.
 1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
@@ -138,7 +138,7 @@ GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/conv
 
 ### Year-end Holiday Party Budget
 
-In previous years, GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group is deciding how these dollars will be spent on a combination of swag and virtual events to celebrate the holiday season and build team belonging. If you have any questions, please reach out to your E-Group member. 
+In previous years, GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group is deciding how these dollars will be spent on a combination of swag and virtual events to celebrate the holiday season and build team belonging. If you have any questions, please reach out to your E-Group member.
 
 ## Travel and Expense Guidelines
 
@@ -214,7 +214,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 	* For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
 	* For US team members, the approved expense amount will be deposited into your account a few days after the report has been approved by Accounts Payable.
 	* For Australia, New Zealand, Belgium, Germany, and Netherlands, AP will process the approved report on Friday.  The payment will be deposited into your account no later than three business days the following week. 
-    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding a invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment. 
+    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
 
 	* For all team members being pay by Safeguard, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
 
@@ -266,9 +266,9 @@ Poland, Russia, Ukraine, Romania, Israel, Turkey, Czech Republic & Portugal:
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 1. Giftcards are not accepted as a form of payment for business expenses.
-1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date. 
+1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
 
-* Please note we do not reimburse late fees or equipment costs. 
+* Please note we do not reimburse late fees or equipment costs.
 
 ## Team Member Expense Temporary Advances
 
@@ -302,7 +302,7 @@ Slack channel
 1.  **Expenses Reports approval deadline**
     * Australia, Germany, New Zealand, Netherlands, United States - as soon as possible
     * United Kingdom - all expense reports must be approved by manager no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager has enough time for approval.
-    * Canada - before 1st day of payroll period  
+    * Canada - before 1st day of payroll period
     * All non-US contractors - all expense reports must be approved by manager no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
 
 ## Non-reimbursable Expenses:
@@ -320,7 +320,7 @@ Examples of things we have not reimbursed:
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
 1. Meals or beverages while attending co working space
 1. Treadmill Desks
-1. Portable Air Conditioners 
+1. Portable Air Conditioners
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
