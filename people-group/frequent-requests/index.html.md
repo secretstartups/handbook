@@ -33,9 +33,9 @@ If you need GitLab to create a letter confirming that you work remotely, please 
 
 ## Employment Verification
 
-If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`. 
+If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`.
 
-The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll vis private Slack channel.  
+The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll via private Slack channel.
 
 The People Experience team will always verify and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
 
@@ -93,7 +93,7 @@ If you are a team member residing in India, please consider using the following 
 - For verification, DHL matches the name and address on your proof of ID with the name and address in your consignment. So, when providing the address for delivery, make sure to provide the same address as on one of your proofs of ID.
 - In a scenario where you do not have any ID associated with the address you intend to provide, consider shipping the item in the name of somebody who holds a valid proof of ID at that address, like a relative or a friend.
 - Please check out the list of [valid KYC documents](https://dhlindia-kyc.com/forms/valid-kyc-docs.aspx#ind-indian) before placing the order.
-- In the event that DHL charges Import Duty for the cards, you may proceed with paying the amount and expensing the amount through your normal expense process. 
+- In the event that DHL charges Import Duty for the cards, you may proceed with paying the amount and expensing the amount through your normal expense process.
 
 ### Business Cards-Special Characters
 -If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-exp@gitlab.com)and indicate how you would like the layout to look like.
@@ -102,7 +102,7 @@ If you are a team member residing in India, please consider using the following 
 
 ## Japan Daycare Eligibility Documentation
 
-In Japan, for a team member to qualify for subsidized day care, they need to demonstrate that they are working and need a certified document from their employer confirming their employment status. 
+In Japan, for a team member to qualify for subsidized day care, they need to demonstrate that they are working and need a certified document from their employer confirming their employment status.
 
 - Team member: Fill out the daycare documentation with all the necessary details and only leave out the employer bit. Send this document via email to the People Ops team(peopleops@gitlab.com)
 - PeopleOps: Reach out to the Tricor team who are the current custodians of our Japan Stamp for them to fill out the Employer portion and stamp it.(Contact addresses available on 1Password)
@@ -119,7 +119,7 @@ To initiate a change in name please complete the following:
 
 - Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) to request to change your name and email address in Google.
 - Team member: Email people-exp@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
-- People Experience: Update Name in BambooHR and GSuite.
+- People Experience: Update Name in BambooHR and Google Workspace.
 
 ## Reporting Requests
 All requests for BambooHR-related data or reports with personal people data should be made through an [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests).
