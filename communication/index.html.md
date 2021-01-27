@@ -607,6 +607,9 @@ On February 14, or the Tuesday after if this day falls over the weekend or on Mo
 
 When cancelling a meeting, a team member can copy and paste this message to send to attendees:
 _I evaluated the need for this meeting as part of [Calendar Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Going forward, we will communicate on this topic through [SPECIFY HOW YOU WILL MANAGE. FOR EX, ISSUE#]. Please get in touch if you have any concerns. _
+When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
+
+_I reassessed this meeting as part of [Calendar Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen [ENTER CURRENT CADENCE]. Going forward, I will schedule it for [ENTER NEW CADENCE]. Please get in touch if you have any concerns. _
 
 If you are a team member intends to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
 
