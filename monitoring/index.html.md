@@ -188,7 +188,7 @@ To add a page to this dashboard, create a merge request to the [gitlab-com/gitla
 ### Go services
 
 [Stackdriver Continuous Go Profiling](https://cloud.google.com/profiler) can be used to have a better
-understanding of how our Go services perform and consume resources. *(requires membership of the GSuite `stackdriver-profiler-sg` group)*
+understanding of how our Go services perform and consume resources. *(requires membership of the Google Workspace `stackdriver-profiler-sg` group)*
 
 It provides a simple UI on GCP with CPU and Memory usage data for:
 
