@@ -605,7 +605,13 @@ On February 14, or the Tuesday after if this day falls over the weekend or on Mo
 1. Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
 1. Ask other team members to reexamine how existing meetings are managed
 
-This event is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
+When cancelling a meeting, a team member can copy and paste this message to send to attendees:
+
+_I evaluated the need for this meeting as part of [Calendar Cleanup Day](/handbook/communication/#meeting-cleanup-day). I am now cancelling the meeting, because I have determined that it is no longer needed. Going forward we will communicate on this topic asynchronously by [SPECIFY HOW YOU WILL MANAGE]. Please get in touch if you have any concerns. _
+
+If you are a team member looking to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
+
+Calendar Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
 ### Common Meeting Problems
 
