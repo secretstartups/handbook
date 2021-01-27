@@ -612,7 +612,7 @@ When changing the cadence of a meeting, a team member can copy and paste this me
 
 _I reassessed this meeting as part of [Calendar Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen [ENTER CURRENT CADENCE]. Going forward, I will schedule it for [ENTER NEW CADENCE]. Please get in touch if you have any concerns. _
 
-If you are a team member intends to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
+If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
 
 Calendar Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
