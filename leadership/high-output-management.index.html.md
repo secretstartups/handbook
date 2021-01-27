@@ -11,7 +11,7 @@ title: Making Decisions
 
 ## Introduction 
 
-At GitLab, one of our favorite books is, “[High Output Management](/handbook/leadership/book-clubs/#high-output-management)” by Andrew Grove. The book provides a comprehensive overview of a manager's role and purpose. Our CEO applied many of the concepts covered when partnering with the People team to design management best practices. On this page, we will cover some of the key topics covered in the book and what they mean for people leaders across GitLab. 
+At GitLab, one of our favorite books is, “[High Output Management](/handbook/leadership/book-clubs/#high-output-management)” by Andrew Grove. The book provides a comprehensive overview of a manager's role and purpose. Our CEO, Sid, applied many of the concepts covered when partnering with the People team to design management and people practices for GitLab. On this page, we will cover some of the key topics covered in the book and what they mean for people leaders. 
 
 ### High Output Management
 
@@ -34,7 +34,7 @@ When you set goals and KPIs with direct reports, make sure they align with your 
 
 ### Performance Management 
 
-In the book, the author describes applying  [async](/handbook/values/#bias-towards-asynchronous-communication) practices to begin performance discussions. Managers use a regularly scheduled [1-1 meeting](/handbook/leadership/1-1/) to discuss performance with a direct report. They prepare a document before the meeting with all of the key points, areas of strength, areas of development, and a plan for the future. This gives the direct report time to digest before the performance discussion. The [synchronous meeting](/handbook/communication/#video-calls) time can be used by the direct report to ask clarifying questions on the feedback. Managers are able to focus their attention on key points rather than covering all the points in one meeting. 
+In the book, the author describes applying [async](/handbook/values/#bias-towards-asynchronous-communication) practices to begin performance discussions. Managers use a regularly scheduled [1-1 meeting](/handbook/leadership/1-1/) to discuss performance with a direct report. They prepare a document before the meeting with all of the key points, areas of strength, areas of development, and a plan for the future. This gives the direct report time to digest before the performance discussion. The [synchronous meeting](/handbook/communication/#video-calls) time can be used by the direct report to ask clarifying questions on the feedback. Managers are able to focus their attention on key points rather than covering all the points in one meeting. 
 
 ### Training is the Boss’s Job
 
