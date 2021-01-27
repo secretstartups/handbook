@@ -113,7 +113,7 @@ If a flight was changed or not taken due to delays or other circumstances, make 
   * This will allow you access to additional meeting settings such as Mute All, Unmute All, Play Enter/Exit Chime, Mute Participants on Entry, Record, End Meeting, and more.
 
 ### Google Groups
-To view members of Google Groups, reference the [gsuite group member repo](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members/-/tree/master). A sync is run on the repository every hour, as noted in the README.md file.
+To view members of Google Groups, reference the [Google Workspace group member repo](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members/-/tree/master). A sync is run on the repository every hour, as noted in the README.md file.
 
 ### Company Mail
  The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accordingly.
