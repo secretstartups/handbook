@@ -2,6 +2,7 @@
 layout: markdown_page
 title: "Mike Dunninger's README"
 job: "Support Engineering Manager"
+description: "Personal readme page for Mike Dunninger, Support Engineering Manager, GitLab"
 ---
 
 ### My Role and Responsibilities
