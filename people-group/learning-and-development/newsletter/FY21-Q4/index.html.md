@@ -27,7 +27,7 @@ Is there a leader at GitLab that you want to learn more about? To nominate someo
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykrey). Kris is a Manager of Field Enablement Programs. She also recently utilized [GitLab's Tuition Reimbursement program](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement). 
+Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykrey). Kris is a Manager of Field Enablement Programs. She also recently utilized [GitLab's Tuition Reimbursement program](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). 
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHzCdtdjH5W7AG2pa3yilT0spTYG6UDwelBCvgvLifFZGvQTGInWVBq17X78Cj4X1Hjy5ChmlhK9TQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -44,7 +44,7 @@ Our Learner Spotlight for this quarter is [Kris Reynolds](/company/team/#kreykre
 * **When will your program be completed?**
    * _Kris_: I completed the program in July of this year, and it took about 12 weeks.
 * **What advice would you give someone who is thinking about participating in GitLab's tuition reimbursement program?**
-   * _Kris_: GitLab offers [$20K for your education](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement), and it’s like free money! More people should take advantage of the program. It worked with my manager and the process was pretty easy. 
+   * _Kris_: GitLab offers [$20K for your education](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit), and it’s like free money! More people should take advantage of the program. It worked with my manager and the process was pretty easy. 
 * **Anything else you would like to share on the tuition reimbursement program?**
    * _Kris_: There are so many amazing programs out there! Take a look and talk to your manager today, why wait? Every day is a great day for learning. I understand everyone is busy, but it really is worth the time investment in yourself.  
 

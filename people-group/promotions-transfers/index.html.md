@@ -483,7 +483,7 @@ If your team has someone working part-time on it, it's on the manager of that te
 Each manager needs to manage the capacity of their team appropriately. If all of the team are 'at work' (no one is on PTO, or parental leave, or off sick), and the team still can't afford X% of one person's time - that team might be over capacity.
 
 **Can I join a team where I have no experience or skills in that area?**
-That's up to the managers involved. It may be that the first step is to spend some time without producing anything in particular - in which case, it's possible that the [tuition reimbursement policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) may be a better fit (or it might not.)
+That's up to the managers involved. It may be that the first step is to spend some time without producing anything in particular - in which case, it's possible that the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) may be a better fit (or it might not.)
 
 **How long does an internship of this nature last?**
 This will vary from team to team, but typically 6 weeks to 3 months depending on the goals for your internship.
