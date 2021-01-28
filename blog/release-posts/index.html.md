@@ -864,7 +864,7 @@ The responsibilities of the Engineering Manager are documented in the
 
 ### Technical Advisors
 
-Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are prototyping a partnership with the GitLab development team to leverage [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel. This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution.
+Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension to the [first-responder program](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#first-responder-pilot-program). This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution.
 
 Below are the types of problems the release post mangers may need help with.  
 
