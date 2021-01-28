@@ -524,7 +524,7 @@ Since collective exceptions within a department will at some point impact overal
 |  Distinguished Security Engineer Security Research | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/13)
 | Distinguished Security Engineer Purple Team | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/16)
 | Distinguished Security Engineer SIRT | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/16)
-| Staff Enginner Security Compliance | Security  | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/management/-/issues/2) |
+| Staff Engineer Security Compliance | Security  | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/management/-/issues/2) |
 | Staff Engineer Risk and Field Security | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/management/-/issues/2) |
 | Staff Security Engineer Red Team | Security | No cap | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/17)
 | Staff Analyst Trust and Safety | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/housekeeping/documentation/-/issues/3) |
