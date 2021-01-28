@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Blog Handbook"
+description: "A comprehensive guide to pitching and publishing to the GitLab blog."
 ---
 
 The [GitLab blog](/blog) is managed by [@rebecca](https://gitlab.com/rebecca) the [Managing Editor](/job-families/marketing/editor/).
