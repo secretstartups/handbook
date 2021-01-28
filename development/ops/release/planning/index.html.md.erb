@@ -125,22 +125,19 @@ If you are having a difficult time estimating the number of merge requests, plea
 
 The Release team uses epics to describe features or capabilities that will increase the maturity of the Release categories over time.
 
-Each Epic should be owned by an engineer who is responsible for all technical aspects of that Epic. The engineering owner will work closely with the Product Manager to understand the requirements and create issues that encapsulate the technical work required. They may need to consult with other team members and stable counterparts to come up with the right approach to delivering the requirements.
+Each Epic should be owned by an engineer who is responsible for all technical aspects of that Epic. The engineering owner will work closely with the Product Manager to understand the requirements and create issues that encapsulate the technical work required. Each issue needs to be weighted and contain enough information for any other engineer on the team to be able to pick up that work.
 
-They should include issues for documentation changes and additional testing requirements that are required. Each issue needs to be weighted and contain enough information for any other engineer on the team to be able to pick up that work.
-
-**For the duration of building the epic**, the engineer does not need to be the only person implementing the issues. They should keep watch of the work that is done on the issues so that they can verify that the work is progressing correctly. Ideally, they should also be an approver on each MR for the Epic. If there are problems with the work, or lengthy delays,
+**For the duration of building the epic**, the engineer does not need to be the only person implementing the issues. They should keep watch of the work that is done on the issues so that they can verify that the work is progressing correctly. If there are problems with the work, or lengthy delays,
 they need to make sure the Product Manager and Engineering Manager are aware.
 
-**When work is nearing completion**, the engineer should check the release note and work with the PM on any changes.
-They should also make sure that any additional issues that may have come up during the build process are either
+**When work is nearing completion**, the engineer should make sure that any additional issues that may have come up during the build process are either
 addressed, or scheduled for work. This will help to make sure that we do not build up technical debt while building.
 
 **Finally**, they should also monitor any work that needs to occur while rolling out the Epic in production. If there are
 rake tasks, database migrations, or other tasks that need to be run, they need to see those through to being
 run on the production systems with the help of the Site Reliability counterpart.
 
-This places a lot of responsibility with the owner, but the PM and EM are always there to support them. This ownership
+This places a lot of responsibility with the owner, but the PM and EM are always there to support them. This ownerships
 removes bottlenecks and situations where only the PM or EM is able to advance an idea. In addition, the best people
 to decide on how to implement an issue are often the people who will actually perform the work.
 
@@ -173,8 +170,6 @@ In Release we use three labels to indicate product priorities:
 #### Build
 
 We use the [Build boards](#build-board) to look at _cicd::active_ issues in the current milestone labeled with _group::release_.
-
-Because of the way that the boards in GitLab work, we needed to limit this to the started milestone, but are looking at how to have this roll in a more continuous manner.
 
 The Engineering Manager (EM) owns this board and uses it to facilitate building out the Epics and issues that the team have decided are ready for development.
 
