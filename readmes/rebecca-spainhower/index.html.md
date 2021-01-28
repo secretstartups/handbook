@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Rebecca Spainhower's README"
+description: "Personal readme page for Rebecca Spainhower, Support Engineering Manager, GitLab"
 job: "Support Engineering Manager"
 ---
 
