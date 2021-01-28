@@ -183,7 +183,7 @@ For example, if one area of focus is "set 3-year strategy", the CoS will evaluat
 
 ## Fiscal Year Kickoff
 
-The [Fiscall Year Kickoff](/handbook/ceo/fy-kickoff/) is the only all-hands-style meeting at GitLab.
+The [Fiscall Year Kickoff](/handbook/ceo/gitlab-assembly/) is the only all-hands-style meeting at GitLab.
 The CoS is responsible for organizing it.
 
 ## Managing the All Directs
