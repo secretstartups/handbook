@@ -491,11 +491,11 @@ Admin processing for moderating content will be outlined in future iterations.
 
 ### Creating a badge
 
-Badges are used in the EdCast platform to award learners who have finished a Pathway or Journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
+Badges are used in the EdCast platform to award learners who have finished a Pathway or Journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
 
 #### Adding a badge to EdCast
 
-1. If necessary, collaborate with the brand team to [create a new badge](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
+1. If necessary, collaborate with the brand team to [create a new badge](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
 1. Email EdCast account rep with the request to upload the file to the platform
 1. Navigate to the pathway or journey you'd like to add the badge to. In the `create` or `edit` tab, navigate to the `badge` setting
 1. Mark the check box to indicate that `Upon completing this pathway/journey, assignee will get a badge`
@@ -523,32 +523,38 @@ graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from [team TBD]
+    B -->|Community Member| F[Support via ticket from [team to address TBD]
 ```
 
 ### Slack support for team members
 
 #### Slack workflow
 
-GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues.
+GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues. The L&D team monitors the #learninganddevelopment Slack thread daily. If questions are posed that L&D cannot solve, they will engage EdCast for further support via email.
 
-Field sales team members might naturally reach out to exising channels of support from the Field Enabement team. If Field Enablement questions are posted in the Learning and Development Slack channel, the team will route inquiries to the correct team member.
+Field sales team members might naturally reach out to exising channels of support from the Field Enabement team for their specific content. If Field Enablement questions are posted in the Learning and Development Slack channel, the team will route inquiries to the correct team member.
 
-The L&D team monitors the #learninganddevelopment Slack thread daily. If issues about the EdCast platform are reported here, the L&D team will engage EdCast for further support.
+This chart outlines common questions and triage actions taken by the L&D team:
+
+| Question Topic | Triage |
+| ----- | ----- |
+| Platform Permissions or Functionality | Check admin panel and engage EdCast when necessary |
+| Learning Content | Support 1:1 in Slack |
+| Content contribution process | Direct to Learning Evangelist Pathway |
+| Field Enablement or Professional Services content | Tag FE and PS DRIs |
 
 
 ### Zendesk support for customers and community members
 
 This workflow is currently being designed [in this issue](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/issues/23#note_494338293).
 
-#### Professional Services support workflow
+#### Professional Services support workflow (Paid Users)
 
 The workflow for customers using the LXP will be determined by the Professional Services team.
 
-#### Community support workflow
+#### Community support workflow (Free Users)
 
 The workflow for community members using the LXP has not yet been outlined.
-
 
 
 ### Email and macro templates
