@@ -518,10 +518,10 @@ Due to the diversity in audience on the GitLab Learn platform, support is manage
 
 ```mermaid
 graph TD
-    A[User Quetion] --> B[Determine user audience]
+    A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
-    B -->|Customer| E[Support ticket by PS]
-    B -->|Community Member| F[Support ticket by NA]
+    B -->|Customer| E[Support via ticket from PS team]
+    B -->|Community Member| F[Support via ticket from [team TBD]
 ```
 
 ### Team Member Support Workflow

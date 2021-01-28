@@ -39,7 +39,6 @@ If you're looking for support in getting your questions answered, please refer t
 | Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). |
 
 
-
 ### First time login to GitLab Learn
 
 When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
