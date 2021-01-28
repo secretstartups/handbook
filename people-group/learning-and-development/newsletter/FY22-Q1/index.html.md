@@ -29,11 +29,30 @@ Is there a leader at GitLab that you want to learn more about? To nominate someo
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [name](link to profile). 
+Our Learner Spotlight for this quarter is [John Long](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! 
 
-[Add questions/answers here]
+* **What is your current role at GitLab?** 
+   * _John_: I am a Senior Support Engineer.
+* **How long have you been a GitLab team member?** 
+   * _John_: I have been a GitLab team member for 1 year and 1 month.
+* **How do you make time for learning in your normal day-to-day?** 
+   * _John_: In order to make time for learning, I block time off in my calendar. This allows me to have free time that I can use to complete courses on various learning platforms.
+* **Why do you make learning a priority?** 
+   * _John_: I do not currently see myself in the position I want to retire in. In order for me to get to where I want to be, I have to focus on learning. Learning new skills is not just to get ahead in my current position, but to prepare for my next.
+* **What is your preferred learning style? (Different learning styles - Visual: You prefer using pictures, images, and spatial understanding. Auditory: You prefer using sound and music. Kinesthetic: You prefer using your body, hands and sense of touch. Reading/Writing: You prefer using words, both in speech and writing.)** 
+   * _John_: I learn best by seeing - Visual - and doing - Kinesthetic. I prefer to watch how-to videos with examples of how to do something. This allows me to process and figure out how it works.
+* **Have you recently completed a course? If so, which course (or courses) did you complete and why?** 
+   * _John_: Within a few hours of getting the LinkedIn Learning license, I began to take advantage of this new learning avenue.
+I started with [Quality Standards in Customer Service](https://www.linkedin.com/learning/quality-standards-in-customer-service-4/quality-matters-in-customer-service). I am interested in moving into management at some point in my career and feel taking courses geared towards success in customer service, as well as courses in management, will help me get to my goal. LinkedIn Learning offers plentiful resources for this career track.
+   * _John_: Next, I completed [Ruby Essential Training Part 1: The Basics](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics/learn-the-basics-of-ruby). I am decently familiar with Ruby at this point, but I am still mostly self taught. I thought I would take a more introductory course to fill in any missing pieces and help take my skills to the next level.
+* **Do you have a favorite or recommended course for others?** 
+   * _John_: The absolute best course I have taken thus far in my career was Ansible 101. This course is expensive, and I skipped the certification as that adds even more cost, but the content and design of the course was engaging. 
+* **What advice would you give someone who is struggling to make learning a priority?** 
+   * _John_: Try and schedule the time. Blocking off the calendar can help make time for learning. Try and find something engaging and interesting to you. It can also be helpful to take a course with a friend or co-worker.
+* **Anything else you would like to share about learning?**
+   * _John_: Learning is one of the most important things we do. It doesn’t have to be work related. Everything we know we have learned. There is a lot left to learn. Our whole lives are spent learning. Learning can be fun, but can sometimes be boring. Always try to make the best of it and get the most out of it that you can. Sometimes you learn something that you take for granted and do not give the course the attention it deserves. Then when you need the knowledge or skills from that course, it’s not there. Sometimes there are courses that we must take that may seem boring, uninteresting, or unrelated to us specifically. But, having the skills or knowledge from that course could make a big impact on someone else in the future.
 
-Do you know a team member that places an emphasis on learning? To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
+**Do you know a team member that places an emphasis on learning?** To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
 
 ## Department Spotlight 
 
