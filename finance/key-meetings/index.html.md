@@ -60,7 +60,7 @@ Each month, one All-Direct will join the Key Rotation. This person will be expec
 
 Participants can sign up in the Key Rotation Schedule.
 
-#### All-Directs Key Rotation Schedule
+#### Key Rotation Schedule
 
 | Month | All-Direct |
 | ------ | ------ |
