@@ -225,7 +225,7 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
    [`Release-Post-Bug-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
    template.
 1. Add appropriate milestone to the MRs.
-1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs.
+1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs when the merge request is ready for review.
 1. Confirm that **Delete source branch when merge request is accepted** is
    selected.
 1. After the MRs are created, confirm they have the following labels:
@@ -691,7 +691,7 @@ the relative path.
 
 #### Making changes
 
-Until 8 AM Pacific Time on the 18th, the TW Lead should be able to make changes
+Until 8:00 am Pacific Time on the 18th, the TW Lead should be able to make changes
 directly to the release post. After that time, anyone who wants to include a
 change in the upcoming release may need to submit it in a separate MR, with a
 target of the `release-X-Y` branch. For more information, see
@@ -780,25 +780,41 @@ Note: Because there are no individual TW reviewers for the performance improveme
 #### Bugs MR
 
 As the TW Lead, you're responsible for reviewing an MR created for [bug fixes](#create-mrs-for-bugs-and-performance-improvements).
-This MR has **not** been reviewed by any other TW. For this MR, you'll check:
+This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+
+Bugs included in the description:
 
 - The title of the bug, for syntax and clarity.
 - The link to the bug report.
-- Whether the bug has been closed.
+- Whether the bug has been closed:
   - If the bug is closed, was it closed on or before the current milestone?
   - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
   - If the bug will not be closed by the 20th of the month, remove the entry from the Bugs MR.
 
+YAML data:
+
+- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
+- `- name: "Bug fixes"`
+- `bug_fixes_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=bug` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=bug'` - this links to closed issues for the 13.8 milestone with the `~bug` label.
+
 #### Performance Improvements MR
 
 As the TW Lead, you're responsible for reviewing an MR created for [performance improvements](#create-mrs-for-bugs-and-performance-improvements).
-This MR has **not** been reviewed by any other TW. For this MR, you'll check:
+This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+
+Performance improvements added to the description:
 
 - The title of the performance improvement issue, for syntax and clarity.
 - The link to the performance issue.
 - Whether the issue has been closed.
   - If the issue is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
   - If the issue will not be closed by the 20th of the month, remove the entry from the Bugs MR.
+
+YAML data:
+
+- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
+- `- name: "Performance improvements"`
+- `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=XX.Y&label_name[]=performance'` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=13.8&label_name[]=performance` - this links to merged merge requests for the 13.8 milestone with the `~performance` label.
 
 #### MVP entry
 
@@ -1389,6 +1405,12 @@ If both are present, the video will override the image (it won't display the ima
 Make sure to add the `/embed/` video URL from YouTube. Follow the steps
 described on the [Markdown guide](/handbook/markdown-guide/#display-videos-from-youtube) to find the correct path.
 
+Loading HTML videos from the source also work with no further adjustments. For example:
+
+```yaml
+video: '/images/13_8/create_code_review-click-drag-multi-line-comments.mp4'
+```
+
 ##### Videos added to the description
 
 When added to an entry that supports Markdown, every [video should be wrapped into a figure tag](/handbook/markdown-guide/#videos), as shown below:
@@ -1423,7 +1445,7 @@ The template and helper files are used to render the blog post from the many con
 - **Templates:**
   - [Layout (Haml) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/layouts/release.haml):
     creates a layout for the final HTML file, and requires the include file below.
-  - [Include (Haml) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/release.html.haml):
+  - [Include (Haml) file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/includes/release.html.haml):
     builds the content of the post applying custom styles. Its markup includes semantic SEO improvements.
 - **Helpers:**
   - [Helper (Ruby) file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/helpers/release_post_helpers.rb): when the release post is being rendered, the helper combines all the release post items into a variable that is used by the include (Haml) file. The output of the helper is consistent with single data file process used until GitLab 12.8.
