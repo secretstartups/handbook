@@ -57,8 +57,11 @@ As outlined in GitLab's [DPIA policy](https://about.gitlab.com/handbook/engineer
 1. In your Procurement issue, Business Owners will be asked a screening question about whether the vendor and/or tool they are procuring is collecting or processing Personal Data. If the answer to this question is `yes` then they will need to create a [Vendor Procurement Privacy Review issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=vendor-procurement-Privacy-Review) in the Legal and Compliance issue tracker.
 2. Business Owners are responsible to complete Steps 1-4 of the issue description in order to provide the relevant information to the Privacy department.
 3. Once the privacy review issue has been submitted, Privacy staff will review the answers and the vendor's policies, as well as GitLab's security review to ensure that risks and mitigations are documented correctly. This may involve asking the Business Owner for additional information.
-4. When the information in the review is deemed accurate and complete, the information will be reviewed determine the scale and severity of the risk. This risk will then be weighed against existing mitigations to determine if the tool is okay to approve as is or whether additional mitigations must be put into place. (*Note: A DPA will be required for any vendor that processes Personal Data on GitLab's behalf.)
-5. The reviewer will mark the privacy review issue and the related Procurement issue on whether the tool will require additional review prior to implementation.
+4. When the information in the review is deemed accurate and complete, the information will be reviewed determine the scale and severity of the risk. This risk will then be weighed against existing mitigations to determine if the tool is okay to approve as is or whether additional mitigations must be put into place. 
+
+(*Note: A DPA will be required for any vendor that processes Personal Data on GitLab's behalf. The reviewer will advise the Business Owner when to request a DPA from the vendor. As with other contracts for review, the DPA should be uploaded to the Procurement issue for review by a GitLab contract manager.*)
+
+5. After the Business Owner acknowledges the necessary mitigations, the reviewer will mark the privacy review issue and the related Procurement issue on whether the tool will require additional review prior to implementation.
 6. The reviewer will close the privacy review issue when the review is complete.
 
 ### Implementation Privacy Review Process
