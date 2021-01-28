@@ -248,7 +248,7 @@ Once work has passed the `workflow::planning breakdown` step, the `workflow::rea
 
 To ensure that a Software Engineer in Test (SET) will have ample time to contribute to new features, [Quad Planning](/handbook/engineering/quality/quad-planning/) is triggered automatically when an issue is in `workflow::ready for development` and a milestone is applied. The Quad Planning approach is triggered only in groups where an SET is assigned as the Quality department grows to their [desired ratio](/handbook/engineering/quality/#staffing-planning). Groups with no SETs should continue to follow GitLab's [Definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done). Quality department will continue to monitor the quality indicators in these groups and work on filling SETs per product priority.
 
-During this phase, Application Security Engineer need to be kept informed to ensure that they have visibility into planning schedule. This provides them with sufficient time for planning dynamic testing, if necessary, and also keep the PM/development team informed of any time/resource requirements.
+During this phase, it's important to keep Application Security Engineers informed to ensure that they have visibility into planning schedule. This provides them with sufficient time for planning dynamic testing so they can keep the product manager and development team informed of any time/resource requirements.
 
 #### Outcomes and Activities
 
