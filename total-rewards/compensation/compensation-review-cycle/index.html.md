@@ -423,11 +423,27 @@ The following iterations will not be ready to ship in time for FY22 Annual Compe
 
 All increases for Annual Compensation Review will be finalized by Feb 1st. FY 2022 compensation will be uploaded into BambooHR no later than Feb 4th for payroll to make changes in all subsequent systems. The Total Rewards team will turn off the ability to see compensation in BambooHR using Employee or Contractor Self Service from Jan 25th until Feb 12th for Employees and until Feb 5th for Contractors. Managers will have the ability to communicate any increases to their team before end of day on the 5th for Contractors and end of day on the 12th for Employees.
 
+For FY22, each team member with a compensation change will have a [Total Rewards Statment](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) generated. Managers are able to utilize this letter when having conversations with your team members about their increase and overall Total Rewards Compensation package at GitLab. More information on these letters can be found in the handbook section below. 
+
 Communication Guidelines can be found in the [Leadership Toolkit](/handbook/leadership/compensation-review-conversations/).
 
-Please note, the % increases in Compaas are rounded up to the nearest whole number. Please either communicate the amount increase or calculate the % increase to at least the hundredths place for communication: `((FY22 Salary-FY21 Salary)/FY21 Salary)`.
-
 If your direct report has any questions on the calculation of their increase please feel free to have them reach out to the Total Rewards team.
+
+#### Total Rewards Statement
+
+Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their cash and equity compensation. This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Instructions for downloading and reviewing the letter are as follows:
+1. Log into [BambooHR](https://gitlab.bamboohr.com/).
+1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
+   * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
+1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
+   * [Base Only Letter Example](https://drive.google.com/file/d/1YMD0cId_B2rQLBjgxIxcGqAdMSEzAgb9/view?usp=sharing)
+   * [Base + Bonus Letter Example](https://drive.google.com/file/d/1kOQR9rZ8UdH2QOEx-wptFUHoj14DCaqU/view?usp=sharing)
+1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
+   * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
+   * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change. 
+1. Both letters will also have a section for Equity Compensation. This section is the same on both letters. The team member's Number of _Unvested_ Stock Options and the value in USD of their unvested options (Unvested Equity Value) is listed in the box. 
+   * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
+   * The formula used to calculate the unvested value in USD is listed at the bottom of the letter.
 
 ## FY 2022 Annual Compensation Review Budget
 
