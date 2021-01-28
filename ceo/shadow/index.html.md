@@ -182,8 +182,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
 | 2021-02-16 | 2021-02-19 | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience | AVAILABLE - REMOTE |
 | 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience |
-| 2021-03-01 | 2021-03-05 | AVAILABLE - REMOTE | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
-| 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-01 | 2021-03-05 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
+| 2021-03-08 | 2021-03-12 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | AVAILABLE - REMOTE |
 | 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-29 | 2021-04-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
