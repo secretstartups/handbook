@@ -512,7 +512,9 @@ Admin process for reporting from EdGraph is coming soon.
 
 
 
-## Support
+## User Support
+
+This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
 
 Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
 
@@ -587,6 +589,21 @@ Sincerely,
 
 The GitLab Learning and Development Team
 ```
+
+## Admin Support
+
+This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
+
+### Temporary Slack support
+
+During the implementation phase, the team can access support from EdCast via the #edcast-support Slack channel. Please review the temporary process for engaging EdCast with supported related questions [on the EdCast implementation handbook page](/handbook/people-group/learning-and-development/gitlab-learn/implementation/#temporary-support-from-edcast-using-slack)
+
+### Submitting a feature request to EdCast
+
+### Engaging EdCast's support team for platform issues
+
+### Reporting a bug on edcast.com
+
 
 
 
