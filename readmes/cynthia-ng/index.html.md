@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Cynthia 'Arty' Ng README"
+description: "Personal readme page for Cynthia 'Arty' Ng, Senior Support Engineer, GitLab"
 job: "Senior Support Engineering"
 ---
 
