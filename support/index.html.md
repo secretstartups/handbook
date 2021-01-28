@@ -85,6 +85,11 @@ Below we also have some commonly referenced pages:
 - [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas.html)
 - [Support Managers](/handbook/support/managers/index.html), including areas of focus.
 
+### Support Shadow Program
+
+GitLab team members interesting in learning about GitLab Support team and our are encouraged to participate in the Support Shadow Program. The Support Shadow Program is a way that team members outside of Support can spend time shadowing, learning, collaborating, and working together with the GitLab Support team.
+
+To participate in this program, open [a Support Shadow Program issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Shadow%20Program) in the `support-team-meta` project. This issue will be used to organize, plan, and track progress toward this program.
 ----
 
 ## Direction
@@ -192,7 +197,6 @@ which are relevant to team communications.
 | [feedback](https://gitlab.com/gitlab-com/support/feedback) | Collects SSAT survey responses from Zendesk in the form of issues |
 | [support-operations](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project) | Support Operations team project |
 
-
 ##### Support team meta issue tracker
 
 We use the [Support meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues) for tracking issues
@@ -224,7 +228,6 @@ issue trackers or customer tickets.
 
 When naming channels, "spt" is meant for internal channels, meaning those that will be of use to the Support Team mainly. They should be public so others may join if they choose. If a channel has a "support" prefix, it is meant as a public interface where other teams will interact with the Support Team.
 
-
 | Channel                                                                | Purpose                                                   |
 |------------------------------------------------------------------------|-----------------------------------------------------------|
 | [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
@@ -251,7 +254,6 @@ When naming channels, "spt" is meant for internal channels, meaning those that w
 If you need to be added to one or more of these groups, please open an issue in
 the [access requests project](https://gitlab.com/gitlab-com/access-requests).
 
-
 ### Google Calendar
 
 We use the following team calendars to coordinate events and meetings:
@@ -260,7 +262,6 @@ We use the following team calendars to coordinate events and meetings:
 - [Support - Time off](https://calendar.google.com/calendar/embed?src=gitlab.com_as6a088eo3mrvbo57n5kddmgdg%40group.calendar.google.com) Calendar ID `gitlab.com_as6a088eo3mrvbo57n5kddmgdg@group.calendar.google.com`
 
 Add these calendars to your GitLab Google calendar by clicking on the "+" sign next to "other calendars", and choose "subscribe to calendar". Enter the relevant ID mentioned above. If you need access to these calendars, ask a support team member for help.
-
 
 ### Weekly Meetings
 
