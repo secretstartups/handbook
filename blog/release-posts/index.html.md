@@ -1533,7 +1533,6 @@ In preparation for content assembly on the 18th of the month, the Release Post M
 
 ### Release post merge request template
 
-The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) is our checklist for every release. Let's keep it up-to-date! :)
 
 ---
 
