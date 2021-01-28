@@ -524,33 +524,69 @@ graph TD
     B -->|Community Member| F[Support via ticket from [team TBD]
 ```
 
-### Team Member Support Workflow
+### Slack support for team members
 
-### Professional Services Support
+#### Team member support workflow
+
+### Zendesk support for customers and community members
+
+#### Professional Services support for customers workflow
 
 The workflow for customers using the LXP will be determined by the Professional Services team.
 
-### Community Support Workflow
+#### Community support workflow
 
 The workflow for community members using the LXP has not yet been outlined.
 
-### EdCast notification emails
+### Email and macro templates
+
+#### EdCast notification emails
 
 EdCast sends notification emails ona cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
 
 1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
+1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
 1. Any emails sent to this email address will receive the following auto-responded message:
 
-`Thanks for using GitLab Learn and for reaching out to our team!
+```
+Thanks for using GitLab Learn and for reaching out to our team!
+
 In order to get your support question to the right team, please follow the instructions below:
 Before reaching out for additional support, please review our [GitLab Learn User Documentation](/handbook/people-group/learning-and-development/gitlab-learn/user/)
-1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
-2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
-Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
-Sincerely,
-The GitLab Learning and Development Team`
 
-1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
+1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
+
+2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
+
+Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
+
+Sincerely,
+
+The GitLab Learning and Development Team`
+```
+
+#### Zendesk macro for free users
+
+```
+Hello,
+
+Thanks for contacting GitLab Support with your questions about the GitLab Learn platform.
+
+Please note, you have opened this ticket through our paid support channel and we were unable to automatically determine your GitLab.com subscription. If you do not have a subscription, or you are on a trial, be aware that only **community support** is included; consider searching for and posting your question in our [community forum](https://forum.gitlab.com/) if you haven't already.
+
+If you're looking for support regarding a frequenlty asked question, please take a moment to review our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/).
+
+The Learning and Development team will address community member support questions as capacity allows.
+
+For additional information on our support policies and the community-driven support resources available to you, please see our [statement of support](https://about.gitlab.com/support/statement-of-support.html#free-plan-users).
+
+
+If you believe that you received this response in error and already have a GitLab.com subscription, please reply with the organization or subscriber name and the email address the subscription was purchased under.
+
+Sincerely, 
+
+The GitLab Learning and Development Team
+```
 
 
 
