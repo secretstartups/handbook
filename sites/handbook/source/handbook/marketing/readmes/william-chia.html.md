@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "William Chia's README"
+description: "A personal "README" for William Chia. Get to know me a bit better." 
 ---
 
 ## William Chia README
