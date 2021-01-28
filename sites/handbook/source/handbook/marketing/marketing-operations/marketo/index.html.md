@@ -51,6 +51,9 @@ All forms should follow these guidelines:
 - All forms should have hidden fields for Demandbase, gclid and google analytics tracking
 - Do not use lightboxes
 
+If you are collecting home addresses for direct mail campaigns, you must include the following language on the landing page or form. Additionally, you must set up a deletion campaign in Marketo to remove their address information once you have sent the item. Please also ensure the vendor we are using to ship the items also deletes this from their records. `By giving us your home address, you are giving us permission to mail items to your home. We will not use this data for any other purposes.`
+
+
 ### Website Form Management
 
 The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). For form field requirements, please refer to this [page](/handbook/marketing/marketing-operations/marketo/#forms).
