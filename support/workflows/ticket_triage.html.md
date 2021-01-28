@@ -25,7 +25,7 @@ graph TD
     A -->|Yes| B{Is the ticket tied to an org?}
     A -->|No| H[Check if it falls under 'Other Requests']
     B -->|Yes| D{Does the ticket have an SLA?}
-    B -->|No| E[Use Needs Org workflow: Find and associate the organizaton]
+    B -->|No| E[Use Needs Org workflow: Find and associate the organization]
     D -->|Yes| C[Done]
     D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
 ```
@@ -55,7 +55,7 @@ We also receive non Support requests in our queue - if you see something not lis
 |Request|Workflow|
 |--|--|
 |Training|Redirect requester to [Education from Professional Services](/services/education/)|
-|New Set Up/Installation|Follow the [Passing a Lead to Sales](/handbook/support/workflows/passing_a_lead_to_sales.html) workflow|
+|New Set Up/Installation|Follow the [Passing a Lead to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) workflow|
 |Requests for swag|Ask in the #swag internal slack channel or direct to [the FAQ](https://shop.gitlab.com/pages/f-a-q) for existing orders. For general requests for free swag, use the `General::Free Swag Request` Macro.|
 |Questions related to jobs/openings|Redirect requester to [Outbound Recruiting Model](/jobs/faq/#gitlabs-outbound-recruiting-model) page|
 |Questions related to status of job application| Use the `General::Job Application Questions` [macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Job%20Application%20Questions.yaml) and send a note to the internal `#recruiting` Slack channel.|

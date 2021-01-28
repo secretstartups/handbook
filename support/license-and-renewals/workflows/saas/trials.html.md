@@ -23,16 +23,16 @@ Sales will often request that we extend the duration of GitLab.com trials on beh
 
 If any fields in the issue description were filled out incorrectly by the submitter apply the `Status::Blocked` label and mention them in the issue asking them to supply any missing information.
 
-> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [CustomersDot console](customer_console.html#change_plan). Once those issues are resolved, these requests should be done via CustomersDot admin.
+> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these issues are currently marked for those engineers who have access to resolve them through [CustomersDot console](../customersdot/customer_console.html). Once those issues are resolved, these requests should be done via CustomersDot admin.
 
 1. Assign yourself to the issue.
-1. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
+2. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
    1. The `GitLab.com Link to Namespace:` field contains a valid GitLab.com link to the namespace that holds the active trial. This should not be a Salesforce link or email address.
-   1. The `Extend Until:` field contains a future date.
-1. Use the [Update Trial form processor](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_trial.html) to process the request.
+   2. The `Extend Until:` field contains a future date.
+3. Use the [Update Trial form processor](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_trial.html) to process the request.
    1. If successful, this should create a new internal request issue documenting the change action. Link this new issue to the one where the extension was requested.
-   1. If there is an error while taking action, locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
-1. If namespace needs to be adjusted manually, then add the `~Admin Escalation` label, and if you do not have GitLab.com admin access, ping `gitlab-com/support/dotcom`.
+   2. If there is an error while taking action, locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
+4. If namespace needs to be adjusted manually, then add the `~Admin Escalation` label, and if you do not have GitLab.com admin access, ping `gitlab-com/support/dotcom`.
 
 ## Applying a trial to a namespace with an active subscription
 
@@ -70,4 +70,3 @@ graph TD;
   L-->M[Adjust Namespace Manually];
   M-->N[Apply Status::On Hold, Set Due Date];
 ```
-

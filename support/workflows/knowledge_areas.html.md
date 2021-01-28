@@ -23,9 +23,9 @@ Unlike the [GitLab Team page](/company/team/), team members listed here may or m
 
 ### When to Use
 
-At GitLab, we [avoid Direct Messages in Slack](/communication/#avoid-direct-messages). Therefore, use discretion when trying to locate a team member with specific knowledge. It is *almost always better* to send a message to one of the Support Slack channels, the relevant Stage/Group channel, a technology channel (for example, `#kubernetes`), or `#questions`. You can also check the [GitLab team page](/company/team/) for non-support team members who can help.
+At GitLab, we [avoid Direct Messages in Slack](/handbook/communication/#avoid-direct-messages). Therefore, use discretion when trying to locate a team member with specific knowledge. It is *almost always better* to send a message to one of the Support Slack channels, the relevant Stage/Group channel, a technology channel (for example, `#kubernetes`), or `#questions`. You can also check the [GitLab team page](/company/team/) for non-support team members who can help.
 
-**NOTE:** When deciding whether to ping a team member, first consult the internal [Areas of Focus page](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html), because team members allocate their time and expertise differently. 
+**NOTE:** When deciding whether to ping a team member, first consult the internal [Areas of Focus page](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html), because team members allocate their time and expertise differently.
 
 ### How to update your knowledge areas
 Knowledge areas, skills, and Areas of Focus are maintained in the [`support-team.yaml`](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml) page.

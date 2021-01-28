@@ -33,13 +33,13 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 
 ### Refunds
 
-If a customer requests a refund, please follow the [Handling Refund Requests](https://about.gitlab.com/handbook/support/workflows/billing-related_workflows.html#refunds) workflow.
+If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_invoicing_payments.html#refunds) workflow.
 
 ### Venting
 
-There may be cases where a customer will simply be unsatisfied with all available solutions and/or steps taken to solve problems they are facing or have faced. De-escalate the situation the best you can - apologize as necessary, offer solutions or alternatives that may work. Most importantly, in this situation, allow the customer to vent and assure that their feedback is taken very seriously. In some cases, you may want to CC a manager, especially [if you feel threatened or harassed](/handbook/support/#what-if-i-feel-threatened-or-harassed-while-handling-a-support-request). 
+There may be cases where a customer will simply be unsatisfied with all available solutions and/or steps taken to solve problems they are facing or have faced. De-escalate the situation the best you can - apologize as necessary, offer solutions or alternatives that may work. Most importantly, in this situation, allow the customer to vent and assure that their feedback is taken very seriously. In some cases, you may want to CC a manager, especially [if you feel threatened or harassed](/handbook/support/#what-if-i-feel-threatened-or-harassed-while-handling-a-support-request).
 
-It is important to note that apologies should be sincere - this includes not apologizing when not necessary. Phrases like "I'm sorry that you're having trouble..." can sound ingenuine and "script like". Apologies can also be seen as an admission of guilt, which should not happen when a problem is not the fault of GitLab (such as when a feature works as intended but not the way customer wants). 
+It is important to note that apologies should be sincere - this includes not apologizing when not necessary. Phrases like "I'm sorry that you're having trouble..." can sound ingenuine and "script like". Apologies can also be seen as an admission of guilt, which should not happen when a problem is not the fault of GitLab (such as when a feature works as intended but not the way customer wants).
 
 ### Product Feedback
 
@@ -49,6 +49,6 @@ When the feedback is specific to a feature or service, search for an existing is
 
 ### Responding to feedback
 
-If a customer rates a ticket, an email will be sent to the support engineer and the Zendesk manager. 
+If a customer rates a ticket, an email will be sent to the support engineer and the Zendesk manager.
 
 The on-call SSAT Manager will follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.

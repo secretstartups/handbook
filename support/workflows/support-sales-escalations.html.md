@@ -21,7 +21,7 @@ Use the [finding the customer’s account owner](/handbook/support/workflows/loo
 |Escalation Scenario|Channel|Relevancy|
 |--|--|--|
 |[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: `#account-management`|Needs Org Workflow|
-|[Pass a lead to Sales](/handbook/support/workflows/passing_a_lead_to_sales.html)|Zendesk: cc @AM, Slack: `#sales` for new business, `#account-management` for renewals|Ticket Workflow: License and Renewals queue|
+|[Pass a lead to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales)|Zendesk: cc @AM, Slack: `#sales` for new business, `#account-management` for renewals|Ticket Workflow: License and Renewals queue|
 
 ### **Role: Technical Account Manager (TAM)**
 
@@ -38,7 +38,7 @@ Since TAMs are assigned based on [certain criteria](/handbook/customer-success/t
 |Make TAM aware of tickets which require managing customer relationship due to expectations mismatch|Zendesk: cc @TAM Slack: @mention TAM|Ticket Workflow: All queues|
 |[Add a customer to an organization](/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization-all-zendesk-users)|Slack: #account-management|Needs Org Workflow|
 
-#### Resources:
+#### Resources
 
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/#tam-alignment)
 - [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/index.html)
