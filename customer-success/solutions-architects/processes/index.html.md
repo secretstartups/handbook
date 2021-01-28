@@ -57,7 +57,7 @@ Solution Architects should participate in [technical discovery](#technical-disco
 - Whiteboarding sessions
 - Prospect Q&A sessions
 - RFI/RFP completion
-- [Security audits](https://about.gitlab.com/handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#how-to-request-a-questionnaire-be-completed)
+- [Security Audits](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html)
 - [SOW Scoping with Professional Services] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 
 SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
