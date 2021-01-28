@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
-title: "Ronnie Alfaro Readme"
+title: "Ronnie Alfaro's Readme"
+description: "Personal readme page for Ronnie Alfaro, Support Engineering Manager, GitLab"
 job: "Support Engineering Manager"
 ---
 ## Ronnie's - README
