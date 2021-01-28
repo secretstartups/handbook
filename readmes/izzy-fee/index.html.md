@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Izzy Fee's Readme"
+description: "Personal readme page for Izzy Fee, Support Engineering Manager, GitLab"
 job: "Support Engineering Manager (AMER)"
 ---
 ### About Me
