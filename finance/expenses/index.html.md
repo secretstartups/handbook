@@ -125,16 +125,10 @@ If working from home is not practical you may submit for reimbursement for the c
 Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal [travel and expense reimbursement policy](/handbook/finance/accounting/#reimbursable-expenses). The Company will not be responsible for the deposit, and therefore will not reimburse for the upfront deposit. This will solely be the responsibility of the employee. In addition, the company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
 
 
-
 ### Work-related online courses and professional development certifications
 
-GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/converter/) per fiscal year to spend on one or multiple training courses. Reimbursement past the [$500 USD](https://www1.oanda.com/currency/converter/) total allotment requires manager approval, please follow the [Tuition Reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) process in this case.
-1. The company will pay for all courses related to learning how to code (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel.
-1. Work-related conferences, including travel, lodging, and meals. If total costs exceed [$500 USD](https://www1.oanda.com/currency/converter/), reimbursement requires prior approval from your manager.
-	* Before scheduling any travel or time off to attend a conference a team member should review the request with their manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After  manager approval the team member can schedule travel and will be reimbursed for related expenses.
-	* We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page.
-	* We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
-1. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself. The company will pay for certified English language courses online or in person. There is also the #lang-en channel in Slack to help with any English language questions you might have.
+GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per fiscal year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit).
+
 
 ### Year-end Holiday Party Budget
 
