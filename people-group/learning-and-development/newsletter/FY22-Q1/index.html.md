@@ -120,13 +120,11 @@ We want to remind you to [take time out to learn](/handbook/people-group/learnin
 
 There are plenty of courses on GitLab Learn as well as LinkedIn Learning that you can access. Check out our [recommended LinkedIn Learning courses](/handbook/people-group/learning-and-development/linkedin-learning/)! If you find a course that you think should be on the recommendation list, make an MR to the list and ask a L&D Team member in the `#learninganddevelopment` Slack Channel to merge. 
 
-
 ## Other Enablement Initiatives
 
 * Check out the monthly [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
 * The Diversity, Inclusion, & Belonging Team launched a newsletter. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
 
-
 ## Discussion 
 
-If you would like to discuss items related to this newsletter, please see the related [issue](open issue and add URL).
+If you would like to discuss items related to this newsletter, please see the [related discussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8).
