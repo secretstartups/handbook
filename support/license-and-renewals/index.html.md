@@ -75,13 +75,13 @@ supplements the baseline entitlements for the Support Engineer job family.
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/licence-and-renewals/workflows/working-with-sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/licence-and-renewals/workflows/working_with_sales.html)).
 
 When creating an individual/bulk access request, use the following information:
 
 * System name:
   * If you are a US citizen:
-    > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab, 
+    > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab,
     > with US public sector record visibility
   * If you are not a US citizen:
     > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
@@ -112,7 +112,6 @@ When creating an individual/bulk access request, use the following information:
   > Renewal customer issues and support requests. For more information, see
   > https://about.gitlab.com/handbook/support/license-and-renewals/index.html#zuora
 
-
 ### Workflows
 
 * [License & renewals workflows](workflows/index.html)
@@ -126,7 +125,7 @@ When creating an individual/bulk access request, use the following information:
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
 that would makes things better for customers and Support, please don’t forget to
-label it with `Support Priority` - this helps the product team in prioritising
+label it with `Support Priority` - this helps the product team in prioritizing
 for the next milestone.
 
 ##### Fulfillment stage

@@ -71,7 +71,7 @@ follow this process to verify and fix the issue.
 
   Example of the message:
 
-  ```
+  ```plaintext
   John Doe (Support Engineer): @Sales-Support, this organization has
   Support Level set to Expired, and they opened a new ticket. Can you clarify if
   the support is really expired and if we should decline support for this customer, or
@@ -128,7 +128,7 @@ and verify that it is associated with the appropriate organization and SLA.
 - Fix SFDC side first by following [the steps above](#handling-customers-with-incorrect-expired-support).
   Sales Support will usually reply to your message in SFDC, and you will be able to see it in the feed at the organization's page there.
   `GitLab Plan` value on Zendesk side will change from `Expired` to the valid one after the sync is done.
-  After that new tickets from this orgination will be shown correctly.
+  After that new tickets from this organization will be shown correctly.
 - Fix the tags in the ticket you are working using [these steps](#fixing-tags-for-tickets-with-expired-organization). Note that
   you do not need to wait for fix on SFDC side, you may fix the tags right away. SLA will appear in the ticket after doing it.
 - Update the ticket with the internal comment describing what was done.
@@ -161,7 +161,7 @@ After that, the cc'ed user's next replies will not be marked as internal anymore
 
 ## Ticket views
 
-Tickets should show in the [appropriate view(s)](/handbook/support/workflows/zendesk-overview.html#views).
+Tickets should show in the [appropriate view(s)](/handbook/support/support-ops/zendesk/#views).
 
 ### Organizations with multiple subscriptions
 

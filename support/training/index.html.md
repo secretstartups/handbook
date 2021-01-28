@@ -73,7 +73,7 @@ When this Area of Focus module is complete, let your manager know that you are r
 | [Self Managed Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Self-Managed-Basics.md) | 2 Weeks | Understand the basics to answer Self Managed product related tickets |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
-When this Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
+When this Area of Focus module is complete, let your manager know that you are ready to [join the appropriate On-Call rotations](/handbook/support/support-engineer-responsibilities.html#4-participate-in-on-call-rotations-to-coordinate-and-resolve-emergencies-occasionally).
 
 ## License and Renewals Learning Pathway
 
@@ -106,7 +106,7 @@ We are continuously working on adding more modules and building out more learnin
 
 ## Support Engineer Achievable Progress - First 6 Months
 
-Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week. 
+Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week.
 
 **NOTE:** The 6 months starts after your initial [Support Learning Pathways](#support-learning-pathways) are complete.
 
@@ -122,6 +122,5 @@ The following reference table can be used as a guideline on achieving comfort wi
 | 4 | 50+ | 60+ |
 | 5 | 60+ | 80+ |
 | 6 | 70+ | 100+ |
-
 
 *As always, please submit an Issue or MR if you have suggestions on how this page could be better!*
