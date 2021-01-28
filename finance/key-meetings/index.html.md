@@ -58,7 +58,7 @@ We expect that All-Directs have a general understanding of the business beyond t
 
 Each month, one All-Direct will join the Key Rotation. This person should plan to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
 
-A rotation will require about a five hour time commitment--largely within a single week. 
+A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
 
 Participants can sign up in the Key Rotation Schedule. The EBA to the CFO will add participants to meetings.
 
