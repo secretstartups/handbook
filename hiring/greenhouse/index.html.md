@@ -30,7 +30,7 @@ A Recruiter will see an additional section called, `Applications to Review`, whi
 
 On the righthand panel, members of the Hiring Team can see a list of `My Tasks` and `All Tasks`, which shows how many candidates you have pending action items on. For example, *"Needs Decision"*, *"Candidates to Schedule"*, *"Take Home Tests to Send"*, or *"Offers"*. You can view all pending tasks by clicking `All Tasks`.
 
-Members of the approval process (i.e. Executives, Finance Business Partners, and People Ops) will have an additional section titled `My Approvals`, which contains a list of any requisitions and candidates that require their approval.
+Members of the approval process (i.e. Executives, Finance Business Partners, and People Success) will have an additional section titled `My Approvals`, which contains a list of any requisitions and candidates that require their approval.
 
 There is also a quick link to `People I'm Following`, so you can easily get to their profile. To do that, you'll have to "follow" a candidate; that option can be found on the right side on a candidate's profile page.
 
@@ -110,7 +110,7 @@ A popular method of searching is [with boolean queries](https://support.greenhou
 
 ### Email syncing
 
-All email communication with candidates must be kept in Greenhouse. Only Job Admins (Hiring Managers, Executives, and People Ops) are able to email candidates from Greenhouse. If you are **not** a Job Admin and want to email your candidate, please reach out to your Recruiter. In order to ensure that the candidate's responses are also kept in Greenhouse, you have two options (there is no automatic sync). The first option is to use a [Google Add-on "Greenhouse for Gmail"](https://support.greenhouse.io/hc/en-us/articles/360003111031-Greenhouse-for-Gmail-Google-Add-on-) which will allow you to sync any emails you receive from within your gmail inbox. The second option is to either bcc your outgoing email or forward your received email to `maildrop@ivy.greenhouse.io`.
+All email communication with candidates must be kept in Greenhouse. Only Job Admins (Hiring Managers, Executives, and People Success) are able to email candidates from Greenhouse. If you are **not** a Job Admin and want to email your candidate, please reach out to your Recruiter. In order to ensure that the candidate's responses are also kept in Greenhouse, you have two options (there is no automatic sync). The first option is to use a [Google Add-on "Greenhouse for Gmail"](https://support.greenhouse.io/hc/en-us/articles/360003111031-Greenhouse-for-Gmail-Google-Add-on-) which will allow you to sync any emails you receive from within your gmail inbox. The second option is to either bcc your outgoing email or forward your received email to `maildrop@ivy.greenhouse.io`.
 
 ### Leaving notes
 
@@ -167,7 +167,7 @@ Greenhouse has a variety of user-permissions for ensuring that team members have
 Below is a list of the various access levels, by team, and what they generally entail:
 
 - The **Recruiting Team** (*excluding* the VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and  Manager, Recruiting Operations) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
-- The **People Ops Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
+- The **People Success Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approver` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
 - All **Hiring Managers** (*excluding* Executives) should be assigned `Job Admin: Hiring Manager` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. However, there are a few exceptions:
     1. If they're a Hiring Manager for **only** one requisition.
@@ -218,7 +218,7 @@ To provision an Okta account:
 
 #### Linking users to their profiles
 
-All hired candidates are marked as private when they are hired. Meanwhile, all Site Admins, Job Admins: Recruiting, and Job Admins: People Ops have access to view private candidates. As a result, any new team members who fall into one of those permission levels needs to have their Greenhouse user account linked to their candidate profile. Please note **only** Site Admins can link a user to a candidate profile. To do so, go to [settings](https://app2.greenhouse.io/configure), click on [users](https://app2.greenhouse.io/account/users?status=active), search for the team member in the search bar, click on their name, click `Link to Candidate`, then search for the team member's name again, and click `Link` on the appropriate profile, then scroll to the bottom and click `Save`. You can also follow [the instructions](https://support.greenhouse.io/hc/en-us/articles/360020922752-Link-User-Account-to-Candidate-Profile-) which include screenshots on Greenhouse's website.
+All hired candidates are marked as private when they are hired. Meanwhile, all Site Admins, Job Admins: Recruiting, and Job Admins: People Success have access to view private candidates. As a result, any new team members who fall into one of those permission levels needs to have their Greenhouse user account linked to their candidate profile. Please note **only** Site Admins can link a user to a candidate profile. To do so, go to [settings](https://app2.greenhouse.io/configure), click on [users](https://app2.greenhouse.io/account/users?status=active), search for the team member in the search bar, click on their name, click `Link to Candidate`, then search for the team member's name again, and click `Link` on the appropriate profile, then scroll to the bottom and click `Save`. You can also follow [the instructions](https://support.greenhouse.io/hc/en-us/articles/360020922752-Link-User-Account-to-Candidate-Profile-) which include screenshots on Greenhouse's website.
 
 Any internal candidate who applies to a requisition via the internal job board will automatically have their user profile and candidate profile linked.
 
@@ -450,7 +450,7 @@ To change an existing section of approvals:
 
 For **requisition "Job" Approvals**, the approval chain is as follows:
 
-- Step 1: People Ops Analyst (1 of 2 required)
+- Step 1: People Success Analyst (1 of 2 required)
 - Step 2: Finance Business Partner of the Division/Department (1 of 2 required)
 - Step 3: Executive of Division/Department (1 required if multiple people are listed)
 
@@ -458,7 +458,7 @@ For the **Official Job Approval** (a.k.a. *2-Stage Job Approvals*), please list 
 
 For **Offer Approvals**, the approval chain is as follows:
 
-- Step 1: People Ops Analyst (1 of 2 required)
+- Step 1: People Success Analyst (1 of 2 required)
 - Step 2: Finance Business Partner of the Division/Department (1 of 2 required)
 - Step 3: Executive of Division/Department (1 required if multiple people are listed)
 
