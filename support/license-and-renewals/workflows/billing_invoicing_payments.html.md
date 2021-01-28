@@ -47,6 +47,8 @@ customer as far as possible before passing the request*
 Support will still generate a manual license if new contact wants an updated
 license. Zuora update is primarily effective for future purchases.
 
+NOTE: The `Sold to` contact in Zuora usually receives the license, renewal reminders and comms about changes to the subscription (e.g renewal success/fail). The `Bill to` contact in Zuora will receive invoices as well as renewal reminders.
+
 ### Billing processes to know about
 
 #### Zuora entity change
