@@ -95,9 +95,7 @@ This section articulates the information regarding the vendor and the current co
    * If, and only if, this is a marketing request related to a campaign, please add the tag directly from the finance budget doc here to avoid delays in budgeting and payments.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
-If non public data will be shared in ANY capacity with this vendor, a security analysis is required.
-A security analysis is required for renewals as well since an eval is due every 12 months.
-Review our [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html) and [Vendor Security Review Process](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html) for questions.
+Review the [Third Party Risk Management process](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) to initiate a review. 
 
 To expedite the security review process, complete the identified check boxes as relative:
 
@@ -106,7 +104,7 @@ To expedite the security review process, complete the identified check boxes as 
 
 **Security Documentation**
    * Request your vendor contact share with us independent certifications validating the security protocols in place for our review.
-   * Send this email template [requesting security documentation](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation) to your vendor contact
+   * Send this email template [requesting security documentation](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html#email-request-template) to your vendor contact
 
 **Non Disclosure Agreement (NDA)**
    * If this is a **NEW vendor**, an NDA is oftentimes required from the vendor in order to share security certification
