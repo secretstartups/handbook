@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Change Management in GitLab Support
+description: Decision Making and Change Management in the GitLab Support Leadership Team
 ---
 
 ## On this page
