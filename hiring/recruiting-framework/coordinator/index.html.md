@@ -55,7 +55,7 @@ The CES team operates off of a queue style system with differing levels of prior
 
 ### Screening
 
-- Once a candidate is moved into the Screening stage, the Sourcer is to send the GSIS
+- Once a candidate is moved into the Screening stage, the candidate is automatically sent the GSIS.
 - When scheduling a candidate for a screening call with a recruiter, the calendly link is to be used. We will no longer use the "Request Availability" option for screening calls as this creates unnecessary manual work  
    - If the candidate is sourced, the sourcer should send the calendly
    - If it's an agency candidate or a referral where the recruiter may see the candidate first, the recruiter should send their calendly link
