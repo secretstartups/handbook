@@ -163,6 +163,10 @@ Managers have an tremendous responsibility around recruiting and [retention](/ha
 - Candidates that have a proposed offer should meet the bar, especially for more senior positions.
 - Build a _global team_. Unless shown with a business case, "we can’t find the talent out of the bay" goes against our [diversity, inclusion and belonging mission](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) and the [Location Factor KPI](/handbook/people-group/people-group-metrics/#average-location-factor).
 
+## High Output Management
+
+GitLab leadership and management approach was built using principles coverd in the book "High Output Management." Please see [High Output Management](/handbook/leadership/high-output-management/) to learn more. 
+
 ## Building High Performing Teams
 
 Building a team to deliver [results](/handbook/values/#results) is a very important aspect of improving [efficiency](/handbook/values/#efficiency) and [iteration](/handbook/values/#iteration). A high-performing team will always deliver results. As a leader at GitLab, your role is to develop a high-performing team to reach the desired level of performance and productivity. There are certain traits that high-performing teams display at GitLab:
