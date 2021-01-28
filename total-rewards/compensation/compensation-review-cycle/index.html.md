@@ -94,8 +94,8 @@ All team members hired on or before October 31st will be eligible to be evaluate
 1. January 27th - February 1st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
+1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22.
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance. Team members will need to be notified no later than February 12th.
-1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Letters of adjustment are not necessary for annual compensation review changes, but Total Rewards will be generating a "Compensation Summary" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22.
 
 ### Duties and Responsibilities
 
