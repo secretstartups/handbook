@@ -20,33 +20,32 @@ This is a work in progress that is meant to be built on by the teams as FY22 goe
 
 See something you'd like to discuss/change? Open an MR!
 
-*change code owners* - set approval requirements
-
 ### Purpose of this Handbook Page
 Align our marketing teams on a single FY22 marketing plan.
 
 ### Goal of FY22 Marketing Plan:
 
-    - simplify motions
-    - increase collaboration
-    - provide leadership opportunities within the marketing organization 
-    - continue to build out the levers identified in the FY21 Project Compass. 
-* Audience: Marketing 
-* Timeline: have everyone aligned by end of February 2021
-* Measure: how do we confirm everyone is aligned? (ideally use gitlab in some way)
+* Key Outcoming of FY22 Marketing Plan:
+    - Simplify motions
+    - Increase collaboration
+    - Provide leadership opportunities within the marketing organization 
+    - Continue to build out the levers identified in the FY21 Project Compass. 
+* Audience: Marketing (Sales, Product, etc. alignment not within this project)
+* Tiemline: Ensure marketing alignment by end of February 2021
+* Measure: how do we confirm everyone is aligned?
 
 ### TOPO Marketing Model
 The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22. In order to see the TOPO model please search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED` in Google Drive.  
 
-Monthly the Marketing Key meeting will be used as the venue for tracking where we are year to date on the agreed upon plan. 
+Monthly the Marketing Key Meeting will be used as the venue for tracking where we are year to date on the agreed upon plan. 
 
 ### Marketing Budgets
 All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71684) for more details on the tool. 
 
 ### Glossary of terminology
-* Motions - a motion is perpetual 
-* Theme - a theme is time based 
-* Sales Play
+* GTM Motions - an overarching topic to land in the market. Will include 
+* Theme - 
+* Sales Play - a sales play preps the sales team to be a strategic part of the outbound motion
 * 4x2 - document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments - link to section
 * GTM Motion Core Team - a group of marketers who are the DRI for different sections of the GTM strategy. If your name is not listed as part of the core team and you would like to volunteer to be on the core team, you may do so. 
 * Buyer Journey
@@ -55,12 +54,9 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 {: # .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-* **CI**: 
-* **DevOps Platform**: 
-* **GitOps**:
-* **Brand**: 
-
-[Add iframe for gtm motions doc]
+<figure>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</figure>
 
 At their simplist form, the GTM motions were built by CMO staff, and then evangelized with both product & sales leadership before we landed on the GTM motions. Each motion has the WHY included, as well as related sales plays and alliance partners. 
 
