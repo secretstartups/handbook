@@ -71,7 +71,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | ---------- | ------ | ------ | ---- |
 | Per user per month | $0 | $19 | $99 |
 | [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Managers/Directors | Executives |
-| Main competitor | GitHub Free/Team | GitHub Enterprise | Veracode, Checkmarx |
+| Main competitor | GitHub Team | GitHub Enterprise | Veracode, Checkmarx |
 | Type of sell | No sell | Benefit/solution | Transformation |
 
 ### Buyer Based Tiering Clarification
