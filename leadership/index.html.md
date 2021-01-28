@@ -165,7 +165,7 @@ Managers have an tremendous responsibility around recruiting and [retention](/ha
 
 ## High Output Management
 
-GitLab leadership and management approach was built using principles coverd in the book "High Output Management." Please see [High Output Management](/handbook/leadership/high-output-management/) to learn more. 
+GitLab leadership and management approach was built using principles coverd in the book "[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)." Please see [High Output Management](/handbook/leadership/high-output-management/) to learn more. 
 
 ## Building High Performing Teams
 
