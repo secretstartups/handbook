@@ -998,21 +998,21 @@ Use a short and strong name for all feature names.
 
 #### Feature Availability
 
-Use the following pattern to apply the correct badge to the feature (Core, Starter, Premium, Ultimate).
+Use the following pattern to apply the correct badge to the feature (Free, Premium, Ultimate).
 
 - `available_in`: availability of that feature in GitLab:
-  - For GitLab Core, use `[core, starter, premium, ultimate]`
-  - For GitLab Starter, use `[starter, premium, ultimate]`
+  - For GitLab Free, use `[core, premium, ultimate]`
   - For GitLab Premium, use `[premium, ultimate]`
   - For GitLab Ultimate, use `[ultimate]`
 
+Note that the GitLab Free tier is referenced as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
+
 If the feature is available in GitLab.com, the badges for GitLab.com will be
 applied automatically according to the self-managed availability. For example,
-`available_in: [premium, ultimate]` will "turn on" the badges Premium, Ultimate,
-Silver, and Gold.
+`available_in: [premium, ultimate]` will "turn on" the badges Premium and Ultimate under Self-Managed and SaaS.
 
 If the feature is not available in GitLab.com, e.g., LDAP and admin settings,
-use the tag `gitlab_com: false` to turn off the entire GitLab.com badges' row. For
+use the tag `gitlab_com: false` to turn off the entire SaaS badges' row. For
 example, for GitLab Geo features, use:
 
 ```yaml
@@ -1024,8 +1024,7 @@ If the feature is only available in GitLab.com, e.g. subscriptions, you can use
 the following badges:
 
 - `available_in`: availability of that feature in GitLab.com:
-  - For GitLab.com Free, use `[free, bronze, silver, gold]`
-  - For GitLab.com Bronze, use `[bronze, silver, gold]`
+  - For GitLab.com Free, use `[free, silver, gold]`
   - For GitLab.com Silver, use `[silver, gold]`
   - For GitLab.com Gold, use `[gold]`
 
