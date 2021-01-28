@@ -194,6 +194,16 @@ It can take 0-8 minutes for the system to ping you. After that, here are several
 
 Because Leads are a separate object and unrelated to Opportunities, you cannot log a call to a Lead and Opportunity. Instead, best practice is to log it to the Contact and Opportunity. You may need to convert the Lead to a Contact first. In that case, check with your SDR.
 
+**I just added a Contact or converted a Lead—>Contact and now Troops cannot find the Contact**
+
+Troops syncs the Salesforce schema every 15 minutes. So when you initially convert a Lead—>Contact **OR** you add a Contact (via Troops or directly in SFDC), it will take roughly 15 minutes for the new schema to load.
+
 **Error message: "CannotUpdateConvertedLead"**
 
 This error message occurs when the call happened, the Lead was converted to a Contact, and then the call was logged. In this case, it is a caching issue. Run the `/troops` command to manually log the call.
+
+
+
+
+
+
