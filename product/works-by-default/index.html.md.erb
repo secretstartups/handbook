@@ -5,15 +5,26 @@ title: Works by default
 
 ## Works by default
 
-Working by default is an important [Product Principle](/handbook/product/product-principles/#configuration-principles), but we haven't always been successful in making sure features are both **on by default** and **setup by default**. This page is meant to help us measure and track out progress improving the product so that more features do work by default.
+Working by default is an important [Product Principle](/handbook/product/product-principles/#configuration-principles), but we haven't always been successful in making sure features are both **enabled by default** and **setup by default**. This page is meant to help us measure and track out progress improving the product so that more features do work by default.
 
 ### Legend
 
-- ✅ - Works by default (**on** and **setup** by default)
-- ⚙ - Setup or configuration required (**on** but not configured)
-- ⤓ - Installation or feature flag required (**off** by default)
-- ❌ - Not supported
-- N/A - Not applicable
+- ✅ Works by default (**enabled** by default, and **setup** by default)
+- ⚙️ Setup required (feature must be setup by a user)
+  - In application setup is required by a user before the feature can be used. Example: URL or API keys needed for integration with an external tool like Jira.
+- 🔌 Installation required (feature must be enabled by an administrator)
+  - Installation of extra components on a host machine, or feature flags are off by default. Example: Changes to `gitlab.rb` are required to enable the feature.
+- 📦 Setup and Installation required (feature must be enabled by an administrator, and setup by a user)
+  - Both in application setup is required, and installation is required. Example: Gitaly Cluster requires Omnibus to be installed on additional machines, and in application storage settings to be modified.
+- ❌ Not supported
+- N/A Not applicable
+
+It helps to consider these states using the following 2x2 table:
+
+|                  | On-by-default            | Installation required               |
+|------------------|--------------------------|-------------------------------------|
+| Setup-by-default | ✅ Works by default      | 🔌 Installation Required            |
+| Setup required   | ⚙️ Setup required         | 📦 Setup and Installation Required  |
 
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
@@ -43,7 +54,7 @@ Any feature containing a valid `works_by_default` hash will be included in the t
       Just incredible. Miraculous some have said.
     works_by_default:
       gitlab_com: true
-      omnibus: config_required
+      omnibus: setup_required
       chart: install_required
       source: install_required
       gdk: false
@@ -59,9 +70,10 @@ The `works_by_default` field supports the following attributes:
 
 Supported statuses for these fields are:
 
-- `true` - ✅ Works by default (**on** and **setup** by default)
-- `config_required` - ⚙ Setup or configuration required (**on** but not configured)
-- `install_required` - ⤓ Installation or feature flag required (**off** by default)
+- `true` - ✅ Works by default (**enabled** by default, and **setup** by default)
+- `setup_required` - ⚙️ Setup required (feature must be setup by a user)
+- `install_required` - 🔌 Installation required (feature must be enabled by an administrator)
+- `setup_and_install_required` - 📦 Setup and Installation required (feature must be enabled by an administrator, and setup by a user)
 - `false` - ❌ Not supported
 - `not_applicable` - N/A
 
