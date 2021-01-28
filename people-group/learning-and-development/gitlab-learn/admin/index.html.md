@@ -512,7 +512,7 @@ Admin process for reporting from EdGraph is coming soon.
 
 
 
-## User Support
+## Support
 
 This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
 
@@ -528,17 +528,28 @@ graph TD
 
 ### Slack support for team members
 
-#### Team member support workflow
+#### Slack workflow
+
+GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues.
+
+Field sales team members might naturally reach out to exising channels of support from the Field Enabement team. If Field Enablement questions are posted in the Learning and Development Slack channel, the team will route inquiries to the correct team member.
+
+The L&D team monitors the #learninganddevelopment Slack thread daily. If issues about the EdCast platform are reported here, the L&D team will engage EdCast for further support.
+
 
 ### Zendesk support for customers and community members
 
-#### Professional Services support for customers workflow
+This workflow is currently being designed [in this issue](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/issues/23#note_494338293).
+
+#### Professional Services support workflow
 
 The workflow for customers using the LXP will be determined by the Professional Services team.
 
 #### Community support workflow
 
 The workflow for community members using the LXP has not yet been outlined.
+
+
 
 ### Email and macro templates
 
@@ -567,6 +578,9 @@ Sincerely,
 The GitLab Learning and Development Team`
 ```
 
+***Important note for users***: If you are reading this documentation, please do ***not*** email `gitlablearn@gitlab.com` for support. This email inbox is not monitored. Instead, please visit the [user documentation and check the correct support workflow]((/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+
 #### Zendesk macro for free users
 
 ```
@@ -576,7 +590,7 @@ Thanks for contacting GitLab Support with your questions about the GitLab Learn 
 
 Please note, you have opened this ticket through our paid support channel and we were unable to automatically determine your GitLab.com subscription. If you do not have a subscription, or you are on a trial, be aware that only **community support** is included; consider searching for and posting your question in our [community forum](https://forum.gitlab.com/) if you haven't already.
 
-If you're looking for support regarding a frequenlty asked question, please take a moment to review our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/).
+If you're looking for support regarding a frequently asked question, please take a moment to review our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/).
 
 The Learning and Development team will address community member support questions as capacity allows.
 
@@ -590,16 +604,16 @@ Sincerely,
 The GitLab Learning and Development Team
 ```
 
-## Admin Support
+### Admin Support
 
 This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
 
-### Temporary Slack support
+#### Temporary Slack support
 
 During the implementation phase, the team can access support from EdCast via the #edcast-support Slack channel. Please review the temporary process for engaging EdCast with supported related questions [on the EdCast implementation handbook page](/handbook/people-group/learning-and-development/gitlab-learn/implementation/#temporary-support-from-edcast-using-slack)
 
 
-### Submitting a feature request to EdCast
+#### Submitting a feature request to EdCast
 
 To make a feature request to the EdCast product, email the EdCast team with the following information:
 ```
@@ -637,9 +651,9 @@ To make a feature request to the EdCast product, email the EdCast team with the 
 ```
 
 
-### Engaging EdCast's support team for platform issues
+#### Engaging EdCast's support team for platform issues
 
-#### Web Incidents
+##### Web Incidents
 
 To engage the EdCast team in an incident on EdCast Web, email the EdCast team with the following information:
 
@@ -679,7 +693,7 @@ To engage the EdCast team in an incident on EdCast Web, email the EdCast team wi
 9. Any additional information that you would like to share with the support team 
  ```
 
-#### Mobile Incidents
+##### Mobile Incidents
 
 To engage the EdCast team in an incident on EdCast Mobile, email the EdCast team with the following information:
 
@@ -709,7 +723,7 @@ Below is the information that would be needed when opening a “mobile” relate
 
 ```
 
-### Reporting performance issues on edcast.cpm
+##### Reporting performance issues on edcast.cpm
 
 To engage the EdCast team in a performance related incident, email the EdCast team with the following information:
 
