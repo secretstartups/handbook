@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "MikeL's README"
+description: "Personal readme page for Mike Lockhart, Support Engineer, GitLab"
 job: "Support Engineer - APAC"
 ---
 
