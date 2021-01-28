@@ -22,7 +22,9 @@ Leadership at GitLab is a unique opportunity to embody and model the GitLab Valu
 | Responsibilities | GitLab Values |
 | ---------------- | ------------- |
 | Consistently ensure high Customer Support Satisfaction | Results, Efficiency, Iteration, Transparency |
-| Support and nurture team members in Customer Support | [Collaboration](/handbook/values/#collaboration), Diversity Inclusion Belonging |
+| Support and nurture team members in Customer Support | Collaboration, Diversity Inclusion Belonging |
+
+Our [Hazards and Challenges page](/handbook/support/managers/hazards-and-challenges.html) describes some known issues and how we handle them.
 
 ## Consistently ensure high Customer Support Satisfaction
 
