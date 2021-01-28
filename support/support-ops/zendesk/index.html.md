@@ -116,6 +116,24 @@ Instead of managing these via Zendesk itself, we instead us the
 GitLab project. This allows us to have version-controlled automations. See the
 project for more details.
 
+A general table of the current forms present in Zendesk is as follows:
+
+| Ticket Form | Public? | Category | Allows Free? | What it is for |
+|---|:-:|---|:-:|---|
+| SaaS Account | Yes | Support | Yes | For GitLab.com tickets about Account related matters (2FA, login, etc.) |
+| SaaS | Yes | Support | Yes | For GitLab.com tickets not about Account related matters |
+| Self-Managed | Yes | Support | No | For tickets about Self-Managed instances |
+| L&R | Yes | Support | Yes | For matters relating to Licensing and Subscription Renewals |
+| Other | Yes | Support | Yes | Catchall Form |
+| Security | Yes | Non-support | Yes | For tickets relating to GitLab.com security matters |
+| Billing | Yes | Non-support | Yes | For tickets relating to Account Receivable/Refund matters |
+| Professional Services | Yes | Non-support | Yes | For tickets relating to GitLab Learn |
+| Select Partner | Yes | Support | No | Support tickets for Select Partners |
+| Open Partner | Yes | Support | No | Support tickets for Open Partners |
+| Alliance Partner | Yes | Support | No | Support tickets for Alliance Partners |
+| Community | No | Support | Yes | For requests from the community |
+| Emergency | No | Support | No | For emergency requests |
+
 ## FAQs
 
 ### What to do when Zendesk is not connecting at all?
