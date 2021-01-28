@@ -191,9 +191,9 @@ Exceptional community members may be able to participate, as well.
 | 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-05-03 | 2021-05-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-05-03 | 2021-05-07 | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher | AVAILABLE - REMOTE |
 | 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
-| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | AVAILABLE - REMOTE |
+| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
 | 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
