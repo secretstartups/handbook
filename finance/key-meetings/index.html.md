@@ -60,7 +60,7 @@ Each month, one All-Direct will join the Key Rotation. This person should plan t
 
 A rotation will require about a five hour time commitment--largely within a single week. 
 
-Participants can sign up in the Key Rotation Schedule.
+Participants can sign up in the Key Rotation Schedule. The EBA to the CFO will add participants to meetings.
 
 #### Key Rotation Schedule
 
