@@ -310,6 +310,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | 01 January 2021             | Hard       | Holiday: New Year's Day       |
 | 15 January 2021              | Soft       | Friends & Family Day       |
 | 26 January 2021              | Soft       | EoA announcement       |
+| 28-29 January 2021           | Soft       | Addressing platform action items |
 | 26 February 2021              | Soft       | Friends & Family Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Friends & Family Days](https://about.gitlab.com/handbook/ceo/family-friends-day/#upcoming-family-and-friends-days)         | Soft       | Friends & Family Days                   |
