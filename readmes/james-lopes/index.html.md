@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "James Lopes' README"
+description: "Personal readme page for James Lopes, Support Engineering Manager, GitLab"
 job: "Support Engineering Manager (AMER)"
 ---
 ### About Me
