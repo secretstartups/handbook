@@ -16,7 +16,7 @@ description: "Greenhouse is GitLab's ATS (Applicant Tracking System). All Hiring
 
 [Greenhouse](https://www.greenhouse.io) is GitLab's ATS (Applicant Tracking System). All Hiring Managers and Interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more.
 
-You will receive an email to log-in to Greenhouse for the first time. When you [log-in to Greenhouse](https://app2.greenhouse.io/users/sign_in), enter your GitLab email, click `Next`, and fill in your [Okta](/handbook/business-ops/okta/) information as prompted. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
+You will receive an email to log-in to Greenhouse for the first time. When you [log-in to Greenhouse](https://app2.greenhouse.io/users/sign_in), enter your GitLab email, click `Next`, and fill in your [Okta](/handbook/business-ops/okta/) information as prompted. All GitLab team-members are granted *Basic* access, which will allow you to track *Referral* submissions, interview candidates (if assigned to a requisition), and share requisition postings on social media. Until your access is changed by an Admin, you will only have access to the Greenhouse [dashboard](https://app2.greenhouse.io/dashboard).
 
 During onboarding, all new team members are assigned permissions based on their role in the hiring process. If a current team member needs to change their access level, they'll need to submit a [new access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) in the GitLab `access-requests` project. Their Manager and the Recruiting Team will be pinged to approve and action that request.
 
@@ -167,44 +167,41 @@ Greenhouse has a variety of user-permissions for ensuring that team members have
 Below is a list of the various access levels, by team, and what they generally entail:
 
 - The **Recruiting Team** (*excluding* the VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and  Manager, Recruiting Operations) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
-- The **People Ops Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Ops` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
-- All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approval` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
+- The **People Ops Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
+- All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approver` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
 - All **Hiring Managers** (*excluding* Executives) should be assigned `Job Admin: Hiring Manager` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. However, there are a few exceptions:
     1. If they're a Hiring Manager for **only** one requisition.
         * In this scenario, they should **not** be given access to *All Future Jobs*, but only to the current vacancies where they are the Hiring Manager.
     2. If they're on the Hiring Team for a requisition **outside** of their own team.
-        * In this scenario, they should be given `Interviewer` access for that requisition only.
+        * In this scenario, they should be add as a Hiring Team member for that requisition only.
 - All **Executive Assistants** should be assigned `Job Admin: Scheduling` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - Any user that needs to access all vacancies and data, including diversity data, should be assigned `Site Admin` permissions.
-    * The current `Site Admins` include: the CEO, CFO, CPO, VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and Manager, Recruiting Operations.
-- Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned `Interviewer` permissions for **only** the vacancies where their participation is expected. Though, if the user is expected to interview candidates for **all** vacancies within a particular department, then they can be assigned the `Interviewer` permission for *All Future Jobs*.
-    * This permissions will allow the user to see all candidates in the assigned requisition. However, when it comes to viewing *Scorecards*, they'd only be able to view the *Scorecards* of others **after** submitting their own.
+    * The current `Site Admins` include: the VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and Manager, Recruiting Operations.
+- Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned permissions for **only** the vacancies where their participation is expected.
 - All other users should be assigned `Basic` permissions.
 
 There are a few other permission levels in Greenhouse that are not frequently used:
 - `Job Admin: Standard`: grants default `Job Admin` permissions, plus the ability to advance or reject candidates.
-- `Job Admin: Limited`: grants default `Job Admin` permissions, but it **doesn't** have the ability to advance or reject candidates.
+- `Job Admin: People Business Partner`: grants default `Job Admin` permissions, but allows a user to see notes and scorecards.
 - `Job Admin: Recruiting Agency`: this access level is designated for **Recruiting Agencies** only when they need the ability to advance or reject candidates.
-
-To note, if a requisition is marked as "Closed" in the `Job Setup` > `Job Info` > `Job Status`, then `Interviewers` only will **not** be able to see any candidates in that requisition.
 
 #### How to upgrade or change access levels
 
 Only Admins can upgrade another team member's access level. During onboarding, all new team members are added to Greenhouse at the appropriate level listed above. If a current team member needs to change their access level, they will need to create a [new access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request) in the GitLab `access-requests` project.
 
-The default access level is *Basic*, but anyone reviewing and interviewing candidate profiles should be upgraded to the *Interviewer* role. To upgrade access levels:
+The default access level is *Basic*, which also sufficient for team members who will interview candidates. To upgrade access levels:
  1. Go to [settings](https://app2.greenhouse.io/configure) and click on [users](https://app2.greenhouse.io/account/users?status=active)
  1. Search for the team member in the search bar; if their name appears, click on their name
- 1. Click `Edit` in the permissions section. Choose the `Job Admin/Interviewer` option
+ 1. Click `Edit` in the permissions section and choose the `Job Admin` option
  1. Click `Add` under `Job-Based Permissions`
- 1. Search for the job they should have access to and click `Add` next to it, then choose `Interviewer`
+ 1. Search for the job they should have access to and click `Add` next to it
 
-For any team members who are Hiring Managers (or above), choose `Job Admin: Hiring Manager` for the specific roles they should have access to; if they are a Hiring Manager for an entire department, they should also be added as `Job Admin: Hiring Manager` for future roles within that department. If they are a Hiring Manager or above for a role, they should always be marked as `Job Admin: Hiring Manager` and **no** `Interviewer` even if they will be interviewing, since that will limit their access. Meanwhile, the Executive for a division (e.g. CRO, CMO, VPE, etc.) should receive `Job Admin: Job Approval` for all of their division's current and future roles in order to give them the same permissions as `Job Admin: Hiring Manager` as well as the ability to approve new vacancies.
+For any team members who are Hiring Managers (or above), choose `Job Admin: Hiring Manager` for the specific roles they should have access to; if they are a Hiring Manager for an entire department, they should also be added as `Job Admin: Hiring Manager` for future roles within that department. The Executive for a division (e.g. CRO, CMO, VPE, etc.) should receive `Job Admin: Job Approver` for all of their division's current and future roles in order to give them the same permissions as `Job Admin: Hiring Manager` as well as the ability to approve new vacancies.
 
-Similarly, Recruiting receives `Job Admin: Recruiting` for all current and future roles; People Ops receives `Job Admin: People Ops` for all current and future roles.
+Similarly, Recruiting receives `Job Admin: Recruiting` for all current and future roles; People Success receives `Job Admin: People Success` for all current and future roles.
 
 There are additional "User-Specific Permissions" listed beneath the job-based permissions.
-1. For the People Ops Team, check off `Can invite new users to Greenhouse and reactive disabled users`, `Can manage unattached prospects`, and `Can invite and deactivate agency recruiters`.
+1. For the People Success Team, check off `Can invite new users to Greenhouse and reactive disabled users`, `Can manage unattached prospects`, and `Can invite and deactivate agency recruiters`.
 1. For the Recruiting Team, check off each additional option.
 1. Site Admins should typically have access to all of the additional options, but *always* be sure to check off `Can see EEOC and demographic reports`, `Can create and view private candidates`, and `Can see private notes, salary info, manage offers, and approve jobs/offers`.
 
