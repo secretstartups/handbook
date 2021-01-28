@@ -56,6 +56,7 @@ We are equally responsible to ensure our team members are supported in their Git
 |  | Build strong working relationships with your colleagues in Support leadership through [informal communication](/company/culture/all-remote/informal-communication/)
 |  | [Conduct weekly 1:1s](#conducting-weekly-11-meetings) with each direct report |
 |  | Recommend projects, training, and leadership roles for your direct reports |
+|  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](https://about.gitlab.com/handbook/support/#cross-functional-non-product-counterparts)
 |  | Ensure regular professional/career development for each direct report |
 |  | Perform annual [360 Reviews](/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
 |  | Conduct [Performance Factor reviews](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](/handbook/total-rewards/compensation/compensation-review-cycle/)
