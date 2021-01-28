@@ -52,6 +52,32 @@ Functions that have these meetings are:
 
 If you would like to be added to a function's Key Meeting post in [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
+### Key Rotation
+
+We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The Key Rotation is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
+
+Each month, one All-Direct will join the Key Rotation. This person should plan to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
+
+A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
+
+Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the EBA of the CFO in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
+
+#### Key Rotation Schedule
+
+| Month | All-Direct |
+| ------ | ------ |
+| 2021-02 | AVAILABLE |
+| 2021-03 | AVAILABLE |
+| 2021-04 | AVAILABLE |
+| 2021-05 | AVAILABLE |
+| 2021-06 | AVAILABLE |
+| 2021-07 | AVAILABLE |
+| 2021-08 | AVAILABLE |
+| 2021-09 | AVAILABLE |
+| 2021-10 | AVAILABLE |
+| 2021-11 | AVAILABLE |
+| 2021-12 | AVAILABLE |
+
 ## Meeting Format
 
 There are three meeting formats.
