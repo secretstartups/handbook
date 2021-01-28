@@ -200,6 +200,10 @@ In some instances, we may be contacted by certain Governmental institutions aski
 
 The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Handbook](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#important-steps-during-the-probation-period). If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
+### Triage People Group Issues
+
+The People Experience Associate in the 'triage' rotation will pull up all issues opened in the `General` project and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
+
 ### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
