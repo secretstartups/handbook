@@ -60,13 +60,13 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
 
 GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
 
-## Growth & Development Benefit
+## Growth and Development Benefit
 
 GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to 10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
 
 Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
-### Growth & Development Benefit Eligibility 
+### Growth and Development Benefit Eligibility 
 
 Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
 
@@ -83,7 +83,7 @@ Examples of requests that may be denied:
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
-### How to Apply For Growth & Development Benefits
+### How to Apply For Growth and Development Benefits
 
 **For Growth & Development Benefits that cost under $1,000 USD**
 We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is under $1,000 USD, please submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
@@ -95,7 +95,7 @@ Reimbursements above $1,000 USD will be paid via payroll in the following pay cy
 
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab. If you opted to receive 50% of the reimbursement up front but the total amount on your form is at least $1,000 USD, the amount will still need to be refunded back to GitLab.
 
-### Types of Growth & Development Reimbursements
+### Types of Growth and Development Reimbursements
 
 | Category | Description | Eligibility for Reimbursement | Approver (above $1,000 USD) |
 | -------- | ----------- | ----------------------------- | --------------------------- |
