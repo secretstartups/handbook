@@ -606,13 +606,15 @@ On February 14, or the Tuesday after if this day falls over the weekend or on Mo
 1. Ask other team members to reexamine how existing meetings are managed
 
 When cancelling a meeting, a team member can copy and paste this message to send to attendees:
-_I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns. _
+_I evaluated the need for this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting is no longer needed. Please get in touch if you have any concerns._
 
 When changing the cadence of a meeting, a team member can copy and paste this message to send to attendees:
 
-_I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns. _
+_I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns._
 
-If you are a team member who intends to decline a meeting, the [asynchronous communication](/handbook/communication/#asynchronous-communication) section of the handbook has some good suggestions for what to say when you decline.
+If you are a team member declining a meeting, you can send a meeting to the organizer that says: 
+
+_I have removed this meeting from my calendar as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). Please get in touch if you have any concerns._
 
 Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
