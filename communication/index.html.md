@@ -614,7 +614,6 @@ _I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communicat
 
 If you are a team member who intends to decline a meeting, the [asynchronous communication](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
-_I have removed this meeting from my calendar as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). Please get in touch if you have any concerns._
 
 Meeting Cleanup Day is intentionally a few weeks after the start of the new fiscal year. The CoS will launch this initiative annually a week in advance through posting in the #company-fyi Slack channel.
 
