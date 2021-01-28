@@ -612,7 +612,7 @@ When changing the cadence of a meeting, a team member can copy and paste this me
 
 _I reassessed this meeting as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). I have determined that the meeting no longer needs to happen as frequently. Please look for an updated meeting invite and get in touch if you have any concerns._
 
-If you are a team member declining a meeting, you can send a meeting to the organizer that says: 
+If you are a team member who intends to decline a meeting, the [asynchronous communication](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async) section of the handbook has some good suggestions for what to say when you decline.
 
 _I have removed this meeting from my calendar as part of [Meeting Cleanup Day](/handbook/communication/#meeting-cleanup-day). Please get in touch if you have any concerns._
 
