@@ -868,8 +868,10 @@ Each month the release post manager may need help with technical hurdles during 
 
 Below are the types of problems the release post mangers may need help with.  
 
-- 
-- 
+- Assist with setup of [local dev environment](#local-dev-environment-setup-to-run-content-assembly-script)
+- Triaging pipeline errors and suggest changes or provide a fix to related merge requests
+- Resolving merge conflicts with the release post
+- Identifying when to engage with other technical teams to resolve upstream problems
 
 ---
 
