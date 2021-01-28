@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "README of Katrin Leinweber"
+description: "Personal readme page for Katrin Leinweber, Support Engineer, GitLab"
 job: "Support Engineer (EMEA)"
 ---
 
