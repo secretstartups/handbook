@@ -1,7 +1,8 @@
 ---
 layout: markdown_page
 title: "Lee Matos' README"
-job: "Support Engineering Manager (Americas East)"
+description: "Personal readme page for Lee Matos, Senior Support Engineering Manager, GitLab"
+job: "Senior Support Engineering Manager (Americas East)"
 ---
 + As your manager, my goal is to find the intersection of what you want and what the department needs. I am always open to ideas and helping to carve out time for you to accomplish things you find important.
 
