@@ -81,6 +81,7 @@ This section articulates the information regarding the vendor and the current co
 **Personal Data Privacy Review**
    * If any personal data will be collected, hosted, shared, or processed in any way, a [Privacy Review Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-privacy-review) MUST be completed. **Failure to complete this issue can result in a significant delay to the approval of your purchase.**
    * If this is a renewal or add-on, link to the previous Privacy Review issue to expedite review and approval. Note it was formerly referred to as a DPIA.
+   * Review all information and detail on the [Privacy Review](https://about.gitlab.com/handbook/legal/privacy/#vendor-privacy-review-process) process.
 
 **Data Category**
    * What type of data (if any) will be shared with this vendor AND from what systems? (e.g. sales data, customer usage data from SalesForce, Zuora, etc.)
