@@ -134,7 +134,7 @@ Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to ac
 * Stage in the buyer lifecycle
 * Indicated GTM Motion(s) of interest (either through inbound source, self-selected, or segmentation)
 
-These future state nurture programs will be aligned to GTM Motions, with three streams to clearly designate the stage of the [buyer journey](https://about.gitlab.com/handbook/marketing/corporate-marketing/content/#content-stage--buyers-journey-definitions) (Awareness, Consideration, and Purchase/Decision) and therefore deliver content relevant to their stage of the buyer journey.
+These future state nurture programs will be aligned to GTM Motions, with three streams to clearly designate the stage of the [buyer journey](/handbook/marketing/inbound-marketing/content/#content-stage--buyers-journey-definitions) (Awareness, Consideration, and Purchase/Decision) and therefore deliver content relevant to their stage of the buyer journey.
 
 #### Add to nurture within Marketo programs
 {: #add-to-nurture-in-program}
