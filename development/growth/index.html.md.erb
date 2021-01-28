@@ -316,6 +316,14 @@ The `experiment::` scoped labels are:
 
 This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`). The cleanup issue should be linked to the Experiment Tracking issue as a reference to ensure the experiment is concluded prior to cleanup.
 
+The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template can be used for the `gitlab-org/gitlab` project.
+
+#### Experiment issue templates
+
+- [Growth Experiment](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment) issue template for Growth teams
+- [Experiment Tracking](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template) issue template for Growth teams
+- [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template for `gitlab-org/gitlab`
+
 ## Experiment cadence
 
 The Growth sub-department tracks number of experiments per engineer as a development metric.
