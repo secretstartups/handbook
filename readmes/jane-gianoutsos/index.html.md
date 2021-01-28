@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Jane Gianoutsos' README"
+description: "Personal readme page for Jane Gianoutsos, Support Engineering Manager, GitLab"
 job: "Manager, Support Engineering (APAC)"
 ---
 
