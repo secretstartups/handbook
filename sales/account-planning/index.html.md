@@ -51,7 +51,7 @@ There are a few different components that are part of an account plan.
 * Whitespace Mapping, including their current stages (whether GitLab, competitor, or status quo) and which stages should be targeted
 * *Action Plan*
 
-###Account Profile###
+### Account Profile
 Basic account details should already be entered into SalesForce. The purpose of the Account Profile section of the Account Plan is to understand and document the overall goal of the account.  What is the customer trying to achieve and why? What are they investing in?
 
 Start at a high level, for example: 
@@ -65,7 +65,7 @@ Start at a high level, for example:
 
 How does any or all of that flow into their their digital strategy and most importantly how and where do we fit in - come back to that in the whitespace mapping? 
 
-###Org Structure/ Relationships###
+### Org Structure/ Relationships
 Mapping the org allows us to analyze where we are strong and where we have vulnerabilities which will drive some of our actions later in the plan. Creating a map can help you think through how each part of the organization engages with other parts of the business, and their potential to influence other lines of business. 
 
 If the account plan is with an existing customer you can track relationship health and trends to help with identifying a new point of entry. Net Promoter Score (NPS) helps determine if the customer is open to new opportunities.
@@ -75,8 +75,7 @@ Once you have identified the opportunity, think about who you need to align with
 - Who is a champion, potential champion, detractor?
 - What is their level of influence  and who are they aligned with?
 
-
-###White Space Mapping###
+### White Space Mapping
 This is the part of the account plan where the account teams works through the "Why?", "What?", and how we fit with our customer or prospect.  Here we identify the opportunity path and our potential to be successful.  The best way to approach white space mapping by using the value framework in Command of Message and building a mantra that defines our customer value proposition.
 
 You should think about the following:
@@ -86,16 +85,13 @@ You should think about the following:
 - Why GitLab - what are our advantages,challenges, risks?  Potential partners? 
 - Proof points - what we need to win - C level engagements, activities, references, etc..
 
-###Action Plan###
+### Action Plan ###
+
 *This is the most important part of the account plan!* 
 
 First, identify actions to secure a decision for GitLab. The action plan areas should be closely aligned to the buyer's journey. The action plan should also assign tasks to account team members who will take ownership in executing these steps. Be sure to include information about how to leverage strengths, eliminate risks or obstacles, and how to respond. Use the action plan to foster a team spirit of urgency and accountability.
 
 Lastly, one of the fundamental benefits of an account plan is to figure out  what you don’t know, and what you need to learn, so iterating frequently on the plan will help identify and address gaps. This will put you in a much better position to make decisions and take actions which will lead to success.
-
-
-
-
 
 ## Building the Account Plan 
 
