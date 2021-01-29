@@ -98,7 +98,7 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 
 **Live Learning Sessions**
 
-[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. GitLab team members [can sign up here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-fy21q4) for any of our Q4 live learning sessions. If we add more courses throughout the quarter, they will be added there as well. 
+[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. 
 
 * 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
 * 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
@@ -108,25 +108,14 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 [Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching a one-week challenge that all team members can attend and a comprehensive manager challenge focused on people leaders. 
 
 * 2020-11-16 - 2020-11-20: One-Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
-   * [Sign Up Here](https://www.signupgenius.com/go/10c0d4faeae2ca7f4c70-oneweek) 
 * 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
    * If you are interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
 
-**Monthly Continuous Learning Call**
-
-Every month, the L&D team hosts a [Monthly Continuous Learning Call](/handbook/people-group/learning-and-development/#monthly-continuous-learning-call). During these calls, we highlight all of the initatives taking place within the learning space at GitLab. Our upcoming calls for Q4 are outlined below: 
-
-* 2020-11-18 @ 1:00 PM PST 
-* 2020-12-16 @ 7:00 AM PST
-* 2020-01-20 @ 1:00 PM PST 
-
 **Other Events**
 
-* 2020-11-12: [Learning Speaker Series](/handbook/people-group/learning-and-development/learning-initiatives/#learning-speaker-series-overview) - Building Trust
-   * Learn more about the speaker: [Dr. Jeb Hurley](https://docs.google.com/presentation/d/1zyRgYcq3s1esbZ4gTNnqvoEjjFdjOp1EI8-YRBlC2_0/edit#slide=id.ga637fcc0e9_0_145) 
-   * An invite was sent to all GitLab Team Members from the GitLab Team Meetings calendar. 
-* 2020-12: Learning Speaker Series - Managing Mental Health & Burnout
-   * An invite will be sent from the GitLab Team Meetings calendar when the date is finalized. 
+* 2021-02-xx: [Learning BINGO]() 
+   * Anyone is welcome to join our upcoming Learning BINGO challenge. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn! 
+
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel. 
 
@@ -134,8 +123,8 @@ Every month, the L&D team hosts a [Monthly Continuous Learning Call](/handbook/p
 
 More ways you can continue to learn throughout the quarter: 
 
-* Access GitLab Learn! 
-* Access a LinkedIn Learning Licenses. We have outlined a variety of different courses that you can take. 
+* Access [GitLab Learn](https://gitlab.edcast.com/)! 
+* Access a LinkedIn Learning Licenses. We have outlined a [variety of different courses](/handbook/people-group/learning-and-development/linkedin-learning/) that you can take. 
 
 ## Learning Tips 
 
@@ -146,7 +135,7 @@ There are plenty of courses on GitLab Learn as well as LinkedIn Learning that yo
 ## Other Enablement Initiatives
 
 * Check out the monthly [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters)
-* The Diversity, Inclusion, & Belonging Team launched a newsletter. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
+* The Diversity, Inclusion, & Belonging Team has a newsletter. Search your inbox for the subject line `DIB - Diversity, Inclusion and Belonging Quarterly Newsletter`. 
 
 ## Discussion 
 
