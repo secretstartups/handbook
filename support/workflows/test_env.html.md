@@ -115,6 +115,14 @@ Once you've  created your resource you can follow the section named [Creating Gi
 Install [Docker Desktop for Mac](https://www.docker.com/get-started) or the
 [Linux Engine](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux).
 
+### Install Docker Machine
+Since Docker Toolbox has been deprecated, Docker Machine has to be downloaded and installed manually. Use the following commands to install or upgrade Docker Machine sepparately:
+
+```
+$ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-`uname -s`-`uname -m` >/usr/local/bin/docker-machine && \
+  chmod +x /usr/local/bin/docker-machine
+```
+
 ### VMWare Testing Environment
 
 This guide involves configuring and setting up VMWare and Docker locally and assumes you're using macOS.
