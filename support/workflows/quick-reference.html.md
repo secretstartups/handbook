@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Quick Reference
+description: "Quick reference guide for GitLab Support workflows"
 ---
 
 ## On this page

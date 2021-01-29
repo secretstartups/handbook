@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Handling trials for GitLab.com
+description: "How to handle GitLab.com subscription trials"
 category: GitLab.com subscriptions & purchases
 ---
 

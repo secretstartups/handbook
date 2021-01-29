@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Plan change requests
+description: "How to handle requests for plan changes"
 category: GitLab.com subscriptions & purchases
 ---
 

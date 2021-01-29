@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Changing License Delivery Confirmation Email
+description: "How to change email address for license delivery"
 category: General
 ---
 

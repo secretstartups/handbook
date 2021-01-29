@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Gitlab.com subscription provisioning guide
+description: "How to provision GitLab.com subscriptions"
 category: GitLab.com subscriptions & purchases
 ---
 
