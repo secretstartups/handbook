@@ -1,5 +1,6 @@
 ---
 redirect_to: './billing_invoicing_payments.html#cancellations-downgrades-and-refunds'
+description: "moved to another location cancellations downgrades refunds"
 ---
 
 This document was moved to [another location](./billing_invoicing_payments.html#cancellations-downgrades-and-refunds).
