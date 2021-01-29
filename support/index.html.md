@@ -14,6 +14,7 @@ The GitLab Support Team provides technical support to GitLab.com and Self-Manage
 | A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
 | New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
+| New Support Manager | Onboarding / Learning | [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html) page and [Support Manager Pathways](/handbook/support/training/#support-manager-onboarding-pathway) |
 
 Know someone who might be a great fit for our team? Please refer them to the job-family descriptions below.
 
@@ -76,14 +77,14 @@ We review these KPIs weekly in the [Support Week-in-Review](/handbook/support/#s
 ### About the Support Team
 
 The support team has a few elements and we've divided the support handbook as such:
-- [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think Zendesk workflows and technical resources.
-- [/support/managers](/handbook/support/managers/index.html) is content that is for Support Managers. Think how to manage issues, run 1:1s and leadership sync information.
-- [support/support-ops](/handbook/support/support-ops/index.html) is content that is for Support Operations. Think how to change Zendesk forms and fields, and other ops details.
+- [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think: Zendesk workflows and technical resources.
+- [/support/managers](/handbook/support/managers/index.html) is content that is for Support Managers. Think: how to manage issues, run 1:1s and leadership sync information.
+- [support/support-ops](/handbook/support/support-ops/index.html) is content that is for Support Operations. Think: how to change Zendesk forms and fields, and other ops details.
 
 Below we also have some commonly referenced pages:
 - [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities.html)
 - [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas.html)
-- [Support Managers](/handbook/support/managers/index.html), including areas of focus.
+- [Support Manager responsibilities](/handbook/support/managers/manager-responsibilities.html)
 
 ### Support Shadow Program
 
@@ -130,10 +131,10 @@ docs fixes, tutorials and improvements to any related material.
 ### Experiment with support model
 
 In late 2018 we moved from a "product-first" model to a "region-first" model. While this has affected the reporting structure, the lines
-of work from the perspective of an individual Support team member continue to be aligned to product. In 2019 we want to experiment with a "concept-first"
-model of support that will align individual strengths with customers needs regardless of which queue they come into.
+of work from the perspective of an individual Support team member continue to be aligned to product. In 2019 we experimented with a "concept-first"
+model of support that aligns individual strengths with customers needs regardless of which queue they come into.
 
-Other areas we'd like to explore:
+Other areas we may explore:
 1. 24x7 capability beyond uptime support (i.e. weekend staffing)
 1. Language support
 1. US-only Federal Support
@@ -167,7 +168,7 @@ Where we want to ensure that important messages are passed to the global support
 #### Groups
 {: .no_toc}
 
-We use the following groups to notify or add support team members to issues and merge requests on
+We use the following GitLab Groups to notify or add support team members to issues and merge requests on
 GitLab.com.
 
 | Group                                                                          | Who                      |
@@ -185,8 +186,7 @@ GitLab.com.
 #### Projects
 {: .no_toc}
 
-Our team projects and issue trackers can be found in the
-[Support parent group](https://gitlab.com/gitlab-com/support). Here are some selected projects
+Our team projects and issue trackers can be found in the [Support parent group](https://gitlab.com/gitlab-com/support). Here are some selected projects
 which are relevant to team communications.
 
 | Project | Purpose |
