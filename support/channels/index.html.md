@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Channels
+description: "Communication channels for GitLab Support"
 ---
 
 ## On this page
