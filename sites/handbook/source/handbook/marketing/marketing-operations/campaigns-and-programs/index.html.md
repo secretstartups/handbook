@@ -13,6 +13,20 @@ description: ""
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
+### Campaign Large Buckets
+Campaign buckets are used to improve reporting at a high level and Allocadia forcasting. A bucket must be selected when a new campaign is created.
+
+|Name|Description|Examples|
+|-------|--------------|---------|
+|Brand          |            |         |
+|Lead Generation|Efforts designed to bring in NEW leads to our database|Inbound Marketing, Conferences, Content Syndication|
+|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase|Workshops, Dinners, Ballgames|
+|Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
+|E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
+
+Campaign Types and Large Buckets will not always be 1:1, as certain programs could fall into multiple buckets (like webcasts, content)
+
+
 ### Campaign Cost Tracking
 
 Campaign Managers track costs associated with campaigns - such as events, content, webcasts, etc. Campaign tags can be applied to Expensify reports, corporate credit card charges, and vendor bills processed by Accounts Payable. Campaign expenses that are incurred by independent contractors should be clearly noted with the appropriate tag and included in their invoices to the company. We then use these accumulated campaign tag costs for budget to actual analysis as well as to update the Salesforce campaigns with actual costs.
