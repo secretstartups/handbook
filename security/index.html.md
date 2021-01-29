@@ -79,7 +79,7 @@ For Security Team members, the private PGP key is available in the Security 1Pas
 
 ### CEO & Executive Fraud
 
-The CEO will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), the CFO won't send you a text message to ask for gift cards, or anything else that feels like [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud).  These types of [spear fishing](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests with a video call.
+The CEO will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), the CFO won't send you a text message to ask for gift cards, or anything else that feels like [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud).  These types of [spear phishing](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests with a video call.
 
 What should you do if you receive a potential phishing email or text from GitLab's CEO?
 
