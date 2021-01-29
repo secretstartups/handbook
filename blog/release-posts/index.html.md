@@ -245,7 +245,7 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
 **Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions) or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
 {:.alert .alert-info}
 
-Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. Doing this early on in the process is recommended as, sometimes, updates to the www-gitlab-com project or the content assembly script could cause your Ruby version or Ruby libraries (gems) to be outdated. If unknown errors arise during this verifcation, reach out to [the release post DRI](https://gitlab.com/fseifoddini) for advisment. 
+Prior to running the content assembly script (described in the next section), the release post manager should confirm their local dev environment is running a current version of Ruby and its dependencies are updated. Doing this early on in the process is recommended as, sometimes, updates to the www-gitlab-com project or the content assembly script could cause your Ruby version or Ruby libraries (gems) to be outdated. If unknown errors arise during this verifcation, reach out to [the release post DRI](https://gitlab.com/fseifoddini) for advisment.
 
 1. Open a terminal window and run `./bin/doctor` and follow the prompts to resolve any errors. See also [demo video](https://youtu.be/zYK1JA8VMbI) of the doctor script.
 1. Once Ruby and all dependencies are updated, then you can proceed with content assembly of the release post.
@@ -290,7 +290,7 @@ The `bin/release-post-assemble` script makes this easy to do:
   git push origin release-X-Y
 ```
 
-Sometimes `bin/release-post-assemble`  may fail if there is a Ruby version update (or updated Ruby libraries) between the time the release post manager updates their local environment by the 7th and when content assembly starts on the 18th. The script may even fail for unknown reasons at times. If for some reason `bin/release-post-assemble` fails, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement. If all else fails, you can use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA). 
+Sometimes `bin/release-post-assemble`  may fail if there is a Ruby version update (or updated Ruby libraries) between the time the release post manager updates their local environment by the 7th and when content assembly starts on the 18th. The script may even fail for unknown reasons at times. If for some reason `bin/release-post-assemble` fails, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement. If all else fails, you can use the following steps to manually move content and push your changes. There is also a video walking through the changes [here](https://www.youtube.com/watch?v=SAtiSiSh_eA).
 
 1. Verify you've completed steps 1-3 above
 1. Manually move all the `.yml` files from `/data/releases_posts/unreleased/` to `/data/release_posts/x_y/` (`x_y` being the release post directory e.g. `13_2`) | *note: leave the `/samples` directory in the same location, don't move it*
@@ -369,7 +369,7 @@ In parallel with feature development, a merge request should be prepared by the 
 
 ###### Option 1: automated MR creation
 
-The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Draft your release post content under the **Release notes** section of the [feature issue template](/handbook/product/product-processes/#feature-templates) and then follow the [release post item generator](#release-post-item-generator) instructions. 
+The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Draft your release post content under the **Release notes** section of the [feature issue template](/handbook/product/product-processes/#feature-templates) and then follow the [release post item generator](#release-post-item-generator) instructions.
 
 ###### Option 2: manual MR creation
 
@@ -457,7 +457,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release post manager will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with but keep in mind **option 3 is high risk and NOT recommended**:
-  1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. PM assigns MR to the release post manager to review and merge. 
+  1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. PM assigns MR to the release post manager to review and merge.
   2. PM closes the original MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post MR. PM notifies release post manager to review.
 
 In both cases:
@@ -1566,6 +1566,47 @@ The [release post assembly](https://gitlab.com/gitlab-com/www-gitlab-com/blob/ma
 It uses a simple regexp to locate content files and images. It performs no validation. In the future, it would be simple to combine the functionality with the linter to reduce the number of scripts to maintain.
 
 In preparation for content assembly on the 18th of the month, the Release Post Manager should ensure their local dev environment is up to date (e.g., running latest version of Ruby). Follow the steps in the "Content assembly and initial review" section of the [release post MR checklist](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) to prepare a local dev environment in advance.
+
+#### Possible Script Errors with Corrective Actions
+
+Here are some of the common errors that a user might encounter and it may not be clear as what to do.
+
+1. You are missing a required Ruby Gem
+
+You might receive obscure error such as this:
+
+```
+Traceback (most recent call last):
+	6: from ./bin/release-post-item:5:in `<main>'
+	5: from ./bin/release-post-item:5:in `require_relative'
+	4: from /Users/chase/work/www-gitlab-com/lib/release_posts.rb:13:in `<top (required)>'
+	3: from /Users/chase/work/www-gitlab-com/lib/release_posts.rb:13:in `require_relative'
+	2: from /Users/chase/work/www-gitlab-com/lib/release_posts/post_entry.rb:6:in `<top (required)>'
+	1: from /Users/chase/.asdf/installs/ruby/2.6.6/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:117:in `require'
+/Users/chase/.asdf/installs/ruby/2.6.6/lib/ruby/2.6.0/rubygems/core_ext/kernel_require.rb:117:in `require': cannot load such file -- styled_yaml (LoadError)
+```
+
+In this case, ruby is trying to load a file named `styled_yaml`. It's not clear that this is a gem (a self-contained ruby library), but the `require` statement in the output is a clue that there is some unresolved dependency here. **The action you should take in this case is to run `bundle install`**. You can also run `./bin/doctor` and it _should_ provide guidance on what to do. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
+
+2. Ruby mismatch
+
+If you have a ruby version manager installed, you may receive an error in your terminal along the lines of `ruby  2.6.6  Not installed. Run "asdf install ruby 2.6.6"`
+
+It's possible that your ruby version is out of date with what is required to run handbook scripts. You should be able to run `./bin/doctor` to compare your current ruby version with that in the `.tool-versions` file.
+
+**The action you can take is to install the required ruby version**
+
+To install Ruby in the most popular ruby version managers, try:
+
+- For asdf, run the following: `asdf install ruby 2.6.6`
+- For rbenv, run the following: `brew upgrade rbenv ruby-build && rbenv install 2.6.6`
+- For rvm, run the following: `rvn install 2.6.6`
+
+If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
+
+Note that the handbook currently [suggests](https://about.gitlab.com/handbook/git-page-update/#4-install-ruby-version-manager-rvm) `rvm`, while engineering has adopted `asdf`. You may find other references to `rbenv` in this documentation too. Any of these are fine, but they all work a bit differently and you _**only need one ruby version manager installed**_.
+
+It is also possible that your ruby version manager is misconfigured or your settings have been altered because of an upgrade to macOS especially from earlier versions to Catalina or higher. It's difficult to suggest an action for this scenario, you may want to reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
 ### Release post merge request template
 
