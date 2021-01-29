@@ -253,6 +253,8 @@ docker-machine ip gitlab-test-env
 
 + Browse to: http://192.168.151.134:8888/
 
+**Note**: The container might take a few seconds to spin up and become accessible via the browser.
+
 ##### Execute interactive shell/edit configuration
 
 ```
