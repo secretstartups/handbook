@@ -11,18 +11,14 @@ description: Hands-on Workshop
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-# Workshop
+# Hands-on Workshop
 {:.no_toc}
 
-## Hands-on Workshops
-
-Due to resource intensity and time requirements, workshops are typically limited to a minimum of 50 attendees. Workshops average 3 hours in length, requiring a minimum of 3 GitLab employees to execute successfully. These are not "training events" but rather informational events geared toward new users or users interested in expanding their use of GitLab into new functionality such as CI, PPM or security.
-
-In order to carry out a hands-on workshop, a GitLab workshop instance must be stood up for the attendees to carry out the exercises during the workshop.
+GitLab Hands-on Workshops are interactive events for GitLab prospects and customers to learn about GitLab product with hands-on practice. In order to carry out a hands-on workshop, a GitLab instance must be stood up for the attendees to carry out the exercises during the workshop.
 
 Additional preparation is required to setup the class project and issue tracking workflow.
 
-### Creating a Workshop Instance
+## Creating a Workshop Instance
 
 To create an instance of a workshop navigate to the [Workshop Classes](https://gitlab.com/gitlab-com/customer-success/workshops/classes) Group in GitLab.
 
@@ -34,36 +30,36 @@ To create an instance of a workshop navigate to the [Workshop Classes](https://g
 i.e. "20210112-Advanced CI CD-GitLab"
 1. Click the 'Create project' button
 
-### How to Use the Workshop Template
+## How to Use the Workshop Template
 
 The template consists of several main parts:
 
-#### The Project Repository
+### The Project Repository
 
 The project Repo contains all the materials required to run a workshop.
 
-#### The Readme File
+### The Readme File
 
 The Readme file within the project repository describes the workshop requirements and delivery information.
 
-#### Tracking Issues
+### Tracking Issues
 
 There are 7 issues created to help set up, track and deliver the workshop
 
 Task 1 is the core issue. It is recommended that to use this to consolidate and coordinate with the team. Point team members to this issue to get the information on the particular instance of the workshop. Set timelines and set the dates for all the issues as it relates to the targeted delivery date.
 
-#### Tracking Milestone
+### Tracking Milestone
 
 Milestones are used to see progress on workshop set up. They can also be used as part of the group roll up to see across multiple workshop executions.
 
-#### Tracking Boards
+### Tracking Boards
 
 The following boards have been created to help manage the workshop. Feel free to create new boards as needed:
 
 - Tracking - This board uses the flow of scoped labels - Waiting to Start, In Progress, Under Review
 - Assistance Needed: This board follows blocking issues affecting workshop setup and delivery
 
-#### Labels
+### Labels
 
 The following labels are available at the project level - feel free to add new labels as needed, but please do not remove these labels:
 

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Solution Architect Assisted RFI/RFP Process
+title: RFI/RFP Process
 description: >-
   Solution Architect Assisted RFI/RFP Process
 ---
@@ -17,13 +17,11 @@ Generally, RFx's have a fixed timeline. GitLab issues can assist in this process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## RFP Responses
-
-### Best Practices for Writing RFx Responses
+## Best Practices for Writing RFx Responses
 
 Responding to a Request for _____ (RFx) is part of the standard process within Public Sector. RFx is a general category that includes Request for Information, Request for Proposal, Request for Quote, etc. RFIs are generally less structured than RFPs. While RFQs rarely need technical write ups, occasionally technical input is required, especially if the RFx requests an `or alike` product.
 
-### Evaluating RFIs and RFPs for Response
+## Evaluating RFIs and RFPs for Response
 
 Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks.  There is a saying used commonly when responding: `Make sure you answer the mail`. This has two connotations:
 
@@ -32,7 +30,7 @@ Solutions Architects have a big role in responding to RFIs and RFPs where there 
 
 But more importantly, be sure that there is a product fit. If what is asked for in the RFI/RFP is not directly met with GitLab, or seems too much like a different software entirely, then stop and talk to the Strategic Account Leader or Inside Sales Representative. Also identify the strategic impact if the requirements do not seem to match GitLab functionality. If GitLab fits only a piece of the RFx, collaborate with the Strategic Account Leader and/or Inside Sales Representative to understand who the other players in the response might be.
 
-### Process of Responding to RFx
+## Process of Responding to RFx
 
 Generally, RFx's have a fixed timeline. GitLab issues can assist in this process as everything needed to manage a task is available. The best place to create the issue is in the Account project, if one exists, or in a central project where such activites are created and tracked. Occasionally, they can be created in an arbitrary personal project space and shared with other team members is no other suitable place can be found. Build an outline in the issue. The outline should include the following things:
 
@@ -44,7 +42,7 @@ Generally, RFx's have a fixed timeline. GitLab issues can assist in this process
 
 Typically a SAL or ISR will be involved in the process and should be assigned to the issue along with the SA. Lay out the tasks and assign owners so that every team member's duties are clear. And finally assign the due date according to the agreed-to completion date - at least 24-36 hours in advance of the published due date for the submission to the customer. This provides a small buffer in case of last minute adjustments or approvals that may be needed.
 
-### Responding to RFx
+## Responding to RFx
 
 After the issue is created, create a Google document and start filling in the details. A general [Public Sector template](https://docs.google.com/document/d/12uLyZ-lc9sswULq7XqpwOUtk_eiK2wgWhi-TIvT1mQs/template/preview) (only available to GitLab team members) is available as a starting point. Insert the link to the working document into the issue.
 
@@ -58,7 +56,7 @@ Each of these processes will likely require the creation of issues. Be sure to l
 
 `Recommendation:` The response documents should be placed in the appropriate Sales Account directory/folder in Google Drive. Please include the link to that document in the [**catalog document**](https://docs.google.com/document/d/1BW9WIYWkg_KG2kZu31IJofavgu4vt5Ac_jcJ3xAtKrg/edit?usp=sharing) for others to be able to find easily and reuse.
 
-### Specifics about RFIs
+## Specifics about RFIs
 
 RFIs are generally issued to shape procurement. In some situations, RFIs are just a step in the process as the customer may already have an advising team that may be following protocol. An RFI is generally non-binding unless otherwise specified. Responses to questions in an RFI don't have to be precise. They can have some idealistic statements to lay the groundwork and pivot points to educate the customer on what GitLab offers. It is good to follow the GitLab Value Framework response methodology, as there is no ability to have a dialog. The RFI is about positioning. Provide context around the following factors that can grab the attention of the readers:
 
@@ -73,7 +71,7 @@ An RFI may ask open-ended questions. This is good for providing detailed solutio
 
 When responding to an RFI, it's critical to document how the product solves customer problems, but it's also important to include the company behind the product. GitLab's all-remote leadership, its company values, its culture, and its professional services offerings shape the entire customer relationship.
 
-### Including Links to Documentation
+## Including Links to Documentation
 
 In general, for Public Sector responses, adding links to documentation is not a good practice. Essentially, anything that makes a reader have to do extra work is not going to work well. There are also cases in which the reader may not be able to readily access the link provided.
 
@@ -83,7 +81,7 @@ If, however, the customer asks for a descriptive concept like the architecture o
 
 The customer may ask for a description of the CI process or other complex process. In these cases, it is acceptable to copy as much of the documentation from our documentation as possible, including many details to differentiate GitLab from competitive products. Using CI as an example, include a description of how GitLab CI operates, a description of the yml file, a link to the yml file documentation, and add information regarding unique or differentiating functions that GitLab offers like Auto DevOps, Directed Acyclic Graphs, multi-project pipelines, etc.
 
-### Tips and Tricks in Response Writing
+## Tips and Tricks in Response Writing
 
 - As much as possible use [active rather than passive voice](https://www.grammarly.com/blog/active-vs-passive-voice/)
 - Eliminate pronouns: Example 1, "GitLab CI will do x" rather than "Our CI will do x". Example 2, "The GitLab team will x" rather than "We will x".

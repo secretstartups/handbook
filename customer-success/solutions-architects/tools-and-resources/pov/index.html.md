@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Proof of Value (POV) guidelines
-description: “GitLab Solutions Architects: Proof of Value (POV) guidelines”
+title: Proof of Value (POV) 
+description: Proof of Value (POV) 
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -11,12 +11,12 @@ description: “GitLab Solutions Architects: Proof of Value (POV) guidelines”
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-# POV
+# Proof of Value (POV)
 {:.no_toc}
 
 GitLab wants prospects and customers to carry out a successful Proof of Value with GitLab with a GitLab trial license either using GitLab.com or an installed instance. As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
-## Proof of Value (POV) Guidelines
+## POV Guidelines
 
 POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and success criteria have been documented.
 
