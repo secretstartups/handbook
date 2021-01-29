@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
-title: "Parker E.'s README (Sr. PMM)"
+title: "Parker Ennis README (Sr. PMM)"
+description: "Learn more about who I am and how I work"
 ---
 
 ## Parker Ennis README
