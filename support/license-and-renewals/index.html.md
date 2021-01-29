@@ -117,6 +117,14 @@ When creating an individual/bulk access request, use the following information:
 * [License & renewals workflows](workflows/index.html)
 * [Internal policies and procedures wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home)
 
+### Useful tools
+
+* [license decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder)
+  -- Ruby script to decode `.gitlab-license` files.
+* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/slic/)
+  -- browser extension to copy and format CustomerDot and LicenseDot information
+  into internal notes.
+
 ### Teams you'll be working with
 
 #### Product
