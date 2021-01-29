@@ -10,6 +10,16 @@ description: "We use YouTube as our single source of truth for video content inc
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
+## Channels
+
+There are two YouTube channels we use at GitLab:
+
+1. [Branded](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg): used for content intended for people in the wider community, including marketing and event content, customer, community and user stories, employment branding, and polished sales videos and demos. For example [our GitLab informercial](https://www.youtube.com/watch?v=gzYTZhJlHoI).
+1. [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/): used for content intended for team and community members, including (but not limited to) team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and casual demos. For example [a weekly meeting of the Plan group](https://www.youtube.com/watch?v=xXGAcFyBupA).
+
+Everything posted to our **Branded** channel should pass through digital production for quality control for branding and production standards. If you wonder if your video should go on the Branded channel, reach out to the [Digital Production team in Slack](https://gitlab.slack.com/archives/C01LRUKFQTB).
+
 ## Live Streaming
 
 Everyone within the GitLab team is encouraged to live stream their meetings and events on GitLab Unfiltered.  First time livestreaming?  Find out how below!
@@ -130,13 +140,6 @@ Always use YouTube and never use Google Drive, even for [private videos](#visibi
 1. public videos show up in Google search.
 1. easy to make public if the video is suitable for that.
 1. have playlists that allow for better organization of the video content.
-
-## Channels
-
-There are two YouTube channels we use at GitLab:
-
-1. [Branded](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg): used for content intended for people in the wider community, including marketing and event content, customer, community and user stories, employment branding, and polished sales videos and demos. For example [our GitLab informercial](https://www.youtube.com/watch?v=gzYTZhJlHoI).
-1. [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/): used for content intended for team and community members, including (but not limited to) team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and casual demos. For example [a weekly meeting of the Plan group](https://www.youtube.com/watch?v=xXGAcFyBupA).
 
 ## Visibility
 
