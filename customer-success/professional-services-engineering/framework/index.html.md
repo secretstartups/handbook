@@ -49,3 +49,5 @@ In general, you can find our publicly marketed services at https://about.gitlab.
 | Consulting | Advisory | Workflow Advisory Services | [Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) | Planned |
 | Consulting | Advisory | [Dedicated Services (Center of Excellence)]() | TBD | Planned |
 | Consulting | Advisory | DevSecOps Transformation | TBD | Planned |
+| Consulting | Development | Development | TBD | Planned |
+
