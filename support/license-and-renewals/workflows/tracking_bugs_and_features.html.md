@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Tracking Bugs and Feature Requests
+description: "How to track Fulfillment bugs and feature requests"
 category: General
 ---
 
