@@ -555,15 +555,28 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
 Currently any form starting with these are actively being added into a program and you do not need to add a new one.
-- singleappci
-- iacgitops
-- vccusecase
-- simplifydevops
-- cicdcmp2
+
+| Campaign                                 | Campaign Parameter for Tracking |
+|------------------------------------------|---------------------------------|
+| CI Use Case                              | singleappci                     |
+| GItOps Use Case                          | iacgitops                       |
+| Version Control & Collaboration Use Case | vccusecase                      |
+| Simplify DevOps                          | simplifydevops                 |
+| Jenkins                                  | cicdcmp2                        |
+| Increase Operational Efficiencies	       | operationalefficiences          |
+| Deliver Better Products Faster	       | betterproductsfaster            |
+| Reduce Security and Compliance Risk	   | reducesecurityrisk              |
+| CI Build & Test Auto	                   | cicdcmp3                        |
+| OctoCat	                               | octocat                         |
+| DevSecOps Use Case	                   | devsecopsusecase                |
+| AWS	                                   | awspartner                      |
+
 
 
 ##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
-- Use format `YYYY_Social_Name_Linkedin Lead Gen`
+- Use format `YYYY_Social_Name_Campaign Parameter_Linkedin Lead Gen`
+
+_e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 
 ##### Step 2: Sync to Salesforce
 
