@@ -75,6 +75,16 @@ You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/ar
 
 Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) in the digital marketing programs project using the `Gated-Content-Expiration-Analysts-MPM` issue template.
 
+## Removing an asset from the library
+
+**Important:** Do not remove an asset from the content library without first checking which content tracks it is in and following the procedure below. Certain assets within content tracks may be directly tied to an integrated campaign, digital advertising, or other live campaign. If you remove the asset from the library, it consequently removes it from whatever content tracks it is in, thus breaking the campaign setup and tracking.
+
+1. Select the asset from the content libarary. A preview pane will pop-up on the right side.
+1. Scroll to the bottom of the preview pane to view which content tracks the asset is in.
+1. Collaborate with the `Author` of the respective tracks the asset resides in to ensure it is not linked within an ad, email, etc.
+1. After confirming the asset is not directly linked in any external channel, remove the asset first from each content track, and then from the content library.
+1. Post this change in the [PathFactory changelog](/handbook/marketing/marketing-operations/pathfactory/#changelog). 
+
 ### Asset thumbnails
 
 For assets that don't pull in a relevant thumbnail image, you can choose to upload a thumbnail image that closely matches the topic of the asset. The design team has made [topical thumbnail images](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/web-design/pathfactory/content-thumbnails) available for upload to PathFactory. The thumbnail images are available in either an orange or dark purple background for the following topics:
