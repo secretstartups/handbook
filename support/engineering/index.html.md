@@ -53,7 +53,7 @@ end of each week with a list of support team contributions merged in the past we
 - [Dev Resources](https://gitlab.com/gitlab-com/dev-resources) - Create a test instance
 - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
 - [LicenseDot](https://license.gitlab.com/) - Details of all licenses
-- [CustomersDot admin](https://customers.gitlab.com/admins)
+- [CustomersDot admin](https://customers.gitlab.com/admin/)
 - [GitLab Regressions](https://regressions.gitlab.io/)
 
 ### External tools
