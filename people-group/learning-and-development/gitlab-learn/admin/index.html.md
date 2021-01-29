@@ -304,6 +304,31 @@ Engage learners in groups using the following practices
 1. Manually adding users to groups by navigating to the group and clicking the `invite` option
 1. Broadcast open groups on the Discover page to invite new members
 
+##### Dynamic Group Workflows
+
+Dynmaic group workflows can be set up to automatically add users to groups based on the integration with BambooHR. The following steps can be followed to set up a new dynamic group workflow.
+
+1. Login to the EdCast admin panel
+1. Under the `Accounts` tab, click on `Dynamic Group Management`
+1. In this pannel, you can see the status of all current dynamic group workflows. You can see if the workflows are enabled, name, date created, and owner. You also have the option here to run, edit, view, or delete the existing workflows.
+1. Create a new workflow by clicking the `add new` button
+1. Give a name to your workflow. It is best practice to make sure the name indicates what users will be moving through the workflow. Considering naming the workflow the same way that the team group is named.
+1. Use the `Criteria` tab to set the conditions of your workflow. These are set up similar to an `if` if `if, then` statement.
+1. First, choose a `column`. This data correlates directly to the columns of data pulled in from BambooHR for team members.
+1. Then, set a condition. Most liekly, you will use the `Equals` condition, to indicate that the column variable you picked is `true`.
+1. Third, choose the variable from the data `column` selected that you'd like to sort by. This data is different depending on the data `column` you chose. For example, if you choose to sort by the `Role` column, your condition choices here will be `manager`, `individual contributor`, and `leader`.
+1. You have the option to add a multiple rules if you need to make your workflow drill down into a more specific cross section of people. Use the `add rule` button to create another condition for your workflow.
+1. In the `Configuration` tab, decide where this workflow will add users. You can choose to create a new group, create a custom group, or add to an existing group.
+1. Click `Save`. This will **not** run your workflow.
+1. After saving, you'll return to the main `Dynamic Group Management` page. Your workflow will appear at the top of the list.
+1. To run your workflow, toggle the button in the `Enable` column so that the workflow is `on`. Then, click the play button in the `Actions` column. This will start to run your workflow.
+1. The EdCast platform runs these workflows on a certain cadence, so your groups might not populate right away. Check back on your workflow over the course of a few hours to confirm the workflow has run as expected.
+1. As long as the workflow it set to the `on` state, it will continuoulsy, adding new users to your group as they join the platform.
+1. If you ever need to stop the workflow, navigate to this `Dynamic Group Management` page and toggle your workflow to the `off` status.
+
+Here is an example of a dynamic group workflow that pulls all GitLab team members into an existing group:
+
+![workflow-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/workflow-example.png)
 
 #### Broadcasting on Channels
 
