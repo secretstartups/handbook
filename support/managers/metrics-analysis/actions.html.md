@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Metrics Analysis - Hypothesis and Actions
+description: "How to analyze Support metrics hypotheses"
 ---
 
 ## On this page
