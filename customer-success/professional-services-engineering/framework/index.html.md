@@ -31,10 +31,10 @@ In general, you can find our publicly marketed services at https://about.gitlab.
 
 | Category | Type | Public Offering | Delivery Kit | Maturity |
 | :--      | :--:    | :--      | :--:     |
-| Education | Standard | [Standard Instructor Led Training](https://about.gitlab.com/services/education/) | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Lovable |
-| Education | Standard | [Asynchronous eLearning]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Minimal |
-| Education | Standard | [Certification Assessments]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Viable |
-| Education | Custom | [Custom Education Content Creation]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Complete |
+| Education | Standard | [Standard Instructor Led Training](https://about.gitlab.com/services/education/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Lovable |
+| Education | Standard | [Asynchronous eLearning](https://gitlab.edcast.com) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Minimal |
+| Education | Standard | [GitLab Certification](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Viable |
+| Education | Custom | [Custom Education Content Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/instruct-dev/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Complete |
 | Consulting | Implementation | [Rapid Results (Self Managed)](https://about.gitlab.com/services/rapid-results/self-managed/) | [rr-self-managed](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/rapid-results-self-managed) | Viable |
 | Consulting | Implementation | [Rapid Results (SaaS)](https://about.gitlab.com/services/rapid-results/dot-com/) | [rr-saas](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/rapid-results-com) | Viable |
 | Consulting | Implementation | [Custom implementation](https://about.gitlab.com/services/implementation/enterprise/) | [implementation-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/implementation-template) | Complete |
