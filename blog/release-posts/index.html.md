@@ -1461,6 +1461,42 @@ The template and helper files are used to render the blog post from the many con
 
 To learn more how the template system works, read through an overview on [Modern Static Site Generators](/blog/2016/06/10/ssg-overview-gitlab-pages-part-2/).
 
+### Release post branch creation Rake task
+
+The release post branch can be created with the
+[`release:monthly` Rake task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/1d5b6127115ad8a0addecba54aa1cb14df024495/Rakefile#L71-182)
+that automates most of the things that are needed for the release post merge request.
+
+When you run `bundle exec rake release:monthly`, the following things happen:
+
+1. You are asked for the GitLab version (for example, 13.10), and the release
+   post date in ISO format (for example 2021-03-22). The script then reads those
+   two values and uses them in the templates that are mentioned in the next steps.
+   If one of them is missing, the script stops and exits.
+1. The branch name is set to `release-X-Y`, which is based on the version you
+   provided above.
+1. The script checks if the release branch already exists. If it does, it
+   stops and exits. You'll need to delete your local branch (`git branch -D release-X-Y`)
+   if you want to re-run the script.
+1. Git stashes your current changes, if any, checks out `master`, and pulls from
+   `origin` (this should be the default remote pointing to the `gitlab-com/www-gitlab-com` repo,
+   you can check with `git remote -v`).
+1. The script then creates the new release branch.
+1. The [intro](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/releases/posts)
+   is created by using the template under
+   `doc/templates/blog/monthly_release_blog_template.html.md`. It replaces the
+   stub X.Y values with the version you provided in the first step.
+1. The [announcement template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/templates/blog/monthly_announcement_frontpage.html.haml) is used to update the
+   [announcement frontpage](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/includes/home/ten-oh-announcement.html.haml) with the new version.
+1. The data directory for the release is created under `data/release_posts/X_Y/`.
+   If it exists, the script stops and exits. You'll need to delete this directory
+   if you want to re-run the script.
+1. The [MVP template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/mvp.yml)
+   is used to create the MVP file (`data/release_posts/X_Y/mvp.yml`).
+1. The [CTA template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/cta.yml) is used to create the CTA file (`data/release_posts/X_Y/cta.yml`).
+1. All the new and changed files are committed, and you are instructed to push
+   the branch to GitLab in order to create the merge request.
+
 ### Release post item generator
 
 The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item) automates the creation of release post items using issues and epics. Issues and epics are the source of truth for what problems are being solved and how, and should have a clear description, and be well labeled. The script uses this information to pre-fill release post item MRs:
@@ -1533,6 +1569,7 @@ In preparation for content assembly on the 18th of the month, the Release Post M
 
 ### Release post merge request template
 
+The [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post.md) is our checklist for every release. Let's keep it up-to-date! :)
 
 ---
 
