@@ -1569,7 +1569,7 @@ In preparation for content assembly on the 18th of the month, the Release Post M
 
 #### Possible Script Errors with Corrective Actions
 
-Here are some of the common errors that a user might encounter and it may not be clear as what to do.
+Here are some of the common errors that a user might encounter where it may not be clear as what to do.
 
 1. You are missing a required Ruby Gem
 
@@ -1607,6 +1607,18 @@ If you're uncomfortable or encounter have difficulty here, you can reach out to 
 Note that the handbook currently [suggests](https://about.gitlab.com/handbook/git-page-update/#4-install-ruby-version-manager-rvm) `rvm`, while engineering has adopted `asdf`. You may find other references to `rbenv` in this documentation too. Any of these are fine, but they all work a bit differently and you _**only need one ruby version manager installed**_.
 
 It is also possible that your ruby version manager is misconfigured or your settings have been altered because of an upgrade to macOS especially from earlier versions to Catalina or higher. It's difficult to suggest an action for this scenario, you may want to reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
+
+3. Gems install correctly, but you still have a missing gem error
+
+The ruby gem package manager is called bundler. Depending on the version of bundler you have installed, it is possible to configure bundler to install gems in a location different from the usual (and required) location by passing the `--path that_other_directory` are remembered between invocations and will be stored in `./.bundle/config` or in `./bundle/config`.
+
+If you look in the `./bundle/config` file you might see:
+
+```
+BUNDLE_PATH: "that_other_directory"
+```
+
+**The action you can take here is to edit that file `./bundle/config` and possibly `./bundle/config` to remove the BUNDLE_PATH setting and re-run `bundle install`.** You may also want to remove the `that_other_directory` which is often `vendor`. If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
 ### Release post merge request template
 
