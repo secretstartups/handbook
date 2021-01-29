@@ -33,7 +33,7 @@ Below is a running list of ideas and topics that can be incorporated into this q
 
 ## Newsletter process
 
-This newsletter is shared on the third to last Thursday of each quarter. This cadence comes 3 weeks before the [L&D newsletter](https://about.gitlab.com/handbook/people-group/learning-and-development/newsletter/) is shared, to avoid confusion or an overload of information.
+This newsletter is shared on the third to last Thursday of each quarter. This cadence comes 3 weeks before the [L&D newsletter](/handbook/people-group/learning-and-development/newsletter/) is shared, to avoid confusion or an overload of information.
 
 The newsletter is planned using both issues in the [Mental Health project](https://gitlab.com/gitlab-com/people-group/learning-development/mental-health) and merge requests to the `www-gitlab-com` project. The planning process includes the following steps:
 
@@ -45,6 +45,8 @@ The newsletter is planned using both issues in the [Mental Health project](https
 1. Once the newsletter goes live, the L&D Team sends a slack notification in the #whats-happening-at-gitlab, #learninganddevelopment, and #managers Slack channels
 
 ## Past newsletters
+
+1. [FY21-Q4 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/)
 
 Past mental health newsletters will be linked here. Our first newsletter is planned for FY21-Q4, with a target publish date of 2020-01-14.
 
