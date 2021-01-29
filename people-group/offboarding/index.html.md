@@ -117,7 +117,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. ***Experience***: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day.
+1. ***Experience***: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Important to note that offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
 
 #### Team Member Actions
 
