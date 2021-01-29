@@ -64,10 +64,33 @@ Each quarter we will feature a different team and what they do here at GitLab.
 
 ## Recap of FY21-Q3
 
-* a
-   * b
-* a
-* The Monthly Continuous Learning Calls took place on 2020-10-21. If you missed it or wanted to watch again, you can do that on the [learning initatives page](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call). 
+FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
+
+* 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging)
+* 2020-11-12: Learning Speaker Series - [Building Trust](/handbook/leadership/building-trust/#learning-speaker-series---building-trust-with-remote-teams) 
+* 2020-11-16 - 2020-11-20 - [Psychological Safety - One Week Challenge](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge)
+* 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
+* 2020-12-07 - 2020-12-11 - Mental Health Awareness Campaign  
+   * [Mental Health Awareness Week Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/)
+   * 2020-12-10: Learning Speaker Series - [Managing Mental Health & Burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)
+   * [Mental Health Awareness Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/) 
+* 2020-12-14 Launched a new Learning Initiative - [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) 
+* 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) - currently in progress
+* 2021-01-11 - GitLab Learn Internal Launch
+* 2021-01-11 - LinkedIn Learning Launch 
+* [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call)
+   * [2020-11-18](https://www.youtube.com/watch?v=tWZ3iVyb-4E&feature=youtu.be)
+   * [2020-12-16](https://www.youtube.com/watch?v=DQdzXFu9Nbc) 
+   * [2021-01-20](https://www.youtube.com/watch?v=pnc4FqHk_a0)
+
+**New and Updated [Leadership Pages](/handbook/leadership/):** 
+
+* add links to pages here 
+
+**Learning & Development Blog Posts:**  
+
+* [GitLab Mental Health Awareness Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) 
+* [Building a Handbook First Remote Learning Culture](https://about.gitlab.com/blog/2020/12/22/building-a-handbook-first-remote-learning-culture/)
 
 ## Upcoming in FY21-Q4 
 
