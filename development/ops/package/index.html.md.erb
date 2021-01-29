@@ -234,6 +234,18 @@ The below epics detail the work required to move each respective category to the
 
 To best understand how users use the GitLab package registry, when building and testing features, it is beneficial to test using projects that resemble real use-case scenarios. A Hello-World package is not going to simulate the same functionality that a large open source library or enterprise customer is going to experience. Depending on the feature that is being built, it is recommended during the development phase to test locally using a real package. Additionally, consider reviewing existing data to determine a good range of test cases. The package group has created an [ad-hoc test projects group](https://gitlab.com/gitlab-org/ci-cd/package-stage/ad-hoc-test-projects) to store larger projects that can be used to test against. This group may contain copies of open source projects or projects specifically designed to test certain aspects of the GitLab package registry. It is not meant to be a static collection of projects, so the projects may be replaced, updated, or removed as seen fit.
 
+### Quality
+
+The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
+
+* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design. 
+
+* Partnering with our [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/) stable counterparts.
+
+* Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
+
+* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
+
 ### Code Review
 
 Code reviews follow the standard process of using the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to choose a reviewer and a maintainer. The roulette is optional, so if a merge request contains changes that someone outside our group may not fully understand in depth, people are encouraged to ask for a preliminary review from members of the package group to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow package group members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
