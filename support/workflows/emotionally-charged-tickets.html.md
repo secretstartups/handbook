@@ -71,22 +71,42 @@ had other people involved, be sure you know the whole history of the ticket
 before you communicate with the customer. This allows you to avoid the mistakes
 of repeating requests and of contradicting previous instructions.
 
+### 7. Meet Your Commitments
+If you say you're going to do something, do it. If something changes, explain
+what changed and make a new commitment.
+
 ## Act Quickly
 
 Despite our best efforts to keep the customer happy from start to finish, there
 will still be plenty of times when a customer will express negative emotions in
-a ticket.
-At the first sign of frustration or other negative emotions from a customer, schedule a Zoom meeting with them. Even if all you do on the Zoom meeting is to review the situation, gain further clarity into their needs, the business impact, etc., it's well worth doing. This is a great opportunity to explain what you're thinking and the next steps you want to take in getting closer to resolution for them. And you can probably do it in only 15 - 30 minutes.
+a ticket. At the first sign of frustration or other negative emotions from a
+customer, consider scheduling a Zoom meeting with them. Even if all you do on
+the Zoom meeting is review the situation, gain further clarity into their needs,
+learn the business impact, etc., it's well worth doing as it will go a long way
+toward helping the customer to feel better. It's also a great opportunity to
+explain what you're thinking and the next steps you want to take in getting
+closer to resolution for them. Amazingly, you can probably do all of this in
+only 15 - 30 minutes.
 
 ## Dos and Don'ts
 
 ### Do
 
+1. Apologize
+
+   If you, or we (GitLab), have created a problem, briefly and sincerely
+   apologize. Then talk about the next steps toward resolving the situation.
+   In acknowledging the mistake you open the door to regaining the
+   customer's trust. And then by focusing on the path forward you invite the
+   customer to let the emotions go.
+
 1. Get other GitLab team members involved to help
 
-   You're never alone at GitLab. Ask colleagues, managers, team members in
+   You're never alone at GitLab. Ask colleagues, managers and team members in
    other departments whenever you need help, whether with the technical
-   aspects of the situation or the nontechnical ones.
+   aspects of the situation or the nontechnical ones. And if you're feeling
+   too emotional or in any way unable to provide a good customer experience,
+   please escalate to your manager.
 
 1. Assume good intent
 
@@ -96,45 +116,77 @@ At the first sign of frustration or other negative emotions from a customer, sch
    1. “This customer wants me to [action words used by the customer].”
    1. “I can help them feel good about our company by [implied or emotional
       need of the customer.]”
+
 1. Try to view things from the customer's perspective
-   Start by acknowledging what they've said and validating their problem.
-1. Show respect
-Sympathize with the customer.
-Read carefully, pay attention to detail.
-Remember there is a human being on the other end.
-Ask yourself - If I were in their situation, how would I want to be replied to?
-Get other GitLab team members involved.
-Understand and talk in terms of the other person's interest.
-Make sure the customer knows we value their feedback.
-Make it clear that you sincerely want to help them succeed.
-Validate the facts.
-If you're feeling emotional or don't feel that you can provide the best customer experience, please escalate to your manager.
 
-Don't:
+   Start by acknowledging what they've said and validating their problem. Then
+   show empathy for their situation and their needs. Remember, you don't have
+   to agree with them in order to understand them.
 
-Take it personally.
-Empathize to the point of pain.
-Keep it a secret - tell your manager.
-Blame others
-Argue
-Assume
+1. Treat the customer with respect
 
+   Remember that every customer is a real human being with real needs, emotions
+   and pressures. So if they're showing a little emotion in working with us,
+   think about what's driving that and let them know you respect them and what
+   they're trying to achieve.
 
-2. Complete these sentences:
-   
+1. Use interest-based problem solving
 
-3. Take the actions you’ve identified.
+   Especially if the customer is unhappy that we won't (can't) do what they
+   want, figure out their underlying interests, identify our shared interests,
+   and speak in terms of those shared interests. Speak about what you can and
+   will do, even if it's not what they originally requested. And let them know
+   that you want them to succeed.
 
-4. In your reply, use the exact same words as the customer to describe what you’ve done.
-    If they wrote “delete”, write “delete”. 
-    (If you can’t do exactly what they’ve asked you to do,
-    say so - and what you’ve done instead.)
+### Don't
 
-Reply Examples:
-"I hear your frustration about..." - don't label their emotion, as this statement does. Say something more like "I understand that you need this problem solved quickly," or "I know this situation is frustrating right now."
-"This inconvenience is disrupting your workflow, and I want to help fix it" - don't use "inconvenience," it makes a problem sound trivial. Call it a problem: "I know this problem is disrupting your business, and I will work with you to get it resolved as quickly as possible."
-"We/I value your feedback and appreciate your time while we work through..."
-"You bring up a good point. I see why this is important, and I'd like to help."
+1. Take it personally
+
+1. Blame
+
+   If you place blame on anybody for the situation, you make yourself powerless.
+   You're saying the situation is out of your control and influence. You make
+   both the other person and yourself look bad.
+
+1. Argue
+
+   Instead, listen and seek to understand. See "Try to view things from the
+   customer's perspective", above.
+
+1. Assume
+
+   Confirm your understanding - of the problem, of the question, of the status,
+   of anything - with the customer before taking next steps. Validate stated
+   facts so you can be sure they're correct. And ask questions to get
+   information you don't yet have.
+
+## Reply Wording
+
+### 1. Match Words
+Always pay attention to the language, the specific words, that
+the customer has used and then match those words in your reply:
+
+- If they wrote “delete”, write “delete”
+- If they wrote "disaster", write "disaster"
+
+### 2. Don't Assign Emotions to the Customer
+Be careful not to tell the customer how they feel. It can seem reasonable to
+write "I hear your frustration," for example, but many people will react badly
+to that kind of statement. Instead, put the emotion on the situation, not the
+person:
+
+> I know this situation is frustrating right now.
+
+### 3. Inconvenience and Unfortunately
+Try to avoid using these two words if you can. Why?
+
+- "Inconvenience" can make a problem sound trivial, unimportant. It suggests a
+  minimal impact. Instead, call it a problem: "I know this problem is
+  disrupting your business, and I will work with you to get it resolved as
+  quickly as possible."
+
+- "Unfortunately" tends to be the way we introduce the fact that we're not able
+  to help. Try instead to talk about what we can do to help, not what we can't.
 
 
 
