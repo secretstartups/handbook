@@ -306,29 +306,31 @@ Once these components are in place, a comparison showing the difference between 
 | ISOdate_CampaignShortName | $000's | $000's | $000's | $000's | $000's |
 
 
-#### Making Changes to the Plan to Optimize for Growth, Efficiency, or Risk
+### Approach to making decisions on controlling expense and investing additional dollars
 
-Predictability is a top priority. If we are exceeding our Plan, the company will have opportunities to make additional investments that fit within our EBIT and free cash flow margin structure. We encourage our team members to actively seek opportunities that will help us grow faster or become more efficient each quarter. Ideally, team members can do this within the budget allocation. If a growth/efficiency initiatives requires additional spend will be evaluated and agreed upon by eGroup, as follows:
+As part of the variance and monthly review process we will evaluate two types of investments:
+**ROI positive investments:** There are an array of reasons we would want to invest in additional resources - here are some examples and eGroup will generate a full list: 
+1. A marketing program is accretive and has not hit its point of marginal return
+1. A channel or alliance program/partner that is working really well and can accelerate ARR so we would add sales/marketing/R&D  resources to accelerate
+1. Have an area of the product to invest in that has direct ARR impact, supports our three year strategy and cannot reprioritize other R&D resources due to skills
+1. There are many other…
 
-1. If the investment will allow us to increase bookings or increase efficiency in the current year or in future periods with a positive return.  
-1. If the investment de-risks future years bookings achievement
-1. If the investment decreases risk / increases compliance per our Enterprise Risk Management program
+**Business Plan drivers to review quarterly:**
+1. Sales capacity for FY23 so that we can spread hiring throughout the year
+1. R&D opportunities so that we can spread hiring throughout the year
 
-#### Out of Budget Business Case
+eGroup will generate a full list of the top items that were not funded in the Plan / would we would want to be gated.
 
-In the event an organization is asking to spend money outside either the [Annual Plan](/handbook/finance/financial-planning-and-analysis/) or [Quarterly Forecast](/handbook/finance/financial-planning-and-analysis/), you should develop a business case showcasing what the spend is for and how GitLab can benefit from spending it.
+**Scenarios that we could be in and will be discussed every month:**
 
-This business case should be completed in conjunction with your [Finance Business Partner (FBP)](/handbook/finance/financial-planning-and-analysis/) to articulate the financial impact of the request.  Below are a few examples of the question you should be trying to answer:
-* What is the purpose of the spend?
-* How much is the spend?
-* What kind of spend is it? (One time, contract, utility-based, etc..)
-* What is the Return on Investment?
-* If the ROI cant be measured what KPI are we trying to move?
-* Can we measure the impact in terms of ROI or KPI improvement?
-* Have we investigated any other options?
+ARR Plan refers to board Plan in which the expense Plan was built.
 
-Together with your FBP , this analysis should be presented to your leader and then to eGroup for Approval.
-
+| Scenario | Action to be taken |
+| We are behind ARR Plan based on actuals and forecasted pipeline. | Need to slow hiring and control expense on non-revenue generating heads. Potentially redirect dollars to specific areas in sales and marketing to correct the course watching CAC. Decision will be made by eGroup. |
+| We are on ARR Plan and expense Plan based on actuals and forecasted pipeline. | Need to evaluate ROI positive initiatives against existing spend and reprioritize dollars. For example Alliance is doing really well but we are not ahead of Plan - we would want to invest more in Alliance but need to fund from somewhere else. Decision will be made by eGroup. |
+| We are on ARR Plan and spending less than Expense Plan based on actuals and forecasted pipeline. | We identify and isolate the expense difference. We analyze the impact to our key metrics and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| We are ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | We identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| We are trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline. | Review FY23 impact and decide as an eGroup where to invest ahead of FY23 |
 
 ## Investor and Board Communication
 
