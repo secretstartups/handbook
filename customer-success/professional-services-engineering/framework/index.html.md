@@ -10,13 +10,11 @@ description: “Discover the various Professional Service Offerings at GitLab”
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Hierarchy
-1. **Levels of service**: There are three levels of service that represent the different services buyer personas.
-1. **Categories**: Each level has one or many categories of service that define a set of related services either by type or product area.
-1. **Offerings**: Each category has one or many offerings that is a single consumable unit that has all of the required pieces to make a complete service offering.
-1. **Offering Variants**: Each offering may have one or many variants that allow it to be deployed in different ways.
+### Services Taxonomy 
+1. **Categories**: Currently Professional Services offers two major categories of services: `Education` and `Consulting`. 
+1. **Types**: Further classifying types of services help us analyze business trends, prioritize investments, and schedule delivery. Types of services are broken out for each Category of services. These service types use ubiquitous language. They should mean the same thing to the customer buyer, the account team, the Engagement Manager and the delivery team.  `Migration`, `Implementation`, and `Advisory` are examples of types of services in the `Consulting` category. `Custom` and `Standard` are types of services in the `Education` Category. 
+1. **Offerings**: There can be multiple offerings in each service type. As we identify market trends, we accumulate and build more offerings per service type. For example, we have [readiness assessment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/readiness-assessment/-/blob/master/README.md) and general [implementation services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/implementation-template)
 
-Each offering at least has a variant called “standard” or “custom” to define if it can be delivered with a standard SKU / out of the box SOW. For example, enterprise versus commercial or remote versus on-site or one-time versus with an embedded engineer. See Professional Services Full Catalog for a detailed listing of offerings.
 
 ### Offering maturity model
 
@@ -28,60 +26,26 @@ The services maturity framework provides for 5 maturity levels for offerings: pl
 * **Complete**: An offering that can be consistently delivered: predictability in timing, results, and margin. 
 * **Lovable**: The offering is at full maturity, positive NPS & impact on customer’s adoption of GitLab product
 
-### Categories of service
+# Service Offering Framework
+In general, you can find our publicly marketed services at https://about.gitlab.com/services and the delivery kits at: [Consulting](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) and [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings)
 
-GitLab provides several categories of services to ensure a full suite of offerings for customers.
-
-* Implementation Services
-* Integration Services
-* Migration Services
-* Education Services
-* Dedicated Services
-* Expert Services
-
-There are a few different offerings in each category. The tables below show the offerings in each category and their level of maturity.
-
-#### Implementation Services
-
-| Offering | Maturity |
-| :--      | :--:     |
-| Rapid Results implementation | Planned |
-| Custom implementation | Complete |
-| Assessment and optimization | Planned |
-
-#### Integration Services
-
-| Offering | Maturity |
-|:---------|:--------:|
-| LDAP, SAML, SSO | Complete |
-| JIRA | Complete |
-| Jenkins | Complete |
-
-#### Migration Services
-
-| Offering | Maturity |
-|:---------|:--------:|
-| Migration from GitHub, Bitbucket, SVN, etc. | Complete |
-| Migration to GitLab.com | Planned |
-
-#### Education Services
-
-| Offering | Maturity |
-|:---------|:--------:|
-| Live Instructor-Led training (remote and onsite) | Viable |
-| Asynchronous eLearning  | Minimal |
-| Certification assessments  | Minimal |
-
-#### Dedicated Services
-
-| Offering | Maturity |
-|:---------|:--------:|
-| Dedicated remote engineer (3, 6, or 12 months) | Complete |
-
-#### Expert Services
-
-| Offering | Maturity |
-|:---------|:--------:|
-| Maturity model consulting | Planned |
-| InnerSource consulting  | Planned |
-| Measuring value of DevOps  | Planned |
+| Category | Type | Public Offering | Delivery Kit | Maturity |
+| :--      | :--:    | :--      | :--:     |
+| Education | Standard | [Standard Instructor Led Training](https://about.gitlab.com/services/education/) | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Lovable |
+| Education | Standard | [Asynchronous eLearning]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Minimal |
+| Education | Standard | [Certification Assessments]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Viable |
+| Education | Custom | [Custom Education Content Creation]() | [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings) | Complete |
+| Consulting | Implementation | [Rapid Results (Self Managed)](https://about.gitlab.com/services/rapid-results/self-managed/) | [rr-self-managed](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/rapid-results-self-managed) | Viable |
+| Consulting | Implementation | [Rapid Results (SaaS)](https://about.gitlab.com/services/rapid-results/dot-com/) | [rr-saas](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/rapid-results-com) | Viable |
+| Consulting | Implementation | [Custom implementation](https://about.gitlab.com/services/implementation/enterprise/) | [implementation-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/implementation-template) | Complete |
+| Consulting | Implementation | [Readiness Assessment](https://about.gitlab.com/services/implementation/health-check/) | [readiness-assessment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/readiness-assessment) | Complete |
+| Consulting | Migration | [SCM Migration](https://about.gitlab.com/services/migration/enterprise/) | [migration-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/migration-template) | Complete |
+| Consulting | Migration | [CI Migration](https://about.gitlab.com/services/migration/enterprise/ci-cd-migration/) | TBD | Minimal |
+| Consulting | Migration | [Migration+](https://about.gitlab.com/services/migration/migration-plus/) | [migration-template](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/migration-template) | Viable |
+| Consulting | Integration | [Jenkins](https://about.gitlab.com/services/integration/) | TBD | Complete |
+| Consulting | Integration | [LDAP, SAML, SSO](https://about.gitlab.com/services/integration/) | TBD | Complete |
+| Consulting | Integration | [Jira](https://about.gitlab.com/services/integration/) | TBD | Complete |
+| Consulting | Advisory | [CI/CD Transformation](https://docs.google.com/presentation/d/1gCULkwewztptWPO4wnr6xU-E3B_C7oVqVAdT-yAc0SE/edit) | TBD | Planned |
+| Consulting | Advisory | Workflow Advisory Services | [Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) | Planned |
+| Consulting | Advisory | [Dedicated Services (Center of Excellence)]() | TBD | Planned |
+| Consulting | Advisory | DevSecOps Transformation | TBD | Planned |
