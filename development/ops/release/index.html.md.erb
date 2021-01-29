@@ -119,11 +119,22 @@ Once an implementation plan has been finalized, the following steps should be ta
 #### Merge request count as a measure of issue weight
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [throughput metric](/handbook/engineering/management/throughput/) currently measured by engineering teams.
 
-### Code Review
+### Quality
+Our goal is to ship software at scale without sacrificing quality or velocity. In order to do that, we believe that the quality of our product must be a shared responsibility. 
+
+Every member of the Release team contributes to quality through better software design, proper testing practices and bug prevention strategies. We ensure these best practices are followed by:
+
+1.  Being a champion for better software design through thoughtful and thorough code reviews, using the [Gitlab code review guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+2. Resolving small bugs or fixing flakey tests immediately, using the `stuff that should just work` label.
+3. Writing meaningful unit tests and integration tests for every feature, and working with our Software Engineers in Test (SETs) to contribute to our End to End tests as needed in alignment with the [test coverage pyramid](https://gitlab.com/gitlab-org/gitlab/blob/master/doc/development/testing_guide/testing_levels.md). 
+4. Reviewing our bug [Triage report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports)  for bugs and regressions regularly and working with key stakeholders to prioritize and take action.
+
+#### Code Review
 Code reviews follow the standard process of using the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to choose a reviewer and a maintainer. The roulette is optional, so if a merge request contains changes that someone outside our group may not fully understand in depth, it is encouraged that a member of the Release team be chosen for the preliminary review to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow Release team members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
 
 This tactic also creates an environment to ask for early review on a WIP merge request where the solution might be better refined through collaboration and also allows us to share knowledge across the team.
 
+## Team Process
 #### Async Issue Updates
 Our daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no change in progress. It's preferable to update the issue rather than the related merge requests, 
 as those do not provide a view of the overall progress.
