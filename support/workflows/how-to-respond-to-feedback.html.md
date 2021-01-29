@@ -21,7 +21,7 @@ created in the [Feedback issue tracker](https://gitlab.com/gitlab-com/support/fe
 * Spam tickets (ones marked as spam and suspended)
 * Free user tickets (ones containing the tag `free_customer`)
 * Embargo tickets (ones containing the tag `com_embargo`)
-* Where the organization is `GitLab` or `DigitalOcean Support`
+* Tickets with the organization `GitLab` or `DigitalOcean Support`
 
 ## Who is responsible for reviewing Support Satisfaction feedback
 
