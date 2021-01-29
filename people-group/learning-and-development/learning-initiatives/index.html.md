@@ -79,7 +79,7 @@ This list of topics can be used as a starting point for brainstorming content an
 Check out recordings of previous Learning Speaker Series calls!
 
 - 2020-11-19 [Building Trust with Remote Teams Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=youtu.be)
-- 2020-12-10 [Managing Burnout with Time Off] (/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)
+- 2020-12-10 [Managing Burnout with Time Off](/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)
 
 
 ### Hosting a Learning Speaker Series call
@@ -110,6 +110,10 @@ Anyone or any team can host a Learning Speaker Series for the organization! If i
 ## Learning & Development Quarterly Newsletter
 
 The L&D team also hosts and develops a [quarterly newsletter](/handbook/people-group/learning-and-development/newsletter/) for the community. 
+
+## Mental Health Quarterly Newsletter
+
+The L&D team publishes a [quarterly mental health newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter) for team members and the wider community. 
 
 
 ## Take Time Out To Learn Campaign
