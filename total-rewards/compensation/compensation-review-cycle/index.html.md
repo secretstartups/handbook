@@ -436,14 +436,13 @@ Each team member who receives an increase during the Annual Compensation Review 
 1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
 1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
-   * [Base Only Letter Example](https://drive.google.com/file/d/1YMD0cId_B2rQLBjgxIxcGqAdMSEzAgb9/view?usp=sharing)
-   * [Base + Bonus Letter Example](https://drive.google.com/file/d/1kOQR9rZ8UdH2QOEx-wptFUHoj14DCaqU/view?usp=sharing)
+   * Template to be added
+   * Template to be added 
 1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
    * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
    * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change. 
-1. Both letters will also have a section for Equity Compensation. This section is the same on both letters. The team member's Number of _Unvested_ Stock Options and the value in USD of their unvested options (Unvested Equity Value) is listed in the box. 
+1. Both letters will also have a section for Equity Compensation. This section is the same on both letters. Details to be added.  
    * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
-   * The formula used to calculate the unvested value in USD is listed at the bottom of the letter.
 
 ## FY 2022 Annual Compensation Review Budget
 
