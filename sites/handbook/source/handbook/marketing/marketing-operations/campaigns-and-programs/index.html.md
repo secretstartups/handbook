@@ -37,18 +37,6 @@ A record can only progress **one-way** through a set of event statuses. A record
 
 i.e. Record is put into `Registered` cannot be moved backwards to `Waitlisted`
 
-#### Cohort
-
-A method of tracking a group (cohort) of targeted known records and/or records included in an ABM strategy.
-
-**Bizible:** touchpoints should be excluded.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Nominated | ACCOUNTS/CONTACTS Sales has identified for inclusion that Marketing would otherwise be suppressing because of late-stage open opps &/or active sales cycle |  |
-| Marketing List | ACCOUNTS/CONTACTS Marketing has identified for inclusion based on the target audience, the "ABM list", demographic, etc. |  |
-| Organic Engaged | LEADS/CONTACTS added to the campaign through the listening campaigns that engage with the pages &/or assets for the integrated campaign that do not contain `utm_` params | Yes |
 
 #### Conference
 
@@ -198,31 +186,6 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Attended On-demand| Watched/consumed the presentation materials post-event on-demand| Yes |
 | Follow Up Requested | Requested additional details about GitLab to be sent post event | Yes |
 
-#### PathFactory Listener
-
-This campaign type is used to track consumption of specific PathFactory assets.
-
-**Bizible:** This is tracked as an _offline_ channel.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Content Consumed | Status when the corresponding Marketo listener picks up the contents consumption. | Yes |
-| Fast Moving Buyer | Reached engagement threshold and viewed 3 pieces of content | Yes |
-
-#### Referral Program
-
-This campaign type is used for our third party prospecting vendors or meeting setting services (Like BAO, DoGood).
-
-**Bizible:** This is tracked as an _offline_ channel.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Target List | Identified as persona we want to speak with |  |
-| Meeting Set | Vendor has set & confirmed a meeting time |  |
-| Meeting No Show | Scheduled meeting was cancelled or not attended |  |
-| Meeting Attended | Scheduled meeting at conference was attended | Yes |
 
 #### Self-Service Virtual Event
 
