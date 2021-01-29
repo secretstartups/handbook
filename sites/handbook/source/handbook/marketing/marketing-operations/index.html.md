@@ -141,7 +141,7 @@ Backlog
 </summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team meber and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being scoped/considered but are not being actively worked on yet.
 - `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
 - `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
 - `MktgOps::6 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
@@ -261,7 +261,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Sprout Social
 - Swiftype
 - Survey Monkey
-- Tweetdeck
+- [Tweetdeck](/handbook/marketing/marketing-operations/tweetdeck/)
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 - [Zapier](/handbook/marketing/marketing-operations/zapier/)
@@ -322,7 +322,7 @@ Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations
 
 Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities.
 
-Email creation, campaigns, follow up reporting and sending is the responsibility of the Marketing Campaign Managers. To request an email of any kind, please see the [instructions](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/emails-nurture/#ad-hoc-one-time-emails---requesting-an-email) in the revenue marketing section of the handbook.
+Email creation and email nurture programs are managed by the Campaign Team. To learn more about GitLab email communication or request an email, please see the [Emails/Nurture Handbook](/handbook/marketing/demand-generation/campaigns/emails-nurture/) in the demand generation section of the handbook.
 
 ### Email Communication Policy
 
@@ -357,7 +357,7 @@ These are transactional emails, almost always to our user base, that provide ver
 It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific focused list. In some cases, these will be sent via [Mailchimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends).
 
 **Newsletter**
-Sent bi-monthly (every 2 weeks). Content Team is responsible for creating the content for each Newsletter. Users can [subscribe to the newsletter](/company/contact/) through the blog, contact us page, and CE download page.
+Sent bi-monthly (every 2 weeks), the newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
 **Security Alerts**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
