@@ -29,6 +29,35 @@ If the namespace isn't on the list, it means the user doesn't have owner level p
 
 Use the `Associate namespace` transactions issue type in ZD and set the ticket to Pending.
 
+## Force Associate SaaS Subscription  
+
+While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin 
+
+- If the namespace has more active users than the number of seats in the subscription, the system redirects to the payment page to purchase additional seats to match the GitLab.com Group's active user count, in this scenario if the customer is not interested in purchasing additional seats upfront then we can force associate the subscription and the additional seats will be reflected as true-ups on the group's billing page. 
+
+- Another scenario would be while handling subscription provisioning requests corresponding to EDU/OSS customers - the ```Change Linked Namespace``` button on the subscription doesn't exist and in this case, we can use the [force Associate subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) to associate the subscription. 
+
+Proceed as follows:
+
+Use the [force Associate subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html) - Open this page and enter the ```Namespace``` and ```Subscription ID``` details and submit the form. This will create an internal issue and updates the issue description with the response of the force association script
+ 
+ -  If it's successful then the response would be {:success=>true} -> You can also verify the namespace and close the issue.   
+ -  If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access. 
+
+## Clear Subscription
+
+While associating the subscription with a namespace if there are any errors(example: errors like: `unable to associate the subscription as the destination namespace is already associated with a subscription`), we can unlink the subscription associated with that namespace. 
+
+[Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) is used to clear the subscription associated with that namespace. Please follow the below steps:
+
+Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/clear_subscription.html) page -> enter the ```Subscription Name``` and submit the form. This will create an internal issue and updates the issue description with the response of the force association script
+ 
+ -  If it's successful then the namespace will be switched to free plan: `"name"=>"Free"` -> You can also verify the namespace and close the issue.   
+ -  If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access. 
+
+ ***
+ FYI: If interested, you can find more information about the L&R's Mechanizer tools [here](https://about.gitlab.com/handbook/support/workflows/mechanizer.html): 
+
 
 
 
