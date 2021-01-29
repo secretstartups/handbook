@@ -16,6 +16,13 @@ we review feedback received for support tickets. Issues are automatically
 created in the [Feedback issue tracker](https://gitlab.com/gitlab-com/support/feedback/-/issues)
 (internal only) for all Support Satisfaction feedback received.
 
+**NOTE:** The following categories of tickets do **not** receive surveys:
+
+* Spam tickets (ones marked as spam and suspended)
+* Free user tickets (ones containing the tag `free_customer`)
+* Embargo tickets (ones containing the tag `com_embargo`)
+* Where the organization is `GitLab` or `DigitalOcean Support`
+
 ## Who is responsible for reviewing Support Satisfaction feedback
 
 The **SSAT Reviewing Manager** on duty when a feedback issue is created is
