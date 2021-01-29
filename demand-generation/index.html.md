@@ -22,7 +22,7 @@ twitter_creator: "@gitlab"
 ## Teams
 {: #teams .gitlab-purple}
 - [Marketing Campaigns](/handbook/marketing/demand-generation/campaigns/)
-- [Digital Marketing](/handbook/marketing/revenue-marketing/digital-marketing-programs/)
+- [Digital Marketing](/handbook/marketing/demand-generation/digital-marketing/)
 - [Partner and Channel Marketing](/handbook/marketing/strategic-marketing/partner-marketing/)
 
 [See team members in org chart](https://about.gitlab.com/company/team/org-chart/)
