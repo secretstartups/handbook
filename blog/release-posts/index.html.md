@@ -150,8 +150,6 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important:** Please check beforehand if you have **merge rights** to the www project.
 If you don't, ask someone to grant you access or pair with someone else to merge
-the post with you on the 22nd. If someone else merges it, make sure you're
-available to follow up with anything that might come up in the last minute.
 {:.alert .alert-warning}
 
 #### Create your release post branch and required directories/files
