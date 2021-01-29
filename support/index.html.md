@@ -91,6 +91,7 @@ Below we also have some commonly referenced pages:
 GitLab team members interesting in learning about GitLab Support team and our are encouraged to participate in the Support Shadow Program. The Support Shadow Program is a way that team members outside of Support can spend time shadowing, learning, collaborating, and working together with the GitLab Support team.
 
 To participate in this program, open [a Support Shadow Program issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Shadow%20Program) in the `support-team-meta` project. This issue will be used to organize, plan, and track progress toward this program.
+
 ----
 
 ## Direction
