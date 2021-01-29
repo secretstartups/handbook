@@ -143,7 +143,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - [Communicate](#communication) with our Community Advocates following the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 - Work with PMs, Messaging lead and others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
-- Making sure the Messaging lead and technical writing lead are aware if release post items are added or removed after teh 18th
+- Making sure the Messaging lead and technical writing lead are aware if release post items are added or removed after the 18th
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -455,17 +455,17 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 
 ##### Process for merging late additions
 
-- Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release pot manager will do their best to accommodate the request, but it is not guaranteed.
+- Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release post manager will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with but keep in mind **option 3 is high risk and NOT recommended**:
-  1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. Assign to the releease post manager to review and merge. 
-  2. PM closes the original MR, and PM or RPM creates a new yaml file for the content block as a direct commit on the release post MR. Notify release post manager to review.
+  1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. PM assigns MR to the release post manager to review and merge. 
+  2. PM closes the original MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post MR. PM notifies release post manager to review.
 
 In both cases:
 
 - If the feature is primary it will need to be added to `features.yml` on `master` 
 - If the feature has an image it should be placed in `/source/images/unreleased/` on the `release X-Y` branch
 
-##### Process for removing merge content blocks
+##### Process for removing merged content blocks
 
 - Ping the Release Post Manager in  Slack `#release-post` to notify them you need to remove an item already merged onto `the release X-Y` branch.
 - Either the release post manager or the PM, with approval from the release post manager, will remove YAML and image files from the `release X-Y` branch
