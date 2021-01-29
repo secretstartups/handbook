@@ -29,6 +29,8 @@ Our mission is to provide resources to enable our team members to enhance succes
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+Learn more about our [FY22 Roadmap and curriculum](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375).
+
 ## Handbook First Training Content
 
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
