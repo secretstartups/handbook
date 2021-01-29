@@ -133,11 +133,11 @@ Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gi
 1. A new form submission will notify the team that a new entry has been submitted and autofill a Growth and Development Benefit Agreement.
 1. Check the team member's eligibility and make sure the cost is within the $10,000 USD annual limit.
 1. Download the team member's Growth and Development Benefit Agreement from the "Populated Agreements" folder and stage the document in HelloSign.
-1. Fill out the "Status" tab on the Growth and Development Benefit Log sheet.
+1. Fill out columns L-R on the Growth and Development Benefit Log sheet.
    * For 4th Trimester expenses, tag Total Rewards on the sheet. 
 1. Once all parties have signed the agreement, send an e-mail to the team member to notify them that the agreement has been signed and to send their transcript, certificate of completion or invoice (refer to the [reimbursement category table](/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements)) once they are ready to receive the reimbursement.
 1. Save the signed agreement in the team member's BambooHR "Benefits and ISO" folder.
-1. Upon completion, update the "Status" tab. Tag Total Rewards on the sheet to notify Payroll via the appropriate Payroll Changes files. 
+1. Upon completion, update columns L-R on the sheet. Tag Total Rewards on the sheet to notify Payroll via the appropriate Payroll Changes files. 
 
 ### Administration of Your 4th Trimester 
 
