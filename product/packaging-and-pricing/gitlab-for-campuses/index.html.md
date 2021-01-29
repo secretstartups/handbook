@@ -17,16 +17,16 @@ canonical_path: "/product/packaging-and-pricing/gitlab-for-campuses/"
 
 GitLab provides qualified educational institutions with three different options for using GitLab on their campus:
 1. **GitLab for Education**: The GitLab for Education Program provides free, unlimited, licenses of GitLab's top-tiers, either self-managed or SaaS, to [qualified educational institutions](https://about.gitlab.com/handbook/marketing/community-relations/education-program/#gitlab-for-education-program-requirements) for the **purposes of teaching, learning or non-commercial research only**. Use in Professional Information Technology or for *any* administrative purposes is **strictly prohibited** under the GitLab for Education license. Please see the [GitLab for Education handbook](/handbook/marketing/community-relations/education-program/) and [marketing pages](https://about.gitlab.com/solutions/education/) for more details. Universities must [apply here](https://about.gitlab.com/solutions/education/join/) to be accepted into the program.
-2. [**Standard Educational Discount**](/handbook/product/packaging-and-pricing/gitlab-for-campuses/#standard-education-discount): GitLab licenses are available at a 20% standard discount off list price for any qualifying educational institution. There are no use-case restrictions on these licenses.
+2. [**Academic Discount**](/handbook/product/packaging-and-pricing/gitlab-for-campuses/#academic-discount): GitLab licenses are available at a 20% Academic Discount off list price for any qualifying educational institution. There are no use-case restrictions on these licenses.
 3. [**GitLab for Campuses**](/handbook/product/packaging-and-pricing/gitlab-for-campuses/#gitlab-for-campuses-enterprise-offering): Qualifying educational institutions may purchase an enterprise campus-wide license. The campus-wide license offers unlimited seats (up to the last published enrollment of the institution) of GitLab's top-tiers, either self-managed or SaaS, for all non-profit generating activities on campus. This offering permits all (not-for-profit) use cases to occur within one license for the campus. _NOTE:_ The ability to participate in any of the Education options (stated herein) is subject to GitLab's sole discretion. Please follow the applicable steps regarding qualification. **Purchases or requests shall not be considered accepted (or legally binding) unless and until executed between the parties in writing.**
 
 
-## Standard Education Discount
-Qualifying educational institutions may receive a standard 20% discount off the current GitLab list price for each tier, either self-managed or SaaS. The discount will be applied at the discretion of the account owner and their regional sales leadership where applicable.
+## Academic Discount
+Qualifying educational institutions may receive an Academic Discount of 20% off the current GitLab list price for each tier, either self-managed or SaaS. The discount will be applied at the discretion of the account owner and their regional sales leadership where applicable.
 
-* The discount is available as of 2021-02-01. The discount will not be retroactively applied to close-won deals or true-ups.
-* The discount can be applied at the time of the renewal if it is after 2021-02-01.
-* The discount is not currently available to be purchased directly in the GitLab Customer Portal.
+* The academic discount is available as of 2021-02-01. The academic discount will not be retroactively applied to close-won deals or true-ups.
+* The academic discount can be applied at the time of the renewal if it is after 2021-02-01.
+* The academic discount is not currently available to be purchased directly in the GitLab Customer Portal.
 
 
 # GitLab for Campuses: Enterprise Offering
