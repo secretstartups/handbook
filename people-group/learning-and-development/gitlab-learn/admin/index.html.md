@@ -561,7 +561,7 @@ The workflow for community members using the LXP has not yet been outlined.
 
 #### EdCast notification emails
 
-EdCast sends notification emails ona cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
+EdCast sends notification emails on a cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
 
 1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
 1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
@@ -637,7 +637,7 @@ To make a feature request to the EdCast product, email the EdCast team with the 
 - Integrations 
 - Notifications 
 - Mobile  
--  Other 
+- Other 
  
 2. In what way would the Enhancement Request enhance or impact your business (align use case)
 - [ ] Quality / Performance improvements 
@@ -648,7 +648,7 @@ To make a feature request to the EdCast product, email the EdCast team with the 
 - [ ] Affects planned rollout, adoption and initiatives. 
 - [ ] Other 
  
-3. Enhancement Description - Please provide a detailed description of the business problem and use cases . Specify affected user flow, steps to recreate the scenario, add screenshots/videos.
+3. Enhancement Description - Please provide a detailed description of the business problem and use cases. Specify affected user flow, steps to recreate the scenario, add screenshots/videos.
   
 4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s),  
 5. Why is this feature important (State the business impact) 
@@ -729,7 +729,7 @@ Below is the information that would be needed when opening a “mobile” relate
 
 ```
 
-##### Reporting performance issues on edcast.cpm
+##### Reporting performance issues on edcast.com
 
 To engage the EdCast team in a performance related incident, email the EdCast team with the following information:
 
