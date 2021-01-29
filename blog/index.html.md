@@ -633,7 +633,8 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - agile
 - bug bounty
 - careers
-- CI/CD
+- CI
+- CD
 - cloud native
 - code review
 - collaboration
