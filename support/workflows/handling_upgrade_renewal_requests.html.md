@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Handling Licensing & Subscription Requests
+description: "How to handle requests for GitLab license or subscription upgrades or renewals"
 category: License and subscription
 ---
 
