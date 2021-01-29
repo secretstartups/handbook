@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Handling CI minutes
+description: "How to fix problems with purchased CI minutes"
 category: GitLab.com subscriptions & purchases
 ---
 
