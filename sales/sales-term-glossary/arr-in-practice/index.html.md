@@ -20,9 +20,7 @@ We snapshot ARR on business day 4.
 
 ### Delta ARR
 
-The change in annual recurring revenue (ARR) from one period to the next. 
-
-Note: Delta ARR is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Delta ARR from iACV when our systems are processes are ready to support that move.
+The change in annual recurring revenue (ARR) from one period to another based on Subscription start and end dates. 
 
 When looking at a time horizon of the next twelve months Delta ARR will equal IACV except:
 1. True-ups and CI Minutes are included in IACV but not in delta ARR
@@ -33,7 +31,7 @@ Delta ARR = iACV - [True Ups and CI Minutes] + [Coterm difference] +/- [Timing d
 
 ### Net ARR
 
-The Net ARR value of deals booked in a specific period. It is the bookings equivalent to Delta ARR.
+The Net ARR value of deals booked in a specific period based on SFDC Opportunity Close Date. It is the bookings equivalent to Delta ARR.
 
 When looking at a time horizon of the next twelve months Net ARR will equal IACV except:
 1. True-ups and CI Minutes are included in IACV but not in Net ARR.
@@ -41,21 +39,25 @@ When looking at a time horizon of the next twelve months Net ARR will equal IACV
 
 Net ARR = iACV - [True Ups and CI Minutes] + [Coterm difference].
 
-As Net ARR is a bookings metric, the period it represents is based on the Close Date of the Opportunity.
+### ARR Basis
 
-Net ARR is tracked in the `Net ARR` field located on the Opportunity in Salesforce.
+The ARR Basis of a renewal opportunity is the ARR of the subscription it is renewing.
+
+ARR Basis is automatically recalculated after every subscription change.
 
 ### Booked ARR
 
-The Booked ARR value of a deal includes its renewal amount and its Net ARR. It is the bookings equivalent of ARR. 
+The Booked ARR value of a deal which includes renewal ARR Basis plus it's Net ARR. It is the bookings equivalent of ARR. 
 
-**Example:** A customer with a $100k ARR subscription renews at $130k the following year. 
+**Example:** A customer with a $100k ARR subscription ($100k ARR Basis) renews at $130k the following year. 
 - Booked ARR = $130k. 
 - Net ARR = $30k.
 
 Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
 
-Note: Net ARR and Booked ARR are being developed along side ARR and Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
+### ARR Technical Documentation
+
+For the technical documentation for the implementation of Net ARR, ARR Basis, and Booked ARR in Salesforce [please use this page.](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
 ### ARR Analysis Framework
 
