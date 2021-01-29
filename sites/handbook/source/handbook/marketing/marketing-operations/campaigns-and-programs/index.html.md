@@ -401,7 +401,6 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
 - (Coming in Nov) BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
 - (Campaigns Only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
-- (Campaigns Only/Phasing Out) PathFactory Listener: [TEMPLATE - `PF - Asset Type - Name of Asset`](https://app-ab13.marketo.com/#PG3875A1)
 - (Campaigns Only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 
 ##### Step 2: Sync to Salesforce
