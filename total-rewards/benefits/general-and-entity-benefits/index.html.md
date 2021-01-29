@@ -62,7 +62,7 @@ GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 
 
 ## Growth and Development Benefit
 
-GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to 10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
+GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends). 
 
 Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
@@ -119,13 +119,32 @@ Examples of English Language Courses:
 | Workshops and Conferences | Work-related conferences including travel, lodging and meals. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](https://about.gitlab.com/handbook/marketing/corporate-marketing/#speakers) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment. | Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member can schedule travel and will be reimbursed for related expenses. | Manager, People Business Partner, E-Group Member | 
 | Self-Service Learning (LinkedIn Learning, Coursera, Others) | The company will pay for all courses related to learning how to code (for example Learning Rails on Codecademy), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel. | The course must be related to your role. A final grade report or satisfactory certificate of completion are required to receive reimbursements over $1,000 USD. | Manager, People Business Partner, E-Group Member | 
 
+#### Tax Implications for Tuition Reimbursement by Country
 
-#### Administration of Your 4th Trimester 
+In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
+
+For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
+
+Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gitlab.com) for any tax-related questions in your country.
+
+
+### Administration of Growth and Development Reimbursements (Over $1,000)
+
+1. A new form submission will notify the team that a new entry has been submitted and autofill a Growth and Development Benefit Agreement.
+1. Check the team member's eligibility and make sure the cost is within the $10,000 USD annual limit.
+1. Download the team member's Growth and Development Benefit Agreement from the "Populated Agreements" folder and stage the document in HelloSign.
+1. Fill out the "Status" tab on the Growth and Development Benefit Log sheet.
+   * For 4th Trimester expenses, tag Total Rewards on the sheet. 
+1. Once all parties have signed the agreement, send an e-mail to the team member to notify them that the agreement has been signed and to send their transcript, certificate of completion or invoice (refer to the [reimbursement category table](/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements)) once they are ready to receive the reimbursement.
+1. Save the signed agreement in the team member's BambooHR "Benefits and ISO" folder.
+1. Upon completion, update the "Status" tab. Tag Total Rewards on the sheet to notify Payroll via the appropriate Payroll Changes files. 
+
+### Administration of Your 4th Trimester 
 
 1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
 1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
-1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
+1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
 **Monthly Reporting:**
 GitLab will provide Your 4th Trimester with a report monthly of any team members with an upcoming parental leave: expected leave date, expected return to work date, date of birthing event, country, whether the person has already opted in, and maternity or paternity leave. The purpose of this monthly report is to ensure Your 4th Trimester can plan accordingly to the volume of coaching for GitLab team members. 
