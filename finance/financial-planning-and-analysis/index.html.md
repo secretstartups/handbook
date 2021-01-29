@@ -326,11 +326,12 @@ eGroup will generate a full list of the top items that were not funded in the Pl
 ARR Plan refers to board Plan in which the expense Plan was built.
 
 | Scenario | Action to be taken |
-| We are behind ARR Plan based on actuals and forecasted pipeline. | Need to slow hiring and control expense on non-revenue generating heads. Potentially redirect dollars to specific areas in sales and marketing to correct the course watching CAC. Decision will be made by eGroup. |
-| We are on ARR Plan and expense Plan based on actuals and forecasted pipeline. | Need to evaluate ROI positive initiatives against existing spend and reprioritize dollars. For example Alliance is doing really well but we are not ahead of Plan - we would want to invest more in Alliance but need to fund from somewhere else. Decision will be made by eGroup. |
-| We are on ARR Plan and spending less than Expense Plan based on actuals and forecasted pipeline. | We identify and isolate the expense difference. We analyze the impact to our key metrics and collectively as an eGroup evaluate whether we reallocate the dollars. |
-| We are ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | We identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars. |
-| We are trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline. | Review FY23 impact and decide as an eGroup where to invest ahead of FY23 |
+| ------ | ------ |
+| Behind ARR Plan based on actuals and forecasted pipeline. | Need to slow hiring and control expense on non-revenue generating heads. Potentially redirect dollars to specific areas in sales and marketing to correct the course watching CAC. Decision will be made by eGroup. |
+| On ARR Plan and expense Plan based on actuals and forecasted pipeline. | Need to evaluate ROI positive initiatives against existing spend and reprioritize dollars. For example Alliance is doing really well but we are not ahead of Plan - we would want to invest more in Alliance but need to fund from somewhere else. Decision will be made by eGroup. |
+| On ARR Plan and spending less than Expense Plan based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline. | Review FY23 impact and decide as an eGroup where to invest ahead of FY23 |
 
 ## Investor and Board Communication
 
