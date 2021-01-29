@@ -110,6 +110,36 @@ Using data and research to understand the evolving needs of the customer as well
 
 The incorporation of this information into the planning stage ensures a focus on user intent as well as the delivery of highly relevant solution based content.
 
+## Content Planning and Research Tools
+
+All content projects begin with solid research that aligns keyword targeting research with topical analysis. To create a content plan, you need a clear idea of your goals and the message you are trying to convey through your content.
+
+Various tools allow for the analysis of search engine results to identify what the algorithms are delivering in top search positions for a target term.
+
+Using this information, in alignment with keyword research, it is possible to plan content production, as well as on page information structure, based on data.
+
+Once gathered and analysed, the information can be used to inform new content production, as well as for updating/optimising older content assets through gap analysis.
+
+The following tools are excellent resources for the content planning stage and provide a wealth of actionable information:
+
+[**Thruuu**](https://app.samuelschmitt.com/)
+
+Provides a breakdown of the top results per searched term as well as on page structure (H1,H2, H3), metadata and an audit of all on page links.
+
+[**AlsoAsked**](https://alsoasked.com/)
+
+Provides an organised view of which questions searchers are asking about a specific topic, and also the hierarchy of how those questions are linked together.
+
+[**Answer The Public**](https://answerthepublic.com/)
+
+This tool looks at autocomplete data from search engines and quickly provides large listings of phrases and questions that people are asking related to your target keyword or topic.
+
+[**Answer Socrates**](https://answersocrates.com/)
+
+Socrates uses a combination of various Google suggest sites, as well as People Also Asked questions, with search trends data.
+
+All resources above allow for data exporting, meaning an extensive data research file can be compiled on any topic you wish to target. These resources can simplify the content planning stage through data based decision making.
+
 ## Explanation of General Terms
 
 ### Keyword List
