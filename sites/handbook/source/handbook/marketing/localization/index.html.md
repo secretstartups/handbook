@@ -59,10 +59,10 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 | Use Case | DRI |
 | ------ | ------ |
 | VCC | Suri Patel |
-| CI | Suri Patel |
-| DevSecOps | Vanessa Wegner |
-| Simplify DevOps | Vanessa Wegner |
-| GitOps | Chrissie Buchanan |
+| CI | Chrissie Buchanan |
+| DevSecOps | Val Silverthorne |
+| Simplify DevOps/DevOps platform | Val Silverthorne |
+| GitOps | Suri Patel |
 | CD | Chrissie Buchanan |
 | Agile | Suri Patel |
 | Cloud Native | Chrissie Buchanan |
