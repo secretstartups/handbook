@@ -554,22 +554,22 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click Save
 
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
-Currently any form starting with these are actively being added into a program and you do not need to add a new one.
+We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener. Otherwise, please follow the process outlined below to ensure leads are being captured.
 
-| Campaign                                 | Campaign Parameter for Tracking |
-|------------------------------------------|---------------------------------|
-| CI Use Case                              | singleappci                     |
-| GItOps Use Case                          | iacgitops                       |
-| Version Control & Collaboration Use Case | vccusecase                      |
-| Simplify DevOps                          | simplifydevops                 |
-| Jenkins                                  | cicdcmp2                        |
-| Increase Operational Efficiencies	       | operationalefficiences          |
-| Deliver Better Products Faster	       | betterproductsfaster            |
-| Reduce Security and Compliance Risk	   | reducesecurityrisk              |
-| CI Build & Test Auto	                   | cicdcmp3                        |
-| OctoCat	                               | octocat                         |
-| DevSecOps Use Case	                   | devsecopsusecase                |
-| AWS	                                   | awspartner                      |
+| Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
+|------------------------------------------|---------------------------------|-----------------|
+| CI Use Case                              | singleappci                     |:white_check_mark: |
+| GItOps Use Case                          | iacgitops                       |:white_check_mark: |
+| Version Control & Collaboration Use Case | vccusecase                      |:white_check_mark: |
+| Simplify DevOps                          | simplifydevops                 |:white_check_mark: |
+| Jenkins                                  | cicdcmp2                        |:white_check_mark: |
+| Increase Operational Efficiencies	       | operationalefficiences          ||
+| Deliver Better Products Faster	       | betterproductsfaster            ||
+| Reduce Security and Compliance Risk	   | reducesecurityrisk              ||
+| CI Build & Test Auto	                   | cicdcmp3                        ||
+| OctoCat	                               | octocat                         ||
+| DevSecOps Use Case	                   | devsecopsusecase                ||
+| AWS	                                   | awspartner                      ||
 
 
 
@@ -602,8 +602,8 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 ##### Step 4: Go back into Marketo Template
 - Update local program tokens 
 - Update the campaign smart list filter with `contains` and the prefix
-   - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [prefix]` 
-   - Available prefixes are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
+   - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
+   - Available parameters are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
@@ -612,7 +612,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
   - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
-- Update this [handbook page with the prefix](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) you are now tracking to prevent duplication of programs in the future.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
 
 
 
