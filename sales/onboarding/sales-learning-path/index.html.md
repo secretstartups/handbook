@@ -80,32 +80,20 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - You can also watch the [Sales Enablement Session](/handbook/customer-success/professional-services-engineering/sales-enablement/) about how to sell services
 *  **GitLab Direction & Latest Releases**
    - Our vision is to replace disparate DevOps toolchains with a single application that is pre-configured to work by default across the entire DevOps lifecycle. We aim to make it faster and easier for groups of contributors to deliver value to their users, and we achieve this by enabling:
-
-Faster cycle time, driving an improved time to innovation
-Easier workflows, driving increased collaboration and productivity
-
-Our solution plays well with others, works for teams of any size and composition and for any kind of project, and provides ongoing actionable feedback for continuous improvement. You can read more about the principles that guide our prioritization process in our product handbook.
-
-Be sure to review the information from our latest release! 
-   - [GitLab Direction](https://about.gitlab.com/direction/#single-application)
-   - [GitLab Releases](https://about.gitlab.com/releases/categories/releases/)
+   - Faster cycle time, driving an improved time to innovation
+   - Easier workflows, driving increased collaboration and productivity
+   - Our solution plays well with others, works for teams of any size and composition and for any kind of project, and provides ongoing actionable feedback for continuous improvement. You can read more about the principles that guide our prioritization process in our product handbook.
+   - Be sure to review the information from our latest release!
+      - [GitLab Direction](https://about.gitlab.com/direction/#single-application)
+      - [GitLab Releases](https://about.gitlab.com/releases/categories/releases/)
 *  **Product Maturity**
    - GitLab has a broad scope and vision, and we are constantly iterating on existing and new features. Some stages and features are more mature than others. 
-
-To convey the state of our feature set and be transparent, we have developed a maturity framework for categories, application types, and stages.
-   - [GitLab Product Maturity](https://about.gitlab.com/direction/maturity/)
+   - To convey the state of our feature set and be transparent, we have developed a [GitLab Product Maturity framework](https://about.gitlab.com/direction/maturity/) for categories, application types, and stages.
 *  **Additional Resources**
    - The below are resources you might want to review or bookmark for later.
-
-1. GitLab Terms & Conditions
-
-2. Marketing Materials Repository: Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
-
-3. Pricing Information: Check out the chart to understand our pricing model. For additional context take a look at the handbook page on pricing. 
-   - [GitLab Terms](https://about.gitlab.com/terms/)
-   - [GitLab Marketing Materials](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads)
-   - [GitLab Pricing Model](https://about.gitlab.com/handbook/ceo/pricing/)
-   - [GitLab Pricing](https://about.gitlab.com/pricing/)
+      - [GitLab Terms & Conditions](https://about.gitlab.com/terms/)
+      - [GitLab Marketing Materials Repository](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads): Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
+      - [GitLab Pricing Model](https://about.gitlab.com/handbook/ceo/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/). 
 
 ### 5. Field Roles & Expectations
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
