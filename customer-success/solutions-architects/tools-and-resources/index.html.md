@@ -38,7 +38,7 @@ Following links provide product release information to assist in tehnical discus
 - [Upcoming Releases](https://about.gitlab.com/upcoming-releases/)
 - [Previous Releases](https://gitlab.com/gitlab-org/gitlab/-/releases)
 - [Releases Blog](https://about.gitlab.com/releases/categories/releases/)
-- Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
+- Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?) 
 
 ### Customer Facing Meeting Tools
 
