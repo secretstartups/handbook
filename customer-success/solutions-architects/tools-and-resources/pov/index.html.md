@@ -11,12 +11,14 @@ description: Proof of Value (POV)
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-# Proof of Value (POV)
+## Proof of Value (POV)
 {:.no_toc}
 
-GitLab wants prospects and customers to carry out a successful Proof of Value with GitLab with a GitLab trial license either using GitLab.com or an installed instance. As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
+Solution architects are instrumental to guide prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
-## POV Guidelines
+As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. 
+
+### POV Guidelines
 
 POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and success criteria have been documented.
 
@@ -46,7 +48,7 @@ Complete the following fields at minimum:
 
 Once the POV begins, the Solutions Architect should change the **Status** field from _New_ to _In Progress_. When the POV is complete, the Solutions Architect should change the **Status** to _Closed_ and the **Result** should be identified as _Successful_ or _Unsuccessful_. Freeform notes should be added to support the reason for the successful or unsuccessful result.
 
-## POV Best Practices
+### POV Best Practices
 
 Solutions Architects are the owners of the POV, guiding prospects through a successful experience with GitLab. As such, Solutions Architects should be the primary contacts for questions and issues experienced by the prospect during the POV. If unexpected technical problems arise, the SA may encourage the prospect to engage GitLab Support via the Support portal. This should only be used for technical abnormalities, not for integration or implementation assistance.
 
@@ -65,15 +67,15 @@ Other best practices for POV’s:
 
 Below is best practice guidance for conducting each type of POV. These processes share a similar goal of meeting identified business outcomes for the customer, but they vary based on engagement style, POV duration, location and intensity. The following applies to all POV's:
 
-## POV Key Players
+### POV Key Players
 
-### Customer Roles
+#### Customer Roles
 
 - Executive contact - A leader with business level, budgetary buy in
 - At least one pilot team to execute the POV
 - Technical POV lead
 
-### GitLab Roles
+#### GitLab Roles
 
 - Strategic Account Leader (SAL) or Account Executive (AE) - Relationship manager, owner of licensing
 - Solutions Architect (SA) - Primary technical contact, POV owner and project manager

@@ -11,12 +11,12 @@ description: Hands-on Workshop
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-# Hands-on Workshop
+## Hands-on Workshop
 {:.no_toc}
 
-GitLab Hands-on Workshops are interactive events for GitLab prospects and customers to learn about GitLab product with hands-on practice. In order to carry out a hands-on workshop, a GitLab instance must be stood up for the attendees to carry out the exercises during the workshop.
+GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn GitLab product and DevSecOps capabilities. Workshops include topics such as DevOps Automation, Portfolio and Project Management, Security and Advanced CI/CD. Workshops are ideally limited to 200 or fewer attendees in order to provide stable working environments as well as to be able to field Q&A from attendees in a timely manner. 
 
-Additional preparation is required to setup the class project and issue tracking workflow.
+In order to carry out a hands-on workshop, a GitLab instance must be stood up for the attendees to carry out the exercises during the workshop. Additional preparation is required to setup the class project and issue tracking workflow.
 
 ## Creating a Workshop Instance
 

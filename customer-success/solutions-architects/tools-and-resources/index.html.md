@@ -11,24 +11,24 @@ description: “Discover GitLab Solutions Architects’ tools and resources”
 
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
-# Tools and Resources
+## Tools and Resources
 {:.no_toc}
 
 Tools and resources provide infomation to help solution architects to conduct POV or workshops, respond to RFx, manage customer facing activities, support on-going product learning.
 
-## Proof of Value (POV) Guidelines
+### Proof of Value (POV) Guidelines
 
-Proof of Value (POV), formerly known as Proof of Concept is conducted during the Technical Evaluation stage with Solutions Architects by  prospects to prove out GitLab features, or by existing customers looking to expand GitLab stage adoption, based on the evaluation criteria and business value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov) page.
+Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov) page.
 
-## Hands-on Workshops
+### Hands-on Workshops
 
-Hands-on GitLab workshops are interactive events which enable GitLab prospects and customers to learn more about GitLab, then apply that knowledge hands-on within a provided GitLab environment. Workshops include topics such as DevOps Automation, Portfolio and Project Management, Security and Advanced CI/CD. Workshops are ideally limited to 200 or fewer attendees in order to provide stable working environments as well as to be able to field Q&A from attendees in a timely manner. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
+Hands-on GitLab workshops are interactive events which enable GitLab prospects and customers to learn more about GitLab, then apply that knowledge hands-on within a provided GitLab environment. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
 
-## Managing Request for Information (RFI) and Request for Proposal (RFP) 
+### RFI/RFP Responses 
 
-Generally, RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Information on RFx and managing the responses can be found on the [Solution Architect Assisted RFI/RFP](/handbook/customer-success/solutions-architects/tools-and-resources/rfp) page.
+RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process, responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](/handbook/customer-success/solutions-architects/tools-and-resources/rfp) page.
 
-## Product Releases
+### Product Releases
 
 Solution architects have to keep up the pace of the GitLab monthly product releases to position feature sets and capabilities for the prospect and customer needs while demostrating the market leading position. 
 
@@ -40,7 +40,7 @@ Following links provide product release information to assist in tehnical discus
 - [Releases Blog](https://about.gitlab.com/releases/categories/releases/)
 - Compare two releases with the [What is New Since? Release Feature Overview Tool](https://gitlab-cs-tools.gitlab.io/what-is-new-since/?)
 
-## Customer Facing Meeting Tools
+### Customer Facing Meeting Tools
 
 Solutions Architects frequently interact with customers for demos, presentations or Q&A. These calls should enable the customer to clearly experience the value of GitLab without distraction or interruption. The below list of tools was compiled by the GitLab SA team as commonly used solutions. Note, this list does not represent a requirement to use any of these products or an endorsement for these products.
 
@@ -56,14 +56,14 @@ Solutions Architects frequently interact with customers for demos, presentations
 - [Atom.io](https://atom.io/) lightweight IDE text editor
     - [git-plus](https://atom.io/packages/git-plus) Package for atom to make commits and other git actions without the terminal
 
-### Related macOS tips
+#### Related macOS tips
 
 - [Switch between full screen applications](https://www.intego.com/mac-security-blog/how-to-enter-and-exit-full-screen-mode-in-macos/) using the trackpad, Command keys or other options
 - Use the [Zoom Accessibility Features](https://www.imore.com/how-use-zoom-mac) to zoom in on targeted screen locations
 - [Work in multiple spaces on a single monitor](https://support.apple.com/en-gb/guide/mac-help/mh14112/mac) to keep multiple app windows or browser tabs open in fullscreen mode
     - Enables switching between windows or tabs with trackpad gestures, keeping display screen clean and uncluttered
     
-## Useful Customer Facing Presentations
+### Useful Customer Facing Presentations
 
 No two presentations are the same and we often find ourselves mixing and matching content tailored to our Customer's journey.  From Agile to CI/CD to Kubernetes and beyond, below are several commonly used decks rich in content to pull from.
 
