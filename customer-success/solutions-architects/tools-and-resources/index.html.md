@@ -56,6 +56,7 @@ Solutions Architects frequently interact with customers for demos, presentations
 - [Atom.io](https://atom.io/) lightweight IDE text editor
     - [git-plus](https://atom.io/packages/git-plus) Package for atom to make commits and other git actions without the terminal
 
+
 #### Related macOS tips
 
 - [Switch between full screen applications](https://www.intego.com/mac-security-blog/how-to-enter-and-exit-full-screen-mode-in-macos/) using the trackpad, Command keys or other options
@@ -69,7 +70,7 @@ No two presentations are the same and we often find ourselves mixing and matchin
 
 - [Official Customer Facing Presentations](https://about.gitlab.com/handbook/marketing/strategic-marketing/#customer-facing-presentations) - Here you will find the [Company Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/) with the GitLab narrative, [Customer Value Deck](https://docs.google.com/presentation/d/1SHSmrEs0vE08iqse9ZhEfOQF1UWiAfpWodIE6_fFFLg/) with Value Drivers and Differentiators, and [Security Deck](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit?usp=sharing) with best practices on Shift-Left security.   _These should be the starting point of any tailored deck!_
 - [All The Things](https://docs.google.com/presentation/d/1mGMyciRrobnOgazoc20_Q5HiBcP8ydp_JWjzgBj4tRI/) - Not a pitch deck.  Owned by a Solution Architect, this is a holistic, tactical guide to GitLab as a Product constantly updated with screenshots.
-- [General Demo](https://docs.google.com/presentation/d/17SoRPxPCswT_FublXCsi3rm3TBnHAYI-/) - Product Walk-through from the lens of a Solution Architect covering Velocity, Visibility, and Security & Compliance.
+- [Product Walkthrough Deck](https://docs.google.com/presentation/d/1jcnZbbfAyPJo0sIzqeN6nkfCS4nT_tMz/) - Product Walk-through from the lens of a Solution Architect covering Velocity, Visibility, and Security & Compliance.
 - [Getting Started](https://docs.google.com/presentation/d/1LJTZ7SC4EWcXJx3ptiA23Cf1i33GJHTE) - Kicking off a POV? This is a fantastic deck to help Customers on their journey to setting up Users, Groups, Pipelines, Auto DevOps, and more.
 
 
