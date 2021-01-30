@@ -32,24 +32,28 @@ might avoid those problems and hopefully keep the customer happy with our
 support delivery:
 
 ### 1. Confirm the Request
+
 As the first action on a ticket, verify that you understand the customer's
 request. Use your own words to summarize it in your response. Consider also
 verifying the business impact. Through this action, you will avoid the problem
 of answering the wrong question or working on the wrong problem.
 
 ### 2. Connect the Past, Present and Future
+
 At the beginning of each interaction (which could be a quick series of back-
 and-forth messages, for example) with the customer, be sure to indicate what's
 happened since the last interaction, what the current state is, what the next
 actions are, who will take them, and why those actions should be taken. When you
-take this step you're ensurity a common understanding of the situation and the
+take this step you're ensuring a common understanding of the situation and the
 plan; you're setting expectations.
 
 ### 3. Find the Yes
+
 When we won't be able to do exactly what the customer wants, instead of just
 saying "no," find good alternatives and present those.
 
 ### 4. Communicate Thoroughly
+
 Read every message from the customer thoroughly, twice if it helps, and be
 sure that in your reply you respond to everything they presented to you.
 Acknowledge their thoughts, concerns, priorities, timelines, etc. Answer each
@@ -59,6 +63,7 @@ that you are paying attention, that you care about them, and that you truly
 intend to help. This goes a long, long way toward keeping a customer happy.
 
 ### 5. Don't Be Silent
+
 When you're researching a customer's problem, keep them informed regularly.
 They will be thrilled to know that you're working on their behalf to find the
 best answer. So set an expectation with them at each communication of when
@@ -66,12 +71,14 @@ you'll update them again - keep the intervals short - and give them updates on
 your progress instead of leaving them in silence until you find your final answer.
 
 ### 6. Know the Ticket
+
 If you're going to work on a ticket that isn't assigned to you, or that's
 had other people involved, be sure you know the whole history of the ticket
 before you communicate with the customer. This allows you to avoid the mistakes
 of repeating requests and of contradicting previous instructions.
 
 ### 7. Meet Your Commitments
+
 If you say you're going to do something, do it. If something changes, explain
 what changed and make a new commitment.
 
@@ -163,6 +170,7 @@ only 15 - 30 minutes.
 ## Reply Wording
 
 ### 1. Match Words
+
 Always pay attention to the language, the specific words, that
 the customer has used and then match those words in your reply:
 
@@ -170,6 +178,7 @@ the customer has used and then match those words in your reply:
 - If they wrote "disaster", write "disaster"
 
 ### 2. Don't Assign Emotions to the Customer
+
 Be careful not to tell the customer how they feel. It can seem reasonable to
 write "I hear your frustration," for example, but many people will react badly
 to that kind of statement. Instead, put the emotion on the situation, not the
@@ -178,6 +187,7 @@ person:
 > I know this situation is frustrating right now.
 
 ### 3. Inconvenience and Unfortunately
+
 Try to avoid using these two words if you can. Why?
 
 - "Inconvenience" can make a problem sound trivial, unimportant. It suggests a
@@ -187,7 +197,3 @@ Try to avoid using these two words if you can. Why?
 
 - "Unfortunately" tends to be the way we introduce the fact that we're not able
   to help. Try instead to talk about what we can do to help, not what we can't.
-
-
-
-
