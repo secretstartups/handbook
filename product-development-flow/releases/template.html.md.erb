@@ -28,34 +28,31 @@ overviews["13.7"] = <<-13_7
 ### <%= release %> (<%= pdf_releases["Product Operations,product development flow"][release]["date"] %>)
     <% if !overviews[release].empty? %>
 
-#### Release Notes
 <%= overviews[release] %>
 
     <% end %>
-#### Changes
+##### Changes
 <%= pdf_releases["Product Operations,product development flow"][release]["content"] %>
 
 <% end %>
 
 ### 13.6 (2020-11-22)
 
-#### Release Notes
 * Introduce interactive/improved visuals for workflow table and required items*
 * Clarify required outcomes and optimize resources/links for activities as well as alternate issues types such as bugs
 * Find opportunities to reduce/remove content from the page to create better focus on the flow
 * Review and improve cross-functional from TWs, UXRs and stakeholders
 
-#### Changes
+##### Changes
 * [Product Development Flow v1.1 (Milestone 13.6) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69131)
 
 ### 13.5 (2020-10-22) 
 
-#### Release Notes
 * New structure and core content to shift to an outcomes/activities model. 
 * Introduced key participants table to clarify collaborators at each phase
 * Replaced specific step by step instructions in each phase with potential activities to achieve specific outcomes
 * Specified what’s required in each phase to labels and outcomes, leveraging Required 🔎
 
-#### Changes
+##### Changes
 * [Product Development Flow v1 Beta (Milestone 13.5) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/66118)
 
