@@ -188,7 +188,6 @@ AH2["@"mention your manager in <BR> Slack in the thread <BR> where you requested
 1. If this is a "how to" question is it clear why the user is asking the question?
    1. Make sure that you fully understand the reason for their question and what the end result is they are looking for. There may be a different and better way for to achieve the results so always feel comfortable in asking 'Why'.
 
-
 ### I'm working on a ticket, how do I let the team know?
 
 1. If the ticket is unassigned, then:
@@ -390,6 +389,12 @@ If you don't see the Ticket Redaction App in the sidebar, it is likely that you 
 Every now and then, a GitLab team member will forward a support request from a customer, prospective customer, user, etc. These requests then appear as tickets from the team member, instead of from the original requestor. Always reply directly to the original requester, keeping the person who forwarded it in the cc. You will need to manually alter the "Requester" field of the ticket, by clicking on the "(change)" link next to the email address of the apparent requester in the ticket title.
 
 Please see [Requesting Support for Customers](/handbook/support/internal-support/#requesting-support-for-customers) for more details.
+
+### Handling emotionally-charged tickets
+
+When customers are putting negative emotions into ticket communications, refer to the handbook entry on 
+[how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html.md)
+for helpful tips and guidance. 
 
 # How to succeed at working on tickets
 

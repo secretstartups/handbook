@@ -13,6 +13,8 @@ description: How to keep a ticket moving toward resolution when emotions are get
 
 ## Introduction
 
+While [working on tickets](./working-on-tickets.html.md) you may encounter a 
+customer expressing negatively charged emotions in their responses.
 When customers start putting negative emotions into ticket communications, it
 can be very difficult to figure out what to do. Our goal remains the same: to
 provide a thorough resolution to the customer's problem or answer to their
