@@ -137,3 +137,20 @@ Some functions don't fit as cleanly into the Support Stable Counterparts model. 
 | Sales      | Community Relations | David Planella      | Tom Atkins          | Greg Myers                 | weekly team meeting |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
+
+### Open Source Support Liaison
+
+The Open Source Support Liaison (OSS Liaison) role is a specialized type of Cross-Functional Support Counterpart role
+that assists GitLab's Open Source Partners with technical questions, problems, and needs.
+
+The OSS Liaison role has three main functions - building rapport, providing assistance, and facilitating connections.
+
+To build rapport and nurture thriving relationships, OSS liaisons sit in on meetings and attend Q&A sessions
+with our open source partners. When Open Source partners are in need of technical support assistance with GitLab,
+the liaison serves as a point of contact on the Support team. OSS Liaisons also facilitate connections by getting other
+team members and/or teams involved in finding answers or solutions for our partners.
+
+A familiarity with open source concepts, licences, and communities is recommended.
+
+If you're on the Support Team and would like to be an Open Source Support Liaison, post in `#spt_managers` and reach out
+to GitLab's Open Source Program Manager (`@nuritzi`).
