@@ -11,7 +11,7 @@ description: >-
 
 Solutions Architects have a big role in responding to RFIs and RFPs where there are considerable number of technical asks and solutions requirements.  
 
-Responding to a Request for Information (RFI) or Request for Proposal (RFP), referred as RFx is part of the standard process within Public Sector but can also happen with enterprise customers. 
+Responding to a Request for Information (RFI) or a Request for Proposal (RFP), referred as RFx is part of the standard process within Public Sector but can also happen with enterprise customers. 
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}

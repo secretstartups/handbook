@@ -14,17 +14,17 @@ description: Proof of Value (POV)
 ## Proof of Value (POV)
 {:.no_toc}
 
-Solution architects are instrumental to guide prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
+Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
 As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. 
 
 ### POV Guidelines
 
-POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and success criteria have been documented.
+POV's are commonly entered into once an NDA is signed, budget for the project is in place, any competition has been identified and the success criteria has been documented.
 
 The target duration for a POV is between 1 and 8 weeks depending on complexity and style of engagement. A GitLab Customer Success [collaborative project](https://gitlab.com/gitlab-com/account-management/templates/poc-plan) developed from the POV plan is the default method for POV management. The project template is only accessible by GitLab team members, but once a collaborative project is created, the customer will be granted access to that project. When utilizing a collaborative project, follow the instructions in README.md closely in order to properly configure the entire project. If a prospect has an internal process to follow or cannot use GitLab.com to manage the POV, a [Guided POV document](#pov-template-document) or a simplified [Lite POV document](#lite-pov-template-document) may be used.
 
-GitLab Solutions Architects should consider a limit of 3 concurrent Guided or Paid POV's as a best practice in order to provide optimal customer service and to enable a target of achieving 24 hour or less response times to inquiries during any POV. If more than 3 concurrent Guided or Paid POV's are required, the SA should assess their ability to support the additional requirements and/or discuss viability with their manager as well as other SA's in their region.
+GitLab Solutions Architects should consider a limit of 3 concurrent Guided or Paid POV's as a best practice in order to provide optimal customer service and to enable a target of achieving 24 hours or less response times to inquiries during any POV. If more than 3 concurrent Guided or Paid POV's are required, the SA should assess their ability to support the additional requirements and/or discuss viability with their manager as well as other SA's in their region.
 
 ### Tracking a POV in Salesforce
 

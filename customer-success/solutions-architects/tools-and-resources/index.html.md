@@ -14,7 +14,7 @@ description: “Discover GitLab Solutions Architects’ tools and resources”
 ## Tools and Resources
 {:.no_toc}
 
-Tools and resources provide infomation to help solution architects to conduct POV or workshops, respond to RFx, manage customer facing activities, support on-going product learning.
+Tools and resources provide infomation to help Solution Architects to conduct POV or workshops, respond to RFx, manage customer facing activities, support on-going product learning.
 
 ### Proof of Value (POV) Guidelines
 
@@ -22,11 +22,11 @@ Proof of Value (POV), formerly known as Proof of Concept, is conducted during th
 
 ### Hands-on Workshops
 
-GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
+GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
 
 ### RFI/RFP Responses 
 
-RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process, responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](/handbook/customer-success/solutions-architects/tools-and-resources/rfp) page.
+RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](/handbook/customer-success/solutions-architects/tools-and-resources/rfp) page.
 
 ### Product Releases
 
