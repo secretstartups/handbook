@@ -22,7 +22,7 @@ Proof of Value (POV), formerly known as Proof of Concept, is conducted during th
 
 ### Hands-on Workshops
 
-Hands-on GitLab workshops are interactive events which enable GitLab prospects and customers to learn more about GitLab, then apply that knowledge hands-on within a provided GitLab environment. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
+GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop) page.
 
 ### RFI/RFP Responses 
 
