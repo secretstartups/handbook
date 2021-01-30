@@ -115,9 +115,11 @@ The teams are encouraged to contribute ideas and processes for communication her
 
 To be built upon through FY22, this section will be comprised of process related to collaboration and commitment (making sure nobody burns out, and we all run in the same direction).
 
-### GTM 4x2
+### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
 <!-- DO NOT CHANGE ANCHOR -->
+
+The 4X2 goes into detail about differences in go-to-market by sales segment (Large, Mid-Market, SMB, and PubSec). The 4x2 includes overall business flows, new business motion overivew, key measurements, and team-specific roles in the segment-specific GTM strategies.
 
 To view the GTM 4x2 Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motion Strategy Template (4x2)`.
 
@@ -159,7 +161,13 @@ To view the Project Compass Googlesheet, please go to your [Google Drive](https:
 ## Team-specific commentary on the GTM Motions
 {: #team-commentary .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
-Team leaders and team members should feel empowered to add to this section, providing examples and thoughts for colleagues. 
+Team leaders and team members should feel empowered to add to this section, providing examples and thoughts for colleagues. Use the code below to start your section and designate a clean anchor for the section.
+
+```
+### Team Name
+{: #commentary-team-name}
+<!-- DO NOT CHANGE ANCHOR -->
+```
 
 ### Field Marketing
 {: #commentary-field-marketing}
@@ -175,19 +183,17 @@ As a Campaign Manager, you have a challenge on your plate: to plan and report fr
 
 You will be expected to become a subject matter expert of the GTM Motion as a Core Team member and ensure the Demand Generation team is up-to-date with what is planned for the GTM Motion (so that team members can best leverage the GTM Motions within their top-funnel campaign plans by segment/region.
 
-## How our motions are leveraged with sales segmentation
-{: #motions-and-segmentation}
-<!-- DO NOT CHANGE ANCHOR -->
-
-In FY22 we will still have Campaign Managers and Field Marketing Managers who have both a specific geo and segment focus. The 4X2 goes into further detail into how we see segment differences at GitLab. 
-
-<!-- Note: Add 4x2 here? Or link back to the top section? -->
-
 ## Project Management
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-Main Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785
+The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans.
+
+* Main Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785
+   - CI/CD Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821
+   - DevOps Platform Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822
+   - GitOps Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823
+   - Brand Epic: 
 
 ## Marketing Calendar 
 {: #marketing-calendar .gitlab-purple}
