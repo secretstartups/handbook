@@ -1629,7 +1629,15 @@ Locking support detected on remote "origin". Consider enabling it with:
   $ git config lfs.https://work-gitlab/gitlab-com/www-gitlab-com.git/info/lfs.locksverify true
 ```
 
-You can safely ignore this suggestion. More documentation on [Git LFS file locking](https://github.com/git-lfs/git-lfs/wiki/File-Locking).
+You can probably safely ignore this suggestion. More documentation on [Git LFS file locking](https://github.com/git-lfs/git-lfs/wiki/File-Locking).
+
+5. JAMF and git-lfs conflict
+
+In the process of trying to push your commits to gitlab.com git is trying to verify the SSL cert. If you have JAMF installed (and you should for compliance reasons), git might find a different certificate for gitlab.com and throw an error about `Post "https://gitlab.com/gitlab-com/www-gitlab-com.git/info/lfs/locks/verify": x509: certificate signed by unknown authority
+error: failed to push some refs to 'gitlab.com:gitlab-com/www-gitlab-com.git'`.
+
+**The action you can take here is to contact IT** More information can be found in the following issue:
+https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/1263#note_491341250
 
 ### Release post merge request template
 
