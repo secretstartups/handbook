@@ -22,7 +22,7 @@ Note: This GitLab product training and certification program is different from r
 
 ## Architecture and Approach
 
-1. Field team members are first trained on the [DevOps Technology Landscape](/handbook/sales/onboarding/sales-learning-path/#2-devops-technology-landscape) during [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
+1. Field team members are first trained on the [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html) during [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
 1. New field team members are then trained on [customer value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) and [GitLab’s value-based messaging framework](/handbook/sales/command-of-the-message/) (also during onboarding)
 1. After onboarding, field team members will be encouraged to complete lightweight role-based product training learning paths (see below)
 1. Field team members will then be encouraged to complete [customer use case courses](/handbook/sales/training/field-certification/#customer-use-case-training) that focus on how to sell GitLab
@@ -40,7 +40,7 @@ Product training and certification learning objectives are determined by the [Us
 
 ### Training 
 
-Lightweight role-based product training learning paths (one for Sales roles and one for Customer Success roles) are being developed to support the learning objectives outlined above with the goal of launching by or before early FY22. Until that time, team members and partners are encouraged to leverage and consume existing Handbook resources and participate in existing informal continuing education programs. New field team members will be encouraged to complete this training during their first few months in the role after successfully completing the [Sales Quick Start field onboarding](/handbook/sales/onboarding/) training program as outlined above.
+Lightweight role-based product training learning paths (one for Sales roles and one for Customer Success roles) are being developed to support the learning objectives outlined above with the goal of launching by or before early FY22. Until that time, team members and partners are encouraged to leverage and consume existing Handbook resources and participate in existing informal continuing education programs. New field team members will be encouraged to complete this training during their first few months in the role after successfully completing the [Sales Quick Start field onboarding](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/#sales--customer-success-quick-start-learning-path---core-curriculum) training program as outlined above.
 
 ### Certification
 
