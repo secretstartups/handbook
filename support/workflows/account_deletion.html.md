@@ -96,7 +96,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
      <p>Regards,</p>
    </details>
 
-   If the username provided **does not** match the GitLab.com account associated with the originating email address, they may still be able to delete the account. You may proceed to verify they aren't part of a paid namespace and verify account ownership.
+   If the username provided **does not** match the GitLab.com account associated with the originating email address, they may still be able to delete the account. You may proceed to verify they aren't part of a paid namespace and verify account ownership. If the user, even after sending the `Verify Username` snippet, did not provide the username, send the `Request Closed - No Confirmation` snippet (see above) and close the request.
 
 
 1. **Paid Namespace Confirmation:** Verify that the user is not associated with a paid namespace on GitLab.com. If they are, do the following:

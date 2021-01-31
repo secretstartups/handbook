@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Creating a license key
+description: "How to create a GitLab license key"
 category: GitLab Self-Managed licenses
 ---
 
@@ -8,10 +9,9 @@ category: GitLab Self-Managed licenses
 
 ----
 
-You will frequently need to generate a new license key due to either user error
-or system error.
+You will frequently need to generate a new license key due to either user error or system error.
 
-Self-managed licenses are managed in the [LicenseDot](https://license.gitlab.com).
+Self-managed licenses are managed in the [LicenseDot](https://license.gitlab.com) application.
 In order to sign-in, you will need an account on `dev.gitlab.org`. If you don't
 have one, open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 and refer that your role entitles you to access with

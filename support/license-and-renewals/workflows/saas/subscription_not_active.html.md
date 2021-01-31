@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: Subscription not active
+description: "How to associate subscriptions and groups"
 category: GitLab.com subscriptions & purchases
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Assisted Customer Requests
+description: "GitLab Support Assisted customer requests"
 category: References
 ---
 

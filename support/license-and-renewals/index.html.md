@@ -70,6 +70,21 @@ To be effective with L&R work, you'll need access to systems and tools which you
 might not otherwise encounter working other Support problem types. This list
 supplements the baseline entitlements for the Support Engineer job family.
 
+#### LicenseDot
+{:.no_toc}
+
+LicenseDot is where all self-managed licenses are generated, stored and email
+notifications sent to the email associated to the license. You'll need access
+to this to view existing customer licenses and manually generate new ones if
+necessary.
+
+* System name:
+  > LicenseDot - admin
+* Justification for this access:
+  > Support Engineers need LicenseDot admin access to work on customer licensing
+  > issues and to debug issues on the application itself. For more information,
+  > see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#licensedot
+
 #### Salesforce
 {:.no_toc}
 
@@ -116,6 +131,14 @@ When creating an individual/bulk access request, use the following information:
 
 * [License & renewals workflows](workflows/index.html)
 * [Internal policies and procedures wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home)
+
+### Useful tools
+
+* [license decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder)
+  -- Ruby script to decode `.gitlab-license` files.
+* [slic - Subscription and License Information Copier](https://gitlab.com/rverschoor/slic/)
+  -- browser extension to copy and format CustomerDot and LicenseDot information
+  into internal notes.
 
 ### Teams you'll be working with
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Mechanizer
+title: Mechanizer Application
+description: "How to use the GitLab.com Mechanizer application"
 category: References
 ---
 
