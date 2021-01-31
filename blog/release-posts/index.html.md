@@ -1233,7 +1233,7 @@ The due date is defined by the removal of that feature. The field is required, a
 
 If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0.
 
-Please set up one deprecation per MR by creating a new .yml file in the `/data/release_posts/unreleased/` folder with the following contents:
+Create one .yml file for each deprecation notice in the `/data/release_posts/unreleased/` folder with the following contents:
 
 ```yaml
 deprecations:
@@ -1244,6 +1244,8 @@ deprecations:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
+
+If you have multiple deprecation notices for your category, then you can choose to create one MR. The MR should still consist of a deprecate_category_feature.yml file for each feature that you are deprecating.
 
 No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
 
