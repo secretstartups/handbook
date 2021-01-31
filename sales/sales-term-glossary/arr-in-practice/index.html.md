@@ -118,21 +118,21 @@ For more information on which opportunity fields are used in the calculation of 
 | Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
 | Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
 
-**Note: In FY22, future renewal opportunities are created automatically upon closure of any new business or renewal opportunity. On these future renewal opportunities, ARR Basis is calculated and stamped automatically at opportunity creation. In addition, ARR basis updates automatically when mid-term growth transactions occur, enabling real time data and accurate renewal forecasting.**
+Note: In FY22, future renewal opportunities are created automatically upon closure of any new business or renewal opportunity. On these future renewal opportunities, ARR Basis is calculated and stamped automatically at opportunity creation. In addition, ARR basis updates automatically when mid-term growth transactions occur, enabling real time data and accurate renewal forecasting.
 
 ### How Net ARR is Calculated for Non-Standard Deal Types
 
 #### Calculating Net ARR for **Subscription Merges**:
 
-In the event that, upon renewal, multiple subscriptions are consolidated into one renewal, the **ARR Basis** will be updated by Deal Desk to reflect the combined ARR Basis of both existing subscriptions.
+In the event that, upon renewal, multiple subscriptions are consolidated into one renewal, the **ARR Basis** on the active renewal opportunity will be updated by Deal Desk to reflect the combined ARR Basis of both existing subscriptions. The inactive renewal opportunity will be close as Duplicate.
 
 #### Calculating Net ARR for **Ramp Deals**:
 
 A **Ramp Deal** is defined as ["a single deal with multiple individual ramp periods."](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
 
-In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)] value.
+In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
 
-**New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+- **New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
 
 **Opportunity 1 - Year 1:**
 
@@ -152,7 +152,7 @@ In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that on
 | ------ | ------ | ------ | ------ |
 | New Business | 12 months | $300,000 | $100,000 |
 
-**Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+- **Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
 
 **Opportunity 1 - Year 1:**
 
@@ -172,7 +172,7 @@ In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that on
 | ------ | ------ | ------ | ------ | ------ |
 | Renewal | 12 months | $300,000 | $200,000 | $100,000 |
 
-For more information about quoting **Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
+For more information about **quoting Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
 
 
 #### Calculating Net ARR for **Contract Resets**:
