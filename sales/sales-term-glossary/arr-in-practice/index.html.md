@@ -122,12 +122,57 @@ For more information on which opportunity fields are used in the calculation of 
 
 ### How Net ARR is Calculated for Non-Standard Deal Types
 
+#### Calculating Net ARR for **Subscription Merges**:
+
+In the event that, upon renewal, multiple subscriptions are consolidated into one renewal, the **ARR Basis** will be updated by Deal Desk to reflect the combined ARR Basis of both existing subscriptions.
+
 #### Calculating Net ARR for **Ramp Deals**:
 
 A **Ramp Deal** is defined as ["a single deal with multiple individual ramp periods."](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
 
 In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)] value.
 
+**New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+
+**Opportunity 1 - Year 1:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $100,000 |
+
+**Opportunity 2 - Year 2:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $200,000 | $100,000 |
+
+**Opportunity 3 - Year 3:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $300,000 | $100,000 |
+
+**Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+
+**Opportunity 1 - Year 1:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $100,000 | $100,000 | $0 |
+
+**Opportunity 2 - Year 2:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $200,000 | $100,000 | $100,000 |
+
+**Opportunity 3 - Year 3:**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $300,000 | $200,000 | $100,000 |
+
+For more information about quoting **Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
 
 
 #### Calculating Net ARR for **Contract Resets**:
