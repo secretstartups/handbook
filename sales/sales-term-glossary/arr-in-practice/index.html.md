@@ -55,9 +55,15 @@ The Booked ARR value of a deal which includes renewal ARR Basis plus it's Net AR
 
 Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
 
-### How Net ARR is Calculated
+## Annual Recurring Revenue (ARR) and Salesforce
 
-## Calculating Net ARR for **New Business** Opportunities:
+### ARR Opportunity Fields
+
+For more information on which opportunity fields are used in the calculation of ARR, see [Salesforce Booking Metrics Field Data Dictionary](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/#arr-fields).
+
+### How Net ARR is Calculated On Opportunities
+
+#### Calculating Net ARR for **New Business** Opportunities:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
@@ -65,7 +71,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 | New Business | 24 months |  $240,000 | $120,000 |
 | New Business | 36 months |  $360,000 | $120,000 |
 
-** Net ARR vs. Net iACV Comparison**
+**Net ARR vs. Net iACV Comparison**
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ |
@@ -74,7 +80,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 | New Business | 36 months |  $360,000 | $120,000 | $120,000 |
 
 
-## Calculating Net ARR for **Add-On** Opportunities:
+#### Calculating Net ARR for **Add-On** Opportunities:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
@@ -82,7 +88,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 | Add-On Business | 12 months | $60,000 | $60,000 |
 | Add-On Business | 18 months | $60,000 | $40,000 |
 
-** Net ARR vs. Net iACV Comparison**
+**Net ARR vs. Net iACV Comparison**
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ |
@@ -90,7 +96,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 | Add-On Business | 12 months | $60,000 | $60,000 | $60,000 |
 | Add-On Business | 18 months | $60,000 | $40,000 | $40,000 |
 
-## Calculating Net ARR for **Renewal** Opportunities:
+#### Calculating Net ARR for **Renewal** Opportunities:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -101,7 +107,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 | Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 |
 | Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 |
 
-** Net ARR vs. Net iACV Comparison**
+**Net ARR vs. Net iACV Comparison**
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** | **Renewal ACV** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
