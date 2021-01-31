@@ -118,6 +118,25 @@ For more information on which opportunity fields are used in the calculation of 
 | Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
 | Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
 
+**Note: In FY22, future renewal opportunities are created automatically upon closure of any new business or renewal opportunity. On these future renewal opportunities, ARR Basis is calculated and stamped automatically at opportunity creation. In addition, ARR basis updates automatically when mid-term growth transactions occur, enabling real time data and accurate renewal forecasting.**
+
+### How Net ARR is Calculated for Non-Standard Deal Types
+
+#### Calculating Net ARR for **Ramp Deals**:
+
+A **Ramp Deal** is defined as ["a single deal with multiple individual ramp periods."](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
+
+In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)] value.
+
+
+
+#### Calculating Net ARR for **Contract Resets**:
+
+A **Contract Reset** is defined as ["a new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
+
+A Contract Reset consists of two opportunities. The first opportunity is for the new subscription. This opportunity will be stamped with the "Contract Reset" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value. The second opportunity is a cancellation of the existing subscription, which produces a credit to the customer. This opportunity will be stamped with the "Credit" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
+
+
 ### ARR Technical Documentation
 
 For the technical documentation for the implementation of Net ARR, ARR Basis, and Booked ARR in Salesforce [please use this page.](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
