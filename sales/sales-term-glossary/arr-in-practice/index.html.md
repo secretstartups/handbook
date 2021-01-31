@@ -71,7 +71,7 @@ For more information on which opportunity fields are used in the calculation of 
 | New Business | 24 months |  $240,000 | $120,000 |
 | New Business | 36 months |  $360,000 | $120,000 |
 
-**Net ARR vs. Net iACV Comparison**
+Net ARR vs. Net iACV Comparison
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ |
@@ -88,7 +88,7 @@ For more information on which opportunity fields are used in the calculation of 
 | Add-On Business | 12 months | $60,000 | $60,000 |
 | Add-On Business | 18 months | $60,000 | $40,000 |
 
-**Net ARR vs. Net iACV Comparison**
+Net ARR vs. Net iACV Comparison
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ |
@@ -107,7 +107,7 @@ For more information on which opportunity fields are used in the calculation of 
 | Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 |
 | Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 |
 
-**Net ARR vs. Net iACV Comparison**
+Net ARR vs. Net iACV Comparison
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** | **Renewal ACV** | **Net iACV** |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -241,6 +241,36 @@ Amendment Term: 2021-07-01 to 2021-12-32
 | Add-On Business | 6 months | $50,000 | $50,000 |
 
 In this scenario, the Net ARR for a 6 month add/on upgrade is $50,000. Because Net ARR is annualized, the value of a 6  month add-on/upgrade is equivalent to that of a contract reset scenario for an equivalent upgrade.
+
+#### Calculating Net ARR for Annual Payment Deals:
+
+An Annual Payment Deal is defined as a multi-year deal that is paid annually. For these deals, each payment period will have its own Close Won opportunities in Salesforce. All annual payment opportunities will be stamped with the "Annual Payments" [Payment Schedule](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#payment-schedule) value.
+
+- **New Business Annual Payments Deal Example:** A customer purchases a three-year new subscription with annual payments, where the total TCV of the deal is $300,000.
+
+**Opportunity 1 - Year 1:**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $100,000 |
+
+**Opportunity 2 - Year 2:**
+
+Subscription Term: 2022-01-01 to 2022-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $0 |
+
+**Opportunity 3 - Year 3:**
+
+Subscription Term: 2023-01-01 to 2023-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $0 |
 
 ### ARR Technical Documentation
 
