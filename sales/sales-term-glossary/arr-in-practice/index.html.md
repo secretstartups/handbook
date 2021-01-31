@@ -272,6 +272,8 @@ Subscription Term: 2023-01-01 to 2023-12-31
 | ------ | ------ | ------ | ------ |
 | New Business | 12 months | $100,000 | $0 |
 
+Note: **Annual Payments** require additional approvals. See "Deferred Payments" in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.5r6g2e2czzmp).
+
 ### ARR Technical Documentation
 
 For the technical documentation for the implementation of Net ARR, ARR Basis, and Booked ARR in Salesforce [please use this page.](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
