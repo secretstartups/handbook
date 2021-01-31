@@ -19,7 +19,7 @@ We recommend creating sample projects as project templates, then importing them 
 This tutorial shows you how to access the GitLab instance and your group, create a sub-group for project templates, create your first project template, and import that template into a new project that you can use for a customer demo.
 
 #### Pre-Requisites
-* [Creating and accessing your account](/tutorials/getting-started/creating-accessing-your-account)
+* [Creating and accessing your account](/handbook/customer-success/demo-systems/tutorials/getting-started/creating-accessing-your-account/)
 
 ## Step-by-Step Instructions
 
