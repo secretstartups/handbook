@@ -55,6 +55,35 @@ The Booked ARR value of a deal which includes renewal ARR Basis plus it's Net AR
 
 Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
 
+### How Net ARR is Calculated
+
+## Calculating Net ARR for **New Business** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| New Business | 12 months | $120,000 | $120,000 |
+| New Business | 24 months |  $240,000 | $120,000 |
+| New Business | 36 months |  $360,000 | $120,000 |
+
+## Calculating Net ARR for **Add-On** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $60,000 | $120,000 |
+| Add-On Business | 12 months | $60,000 | $60,000 |
+| Add-On Business | 18 months | $60,000 | $40,000 |
+
+## Calculating Net ARR for **Renewal** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** | **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $120,000 | $120,000 | $0 | $0 |
+| Renewal | 12 months | $120,000 | $120,000 | $20,000 | $0 |
+| Renewal | 12 months | $120,000 | $100,000 | $0 | $20,000 |
+| Renewal | 24 months | $240,000 | $120,000 | $0 | $0 |
+| Renewal | 24 months | $240,000 | $120,000 | $20,000 | $10 |
+| Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 |
+
 ### ARR Technical Documentation
 
 For the technical documentation for the implementation of Net ARR, ARR Basis, and Booked ARR in Salesforce [please use this page.](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
