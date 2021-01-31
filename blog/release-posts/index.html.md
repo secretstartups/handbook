@@ -1569,6 +1569,8 @@ In preparation for content assembly on the 18th of the month, the Release Post M
 
 #### Possible Script Errors with Corrective Actions
 
+The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md) contains steps to setup your local development environment. 
+
 Here are some of the common errors that a user might encounter where it may not be clear as what to do.
 
 1. You are missing a required Ruby Gem
