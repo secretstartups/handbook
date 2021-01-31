@@ -136,17 +136,23 @@ In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that on
 
 **Opportunity 1 - Year 1:**
 
+Ramp Period: 2021-01-01 to 2021-12-31
+
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
 | New Business | 12 months | $100,000 | $100,000 |
 
 **Opportunity 2 - Year 2:**
 
+Ramp Period: 2022-01-01 to 2022-12-31
+
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
 | New Business | 12 months | $200,000 | $100,000 |
 
 **Opportunity 3 - Year 3:**
+
+Ramp Period: 2023-01-01 to 2023-12-31
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
@@ -156,17 +162,23 @@ In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that on
 
 **Opportunity 1 - Year 1:**
 
+Ramp Period: 2021-01-01 to 2021-12-31
+
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
 | Renewal | 12 months | $100,000 | $100,000 | $0 |
 
 **Opportunity 2 - Year 2:**
 
+Ramp Period: 2022-01-01 to 2022-12-31
+
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
 | Renewal | 12 months | $200,000 | $100,000 | $100,000 |
 
 **Opportunity 3 - Year 3:**
+
+Ramp Period: 2023-01-01 to 2023-12-31
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
