@@ -18,7 +18,7 @@ twitter_creator: '@gitlab'
 
 The purpose of this handbook page is to align our marketing team on a single FY22 marketing plan. This page and the FY22 plan are intended to be an ongoing work-in-progress, contributed to by the entire team throughout FY22 to foster collaboration and focus.
 
-Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @jgragnola and @lblanchard to assist with merging!
+Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @jgragnola, @lblanchard, or @darawarde to assist with merging!
 
 ### Goal of FY22 Marketing Plan:
 {: #goal}
@@ -33,7 +33,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 :stopwatch:  **Timeline:** Ensure marketing alignment by end of February 2021
 
 :busts_in_silhouette:  **Audience:** Marketing
-- Note: alignment with sales, customer success, product, etc. is occuring, but the intended audience of this HB page is Marketing
+- Note: alignment with sales, customer success, product, etc. is occurring, but the intended audience of this HB page is Marketing
 
 :white_check_mark:  **Measure:** How do we confirm everyone is aligned?
 - Handbook page as SSoT
@@ -79,7 +79,7 @@ To view the GTM Motions Googlesheet, please go to your [Google Drive](https://dr
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </figure>
 
-The GTM Motions each include a [Core Team](), comprised of funcational DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Pease see more information in [GTM Motion Core Teams]() and [Beyond the GTM Motion Core Teams]() below.
+The GTM Motions each include a [Core Team](), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams]() and [Beyond the GTM Motion Core Teams]() below.
 
 All marketing team members should plan to focus ~70% of their time and plan around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
 
@@ -119,7 +119,7 @@ To be built upon through FY22, this section will be comprised of process related
 {: #gtm-4x2}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The 4X2 goes into detail about differences in go-to-market by sales segment (Large, Mid-Market, SMB, and PubSec). The 4x2 includes overall business flows, new business motion overivew, key measurements, and team-specific roles in the segment-specific GTM strategies.
+The 4X2 goes into detail about differences in go-to-market by sales segment (Large, Mid-Market, SMB, and PubSec). The 4x2 includes overall business flows, new business motion overview, key measurements, and team-specific roles in the segment-specific GTM strategies.
 
 To view the GTM 4x2 Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motion Strategy Template (4x2)`.
 
@@ -129,7 +129,7 @@ To view the GTM 4x2 Googlesheet, please go to your [Google Drive](https://drive.
 {: #sales-plays .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-Sales Plays combine buyer personas, positioning, and messaging, integrated into go-to-market activities in an organized collaboration with sales. This can include target account lists, key contacts data, call guides, outreach sequences, SDR enablememt, sales play training, and more - what is included is to be determined by the Core Teams working on the sales plays.
+Sales Plays combine buyer personas, positioning, and messaging, integrated into go-to-market activities in an organized collaboration with sales. This can include target account lists, key contacts data, call guides, outreach sequences, SDR enablement, sales play training, and more - what is included is to be determined by the Core Teams working on the sales plays.
 
 As Sales Plays are developed, the combination of the Sales Plays for a motion will develop a GTM Motion Playbook to be leveraged by Sales and SDRs.
 
@@ -172,14 +172,14 @@ Team leaders and team members should feel empowered to add to this section, prov
 ### Field Marketing
 {: #commentary-field-marketing}
 <!-- DO NOT CHANGE ANCHOR -->
-As a Field Marketer, you will be leveraging the GTM Motions in your regional strategy and plans*. You may detemine that a certain GTM Motion will be more heavily leveraged in your region and/or help you reach your regional goals, and you are interested in joining the Core Team for that GTM Motion. Or perhaps you have a particular passion for a specific GTM Motion and want to be an active participant and contributor to the Core Team or a sepcific Sales Play. Great! Connect with the Core Team to get involved.
+As a Field Marketer, you will be leveraging the GTM Motions in your regional strategy and plans*. You may determine that a certain GTM Motion will be more heavily leveraged in your region and/or help you reach your regional goals, and you are interested in joining the Core Team for that GTM Motion. Or perhaps you have a particular passion for a specific GTM Motion and want to be an active participant and contributor to the Core Team or a specific Sales Play. Great! Connect with the Core Team to get involved.
 
 *You do not have to use all GTM Motions and you may go outside of these GTM Motions, although, as mentioned in the GTM Motions section, ~70% of your time should be spent focusing on the GTM Motions.
 
 ### Campaigns Team
 {: #commentary-campaigns-team}
 <!-- DO NOT CHANGE ANCHOR -->
-As a Campaign Manager, you have a challenge on your plate: to plan and report from the perspective of GMT Motions, AND to plan/reort from the perspective of your segment/region to ensure lead flow aligned to sales targets is on track. You will be an active contriutor to a Core Team by sharing insight into existing data from the GTM Motions to-date; organizing and communicating existing buyer journeys, content, and nurture emails; and strategizing/communicating top funnel activities for FY22.
+As a Campaign Manager, you have a challenge on your plate: to plan and report from the perspective of GMT Motions, AND to plan/report from the perspective of your segment/region to ensure lead flow aligned to sales targets is on track. You will be an active contributor to a Core Team by sharing insight into existing data from the GTM Motions to-date; organizing and communicating existing buyer journeys, content, and nurture emails; and strategizing/communicating top funnel activities for FY22.
 
 You will be expected to become a subject matter expert of the GTM Motion as a Core Team member and ensure the Demand Generation team is up-to-date with what is planned for the GTM Motion (so that team members can best leverage the GTM Motions within their top-funnel campaign plans by segment/region.
 
