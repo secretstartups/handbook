@@ -55,7 +55,7 @@ Some users are only given `Reporting` access. For these users you will provision
 1. If the lock symbol is **red** that is a locked user and you must first unlock them: Click the three dots on the right > Unlock   
      ![](/images/handbook/marketing/Outreach-User-Unlock.png)   
 1. To provision the user, click the three dots again > Send Claim Link   
-     ![](/images/handbook/marketing/Outreach-User-SendClaimLink)   
+     ![](/images/handbook/marketing/Outreach-User-SendClaimLink.png)   
 
 If the user you are provisioning does not show up in your search results, you can manually add them from Salesforce via an Import      
 1. Click the lightning bolt in the top right-hand corner    
