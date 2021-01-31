@@ -185,7 +185,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
  1. After the contract is signed by both parties, upload the fully executed contract to ContractWorks. You will need to upload the fully signed pdf into the folder labeled **01. To Be Standardized**, which in under the parent folder **01. Uncategorized**. Legal will then organize the contracts using their [instructions and best practices](/handbook/legal/vendor-contract-filing-process)
       - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single+Person+Access+Request) or tag procurement at @gitlab-com/Finance-Division/procurement-team in the issue and we will upload the contract on your behalf.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (Optional)
+## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (as needed)
    * Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. 
    * If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
