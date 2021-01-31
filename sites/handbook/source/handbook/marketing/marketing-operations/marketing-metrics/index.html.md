@@ -22,6 +22,44 @@ In [Sisense](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%
 
 Below you can find a few of the major dashboards in use and descriptions/links of/to them. 
 
+### Marketing sources
+
+To help us improve our paid and organic campaigns, we split marketing activities out by source in to Inbound and Demand Generation related activity. Inbound and Demand Generation sources use the following breakdown.
+
+#### Inbound
+* Organic
+* Direct/none
+* Non-paid social
+* Referral
+
+#### Demand Generation
+* Display
+* Paid Social
+* Generic Paid Search
+* Branded Paid Search
+
+### Defining Conversion Rate
+
+There are several ways we can use conversion rate optimization to improve marketing performance on GitLab web properties. To create a common, [MECEFU](/handbook/communication/#mecefu-terms) oriented definition for our teams we use the following formulas.
+
+**Overall conversion rate**
+We use the overall conversion rate to quickly measure the effectiveness of our marketing website. This measurement helps us establish a baseline for engagement and move to update CTAs and offers across our marketing website to improve our conversion motions. This is the formula we use to arrive at the overall conversion rate.
+
+overall conversion rate = `goal conversion events on about.gitlab.com/total sessions on about.gitlab.com`
+
+For example, in December 2020 there were 2,829,601 sessions across our Google Analytics profile, with 23,218 goal conversion events.
+
+Our overall conversion rate in December 2020 was 0.82% (23,218/2,829,601).
+
+**Offer specific conversion rate** (trial, demo, etc)
+We use offer specific conversion rates to help us measure the effectiveness of pages with conversion events. This includes our trial page, demo, webcasts, resources, and other pages we use to convert visitors to inquiries. We use this formula to calculate the offer conversion rate.
+
+offer conversion rate = `offer conversion/visits to offer pages`
+
+Looking at December 2020 again, there were 7,226 `/demo/` pageviews with 600 `demo` conversion events.
+
+Our demo conversion rate in December 2020 was 8.3% (600/7,226).
+
 ### Marketing Metrics Dashboard
 
 The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/431555/Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts (defined below) and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
@@ -186,6 +224,13 @@ Note: The time delay between a record being added to SFDC and the time it takes 
 `MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
 `MQL Date` is not NULL
 `Is Converted` - SFDC System Field - is not `False`
+
+### Inquiries
+
+**Base Fields**
+1. TBD
+1. TBD
+1. TBD
 
 ### MQL Goals
 **Base Fields**
