@@ -61,7 +61,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 
 For more information on which opportunity fields are used in the calculation of ARR, see [Salesforce Booking Metrics Field Data Dictionary](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/#arr-fields).
 
-### How Net ARR is Calculated On Opportunities
+### How Net ARR is Calculated For Standard Deals
 
 #### Calculating Net ARR for **New Business** Opportunities:
 
@@ -120,7 +120,7 @@ For more information on which opportunity fields are used in the calculation of 
 
 Note: In FY22, future renewal opportunities are created automatically upon closure of any new business or renewal opportunity. On these future renewal opportunities, ARR Basis is calculated and stamped automatically at opportunity creation. In addition, ARR basis updates automatically when mid-term growth transactions occur, enabling real time data and accurate renewal forecasting.
 
-### How Net ARR is Calculated for Non-Standard Deal Types
+### How Net ARR is Calculated for Non-Standard Deals
 
 #### Calculating Net ARR for **Subscription Merges**:
 
@@ -174,13 +174,61 @@ In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that on
 
 For more information about **quoting Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
 
-
 #### Calculating Net ARR for **Contract Resets**:
 
 A **Contract Reset** is defined as ["a new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
 
-A Contract Reset consists of two opportunities. The first opportunity is for the new subscription. This opportunity will be stamped with the "Contract Reset" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value. The second opportunity is a cancellation of the existing subscription, which produces a credit to the customer. This opportunity will be stamped with the "Credit" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
+A Contract Reset consists of two opportunities. The first opportunity is for the new subscription - even so, this opportunity is always tagged as a Renewal Opportunity. This opportunity will be stamped with the "Contract Reset" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value. The second opportunity is a cancellation of the existing subscription, which produces a credit to the customer. This opportunity will be stamped with the "Credit" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
 
+- **Contract Reset Example:** A customer with an existing $50,000 subscription cancels that subscription 6 months into the subscription term, and transacts a new 12 month $100,000 subscription.
+
+**Existing Closed Won Opportunity (New Business)**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $50,000 | $50,000 |
+
+**Credit Opportunity (New Business)**
+
+Subscription Term: 2021-07-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 6 months | -$25,000 | -$50,000 |
+
+**Contract Reset Opportunity (Renewal)**
+
+Subscription Term: 2021-07-01 to 2022-06-30
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $100,000 | $0 | $100,000 |
+
+In this scenario, the Credit Opportunity and Contract Reset Opportunity are closed on the same date. Between the two opportunities, combined Net ARR is $50,000.
+
+For more information about **quoting Contract Resets**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)
+
+- **Add-On vs. Contract Reset**: Compare the above example with a 6 month add-on/upgrade
+
+**Existing Closed Won Opportunity (New Business)**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $50,000 | $50,000 |
+
+**6-Month Add-On/Upgrade Opportunity**
+
+Amendment Term: 2021-07-01 to 2021-12-32
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $50,000 | $50,000 |
+
+In this scenario, the Net ARR for a 6 month add/on upgrade is $50,000. Because Net ARR is annualized, the value of a 6  month add-on/upgrade is equivalent to that of a contract reset scenario for an equivalent upgrade.
 
 ### ARR Technical Documentation
 
