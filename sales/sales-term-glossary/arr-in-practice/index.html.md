@@ -60,29 +60,57 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 ## Calculating Net ARR for **New Business** Opportunities:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | New Business | 12 months | $120,000 | $120,000 |
 | New Business | 24 months |  $240,000 | $120,000 |
 | New Business | 36 months |  $360,000 | $120,000 |
 
+** Net ARR vs. Net iACV Comparison**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ |
+| New Business | 12 months | $120,000 | $120,000 | $120,000 |
+| New Business | 24 months |  $240,000 | $120,000 | $120,000 |
+| New Business | 36 months |  $360,000 | $120,000 | $120,000 |
+
+
 ## Calculating Net ARR for **Add-On** Opportunities:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | Add-On Business | 6 months | $60,000 | $120,000 |
 | Add-On Business | 12 months | $60,000 | $60,000 |
 | Add-On Business | 18 months | $60,000 | $40,000 |
 
+** Net ARR vs. Net iACV Comparison**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $60,000 | $120,000 | $60,000 |
+| Add-On Business | 12 months | $60,000 | $60,000 | $60,000 |
+| Add-On Business | 18 months | $60,000 | $40,000 | $40,000 |
+
 ## Calculating Net ARR for **Renewal** Opportunities:
 
-| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** | **Net ARR** |
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Renewal | 12 months | $120,000 | $120,000 | $0 | $0 |
-| Renewal | 12 months | $120,000 | $120,000 | $20,000 | $0 |
+| Renewal | 12 months | $140,000 | $120,000 | $20,000 | $0 |
 | Renewal | 12 months | $120,000 | $100,000 | $0 | $20,000 |
 | Renewal | 24 months | $240,000 | $120,000 | $0 | $0 |
-| Renewal | 24 months | $240,000 | $120,000 | $20,000 | $10 |
+| Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 |
 | Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 |
+
+** Net ARR vs. Net iACV Comparison**
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** | **Renewal ACV** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $120,000 | $120,000 | $0 | $0 | $120,000 | $0 |
+| Renewal | 12 months | $140,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
+| Renewal | 12 months | $120,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
+| Renewal | 24 months | $240,000 | $120,000 | $0 | $0 | $120,000 | $0 |
+| Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
+| Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
 
 ### ARR Technical Documentation
 
