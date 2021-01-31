@@ -24,7 +24,7 @@ Below you can find a few of the major dashboards in use and descriptions/links o
 
 ### Marketing sources
 
-To help us improve our paid and organic campaigns, we split marketing activities out by source in to Inbound and Demand Generation related activity. Inbound and Demand Generation sources use the following breakdown.
+To help us improve our paid and organic campaigns, we split marketing activities out by source in to Inbound and Demand Generation related activity. Inbound and Demand Generation sources use the following Google Analytics mediums for our breakdown.
 
 #### Inbound
 * Organic
