@@ -69,7 +69,7 @@ The DIB Team has worked on many projects to date, including, but not limited to:
 
 Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
 
-## Recap of FY21-Q3
+## Recap of FY21-Q4
 
 FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
 
@@ -123,7 +123,7 @@ Updated:
 
 
 
-## Upcoming in FY21-Q4 
+## Upcoming in FY22-Q1 
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
 
