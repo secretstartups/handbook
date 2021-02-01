@@ -431,7 +431,7 @@ If your direct report has any questions on the calculation of their increase ple
 
 #### Total Rewards Statement
 
-Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their cash and equity compensation. This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Instructions for downloading and reviewing the letter are as follows:
+Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Instructions for downloading and reviewing the letter are as follows:
 1. Log into [BambooHR](https://gitlab.bamboohr.com/).
 1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
@@ -441,8 +441,9 @@ Each team member who receives an increase during the Annual Compensation Review 
 1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
    * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
    * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change. 
-1. Both letters will also have a section for Equity Compensation. This section is the same on both letters. Details to be added.  
+1. Both letters will also have a section for Equity Compensation outlining the number of unvested stock options as of January 27, 2021. The letter will also include a link to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the manager and team member to review the potential value of the unvested stock options. 
    * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
+1. Both letters will also have a section for Benefits linking to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the team member to review the value of their benefits package. The compensation calculator outlines the following benefits: Remote Benefits, General Benefits, and Entity-Specific benefits.
 
 ## FY 2022 Annual Compensation Review Budget
 
