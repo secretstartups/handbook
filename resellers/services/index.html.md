@@ -142,7 +142,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
+<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
 <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers,</a> 
 
@@ -193,7 +193,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
+<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professionals</a> 
 <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Managed Services Engineers</a> 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Professional Service Engineer</a> 
@@ -259,7 +259,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
 
 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
+<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
 <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> who each have two (2) badges from the <a href="https://about.gitlab.com/services/education/train-the-trainer/">GitLab Train the Trainer Program,</a>
 
