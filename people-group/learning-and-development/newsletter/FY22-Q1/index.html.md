@@ -11,19 +11,13 @@ You can find links to past L&D Newsletters on the [Newsletter page](/handbook/pe
 
 ## Learn from Leadership 
 
-This quarter we are learning from [name](link to profile). 
+This quarter we are learning from [Robin Schulman](/company/team/#rschulman). 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Five Fast Facts from our Interview with NAME
 
-1. a
-1. a
-1. a
-1. a
-1. a
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
