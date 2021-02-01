@@ -41,7 +41,7 @@ customer as far as possible before passing the request*
    - checking if they are the owner of the group (for a SaaS subscription)
    - checking if they have access to the instance (via a screenshot)
    - checking if they have access to the account by asking for an invoice
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the `Support::L&R::Zuora Contact Change` macro to transfer the ticket to AR to
    update the bill to and sold to contact in Zuora
 
 Support will still generate a manual license if new contact wants an updated
