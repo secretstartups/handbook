@@ -437,7 +437,7 @@ Each team member who receives an increase during the Annual Compensation Review 
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
 1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
    * [Bonus Plan Template](https://drive.google.com/file/d/141f-z4ID3kNHsPbRkBv5H38t9Ffy3lUr/view?usp=sharing)
-   * [No Bonus Plan Template](https://drive.google.com/drive/u/4/folders/0B4eFM43gu7VPZjhlOFlUSm1sTkE)
+   * [No Bonus Plan Template](https://drive.google.com/file/d/1_ytqLF6MlpNWLTorSzXJRoaKiT5aBUoI/view?usp=sharing)
 1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
    * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
    * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change. 
