@@ -92,6 +92,13 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
 * [GitLab Mental Health Awareness Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) 
 * [Building a Handbook First Remote Learning Culture](https://about.gitlab.com/blog/2020/12/22/building-a-handbook-first-remote-learning-culture/)
 
+**Diversity, Inclusion, and Belonging Certification & Training**
+
+The Diversity, Inclusion, and Belonging (DIB) Team launched a DIB Certification & Training that team members can take on GitLab Learn! 
+
+* [Handbook Page](/company/culture/inclusion/dib-training/)
+* [Course in GitLab Learn](https://gitlab.edcast.com/journey/dib-training-certification)
+
 ## Upcoming in FY21-Q4 
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
