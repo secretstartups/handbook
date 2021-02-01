@@ -82,8 +82,9 @@ and communicate them via Slack channel #support_team-chat
 ([https://gitlab.slack.com/archives/CCBJYEWAW](https://gitlab.slack.com/archives/CCBJYEWAW))
 and SWIR
 ([/handbook/support/#support-week-in-review](/handbook/support/#support-week-in-review)).
-We are working on standardizing the release schedule of changes and a single
-communication channel where the questions and issues can be discussed.
+
+For an overview of what issues/MRs involve Support Ops, please see our
+[changelog page](https://gitlab-com.gitlab.io/support/support-ops/changelog/)!
 
 ## Frequently Asked Questions (F.A.Q.):
 
