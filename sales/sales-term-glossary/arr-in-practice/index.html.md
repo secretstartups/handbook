@@ -65,7 +65,7 @@ For more information on which opportunity fields are used in the calculation of 
 
 New Business/Add-On layout:
 
-![New Business/Add-On ARR Fields](/images/handbook/sales/NewBusinessAdd-OnARRFields.png “New Business/Add-On ARR Fields”)
+![New Business/Add-On ARR Fields](/images/handbook/sales/NewBusinessAddOnARRFields.png “New Business/Add-On ARR Fields”)
 
 Renewal layout:
 
