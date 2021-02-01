@@ -13,7 +13,14 @@ description: “Discover the various Professional Service Offerings at GitLab”
 ### Services Taxonomy 
 1. **Categories**: Currently Professional Services offers two major categories of services: `Education` and `Consulting`. 
 1. **Types**: Further classifying types of services help us analyze business trends, prioritize investments, and schedule delivery. Types of services are broken out for each Category of services. These service types use ubiquitous language. They should mean the same thing to the customer buyer, the account team, the Engagement Manager and the delivery team.  `Migration`, `Implementation`, and `Advisory` are examples of types of services in the `Consulting` category. `Custom` and `Standard` are types of services in the `Education` Category. 
-1. **Offerings**: There can be multiple offerings in each service type. As we identify market trends, we accumulate and build more offerings per service type. For example, we have [readiness assessment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/readiness-assessment/-/blob/master/README.md) and general [implementation services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/implementation-template)
+1. **Offerings**: There can be multiple offerings in each service type. As we identify market trends, we accumulate and build more offerings per service type. For example, we have [readiness assessment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/readiness-assessment/-/blob/master/README.md) and general [implementation services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/implementation/implementation-template) in the `Implementation` Category.
+
+### Why do we need to categorize services using a taxonomy?
+The short answer is that it helps us manage the business and eases the selling process to use standard and universally-understood language.
+
+We need a way to determine market trends using bookings and revenue data. We categorize the services we sell into the below taxonomy to measure bookings and revenue to identify market trends. This will help us make data driven investment prioritization decisions rather than judgement calls. Additionally, we need a way to understand the the delivery forecast by specific service category and type to ensure we have the staffing and/or partnerships in place to be able to deliver.  
+
+There are many people involved in the selling and delivery of services: the customer, the account team (SA, TAM, SAL), the PS engagement manager, the PS project coordinator, the PS project manager, the PS Engineer (and as we introduce partner selling motions, there could be many more). Its important for everyone to use the same universally-understood language to minimize ambiguity. This will help improve our scoping accuracy, reduce overages, improve predictability, and increase overall Customer Satisfaction. 
 
 
 ### Offering maturity model
