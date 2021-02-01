@@ -38,8 +38,8 @@ The services maturity framework provides for 5 maturity levels for offerings: pl
 # Service Offering Framework
 In general, you can find our publicly marketed services at https://about.gitlab.com/services and the delivery kits at: [Consulting](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) and [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings)
 
-| Category | Type | Public Offering | Delivery Kit | Maturity |
-| :--      | :--:    | :--      | :--:     |
+| Category | Type | Public Offering | Offering Delivery Kit | Maturity |
+| :--      | :--:    | :--      | :--:     | ---- | 
 | Education | Standard | [Standard Instructor Led Training](https://about.gitlab.com/services/education/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Lovable |
 | Education | Standard | [Asynchronous eLearning](https://gitlab.edcast.com) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Minimal |
 | Education | Standard | [GitLab Certification](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Viable |
