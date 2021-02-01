@@ -122,30 +122,6 @@ There are various services a Technical Account Manager will provide to ensure th
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
 
-### Book of Business Prioritization
-
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
-
-1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
-1. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
-1. Digital Touch: No direct TAM involvement, onboarding and enablement driven by email-led digital journey
-
-Why do we use a prioritization system?
-
-- Use in SALSATAM meetings to ensure team alignment
-- Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
-- TAMs have more insight into their portfolio and where they should be spending their time
-- TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
-- Used to further segment customers, beyond the [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
-
-Criteria to apply includes:
-
-- Future account growth
-- Size of the account
-- Risk / health of account
-
-The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
-
 ## TAM Tools
 
 The following articulates where collaboration and customer management is owned:
