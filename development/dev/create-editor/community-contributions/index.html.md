@@ -39,7 +39,7 @@ Here is an interdependency graph breaking down this problem into possible contri
 - **Lack of issue visibility:** Issues represent the primary Work-To-Be-Done for our organization. If our Editor Group's issues are not visible to the wider community, then naturally we will have low community contributions.
 - **Lack of contributor motivation:** Community members that find Editor Group issues may lack motivation to pick them up. This may be caused by the relevant feature itself (for example, it is niche and doesn't have wide adoption), or simply by the way the issue is triaged and written (for example, it lacks weighting or assumes some prior knowledge).
 - **Lack of ability to contribute:** If a community member is motivated to pick up an issue, they may still be blocked by an inability to make any progress. This can be caused by issues with unclear objectives, unclear implementation steps, and/or a codebase that is hard to understand and modify by newcomers.
-- **Issues not newcomer friendly:** This problem describes situations where issues are focused and written in such a way that cannot be easiler understood or picked up by newcomers. This can happen because the issue description has unclear requirements, assumes prior-information, and/or the issue weight is tailored towards specific people, rather than the wider community.
+- **Issues not newcomer friendly:** This problem describes situations where issues are focused and written in such a way that cannot be easiler understood or picked up by newcomers. This can happen because the issue description has unclear requirements, assumes prior-information, and/or the issue weight is tailored towards specific people.
 - **Code not newcomer friendly:** When our codebase cannot be easily understood and modified by newcomers, then wider community contributions will be naturally discouraged since the Cost-To-Contribute is high.
 - **Lack of feature adoption:** If a feature has low user adoption, then the perceived pay-off for a community contribution can be relatively smaller than the pay-off of other issues.
 
@@ -65,7 +65,7 @@ The most significant impact towards fostering wider community contributions is t
 
 - Are clear and concise (e.g., the most relevant information is kept [above the fold](https://en.wikipedia.org/wiki/Above_the_fold) and not burried in discussion comments)
 - Do not assume prior knowledge (e.g., a code refactoring that references a new pattern by name without any links or details)
-- Are weighted for the wider community. When issues are weighted for specific individuals, we discourage the wider community from participating and [reinforce silos](#symptom-of-a-silo).
+- Are weighted and the weight is decoupled from time estimates and specific assignees ([see relevant guideline](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#issue-weight)). When issues are weighted for specific individuals, we discourage the wider community from participating and [reinforce silos](#symptom-of-a-silo).
 
 With the wider community as the primary audience, the issue writer is forced to consider that someone who picks up an issue may not even know where to get started. This is an incredible motivator to investigate and leave an **implementation guide**.
 
