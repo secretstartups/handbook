@@ -92,9 +92,7 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
 
 **New and Updated [Leadership Pages](/handbook/leadership/):** 
 
-The L&D Team 
-
-New: 
+The L&D Team has been adding more content to the leadership pages and doing [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). You can see an outline of the pages below. 
 
 * [Building Trust](/handbook/leadership/building-trust/)
 * [Coaching](/handbook/leadership/coaching/)
@@ -105,16 +103,13 @@ New:
    * [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/)
    * [Social Styles](/handbook/leadership/emotional-intelligence/social-styles/)
 * [High Output Management](/handbook/leadership/high-output-management/)
+* [High Performing Teams](/handbook/leadership/build-high-performing-teams/) 
 * [Making Decisions](/handbook/leadership/making-decisions/)
 * [Managing Conflict](/handbook/leadership/managing-conflict/) 
    * [Leading through Adversity](/handbook/leadership/managing-conflict/leading-through-adversity/)
 * [No Matrix Organization](/handbook/leadership/no-matrix-organization/)
 * [Underperformance](/handbook/leadership/no-matrix-organization/) (moved to be a sub-page of Leadership)
 * [Workforce Planning](/handbook/leadership/workforce-planning/)
-
-Updated: 
-
-* [High Performing Teams](/handbook/leadership/build-high-performing-teams/) 
 
 **Learning & Development Blog Posts:**  
 
