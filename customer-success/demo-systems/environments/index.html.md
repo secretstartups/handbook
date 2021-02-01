@@ -37,20 +37,17 @@ We offer restricted access to specific demo environments using an invitation cod
 
 ## Omnibus-as-a-Service Environment ("Demo Cloud")
 
-<div class="panel panel-info">
-<div class="panel-heading">
-Replacement for i2p
-</div>
-<div class="panel-body">
-This environment provides a direct replacement for our legacy i2p (idea-to-production) demo systems that were deprecated in FY21-Q2.
-</div>
-</div>
-
 The demo systems that we call the GitLab Demo Cloud provides a perpetual shared GitLab Omnibus instance that is used for demos and collaborating with other team members with example projects that showcase the features and solutions that GitLab offers. The GitLab Demo Cloud is comparable to our hosted gitlab.com SaaS service, however it allows greater flexibility for demonstration and sandbox purposes without affecting our production environment.
 
 The GitLab Demo Cloud provides you access to Ultimate license features with your own user account and an organizational group that you can use for creating projects and child groups. We also support integrations with Kubernetes, Jenkins, JIRA and other 3rd party integrations.
 
 [Learn more about the Omnibus-as-a-Service Environment ("Demo Cloud")](/handbook/customer-success/demo-systems/environments/demo-cloud/)
+
+## Training and Workshop Environment ("Training Cloud")
+
+[Learn more about the Omnibus-as-a-Service Environment ("Demo Cloud")](/handbook/customer-success/demo-systems/environments/demo-cloud/)
+
+
 
 ## Container Sandbox Environments
 
