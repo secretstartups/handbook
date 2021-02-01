@@ -91,7 +91,7 @@ All marketing team members should plan to focus ~70% of their time and plan arou
 * The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 * The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
 * The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
-* The Core Teams will be responsible for ensuring proper communication of plans to all of Marketing (see [Core Team Communication](/handbook/marketing/plan-fy22#core-team-communications))
+* The Core Teams will be responsible for ensuring proper communication of plans to all of Marketing (see [Core Team Communication](/handbook/marketing/plan-fy22#core-team-communication))
 
 ### Beyond the GTM Motion Core Teams
 {: #beyond-core-teams}
