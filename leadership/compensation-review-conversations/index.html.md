@@ -17,7 +17,7 @@ Conversations with regards to compensation are an important part of managing. Th
 
 Check the most up to date information with regards to our [Annual Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Targeted Mid-Year Increase Review](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review) on the [Total Rewards page](/handbook/total-rewards/compensation/compensation-review-cycle).
 
-In the FY22 Annual Compensation Review Total Rewards will be providing [Total Rewards Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the new and former compensation as well as unvested equity value. We recommend to review this letter before the conversation and use the letter as preparation to communicate exact figures.  
+In the FY22 Annual Compensation Review Total Rewards will be providing [Total Rewards Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the Total Rewards Package: cash, equity, and benefits. We recommend to review this letter before the conversation and use the letter as preparation to communicate exact figures.  
 
 ### Communication recommendations
 
@@ -42,7 +42,9 @@ In the FY22 Annual Compensation Review Total Rewards will be providing [Total Re
 
 * Avoid making future promises (For example: “In the next review, I will get you a large adjustment.”)
 
-* The FY22 Total Rewards Statement includes a section on unvested equity holding in USD value. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the current value. It is important to note that all team members may percieve equity value differently based on their local tax implications, country of residence, or other factors. 
+* The FY22 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the compensation calculator to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. It is important to note that all team members may percieve equity value differently based on their local tax implications, country of residence, or other factors. 
+
+* The FY22 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits. 
 
 ### Scenarios (situations and reactions)
 
