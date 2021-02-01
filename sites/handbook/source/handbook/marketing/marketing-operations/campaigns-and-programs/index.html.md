@@ -414,6 +414,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Confirm that start date and end date populated correctly (this is automated). For events and webcasts, start date is 30 days prior to the event date and 60 days after. For all other campaigns, the start date is the date of launch, end date is 90 days from the date of launch (or if the campaign runs longer, update to the appropriate end date).
     - Update the event epic
@@ -456,6 +457,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
@@ -494,6 +496,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
@@ -522,6 +525,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
+- Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Confirm the `Enable Bizible Touchpoints` is set to `Include only "Responded" Campaign Members`
 - Update the event epic
 - Update the description
@@ -558,6 +562,7 @@ Currently any form starting with these parameters are actively being added into 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
