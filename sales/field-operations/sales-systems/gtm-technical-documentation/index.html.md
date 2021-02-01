@@ -14,8 +14,13 @@ The Documentation below is organized by Feature, each section will have the rele
 
 ---
 
-## Related Documentation
-- [Gainsight Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
+## ARR
+
+Please see the dedicated [ARR Technical Documetation Page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
+
+## Gainsight
+
+Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
 
 ## Territory Success Planning
 <details>
