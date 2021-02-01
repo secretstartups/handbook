@@ -384,7 +384,13 @@ In addition to reviewing pitches submitted by team members, the Editorial team a
 ### Sweep of Unfiltered channels
 
 - Weekly [review of the GitLab Unfiltered blog](/handbook/marketing/inbound-marketing/content/editorial-team/#featuring-unfiltered-posts) to surface blog posts to bring over to the main blog
--  [TODO:  Add process for Unfiltered YT channel]
+
+#### Sweep of Unfiltered YouTube Channel 
+-  Twice a month, review the GitLab Unfiltered YouTube channel for videos discussing topics that are popular on the blog, such as Kubernetes, CI/CD, GitOps.
+- Check to see if there are any videos that follow up on a topic that has been covered in a past blog post in case there is an update we can share. 
+- Check to see if there are any videos that are receiving a lot of views (a high number of views in a short period of time, or a high number of views over a longer period of time). Once one or more videos are identified, check with the Digital Production team to see if the number of views accurately represents viewer engagement with the video, since sometimes a lot of people click videos but don't watch more than a few seconds. 
+- Once one or more GitLab Unfiltered videos are identified as a good candidate for a blog post, open an issue and connect with the team members featured in the video. Some questions to ask them: Why do you think viewers were interested in this video? Would you be interested in writing a blog post about this video, or being interviewed for a blog post about this topic? 
+- An example of a blog post based on an Unfiltered video: "[How we used parallel CI/CD jobs to increase our productivity](/blog/2021/01/20/using-run-parallel-jobs/)" 
 
 ### Follow up on top-performing posts 
 
