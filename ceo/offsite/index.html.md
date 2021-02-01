@@ -141,7 +141,6 @@ The CoS is responsible for maintaining the schedule, optimizing discussion sched
 
 The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. The known constraint in this is that folks who are fast at typing or quick to respond often get more air time or someone may miss their chance to contribute as the conversation moves on. A few provisions are in place to help make space for all team members to contribute:
 
-1. **Hand raises:** while we will try to run off the agenda, an E-Group member is allowed to "raise their hand" verbally or physically to signal that they need to jump in out of sequence. This should be a rare occurance.
 1. **Parking lots:** each topic will have a parking lot at the end of the agenda section. Items that need more discussion can be added here. This ensures that open items are captured and follow up can be scheduled, as needed.
 1. **Air time checks:** if a few folks are dominating a cross-functional conversation, the CoS can do an "air time check" in which they pause to ask folks beyond the primary speakers whether they want to jump in. In these instances, comments should be captured in the relevant portion of the agenda.
 
