@@ -139,7 +139,7 @@ There is a [doc template](https://docs.google.com/document/d/1LCy1qWG88ChBXWL8Yi
 If we can conclude a topic early we move on to one from a reserve list.
 The CoS is responsible for maintaining the schedule, optimizing discussion schedules for energy levels, and having topics prepared.
 
-The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. The known constraint in this is that folks who are fast at typing or quick to respond often get more air time or someone may miss their chance to contribute as the conversation moves on. A few provisions are in place to help make space for all team members to contribute:
+The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. In instances where the comment cannot be typed out, for reasons of confidentiality or given time constraints in typing out the comment, the member can type out: [INSERT NAME:!]. This serves a time placeholder for the team member, so the team member can contribute at the appropriate point in the agenda.
 
 1. **Hand raises:** while we will try to run off the agenda, an E-Group member is allowed to "raise their hand" verbally or physically to signal that they need to jump in out of sequence. This should be a rare occurance.
 
