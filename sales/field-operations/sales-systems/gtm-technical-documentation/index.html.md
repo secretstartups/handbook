@@ -2,8 +2,6 @@
 layout: handbook-page-toc
 title: "Go-To-Market Technical Documentation"
 ---
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
