@@ -42,7 +42,7 @@ Sales engagement for all Commercial Sales is documented in the [Commercial Proce
 ### Ongoing Customer Communication
 
 For commercial accounts, we do not currently offer our customers Slack channels unless they meet specific criteria and it would be highly beneficial to both the customer and GitLab teams. Prior to creating the channel and provisioning access, the TAM for the account must approve its creation and use. To qualify, the customer should be at minimum:
-- Premium/Silver tier or above
+- Premium tier or above
 - 100k+ IACV
 
 [Collaborative projects](/handbook/customer-success/tam/engagement/#managing-the-customer-engagement) may be suggested with few possible exceptions (such as reference customers, early adopters or strategic partnerships).  If the customer is evaluating GitLab or doing a POV for an upgrade, SAs or TAMs can request an ephemeral Slack channel, but the channel should be closed within 90 days if it does not meet the criteria shown above. Slack channels are simply too intensive to scale for Mid-Market and SMB.
