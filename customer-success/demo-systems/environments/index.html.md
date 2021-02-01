@@ -45,9 +45,9 @@ The GitLab Demo Cloud provides you access to Ultimate license features with your
 
 ## Training and Workshop Environment ("Training Cloud")
 
-[Learn more about the Omnibus-as-a-Service Environment ("Demo Cloud")](/handbook/customer-success/demo-systems/environments/demo-cloud/)
+The GitLab Training Cloud uses similar functionality to the Demo Cloud and allows for short-lived environments for training classes and workshops. We use invitation codes for managing self-service registration and the generation of anonymous user accounts for personal data privacy.
 
-
+[Learn more about the Training Cloud](/handbook/customer-success/demo-systems/environments/training-cloud/)
 
 ## Container Sandbox Environments
 
