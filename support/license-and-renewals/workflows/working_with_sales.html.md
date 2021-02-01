@@ -41,7 +41,7 @@ description: This page is about working with sales.
       1. Find the person in charge of the [sales segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
         and [sales territory](https://about.gitlab.com/handbook/sales/territories/#territories)
         and mention them in a Chatter comment.
-   1. If anyone you reach out to does not respond within 24 hours:
+   1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family & Friends Day, global holidays):
       1. Mention the person's direct manager in a Chatter comment.
          * From VP level onwards, mention them in a Slack message in
            `#support_sales_escalation` in addition to a Chatter comment.
