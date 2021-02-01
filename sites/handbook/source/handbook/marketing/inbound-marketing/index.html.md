@@ -17,9 +17,11 @@ twitter_creator: "@gitlab"
 
 ## Goals
 
+Build value at the top of the marketing funnel, through organic human interactions that establish trust with potential GitLab customers.
+
 ### Objective
 
-Generate organic traffic and [marketing qualified leads](/handbook/marketing/marketing-operations/#lead-scoring-lead-lifecycle-and-mql-criteria) in support of the company's overall revenue growth goals
+Generate organic traffic and inquiries, in support of Marketing's overall MQL and SAO growth goals.
 
 ### FY21 MQL Targets
 
@@ -31,6 +33,33 @@ Generate organic traffic and [marketing qualified leads](/handbook/marketing/mar
 | Q4FY21 | 6,500 | 4,000 | 21,925 |
 
 *Targets are based on the original FY21 plan. GitLab internal team members can find this information in "FY21 FINAL Marketing: SSOT & Budget"*
+
+### FY22 KPI: Inbound Inquiries 
+
+#### Targets
+
+For FY22, the inbound marketing KPI is changing from volume of inbound MQLs to volume of inbound inquiries.
+
+| Fiscal Quarter | Large |  Mid-Market |  SMB |
+| ------ | ------ |
+| Q1FY22 | TBD | TBD | TBD |
+| Q2FY22 | TBD | TBD | TBD |
+| Q3FY22 | TBD | TBD | TBD |
+| Q4FY22 | TBD | TBD | TBD |
+
+#### SSoT
+
+GitLab team members can view our dashboard of inquiries at in [this Sisense Dashboard](https://app.periscopedata.com/app/gitlab/431555/Marketing-Metrics?widget=6091408&udv=1021195)
+
+#### Definition
+
+An inquiry is defined as:
+* a unique email address
+* submitted within the past 180 days
+* From one of the following sources:
+  - Trial - Enterprise
+  - Trial - GitLab.com
+  - TODO: Which other sources should we include?
 
 ### Key Results
 
