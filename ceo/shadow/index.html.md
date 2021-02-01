@@ -456,14 +456,17 @@ Shadows need to speak up in video calls, and speak up when the CEO's camera isn'
 
 At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. The terms **first** and **second** shadow define the order of who has decided to speak in any relevant meeting.
 
+It's important to set the correct tone, so please stick to the following introductions. This saves time and adds the correct context for your presence in these calls. 
+When attending Valley meetings and you introduce yourself first be sure to use the Silicon Valley intro.
+
 When introducing yourself in a meeting as the first shadow, say:
 
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.
-1. The goal of the program is to give participants an overview of the functions at GitLab.*
-
-   *For Valley meetings: The goal of the program is to give participants an introduction to Silicon Valley discussions.
+1. The goal of the program is to give participants 
+  1. For internal meetings: an overview of the functions at GitLab.
+  1. For Valley meetings: an introduction to Silicon Valley discussions.
 
 
 When introducing yourself in a meeting as the second shadow, say:
