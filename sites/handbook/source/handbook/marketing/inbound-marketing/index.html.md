@@ -53,7 +53,7 @@ Inbound Marketing is comprised of these Marketing Teams. Visit their handbooks t
 ## Managed Channels
 
 ### The Marketing Website
-GitLab's Marketing Website (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute. Please [visit the repo](https://gitlab.com/gitlab-com/www-gitlab-com) to file issues and make merge requests. 
+GitLab's Marketing Website (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute. 
 
 ### The Blog 
 GitLab's blog is led by the [Global Content Team](/handbook/marketing/inbound-marketing/content). Visit the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for more information on how you can contribute.
