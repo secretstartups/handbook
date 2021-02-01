@@ -16,8 +16,11 @@ description: This page is about working with sales.
 1. Respond to the customer on Zendesk:
    1. Assign the ticket to yourself.
    1. Select the appropriate specific workflow to follow (see below).
-   1. Check the `Escalated to sales` box.
+   1. Check the `Escalated to sales` box and set the ticket status to `Open`.
    1. Set the ticket status to `Pending`.
+   1. N.B. A Zendesk trigger will prevent a ticket from being set to `Pending` when an agent made an internal note instead of a public comment. It will set the ticket back to `Open` when that happens.
+      So if you check the `Escalated to sales` box and set the ticket status to `Pending`, it will be reverted to status `Open`.
+      Saving a second time as `Pending` will also work.
 1. Leave a message for the Salesforce `Account Owner` on Chatter with the
    relevant details.
    * Share the link to the Chatter message in an internal note on the ticket.
