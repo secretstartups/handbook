@@ -17,7 +17,7 @@ This quarter we are learning from [Robin Schulman](/company/team/#rschulman).
   <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-
+TRANSCRIPT TO BE ADDED 
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
@@ -121,34 +121,22 @@ Updated:
 * [GitLab Mental Health Awareness Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) 
 * [Building a Handbook First Remote Learning Culture](https://about.gitlab.com/blog/2020/12/22/building-a-handbook-first-remote-learning-culture/)
 
-
-
 ## Upcoming in FY22-Q1 
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
 
-**Live Learning Sessions**
+* Continuation of [support for managing burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
+* [Mentorship opportunities at GitLab](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/16)
+* New resource coming soon: [Tuition reimbursement suggested program list](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/163)
+* GitLab Learn BINGO 
+   * Anyone is welcome to join our upcoming Learning BINGO challenge to become more familiar with GitLab Learn and LinkedIn Learning. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn!
+* Another Manager Challenge planning to launch in March
+* [CEO Handbook Learning Sessions](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
+* Crucial Conversations Certification will be completed by L&D Team Members to be able to provide training across the company later in the FY22! 
+* We will be transitioning from [Monthly Continuous Learning Calls](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
+* GitLab Learn launch to external audiences!
 
-[Live learning](/handbook/people-group/learning-and-development/#live-learning) sessions are one of the ways we provide learning opportunities to team members. 
-
-* 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging) 
-* 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
-
-**Challenges**
-
-[Challenges](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) can cover a range of topics and they are intended to introduce, reinforce, and build new skills and habits through behavior change. In Q4, L&D is launching a one-week challenge that all team members can attend and a comprehensive manager challenge focused on people leaders. 
-
-* 2020-11-16 - 2020-11-20: One-Week Challenge - [Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge) 
-* 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) 
-   * If you are interested in joining the January launch, [sign up here](https://gitlab.com/gitlab-com/people-group/learning-development/manager-challenge/-/issues/21)! 
-
-**Other Events**
-
-* 2021-02-xx: [Learning BINGO]() 
-   * Anyone is welcome to join our upcoming Learning BINGO challenge. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn! 
-
-
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel. 
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
 
 ## Learning Spotlight 
 
