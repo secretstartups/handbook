@@ -3,7 +3,7 @@ layout: markdown_page
 title: "Nominating Contacts for the Digital Journey"
 ---
 
-Currently the digital onboarding sequence is available to paying customers in Commercial that are less than 20,000 ARR and for EMEA customers regardless of size that may have language barriers that cause them to not want to engage in calls and meetings.
+Currently the digital onboarding sequence is available to paying customers in Commercial that are greater than 5000 ARR and do not have a Technical Account Manager assigned.
 
 
 ## Adding a Contact to the Digital Onboarding Sequence
@@ -19,5 +19,5 @@ To add a contact please follow these steps:
     1. Customer Since =<30 days
     1. Segment = MM, SMB
     1. Territory excludes PubSec
-    1. Contact role = technical
+    1. Contact role = GitLab Admin 
 1. The campaign will not send to the same contact more than once
