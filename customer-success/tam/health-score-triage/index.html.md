@@ -97,10 +97,9 @@ TAMs update TAM Sentiment in determining overall account health. The guidelines 
 
 - **TAM Sentiment**: Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
 
-The TAM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/tam/gainsight/timeline/) and select a value from the TAM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the TAM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. 
-**Note:** The rule that sets the scorecard value runs every 2 hours
+The TAM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/tam/gainsight/timeline/) and select a value from the TAM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the TAM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
 
-You will receive CTAs automatically to update health scores if they are out of date (monthly for Enterprise accounts and quarterly for Commercial).
+TAM Sentiment health scores become stale aftter 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If you notice your account is marked as stale, but you've updated the TAM Sentiment within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). In the future, we may turn on CTAs to automatically be assigned to the TAMs to remind them to update health scores if they are out of date.
 
 There are a number of [enablement videos](/handbook/customer-success/tam/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
 
