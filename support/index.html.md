@@ -1,7 +1,14 @@
+---
+layout: handbook-page-toc
+title: Support Team Handbook
+description: >-
+  The GitLab Support Team Handbook is the central repository for why and how we
+  work the way we do.
+---
+
 ## Welcome to the GitLab Support Team Handbook
 {: .no_toc}
 
-<br>
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
 | If you are | Your Need | Where You Should Look |
@@ -87,56 +94,41 @@ Below we also have some commonly referenced pages:
 
 GitLab team members interested in learning about the GitLab Support team and our responsibilities are encouraged to participate in the Support Shadow Program. The Support Shadow Program is a way that team members outside of Support can spend time shadowing, learning, collaborating, and working together with the GitLab Support team.
 
-``` sse
 To participate in this program, open [a Support Shadow Program issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Shadow%20Program) in the `support-team-meta` project. This issue will be used to organize, plan, and track progress toward this program.
-```
 
 - - -
 
-## Direction
+## FY22 Direction
 
-The overall direction for Support in 2019 is set by our overall [strategic objectives](/strategy), with a particular emphasis on
+<span class="colour" style="color: rgb(0, 0, 0);">Gitlab Support's vision is to deliver a consistent, exceptional experience to all customers across the globe.  Our regional teams will collaborate to deliver on that vision by hiring exceptional talent, developing that talent through quality training, and building standard workflows that provide a smooth experience for engineer and customer alike.</span>
 
-- continued improvement of (Premium) Customer satisfaction.
-- scaling the team through hiring and process improvements to pace ticket growth
-- refining process, communication and team-training to improve efficiency as we scale
+<span class="colour" style="color: rgb(0, 0, 0);">Over the course of fiscal year 2021, GitLab Support worked diligently on our direction to introduce ticket deflection, scaling the team through hiring top talent, building consistent operational excellence through automation, and continued professional development of our Support Engineers and Managers. </span>
 
-As can also be inferred from our [publicly visible OKR page](/company/okrs/), we anticipate 2019 will focus on the following elements:
+<span class="colour" style="color: rgb(0, 0, 0);">The overall direction for Support in Gitlab's fiscal year 2022 will be to drive to results toward our KPI's while evolving what and how we deliver service to Gitlab customers to support the company's overall [strategic objectives](/strategy), with a particular emphasis on;</span>
 
-### Ticket deflection through documentation
+- <span class="colour" style="color: rgb(0, 0, 0);">expanding our Enterprise customer offering.</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">inclusive growth & development of our global Support team members through expert hiring, technical training, and process improvements.</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">evolve our support model to accommodate Gitlab expansion in delivery through new channels.</span>
+-
 
-1. By building up a corpus of documentation informed by real-world problems we can ensure that customers can get the answers they need before they come into the queues.
-    - _When learning, use the docs._
-    - _When troubleshooting, use the docs._
-    - _If something is missing, update the docs._
-1. By developing a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot),
-and that customers are more aware of where to find content on their own.
-    - _Always respond with a link to the docs._
-    - _If docs content is missing, create it and link the customer to the MR._
+As can also be inferred from our [<span class="colour" style="color: rgb(107, 79, 187);"><u>publicly visible OKR page</u></span>](https://support-fy22-direction.about.gitlab-review.app/company/okrs/), we anticipate FY22 will focus on the following elements:
 
-Beyond this work during specific support cases, the team is also asked to contribute their
-expertise to GitLab's documentation by producing new guides and videos that would
-be useful to our users — especially on emerging DevOps trends and use cases.
+### **Achieving our**[Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)
 
-### Increase capacity & develop experts
+### **Inclusive Growth & Development**
 
-In the past few years we expanded the support team significantly, and this trend will continue. As GitLab -- the product -- continues to expand, so will the skill and knowledge of all Support Engineers to be able to continue providing an excellent customer support experience.
+In the past few years we expanded the support team significantly.  Support will prepare for this trend to continue in FY22. As GitLab – the product – continues to expand, so will the skill and knowledge of all Support Engineers to be able to continue providing an excellent customer support experience.
 
-1. Develop "Deep Dives", learning resources and other professional training programs to decrease the time it takes for a new team member to be effective.
-1. Make sure that professional training sessions result in the production of publicly consumable resources:
-docs fixes, tutorials and improvements to any related material.
+- Develop "Deep Dives", learning resources and other professional training programs to decrease the time it takes for a new team member to be effective.
+- Make sure that professional training sessions result in the production of publicly consumable resources: docs fixes, tutorials and improvements to any related material.
+- <span class="colour" style="color: rgb(0, 0, 0);">Execute quarterly to actions focused on employee Engagement Survey results.</span>
 
-### Experiment with support model
+### **Evolve and expand our support models**
 
-In late 2018 we moved from a "product-first" model to a "region-first" model. While this has affected the reporting structure, the lines
-of work from the perspective of an individual Support team member continue to be aligned to product. In 2019 we experimented with a "concept-first"
-model of support that aligns individual strengths with customers needs regardless of which queue they come into.
-
-Other areas we may explore:
-
-1. 24x7 capability beyond uptime support (i.e. weekend staffing)
-1. Language support
-1. US-only Federal Support
+- <span class="colour" style="color: rgb(0, 0, 0);">An Enterprise level support experience that goes beyond our current rapid service level targets.</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">Increase access to Support expertise for priority support customers outside of existing 24x5 business day and emergency support processes.</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">Developing a dedicated US Federal Support team.</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">Collaborating to enable new delivery deployment methodologies.</span>
 
 - - -
 
@@ -168,7 +160,6 @@ Where we want to ensure that important messages are passed to the global support
 #### Groups
 {: .no_toc}
 
-<br>
 We use the following GitLab Groups to notify or add support team members to issues and merge requests on
 GitLab.com.
 
@@ -187,7 +178,6 @@ GitLab.com.
 #### Projects
 {: .no_toc}
 
-<br>
 Our team projects and issue trackers can be found in the [Support parent group](https://gitlab.com/gitlab-com/support). Here are some selected projects
 which are relevant to team communications.
 
@@ -339,9 +329,7 @@ If the notetaker is not available when it is their turn, they should find a subs
 
 ### Support Week in Review
 
-``` sse
 Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://drive.google.com/drive/u/0/search?q=type:document%20title%20%22Engineering%20week-in-review%22).  You can add topics any time to the [support week in review google document](https://drive.google.com/drive/u/0/search?q=%22Support%20Week%20in%20Review%22%20-archive%20-Senior%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5).
-```
 
 Any workflow changes or announcements should be shared in the SWIR and we recommend you check at least once a week to stay up to date on recent changes.
 Ideally, the information shared here should have a permanent location such as an issue or merge request.
