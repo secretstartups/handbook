@@ -100,7 +100,7 @@ It is possible to make an appointment within 2 weeks.
 ### Right to Immigrate to the Netherlands
 
 Everyone that meets the following requirements can move to the Netherlands, you will also still need to pass the formal visa application process to qualify.
-If you meet the requirements kindly read our [Relocation section](/handbook/people-group/contracts-and-international-expansion/#relocation) in our Code of Conduct, to ensure your request has been evaluated and approve. Email Peopleops@ gitlab.com if you have any questions.
+If you meet the requirements kindly read our [Relocation section](/handbook/people-group/employment-solutions/#long-term-relocation) in our Handbook, to ensure your request has been evaluated and approve. Email Peopleops@ gitlab.com if you have any questions.
 If you don't meet a requirement you have to file a request with your manager, please indicate clearly which requirements you meet and which ones you do not meet.
 
 - When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
@@ -109,7 +109,7 @@ _Note: This calculation should be based on what GitLab *would* pay the team memb
 - You are not on a Performance Improvement Plan (PIP).
 
 The steps our People Operations Specialist team uses to support relocation to the Netherlands:
-1. Once approval has been gained based during the [Relocation process](/handbook/people-group/contracts-and-international-expansion/#how-to-apply-for-a-long-term-relocation) and the requirements to relocate to the Netherlands have been met, a member of the People Operations Specialist team will add the approval to BambooHR under "Contracts & Changes".  
+1. Once approval has been gained based during the [Relocation process](/handbook/people-group/employment-solutions/#how-to-apply-for-a-long-term-relocation) and the requirements to relocate to the Netherlands have been met, a member of the People Operations Specialist team will add the approval to BambooHR under "Contracts & Changes".  
 1. Next, the People Operations Specialist will reach out to our Payroll vendor in the Netherlands and cc the team member in the email to the vendor.
 1. The vendor will then supply all the documentation needed to apply for relocation including information about: [30% Ruling Questionnaire](https://docs.google.com/document/d/1Ok6LS9T4P6tnPu2N6BDRDeveOYzd1ILpkbQRhl911w4/edit?ts=5caf1bca), [wage tax](https://drive.google.com/file/d/1q8N-idoYGFSCw2ajat9RscfQ004EL-PS/view) form and potentially an application for a BSN Number.
 1. Some important notes before you arrange travel / depart to the Netherlands: 
