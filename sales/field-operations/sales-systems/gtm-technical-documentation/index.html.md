@@ -378,7 +378,3 @@ Code Unit:
    - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
    - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handled but not directly in alignment with the needs for this process
 </details>
-
-## Gainsight 
-- The Gainsight documentation has been migrated to its own page. Please update any bookmarks for the Gainsight Go To Market Technical Documentation page to its new home:
-   - [Gainsight Go-To-Market Technical Documentation Handbook Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight)
