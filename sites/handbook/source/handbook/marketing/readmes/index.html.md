@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Marketing Team READMEs
-description: "Learn more about working various members of the marketing team"
+description: "Learn more about working with various members of the marketing team"
 ---
 ## Marketing Team READMEs
 
