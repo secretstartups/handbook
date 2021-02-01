@@ -1,16 +1,11 @@
----
-layout: handbook-page-toc
-title: Support Team Handbook
-description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
----
-
 ## Welcome to the GitLab Support Team Handbook
 {: .no_toc}
 
+<br>
 The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 
 | If you are | Your Need | Where You Should Look |
-| --------- | --------- | --------------------- |
+| ---------- | --------- | --------------------- |
 | A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
 | New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
@@ -34,17 +29,17 @@ Know someone who might be a great fit for our team? Please refer them to the job
 
 - Always assume you are the person responsible for ensuring success for the customer.
 - When supporting a customer, any issue, incident or loss is _GitLab's loss_.
-   - When a customer experiences trouble or downtime, take action with the same urgency you'd have if GitLab were experiencing downtime.
-   - When a customer is losing productivity, take action with the same urgency you'd have if GitLab were losing productivity.
-   - The rule of thumb is a customer down with 2,500 users gets the same urgency as if GitLab were losing $1,000,000 per day. This treatment is equal regardless of how much they are paying us.
-- Escalate early.  Visibility across GitLab, up to and including the CEO, is always better earlier rather than later.  Ensure all resources needed are on the case for customers early.
+    - When a customer experiences trouble or downtime, take action with the same urgency you'd have if GitLab were experiencing downtime.
+    - When a customer is losing productivity, take action with the same urgency you'd have if GitLab were losing productivity.
+    - The rule of thumb is a customer down with 2,500 users gets the same urgency as if GitLab were losing $1,000,000 per day. This treatment is equal regardless of how much they are paying us.
+- Escalate early. Visibility across GitLab, up to and including the CEO, is always better earlier rather than later. Ensure all resources needed are on the case for customers early.
 
 Remember, as members of the support team we are the first to interact with someone when they have a problem or question. As such it is up to us to represent the company and make sure we present ourselves properly. Therefore we are expected to:
 
-  - Always be friendly and respectful.
-  - Be open to new ideas and points of view.
-  - Be OK if you don't know something. You can always ask someone else.
-  - Be comfortable saying no to a customer (but try to suggest a workaround and escalate to a Senior if necessary).
+- Always be friendly and respectful.
+- Be open to new ideas and points of view.
+- Be OK if you don't know something. You can always ask someone else.
+- Be comfortable saying no to a customer (but try to suggest a workaround and escalate to a Senior if necessary).
 
 ### Our role within GitLab
 
@@ -77,11 +72,13 @@ We review these KPIs weekly in the [Support Week-in-Review](/handbook/support/#s
 ### About the Support Team
 
 The support team has a few elements and we've divided the support handbook as such:
+
 - [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think: Zendesk workflows and technical resources.
 - [/support/managers](/handbook/support/managers/index.html) is content that is for Support Managers. Think: how to manage issues, run 1:1s and leadership sync information.
 - [support/support-ops](/handbook/support/support-ops/index.html) is content that is for Support Operations. Think: how to change Zendesk forms and fields, and other ops details.
 
 Below we also have some commonly referenced pages:
+
 - [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities.html)
 - [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas.html)
 - [Support Manager responsibilities](/handbook/support/managers/manager-responsibilities.html)
@@ -90,13 +87,16 @@ Below we also have some commonly referenced pages:
 
 GitLab team members interested in learning about the GitLab Support team and our responsibilities are encouraged to participate in the Support Shadow Program. The Support Shadow Program is a way that team members outside of Support can spend time shadowing, learning, collaborating, and working together with the GitLab Support team.
 
+``` sse
 To participate in this program, open [a Support Shadow Program issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Shadow%20Program) in the `support-team-meta` project. This issue will be used to organize, plan, and track progress toward this program.
+```
 
-----
+- - -
 
 ## Direction
 
 The overall direction for Support in 2019 is set by our overall [strategic objectives](/strategy), with a particular emphasis on
+
 - continued improvement of (Premium) Customer satisfaction.
 - scaling the team through hiring and process improvements to pace ticket growth
 - refining process, communication and team-training to improve efficiency as we scale
@@ -106,16 +106,13 @@ As can also be inferred from our [publicly visible OKR page](/company/okrs/), we
 ### Ticket deflection through documentation
 
 1. By building up a corpus of documentation informed by real-world problems we can ensure that customers can get the answers they need before they come into the queues.
-
-   - *When learning, use the docs.*
-   - *When troubleshooting, use the docs.*
-   - *If something is missing, update the docs.*
-
+    - _When learning, use the docs._
+    - _When troubleshooting, use the docs._
+    - _If something is missing, update the docs._
 1. By developing a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot),
 and that customers are more aware of where to find content on their own.
-
-   - *Always respond with a link to the docs.*
-   - *If docs content is missing, create it and link the customer to the MR.*
+    - _Always respond with a link to the docs._
+    - _If docs content is missing, create it and link the customer to the MR._
 
 Beyond this work during specific support cases, the team is also asked to contribute their
 expertise to GitLab's documentation by producing new guides and videos that would
@@ -136,13 +133,15 @@ of work from the perspective of an individual Support team member continue to be
 model of support that aligns individual strengths with customers needs regardless of which queue they come into.
 
 Other areas we may explore:
+
 1. 24x7 capability beyond uptime support (i.e. weekend staffing)
 1. Language support
 1. US-only Federal Support
 
-----
+- - -
 
 ## Hazards and Challenges
+
 See [Managers/Hazards page](/handbook/support/managers/hazards-and-challenges.html)
 
 ## Communications
@@ -153,14 +152,14 @@ for tips on how to keep yourself informed about engineering announcements and in
 
 Here are our most important modes of communication:
 
-  * [Support Week in Review](#support-week-in-review). Important updates for everyone in support.
-    You should try to check the SWIR at least once a week. If you have something to share with the
-    entire team this is the best place to do it. For example, if you have an issue for a common bug, an issue that requires feedback,
-    or an issue about an external project you're working.
-  * [Slack channels](#slack) for ["informal"](/handbook/communication/#slack) communication.
-    Due to our data retention policy in Slack, things shared there will eventually be deleted. If you want to share something there, please make sure it also has a more permanent place in our docs, handbook, issue tracker, etc.
-  * [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
-    general team suggestions, tasks or projects related to support, etc.
+- [Support Week in Review](#support-week-in-review). Important updates for everyone in support.
+You should try to check the SWIR at least once a week. If you have something to share with the
+entire team this is the best place to do it. For example, if you have an issue for a common bug, an issue that requires feedback,
+or an issue about an external project you're working.
+- [Slack channels](#slack) for ["informal"](/handbook/communication/#slack) communication.
+Due to our data retention policy in Slack, things shared there will eventually be deleted. If you want to share something there, please make sure it also has a more permanent place in our docs, handbook, issue tracker, etc.
+- [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
+general team suggestions, tasks or projects related to support, etc.
 
 Where we want to ensure that important messages are passed to the global support team, we will use this [messaging template](https://gitlab.com/gitlab-com/support/managers/leadership-sync/-/blob/master/.gitlab/issue_templates/support-message-plan.md). This ensures that these messages are delivered across our communications channels in a structured and documented manner.
 
@@ -169,29 +168,31 @@ Where we want to ensure that important messages are passed to the global support
 #### Groups
 {: .no_toc}
 
+<br>
 We use the following GitLab Groups to notify or add support team members to issues and merge requests on
 GitLab.com.
 
-| Group                                                                          | Who                      |
-|--------------------------------------------------------------------------------|--------------------------|
-| [@gitlab-com/support](https://gitlab.com/gitlab-com/support)                   | All Support Team members |
-| [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer)         | AMER Support             |
-| [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac)         | APAC Support             |
-| [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea)         | EMEA Support             |
-| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom)     | Support members with primary SaaS focus and GitLab.com admin access |
+| Group | Who |
+| ----- | --- |
+| [@gitlab-com/support](https://gitlab.com/gitlab-com/support) | All Support Team members |
+| [@gitlab-com/support/amer](https://gitlab.com/gitlab-com/support/amer) | AMER Support |
+| [@gitlab-com/support/apac](https://gitlab.com/gitlab-com/support/apac) | APAC Support |
+| [@gitlab-com/support/emea](https://gitlab.com/gitlab-com/support/emea) | EMEA Support |
+| [@gitlab-com/support/dotcom](https://gitlab.com/gitlab-com/support/dotcom) | Support members with primary SaaS focus and GitLab.com admin access |
 | [@gitlab-com/support/dotcom/console](https://gitlab.com/gitlab-com/support/dotcom/console) | Support members with GitLab.com console access |
 | [@gitlab-com/support/customers-console](https://gitlab.com/gitlab-com/support/customers-console) | Support members with CustomersDot console access |
 | [@gitlab-com/support/licensing-subscription](https://gitlab.com/gitlab-com/support/licensing-subscription) | Support members focused on License and Renewals |
-| [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers     |
+| [@gitlab-com/support/managers](https://gitlab.com/gitlab-com/support/managers) | All support managers |
 
 #### Projects
 {: .no_toc}
 
+<br>
 Our team projects and issue trackers can be found in the [Support parent group](https://gitlab.com/gitlab-com/support). Here are some selected projects
 which are relevant to team communications.
 
 | Project | Purpose |
-|---------|---------|
+| ------- | ------- |
 | [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) | Issues to discuss and improve Support processes |
 | [support-training](https://gitlab.com/gitlab-com/support/support-training) | Courses and training for Support team including onboarding |
 | [support-pairing](https://gitlab.com/gitlab-com/support/support-pairing) | Record of pairing sessions where we work together on tickets |
@@ -206,9 +207,9 @@ and creating issues that may require feedback around support.
 If you're interested in working on a project or task related to
 support feel free to create an issue and link to any external issues or projects so that we can:
 
-* Be transparent to the entire team what we're working on
-* Have the opportunity to collaborate on external projects or tasks with other team members who are interested
-* Avoid having team members do duplicate work
+- Be transparent to the entire team what we're working on
+- Have the opportunity to collaborate on external projects or tasks with other team members who are interested
+- Avoid having team members do duplicate work
 
 Issues regarding documentation or features for GitLab, our FOSS project or any of the GitLab
 components should not go in this issue tracker, but in their appropriate issue tracker.
@@ -229,28 +230,28 @@ issue trackers or customer tickets.
 
 When naming channels, "spt" is meant for internal channels, meaning those that will be of use to the Support Team mainly. They should be public so others may join if they choose. If a channel has a "support" prefix, it is meant as a public interface where other teams will interact with the Support Team.
 
-| Channel                                                                | Purpose                                                   |
-|------------------------------------------------------------------------|-----------------------------------------------------------|
-| [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW)      | Support team lounge for banter, chat and status updates   |
-| [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG)     | Discuss GitLab.com tickets and customer issues            |
-| [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK)   | Discuss self-managed tickets and customer issues          |
-| [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48)    | Discuss customer/ticket matters which require support managers' attention. Allow other teams to interact with support managers. |
-| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT)         | Discuss support team internal matters which require support managers' attention |
-| [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S)             | Discuss support team hiring-related matters               |
+| Channel | Purpose |
+| ------- | ------- |
+| [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW) | Support team lounge for banter, chat and status updates |
+| [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) | Discuss GitLab.com tickets and customer issues |
+| [#support_self-managed](https://gitlab.slack.com/archives/C4Y5DRKLK) | Discuss self-managed tickets and customer issues |
+| [#support_escalations](https://gitlab.slack.com/archives/CBVAE1L48) | Discuss customer/ticket matters which require support managers' attention. Allow other teams to interact with support managers. |
+| [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) | Discuss support team internal matters which require support managers' attention |
+| [#spt_hiring](https://gitlab.slack.com/archives/CE9S6JW4S) | Discuss support team hiring-related matters |
 
 #### User Groups
 {: .no_toc}
 
-| Group                    | Who                       |
-|--------------------------|---------------------------|
-| `@support-dotcom`        | Support Team Members with GitLab.com Admin Access  |
-| `@support-selfmanaged`   | Support Team focused on Self-Managed tickets |
-| `@support-team-apac`     | Support Team APAC         |
-| `@support-team-emea`     | Support Team EMEA         |
-| `@support-team-americas` | Support Team AMER         |
-| `@supportmanagers`       | Support Managers          |
-| `@support-managers-apac` | Support Managers APAC     |
-| `@support-managers-emea` | Support Managers EMEA     |
+| Group | Who |
+| ----- | --- |
+| `@support-dotcom` | Support Team Members with GitLab.com Admin Access |
+| `@support-selfmanaged` | Support Team focused on Self-Managed tickets |
+| `@support-team-apac` | Support Team APAC |
+| `@support-team-emea` | Support Team EMEA |
+| `@support-team-americas` | Support Team AMER |
+| `@supportmanagers` | Support Managers |
+| `@support-managers-apac` | Support Managers APAC |
+| `@support-managers-emea` | Support Managers EMEA |
 
 If you need to be added to one or more of these groups, please open an issue in
 the [access requests project](https://gitlab.com/gitlab-com/access-requests).
@@ -273,12 +274,12 @@ Discussions are encouraged to be kept in issues or merge requests so the entire 
 
 Any demos or announcements that need to be shared with the entire team should be shared in the [Support Week in Review](#support-week-in-review).
 
-|  Weekday  |   Region  |      Meeting Name     |                                        Purpose                                      |
-|:---------:|:---------:|:---------------------:|:-----------------------------------------------------------------------------------:|
-|  Tuesday  |    APAC   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
-|  Tuesday  |    AMER   |      Support Call     |  Semi-structured agenda to welcome new members, discuss meta issues, get thoughts on tickets, socialize  |
-| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone  interested in GitLab.com customers and processes - rotates day/time through regions |
-|  Thursday  |    EMEA   |      Support Call     |              Discuss metrics, demos, upcoming events, and ask questions             |
+| Weekday | Region | Meeting Name | Purpose |
+| :-----: | :----: | :----------: | :-----: |
+| Tuesday | APAC | Support Call | Discuss metrics, demos, upcoming events, and ask questions |
+| Tuesday | AMER | Support Call | Semi-structured agenda to welcome new members, discuss meta issues, get thoughts on tickets, socialize |
+| Wednesday | AMER,EMEA,APAC | Dotcom Support Sync | For anyone interested in GitLab.com customers and processes - rotates day/time through regions |
+| Thursday | EMEA | Support Call | Discuss metrics, demos, upcoming events, and ask questions |
 
 The regions listed above are the regions for which each call may be the most convenient, but all are welcome on any call. Every call is recorded and notes are taken on the agenda for each one. If you miss a meeting or otherwise can't make it, you can always get caught up.
 
@@ -293,7 +294,7 @@ The Support management team meet regularly. Details of these calls are on the [S
 Some regional Support teams have meetings oriented around company news, Support initiatives, training plans, and connectedness.
 
 | Weekday | Region | Meeting Name | Purpose |
-|:-------:|:------:|:------------:|:-------:|
+| :-----: | :----: | :----------: | :-----: |
 | Wednesday | AMER-E | Weekly News | For team members reporting to Rebecca S |
 
 #### Senior Support Engineer Office Hours
@@ -315,39 +316,44 @@ Some ideas of what one can expect at a Senior/Staff Support Engineers'
 - Hosting a ticket crush session
 
 #### Meeting Roles
+
 ##### Role of the Chair
 {: .no_toc}
+
 The main role of the chair is to start the meeting, keep the meeting moving along, and end the meeting when appropriate. There is generally little preparation required, but depending on the meeting, the chair will include choosing a "feature of the week" or similar. Please check the agenda template for parts marked as "filled in by chair."
 
 During the meeting, the chair:
 
-* will ensure that each point in the agenda is covered by the listed person,
-* may ask the team to move a discussion to a relevant issue when appropriate,
-* copy the agenda template for the following week and tag the next chair/secretary.
+- will ensure that each point in the agenda is covered by the listed person,
+- may ask the team to move a discussion to a relevant issue when appropriate,
+- copy the agenda template for the following week and tag the next chair/secretary.
 
 If a chair is not available, it is their responsibility to find a substitute.
 
 ##### Role of the Notetaker
 {: .no_toc}
+
 The notetaker should take notes during the meeting and if action is required, creates a comment and assigns it to the appropriate person.
 
 If the notetaker is not available when it is their turn, they should find a substitute.
 
 ### Support Week in Review
 
+``` sse
 Every Friday, we do a week in review, inspired by the [greater Engineering organization week in review](https://drive.google.com/drive/u/0/search?q=type:document%20title%20%22Engineering%20week-in-review%22).  You can add topics any time to the [support week in review google document](https://drive.google.com/drive/u/0/search?q=%22Support%20Week%20in%20Review%22%20-archive%20-Senior%20parent:1eBkN9gosfqNVSoRR9LkS2MHzVGjM5-t5).
+```
 
 Any workflow changes or announcements should be shared in the SWIR and we recommend you check at least once a week to stay up to date on recent changes.
 Ideally, the information shared here should have a permanent location such as an issue or merge request.
 
 We encourage anyone in the team to share. We currently have the following topics:
 
-* **Actionable**. For items that require a decision to be made or action to be taken (such as, asking for feedback on an issue).
-* **Kudos**. Give a special kudos to other team members or highlight something they did.
-* **Things to know about**. Share items that you would like to share with the team, like projects you're working on, known bugs, new workflows, cool articles you found, etc.
-* **Metrics report**. Review the support metrics for the span of the week.
-* **Music/TV/Movie Sharing**. Share and recommend a song, a show, or a movie with the team.
-* **Personal Updates /  Weekend Plans / Random**. Share awesome pics from recent trips, what you're up to on the weekend, or something else.
+- **Actionable**. For items that require a decision to be made or action to be taken (such as, asking for feedback on an issue).
+- **Kudos**. Give a special kudos to other team members or highlight something they did.
+- **Things to know about**. Share items that you would like to share with the team, like projects you're working on, known bugs, new workflows, cool articles you found, etc.
+- **Metrics report**. Review the support metrics for the span of the week.
+- **Music/TV/Movie Sharing**. Share and recommend a song, a show, or a movie with the team.
+- **Personal Updates / Weekend Plans / Random**. Share awesome pics from recent trips, what you're up to on the weekend, or something else.
 
 On Fridays at 3pm EST, [Support Slackbot](#support-slackbot) will remind the team with a link to the week in review and we can use a thread there for banter. Bear in mind that chat older than 90 days will no longer be retained.
 
@@ -371,18 +377,18 @@ or accountability.
 
 Artifacts of approval can include:
 
-* Getting a peer or manager to review and merge your MR
-* A peer or manager showing their approval using [MR approvals](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html)
-* A peer or manager commenting "looks good to me"
+- Getting a peer or manager to review and merge your MR
+- A peer or manager showing their approval using [MR approvals](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html)
+- A peer or manager commenting "looks good to me"
 
 ### Support Workflows
 
 - [Support Workflows](/handbook/support/workflows)
-   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/home)
-   - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets.html)
-   - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
-   - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
-   - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
+    - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/home)
+    - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets.html)
+    - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
+    - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
+    - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 - [License & Renewals Workflows](/handbook/support/license-and-renewals/workflows)
 
 ### Slack Workflows
@@ -405,26 +411,27 @@ which then sends the information to a Slack workflow.
 Providing information by reacting to a message with a specific emoji.
 
 - `#support_escalations`
-  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+    - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_managers_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 - `#support_gitlab-com`
-  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
-  - [Question Redirect](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_question_redirect.slackworkflow) - `:leftwards_arrow_with_hook:` - Directs the user to post their question in a more appropriate Slack channel.
-  - [Remove Link Preview](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_remove_link_preview.slackworkflow) - `:slack:` - Politely asks the user to remove any unfurled link previews in their message.
-  - [Welcome](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_welcome.slackworkflow) - This automated workflow automatically sends a direct message to new members of the channel that contains helpful information.
+    - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+    - [Question Redirect](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_question_redirect.slackworkflow) - `:leftwards_arrow_with_hook:` - Directs the user to post their question in a more appropriate Slack channel.
+    - [Remove Link Preview](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_remove_link_preview.slackworkflow) - `:slack:` - Politely asks the user to remove any unfurled link previews in their message.
+    - [Welcome](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_gitlab_com_welcome.slackworkflow) - This automated workflow automatically sends a direct message to new members of the channel that contains helpful information.
 - `#support_self-managed`
-  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_self_managed_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+    - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_self_managed_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 - `#support_licensing-subscription`
-  - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
+    - [Ticket Escalation](https://gitlab.com/gitlab-com/support/toolbox/slack-workflows/-/blob/master/support_licensing_subscription_ticket_escalation.slackworkflow) - `:escalate:` - Directs the user to follow the proper procedure to escalate a support ticket or internal issue.
 
 ### Time Off
 
-*See the [Support Time Off page](/handbook/support/support-time-off.html)*
+_See the [Support Time Off page](/handbook/support/support-time-off.html)_
 
 ### Onboarding
 
-*See the [Support Onboarding page](/handbook/support/training)*
+_See the [Support Onboarding page](/handbook/support/training)_
 
 ### Improving our processes - 'Active Now' issue board
+
 The Support team use ['support-team-meta' project issues](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) to track ideas and initiatives to improve our processes. The ['Active Now' issue board](https://gitlab.com/gitlab-com/support/support-team-meta/-/boards/580661) shows what we're currently working on. It uses three labels:
 
 1. **Blocked** - waiting for another team or external resource before we can move ahead
@@ -451,6 +458,7 @@ Support managers will regularly review the board to keep items moving forward.
 1. Support managers will **curate** issues to prevent a large backlog. Unpopular or old issues can be closed / merged to keep the backlog manageable.
 
 #### Support Slackbot
+
 The [Support Slackbot](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-bot) can be used to quickly view the status of our ZenDesk queues.
 
 Below are the most common commands, the [bot's repo](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-bot) has additional details.
@@ -461,7 +469,7 @@ sb sm # Self-Managed queues
 sb s # GitLab.com queues
 ```
 
-## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i> Support Resources
+## <i aria-hidden="true" class="fas fa-book fa-fw icon-color font-awesome"></i>Support Resources
 
 ### Handbook links
 
@@ -479,33 +487,33 @@ sb s # GitLab.com queues
 ### Documentation
 
 - GitLab
-  - [GitLab.com Status](https://status.gitlab.com/)
-  - [GitLab Releases](/blog/categories/releases/)
+    - [GitLab.com Status](https://status.gitlab.com/)
+    - [GitLab Releases](/blog/categories/releases/)
 - Writing docs
-  - [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/index.html)
-  - [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
-  - [GitLab Markdown](https://docs.gitlab.com/ee/user/markdown.html)
+    - [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/index.html)
+    - [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
+    - [GitLab Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 - Setting up GitLab
-  - [GitLab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
-  - [Requirements](https://docs.gitlab.com/ee/install/requirements.html)
-  - [Installation methods for GitLab](/install/)
-  - [Backing up and restoring GitLab](https://docs.gitlab.com/ee/raketasks/backup_restore.html)
-  - [Omnibus configuration settings](https://docs.gitlab.com/omnibus/settings/README.html)
-  - [Omnibus Configuration options](https://docs.gitlab.com/omnibus/settings/configuration.html)
-  - [Omnibus Database settings](https://docs.gitlab.com/omnibus/settings/database.html#seed-the-database-fresh-installs-only)
+    - [GitLab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
+    - [Requirements](https://docs.gitlab.com/ee/install/requirements.html)
+    - [Installation methods for GitLab](/install/)
+    - [Backing up and restoring GitLab](https://docs.gitlab.com/ee/raketasks/backup_restore.html)
+    - [Omnibus configuration settings](https://docs.gitlab.com/omnibus/settings/README.html)
+    - [Omnibus Configuration options](https://docs.gitlab.com/omnibus/settings/configuration.html)
+    - [Omnibus Database settings](https://docs.gitlab.com/omnibus/settings/database.html#seed-the-database-fresh-installs-only)
 - Debugging GitLab
-  - [Log system](https://docs.gitlab.com/ee/administration/logs.html)
-  - [Rake tasks](https://docs.gitlab.com/ee/raketasks/README.html)
-  - [Maintenance Rake Tasks](https://docs.gitlab.com/ee/administration/raketasks/maintenance.html)
-  - [Debugging Tips](https://docs.gitlab.com/ee/administration/troubleshooting/debug.html)
-  - [Debugging resources for GitLab Support Engineers](https://docs.gitlab.com/ee/administration/index.html#support-team-docs)
-  - [GitLab Rails Console Cheat Sheet](https://docs.gitlab.com/ee/administration/troubleshooting/gitlab_rails_cheat_sheet.html)
+    - [Log system](https://docs.gitlab.com/ee/administration/logs.html)
+    - [Rake tasks](https://docs.gitlab.com/ee/raketasks/README.html)
+    - [Maintenance Rake Tasks](https://docs.gitlab.com/ee/administration/raketasks/maintenance.html)
+    - [Debugging Tips](https://docs.gitlab.com/ee/administration/troubleshooting/debug.html)
+    - [Debugging resources for GitLab Support Engineers](https://docs.gitlab.com/ee/administration/index.html#support-team-docs)
+    - [GitLab Rails Console Cheat Sheet](https://docs.gitlab.com/ee/administration/troubleshooting/gitlab_rails_cheat_sheet.html)
 - GitLab features
-  - [Install GitLab Runner](https://docs.gitlab.com/runner/install/)
-  - [GitLab CI example projects](https://gitlab.com/gitlab-examples)
-  - [Elasticsearch](https://docs.gitlab.com/ee/integration/elasticsearch.html)
-  - [Connecting GitLab with a Kubernetes cluster](https://docs.gitlab.com/ee/user/project/clusters/)
+    - [Install GitLab Runner](https://docs.gitlab.com/runner/install/)
+    - [GitLab CI example projects](https://gitlab.com/gitlab-examples)
+    - [Elasticsearch](https://docs.gitlab.com/ee/integration/elasticsearch.html)
+    - [Connecting GitLab with a Kubernetes cluster](https://docs.gitlab.com/ee/user/project/clusters/)
 - Developing GitLab
-  - [GitLab development utilities](https://docs.gitlab.com/ee/development/utilities.html)
-  - [Feature flags](https://docs.gitlab.com/ee/development/feature_flags.html)
-  - [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html)
+    - [GitLab development utilities](https://docs.gitlab.com/ee/development/utilities.html)
+    - [Feature flags](https://docs.gitlab.com/ee/development/feature_flags.html)
+    - [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html)
