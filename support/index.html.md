@@ -112,7 +112,7 @@ To participate in this program, open [a Support Shadow Program issue](https://gi
 
 As can also be inferred from our [<span class="colour" style="color: rgb(107, 79, 187);"><u>publicly visible OKR page</u></span>](https://support-fy22-direction.about.gitlab-review.app/company/okrs/), we anticipate FY22 will focus on the following elements:
 
-### **Achieving our **[Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)
+### **Achieving our [Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)**
 
 ### **Inclusive Growth & Development**
 
