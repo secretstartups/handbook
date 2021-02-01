@@ -8,8 +8,6 @@ title: "Go-To-Market Technical Documentation"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
-
 ## How to use this documentation
 
 The Documentation below is organized by Feature, each section will have the relevant inputs and outputs as well as references to the logic that processes the input and outputs.
