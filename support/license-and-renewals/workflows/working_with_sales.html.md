@@ -20,6 +20,8 @@ description: This page is about working with sales.
    1. Set the ticket status to `Pending`.
 1. Leave a message for the Salesforce `Account Owner` on Chatter with the
    relevant details.
+   * Consider adding the following note in the Chatter message:
+     > Please note that according to the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) we expect a reply from you on this chatter within 24 hours stating when/if you will contact the customer.
    * Share the link to the Chatter message in an internal note on the ticket.
      * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
@@ -43,8 +45,14 @@ description: This page is about working with sales.
         and mention them in a Chatter comment.
    1. If anyone you reach out to does not respond within 24 hours:
       1. Mention the person's direct manager in a Chatter comment.
+         * Suggested message text:
+           > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
          * From VP level onwards, mention them in a Slack message in
            `#support_sales_escalation` in addition to a Chatter comment.
+           * Suggested message text in Chatter:
+             > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
+           * Suggested message text in Slack:
+             > Following the new "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
       1. Repeat as necessary every 24 hours and go one step up the reporting
          line, going all the way up to CEO if necessary.
    * It is helpful to refer to the [company organization chart](https://about.gitlab.com/company/team/org-chart/)
