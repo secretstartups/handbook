@@ -62,7 +62,8 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 For more information on which opportunity fields are used in the calculation of ARR, see [Salesforce Booking Metrics Field Data Dictionary](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/#arr-fields).
 
 ### How Net ARR is Calculated For Standard Deals
-(Each row is an example of a unique deal scenario)
+
+Note: Each row in the tables below represents a unique deal. 
 
 #### Calculating Net ARR for **New Business** Opportunities:
 
@@ -79,7 +80,6 @@ Net ARR vs. Net iACV Comparison
 | New Business | 12 months | $120,000 | $120,000 | $120,000 |
 | New Business | 24 months |  $240,000 | $120,000 | $120,000 |
 | New Business | 36 months |  $360,000 | $120,000 | $120,000 |
-
 
 #### Calculating Net ARR for **Add-On** Opportunities:
 
