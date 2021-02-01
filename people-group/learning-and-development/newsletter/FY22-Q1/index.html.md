@@ -23,7 +23,7 @@ Is there a leader at GitLab that you want to learn more about? To nominate someo
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [John Long](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! 
+Our Learner Spotlight for this quarter is [John Long](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! Continue reading to learn more about John and how he prioritizes learning.  
 
 * **What is your current role at GitLab?** 
    * _John_: I am a Senior Support Engineer.
