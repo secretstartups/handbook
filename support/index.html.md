@@ -109,11 +109,10 @@ To participate in this program, open [a Support Shadow Program issue](https://gi
 - <span class="colour" style="color: rgb(0, 0, 0);">expanding our Enterprise customer offering.</span>
 - <span class="colour" style="color: rgb(0, 0, 0);">inclusive growth & development of our global Support team members through expert hiring, technical training, and process improvements.</span>
 - <span class="colour" style="color: rgb(0, 0, 0);">evolve our support model to accommodate Gitlab expansion in delivery through new channels.</span>
--
 
 As can also be inferred from our [<span class="colour" style="color: rgb(107, 79, 187);"><u>publicly visible OKR page</u></span>](https://support-fy22-direction.about.gitlab-review.app/company/okrs/), we anticipate FY22 will focus on the following elements:
 
-### **Achieving our**[Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)
+### **Achieving our **[Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)
 
 ### **Inclusive Growth & Development**
 
