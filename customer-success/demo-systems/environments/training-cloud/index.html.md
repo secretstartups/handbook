@@ -57,13 +57,16 @@ The Training Cloud v1 shares the [gitlab-core.us.gitlabdemo.cloud](https://gitla
     * Autoscaling Kubernetes nodes for 500 simultaneous review apps/deployments in 60 seconds
     * Auto DevOps pipelines that consume lots of wasted resources
     * Kubernetes services that are not needed (ex. Postgres database)
-    * Intensive test jobs that are not needed during workshop (ex. Code Quality, Dependency Scanning, etc.))
+    * Intensive test jobs that are not needed during workshop (ex. Code Quality, Dependency Scanning, etc.)
     * Project export/import queued job fails with 500 simultaneous project imports
-    * Features in your project that have known issues with import/export process
+    * Features in your project that have known issues with import/export process (ex. wikis)
     * Administrative access for students (alternative use cases)
     * Package registry caching and garbage collection
     * Container registry caching and garbage collection
     * CI images pulling from Docker Hub with rate limits
+    * CI image versions that are incompatible or have been upgraded with bug fixes
+    * Using templates in `.gitlab-ci.yml` without realizing the underlying job load.
+    * Using custom `.gitlab-ci.yml` files without comments of the actions being performed
     * Dependency proxy configuration (particularly for npm and maven dependencies)
     * Lack of step-by-step instructions that leads to student misconfigurations and errors
 1. A Zoom call will be scheduled to review the findings and discuss anything important or noteworthy.
