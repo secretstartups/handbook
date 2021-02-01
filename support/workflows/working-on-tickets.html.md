@@ -393,7 +393,7 @@ Please see [Requesting Support for Customers](/handbook/support/internal-support
 ### Handling emotionally-charged tickets
 
 When customers are putting negative emotions into ticket communications, refer to the handbook entry on 
-[how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html.md)
+[how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html)
 for helpful tips and guidance. 
 
 # How to succeed at working on tickets
