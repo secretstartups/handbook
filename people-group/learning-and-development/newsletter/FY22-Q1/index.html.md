@@ -50,11 +50,24 @@ I started with [Quality Standards in Customer Service](https://www.linkedin.com/
 
 ## Department Spotlight 
 
-The L&D Team has three team members that focus on enabling a culture of learning by making it a priority for team member growth and development. 
+This quarter's team spotlight is on the [Diversity, Inclusion, & Belonging](/company/culture/inclusion/) (DIB) Team. The DIB Team has two team members that focus on building an environment where all team members feel they belong. They do this by making sure team members feel: they are recognized, allowed to express their thoughts, have the ability to make contributions and are able to bring their best selves to work every day. 
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://docs.google.com/presentation/d/e/2PACX-1vQaZj9jgdFsujXcEcSPh0G5fLh67uiqfZ7NOaGk3rQBwnz-aVtP4HNe7lbIh9fnZO-0rlsDfbNdTDPD/embed?start=false&loop=false&delayms=3000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
+The DIB Team has worked on many projects to date, including, but not limited to: 
 
-Each quarter we will feature a different team and what they do here at GitLab. 
+* Live Learning Sessions:  
+   * [Being Inclusive](/company/culture/inclusion/being-inclusive/#inclusion-training)
+   * [Being an Ally](/company/culture/inclusion/being-an-ally/#ally-training)
+   * [Recognizing Bias](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training)
+   * [Belonging](https://www.youtube.com/watch?v=WZun1ktIQiw)
+* Diversity, Inclusion, and Belonging Certification & Training
+   * [Handbook Page](/company/culture/inclusion/dib-training/)
+   * [Course in GitLab Learn](https://gitlab.edcast.com/journey/dib-training-certification)
+
+Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
 
 ## Recap of FY21-Q3
 
@@ -86,12 +99,7 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
 * [GitLab Mental Health Awareness Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) 
 * [Building a Handbook First Remote Learning Culture](https://about.gitlab.com/blog/2020/12/22/building-a-handbook-first-remote-learning-culture/)
 
-**Diversity, Inclusion, and Belonging Certification & Training**
 
-The Diversity, Inclusion, and Belonging (DIB) Team launched a DIB Certification & Training that team members can take on GitLab Learn! 
-
-* [Handbook Page](/company/culture/inclusion/dib-training/)
-* [Course in GitLab Learn](https://gitlab.edcast.com/journey/dib-training-certification)
 
 ## Upcoming in FY21-Q4 
 
