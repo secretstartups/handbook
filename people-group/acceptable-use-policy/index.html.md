@@ -32,7 +32,12 @@ As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-gr
 
 ### Security and Proprietary Information
 
-All GitLab data is categorized and must be handled in accordance with the [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html). All computing assets that connect to any part of the GitLab network, or 3rd party services that are used by GitLab, must comply with the applicable standards.
+All GitLab data is categorized and must be handled in accordance with the [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html). All computing assets that connect to any part of the GitLab network, or 3rd party services that are used by GitLab, must comply with the applicable standards.
+
+### Freeware, Browser Extensions, Add-ons and Plugins
+[Freeware, browser extensions, add-ons and plugins](https://about.gitlab.com/handbook/tools-and-tips/other-apps/#browser-extensions) can pose a risk to GitLab as they may contain viruses, spyware or adware. The use of freeware could result in the loss of GitLab data and the inability to protect the data in accordance with GitLab security and privacy requirements. Not all freeware contains malware, but team members should carefully consider the terms of service and [types of data](/handbook/engineering/security/data-classification-standard.html) that will be shared before installing anything on your computer.    
+
+Security reserves the right to execute security reviews against this software and dissallow use if they do not meet GitLab's [security and privacy](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html) expectations. 
 
 ### Unacceptable Use
 
