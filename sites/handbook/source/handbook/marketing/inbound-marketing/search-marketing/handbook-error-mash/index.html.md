@@ -34,7 +34,7 @@ The Search Marketing team made a series of videos showing why fixing these error
 
 ### Handbook error mash kickoff video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U1xr1vq4Vfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QHBuAwX3pDs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fixing page titles and meta descriptions
 
