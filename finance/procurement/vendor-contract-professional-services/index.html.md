@@ -94,24 +94,14 @@ This section articulates the information regarding the vendor and the current co
 **Marketing Campaign Finance Tag**
    * If, and only if, this is a marketing request related to a campaign, please add the tag directly from the finance budget doc here to avoid delays in budgeting and payments.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
-If non public data will be shared in ANY capacity with this vendor, a security analysis is required.
-A security analysis is required for renewals as well since an eval is due every 12 months.
-Review our [Data Classification Policy](https://about.gitlab.com/handbook/engineering/security/data-classification-policy.html) and [Vendor Security Review Process](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html) for questions.
+## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Risk Assessment and Security Review
+All third parties will undergo a Risk Assessment to determine if a full Security Review is needed as described in the [Third Party Risk Management procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html).
 
-To expedite the security review process, complete the identified check boxes as relative:
+To expedite the security review process:
 
-**Provide Vendor Security Contact Name and Email Address**
-   * This allows our security team to contact their security team directly to address any questions as efficiently as possibly. Please request this information from your sales contact.
-
-**Security Documentation**
-   * Request your vendor contact share with us independent certifications validating the security protocols in place for our review.
-   * Send this email template [requesting security documentation](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/third-party-vendor-security-review.html#email-template-for-requesting-security-documentation) to your vendor contact
-
-**Non Disclosure Agreement (NDA)**
-   * If this is a **NEW vendor**, an NDA is oftentimes required from the vendor in order to share security certification
-   * Most often, an NDA is not needed from an existing vendor to share security certifications since confidentiality terms are a part of the existing agreements in place. If, however, your vendor has a specific concern and would like an NDA in place, we can accomodate.
-   * Send our [Mutual NDA template](https://docs.google.com/document/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/edit) to your contact, requesting they sign and return back to you in order to expedite the security review process.
+- **Provide Vendor Security Contact Name and Email Address to Risk and Field Security Team**
+- **Notify the Vendor of GitLab's [Third Party Minimum Security Standards](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html)**
+- **Ensure there is a Non Disclosure Agreement (NDA) in place**
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 4 | Approvals
 Tag your functional leader according to the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) in the first section of the table.
@@ -143,11 +133,9 @@ Here is a deep dive summary on what each function is reviewing for approval:
    * If there is no GitLab entity available in the country of a vendor use GitLab Inc
 
 **Security Review and Approval**
-1. Security is responsible for reviewing vendor security practicies and will adhere to the [Third Party Risk Management Procedure](/handbook/source/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management. 
-1. The Security Compliance team needs 3 business days to complete this review from the time they receive all necessary documentation from the vendor 
-1. Once the security team approves the vendor and/or identifies gaps in the vendor's security practices for negotiation, security will provide their approval in the issue.
-1. Consult the [Data Classification Policy](https://docs.google.com/document/d/15eNKGA3zyZazsJMldqTBFbYMnVUSQSpU14lo22JMZQY/edit#heading=h.a7l25bv5e2pi) to understand whether your contract will need security review. Any contracts that will share RED or ORANGE data will need security approval prior to signing. Additionally, an annual reassessment of vendor's security posture is performed as part of the contract renewal.
-1. Complete a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-Privacy-Review); please note that this will be done in partnership with GitLab's Privacy Officer and reviewed by Security Compliance during the Security Review.
+1. If a full Security Review is deemed necessary, the Risk and Field Security team has 10 business days to complete this review **from the time they receive all necessary documentation from the vendor**. 
+1. Any observations will be posted in the issue. The Risk and Field Security team does not approve vendors. It is the responsibility of the Business Owner to accept or remediate the observations. 
+1. If applicable, a [Privacy Review](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=Vendor-Procurement-Privacy-Review) may also be necessary. This review is done independent of the Security Review.
 
 **Procurement Review and Approval**
 1. Before approving issues, the procurement team verifies:
@@ -185,7 +173,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
  1. After the contract is signed by both parties, upload the fully executed contract to ContractWorks. You will need to upload the fully signed pdf into the folder labeled **01. To Be Standardized**, which in under the parent folder **01. Uncategorized**. Legal will then organize the contracts using their [instructions and best practices](/handbook/legal/vendor-contract-filing-process)
       - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single+Person+Access+Request) or tag procurement at @gitlab-com/Finance-Division/procurement-team in the issue and we will upload the contract on your behalf.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (Optional)
+## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (as needed)
    * Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. 
    * If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
