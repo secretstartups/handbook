@@ -56,30 +56,29 @@ We offer easy provisioning of Kubernetes clusters in AWS or GCP for sandbox purp
 [Learn more about the EKS Container Sandbox](/handbook/customer-success/demo-systems/environments/container/eks)
 [Learn more about the GKE Container Sandbox](/handbook/customer-success/demo-systems/environments/container/gke)
 
-## Compute Sandbox Environments
+## Sandbox Cloud Environments
 
-When you need many cloud provider services to accomplish your goals, our compute sandbox provides you with access to a GCP and/or AWS account to deploy the compute resources, serverless or other managed services that you need.
+When you need many cloud provider services to accomplish your goals, our Sandbox Cloud provides you with access to a GCP and/or AWS account to deploy the compute resources, serverless or other managed services that you need.
 
 You are responsible for all resources that you create and the demo systems team offers minimal to no support for the compute environments aside from access control and cost controls.
 
 As a rule of thumb, this is a "do whatever you need to" environment, with a few "rules of the road" for cost management and security controls.
 
-[Learn more about the AWS Compute Sandbox](/handbook/customer-success/demo-systems/environments/compute/aws/)  
-[Learn more about the GCP Compute Sandbox](/handbook/customer-success/demo-systems/environments/compute/gcp/)
+[Learn more about the Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) 
 
 ## Frequently Asked Questions
 
 **Can I use my own cloud provider account and expense it?**
 
-The rule of thumb is that you should use our managed environment if it serves your needs, and use your own environment for any gaps or use cases that we cannot support. We try to serve 80% of the needs of the team, and encourage you to make a judgement call for the 20% of other use cases.
+The rule of thumb is that you should use our managed environment if it serves your needs, and use your own environment for any gaps or use cases that we cannot support. We try to serve 95% of the needs of the team, and encourage you to make a judgement call for the 5% of other use cases.
 
-If there is something that you cannot do with our managed environments, it is best practice to discuss your needs in `#demo-systems` on Slack or by [creating an issue](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/demo-feature-requests/-/issues) so that we can document and understand your use case to help improve our offerings. We may have a workaround or recommended alternative solution or infrastructure script that is easier than creating something from scratch.
+If there is something that you cannot do with our managed environments, it is best practice to discuss your needs in `#demo-systems` on Slack or by [creating an issue](https://gitlab.com/gitlab-com/sandbox-cloud/issue-tracking/-/issues) so that we can document and understand your use case to help improve our offerings. We may have a workaround or recommended alternative solution or infrastructure script that is easier than creating something from scratch.
 
 We don't want to get in the way of you being able to do your job, so if we aren't able to reasonably support you, you can "do your own thing" without needing approval from `@demo-systems-admins`.
 
-To help our accounting team and avoid expense reports on your end, we encourage you to use our compute sandbox environments when possible for centralized billing and expense reasons. If there are restrictions on our compute sandbox environments that you cannot work around, you can use your own cloud provider account and add your (reasonable) monthly bill to an expense report.
+To help our accounting team and avoid expense reports on your end, we encourage you to use our Sandbox Cloud environments when possible for centralized billing and expense reasons. If there are restrictions on our environments that you cannot work around, you can use your own cloud provider account and add your (reasonable) monthly bill to an expense report.
 
-If you're not sure, simply ask in `#demo-systems` and we'll be happy to help.
+If you're not sure, simply ask in `#sandbox-cloud-questions` and we'll be happy to help.
 
 **Can I buy a home server and expense it for demo purposes?**
 
