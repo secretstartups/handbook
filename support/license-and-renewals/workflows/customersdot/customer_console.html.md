@@ -432,6 +432,74 @@ irb(main):021:0> send_eula("A-S00000000")
 
 These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the CustomersDot.
 
+### Reset max seats
+
+Occasionally, to ensure the correct number at renewal, the number of max seats need to be changed for a group.
+
+#### Parameters
+
+With only the namespace, it will display the seats information. Entering the max seats will change 
+
+| Name | Required | Details |
+|------|----------|---------|
+| :namespace      | *Yes* | The namespace to update |
+| :max_seats_used | No  | Max numbers of seats to use |
+
+#### Sample
+
+```ruby
+irb(main):035:0> account_seats("gitlab-silver")
+{"plan"=>
+  {"code"=>"silver",
+   "name"=>"Silver",
+   "trial"=>false,
+   "auto_renew"=>nil,
+   "upgradable"=>false},
+ "usage"=>
+  {"seats_in_subscription"=>8,
+   "seats_in_use"=>10,
+   "max_seats_used"=>10,
+   "seats_owed"=>2},
+ "billing"=>
+  {"subscription_start_date"=>"2020-01-01",
+   "subscription_end_date"=>"2021-01-01",
+   "trial_ends_on"=>nil}}
+irb(main):089:0> account_seats("gitlab-silver",0)
+{"plan"=>
+  {"code"=>"silver",
+   "name"=>"Silver",
+   "trial"=>false,
+   "auto_renew"=>nil,
+   "upgradable"=>false},
+ "usage"=>
+  {"seats_in_subscription"=>8,
+   "seats_in_use"=>10,
+   "max_seats_used"=>10,
+   "seats_owed"=>2},
+ "billing"=>
+  {"subscription_start_date"=>"2020-01-01",
+   "subscription_end_date"=>"2021-01-01",
+   "trial_ends_on"=>nil}}
+
+[+] Resetting max_seats_used ...
+{"plan"=>
+  {"code"=>"silver",
+   "name"=>"Silver",
+   "trial"=>false,
+   "auto_renew"=>nil,
+   "upgradable"=>false},
+ "usage"=>
+  {"seats_in_subscription"=>8,
+   "seats_in_use"=>10,
+   "max_seats_used"=>0,
+   "seats_owed"=>2},
+ "billing"=>
+  {"subscription_start_date"=>"2020-01-01",
+   "subscription_end_date"=>"2021-01-01",
+   "trial_ends_on"=>nil}}
+***** seats_owed will be automatically recalculated at 12:00 UTC *****
+```
+
 ### Billable Members
 
 > *Note*: This should no longer be required as there is now an API endpoint and customers can see the list on their billing page.
