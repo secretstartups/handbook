@@ -17,7 +17,7 @@ Conversations with regards to compensation are an important part of managing. Th
 
 Check the most up to date information with regards to our [Annual Compensation Review cycle](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline) and our [Targeted Mid-Year Increase Review](/handbook/total-rewards/compensation/compensation-review-cycle/#targeted-mid-year-increase-review) on the [Total Rewards page](/handbook/total-rewards/compensation/compensation-review-cycle).
 
-Starting the FY22 Annual Compensation Review Total rewards will be providing a letter of adjustment outlining the new and former compensation as well as unvested equity value. We recommend to review this letter before the conversation and use the letter as preparation to communicate exact figures.  
+In the FY22 Annual Compensation Review Total Rewards will be providing [Total Rewards Statement](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) outlining the Total Rewards Package: cash, equity, and benefits. We recommend to review this letter before the conversation and use the letter as preparation to communicate exact figures.  
 
 ### Communication recommendations
 
@@ -30,7 +30,7 @@ Starting the FY22 Annual Compensation Review Total rewards will be providing a l
     * Performance Factor
     * Location factor changes
     * Benchmark changes
-    * % Increase: Please calculate this number from BambooHR to at least the hundredth place rather than using the rounded version available in Compaas, `((FY22 Salary-FY21 Salary)/FY21 Salary)`
+    * % Increase: This number can be found on the Total Rewards Statement 
 
 * Communicate the adjustment at the beginning of the meeting. You want to give the team member time to ask questions and discuss their compensation adjustment. Avoid trying to rush to communicate at the end of a [1:1 meeting](/handbook/leadership/1-1/).
 
@@ -41,6 +41,10 @@ Starting the FY22 Annual Compensation Review Total rewards will be providing a l
 * Avoid blaming others (For example: “I would have given you more but management didn’t approve.”)
 
 * Avoid making future promises (For example: “In the next review, I will get you a large adjustment.”)
+
+* The FY22 Total Rewards Statement includes a section on unvested equity shares. You and your direct report can use the compensation calculator to review the total potential value of these shares. This is an important piece of the overall Total Rewards package at GitLab and we want to make sure team members have visibility into the potential value. It is important to note that all team members may percieve equity value differently based on their local tax implications, country of residence, or other factors. 
+
+* The FY22 Total Rewards Statement also includes a section on Benefits where team members can use the Compensation Calculator to review the value of Remote Benefits, General Benefits, and Entity-Specific benefits. 
 
 ### Scenarios (situations and reactions)
 
