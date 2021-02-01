@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Sanmi Ayotunde Ajanaku's README"
+description: "Learn more about working with Sanmi Ayotunde"
 ---
 
 ## On this page

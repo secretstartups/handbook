@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Laura Duggan's README"
+description: "Learn more about working with Laura Duggan"
 ---
 
 ## On this page

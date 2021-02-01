@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Michael Preuss' README (Senior Manager, Digital Experience)"
+description: "Learn more about working with Michael Preuss"
 ---
 
 ## On this page

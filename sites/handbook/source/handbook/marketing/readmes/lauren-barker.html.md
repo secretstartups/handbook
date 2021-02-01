@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Lauren Barker's README"
+description: "Learn more about working with Lauren Barker"
 ---
 
 ## Lauren Barker README

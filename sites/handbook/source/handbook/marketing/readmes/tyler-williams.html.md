@@ -1,6 +1,7 @@
 ---
 layout: markdown_page
 title: "Tyler Williams' README"
+description: "Learn more about working with Tyler Williams"
 ---
 
 ## Tyler Williams' README
