@@ -21,7 +21,7 @@ Our goal is to make infrastructure provisioning and support easy and allow you t
 |---------------------------------------|-------------------|------------------|-------------------------------------|
 | Omnibus-as-a-Service ("Demo Cloud")   | Easy to Moderate  | Dedicated Staff  | GitLab instance user and group      |
 | Container Sandbox                     | Moderate to Hard  | Slack Community  | Cluster with `kubectl` rights       |
-| Compute Sandbox                       | Moderate to Hard  | Slack Community  | AWS/GCP IAM user with dedicated VPC |
+| Sandbox Cloud                         | Moderate to Hard  | Slack Community  | AWS/GCP IAM user with dedicated VPC |
 
 ## Access Request
 
