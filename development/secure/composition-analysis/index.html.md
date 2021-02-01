@@ -33,7 +33,6 @@ The Composition Analysis group largely follows GitLab's [Product Development Flo
 
 In addition to the above workflows, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work
 
-- [Replace sub-issue convention with Epics - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/129)
 - [Leverage issue's health status to report progress - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/130)
 
 ### Reaction rotation
