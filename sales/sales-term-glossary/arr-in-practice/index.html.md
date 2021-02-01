@@ -65,11 +65,11 @@ For more information on which opportunity fields are used in the calculation of 
 
 New Business/Add-On layout:
 
-![New Business/Add-On ARR Fields](/images/handbook/sales/New Business:Add-On ARR Fields.png “New Business/Add-On ARR Fields”)
+![New Business/Add-On ARR Fields](/images/handbook/sales/NewBusinessAdd-OnARRFields.png “New Business/Add-On ARR Fields”)
 
 Renewal layout:
 
-![Renewal ARR Fields](/images/handbook/sales/Renewal ARR Fields.png "Renewal ARR Fields")
+![Renewal ARR Fields](/images/handbook/sales/RenewalARRFields.png "Renewal ARR Fields")
 
 ### How Net ARR is Calculated For Standard Deals
 
