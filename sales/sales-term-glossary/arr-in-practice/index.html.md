@@ -62,6 +62,7 @@ Booked ARR also includes multi-year bookings where the ARR renews even if the de
 For more information on which opportunity fields are used in the calculation of ARR, see [Salesforce Booking Metrics Field Data Dictionary](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/#arr-fields).
 
 ### How Net ARR is Calculated For Standard Deals
+(Each row is an example of a unique deal scenario)
 
 #### Calculating Net ARR for **New Business** Opportunities:
 
