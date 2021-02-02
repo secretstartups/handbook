@@ -35,7 +35,7 @@ On this page, we have outlined how we make decisions at GitLab.
 > 
 > - _Chapter 5: Decisions, Decisions of High Output Management by Andy Grove_
 
-## Decision Proposals for Collaboring and Communicating 
+## Decision Proposals for Collaborating and Communicating 
 
 Decisions that require input, buy-in, or awarness of others should be accompanied by a brief, documented proposal. This can be captured in an agenda, issue, or Google Doc, but it the proposal should include the following elements:
 
