@@ -133,7 +133,7 @@ The total rewards and people ops specialist team should also review alignment to
 
 ## Relocation / Address Change
 
-This process is managed by the Employment Solutions Specialist team as the DRI, in partnership with Total Rewards and the People Business Partners. For any questions not addressed below, please email relocations@gitlab.com
+This process is managed by the People Operations Specialist team as the DRI, in partnership with Total Rewards and the People Business Partners. For any questions not addressed below, please email peopleops@gitlab.com
 
 ### Short-Term Stay
 
@@ -184,22 +184,22 @@ _Please start this process more than 3 months before your ideal relocation date,
 
 **People Ops, Total Rewards, PBP's & Payroll**
 
-1. If the relocation request is to a country where we currently do not have team members, the Employment Solutions Specialist will check the [Country Conversion and Entity Creation Tracking issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/367) whether the location is blocked for hiring. If the location is not included in either table on the main issue, the Employment Solutions Specialist will reach out to the Director of Legal and the Director of Tax, to confirm whether the country is blocked or open for hiring.
-1. People Ops will confirm eligibility, documentation, timing and any other information as applicable. If the team member is not eligible to relocate, the Employment Solutions Specialist team will communicate this fact to the team member at this time.
-1. If there is uncertainty on eligibility or any other questions, the Employment Solutions Specialist can escalate to the Senior Manager, People Operations, Director of Tax, and Director of Legal for further review from a legal and/or tax perspective.
+1. If the relocation request is to a country where we currently do not have team members, the People Operations Specialist will check the [Country Conversion and Entity Creation Tracking issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/367) whether the location is blocked for hiring. If the location is not included in either table on the main issue, the People Operations Specialist will reach out to the Director of Legal and the Director of Tax, to confirm whether the country is blocked or open for hiring.
+1. People Ops will confirm eligibility, documentation, timing and any other information as applicable. If the team member is not eligible to relocate, the People Operations Specialist team will communicate this fact to the team member at this time.
+1. If there is uncertainty on eligibility or any other questions, the People Operations Specialist can escalate to the Senior Manager, People Operations, Director of Tax, and Director of Legal for further review from a legal and/or tax perspective.
 1. If the relocation is within the exact same geographical location as linked to their current [location factor](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml), no approval is needed, but the team member's manager and relevant People Business Partner are still notified, and the notification email is saved in the team member's BambooHR profile. Direct the team member to update their address in the Personal tab in their BambooHR profile.
-    - The Employment Solutions Specialist will confirm that the address has been updated in BambooHR and confirm to all team members involved that the relocation process is complete and that there are no other steps.
-1. If the team member is eligible to work in their requested relocation location and there are no employment barriers, the Employment Solutions Specialist will request written approval from the team member's manager and relevant People Business Partner. The People Business Partner should connect with the manager to confirm there are no existing performance concerns. If there are, follow up discussion may be needed. This still applies if the relocation is within the same location factor in the same country.
+    - The People Operations Specialist will confirm that the address has been updated in BambooHR and confirm to all team members involved that the relocation process is complete and that there are no other steps.
+1. If the team member is eligible to work in their requested relocation location and there are no employment barriers, the People Operations Specialist will request written approval from the team member's manager and relevant People Business Partner. The People Business Partner should connect with the manager to confirm there are no existing performance concerns. If there are, follow up discussion may be needed. This still applies if the relocation is within the same location factor in the same country.
 1. If the relocation request relates to a _higher location factor_, forward both approvals to the team member's Division's E-Group leader for their written approval. Where applicable, copy in the Director and VP of the Division in the email to the E-Group Leader, as they are closer to the process. This is to create visibility for them and an opportunity for them to halt the relocation if need be.
 1. If the relocation request relates to a _lower location factor_ or _equivalent location factor (even if it is in the same country)_, continue to the next step.
 1. If the relocation is declined at any step, the People Operations Specialist will relay this to the team member and explain the reasoning.
-1. The Employment Solutions Specialist will forward all approvals to the Total Rewards team at total-rewards@ gitlab.com so that they may review and approve any compensation change, with feedback from the manager and the People Business Partner.
+1. The People Operations Specialist will forward all approvals to the Total Rewards team at total-rewards@ gitlab.com so that they may review and approve any compensation change, with feedback from the manager and the People Business Partner.
 1. Total Rewards will communicate final compensation information by email to the Employment Solutions Specialist team in the email thread.
-1. The Employment Solutions Specialist will convert the approved compensation from USD to the local pay currency of the team member's new location, use the [rounding best practice](/handbook/total-rewards/compensation/compensation-calculator/#rounding-best-practice) method, and then request approval from Total Rewards of this final compensation amount.
+1. The People Operations Specialist will convert the approved compensation from USD to the local pay currency of the team member's new location, use the [rounding best practice](/handbook/total-rewards/compensation/compensation-calculator/#rounding-best-practice) method, and then request approval from Total Rewards of this final compensation amount.
 _Ex. Team member is approved $50,000 USD as their new comp and they are relocating to the Netherlands. Team members in the Netherlands are paid in Euro. Using the Jan 1, 2020 conversion, this converts to 44,577.20 Euro. Using the rounding best practice, the team member's comp will be 44,600 Euro, with Total Rewards approval._
 1. The Employment Solutions Specialist will convey to the team member that their relocation has been approved and relay their new compensation, if applicable. cc the relevant Payroll team (`uspayroll @gitlab.com` or `nonuspayroll @gitlab.com`) for visibility on any upcoming changes.
-1. The Employment Solutions Specialist will ensure that all approval documents including email threads are saved in the team member's BambooHR `Contracts & Changes` folder.
-1. The Employment Solutions Specialist will reach out to the People Experience team to prepare a Letter of Adjustment/ New contract where applicable.
+1. The People Operations Specialist will ensure that all approval documents including email threads are saved in the team member's BambooHR `Contracts & Changes` folder.
+1. The People Operations Specialist will reach out to the People Experience team to prepare a Letter of Adjustment/ New contract where applicable.
 
 ##### Relocation within the Same Country
 
