@@ -94,6 +94,12 @@ To access the course, go to gitlab.edcast.com, sign in via SSO, click on "My Lea
 
 A: SKO is a great opportunity for our team to come together to both celebrate our results and collaborate for a strong start in the new year. As such, the agenda is purposely crafted with numerous activities to learn, network and celebrate together. We expect that every SKO to treat it as a “work trip” and block your calendar to ensure you fully participate in every part of the event.
 
+**Q: Is there a dress code for this virtual event?**
+
+A: While you will attend this event virtually, we ask that you please regard the dress code for all days just like you would for an in-person SKO. Business casual is a good reference point. Remember that much of the event will be photographed and recorded, and we will host external attendees (namely, partners). 
+
+For the Awards Ceremony, we encourage you to embrace your festive GitLab side. After all, this event is to celebrate you and all of your accomplishments in FY21!
+
 **Q: I just got hired – how do I attend SKO?**
 
 A: All eligible SKO attendees have until 2021-02-05 to register for the event. If you are a new hire and you have not received a registration email, please Slack #sko-virtual-2021. 
