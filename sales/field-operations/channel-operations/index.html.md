@@ -634,7 +634,7 @@ On a quarterly basis, the Channel team will revisit developing countries to dete
 
 
 
-## **Partner Applicant Approval / Denial - Granting Portal Access**
+## Partner Applicant Approval / Denial - Granting Portal Access
 
 Partner Program participation sign ups must be initiated by the Partner in the Partner Portal application form which can be found [here.](https://rv.treehousei.com/en/login.aspx)  In the partner application process, channel partners review the partner contract, including both the resale and referral addenda, review the partner program guide, complete their application form and agree to program terms and conditions.   Technology partners are not able to agree to the terms and conditions during the application process.
 
@@ -667,6 +667,39 @@ If for any reason, a partner account needs to be created in Salesforce directly,
 
 Visit the [Partner Applicant / Partner Portal FAQ](https://docs.google.com/document/d/1aPCqF5-qb2XxFEhvkNzvexwsIYGuiJF8AhK_qeUgw0Y/edit?usp=sharing) for additional information.
 
+
+
+## Alliances and OEMs
+
+[Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp)
+
+### Opportunity Tagging for Google Cloud and Amazon Web Services Deals
+If a deal is being transacted through **GCP  Marketplace** or **AWS Marketplace**, then the following fields needs to be filled out on the Opportunity:
+ - **DR - Partner** should be filled out using these SFDC accounts:
+   - [https://gitlab.my.salesforce.com/0014M00001nJhks](https://gitlab.my.salesforce.com/0014M00001nJhks)
+   - -https://gitlab.my.salesforce.com/0014M00001ldTdt](https://gitlab.my.salesforce.com/0014M00001ldTdt) 
+ - **DR - Partner Deal Type** = Resale
+ - **DR - Partner Deal Type** = PIO, Assist, or Fulfillment
+
+If Google or AWS has brought us a lead/referred us a deal but will not be transacting on their Marketplace, then the following fields should be filled out on the Opportunity:
+ - **DR - Partner** should be filled out using these SFDC accounts:
+   - https://gitlab.my.salesforce.com/0014M00001nJhks
+   - https://gitlab.my.salesforce.com/0014M00001ldTdt 
+ - **DR - Partner Deal Type** = Referral
+ - **DR - Partner Deal Type** = PIO
+
+If Google or AWS has assisted on a deal and helped drive the customer to buy GitLab, but was not the original source of the opportunity, then the following fields should be filled out on the Opportunity:
+ - **Influence Partner** = should be filled out using theseSFDC accounts:
+    - https://gitlab.my.salesforce.com/0014M00001nJhks
+    - https://gitlab.my.salesforce.com/0014M00001ldTdt 
+
+### Requesting Google Cloud Credits:
+Required fields when requesting Google Cloud Credits on an Opportunity
+1. Have you engaged with the GCP Team already? (Drop down: Yes, No)
+2. Customer open to being a reference? (drop down: logo use, case-study, joint speaking session, etc.)
+3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
+
+Once all required information is provided, it will be routed internally for approval. 
 
 
 ## Channel Neutral
