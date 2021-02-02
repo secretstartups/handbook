@@ -141,7 +141,6 @@ The CoS is responsible for maintaining the schedule, optimizing discussion sched
 
 The agenda will guide conversations. If an E-Group member wants to speak, the team member should put thoughts in the agenda. In instances where the comment cannot be typed out, for reasons of confidentiality or given time constraints in typing out the comment, the member can type out: [INSERT NAME:!]. This serves a time placeholder for the team member, so the team member can contribute at the appropriate point in the agenda.
 
-
 We will document agreed changes directly to the handbook and any other relevant SSoT during the meeting.
 Every item will get a MR maker and MR reviewer assigned.
 Most of the time the MR maker will be the CoS, one of the CEO shadows, or the Staff EBA to the CEO.
