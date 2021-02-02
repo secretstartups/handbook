@@ -85,13 +85,13 @@ This is when a package or piece of mail is sent out.
 
 **This is for the Alyce Integration**
 
-**Bizible:** TBD is these will be tracked
+**Bizible:** This is tracked as an _offline_ channel. Only responded members are included.
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | Gift is being researched | Alyce Gift Created |  |
 | Need more information for gift| Alyce needs more information on the recipient |  |
-| Gift options ready| Gift options ready to be viewed  |  |
+| Gift options ready| Gift options ready to be viewed  | Yes |
 | Gift invitation scheduled|Gift invitation scheduled| |
 | Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
 | Gift out for delivery | Gift out for delivery| |
@@ -287,7 +287,7 @@ Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponso
 | Registered | Registered for event |  |
 | Meeting Requested | Meeting set to occur at event |  |
 | No Show | Registered but did not attend event |  |
-| Attended | Attended event |  |
+| Attended | Attended event | Yes |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
