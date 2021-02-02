@@ -125,7 +125,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
 
 1. For self-managed
     1. On-premises EE - [support statement](/support/statement-of-support.html#starter-premium-and-ultimate-users)
-    1. On-premises CE or Core - [support statement](/support/statement-of-support.html#core-and-community-edition-users)
+    1. On-premises CE or Free - [support statement](/support/statement-of-support.html#core-and-community-edition-users)
 1. For GitLab.com
     1. Paid tiers - [support statement](/support/statement-of-support.html#bronze-silver-and-gold-users)
     1. Free plan users - [support statement](/support/statement-of-support.html#free-plan-users)
