@@ -24,18 +24,18 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 {: #goal}
 <!-- DO NOT CHANGE ANCHOR -->
 
-:key:  **Key Outcomes of FY22 Marketing Plan:**
+**Goals of FY22 Marketing Plan:**
 - Simplify motions
 - Increase collaboration
 - Provide leadership opportunities within the marketing organization 
 - Continue to build out the levers identified in FY21 Project Compass 
 
-:stopwatch:  **Timeline:** Ensure marketing alignment by end of February 2021
+**Timeline:** Ensure marketing alignment by end of February 2021
 
-:busts_in_silhouette:  **Audience:** Marketing
+**Audience:** Marketing
 - Note: alignment with sales, customer success, product, etc. is occurring, but the intended audience of this HB page is Marketing
 
-:white_check_mark:  **Measure:** How do we confirm everyone is aligned?
+**Measure:** How do we confirm everyone is aligned?
 - Handbook page as SSoT
 - Announcement/Intro at Marketing Strategy Call
 - Office Hours in February
@@ -71,14 +71,15 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 {: #gtm-motions .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The GTM motions were built by CMO staff, and then evangelized with both product & sales leadership for feedback. Each motion describes the WHY behind why it was included as a GTM Motion, as well as related sales plays and alliance partners to leverage in the motion.
+The GTM motions were built by CMO staff, and then evangelized with both product & sales leadership for feedback. Each motion describes the WHY behind why it was included as a GTM Motion, as well as related sales plays and alliance partners to leverage in the motion. <!-- Do we actually have the why included in the doc? Do we need to add that commentary? -->
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
 
+<div class="wide-sheet">
 <figure>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </figure>
-
+</div>
 The GTM Motions each include a [Core Team](), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams]() and [Beyond the GTM Motion Core Teams]() below.
 
 All marketing team members should plan to focus ~70% of their time and plan around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
