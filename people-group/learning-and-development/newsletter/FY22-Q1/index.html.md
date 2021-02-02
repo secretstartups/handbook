@@ -67,6 +67,23 @@ The DIB Team has worked on many projects to date, including, but not limited to:
 
 **Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
 
+## Upcoming in FY22-Q1 
+
+Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
+
+* Continuation of [support for managing burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
+* [Mentorship opportunities at GitLab](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/16)
+* New resource coming soon: [Tuition reimbursement suggested program list](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/163)
+* GitLab Learn BINGO 
+   * Anyone is welcome to join our upcoming Learning BINGO challenge to become more familiar with GitLab Learn and LinkedIn Learning. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn!
+* Another Manager Challenge planning to launch in March
+* [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
+* Crucial Conversations Certification will be completed by L&D Team Members to be able to provide training across the company later in the FY22! 
+* We will be transitioning from [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
+* GitLab Learn launch to external audiences!
+
+**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
+
 ## Recap of FY21-Q4
 
 FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
@@ -88,7 +105,7 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
    * [2020-12-16](https://www.youtube.com/watch?v=DQdzXFu9Nbc) 
    * [2021-01-20](https://www.youtube.com/watch?v=pnc4FqHk_a0)
 
-**New and Updated [Leadership Pages](/handbook/leadership/):** 
+### New and Updated Leadership Pages 
 
 The L&D Team has been adding more content to the leadership handbook pages and doing [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). You can see an outline of the leadership pages below. 
 
@@ -109,27 +126,16 @@ The L&D Team has been adding more content to the leadership handbook pages and d
 * [Underperformance](/handbook/leadership/no-matrix-organization/) (moved to be a sub-page of Leadership)
 * [Workforce Planning](/handbook/leadership/workforce-planning/)
 
-**Learning & Development Blog Posts:**  
+The following video is an example of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) the L&D Team is doing to uplevel the Leadership handbook pages. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_okcPC9YucA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Learning & Development Blog Posts 
 
 * [GitLab Mental Health Awareness Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/) 
 * [Building a Handbook First Remote Learning Culture](https://about.gitlab.com/blog/2020/12/22/building-a-handbook-first-remote-learning-culture/)
-
-## Upcoming in FY22-Q1 
-
-Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
-
-* Continuation of [support for managing burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
-* [Mentorship opportunities at GitLab](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/16)
-* New resource coming soon: [Tuition reimbursement suggested program list](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/163)
-* GitLab Learn BINGO 
-   * Anyone is welcome to join our upcoming Learning BINGO challenge to become more familiar with GitLab Learn and LinkedIn Learning. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn!
-* Another Manager Challenge planning to launch in March
-* [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
-* Crucial Conversations Certification will be completed by L&D Team Members to be able to provide training across the company later in the FY22! 
-* We will be transitioning from [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
-* GitLab Learn launch to external audiences!
-
-**Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
 
 ## Learning Spotlight 
 
