@@ -14,7 +14,7 @@ description: ""
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
 ### Campaign Large Buckets
-Campaign buckets are used to improve reporting at a high level and Allocadia forcasting. A bucket must be selected when a new campaign is created.
+Campaign buckets are used to improve reporting at a high level and Allocadia forecasting. A bucket must be selected when a new campaign is created.
 
 |Name|Description|Examples|
 |-------|--------------|---------|
