@@ -55,6 +55,22 @@ On a monthly cadence, the **Marketing Key Meeting** will be used as the venue fo
 
 All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page (WIP MR)](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71684) for more details on the tool. 
 
+## Single View All-Marketing Calendar 
+{: #marketing-calendar .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+In kicking off FY22, let's work together to create a single all-marketing calendar that allows us to answer key questions (using filters) and allows everyone to contribute.
+
+The calendar also lives at the top of the [Marketing Handbook Page](/handbook/marketing/#calendar).
+
+We will try to use [this sheet](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=1705692818) for inputs on planned activities, updates, and content production and how they align to GTM Motions, Alliance Partners, Sales Segments, Regions, Funnel Stage (Top, Middle, Bottom), Language, and more!
+
+**Where it gets exciting:** The Marketing Strategy and Performance team is working to visualize these inputs in a calendar format with filters (based on columns in the doc) to allow the team to see the plans in Sisense. [View the Basic Mockup!](https://app.mural.co/t/gitlab2474/m/gitlab2474/1612202820583/4c75c5323929f81687f7c933eafad6cb4e7ed186)
+
+ETA is TBD upon scoping by Mktg Strat & Perf team, aiming for within Q1. The GoogleDoc has pre-set filter views to help you see plans by Region, Segment, and mor to come.
+
+<iframe width="950" height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vST1Y__hXLeEhIEXpR7dd9kzQGCQNWN3IVIXThNazoXE2p8qPaCdF_KEsFFic-a2yH8O0dzUWQ3wY1r/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ### Glossary of terminology
 {: #glossary}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -75,11 +91,8 @@ The GTM motions were built by CMO staff, and then evangelized with both product 
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
 
-<div class="wide-sheet">
-<figure>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</figure>
-</div>
+<iframe width="950" height="900" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 The GTM Motions each include a [Core Team](), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams]() and [Beyond the GTM Motion Core Teams]() below.
 
 All marketing team members should plan to focus ~70% of their time and plan around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
@@ -196,8 +209,6 @@ The GTM Motions will each have an epic, where all teams can reference plans and 
    - GitOps Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823
    - Brand Epic: 
 
-## Marketing Calendar 
-{: #marketing-calendar .gitlab-purple}
 
 <!-- Working on across-marketing calendar proof of concept to add here. Might want to move this up or put in Marketing HB then link there... Need to think through. -->
 
