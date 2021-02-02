@@ -19,17 +19,19 @@ At GitLab, one of our favorite books is, “[High Output Management](/handbook/l
 </figure>
 <!-- blank line -->
 
-Sid and the Learning and Development team discuss High Output Management during a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). In the video, we explore how the book helped shape GitLab management processes and policies. 
+Sid and the Learning and Development team discuss High Output Management during a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). In the video, we explore how the book shaped GitLab management processes and policies. 
 
 Topics covered include:
-1. Why the book is one of Sid's favorites
+1. Why the book is one of Sid's favorites.
 2. Why dual reporting structures lead to matrix organizations and how GitLab maintains a [no-matrix organization](/handbook/leadership/no-matrix-organization/). 
-3. Why 1-1 meetings are fundamental to how we operate at GitLab. 
-4. Enabling the direct report to show initiative in their career and performance
-5. The importance of emotional intelligence in management based on task-relevant maturity
-6. Why training should the team should be the manager's job
+3. Why [1-1 meetings](/handbook/leadership/1-1/) are fundamental to management. 
+4. Enabling the direct report to show initiative in their [career and performance](/handbook/people-group/learning-and-development/career-development/).
+5. The importance of [emotional intelligence](/handbook/leadership/emotional-intelligence/) in management based on task-relevant maturity.
+6. Why training the team should be the manager's job.
 
 > If there is one management book you should read, it is High Output Management. A lot of GitLab policies are directly from the book. Managers can learn that the most challenging aspect of management, is managing their time to make decisions and achieve results. This book will teach you how. 
+
+Team members can [expense](/handbook/finance/expenses/) the book if they choose to [purchase](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?dchild=1&keywords=High+Output+Management&qid=1612303222&sr=8-1).
 
 ### High Output Management
 
