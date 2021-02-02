@@ -47,8 +47,8 @@ twitter_creator: "@gitlab"
 
 ##### Camera
 
-- Blackmagic Pocket Cinema (High Level Camera) - [Example](https://www.bhphotovideo.com/c/product/1560510-REG/blackmagic_design_pocket_cinema_camera_4k.html)
-- Camera Lens - [Example](https://www.bhphotovideo.com/c/product/1540746-REG/olympus_v314090bu000_m_zuiko_digital_ed_12_45mm.html)
+- Camera: TBD - Coming Soon!
+- Camera Lens: TBD - Coming Soon!
  - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
 ##### Audio
