@@ -207,6 +207,15 @@ When a team member is absent from work for three consecutive workdays, there is 
 
 If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
 
+#### Exceptions
+
+GitLab understands there are extenuating circumstances that can occur. In the instance that a team member is absent from work for three consecutive workdays due to an emergency outside of the team members' control (I.E. internet outage in their country of residence), the recommendation is:
+
+* The team member should give their manager a heads up about the current situation should a period of unavailability be a foreseen possibility.
+* The team members and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (I.E. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Expensify](/handbook/finance/expenses/).
+* The aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) should be looped in for visibility.
+* Consider leveraging GitLab's [unlimited time off policy](/handbook/paid-time-off/) to take the time you need. 
+
 ### Other People Policies
 
 * [United States Employment Status](/handbook/contracts/#united-states-employment-status)
