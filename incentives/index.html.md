@@ -330,9 +330,9 @@ These stories are useful in showing the world how we stay connected as a [geogra
 
 Each quarter, 3 GitLab team members who submit Visiting Grant stories will be randomly selected for a $50 voucher for the [GitLab Swag Shop](https://shop.gitlab.com/)!
 
-### GitLab Gold
+### GitLab Ultimate
 
-Every GitLab team member can request the [Gold](/pricing/#gitlab-com) tier for GitLab.com.
-In case a team member has separate private and work accounts on GitLab.com, they can request it for both. This incentive **does not** apply to groups owned by GitLab team members (Group-level Gold features such as epics will not be available for Gold GitLab team-member personal accounts, for instance).
+Every GitLab team member can request the [Ultimate](/pricing/#gitlab-com) tier for GitLab.com.
+In case a team member has separate private and work accounts on GitLab.com, they can request it for both. This incentive **does not** apply to groups owned by GitLab team members (Group-level Ultimate features such as epics will not be available for Ultimate GitLab team-member personal accounts, for instance).
 
-In order to request this benefit please [submit this form](https://docs.google.com/forms/d/e/1FAIpQLSddexI8VZTCiyxme1_7QtbQZ6WoIJRlHdaI2Gi6PD8Eti-DLQ/viewform). Your account(s) will be upgraded to the Gold tier within 30 minutes of submission.
+In order to request this benefit please [submit this form](https://docs.google.com/forms/d/e/1FAIpQLSddexI8VZTCiyxme1_7QtbQZ6WoIJRlHdaI2Gi6PD8Eti-DLQ/viewform). Your account(s) will be upgraded to the Ultimate tier within 30 minutes of submission.
