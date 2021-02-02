@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Fiscal Year Kickoff"
+title: "GitLab Assembly"
 ---  
 
 ## On this page
