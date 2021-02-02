@@ -13,6 +13,24 @@ title: High Output Management
 
 At GitLab, one of our favorite books is, “[High Output Management](/handbook/leadership/book-clubs/#high-output-management)” by Andrew Grove. The book provides a comprehensive overview of a manager's role and purpose. Our CEO, Sid, applied many of the concepts covered when partnering with the People team to design management and people practices for GitLab. On this page, we will cover some of the key topics covered in the book and what they mean for people leaders. 
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CHs8NxRSGPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+Sid and the Learning and Development team discuss High Output Management during a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). In the video, we explore how the book helped shape GitLab management processes and policies. 
+
+Topics covered include:
+1. Why the book is one of Sid's favorites
+2. Why dual reporting structures lead to matrix organizations and how GitLab maintains a [no-matrix organization](/handbook/leadership/no-matrix-organization/). 
+3. Why 1-1 meetings are fundamental to how we operate at GitLab. 
+4. Enabling the direct report to show initiative in their career and performance
+5. The importance of emotional intelligence in management based on task-relevant maturity
+6. Why training should the team should be the manager's job
+
+> If there is one management book you should read, it is High Output Management. A lot of GitLab policies are directly from the book. Managers can learn that the most challenging aspect of management, is managing their time to make decisions and achieve results. This book will teach you how. 
+
 ### High Output Management
 
 The central thesis is that a manager’s objective is to increase the output of the work of those on their team. At GitLab, managers are expected to lead their teams to achieve [results](/handbook/values/#results). Therefore, a manager should choose high-leverage activities that have a multiplicative impact on the overall output of the team. GitLab moves fast. There are meetings, issues and MRs to review, 1-1s, informal communication, and much more. One way for a manager to be successful is by providing a clear direction to a team by applying a small amount of the time that yields a tremendous value in terms of the output of the team. 
