@@ -127,7 +127,7 @@ Any agreement must be between the team member and the co-working space (i.e. Git
 
 ### Work-related online courses and professional development certifications
 
-GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per fiscal year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit).
+GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit).
 
 
 ### Year-end Holiday Party Budget
