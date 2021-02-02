@@ -117,7 +117,7 @@ As our company continues to see rapid growth, we need to aim to hire the best ta
 We ask you all to contribute by digging into LinkedIn or your favorite social
 media space and add candidates to the spreadsheet or LinkedIn project.
 By doing this, we are reaching out to people that are very closely aligned with
-the team’s needs and finding better-suited candidates.
+the team’s needs and finding better-suited candidates. Source-a-thons also servce as an important source of potential candidates from diverse locations and backgrounds. 
 
 ### Source-a-thon participants
 
@@ -128,9 +128,9 @@ the team’s needs and finding better-suited candidates.
 
 ### How to organize
 
-* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list. Internal source-a-thons could be organized by any member of the Recruiting team;
+* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list. Hiring Manager should remember our commitment to hiring a diverse and inclusive workforce when selecting participants and times (for geographic diversity) for Source-a-thons. Internal source-a-thons could be organized by any member of the Recruiting team;
 * the Recruiter and/or Sourcer creates a Source-a-thon issue using the [GitLab Source-a-thon Template](https://gitlab.com/gitlab-com/people-group/recruiting/-/blob/master/.gitlab/issue_templates/source-a-thon.md) with all knowledge gathered from the hiring team to give to the participants; then also adds a Project within LinkedIn Recruiter specifially for the Source-a-thon event;
-* the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and asks the participants to add and save all the sourced candidates in LinkedIn project; 
+* the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and asks the participants to add and save all the sourced candidates in LinkedIn project; Hiring Managers distribute the opportunity to participate widely in Slack channels and team meetings.
 * the Recruiter and/or Sourcer should make sure that all invited team members have their LinkedIn account set up before the source-a-thon. For more information please refer to the [Upgrading your LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) section.
 
 ### Timing
