@@ -287,7 +287,7 @@ Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponso
 | Registered | Registered for event |  |
 | Meeting Requested | Meeting set to occur at event |  |
 | No Show | Registered but did not attend event |  |
-| Attended | Attended event |  |
+| Attended | Attended event | Yes |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 | Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
