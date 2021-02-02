@@ -5,9 +5,7 @@ title: FY22-Q1 Learning & Development Newsletter
 
 Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them. 
 
-For more information on the structure and process for the L&D newsletter, see [this handbook page](/handbook/people-group/learning-and-development/newsletter/).
-
-You can find links to past L&D Newsletters on the [Newsletter page](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
+You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
 
 ## Learn from Leadership 
 
@@ -67,7 +65,7 @@ The DIB Team has worked on many projects to date, including, but not limited to:
    * [Handbook Page](/company/culture/inclusion/dib-training/)
    * [Course in GitLab Learn](https://gitlab.edcast.com/journey/dib-training-certification)
 
-Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
+**Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/8) if there is a team you would like to see featured or if you would like your team to be featured! 
 
 ## Recap of FY21-Q4
 
@@ -92,7 +90,7 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
 
 **New and Updated [Leadership Pages](/handbook/leadership/):** 
 
-The L&D Team has been adding more content to the leadership pages and doing [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). You can see an outline of the pages below. 
+The L&D Team has been adding more content to the leadership handbook pages and doing [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). You can see an outline of the leadership pages below. 
 
 * [Building Trust](/handbook/leadership/building-trust/)
 * [Coaching](/handbook/leadership/coaching/)
@@ -126,9 +124,9 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
 * GitLab Learn BINGO 
    * Anyone is welcome to join our upcoming Learning BINGO challenge to become more familiar with GitLab Learn and LinkedIn Learning. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn!
 * Another Manager Challenge planning to launch in March
-* [CEO Handbook Learning Sessions](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
+* [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
 * Crucial Conversations Certification will be completed by L&D Team Members to be able to provide training across the company later in the FY22! 
-* We will be transitioning from [Monthly Continuous Learning Calls](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
+* We will be transitioning from [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
 * GitLab Learn launch to external audiences!
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
