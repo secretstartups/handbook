@@ -204,7 +204,7 @@ If you are a fulltime team member and you are contacted by your state's Unemploy
 
 ### Changing bank information
 
-1. If changing baning information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update BambooHR accordingly.
+1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update BambooHR accordingly.
 
 
 ### iiPay - Australia
