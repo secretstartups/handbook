@@ -15,7 +15,46 @@ This quarter we are learning from [Robin Schulman](/company/team/#rschulman).
   <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-TRANSCRIPT TO BE ADDED  
+**Q: What has your career journey looked like to date?**
+
+- Robin: 
+
+**Q: What’s the biggest career risk you’ve ever taken?**
+
+- Robin: 
+
+**Q: What’s the best book you’ve read in the past year or favorite book in general?**
+
+- Robin: 
+
+**Q: What is your preferred learning style? (Different learning styles - Visual: You prefer using pictures, images, and spatial understanding. Auditory: You prefer using sound and music. Kinesthetic: You prefer using your body, hands and sense of touch. Reading/Writing: You prefer using words, both in speech and writing.)**
+
+- Robin: 
+ 
+**Q: Why do you think learning is important?**
+
+- Robin: 
+
+**Q: What is one thing you wish you would have learned sooner in your career?**
+
+- Robin: 
+
+**Q: Can you name a person who has had a tremendous impact on you as a leader? Maybe someone who has been a mentor to you. Why and how did this person impact your life.** 
+
+- Robin: 
+
+**Q: What are you doing to ensure you continue to grow and develop as a leader?**
+
+- Robin: 
+
+**Q: Is there anything else you would like to tell us about Leadership at GitLab?**
+
+- Robin: 
+
+**Fun Facts about Robin**
+
+- Robin: 
+
 
 Is there a leader at GitLab that you want to learn more about? To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
