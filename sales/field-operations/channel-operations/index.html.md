@@ -677,21 +677,21 @@ Visit the [Partner Applicant / Partner Portal FAQ](https://docs.google.com/docum
 If a deal is being transacted through **GCP  Marketplace** or **AWS Marketplace**, then the following fields needs to be filled out on the Opportunity:
  - **DR - Partner** should be filled out using these SFDC accounts:
    - [https://gitlab.my.salesforce.com/0014M00001nJhks](https://gitlab.my.salesforce.com/0014M00001nJhks)
-   - -https://gitlab.my.salesforce.com/0014M00001ldTdt](https://gitlab.my.salesforce.com/0014M00001ldTdt) 
+   - [https://gitlab.my.salesforce.com/0014M00001ldTdt](https://gitlab.my.salesforce.com/0014M00001ldTdt) 
  - **DR - Partner Deal Type** = Resale
  - **DR - Partner Deal Type** = PIO, Assist, or Fulfillment
 
 If Google or AWS has brought us a lead/referred us a deal but will not be transacting on their Marketplace, then the following fields should be filled out on the Opportunity:
  - **DR - Partner** should be filled out using these SFDC accounts:
-   - https://gitlab.my.salesforce.com/0014M00001nJhks
-   - https://gitlab.my.salesforce.com/0014M00001ldTdt 
+   - [https://gitlab.my.salesforce.com/0014M00001nJhks](https://gitlab.my.salesforce.com/0014M00001nJhks)
+   - [https://gitlab.my.salesforce.com/0014M00001ldTdt](https://gitlab.my.salesforce.com/0014M00001ldTdt) 
  - **DR - Partner Deal Type** = Referral
  - **DR - Partner Deal Type** = PIO
 
 If Google or AWS has assisted on a deal and helped drive the customer to buy GitLab, but was not the original source of the opportunity, then the following fields should be filled out on the Opportunity:
- - **Influence Partner** = should be filled out using theseSFDC accounts:
-    - https://gitlab.my.salesforce.com/0014M00001nJhks
-    - https://gitlab.my.salesforce.com/0014M00001ldTdt 
+ - **Influence Partner** = should be filled out using these SFDC accounts:
+   - [https://gitlab.my.salesforce.com/0014M00001nJhks](https://gitlab.my.salesforce.com/0014M00001nJhks)
+   - [https://gitlab.my.salesforce.com/0014M00001ldTdt](https://gitlab.my.salesforce.com/0014M00001ldTdt) 
 
 ### Requesting Google Cloud Credits:
 Required fields when requesting Google Cloud Credits on an Opportunity
