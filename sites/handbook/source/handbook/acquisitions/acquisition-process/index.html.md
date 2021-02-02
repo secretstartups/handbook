@@ -144,6 +144,7 @@ The process is comprised of four key stages:
             1. 6 months is an optimal timeframe which allows for incremental integration of the target's functionality, covering its entirety at best or its fundamentals at the very least, while not being overly extended. We would want to refrain from using a longer time frame as our roadmap priorities may change such that we could potentially find ourselves abandoning certain milestones, negating some or all of the rationale behind the deal.
             1. Will help establish focus on both acquired target and our product team
             1. Be able to complete payouts to the target's entity and shut it down sooner
+        1. At least one milestone will focus on developing new functionality which will be based on the integration delivered in earlier milestones
 1. To determine the deal ROI, the acquisition team will perform the analysis using the [cost-revenue acquisition calculator](https://docs.google.com/spreadsheets/d/1ke36-mtEi8MhfMKXpYGMRP6H3HH6MimxXt86Zv_QkzM/edit#gid=0) (_internal_ GitLab document). Make a copy of the master cost-revenue acquisition calculator file and save it in the relevant project folder in Google Drive before making changes to the file.
 1. Presenting the business case for approvals (by order of occurrence):
     1. Champions' approval: The acquisition team will review the business case together and approve the suggested deal. This includes approval of all the following:
