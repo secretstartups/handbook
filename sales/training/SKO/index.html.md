@@ -96,7 +96,7 @@ A: SKO is a great opportunity for our team to come together to both celebrate ou
 
 **Q: Is there a dress code for this virtual event?**
 
-A: While you will attend this event virtually, we ask that you please regard the dress code for all days just like you would for an in-person SKO. Business casual is a good reference point. Remember that much of the event will be photographed and recorded, and we will host external attendees (namely, partners). 
+A: While you will attend this event virtually, we ask that you please regard the dress code for all days just like you would for a virtual customer meeting. Remember that much of the event will be photographed and recorded, and we will host external partners and customers. 
 
 For the Awards Ceremony, we encourage you to embrace your festive GitLab side. After all, this event is to celebrate you and all of your accomplishments in FY21!
 
