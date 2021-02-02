@@ -36,10 +36,11 @@ A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/su
 
 Most of the forms are self-explanatory, but here are some extra considerations:
 
-- GitLab.com Account: single user account issue only, all others go to GitLab.com.
+- SaaS Account: single user account issue only, all others go to GitLab.com.
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
-- License Renewals and Upgrades: any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
+- L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
+- Community: If a free user is asking for support that does not fit under one of the existing problem types (especially SaaS or SaaS Account), use this form to mark the ticket as "redirected to community support".
 
 ## After applying the correct form
 
