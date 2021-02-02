@@ -1,9 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Team Handbook
-description: >-
-  The GitLab Support Team Handbook is the central repository for why and how we
-  work the way we do.
+description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 ---
 
 ## Welcome to the GitLab Support Team Handbook
@@ -36,17 +34,17 @@ Know someone who might be a great fit for our team? Please refer them to the job
 
 - Always assume you are the person responsible for ensuring success for the customer.
 - When supporting a customer, any issue, incident or loss is _GitLab's loss_.
-    - When a customer experiences trouble or downtime, take action with the same urgency you'd have if GitLab were experiencing downtime.
-    - When a customer is losing productivity, take action with the same urgency you'd have if GitLab were losing productivity.
-    - The rule of thumb is a customer down with 2,500 users gets the same urgency as if GitLab were losing $1,000,000 per day. This treatment is equal regardless of how much they are paying us.
+   - When a customer experiences trouble or downtime, take action with the same urgency you'd have if GitLab were experiencing downtime.
+   - When a customer is losing productivity, take action with the same urgency you'd have if GitLab were losing productivity.
+   - The rule of thumb is a customer down with 2,500 users gets the same urgency as if GitLab were losing $1,000,000 per day. This treatment is equal regardless of how much they are paying us.
 - Escalate early. Visibility across GitLab, up to and including the CEO, is always better earlier rather than later. Ensure all resources needed are on the case for customers early.
 
 Remember, as members of the support team we are the first to interact with someone when they have a problem or question. As such it is up to us to represent the company and make sure we present ourselves properly. Therefore we are expected to:
 
-- Always be friendly and respectful.
-- Be open to new ideas and points of view.
-- Be OK if you don't know something. You can always ask someone else.
-- Be comfortable saying no to a customer (but try to suggest a workaround and escalate to a Senior if necessary).
+ - Always be friendly and respectful.
+ - Be open to new ideas and points of view.
+ - Be OK if you don't know something. You can always ask someone else.
+ - Be comfortable saying no to a customer (but try to suggest a workaround and escalate to a Senior if necessary).
 
 ### Our role within GitLab
 
@@ -96,21 +94,21 @@ GitLab team members interested in learning about the GitLab Support team and our
 
 To participate in this program, open [a Support Shadow Program issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Shadow%20Program) in the `support-team-meta` project. This issue will be used to organize, plan, and track progress toward this program.
 
-- - -
+---
 
 ## FY22 Direction
 
-<span class="colour" style="color: rgb(0, 0, 0);">Gitlab Support's vision is to deliver a consistent, exceptional experience to all customers across the globe.  Our regional teams will collaborate to deliver on that vision by hiring exceptional talent, developing that talent through quality training, and building standard workflows that provide a smooth experience for engineer and customer alike.</span>
+Gitlab Support's vision is to deliver a consistent, exceptional experience to all customers across the globe.  Our regional teams will collaborate to deliver on that vision by hiring exceptional talent, developing that talent through quality training, and building standard workflows that provide a smooth experience for engineer and customer alike.
 
-<span class="colour" style="color: rgb(0, 0, 0);">Over the course of fiscal year 2021, GitLab Support worked diligently on our direction to introduce ticket deflection, scaling the team through hiring top talent, building consistent operational excellence through automation, and continued professional development of our Support Engineers and Managers. </span>
+Over the course of fiscal year 2021, GitLab Support worked diligently on our direction to introduce ticket deflection, scaling the team through hiring top talent, building consistent operational excellence through automation, and continued professional development of our Support Engineers and Managers.
 
-<span class="colour" style="color: rgb(0, 0, 0);">The overall direction for Support in Gitlab's fiscal year 2022 will be to drive to results toward our KPI's while evolving what and how we deliver service to Gitlab customers to support the company's overall [strategic objectives](/strategy), with a particular emphasis on;</span>
+The overall direction for Support in Gitlab's fiscal year 2022 will be to drive to results toward our KPI's while evolving what and how we deliver service to Gitlab customers to support the company's overall [strategic objectives](/strategy), with a particular emphasis on;
 
-- <span class="colour" style="color: rgb(0, 0, 0);">expanding our Enterprise customer offering.</span>
-- <span class="colour" style="color: rgb(0, 0, 0);">inclusive growth & development of our global Support team members through expert hiring, technical training, and process improvements.</span>
-- <span class="colour" style="color: rgb(0, 0, 0);">evolve our support model to accommodate Gitlab expansion in delivery through new channels.</span>
+- expanding our Enterprise customer offering.
+- inclusive growth & development of our global Support team members through expert hiring, technical training, and process improvements.
+- evolve our support model to accommodate Gitlab expansion in delivery through new channels.
 
-As can also be inferred from our [<span class="colour" style="color: rgb(107, 79, 187);"><u>publicly visible OKR page</u></span>](https://support-fy22-direction.about.gitlab-review.app/company/okrs/), we anticipate FY22 will focus on the following elements:
+As can also be inferred from our [publicly visible OKR page](/company/okrs/), we anticipate FY22 will focus on the following elements:
 
 ### **Achieving our [Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/)**
 
@@ -120,16 +118,16 @@ In the past few years we expanded the support team significantly.  Support will
 
 - Develop "Deep Dives", learning resources and other professional training programs to decrease the time it takes for a new team member to be effective.
 - Make sure that professional training sessions result in the production of publicly consumable resources: docs fixes, tutorials and improvements to any related material.
-- <span class="colour" style="color: rgb(0, 0, 0);">Execute quarterly to actions focused on employee Engagement Survey results.</span>
+- Execute quarterly to actions focused on employee Engagement Survey results.
 
 ### **Evolve and expand our support models**
 
-- <span class="colour" style="color: rgb(0, 0, 0);">An Enterprise level support experience that goes beyond our current rapid service level targets.</span>
-- <span class="colour" style="color: rgb(0, 0, 0);">Increase access to Support expertise for priority support customers outside of existing 24x5 business day and emergency support processes.</span>
-- <span class="colour" style="color: rgb(0, 0, 0);">Developing a dedicated US Federal Support team.</span>
-- <span class="colour" style="color: rgb(0, 0, 0);">Collaborating to enable new delivery deployment methodologies.</span>
+- An Enterprise level support experience that goes beyond our current rapid service level targets.
+- Increase access to Support expertise for priority support customers outside of existing 24x5 business day and emergency support processes.
+- Developing a dedicated US Federal Support team.
+- Collaborating to enable new delivery deployment methodologies.
 
-- - -
+---
 
 ## Hazards and Challenges
 
