@@ -62,8 +62,10 @@ description: This page is about working with sales.
       * The name of the person who will be in touch.
       * Tell the customer to let us know if they haven't heard back within 2
         business days.
-      * Inform the customer that the ticket will auto-close after 7 days without
-        a response from them.
+      * Inform the customer that if we don't receive a reply from them within 20 days following our last reply, 
+        our ticketing system will mark the ticket as solved. If the customer then doesn't respond within 7 days
+        of the ticket being marked as solved, our ticketing system will proceed to close the ticket
+        (see [Handling unresponsive tickets](https://about.gitlab.com/support/#handling-unresponsive-tickets)).
       * Set the ticket status to `Pending`.
 
 
