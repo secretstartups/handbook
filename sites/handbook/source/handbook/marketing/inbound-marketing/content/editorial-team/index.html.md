@@ -983,3 +983,22 @@ If you run into issues with your MR, pipeline, or Terminal, it's usually quickes
 - Abubakar Siddiq Ango
 - Ronald van Zon
 - Thomas Woodham
+
+## Process for paid social 
+
+To run a paid promotion to blog posts, a series, or PathFactory track, plan at least four weeks ahead to gather all necessary assets, and coordinate with other groups. 
+
+- Decide on the content you want to promote and [which channels and formats](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#channels) you want to use. If you're not sure, reach out in #digital-marketing on Slack. 
+- If you are planning to promote multiple pieces of content (blog posts, video, web articles, etc.), it may make sense to create a [PathFactory](/handbook/marketing/marketing-operations/pathfactory/) track to enable better exploration and discovery of the content. In this case, open a [PathFactory Track Request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track). 
+- Open a [Paid Digital Request issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/new?issuable_template=paid-digital-request) and fill in as much as possible. 
+- Open a [design request issue](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/#brand--marketing-design-issue-templates) for the visual assets for your paid social. In most cases, you will use the [general design request template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general), but if you are planning to run a bigger promotion with multiple assets, please use [the integrated campaign request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign) instead.
+- Phew! That was a lot of issues. Make sure to go back and add the design and PathFactory request issues as [blocking](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) the Paid Digital issue and add links in the description where necessary.
+
+Things to note:
+
+- We don't need to provide copy for the ads. Our [agency](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#working-with-pmg-our-digital-agency) takes care of that.
+- Avoid launching promotions in Q4 as holidays in November and December delay the process and the people you're trying to reach with the promotion may take time off then too.
+
+
+
+
