@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Promoting a Support Engineer
-description: "Support managers activities and references"
+description: "How to handle Support Engineer promotions"
 ---
 
 ### Support Engineer Promotion Process for Support Managers - Quick Guide

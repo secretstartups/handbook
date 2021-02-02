@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Engineering Manager Responsibilities
+description: "Support Engineering Manager Responsibilities"
 category: Support Management
 ---
 

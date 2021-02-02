@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Managers
-description: "Support managers activities and references"
+description: "Support Managers activities and references"
 ---
 
 ## On this page
