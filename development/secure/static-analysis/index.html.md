@@ -112,6 +112,25 @@ through our [Release project's issue template](https://gitlab.com/gitlab-org/sec
 The assigned backend engineer is the group's primary liaison with the dependency's open source community. Engineers are expected to contribute 
 back to those projects, especially if critical or high security findings are confirmed.
 
+#### Testing for security vulnerabilities
+
+We have a [dependencies group](https://gitlab.com/gitlab-org/security-products/dependencies) which contains mirrored copies of the OSS projects upon which we most rely. Prior to submitting an MR updating an analyzer to a new version of these projects, engineers are expected to do the following:
+
+1. Find a release branch which matches the new version we wish to ship.
+  * If one doesn't exist, create it from the corresponding tag.
+1. Push the branch through a pipeline which executes all of our security products.
+  * Please note, some of these projects have complicated builds. Auto-Devops works sometimes, but projects such as [spotbugs](https://gitlab.com/gitlab-org/security-products/dependencies/spotbugs) can require a custom CI configuration for our scans to be successful. Also, these projects include tests that can be noisy if not filtered out.
+1. Evaluate any potential security vulnerabilities which are found. 
+  * Work with the relevant Open Source community to resolve any Critical or High severity findings.
+  * GitLab has published [Secure Coding Guidelines](https://docs.gitlab.com/ee/development/secure_coding_guidelines.html), which may be a useful resource to use when trying to solve identified risks.
+
+We do not want to ship updated dependencies which have Critical and High severity vulnerabilities in them. If we find ourselves in this situation, we will 
+withhold updates to the dependency until the problems have been patched.
+
+#### Go security fixes
+
+At times we will need to update our analyzers because of security updates to golang itself. In this situation, we follow the [established release process](https://about.gitlab.com/handbook/engineering/development/secure/release_process.html#security-fixes-of-go).
+
 ### Community Contributions
 
 The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs from the community. Each backend engineer 
