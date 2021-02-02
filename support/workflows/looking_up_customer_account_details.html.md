@@ -151,7 +151,23 @@ to the license will look like https://license.gitlab.com/licenses/LICENSE_ID
 
 ### When full license file is provided
 
-Sometimes a customer may include the full license file to prove their support entitlement. You can determine the license ID (and thus organization) by
+Sometimes a customer may include the full license file to prove their support
+entitlement. There are two methods to decode a license. One method is to use a
+script and the other is to use the Rails console on a self-managed instance.
+
+#### License Decoder
+
+The easiest method is to use the [License Decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder) ruby script.
+It outputs nice clean information including links to subscription information
+and a direct link to the LicenseDot page.
+
+Follow the [instructions](https://gitlab.com/gitlab-com/support/toolbox/license-decoder#gitlab-license-decoder) in the project
+for installation and usage instructions.
+
+
+#### From the Rails console
+
+You can determine the license ID (and thus organization) by
 extracting the ID.
 
 First, trim the carriage returns and/or new lines:
