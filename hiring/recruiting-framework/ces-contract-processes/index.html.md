@@ -247,6 +247,8 @@ Effective dates for a letter of adjustment should be the first (1st) of the mont
 
 The Candidate Experience Specialist needs to tag the Recruiting Operations and Insights team to have the candidate profiles merged while the candidate is in Team Interview before the candidate is in the offer stage. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
 
+When an internal transition is taking place and the start date is amended, please ensure to update the People Experience team via Slack in the `#people-exp_ces` channel of the new start date. 
+
 ## Rehires
 
 In the event that a former team member is rehired with the company, they will still go through the normal interviewing process. Once the contract is signed, the CES needs to notify the People Experience team as soon as possible that a former team member has been rehired in the private people-exp_ces Slack channel.
