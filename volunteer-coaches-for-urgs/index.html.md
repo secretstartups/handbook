@@ -62,9 +62,10 @@ GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 
 | Volunteer   | Start  | End | Topic | 
 |-------------|--------|-----|-----|
-| Wayne Haber |  TBD | TBD | Technical career advice |
-| TBD         |        |     |     |
-
+| Wayne Haber       | TBD | TBD | Technical career advice |
+| Greg Myers        | TBD | TBD |                         |
+| Gerardo Gutierrez | TBD | TBD |                         |
+| You?              |     |     |                         |
 
 Coaches interested in helping others in the freeCodeCamp community are encouraged to join the [freeCodeCamp Forum](https://forum.freecodecamp.org/) to help provide guidance and answer questions.
 
