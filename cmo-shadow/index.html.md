@@ -24,7 +24,7 @@ GitLab is an [all-remote](/company/culture/all-remote/) company, so the shadow w
 ### Goal
 {: #goal}
 
-The goal of the CMO Shadow Program is to give current and future [TBD(?)](/company/team/structure/) in the Marketing Team an overview of all aspects of the [company](/company/).
+The goal of the CMO Shadow Program is to give current and future [leaders](/company/team/structure/) in the Marketing Team an overview of all aspects of the [company](/company/).
 This should enable marketing leadership to better perform [global optimizations](/handbook/values/#global-optimization).
 You'll gain this context through the [meetings you attend](#meetings) and discussions with the CMO regarding any questions that arise during the call, should time be available during the shadow timeframe.
 The program also creates opportunities for the CMO to build relationships with team members across the marketing department and to identify challenges and opportunities earlier.
@@ -32,17 +32,19 @@ The program also creates opportunities for the CMO to build relationships with t
 ### What it is not
 {: #what-it-is-not}
 
-The CMO Shadow Program is not a performance evaluation or the next step to a promotion. Being a CMO shadow is not needed to get a promotion or a raise, and should not be a consideration factor for a promotion or raise, as diverse applicants have different eligibilities.
+The CMO Shadow Program is not a performance evaluation or the next step to a promotion. Being a CMO shadow is not needed to get a promotion or a raise, and should not be a consideration factor for a promotion or raise, as diverse partipants have different eligibilities.
 
 ### Reasons to participate
 {: #reasons-to-participate}
 
-To be developed
+1. Are you interested in learning more about marketing's interaction with other departments within the company? 
+1. Are you intersted in how other leaders within marketing run their 1:1s with CMO or run their team meetings and you're looking for leadership inspiration you can take back to your team? 
+
 
 ### What is it like?
 {: #what-it-is-like}
 
-To be developed
+* CMO days are very interesting. One moment, you will be talking about a press strategy and the next, you'll be in pipeline converstaions. Depending on the meeting, some may give you context of what you're hearing or some may not. If limited context is given, then you're quickly trying to dig into the data that's been presented so you can glean as much information from the meeting as possible, before going on to the next. 
 
 ### What is the feedback from the CMO?
 {: #cmo-feedback}
@@ -55,7 +57,7 @@ To be developed
 ### Eligibility
 {: #eligibility}
 
-To be developed
+CMO staff will recommend who from their organizations should participate in the program. If you're a team member reading this and intersted in participating, reach out to your CMO staff member. 
 
 ### Rotation schedule
 {: #schedule}
@@ -63,8 +65,8 @@ To be developed
 | Start date | End date | Shadow & Role |
 | ---------- | -------- | ------- |
 | 2021-01-04 | 2021-01-08 | [Jackie Gragnola](https://gitlab.com/jgragnola) - Manager, Campaigns |
-| 2021-01-04 | 2021-01-08 | [Jackie Gragnola](https://gitlab.com/jgragnola) - Manager, Campaigns and [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
-| 2021-01-04 | 2021-01-08 | [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
+| 2021-01-18 | 2021-01-22 | [Jackie Gragnola](https://gitlab.com/jgragnola) - Manager, Campaigns and [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
+| 2021-01-25 | 2021-01-29 | [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
 
 ## Preparing for the Program
 {: #preparation .gitlab-purple}
@@ -82,7 +84,7 @@ To be developed
 ### What to wear
 {: #what-to-wear}
 
-You **do not need to dress formally**; business casual clothes are appropriate. For example, Todd wears a button-up with jeans most days. GitLab shirts are acceptable. Review Todd's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the Executive Business Administrator (EBA) in the `#cmo-shadow` Slack channel. <!-- Question: Do we need a slack channel? -->
+You **do not need to dress formally**; business casual clothes are appropriate. For example, Todd wears a button-up with jeans most days. GitLab shirts are acceptable. Review Todd's calendar to check if there are formal occasions - this may require different clothing. If unsure, please ask the Executive Business Administrator (EBA).
 
 ### Pre-Program Tasks
 {: #pre-program-tasks}
@@ -95,32 +97,32 @@ You will get asked about yourself during the program, and it's important to desc
 #### Review the CMO's calendar
 {: #review-calendar}
 
-Review the CMO's calendar to get an idea of what your upcoming weeks will be like.
+Review the CMO's calendar to get an idea of what your upcoming weeks will be like. If you see there is a meeting on the CMO calendar and you're not invited, but think you should be, feel free to ask CMO or the EBA directly. 
 
 #### Include CMO Shadow in Zoom Name
 {: #zoom-name}
 
 Shadows should update their name in Zoom to include `[Name] | CMO Shadow` for clarity in meetings.
 
-#### Coffee Chat with CEO Shadow Alumni
+#### Coffee Chat with CMO Shadow Alumni
 {: #alumni-coffee-chat}
 
-Feel free to schedule a coffee chat with any of the CMO Shadow Alumni. You can review the list of [CEO Shadow Alumni](/handbook/ceo/shadow/#alumni) below. These chats can be helpful when deciding whether to apply to participate or if you're unable to participate but want to hear about the experience and what alumni have learned while shadowing.
+Feel free to schedule a coffee chat with any of the CMO Shadow Alumni. You can review the list of [CMO Shadow Alumni](/handbook/marketing/cmo-shadow/#alumni) below. These chats can be helpful when deciding whether to participate or if you want to hear about the experience and what alumni have learned while shadowing.
 
 ## What to expect during the program
 {: #what-to-expect .gitlab-purple}
 
 ### Tasks
 {: #tasks}
-To be added, if relevant.
+At times you may be asked your opinion on a topic or you may be asked to do work if it is specifically realted to your job. 
 
 ### Meetings
 {: #meetings}
-To be added, if relevant.
+You are welcome to come off mute and join the conversation. Ask questions where you see appropriate. If you're more comfortable to dopping a line in chat, meeting attendees will see the note and often times, voclize your comment and may ask for more insight. 
 
 ### Taking Notes
 {: #taking-notes}
-To be added, if relevant.
+Depending on the meeting, you may be asked to take notes for the meeting. Depending on how you work, you may want to take notes of your own. Noting what you thought was interesting about the converation, how you think it impacts your role/team, and any follow-ups you want to personally take as a result of what you heard. 
 
 #### Follow activity from the CMO
 {: #follow-cmo-activity}
@@ -131,10 +133,11 @@ Shadows are encouraged to follow the CMO's activity on various platforms to get 
 * In GitLab: This can be seen on the CMO's [GitLab activity log](https://gitlab.com/users/tbarr/activity).
 
 ## Alumni
-{: #zoom-name .gitlab-purple}
+{: #alumni}
 <!-- Do we want this? -->
 CMO Shadow program alumni are welcome to join the `#cmo-shadow-alumni` Slack channel to stay in touch after the program.
 
 | Start date | End date | Name | Title | Takeaways |
 | ---------- | -------- | ---- | ----- | --------- |
-| YYYY-MM-DD | YYYY-MM-DD | [TBD]() | TBD | [Youtube Title & Link]() |
+| 2021-01-04 | 2021-01-22 | Jackie Gragnola | Manager, Campaigns | [Youtube Title & Link]() |
+| 2021-01-18 | 2021-01-29 | Leslie Blanchard | Director, Field Marketing | [Youtube Title & Link]() |
