@@ -22,13 +22,9 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2020-11-25 | Family & Friends Day
-| 2020-11-26 | Public Holiday (US)
-| 2020-12-18 | Family & Friends Day
-| 2020-12-24 to 2021-01-04 | Holiday Break - Minimal Staffing
-| 2021-01-15 | Family & Friends Day
-| 2021-01-18 | Public Holiday (US)
 | 2021-02-15 | Public Holiday (US)
+| 2021-02-26 | Family & Friends Day
+| 2021-03-19 | Family & Friends Day
 
 
 ### OOO Handover Process for People Experience Team
@@ -325,3 +321,9 @@ New team members based in the Netherlands will send an email to people-exp@gitla
 1. Select Export
 1. Go to the downloads page. It will take a few minutes for the report to be ready, refresh your page if it is not loading. 
 1. C+P this data into the `Social Call` tab in the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 
+
+### Slack Admin
+
+The People Experience team have admin access to Slack and can assist team members with any PTO queries as per the process listed on the PTO Handbook [page](https://about.gitlab.com/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). 
+
+The People Experience team will also receive notifications of any news items from Slack, as well as sync issues between BambooHR and PTO by Roots. When receiving the email about issues with the sync, the People Experience Associate will verify whether it is a specific issue or whether it is related to a recent offboarding of a team member or if it is related to team members starting that week. The sync takes about 24 hours when it will then update to remove/add the specific team members. 
