@@ -111,7 +111,22 @@ All marketing team members should plan to focus ~70% of their time and plan arou
 {: #gtm-motion-includes}
 <!-- DO NOT CHANGE ANCHOR -->
 
+**Always Included (TBD):**
+* Unified L2RM (Lead to Revenue Management) reporting/analytics
+* AR/PR
+* ABM, Focus account lists
+* Share of Voice Campaigns
+* Digital Marketing
+* Alliance and Channel Partner Campaigns
+* Buyer Journey Content & Assets for Awareness, Consideration and Decision
+* Bizible/Marketo Reporting
+* Sales Enablement
+* Messaging and Positioning Framework
+* Buyer Personas
+* Competitive Assets
+* Web ROI Model
 
+**Optional (discretion of Core Team):**
 
 ## GTM Motion Core Teams
 {: #core-teams .gitlab-purple}
@@ -165,6 +180,22 @@ As Sales Plays are developed, the combination of the Sales Plays for a motion wi
 
 To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
 
+### What is included in a GTM Motion?
+{: #sales-play-includes}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Always Included (TBD):**
+* Buyer Personas
+* Key Contacts Data
+* Sales Prospecting Playbook
+* Outreach Guide & Sequences
+* SDR Enablement
+* Sales Play Training
+* Partner Sales Enablement
+* Sales Play specific SFDC Reporting
+* Play Specific Campaigns & Compete Motions
+* Customer ROI Analysis Support
+
 ## Themes
 {: #themes .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -178,6 +209,8 @@ Themes are expected to be generated through the Core Team planning in kicking of
 ## Project Compass
 {: #project-compass .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
+
+The Marketing Team OKRs should align to the intitiatives in Project Compass.
 
 To view the Project Compass Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `Project Compass: Implementation - Sales & Marketing Levers`.
 
@@ -224,8 +257,3 @@ The GTM Motions will each have an epic, where all teams can reference plans and 
    - DevOps Platform Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822
    - GitOps Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823
    - Brand Epic: 
-
-
-<!-- Working on across-marketing calendar proof of concept to add here. Might want to move this up or put in Marketing HB then link there... Need to think through. -->
-
-
