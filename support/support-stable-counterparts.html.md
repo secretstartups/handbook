@@ -122,9 +122,9 @@ Some functions don't fit as cleanly into the Support Stable Counterparts model. 
 | Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
 |:----------:|:-------------------:|:-------------------:|:-------------------:|:--------------------------:|:---------------------------------:|
 | UX         | UX                  | Christie Lenneville | Lyle Kozloff        | Cynthia Ng                 | weekly team meeting |
-| UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng & Greg Myers    | weekly team meeting |
+| UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng                 | weekly team meeting |
 | Production | .com Infrastructure | Dave Smith          | Lyle Kozloff        | Vlad Stoianovici           | every 2 weeks |
-| Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | TBD                        | N/A |
+| Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | Greg Myers                 | N/A |
 | Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | Brie Carranza              | N/A |
 | Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
 | Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
