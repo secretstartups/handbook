@@ -377,6 +377,47 @@ Following the review above, the pitch should fall into one of three categories:
 
 When responding to the person who pitched, be sure to include your rationale for your response and any relevant data or examples to justify your decision.
 
+## Sourcing blog posts 
+
+In addition to reviewing pitches submitted by team members, the Editorial team also actively sources topics for potential blog posts in the following ways:
+
+### Sweep of Unfiltered channels
+
+- Weekly [review of the GitLab Unfiltered blog](/handbook/marketing/inbound-marketing/content/editorial-team/#featuring-unfiltered-posts) to surface blog posts to bring over to the main blog
+
+#### Sweep of Unfiltered YouTube Channel 
+-  Twice a month, review the GitLab Unfiltered YouTube channel for videos discussing topics that are popular on the blog, such as Kubernetes, CI/CD, GitOps.
+- Check to see if there are any videos that follow up on a topic that has been covered in a past blog post in case there is an update we can share. 
+- Check to see if there are any videos that are receiving a lot of views (a high number of views in a short period of time, or a high number of views over a longer period of time). Once one or more videos are identified, check with the Digital Production team to see if the number of views accurately represents viewer engagement with the video, since sometimes a lot of people click videos but don't watch more than a few seconds. 
+- Once one or more GitLab Unfiltered videos are identified as a good candidate for a blog post, open an issue and connect with the team members featured in the video. Some questions to ask them: Why do you think viewers were interested in this video? Would you be interested in writing a blog post about this video, or being interviewed for a blog post about this topic? 
+- An example of a blog post based on an Unfiltered video: "[How we used parallel CI/CD jobs to increase our productivity](/blog/2021/01/20/using-run-parallel-jobs/)" 
+
+### Follow up on top-performing posts 
+
+During [quarterly traffic analysis](#blog-traffic-analyses), identify high-traffic blog posts (published at any time, not necessarily from that quarter).
+
+We can optimize these in a few ways:
+
+#### Follow up
+
+Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there. 
+
+This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
+
+For example, [this post about Praefect](/blog/2021/01/21/high-availability-git-storage-with-praefect/) is a follow-up to a [popular post from 2018 about Gitaly](/blog/2018/09/12/the-road-to-gitaly-1-0/).
+
+#### Update 
+
+Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Strategic Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
+
+This works for tutorials and how-to posts that are no longer current. Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/). 
+
+#### Repurpose 
+
+[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose). 
+
+This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
+
 ## Checklist for blog post issues
 
 If you are planning to write or even just considering writing a blog post:

@@ -35,7 +35,8 @@ twitter_creator: "@gitlab"
 **OR**
 - Elgato Key Light - [Example](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
 
-&nbsp;
+<<<<<<< sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md
+
 
 ## Advanced Desk Packages
 ---
@@ -192,3 +193,5 @@ _This kit will allow you to create shade for yourself wherever you're shooting (
 
 
 
+=======
+>>>>>>> sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md
