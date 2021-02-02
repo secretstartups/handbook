@@ -143,9 +143,9 @@ A breakdown of MQLs and lead scoring can be found in the [marketing operations h
 Sales Segmentation is based on `Total Employee` count of the `Global Account`.
 If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
 
-- `Large` = 2,000+ total employees
-- `Mid-Market` = 100-1,999 total employees
-- `SMB` (Small Business) = 0-99 total employees
+- `Large` = 2,001+ total employees
+- `Mid-Market` = 101-2000 total employees
+- `SMB` (Small Business) = 0-100 total employees
 
 `Total Employee` count is based on the number of employees that our data tools return for that account <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
 We use a hierarchy structure to determine what the number of employees is for the account.
