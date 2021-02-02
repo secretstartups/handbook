@@ -35,5 +35,3 @@ twitter_creator: "@gitlab"
 **OR**
 - Elgato Key Light - [Example](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
 
-&nbsp;
-
