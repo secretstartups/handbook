@@ -213,16 +213,11 @@ Think of the materials as a "Meeting in a Box."
 
 ## Book Choice
 
-The offsite includes a 30 minute to 1 hour discussion, 15 minutes of which is on action items, on a read or recording chosen explicitly for the offsite.
-The CoS solicits nominations for material (books, blogs, recordings, articles, etc.) from throughout the company into an issue.
-Then the E-Group decides on what will be discussed. They will occasionally choose material with a US focus, but they'll primarily choose material with global relevance.
-The selection will be finalized no less than 1 month prior to the offsite.
-
-In advance of the discussion, each E-Group member will make at least one MR to the handbook that is inspired by the reading. Key takeaways and their implications for GitLab will be key points of conversation. 
+The offsite includes a 30 minute to 1 hour discussion on material chosen by the CEO. This could be a book, article, recording, or other artifact. The selection will be finalized no less than two weeks prior to the offsite. At the time that the selection is shared, the CEO will also share three conversation topics. E-Group team members are expected to come to the discussion prepared to discuss these prompts.
 
 We will share discussion highlights and takeaways in E-Group Offsite meeting notes that are shared with all team members. This also allows team members to engage in the conversation.
 
-Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite book selections.
+Team Members may [expense](/handbook/spending-company-money/#expense-policy) E-Group offsite material in the quarter that it is discussed.
 
 Material that the E-Group finds noteworthy should be added to the [Leadership Books](/handbook/leadership/#books).
 
