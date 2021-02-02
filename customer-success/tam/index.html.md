@@ -12,11 +12,13 @@ title: "Technical Account Management Handbook"
 
 ## Handbook Directory
 
-[TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+### TAM Segments & Metrics
+
+- [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### TAM Responsibilities
 
-- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 - [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
@@ -28,7 +30,7 @@ title: "Technical Account Management Handbook"
 
 ### Customer Journey
 
-- [Account Engagement](/handbook/customer-success/tam/engagement/)
+- [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
@@ -80,16 +82,9 @@ Technical Account Managers make sure that the adoption of GitLab is successful a
 
 #### Book of Business
 
-Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current targets per TAM based on segment are:
-
-- Large / Enterprise: $3.25M/TAM
-- Commercial: $4M/TAM
-- SMB: N/A as it's digitally-led
+Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M per TAM
 
 The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
-
-Customers who have an annual recurring revenue (ARR) of $50k or more are assigned a designated TAM, and we are piloting a customer onboarding program for customers in the Commercial segment that have an ARR of $20-50k. We are rolling out our digital enablement program, with a view to enable all paying >20k ARR customers with digital content in FY22.
-
 
 There are various services a Technical Account Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab and their utilisation of GitLab's products and services. These services include, but are not limited to:
 
