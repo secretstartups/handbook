@@ -97,7 +97,7 @@ In 2021, the following offsite dates have been confirmed (starting dates):
 
 ## Timeline
 
-1. 1 month before Book Selection is finalized
+1. 2 weeks before Book Selection or other required pre-work is finalized
 1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](/handbook/business-ops/data-team/) for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](/handbook/ceo/offsite/#data-team-member-on-call)
 1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
 1. Immediately following the Offsite, the CoST should create the agenda for the next Offsite so that topics can be added as they come up.
