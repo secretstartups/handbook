@@ -12,11 +12,13 @@ title: "Technical Account Management Handbook"
 
 ## Handbook Directory
 
-[TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+### TAM Segments & Metrics
+
+- [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
+- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### TAM Responsibilities
 
-- [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 - [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
@@ -28,7 +30,7 @@ title: "Technical Account Management Handbook"
 
 ### Customer Journey
 
-- [Account Engagement](/handbook/customer-success/tam/engagement/)
+- [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
@@ -80,16 +82,9 @@ Technical Account Managers make sure that the adoption of GitLab is successful a
 
 #### Book of Business
 
-Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current targets per TAM based on segment are:
-
-- Large / Enterprise: $3.25M/TAM
-- Commercial: $4M/TAM
-- SMB: N/A as it's digitally-led
+Technical Account Managers are responsible for managing a portfolio of customer accounts based on the sum of the annual contract value of the accounts under management. The current target per TAM for the [TAM-assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment) is 3.6M per TAM
 
 The team continues to drive efficiency improvements to allow TAMs to effectively manage a larger book of business.
-
-Customers who have an annual recurring revenue (ARR) of $50k or more are assigned a designated TAM, and we are piloting a customer onboarding program for customers in the Commercial segment that have an ARR of $20-50k. We are rolling out our digital enablement program, with a view to enable all paying >20k ARR customers with digital content in FY22.
-
 
 There are various services a Technical Account Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab and their utilisation of GitLab's products and services. These services include, but are not limited to:
 
@@ -121,30 +116,6 @@ There are various services a Technical Account Manager will provide to ensure th
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
-
-### Book of Business Prioritization
-
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. Definitions include:
-
-1. High Touch: TAM-led onboarding, regular cadence calls, full TAM-led customer lifecycle
-1. Medium Touch: TAM-led onboarding, quarterly check-ins, renewal touch point
-1. Digital Touch: No direct TAM involvement, onboarding and enablement driven by email-led digital journey
-
-Why do we use a prioritization system?
-
-- Use in SALSATAM meetings to ensure team alignment
-- Managers have more visibility into the potential workload of the team member via more context on the makeup of the overall portfolio
-- TAMs have more insight into their portfolio and where they should be spending their time
-- TAMs can run associated campaigns of education to low touch or less engaged customers or strategic (high touch) customers to be automatically invited to Customer Advisory Boards or events
-- Used to further segment customers, beyond the [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
-
-Criteria to apply includes:
-
-- Future account growth
-- Size of the account
-- Risk / health of account
-
-The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
 ## TAM Tools
 

@@ -53,7 +53,24 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model to focus the TAM's efforts where they will have maximum value and impact. The priority tiers have [defined SLAs for engagement](https://about.gitlab.com/handbook/customer-success/tam/#book-of-business-prioritization) and [metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics). Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is constantly reviewed.
+GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics) to focus the TAM's efforts where they will have maximum value and impact. Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is reviewed by each region quarterly.
+
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. 
+
+Priority Definitions include:
+
+1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
+2. Pr2: 60 day call cadence, EBR, renewal touch point
+3. Pr3: Digital journey only
+
+Why do we use a prioritization system?
+
+- To enable focus on customers that have an imminent opportunity for growth or that require near-term risk mitigation
+- To ensure that their book of business does not overburden the TAMs
+- To give TAM Managers more visibility into the potential workload of their team via more context on the makeup of the overall portfolio
+- Used to further segment customers, beyond the [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+
+The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
 ### US Enterprise
 

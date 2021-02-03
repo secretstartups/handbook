@@ -62,7 +62,7 @@ It's recommended for TAMs to use [EBRs](/handbook/customer-success/tam/ebr/) and
 
 To keep track that the success plan is up to date, use the custom date field on the Objective in the success plan, “Last Validated”. The TAM will update it when they get confirmation from the customer that it is still a business priority for them.
 
-Internally, TAMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the ROI health scorecard.
+Internally, TAMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
 ## ROI Success Plan
 
@@ -220,7 +220,7 @@ Gainsight ROI Success Plans are a separate entity, as they are meant for articul
 
 TAMs use success plans as part of their EBRs to share insights, progress, and objectives to offer deeper insight into their organization and the value of GitLab, as success plans can track progress towards goals and report on it to the executives.
 
-## Gainsight Howto
+## Gainsight Guide
 
 ### Create a Success Plan in Gainsight
 
@@ -276,7 +276,7 @@ Finally, next to the success plan due date, change the "Status" of the success p
 
 ### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
 
-Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress (Gitlab only). Video includes:
+Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress (GitLab only). Video includes:
 
 1. How to determine when to use an ROI Success Plan and when to use a Stage Adoption Success Plan (as defined above)
 1. How to create the stage adoption objective

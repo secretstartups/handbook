@@ -36,18 +36,12 @@ The following are recommended questions for discovering customer needs.
 - Paid services
 - Adoption Map
 
-| Feature / Use Case | F/C  | Basic | S/P  | G/U  |
-| ------------------ | ---- | ----- | ---- | ---- |
-|                    |      |       |      |      |
-|                    |      |       |      |      |
-|                    |      |       |      |      |
+| Feature / Use Case | Free  | Premium  | Ultimate  |
+| ------------------ | ---- |  ---- | ---- |
+|                    |      |       |      |
+|                    |      |       |      |
+|                    |      |       |      |
 
-The table includes free/community and paid tiers associated with GitLab's self-managed and cloud offering.
-
-- F/C = Free / Core
-- Basic = Bronze/Starter 
-- S/P = Silver / Premium
-- G/U = Gold / Ultimate
 
 ### Reporting and Metrics
 
