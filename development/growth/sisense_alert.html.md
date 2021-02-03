@@ -12,7 +12,7 @@ description: "How to create a SiSense alert"
 
 ## What is a SiSense SQL alert?
 
-A [SiSense SQL alert](https://dtdocs.sisense.com/article/sql-alerts#CreateAlert) can run SQL on a schedule and send an email when a criteria is reached.  This email can optionally [generate a message in a slack channel](https://slack.com/slack-tips/send-email-to-slack).
+A [SiSense SQL alert](https://dtdocs.sisense.com/article/sql-alerts#CreateAlert) can run SQL on a schedule and trigger an email when a certain criteria or rule, such as a threshold or target, is met.  This email can optionally [generate a message in a slack channel](https://slack.com/slack-tips/send-email-to-slack).
 
 ## How do I create one?
 
@@ -26,11 +26,15 @@ A [SiSense SQL alert](https://dtdocs.sisense.com/article/sql-alerts#CreateAlert)
 1. Choose the bell icon on the far right to show alerts.
 1. Paste in your SQL, set the criteria, and set the email to send when the criteria is met.
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/lb2iH-dqEe4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Hints
 
 * Every time you change the query in a small way, test to make sure it still works.  The error messages from SiSense are not always clear on what may be broken. Update your SQL iteratively!
 * Using one standard deviation from the average is often a good choice for determining if a metric is outside of a normal range
-* An effective alert may to each day, compare the average over the last 7 days to see if it is higher or lower than the average +/- the standard deviation over the last 30 days.
+* An effective alert may be, each day, compare the average over the last 7 days to see if it is higher or lower than the average +/- the standard deviation over the last 30 days.
 
 
 ## Psuedo-code example
