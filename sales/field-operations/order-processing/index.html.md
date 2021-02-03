@@ -694,13 +694,8 @@ All opportunities must meet *all* requirements outlined below to be processed. *
 
 There are unique requirements for different methods of selling GitLab. Review the below table or the drop down related to your order type.
 
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1495px">
-<colgroup>
-<col style="width: 331px">
-<col style="width: 161px">
-<col style="width: 1003px">
-</colgroup>
+
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-c3ow" colspan="3"><span style="font-weight:700;font-style:normal;text-decoration:none">DIRECT Subscription Purchase Requirements</span></th>
@@ -731,9 +726,6 @@ There are unique requirements for different methods of selling GitLab. Review th
 </table>
 
 
-
-
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -765,9 +757,6 @@ There are unique requirements for different methods of selling GitLab. Review th
 </table>
  
 
-
-
-</style>
 <table class="tg">
 <thead>
   <tr>
