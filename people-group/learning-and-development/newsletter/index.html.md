@@ -31,7 +31,6 @@ We build the newsletter in an issue in the [Learning & Development Newsletter pr
 ## Past Newsletters
 
 - [FY21 Q4 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY21-Q4/)
-- [FY21-Q4 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/)
 - [FY22-Q1 Learning & Development Newsletter](/handbook/people-group/learning-and-development/newsletter/FY22-Q1/)
 
 ### Template
