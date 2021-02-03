@@ -109,7 +109,7 @@ First of all, we create an example project on GitLab.com and attempt to reproduc
 We were able to reproduce the bug on GitLab.com, this is a proper regression! Let's make sure that it is fixed! We would add the following information to the issue and reference in the "8.15 regressions" issue:
 
 * `Discussion` - because this is a feature handled by the Discussion team
-* `todos` - because this issue relates to the todos feature
+* `todos` - because this issue relates to the To-Do List feature
 * `issues` - because we reproduced by mentioning a user in an issue
 * `bug` - because the functionality is not working as intended
 * `reproduced on GitLab.com` - because we reproduced it on GitLab.com!

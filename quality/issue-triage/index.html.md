@@ -42,24 +42,36 @@ The priority label is used to indicate the importance and guide the scheduling o
 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
-| ~priority::1 | Urgent | We will address this as soon as possible regardless of the limit on our team capacity. Our target resolution time is 30 days.                 | PM of that product group |
-| ~priority::2 | High   | We will address this soon and will provide capacity from our team for it in the next few releases. This will likely get resolved in 60-90 days. | PM of that product group |
-| ~priority::3 | Medium | We want to address this but may have other higher priority items. No timeline designated.                                  | PM of that product group |
-| ~priority::4 | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM of that product group |
+| `~priority::1` | Urgent | We will address this as soon as possible regardless of the limit on our team capacity. Our target resolution time is 30 days.                 | PM of that product group |
+| `~priority::2` | High   | We will address this soon and will provide capacity from our team for it in the next few releases. This will likely get resolved in 60-90 days. | PM of that product group |
+| `~priority::3` | Medium | We want to address this but may have other higher priority items. No timeline designated.                                  | PM of that product group |
+| `~priority::4` | Low    | We don't have visibility when this will be addressed. No timeline designated.                                          | PM of that product group |
 
 ## Severity
 
 Severity labels help us determine urgency and clearly communicate the impact of a `~bug` on users. There can be multiple categories of a `~bug`.
 The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
-| Type of `~bug` | `~severity::1` - Blocker | `~severity::2` - Critical | `~severity::3` - Major  | `~severity::4` - Low | Triage DRI |
+| Type of `~bug` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
 | General bugs   | Broken feature with no workaround. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
 | `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 500ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
-| `~availability` GitLab.com Availability | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
-| `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | |
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
+| `~availability` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
+| `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
 | Global Search | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | See [Search Prioritization](/handbook/engineering/development/enablement/search/#severity-labels-for-search-issues-advanced-search-global-search) | |
+
+### Severity SLOs 
+
+The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
+This indicates the expected timeline & urgency which is used to measure our SLO targets.
+
+| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO            |
+|----------------|---------|--------------------------------------------------------------------------------|
+| `~severity::1` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
+| `~severity::2` | 30 days | The next release (60 days)                                                     |
+| `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
+| `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
 
 #### Examples of severity levels
 
@@ -76,29 +88,9 @@ If a issue seems to fall between two severity labels, assign it to the higher se
   - A status widget on the merge request page is not working, but information can be seen in the test pipeline page.
 - Example(s) of `~severity::3`
   - Can create merge requests only from the Merge Requests list view, not from an Issue page.
-  - Status is not updated in real time and needs a page refresh.
 - Example(s) of `~severity::4`
-  - Label colors are incorrect.
-  - UI elements are not fully aligned.
-
-The severity label also helps us define the time a ~bug or ~"corrective action" of that severity should be completed.
-This indicates the expected timeline & urgency which is used to measure our SLO targets.
-
-| **Severity**   | Incident root cause analysis `~corrective action` SLO | `~bug` resolution SLO            |
-|----------------|---------|--------------------------------------------------------------------------------|
-| `~severity::1` | 1 week  | The current release + next available deployment to GitLab.com (within 30 days) |
-| `~severity::2` | 30 days | The next release (60 days)                                                     |
-| `~severity::3` | 60 days | Within the next 3 releases (approx one quarter or 90 days)                     |
-| `~severity::4` | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days).      |
-
-If a bug is related to the merge request (MR) experience, priority is tied to severity in the following manner:
-
-| MR bug severity | Minimum priority |
-|-|-|
-| `~severity::1` | `~priority::1` |
-| `~severity::2` | `~priority::1` |
-| `~severity::3` | `~priority::2` |
-| `~severity::4` | `~priority::3` |
+  - Incorrect colors.
+  - Misalignment.
 
 ### Availability
 
@@ -113,7 +105,7 @@ The presence of these severity labels modifies the standard severity labels(`~se
 If, when selecting a severity for an availability issue, the availabilty impact is unclear or meets aspects of more than one severity in the table (example: the issue only impacts 5% of our users, but no workaround is available), select the highest severity applicable to the issue.
 
 | Severity | Availability impact | Time to mitigate (TTM)(1) | Time to resolve (TTR)(2) | Minimum priority |
-| -------- | ------------------- | ------------------------- | ------------------------ | ---------------- |
+|-|-|-|-|-|
 | `~severity::1` | Roadblock on GitLab.com and blocking customer's business goals and day to day workflow<br/><br/>Impacts 50% or more of users<br/><br/>Consistently reproducible | Within 8 hrs | Within 48 hrs | `~priority::1` |
 | `~severity::2` | Significant impact on GitLab.com and customer's day-to-day workflow. Customers have an acceptable workaround in place.<br/><br/>Impacts between 25%-50% of users<br/><br/>Consistently reproducible<br/><br/>**AND/OR**<br/><br/>Deployment blocking incident anywhere in the deployment pipeline | Within 24 hrs | Within 7 days |  `~priority::1` |
 | `~severity::3` | Broad impact on GitLab.com and minor inconvenience to customer's day-to-day workflow. No workaround needed.<br/><br/>Impacts up to 25% of users<br/><br/>Inconsistently reproducible | Within 72 hrs | Within 30 days | `~priority::2` |
@@ -125,14 +117,29 @@ If, when selecting a severity for an availability issue, the availabilty impact 
 
 #### Availability prioritization
 
-To call out specifics on what priorities can be set on an availability issue, please refer to the prioritization band table below.
+The priority of an availability issue is tied to severity in the following manner:
 
-| Issue with the labels  | Allowed priorities | Not-allowed priorities |
-| ------ | ------ | ------ |
+| Issue with the labels  | Allowed priorities | **Not-allowed priorities** |
+|-|-|-|
 | `~availability` `~severity::1`  | `~priority::1` only | `~priority::2`, `~priority::3`, and `~priority::4` |
 | `~availability` `~severity::2`  | `~priority::1` only | `~priority::2`, `~priority::3`, and `~priority::4` |
 | `~availability` `~severity::3`  | `~priority::2` as baseline, `~priority::1` allowed | `~priority::3`, and `~priority::4` |
 | `~availability` `~severity::4`  | `~priority::3` as baseline, `~priority::2` and `~priority::1` allowed | `~priority::4` |
+
+### Merge requests experience 
+
+The merge request (MR) experience is the core of our product. Due to many teams contributing to the MR UX, it has become a disjointed experience.
+
+#### Merge requests experience prioritization
+
+We need an elevated sense of action in this area. If a bug is related to the merge request experience, priority is tied to severity in the following manner:
+
+| MR UX bug severity | Allowed priorities | **Not-allowed priorities** |
+|-|-|-|
+| `~severity::1` | `~priority::1` only | `~priority::2`, `~priority::3` and `~priority::4` |
+| `~severity::2` | `~priority::1` only | `~priority::2`, `~priority::3` and `~priority::4` |
+| `~severity::3` | `~priority::1` or `~priority::2` | `~priority::3` and `~priority::4` |
+| `~severity::4` | `~priority::1` or `~priority::2` or `~priority::3` | `~priority::4` |
 
 ### Performance
 
