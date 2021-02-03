@@ -65,7 +65,7 @@ A new **Partner Information section has been added to all opportunities in SFDC 
 Questions? Reach out to #channel-ops or [visit the Handbook](/handbook/sales/field-operations/channel-operations/).
 
 ----
-We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction) from Ultimate/Gold to Premium/Silver. This move is tentatively scheduled for the 13.1 release.
+We are moving [group-level IP restriction](https://docs.gitlab.com/ee/user/group/#ip-access-restriction) from Ultimate to Premium. This move is tentatively scheduled for the 13.1 release.
 
 [Watch this video](https://www.youtube.com/watch?v=e2pgJlqwZvw&feature=youtu.be) for more details, and leave questions in the [public issue](https://gitlab.com/gitlab-org/gitlab/-/issues/215410).
 

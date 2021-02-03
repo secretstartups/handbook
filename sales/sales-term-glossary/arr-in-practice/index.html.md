@@ -303,7 +303,7 @@ Types of Delta ARR:
 Reasons for Delta ARR:
 - seat change - a change in the quantity of seats purchased
 - price change - a change in discount
-- tier change - an upward or downward change in the product purchased (i.e., from Silver up to Gold)
+- tier change - an upward or downward change in the product purchased (i.e., from Premium up to Ultimate)
 
 #### ARR Analysis Framework - Cost Accounting Methodology
 
