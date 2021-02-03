@@ -29,12 +29,12 @@ Generate organic traffic and inquiries, in support of growing GitLab's sales pip
 
 #### Targets
 
-| Fiscal Quarter | Large | Mid-Market | SMB |
-| -------------- | ----- | ---------- | --- |
-| Q1FY22 | TBD |  |  |
-| Q2FY22 | TBD |  |  |
-| Q3FY22 | TBD |  |  |
-| Q4FY22 | TBD |  |  |
+| Fiscal Quarter | Inquiries | Epic |
+| -------------- | ----- | ---- |
+| Q1FY22 | 33,400 | https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/267 |
+| Q2FY22 | TBD |  |
+| Q3FY22 | TBD |  |
+| Q4FY22 | TBD |  |
 
 #### SSoT
 
