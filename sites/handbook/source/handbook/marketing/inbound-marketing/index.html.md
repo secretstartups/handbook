@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Inbound Marketing Handbook
+description: Inbound Marketing Handbook
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -15,31 +23,18 @@ Build value at the top of the marketing funnel, through organic human interactio
 
 ### Objective
 
-Generate organic traffic and inquiries, in support of Marketing's overall MQL and SAO growth goals.
-
-### FY21 MQL Targets
-
-| Fiscal Quarter | Large | Mid-Market | SMB |
-| -------------- | ----- | ---------- | --- |
-| Q1FY21 | 5,000 |
-| Q2FY21 | 5,500 |
-| Q3FY21 | 6,000 |
-| Q4FY21 | 6,500 |
-
-_Targets are based on the original FY21 plan. GitLab internal team members can find this information in "FY21 FINAL Marketing: SSOT & Budget"_
+Generate organic traffic and inquiries, in support of growing GitLab's sales pipeline.
 
 ### FY22 KPI: Inbound Inquiries
 
 #### Targets
 
-For FY22, the inbound marketing KPI is changing from volume of inbound MQLs to volume of inbound inquiries.
-
 | Fiscal Quarter | Large | Mid-Market | SMB |
 | -------------- | ----- | ---------- | --- |
-| Q1FY22 | TBD |
-| Q2FY22 | TBD |
-| Q3FY22 | TBD |
-| Q4FY22 | TBD |
+| Q1FY22 | TBD |  |  |
+| Q2FY22 | TBD |  |  |
+| Q3FY22 | TBD |  |  |
+| Q4FY22 | TBD |  |  |
 
 #### SSoT
 
@@ -51,27 +46,26 @@ An inquiry is defined as:
 
 - a unique email address
 - submitted within the past 180 days
-- From one of the following sources:
+- From one of the following Sisense sources:
     - Trial - Enterprise
     - Trial - GitLab.com
-    - TODO: Which other sources should we include?
+    - Inbound
 
 ### Key Results
 
 Inbound Marketing is responsible for:
 
 - Maintaining and improving GitLab's logged out marketing websites
-- Increasing GitLab.com website traffic 20% YoY on an ongoing basis
-- Increasing Conversion of Marketing Website visitors to MQLs by 20%
+- Increasing GitLab.com website traffic
+- Increasing conversion rates from visitor to inbound inquiry
 
 ### Deliverables
 
-[Q3FY21 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/21)
-[Q4FY21 OKRS](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/29)
+[Q1FY22 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/227)
 
 ## Teams
 
-Inbound Marketing is comprised of these Marketing Teams. Visit their handbooks to learn more.
+Inbound Marketing is comprised of these Marketing Teams:
 
 - [Global Content](/handbook/marketing/inbound-marketing/content/#what-does-the-global-content-team-do)
 - [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/)
