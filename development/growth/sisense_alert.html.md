@@ -24,7 +24,8 @@ A [SiSense SQL alert](https://dtdocs.sisense.com/article/sql-alerts#CreateAlert)
 1. Determine the range for what is "too high" and what is "too low".  To do this you may want to copy the data using the "multiple file" icon which has the tooltip `Copy to clipboard` and paste it to a Google sheet.
 1. Change the query to use a SQL [`case` statement](https://www.postgresqltutorial.com/postgresql-case/) that returns `0` if everything is ok and `1` if it should alert.
 1. Choose the bell icon on the far right to show alerts.
-1. Paste in your SQL, set the criteria, and set the email to send when the criteria is met.
+1. Paste in your SQL, set the criteria and set the email (which can be directed to a slack channel if desired) to send when the criteria is met.
+1. Test your alert by setting the frequency to be often (hourly) and reverse the criteria (so it fires when things are ok) to make sure it works.  After you get the first alert, set the criteria back and confirm an hour later you are no longer receive the alert.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/lb2iH-dqEe4" frameborder="0" allowfullscreen="true"> </iframe>
