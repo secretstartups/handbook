@@ -387,7 +387,7 @@ A distinct group or organization within a customer which, from a GitLab customer
 
 ### Licensed Users
 
-The number of contracted users on active paid subscriptions. Excludes OSS, Education, Core and other non-paid users. The data source is Zuora.
+The number of contracted users on active paid subscriptions. Excludes OSS, Education, Free and other non-paid users. The data source is Zuora.
 
 ### Closed Deal - Won
 
@@ -400,7 +400,7 @@ The opportunity owner's primary reason as to why GitLab won the deal.
 - **Accelerate Software Delivery:** Enable teams to deliver new code/code updates faster
 - **Competitor Product Support/Performance:** Competitor missing a key feature the customer needed or the cutomer was not happy with competitors product performance
 - **Expanding Use-Case:** Customer already using GitLab for one UseCase (CI for example) now they are expanding that to another (SCM for example)
-- **GitLab Incumbency:** GitLab user already (most cases Core) and now they are moving to another Tier for more features
+- **GitLab Incumbency:** GitLab user already (most cases Free) and now they are moving to another Tier for more features
 - **GitLab Champion:** Either someone tried GitLab for the first time and loved it or they used GitLab previously and they want their exisiting team/company to use GitLab
 - **Performance/Great Features:** GitLab out performed the competition - customer felt we just had a better product than the competitor
 - **Reduce Tooling Cost:** Customer paying for many multiple tools, wanted to reduce DevOps tooling cost with a single tool
