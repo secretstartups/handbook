@@ -88,7 +88,7 @@ When external asks come in:
 - We make 2 week long milestones to have ["iterations" with the unplanned work](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?utf8=%E2%9C%93&search_title=core+unplanned&state=&sort=).  This gives us a view to map out the work coming in and approximately when we can start that work.
 - When added to the board, the should get labels `~AssistType::TYPE` and `~AssistingTeam::TEAM`, and be assigned to the next
  milestone with capacity to take on work with the `~workflow-infra::Ready` label.
-- Emergent issues requiring a more urgent response should have a <a name=issue-weights>weight estimate</a> added, get added to the current milestone, and labeled `~unplanned`. We reserve a <a name=team-capacity>fixed capacity</a> for emergent work each milestone, after which we begin to impact commitments to stakeholders and need to reschedule/reprioritize work.
+- Emergent issues requiring a more urgent response should have a <a href="#issue-weights">weight estimate</a> added, get added to the current milestone, and labeled `~unplanned`. We reserve a <a name=team-capacity>fixed capacity</a> for emergent work each milestone, after which we begin to impact commitments to stakeholders and need to reschedule/reprioritize work.
 
 ### Planning
 
@@ -146,7 +146,7 @@ These values are based on the following assumptions
 1. Average efficiency losses for context switching and the we're-human-not-robots factor accounts for ~10%
 1. Focused time on "direct" work coding, working at a terminal, on a console, etc. fills the remaining ~50%
 
-Translating this to our <a name=issue-weights>time/complexity matrix</a>, this means that each IC is estimated to have about 5-6 days for intense, focused work each milestone, or ~8-15 points on our weight scale.
+Translating this to our <a href="#issue-weights">time/complexity matrix</a>, this means that each IC is estimated to have about 5-6 days for intense, focused work each milestone, or ~8-15 points on our weight scale.
 
 #### Planning discussion
 
@@ -173,7 +173,7 @@ The Core-Infra team routinely uses the following set of labels:
 The `team::Core-Infra` label is used in order to allow for easier filtering of
 issues applicable to the team that have group level labels applied.
 
-<a name="priority-labels">The priority labels</a> allow us to track the issues correctly and raise/lower priority of work based on both external and internal factors.
+<a href="#priority-labels">The priority labels</a> allow us to track the issues correctly and raise/lower priority of work based on both external and internal factors.
 
 This means that the highest priority is given to working on issues that improve
 Gitlab.com SLO's either immediately and directly, or by unblocking other issues
