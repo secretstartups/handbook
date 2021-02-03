@@ -96,7 +96,7 @@ A: SKO is a great opportunity for our team to come together to both celebrate ou
 
 **Q: Is there a dress code for this virtual event?**
 
-A: While you will attend this event virtually, we ask that you please regard the dress code for all days just like you would for a virtual customer meeting as you will be networking and iteracting with your peers and Channel partners. This also means that you are encouraged to be as engaged as possible – show up ready to ask questions, take notes and meet new people!
+A: While the event is virtual, we ask that you please regard the dress code like you would for any virtual customer or external meeting. You will be networking and interacting with your peers and Channel partners. We encourage you to be as engaged as possible – show up ready to ask questions, take notes and meet new people! 
 
 **Q: I just got hired – how do I attend SKO?**
 
