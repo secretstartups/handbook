@@ -88,7 +88,7 @@ When external asks come in:
 - We make 2 week long milestones to have ["iterations" with the unplanned work](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?utf8=%E2%9C%93&search_title=core+unplanned&state=&sort=).  This gives us a view to map out the work coming in and approximately when we can start that work.
 - When added to the board, the should get labels `~AssistType::TYPE` and `~AssistingTeam::TEAM`, and be assigned to the next
  milestone with capacity to take on work with the `~workflow-infra::Ready` label.
-- Emergent issues requiring a more urgent response should have a <a name=issue-weights>weight estimate</a> added, get added to the current milestone, and labeled `~unplanned`. We reserve a <a name=issue-triage>fixed capacity</a> for emergent work each milestone, after which we begin to impact commitments to stakeholders and need to reschedule/reprioritize work.
+- Emergent issues requiring a more urgent response should have a <a name=issue-weights>weight estimate</a> added, get added to the current milestone, and labeled `~unplanned`. We reserve a <a name=team-capacity>fixed capacity</a> for emergent work each milestone, after which we begin to impact commitments to stakeholders and need to reschedule/reprioritize work.
 
 ### Planning
 
@@ -105,8 +105,6 @@ In addition to resolving any questions or discussions raised on the planning iss
 #### Issue triage
 
 Issue triage starts with reviewing rollover (issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the most disruptive to being predictable in meeting our commitments, planning is conducted with the assumption that all work in a milestone will be completed, and we size our milestones accordingly.
-
-As a rule, we set an overall target weight of XX for all issues within a milestone. Subsequent rounds of review and planning will result in roughly YY weighted issues for on-going projects, and we reserve ZZ capacity for unplanned work that comes in after the start of a milestone.
 
 Backlog issues will be reviewed in the following order
 
@@ -134,6 +132,21 @@ Point distribution/examples:
 Anything assessed at more than a 13 should be broken down further into smaller, more manageable tasks, or prompt serious discussion within the team about why that can't be accomplished. Large tasks can be scheduled into a milestone, but some additional effort should be scheduled to account for further planning and task breakdown.
 
 Ideally milestones will be populated entirely with issues under 5 points, and for very large efforts we will spread the planning, breakdown, scheduling, and implementation of smaller, more manageable tasks across multiple milestones.
+
+##### Team capacity
+
+***Note that all the following is a work-in-progress, and subject to significant change as we refine our estimation and planning processes over time***
+
+As a rule, we set an overall target weight of 50 for all issues within a milestone, and we reserve ~20% capacity for unplanned work that comes in after the start of a milestone.
+
+These values are based on the following assumptions
+
+1. On average, meetings consume ~20% of each day for ICs
+1. General async team-work (reviewing MRs, issue comments, processing email/todo/slack messages) comprises a further ~20%
+1. Average efficiency losses for context switching and the we're-human-not-robots factor accounts for ~10%
+1. Focused time on "direct" work coding, working at a terminal, on a console, etc. fills the remaining ~50%
+
+Translating this to our <a name=issue-weights>time/complexity matrix</a>, this means that each IC is estimated to have about 5-6 days for intense, focused work each milestone, or ~8-15 points on our weight scale.
 
 #### Planning discussion
 
