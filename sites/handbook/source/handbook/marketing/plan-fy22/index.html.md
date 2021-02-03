@@ -79,7 +79,7 @@ To view the GTM Motions Googlesheet, please go to your [Google Drive](https://dr
 
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 
-All marketing team members should plan to focus ~70% of their time and plan around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
+All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
 
 ### What is included in a GTM Motion?
 {: #gtm-motion-includes}
@@ -140,11 +140,12 @@ To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/mark
 {: #core-teams .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-* The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and included Sales Plays
+* The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and related Sales Plays
 * The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 * The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
 * The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
-* The Core Teams will be responsible for ensuring proper communication of plans to all of Marketing (see [Core Team Communication](/handbook/marketing/plan-fy22#core-team-communication))
+* The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
+* The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22#core-team-communication))
 
 ### Beyond the GTM Motion Core Teams
 {: #beyond-core-teams}
@@ -158,7 +159,7 @@ If your team or name is not listed as part of the core team, don't worry! As par
 {: #core-team-communication}
 <!-- DO NOT CHANGE ANCHOR -->
 
-How to keep all teams in the loop will be a key responsibility of the Core Teams. Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
+How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
 
 The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
 
