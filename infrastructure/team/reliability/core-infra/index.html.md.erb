@@ -85,9 +85,10 @@ not in Project Epics. They allow us to help set a budget for the incoming reques
 When external asks come in:
 
 - they can be commented on, but get a Workflow-Infra::triage Label to start
-- We make 2 week long milestones to have ["iterations" with the unplanned work](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?utf8=%E2%9C%93&search_title=core+unplanned&state=&sort=).  This gives us a view to map out the unplanned work coming in and approximately when we can start that work.
-- When added to the board, the should get labels ~unplanned, ~AssistType::x and ~AssistingTeam::x, and be assigned to the next
-unplanned work milestone with capacity to take on work with the ~Workflow-infra::Ready label.
+- We make 2 week long milestones to have ["iterations" with the unplanned work](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?utf8=%E2%9C%93&search_title=core+unplanned&state=&sort=).  This gives us a view to map out the work coming in and approximately when we can start that work.
+- When added to the board, the should get labels `~AssistType::TYPE` and `~AssistingTeam::TEAM`, and be assigned to the next
+ milestone with capacity to take on work with the `~workflow-infra::Ready` label.
+- Emergent issues requiring a more urgent response should have a <a name=issue-weights>weight estimate</a> added, get added to the current milestone, and labeled `~unplanned`. We reserve a <a name=issue-triage>fixed capacity</a> for emergent work each milestone, after which we begin to impact commitments to stakeholders and need to reschedule/reprioritize work.
 
 ### Planning
 
@@ -95,21 +96,24 @@ We conduct our planning and retrospectives asynchronously, using issues in the [
 
 #### Cadence
 
-Planning occurs on a two-week cadence, aligned with our unscheduled milestones.
+Planning occurs on a two-week cadence, aligned with our standard milestones.
 
-During the first week of a milestone, the team will review and discuss the _next_ upcoming milestone in an issue opened on the [sre-coreinfra/planning](https://gitlab.com/gitlab-com/gl-infra/sre-coreinfra/planning) backlog. This allows for time before the start of the next milestone to work on collecting additional data required to refine an issue, clarify details with requestors, or perform basic analyses of the relative size/scope of an issue _before_ starting the actual work.
+During the first week of a milestone, a [planning issue](https://gitlab.com/gitlab-com/gl-infra/sre-coreinfra/planning)  will be created for the team to review and discuss the _next_ upcoming milestone. This allows for time before the start of the next milestone to work on collecting additional data required to refine an issue, clarify details with requestors, or perform basic analyses of the relative size/scope of an issue _before_ starting the actual work.
 
-During the second week of a milestone, in addition to resolving any questions or discussions raised on the next milestone planning issue, the team begins the issue triage process, and populates the planning issue for discussion when the cycle repeats.
+In addition to resolving any questions or discussions raised on the planning issue for the next milestone, backlog issues will be triaged on an on-going basis, and scheduled into subsequent upcoming milestones. In general we maintain a horizon of 2-3 upcoming milestones, but that will fluctuate based on the flow of work and active projects.
 
 #### Issue triage
 
-Issue triage starts with reviewing rollover (issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the least predictable in the first week of the milestone, planning is conducted with the assumption that all work in a milestone will be completed, and any rollover work will push a subsequent volume of work out to following milestones according to priority.
+Issue triage starts with reviewing rollover (issues in the current unplanned milestone that were not finished), incoming, unscheduled, and unprioritized work. Since rollover work is the most disruptive to being predictable in meeting our commitments, planning is conducted with the assumption that all work in a milestone will be completed, and we size our milestones accordingly.
 
-Aside from rollover issues, the remaining backlog issues will be reviewed in the following order
+As a rule, we set an overall target weight of XX for all issues within a milestone. Subsequent rounds of review and planning will result in roughly YY weighted issues for on-going projects, and we reserve ZZ capacity for unplanned work that comes in after the start of a milestone.
 
-1. Work deferred due to rollover is still accurately prioritized and scheduled in the appropriate milestone
-1. Open issues labeled `team::Core-Infra` and `workflow-infra::triage` will have an initial `core-infra::pX` priority added and move to `workflow-infra::ready`
+Backlog issues will be reviewed in the following order
+
+1. Incomplete issues from the current milestone are rolled over
+1. Open issues labeled `team::Core-Infra` and `workflow-infra::triage` move to `workflow-infra::ready`
 1. New issues labeled `team::Reliability`
+1. All triaged issues will be reviewd in aggregate and `core-infra::pX` priority labels added where necessary
 
 ##### Issue weights
 
