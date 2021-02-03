@@ -900,7 +900,7 @@ Following your best judgement with the resolution of the incdient, record the di
 
 **Release Post Manager**
 
-Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#release-post` and ask for help.
+Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#release-post` and ask for help.
 Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
 
 **Technical Advisor**
