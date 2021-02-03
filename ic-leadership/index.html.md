@@ -21,6 +21,24 @@ Their impact multiplies with every person they help grow, and the company gets m
 
 Technical skills developed in their career up until now are still very important, and the role is still hands-on technical. Their technical skills are vast and are developing at a lower rate of change now, but they also get new skills that will drive their career from now on: Communication, Collaboration, and Leadership.
 
+### What GitLab Engineers Have to Say About IC Leadership 
+
+During a Handbook Learning discussion, Eric (EVP of Engineering), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OXBwtaZ9edQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+> Start with a level set. You have an intermediate Engineer, then they become a Senior Engineer, and there's a fork in the road. There is a dual career track where you can choose the "manager track" or the "IC Leadership track." - Eric Johnson (EVP of Engineering)
+
+Additional topics covered in the discussion include: 
+1. What does it mean to be an Engineering IC Leader
+2. What are the skills needed to do the job
+3. How the role differs from other Engineering management roles
+4. Difference between technical credibility and technical leverage
+5. Applying iteration to everything you do
+6. The four archetypes and how they define the work of IC Leadership
+
 ### Technical Leverage
 
 Technical leverage could be described as doing technical work that has a
