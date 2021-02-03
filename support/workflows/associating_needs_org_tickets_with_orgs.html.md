@@ -189,6 +189,10 @@ To associate a user with an organization:
 
 ![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
 
+Note: If a customer raise a ticket add some users in the organization, the users need to be added in SFDC 
+Account contacts (via Chatter) and in Zendesk via Self-Created account in Support Portal.
+After that, you can follow the above process to add a customer to an organization.
+
 ### Removing a user from an organization
 
 If you erroneously assigned a user to an incorrect organization, follow these steps to un-assign a user:
