@@ -130,7 +130,7 @@ People Operations Specialists will send the [CultureAmp](https://www.cultureamp.
 
 #### Exit Survey Reporting on Culture Amp.(For Culture Amp Admins)
 
-Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initially,for reporting purposes we were using the "Manager" Demographic which is no longer used on our account, i.e the data that syncs across from Bamboo HR is the "Reports to" field. However,this was not enabled on the actual exit survey. The "Manager" demographic was disabled on 19th November 2019. For reporting purposes, Culture Amp admins should use the " Reporting to" demographic while running reports on Culture Amp for team members who left after 19th November 2019 and the "Manager" Demographic for team members who left prior to that date.
+Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initially, for reporting purposes we were using the "Manager" demographic which is no longer used on our account, i.e the data that syncs across from BambooHR is the "Reports to" field. However, this was not enabled on the actual exit survey. The "Manager" demographic was disabled on 19th November 2019. For reporting purposes, Culture Amp admins should use the "Reporting to" demographic while running reports on Culture Amp for team members who left after 19th November 2019 and the "Manager" Demographic for team members who left prior to that date.
 
 #### GitLab Alumni Program
 
