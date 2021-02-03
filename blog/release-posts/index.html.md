@@ -147,7 +147,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
-If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement via the dev escalation process (#getting-help-during-the-release-post-assemply).
+If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement to the [Technical Advisors](#technical-advisors) via the dev escalation process.
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important:** Please check beforehand if you have **merge rights** to the www project.
