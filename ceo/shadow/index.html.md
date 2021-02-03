@@ -455,7 +455,7 @@ Shadows need to speak up in video calls, and speak up when the CEO's camera isn'
 
 At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. The terms **first** and **second** shadow define the order of who has decided to speak in any relevant meeting.
 
-It's important to set the correct tone, so please stick to the following introductions word for word.
+It's important to set the correct tone, so please stick to the following introductions verbatim.
 
 When attending Valley meetings please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid in acting in an individual capacity.
 
