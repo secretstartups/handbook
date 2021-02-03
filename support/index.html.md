@@ -102,7 +102,7 @@ Gitlab Support's vision is to deliver a consistent, exceptional experience to al
 
 Over the course of fiscal year 2021, GitLab Support worked diligently on our direction to introduce ticket deflection, scaling the team through hiring top talent, building consistent operational excellence through automation, and continued professional development of our Support Engineers and Managers.
 
-The overall direction for Support in Gitlab's fiscal year 2022 will be to drive to results toward our KPI's while evolving what and how we deliver service to Gitlab customers to support the company's overall [strategic objectives](/strategy), with a particular emphasis on;
+The overall direction for Support in Gitlab's fiscal year 2022 will be  a focus on KPI achievement while evolving what and how we deliver service to Gitlab customers to support the company's overall [strategic objectives](/strategy), with a particular emphasis on;
 
 - expanding our Enterprise customer offering.
 - inclusive growth & development of our global Support team members through expert hiring, technical training, and process improvements.
