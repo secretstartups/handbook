@@ -183,7 +183,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | Remote development team management |  |  |
 | Remote work | Content that covers remote work, including best practices, stories, and advice. | [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) |
 | Repository management |  |  |
-| SCM | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/) |
+| SCM | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/topics/version-control/what-is-gitlab-workflow/) |
 | Security | Content that relates to cybersecurity and application security practices. | [When technology outpaces security compliance](/blog/2019/06/10/when-technology-outpaces-security-compliance/) |
 | Severless computing | Content that relates to the ability to deploy functions on any infrastructure managed through a single UI. | [Announcing GitLab Serverless](https://about.gitlab.com/blog/2018/12/11/introducing-gitlab-serverless/) |
 | Simplify DevOps |  |  |
