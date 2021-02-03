@@ -431,7 +431,7 @@ If your direct report has any questions on the calculation of their increase ple
 
 #### Total Rewards Statement
 
-Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Instructions for downloading and reviewing the letter are as follows:
+Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Managers should share the letter in BambooHR once they have reviewed this with the team member. Please reach out to Total Rewards if the letter hasn't been shared by Feb 6th (Contractors) or Feb 13th (Employees) and we'll share this with you. Instructions for downloading and reviewing the letter are as follows:
 1. Log into [BambooHR](https://gitlab.bamboohr.com/).
 1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
    * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
@@ -444,6 +444,8 @@ Each team member who receives an increase during the Annual Compensation Review 
 1. Both letters will also have a section for Equity Compensation outlining the number of unvested stock options as of January 27, 2021. The letter will also include a link to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the manager and team member to review the potential value of the unvested stock options. 
    * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
 1. Both letters will also have a section for Benefits linking to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the team member to review the value of their benefits package. The compensation calculator outlines the following benefits: Remote Benefits, General Benefits, and Entity-Specific benefits.
+1. To share the letter directly with the team member once their increase has been communicated, select the gear button to the right of the letter, select "Share with Employee", and, in the pop up prompt, select "Share" again.
+   *  ![share letter](/images/handbook/people-group/Share_Letter.png)
 
 ## FY 2022 Annual Compensation Review Budget
 
