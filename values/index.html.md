@@ -44,7 +44,7 @@ In many instances, they have been documented, refined, and revised based on less
 
 We used to have more values, but it was difficult to remember them all, so we condensed them and gave sub-values and created an acronym.
 
-Everyone is welcome to suggest improvements.
+Our values and culture are maintained by our CEO. Everyone is welcome to suggest improvements, please assign MRs to update these values to Sid.
 
 #### Sub-values as substantiators
 {:.no_toc}
