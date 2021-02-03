@@ -145,13 +145,13 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Work with PMs, Messaging lead and others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
 - Making sure the Messaging lead and technical writing lead are aware if release post items are added or removed after the 18th
 
-**The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.** 
+**The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
-If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement via the dev escalation process (insert link to protocol noted as part of dev escalation for release post manager to follow).
+If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement via the dev escalation process (#getting-help-during-the-release-post-deployment).
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important:** Please check beforehand if you have **merge rights** to the www project.
-If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Messaging and TW leads as FYI that it's in progress but you may need merge support. 
+If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Messaging and TW leads as FYI that it's in progress but you may need merge support.
 {:.alert .alert-warning}
 
 #### Create your release post branch and required directories/files
@@ -864,15 +864,48 @@ The responsibilities of the Engineering Manager are documented in the
 
 ### Technical Advisors
 
-Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](https://about.gitlab.com/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference. 
+Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](https://about.gitlab.com/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
-Below are the types of problems the release post mangers may need help with.  
+Below are the types of problems the release post mangers may need help with.
 
 - Assist with setup of [local dev environment](#local-dev-environment-setup-to-run-content-assembly-script)
-- Triaging various automations and [technical aspects](#technical-aspects) of the release post 
+- Triaging various automations and [technical aspects](#technical-aspects) of the release post
 - Triaging pipeline errors and suggest changes or provide a fix to related merge requests
 - Resolving merge conflicts with the release post
 - Identifying when to engage with other technical teams to resolve upstream problems
+
+#### Getting Help During the Release Post Assembly
+
+**Release Post Manager**
+
+Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#release-post` and ask for help.
+Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem.
+
+**Technical Advisor**
+
+What we have seen with previous challenges during the Release Post Assembly stage is some difficulty is encountered by the Release Post Manager because of a problem with their local development environment (Ruby setup, permissions, gems, etc) or git conflicts. You should be familiar with git, Ruby, and the command line. There are a few resources that you can use to diagnose and resolve the issue at hand:
+
+- Review the output of the assembly script including git status
+- Consider running ./bin/doctor and review the output
+- Reference the [list of previous problems](#possible-script-errors-with-corrective-actions)
+
+Following your best judgement with the resolution of the incdient, record the diagnosis and the steps taken to resolve so that we can improve the release post process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
+
+#### Getting Help During the Release Post Deployment
+
+**Release Post Manager**
+
+Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#release-post` and ask for help.
+Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem.
+
+**Technical Advisor**
+
+The Release Post Deployment is a critical and time-sensitive operation. Please respond thoughtfully and quickly.
+
+Following your best judgement with the following:
+
+- For minor incidents that can be recovered from your intervention alone or in concert with the Release Post Manager, do so while record the diagnosis and the steps taken to resolve so that we can improve the process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
+- For major incidents that require immediate assistance from an SRE, developer on call, or other team members with increased access rights, create an issue and follow the [dev escalation procedure](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process). Record the diagnosis and the steps taken to resolve so that we can improve the process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
 ---
 
