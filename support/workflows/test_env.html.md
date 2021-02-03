@@ -89,7 +89,7 @@ Connecting to, and configuring, your cluster can be done locally using [gcloud](
 
 ### AWS Testing Environment
 
-AWS credentials and instructions are stored in the Support Vault.
+Please use [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) to create credentials for AWS.
 
 ### Azure Testing Environment
 
