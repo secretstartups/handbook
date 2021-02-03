@@ -367,9 +367,9 @@ To create the contract:
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/recruiting-framework/coordinator/#send-contract). See steps 10-12.
 
-## Preparing Employment Agreements for GitLab team-members in India and Philippines- Global Upside
+## Preparing Employment Agreements for GitLab team-members in India, Philippines, Chile, Kenya, Costa Rica, and Denmark - Global Upside
 
-GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India and Philippines. The process for creating and sending an agreement is as follows:
+GitLab is working in partnership with [Global Upside](https://globalupside.com) for employing GitLab team-members located in India, Philippines, Chile, Kenya, Costa Rica, and Denmark. The process for creating and sending an agreement is as follows:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. CES sends “Contract Info Request-Global Upside (India and Philippines)” email to the new hire to collect additional details.
