@@ -21,10 +21,19 @@ Say good-bye to multiple spreadsheets, disparate data sets and misaligned market
 ## High level - how does it work?
 
 * We enter top down departmental budgets into an `Investment Target`, with annual and quarterly breakdown. These are the amounts that tie out to the board approved plan. Once the board has approved the plan from the CMO, we will lock down these targets which represent the envelope of money available to each department to plan and forecast.
-* We enter bottoms up departmental `Plans` into a hierarchy grid much like we were doing in our non-HC or 5Q Rolling spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. If the total doesn't equal the investment target envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter.
+* We enter bottoms up departmental `Plans` into a hierarchy grid much like we were doing in our non-HC or 5Q Rolling spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. If the total doesn't equal the investment target envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter. More in [Allocadia docs](https://support.allocadia.com/hc/en-us/articles/115004969767-What-is-a-Plan-Column-).
 * We then enter `Forecasts` into these same line items, adding more details and more accuracy as we learn about the specifics of the events/campaigns/expenses.
 
 Similar to prior year, if we do not use the full envelope provided to Marketing by the end of the **quarter**, we **will** lose those dollars.
+
+## Great links for more details in Allocadia support pages:
+
+* [Allocadia terms glossary](https://support.allocadia.com/hc/en-us/articles/115005305868-Glossary)
+* [Navigating Allocadia](https://support.allocadia.com/hc/en-us/articles/115004960047-Navigating-Allocadia)
+* [Navigating the Activities tab](https://support.allocadia.com/hc/en-us/articles/115004968067-Navigating-the-Activities-Tab-)
+* [Searching for your activity/ budget line item](https://support.allocadia.com/hc/en-us/articles/115005135427-Searching-your-Budget)
+* [Understanding Forecast Status Tags](https://support.allocadia.com/hc/en-us/articles/115000885934-Understanding-Forecast-Status-Tags)
+* [Switching between activity plans](https://support.allocadia.com/hc/en-us/articles/115004969207-Switching-Between-Activity-Plans)
 
 ## Fields to enter
 
@@ -38,6 +47,7 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 * SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank. Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the deails panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel. 
 * Spend type - relates to the account code, but slightly more granular detail to help the marketer. 
    * Field Marketing (FM) only - using the [Allocadia Impact Modeller](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/159), the spend type you choose, will spit out the expected ROI based on historical conversion rates. 
+* GitLab Marketing issue URL - a link to the issue where the marketer is managing the activity (not the procurement issue - see below); leave blank if N/A
 * Region - if the spend is for a specific region, choose it here
 * (FM only) SubGeo - allows the field marketer to choose more detailed location
 * (FM only) Geo - allows the field marketer to choose more detailed location
@@ -46,7 +56,7 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 * Start Date - the date the expense begins. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc.
 * End Date - the date the expense ends. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc.
 * Payment method (REQUIRED) - select the type of invoice or Expensify expense. Other will be rarely used.
-* GitLab issue URL - link to the procurement issue (see more on integrations below)
+* GitLab Procurement issue URL - link to the procurement issue (see more on integrations below)
 * GL Account - will be selected for you based on your input in Spend Type above
 * Campaign Type - should match the type used in Marketo and SFDC; limited based on input in Spend Type above
 
