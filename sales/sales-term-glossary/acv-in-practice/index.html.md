@@ -62,7 +62,7 @@ When calculating Incremental ACV against **renewal** opportunities, we consider 
 Note that in the above scenario, while you are only paid for the first 5 months for the upsell, you are paid for the remaining 7 months on the renewal, meaning you are paid the entire 12 month upsell ($120,000 IACV) over two separate opportunities.
 
 **Contractual Ramps:** this happens when a customer wants to increase the number of users over time on a **single** contract.
-* A customer purchased 1,000 Starter seats at $48,000 for year 1 of a **multi-year** subscription.
+* A customer purchased 1,000 Premium seats at $48,000 for year 1 of a **multi-year** subscription.
 * Year 2, they have agreed to purchase 2,000 seats at $96,000.
 * Previously, we would take the average of the two years as the IACV, which would have been $72,000.
 * Due to stricter requirements regarding revenue recognition, effective **July 1, 2019**, the calculation is no longer the average, but the actual year first year IACV. This ensures alignment between our bookings and revenue recognition.
@@ -138,7 +138,7 @@ Let's look at the scenario below:
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Incremental ACV** | **Explanation** |
 | ------ | ------ | ------ | ------ | ------ |
-| New Business | 12 months | $48,000 | $48,000 | New customer purchases 1,000 Starter Seats |
+| New Business | 12 months | $48,000 | $48,000 | New customer purchases 1,000 Premium Seats |
 | First Renewal | 12 months | $96,000 | $48,000 | Customer renews the 1,000 Seats, but also has a true up for 500 users. They also need to purchase 500 seats for the following term, so the IACV is $48,000  |
 | Second Renewal | 12 months | $48,000 | $0 | On the second renewal, there is no growth from the 1,500 users, and since we are not including true ups in the Renewal ACV, the IACV is $0 (and not -$48,000 if we included true ups)  |
 
