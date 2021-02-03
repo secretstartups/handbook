@@ -125,7 +125,7 @@ In the past few years we expanded the support team significantly.  Support will
 - An Enterprise level support experience that goes beyond our current rapid service level targets.
 - Increase access to Support expertise for priority support customers outside of existing 24x5 business day and emergency support processes.
 - Developing a dedicated US Federal Support team.
-- Collaborating to enable new delivery deployment methodologies.
+- Collaborate to enable new delivery deployment methodologies.
 
 ---
 
