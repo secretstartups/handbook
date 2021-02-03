@@ -45,7 +45,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 {: #topo}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22. In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
+The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
 
 On a monthly cadence, the **Marketing Key Meeting** will be used as the venue for tracking where we are year-to-date on the agreed upon plan. 
 
@@ -102,6 +102,40 @@ All marketing team members should plan to focus ~70% of their time and plan arou
 
 **Optional (discretion of Core Team):**
 
+## Sales Plays
+{: #sales-plays .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+Sales Plays combine buyer personas, positioning, and messaging, integrated into go-to-market activities executed by, and with, sales. The focus of Sales Plays is narrow, focused on a specific group of accounts and enablement for how Sales will leverage the tools produced for the play.
+
+The combination of Sales Plays for a given motion will develop a GTM Motion Playbook to be leveraged by Sales and SDRs. Sales Play Training will outline the Playbook and how sales can best leverage the tools of the Sales Plays.
+
+To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
+
+### What is included in a Sales Play?
+{: #sales-play-includes}
+<!-- DO NOT CHANGE ANCHOR -->
+
+**Included in each Sales Play:**
+* Buyer Personas
+* Sales Play Specific Campaigns
+* Email/LinkedIn Inmail campaigns
+* Outreach guide with intro messages, objection handling, differentiation
+* Pathfactory tracks, video intro that can be sent by sales to prospects (optionally with sales play specific content).
+* ABM, ICP, Prospect Criteria, Focus account lists
+* Outreach Guide & Sequences
+* SDR Enablement
+* Sales Play Training
+* Partner Sales Enablement
+* Sales Play specific SFDC Reporting
+
+
+**Optional for a Sales Play:**
+
+**At discretion of Core Team in collaboration across Marketing and Sales*
+* 
+* 
+
 ## GTM Motion Core Teams
 {: #core-teams .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
@@ -143,32 +177,6 @@ The 4X2 goes into detail about differences in go-to-market by sales segment (Lar
 To view the GTM 4x2 Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motion Strategy Template (4x2)`.
 
 <!-- Need more background here -->
-
-## Sales Plays
-{: #sales-plays .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
-
-Sales Plays combine buyer personas, positioning, and messaging, integrated into go-to-market activities in an organized collaboration with sales. This can include target account lists, key contacts data, call guides, outreach sequences, SDR enablement, sales play training, and more - what is included is to be determined by the Core Teams working on the sales plays.
-
-As Sales Plays are developed, the combination of the Sales Plays for a motion will develop a GTM Motion Playbook to be leveraged by Sales and SDRs.
-
-To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
-
-### What is included in a GTM Motion?
-{: #sales-play-includes}
-<!-- DO NOT CHANGE ANCHOR -->
-
-**Always Included (TBD):**
-* Buyer Personas
-* Key Contacts Data
-* Sales Prospecting Playbook
-* Outreach Guide & Sequences
-* SDR Enablement
-* Sales Play Training
-* Partner Sales Enablement
-* Sales Play specific SFDC Reporting
-* Play Specific Campaigns & Compete Motions
-* Customer ROI Analysis Support
 
 ## Themes
 {: #themes .gitlab-purple}
