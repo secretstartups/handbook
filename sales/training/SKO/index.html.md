@@ -94,6 +94,10 @@ To access the course, go to gitlab.edcast.com, sign in via SSO, click on "My Lea
 
 A: SKO is a great opportunity for our team to come together to both celebrate our results and collaborate for a strong start in the new year. As such, the agenda is purposely crafted with numerous activities to learn, network and celebrate together. We expect that every SKO to treat it as a “work trip” and block your calendar to ensure you fully participate in every part of the event.
 
+**Q: Is there a dress code for this virtual event?**
+
+A: While the event is virtual, we ask that you please regard the dress code like you would for any virtual customer or external meeting. You will be networking and interacting with your peers and Channel partners. We encourage you to be as engaged as possible – show up ready to ask questions, take notes and meet new people! 
+
 **Q: I just got hired – how do I attend SKO?**
 
 A: All eligible SKO attendees have until 2021-02-05 to register for the event. If you are a new hire and you have not received a registration email, please Slack #sko-virtual-2021. 
