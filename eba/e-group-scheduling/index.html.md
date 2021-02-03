@@ -43,12 +43,12 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Stella Treas, Chief of Staff
 
-* All meeting requests should go through the CoS's Sr. EBA, Jaclyn Grant
+* All meeting requests should go through the CoS's EBA, Katie Gammon
 * Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS
-* Limited availability due to personal commitments from 7-8am PT Mon.-Fri. and from 3-5pm PT Mon.-Wed. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
-* If meetings need to happen before 8am PT or after 6pm PT check with Sr. EBA
-* Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS’s Sr. EBA
-* For meetings outside of set business hours contact the CoS’s Sr. EBA
+* Limited availability due to personal commitments from 7-9am PT Mon.-Fri. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
+* If meetings need to happen before 9am PT or after 5pm PT check with EBA
+* Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS’s EBA
+* For meetings outside of set business hours contact the CoS’s EBA
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 * EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
 * All meeting requests should include an agenda or some sort of reference material
