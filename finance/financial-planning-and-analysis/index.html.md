@@ -137,7 +137,7 @@ GitLab’s FP&A team will participate in a rigorous monthly close process. The c
 
 These dates are based on a 10 day accounting close. FP&A needs two days to do variance analysis, post close and another two days to lock rolling forecasts and complete guidance analysis.
 
-BD=Business Day, so for example BD4 means four business days after the month has ended. Let’s say the month ended on a Thursday. BD1 would be Friday, BD2 would be Saturday, etc.
+BD=Business Day, so for example BD4 means four business days after the month has ended. Let’s say the month ended on a Thursday. BD1 would be Friday, BD2 would be Monday, etc.
 
 #### Close process (today)
 
@@ -231,10 +231,6 @@ Each month after the financials have been published, GitLab reviews all aspects 
 
 The variance analysis will compare department budgets with actual results and examine any material differences between budgeted and actual costs. Additionally, the actuals for expenses will be compared to the quarterly rolling forecast. The expenses are reviewed at the divisional department level, allowing GitLab to measure progress in meeting its Plan (Q1-Q4) or rolling forecast (Q2-Q4). The team also evaluates the accuracy of forecasts, and operating model.
 
-#### Variance Deck details
-
-To be Updated
-
 #### Variance Analysis
 The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processes the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
 
@@ -261,11 +257,11 @@ Our goal is to have revenue and EBIT variance percentage within +/- 2% on a quar
 
 Generally accepted accounting principles (GAAP) does not provide definitive guidance in distinguishing material information from immaterial information. Therefore, GitLab uses a percentage based approach for defining materiality thresholds and can be found below. The [Plan vs Actuals vs Forecast](https://app.periscopedata.com/app/gitlab/525851/Plan-vs-Actuals-vs-Forecast) Sisense dashboard provides the data for the threshold analysis via a color coded legend.
 
-Thresholds Materiality
+###### Thresholds Materiality
 
 We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material. 
 
-Logging Threshold Differences
+###### Logging Threshold Differences
 
 Coming soon...
 
@@ -306,29 +302,32 @@ Once these components are in place, a comparison showing the difference between 
 | ISOdate_CampaignShortName | $000's | $000's | $000's | $000's | $000's |
 
 
-#### Making Changes to the Plan to Optimize for Growth, Efficiency, or Risk
+### Approach to making decisions on controlling expense and investing additional dollars
 
-Predictability is a top priority. If we are exceeding our Plan, the company will have opportunities to make additional investments that fit within our EBIT and free cash flow margin structure. We encourage our team members to actively seek opportunities that will help us grow faster or become more efficient each quarter. Ideally, team members can do this within the budget allocation. If a growth/efficiency initiatives requires additional spend will be evaluated and agreed upon by eGroup, as follows:
+As part of the variance and monthly review process we will evaluate two types of investments:
+**ROI positive investments:** There are an array of reasons we would want to invest in additional resources - here are some examples and eGroup will generate a full list: 
+1. A marketing program is accretive and has not hit its point of marginal return
+1. A channel or alliance program/partner that is working really well and can accelerate ARR so we would add sales/marketing/R&D  resources to accelerate
+1. Have an area of the product to invest in that has direct ARR impact, supports our three year strategy and cannot reprioritize other R&D resources due to skills
+1. There are many other…
 
-1. If the investment will allow us to increase bookings or increase efficiency in the current year or in future periods with a positive return.  
-1. If the investment de-risks future years bookings achievement
-1. If the investment decreases risk / increases compliance per our Enterprise Risk Management program
+**Business Plan drivers to review quarterly:**
+1. Sales capacity for FY23 so that we can spread hiring throughout the year
+1. R&D opportunities so that we can spread hiring throughout the year
 
-#### Out of Budget Business Case
+eGroup will generate a full list of the top items that were not funded in the Plan / would we would want to be gated.
 
-In the event an organization is asking to spend money outside either the [Annual Plan](/handbook/finance/financial-planning-and-analysis/) or [Quarterly Forecast](/handbook/finance/financial-planning-and-analysis/), you should develop a business case showcasing what the spend is for and how GitLab can benefit from spending it.
+**Scenarios that we could be in and will be discussed every month:**
 
-This business case should be completed in conjunction with your [Finance Business Partner (FBP)](/handbook/finance/financial-planning-and-analysis/) to articulate the financial impact of the request.  Below are a few examples of the question you should be trying to answer:
-* What is the purpose of the spend?
-* How much is the spend?
-* What kind of spend is it? (One time, contract, utility-based, etc..)
-* What is the Return on Investment?
-* If the ROI cant be measured what KPI are we trying to move?
-* Can we measure the impact in terms of ROI or KPI improvement?
-* Have we investigated any other options?
+ARR Plan refers to board Plan in which the expense Plan was built.
 
-Together with your FBP , this analysis should be presented to your leader and then to eGroup for Approval.
-
+| Scenario | Action to be taken |
+| ------ | ------ |
+| Behind ARR Plan based on actuals and forecasted pipeline. | Need to slow hiring and control expense on non-revenue generating heads. Potentially redirect dollars to specific areas in sales and marketing to correct the course watching CAC. Decision will be made by eGroup. |
+| On ARR Plan and expense Plan based on actuals and forecasted pipeline. | Need to evaluate ROI positive initiatives against existing spend and reprioritize dollars. For example Alliance is doing really well but we are not ahead of Plan - we would want to invest more in Alliance but need to fund from somewhere else. Decision will be made by eGroup. |
+| On ARR Plan and spending less than Expense Plan based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline. | Review FY23 impact and decide as an eGroup where to invest ahead of FY23 |
 
 ## Investor and Board Communication
 
@@ -378,98 +377,11 @@ Below is a table showing the structure of GitLab departments as they exist in Ne
 |                    |Communications         | | |
 |                    |Awareness                 | | |
 
-
-### Monthly Investor Update
 ****
 
-Each month we send to our investors an update no later than the 10th day following the end of the month. For further reference see our [blog post](/blog/2018/10/17/how-we-keep-investors-in-the-loop/).
-#### Format
-1. Thanks
-1. Asks
-1. Key Metrics
-1. Lowlights
-1. Highlights
-1. Expectations (next month)
+### Quarterly Investor Update Process
 
-#### Process
-1. On the 1st day of the month, the FinOps lead prepares a draft of the previous months investor update in a google document and posts in the #investor-update slack channel.
-1. On the same day the draft is added to the #investor update slack channel, the FinOps lead will `@mention` e-group members with asks for topics related to the investor update agenda.
-1. The e-group members will have no later than the 9th of each month to review and add input.
-1. No later than the 10th of each month the will CEO send the update to the investor mailing list.
-1. Once the investor update is sent to the investor mailing list, the FinOps lead will add the current investor update to the #investor-update slack channel, along with highlight commentary on GitLab's operating metrics.
-
-#### Relevant Locations for Investor Update Process
-
-##### Revenue Model & Metrics Tab within the Financial Model
-
-**1: Sales Metrics 2019 Monthly Metrics**
-* Gross New IACV → New IACV (Revenue Model)
-* Gross Growth IACV → Growth IACV (Line 14 Revenue Model)
-* Expiring Subscriptions gets updated once every 3 months
-* Won Renewal ACV → Renewal ACV (Line 8 Revenue Model)
-* Lost Renewals ACV + Growth Downgrade IACV + Growth Refund IACV + New Refund IACV + New Downgrade IACV → Lost Renewals, Credits, Downgrades (Line 11 Revenue Model)
-* Update new month with % of Lost Renewals, Credits, Downgrades
-* TCV --> filter out Professional Services, sum all relevant information, & in Revenue Model paste number in Line 34 for TCV
-* Double check to see if Revenue model Net IACV = Net IACV in Sales Metrics Sheet
-* Note: ACV on Sales Metrics Sheet will not equal ACV on Revenue Model because of Professional Services in the Sales Metrics Sheet
-
-**2: Sisense**
-* Exit ARR --> Filter data by current MRR month & then sum using (=subtotal(109, ARR column))
-* Retention
-* Licensed Users --> Make sure EDU & OSS are excluded
-* Active Hosts
-* Customer Count By ARR
-
-**3: Metrics Report (SFDC)**
-* Gives an overview of what happened within the stated month
-
-**4: All Pipeline Report (SFDC)**
-* Relevant number is the Grand Total Sum
-* Make sure the month is correct
-
-**5: Late Stage Report (SFDC)**
-* Relevant number is the Grand Total Sum
-* Make sure the month is correct
-
-**6: Orders Processed Report (SFDC)**
-* Ensure that closed deals are updated for the month (Bottom of Funnel Forecast Line 56 - 64)
-
-**7: Revenue Spreadsheet sent from Controller**
-* Non-GAAP Revenue -> Pull grand total and input into Line 29 in Revenue Model
-
-**8: Cash Flow Forecast (Accounting Will Send Over -- typically within the 4th of the Month)**
-* Step 1: Find Ending Balance for Latest Month (Line 60)
-* Step 2: Add to Financial Model Balance Sheet
-
-**9: Pingdom**
-* GitLab.com Availability, Response Time
-
-**10: LTV for Metrics**
-* LTV with DCF Tab (Line 116)
-* Go back to the Metrics Tab (Current Month and 2 Months Prior -- get the average)
-* Put that average number * .90 (GM) in Line 116
-* Pull LTV number into Line 123 & input into Financial Model
-
-**11: BambooHR**
-* To get updated team members number -- check Income Statement Monthly
-* If not updated within IS Monthly, go to BambooHR and pull actuals --> Put new numbers into IS Monthly (Lines 47 - 51)
-
-**12: Zendesk**
-* Step 1: Reporting --> Insights
-* Step 2: Corp Dash - OKR Overview should have the relevant information for Customer Support
-* Put them in the metrics tab (Line 8,9,& 10)
-
-**13: Snowflake**
-* Get GitLab.com Licensed Users --> Filter down by product category (Bronze, Silver, & Gold) --> Get grandtotal of each category and overall
-* Additionally, Add Revenue for each Product in the GitLab.com Model --> Information comes from Revenue spreadsheet listed above (Number 7)
-
-**14: Sales Pipeline Analysis**
-* Model is being updated & TBD
-
-#### Once Metrics & Financial Model Are Completed for Investor Update Process
-* Add relevant numbers to the GitLab.com & GitLab Allocation Model
-* Copy All of Metrics Tab in the Financial Model & Paste it in Static Metrics Sheet
-* *Note:* Remember to remove forecast, format new month to actual (from orange to light blue), copy/paste hyperlinks for names within static sheet, & anything in the previous month that was italicized needs to be back to normal.
+GitLab provides our investors updated information on the state of the business on a quarterly basis. The update includes highlights,lowlights, and what we're focusing on for the next quarter.
 
 ****
 
@@ -617,25 +529,6 @@ Business drivers are the key inputs and activities that drive the operational an
 | **Total**  | **80% of Revenue**  |
 
 
-## Where to find our Models?
-1. GitLab Financial Model:  Google Drive -- FP&A >> Models >> GitLab Financial Model
-2. Revenue Model: Google Drive -- FP&A >> Models >> Revenue Model
-3. Capacity Model(s): Google Drive -- FP&A >> [FBP - Function Owner Folder, i.e S&M] >> Planning >> Capacity Model
-4. Rolling 4 Quarter Forecast sheets: Google Drive -- FP&A>> Planning >> [Current Fiscal Year] >> [Current Fiscal Year] Plan >> [Quarter-Year thru Quarter-Year]]
-5. Rolling 4 Quarter Forecast Feed sheets for Program Spend & Team: Google Drive -- FP&A>> Planning >> Financial Model >> Feed Sheet
-6. Budgets vs. Actuals: Google Drive -- FP&A>> [FBP - Function Owner Folder, i.e S&M]>>  Budget vs. Actuals >> [Current Fiscal Year] >> Dashboard File
-
-## How To Add A New Department into Models
-1. Create new departments in each of the R4QF spreadsheets (Programs & People) feed
-2. Make sure the new department is rolled up into [Department] tab onto both of the feeds. Right now, you would need to add ’New Department’A5:AF! to the [Department] tab because currently it’s only referring to current departments
-3. Add new department to Headcount rollup
-4. Make sure the new department is in the Compensation, Base Salary, Benefits, and T&E tabs of the Capacity model
-5. The New Department needs to be added to the Account Based Department Budgets tab
-6. Ping Financial Analyst in order for the new department to be added in the Allocation Accounts tab and Department Post Allocated Budgets tab in GitLab Financial Model
-7. Everything else should flow through after that
-
-For new department approvals and more detail on the process, please reach out on the #fpanda channel in Slack for desktop procedures.
-
 ## Department Structure
 
 ### Creating New Departments
@@ -668,6 +561,9 @@ A grouping of departments in which specific activities are carried out within Gi
 #### 3. Department
 
 An area of special expertise or responsibility within a GitLab division.
+
+## Adaptive Insights
+We produce all our forecasts and plan within Adaptive Insights. To see more details, [see here](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/adaptive-insights/)
 
 ## Allocation Methodology
 
@@ -773,25 +669,6 @@ The grid highlighted as `Pre-Allocation P&Ls` in the diagram below highlights th
 
 [![alt text](/handbook/finance/financial-planning-and-analysis/allocate.png "P&L Breakout")](https://drive.google.com/drive/folders/1hPZll6nWRk5waMTATJV9f4TojCSTxpCI)
 
-## Misc
-
-### Creating & Updating Models
-
-If you create and/or update to a model that materially impacts it, please make sure to make a quick note of what you did in the [ChangeLog](https://gitlab.com/gitlab-com/finance/blob/master/changelog.md). This is important because it keeps us on all the same page.
-
-**Note: At this time, GitLab use's the term `Division` to describe the makeup of its internal structure. In the future, the plan is to use the term `Function` to describe it's internal structure.**
-
-
-### Updating Budget vs. Actuals
-****
-
-1. Open file: FP&A > Templates > Corporate F&A > Open 'Budget vs. Actual' Blank File GSheet
-*  Please note that Budget vs. Actuals for all departments already exist within the FP&A Shared Drive
-2. Open Netsuite and go to Budget vs. Actual report
-*  Download the spreadsheet and copy & paste into the relevant month (e.g. For March 2019, paste into the March 2019 BvA Tab)
-3. Open Netsuite and go to 'Income Statement Detail with JE name data' report
-*  Copy / paste spreadsheet into the relevant month (e.g. For March 2019, paste into the March 2019 Detail Tab)
-4. Once these spreadsheets are loaded in the spreadsheet, the numbers should auto-populate for the relevant months
 
 ## How to work with us
 
