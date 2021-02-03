@@ -147,7 +147,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
-If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement via the dev escalation process (#getting-help-during-the-release-post-deployment).
+If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement via the dev escalation process (#getting-help-during-the-release-post-assemply).
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important:** Please check beforehand if you have **merge rights** to the www project.
@@ -875,6 +875,9 @@ Below are the types of problems the release post mangers may need help with.
 - Triaging pipeline errors and suggest changes or provide a fix to related merge requests
 - Resolving merge conflicts with the release post
 - Identifying when to engage with other technical teams to resolve upstream problems
+Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor for [on call support](/handbook/on-call/#development-team-on-call-rotation). It is then expected that the technical advisor will respond to the release post manager as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. 
+
+The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
 
 #### Getting Help During the Release Post Assembly
 
