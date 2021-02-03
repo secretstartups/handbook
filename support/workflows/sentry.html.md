@@ -2,10 +2,11 @@
 layout: handbook-page-toc
 title: Sentry
 category: Infrastructure for troubleshooting
-description: How to use Sentry to investigate errors
+description: How to use Sentry to investigate GitLab.com errors
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -19,7 +20,7 @@ description: How to use Sentry to investigate errors
 1. [Log in to Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/).
 1. Enter a query into the search field. For example, the following query would display any errors events encountered by the user with the ID `123456`:
 
-```
+```plaintext
 is:unresolved user.id:123456
 ```
 
@@ -33,3 +34,17 @@ You can then click a specific event to view the Sentry issue for that user.
 
 See the [Sentry guide](https://docs.getsentry.com/hosted/learn/search/) and [this presentation](https://drive.google.com/drive/u/0/search?q=Sentry%20parent:1UT1VKASEzvCzWVX9fDLkYhDju35NxiLT) (GitLab internal only) for more information.
 
+### Searching by Correlation ID
+
+In most cases errors in Sentry can be found by searching using `user.id:`, but this won't always be the case. Sometimes, you may need to search Kibana first to locate the correlation ID that can then be searched for in Sentry.
+
+In the following example, the customer is attempting to [change the notification email for one of their groups](https://docs.gitlab.com/ee/user/profile/notifications.html#group-notification-email-address) but receieves a `500` error when selecting the desired address from the dropdown list. Searching Sentry for their `user.id:` turns up nothing, so we need to do the following to find the `500` in Kibana to get the correlation ID that we'll then provide to Sentry.
+
+1. Add positive filters in Kibana for `json.username` with their GitLab.com username, `json.controller` for `Profiles::NotificationsController`, and `json.status` with `500`.
+1. Using the left-hand side menu add the `json.path`, `json.controller`, `json.status`, and `json.correlation_id` fields to your search results, which should give you results similar to the following if any errors ocurred within your set time range.
+
+   ![Kibana search results](/images/support/correlationid_kibana_results.jpg)
+
+1. Pick a correlation ID value and move over to Sentry to search for it using `correlation_id:`, which should give you a result.
+
+   ![Sentry search results](/images/support/correlationid_sentry_results.jpg)

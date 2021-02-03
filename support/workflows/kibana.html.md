@@ -6,6 +6,7 @@ category: Infrastructure for troubleshooting
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -25,7 +26,7 @@ Knowing *where* to search in Kibana is paramount to getting the proper results. 
 
 ![Changing search index](/images/support/kibana_index-selection.jpg)
 
-For example, if you're trying to track down failed logins you would search the index `pubsub-application-inf-gprd*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
+For example, if you're trying to track down failed logins you would search the index `pubsub-rails-inf-gprd-*`. To search for [`500` errors](/handbook/support/workflows/500_errors.html) involving a controller you'd search in `pubsub-rails-inf-gprd-*`, the default index.
 
 Along with the index, knowing *when* a specific error or event ocurred that you're trying to track down  is important and it's important to keep in mind that Kibana logs on GitLab.com persist for seven days. Kibana allows you to choose relative and absolute time ranges for search results and this can be changed by manipulating the date range:
 
@@ -40,7 +41,6 @@ Each log entry is comprised of a number of `Fields` in which the specific inform
 - `json.controller` - for more on this see the [controller definitions in the GitLab sourcecode](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers/projects)
 - `json.status`
 - `json.path`
-
 
 All available fields are displayed along the left-hand side menu and you can add them to your search results by hovering over each and clicking the `add` button.
 
@@ -107,6 +107,7 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 - Example group: [gitlab-silver](https://gitlab.com/gitlab-silver/)
 
 ##### Enable SSO Enforcement
+
 {:.no_toc}
 
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
@@ -117,6 +118,7 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"true\"` is present, that entry was logged when SSO Enforcement was enabled by the user in the `json.username` field.
 
 ##### Disable SSO Enforcement
+
 {:.no_toc}
 
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
@@ -135,7 +137,7 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 1. Select the correct time filter (top right) - e.g last 30 minutes, 24 hours, or 7 days.
 1. Use the search field to narrow down the results. For example you can search the `gitlab-ee` project for any mention of `error` using the following query:
 
-```
+```plaintext
 "gitlab-ee" AND "error"
 ```
 
@@ -143,8 +145,10 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 
 It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
 
+See the [500 errors workflow](500_errors.html.md) for more information on searching and finding errors on GitLab.com
+
 #### Log Identification
 
-Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana. 
+Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
 
-Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options. 
+Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options.
