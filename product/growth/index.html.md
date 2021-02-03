@@ -193,5 +193,6 @@ In alignment with Gitlab's [RADCIE](/handbook/people-group/directly-responsible-
 | Post-Experiment Analysis | Data Team |
 | Post-Experiment Decision | Growth Product/Engineering |
 | Maintenance | Stage Product/Engineering |
+| Alert creation | Growth Product/Engineering : [How to create a Sisense SQL alert](/handbook/engineering/development/growth/sisense_alert.html) |
 
 
