@@ -44,7 +44,7 @@ In many instances, they have been documented, refined, and revised based on less
 
 We used to have more values, but it was difficult to remember them all, so we condensed them and gave sub-values and created an acronym.
 
-Our values and culture are maintained by our CEO. Everyone is welcome to suggest improvements, please assign MRs to update these values to Sid.
+Everyone is welcome to suggest improvements. Please assign MRs to update these values to our CEO Sid and @mention him in Slack if you work at GitLab Inc. or [on Twitter](https://twitter.com/sytses) if you don't.
 
 #### Sub-values as substantiators
 {:.no_toc}
