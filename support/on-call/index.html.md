@@ -69,7 +69,7 @@ We do 7 days of 8-hour shifts in a follow-the-sun style, based on your location.
 There are several ways to view current and future schedules:
 
 1. On gitlab.io: [View the current and next week's assignments](https://gitlab-com.gitlab.io/support/team/oncall.html)
-1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules#PIQ317K) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
+1. In PagerDuty: View the [Customer Emergencies schedule](https://gitlab.pagerduty.com/schedules) and the [escalation policy](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH)
 1. In Google Calendar, [subscribe to your on-call schedule](https://support.pagerduty.com/docs/schedules-in-apps#section-export-only-your-on-call-shifts)
 
 #### Your first on-call shift
