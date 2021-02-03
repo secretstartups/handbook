@@ -420,14 +420,15 @@ PM contributors are encouraged to use discretion if wanting to add new content b
 
 #### Primary vs Secondary
 
-When creating your content for a Release Post item you'll need to determine if it's a `Primary` or `Secondary` feature. Do this in collaboration with your PMM counterpart and reference this guidance if you're unsure:
+When creating your content for a Release Post item you'll need to determine if it's a `primary` or `secondary` feature. Do this in collaboration with your PMM counterpart and reference this guidance if you're unsure:
 
-A feature should be `Primary` if the feature:
+A feature should be `primary` if the feature:
 
 - Matures a category (post release you'd update the `category maturity` for the category your feature lives within)
 - Is **new**, or a significant improvement - it adds key functionality that did not exist previously or significantly changes existing functionality
 - Has high demand from customers or the wider community (measured by discussion or upvotes on an epic/issue)
 - Feature ties into a current Marketing narrative or campaign
+- All `primary` features should have a corresponding entry in `features.yml` as well as a photo or video in the release post item block.
 
 #### Reviews
 
@@ -550,23 +551,24 @@ Each month a Product Marketing Manager (PMM) will lead the messaging and positio
 
 The messaging lead is responsible for:
 
-- Deciding on the [top three features](#top-three-features)
+- Deciding on the [top three themes](#top-three-features)
 - Writing the blog post [introduction](#introduction)
 - Coordinating with the PMM team to make sure all feature descriptions have [strong messaging](#messaging-review)
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
-#### Identify top three features and themes (18th of the previous month - 11th of the release month)
+#### Identify top three themes and features
 
-This section provides guidance on how to decide on top 3 features or themes and timelines:
+Using some of the tools and links below you can familiarize yourself with the features being delievered in this release, get a sense for which have the potential to be top features included in your intro, and create 3 core themes that will be the anchor your release post intro. 
 
-**Use the handbook guidance below for messaging lead release post preparation and planning. This handbook section is your source of truth from the 18th of the previous month - 11th of the release month.**
+##### Around 18th of previous month
 
-- **Around 18th of previous month**
-  - Join the monthly kick-off call or listen to the recording on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
+  - Join the monthly kick-off call or listen to the recording. You'll find the video on the  on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/watch?v=RNZbWmv3Vq0&list=PL05JrBw4t0Kp4Sv3eCZbZKtmMox3NipN-). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
   - Along with the kick-off call or recording, review the [kick-off call agenda](/direction/kickoff/)  
   - Review the [upcoming releases page](/upcoming-releases/), where features the Directors consider important will be highlighted with the label **HIGHLIGHT**
-- **After 22nd of the previous month**
+
+##### After 22nd of the previous month
+
   - Schedule a meeting with the previous messaging lead to understand best practices
   - Create a tab for the current release in the [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet by duplicating the previous release tab. Make sure to name the new tab according to the current release number and edit the issue filters in the spreadsheet to sort by the current release milestone (otherwise you'll be looking at a list of the previous month's features).
   - Optional: Make a copy of the [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) to fill out as you organize potential themes/features in preparation to circulate your progress for review closer to the release date.
