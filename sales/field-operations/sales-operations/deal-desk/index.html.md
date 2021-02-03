@@ -124,6 +124,25 @@ Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local
 
 Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
+#### Proactive Opportunity Review
+
+In an effort to proactively prevent common order issues (especially those that would require a customer to resign our order form) the Deal Desk team will conduct a manual review of all opps that meet the following criteria: 
+
+- Close Date = Within Current Quarter
+- Net ARR = $100k+ 
+- Opportunity Stage - 4 OR 5 
+
+Team members will review opps in their region each week. We are looking for anything that would prevent the opportunity from booking smoothly, including:
+
+1. Check that quote is built correctly for the opportunity type and route to market (direct, channel, marketplace)
+2. Review quote approval requirements are met
+3. Review IACV / ARR (IACV review through FY21Q1)
+4. Review PO Requirement. If the account requires a PO, chatter the rep with a reminder
+5. Check with rep to determine whether any questions or additional needs, especially if you see something structured oddly on the opp/quote, or if it is a complex deal
+
+**Review Cadence** 
+
+The team will review opps on a monthly basis, as time allows throughout the work week. During the last month of any quarter, the review will be conducted weekly. 
 
 ### IACV + Renewals
 
