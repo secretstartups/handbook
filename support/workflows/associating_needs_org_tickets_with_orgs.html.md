@@ -189,6 +189,15 @@ To associate a user with an organization:
 
 ![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
 
+Note: If a customer raises a ticket to add some users in their organization,
+the users will need to be added in SFDC as Account contacts (via Chatter).
+From there, you can then create the user in Zendesk if you so desire. This is
+not required though, as the Zapier process we have in place should
+auto-associate the user when they first submit a ticket, pending SFDC has them
+as a contact under the organization. If the user does not exist properly in
+SFDC, you can then follow the above process to add a customer to an
+organization.
+
 ### Removing a user from an organization
 
 If you erroneously assigned a user to an incorrect organization, follow these steps to un-assign a user:
