@@ -12,7 +12,7 @@ You can find more information on the [structure and process](/handbook/people-gr
 This quarter we are learning from [Robin Schulman](/company/team/#rschulman). 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="add URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://docs.google.com/presentation/d/e/2PACX-1vTkjuhFvtlpq4XkZWRFcHWuCW3TpVccNHW7OC7vGCiDZm8u7g3TgaZipsfuRK74rs0ODFS4k3lTOxiD/embed?start=false&loop=false&delayms=3000" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 **Q: What has your career journey looked like to date?**
