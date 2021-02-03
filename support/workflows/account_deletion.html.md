@@ -47,7 +47,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
 
      <p>Recently we received and responded to a request to delete your account. As mentioned in our first response, we require positive confirmation of the request in the form of a reply to this message stating that you do want your account deleted. </p>
 
-     <p>We have not yet received that confirmation from you. Please reply to this email to verify that you want your account deleted.</p>
+     <p>We have not yet received that confirmation from you. Please reply to this email to verify that you want your account deleted. If we do not receive a confirmation within the next 7 days, we will close your request.</p>
 
      <p>This email contains a unique key that helps us verify that the owner of this email address made the request. Sending a new email to personal-data-request@gitlab.com will re-initiate this process. You must reply to this email in order to delete your account. </p>
 
